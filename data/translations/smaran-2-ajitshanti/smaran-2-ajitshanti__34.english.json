@@ -1,0 +1,192 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/34",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Ajitanatha and Shantinatha, who burned away every sin through their austerity and are the very wellspring of the whole world's good, are praised here — may they grant me the joy of final liberation.",
+  "recitation": "te taveṇa dhuya-savva-pāvayā, savva-loa-hia-mūla-pāvayā / saṁthuā ajia-saṁti pāyayā, huṁtu me siva-suhāṇa dāyayā.",
+  "wordByWord": [
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "they (the two Jinas, Ajita and Śānti)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. te, nom. pl. masc. of the demonstrative tad ('that')",
+      "notes": "Refers back across the stanza to ajia-saṁti named in pāda c."
+    },
+    {
+      "token": "તવેણ",
+      "translit": "taveṇa",
+      "gloss": "by austerity, through tapas (penance)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava < Skt. tapas ('heat, ascetic discipline'); instrumental sg. ending -eṇa",
+      "notes": "Instrument of purification — links to the 'Jinas purified by tapas' motif of vv.32–34."
+    },
+    {
+      "token": "ધુય",
+      "translit": "dhuya",
+      "gloss": "shaken off, washed away, destroyed",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dhuta/dhūta, past participle of √dhū ('to shake off, remove')",
+      "notes": "Heads the bahuvrīhi 'dhuya-savva-pāvayā' qualifying the Jinas: 'those by whom all sins are shaken off.'"
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva ('all, whole')",
+      "notes": "First occurrence; qualifies pāvayā ('sins')."
+    },
+    {
+      "token": "પાવયા",
+      "translit": "pāvayā",
+      "gloss": "sins, evils",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāvaya < Skt. pāpaka ('sin, evil'); nom./acc. pl. within the compound",
+      "notes": "Sense 1 of a deliberate yamaka (sound-repetition): here pāvayā = pāpaka 'sin'; in pāda b the identical sound carries a different meaning (prāpaka 'bestower')."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, of the whole",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva ('all, entire')",
+      "notes": "Second occurrence; opens the compound savva-loa-hia-mūla-pāvayā ('of all the world')."
+    },
+    {
+      "token": "લોઅ",
+      "translit": "loa",
+      "gloss": "world, all living beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit loa < Skt. loka ('world, people')",
+      "notes": "Hiatus form (intervocalic -k- elided), characteristic of Prakrit."
+    },
+    {
+      "token": "હિઅ",
+      "translit": "hia",
+      "gloss": "welfare, benefit, good",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit hia < Skt. hita ('benefit, what is good')",
+      "notes": "Within compound: 'the welfare of all the world.'"
+    },
+    {
+      "token": "મૂલપાવયા",
+      "translit": "mūlapāvayā",
+      "gloss": "the root-bestowers (the prime source that brings about [welfare])",
+      "partOfSpeech": "compound",
+      "etymology": "mūla (Skt. mūla, 'root, source') + pāvaya (Skt. prāpaka, 'one who causes to attain, bestower'); nom. pl.",
+      "notes": "Sense 2 of the yamaka on pāvayā: here = prāpaka 'bestower/cause,' not pāpaka 'sin.' Whole phrase: 'the root-source bestowing the good of all the world.'"
+    },
+    {
+      "token": "સંથુઆ",
+      "translit": "saṁthuā",
+      "gloss": "(being) praised, well-hymned, eulogized",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saṁstuta, past participle of saṁ + √stu ('to praise fully'); nom. pl.",
+      "notes": "Marks the close of the praise proper: 'thus hymned [are these two].'"
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita(natha), the 2nd Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajia < Skt. Ajita ('the unconquered')",
+      "notes": "Glossary term (preface) — used, not re-defined."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti(natha), the 16th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit saṁti < Skt. Śānti ('peace')",
+      "notes": "Glossary term (preface) — paired with Ajita as the hymn's twin object of praise."
+    },
+    {
+      "token": "પાયયા",
+      "translit": "pāyayā",
+      "gloss": "the foremost ones, the lords/leaders",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāyaya, here taken as Skt. nāyaka/pravara ('leader, foremost'); nom. pl.",
+      "notes": "Reading uncertain (see notes); glossed as an honorific epithet 'the foremost lords' of Ajita-Śānti, sustaining the -ayā end-rhyme of the stanza."
+    },
+    {
+      "token": "હુંતુ",
+      "translit": "huṁtu",
+      "gloss": "may they be, let them become",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit huntu/hontu < Skt. bhavantu, imperative 3rd person pl. of √bhū ('to be, become')",
+      "notes": "Turns eulogy into petition — the optative heart of the verse."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "to me, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. me, enclitic dat./gen. sg. of the 1st-person pronoun (asmad)",
+      "notes": "Makes the prayer personal — the reciter steps into the verse."
+    },
+    {
+      "token": "સિવ",
+      "translit": "siva",
+      "gloss": "śiva — the auspicious final state, i.e. liberation (mokṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śiva ('auspicious, blessed'); in Jain usage a name for the liberated state",
+      "notes": "Opens the compound siva-suhāṇa = 'bliss of liberation.'"
+    },
+    {
+      "token": "સુહાણ",
+      "translit": "suhāṇa",
+      "gloss": "of joys, of bliss",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suha < Skt. sukha ('happiness'); genitive pl. suhāṇa = Skt. sukhānāṁ",
+      "notes": "siva-suhāṇa = śiva-sukha, 'the bliss of mokṣa.'"
+    },
+    {
+      "token": "દાયયા",
+      "translit": "dāyayā",
+      "gloss": "givers, bestowers",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dāyaya < Skt. dāyaka ('giver'), from √dā ('to give'); nom. pl.",
+      "notes": "Predicate of huṁtu: 'may they become the bestowers [of the bliss of liberation].'"
+    }
+  ],
+  "literalTranslation": "They, by austerity, with all sins shaken off; the root-bestowers of the welfare of all the world; thus praised — Ajita and Śānti, the foremost — may they become for me the givers of the bliss of liberation.",
+  "idiomaticTranslation": "By the fire of their austerity they have shaken off every sin, and they are the very wellspring from which the good of all the world flows. So hymned, Ajita and Śānti, foremost of lords — may they be, for me, the givers of śiva-sukha, the bliss of final liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza seals the praise proper and pivots, in its final breath, from eulogy to petition. Its craft lies in a twofold yamaka on the syllables pāvayā: in pāda a it means pāpaka, 'sins' — 'they by whom, through tapas, all sins are shaken off (dhuya)'; in pāda b the identical sound means prāpaka, 'bestower' — 'the root-source (mūla) that brings about the welfare (hia) of all the world (savva-loa).' The single phonic gesture thus binds two complementary truths: the Jinas first purified themselves (sins shaken off), and from that purity flows benefit to all beings. The third pāda gathers them by name — Ajita and Śānti, 'praised' (saṁthuā), 'foremost' (pāyayā) — and the fourth releases the long-held aspiration: huṁtu me… dāyayā, 'may they be, for me, the givers' of siva-suhāṇa, the bliss of liberation. After many stanzas of cosmic, third-person adoration, the lone 'me' lands with force: the worshipper at last asks for himself, and asks not for protection or boon but for mokṣa itself. It advances directly from the preceding stanza's imagery of the tapas-purified Jina, and hands on to the next verse's reflection, 'evaṁ tava bala viulaṁ…' — 'thus, by abundant power of austerity, have I praised the pair.'",
+    "doctrinalContext": "The verse compresses the Jain logic of liberation into one arc: tapas (austerity) effects nirjarā, the shedding of accumulated karma, so that 'all sins are shaken off' — the precondition of the Jinas' own mokṣa. Crucially, when it then prays that they 'be the givers of the bliss of liberation,' Jain doctrine reads 'giver' not as a dispensing deity but as nimitta — the perfected exemplar and refuge whose realized path the devotee makes his own. The Jina bestows śiva-sukha by being the proven road to it. The same austerity that purifies the self is named the 'root' of the whole world's good, uniting self-purification and universal welfare in a single cause.",
+    "practicalRelevance": "Recite this as the moment the praise turns personal. Having extolled the Jinas at length, the worshipper here makes the one petition that matters — not relief from fear or disease, but the bliss of liberation — and silently resolves to walk the very tapas-path that purified them. Let the lone word 'me' fix your own intention toward mokṣa.",
+    "crossReferences": [
+      {
+        "text": "Following verse (v.35): 'evaṁ tava bala viulaṁ, thuaṁ mae ajia saṁti jiṇajualaṁ' — 'thus, with abundant power of tapas, the Ajita–Śānti pair has been praised by me'",
+        "source": "Ajitaśānti Stava, Nandiṣeṇasūri (Anchalgachchha Panch Pratikraman Sutra – Vidhi Sahit)"
+      },
+      {
+        "text": "'tapasā nirjarā ca' — by austerity comes the shedding of karma (Tattvārtha-sūtra 9.3)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the tokens: tapas, √dhū (dhuta), sarva, pāpaka, prāpaka, saṁstuta, śiva, sukha, √bhū (bhavantu), √dā (dāyaka)."
+    },
+    {
+      "title": "Apte, The Practical Sanskrit-English Dictionary (1890), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Senses of śiva ('auspicious/liberation'), sukha, mūla, dāyaka, and saṁstuta to confirm the compound siva-suhāṇa = śiva-sukha."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Pandit Hargovind Das T. Sheth), Comprehensive Prakrit–Hindi Dictionary (archive.org)",
+      "url": "https://archive.org/details/PaiaSaddaMahannavoOCRPlusBookmarks",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms and derivations: tava, loa, hia, suha, huntu/hontu, pāvaya (pāpaka vs. prāpaka), saṁthua, dāyaya."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse text reproduced verbatim from the Anchalgachchha book, including its orthography (single anusvāra forms, hiatus spellings like લોઅ/હિઅ). The stanza's chief difficulty is the yamaka on પાવયા: in pāda a it is read pāpaka ('sins,' object of dhuya), in pāda b as prāpaka ('bestower/source'); this double sense is the intended poetic figure, though some readers gloss pāda b's pāvaya differently. પાયયા (pāyayā) is ambiguous: rendered here as an honorific 'the foremost/lords' (nāyaka/pravara) sustaining the -ayā rhyme; other recensions and chant traditions may vocalize or interpret it otherwise — flagged as uncertain. siva-suhāṇa is taken as śiva-sukha = the bliss of mokṣa. Lexical glosses rest on the three verified dictionaries above; jainqq.org recensions of the hymn (cited in the preface) could not be independently re-fetched in this session (403), so no specific page is asserted from it here."
+}

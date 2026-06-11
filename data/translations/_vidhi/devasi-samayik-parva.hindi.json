@@ -1,0 +1,398 @@
+{
+  "vidhiId": "devasi-samayik-parva",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "title": "सामायिक का समापन — पाँचवाँ व छठा आवश्यक तथा सामायिक पारने की विधि",
+  "summary": "यह विधि सामायिक के पाँचवें आवश्यक (कायोत्सर्ग) और छठे आवश्यक (प्रत्याख्यान) को पूर्ण करने, छह आवश्यकों का स्मरण करने, और अंत में इरियावहियं तथा गुरु-आदेश के साथ सामायिक पारने (समाप्त करने) का क्रम बताती है।",
+  "segments": [
+    {
+      "segmentId": "devasi-samayik-parva/01",
+      "recitation": "दुक्खक्खय कम्मक्खय-निमित्तं करेमि काउस्सग्गं — अन्नत्थ — … सिद्धा सिद्धिं मम दिसंतु",
+      "plainMeaning": "पाँच लोगस्स का कायोत्सर्ग (ध्यानपूर्वक स्थिर खड़े रहना) किया जाता है।",
+      "idiomaticTranslation": "‘दुक्खक्खय कम्मक्खय-निमित्तं करेमि काउस्सग्गं’ कहकर, फिर ‘अन्नत्थ’ सूत्र बोलकर, ‘सिद्धा सिद्धिं मम दिसंतु’ पद तक पूरे पाँच लोगस्स का कायोत्सर्ग करें।",
+      "explanation": "यह पाँचवाँ आवश्यक (कायोत्सर्ग) है; मन में लोगस्स गिनते हुए ‘सिद्धा सिद्धिं मम दिसंतु’ तक ध्यानस्थ रहें।",
+      "ritualTerms": [
+        {
+          "term": "काउस्सग्ग (कायोत्सर्ग)",
+          "gloss": "शरीर की क्रिया त्यागकर ध्यान में स्थिर रहना"
+        },
+        {
+          "term": "अन्नत्थ",
+          "gloss": "कायोत्सर्ग के अनिवार्य अपवाद बताने वाला सूत्र"
+        },
+        {
+          "term": "लोगस्स",
+          "gloss": "चौबीस तीर्थंकरों की स्तुति; कायोत्सर्ग की गणना-इकाई"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/02",
+      "recitation": "(प्रगट लोगस्स बोलें)",
+      "plainMeaning": "अब प्रकट स्वर में लोगस्स बोलकर पाँचवाँ आवश्यक पूरा होता है।",
+      "idiomaticTranslation": "इसके बाद प्रकट लोगस्स बोलें। इस कायोत्सर्ग के साथ ‘कायोत्सर्ग’ नामक पाँचवाँ आवश्यक पूर्ण हुआ; पाँचवाँ आवश्यक करने से शेष रह गए अतिचार भी शुद्ध हो जाते हैं।",
+      "explanation": "कायोत्सर्ग पारकर लोगस्स ऊँचे स्वर में बोला जाता है।",
+      "ritualTerms": [
+        {
+          "term": "लोगस्स",
+          "gloss": "चौबीस तीर्थंकरों की स्तुति"
+        },
+        {
+          "term": "आवश्यक",
+          "gloss": "नित्य की जाने वाली अनिवार्य धर्म-क्रिया"
+        },
+        {
+          "term": "अतियार (अतिचार)",
+          "gloss": "व्रत में लगे दोष/स्खलन"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/03",
+      "recitation": "(एक खमासमण देकर, खड़े होकर आदेश लें)",
+      "plainMeaning": "एक खमासमण देकर खड़े होकर आदेश माँगा जाता है।",
+      "idiomaticTranslation": "फिर एक खमासमण (गुरु को विनयपूर्वक प्रणाम) देकर, खड़े होकर आदेश ग्रहण करें।",
+      "explanation": "यह छठे आवश्यक की अनुमति माँगने की तैयारी है।",
+      "ritualTerms": [
+        {
+          "term": "खमासमण",
+          "gloss": "गुरु को विनयपूर्वक प्रणाम करने की मुद्रा"
+        },
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति/आज्ञा"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/04",
+      "recitation": "इच्छाकारेण संदिस्सह भगवन् ! छट्ठा आवश्यक भणी पच्चक्खाण वांदणा देउंजी ?",
+      "plainMeaning": "शिष्य छठे आवश्यक के लिए वांदणा देने की अनुमति माँगता है।",
+      "idiomaticTranslation": "‘हे भगवन्! आपकी इच्छा हो तो आज्ञा दें — छठे आवश्यक के निमित्त प्रत्याख्यान-वांदणा दूँ?’",
+      "explanation": "यह आदेश द्वादशावर्त वांदणा की ओर ले जाता है।",
+      "ritualTerms": [
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति"
+        },
+        {
+          "term": "वांदणा",
+          "gloss": "द्वादशावर्त गुरु-वंदन"
+        },
+        {
+          "term": "पच्चक्खाण (प्रत्याख्यान)",
+          "gloss": "आगामी काल के लिए त्याग/नियम का व्रत"
+        },
+        {
+          "term": "आवश्यक",
+          "gloss": "नित्य की अनिवार्य धर्म-क्रिया"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/05",
+      "recitation": "देह",
+      "plainMeaning": "गुरु अनुमति देते हैं — ‘दो’।",
+      "idiomaticTranslation": "गुरु उत्तर देते हैं: ‘देह’ — अर्थात् ‘वांदणा दीजिए’।",
+      "explanation": "यह गुरु की स्वीकृति है।",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/06",
+      "recitation": "इच्छं",
+      "plainMeaning": "शिष्य ‘इच्छं’ कहकर आज्ञा स्वीकार करता है।",
+      "idiomaticTranslation": "शिष्य कहता है ‘इच्छं’ — ‘जैसी आपकी आज्ञा’।",
+      "explanation": "",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/07",
+      "recitation": "(दो वांदणा दें)",
+      "plainMeaning": "अब दो वांदणा दिए जाते हैं।",
+      "idiomaticTranslation": "द्वादशावर्त वांदणा से गुरु को दो बार वंदन करें।",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "वांदणा",
+          "gloss": "द्वादशावर्त गुरु-वंदन"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/08",
+      "recitation": "इच्छकारी भगवन् ! पसाओ करी, पच्चक्खाण नी आश करावोजी",
+      "plainMeaning": "शिष्य गुरु से प्रत्याख्यान करवाने की प्रार्थना करता है।",
+      "idiomaticTranslation": "‘हे भगवन्! कृपा करके, प्रसन्न होकर मुझे प्रत्याख्यान (त्याग-व्रत) करवाइए।’",
+      "explanation": "यहाँ ‘आश’ का अर्थ प्रत्याख्यान करवाने की आज्ञा/प्रार्थना है।",
+      "ritualTerms": [
+        {
+          "term": "पच्चक्खाण (प्रत्याख्यान)",
+          "gloss": "त्याग/नियम का व्रत"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/09",
+      "recitation": "(गुरु-मुख से चउविहार प्रत्याख्यान लें)",
+      "plainMeaning": "गुरु आदि के मुख से चउविहार प्रत्याख्यान लेकर छठा आवश्यक पूरा होता है।",
+      "idiomaticTranslation": "गुरु के मुख से चउविहार प्रत्याख्यान लें; उनके अभाव में किसी ज्ञानवृद्ध के मुख से, और उनके भी अभाव में स्वयं ही चउविहार का प्रत्याख्यान लें। इस प्रत्याख्यान के साथ ‘प्रत्याख्यान’ नामक छठा आवश्यक पूर्ण हुआ; इस आवश्यक से प्रत्याख्यान की शुद्धि होती है।",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "चउविहार",
+          "gloss": "चारों प्रकार के आहार (अशन-पान-खादिम-स्वादिम) का त्याग"
+        },
+        {
+          "term": "पच्चक्खाण (प्रत्याख्यान)",
+          "gloss": "त्याग/नियम का व्रत"
+        },
+        {
+          "term": "आवश्यक",
+          "gloss": "नित्य की अनिवार्य धर्म-क्रिया"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/10",
+      "recitation": "(खड़े रहकर कहें)",
+      "plainMeaning": "अब खड़े होकर बोला जाता है।",
+      "idiomaticTranslation": "फिर खड़े रहकर (छह आवश्यकों का स्मरण) कहें।",
+      "explanation": "",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/11",
+      "recitation": "पहले सामायिक १, दूजे चउविसत्थो २, तीजे वांदणा ३, चोथे पडिक्कमणुं ४, पांचमे काउसग्ग ५, छट्ठे पच्चक्खाण ६, ए छ आवश्यक पूरा थया",
+      "plainMeaning": "छह आवश्यकों के नाम क्रम से गिनाए जाते हैं।",
+      "idiomaticTranslation": "‘पहले सामायिक १, दूसरे चउविसत्थो २, तीसरे वांदणा ३, चौथे पडिक्कमणुं ४, पाँचवें कायोत्सर्ग ५, छठे प्रत्याख्यान ६ — ये छह आवश्यक पूरे हुए।’",
+      "explanation": "छहों आवश्यकों की पूर्णता का क्रमबद्ध स्मरण।",
+      "ritualTerms": [
+        {
+          "term": "सामायिक",
+          "gloss": "समता का व्रत (पहला आवश्यक)"
+        },
+        {
+          "term": "आवश्यक",
+          "gloss": "नित्य की अनिवार्य धर्म-क्रिया"
+        },
+        {
+          "term": "काउसग्ग (कायोत्सर्ग)",
+          "gloss": "ध्यान में स्थिर रहना (पाँचवाँ आवश्यक)"
+        },
+        {
+          "term": "पच्चक्खाण (प्रत्याख्यान)",
+          "gloss": "त्याग का व्रत (छठा आवश्यक)"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/12",
+      "recitation": "(छह आवश्यकों का स्मरण करें)",
+      "plainMeaning": "इस प्रकार छह आवश्यकों का स्मरण कर लिया जाता है।",
+      "idiomaticTranslation": "इसी प्रकार छह आवश्यकों को मन में स्मरण कर लें।",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "आवश्यक",
+          "gloss": "नित्य की अनिवार्य धर्म-क्रिया"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/13",
+      "recitation": "सामायिक पारवानी विधि",
+      "plainMeaning": "यहाँ से सामायिक पूर्ण करने की विधि आरंभ होती है।",
+      "idiomaticTranslation": "सामायिक पारने (पूर्ण करने) की विधि।",
+      "explanation": "यह एक शीर्षक है, चांत्य उच्चारण नहीं।",
+      "ritualTerms": [
+        {
+          "term": "सामायिक",
+          "gloss": "समता का व्रत"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/14",
+      "recitation": "(एक खमासमण दें)",
+      "plainMeaning": "एक खमासमण दिया जाता है।",
+      "idiomaticTranslation": "फिर एक खमासमण (विनय-प्रणाम) देकर —",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "खमासमण",
+          "gloss": "गुरु को विनयपूर्वक प्रणाम करने की मुद्रा"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/15",
+      "recitation": "इच्छाकारेण संदिस्सह भगवन् ! सचित्तने संघट्टे इरियावहियं पडिक्कमुंजी ?",
+      "plainMeaning": "सजीव वस्तु के स्पर्श की आलोचना हेतु इरियावहियं की अनुमति माँगी जाती है।",
+      "idiomaticTranslation": "‘हे भगवन्! आज्ञा हो तो — सचित्त (सजीव वस्तु) के संघट्टन (स्पर्श) के दोष का इरियावहियं से पडिक्कमण करूँ?’",
+      "explanation": "यह आदेश इरियावहियं सूत्र की ओर ले जाता है।",
+      "ritualTerms": [
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति"
+        },
+        {
+          "term": "इरियावहियं",
+          "gloss": "चलने-फिरने में हुई जीव-विराधना की आलोचना/प्रतिक्रमण"
+        },
+        {
+          "term": "सचित्त",
+          "gloss": "सजीव (जीव-युक्त) वस्तु"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/16",
+      "recitation": "(इरियावहियं पडिक्कमण, एक लोगस्स का काउस्सग्ग, फिर प्रगट लोगस्स)",
+      "plainMeaning": "इरियावहियं कर एक लोगस्स का कायोत्सर्ग करके प्रकट लोगस्स बोला जाता है।",
+      "idiomaticTranslation": "आदेश लेकर ‘इरियावहियं’ का पडिक्कमण करें, एक लोगस्स का कायोत्सर्ग करें, और फिर प्रकट लोगस्स बोलें।",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "इरियावहियं",
+          "gloss": "गमनागमन में जीव-विराधना की आलोचना"
+        },
+        {
+          "term": "काउस्सग्ग (कायोत्सर्ग)",
+          "gloss": "ध्यान में स्थिर रहना"
+        },
+        {
+          "term": "लोगस्स",
+          "gloss": "चौबीस तीर्थंकरों की स्तुति"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/17",
+      "recitation": "(एक खमासमण देकर, खड़े होकर आदेश लें)",
+      "plainMeaning": "एक खमासमण देकर खड़े होकर आदेश लिया जाता है।",
+      "idiomaticTranslation": "फिर एक खमासमण देकर, खड़े होकर आदेश ग्रहण करें।",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "खमासमण",
+          "gloss": "गुरु को विनयपूर्वक प्रणाम"
+        },
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/18",
+      "recitation": "इच्छाकारेण संदिस्सह भगवन् ! सामायिक पारुं ?",
+      "plainMeaning": "शिष्य सामायिक पारने की अनुमति माँगता है।",
+      "idiomaticTranslation": "‘हे भगवन्! आज्ञा हो तो — सामायिक पारूँ (पूर्ण करूँ)?’",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "सामायिक",
+          "gloss": "समता का व्रत"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/19",
+      "recitation": "पुणोवि कायव्वं",
+      "plainMeaning": "गुरु कहते हैं — ‘यह पुनः भी करने योग्य है’।",
+      "idiomaticTranslation": "गुरु उत्तर देते हैं: ‘पुणोवि कायव्वं’ — ‘यह बार-बार करने योग्य है’।",
+      "explanation": "गुरु सामायिक के पुनः अभ्यास की प्रेरणा देते हैं।",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/20",
+      "recitation": "यथाशक्ति",
+      "plainMeaning": "शिष्य ‘यथाशक्ति’ कहता है।",
+      "idiomaticTranslation": "शिष्य कहता है ‘यथाशक्ति’ — ‘अपनी शक्ति के अनुसार’।",
+      "explanation": "",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/21",
+      "recitation": "(फिर खमासमण देकर, खड़े होकर कहें)",
+      "plainMeaning": "फिर खमासमण देकर खड़े होकर कहा जाता है।",
+      "idiomaticTranslation": "पुनः खमासमण देकर, खड़े होकर कहें —",
+      "explanation": "",
+      "ritualTerms": [
+        {
+          "term": "खमासमण",
+          "gloss": "गुरु को विनयपूर्वक प्रणाम"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/22",
+      "recitation": "इच्छाकारेण संदिस्सह भगवन् ! सामायिक पार्युं ?",
+      "plainMeaning": "शिष्य पूछता है कि सामायिक पूर्ण हुआ या नहीं।",
+      "idiomaticTranslation": "‘हे भगवन्! आज्ञा हो — सामायिक पार लिया (पूर्ण हो गया)?’",
+      "explanation": "यहाँ भूतकाल में पूछा जा रहा है कि सामायिक पूर्ण हुआ।",
+      "ritualTerms": [
+        {
+          "term": "सामायिक",
+          "gloss": "समता का व्रत"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/23",
+      "recitation": "आराहियं आयारो न मुत्तव्वो",
+      "plainMeaning": "गुरु कहते हैं — आराधना हुई, आचार का त्याग न करें।",
+      "idiomaticTranslation": "गुरु उत्तर देते हैं: ‘आराहियं आयारो न मुत्तव्वो’ — ‘आराधना हो गई; शुद्ध आचार का त्याग न करना’।",
+      "explanation": "",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/24",
+      "recitation": "तहत्ति",
+      "plainMeaning": "शिष्य ‘तहत्ति’ कहकर स्वीकार करता है।",
+      "idiomaticTranslation": "शिष्य कहता है ‘तहत्ति’ — ‘ऐसा ही है, स्वीकार है’।",
+      "explanation": "",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "devasi-samayik-parva/25",
+      "recitation": "(एक खमासमण देकर, उकड़ू आसन में बैठकर आदेश लें)",
+      "plainMeaning": "एक खमासमण देकर उकड़ू आसन में बैठकर आदेश लिया जाता है।",
+      "idiomaticTranslation": "एक खमासमण देकर, उभडक (उकड़ू) आसन में नीचे बैठकर आदेश ग्रहण करें।",
+      "explanation": "‘उभडक आसन’ अर्थात् पंजों के बल उकड़ू बैठने की मुद्रा।",
+      "ritualTerms": [
+        {
+          "term": "खमासमण",
+          "gloss": "गुरु को विनयपूर्वक प्रणाम"
+        },
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-samayik-parva/26",
+      "recitation": "इच्छाकारेण संदिस्सह भगवन् !",
+      "plainMeaning": "शिष्य ‘इच्छाकारेण संदिस्सह भगवन्’ कहकर आदेश आरंभ करता है।",
+      "idiomaticTranslation": "‘हे भगवन्! आपकी इच्छा हो तो आज्ञा दें —’",
+      "explanation": "यह आदेश-वाक्य का आरंभ है; आगे का अनुरोध इसके बाद जुड़ता है।",
+      "ritualTerms": [
+        {
+          "term": "आदेश",
+          "gloss": "गुरु से माँगी जाने वाली अनुमति"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (Anchalgachchha / Vidhipaksha edition)",
+      "url": "",
+      "type": "reference",
+      "consultedFor": "Authoritative vidhi sequence, ritual-term placement (kāyotsarga, ādeśa, vāndaṇā, prat­yākhyāna) and verbatim native segments for the Devasi sāmāyika conclusion."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Spoken ādeśa/formula lines (segments 04–06, 08, 11, 15, 18–20, 22–24, 26) are transliterated verbatim from the native Gujarati/Prakrit utterance into Devanagari so a Hindi devotee can chant them; pure procedural directions give a bracketed Devanagari cue. In segment 08, ‘આશ’ is read as the request to administer the pratyākhyāna (ādeśa/ājñā), consistent with the surrounding ‘pratyākhyāna karāvojī’ context; this reading is standard but the exact lexical form is not separately glossed in the supplied KB. No steps, counts, or declarations were added beyond the native text. The source book has no stable public URL in the KB, so the url field is left empty rather than fabricated."
+}

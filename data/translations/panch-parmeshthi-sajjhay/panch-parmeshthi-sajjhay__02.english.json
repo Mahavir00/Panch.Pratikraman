@@ -1,0 +1,153 @@
+{
+  "shlokaId": "panch-parmeshthi-sajjhay/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The perfected, fully-liberated souls (Siddhas) are my blessing, my refuge, and the ones I praise — and so I let go of my sin.",
+  "recitation": "siddhāya maṅgalaṁ mujjha, siddhāya mujjha devayā; siddhāya kittiyaṁ tāṇaṁ, vosirāmi tti pāvagaṁ.",
+  "wordByWord": [
+    {
+      "token": "સિદ્ધાય",
+      "translit": "siddhāya",
+      "gloss": "the Siddha (here, the perfected liberated soul) — as the locus of blessing",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. siddha < Skt. siddha, 'one who is accomplished/perfected'; the -āya ending is the dative–genitive singular ('to/for the Siddha'), here functioning as the verse's named subject.",
+      "notes": "First of three occurrences. Note the verse reads siddhāya (-āya), not the nominative siddhā of the standard Chattāri-maṅgala; the book's reading is kept verbatim (see notes)."
+    },
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "blessing, auspiciousness (that which removes obstacles)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. maṅgala = Skt. maṅgala; nominative-accusative neuter singular."
+    },
+    {
+      "token": "મુજઝ",
+      "translit": "mujjha",
+      "gloss": "my, to me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. mujjha / majjha < Skt. mama / mahyam, genitive–dative of the first person.",
+      "notes": "Spelt મુજઝ in the book (variant of majjha); preserved verbatim per orthography rules."
+    },
+    {
+      "token": "સિદ્ધાય",
+      "translit": "siddhāya",
+      "gloss": "the Siddha — as the object of devotion",
+      "partOfSpeech": "invocation",
+      "etymology": "Repetition of siddha (see above) opening the second pāda.",
+      "notes": "Second occurrence; the anaphora (Siddha… Siddha… Siddha) is the verse's structural pulse."
+    },
+    {
+      "token": "મુજઝ",
+      "translit": "mujjha",
+      "gloss": "my",
+      "partOfSpeech": "pronoun",
+      "etymology": "See above; repeated.",
+      "notes": "Second occurrence; word-order inverts to 'siddhāya mujjha devayā' for the metre."
+    },
+    {
+      "token": "દેવયા",
+      "translit": "devayā",
+      "gloss": "deity, object of devotion/refuge",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. devayā < Skt. devatā, 'divinity'; here a worthy ideal of refuge, not a favour-granting worldly god.",
+      "notes": "Pointed contrast: a bodiless, desireless Siddha as one's 'devatā' redefines deity as a spiritual ideal."
+    },
+    {
+      "token": "સિદ્ધાય",
+      "translit": "siddhāya",
+      "gloss": "the Siddha — as the one whose glory is proclaimed",
+      "partOfSpeech": "invocation",
+      "etymology": "Third repetition of siddha.",
+      "notes": "Third occurrence; opens the praise (kīrtana) pāda."
+    },
+    {
+      "token": "કિત્તિયં",
+      "translit": "kittiyaṁ",
+      "gloss": "praised, proclaimed, glorified",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. kittiya < Skt. kīrtita, past participle of √kīrt 'to praise, proclaim'; nom.-acc. neuter.",
+      "notes": "Attested in Sheth, Pāia-sadda-mahaṇṇavo under kittiya = praśasta/prasiddha (praised, renowned)."
+    },
+    {
+      "token": "તાણં",
+      "translit": "tāṇaṁ",
+      "gloss": "of them (their) — i.e. the glory belonging to the Siddhas",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. tāṇaṁ < Skt. teṣāṁ, genitive plural of the demonstrative tad.",
+      "notes": "Following the preface gloss (tāṇaṁ = teṣāṁ). A homophonous reading tāṇaṁ < Skt. trāṇa ('refuge') is grammatically possible and doctrinally apt here; flagged in notes, not adopted against the established gloss."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I cast off, I renounce, I let go",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. vosirāmi < Skt. vyutsṛjāmi, 1st person sg. of vi-ut-√sṛj 'to abandon, relinquish'; the same verb that frames kāyotsarga ('abandonment of the body').",
+      "notes": "The performative 'I' makes the verse an act, not a statement: praise issues directly in renunciation."
+    },
+    {
+      "token": "ત્તિ",
+      "translit": "tti",
+      "gloss": "thus, so (quotative marker)",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. tti < Skt. iti, the quotative/concluding particle 'thus'.",
+      "notes": "Binds the praise to the renunciation: '…so I cast off sin.'"
+    },
+    {
+      "token": "પાવગં",
+      "translit": "pāvagaṁ",
+      "gloss": "sin, demerit, karmic stain",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. pāvaga / pāva < Skt. pāpaka / pāpa, 'evil, sin'; nom.-acc. neuter singular.",
+      "notes": "The -ga is an Apabhraṁśa-flavoured suffix on pāva; the book's spelling is kept."
+    }
+  ],
+  "literalTranslation": "To the Siddha, blessing be mine; the Siddha is my deity; of the Siddha the glory is proclaimed — thus I cast off sin.",
+  "idiomaticTranslation": "The liberated, perfected souls are my blessing; the liberated souls are the deity I take refuge in; theirs is the glory I proclaim — and proclaiming it, I cast off my sin.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the opening verse enthroned the Arihanta — the omniscient victor who still walks the earth and teaches — this verse lifts the gaze one rung higher, to the Siddha: the soul that has shed even the body and the four aghātiya karmas, and rests bodiless and changeless at the universe's summit. The fixed frame ('blessing… deity… their glory proclaimed… thus I cast off sin') is unchanged; only the name moves from the embodied teacher to the consummated goal. That single substitution carries the whole doctrinal weight. The Arihanta is what the path looks like in action; the Siddha is what the path arrives at. To call a desireless, formless Siddha one's 'devayā' (devatā) is the verse's quiet polemic: the true deity is not a giver of worldly boons but the finished state of one's own soul. The triple anaphora — siddhāya… siddhāya… siddhāya — works like a steadying drumbeat, fixing the mind on a single object three times before releasing it into action. And the action is vosirāmi: 'I cast off.' The verse does not merely admire liberation; it rehearses it. Praising the karma-free one, the reciter performs in miniature the very thing the Siddha has perfected — the shedding (vyutsarga) of what binds. The closing 'tti pāvagaṁ' seals praise to renunciation: kīrtana is not sentiment but a lever that pries the soul loose from pāpa. Read against verse 1, the movement is deliberate — from the living guide to the realized end — preparing the descent in verse 3 to the Ācārya, the one who leads others along this same road.",
+    "doctrinalContext": "The Siddha embodies mokṣa as Jainism defines it: total nirjarā of all eight karma-prakṛtis, manifestation of the ananta-catuṣṭaya (infinite knowledge, perception, bliss, and energy), and final residence at the lokāgra (Siddhaśilā) with no further embodiment or rebirth. Naming the Siddha as both refuge and the praised one ties this verse's vosirāmi to that very ideal: the casting-off of pāpa here is the householder's small enactment of the complete shedding the Siddha has achieved. The shared verb vyutsṛj (vosirāmi) is precisely the term of kāyotsarga, so to invoke a *bodiless* perfected soul while declaring 'I let go' aligns word, ideal, and act — the goal contemplated is detachment from the very body one is renouncing.",
+    "practicalRelevance": "Reciting this in the closing study-portion, the practitioner holds before the mind not a teacher's voice (verse 1) but the silent, finished state — a deliberate exercise in detachment from body and circumstance. The takeaway is concrete: praise of the liberated is meant to *do* something — each 'vosirāmi' is an invitation to actually release a held grievance, craving, or fault, treating veneration as the first motion of letting go.",
+    "crossReferences": [
+      {
+        "text": "Chattāri-maṅgalaṁ: 'siddhā maṅgalaṁ' (the Siddhas are auspicious)",
+        "source": "Traditional Jain maṅgala formula (Āvaśyaka tradition)"
+      },
+      {
+        "text": "Navkāra Mantra, 2nd pada: 'namo siddhāṇaṁ' (homage to the Siddhas)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Tattvārtha-sūtra ch. 10 on mokṣa (cessation of all karma; ūrdhva-gati to lokānta)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Siddha (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Siddha_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Definition of the Siddha as a wholly liberated, karma-free, bodiless soul and the Jain conception of godhood as the soul's perfected state."
+    },
+    {
+      "title": "Ṇamōkāra (Navkāra) Mantra",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Placement of the Siddha as the second Parameṣṭhin ('namo siddhāṇaṁ') and the standard ordering of the five supreme beings."
+    },
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "The repentance/renunciation function (casting off pāpa) and the kāyotsarga/vyutsarga context of the closing refrain."
+    },
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit Dictionary)",
+      "url": "",
+      "type": "dictionary",
+      "consultedFor": "Glosses for kittiya (= Skt. kīrtita, 'praised/renowned'), vosirāmi (= vyutsṛjāmi), tāṇaṁ (teṣāṁ; cf. trāṇa), and pāvaga (= pāpaka)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The book reads siddhāya (dative–genitive -āya) rather than the nominative siddhā found in the common Chattāri-maṅgala and in verse 1's 'arihantā/arihantā'; the verbatim reading is preserved and not normalized — it may be metrical or a dative ('to the Siddha be blessing'). tāṇaṁ is glossed as teṣāṁ ('of them/their') per the established preface gloss; a homophonous tāṇaṁ < trāṇa ('refuge') is grammatically and doctrinally plausible in a Parameṣṭhi praise-verse and is noted as an alternative, not adopted. mujjha (for majjha) and the spelling મુજઝ, along with the period before the refrain, are kept verbatim per the orthography rules. The sutra-level question of the absent fifth (Sādhu) Parameṣṭhin is addressed in the preface and not repeated here."
+}

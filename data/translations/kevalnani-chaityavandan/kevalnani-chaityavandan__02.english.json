@@ -1,0 +1,186 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse simply names more of the awakened teachers of the long-past age — Sutejas, Svami, Munisuvrata, Sumati, Shivagati, Astanga, Nemishvara, Anila and Yashodhara — and tells you to hold them in your mind and honour them.",
+  "recitation": "sutejasvāmī munisuvrata jāṇī, sumatine śivagati pañcama nāṇī. astāṅga nemīsara anila te jāṇī, yaśodhara sevo manamāṁhi āṇī.",
+  "wordByWord": [
+    {
+      "token": "સુતેજસ્વામી",
+      "translit": "sutejasvāmī",
+      "gloss": "Sutejas (and) Svami — the tenth and eleventh Jinas of the past-age set of twenty-four",
+      "partOfSpeech": "compound",
+      "etymology": "Coalesced proper names: sutejas ('one of fine radiance', su- 'good' + tejas 'lustre') + svāmī ('lord, master', from sva- 'own').",
+      "notes": "Read as two successive past-age Jina-names telescoped by the metre, not one figure."
+    },
+    {
+      "token": "મુનિસુવ્રત",
+      "translit": "munisuvrata",
+      "gloss": "Munisuvrata — the twelfth past-age Jina (a name also borne by the 20th Jina of the present age)",
+      "partOfSpeech": "invocation",
+      "etymology": "muni ('sage') + su- ('good') + vrata ('vow') = 'of excellent monastic vows'.",
+      "notes": "Here it denotes the homonymous Jina of the atīta caubīsī, not the present-age Munisuvrata."
+    },
+    {
+      "token": "જાણી",
+      "translit": "jāṇī",
+      "gloss": "having recognized / knowing (them)",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati gerund/absolutive from √jāṇ- (< Skt. √jñā 'to know'); a recurring rhyme-word of this dhāla.",
+      "notes": "Functions as a devotional refrain: 'knowing/acknowledging' each named Jina."
+    },
+    {
+      "token": "સુમતિને",
+      "translit": "sumatine",
+      "gloss": "and Sumati — the thirteenth past-age Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name sumati ('good mind/wisdom', su- + mati 'thought') + Gujarati postposition -ne (accusative/dative 'to', here connective 'and').",
+      "notes": "Token splits as sumati + -ne; -ne marks the named Jina as the object of veneration."
+    },
+    {
+      "token": "શિવગતિ",
+      "translit": "śivagati",
+      "gloss": "Shivagati — the fourteenth past-age Jina",
+      "partOfSpeech": "noun",
+      "etymology": "śiva ('auspicious, liberation') + gati ('goal, course') = 'whose course is to liberation'.",
+      "notes": ""
+    },
+    {
+      "token": "પંચમ",
+      "translit": "pañcama",
+      "gloss": "fifth",
+      "partOfSpeech": "adj",
+      "etymology": "Ordinal of pañca ('five').",
+      "notes": "Qualifies nāṇī: the 'fifth knowledge' is kevala-jñāna (omniscience), last of the five jñānas."
+    },
+    {
+      "token": "નાણી",
+      "translit": "nāṇī",
+      "gloss": "knowers (of the fifth knowledge), i.e. the omniscient ones",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Old-Gujarati nāṇī (< Skt. jñānī 'knower'); nāṇa = jñāna.",
+      "notes": "'pañcama nāṇī' is an epithet for the just-named Jinas — possessors of kevala-jñāna."
+    },
+    {
+      "token": "અસ્તાંગ",
+      "translit": "astāṅga",
+      "gloss": "Astanga — the fifteenth past-age Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Proper name; transmitted variously (Astāga/Astāṅga) in the past-caubīsī lists.",
+      "notes": "Spelling kept verbatim from the book."
+    },
+    {
+      "token": "નેમીસર",
+      "translit": "nemīsara",
+      "gloss": "Nemishvara — the sixteenth past-age Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "nemi ('rim of a wheel') + īsara (< Skt. īśvara 'lord') = 'Lord Nemi'.",
+      "notes": "The past-age Nemi, distinct from Neminātha (Ariṣṭanemi), the 22nd Jina of the present age."
+    },
+    {
+      "token": "અનિલ",
+      "translit": "anila",
+      "gloss": "Anila — the seventeenth past-age Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "anila ('wind, air'); a Jina-name used in both past and future caubīsī rosters.",
+      "notes": ""
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those / them",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative te (< Skt. te 'those'), gathering the three just-named Jinas.",
+      "notes": ""
+    },
+    {
+      "token": "જાણી",
+      "translit": "jāṇī",
+      "gloss": "having recognized / knowing",
+      "partOfSpeech": "verb",
+      "etymology": "Repeat of the dhāla's refrain absolutive from √jāṇ- (< √jñā).",
+      "notes": "Second occurrence, reinforcing the litany rhythm."
+    },
+    {
+      "token": "યશોધર",
+      "translit": "yaśodhara",
+      "gloss": "Yashodhara — the eighteenth past-age Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "yaśas ('glory') + dhara ('bearer') = 'bearer of glory'.",
+      "notes": ""
+    },
+    {
+      "token": "સેવો",
+      "translit": "sevo",
+      "gloss": "serve / worship (them)!",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati imperative from √sev- (< Skt. √sev 'to serve, attend, venerate').",
+      "notes": "Turns the list from naming to a direct devotional command."
+    },
+    {
+      "token": "મનમાંહિ",
+      "translit": "manamāṁhi",
+      "gloss": "in the mind / within the heart",
+      "partOfSpeech": "adverb",
+      "etymology": "mana ('mind', < Skt. manas) + māṁhi ('within', Old Gujarati locative postposition).",
+      "notes": ""
+    },
+    {
+      "token": "આણી",
+      "translit": "āṇī",
+      "gloss": "having brought (them in)",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati absolutive from √āṇ- (< Skt. ā-√nī 'to bring'); rhymes with jāṇī / nāṇī.",
+      "notes": "'manamāṁhi āṇī sevo' = bring them into the mind and venerate them."
+    }
+  ],
+  "literalTranslation": "Knowing Sutejas and Svami, and Munisuvrata; knowing Sumati and Shivagati — possessors of the fifth knowledge (omniscience); knowing those — Astanga, Nemishvara and Anila — bringing Yashodhara into the mind, serve them.",
+  "idiomaticTranslation": "Acknowledge Sutejas and Svami, and Munisuvrata; acknowledge Sumati and Shivagati — Jinas perfected in the fifth knowledge, omniscience itself. Know, too, Astanga, Nemishvara and Anila; and Yashodhara — gather them all into your heart and serve them.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse carries the past-age roll-call forward from the previous stanza's ninth Jina (Damodara) to the eighteenth, naming Sutejas, Svami, Munisuvrata, Sumati, Shivagati, Astanga, Nemishvara, Anila and Yashodhara. Its craft lies in the triple rhyme jāṇī … nāṇī … jāṇī … āṇī, which threads the names onto a single chant-able cord and lets a reciter move through nine Jinas in two lines without losing the metre. The poet packs Sutejas and Svami into one breath-word (sutejasvāmī) precisely so the line will scan — a metrical telescoping, not a single deity. The hinge of the verse is the epithet pañcama nāṇī, 'knowers of the fifth knowledge': having merely listed names, the poet pauses to remind the listener what unites them — every one is a kevalī, an omniscient one, so the list is not a string of unfamiliar syllables but a parade of fully awakened minds. Two cautions a careful reciter should hold: this Nemishvara is the past-age Nemi, not Ariṣṭanemi the twenty-second Jina of our own age; and Munisuvrata here likewise shares only a name with the present-age figure. The stanza then breaks its own pattern in the final foot. Naming gives way to imperative — sevo, 'serve' — and the manner is specified: manamāṁhi āṇī, 'bringing them into the mind.' The verse thus completes a small arc within the larger litany: from recognition (jāṇī) to interiorization (āṇī) to active veneration (sevo).",
+    "doctrinalContext": "The pivot pañcama nāṇī rests on the Jain doctrine of five knowledges (mati, śruta, avadhi, manaḥparyāya, kevala); the fifth, kevala-jñāna, is complete, objectless-of-limitation omniscience, and its attainment is what constitutes a Jina. By tagging the named figures as 'fifth-knowledge knowers,' the verse affirms that Tīrthaṅkaras of vanished ages are doctrinally identical in realization to those of our own — omniscience does not vary by epoch. The closing manamāṁhi āṇī sevo expresses bhāva-pūjā: mental, image-free veneration in which the worshipper installs the Jina within the heart, the inward counterpart of the caitya-vandana's outward bowing.",
+    "practicalRelevance": "Recited at dawn, the line asks for more than running over names: at pañcama nāṇī the reciter should register that each figure is omniscient and worthy of homage, and at manamāṁhi āṇī sevo should actually 'bring them in' — visualize and bow inwardly to each Jina rather than chant by rote. It trains attentive, heartfelt recitation over mechanical speed.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.9–1.30 (the fivefold division of jñāna, culminating in kevala)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 1.3 (kevala-jñāna as the highest of the five right-knowledges)",
+        "source": "Hemacandra, tr. Helen M. Johnson (Gaekwad Oriental Series)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the parallel naming-veneration of twenty-four Jinas",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgaccha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kevalajñāna — definitions (Jain philosophy / general)",
+      "url": "https://www.wisdomlib.org/definition/kevalajnana",
+      "type": "dictionary",
+      "consultedFor": "Confirming that kevala-jñāna is the fifth of the five samyag-jñānas and means complete omniscience — basis for glossing 'pañcama nāṇī'."
+    },
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "The doctrine of infinitely many past Tīrthaṅkaras across the utsarpiṇī/avasarpiṇī cycles, framing this past-age (atīta) caubīsī roll-call."
+    },
+    {
+      "title": "Jaina Tradition of Tirthankaras",
+      "url": "https://jainqq.org/booktext/Jaina_Tradition_of_Tirthankaras/250166",
+      "type": "scholarship",
+      "consultedFor": "Corroborating the enumerative tradition of naming twenty-four Jinas per age, against which the verse's sequence was checked."
+    },
+    {
+      "title": "Samyagjñāna — definitions (the five right-knowledges in Jainism)",
+      "url": "https://www.wisdomlib.org/definition/samyagjnana",
+      "type": "dictionary",
+      "consultedFor": "The fivefold scheme mati–śruta–avadhi–manaḥparyāya–kevala, locating kevala as the fifth knowledge."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The nine names are read as past-age Tīrthaṅkaras 10–18 of the atīta caubīsī; the identification is secured by the bracketing verses (this dhāla runs Kevalanāṇī…Samprati) rather than by an independently published Anchalgaccha roster, which was not locatable online. 'સુતેજસ્વામી' is parsed as two names (Sutejas + Svami) coalesced for metre; an alternative reading takes it as a single 'Sutejasvāmī', which would shift the subsequent numbering by one. 'અસ્તાંગ' (Astāṅga/Astāga) and the past-age 'નેમીસર' show name-variants across lists and are kept verbatim per the book's orthography; this Nemishvara and Munisuvrata are homonyms of present-age Jinas, not those figures. 'પંચમ નાણી' is read as the epithet 'knowers of the fifth knowledge (omniscience)'; a looser reading would take it adjectivally with Śivagati alone. The daṇḍa ( । ) and final punctuation are scribal, not lexical tokens."
+}

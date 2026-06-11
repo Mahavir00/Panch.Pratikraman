@@ -1,0 +1,174 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May there be blessing upon the Saṅgha, which is like a lotus ringed by lay-devotees as humming bees, coaxed open by the sunlight of the Jina, and resorted to by thousands of monks.",
+  "recitation": "sāvaga jaṇa mahuari parivuḍhassa, jiṇa sūra teya buddhassa | saṅgha paümassa bhaddaṁ, samaṇa gaṇa sahassa pattassa ||",
+  "wordByWord": [
+    {
+      "token": "સાવગ",
+      "translit": "sāvaga",
+      "gloss": "lay-devotee, layman",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāvaga < Sanskrit śrāvaka, 'one who listens' (√śru), the householder hearer of the teaching.",
+      "notes": "First member of the compound sāvaga-jaṇa-mahuari, 'the bee-throng of lay-folk.'"
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "folk, throng of people",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇa < Sanskrit jana, 'people, multitude' (√jan, 'to be born').",
+      "notes": "Collective; here the body of śrāvakas taken as a swarm."
+    },
+    {
+      "token": "મહુઅરિ",
+      "translit": "mahuari",
+      "gloss": "female honeybee",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahuari < Sanskrit madhukarī, 'honey-maker' (madhu 'honey' + √kṛ 'to make'); the -uari shows hiatus from intervocalic loss.",
+      "notes": "The simile-pivot: lay-folk are the bees that ring the lotus. The bee/alms image also frames the very different but resonant monk-as-bee of the Drumapuṣpikā svādhyāya."
+    },
+    {
+      "token": "પરિવુઢસ્સ",
+      "translit": "parivuḍhassa",
+      "gloss": "of [the lotus] surrounded, encircled",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit parivuḍha < Sanskrit parivṛḍha/parivṛta (pari- 'around' + √vṛ 'to enclose'), past participle; genitive sg. -assa.",
+      "notes": "Genitive agreeing with paümassa: the lotus 'surrounded' by the bee-swarm of laymen."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina, the Victor",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'conqueror' (√ji 'to win'), the Tīrthaṅkara who has conquered the passions.",
+      "notes": "Compound member of jiṇa-sūra, 'the Jina-as-sun.'"
+    },
+    {
+      "token": "સૂર",
+      "translit": "sūra",
+      "gloss": "sun",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sūra < Sanskrit sūra/sūrya, 'sun.'",
+      "notes": "The lotus opens only at the sun's touch; the Jina is that sun."
+    },
+    {
+      "token": "તેય",
+      "translit": "teya",
+      "gloss": "radiance, lustre",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit teya < Sanskrit teja(s), 'fiery splendour, brilliance' (√tij 'to be sharp/bright').",
+      "notes": "jiṇa-sūra-teya = 'the radiance of the Jina-sun,' the instrumental cause of the blooming."
+    },
+    {
+      "token": "બુદ્ધસ્સ",
+      "translit": "buddhassa",
+      "gloss": "of [the lotus] opened, made to blossom",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit buddha < Sanskrit buddha/prabuddha (√budh), which in floral usage means 'full-blown, opened out,' not 'enlightened.'",
+      "notes": "Deliberate double sense: the lotus is 'opened' and the Saṅgha is 'awakened' — both by the Jina's light. Genitive agreeing with paümassa."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "Saṅgha (the four-fold community)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṅgha < Sanskrit saṅgha (sam- + √han/gha, 'gathered together').",
+      "notes": "Head of the compound saṅgha-paümassa, 'of the Saṅgha-lotus.'"
+    },
+    {
+      "token": "પઉમસ્સ",
+      "translit": "paümassa",
+      "gloss": "of the lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paüma < Sanskrit padma, 'lotus'; the medial -ü- is the regular Prakrit resolution of the conjunct -dm-. Genitive sg. -assa.",
+      "notes": "The governing genitive: every -assa epithet in the verse hangs on this 'lotus.'"
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! welfare!",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhadda < Sanskrit bhadra, 'auspicious, good.'",
+      "notes": "The benedictory nucleus: 'bhaddaṁ saṅgha-paümassa' = 'blessing to the Saṅgha-lotus,' echoing the hymn's recurring bhaddaṁ-refrain."
+    },
+    {
+      "token": "સમણ",
+      "translit": "samaṇa",
+      "gloss": "monk, mendicant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samaṇa < Sanskrit śramaṇa, 'one who exerts/strives' (√śram).",
+      "notes": "First member of samaṇa-gaṇa, the monastic host."
+    },
+    {
+      "token": "ગણ",
+      "translit": "gaṇa",
+      "gloss": "host, assembly, order",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaṇa = Sanskrit gaṇa, 'troop, company' (√gaṇ 'to count').",
+      "notes": "samaṇa-gaṇa = the ordered community of ascetics."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand(s)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra, 'thousand'; conjunct -sr- assimilates to -ss-.",
+      "notes": "Hyperbolic plural: 'thousands of the monk-host.'"
+    },
+    {
+      "token": "પત્તસ્સ",
+      "translit": "pattassa",
+      "gloss": "of [the lotus] reached, resorted-to, attained",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit patta < Sanskrit prāpta (pra- + √āp, 'to reach'), past participle; conjunct -pt- > -tt-. Genitive sg. -assa.",
+      "notes": "Closing epithet of paümassa: the lotus 'resorted to by thousands of the śramaṇa-host' — completing the bees-to-blossom motion of the verse."
+    }
+  ],
+  "literalTranslation": "To the Saṅgha-lotus — encircled by the honeybee-throng of lay-folk, opened by the radiance of the Jina-sun, resorted to by the thousand-strong host of monks — auspiciousness!",
+  "idiomaticTranslation": "Blessing upon the Saṅgha, that lotus! The lay-devotees swarm about it like humming bees; the radiant Jina-sun coaxes its petals open; and thousands upon thousands of monks settle upon it. May all good be to that lotus of the community.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding gāthā built the lotus from the bottom up — clear of the karma-flood, long scripture-stalk, pericarp of the five vows, filaments of virtue — this verse populates and animates the finished bloom, then pronounces the blessing the whole image was reaching for: 'bhaddaṁ saṅgha-paümassa.' Three genitive epithets ring the single word paümassa. First, sāvaga-jaṇa-mahuari-parivuḍhassa: the laity are the bees that crowd a flower, drawn by its sweetness and circling it in devotion — a deft touch, since bees both adorn the lotus and depend on it, exactly as śrāvakas surround and are nourished by the order. Second, jiṇa-sūra-teya-buddhassa: a lotus opens only to the sun, so the community 'blooms' (buddha, full-blown) solely under the radiance (teya) of the Jina-sun. The verb buddha is chosen for its double edge — a lotus 'opened,' a Saṅgha 'awakened' — both by one and the same light. Third, samaṇa-gaṇa-sahassa-pattassa: the monks in their thousands are those who have 'reached' (patta) the bloom and rest upon it. Read together, the verse choreographs a single motion inward and upward: bees encircle, sun opens, host alights. The lay-bees at the rim and the monastic host at the heart are gathered into one flower, lit by one sun — a compact emblem of the entire four-fold Saṅgha held in dependent harmony.",
+    "doctrinalContext": "The verse quietly states the structural interdependence of the four-fold community. The mendicant order does not float free: it is 'surrounded' by lay-folk and 'reached' by its own thousands, while the decisive agency belongs to neither — the lotus opens by the sun, i.e. the community lives and awakens only by the Jina's teaching (teya, radiance, standing for jñāna-light). The bee-image carries a precise Jain valence: the bee takes only a little nectar from many flowers and harms none, the classic figure of ahiṁsā-bound, non-accumulative dependence — so the lay 'bees' relate to the order without despoiling it. And buddha/prabuddha names awakening as something received, not self-generated: the Saṅgha is bodhita, opened from without by the Tīrthaṅkara's light, which guards against any reading of the community as self-sufficient.",
+    "practicalRelevance": "Reciting this, a lay practitioner can locate themselves precisely: you are one of the bees at the rim, drawn to and sustaining the lotus, taking only your measure and harming nothing. The line also reframes 'awakening' as gift rather than achievement — the petals open to the sun, so turn toward the Jina's teaching and let it open you, rather than straining to bloom by your own effort.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika 1.2–3, the bee-gāthā: 'jahā dumassa pupphesu bhamaro āviyaï rasaṁ…' — the mendicant who, like a bee, takes a little from many without harm (the same bee/alms ethic, here applied to the lay 'bees').",
+        "source": "Daśavaikālika-sūtra ch.1 (Drumapuṣpikā), recited in the Devasi svādhyāya"
+      },
+      {
+        "text": "The lotus-of-the-Saṅgha simile of the Nandī-sūtra opening maṅgala, of which vv.7–8 are the extract.",
+        "source": "Nandī-sūtra (Devardhigaṇi Kṣamāśramaṇa redaction)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Padma — 94 definitions (incl. Prakrit paüma < padma, 'lotus; opened bloom')",
+      "url": "https://www.wisdomlib.org/definition/padma",
+      "type": "dictionary",
+      "consultedFor": "Lotus sense of paüma and the floral 'opened/full-blown' sense bearing on buddha"
+    },
+    {
+      "title": "Madhukarī — 13 definitions (madhukarī, 'female honeybee'; alms/non-accumulation valence)",
+      "url": "https://www.wisdomlib.org/definition/madhukari",
+      "type": "dictionary",
+      "consultedFor": "Gloss and connotation of mahuari (madhukarī) as the lay-folk bee-image"
+    },
+    {
+      "title": "Prāpta — 19 definitions (prāpta < pra-√āp, 'reached, attained')",
+      "url": "https://www.wisdomlib.org/definition/prapta",
+      "type": "dictionary",
+      "consultedFor": "Gloss of pattassa (prāpta) — the lotus 'resorted to/reached'"
+    },
+    {
+      "title": "Nandī-sūtra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening Saṅgha-praise from which this lotus gāthā is drawn"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The four genitive epithets (parivuḍhassa, buddhassa, paümassa, pattassa) all agree with paümassa, the syntactic head governed by bhaddaṁ ('blessing to the Saṅgha-lotus'). buddha is read in its floral sense 'opened/full-blown' (= prabuddha), with a deliberate secondary 'awakened' — both senses are intended. sahassa is read as a hyperbolic 'thousands'; an alternative parsing 'attended-with-thousands' yields the same import. Verse text, mātrās and conjuncts follow the Anchalgachchha/Vidhipaksha book verbatim and are not normalized. Per-token Prakrit→Sanskrit equivalences cross-checked against Sheth, Pāia-sadda-mahaṇṇavo (patta, sahassa, teya, buddha); exact page/edition wording should be confirmed against a critical text where precise readings matter."
+}

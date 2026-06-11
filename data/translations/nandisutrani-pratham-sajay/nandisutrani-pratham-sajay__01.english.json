@@ -1,0 +1,148 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Glory to Lord Mahāvīra, who knows the birth-origins of every living being and is the world's teacher, its joy, its lord, its kinsman, and its great forefather.",
+  "recitation": "jayai jaga-jīva-joṇī-viyāṇao jaga-guru jagāṇaṁdo, jaga-nāho jaga-baṁdhu jayai jaga-ppiyāmaho bhayavaṁ",
+  "wordByWord": [
+    {
+      "token": "જયઇ",
+      "translit": "jayai",
+      "gloss": "is victorious; hail! / glory to (him)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jayai < Sanskrit jayati, √ji 'to conquer, be victorious'; here a benedictive 'may he be triumphant / hail'.",
+      "notes": "Frames the verse: it opens the line and recurs before the final epithet, bracketing the epithet-ladder."
+    },
+    {
+      "token": "જગજીવ",
+      "translit": "jagajīva",
+      "gloss": "the living beings of the world",
+      "partOfSpeech": "compound",
+      "etymology": "jaga (< jagat 'world') + jīva ('soul, living being'); tatpuruṣa, 'souls of the world'.",
+      "notes": "First member of the long compound jaga-jīva-joṇī-viyāṇao."
+    },
+    {
+      "token": "જોણી",
+      "translit": "joṇī",
+      "gloss": "wombs / modes of birth / origins (of beings)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit joṇī < Sanskrit yoni 'womb, source, place of birth'; in Jain cosmology the classes of birth-stations (the eighty-four lakh jīva-yoni).",
+      "notes": "Long ō and ī follow the book's mātrās."
+    },
+    {
+      "token": "વિયાણઓ",
+      "translit": "viyāṇao",
+      "gloss": "the (full) knower / he who completely understands",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit viyāṇao < Sanskrit vijñāyaka / vijānat, vi + √jñā 'to know thoroughly'; agent sense 'one who knows fully'.",
+      "notes": "Caps the compound: 'knower of the birth-origins of all the world's living beings' — i.e. the omniscient one (kevalajñānī)."
+    },
+    {
+      "token": "જગગુરુ",
+      "translit": "jagaguru",
+      "gloss": "teacher of the world",
+      "partOfSpeech": "compound",
+      "etymology": "jaga (jagat) + guru ('preceptor'); = Sanskrit jagad-guru.",
+      "notes": ""
+    },
+    {
+      "token": "જગાણંદો",
+      "translit": "jagāṇaṁdo",
+      "gloss": "delight / joy of the world",
+      "partOfSpeech": "compound",
+      "etymology": "jaga + āṇaṁda (< ānanda 'bliss'), with vowel-sandhi jaga + ānanda → jagāṇaṁda; = jagad-ānanda.",
+      "notes": "Nominative -o."
+    },
+    {
+      "token": "જગનાહો",
+      "translit": "jaganāho",
+      "gloss": "lord / protector of the world",
+      "partOfSpeech": "compound",
+      "etymology": "jaga + nāha (< nātha 'lord, protector'); = jagan-nātha.",
+      "notes": ""
+    },
+    {
+      "token": "જગબંધુ",
+      "translit": "jagabaṁdhu",
+      "gloss": "kinsman / friend of the world",
+      "partOfSpeech": "compound",
+      "etymology": "jaga + baṁdhu (< bandhu 'kinsman, relative'); = jagad-bandhu.",
+      "notes": ""
+    },
+    {
+      "token": "જયઇ",
+      "translit": "jayai",
+      "gloss": "is victorious; hail! / glory to (him)",
+      "partOfSpeech": "verb",
+      "etymology": "Repetition of jayai (< jayati, √ji); see first occurrence.",
+      "notes": "The second 'jayai' renews the acclamation before the closing epithet."
+    },
+    {
+      "token": "જગ",
+      "translit": "jaga",
+      "gloss": "of the world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaga < Sanskrit jagat 'the moving world, universe'; here the prior member of jaga-ppiyāmaho.",
+      "notes": "Written separately in the book but compounds with the following word (the doubled pp- is the sandhi-junction)."
+    },
+    {
+      "token": "પ્પિયામહો",
+      "translit": "ppiyāmaho",
+      "gloss": "patriarch / great forefather (of the world)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (p)piyāmaha < Sanskrit pitāmaha 'grandfather, patriarch' (pitṛ 'father' + -maha); doubled initial pp- from compound sandhi.",
+      "notes": "Not 'beloved' — the word is pitāmaha, spiritual progenitor of the world. Together: jagat-pitāmaha."
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Blessed One (Bhagavān)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhayavaṁ < Sanskrit bhagavān 'the venerable, blessed, fortunate one'; from bhaga 'fortune, majesty'.",
+      "notes": "Not from bhaya 'fear'. Nominative bhagavān → Prakrit bhayavaṁ; the verse's grammatical subject, the one acclaimed throughout."
+    }
+  ],
+  "literalTranslation": "Victorious is the knower of the birth-origins of the world's living beings — the world-teacher, the world's delight, the world's lord, the world's kinsman; victorious is the world's patriarch, the Blessed One.",
+  "idiomaticTranslation": "Hail the Blessed One! He who fully knows the birth-states of every soul in the world — teacher of the world, joy of the world, lord of the world, kinsman of the world: glory to him, the great forefather of all the world.",
+  "elaboration": {
+    "verseByVerseCommentary": "The opening gāthā is a single garland of jaga- (world-) epithets strung between two cries of jayai ('hail / be victorious'), so that the whole verse rings as one sustained acclamation. The hinge is the first compound: jaga-jīva-joṇī-viyāṇao, 'knower of the birth-origins of every living being of the world.' By naming the joṇī — the womb-stations of beings (the tradition's eighty-four lakh jīva-yoni) — and calling him their full knower (viyāṇao), the verse asserts Mahāvīra's omniscience (kevalajñāna) in its widest reach: nothing that is born, anywhere, escapes his knowing. From that single cognitive supremacy the four relational epithets unfold: he is the world's guru (teacher), its ānanda (joy), its nātha (lord/protector), and its bandhu (kinsman) — knowledge first, then the bonds of care that knowledge makes possible. The second jayai then lifts the highest title, jaga-piyāmaha, 'patriarch / great forefather of the world' — not father but grandfather, the senior progenitor from whom the whole spiritual lineage descends. The verse seals with bhayavaṁ (Bhagavān), the bare honorific that holds all the epithets together. Note the deliberate ascent: from omniscient knower → teacher → beloved lord and kinsman → primordial patriarch → the Blessed One. The next gāthā will name him 'source of all scripture' (suyāṇaṁ pabhavo); here the hymn first establishes who he is before saying what flows from him.",
+    "doctrinalContext": "The verse compresses two doctrines. First, kevalajñāna: 'knower of the birth-origins of all the world's beings' is a precise claim of omniscience — the kevalī perceives every jīva across all yoni-classes and births simultaneously, the epistemic ground of a Tīrthaṅkara's authority to teach. Second, the relational titles encode the Jina's role not as a creator-god (Jainism has none) but as guide and exemplar: guru (one who reveals the path), nātha (refuge through teaching, not intervention), bandhu (one who, though detached, benefits all), and pitāmaha (originating patriarch of the dharma-lineage, here Mahāvīra as fountainhead of the present teaching-tradition). Every epithet is therefore soteriological, not theistic — he aids the world by knowing and showing, not by ruling it.",
+    "practicalRelevance": "Recited at the start of the sajjhāy, the verse trains the reciter to fix the object of devotion before study begins: one steadies attention on the Jina as omniscient teacher and kinsman, cultivating the reverence (bhakti) that makes svādhyāya fruitful. Each jaga- epithet can be held for a breath as a contemplative ladder — knower, teacher, joy, lord, kinsman, forefather — turning rote recitation into directed remembrance.",
+    "crossReferences": [
+      {
+        "text": "Following gāthā (v.2): 'jayai suyāṇaṁ pabhavo… titthayarāṇaṁ apacchimo' — Mahāvīra as source of scripture and last Tīrthaṅkara",
+        "source": "Nandī-sūtra opening maṅgala (this sajjhāy)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of the 24 Tīrthaṅkaras, the Āvaśyaka counterpart to this acclamation",
+        "source": "Pañca Pratikramaṇa, Devasi; Āv. 2"
+      },
+      {
+        "text": "The eighty-four lakh jīva-yoni (birth-classes) underlying 'jaga-jīva-joṇī'",
+        "source": "Jain karma/cosmology; cf. Jīva-vicāra and Āgama enumerations"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "translation",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening maṅgala-stuti to Mahāvīra"
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "http://www.sanskrit-lexicon.uni-koeln.de/monier/",
+      "type": "dictionary",
+      "consultedFor": "Root forms and senses of pitāmaha, bhagavat, nātha, bandhu, guru, yoni, vijñā"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Sheth) — Prakrit Dictionary, ISJS digital edition",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit lemmata joṇī, viyāṇao, piyāmaha (pitāmaha), bhayavaṁ (bhagavān), jayai (jayati)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Parsing follows the standard reading of this well-known maṅgala-gāthā: 'jaga ppiyāmaho' = jagat-pitāmaha ('world-patriarch', NOT 'beloved'), and 'bhayavaṁ' = bhagavān ('the Blessed One', NOT a fear-word) — both confirmed against the Prakrit/Sanskrit lexica. The book prints 'જગ' and 'પ્પિયામહો' as separate orthographic units though they form one compound (the doubled pp- marks the junction); spacing and mātrās (joṇī, viyāṇao) are kept verbatim. 'viyāṇao' is taken as an agent-noun (vijñāyaka, 'full knower'); some renderings read it as a finite/participial 'having known', but the epithet-string syntax favors the nominative agent here. The subject throughout is Mahāvīra, per the preface and the following verse."
+}

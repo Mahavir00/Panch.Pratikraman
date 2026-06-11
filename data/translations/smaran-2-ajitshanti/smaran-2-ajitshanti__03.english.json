@@ -1,0 +1,144 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Ajitanātha and Śāntinātha, who calm every sorrow and wash away every sin.",
+  "recitation": "savva dukkha ppasantīṇaṁ, savva pāva ppasantiṇaṁ, sayā ajiya santīṇaṁ, namo ajiya santiṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all, whole'); the first member of the compound savva-dukkha.",
+      "notes": "Forms a genitive tatpuruṣa with the following nouns."
+    },
+    {
+      "token": "દુક્ખ",
+      "translit": "dukkha",
+      "gloss": "suffering, sorrow, affliction",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkha < Sanskrit duḥkha ('pain, misery'). Doubled conjunct -kkh- is the regular Prakrit assimilation of -ḥkh-.",
+      "notes": "Object-sense within the compound: 'of all-suffering'."
+    },
+    {
+      "token": "પ્પસંતીણં",
+      "translit": "ppasantīṇaṁ",
+      "gloss": "of those who thoroughly quell / pacifiers (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pasanti < Sanskrit praśānti (pra- 'thoroughly' + √śam 'to be calmed, quelled'); genitive plural -īṇaṁ < Skt. -īnām. Initial doubling pp- arises from sandhi after the compound boundary (dukkha-ppasanti = duḥkha-praśānti).",
+      "notes": "Here an agentive epithet: 'of the ones in whom all suffering is quelled / who quell all suffering'."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Repetition of savva < Sanskrit sarva, now compounded with pāva.",
+      "notes": "Anaphora — the verse stacks parallel 'all-X-quelling' epithets."
+    },
+    {
+      "token": "પાવ",
+      "translit": "pāva",
+      "gloss": "sin, evil, demerit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva < Sanskrit pāpa ('evil, sin'); intervocalic -p- > -v- is the standard Prakrit softening.",
+      "notes": "Pairs with dukkha: the verse names both the affliction (dukkha) and its karmic root (pāva)."
+    },
+    {
+      "token": "પ્પસંતિણં",
+      "translit": "ppasantiṇaṁ",
+      "gloss": "of those who thoroughly quell / pacifiers (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Same as ppasantīṇaṁ < praśānti + genitive plural; here spelled with short -i-.",
+      "notes": "Book preserves the long/short mātrā variation (ppasantīṇaṁ ~ ppasantiṇaṁ); not normalized."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, ever, perpetually",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā < Sanskrit sadā ('always'); intervocalic -d- > -y-.",
+      "notes": "Stresses the unceasing, eternal quality of the two Jinas' peace."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita — the unconquered (Ajitanātha); also 'invincible'",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajiya < Sanskrit ajita (a- 'not' + jita 'conquered'); intervocalic -t- > -y-.",
+      "notes": "Bivalent: the 2nd Tīrthaṅkara's name and the quality of invincibility."
+    },
+    {
+      "token": "સંતીણં",
+      "translit": "santīṇaṁ",
+      "gloss": "of the Śāntis / the peaceful ones (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit santi < Sanskrit śānti ('peace'; also Śāntinātha); genitive plural -īṇaṁ.",
+      "notes": "With ajiya forms the dvandva ajiya-santi — 'Ajita-and-Śānti', the twin dedicatees."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "homage, salutation, bowing",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit / Sanskrit namaḥ (√nam 'to bow'); namo before the following word by visarga-sandhi.",
+      "notes": "Governs a genitive (ajiya santiṇaṁ) — the regular Prakrit namo + genitive construction in place of the Sanskrit dative."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita (Ajitanātha); invincible",
+      "partOfSpeech": "invocation",
+      "etymology": "Repetition of ajiya < Sanskrit ajita.",
+      "notes": "The refrain restates the name as the object of homage."
+    },
+    {
+      "token": "સંતિણં",
+      "translit": "santiṇaṁ",
+      "gloss": "to Ajita-Śānti / the peaceful ones (genitive-as-dative plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit santi < Sanskrit śānti; genitive plural -iṇaṁ governed by namo.",
+      "notes": "Closes the hymn's signature refrain, 'namo ajiya santiṇaṁ'."
+    }
+  ],
+  "literalTranslation": "Of the quellers of all suffering, of the quellers of all sin, of the ever Ajita-and-Śānti — homage to Ajita-and-Śānti.",
+  "idiomaticTranslation": "To them in whom all sorrow is stilled, in whom all sin is stilled, who are forever Ajita-and-Śānti — homage to Ajita-and-Śānti!",
+  "elaboration": {
+    "verseByVerseCommentary": "Having declared in v.2 only the intent to praise (thosāmi), the poet now lets the praise itself ring out, and v.3 is built almost entirely of parallel genitive epithets that all converge on the closing 'namo ajiya santiṇaṁ.' The craft lies in two matched 'savva…ppasanti' phrases. The first quells dukkha — felt suffering, the symptom; the second quells pāva — sin and the karmic cause beneath it. Naming both in the same breath is deliberate: the Jinas do not merely soothe pain, they dissolve its root, so the relief is total rather than palliative. The verb-noun praśānti (pra- intensifying √śam) means a thorough, settled calming, not a passing lull — and sayā ('ever') seals it as perpetual, not occasional. The same syllables ajiya-santi work on two levels at once: as the proper names Ajita and Śānti, and as the abstractions 'invincible' and 'peace,' so that one act of homage salutes two Tīrthaṅkaras and asks for one boon — an unshakable peace that cannot be conquered. The verse advances the hymn from announcement to invocation, planting the refrain that the following stanzas (vv.4–6) will expand into an explicit plea for refuge and fearlessness.",
+    "doctrinalContext": "The pairing of dukkha and pāva mirrors the Jain causal chain: pāpa-karma binds the soul and ripens as duḥkha, so quelling sin (praśānti of pāva) is the prior, decisive act and the cessation of suffering its fruit. Calling the Jinas 'quellers of all sin' is not literal — they remove no one's karma by fiat — but devotional and exemplary: contemplating ones who have themselves extinguished all pāpa and reached perfect śānti orients the reciter's own saṁvara (stoppage) and nirjarā (shedding). This is why the hymn functions protectively: peace here is the inward fruit of karmic exhaustion, not a granted favour.",
+    "practicalRelevance": "A reciter can hold the verse as a two-step aspiration — first ask for the stilling of sin (the cause), then receive the stilling of sorrow (the effect) — letting 'sayā' steady the mind toward a peace meant to outlast the moment. The compact refrain 'namo ajiya santiṇaṁ' is easy to carry as a breath-paced repetition when fear or agitation arises.",
+    "crossReferences": [
+      {
+        "text": "Logassa: 'ārugga-bohi-lābhaṁ samāhi-vara-muttamaṁ diṁtu' — the Jinas as bestowers of health, insight, and supreme equanimity",
+        "source": "Caturviṁśati-stava (Logassa), Āvaśyaka tradition"
+      },
+      {
+        "text": "Appended maṅgala verse 'Upasargāḥ kṣayaṁ yānti…' — affliction destroyed through remembrance of the Jina",
+        "source": "Sanskrit maṅgala stanzas (vv.43–46) of the Ajitaśānti recitation"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Praśānti — definitions (Jainism: 'peace of mind', Jñānārṇava; Ayurveda: ārti-praśānti, 'easing of distress')",
+      "url": "https://www.wisdomlib.org/definition/prashanti",
+      "type": "dictionary",
+      "consultedFor": "Root and sense of praśānti (pra- + √śam) underlying Prakrit pasanti; 'thorough pacification / quelling' gloss."
+    },
+    {
+      "title": "Ajitanatha — Second Tīrthaṅkara",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Sense of 'Ajita' as 'invincible/unconquerable' and identity of Ajitanātha; the Ajitaśānti as his devotional text."
+    },
+    {
+      "title": "Shantinatha — Sixteenth Tīrthaṅkara, deity of peace",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Sense of 'Śānti' as peace and Śāntinātha's role as the Jina invoked to avert calamity — supports the protective reading of the refrain."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse kept verbatim, including the long/short mātrā variation ppasantīṇaṁ ~ ppasantiṇaṁ and santīṇaṁ ~ santiṇaṁ — not normalized. The whole stanza is a chain of -ṇaṁ genitive-plural epithets resolved by 'namo'; Prakrit regularly takes namo + genitive where Sanskrit would use the dative. 'ajiya santi' is intentionally bivalent (the two Tīrthaṅkaras Ajita/Śānti, and the qualities 'invincible'/'peace'); both readings are intended simultaneously. Parsing the 'savva…ppasanti' phrases as agentive epithets of the Jinas (rather than independent abstract nouns) follows the standard reading of the refrain and the genitive concord with santīṇaṁ; minor ambiguity remains, hence confidence < 0.9."
+}

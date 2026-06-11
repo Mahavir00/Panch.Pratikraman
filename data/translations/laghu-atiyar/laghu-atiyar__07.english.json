@@ -1,0 +1,426 @@
+{
+  "shlokaId": "laghu-atiyar/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Reviewing the seventh vow — the one limiting what I eat and how I earn a living — I confess any slips in its five food-rules and in the fifteen harmful trades I have done or condoned today.",
+  "recitation": "e sātamā bhogopabhoga-vratataṇā pāṁca atiyāra śodhuṁ. sacitta āhāre, sacitta paḍibaddha āhāre. appoṣahi bhakkhaṇayā, dupposahi bhakkhaṇayā, tucchosahi bhakkhaṇayā. e pāṁca atiyāra māṁhe. || karmataḥ pannare karmādāna — iṅgāla-kamme, vaṇa-kamme, sāḍī-kamme, bhāḍī-kamme, phoḍī-kamme, danta vāṇijje, lakkha vāṇijje, rasa vāṇijje, visa vāṇijje, kesa vāṇijje, jantapīlaṇa kamme, nilañchaṇa kamme, davaggi dāvaṇayā, sara daha talāva sosaṇayā, asaï posaṇayā — e pannara karmādāna viṣe sthūla niyama, sūkṣmataṇī jayaṇā. e pannara karmādāna māṁhe.",
+  "wordByWord": [
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this, these (pointing to the vow just named)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative, from Prakrit ‘ea’ (Skt. etad)",
+      "notes": "Opens the standard confession formula."
+    },
+    {
+      "token": "સાતમા",
+      "translit": "sātamā",
+      "gloss": "seventh",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from saptama (Skt. sapta, ‘seven’)",
+      "notes": "Marks vow 7 of the twelve."
+    },
+    {
+      "token": "ભોગોપભોગવ્રતતણા",
+      "translit": "bhogopabhoga-vrata-taṇā",
+      "gloss": "of the vow limiting consumables and re-usables",
+      "partOfSpeech": "compound",
+      "etymology": "bhoga (once-used enjoyment, e.g. food) + upabhoga (repeatedly-used enjoyment, e.g. clothes, furniture) + vrata + Gujarati genitive ‘-taṇā’ (= ‘of’)",
+      "notes": "‘taṇā’ is the recurring possessive seen in every vow’s formula."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati from pañca (Skt.)",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial lapses)",
+      "partOfSpeech": "noun",
+      "etymology": "book-spelling of atichāra (Skt. ati-cāra, ‘over-stepping’)",
+      "notes": "Glossary term; spelt with ય per this edition."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati 1st-person from √śudh / śodhana (‘to purify, examine’)",
+      "notes": "‘I review-and-purify’; sets up the self-examination."
+    },
+    {
+      "token": "સચિત્ત આહારે",
+      "translit": "sacitta āhāre",
+      "gloss": "eating sentient (still-living) food — 1st atichāra",
+      "partOfSpeech": "compound",
+      "etymology": "sa-citta (‘with consciousness/soul’) + āhāra (‘food’), locative ‘-e’",
+      "notes": "Raw, un-rendered plant matter still holding one-sensed life."
+    },
+    {
+      "token": "સચિત્ત પડિબદ્ધ આહારે",
+      "translit": "sacitta paḍibaddha āhāre",
+      "gloss": "eating food joined to sentient matter (e.g. fruit still on stone/stalk) — 2nd atichāra",
+      "partOfSpeech": "compound",
+      "etymology": "sacitta + paḍibaddha (Prakrit pratibaddha, ‘bound/attached to’) + āhāra",
+      "notes": "The edible part is acitta but stuck to a living part."
+    },
+    {
+      "token": "અપ્પોસહિ ભક્ખણયા",
+      "translit": "appoṣahi bhakkhaṇayā",
+      "gloss": "eating unripe / under-cooked plant-food — 3rd atichāra",
+      "partOfSpeech": "compound",
+      "etymology": "apakva-auṣadhi (‘un-cooked herb-food’) → Prakrit appoli/appoṣahi + bhakṣaṇa (‘eating’)",
+      "notes": "auṣadhi here = vegetable/grain foodstuff, not medicine."
+    },
+    {
+      "token": "દુપ્પોસહિ ભક્ખણયા",
+      "translit": "dupposahi bhakkhaṇayā",
+      "gloss": "eating ill-cooked / half-done plant-food — 4th atichāra",
+      "partOfSpeech": "compound",
+      "etymology": "duṣpakva-auṣadhi (‘badly cooked herb-food’) + bhakṣaṇa",
+      "notes": "Improper cooking leaves living organisms intact."
+    },
+    {
+      "token": "તુચ્છોસહિ ભક્ખણયા",
+      "translit": "tucchosahi bhakkhaṇayā",
+      "gloss": "eating trifling plant-food (much destroyed, little edible) — 5th atichāra",
+      "partOfSpeech": "compound",
+      "etymology": "tuccha-auṣadhi (‘worthless/insubstantial herb-food’) + bhakṣaṇa",
+      "notes": "e.g. tender pods that kill many lives for scant nourishment."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (i.e. ‘in these I confess whatever I committed’)",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati postposition ‘māṁhe/māṁhi’ (‘inside, among’)",
+      "notes": "The closing tag of each atichāra block; the day/night confession-refrain is understood."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "verse-bar (recitation pause)",
+      "partOfSpeech": "particle",
+      "etymology": "daṇḍa punctuation",
+      "notes": "Marks the shift from the food-side to the occupation-side."
+    },
+    {
+      "token": "કર્મતઃ",
+      "translit": "karmataḥ",
+      "gloss": "as to occupation / by way of livelihood",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit ablative karma + -taḥ (‘from the standpoint of work’)",
+      "notes": "Pairs with the ‘bhojanataḥ’ (food-side) named in the previous verse."
+    },
+    {
+      "token": "પન્નરે",
+      "translit": "pannare",
+      "gloss": "fifteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pannara(sa) (Skt. pañcadaśa)",
+      "notes": ""
+    },
+    {
+      "token": "કર્માદાન",
+      "translit": "karmādāna",
+      "gloss": "harmful livelihoods (‘karma-magnets’)",
+      "partOfSpeech": "noun",
+      "etymology": "karma + ādāna (‘taking on, attracting’)",
+      "notes": "Glossary term; the fifteen are now enumerated."
+    },
+    {
+      "token": "ઇંગાલકમ્મે",
+      "translit": "iṅgāla-kamme",
+      "gloss": "1. charcoal/fire trades (kilns, smithy, baking)",
+      "partOfSpeech": "compound",
+      "etymology": "aṅgāra (‘charcoal’) + karma (‘work’)",
+      "notes": "Occupations that consume fire-bodies and scorch life."
+    },
+    {
+      "token": "વણકમ્મે",
+      "translit": "vaṇa-kamme",
+      "gloss": "2. forest/plant trades (felling, clearing)",
+      "partOfSpeech": "compound",
+      "etymology": "vana (‘forest’) + karma",
+      "notes": "Destruction of plant-bodied beings."
+    },
+    {
+      "token": "સાડીકમ્મે",
+      "translit": "sāḍī-kamme",
+      "gloss": "3. cart/vehicle making (and dealing in conveyances)",
+      "partOfSpeech": "compound",
+      "etymology": "śakaṭa (‘cart’) → sāḍī + karma",
+      "notes": "Standard list reads ‘śakaṭa-karma’."
+    },
+    {
+      "token": "ભાડીકમ્મે",
+      "translit": "bhāḍī-kamme",
+      "gloss": "4. hiring-out transport / beasts for fare",
+      "partOfSpeech": "compound",
+      "etymology": "bhāṭaka (‘hire, rent’) → bhāḍī + karma",
+      "notes": "Profit from overloading carts and draught animals."
+    },
+    {
+      "token": "ફોડીકમ્મે",
+      "translit": "phoḍī-kamme",
+      "gloss": "5. quarrying / digging / blasting earth",
+      "partOfSpeech": "compound",
+      "etymology": "sphoṭa (‘breaking apart’) → phoḍī + karma",
+      "notes": "Mining and earth-rending harm earth-bodies."
+    },
+    {
+      "token": "દંત વાણિજ્જે",
+      "translit": "danta vāṇijje",
+      "gloss": "6. trade in ivory, tusk, bone, animal parts",
+      "partOfSpeech": "compound",
+      "etymology": "danta (‘tooth/ivory’) + vāṇijya (‘trade’)",
+      "notes": "Begins the five vāṇijya (commerce) items."
+    },
+    {
+      "token": "લખ્ખ વાણિજ્જે",
+      "translit": "lakkha vāṇijje",
+      "gloss": "7. trade in lac/shellac (and resins killing insects)",
+      "partOfSpeech": "compound",
+      "etymology": "lākṣā (‘lac’) → lakkha + vāṇijya",
+      "notes": ""
+    },
+    {
+      "token": "રસ વાણિજ્જે",
+      "translit": "rasa vāṇijje",
+      "gloss": "8. trade in liquids/intoxicants — liquor, honey, fat, butter",
+      "partOfSpeech": "compound",
+      "etymology": "rasa (‘juice, fluid’) + vāṇijya",
+      "notes": "‘Rasa’ covers fermented and animal fluids."
+    },
+    {
+      "token": "વિસ વાણિજ્જે",
+      "translit": "visa vāṇijje",
+      "gloss": "9. trade in poison, weapons, and lethal goods",
+      "partOfSpeech": "compound",
+      "etymology": "viṣa (‘poison’) + vāṇijya",
+      "notes": "Includes arms and toxic implements."
+    },
+    {
+      "token": "કેસ વાણિજ્જે",
+      "translit": "kesa vāṇijje",
+      "gloss": "10. trade in hair / hairy livestock (and bonded beings)",
+      "partOfSpeech": "compound",
+      "etymology": "keśa (‘hair’) + vāṇijya",
+      "notes": "Traditionally extended to traffic in animals and people."
+    },
+    {
+      "token": "જંતપીલણ કમ્મે",
+      "translit": "jantapīlaṇa kamme",
+      "gloss": "11. crushing in mills/presses (oil, cane, grain)",
+      "partOfSpeech": "compound",
+      "etymology": "yantra (‘machine, press’) + pīḍana (‘crushing’) + karma",
+      "notes": "Pressing pulps countless small lives."
+    },
+    {
+      "token": "નિલંછણ કમ્મે",
+      "translit": "nilañchaṇa kamme",
+      "gloss": "12. castrating, branding, mutilating animals",
+      "partOfSpeech": "compound",
+      "etymology": "nirlāñchana (‘marking/gelding’) + karma",
+      "notes": "Not ‘de-husking’; it is bodily mutilation of cattle."
+    },
+    {
+      "token": "દવગ્ગિ દાવણયા",
+      "translit": "davaggi dāvaṇayā",
+      "gloss": "13. setting forest/field fires",
+      "partOfSpeech": "compound",
+      "etymology": "davāgni (dava ‘wildfire’ + agni ‘fire’) + dāpana (‘causing to be given/lit’)",
+      "notes": "Mass destruction of mobile and immobile life."
+    },
+    {
+      "token": "સર દહ તલાવ સોસણયા",
+      "translit": "sara daha talāva sosaṇayā",
+      "gloss": "14. draining lakes, pools, and tanks",
+      "partOfSpeech": "compound",
+      "etymology": "saras (‘lake’) + hrada (‘pool’) + talāva (‘tank’) + śoṣaṇa (‘drying up’)",
+      "notes": "Kills water-bodied and aquatic beings."
+    },
+    {
+      "token": "અસઇ પોસણયા",
+      "translit": "asaï posaṇayā",
+      "gloss": "15. rearing/keeping (animals or people) for immoral gain",
+      "partOfSpeech": "compound",
+      "etymology": "asatī (‘unchaste/immoral’) + poṣaṇa (‘nourishing, maintaining’)",
+      "notes": "Breeding for sale and keeping beings for vice."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "પન્નર",
+      "translit": "pannara",
+      "gloss": "fifteen",
+      "partOfSpeech": "adj",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "કર્માદાન",
+      "translit": "karmādāna",
+      "gloss": "harmful livelihoods",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "regarding, in respect of",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. viṣaye (locative of viṣaya, ‘matter, subject’)",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross, coarse (the overt level)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sthūla (‘gross’)",
+      "notes": "Qualifies the firm rule the householder can keep outright."
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "firm rule (here: total abstention at the gross level)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ni-√yam (‘to restrain’)",
+      "notes": "Glossary term, applied here to the karmādāna."
+    },
+    {
+      "token": "સૂક્ષ્મતણી",
+      "translit": "sūkṣmataṇī",
+      "gloss": "of the subtle (level)",
+      "partOfSpeech": "compound",
+      "etymology": "sūkṣma (‘subtle, minute’) + Gujarati genitive ‘-taṇī’",
+      "notes": "Pairs by contrast with ‘sthūla’."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "prudent care/leeway (where total avoidance is impossible)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā = yatanā (‘careful effort’)",
+      "notes": "Glossary term; the niyama–jayaṇā pairing is the verse’s pivot."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "પન્નર",
+      "translit": "pannara",
+      "gloss": "fifteen",
+      "partOfSpeech": "adj",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "કર્માદાન",
+      "translit": "karmādāna",
+      "gloss": "harmful livelihoods",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (closing confession-tag)",
+      "partOfSpeech": "adverb",
+      "etymology": "as above",
+      "notes": "Seals the karmādāna block as the food-block was sealed."
+    }
+  ],
+  "literalTranslation": "I scrutinise the five transgressions of this seventh bhogopabhoga vow: eating sentient food; eating food bound to sentient matter; eating unripe plant-food; eating ill-cooked plant-food; eating trifling plant-food. Among these five (I confess whatever I did). || As to livelihood, the fifteen karmādāna: charcoal-work, forest-work, cart-work, hire-work, quarry-work; ivory-trade, lac-trade, fluid-trade, poison-trade, hair-trade; mill-crushing-work, mutilation-work, forest-firing, draining of lake-pool-tank, rearing-for-vice. Regarding these fifteen karmādāna — a firm rule at the gross level, careful caution as to the subtle. Among these fifteen (I confess whatever I did).",
+  "idiomaticTranslation": "Now I examine the seventh vow, by which I limit both what I consume and how I earn. On the side of food, I confess its five slips: taking food still alive with one-sensed beings; food clinging to a living part; food unripe, food half-cooked, or food so insubstantial that many lives are destroyed for a morsel. For all such lapses today — may they be undone. And on the side of livelihood, I weigh myself against the fifteen ruinous trades: the fire-trades and forest-felling; cart-making and beast-hire; quarrying; the commerce in ivory, lac, strong liquids, poison and hair; the crushing-mills, the gelding of cattle, the lighting of wildfires, the draining of lakes and ponds, and the keeping of creatures for vice. Where I can, I bind myself by firm rule outright; where the harm is too subtle to escape entirely, I move with vigilant care. For whatever I transgressed among these fifteen — may my wrongdoing be in vain.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse completes the seventh vow that the previous line only opened. There the vow was declared ‘two-fold — by food (bhojanataḥ) and by occupation (karmataḥ)’; here the reciter discharges both halves in sequence, and the single word ‘karmataḥ’ is the hinge that swings the confession from the plate to the workshop. On the food side, notice that the five slips are not about *what* is forbidden but about *carelessness*: the disciplined layperson already renders food acitta, so the lapses catalogue the ways rendering fails — eating something still alive (sacitta), something fused to a living part (sacitta-paḍibaddha), or something unripe, ill-cooked, or so meagre that the kill-to-nourishment ratio is shameful (the three auṣadhi-bhakṣaṇa terms). The recension’s ‘appoṣahi / dupposahi / tucchosahi’ preserves the older auṣadhi (‘herb-food’) wording where the Tattvārtha recension reads ‘sammiśra-abhiṣava-duṣpakva’. The occupation side then unfurls the fifteen karmādāna in their classic three sub-groups — five *karma* (fire, forest, cart, hire, quarry), five *vāṇijya* (ivory, lac, fluids, poison, hair), and five residual cruelties (mill-pressing, gelding, arson, draining waters, breeding for vice). What is genuinely verse-specific, and worth pausing on, is the closing clause ‘sthūla niyama, sūkṣmataṇī jayaṇā.’ The householder cannot truthfully claim to have escaped every karmic ripple of commerce, so the vow is calibrated: an outright **firm rule** at the gross, visible level — *I will not deal in poison, ivory, arson* — paired with **vigilant care** at the subtle level, where supply-chains and incidental harm cannot be wholly severed. That honest two-tier standard, rather than a false claim of total purity, is exactly what the confession then asks pardon for falling short of.",
+    "doctrinalContext": "The verse operationalises ahiṁsā as economics. Where the food-atichāras guard the one-sensed life in what enters the body, the karmādāna guard against livelihoods whose very structure manufactures violence — and the tradition rates them as especially binding because the harm is *systemic and ongoing*, not a single act. The niyama–jayaṇā pairing encodes the layperson’s defining status as *viratāvirata* (‘restrained-yet-unrestrained’): unlike the muni’s total renunciation, the householder’s vow is partial by design, firm where avoidance is possible and merely careful where it is not. Confessing the gap between that ideal and the day’s conduct is the whole point of the atichāra review.",
+    "practicalRelevance": "A reciter today reads the fifteen not as a quaint medieval list but as a livelihood-audit: arms and poison trades, deforestation, factory-scale animal breeding, and industries built on cruelty map onto the old categories directly. The verse asks two honest questions each evening — ‘Was I careless about the life in my food?’ and ‘Does my work, or my investment, sit among these fifteen?’ — and offers a workable ethic: draw a hard line where you can (sthūla niyama), and where modern supply-chains make total avoidance impossible, act with deliberate, minimising care (jayaṇā) rather than pretending innocence.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.35 — sacitta-sambandha-sammiśra-abhiṣava-duṣpakvāhārāḥ (the five atichāras of bhogopabhoga)",
+        "source": "Umāsvāti; tr. S.A. Jain, ‘Reality’ (Jainworld ed.)"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — Ānanda’s vow and the enumeration of the fifteen karmādāna",
+        "source": "Aṅga 7, Śvetāmbara canon"
+      },
+      {
+        "text": "Yogaśāstra 3.99–113 (Hemacandra) — the fifteen karmādāna under the bhogopabhoga guṇavrata",
+        "source": "Hemacandra, Yogaśāstra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha-sūtra, Chapter 7 (vows and their transgressions; sūtra 7.35 on bhogopabhoga atichāras)",
+      "url": "https://jainworld.com/scripture/tattvarth-sutra/chapter-7/",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal framework of the householder’s vows and the canonical five atichāras of the consumption-limiting vow."
+    },
+    {
+      "title": "Anuvrata / Śrāvaka vows (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Placement of bhogopabhoga-parimāṇa among the three guṇavratas and the viratāvirata status of the layperson."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text, the ‘atiyāra’ orthography, and the recension’s appoṣahi/dupposahi/tucchosahi auṣadhi-bhakṣaṇa wording."
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — śrāvakācāra references for the fifteen karmādāna",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the standard three-fold grouping (5 karma + 5 vāṇijya + 5 sāmānya) and individual karmādāna glosses."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The atichāra terms appoṣahi/dupposahi/tucchosahi are this recension's Prakrit forms of apakva-auṣadhi / duṣpakva-auṣadhi / tuccha-auṣadhi bhakṣaṇa; here ‘auṣadhi’ means plant/herb FOODSTUFF, not medicine (some popular glosses mistranslate it). The Tattvārtha (Digambara) recension lists the same vow's atichāras differently as sacitta-sambandha-sammiśra-abhiṣava-duṣpakva (7.35); the food-set is doctrinally equivalent but not verbatim identical — preserved, not normalised. Among the fifteen, ‘nilañchaṇa’ is castration/branding/mutilation of animals (not de-husking grain), and ‘asaï-posaṇa’ is rearing beings for immoral gain (asatī-poṣaṇa); these are the standard scholarly readings. ‘sāḍī-kamme’ = śakaṭa-karma (carts/conveyances) and ‘bhāḍī-kamme’ = bhāṭaka (hire/transport for fare) per the classical list. The verse spans BOTH halves of vow 7 (bhojanataḥ five atichāras + karmataḥ fifteen karmādāna), the food-half having been introduced in the preceding verse; this is structural, not repetition. ‘॥’ retained verbatim as book punctuation."
+}

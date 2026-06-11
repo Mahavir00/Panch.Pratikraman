@@ -1,0 +1,368 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/26",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "It counts the eternal Jina-temples in the higher heavens — fifty, forty and six thousand, then a few hundreds, then 318 and five — and adds them all to a grand total of 84,97,023 temples in the upper world.",
+  "recitation": "[chāl] pannāsa cālīsa, cha sahasa jinaharā. do do doḍhaja, doḍhaja sattāvarā. [truṭak] varā sattavarā igyārottara, sattottaraso jāṇīe. ekaso upara pañca anuttara, anukrame vakhāṇīe. sarve maḷī jinahara jinahara, lākha corāsī sākha e. sahasa sattāṇuṁ āgalā, tihāṁ vīsa ne traṇa dākha e.",
+  "wordByWord": [
+    {
+      "token": "ચાલ",
+      "translit": "cāl",
+      "gloss": "the 'chāl' — the first, flowing melodic strain of the two-part deśī stanza",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati cāl 'gait, run'; the brisk opening movement of a dhāla, paired with the truṭak",
+      "notes": "a structural/musical label, not part of the counted text"
+    },
+    {
+      "token": "પન્નાસ",
+      "translit": "pannāsa",
+      "gloss": "fifty [thousand] — the temples of Lāntaka",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pannāsa < Sanskrit pañcāśat 'fifty'",
+      "notes": "the 'thousand' is supplied by sahasa later in the line; = 50,000"
+    },
+    {
+      "token": "ચાલીસ",
+      "translit": "cālīsa",
+      "gloss": "forty [thousand] — the temples of Mahāśukra",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cālīsa < Sanskrit catvāriṁśat 'forty'",
+      "notes": "= 40,000"
+    },
+    {
+      "token": "છ",
+      "translit": "cha",
+      "gloss": "six",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cha < Sanskrit ṣaṭ 'six'",
+      "notes": "modifies sahasa → six thousand"
+    },
+    {
+      "token": "સહસ",
+      "translit": "sahasa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahasa < Sanskrit sahasra 'thousand'",
+      "notes": "governs the preceding pannāsa/cālīsa/cha → 50,000; 40,000; 6,000 (Sahasrāra)"
+    },
+    {
+      "token": "જિનહરા",
+      "translit": "jinaharā",
+      "gloss": "Jina-temples (jina-caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "jina + hara, Gujarati jinhar < Sanskrit jina-gṛha 'house of the Jina'",
+      "notes": "subject of the whole enumeration"
+    },
+    {
+      "token": "દો",
+      "translit": "do",
+      "gloss": "two [hundred] — Ānata's temples",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa/Gujarati do < Sanskrit dvau 'two'",
+      "notes": "200; 'hundred' is implied"
+    },
+    {
+      "token": "દો",
+      "translit": "do",
+      "gloss": "two [hundred] — Prāṇata's temples",
+      "partOfSpeech": "noun",
+      "etymology": "as above; the doubling marks the paired heavens Ānata + Prāṇata",
+      "notes": "200; the pair total 400"
+    },
+    {
+      "token": "દોઢજ",
+      "translit": "doḍhaja",
+      "gloss": "just one-and-a-half [hundred] (=150) — Āraṇa's temples",
+      "partOfSpeech": "noun",
+      "etymology": "doḍha 'one and a half' (< Sanskrit dvyardha) + emphatic particle ja",
+      "notes": "150; the -ja is the metrical emphatic 'precisely'"
+    },
+    {
+      "token": "દોઢજ",
+      "translit": "doḍhaja",
+      "gloss": "just one-and-a-half [hundred] (=150) — Acyuta's temples",
+      "partOfSpeech": "noun",
+      "etymology": "as above; the pair Āraṇa + Acyuta total 300",
+      "notes": "150"
+    },
+    {
+      "token": "સત્તાવરા",
+      "translit": "sattāvarā",
+      "gloss": "those set above (the graiveyaka tier, next to be counted)",
+      "partOfSpeech": "noun",
+      "etymology": "apparently se/satta + uvara 'those above' (cf. Sanskrit upari); a poetic name for the upper, neck-region heavens",
+      "notes": "exact form uncertain; it introduces the nine Graiveyakas whose counts follow; flagged in notes"
+    },
+    {
+      "token": "ત્રુટક",
+      "translit": "truṭak",
+      "gloss": "the 'truṭak' — the second, broken/quickened strain that picks up the chāl's last word",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati truṭak < Sanskrit truṭ 'to break'; the answering half of the deśī stanza",
+      "notes": "structural label; the deliberate repetition of 'sattāvarā' is its hallmark linking device"
+    },
+    {
+      "token": "વરા",
+      "translit": "varā",
+      "gloss": "(linking echo) those [above]",
+      "partOfSpeech": "particle",
+      "etymology": "the truṭak's repetition of the tail of sattāvarā, a meter-stitching device",
+      "notes": "carries no new number; resumes the graiveyaka count"
+    },
+    {
+      "token": "સત્તવરા",
+      "translit": "sattavarā",
+      "gloss": "those set above — the graiveyaka heavens",
+      "partOfSpeech": "noun",
+      "etymology": "variant of sattāvarā (see above)",
+      "notes": "repeated per truṭak convention; subject of the 111/107/100 split"
+    },
+    {
+      "token": "ઇગ્યારોત્તર",
+      "translit": "igyārottara",
+      "gloss": "one-hundred-eleven (111) — the lower three Graiveyakas",
+      "partOfSpeech": "noun",
+      "etymology": "igyāra 'eleven' (< Sanskrit ekādaśa) + uttara 'over [a hundred]'",
+      "notes": "111"
+    },
+    {
+      "token": "સત્તોત્તરસો",
+      "translit": "sattottaraso",
+      "gloss": "one-hundred-seven (107) — the middle three Graiveyakas",
+      "partOfSpeech": "noun",
+      "etymology": "satta 'seven' + uttara 'over' + so 'hundred' (< Sanskrit śata)",
+      "notes": "107"
+    },
+    {
+      "token": "જાણીએ",
+      "translit": "jāṇīe",
+      "gloss": "let it be known / one should understand",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati jāṇvuṁ < Sanskrit jñā 'to know'; first-person plural exhortative",
+      "notes": "a recurring 'reckon it thus' refrain"
+    },
+    {
+      "token": "એકસો",
+      "translit": "ekaso",
+      "gloss": "one hundred (100) — the upper three Graiveyakas",
+      "partOfSpeech": "noun",
+      "etymology": "eka 'one' + so 'hundred'",
+      "notes": "100; with 111+107 makes the Graiveyaka total of 318"
+    },
+    {
+      "token": "ઉપર",
+      "translit": "upara",
+      "gloss": "above / over and beyond",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati upar < Sanskrit upari 'above'",
+      "notes": "'on top of that hundred', i.e. higher than the Graiveyakas"
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pañca < Sanskrit pañca 'five'",
+      "notes": "the five temples, one per heaven"
+    },
+    {
+      "token": "અનુત્તર",
+      "translit": "anuttara",
+      "gloss": "the Anuttara (highest) heavens",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit an-uttara 'than which none is higher'",
+      "notes": "the five supreme vimānas; five temples total"
+    },
+    {
+      "token": "અનુક્રમે",
+      "translit": "anukrame",
+      "gloss": "in due order, sequentially",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit anukrama 'sequence' in the locative",
+      "notes": "the tiers are to be told heaven by heaven, ascending"
+    },
+    {
+      "token": "વખાણીએ",
+      "translit": "vakhāṇīe",
+      "gloss": "let us expound / describe",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vakhāṇvuṁ < Sanskrit vyākhyā 'to explain'; exhortative plural",
+      "notes": "parallels jāṇīe; an invitation to recite the census aloud"
+    },
+    {
+      "token": "સર્વે",
+      "translit": "sarve",
+      "gloss": "all (of them)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit sarve 'all'",
+      "notes": "begins the grand summation"
+    },
+    {
+      "token": "મળી",
+      "translit": "maḷī",
+      "gloss": "combined together, added up",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati maḷvuṁ 'to meet, join'; absolutive 'having joined'",
+      "notes": "'all taken together'"
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinahara",
+      "gloss": "Jina-temple",
+      "partOfSpeech": "noun",
+      "etymology": "jina + hara < Sanskrit jina-gṛha",
+      "notes": "first of the doubled form"
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinahara",
+      "gloss": "Jina-temple (repeated for emphasis: 'temple upon temple')",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "the reduplication conveys an uncountable multitude"
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati lākh < Sanskrit lakṣa '100,000'",
+      "notes": "governs corāsī → 84 lakh"
+    },
+    {
+      "token": "ચોરાસી",
+      "translit": "corāsī",
+      "gloss": "eighty-four",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit corāsī < Sanskrit caturaśīti 'eighty-four'",
+      "notes": "84 lakh = 8,400,000 (the lakh-totals from the previous verse)"
+    },
+    {
+      "token": "સાખ",
+      "translit": "sākha",
+      "gloss": "witness, attested testimony",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati sākh < Sanskrit sākṣya 'evidence'",
+      "notes": "'as the scripture attests' — stresses the figure's authority"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / thus (here)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati demonstrative e 'this, that'",
+      "notes": "line-final deictic flourish"
+    },
+    {
+      "token": "સહસ",
+      "translit": "sahasa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahasa < Sanskrit sahasra",
+      "notes": "governs sattāṇuṁ → 97 thousand"
+    },
+    {
+      "token": "સત્તાણું",
+      "translit": "sattāṇuṁ",
+      "gloss": "ninety-seven",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati sattāṇuṁ < Sanskrit saptanavati 'ninety-seven'",
+      "notes": "97,000"
+    },
+    {
+      "token": "આગલા",
+      "translit": "āgalā",
+      "gloss": "further, in addition (beyond the lakhs)",
+      "partOfSpeech": "adjective",
+      "etymology": "Gujarati āgaḷ 'ahead, more' < Sanskrit agra 'front'",
+      "notes": "'and 97 thousand more on top'"
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in that [sum]",
+      "partOfSpeech": "adverb",
+      "etymology": "Apabhraṁśa tihiṁ < Sanskrit tatra 'there'",
+      "notes": "locates the final small remainder"
+    },
+    {
+      "token": "વીસ",
+      "translit": "vīsa",
+      "gloss": "twenty",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vīsa < Sanskrit viṁśati 'twenty'",
+      "notes": "with traṇa → 23"
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati conjunctive ne 'and'",
+      "notes": "joins twenty and three"
+    },
+    {
+      "token": "ત્રણ",
+      "translit": "traṇa",
+      "gloss": "three",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiṇṇi < Sanskrit trīṇi 'three'",
+      "notes": "20 + 3 = 23, completing 84,97,023"
+    },
+    {
+      "token": "દાખ",
+      "translit": "dākha",
+      "gloss": "is shown / declared",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati dākhavuṁ 'to show' < Sanskrit darś 'to show'",
+      "notes": "'so it is set forth'; pairs with sākha as an authority-marker"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / thus",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati demonstrative e",
+      "notes": "closing deictic, matching the earlier 'e'"
+    }
+  ],
+  "literalTranslation": "Fifty, forty, six thousand Jina-temples; two and two [hundred], one-and-a-half, one-and-a-half [hundred], and those set above. Those above: one-hundred-eleven, one-hundred-seven — so know it; one hundred, and above it the five Anuttaras — expound them in order. All combined, temple upon temple, eighty-four lakh, the scripture attests; ninety-seven thousand more, and there twenty-and-three — so it is declared.",
+  "idiomaticTranslation": "Count the eternal shrines of the higher heavens: fifty thousand, forty thousand, six thousand; then Ānata and Prāṇata with two hundred each, Āraṇa and Acyuta with a hundred-and-fifty each, and higher still the Graiveyakas — one hundred eleven, one hundred seven, and one hundred — and above them the five Anuttaras; tell them heaven by heaven. Add them all, shrine upon shrine: eighty-four lakh — so the scripture bears witness — and ninety-seven thousand beyond that, and there twenty-three more. Thus stands the full tally of the upper world's Jina-temples.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding verse rendered the great kalpa-heavens in lakhs (Saudharma 32, Īśāna 28, Sanatkumāra 12, Māhendra 8, Brahma 4 — eighty-four lakh in all), this verse completes the ascent in ever-smaller figures, a deliberate arithmetic descent that mirrors the cosmic ascent: the higher one rises, the fewer the vimānas, and so the fewer the shrines. Lāntaka yields fifty thousand, Mahāśukra forty, Sahasrāra six; the twinned Ānata-Prāṇata two hundred apiece, Āraṇa-Acyuta a hundred-and-fifty apiece (doḍha, 'one and a half' hundred). Then the nine Graiveyakas — the heavens at the cosmic Puruṣa's 'neck' (grīvā) — split three-and-three-and-three into 111, 107 and 100, totalling 318; and crowning all, the five Anuttaras hold but five. The truṭak's tell-tale repetition (sattāvarā → varā sattavarā) is the meter stitching its two halves, not a doubled count. The verse then gathers everything into one resounding sum: 84,97,023 temples — eighty-four lakh (carried from the verse before) plus ninety-seven thousand plus twenty-three. Twice the poet flags authority — sākha ('the scripture attests') and dākha ('so it is declared') — anchoring the figure not in arithmetic but in āgama. The reduplicated 'jinhar jinhar' ('temple upon temple') turns the ledger into devotion: a number too vast to picture, only to bow before. This closes the ūrdhva-loka temple-census; the following verse turns from temples to the still-vaster crore-counts of the images (pratimā) enshrined within them.",
+    "doctrinalContext": "These are śāśvata caityas — uncreated, beginningless Jina-shrines housing the four eternal Jina-images (Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna), distinct from the aśāśvata temples raised by hands on earth. To bow to them in caitya-vandana is to venerate the Jina as worshipped continuously by the vaimānika gods themselves, beyond any human era. The precise, scripturally-warranted tally (sākha/dākha) embodies the Jain conviction that the cosmos is not vague but exactly known to the omniscient Jina; the figures derive from the saṅgrahaṇī cosmographic tradition, here versified for recitation. The diminishing counts encode a structural truth — the loftier heavens are fewer and sparser in vimānas — while the immense grand total serves its devotional purpose: to dissolve the small self in wonder at how boundlessly the Jina is honoured.",
+    "practicalRelevance": "As the reciter chants this tally at dawn, the mind climbs heaven by heaven, mentally prostrating at each tier rather than auditing the math. Let the closing 84,97,023 land as awe, not accounting: in a single breath the worshipper has circled every eternal shrine of the upper world and joined the gods in their endless worship.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-saṅgrahaṇī — counts of śāśvata Jina-caityas in the vaimānika heavens (84,97,023 total)",
+        "source": "Śrī Candrasūri (Jaina cosmography tradition)"
+      },
+      {
+        "text": "Tiloyapaṇṇattī / Jambūdvīpa-prajñapti — enumeration of eternal Jina-temples across the lokas",
+        "source": "Jaina Āgama cosmographic literature"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Graiveyaka — definitions (Jainism, Sanskrit)",
+      "url": "https://www.wisdomlib.org/definition/graiveyaka",
+      "type": "dictionary",
+      "consultedFor": "Meaning of graiveyaka (from grīvā, 'neck'), the nine neck-region heavens, and their 111/107/100 = 318 Jina-temple split."
+    },
+    {
+      "title": "Anuttara — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/anuttara",
+      "type": "dictionary",
+      "consultedFor": "Identity of the five supreme Anuttara heavens above the Graiveyakas, holding five śāśvata temples."
+    },
+    {
+      "title": "Vaimanika — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/vaimanika",
+      "type": "dictionary",
+      "consultedFor": "The vaimānika (kalpa + above) class of the upper world whose eternal Jina-temples total 84,97,023."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The per-heaven figures are secure in the cosmographic tradition: Lāntaka 50,000; Mahāśukra 40,000; Sahasrāra 6,000; Ānata + Prāṇata 200 + 200 = 400; Āraṇa + Acyuta 150 + 150 = 300; nine Graiveyakas 111 + 107 + 100 = 318; five Anuttaras 5. With the 84 lakh of the kalpa-heavens carried from verse 1, the grand total is 84,97,023, the traditional count of śāśvata Jina-caityas in the ūrdhva-loka — independently corroborated. 'doḍha(ja)' = one-and-a-half hundred (150); the -ja is the metrical emphatic. The form 'sattāvarā / varā sattavarā' is read as a poetic designation of the upper (Graiveyaka) tier and as the truṭak's signature word-repetition rather than a numeral; its precise etymology is uncertain and is flagged here. 'sākha' (witness) and 'dākha' (declared) are authority-markers, not counted items. Spelling is preserved verbatim per the Anchalgaccha (Vidhipaksha) edition."
+}

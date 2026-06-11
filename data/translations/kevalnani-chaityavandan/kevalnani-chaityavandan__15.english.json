@@ -1,0 +1,174 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Vardhamāna and Vāriṣeṇa complete the fourth set of twenty-four Jinas, and Vācaka Mūlā declares that all ninety-six of these supreme Jinas are givers of happiness.",
+  "recitation": "vardhamāna vāriṣeṇa īśa, e huvā jina covīśa. evā channu e jinavara, 'vācaka mūlā' kahe sukhakara",
+  "wordByWord": [
+    {
+      "token": "વર્ધમાન",
+      "translit": "vardhamāna",
+      "gloss": "Vardhamāna — the 'ever-growing' one; here one of the four eternal (śāśvata) Jina-names",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit vardhamāna, present participle of vṛdh 'to grow, increase' (lit. 'increasing'); also the personal name of Mahāvīra.",
+      "notes": "Paired here as a śāśvata name closing the fourth caubīsī, not as the historical 24th Tīrthaṅkara of the present age."
+    },
+    {
+      "token": "વારિષેણ",
+      "translit": "vāriṣeṇa",
+      "gloss": "Vāriṣeṇa — another of the four eternal Jina-names",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit vāriṣeṇa, conventionally vāri 'water' + sena/ṣeṇa 'host, army'; an ever-recurring (śāśvata) Jina-name attested across the time-cycles.",
+      "notes": "Spelling વારિષેણ kept verbatim; Sanskrit vāriṣeṇa/varisena."
+    },
+    {
+      "token": "ઇશ",
+      "translit": "īśa",
+      "gloss": "lord(s) — i.e. these are sovereign Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit īśa 'lord, master, ruler', from the root īś 'to own, rule'.",
+      "notes": "Predicative epithet rounding off the just-named eternal Jinas (with Ṛṣabha and Candrānana of the preceding verse) as 'lords'."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old/medieval Gujarati demonstrative e 'this, these', from Apabhraṁśa/Prakrit ē(ya), Sanskrit eṣa/etad.",
+      "notes": "Deictic, gathering the named Jinas into a single set."
+    },
+    {
+      "token": "હુવા",
+      "translit": "huvā",
+      "gloss": "became / came to be",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati huvā, past/perfective of hova- 'to be, become', from Prakrit hoï/bhū, Sanskrit bhū 'to be'.",
+      "notes": "Plural agreement with the twenty-four Jinas."
+    },
+    {
+      "token": "જિન",
+      "translit": "jina",
+      "gloss": "Jinas (conquerors / Tīrthaṅkaras)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jina 'conqueror', from ji 'to conquer'.",
+      "notes": ""
+    },
+    {
+      "token": "ચોવીશ",
+      "translit": "covīśa",
+      "gloss": "twenty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati covīśa 'twenty-four', from Prakrit cauvīsa, Sanskrit caturviṁśati; the numeric base of caubīsī.",
+      "notes": "Marks the completion of a fourth full set of twenty-four."
+    },
+    {
+      "token": "એવા",
+      "translit": "evā",
+      "gloss": "such, like these",
+      "partOfSpeech": "adj",
+      "etymology": "Old Gujarati evā 'of such kind', from Prakrit ēriса/ēyārisa, ultimately Sanskrit etādṛśa.",
+      "notes": "Plural; qualifies the ninety-six Jinas that follow."
+    },
+    {
+      "token": "છન્નુ",
+      "translit": "channu",
+      "gloss": "ninety-six",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati channu 'ninety-six', from Prakrit chaṇṇaui, Sanskrit ṣaṇṇavati.",
+      "notes": "The pivotal word of the verse: four caubīsīs × 24 = 96, the total this dhāla has been building toward."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "As above: medieval Gujarati demonstrative e, from Prakrit ē(ya), Sanskrit etad.",
+      "notes": "Repeated deictic, now embracing the full ninety-six."
+    },
+    {
+      "token": "જિનવર",
+      "translit": "jinavara",
+      "gloss": "supreme Jinas (best of conquerors)",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit jina 'conqueror' + vara 'best, excellent, choicest'; jinavara = 'the most excellent Jina'.",
+      "notes": "Honorific intensifier; the ninety-six are not merely jina but jinavara."
+    },
+    {
+      "token": "વાચક",
+      "translit": "vācaka",
+      "gloss": "Vācaka (the preceptor-rank, Upādhyāya)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vācaka 'one who speaks/expounds', from vac 'to speak'; the monastic rank of reader-preceptor.",
+      "notes": "Part of the poet's signature."
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "Mūlā (the poet's name)",
+      "partOfSpeech": "invocation",
+      "etymology": "Proper name; cf. Sanskrit mūla 'root, base'.",
+      "notes": "Quotation marks in the source mark 'vācaka mūlā' as the authorial signature."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says, declares",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati kahe 'says', from Prakrit kahaï, Sanskrit kathayati 'tells'.",
+      "notes": "Third-person; frames the closing epithet as the poet's own utterance."
+    },
+    {
+      "token": "સુખકર",
+      "translit": "sukhakara",
+      "gloss": "bestowers of happiness; bringing well-being",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit sukha 'happiness, ease' + kara 'maker, doer' (root kṛ 'to do, make'); sukhakara = 'that which produces happiness'.",
+      "notes": "The verse's final predication of the ninety-six Jinas; also colours the act of reciting their names as happiness-giving."
+    }
+  ],
+  "literalTranslation": "Vardhamāna, Vāriṣeṇa — [these] lords: these became the twenty-four Jinas. Such ninety-six are these supreme Jinas — 'Vācaka Mūlā' says — givers of happiness.",
+  "idiomaticTranslation": "Vardhamāna and Vāriṣeṇa, sovereign Jinas — with these the [fourth] twenty-four is complete. Ninety-six supreme Jinas in all: Vācaka Mūlā proclaims them the bestowers of happiness.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the keystone that locks the dhāla's arithmetic into place. The preceding verse had named the eternal Ṛṣabha and Candrānana; here Mūlā supplies the remaining two śāśvata names, Vardhamāna and Vāriṣeṇa, and with the word 'covīśa' (twenty-four) seals a fourth complete set. Only now does the great total land: 'evā channu' — 'such ninety-six'. The whole sweep of named Jinas, three caubīsīs of the ages plus this Mahāvideha-and-eternal set, is gathered into a single number the reciter can hold in mind. Note the deliberate escalation of epithets within the line: the four are first 'īśa' (lords), the full set is then 'jinavara' (not merely conquerors but the choicest of conquerors), and the closing word lifts them once more to 'sukhakara' — sources of happiness. The verse thus moves from enumeration to benediction in a single breath. The bracketing 'e … evā … e' (these … such … these) is not filler: it performs the act of pointing, drawing the scattered names into one reverent gesture before the poet sets his seal. The signature 'vācaka mūlā kahe' closes the section as it closes each dhāla, but its placement here is pointed — the poet vouches personally for the final claim, that contemplating the ninety-six yields joy. The verse is short and additive by design; its weight lies in the single act of summation and the rising chain of honorifics, not in new doctrine.",
+    "doctrinalContext": "The number ninety-six embodies a core Jaina conviction: the Jina-presence is never confined to one age or one continent. By summing the past, present and future caubīsīs with the Mahāvideha/eternal (śāśvata) set, the verse asserts that awakened guides span all time and space — the śāśvata names Ṛṣabha, Candrānana, Vāriṣeṇa and Vardhamāna recur identically in every cosmic half-cycle, guaranteeing that the world is never wholly without a Jina. Calling them 'sukhakara' encodes the soteriological point that veneration of the Jina is itself fruit-bearing: the happiness meant is not worldly comfort but the puṇya and steadied samyaktva that flow from reverence. 'Jinavara' similarly affirms hierarchy within reverence — these are the highest objects of devotion.",
+    "practicalRelevance": "For the dawn reciter, this verse is the moment of gathering: having named so many Jinas, one now holds them as a single set of ninety-six and rests in the assurance that an awakened guide always exists somewhere in the cosmos. Let 'sukhakara' land as the takeaway — finish the enumeration not as a memory-test but as a quiet act that leaves the mind glad and the faith firmer.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 1.2 (ādīśvara-caritra), on Vāriṣeṇā and the eternal Jaina cosmography",
+        "source": "Hemacandra, trans. Helen M. Johnson (archive.org)"
+      },
+      {
+        "text": "The four śāśvata Jina-names (Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna) recurring each half-cycle",
+        "source": "Jaina cosmographic tradition (Tiloyapaṇṇatti)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sukhakara, Sukhākara, Sukha-kara: 13 definitions",
+      "url": "https://www.wisdomlib.org/definition/sukhakara",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of sukhakara ('producing happiness') for the verse's closing epithet."
+    },
+    {
+      "title": "Varisena, Vārisena, Varishena: 5 definitions",
+      "url": "https://www.wisdomlib.org/definition/varisena",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit/Prakrit form and Jaina attestation of the name Vāriṣeṇa."
+    },
+    {
+      "title": "Jinavara, Jina-vara: definitions",
+      "url": "https://www.wisdomlib.org/definition/jinavara",
+      "type": "dictionary",
+      "consultedFor": "Compound jina + vara ('most excellent conqueror') glossed in this verse."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Lives of Sixty-three Illustrious Persons)",
+      "url": "https://archive.org/details/puranicencyclopa00maniuoft",
+      "type": "scholarship",
+      "consultedFor": "Corroboration of Vāriṣeṇā within Jaina cosmographic literature."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "ઇશ (īśa) is read as a predicative epithet 'lord(s)' applied to the just-named eternal Jinas continued from the preceding verse (Ṛṣabha, Candrānana); some recitations may parse it as part of a name — flagged as the one genuine ambiguity here. 'channu' = 96 is the sum of four caubīsīs (24 × 4), per the hymn's own enumeration and the preface. Spellings વારિષેણ, છન્નુ, ચોવીશ kept verbatim per the book's orthography; not normalized. Vardhamāna here functions as a śāśvata Jina-name, distinct from its use as Mahāvīra's personal name."
+}

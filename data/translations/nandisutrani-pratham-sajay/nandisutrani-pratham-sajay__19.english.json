@@ -1,0 +1,174 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/19",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Jain community, that treasure-house of good qualities, which is forever likened to a city, a chariot, a wheel, a lotus, the moon, the sun, the ocean, and Mount Meru.",
+  "recitation": "nayara raha cakka paüme, cande sūre samuda merummi | jo uvamijjai sayayaṁ, taṁ saṅgha guṇāyaraṁ vande ||",
+  "wordByWord": [
+    {
+      "token": "નયર",
+      "translit": "nayara",
+      "gloss": "city",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayara < Sanskrit nagara, 'city, fortified town'.",
+      "notes": "First member of the locative simile-string; recalls the saṅgha-nagara of v.4."
+    },
+    {
+      "token": "રહ",
+      "translit": "raha",
+      "gloss": "chariot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raha < Sanskrit ratha, 'war-chariot'.",
+      "notes": "Recalls the saṅgha-ratha of v.6; not 'king' (raha here is ratha, not rāja)."
+    },
+    {
+      "token": "ચક્ક",
+      "translit": "cakka",
+      "gloss": "wheel",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cakka < Sanskrit cakra, 'wheel, discus'.",
+      "notes": "Recalls the saṅgha-cakra of v.5."
+    },
+    {
+      "token": "પઉમે",
+      "translit": "paüme",
+      "gloss": "in/to the lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paüma (locative paüme) < Sanskrit padma, 'lotus'.",
+      "notes": "Locative of comparison; the case-ending governs the whole preceding list (city–chariot–wheel–lotus). Recalls vv.7–8."
+    },
+    {
+      "token": "ચંદે",
+      "translit": "cande",
+      "gloss": "in/to the moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit canda (locative cande) < Sanskrit candra, 'moon'.",
+      "notes": "Locative of comparison; recalls the saṅgha-candra of v.9."
+    },
+    {
+      "token": "સૂરે",
+      "translit": "sūre",
+      "gloss": "in/to the sun",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sūra (locative sūre) < Sanskrit sūrya, 'sun'.",
+      "notes": "Locative of comparison; recalls the saṅgha-sūrya of v.10. Note long ū per the book's mātrā."
+    },
+    {
+      "token": "સમુદ",
+      "translit": "samuda",
+      "gloss": "ocean",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samuda < Sanskrit samudra, 'ocean, sea'.",
+      "notes": "Recalls the saṅgha-samudra of v.11; the final-member locative merummi carries the case for both."
+    },
+    {
+      "token": "મેરૂમ્મિ",
+      "translit": "merummi",
+      "gloss": "in/to Meru",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit meru (locative merummi, with the -mmi locative ending) < Sanskrit meru, the cosmic world-mountain.",
+      "notes": "Climactic eighth simile; recalls the extended Meru/Mandara passage of vv.12–18."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "who, which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo < Sanskrit yaḥ, masculine nominative relative pronoun.",
+      "notes": "Relative pronoun whose correlative is taṁ ('that'); its antecedent is saṅgha."
+    },
+    {
+      "token": "ઉવમિજજઇ",
+      "translit": "uvamijjai",
+      "gloss": "is compared, is likened",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit passive uvamijjai < Sanskrit upamīyate, passive of upa-√mā, 'to compare, liken'.",
+      "notes": "Passive 3rd-sg.; the locatives above are its standards of comparison ('is likened to X')."
+    },
+    {
+      "token": "સયયં",
+      "translit": "sayayaṁ",
+      "gloss": "constantly, always",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayayaṁ < Sanskrit satatam, 'continually, ever'.",
+      "notes": "Stresses that the eightfold likening is perpetual, not occasional."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ < Sanskrit tam, accusative singular demonstrative.",
+      "notes": "Correlative of jo; object of vande together with saṅgha and guṇāyaraṁ."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the Saṅgha (the four-fold community)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṅgha < Sanskrit saṅgha, 'assembly, community'.",
+      "notes": "Accusative (saṅghaṁ) in sense, here in the book's bare stem-form; the object of homage."
+    },
+    {
+      "token": "ગુણાયરં",
+      "translit": "guṇāyaraṁ",
+      "gloss": "the mine of virtues",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit guṇa + āyara (< ākara, 'mine') = guṇāyara, 'mine/treasury of virtues'; accusative -aṁ.",
+      "notes": "The verse's single fresh epithet; everything else recapitulates earlier images."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Sanskrit vande, 1st-sg. middle of √vand, 'to salute, worship'.",
+      "notes": "The hymn's recurring act of homage; the reciter speaks in the first person."
+    }
+  ],
+  "literalTranslation": "That which is constantly likened to a city, a chariot, a wheel, a lotus — to the moon, the sun, the ocean, and Mount Meru — that Saṅgha, the mine of virtues, I venerate.",
+  "idiomaticTranslation": "To the holy community that is forever likened to a city and a chariot, a wheel and a lotus, to the moon, the sun, the ocean, and to towering Mount Meru — to that Saṅgha, that very mine of all virtues, I bow in reverence.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the gathering-verse (saṅgraha-gāthā) of the entire simile-chain: in a single breath it strings together all eight images the hymn has unfolded one at a time — city, chariot, wheel, lotus, moon, sun, ocean, Meru — and then resolves them into one act of homage. The grammar mirrors the meaning: a relative-correlative frame (jo … taṁ) sweeps up the scattered similes and ties them to a single object, the Saṅgha. The adverb sayayaṁ ('constantly') is the hinge — the community is not occasionally grand but perpetually so, worthy of every one of these comparisons at once. After eighteen verses of analysis, v.19 performs a synthesis: the reciter no longer dwells on how the Saṅgha resembles a lotus or a mountain, but simply bows to the whole. The one genuinely new word is guṇāyaraṁ, 'mine of virtues' — the abstract truth behind every concrete picture. The eight similes were only ever ways of saying this: the Saṅgha is the inexhaustible source from which good qualities are mined. The verse thus turns description into devotion, closing the long rūpaka sequence not with another image but with folded hands.",
+    "doctrinalContext": "The verse crystallizes the Jain conviction that the four-fold Saṅgha (sādhu, sādhvī, śrāvaka, śrāvikā) is itself an object of veneration — vandanīya — because it is the living vessel of right-faith, right-knowledge, and right-conduct (the three jewels). Calling it guṇākara ('mine of virtues') asserts that liberating qualities are not abstractions but are embodied and transmitted within the community; one approaches the path through the Saṅgha. The eightfold likening also teaches that no single metaphor exhausts a spiritual reality: stability (Meru), purity (lotus), illumination (sun, moon), depth (ocean), and protective order (city, chariot, wheel) are all partial windows onto one whole.",
+    "practicalRelevance": "Recited at the climax of the simile-chain, this verse invites the practitioner to stop dissecting and simply revere: having understood why the Saṅgha is praised, one now bows. In daily life it is a reminder to honour and rely on the community that carries the teaching, and to see oneself as drawing virtue from that 'mine' rather than generating it alone.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening maṅgala (Saṅgha-stuti, the eight similes of vv.4–18 gathered here)",
+        "source": "Śvetāmbara Āgama, Devardhigaṇi Kṣamāśramaṇa redaction"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — community of homage to the Tīrthaṅkaras, parallel act of vande",
+        "source": "Āvaśyaka-sūtra, 2nd Āvaśyaka"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ākara — definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/akara",
+      "type": "dictionary",
+      "consultedFor": "Sense of ākara ('mine, source') underlying guṇāyara = guṇākara, 'mine of virtues'."
+    },
+    {
+      "title": "Upamā — definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/upama",
+      "type": "dictionary",
+      "consultedFor": "Root upa-√mā / upamā ('comparison, likening') behind the passive uvamijjai = upamīyate."
+    },
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening Saṅgha-praise from which this gāthā is drawn."
+    },
+    {
+      "title": "Meru (Sumeru) — definitions including Jainism",
+      "url": "https://www.wisdomlib.org/definition/meru",
+      "type": "dictionary",
+      "consultedFor": "Cosmological sense of Meru as the central world-mountain, the eighth and climactic simile."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a saṅgraha (gathering) gāthā: the locatives paüme/cande/sūre/merummi are locatives of comparison governing the whole simile-string, with uvamijjai ('is likened'). 'raha' is ratha ('chariot'), not rāja ('king'); a generic web summary mis-glossed it. Book readings preserved verbatim (long ū in સૂરે/મેરૂમ્મિ; ઉવમિજજઇ without the doubled-conjunct ligature; bare stem સંઘ). The exact count/order of the Saṅgha-similes can vary across Nandī recensions; the eightfold list here follows this book's vv.4–18 arc. Sandhi/orthography not normalized per the tradition's fidelity rules."
+}

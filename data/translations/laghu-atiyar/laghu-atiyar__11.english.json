@@ -1,0 +1,394 @@
+{
+  "shlokaId": "laghu-atiyar/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the eleventh lay vow — the holy fast-day on which a householder lives like a monk for a day — and here the reciter reviews and confesses the five small ways it can be done carelessly.",
+  "recitation": "igyārasuṁ (agiyāramuṁ) pauṣadha-vrata. cihuṁ bhede jāṇavuṁ. āhāra-posahe, sarīra-sakkāra posahe, baṁbhacera posahe, avvāvāra posahe. e igyāramā pauṣadha-vratataṇā pāṁca atiyāra śodhuṁ. appaḍilehiya duppaḍilehiya sijjā-saṁtthāre, appamajjiya duppamajjiya sijjā-saṁthāre, appaḍilehiya duppaḍilehiya uccāra pāsavaṇa bhūmi, appamajjiya duppamajjiya uccāra pāsavaṇa bhūmi, posahovavāsassa sammaṁ aṇāṇupālayaṇā. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "ઇગ્યારસું",
+      "translit": "igyārasuṁ",
+      "gloss": "eleventh",
+      "partOfSpeech": "adj",
+      "etymology": "Old-Gujarati ordinal from Prakrit ekkārasa < Sanskrit ekādaśa (eleven).",
+      "notes": "The book glosses it in parenthesis with the modern form agiyāramuṁ."
+    },
+    {
+      "token": "(અગિયારમું)",
+      "translit": "(agiyāramuṁ)",
+      "gloss": "eleventh (modern Gujarati gloss)",
+      "partOfSpeech": "adj",
+      "etymology": "Modern Gujarati ordinal of agiyāra (eleven).",
+      "notes": "A clarifying parenthetical inserted by the editor, not part of the recited line."
+    },
+    {
+      "token": "પૌષધવ્રત",
+      "translit": "pauṣadha-vrata",
+      "gloss": "the pauṣadha vow — the ascetic fast-day vow",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit pauṣadha (from upavasatha, a fast-day observance) + vrata (vow); Prakrit posaha.",
+      "notes": "The 11th lay vow, second of the four śikṣāvratas; the householder keeps a monk-like discipline for a day."
+    },
+    {
+      "token": "ચિહું",
+      "translit": "cihuṁ",
+      "gloss": "in four / fourfold",
+      "partOfSpeech": "adj",
+      "etymology": "Old-Gujarati/Apabhraṁśa from Prakrit cau- < Sanskrit catur (four).",
+      "notes": ""
+    },
+    {
+      "token": "ભેદે",
+      "translit": "bhede",
+      "gloss": "by divisions / in kinds",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bheda (division, type), locative-instrumental sense.",
+      "notes": ""
+    },
+    {
+      "token": "જાણવું",
+      "translit": "jāṇavuṁ",
+      "gloss": "is to be known",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati infinitive/gerundive of jāṇavuṁ < Prakrit jāṇai < Sanskrit jñā (to know).",
+      "notes": ""
+    },
+    {
+      "token": "આહારપોસહે",
+      "translit": "āhāra-posahe",
+      "gloss": "in food-pauṣadha (the fast from eating)",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit āhāra (food) + Prakrit posaha (pauṣadha), locative -e.",
+      "notes": "First of the four sub-types: total or partial abstention from food."
+    },
+    {
+      "token": "સરીરસક્કાર",
+      "translit": "sarīra-sakkāra",
+      "gloss": "body-adornment (grooming, beautifying the body)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sarīra < Sanskrit śarīra (body) + sakkāra < Sanskrit satkāra (honouring, adorning).",
+      "notes": "Governs the following posahe."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in pauṣadha (the abstention)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha < Sanskrit pauṣadha, locative -e.",
+      "notes": "Second sub-type: giving up bathing, anointing and ornamenting the body."
+    },
+    {
+      "token": "બંભચેર",
+      "translit": "baṁbhacera",
+      "gloss": "celibacy (chastity)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit baṁbhacera < Sanskrit brahmacarya (chaste conduct).",
+      "notes": "Governs the following posahe."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in pauṣadha (the abstention)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha < Sanskrit pauṣadha, locative -e.",
+      "notes": "Third sub-type: complete celibacy for the duration."
+    },
+    {
+      "token": "અવ્વાવાર",
+      "translit": "avvāvāra",
+      "gloss": "non-activity (ceasing all worldly business)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit avvāvāra < Sanskrit avyāpāra (non-engagement); a- (not) + vyāpāra (occupation, trade).",
+      "notes": "Governs the following posahe."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in pauṣadha (the abstention)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha < Sanskrit pauṣadha, locative -e.",
+      "notes": "Fourth sub-type: suspending all trade, labour and household occupation."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e < Prakrit eya/ea < Sanskrit etad.",
+      "notes": ""
+    },
+    {
+      "token": "ઇગ્યારમા",
+      "translit": "igyāramā",
+      "gloss": "eleventh",
+      "partOfSpeech": "adj",
+      "etymology": "Old-Gujarati ordinal, oblique form, from ekādaśa.",
+      "notes": ""
+    },
+    {
+      "token": "પૌષધવ્રતતણા",
+      "translit": "pauṣadha-vrata-taṇā",
+      "gloss": "of the pauṣadha vow",
+      "partOfSpeech": "compound",
+      "etymology": "pauṣadha-vrata + Old-Gujarati genitive suffix -taṇā ('belonging to', from Apabhraṁśa taṇaya).",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pāṁca < Prakrit paṁca < Sanskrit pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aïyāra < Sanskrit aticāra (overstepping).",
+      "notes": "Book spelling with ય retained per orthography rule."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati 1st-person from śodhavuṁ < Sanskrit śudh / śodhana (to purify, examine).",
+      "notes": "Double sense: to inspect for faults and thereby to purify."
+    },
+    {
+      "token": "અપ્પડિલેહિય",
+      "translit": "appaḍilehiya",
+      "gloss": "un-inspected (not visually examined for life)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (not) + paḍilehiya < Sanskrit pratilekhita (inspected, scanned), from prati-likh.",
+      "notes": "Pratilekhanā is the careful visual scanning of an object for tiny living beings before use."
+    },
+    {
+      "token": "દુપ્પડિલેહિય",
+      "translit": "duppaḍilehiya",
+      "gloss": "badly-inspected (carelessly examined)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du(s)- (badly) + paḍilehiya < Sanskrit duṣpratilekhita.",
+      "notes": ""
+    },
+    {
+      "token": "સિજજાસંથ્થારે",
+      "translit": "sijjā-saṁtthāre",
+      "gloss": "in the bed and bedding",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sijjā < Sanskrit śayyā (bed) + saṁthāra < Sanskrit saṁstāra (spread bedding, mat), locative -e.",
+      "notes": "Atichāra 1: using a sleeping place/bedding not properly inspected for life."
+    },
+    {
+      "token": "અપ્પમજ્જિય",
+      "translit": "appamajjiya",
+      "gloss": "un-swept (not gently dusted clear of life)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (not) + pamajjiya < Sanskrit pramārjita (wiped, swept), from pra-mṛj.",
+      "notes": "Pramārjanā is the soft sweeping with the rajoharaṇa to remove tiny beings without harm."
+    },
+    {
+      "token": "દુપ્પમજ્જિય",
+      "translit": "duppamajjiya",
+      "gloss": "badly-swept (carelessly dusted)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du(s)- (badly) + pamajjiya < Sanskrit duṣpramārjita.",
+      "notes": ""
+    },
+    {
+      "token": "સિજજાસંથારે",
+      "translit": "sijjā-saṁthāre",
+      "gloss": "in the bed and bedding",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sijjā (śayyā) + saṁthāra (saṁstāra), locative -e.",
+      "notes": "Atichāra 2: bedding not properly swept; note the single-conjunct spelling saṁthāre here vs saṁtthāre above, preserved verbatim."
+    },
+    {
+      "token": "અપ્પડિલેહિય",
+      "translit": "appaḍilehiya",
+      "gloss": "un-inspected",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- + paḍilehiya < Sanskrit apratilekhita.",
+      "notes": "Repeated, now qualifying the latrine-ground."
+    },
+    {
+      "token": "દુપ્પડિલેહિય",
+      "translit": "duppaḍilehiya",
+      "gloss": "badly-inspected",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du(s)- + paḍilehiya < Sanskrit duṣpratilekhita.",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "excretion (passing of stool)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit uccāra (voiding, faeces), from ut-car.",
+      "notes": ""
+    },
+    {
+      "token": "પાસવણ",
+      "translit": "pāsavaṇa",
+      "gloss": "urination",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsavaṇa < Sanskrit prasravaṇa (flowing out, urine), from pra-sru.",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિ",
+      "translit": "bhūmi",
+      "gloss": "ground / place",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhūmi (earth, spot).",
+      "notes": "Atichāra 3: the spot used for relieving oneself not properly inspected for life."
+    },
+    {
+      "token": "અપ્પમજ્જિય",
+      "translit": "appamajjiya",
+      "gloss": "un-swept",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- + pamajjiya < Sanskrit apramārjita.",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પમજ્જિય",
+      "translit": "duppamajjiya",
+      "gloss": "badly-swept",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du(s)- + pamajjiya < Sanskrit duṣpramārjita.",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "excretion (passing of stool)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit uccāra, from ut-car.",
+      "notes": ""
+    },
+    {
+      "token": "પાસવણ",
+      "translit": "pāsavaṇa",
+      "gloss": "urination",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsavaṇa < Sanskrit prasravaṇa.",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિ",
+      "translit": "bhūmi",
+      "gloss": "ground / place",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhūmi.",
+      "notes": "Atichāra 4: the latrine-spot not properly swept before use."
+    },
+    {
+      "token": "પોસહોવવાસસ્સ",
+      "translit": "posahovavāsassa",
+      "gloss": "of the pauṣadha-fast (the day's fasting observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posahovavāsa < Sanskrit pauṣadhopavāsa (pauṣadha + upavāsa, fasting), genitive -ssa.",
+      "notes": ""
+    },
+    {
+      "token": "સમ્મં",
+      "translit": "sammaṁ",
+      "gloss": "properly / rightly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sammaṁ < Sanskrit samyak (correctly, fully).",
+      "notes": ""
+    },
+    {
+      "token": "અણાણુપાલયણા",
+      "translit": "aṇāṇupālayaṇā",
+      "gloss": "non-observance (failing to carry it through)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇ- (not) + āṇupālaṇā < Sanskrit anupālanā (following through, maintaining), from anu-pāl.",
+      "notes": "Atichāra 5: not completing the fast with full attentiveness — e.g. dwelling on food, or ending it early in mind."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e < Sanskrit etad.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pāṁca < Sanskrit pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aïyāra < Sanskrit aticāra.",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (whatever I have committed)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old-Gujarati māṁhe (within) < Prakrit majjhe < Sanskrit madhye.",
+      "notes": "Closing tag of each vow, implicitly carrying the day/night confession-refrain."
+    }
+  ],
+  "literalTranslation": "The eleventh is the pauṣadha vow; it is to be known in four kinds: food-pauṣadha, body-adornment pauṣadha, celibacy-pauṣadha, and non-activity pauṣadha. I scrutinise the five transgressions of this eleventh pauṣadha vow: bed-and-bedding un-inspected or badly-inspected; bed-and-bedding un-swept or badly-swept; the excretion-and-urination ground un-inspected or badly-inspected; the excretion-and-urination ground un-swept or badly-swept; and the not-observing-properly of the pauṣadha-fast. Whatever among these five transgressions [I have done].",
+  "idiomaticTranslation": "The eleventh vow is the holy fast-day, and it is kept in four ways: abstaining from food, from grooming the body, from sexual contact, and from all worldly work. I now examine the five subtle slips that can stain this vow: lying on a bed or bedding I have not carefully looked over, or looked over only carelessly; using bedding I have not gently swept clear of life, or swept only carelessly; relieving myself on ground I have not properly inspected, or inspected poorly; relieving myself on ground I have not properly swept, or swept poorly; and failing to carry the fast through with full and right attentiveness. For any of these five, I seek pardon.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding deśāvagāśika vow merely tightened the day's spatial limits, this verse lifts the householder onto an explicitly monk-like plane for a fixed span. The opening half-line does the structural work the template calls for: it names the vow and at once states its scope as fourfold — āhāra (food), sarīra-sakkāra (bodily grooming), baṁbhacera (celibacy), avvāvāra (all occupation). Each posahe is a deliberate suspension, so that for the duration the layperson eats like a monk, grooms like a monk, stays chaste like a monk, and downs all tools like a monk. The five atichāras that follow are strikingly different from the desire-and-acquisition slips of the earlier vows: not one concerns appetite or property. Four of them concern the two humble, unavoidable bodily acts of a fast-day spent in one place — where you lie down, and where you relieve yourself — and each is split across two faculties of care, pratilekhanā (visual inspection for tiny life) and pramārjanā (soft sweeping with the rajoharaṇa), and each faculty across two degrees of failure, total omission (a-) and careless half-measure (du-). The arithmetic — 2 acts × 2 cares = 4 — is exact and deliberate. The fifth, posahovavāsassa sammaṁ aṇāṇupālayaṇā, steps back from particulars to the whole: a fast bodily kept but mentally abandoned — counting the hours, craving the meal, ending it early in the heart — is itself a transgression. The verse thus polices both the outward carefulness and the inward integrity of the observance, and the closing māṁhe folds in the day/night confession the template supplies.",
+    "doctrinalContext": "The five atichāras here are the canonical pauṣadhopavāsa-atichāras of Tattvārtha-sūtra 7.30 and the Upāsakadaśā, preserved almost verbatim. Their logic is pure ahiṁsā applied to a higher state of restraint: once the śrāvaka assumes monk-like discipline, the chief danger is no longer greed but careless harm to the one-sensed and minute beings (apkāya, pṛthvīkāya, trasa) that may inhabit a mat or a patch of ground. Hence pratilekhanā and pramārjanā — seeing before touching, sweeping before placing — become the binding duties, exactly as for an ascetic. The fifth atichāra encodes the Jain insistence that conduct (cāritra) without bhāva, inner intention, is hollow: samyak ananupālanā fails the vow even when no external rule is broken. The pairing a-/du- (omission vs. defective performance) reflects the standard atichāra grammar that a vow is weakened not only by neglect but by half-hearted technique.",
+    "practicalRelevance": "A modern reciter keeping pauṣadha applies this directly: check and gently sweep the seat, mat and any spot used during the fast before settling; do not perform these as empty motions but attentively, for life's sake. More broadly, even one who cannot keep a full fast-day can carry the fifth atichāra into any vow they take — finishing what they begin with whole-hearted attention rather than grudging, clock-watching minimalism.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.30 — apratilekhita-duṣpratilekhita-śayyā-saṁstāropakramaṇa... (the five pauṣadhopavāsa atichāras)",
+        "source": "Umāsvāti, Tattvārtha-sūtra ch. 7"
+      },
+      {
+        "text": "Upāsakadaśā-sūtra — the householder Ānanda's adoption of the pauṣadhopavāsa and its atichāras",
+        "source": "Upāsakadaśāḥ (7th Aṅga)"
+      },
+      {
+        "text": "Pratilekhanā / pramārjanā as ahiṁsā-safeguards for one in monk-like restraint",
+        "source": "Daśavaikālika-sūtra ch. 4 (jīva-rakṣā)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra, Chapter 7 (vrata atichāras incl. 7.30 pauṣadhopavāsa)",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra",
+      "type": "scholarship",
+      "consultedFor": "Canonical list and Sanskrit forms of the five pauṣadhopavāsa atichāras (apratilekhita/duṣpratilekhita śayyā-saṁstāra, uccāra-prasravaṇa-bhūmi, samyag-ananupālanā)."
+    },
+    {
+      "title": "Upāsakadaśāḥ Sūtra (seventh Aṅga, lay-disciple narratives)",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Canonical articulation of the eleventh vow (pauṣadhopavāsa) and its atichāras in the śrāvaka context."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/derivations: pratilekhita (prati-likh), pramārjita (pra-mṛj), uccāra (ut-car), prasravaṇa (pra-sru), upavāsa, anupālanā."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati/Prakrit verse text and the book's spellings (atiyāra; sijjā-saṁtthāre vs saṁthāre)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The five atichāras align exactly with Tattvārtha-sūtra 7.30; web glosses that reinterpret 'uccāra-pāsavaṇa-bhūmi' as false speech or inciting others are mistaken — uccāra = stool, pāsavaṇa (prasravaṇa) = urine, bhūmi = the ground used, so atichāras 3–4 concern the latrine-spot's inspection and sweeping. Verbatim book inconsistency preserved: 'સિજજાસંથ્થારે' (doubled tth) in the first pair vs 'સિજજાસંથારે' (single th) in the second; not normalised. 'ચિહું' is an Old-Gujarati/Apabhraṁśa form of 'four'; reading secure from context (the four posahe sub-types that immediately follow). The parenthetical '(અગિયારમું)' is an editorial gloss, not a recited token, but is glossed for 100% coverage."
+}

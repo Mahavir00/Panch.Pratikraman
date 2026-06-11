@@ -1,0 +1,152 @@
+{
+  "shlokaId": "drumapushpika-sajjhay/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "These monks are truly free: like birds flitting lightly among blossoms, they wander gently seeking their alms-food, taking a little and burdening no one.",
+  "recitation": "eme e samaṇā muttā, je loe saṁti sāhūṇo; vihaṁgamā va pupphesu, dāṇa-bhattesaṇe rayā.",
+  "wordByWord": [
+    {
+      "token": "એમે",
+      "translit": "eme",
+      "gloss": "thus, in this way (resolving the just-given simile into its application)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit from Skt. evam; the form એમેએ (eme-e) carries 'evaṁ ete' — 'thus these'.",
+      "notes": "Picks up the bee-image of the preceding verse and turns it onto the monks themselves."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these (the very ones now to be named)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit deictic from Skt. ete/ime ('these'); often written together with the preceding word as એમેએ.",
+      "notes": "Sandhi-fused with એમે in many editions; here printed open."
+    },
+    {
+      "token": "સમણા",
+      "translit": "samaṇā",
+      "gloss": "the śramaṇas (striving ascetics), nominative plural",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samaṇa < Skt. śramaṇa, 'one who exerts/labours' (√śram).",
+      "notes": ""
+    },
+    {
+      "token": "મુત્તા",
+      "translit": "muttā",
+      "gloss": "free, unbound, unattached",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit mutta < Skt. mukta (√muc, 'to release'); here 'loosed from attachment', not yet 'fully emancipated'.",
+      "notes": "The verse's defining predicate: their freedom is inward detachment, demonstrated by how they take alms."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "who (relative pronoun, plural)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je < Skt. ye.",
+      "notes": ""
+    },
+    {
+      "token": "લોએ",
+      "translit": "loe",
+      "gloss": "in the world (locative singular)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit loa < Skt. loka, locative loe = Skt. loke.",
+      "notes": "'In the world' — they live amid householders yet remain unbound by them."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "are, exist (3rd person plural)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit santi < Skt. santi (√as, 'to be').",
+      "notes": ""
+    },
+    {
+      "token": "સાહૂણો",
+      "translit": "sāhūṇo",
+      "gloss": "the (true) sādhus / good ones, nominative plural",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāhu < Skt. sādhu (√sādh, 'to accomplish the goal'); -ūṇo is the Ardhamāgadhī nom. pl. ending.",
+      "notes": "Verse 5 will pun on this very word; here it simply identifies who the free śramaṇas are."
+    },
+    {
+      "token": "વિહંગમાવ",
+      "translit": "vihaṁgamā va",
+      "gloss": "like birds (sky-goers)",
+      "partOfSpeech": "compound",
+      "etymology": "vihaṁgama (Skt. vihaṅgama, 'sky-goer, bird', vi-haṁ-gama) + va (Prakrit < Skt. iva, 'like'); sandhi: vihaṁgamā + (i)va.",
+      "notes": "Contains the embedded particle 'va' (=iva). The bird-image is a lighter variant of the verse-2 bee — emphasising free, unpossessive movement."
+    },
+    {
+      "token": "પુફ્ફેસુ",
+      "translit": "pupphesu",
+      "gloss": "among the flowers (locative plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit puppha < Skt. puṣpa; -esu = loc. pl.",
+      "notes": "The flowers stand for the many households visited."
+    },
+    {
+      "token": "દાણભત્તેસણે",
+      "translit": "dāṇabhattesaṇe",
+      "gloss": "in the seeking of alms-food (locative)",
+      "partOfSpeech": "compound",
+      "etymology": "dāṇa (Skt. dāna, 'gift/alms') + bhatta (Skt. bhakta, 'cooked food') + esaṇā (Skt. eṣaṇā, 'disciplined search', √iṣ); locative esaṇe.",
+      "notes": "Frames alms-gathering not as begging but as eṣaṇā — a regulated, inspected search."
+    },
+    {
+      "token": "રયા",
+      "translit": "rayā",
+      "gloss": "intent, devoted, engaged (in)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit raya < Skt. rata (√ram, 'to delight/abide in'); nom. pl. agreeing with samaṇā/sāhūṇo.",
+      "notes": "Their 'delight' is in the disciplined seeking itself, not in the food's taste."
+    }
+  ],
+  "literalTranslation": "Thus these śramaṇas are free, who in the world are the (true) sādhus; like birds among flowers, they are intent upon the seeking of alms-food.",
+  "idiomaticTranslation": "Just so are these śramaṇas truly free — they are the real holy ones of this world; and like birds moving lightly among blossoms, they give themselves wholly to the gentle, disciplined seeking of their alms.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse offered only a picture, this verse names its subjects and pronounces a verdict: emee — 'thus, just so' — swings the image onto living people. The samaṇā are declared muttā, 'free,' and je loe saṁti sāhūṇo identifies them as the genuine sādhus of the world. The whole weight of the verse rests on muttā: their freedom is not a future reward but a present inward fact, and the proof offered is precisely the manner of their alms-round. A second, fresh image carries this — vihaṁgamā va, 'like birds.' A bird alights on blossom-laden boughs, takes what it needs, claims no branch as its own, and rises again into open sky; it is the very emblem of unpossessive, weightless movement among the many 'flowers' (pupphesu) that are the households. The closing pāda fixes the disposition: dāṇabhattesaṇe rayā — they are 'intent,' 'devoted,' upon the eṣaṇā, the regulated seeking, of alms-food. The choice of rayā (rata, 'delighting in') is deliberate and pointed: their delight lies in the disciplined seeking itself, not in the flavour or quantity of what is got. Thus the verse turns an analogy into a definition — a free monk is recognisable not by robe or title but by how lightly, how unattachedly, how carefully he gathers his daily bread.",
+    "doctrinalContext": "The verse quietly encodes two pillars of Jain monastic discipline. First, muttā voices aparigraha — non-possession — understood inwardly as freedom from attachment to giver, household, and food; the bird that claims no branch is its perfect figure. Second, dāṇabhattesaṇe names eṣaṇā, and thereby the eṣaṇā-samiti, one of the five samitis (carefulnesses) governing a mendicant's life: alms must be sought with inspection so that ahiṁsā is preserved — nothing taken that was made or harmed for the monk's sake. The predicate rayā reframes this discipline as something a sādhu delights in, not endures, so that restraint and contentment become a single inward posture. The verse's logic — 'these are free, BECAUSE they seek thus' — makes outward conduct the visible signature of inward liberation.",
+    "practicalRelevance": "Recited, the verse asks the practitioner to measure freedom by lightness of grasp: to receive what sustains without clinging to its source or savour, to take a little without burdening the giver, and to treat the very act of provisioning — a meal, a need met — as an occasion for disciplined, contented attention rather than appetite. The bird that takes and rises is the daily image to carry.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika 1.2 (the bee draws nectar without wearying the flower) — the simile this verse applies",
+        "source": "Daśavaikālika-sūtra, ch.1 Drumapuṣpikā"
+      },
+      {
+        "text": "Daśavaikālika 1.4 ('we gain our livelihood and no being is harmed') — the monks' own voicing of this conduct",
+        "source": "Daśavaikālika-sūtra, ch.1 Drumapuṣpikā"
+      },
+      {
+        "text": "Daśavaikālika ch.5 (Piṇḍaiṣaṇā) — the detailed rules of faultless alms-seeking (eṣaṇā)",
+        "source": "Daśavaikālika-sūtra"
+      },
+      {
+        "text": "The five samitis, including eṣaṇā-samiti, as the carefulnesses of right conduct",
+        "source": "Uttarādhyayana / standard cāritra accounts"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Agam 29 Mool 02 Daśavaikālika Sūtra (Sthānakvāsī edition, with gloss)",
+      "url": "https://jainqq.org/booktext/Agam_29_Mool_02_Dasvaikalik_Sutra_Sthanakvasi/007649",
+      "type": "translation",
+      "consultedFor": "Verse text of Daśavaikālika 1.3 and word-meanings (samaṇā, muttā, vihaṁgama, dāṇabhattesaṇe, rayā)"
+    },
+    {
+      "title": "Daśavaikālika Sūtra — Book Summary (JainGPT)",
+      "url": "https://jaingpt.org/knowledge/dashvaikalik_sutra_005809_005809",
+      "type": "scholarship",
+      "consultedFor": "Chapter-1 theme of detached, non-burdening alms-seeking and the vihaṁgama/mādhukarī ideal"
+    },
+    {
+      "title": "Shree Dasvaikalik Sutra Adhyayan 1 (Drumapushpika)",
+      "url": "https://teknoschool.in/shree-dasvaikalik-sutra-adhyayan-1/",
+      "type": "commentary",
+      "consultedFor": "Bird-and-flower simile applied to the monk's alms-round; meaning of detachment in verse 3"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Reading and orthography follow the Anchalgachchha book verbatim (એમે એ … સાહૂણો … વિહંગમાવ … રયા) and are not normalized. એમેએ is commonly parsed as evaṁ ete ('thus these'); printed here as એમે + એ. વિહંગમાવ = vihaṁgamā + va (=iva, 'like'), a sandhi-fused simile particle, glossed within that token for full coverage. મુત્તા (mukta) is rendered 'free/unattached' rather than 'fully liberated (arhat),' since the context defines the freedom by detached conduct; some translators give 'liberated' more strongly. રયા (rata) = 'intent/devoted/delighting in.' Variant editions of this gāthā are minor and do not affect the sense."
+}

@@ -1,0 +1,194 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse praises the sixteenth Jina, Śāntinātha — born in the city of Hastināpura as the jewel of King Viśvasena's family, radiant and sinless, marked by the deer emblem, a towering and blissful being whose glory deserves to be sung.",
+  "recitation": "gajapure viśvaseneśa-kula-bhūṣaṇaṁ, ruciram-acirāṅgaruham-anagha-mṛga-lakṣaṇaṁ | ṣaṣṭyadhika-hasta-śata-vapuṣam-uttama-sukhaṁ, śāntināthaṁ ca gāṅgeya-geyatviṣam ||",
+  "wordByWord": [
+    {
+      "token": "ગજપુરે",
+      "translit": "gajapure",
+      "gloss": "in Gajapura (Hastināpura, the 'elephant-city')",
+      "partOfSpeech": "noun",
+      "etymology": "gaja ('elephant') + pura ('city'), locative sing.; a classical name for Hastināpura, Śānti's birthplace.",
+      "notes": "Parallels v.6's 'kośalā-puravare' (Ajita's Ayodhyā), setting up the deliberate city-for-city pairing of the two Jinas."
+    },
+    {
+      "token": "વિશ્વસેનેશ",
+      "translit": "viśvaseneśa",
+      "gloss": "of King Viśvasena (lit. 'lord Viśvasena')",
+      "partOfSpeech": "compound",
+      "etymology": "viśvasena (proper name, Śānti's father) + īśa ('lord, king'); in compound with the following kula.",
+      "notes": "Names the royal father, mirroring 'bhūpa jitaśatru' (King Jitaśatru) for Ajita in v.6."
+    },
+    {
+      "token": "કુલ",
+      "translit": "kula",
+      "gloss": "family, lineage",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kula, 'clan, line'; here the Ikṣvāku royal house of Viśvasena."
+    },
+    {
+      "token": "ભૂષણં",
+      "translit": "bhūṣaṇaṁ",
+      "gloss": "ornament, adornment (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "√bhūṣ ('to adorn') + -ana; acc. sing. 'viśvaseneśa-kula-bhūṣaṇaṁ' = 'the ornament of King Viśvasena's line.'",
+      "notes": "Accusative object of an implied verb of praise carried over from v.6's 'naumi' ('I praise')."
+    },
+    {
+      "token": "રુચિર",
+      "translit": "rucira(ṁ)",
+      "gloss": "radiant, lovely (accusative adjective)",
+      "partOfSpeech": "adj",
+      "etymology": "√ruc ('to shine, please') + -ira; describes the Jina's golden, beautiful form (Śānti was also a Kāmadeva, of supreme beauty).",
+      "notes": "Begins the yamaka chime rucira / acira in the next token."
+    },
+    {
+      "token": "મચિરાંગરુહ",
+      "translit": "m-acirāṅgaruha(ṁ)",
+      "gloss": "the son of (Queen) Acirā / 'body-born one' (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "leading -m is the accusative ending of rucira(ṁ) joined by sandhi; acira + aṅga-ruha. aṅga-ruha = 'grown from the body' (aṅga 'limb/body' + √ruh 'to grow').",
+      "notes": "Double reading: literally 'body-grown/limb-born,' but here a pointed pun on the name of Śānti's mother Acirā (Aciradevī) — 'the body-born son of Acirā' — so the verse encodes both parents (father Viśvasena above, mother Acirā here)."
+    },
+    {
+      "token": "મનઘ",
+      "translit": "m-anagha(ṁ)",
+      "gloss": "sinless, faultless, stainless (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "leading -m is sandhi from the preceding accusative; an- (negation) + agha ('sin, evil') = 'free of all evil.'"
+    },
+    {
+      "token": "મૃગ",
+      "translit": "mṛga",
+      "gloss": "deer, antelope",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mṛga, 'deer'; Śāntinātha's iconographic emblem (lāñchana)."
+    },
+    {
+      "token": "લક્ષણં",
+      "translit": "lakṣaṇaṁ",
+      "gloss": "mark, emblem (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "√lakṣ ('to mark') + -ana; 'mṛga-lakṣaṇaṁ' = 'bearing the deer emblem,' answering the 'ibha-cinha' (elephant-emblem) of Ajita in v.6."
+    },
+    {
+      "token": "ષષ્ટ્યધિક",
+      "translit": "ṣaṣṭy-adhika",
+      "gloss": "exceeding by sixty, sixty-more",
+      "partOfSpeech": "adj",
+      "etymology": "ṣaṣṭi ('sixty') + adhika ('more, in excess'); modifies the count that follows."
+    },
+    {
+      "token": "હસ્ત",
+      "translit": "hasta",
+      "gloss": "a hasta (cubit), unit of measure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hasta, 'hand/forearm; cubit'; four hastas make one dhanuṣa (bow)."
+    },
+    {
+      "token": "શત",
+      "translit": "śata",
+      "gloss": "hundred",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śata, '100'; 'ṣaṣṭy-adhika-hasta-śata' = 'a hundred increased by sixty' = 160 hastas."
+    },
+    {
+      "token": "વપુષ",
+      "translit": "vapuṣa(ṁ)",
+      "gloss": "of body, of bodily stature (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vapus, 'form, body'; '…hasta-śata-vapuṣaṁ' = 'whose body measures one hundred and sixty hastas.'",
+      "notes": "160 hasta = 40 dhanuṣa, the canonical height of Śāntinātha — a standard hagiographic datum, mirroring Ajita's stated stature in v.6 ('dviguṇa-nava-śata-kara' there)."
+    },
+    {
+      "token": "મુત્તમસુખં",
+      "translit": "m-uttama-sukhaṁ",
+      "gloss": "of supreme bliss (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "leading -m is sandhi from vapuṣa(ṁ); uttama ('highest') + sukha ('bliss, happiness') = 'the highest, unsurpassed bliss.'",
+      "notes": "Points beyond mere royal felicity toward the bliss of the liberated state."
+    },
+    {
+      "token": "શાંતિનાથં",
+      "translit": "śāntināthaṁ",
+      "gloss": "Śāntinātha, the Lord Śānti (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "śānti ('peace') + nātha ('lord'); the named object of all the preceding epithets.",
+      "notes": "The verse withholds the proper name until the end, gathering every epithet onto it as the climax."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca, copulative 'and'; here linking Śānti (this verse) to Ajita (v.6) within the single act of praise."
+    },
+    {
+      "token": "ગાંગેય",
+      "translit": "gāṅgeya",
+      "gloss": "Gāṅgeya ('of Gaṅgā'), an epithet of Śānti",
+      "partOfSpeech": "noun",
+      "etymology": "gaṅgā + vṛddhi patronymic -eya = 'son of / belonging to Gaṅgā.' Famous as Bhīṣma's epithet; applied here as a known appellation of Śāntinātha.",
+      "notes": "Chimes with the next word geya (gāṅgeya / geya) in the verse's closing yamaka."
+    },
+    {
+      "token": "ગેયત્વિષમ્",
+      "translit": "geya-tviṣam",
+      "gloss": "whose radiance is worthy to be sung (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "geya ('to be sung,' gerundive of √gai) + tviṣ ('luster, radiance'); 'geya-tviṣaṁ' = 'one whose splendor merits being celebrated in song.'",
+      "notes": "A self-referential touch: the hymn praises the very luster it is at that moment singing."
+    }
+  ],
+  "literalTranslation": "(I praise, in) Gajapura the ornament of King Viśvasena's line; radiant, the sinless son of Acirā, bearing the deer emblem; whose body measures a hundred-and-sixty hastas, of supreme bliss — and Śāntinātha, the Gāṅgeya, whose splendor is worthy to be sung.",
+  "idiomaticTranslation": "And I bow to Śāntinātha — born at Hastināpura, the very jewel of King Viśvasena's house; lovely and stainless, the deer-marked son of Queen Acirā; his frame rising a hundred and sixty cubits, brimming with the highest bliss; he whom they call Gāṅgeya, whose radiance is itself a thing to be sung.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the matching half of a deliberate diptych: where v.6 catalogued Ajitanātha's birth-data (Kośalā/Ayodhyā, father Jitaśatru, golden hue, elephant emblem, stature), v.7 supplies the exactly parallel dossier for Śāntinātha — city, father, complexion, emblem, height — so the two Jinas stand side by side, feature answering feature. The poet packs five identifying facts into four feet. Gajapura fixes the place (Hastināpura); viśvaseneśa-kula-bhūṣaṇaṁ the paternal line; mṛga-lakṣaṇaṁ the deer that distinguishes Śānti from Ajita's elephant; and ṣaṣṭyadhika-hasta-śata-vapuṣaṁ his canonical height of 160 hastas (40 dhanuṣa). The verse's finest stroke is acirāṅgaruha: on the surface 'body-born,' but unmistakably a pun naming his mother Acirā — so that, with Viśvasena already named, both parents are folded into a single epithet. The sound-craft the preface flags is fully on display: rucira / acira chime at the head, gāṅgeya / geya at the close, and the whole is steered by the gerundive geya — 'fit to be sung' — a verse that quietly comments on its own act of singing. Grammatically every epithet is accusative, governed by the praise-verb (naumi) carried over from v.6; Śānti's name is held back to the last foot so that the accumulated honors land on it at once. anagha ('sinless') and uttama-sukha ('supreme bliss') lift the portrait from royal biography toward the liberated ideal the hymn is steering its hearers to revere.",
+    "doctrinalContext": "The lāñchana (emblem) is doctrinally load-bearing, not decorative: in Jain iconography the deer is precisely what lets a devotee recognize Śānti among twenty-four otherwise similar Jina-images, and the deer's gentleness consciously echoes his name, Śānti ('peace'). The precise bodily measure belongs to the fixed hagiographic schema in which each Tīrthaṅkara's height, complexion, lineage, and lifespan are canonically recorded — here affirming the realist, enumerative cast of Jain sacred biography. 'anagha' (free of agha/sin) gestures at the Jina's total karmic purity, while 'uttama-sukha' names the supreme, undisturbed bliss that, in Jain thought, belongs not to kingship but to the soul freed of karma — fitting for one who, tradition holds, was a cakravartin before renouncing all.",
+    "practicalRelevance": "Reciting this verse, a practitioner builds a clear inner image of Śānti — the deer-marked, peace-named Jina — and that visualization is the point: Śāntinātha is invoked above all for śānti, the averting of calamity, disease, and unrest. Dwelling on 'anagha' and 'uttama-sukha' turns the praise inward, reminding the reciter that the bliss worth seeking is freedom from karma, not the royal splendor the verse also recalls.",
+    "crossReferences": [
+      {
+        "text": "Companion verse v.6 (Ajita's birth-data: Kośalā, Jitaśatru, golden hue, elephant emblem) — read as the matching half of this diptych",
+        "source": "Bṛhad Ajitaśānti Stava, 9th Smaraṇa (this hymn)"
+      },
+      {
+        "text": "Life of Śāntinātha — birth at Hastināpura to King Viśvasena and Queen Acirā; deer emblem; cakravartin-turned-Jina",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra (Śāntinātha-caritra)"
+      },
+      {
+        "text": "Standard lāñchana lists assigning the deer (mṛga) to the 16th Tīrthaṅkara",
+        "source": "Jain iconographic tradition; cf. Umakant P. Shah, Jaina-Rūpa-Maṇḍana"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shantinatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Birthplace Hastinapur (Gajapura), father King Vishvasena, mother Queen Aćira, Ikshvaku dynasty, deer emblem, cakravartin/Kamadeva status — confirming the verse's biographical epithets and the Acirā pun."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for aṅga-ruha ('body-grown'), anagha ('sinless'), vapus ('body'), tviṣ ('radiance'), geya ('to be sung'), hasta (cubit measure)."
+    },
+    {
+      "title": "Bhishma — Wikipedia (epithet Gāṅgeya, 'son of Gaṅgā')",
+      "url": "https://en.wikipedia.org/wiki/Bhishma",
+      "type": "scholarship",
+      "consultedFor": "The formation and sense of the patronymic Gāṅgeya ('of Gaṅgā'), here applied as a known epithet of Śāntinātha."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati verse text and its placement as the 9th Smaraṇa within the Pākṣika pratikramaṇa (per the supplied tradition knowledge base)."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The repeated leading 'm' tokens (મચિરાંગરુહ, મનઘ, મુત્તમસુખં) are not separate words but the accusative ending -m of the preceding word carried over by sandhi onto a vowel-initial epithet; all epithets are accusative, governed by the praise-verb (naumi) carried from v.6. 'acirāṅga-ruha' is read two ways: literally 'body-grown/limb-born,' and — almost certainly the intended sense — a yamaka pun naming Śānti's mother Acirā (Aciradevī), so the foot encodes 'the body-born son of Acirā.' The stated height, 160 hastas, equals 40 dhanuṣa (1 dhanuṣa = 4 hasta), which agrees with the canonical stature of Śāntinātha. 'gāṅgeya' is taken as a received epithet of Śānti (also famous for Bhīṣma); the source book is authoritative for every mātrā and conjunct and its readings are preserved verbatim, not normalized."
+}

@@ -1,0 +1,346 @@
+{
+  "shlokaId": "laghu-atiyar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the third vow — not to take what is not given — where I promise never to take valuable or forbidden things that aren't mine, allow myself only the smallest unavoidable items, and now examine the five ways I may have slipped.",
+  "recitation": "3. trījuṁ sthūla adattādāna-viramaṇavrata. sacitta, acitta rājanigraha-kārīuṁ, piyāruṁ aṇadīdhuṁ levā niyama. sūkṣma tṛṇā, iṁdhaṇā, pathipatita vavahāra-niyoge, dāṇacorī-jayaṇā. e trījā sthūla adattādāna-viramaṇavratataṇā pāṁca atiyāra śodhuṁ. tenāhaḍe, takkarappaoge, viruddharajjāikamme, kūḍatullakūḍamāṇe, tappaḍiruvagavavahāre. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૩.",
+      "translit": "3.",
+      "gloss": "three (verse/vow marker)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati ordinal numeral marking the third aṇuvrata.",
+      "notes": "Numbers the third of the twelve vows; not a page-marker."
+    },
+    {
+      "token": "ત્રીજું",
+      "translit": "trījuṁ",
+      "gloss": "third",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati < Sanskrit tṛtīya, ‘third’.",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross, coarse (lay-scale, not subtle/total)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sthūla, ‘gross, large’; opposed to sūkṣma.",
+      "notes": "Marks the householder’s limited (aṇu) form of the vow versus the ascetic’s total abstinence."
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "taking what is not given",
+      "partOfSpeech": "compound",
+      "etymology": "a- (not) + datta (given) + ādāna (taking).",
+      "notes": "Defined in preface glossary; used here as the vow's object."
+    },
+    {
+      "token": "વિરમણવ્રત",
+      "translit": "viramaṇavrata",
+      "gloss": "vow of abstaining",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇa (desisting) + vrata (vow), from vi-ram, ‘to cease’.",
+      "notes": ""
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "animate (living-souled) things",
+      "partOfSpeech": "adj",
+      "etymology": "sa- (with) + citta (consciousness/soul).",
+      "notes": "The two classes of stealable property: living and non-living."
+    },
+    {
+      "token": "અચિત્ત",
+      "translit": "acitta",
+      "gloss": "inanimate (soulless) things",
+      "partOfSpeech": "adj",
+      "etymology": "a- (without) + citta.",
+      "notes": ""
+    },
+    {
+      "token": "રાજનિગ્રહ",
+      "translit": "rājanigraha",
+      "gloss": "royal seizure/punishment (i.e. contraband, things whose taking the king punishes)",
+      "partOfSpeech": "compound",
+      "etymology": "rāja (king) + nigraha (restraint, penalty).",
+      "notes": "Qualifies goods whose theft incurs state penalty — smuggled or forbidden property."
+    },
+    {
+      "token": "કારીઉં",
+      "translit": "kārīuṁ",
+      "gloss": "causing, that which brings about",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati participial < Sanskrit kāri, ‘doing/causing’, root kṛ.",
+      "notes": "‘rājanigraha-kārīuṁ’ = ‘that which provokes royal penalty’."
+    },
+    {
+      "token": "પિયારું",
+      "translit": "piyāruṁ",
+      "gloss": "dear, precious, valuable",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati < Prakrit piyāra < Sanskrit priya, ‘beloved’.",
+      "notes": "Specifies the prized objects covered by the firm rule."
+    },
+    {
+      "token": "અણદીધું",
+      "translit": "aṇadīdhuṁ",
+      "gloss": "not given, un-bestowed",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati aṇa- (negative) + dīdhuṁ (given), past participle of devuṁ.",
+      "notes": "Vernacular restatement of a-datta; the very thing the vow forbids."
+    },
+    {
+      "token": "લેવા",
+      "translit": "levā",
+      "gloss": "to take",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati infinitive of levuṁ < Sanskrit labh, ‘to obtain’.",
+      "notes": ""
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "firm rule (here: not to take precious/contraband un-given goods)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ni-yam, ‘to restrain’.",
+      "notes": "Preface-glossary term; here it binds the householder against taking valuable un-given property."
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "subtle, trifling (minor matters)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sūkṣma, ‘fine, minute’; opposed to sthūla above.",
+      "notes": "Introduces the trivial items the leeway (jayaṇā) tolerates."
+    },
+    {
+      "token": "તૃણા",
+      "translit": "tṛṇā",
+      "gloss": "grass, blades of straw",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit tṛṇa, ‘grass’.",
+      "notes": "Example of a value-less item taken without explicit permission."
+    },
+    {
+      "token": "ઇંધણા",
+      "translit": "iṁdhaṇā",
+      "gloss": "firewood, fuel",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit indhana, ‘fuel’, from indh, ‘to kindle’.",
+      "notes": ""
+    },
+    {
+      "token": "પથિપતિત",
+      "translit": "pathipatita",
+      "gloss": "fallen on the path/road",
+      "partOfSpeech": "compound",
+      "etymology": "pathi (on the road) + patita (fallen), from pat, ‘to fall’.",
+      "notes": "Discarded or dropped roadside objects — picked up without it counting as theft."
+    },
+    {
+      "token": "વવહારનિયોગે",
+      "translit": "vavahāraniyoge",
+      "gloss": "in the course of ordinary dealing/customary use",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vavahāra < Sanskrit vyavahāra (transaction) + niyoga (application, engagement).",
+      "notes": "Frames the leeway as confined to normal, good-faith everyday transactions."
+    },
+    {
+      "token": "દાણચોરીજયણા",
+      "translit": "dāṇacorījayaṇā",
+      "gloss": "the (limited) leeway regarding toll/customs-evasion",
+      "partOfSpeech": "compound",
+      "etymology": "dāṇa (toll, customs duty) + corī (theft) + jayaṇā/yatanā (prudent leeway).",
+      "notes": "jayaṇā is a preface-glossary term; here it concedes only careful minimum in unavoidable toll matters, not deliberate evasion."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this, these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative < Sanskrit eta.",
+      "notes": ""
+    },
+    {
+      "token": "ત્રીજા",
+      "translit": "trījā",
+      "gloss": "third (oblique)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati oblique of trījuṁ < tṛtīya.",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross (lay-scale)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sthūla.",
+      "notes": "Repeated in the closing formula naming the vow."
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "taking what is not given",
+      "partOfSpeech": "compound",
+      "etymology": "a-datta + ādāna.",
+      "notes": ""
+    },
+    {
+      "token": "વિરમણવ્રતતણા",
+      "translit": "viramaṇavratataṇā",
+      "gloss": "belonging to the vow of abstaining",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇavrata + Gujarati genitive suffix -taṇā (‘of’).",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati < Sanskrit pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial lapses)",
+      "partOfSpeech": "noun",
+      "etymology": "Book's spelling (with ય) of atichāra; Sanskrit ati-cāra, ‘over-stepping’.",
+      "notes": "Preface-glossary term; retained verbatim per the book's orthography."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / purify (by examination)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ < Sanskrit śodh / śudh, ‘to cleanse, search out’.",
+      "notes": "The act of self-examination that the whole confession enacts."
+    },
+    {
+      "token": "તેનાહડે",
+      "translit": "tenāhaḍe",
+      "gloss": "receiving/handling stolen goods",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit stena (thief) + āhṛta (brought, fetched).",
+      "notes": "First atichāra = stenāhṛta: knowingly dealing in goods a thief has taken."
+    },
+    {
+      "token": "તક્કરપ્પઓગે",
+      "translit": "takkarappaoge",
+      "gloss": "inciting/employing thieves",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit takkara < Sanskrit taskara (thief) + prayoga (employment, instigation).",
+      "notes": "Second atichāra = taskara-prayoga: abetting or commissioning theft."
+    },
+    {
+      "token": "વિરુદ્ધરજજાઇકમ્મે",
+      "translit": "viruddharajjāikamme",
+      "gloss": "acting against state law / dealings in a hostile realm",
+      "partOfSpeech": "compound",
+      "etymology": "viruddha (contrary) + rajja < Sanskrit rājya (state) + atikrama (transgression) + kamma/karma (act).",
+      "notes": "Third atichāra = viruddha-rājyātikrama: smuggling or breaching the lawful order of the state."
+    },
+    {
+      "token": "કૂડતુલ્લકૂડમાણે",
+      "translit": "kūḍatullakūḍamāṇe",
+      "gloss": "false weights and false measures",
+      "partOfSpeech": "compound",
+      "etymology": "kūḍa < Sanskrit kūṭa (false) + tullā/tulā (scales, weight) + kūḍa-māṇa < kūṭa-māna (false measure).",
+      "notes": "Fourth atichāra = kūṭa-tulā-kūṭa-māna: cheating by rigged scales and measures — taking more when selling, giving less when buying."
+    },
+    {
+      "token": "તપ્પડિરુવગવવહારે",
+      "translit": "tappaḍiruvagavavahāre",
+      "gloss": "dealing in counterfeit/adulterated look-alike goods",
+      "partOfSpeech": "compound",
+      "etymology": "tat (that) + paḍiruvaga < Sanskrit pratirūpaka (imitation, counterfeit) + vavahāra < vyavahāra (transaction).",
+      "notes": "Fifth atichāra = tat-pratirūpaka-vyavahāra: passing off adulterated or imitation goods as genuine."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative < eta.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "ati-cāra (book spelling atiyāra).",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among, within (whichever of these I incurred)",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati < Prakrit majjha / Sanskrit madhye, ‘in the midst of’.",
+      "notes": "Elliptical close: ‘among these five [whatever lapse occurred …]’, completed by the recurring day/night confession-refrain."
+    }
+  ],
+  "literalTranslation": "Third: the gross vow of abstaining from taking-what-is-not-given. The rule — not to take, un-given, animate or inanimate things that are precious or that incur royal penalty; with prudent leeway, in the course of ordinary dealing, for trifling things — grass, firewood, what has fallen on the path — and for toll/customs matters. I scrutinise the five transgressions of this third gross vow of abstaining from taking-what-is-not-given: receiving stolen goods, employing thieves, acting against the law of the state, false weights and false measures, dealing in counterfeit goods. Among these five [whatever lapse arose …].",
+  "idiomaticTranslation": "The third vow: I abstain, at a layperson's measure, from taking what has not been given. My firm rule is never to take — un-given — any prized possession, living or lifeless, nor any contraband whose theft the king would punish; yet I keep an honest leeway for trifles taken in the ordinary course of life: a wisp of grass, a stick of firewood, a thing dropped on the road, and the unavoidable minimum in matters of toll. Now I search out the five ways this vow may have been stained: handling stolen goods, setting thieves to work, breaking the lawful order of the state, cheating with false weights and measures, and trading in counterfeit wares. Whichever of these five I have committed —",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse turns the confession from speech (vow 2) to property, and its architecture is the niyama/jayaṇā hinge made unusually visible. The first half draws the *firm rule* tightly around what truly belongs to another: the *piyāruṁ* (precious) and the *rājanigraha-kārīuṁ* (contraband), specified across both *sacitta* and *acitta* — living chattel and lifeless goods alike. The second half then exhales into *jayaṇā*: *sūkṣma* trifles — *tṛṇā* (grass), *iṁdhaṇā* (firewood), *pathipatita* (roadside-fallen) things — and the toll-matter *dāṇacorī*, all hedged by *vavahāraniyoge*, 'only within ordinary good-faith dealing.' The point is precise: the householder cannot live without picking up a blade of grass or a fallen twig un-asked, so the vow does not pretend otherwise; it forbids the valuable and the unlawful, and merely cautions the trivial. The five Prākrit atichāras that follow are deliberately *not* outright theft — that would break the vow, not merely stain it. *Tenāhaḍe* and *takkarappaoge* implicate one in another's theft (receiving, commissioning); *viruddharajjāikamme* extends stealing to the state (smuggling, breach of lawful order); and the last two — *kūḍatullakūḍamāṇe* and *tappaḍiruvagavavahāre* — locate theft squarely in the marketplace: rigged scales and counterfeit goods. The shopkeeper who never 'steals' yet shorts every weight is the verse's quiet target. The closing *māṁhe* is grammatically incomplete on purpose, waiting for the day/night confession-refrain the reciter supplies from the template.",
+    "doctrinalContext": "The five atichāras here match the canonical asteya-aṇuvrata list of Tattvārtha-sūtra 7.27 (stena-āhṛta, taskara-prayoga, viruddha-rājyātikrama, kūṭa-tulā-kūṭa-māna, pratirūpaka-vyavahāra), confirming that this vernacular verse transmits the orthodox śrāvakācāra intact. Doctrinally the verse teaches that *asteya* is violated not only by the hand that takes but by the consenting mind and the dishonest transaction — Jain ethics counts instigation, receipt, and commercial fraud as forms of theft because all arise from *lobha* (greed) and all appropriate what is *adatta*. The sacitta/acitta pairing reflects the Jain conviction that even living beings can be wrongful 'property,' tying non-stealing back to ahiṁsā. Crucially, the atichāra category itself embodies graded renunciation: a layperson who falls into false weights has *weakened* the vow, not destroyed it, and so confesses rather than re-takes it.",
+    "practicalRelevance": "For a modern reciter this is the vow of business ethics and everyday honesty: no rigged scales or counterfeit goods translates directly into accurate billing, honest measurement, no trading in stolen or pirated items, no tax/duty fraud, and no quietly profiting from another's wrongdoing. The verse also models a realistic conscience — it does not demand scruple over a borrowed pen or a fallen leaf, but draws the line firmly at anything of value taken un-given.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.27 — the five atichāras of asteya-vrata",
+        "source": "Umāsvāti; tr. Nathmal Tatia / Vijay K. Jain editions"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — the householder's third aṇuvrata in narrative form",
+        "source": "Aṅga-āgama; jainqq.org corpus"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra — śrāvaka conduct and the aticāras of non-stealing",
+        "source": "Samantabhadra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra, Chapter 7 (vows and their atichāras), sūtra 7.27",
+      "url": "https://en.wikisource.org/wiki/Tattvartha_Sutra/Chapter_7",
+      "type": "scholarship",
+      "consultedFor": "Canonical Sanskrit list of the five asteya atichāras to confirm the verse's Prākrit terms (stenāhṛta, taskaraprayoga, viruddharājyātikrama, kūṭatulākūṭamāna, pratirūpakavyavahāra)."
+    },
+    {
+      "title": "Anuvrata / Śrāvaka (Jain lay vows)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Framework of the five aṇuvratas and the third (non-stealing) vow's place among the householder's twelve vows."
+    },
+    {
+      "title": "Jainism for Householders — the five vows and their atichāras",
+      "url": "https://www.jainworld.com/literature/jainbooks/english/Householders/Jainism-for-Householders-05.asp",
+      "type": "commentary",
+      "consultedFor": "Glosses of the third-vow atichāras and the sacitta/acitta and trifling-items (grass, fuel, roadside-fallen) distinctions."
+    },
+    {
+      "title": "Jainqq digital library — śrāvaka vrata and atichāra material",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the Prākrit atichāra-term meanings against śrāvakācāra commentary."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The five Prākrit atichāra-terms map cleanly onto Tattvārtha-sūtra 7.27 and are confidently glossed. 'rājanigraha-kārīuṁ' is read as 'goods whose taking incurs royal penalty' (contraband); a minority reading takes it adjectivally with the act of taking ('taking that provokes state seizure') — sense is materially the same. 'dāṇacorī-jayaṇā' is read as the conscientious minimum permitted in unavoidable toll/customs matters (dāṇa = toll), not as license to evade duty; the book's spelling and the elliptical close 'māṁhe' (completed by the day/night refrain per the recurring template) are preserved verbatim. Vernacular Gujarati participles (kārīuṁ, aṇadīdhuṁ) are glossed from standard Gujarati; no source independently fixes their exact morpho-syntax here, so the syntactic bracketing of the first sentence carries modest uncertainty."
+}

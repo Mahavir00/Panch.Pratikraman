@@ -1,0 +1,184 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to two great Jinas together — Ajita, who has conquered every fear, and Śānti, from whom every sin has fallen away — both givers of peace and goodness.",
+  "recitation": "ajiyaṁ jiya-savva-bhayaṁ, saṁtiṁ ca pasaṁta-savva-gaya-pāvaṁ | jaya-guru saṁti-guṇa-kare, do vi jiṇavare paṇivayāmi ||",
+  "wordByWord": [
+    {
+      "token": "અજિઅં",
+      "translit": "ajiyaṁ",
+      "gloss": "Ajita (the 2nd Jina), in the accusative — 'to Ajita'",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ajiya < Skt. a-jita, 'un-conquered' (a- + √ji, 'to conquer'); a proper name carrying its literal sense of invincibility.",
+      "notes": "Accusative object of paṇivayāmi; the name itself means 'unconquered', setting up the verse's pun."
+    },
+    {
+      "token": "જિઅ",
+      "translit": "jiya",
+      "gloss": "having conquered / who has overcome",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. jiya < Skt. jita, past participle of √ji, 'to conquer, win'.",
+      "notes": "First member of the epithet jiya-savva-bhayaṁ qualifying Ajita; note the elegant figure — Ajita ('unconquered') is the one who has conquered."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. savva < Skt. sarva, 'all'.",
+      "notes": "Qualifies bhayaṁ here (and savva again at gaya-pāvaṁ below)."
+    },
+    {
+      "token": "ભયં",
+      "translit": "bhayaṁ",
+      "gloss": "fear",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhaya < Skt. bhaya (√bhī, 'to fear').",
+      "notes": "Completes 'jiya-savva-bhayaṁ' = 'who has conquered all fear', an epithet of Ajita."
+    },
+    {
+      "token": "સંતિં",
+      "translit": "saṁtiṁ",
+      "gloss": "Śānti (the 16th Jina), in the accusative — 'to Śānti'",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saṁti < Skt. śānti, 'peace' (√śam, 'to be calm'); proper name retaining its literal meaning.",
+      "notes": "Second accusative object of paṇivayāmi; like 'Ajita', the name doubles as the quality the devotee seeks."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt./Skt. ca, copulative conjunction.",
+      "notes": "Joins Ajita and Śānti as the two objects of veneration."
+    },
+    {
+      "token": "પસંત",
+      "translit": "pasaṁta",
+      "gloss": "calmed, stilled, pacified",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. pasaṁta < Skt. praśānta (pra- + √śam, 'to be wholly stilled').",
+      "notes": "Opens the epithet of Śānti; resonates with the name Śānti itself (both from √śam)."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. savva < Skt. sarva.",
+      "notes": "Qualifies pāvaṁ within the compound pasaṁta-savva-gaya-pāvaṁ."
+    },
+    {
+      "token": "ગયપાવં",
+      "translit": "gaya-pāvaṁ",
+      "gloss": "from whom (all) sin has gone away",
+      "partOfSpeech": "compound",
+      "etymology": "gaya (Pkt. < Skt. gata, 'gone', √gam) + pāva (Pkt. < Skt. pāpa, 'sin'); bahuvrīhi: 'whose sin is departed'.",
+      "notes": "Whole epithet pasaṁta-savva-gaya-pāvaṁ = 'in whom every sin is stilled and gone', describing Śānti's perfect purity."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory(-bringing) / triumphant",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Skt. jaya, 'victory, conquest' (√ji).",
+      "notes": "Taken with guru as jaya-guru, 'triumphant masters'; some reciters read it as an acclamation, 'Victory!'."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "great ones / venerable masters",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Skt. guru, 'weighty, venerable, teacher'.",
+      "notes": "Forms jaya-guru, an epithet of the two Jinas as supreme, victorious preceptors of the world."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "peace",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saṁti < Skt. śānti (√śam).",
+      "notes": "Here the common noun 'peace' inside saṁti-guṇa-kare — and a deliberate echo of Śāntinātha's name."
+    },
+    {
+      "token": "ગુણકરે",
+      "translit": "guṇa-kare",
+      "gloss": "makers of virtue / doers of good",
+      "partOfSpeech": "compound",
+      "etymology": "guṇa (Skt. guṇa, 'virtue, quality') + kara (√kṛ, 'to make, do'); accusative dual/plural agreeing with jiṇavare.",
+      "notes": "saṁti-guṇa-kare = 'bestowers of peace and virtue', a shared epithet of both Jinas."
+    },
+    {
+      "token": "દો",
+      "translit": "do",
+      "gloss": "two, both",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. do < Skt. dvau/dve, 'two'.",
+      "notes": "With vi, 'both together' — the structural heart of this twin-praise hymn."
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "also, even (here: 'both')",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. vi < Skt. api, emphatic/inclusive particle.",
+      "notes": "do vi = 'both alike', stressing that the two Jinas are venerated in a single act."
+    },
+    {
+      "token": "જિણવરે",
+      "translit": "jiṇavare",
+      "gloss": "the excellent Jinas (best of conquerors), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "jiṇa (Pkt. < Skt. jina, 'conqueror', √ji) + vara ('best, excellent'); accusative of the dual object.",
+      "notes": "The grammatical object of paṇivayāmi: 'these two best of Jinas'."
+    },
+    {
+      "token": "પણિવયામિ",
+      "translit": "paṇivayāmi",
+      "gloss": "I bow down, I reverently salute",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. paṇivayāmi < Skt. praṇipatāmi (pra- + ni- + √pat, 'to fall down before'), 1st person singular present.",
+      "notes": "The single finite verb governing the whole verse; all accusatives converge on this act of prostration."
+    }
+  ],
+  "literalTranslation": "Ajita, the conqueror of all fear, and Śānti, from whom all sin is stilled and gone — these two victorious masters, makers of peace and virtue, both the best of Jinas, I bow down to.",
+  "idiomaticTranslation": "To Ajita, who has subdued every fear, and to Śānti, in whom every sin lies stilled and gone — to these two triumphant lords, bestowers of peace and all goodness, both supreme among the Jinas, I bow in reverence.",
+  "elaboration": {
+    "verseByVerseCommentary": "The opening stanza is built as a single sentence around one verb — paṇivayāmi, 'I bow' — with everything else its object, so that the very first act of the hymn is prostration to two Jinas at once. The craft lies in matched epithets that let each name unfold its own meaning. Ajita ('unconquered') is glossed by jiya-savva-bhayaṁ, 'conqueror of all fear': the Invincible is precisely the one who has vanquished every fear, his own and the devotee's. Śānti ('peace') is glossed by pasaṁta-savva-gaya-pāvaṁ, 'in whom all sin is stilled and departed' — the very root √śam ('to be calm') sounding twice, in pasaṁta and again in the saṁti of saṁti-guṇa-kare. Thus fear and sin, the two great afflictions, are answered respectively by Ajita and Śānti. The pair is then drawn together: jaya-guru ('triumphant masters'), saṁti-guṇa-kare ('makers of peace and virtue'), and finally do vi jiṇavare — 'both, the excellent Jinas' — before the verb lands. The repeated savva ('all', twice) universalises the claim: not some fears, not some sins, but all. The verse establishes at the outset that to praise two Tīrthaṅkaras is to ask for one indivisible gift — fearless, sinless peace — and sets the alternating Ajita/Śānti rhythm the following stanzas will sustain.",
+    "doctrinalContext": "The verse encodes the Jain teaching that liberation is twofold in its fruit: the destruction of bhaya (fear) and the destruction of pāpa (sin/demerit). 'Conqueror of all fear' points to the canonical scheme of the seven fears (sapta-bhaya) that a perfected soul transcends, and to the Jina as abhaya-dāyaka, giver of fearlessness. 'In whom all sin is stilled and gone' names the soul's purification — the shedding of karmic pāpa-prakṛti culminating in the passion-free (vītarāga) state. Crucially, the devotee does not ask the Jinas to remove fear and sin as boons; the Jina, being vītarāga, grants no favours. Rather, by bowing (paṇivayāmi) to those who have themselves conquered fear and exhausted sin, the reciter orients the self toward that same attainment — veneration as a means of self-transformation, not transaction.",
+    "practicalRelevance": "A reciter can let this verse fix the intention for the whole smaraṇa: with the single word paṇivayāmi, physically bow and mentally place both fear and sin before the two Jinas. Hold Ajita as the answer to whatever one fears, and Śānti as the calming-away of whatever one regrets, so that the prayer begins not with petition but with surrender toward fearless, blameless calm.",
+    "crossReferences": [
+      {
+        "text": "Logassa — praise of the 24 Tīrthaṅkaras, naming Ajita (2nd) and Śānti (16th)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Abhaya-dāna and the conquest of the seven fears (sapta-bhaya)",
+        "source": "Standard Śvetāmbara doctrinal compendia (Tattvārtha tradition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams, Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit forms: √ji (jita/jina), √śam (śānti/praśānta), praṇipatāmi (pra-ni-√pat), pāpa, bhaya, guṇa-kara."
+    },
+    {
+      "title": "JainQQ digital Jain library — Ajitaśānti Stava recensions and stotra anthologies",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Identification of the opening gāthā, attribution to Nandiṣeṇasūri, and the twin-praise (Ajita/Śānti) structure."
+    },
+    {
+      "title": "Jain Stavan collection (Ajitnāth–Śāntināth recitation)",
+      "url": "https://jainsite.com/jain-media/jain-stavan/",
+      "type": "audio",
+      "consultedFor": "Verifying the chanted word-separation and pada divisions of the first verse."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse turns on a double reading: ajiyaṁ and saṁtiṁ are simultaneously the proper names Ajita/Śānti and the qualities 'unconquered'/'peace'; the epithets jiya-savva-bhayaṁ and pasaṁta-savva-gaya-pāvaṁ are construed here as distributively qualifying Ajita and Śānti respectively, which some commentaries instead read as applying jointly to both Jinas — both readings are doctrinally sound. 'jaya-guru' is taken as a compound epithet ('triumphant masters'); a minority recitation tradition voices 'jaya' as an exclamatory 'Victory!'. Orthography (single/doubled conjuncts, anusvāra) follows the book verbatim and is not normalized. The heading '(બીજું સ્મરણ)' is a sectional label, not part of the metrical verse, and is excluded from token glossing."
+}

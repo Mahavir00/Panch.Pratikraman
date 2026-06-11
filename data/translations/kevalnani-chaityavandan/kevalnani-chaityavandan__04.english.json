@@ -1,0 +1,206 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Vāchaka Mūlā says: recite this hymn of the twenty-four Jinas at sunrise every single day, so that you grow in true knowledge and the soul wins the joy of liberation.",
+  "recitation": "'vācakamūlā' kahe ugate bhāṇī, stavana bhaṇo jima thāo nāṇī. e covīśī nitya nitya gāṇī, muktitaṇāṁ sukha jima lyo prāṇī.",
+  "wordByWord": [
+    {
+      "token": "'વાચકમૂલા'",
+      "translit": "'vācakamūlā'",
+      "gloss": "Vāchaka Mūlā (the poet, here naming himself)",
+      "partOfSpeech": "noun",
+      "etymology": "vācaka (the Upādhyāya/preceptor rank) + the proper name Mūlā; the author's bhaṇitā (poetic signature).",
+      "notes": "The recurring dhāla-closing signature; quoted in inverted commas in the source as the poet referring to himself."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati kahevuṁ, from Prakrit kahei < Sanskrit kathayati (√kath, 'to tell').",
+      "notes": "Third-person present; introduces the poet's closing exhortation."
+    },
+    {
+      "token": "ઉગતે",
+      "translit": "ugate",
+      "gloss": "as it rises / at the rising (of)",
+      "partOfSpeech": "adverb",
+      "etymology": "Locative-style participle of ugavuṁ ('to rise'), from Prakrit uggama- < Sanskrit udgama ('rising up').",
+      "notes": "Forms the phrase ugate bhāṇī = 'at the rising sun', i.e. at dawn."
+    },
+    {
+      "token": "ભાણી",
+      "translit": "bhāṇī",
+      "gloss": "sun",
+      "partOfSpeech": "noun",
+      "etymology": "Old Gujarati/Apabhraṁśa bhāṇa < Sanskrit bhānu ('the shining one', √bhā 'to shine'); -ī here is a metrical/oblique form.",
+      "notes": "Poetic word for sūrya; pairs with ugate to fix dawn recitation. The long -ī rhymes with bhāṇī / nāṇī / gāṇī / prāṇī."
+    },
+    {
+      "token": "સ્તવન",
+      "translit": "stavana",
+      "gloss": "the hymn of praise (this stavana/caityavandana)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit stavana ('praising, eulogy', √stu).",
+      "notes": "Refers to this very hymn — the stavana of the twenty-four Jinas just recited."
+    },
+    {
+      "token": "ભણો",
+      "translit": "bhaṇo",
+      "gloss": "recite! / chant! (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of bhaṇavuṁ, from Prakrit bhaṇai < Sanskrit bhaṇati ('to speak, recite').",
+      "notes": "Second-person imperative addressed to the worshippers."
+    },
+    {
+      "token": "જિમ",
+      "translit": "jima",
+      "gloss": "so that / in such a way that",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati jima/jema, from Prakrit jaha < Sanskrit yathā ('as, so that').",
+      "notes": "Purpose conjunction introducing the intended fruit; recurs in line 2."
+    },
+    {
+      "token": "થાઓ",
+      "translit": "thāo",
+      "gloss": "you may become",
+      "partOfSpeech": "verb",
+      "etymology": "From thāvuṁ ('to become'), Prakrit thā- < Sanskrit sthā ('to stand, become').",
+      "notes": "Optative/imperative sense governed by jima ('so that you become')."
+    },
+    {
+      "token": "નાણી",
+      "translit": "nāṇī",
+      "gloss": "a knower (one possessed of jñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇī < Sanskrit jñānī ('knower'); cf. ṇāṇa = jñāna ('knowledge').",
+      "notes": "Echoes kevala-nāṇī from the hymn's title; here the attainable fruit is spiritual knowledge."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati demonstrative e, from Prakrit ea < Sanskrit eta-.",
+      "notes": "Points to the just-completed set of twenty-four."
+    },
+    {
+      "token": "ચોવીશી",
+      "translit": "covīśī",
+      "gloss": "the (set of) twenty-four Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati covīśī, from Prakrit cauvīsa < Sanskrit caturviṁśati ('twenty-four').",
+      "notes": "Here specifically the atīta caubīsī sung in dhāla 1, now offered for daily recitation."
+    },
+    {
+      "token": "નિત્ય",
+      "translit": "nitya",
+      "gloss": "daily, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit nitya ('constant, perpetual, daily').",
+      "notes": "First of the doubled pair nitya nitya."
+    },
+    {
+      "token": "નિત્ય",
+      "translit": "nitya",
+      "gloss": "(repeated) day after day, constantly",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit nitya, reduplicated for emphasis.",
+      "notes": "The doubling intensifies: 'every single day, without break'."
+    },
+    {
+      "token": "ગાણી",
+      "translit": "gāṇī",
+      "gloss": "singing / having sung",
+      "partOfSpeech": "verb",
+      "etymology": "Gerund/participle of gāvuṁ, from Prakrit gā- < Sanskrit gāyati / gāna (√gai 'to sing').",
+      "notes": "Absolutive sense: 'by singing this caubīsī ever and ever'."
+    },
+    {
+      "token": "મુક્તિતણાં",
+      "translit": "muktitaṇāṁ",
+      "gloss": "of liberation",
+      "partOfSpeech": "compound",
+      "etymology": "mukti (Sanskrit mukti, 'release', √muc) + the Old Gujarati genitive postposition taṇāṁ ('belonging to', from Prakrit taṇaya).",
+      "notes": "Possessive: 'the happiness that belongs to mukti'; taṇāṁ inflected to agree with sukha."
+    },
+    {
+      "token": "સુખ",
+      "translit": "sukha",
+      "gloss": "bliss, happiness",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sukha ('ease, joy, happiness').",
+      "notes": "The bliss of mokṣa — the highest, unconditioned happiness."
+    },
+    {
+      "token": "જિમ",
+      "translit": "jima",
+      "gloss": "so that",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati jima < Prakrit jaha < Sanskrit yathā.",
+      "notes": "Second purpose-clause, parallel to line 1; introduces the ultimate goal."
+    },
+    {
+      "token": "લ્યો",
+      "translit": "lyo",
+      "gloss": "may take / obtain (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of levuṁ ('to take, receive'), from Prakrit le- < Sanskrit labhate / lā ('to obtain').",
+      "notes": "Governed by jima: 'so that the soul obtains'."
+    },
+    {
+      "token": "પ્રાણી",
+      "translit": "prāṇī",
+      "gloss": "the living being, the soul",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit prāṇin ('a breathing one, living being', from prāṇa 'life-breath').",
+      "notes": "The reciter as an embodied soul; the subject who 'takes' liberation's bliss."
+    }
+  ],
+  "literalTranslation": "'Vāchaka Mūlā' says: at the rising sun recite the hymn, so that you become a knower; singing this twenty-four day after day, so that the living being takes the bliss of liberation.",
+  "idiomaticTranslation": "Thus speaks Vāchaka Mūlā: chant this hymn at break of dawn, that you may ripen into a true knower; sing this garland of the twenty-four Jinas day after unbroken day, so that the soul may at last attain the bliss of liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "This closing stanza of the first dhāla is a phala-śruti — a statement of the fruit of recitation — capped by the poet's own name. Having walked through the atīta caubīsī, Vāchaka Mūlā now turns from the Jinas to the reciter and lays out a tight devotional ladder. Notice the two parallel jima ('so that') clauses, one per line: the first promises a proximate fruit (thāo nāṇī, 'become a knower'), the second the ultimate fruit (mukti-sukha, 'the bliss of liberation'). The verse thus binds the easy act of daily chanting to the hardest of attainments. The single word ugate bhāṇī ('at the rising sun') fixes the hymn to dawn from within the text itself, and nitya nitya — the emphatic doubling — insists the practice be unbroken, not occasional. The end-rhyme is deliberate and mnemonic: bhāṇī / nāṇī / gāṇī / prāṇī chime so the verse lodges in memory. There is also a quiet word-play: nāṇī (jñānī, 'knower') deliberately echoes the kevala-nāṇī of the hymn's very title, so the reciter is invited to walk, however distantly, the same road of knowledge as the omniscient Jinas just praised. The movement of the stanza is from sun, to sound, to knowledge, to release — outward act drawing the soul inward.",
+    "doctrinalContext": "The verse compresses the Jain soteriological sequence into two lines: devotional praise (stavana / caitya-vandana) ripens into jñāna, and jñāna into mukti. This reflects the principle that bhakti and svādhyāya are not ends in themselves but instruments that purify cognition and burn karma, so that right knowledge (samyag-jñāna) and ultimately mokṣa become reachable. The promised 'becoming a nāṇī' should be read against the ratnatraya: praise steadies faith and feeds knowledge, the two that, with conduct, free the soul. The mukti-sukha named here is the unconditioned, self-arising bliss of the liberated jīva — sukha without object or decay — distinguished from sensory pleasure. The address to the prāṇī (every embodied soul) universalises the offer: liberation's joy is not the privilege of the twenty-four alone but the destiny held out to any being who recites with constancy.",
+    "practicalRelevance": "Treat this as the hymn's instruction-label: chant the caityavandana at dawn, every day without gaps, with attention rather than haste. The verse reframes recitation as a knowledge-practice — chant to understand and be changed, not merely to complete a duty — and offers a near goal (clarity, knowing) to sustain you on the way to the far goal (liberation).",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — the praise of the same twenty-four Tīrthaṅkaras as a daily Āvaśyaka",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Samyag-jñāna as one of the three jewels leading to mokṣa (Tattvārtha-sūtra 1.1)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "stavana — definition",
+      "url": "https://www.wisdomlib.org/definition/stavana",
+      "type": "dictionary",
+      "consultedFor": "Confirming stavana = hymn/eulogy of praise for the gloss of સ્તવન."
+    },
+    {
+      "title": "jnanin (jñānī) — definition",
+      "url": "https://www.wisdomlib.org/definition/jnanin",
+      "type": "dictionary",
+      "consultedFor": "Confirming jñānī = 'knower', root of નાણી (ṇāṇī)."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — bhānu (भ section)",
+      "url": "https://sanskrit.uohyd.ac.in/SKT/MW/186.html",
+      "type": "dictionary",
+      "consultedFor": "Establishing bhānu = sun (√bhā 'to shine') behind Old Gujarati ભાણ/ભાણી."
+    },
+    {
+      "title": "mukti — definition",
+      "url": "https://www.wisdomlib.org/definition/mukti",
+      "type": "dictionary",
+      "consultedFor": "Confirming mukti = liberation/release for મુક્તિતણાં."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Old/classical Gujarati of an Apabhraṁśa-tinged dhāla; glosses follow the regular Prakrit→Gujarati derivations. ભાણી (bhāṇī) is read as 'sun' (< bhānu) within the set phrase ઉગતે ભાણી = 'at sunrise'; the final -ī is metrical, chosen for the bhāṇī/nāṇī/gāṇī/prāṇī rhyme. નાણી is taken as jñānī ('knower'), deliberately echoing the title's kevala-nāṇī. ગાણી is read as an absolutive ('having sung / by singing') governing the purpose clause. The dawn timing is stated by the verse's own ઉગતે ભાણી and is not imported from the (already-given) ritual-placement framing. Spelling kept verbatim per the source orthography."
+}

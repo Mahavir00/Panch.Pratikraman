@@ -1,0 +1,160 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Those who cling for shelter to your two lofty feet, O Lord of sages, pay no mind even to a terrifying great elephant standing right beside them.",
+  "recitation": "bhīmaṁ mahā gaïndaṁ, accāsannaṁ pi te na vi gaṇaṁti | je tumha calaṇa-jualaṁ, muṇivaï tuṅgaṁ samallīṇā ||",
+  "wordByWord": [
+    {
+      "token": "ભીમં",
+      "translit": "bhīmaṁ",
+      "gloss": "terrible, fearsome, dreadful (qualifying the elephant; accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhīma 'terrible', from √bhī 'to fear'; Prakrit retains the form unchanged.",
+      "notes": "Accusative singular agreeing with gaïndaṁ — the object that the devotee does not heed."
+    },
+    {
+      "token": "મહા",
+      "translit": "mahā",
+      "gloss": "great, mighty, huge",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. mahā- (compounding stem of mahat 'great').",
+      "notes": "Intensifies the menace of the elephant: not merely an elephant but a great, towering one."
+    },
+    {
+      "token": "ગઇંદં",
+      "translit": "gaïndaṁ",
+      "gloss": "lord-of-elephants, a great elephant (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaïnda < Skt. gajendra (gaja 'elephant' + indra 'lord/chief'); intervocalic -j- softens and the cluster simplifies.",
+      "notes": "The peril of this verse-pair: the rutting elephant, here named as the very 'king' of elephants."
+    },
+    {
+      "token": "અચ્ચાસન્નંપિ",
+      "translit": "accāsannaṁ pi",
+      "gloss": "even though it is very close at hand",
+      "partOfSpeech": "adverb",
+      "etymology": "acca- (Skt. ati 'exceedingly') + āsanna (Skt. āsanna 'near, at hand', past part. of ā-√sad) + pi (Skt. api 'even'); the ati+ā assimilates to acc-.",
+      "notes": "Single written token containing the emphatic particle pi (api). The point of the whole verse turns on this word: the danger is not merely present but imminent, right beside the devotee — and still it is disregarded."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "they, those (people)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. te, nominative plural of tad; correlative answering the relative je in line 2.",
+      "notes": "Subject of gaṇaṁti; picked up by the relative clause 'who are devoted to your feet'."
+    },
+    {
+      "token": "નવિ",
+      "translit": "na vi",
+      "gloss": "not at all, not even",
+      "partOfSpeech": "particle",
+      "etymology": "na (Skt. na 'not') + vi (Skt. api, here emphatic 'even'); a common Prakrit emphatic negation.",
+      "notes": "Strong negation: 'do not in the least reckon with it'."
+    },
+    {
+      "token": "ગણંતિ",
+      "translit": "gaṇaṁti",
+      "gloss": "they count, reckon, heed, take into account",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit gaṇaï < Skt. √gaṇ 'to count, reckon'; 3rd person plural present gaṇaṁti.",
+      "notes": "Idiomatic 'na gaṇaï' = 'pays no heed to, treats as nothing'. The fearless devotee does not even 'count' the great elephant as a threat."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "who (those who)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. ye, nominative plural of the relative yad; Prakrit y- > j-.",
+      "notes": "Opens the relative clause defining 'te' — 'they who have taken refuge…'."
+    },
+    {
+      "token": "તુમ્હ",
+      "translit": "tumha",
+      "gloss": "your (of you)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive of the 2nd-person pronoun, < Skt. tava/tubhya(m); stem tumha-.",
+      "notes": "Addressed to Pārśva; qualifies 'pair of feet'."
+    },
+    {
+      "token": "ચલણ",
+      "translit": "calaṇa",
+      "gloss": "feet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit calaṇa < Skt. caraṇa 'foot' (from √car 'to move'); intervocalic -r- > -l-.",
+      "notes": "First member of the compound calaṇa-juala (the glossary's calaṇa-juala); the object of refuge."
+    },
+    {
+      "token": "જુઅલં",
+      "translit": "jualaṁ",
+      "gloss": "the pair (of feet) (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit juala < Skt. yugala 'pair, couple'; y- > j- and -g- elided to a glide.",
+      "notes": "Accusative object of samallīṇā ('clinging to the pair of feet')."
+    },
+    {
+      "token": "મુણિવઇ",
+      "translit": "muṇivaï",
+      "gloss": "O Lord of sages! (a vocative epithet of Pārśva)",
+      "partOfSpeech": "invocation",
+      "etymology": "muṇi (Skt. muni 'sage') + vaï (Skt. pati 'lord, master'); muni-pati, vocative.",
+      "notes": "Direct address to Pārśvanātha as chief among ascetics; anchors the whole sentence as a prayer to him."
+    },
+    {
+      "token": "તુંગં",
+      "translit": "tuṅgaṁ",
+      "gloss": "lofty, exalted, high (qualifying the pair of feet)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. tuṅga 'high, lofty'; Prakrit unchanged.",
+      "notes": "The feet are 'lofty' — spiritually exalted, and pointedly set against the towering height of the great elephant."
+    },
+    {
+      "token": "સમલ્લીણા",
+      "translit": "samallīṇā",
+      "gloss": "having taken firm refuge in, closely clinging to, wholly resorting to (nominative plural)",
+      "partOfSpeech": "adj",
+      "etymology": "Past participle, Skt. sam-ā-līna (sam + ā + √lī 'to cling, cleave, become absorbed'); the conjunct -lī- doubles to -ll-.",
+      "notes": "Predicate of 'je…te': those who are 'clung-fast' to the feet. A deliberate counter to accāsannaṁ — the elephant draws 'very near', but the devotee is 'clung-close' to the feet, and the second nearness cancels the first."
+    }
+  ],
+  "literalTranslation": "A terrible great elephant — even though it is very close at hand — they do not heed it at all: those who, O Lord of sages, cling fast to your lofty pair of feet.",
+  "idiomaticTranslation": "Though a dreadful, mighty elephant looms right at their side, they give it not a thought — those souls who cleave for refuge to your two exalted feet, O Lord of sages.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is the 'turn' that completes the elephant-peril pair: where the preceding verse painted the beast in all its sensory terror — moon-white tusks like pestles, the long swinging trunk, tawny eyes, the roar of a rain-laden cloud — this verse withdraws the camera from the elephant entirely and fixes it on the unmoved devotee. The poet's art lies in a single opposition of two 'nearnesses'. The elephant is accāsanna, 'exceedingly near'; the devotee is samallīṇa, 'clung-close' to Pārśva's feet. Both words are built on coming-near, but the refuge-nearness simply overrides the danger-nearness, so that the verse can end not with rescue from the elephant but with sheer indifference to it: te na vi gaṇaṁti, 'they do not even reckon with it.' The idiom na gaṇaï is precise — the threat is not fought off or fled; it is dismissed as not worth counting. Note too the vertical play: the feet are tuṅga, 'lofty', literally towering, deliberately matched against the towering bulk of the mahā-gaïnda, so that the exaltation of the refuge out-measures the height of the menace. The vocative muṇivaï ('Lord of sages') keeps the whole sentence a direct address to Pārśva, so the fearlessness is never the devotee's own bravado but a property lent by the One clung to. Within the verse-pair structure of the hymn this gāthā thus seals the elephant danger and readies the litany to move on to its next terror.",
+    "doctrinalContext": "The verse crystallises śaraṇa (refuge) and the abhaya (fearlessness) that flows from it. The vehicle of rescue here is specifically the calaṇa-j2uala — the Jina's feet taken as refuge — rather than the name-as-mantra emphasised elsewhere in the hymn; the two are complementary modes of the same protective recollection. Doctrinally the deliverance is inward: fear (bhaya) is treated as a state of mind dissolved by equanimity, not as an external force magically repelled. One 'absorbed' (sam-ā-līna) in the Jina's feet has so steadied the citta that even imminent death does not register as a threat — the practitioner's samatā, not the elephant's behaviour, is what changes. This locates the verse squarely in the Jain understanding of the Tīrthaṅkara as abhaya-dāyaka, the giver of fearlessness, whose refuge confers the inner freedom that worldly peril cannot touch.",
+    "practicalRelevance": "When some danger presses in 'very near' — an accident, an illness, a moment of panic — the reciter is taught not to bargain or flee in the mind but to do exactly what the verse describes: cling fast, inwardly, to Pārśva's feet, and let the threat go un-'counted'. The verse trains the response of steadiness-by-refuge: turn toward the object of devotion rather than fixating on the peril, and fear loses its grip.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa (Bhayahara) Stotra v.18 — the summary that gathers disease, water, fire, serpent, thief, foe, lion and elephant and declares that merely reciting Pārśva's name stills them all",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namiūṇa (Bhayahara) Stotra v.14 — the immediately preceding verse, which paints the rutting elephant whose terror this verse dissolves",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśvanātha as the 23rd Tīrthaṅkara addressed here as muṇivaï, and his role as giver of refuge/fearlessness"
+    },
+    {
+      "title": "Bhaktamara Stotra (Wikipedia) — on Ācārya Mānatuṅga",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "traditional attribution of the fear-removing stotras to Ācārya Mānatuṅga, the same poet credited with this hymn"
+    },
+    {
+      "title": "Ratnachandra, An Illustrated Ardha-Magadhi Dictionary (Sacitra Arddha-Māgadhī kosha), 1923–1932",
+      "url": "https://openlibrary.org/books/OL2164387M/An_illustrated_Ardha-Magadhi_dictionary",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit derivations for gaïnda (gajendra), calaṇa (caraṇa), juala (yugala), samallīṇa (sam-ā-līna), gaṇaï (√gaṇ)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Word readings follow the supplied book text verbatim (ગઇંદં, ચલણ જુઅલં, સમલ્લીણા, અચ્ચાસન્નંપિ); other recensions print minor variants (e.g. gayanda/gaïnda, samalliṇā/samallīṇā). gaïndaṁ is taken as Skt. gajendra ('lord of elephants') rather than a plain 'elephant', consistent with mahā- intensification. Reliable open online word-by-word editions of this gāthā are scarce and several web 'translations' are unreliable/AI-generated; the gloss here rests on standard Prakrit morphology and the cited dictionary rather than on a single published verse-translation, so individual nuances (especially the exact force of accāsanna and the predicate samallīṇā) carry mild residual uncertainty. The preface notes vv.12–15 as the elephant peril 'extending to the lion'; this particular gāthā names only the elephant, the lion being implied by the section rather than stated in v.15."
+}

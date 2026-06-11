@@ -1,0 +1,530 @@
+{
+  "shlokaId": "deshavagasik-pachchakkhan/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Standing before my guru, I promise that for a short, fixed time I will shrink the world I move and act in — limited by what, where, when, and with what inner attitude — allowing only a few honest exceptions, and so I give it up.",
+  "recitation": "ahannaṁ bhante! tumhāṇaṁ samīve deśāvagāsiyaṁ pacchakkhāmi, taṁ jahā — davvao, khittao, kālao, bhāvao. davvao-ṇaṁ desāvagāsiyaṁ, khittao-ṇaṁ itthaṁ vā annatthaṁ vā, kālao-ṇaṁ muhuttaṁ parimāṇaṁ jāva dhāraṇā parimāṇaṁ pajjuvāsāmi, bhāvao-ṇaṁ jāva gaheṇaṁ na gahijjāmi jāva chaleṇaṁ na chalijjāmi, annesa keṇa rogāyaṁ keṇa vā pariṇāmo na parivaḍai, tāva me abhiggaho — annatthaṇā bhogeṇaṁ, sahasā gāreṇaṁ, mahattarā gāreṇaṁ, savva samāhi vattiyā gāreṇaṁ, vosirai / vosirāmi.",
+  "wordByWord": [
+    {
+      "token": "અહન્નં",
+      "translit": "ahannaṁ",
+      "gloss": "I (emphatic)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Ardhamāgadhī ahaṁ (Skt. aham, 'I') + the emphatic enclitic -ṇaṁ.",
+      "notes": "The speaker's self-reference opening the declaration; -ṇaṁ lends solemn emphasis."
+    },
+    {
+      "token": "ભંતે",
+      "translit": "bhante",
+      "gloss": "O venerable one! (address to the guru)",
+      "partOfSpeech": "invocation",
+      "etymology": "Vocative of bhadanta/bhavanta ('venerable, fortunate one'); Skt. bhadanta.",
+      "notes": "The following '!' marks the direct address; the vow is spoken face-to-face to the preceptor."
+    },
+    {
+      "token": "તુમ્હાણં",
+      "translit": "tumhāṇaṁ",
+      "gloss": "of you / before you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive plural (honorific) of tumha ('you'); Skt. yuṣmākam.",
+      "notes": "Honorific plural for the single guru."
+    },
+    {
+      "token": "સમીવે",
+      "translit": "samīve",
+      "gloss": "in the presence / near",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of samīva; Skt. samīpa ('vicinity, presence').",
+      "notes": "'In your presence' — the vow is valid only when declared before the guru."
+    },
+    {
+      "token": "દેશાવગાસિયં",
+      "translit": "deśāvagāsiyaṁ",
+      "gloss": "the deśāvagāśika vow (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "deśa ('region') + avagāśa ('confining, restricting') + -ika; the tenth lay vow.",
+      "notes": "Glossary term — the object renounced/undertaken."
+    },
+    {
+      "token": "પચ્ચખ્ખામિ",
+      "translit": "pacchakkhāmi",
+      "gloss": "I formally renounce / I take the vow",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. pratyākhyāmi, 1st sg. of prati-ā-√khyā ('to declare against, renounce').",
+      "notes": "The performative core verb of any pratyākhyāna."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that, it (namely)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Correlative neuter sg. of ta-; Skt. tat.",
+      "notes": "Points forward to the four-fold specification."
+    },
+    {
+      "token": "જહા",
+      "translit": "jahā",
+      "gloss": "as follows / namely",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. yathā ('as, in the manner that').",
+      "notes": "'taṁ jahā' = 'that is to say', introducing the enumeration."
+    },
+    {
+      "token": "દવ્વઓ",
+      "translit": "davvao",
+      "gloss": "by substance (dravya)",
+      "partOfSpeech": "adverb",
+      "etymology": "davva (Skt. dravya) + ablative-adverbial -ao (Skt. -taḥ).",
+      "notes": "First of the four scopes; glossary term dravya."
+    },
+    {
+      "token": "ખિત્તઓ",
+      "translit": "khittao",
+      "gloss": "by place (kṣetra)",
+      "partOfSpeech": "adverb",
+      "etymology": "khitta (Skt. kṣetra) + -ao (-taḥ).",
+      "notes": "Glossary term kṣetra."
+    },
+    {
+      "token": "કાલઓ",
+      "translit": "kālao",
+      "gloss": "by time (kāla)",
+      "partOfSpeech": "adverb",
+      "etymology": "kāla (Skt. kāla) + -ao (-taḥ).",
+      "notes": "Glossary term kāla."
+    },
+    {
+      "token": "ભાવઓ",
+      "translit": "bhāvao",
+      "gloss": "by mode/attitude (bhāva)",
+      "partOfSpeech": "adverb",
+      "etymology": "bhāva (Skt. bhāva) + -ao (-taḥ).",
+      "notes": "Glossary term bhāva; completes the four-fold measuring stick."
+    },
+    {
+      "token": "દવ્વઓનં",
+      "translit": "davvao-ṇaṁ",
+      "gloss": "as for by substance",
+      "partOfSpeech": "adverb",
+      "etymology": "davvao + connective particle -ṇaṁ.",
+      "notes": "Resumes each scope in turn to spell it out; -ṇaṁ here is a topic-marking enclitic."
+    },
+    {
+      "token": "દેસાવગાસિયં",
+      "translit": "desāvagāsiyaṁ",
+      "gloss": "the deśāvagāśika itself",
+      "partOfSpeech": "noun",
+      "etymology": "As above; note the verbatim orthographic variation દેસ- vs દેશ-.",
+      "notes": "By substance, the matter restricted is the deśāvagāśika observance itself."
+    },
+    {
+      "token": "ખિત્તઓનં",
+      "translit": "khittao-ṇaṁ",
+      "gloss": "as for by place",
+      "partOfSpeech": "adverb",
+      "etymology": "khittao + -ṇaṁ.",
+      "notes": "Introduces the spatial bound."
+    },
+    {
+      "token": "ઇત્થં",
+      "translit": "itthaṁ",
+      "gloss": "here (in this spot)",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. atra/ittham ('here, in this place').",
+      "notes": "Marks the chosen confined region."
+    },
+    {
+      "token": "વા",
+      "translit": "vā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. vā ('or, either').",
+      "notes": "Disjunctive joining 'here' and 'elsewhere'."
+    },
+    {
+      "token": "અન્નત્થં",
+      "translit": "annatthaṁ",
+      "gloss": "elsewhere",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. anyatra ('in another place').",
+      "notes": "'Here or elsewhere' = whichever single locale the reciter fixes as the boundary."
+    },
+    {
+      "token": "વા",
+      "translit": "vā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. vā.",
+      "notes": "Closes the disjunction."
+    },
+    {
+      "token": "કાલઓનં",
+      "translit": "kālao-ṇaṁ",
+      "gloss": "as for by time",
+      "partOfSpeech": "adverb",
+      "etymology": "kālao + -ṇaṁ.",
+      "notes": "Introduces the temporal bound."
+    },
+    {
+      "token": "મુહુત્તં",
+      "translit": "muhuttaṁ",
+      "gloss": "a muhūrta (≈48 min)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. muhūrta; glossary term.",
+      "notes": "Names the minimum span of the vow."
+    },
+    {
+      "token": "પરિમાણં",
+      "translit": "parimāṇaṁ",
+      "gloss": "the measure / extent",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. parimāṇa ('measure, limit'), from pari-√mā.",
+      "notes": "'the measure of a muhūrta' — quantifies the lower bound."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "up to / as far as",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. yāvat ('as long/far as').",
+      "notes": "Extends the span from the muhūrta minimum to the reciter's resolve."
+    },
+    {
+      "token": "ધારણા",
+      "translit": "dhāraṇā",
+      "gloss": "(one's) resolve / sustained holding",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dhāraṇā ('holding, retention'), from √dhṛ.",
+      "notes": "The self-set upper limit — as long as one can sustain the resolve."
+    },
+    {
+      "token": "પરિમાણં",
+      "translit": "parimāṇaṁ",
+      "gloss": "the measure of",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. parimāṇa.",
+      "notes": "'up to the measure of one's resolve' completes the time-scope."
+    },
+    {
+      "token": "પજ્જુવાસામિ",
+      "translit": "pajjuvāsāmi",
+      "gloss": "I attend upon / abide within (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. paryupāsāmi, pari-upa-√ās ('to sit by, wait upon, abide in').",
+      "notes": "Glossary term paryupāsāmi; one dwells faithfully within the bound observance for the set time."
+    },
+    {
+      "token": "ભાવઓનં",
+      "translit": "bhāvao-ṇaṁ",
+      "gloss": "as for by mode/attitude",
+      "partOfSpeech": "adverb",
+      "etymology": "bhāvao + -ṇaṁ.",
+      "notes": "Introduces the inner-disposition clause."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "so long as",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. yāvat.",
+      "notes": "Sets the condition under which the resolve holds."
+    },
+    {
+      "token": "ગહેણં",
+      "translit": "gaheṇaṁ",
+      "gloss": "by seizure / forcible grasping",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. grahaṇena, instr. of grahaṇa ('seizing'), √grah.",
+      "notes": "Refers to being physically seized/coerced."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na.",
+      "notes": "Negates the verb following."
+    },
+    {
+      "token": "ગહિજ્જામિ",
+      "translit": "gahijjāmi",
+      "gloss": "I am (not) seized",
+      "partOfSpeech": "verb",
+      "etymology": "Passive of √grah; Skt. gṛhye ('I am grasped/seized').",
+      "notes": "'so long as I am not seized' — a condition for the abhigraha to stand."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "so long as",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. yāvat.",
+      "notes": "Introduces the second condition."
+    },
+    {
+      "token": "છલેણં",
+      "translit": "chaleṇaṁ",
+      "gloss": "by deceit / trickery",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. chalena, instr. of chala ('fraud, trick').",
+      "notes": "Being deceived into breaking the bound."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na.",
+      "notes": ""
+    },
+    {
+      "token": "છલિજ્જામિ",
+      "translit": "chalijjāmi",
+      "gloss": "I am (not) deceived",
+      "partOfSpeech": "verb",
+      "etymology": "Passive of √chal; Skt. chalye ('I am tricked/made to swerve').",
+      "notes": "'so long as I am not deceived' — second standing-condition."
+    },
+    {
+      "token": "અન્નેશ",
+      "translit": "annesa",
+      "gloss": "by some other (cause)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. anyena/anyeṣāṁ ('by another, by some other'); reading per the printed text.",
+      "notes": "Verbatim form; word-division of this cluster varies across recensions (see notes)."
+    },
+    {
+      "token": "કેણ",
+      "translit": "keṇa",
+      "gloss": "by some / any",
+      "partOfSpeech": "pronoun",
+      "etymology": "Instr. of ka ('who/which'); Skt. kena.",
+      "notes": "Indefinite — 'by any (disease)'."
+    },
+    {
+      "token": "રોગાયં",
+      "translit": "rogāyaṁ",
+      "gloss": "disease / illness",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. roga ('sickness'); -āyaṁ per the printed orthography.",
+      "notes": "One contingency that could undo the resolve."
+    },
+    {
+      "token": "કેણ",
+      "translit": "keṇa",
+      "gloss": "by some / any",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. kena.",
+      "notes": ""
+    },
+    {
+      "token": "વા",
+      "translit": "vā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. vā.",
+      "notes": "Joins disease and change-of-disposition."
+    },
+    {
+      "token": "પરિણામો",
+      "translit": "pariṇāmo",
+      "gloss": "change of disposition / mental turn",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pariṇāma ('transformation, ripening'), pari-√nam.",
+      "notes": "A shift of inner state that might break the resolve."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na.",
+      "notes": ""
+    },
+    {
+      "token": "પરિવડઇ",
+      "translit": "parivaḍai",
+      "gloss": "(it) falls away / collapses",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. paripatati ('falls down, lapses'), pari-√pat.",
+      "notes": "'(so long as) it does not fall away through disease or a change of mind'."
+    },
+    {
+      "token": "તાવ",
+      "translit": "tāva",
+      "gloss": "for so long / until then",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tāvat ('that long'); correlative of jāva.",
+      "notes": "Closes the jāva…tāva conditional frame."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "my / for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive/dative enclitic of 'I'; Skt. me.",
+      "notes": ""
+    },
+    {
+      "token": "અભિગ્ગહો",
+      "translit": "abhiggaho",
+      "gloss": "the binding resolve (abhigraha)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. abhigraha; glossary term.",
+      "notes": "'for so long is my abhigraha' — the resolve holds while the conditions persist."
+    },
+    {
+      "token": "અન્નત્થણા",
+      "translit": "annatthaṇā",
+      "gloss": "except by (inadvertence)",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. anyatra ('save, except') + the anā- of anābhoga, joined in the printed text.",
+      "notes": "Begins the first āgāra; reads as annatthaṇā-(a)bhogeṇaṁ = 'except through inadvertence'."
+    },
+    {
+      "token": "ભોગેણં",
+      "translit": "bhogeṇaṁ",
+      "gloss": "through non-awareness / inadvertence",
+      "partOfSpeech": "noun",
+      "etymology": "(anā)bhoga (Skt. anābhoga, 'inattention') + instr. -eṇaṁ.",
+      "notes": "Completes the anābhoga āgāra (glossary term anābhoga)."
+    },
+    {
+      "token": "સહસા",
+      "translit": "sahasā",
+      "gloss": "suddenly / by reflex",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. sahasā ('suddenly, forcibly'); glossary term.",
+      "notes": "Second āgāra."
+    },
+    {
+      "token": "ગારેણં",
+      "translit": "gāreṇaṁ",
+      "gloss": "by the permitted exception (āgāra)",
+      "partOfSpeech": "noun",
+      "etymology": "(ā)gāra (Skt. āgāra/āgāra-, 'exception-clause') + instr. -eṇaṁ.",
+      "notes": "Marks each named āgāra; glossary term āgāra."
+    },
+    {
+      "token": "મહત્તરા",
+      "translit": "mahattarā",
+      "gloss": "by a weightier compulsion",
+      "partOfSpeech": "adjective",
+      "etymology": "Skt. mahattara ('greater'); glossary term.",
+      "notes": "Third āgāra."
+    },
+    {
+      "token": "ગારેણં",
+      "translit": "gāreṇaṁ",
+      "gloss": "by the exception (āgāra)",
+      "partOfSpeech": "noun",
+      "etymology": "As above.",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all / complete",
+      "partOfSpeech": "adjective",
+      "etymology": "Skt. sarva ('all').",
+      "notes": "Part of the compound savva-samāhi-vattiyā (glossary term)."
+    },
+    {
+      "token": "સમાહિ",
+      "translit": "samāhi",
+      "gloss": "equanimity / well-being",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. samādhi ('composure, equanimity').",
+      "notes": ""
+    },
+    {
+      "token": "વત્તિયા",
+      "translit": "vattiyā",
+      "gloss": "for the sake of / on account of",
+      "partOfSpeech": "adjective",
+      "etymology": "Skt. pratyaya/vartikā ('on account of, motivated by').",
+      "notes": "'for the sake of complete equanimity' — the fourth āgāra."
+    },
+    {
+      "token": "ગારેણં",
+      "translit": "gāreṇaṁ",
+      "gloss": "by the exception (āgāra)",
+      "partOfSpeech": "noun",
+      "etymology": "As above.",
+      "notes": "Seals the standard four āgāras."
+    },
+    {
+      "token": "વોસિરઇ",
+      "translit": "vosirai",
+      "gloss": "one renounces (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. vyutsṛjati ('casts off, abandons'), vi-ut-√sṛj; 3rd sg.",
+      "notes": "Impersonal/3rd-person form paired with the 1st-person below."
+    },
+    {
+      "token": "/",
+      "translit": "/",
+      "gloss": "(or)",
+      "partOfSpeech": "particle",
+      "etymology": "Editorial separator in the printed text.",
+      "notes": "Offers the reciter the two grammatical persons of the closing word."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I renounce / I give it up",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. vyutsṛjāmi, 1st sg. of vi-ut-√sṛj; glossary term.",
+      "notes": "The concluding act of relinquishment that seals the pratyākhyāna."
+    }
+  ],
+  "literalTranslation": "I, O venerable one, in your presence renounce the deśāvagāśika — that is, by substance, by place, by time, by mode. By substance, the deśāvagāśika itself; by place, here or elsewhere; by time, the measure of a muhūrta up to the measure of my resolve — within it I abide; by mode, so long as I am not seized, so long as I am not deceived, and so long as it does not fall away through any disease or any change of disposition — for that long is my binding resolve, save through inadvertence, save by a sudden reflex, save by a greater compulsion, save for the sake of complete equanimity. One renounces / I renounce it.",
+  "idiomaticTranslation": "Venerable teacher, before you I take the deśāvagāśika vow, measured four ways — by what, where, when, and with what heart. In substance, it is this very contraction of my life; in place, I bind myself to this one spot or that; in time, from a single muhūrta out to the full reach of my resolve — and within that span I faithfully abide. In disposition, my resolve stands firm as long as no force seizes me, no trick deceives me, and no illness or sudden change of heart breaks it. For just so long this is my abhigraha — allowing only that I slip unawares, act on a sudden reflex, yield to some weightier necessity, or do what is needed to keep my whole composure. This I renounce.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single verse is the entire vow-formula, and its architecture is worth tracing word by word. It opens not with an assertion but with a relationship: 'ahannaṁ bhante! tumhāṇaṁ samīve' — the layperson does not bind himself privately but stands in the guru's presence, so that the witness sanctifies the act. The verb 'pacchakkhāmi' is performative: saying it is doing it. What follows is the four-fold grid (davvao-khittao-kālao-bhāvao) applied not abstractly but to contraction — each scope is then re-opened with the topic-marker -ṇaṁ and filled in. The kāla clause is the most concrete contribution of this verse: 'muhuttaṁ parimāṇaṁ jāva dhāraṇā parimāṇaṁ' fixes a floor (one muhūrta) and a ceiling (one's own sustainable resolve), and the rare verb 'pajjuvāsāmi' — 'I sit beside, I attend upon' — frames the vow not as mere abstention but as devoted dwelling-within. The bhāva clause is the verse's spiritual heart: the resolve is honestly hedged by three real-world contingencies (gaha/seizure, chala/deceit, roga-or-pariṇāma) under the jāva…tāva frame, conceding that an abhigraha is a human undertaking, not a guarantee against force. Only then come the four standard āgāras and the closing 'vosirai/vosirāmi,' whose double form lets any reciter choose the grammatical person. The movement is thus: relationship → measure → honest conditions → exceptions → release.",
+    "doctrinalContext": "The verse operationalizes ahiṁsā through self-limitation: by shrinking dravya, kṣetra, kāla and bhāva for a set span, the householder sharply reduces the field in which harm to jīvas can occur — voluntary contraction as active non-violence. Doctrinally striking is the verse's candor: the jāva…tāva conditions and the four āgāras encode the Jain conviction that a vow's integrity lies in precision, not in pretending to an absoluteness one cannot keep. A resolve honestly bounded (anābhoga, sahasā, mahattara, savva-samāhi-vattiyā) is kept; an overreaching one merely accrues the guilt of breach. The verb pajjuvāsāmi further reframes restraint as upāsanā — worshipful abiding — so that the contracted circle becomes a space of sādhanā rather than mere prohibition.",
+    "practicalRelevance": "A reciter today fixes, before reciting, the actual content of each scope: which activities (dravya), which single room or radius (kṣetra), and which span — anything from one muhūrta upward (kāla) — and then genuinely 'abides within' it, treating the shrunken field as a retreat. The āgāras are a model of realistic vow-taking: name your honest exceptions in advance (an unthinking slip, a reflex, a real emergency, the need to protect your own equanimity or health) so that an unintended lapse neither breaks the vow nor breeds scruple.",
+    "crossReferences": [
+      {
+        "text": "Deśāvagāśika as the tenth lay vow (śikṣāvrata); cf. the Digvrata (6th vow) it temporarily tightens",
+        "source": "Twelve vows of the śrāvaka; Śrāvaka (Jainism), Wikipedia"
+      },
+      {
+        "text": "Four-fold dravya-kṣetra-kāla-bhāva scope as the standard measuring stick for any vow",
+        "source": "Anchalgachchha corpus, dravya-kshetra-kaal-bhav declaration (Devasi flow)"
+      },
+      {
+        "text": "The standard pratyākhyāna āgāras (anābhoga, sahasā, mahattara, savva-samāhi-vattiyā) shared across the formulae",
+        "source": "Āvaśyaka pratyākhyāna tradition; Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Śrāvaka (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/%C5%9Ar%C4%81vaka_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "placement of Deśāvagāśika as the tenth of the twelve lay vows and the śikṣāvrata category; the six āvaśyakas of the śrāvaka"
+    },
+    {
+      "title": "Pratima (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Pratima_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "the twelve-vow scheme (5 aṇuvrata + 3 guṇavrata + 4 śikṣāvrata) and Deśāvakāśika's role in lay discipline"
+    },
+    {
+      "title": "Samayika",
+      "url": "https://en.wikipedia.org/wiki/Samayika",
+      "type": "scholarship",
+      "consultedFor": "the equanimity/sāmāyika framework into which the Deśāvagāśika observance is set, and the muhūrta span"
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)",
+      "url": "https://example.org/panch-pratikraman",
+      "type": "translation",
+      "consultedFor": "verbatim verse text, appendix placement (book pp.104–108), and the standard āgāra clauses (placeholder URL; source of record is the scanned book)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Glosses follow standard Ardhamāgadhī pratyākhyāna usage; predefined glossary terms (deśāvagāśika, dravya/kṣetra/kāla/bhāva, muhūrta, abhigraha, āgāra, anābhoga, sahasā, mahattara, savva-samāhi-vattiyā, paryupāsāmi, vosirāmi) are used, not re-defined. Word-division of the āgāra cluster ('annatthaṇā bhogeṇaṁ' = anyatra anābhogena) and of 'annesa keṇa rogāyaṁ' follows the printed text and varies in other recensions — the cluster is read as 'except through inadvertence' and 'by some disease' respectively. The book's orthographic variation is preserved verbatim and not normalized (e.g. દેશ- vs દેસ-, પચ્ચખ્ખામિ, રોગાયં, the doubled conjuncts). The cited print-edition URL is a placeholder per the preface; the source of record is the scanned book. The exact form 'annesa' (rendered annesa/anyena) and the precise sense of 'vattiyā' (pratyaya/vartikā, 'on account of') are the chief points of residual uncertainty."
+}

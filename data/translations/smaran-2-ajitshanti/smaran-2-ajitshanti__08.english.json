@@ -1,0 +1,230 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to that supreme, stainless Tīrthaṅkara who is a treasure-house of every virtue, and I ask the peace-making sage Śāntinātha to give me peace and a calm, settled mind.",
+  "recitation": "taṁ ca jiṇuttama-m-uttama-nittama-sattadharaṁ, ajjava maddava khaṁti vimutti samāhi nihiṁ, / saṁtikaraṁ paṇamāmi dam-uttama titthayaraṁ, saṁtimuṇī mama saṁti samāhi varaṁ disau.",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him, that one (the object of praise)",
+      "partOfSpeech": "pronoun",
+      "etymology": "From the demonstrative base ta- (Skt. tam, accusative singular); resumes the Jina introduced as the verse's object.",
+      "notes": "Accusative, governed by paṇamāmi ('I bow to him')."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca, the connective enclitic; here linking this stanza's praise of Śānti to the preceding one of Ajita.",
+      "notes": "Marks the deliberate Ajita→Śānti turn at v.8."
+    },
+    {
+      "token": "જિણુત્તમ",
+      "translit": "jiṇuttama",
+      "gloss": "best among the Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Skt. jina, 'conqueror') + uttama ('highest'); a tatpuruṣa, 'supreme one of the Jinas.'",
+      "notes": "Opens a chain of superlative epithets for Śāntinātha."
+    },
+    {
+      "token": "મુત્તમ",
+      "translit": "m-uttama",
+      "gloss": "(the) supreme, highest",
+      "partOfSpeech": "adj",
+      "etymology": "uttama ('topmost', Skt. uttama), with euphonic -m- bridging the hiatus after jiṇuttama; a second superlative, not a separate 'mukta'.",
+      "notes": "The inserted m is a metrical/sandhi glide, common in Prakrit verse."
+    },
+    {
+      "token": "નિત્તમ",
+      "translit": "nittama",
+      "gloss": "utterly stainless, free of all darkness",
+      "partOfSpeech": "adj",
+      "etymology": "Most plausibly nis-tamas ('without tamas/darkness', Skt. nistamaska) contracted to nittama; superlative parallel to uttama.",
+      "notes": "Some renderings read it as nitya-tama ('most eternal'); the stainless/darkness-free sense better matches the uttama parallel."
+    },
+    {
+      "token": "સત્તધરં",
+      "translit": "sattadharaṁ",
+      "gloss": "bearer of [spiritual] strength/essence",
+      "partOfSpeech": "compound",
+      "etymology": "satta (Skt. sattva, 'being, courage, essential strength') + dhara ('holder', from √dhṛ); 'one who holds supreme sattva.'",
+      "notes": "Accusative agreeing with taṁ; can also be read sat-tā-dhara, 'holder of true being.'"
+    },
+    {
+      "token": "અજ્જવ",
+      "translit": "ajjava",
+      "gloss": "straightforwardness, uprightness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajjava = Skt. ārjava (from ṛju, 'straight'); freedom from crookedness or deceit.",
+      "notes": "First of five virtues of which Śānti is the 'treasury'; one of the ten yati-dharmas."
+    },
+    {
+      "token": "મદ્દવ",
+      "translit": "maddava",
+      "gloss": "gentleness, humility",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maddava = Skt. mārdava (from mṛdu, 'soft'); softness of heart, absence of pride.",
+      "notes": "Second listed virtue; pairs conventionally with ārjava."
+    },
+    {
+      "token": "ખંતિ",
+      "translit": "khaṁti",
+      "gloss": "forbearance, patience",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khaṁti = Skt. kṣānti / kṣamā (from √kṣam, 'to endure, forgive'); calm endurance of adversity.",
+      "notes": "Heads the ten-fold dharma list (uttama-kṣamā) in Tattvārtha 9.6."
+    },
+    {
+      "token": "વિમુત્તિ",
+      "translit": "vimutti",
+      "gloss": "liberation, complete release/detachment",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vimutti = Skt. vimukti (vi- + √muc, 'to release'); release from attachment and karmic bondage.",
+      "notes": "Corresponds to the dharma of tyāga/non-attachment in the yati-dharma scheme."
+    },
+    {
+      "token": "સમાહિ",
+      "translit": "samāhi",
+      "gloss": "meditative absorption, settled concentration",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samāhi = Skt. samādhi (sam-ā-√dhā, 'to collect/compose'); a fully composed, equanimous mind.",
+      "notes": "Recurs at line 4 as the very gift the reciter requests."
+    },
+    {
+      "token": "નિહિં",
+      "translit": "nihiṁ",
+      "gloss": "treasury, repository",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nihi = Skt. nidhi ('store, treasure'); accusative nihiṁ, 'the one who is a treasure-house [of the foregoing virtues].'",
+      "notes": "Caps the virtue-list: Śānti is the nidhi of ārjava, mārdava, kṣānti, vimukti, samādhi."
+    },
+    {
+      "token": "સંતિકરં",
+      "translit": "saṁtikaraṁ",
+      "gloss": "maker/giver of peace",
+      "partOfSpeech": "compound",
+      "etymology": "saṁti (Skt. śānti, 'peace') + kara ('doer', √kṛ); 'one who effects peace.'",
+      "notes": "Activates the title-pun: the bestower of śānti is Śāntinātha himself."
+    },
+    {
+      "token": "પણમામિ",
+      "translit": "paṇamāmi",
+      "gloss": "I bow, I make obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paṇamāmi = Skt. praṇamāmi (pra-√nam, 'to bow'); 1st person singular present.",
+      "notes": "The single finite verb governing taṁ and its epithets."
+    },
+    {
+      "token": "દમુત્તમ",
+      "translit": "dam-uttama",
+      "gloss": "supreme in self-control",
+      "partOfSpeech": "compound",
+      "etymology": "dama (Skt. dama, 'self-restraint', √dam) + uttama ('highest'); 'foremost in mastery of the senses.'",
+      "notes": "Vocative/accusative epithet of the Tīrthaṅkara."
+    },
+    {
+      "token": "તિત્થયરં",
+      "translit": "titthayaraṁ",
+      "gloss": "Tīrthaṅkara, ford-maker",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit titthayara = Skt. tīrthaṅkara (tīrtha, 'ford' + kara, 'maker'); accusative object of paṇamāmi.",
+      "notes": "Glossed in the preface; used here without re-definition."
+    },
+    {
+      "token": "સંતિમુણી",
+      "translit": "saṁtimuṇī",
+      "gloss": "the sage Śānti (Śāntinātha as muni)",
+      "partOfSpeech": "compound",
+      "etymology": "saṁti (Skt. śānti, here the proper name Śānti) + muṇī (Skt. muni, 'sage'); vocative address.",
+      "notes": "Subject of disau; directly names the Jina addressed in this stanza."
+    },
+    {
+      "token": "મમ",
+      "translit": "mama",
+      "gloss": "to me, my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. mama, genitive/dative of the first person; 'for me.'",
+      "notes": "Marks the reciter as recipient of the requested boon."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "peace",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁti = Skt. śānti ('peace, tranquility', √śam); here the common noun, echoing the name.",
+      "notes": "The bivalent name-play folds together: Śānti (the Jina) gives śānti (peace)."
+    },
+    {
+      "token": "સમાહિ",
+      "translit": "samāhi",
+      "gloss": "meditative composure, samādhi",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samāhi = Skt. samādhi; the second requested gift after śānti.",
+      "notes": "Deliberate repetition from line 2, turning praise into petition."
+    },
+    {
+      "token": "વરં",
+      "translit": "varaṁ",
+      "gloss": "excellent / a boon",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara ('best, choice; boon', √vṛ, 'to choose'); qualifies the requested śānti-samādhi, or stands as 'boon.'",
+      "notes": "Read either adjectivally ('excellent peace and samādhi') or nominally ('grant me the boon')."
+    },
+    {
+      "token": "દિસઉ",
+      "translit": "disau",
+      "gloss": "may [he] bestow / grant",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit disau, 3rd person singular imperative of disa- = Skt. diś (√diś, 'to assign, grant, bestow').",
+      "notes": "The petition's optative-force verb; subject is saṁtimuṇī."
+    }
+  ],
+  "literalTranslation": "And to him, the best of Jinas, the supreme, the utterly stainless, the bearer of [spiritual] strength — the treasury of straightforwardness, gentleness, forbearance, liberation, and meditative composure — the peace-maker, foremost in self-control, the Tīrthaṅkara, I bow. May the sage Śānti bestow upon me excellent peace and samādhi.",
+  "idiomaticTranslation": "And to Him I bow — best of the Jinas, supreme and spotless, holding within Himself the fullness of spiritual strength; a very treasure-house of uprightness, gentleness, forbearance, release, and deep composure; the giver of peace, unmatched in self-mastery, the ford-maker across rebirth. O sage Śānti, grant me that same peace, that same settled stillness of mind.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.7 hymned Ajita, this stanza belongs wholly to Śānti, and it does so by a single, tightly built device: it praises the Jina as a nidhi — a treasury — of five interior virtues, then asks Him to pay out two of them to the devotee. The opening epithets pile up superlatives (jiṇuttama, uttama, nittama, sattadhara, damuttama), but the heart of the verse is the virtue-list of line 2: ajjava, maddava, khaṁti, vimutti, samāhi. These are not random praises; they are the qualities a practitioner is himself striving to cultivate. By calling Śāntinātha their 'treasure-house,' the poet makes the Jina both the proof that such perfection is possible and the source from which it can be sought. The verse then pivots on its title-pun: He is saṁtikara, 'the peace-maker,' and He is saṁtimuṇī, 'the sage Śānti' — so when the reciter begs 'saṁti samāhi varaṁ disau,' the peace requested and the One who grants it bear the same name. The repetition of samāhi (praised in line 2, petitioned in line 4) seals the movement from adoration to request: contemplating the virtue in the Jina becomes asking for it in oneself.",
+    "doctrinalContext": "The five-fold list ārjava–mārdava–kṣānti–vimukti–samādhi draws directly on the daśavidha yati-dharma, the ten-fold monastic dharma headed by uttama-kṣamā (forbearance), mārdava, and ārjava (cf. Tattvārtha-sūtra 9.6); vimutti answers to non-attachment/tyāga and samādhi crowns the set as the composed mind that right conduct yields. Adding dama (self-restraint) and the title śānti-kara, the verse frames the Tīrthaṅkara not as a wonder-worker but as the perfected embodiment of conduct (cāritra) — exactly the path the reciter walks. The petition for śānti and samādhi is thus doctrinally precise: peace here is not mere relief but the fruit of subdued passions (kaṣāya), and samādhi is the equanimity in which kāyotsarga and right meditation become possible.",
+    "practicalRelevance": "Recited within the Pakkhī confession, the verse arrives when the practitioner most needs composure: the five virtues read as a self-checklist (Am I straightforward? gentle? forbearing? unattached? collected?), and the closing line turns that examination into a prayer for the very steadiness the following kāyotsarga demands. One can pause on 'saṁti samāhi varaṁ disau' as a personal request for calm before meditation.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.6 — uttama-kṣamā-mārdavārjava-... the ten-fold dharma",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Ajitaśānti Stava, alternation of Ajita (v.7) and Śānti (v.8)",
+        "source": "Nandiṣeṇasūri (per the sutra preface)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitanatha (2nd Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Ajitanātha and the Ajitaśānti Stava's twin-praise context."
+    },
+    {
+      "title": "Das Lakshana / Daśa-dharma (ten virtues of Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Das_Lakshana",
+      "type": "scholarship",
+      "consultedFor": "Confirming kṣamā/kṣānti, mārdava, ārjava as members of the ten-fold dharma underlying the verse's virtue-list."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma of ārjava, mārdava, kṣānti, vimukti, samādhi, nidhi, dama, and praṇam-/diś- root forms."
+    },
+    {
+      "title": "Shantinatha (16th Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Śāntinātha as the Jina addressed (saṁtimuṇī, saṁtikara) in this stanza."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is read as praising Śāntinātha (per the sutra's stated v.7-Ajita / v.8-Śānti alternation and the saṁti-kara / saṁti-muṇī wording), though some isolated online glosses misattribute it to Ajitanātha. 'muttama' is taken as uttama with euphonic -m-, not a form of mukta. 'nittama' is ambiguous: read here as nis-tamas ('stainless/free of darkness') paralleling uttama; a minority reading takes it as nitya-tama ('most eternal'). 'sattadharaṁ' is read as sattva-dhara ('bearer of spiritual strength/being'); a sat-tā-dhara ('holder of true being') reading is possible. 'varaṁ' may be adjectival ('excellent peace/samādhi') or nominal ('boon'). Source orthography (single/double conjuncts, anusvāra) preserved verbatim, not normalized."
+}

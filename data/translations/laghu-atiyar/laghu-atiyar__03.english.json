@@ -1,0 +1,226 @@
+{
+  "shlokaId": "laghu-atiyar/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the fourth vow — staying faithful to one's own spouse and avoiding everyone else's — and here the reciter examines and confesses the five ways that vow can slip.",
+  "recitation": "4. cothuṁ śīlavrata. yathāśakte, svadārā-santoṣa, paradārā-vivarjanā-rūpa. e cothā śīlavratataṇā pāṁca atiyāra śodhuṁ. itara parig'gahiyā-gamaṇe, apara parig'gahiyā-gamaṇe, anaṅga-kīḍā, paravivāha karaṇe, kāmabhoga tivvābhilāse. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૪.",
+      "translit": "4.",
+      "gloss": "(verse) four",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati ordinal numeral marking the fourth of the twelve vows.",
+      "notes": "One of the Gujarati ordinals ૧–૧૨ that count the vows themselves (not a book-page marker)."
+    },
+    {
+      "token": "ચોથું",
+      "translit": "cothuṁ",
+      "gloss": "fourth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati cothuṁ, from Skt. caturtha 'fourth'.",
+      "notes": ""
+    },
+    {
+      "token": "શીલવ્રત",
+      "translit": "śīla-vrata",
+      "gloss": "the vow of chastity / sexual restraint",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. śīla 'good conduct, continence' + vrata 'vow'; here the householder's form of brahmacarya.",
+      "notes": "The fourth aṇuvrata; for the layperson it means fidelity to one spouse, not total celibacy."
+    },
+    {
+      "token": "યથાશકતે",
+      "translit": "yathāśakte",
+      "gloss": "according to one's capacity",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. yathā 'as' + śakti 'capacity, ability' (locative yathā-śaktau).",
+      "notes": "This single word marks the vow as the lay (aṇuvrata) measure — partial restraint suited to one's strength, distinct from a muni's absolute brahmacarya."
+    },
+    {
+      "token": "સ્વદારાસંતોષ",
+      "translit": "svadārā-santoṣa",
+      "gloss": "contentment with one's own spouse",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sva 'one's own' + dārā 'wife/spouse' + santoṣa 'contentment'.",
+      "notes": "The positive face of the vow: satisfaction confined to one's own partner."
+    },
+    {
+      "token": "પરદારાવિવર્જનારૂપ",
+      "translit": "paradārā-vivarjanā-rūpa",
+      "gloss": "consisting in the avoidance of others' spouses",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. para 'other' + dārā 'spouse' + vivarjanā 'shunning, renouncing' + rūpa 'having the form of'.",
+      "notes": "The negative face of the same vow; svadāra-santoṣa and para-dārā-vivarjanā are its two complementary halves."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e 'this, that'.",
+      "notes": "Points back to the vow just named."
+    },
+    {
+      "token": "ચોથા",
+      "translit": "cothā",
+      "gloss": "of the fourth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati oblique of cothuṁ 'fourth'.",
+      "notes": ""
+    },
+    {
+      "token": "શીલવ્રતતણા",
+      "translit": "śīlavrata-taṇā",
+      "gloss": "belonging to the śīla-vrata",
+      "partOfSpeech": "compound",
+      "etymology": "śīlavrata + Old-Gujarati genitive suffix -taṇā 'of, belonging to'.",
+      "notes": "-taṇā is the archaic possessive recurring at every vow in this text."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati pāṁca, from Skt. pañca 'five'.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial lapses)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Gujarati atiyāra, from Skt. aticāra 'overstepping'.",
+      "notes": "Book's verbatim spelling with ય (atiyāra), retained over the usual atichāra."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ 'to search, purify', from Skt. √śudh / śodhayati 'to cleanse'.",
+      "notes": "First-person: 'I examine and so purify' — the act of self-inspection that precedes confession."
+    },
+    {
+      "token": "ઇતર પરિગ્ગહિયાગમણે",
+      "translit": "itara parig'gahiyā-gamaṇe",
+      "gloss": "[1st atichāra] resorting to a woman temporarily kept (by another)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ittariya/itara 'temporary, transient' + parigahiyā (Skt. parigṛhīta) 'taken, held' + gamaṇa (Skt. gamana) 'going to, intercourse'.",
+      "notes": "Locative listing-form. Standard form ittariya-/itvarika-parigṛhītā-gamana: union with a woman held by another only for a time (e.g. a hired or kept woman)."
+    },
+    {
+      "token": "અપર પરિગ્ગહિયાગમણે",
+      "translit": "apara parig'gahiyā-gamaṇe",
+      "gloss": "[2nd atichāra] resorting to a woman held by no one",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. a- 'not' + parigṛhīta 'taken' (apara here = a-parigṛhīta, 'unattached') + gamana 'intercourse'.",
+      "notes": "Standard aparigṛhītā-gamana: union with an unmarried woman, widow, or harlot belonging to no household."
+    },
+    {
+      "token": "અનંગકીડા",
+      "translit": "anaṅga-kīḍā",
+      "gloss": "[3rd atichāra] unnatural / non-coital sexual play",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. an-aṅga 'non-(proper)-limb; also Kāma' + krīḍā 'play, sport' (Prakrit kīḍā).",
+      "notes": "Erotic indulgence by means other than the natural act; can be incurred even with one's own spouse."
+    },
+    {
+      "token": "પરવિવાહ કરણે",
+      "translit": "para-vivāha karaṇe",
+      "gloss": "[4th atichāra] arranging others' marriages",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. para 'other' + vivāha 'marriage' + karaṇa 'doing, bringing about'.",
+      "notes": "Match-making beyond one's own children, feeding others' sexual indulgence."
+    },
+    {
+      "token": "કામભોગ તિવ્વાભિલાસે",
+      "translit": "kāma-bhoga tivvābhilāse",
+      "gloss": "[5th atichāra] intense craving for sensual enjoyment",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kāma 'desire' + bhoga 'enjoyment' + tīvra 'intense' (Prakrit tivva) + abhilāṣa 'longing'.",
+      "notes": "The inward lapse: passionate yearning for pleasure, even unenacted."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e.",
+      "notes": "Gathers the five just listed."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati pāṁca, from Skt. pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. aticāra; book spelling atiyāra.",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (these I confess whatever I incurred)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old-Gujarati māṁhe 'in, within', from Skt. madhye 'in the midst'.",
+      "notes": "Closes the unit and leads into the day/night confession-refrain shared by every vow."
+    }
+  ],
+  "literalTranslation": "Fourth, the vow of chastity. According to capacity, contentment with one's own spouse, having the form of shunning others' spouses. The five transgressions of this fourth chastity-vow I examine: resorting to a temporarily-kept woman, resorting to an unattached woman, unnatural sexual play, arranging others' marriages, intense craving for sensual enjoyment. Among these five transgressions [I confess whatever I have incurred].",
+  "idiomaticTranslation": "The fourth is the vow of chastity: so far as I am able, to rest content with my own spouse and to turn away from every other. I now search out the five slips that can stain this vow — going to a woman briefly kept by another, going to a woman bound to no one, unnatural erotic play, brokering the marriages of others, and harbouring a burning thirst for sensual pleasure — and among these five I confess whatever has been mine.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the third vow's renunciation of theft, the confession turns inward to the body's most insistent appetite. The vow is stated in two mirrored halves: positively as svadāra-santoṣa, contentment confined to one's own spouse, and negatively as para-dārā-vivarjanā, the shunning of all others — together the householder's measured form of brahmacarya. The hinge word is yathāśakti, 'according to capacity': it openly marks this as the aṇuvrata, the partial vow scaled to a layperson's strength, not the absolute continence of the muni. The five atiyāras are arranged with quiet precision, moving from the outer act to the inner heart. The first two concern with whom: itvara-parigṛhīta-gamana, resorting to a woman another keeps only for a time, and aparigṛhīta-gamana, resorting to one bound to no household — the two ways a man may stray outside his vow while telling himself he has broken no marriage. The third, anaṅga-krīḍā, concerns how: erotic indulgence by unnatural means, a lapse that can occur even within marriage, which exposes the vow's true target as passion itself, not merely the choice of partner. The fourth, para-vivāha-karaṇa, reaches outward to complicity — busying oneself in arranging others' unions and so feeding the world's appetite. The fifth, kāma-bhoga-tīvrābhilāṣa, is the most interior: a fierce craving for pleasure that may never be enacted yet already stains the vow. Thus the list descends from gross deed through bodily manner and social meddling down to the bare intensity of desire, teaching that chastity is broken first in the mind. The closing māṁhe folds all five into the day-or-night confession.",
+    "doctrinalContext": "The verse embodies the Jain conviction that bondage is wrought by rāga (attachment) and the passions, not by the external act alone — hence two of the five lapses (anaṅga-krīḍā, tīvrābhilāṣa) can be incurred with one's lawful spouse, and one (kāma-bhoga-tīvrābhilāṣa) needs no outward deed at all. This is the classical doctrine that atichāra is a partial staining short of outright vow-breaking: the man who avoids adultery yet burns with craving has not broken the vow but has weakened it. The same fivefold scheme is codified at Tattvārtha-sūtra 7.28 and rooted in the Upāsakadaśā's householder discipline.",
+    "practicalRelevance": "Recited at dusk or dawn, the verse asks the layperson to audit not only conduct but the inner temperature of desire — the lingering image, the willing fantasy, the match-making that flatters another's indulgence — and to release each with the confession that follows. It reframes faithfulness as a daily discipline of the heart, not a single line one simply has not crossed.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.28 — the five atichāras of brahmacarya-vrata",
+        "source": "Umāsvāti, Tattvārtha-sūtra (Jainworld ed.)"
+      },
+      {
+        "text": "Upāsakadaśā-sūtra — the householder's brahmacarya / svadāra-santoṣa vow",
+        "source": "Upāsakadaśāḥ Sūtra (canonical Aṅga)"
+      },
+      {
+        "text": "Vows in Jainism — five transgressions of brahmacharya anuvrata",
+        "source": "Wikipedia, citing N. Shah, Jainism: The World of Conquerors"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vows in Jainism — Brahmacharya anuvrata and its five aticharas",
+      "url": "https://en.wikipedia.org/wiki/Vows_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "The standard list and meaning of the five atichāras (itvara-parigṛhīta, aparigṛhīta-gamana, ananga-krīḍā, para-vivāha-karaṇa, kāma-bhoga-tīvrābhilāṣa)."
+    },
+    {
+      "title": "Tattvārtha-sūtra of Umāsvāti, chapter 7",
+      "url": "https://www.jainworld.com/scriptures/tattvartha-sutra/",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal framework of the fourth vow and its five transgressions; the attachment-centred definition of atichāra."
+    },
+    {
+      "title": "Brahmacharya (concept and scope of chastity in Jain practice)",
+      "url": "https://en.wikipedia.org/wiki/Brahmacharya",
+      "type": "scholarship",
+      "consultedFor": "The lay vs. ascetic scope of brahmacarya, clarifying yathāśakti / svadāra-santoṣa as the householder's partial form."
+    },
+    {
+      "title": "Upāsakadaśāḥ Sūtra (the ten lay-disciple narratives)",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Canonical articulation of the householder's brahmacarya vow within the aṇuvrata scheme."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "The book reads ઇતર (itara) and અપર (apara) where most recensions print ittariya/itvarika and aparigahiya; preserved verbatim per the orthography rules, with the standard forms noted in glosses. 'apara' here functions as a-parigṛhīta ('unattached'), not the separate word 'apara' ('other'), as confirmed by the canonical atichāra-list. tivvābhilāse and parig'gahiyā retain the book's Prakrit spelling (anusvāra/conjuncts unnormalised). Verse number ૪ is a true vow-ordinal (fourth aṇuvrata), not a page marker."
+}

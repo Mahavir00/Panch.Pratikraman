@@ -1,0 +1,158 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bending low to touch my teacher's feet, I ask: I hope my touch caused you no strain — has your day passed comfortably, with little fatigue?",
+  "recitation": "nisīhi aho kāyaṁ kāya-saṁphāsaṁ, khamaṇijjo bhe kilāmo? appakilantāṇaṁ bahusubheṇa bhe divaso vaikkanto?",
+  "wordByWord": [
+    {
+      "token": "નિસીહિ",
+      "translit": "nisīhi",
+      "gloss": "renouncing (sinful activity) — the spoken naiṣedhikī uttered as one enters and bends to the guru",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit nisīhi < Skt naiṣedhikī, 'declared cessation/abstention'",
+      "notes": "Glossary term (naiṣedhikī); here it is the short spoken form accompanying the bowing entry into the guru's avagraha."
+    },
+    {
+      "token": "અહો",
+      "translit": "aho",
+      "gloss": "(body bent) low / downward",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit aho < Skt adhaḥ, 'below, downward'; binds with the following kāyaṁ ('aho-kāyaṁ', body lowered)",
+      "notes": "Printed in the source as the gesture-spaced 'અ - હો'; some commentators instead read it as a reverential interjection 'O!'. The hyphen marks an āvarta turn, not a word-break."
+    },
+    {
+      "token": "કાયં",
+      "translit": "kāyaṁ",
+      "gloss": "the body (accusative) — i.e. my lowered body",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāya < Skt kāya, 'body'; accusative singular -aṁ",
+      "notes": "Printed 'કા - યં'; the space is an āvarta-marker."
+    },
+    {
+      "token": "કાય",
+      "translit": "kāya",
+      "gloss": "body (of the guru), in the compound 'body-touch'",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kāya < Skt kāya; first member of kāya-saṁphāsa",
+      "notes": "Printed 'કા - ય'; gesture-spaced."
+    },
+    {
+      "token": "સંફાસં",
+      "translit": "saṁphāsaṁ",
+      "gloss": "touch, contact (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁphāsa < Skt saṁsparśa, 'touching, contact' (saṁ- + √spṛś)",
+      "notes": "kāya-saṁphāsaṁ = the body-to-body contact unavoidable in the act of homage."
+    },
+    {
+      "token": "ખમણિજ્જો",
+      "translit": "khamaṇijjo",
+      "gloss": "forgivable / to be forgiven",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit khamaṇijja < Skt kṣamaṇīya, gerundive of √kṣam, 'to forgive, endure'",
+      "notes": "Predicate to kilāmo: 'may the strain be forgivable'."
+    },
+    {
+      "token": "ભે",
+      "translit": "bhe",
+      "gloss": "to you / by you (respectful)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Ardhamāgadhī honorific enclitic bhe < Skt vaḥ, deferential 2nd person",
+      "notes": "Addressed to the guru; recurs twice in the verse, keeping every clause directed outward to the teacher."
+    },
+    {
+      "token": "કિલામો",
+      "translit": "kilāmo",
+      "gloss": "fatigue, strain, distress",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kilāma/kilamo < Skt klama, 'weariness, exhaustion'",
+      "notes": "The strain the guru might have felt from the disciple's touch."
+    },
+    {
+      "token": "અપ્પકિલંતાણં",
+      "translit": "appakilantāṇaṁ",
+      "gloss": "for (you) who are little-wearied / barely fatigued",
+      "partOfSpeech": "adj",
+      "etymology": "appa (< Skt alpa, 'little') + kilanta (< Skt klānta, 'wearied'); genitive plural -āṇaṁ used as respectful reference to the guru",
+      "notes": "A delicately optimistic phrase — it presumes the guru is scarcely tired even while inquiring."
+    },
+    {
+      "token": "બહુસુભેણ",
+      "translit": "bahusubheṇa",
+      "gloss": "with much well-being / very comfortably",
+      "partOfSpeech": "adverb",
+      "etymology": "bahu (< Skt bahu, 'much') + subha (< Skt śubha, 'well-being, auspiciousness'); instrumental singular -eṇa",
+      "notes": "Instrumental of manner qualifying how the day passed."
+    },
+    {
+      "token": "ભે",
+      "translit": "bhe",
+      "gloss": "your / to you (respectful)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Ardhamāgadhī honorific bhe < Skt vaḥ",
+      "notes": "Second occurrence; governs 'your day'."
+    },
+    {
+      "token": "દિવસો",
+      "translit": "divaso",
+      "gloss": "the day",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit divasa < Skt divasa, 'day'; nominative singular -o",
+      "notes": "The period-word locus: in pakkhī/cāumāsī/sāṁvatsarī the corresponding period-term replaces the daily reference."
+    },
+    {
+      "token": "વઇક્કંતો",
+      "translit": "vaikkanto",
+      "gloss": "passed, gone by",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vaikkanta < Skt vyatikrānta, past participle of vi-ati-√kram, 'to pass over, elapse'",
+      "notes": "Past participle completing the inquiry 'has your day passed…?'."
+    }
+  ],
+  "literalTranslation": "Renouncing (sin), with body bent low, [for any] body-to-body touch — may the strain be forgivable to you? For (you who are) little-wearied, has the day passed in great comfort?",
+  "idiomaticTranslation": "Bowing my body low to render homage, if my touch upon you has caused any strain, may it be forgivable, revered one. And tell me — for you who are scarcely tired, has the day passed in full comfort?",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the beating heart of the salutation, spoken at the very instant the joined hands perform the turnings that mime touching the guru's feet. The printed syllable-spacing (a–ho, kā–yaṁ, kā–ya) is choreographic, not phonetic: each break marks where the hands turn. Read as one sentence, the verse fuses a confession of physical intrusion with a courteous inquiry. 'aho-kāyaṁ kāya-saṁphāsaṁ' — bending my body low, in the contact of my body with yours — names the unavoidable touch of homage; 'khamaṇijjo bhe kilāmo' begs that whatever strain (kilāmo) this caused be forgivable (khamaṇijjo). The second line pivots from apology to solicitude: 'appakilantāṇaṁ … bahusubheṇa bhe divaso vaikkanto?' — for you who are barely wearied, has the day passed in great comfort? The genitive appakilantāṇaṁ is tactfully optimistic, presuming the guru little-fatigued even as it asks. The doubled honorific 'bhe' (= Skt vaḥ) keeps every clause aimed outward, at the teacher, never at the self. The verse advances directly from v.2 (aṇujāṇaha me miuggahaṁ, the plea to enter the avagraha): having been admitted, the disciple now makes contact and inquires after the cost of it. It then opens onto v.4's terse 'jattā bhe?', which lifts the same solicitude from the body to spiritual endeavour. Thus vv.3–5 form a single graded courtesy — bodily comfort here, ascetic restraint (yātrā) next, bodily sustenance (yāpanīya) after.",
+    "doctrinalContext": "The verse encodes a refined Jain ethic: even reverence must not become himsā or burden. The disciple's anxiety that his act of devotion might cost the guru the slightest strain extends ahimsā beyond injury to mere discomfort, and expresses apramāda (vigilant non-negligence) toward another. Pre-emptively asking forgiveness for unintended contact embodies the principle that fault is weighed by effect as well as intent — hence khamaṇijjo before any harm is even confirmed. The solicitous inquiry simultaneously enacts vinaya (humble reverence), which the tradition counts as an inner tapas and a gateway to nirjarā (shedding of karma).",
+    "practicalRelevance": "Performing the āvartas, let these words slow the hands: the gesture physically rehearses care that one's devotion never burdens the teacher. More widely, the verse models how to approach any elder or guide — inquire after their comfort and ease before voicing one's own concerns.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Vandanaka (Third Āvaśyaka) — the dvādaśāvarta exchange",
+        "source": "Śvetāmbara Āgama, Niryukti/Bhāṣya tradition"
+      },
+      {
+        "text": "saṁphāsa (< saṁsparśa) and kilāma (< klama) glosses",
+        "source": "Sheth, Pāia-sadda-mahaṇṇavo"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Suguru Vandana Sutra — text, transliteration and English meaning",
+      "url": "https://jainknowledge.com/media-information/61/jain_sutras/SUGURU-VANDANA-SUTRA",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit reading and standard English rendering of 'aho-kāyaṁ kāya-saṁphāsaṁ khamaṇijjo bhe kilāmo… divaso vaikkanto'"
+    },
+    {
+      "title": "Suguru Vandana Sutra (Jain ritual texts)",
+      "url": "https://archive.org/download/jain_ritual_texts_201403/29_Suguru_vandana_Sutra_289029.pdf",
+      "type": "translation",
+      "consultedFor": "Corroborating English translation of the well-being inquiry and the forgiveness-for-touch sense"
+    },
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit Dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheh",
+      "type": "dictionary",
+      "consultedFor": "Glosses: saṁphāsa < saṁsparśa, kilāma < klama, vaikkanta < vyatikrānta, appa < alpa, kilanta < klānta"
+    },
+    {
+      "title": "Jain Gatha — sutras in English, Hindi and Gujarati",
+      "url": "https://jainismsutra.blogspot.com/2021/02/jain-gatha-all-sutras-in-english-hindi.html",
+      "type": "translation",
+      "consultedFor": "Cross-check of devotional paraphrase of the guru well-being inquiry"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The spaced syllables in the source (અ-હો, કા-યં, કા-ય) are āvarta gesture-markers, not separate words; they are preserved verbatim but glossed as the words aho, kāyaṁ, kāya. 'aho' admits two readings: (a) adhaḥ ('low/downward', giving 'body bent low'), followed here, and (b) a reverential interjection 'O!'; both yield the same devotional sense. 'bhe' is the Ardhamāgadhī honorific = Skt vaḥ ('your/you', respectful). Web sources give devotional paraphrases rather than strict word-order; the per-token grammar here follows standard Prakrit morphology. Confidence is high on overall sense and on each gloss; the only residual uncertainty is the aho = adhaḥ vs. interjection choice."
+}

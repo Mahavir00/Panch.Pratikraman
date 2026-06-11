@@ -1,0 +1,173 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After a year of open-handed giving that delighted everyone, the two Lords renounced the world for their souls' sake; bow to them and you will find joy that never ends.",
+  "recitation": "tadanu danujādita prathita mahimodayaṃ, varṣadānena parituṣṭa jana samudayam | jagṛhatuḥ svahita kāmāvakāma vrataṃ, tau namaskṛtya toṣaṃ bhajed anavaratam ||9||",
+  "wordByWord": [
+    {
+      "token": "તદનુ",
+      "translit": "tadanu",
+      "gloss": "thereafter, after that",
+      "partOfSpeech": "adverb",
+      "etymology": "tad ('that') + anu ('after, following'); a sequencing adverb that carries the narrative on from the long reigns of the previous verse.",
+      "notes": "Marks the move from kingship (v.8) to renunciation (this verse)."
+    },
+    {
+      "token": "દનુજાદિત",
+      "translit": "danujādita",
+      "gloss": "[whose greatness was acclaimed] even among the demons and all the rest",
+      "partOfSpeech": "compound",
+      "etymology": "danuja ('born of Danu', a demon/asura) + ādi ('and the rest, et cetera'), here qualifying the spread of their renown; the final syllable joins by sandhi into the following 'prathita'.",
+      "notes": "Read as danuja-ādi: the Jinas' glory is owned even by asuras, i.e. by every order of being. The exact morphology of '-ta' is metrically loose; a minority reading takes the first member as dīna ('the poor'), which would suit the dāna theme, but the book's spelling is danuja and is preserved verbatim."
+    },
+    {
+      "token": "પ્રથિત",
+      "translit": "prathita",
+      "gloss": "renowned, celebrated, far-famed",
+      "partOfSpeech": "adj",
+      "etymology": "past participle of √prath ('to spread, become widely known')."
+    },
+    {
+      "token": "મહિમોદયં",
+      "translit": "mahimodayaṃ",
+      "gloss": "the rising of [their] greatness/glory",
+      "partOfSpeech": "compound",
+      "etymology": "mahiman ('greatness, majesty') + udaya ('rise, ascendancy'), joined by vowel-sandhi (a + u → o); accusative singular agreeing with the two Jinas (tau).",
+      "notes": "'udaya' (rising) deliberately pre-echoes the dawn of omniscience in v.10."
+    },
+    {
+      "token": "વર્ષદાનેન",
+      "translit": "varṣadānena",
+      "gloss": "by the year-long giving (vārṣika-dāna)",
+      "partOfSpeech": "compound",
+      "etymology": "varṣa ('year') + dāna ('giving, charity') in the instrumental; the year of boundless almsgiving a Tīrthaṅkara performs just before renouncing.",
+      "notes": "The instrumental tells us the means by which the multitude was gratified."
+    },
+    {
+      "token": "પરિતુષ્ટ",
+      "translit": "parituṣṭa",
+      "gloss": "thoroughly satisfied, well-pleased, gratified",
+      "partOfSpeech": "adj",
+      "etymology": "pari ('fully, all-round') + tuṣṭa (pp of √tuṣ, 'to be content'); intensified contentment."
+    },
+    {
+      "token": "જન",
+      "translit": "jana",
+      "gloss": "people, folk",
+      "partOfSpeech": "noun",
+      "etymology": "from √jan ('to be born'); 'people, mankind'. First member of jana-samudaya."
+    },
+    {
+      "token": "સમુદયમ્",
+      "translit": "samudayam",
+      "gloss": "the whole assembly/multitude (of people)",
+      "partOfSpeech": "noun",
+      "etymology": "sam ('together') + udaya ('rising, aggregate') → 'the gathered totality'; accusative, object of parituṣṭa: 'gratified the whole body of people'.",
+      "notes": "jana-samudaya = every section of society, none excluded — the hallmark of a Tīrthaṅkara's indiscriminate giving."
+    },
+    {
+      "token": "જગૃહતુ:",
+      "translit": "jagṛhatuḥ",
+      "gloss": "the two took up / accepted",
+      "partOfSpeech": "verb",
+      "etymology": "perfect tense, 3rd person dual of √grah ('to take, grasp, undertake'); the dual is grammatically pivotal — it is the two Jinas together who act.",
+      "notes": "The main verb of line 1–2's first clause; its object is the vow (vrata) — i.e. they took dīkṣā."
+    },
+    {
+      "token": "સ્વહિત",
+      "translit": "svahita",
+      "gloss": "[for] their own true welfare",
+      "partOfSpeech": "compound",
+      "etymology": "sva ('own') + hita ('benefit, good'); 'the soul's own good', motive of the renunciation."
+    },
+    {
+      "token": "કામાવકામવ્રતં",
+      "translit": "kāmāvakāmavrataṃ",
+      "gloss": "the willingly-embraced vow of desirelessness (the vow of renunciation)",
+      "partOfSpeech": "compound",
+      "etymology": "kāma ('desire, willing') + avakāma ('absence of desire, non-craving') + vrata ('vow'); a yamaka-style juxtaposition of kāma/avakāma; accusative, object of jagṛhatuḥ.",
+      "notes": "Two readings cohere: (a) taken with svahita, 'desiring (kāma) their own good, they took the vow of desirelessness (avakāma)'; (b) 'the vow that transcends both craving and aversion'. Either way it names dīkṣā as the renunciation of all kāma."
+    },
+    {
+      "token": "તૌ",
+      "translit": "tau",
+      "gloss": "those two (Ajita and Śānti)",
+      "partOfSpeech": "pronoun",
+      "etymology": "nominative/accusative dual of tad; here accusative, object of namaskṛtya. The dual sustains the hymn's twin-Jina device.",
+      "notes": "Object of the bowing — the worshipper salutes the pair, not one alone."
+    },
+    {
+      "token": "નમસ્કૃત્ય",
+      "translit": "namaskṛtya",
+      "gloss": "having bowed / having made salutation to",
+      "partOfSpeech": "verb",
+      "etymology": "absolutive (gerund) of namas-√kṛ ('to make obeisance'); namas ('homage') + kṛtya (-ya absolutive of √kṛ)."
+    },
+    {
+      "token": "તોષં",
+      "translit": "toṣaṃ",
+      "gloss": "joy, contentment, gratification",
+      "partOfSpeech": "noun",
+      "etymology": "from √tuṣ ('to be content'); accusative, object of bhajet. Echoes parituṣṭa above — the people's contentment becomes the devotee's.",
+      "notes": "Devotional santoṣa/praśama (inner peace), not mere pleasure."
+    },
+    {
+      "token": "ભજેદનવરતમ્",
+      "translit": "bhajed anavaratam",
+      "gloss": "may one obtain/partake of [it] unceasingly",
+      "partOfSpeech": "verb",
+      "etymology": "sandhi of bhajet + anavaratam. bhajet = optative 3rd sing. of √bhaj ('to partake of, resort to, enjoy'); anavaratam = an ('not') + avarata (pp of ava-√ram, 'ceased') + adverbial -am → 'without cease, incessantly'.",
+      "notes": "The optative gives the verse its benedictory force: a standing invitation to the reciter."
+    }
+  ],
+  "literalTranslation": "Thereafter — those two, whose celebrated rise of glory was acclaimed even among the demons and all the rest, by whose year-long giving the whole multitude of people was wholly gratified, took up, for their own welfare, the willingly-embraced vow of desirelessness; having bowed to those two, may one partake of joy unceasingly.",
+  "idiomaticTranslation": "Then the two Lords — their dawning greatness sung even among the demons and through every world — gladdened the entire throng of people with their year of boundless giving, and, for the soul's own good, took up the vow of utter desirelessness. Bow to that pair, and you shall know a joy that never ends.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having shown the two Jinas as wonder-working monarchs in the prior verse, this verse turns their kingship inside out: the very wealth a sovereign hoards, they pour away. The single instrumental 'varṣadānena' compresses the entire vārṣika-dāna — the year in which a Tīrthaṅkara-to-be gives without measure or distinction — and its fruit is named at once: 'parituṣṭa jana-samudayam', the whole people gratified, none turned away. The verb 'jagṛhatuḥ' (perfect dual, 'the two took up') then pivots from giving to renouncing: what they 'grasp' is not a kingdom but a vrata. The poet's yamaka — kāma / avakāma — is the verse's hinge: it is precisely desire-for-self-good (svahita-kāma) that drives them to the desireless vow (avakāma-vrata), so that worldly wanting is converted into the one wholesome 'want', liberation. Note the chain of contentment: the people are 'tuṣṭa' through the gift; the devotee is invited to 'toṣa' through the bow. Giving, renouncing, and worshipping are thus threaded into one continuum of satisfaction that culminates not in the giver but in the one who reveres the givers. The closing 'tau namaskṛtya toṣaṃ bhajed anavaratam' converts narrative into liturgy: the verse stops describing and starts instructing — bow, and draw unbroken joy. Structurally this prepares v.10, where the renunciation just taken ripens into kevala-jñāna; 'mahimodayam' (the rise of glory) here quietly anticipates that greater 'udaya', the sunrise of omniscience.",
+    "doctrinalContext": "The verse stages two cardinal Jain virtues in sequence. First, dāna as the Tīrthaṅkara's final worldly act: the vārṣika-dāna models giving that is total and non-discriminating, the active face of aparigraha (non-possession) — one lets go not by mere abstention but by emptying oneself toward all. Second, dīkṣā as 'avakāma-vrata': renunciation is defined here as the extinction of kāma, i.e. of rāga-dveṣa, the craving-and-aversion that bind the jīva. The wordplay kāma/avakāma encodes a precise teaching — desire is not crushed by force but redirected; the only sanctioned 'kāma' is svahita, the soul's own welfare, which can be fulfilled solely by desirelessness. Finally the optative 'bhajet' frames bhakti as efficacious: reverence for those who renounced (namaskāra) yields toṣa — the praśama-rasa, the settled contentment that is itself a foretaste of the peace the Jinas attained.",
+    "practicalRelevance": "Recited daily within the Pakkhī observance, this verse asks the lay devotee to rehearse, in miniature, the very movement it narrates: give freely and without reckoning of merit (the spirit of varṣadāna), loosen the grip of kāma, and let the closing namaskāra be an action, not a description — actually bow. Its promise is sober and usable: contentment (toṣa) is not chased but received 'anavaratam', as a steady fruit of reverence and restraint rather than acquisition.",
+    "crossReferences": [
+      {
+        "text": "The vārṣidāna (year of giving) and renunciation of the Tīrthaṅkaras",
+        "source": "Kalpasūtra of Bhadrabāhu (life-accounts of the Jinas)"
+      },
+      {
+        "text": "Aparigraha and dāna as the lay and ascetic discipline of non-attachment",
+        "source": "Tattvārtha-sūtra (Umāsvāti), ch. 7"
+      },
+      {
+        "text": "Companion joint praise of the same Jina-pair (2nd and 8th Smaraṇas)",
+        "source": "Ajitaśānti Stava of Nandiṣeṇasūri; Laghu Ajitaśānti of Vīragaṇin"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dāna — definition (Jainism section)",
+      "url": "https://www.wisdomlib.org/definition/dana",
+      "type": "dictionary",
+      "consultedFor": "Sense of dāna and the Jain context of giving underlying varṣa-dāna / vārṣika-dāna."
+    },
+    {
+      "title": "Toṣa — definition",
+      "url": "https://www.wisdomlib.org/definition/tosha",
+      "type": "dictionary",
+      "consultedFor": "Gloss of toṣa (contentment, gratification) and its relation to tuṣ/parituṣṭa."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Verb and root glosses: √grah (jagṛhatuḥ, perfect dual), prathita (√prath), namaskṛtya, √bhaj (bhajet), and anavaratam."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and the placement of the Bṛhad Ajitaśānti Stava as the ninth Smaraṇa in the Pākṣika order."
+    }
+  ],
+  "translatorConfidence": 0.7,
+  "notes": "The clause structure is secure: 'jagṛhatuḥ ... vratam' (the two took the vow) is the spine, and 'tau namaskṛtya toṣaṃ bhajet anavaratam' is the benedictory close. Two points carry residual uncertainty. (1) 'danujādita': read here as danuja-ādi ('demons and all the rest'), with the final '-ta' treated as metrical/sandhi padding before 'prathita'; the book's spelling is preserved verbatim and not normalized. A minor possibility is a first member dīna ('the poor'), which would harmonize with the dāna theme, but it is not what the text spells. (2) 'kāmāvakāmavrataṃ' admits two compatible parsings — 'desiring (kāma) their own good, they took the desireless (avakāma) vow' or 'the vow beyond craving and aversion'; both identify it as dīkṣā/renunciation. An open web search produced a spurious, clearly fabricated 'ninth verse' of this hymn (a known hallucination risk flagged in the sutra notes); it was discarded and is not relied upon. Glosses rest only on standard lexica and grammar."
+}

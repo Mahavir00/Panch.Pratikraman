@@ -1,0 +1,180 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Those who carry Pārśva's name like a weapon are not afraid even of a raging lion.",
+  "recitation": "paṇaya-sasaṁbhama-patthiva-naha-maṇi-māṇikka-paḍia-paḍimassa, tuha vayaṇa-paharaṇa-dharā, sīhaṁ kuddhaṁ pi na gaṇaṁti.",
+  "wordByWord": [
+    {
+      "token": "પણય",
+      "translit": "paṇaya",
+      "gloss": "bowed down (in homage)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. praṇata, past participle of pra-√nam, 'to bow'",
+      "notes": "qualifies the kings who prostrate before the Jina"
+    },
+    {
+      "token": "સસંભમ",
+      "translit": "sasaṁbhama",
+      "gloss": "with eager flurry / reverent haste",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. sa-sambhrama, 'with agitation/zeal' (sa- + sambhrama)",
+      "notes": "conveys the rush of devotion with which the kings bow"
+    },
+    {
+      "token": "પત્થિવ",
+      "translit": "patthiva",
+      "gloss": "kings, earth-lords",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. pārthiva, 'lord of the earth (pṛthivī), sovereign'",
+      "notes": "in compound; the bowing monarchs whose crest-jewels catch the Lord's reflection"
+    },
+    {
+      "token": "નહ",
+      "translit": "naha",
+      "gloss": "nail-bright (gem)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. nakha, 'nail'; here the jewel-lustrous nail-like crest-gems",
+      "notes": "ambiguous: either the kings' nail/crest-jewels, or the Lord's lustrous toenails; see notes"
+    },
+    {
+      "token": "મણિ",
+      "translit": "maṇi",
+      "gloss": "gem, jewel",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit maṇi, 'jewel'",
+      "notes": ""
+    },
+    {
+      "token": "માણિક્ક",
+      "translit": "māṇikka",
+      "gloss": "ruby",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. māṇikya, 'ruby'",
+      "notes": "naha-maṇi-māṇikka = the jewel-and-ruby crest-stones of the bowing kings"
+    },
+    {
+      "token": "પડિઅ",
+      "translit": "paḍia",
+      "gloss": "fallen, cast (as a reflection)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. patita, past participle of √pat, 'to fall'",
+      "notes": "the image 'falls into' / is mirrored in the gems"
+    },
+    {
+      "token": "પડિમસ્સ",
+      "translit": "paḍimassa",
+      "gloss": "of [him] whose image (is reflected)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive < Skt. pratimā, 'image, reflection' (paḍima + -ssa = -sya)",
+      "notes": "genitive agreeing with implied 'tuha' (your); the whole long compound describes Pārśva, 'O you whose reflection is cast in the crest-jewels of bowing kings'"
+    },
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit < Skt. tava, genitive of tvam, 'you'",
+      "notes": ""
+    },
+    {
+      "token": "વયણ",
+      "translit": "vayaṇa",
+      "gloss": "word, utterance (i.e. your name/speech)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. vacana, 'speech, word' (√vac)",
+      "notes": "here Pārśva's name/sacred word taken up by the devotee"
+    },
+    {
+      "token": "પહરણ",
+      "translit": "paharaṇa",
+      "gloss": "weapon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. praharaṇa, 'striking-instrument, weapon' (pra-√hṛ)",
+      "notes": "vayaṇa-paharaṇa = 'having your word as their weapon'"
+    },
+    {
+      "token": "ધરા",
+      "translit": "dharā",
+      "gloss": "bearers, those who hold/wield",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. dhara, 'holder' (√dhṛ); nom. pl. -ā",
+      "notes": "subject of gaṇaṁti: 'the wielders [of your word as weapon]'"
+    },
+    {
+      "token": "સીહં",
+      "translit": "sīhaṁ",
+      "gloss": "lion (object)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. siṁha, 'lion'; accusative -aṁ",
+      "notes": ""
+    },
+    {
+      "token": "કુદ્ધંપિ",
+      "translit": "kuddhaṁ pi",
+      "gloss": "even (when) enraged",
+      "partOfSpeech": "particle",
+      "etymology": "sandhi of kuddhaṁ (< Skt. kruddha, 'angered', √krudh) + pi (< Skt. api, 'even')",
+      "notes": "qualifies sīhaṁ; concessive 'even a furious lion'"
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit na, negation",
+      "notes": ""
+    },
+    {
+      "token": "ગણંતિ",
+      "translit": "gaṇaṁti",
+      "gloss": "they reckon / count / pay heed to",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt. gaṇayanti, 3rd pl. of √gaṇ, 'to count, regard'",
+      "notes": "na gaṇaṁti = 'pay it no account, treat as nothing'"
+    }
+  ],
+  "literalTranslation": "Of you, whose reflected image is cast in the gem-and-ruby crest-jewels of kings bowing in reverent haste — the bearers of your word as a weapon do not reckon even an enraged lion.",
+  "idiomaticTranslation": "O Lord, your very likeness shines mirrored in the jewelled crowns of kings who throng to bow before you — and those who carry your name as their weapon give not a thought to even the most enraged lion.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the deliverance-turn of the lion-peril couplet: the preceding verse painted the beast — fire-blazing eyes, gaping maw, claws that split an elephant's temple-boss — and here the poet answers it. The answer arrives obliquely and with great art. Rather than naming the rescue directly, the first line lingers on a wholly different scene: earthly monarchs (patthiva), pressing forward in eager homage (paṇaya-sasaṁbhama), so close-bowed that the Lord's reflection (paḍia-paḍima) is mirrored in the gem-and-ruby stones of their crowns. The unspoken logic is a fortiori: if the mightiest kings of the earth lay their jewelled heads at Pārśva's feet, what is a mere brute lion before the one who wields that same Lord's name? The pivot is the striking metaphor vayaṇa-paharaṇa-dharā — 'those who bear your word as a weapon.' The lion's weapons are fang and claw; the devotee's single weapon is the spoken name, and it is the stronger. Hence na gaṇaṁti — they do not so much as 'count' the enraged beast; it does not enter their reckoning. The verb is precise and understated: not 'they conquer the lion' but 'they take no account of it,' the fearlessness of one whose mind is already armed. The compound piling of line one (eight members fused into a single genitive resolving on -paḍimassa) enacts the crowding press of kings, while the clipped second line lands the point with martial economy.",
+    "doctrinalContext": "The verse crystallises the hymn's signature teaching that the Jina's name is itself a mantra — here sharpened into the image of name-as-weapon (vayaṇa-paharaṇa). Protection is not magical exemption from danger but the inner fearlessness (abhaya) that arises when the reciter's attention rests wholly on the Arhat; the lion remains a lion, but it 'is not counted.' The mirrored-reflection conceit also encodes a quiet doctrinal hierarchy: temporal sovereignty (the pārthiva) is shown subordinate, bowing, to the spiritual sovereignty of the vītarāga Jina, so that the devotee aligned with the higher power need not fear lower terrors. This is bhakti as refuge in the Pañca-Parameṣṭhin, the same impulse that animates the Navkar.",
+    "practicalRelevance": "A reciter facing sudden terror — an animal, an aggressor, a panic — is taught to reach not for the danger's measure but for the Name, holding it as one's only and sufficient weapon. The practice is to let the mind 'not count' the threat: not denial of risk, but refusal to let dread occupy the mind in place of the Jina. Recited within the Pakkhī, it rehearses steady courage for the ordinary fears of daily life.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Stotra v.1 (calaṇa-juala radiant with the crest-jewel rays of bowing gods)",
+        "source": "Namiyun Stotra (Romanized), jainqq.org"
+      },
+      {
+        "text": "Namiūṇa Stotra v.9 (tuha nāma-akkhara… manta-guruā: the name-syllables as a perfected mantra)",
+        "source": "Namiyun Stotra (Romanized), jainqq.org"
+      },
+      {
+        "text": "Namiūṇa Stotra v.18 (… maïṁda … bhayāiṁ pāsa-jina-nāma-saṁkittaṇeṇa pasamaṁti: the lion among fears stilled by reciting Pārśva's name)",
+        "source": "Namiyun Stotra (Romanized), jainqq.org"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namiyun Stotra (Romanized) — verse 13, full 25-verse text",
+      "url": "https://jainqq.org/booktext/56_Namiyun_Stotra_Romanized/300580",
+      "type": "translation",
+      "consultedFor": "verbatim Romanized text of v.13 (paṇaya-sasaṁbhama-patthiva… sīhaṁ kuddhaṁ pi na gaṇaṁti) and its placement amid the lion/elephant peril-verses"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; Sheth Pāia-sadda-mahaṇṇavo)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Skt./Prakrit equivalences: pārthiva (king), pratimā (image/reflection), praharaṇa (weapon), kruddha (enraged), gaṇ- (to reckon)"
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara venerated by kings and divinities, framing the bowing-monarchs imagery"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The whole of line 1 is a single long genitive compound resolving on paḍimassa ('of [you] whose reflection is cast'), in apposition to the implied tuha of line 2. The element naha (Skt. nakha, 'nail') is the chief ambiguity: it is read here as the nail-bright/crest gems (naha-maṇi-māṇikka) of the bowing kings, but some recensions/commentaries take it as the Lord's own lustrous toenails reflected into the kings' jewels — both yield the same devotional sense (the Jina mirrored in royal diadems). The source book spells the verse in Gujarati script; the Romanized jainqq text reads 'kuddhapi' (= kuddhaṁ + pi) and 'paḍia-paḍimassa' verbatim. Reading is secure for line 2; residual uncertainty is confined to the internal syntax of the line-1 compound, not its overall import."
+}

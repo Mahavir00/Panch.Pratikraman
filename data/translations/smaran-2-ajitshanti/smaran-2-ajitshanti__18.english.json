@@ -1,0 +1,196 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/18",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With my mind, my speech and my body all turned toward him, I take refuge in Śāntinātha — the spotless, peace-giving great sage whom the wise praise.",
+  "recitation": "titthavara-pavattayaṁ tama-raya-rahiyaṁ, dhīrajaṇa-thuacciaṁ thua-kali-kalusaṁ; saṁti suhappavattayaṁ tigaraṇa payao, saṁtim ahaṁ mahāmuṇiṁ saraṇam uvaṇame.",
+  "wordByWord": [
+    {
+      "token": "તિત્થવર",
+      "translit": "titthavara",
+      "gloss": "supreme ford / best of fords — i.e. the Tīrthaṅkara order",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit tittha (< Skt. tīrtha, 'ford, crossing') + vara ('best, supreme'); here the holy ford that ferries beings across saṁsāra.",
+      "notes": "Forms one compound with the next word: titthavara-pavattayaṁ."
+    },
+    {
+      "token": "પવત્તયં",
+      "translit": "pavattayaṁ",
+      "gloss": "the promulgator / one who sets it in motion (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. pravartaka, from pra-√vṛt ('to set going, found, establish'); accusative -aṁ agreeing with mahāmuṇiṁ.",
+      "notes": "The Jina as the one who founds and turns the wheel of the holy ford."
+    },
+    {
+      "token": "તમ",
+      "translit": "tama",
+      "gloss": "darkness (of ignorance)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. tamas, 'darkness'; doctrinally the gloom of moha/ignorance.",
+      "notes": "First member of the compound tama-raya-rahiyaṁ."
+    },
+    {
+      "token": "રય",
+      "translit": "raya",
+      "gloss": "dust / passion-grime",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. rajas, 'dust, particulate matter'; in Jain usage the fine 'dust' of binding karma (karma-rajas).",
+      "notes": "Paired with tama: ignorance-darkness and karmic dust together."
+    },
+    {
+      "token": "રહિયં",
+      "translit": "rahiyaṁ",
+      "gloss": "free from, devoid of (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. rahita, past participle of √rah ('to part from, be without').",
+      "notes": "He is free of both darkness (tama) and karmic dust (raya) — i.e. a kevalin."
+    },
+    {
+      "token": "ધીરજણ",
+      "translit": "dhīrajaṇa",
+      "gloss": "steadfast / wise people",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dhīra ('firm, resolute, wise') + jana ('people'); the spiritually steady.",
+      "notes": "Instrumental sense ('by the wise') feeding into thuacciaṁ."
+    },
+    {
+      "token": "થુઅચ્ચિઅં",
+      "translit": "thuacciaṁ",
+      "gloss": "praised and worshipped (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit thua (< Skt. stuta, 'praised') + acciya (< Skt. arcita, 'worshipped, honoured'); dvandva past-participle compound.",
+      "notes": "Bahuvrīhi epithet: 'he who is praised and worshipped by the steadfast'."
+    },
+    {
+      "token": "થુઅ",
+      "translit": "thua",
+      "gloss": "praise / when praised",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. stuta/stava, from √stu ('to praise').",
+      "notes": "Repeated from the prior compound (anaphora); heads thua-kali-kalusaṁ — 'whose praise [dispels] the sin of strife'."
+    },
+    {
+      "token": "કલિ",
+      "translit": "kali",
+      "gloss": "strife / discord (the Kali age)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. kali, 'quarrel, contention'; the dark age of strife.",
+      "notes": "Compounded with kalusaṁ."
+    },
+    {
+      "token": "કલુસં",
+      "translit": "kalusaṁ",
+      "gloss": "impurity / sin (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. kaluṣa, 'turbid, foul, sin'; the moral 'muddiness' of the soul.",
+      "notes": "kali-kalusaṁ = 'the impurity of strife', removed through his praise (thua)."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "peace; Śānti(nātha)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. śānti, 'peace, calm'; bivalent with the name of the 16th Tīrthaṅkara.",
+      "notes": "Heads the compound saṁti-suhappavattayaṁ; the hymn's signature name-play."
+    },
+    {
+      "token": "સુહપ્પવત્તયં",
+      "translit": "suhappavattayaṁ",
+      "gloss": "bestower of well-being / promoter of happiness (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit suha (< Skt. sukha, 'happiness, ease') + pavattaya (< Skt. pravartaka, 'one who brings forth'); doubled -pp- by Prakrit gemination.",
+      "notes": "Parallels titthavara-pavattayaṁ in line 1: he sets in motion the ford, and sets in motion peace-and-happiness."
+    },
+    {
+      "token": "તિગરણ",
+      "translit": "tigaraṇa",
+      "gloss": "the three faculties — mind, speech, body",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ti (< Skt. tri, 'three') + garaṇa (< Skt. karaṇa, 'instrument'); = trikaraṇa, the threefold instrument of action (mana-vacana-kāya).",
+      "notes": "Adverbial: the devotee acts through all three channels."
+    },
+    {
+      "token": "પયઓ",
+      "translit": "payao",
+      "gloss": "devoted / intent (nominative, of the speaker)",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. prayata ('self-controlled, devout, with effort restrained'); nominative payao qualifying ahaṁ ('I').",
+      "notes": "tigaraṇa-payao = 'devoted with the three faculties' — wholehearted, unreserved homage."
+    },
+    {
+      "token": "સંતિમહં",
+      "translit": "saṁtim ahaṁ",
+      "gloss": "Śānti (accusative) + I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sandhi of saṁtiṁ (acc. of śānti) + ahaṁ (< Skt. aham, 'I').",
+      "notes": "Two tokens fused by sandhi: the object 'Śānti' and the subject 'I'."
+    },
+    {
+      "token": "મહામુણિં",
+      "translit": "mahāmuṇiṁ",
+      "gloss": "the great sage (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mahā ('great') + muni (< Skt. muni, 'sage, silent ascetic'); accusative -iṁ.",
+      "notes": "In apposition to saṁtiṁ — Śānti as the supreme muni."
+    },
+    {
+      "token": "સરણ",
+      "translit": "saraṇa(ṁ)",
+      "gloss": "refuge, shelter (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. śaraṇa, 'shelter, protection', from √śri ('to take shelter').",
+      "notes": "Final anusvāra carries over as the m- of the next word (saraṇam uvaṇame)."
+    },
+    {
+      "token": "મુવણમે",
+      "translit": "(m)uvaṇame",
+      "gloss": "I approach / bow to (for refuge)",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi m + uvaṇame (< Skt. upanamāmi, upa-√nam, 'to bow toward, draw near in homage'); 1st person.",
+      "notes": "saraṇam uvaṇame = 'I come for refuge / I bow seeking shelter' — the act that climaxes the verse."
+    }
+  ],
+  "literalTranslation": "Him — promulgator of the supreme ford, free of darkness and karmic dust, praised and worshipped by the steadfast, by whose praise the impurity of strife [is dispelled]; the bestower of peace and well-being — Śānti, the great sage: I, devoted with my three faculties, approach for refuge.",
+  "idiomaticTranslation": "He founds the holy ford and is utterly free of the darkness of ignorance and the dust of karma; the steadfast praise and worship him, and his very praise washes away the grime of strife. He sets peace and well-being in motion. To him — Śānti, the great sage — I bow with mind, speech and body wholly given, and take my refuge.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the comparison-section (the Jina surpassing moon, sun, Indra and mountain) and turns it into an act: a heaped string of accusative epithets that all resolve on the single verb 'saraṇam uvaṇame' — 'I take refuge.' The architecture is deliberately symmetrical. Line one calls Śānti 'titthavara-pavattayaṁ,' the one who sets the supreme ford in motion; line two answers with 'suha-ppavattayaṁ,' the one who sets peace-and-happiness in motion — the same verb of 'setting-going' (pavattaya) applied first to the path, then to its fruit. Between them sits the negative definition: 'tama-raya-rahiyaṁ,' free of darkness and dust, the kevalin's spotlessness stated as absence. The poet then doubles 'thua' (praise): the steadfast praise and worship him (thua-cciaṁ), and his praise itself dissolves the impurity of strife (thua-kali-kalusaṁ) — praise as both what he receives and what he effects. The climax is the devotee's posture, not the deity's: 'tigaraṇa payao,' devout through all three faculties — mind, speech and body — so that the refuge-taking is total, withholding nothing. After eighteen verses of describing greatness, the reciter finally does something with it: surrenders.",
+    "doctrinalContext": "Two doctrines anchor the verse. First, 'tama-raya-rahiyaṁ' is technical: tama is the darkness of mohanīya (deluding) karma, raya the fine 'dust' of binding karma — so the phrase names the Jina precisely as one in whom both delusion and karmic influx are extinguished (a kevalin), the proper object of refuge. Second, 'tigaraṇa payao' invokes the trikaraṇa (mana-vacana-kāya) framework that governs all Jain ethical action and confession: just as a transgression is weighed by which of the three channels enacted it, here devotion is made complete by engaging all three at once — thought, word and deed unified in the single act of śaraṇa-gamana (going for refuge). Taking refuge in an arihanta-muni who is himself free of karma models the aspirant's own goal.",
+    "practicalRelevance": "Recited as a protective smaraṇa, this verse gives the practitioner the moment to stop admiring and start surrendering. Practically, 'tigaraṇa payao' is an instruction: chant it (speech), visualize Śānti's spotless calm (mind), and hold the bowing posture (body) together — withholding no faculty. Against fear and 'kali-kalusa' (the grime of conflict the hymn is invoked to quell), the antidote offered is not a request but a self-offering: refuge taken wholly.",
+    "crossReferences": [
+      {
+        "text": "Cattāri saraṇaṁ pavajjāmi — the fourfold refuge in arihanta, siddha, sāhu and kevali-paṇṇatta dharma",
+        "source": "Cattāri Maṅgalaṁ formula, Āvaśyaka tradition"
+      },
+      {
+        "text": "manasā vacasā kāyena (mind, speech, body) — the trikaraṇa basis of confession and vow",
+        "source": "Iriyāvahiyaṁ / Pratikramaṇa sūtras, Anchalgachchha Panch Pratikraman"
+      },
+      {
+        "text": "Logassa: 'kittaïssaṁ … vandāmi' — praise of the 24 Jinas as objects of homage and refuge",
+        "source": "Logassa (Caturviṁśati-stava)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajit Shanti Stotra (Romanized) — full text",
+      "url": "https://jainqq.org/booktext/57_Ajit_Shanti_Stotra_Romanized/300530",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit text and verse sequence of the Ajitaśānti Stava for cross-checking token boundaries and readings."
+    },
+    {
+      "title": "Verse-by-verse meaning of Ajit Shanti Stotra",
+      "url": "https://jainknowledge.com/question/1262/verse-by-verse-meaning-of-ajit-shanti-stotra",
+      "type": "commentary",
+      "consultedFor": "Devotional sense of the epithets (titthavara, peace/happiness-bestower, refuge in Śāntinātha) to confirm the idiomatic reading."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Institute of Indology, University of Cologne)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: tīrtha, pravartaka, tamas, rajas, rahita, stuta, arcita, kaluṣa, prayata, karaṇa, upa-√nam."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) 'thua-kali-kalusaṁ' is the least settled phrase. With 'thua' anaphorically repeated from 'thua-cciaṁ', it is read here as a bahuvrīhi — 'he by whose praise (thua) the impurity of strife (kali-kalusa) is dispelled'; some recensions instead group it as 'thuya-kali-kalusaṁ' with the same destructive sense, and a minority read 'kali' merely as 'sin' rather than 'strife/Kali-age'. The supplied verb of dispelling is implicit, not in the text. (2) 'payao' is taken as Skt. prayata (nom. 'devout, self-restrained') qualifying the speaker; an alternative gloss as a noun of 'effort' (prayatna) is possible but less likely given the syntax. (3) 'tigaraṇa' = trikaraṇa (mind/speech/body) is secure and corroborated. (4) Token boundaries follow the book's spacing verbatim, including the sandhi-fused 'saṁtim-ahaṁ' and 'saraṇa(ṁ)-(m)uvaṇame'; orthography (single/doubled conjuncts, anusvāra) is preserved, not normalized."
+}

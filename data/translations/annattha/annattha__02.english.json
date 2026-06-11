@@ -1,0 +1,96 @@
+{
+  "shlokaId": "annattha/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Tiny, barely-noticeable stirrings of your limbs, of phlegm in the throat, and of your eyes are also allowed and will not break your motionless meditation.",
+  "recitation": "suhumehiṁ aṅga-saṁcālehiṁ, suhumehiṁ khela-saṁcālehiṁ, suhumehiṁ diṭṭhi-saṁcālehiṁ.",
+  "wordByWord": [
+    {
+      "token": "સુહુમેહિં",
+      "translit": "suhumehiṁ",
+      "gloss": "by subtle / very slight (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit suhuma < Sanskrit sūkṣma ('fine, subtle'); instrumental plural ending -ehiṁ, agreeing with saṁcālehiṁ.",
+      "notes": "Glossary term; here in the instrumental plural, governed by 'āgārehiṁ' in the next verse ('by these subtle exceptions')."
+    },
+    {
+      "token": "અંગસંચાલેહિં",
+      "translit": "aṅga-saṁcālehiṁ",
+      "gloss": "by stirrings of the limbs / body",
+      "partOfSpeech": "compound",
+      "etymology": "tatpuruṣa compound: aṅga ('limb, body-part') + saṁcāla ('slight movement') < Sanskrit saṁ-√cal ('to stir, shift'); instrumental plural -ehiṁ.",
+      "notes": "saṁcāla is a glossary term; first member aṅga specifies the locus as the limbs."
+    },
+    {
+      "token": "સુહુમેહિં",
+      "translit": "suhumehiṁ",
+      "gloss": "by subtle / very slight (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "Repetition of suhuma < sūkṣma; instrumental plural. The threefold repetition is anaphora, fixing 'subtle' on each saṁcāla in turn.",
+      "notes": "Deliberate repetition for each of the three stirrings — not redundancy."
+    },
+    {
+      "token": "ખેલસંચાલેહિં",
+      "translit": "khela-saṁcālehiṁ",
+      "gloss": "by stirrings of phlegm (in the throat/mouth)",
+      "partOfSpeech": "compound",
+      "etymology": "tatpuruṣa: khela ('phlegm, mucus, saliva'; Prakrit khela, cf. Sanskrit kheṭa/śleṣman) + saṁcāla; instrumental plural -ehiṁ.",
+      "notes": "Covers involuntary throat-clearing, swallowing, or shifting of phlegm — an internal, humoral stirring."
+    },
+    {
+      "token": "સુહુમેહિં",
+      "translit": "suhumehiṁ",
+      "gloss": "by subtle / very slight (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "Third occurrence of suhuma < sūkṣma; instrumental plural, qualifying diṭṭhi-saṁcāla.",
+      "notes": "Completes the triple anaphoric frame."
+    },
+    {
+      "token": "દિટ્ઠિસંચાલેહિં",
+      "translit": "diṭṭhi-saṁcālehiṁ",
+      "gloss": "by stirrings of the gaze / eyes",
+      "partOfSpeech": "compound",
+      "etymology": "tatpuruṣa: diṭṭhi ('sight, gaze'; Prakrit diṭṭhi < Sanskrit dṛṣṭi, √dṛś 'to see') + saṁcāla; instrumental plural -ehiṁ.",
+      "notes": "The slight flicker or shift of the eyes/eyelids — the most subtle, sensory stirring of the three."
+    }
+  ],
+  "literalTranslation": "By subtle stirrings of the limbs, by subtle stirrings of phlegm, by subtle stirrings of the gaze.",
+  "idiomaticTranslation": "And likewise by the faint, involuntary stirrings of the body, by the slight movements of phlegm in the throat, and by the barely-perceptible flickers of the eyes — these too are permitted.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the first verse named the gross, audible reflexes (breath, cough, sneeze, swoon), this verse descends to the threshold of perceptibility — the three suhuma saṁcāla. The thrice-repeated 'suhumehiṁ' is the verse's whole engine: by attaching 'subtle' to each item in turn, it tells the reciter that the concession of verse 1 reaches all the way down to motions one can scarcely feel oneself make. The three loci are chosen to span the body completely: aṅga (the outward frame — a finger that trembles, a muscle that twitches), khela (the inward, humoral channel — phlegm shifting, an involuntary swallow), and diṭṭhi (the sensory gate — the flicker of an eyelid or a drifting eye). Outer, inner, sensory: the triad is exhaustive by design, so that no honest reflex is left unaccounted for. Grammatically these instrumentals hang unfinished here; they are completed only in the next verse, where 'evamāiehiṁ āgārehiṁ' gathers verses 1–2 into a single phrase — 'by these and similar exceptions (the kāyotsarga remains unbroken).' Thus verse 2 is not a new sentence but the second tier of one list, refining the vow's honesty from the obvious to the imperceptible. The spiritual point is precise: stillness is defined by *intention*, not by the impossible suppression of every nerve. A flicker that the will did not command is no breach.",
+    "doctrinalContext": "The verse encodes the Jain distinction between willed action and involuntary motion as it bears on karmic bondage. Bandha follows from yoga energized by kaṣāya and intention; an aṅga-, khela-, or diṭṭhi-saṁcāla that arises below the level of volition carries no saṅkalpa and so does not violate the kāyotsarga's renunciation of bodily activity. By explicitly excusing the *subtlest* tier, the sutra guards the practice against scrupulosity — the false belief that an unbidden twitch is a transgression — and keeps the vow truthful rather than merely strict.",
+    "practicalRelevance": "Standing in kāyotsarga, a reciter will inevitably feel a calf quiver, need to swallow, or sense the eyes drift. This verse is the standing instruction not to panic, 'correct,' or restart on their account: note them, let them pass, and keep the resolve of stillness. Effort is aimed at what the will controls; the involuntary is already forgiven.",
+    "crossReferences": [
+      {
+        "text": "Annattha Sūtra, v.1 (the gross āgāra) and v.3 ('evamāiehiṁ āgārehiṁ')",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Āvaśyaka Niryukti (kāyotsarga discipline and its permitted exceptions)",
+        "source": "Āvaśyaka tradition, as cited in the corpus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Annattha Sutra (Prakrit text, transliteration and meaning of the āgāra)",
+      "url": "https://jainknowledge.com/media-information/24/jain_sutras/Annatha-Sutra-",
+      "type": "translation",
+      "consultedFor": "verbatim text and standard English rendering of 'suhumehiṁ aṅga/khela/diṭṭhi-saṁcālehiṁ' as the three subtle stirrings"
+    },
+    {
+      "title": "Kayotsarga",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "the discipline of motionlessness and the role of permitted involuntary acts in kāyotsarga"
+    },
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "placement of the kāyotsarga step within the six Āvaśyakas and the function of the Annattha exceptions"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Reading honored verbatim from the Anchalgachchha (Vidhipaksha) book. 'khela' is glossed across translators as phlegm/mucus (sometimes 'internal circulation/fluids'); the limbs–phlegm–gaze triad and the 'subtle' qualifier are stable across editions. The instrumental-plural endings (-ehiṁ) are syntactically completed only by 'āgārehiṁ' in v.3; this verse is grammatically dependent on that continuation. Some teaching traditions read khela-saṁcāla as covering swallowing/throat-clearing specifically — a gloss variation, not a textual one."
+}

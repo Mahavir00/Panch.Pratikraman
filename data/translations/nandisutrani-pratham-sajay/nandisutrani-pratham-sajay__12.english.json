@@ -1,0 +1,162 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the Jain community is pictured as Mount Meru, whose unshakable diamond base is right-faith and whose golden, jewel-studded slopes are the Dharma.",
+  "recitation": "sammadaṁsaṇa vara vaïra, daḍharūḍha gāḍhāvagāḍha pīḍhassa | dhamma vara rayaṇa maṇḍia, cāmīyara mehalāgassa ||",
+  "wordByWord": [
+    {
+      "token": "સમ્મદંસણ",
+      "translit": "sammadaṁsaṇa",
+      "gloss": "right-faith / right-insight (the first of the three jewels)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit samma (< Skt samyak, 'right/correct') + daṁsaṇa (< Skt darśana, 'seeing, insight'); here the first member of a bahuvrīhi describing Meru's base.",
+      "notes": "Glossed in the preface as samyag-darśana; functions here as the 'material' of the vajra-foundation."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choicest, best",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt vara ('choice, excellent'), from √vṛ 'to choose'; an intensifying epithet, qualifying vaïra (the adamant).",
+      "notes": "Recurs in line 2 qualifying rayaṇa (the dharma-jewel)."
+    },
+    {
+      "token": "વઇર",
+      "translit": "vaïra",
+      "gloss": "adamant, diamond, thunderbolt (vajra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaïra < Skt vajra ('diamond / Indra's thunderbolt'); the hyatus -aï- is the Prakrit resolution of the conjunct -jr-.",
+      "notes": "Double force: hardest of substances (immovability) and the cosmographic 'adamantine base' of Meru."
+    },
+    {
+      "token": "દઢરૂઢ",
+      "translit": "daḍharūḍha",
+      "gloss": "firmly grown, fast-rooted, solidly established",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit daḍha (< Skt dṛḍha, 'firm') + rūḍha (< √ruh, 'grown, risen, rooted'); a compound predicating firmness of the pīṭha.",
+      "notes": "First of two intensifiers stressing the base's immovability."
+    },
+    {
+      "token": "ગાઢાવગાઢ",
+      "translit": "gāḍhāvagāḍha",
+      "gloss": "deeply embedded, sunk far down, penetrating deep",
+      "partOfSpeech": "adj",
+      "etymology": "gāḍha ('deep, intense') + avagāḍha (< Skt avagāḍha, 'plunged in, submerged', from ava-√gāh); sandhi gāḍha+avagāḍha → gāḍhāvagāḍha.",
+      "notes": "Second intensifier: the foundation is not merely firm but driven deep into the ground."
+    },
+    {
+      "token": "પીઢસ્સ",
+      "translit": "pīḍhassa",
+      "gloss": "of the base / foundation / pedestal",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pīḍha (< Skt pīṭha, 'seat, base, pedestal'); genitive sg. -assa (< Skt -asya).",
+      "notes": "Genitive: this whole bahuvrīhi qualifies the (implied) Saṅgha-as-Meru, continuing the genitive epithet-chain from the preceding verses."
+    },
+    {
+      "token": "ધમ્મ",
+      "translit": "dhamma",
+      "gloss": "Dharma — the Jina's teaching / righteous law",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamma < Skt dharma ('that which upholds', √dhṛ); first member of the line-2 compound dhamma-vara-rayaṇa.",
+      "notes": "Here the 'jewels' adorning the golden slopes are jewels of dharma (right conduct/teaching)."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choicest",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt vara; see line 1. Here qualifying rayaṇa.",
+      "notes": "Parallel to line 1's vara-vaïra, binding the two halves of the simile rhetorically."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Skt ratna ('jewel'); -tn- > -yaṇ- by Prakrit phonology.",
+      "notes": "Echoes śruta-/dharma-ratna imagery used elsewhere in the hymn; here the gems set into Meru's slopes."
+    },
+    {
+      "token": "મંડિઅ",
+      "translit": "maṇḍia",
+      "gloss": "adorned, decorated, set/studded with",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit maṇḍia < Skt maṇḍita (past part. of √maṇḍ, 'to adorn'); intervocalic -t- elided.",
+      "notes": "Governs dhamma-vara-rayaṇa: 'adorned with the excellent jewels of dharma'."
+    },
+    {
+      "token": "ચામીયર",
+      "translit": "cāmīyara",
+      "gloss": "gold, golden",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cāmīyara < Skt cāmīkara ('gold'); the -k- softens to -y- in Prakrit.",
+      "notes": "Qualifies the mekhalā: Meru's terraced flanks are of gold, a standard Jain cosmographic feature."
+    },
+    {
+      "token": "મેહલાગસ્સ",
+      "translit": "mehalāgassa",
+      "gloss": "of the (mountain's) girdle / terraced slope-region",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mehalā (< Skt mekhalā, 'girdle, belt; mountain-terrace/slope') + aga (< Skt aga, 'mountain') → mekhalāga, 'mountain-girdle'; genitive sg. -assa.",
+      "notes": "Genitive, parallel to pīḍhassa: a second bahuvrīhi qualifying the Saṅgha-Meru — 'whose golden girdle-slope is jewel-adorned'."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "(metrical half-verse bar / daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "Scribal punctuation marking the caesura of the gāthā; part of the printed text.",
+      "notes": "Non-lexical; preserved verbatim per the book's orthography."
+    }
+  ],
+  "literalTranslation": "[Of the Saṅgha-Meru,] whose base (pīṭha) is firmly rooted and driven deep with the excellent adamant (vajra) of right-faith; whose golden (cāmīkara) girdle-slopes (mekhalā) are adorned with the excellent jewels of Dharma.",
+  "idiomaticTranslation": "[Hail the Saṅgha — a very Mount Meru —] whose foundation is sunk deep and rooted fast in the unbreakable adamant of perfect right-faith, and whose golden flanks are girdled and bejewelled with the radiant gems of the Dharma.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā lays the first courses of the Meru-rūpaka that will run through the next several verses, and it does so architecturally, from the ground up. Grammatically the whole verse is two parallel bahuvrīhi compounds in the genitive (pīḍhassa … mehalāgassa), qualifying the Saṅgha that the hymn has just been likening, verse upon verse, to a city, chariot, wheel, lotus, moon, sun and ocean — the genitive epithet-chain simply continues onto the mountain. The poet names exactly two members of the mountain and pairs each with a spiritual substance. First the pīṭha, the base: its 'material' is samyag-darśana, hailed as vara-vaïra, the 'excellent adamant.' The doubled intensifiers daḍha-rūḍha ('rooted fast') and gāḍha-avagāḍha ('driven deep') are not redundancy but emphasis — Meru is the one mountain that cosmography declares unshakable, and right-faith, once firm, is likewise immovable. The choice of vaïra/vajra is doubly apt: the diamond is the hardest substance, and the vajra is the thunderbolt — Meru's adamantine root is a cosmographic commonplace the listener already carries. The second line ascends to the mekhalā, the terraced girdle-slope, which is cāmīkara, of gold, and maṇḍita, 'studded,' with vara-rayaṇa, the choice jewels — of dharma. Thus the structure rises from foundation (darśana) to adorned flank (dharma/conduct): faith first, then the visible ornament of righteous practice built upon it. The verse is deliberately spare — an image stated, not argued — and earns its weight by the precision of the foundation-then-girdle sequence rather than by length.",
+    "doctrinalContext": "The verse encodes the ratnatraya ordering: samyag-darśana is the mūla, the root, of the path of liberation (Tattvārtha-sūtra 1.1, samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ), and only upon firm right-faith do right-knowledge and right-conduct 'count.' By making darśana the adamantine pīṭha and dharma the bejewelled mekhalā, the poet renders this sequence visually: nothing is adorned until the base is sunk deep. The golden, jewelled terraces also draw on Jain cosmography, where Meru (at the centre of Jambūdvīpa) rises in golden bands — so the simile is doctrinally and cosmologically literal at once.",
+    "practicalRelevance": "Recited within the Pākṣika svādhyāya, the verse asks the practitioner to check the order of their own practice: is outward observance (the jewelled slopes) being piled up on a base of genuinely firm right-faith, or on sand? Build the foundation first; let conduct adorn it, not replace it.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (right-faith first of the three jewels)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Nandī-sūtra opening maṅgala — Saṅgha-as-Meru praise (vv.12–18 of this sajjhāy)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi redaction"
+      },
+      {
+        "text": "Meru as golden, terraced world-axis at the centre of Jambūdvīpa",
+        "source": "Jambūdvīpa-prajñapti / Jain cosmographic tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cāmīkara — definition (Sanskrit/Pali lexicons), 'gold'",
+      "url": "https://www.wisdomlib.org/definition/camikara",
+      "type": "dictionary",
+      "consultedFor": "Confirming ચામીયર / cāmīyara < cāmīkara = 'gold'"
+    },
+    {
+      "title": "Mekhalā — definition, 'girdle, belt; mountain terrace/slope'",
+      "url": "https://www.wisdomlib.org/definition/mekhala",
+      "type": "dictionary",
+      "consultedFor": "Confirming મેહલા / mehalā < mekhalā = girdle and, by extension, mountain terrace-slope"
+    },
+    {
+      "title": "Mount Meru",
+      "url": "https://en.wikipedia.org/wiki/Mount_Meru",
+      "type": "scholarship",
+      "consultedFor": "Cosmographic image of Meru's adamantine base and golden terraced slopes"
+    },
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "translation",
+      "consultedFor": "Identity of the source text and its opening Saṅgha-praise"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading is well-supported: the verse is two genitive bahuvrīhi epithets of the (implied) Saṅgha-as-Meru, parallel to the genitive chain in the surrounding ocean/Meru verses. Two morphological points carry minor uncertainty. (1) મેહલાગ / mehalāga is taken as mekhalā + aga ('mountain'), i.e. 'mountain-girdle/terraced slope'; a variant analysis as mekhalāgra ('crest of the girdle-terrace') is possible, but 'aga = mountain' fits the Meru context cleanly. (2) વઇર is read as vaïra = Skt vajra ('adamant/diamond'); the same Prakrit form can elsewhere mean 'enmity' (vaira), but that sense is impossible here. Orthography is preserved verbatim per the book (single ḍ in દઢ, the spaced daṇḍa ।, period before the half-verse); spellings are not normalized. The two glossary terms used inline (sammadaṁsaṇa = samyag-darśana; dhamma) are not re-defined beyond the token gloss required for full coverage."
+}

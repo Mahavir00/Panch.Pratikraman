@@ -1,0 +1,104 @@
+{
+  "vidhiId": "rai-colophon",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "Closing of the Rāi Pratikramaṇa (Colophon)",
+  "summary": "This closing step takes the pratyākhyāna (renunciation vow) that completes the sixth Āvaśyaka, then has the devotee stand, recollect the six Āvaśyakas, conclude the sāmāyika as in the Devasi rite, and finally declares that the Rātrika (Rāi) pratikramaṇa of the Vidhipakṣa (Añcala) gaccha śrāvaka is ended.",
+  "segments": [
+    {
+      "segmentId": "rai-colophon/01",
+      "recitation": "Oṁ namo jambūdvīpe … namukkārasahiaṁ paccakkhāṇa",
+      "plainMeaning": "After the 'Oṁ namo jambūdvīpe' passage, take a renunciation vow such as Namukkārasahiaṁ from the guru, as far as you are able.",
+      "idiomaticTranslation": "When the 'Oṁ namo jambūdvīpe' passage has been recited, receive — according to your own capacity — the pratyākhyāna (vow of renunciation) beginning with Namukkārasahiaṁ from the lips of the guru or another such elder. If the revered gurus are not present, take it from one advanced in knowledge; and if even such a one is not at hand, take it from your own lips.",
+      "explanation": "A graded instruction on who administers the vow: first a guru, then a learned elder, and only failing both does the devotee self-administer it.",
+      "ritualTerms": [
+        {
+          "term": "paccakkhāṇa",
+          "gloss": "pratyākhyāna — a vow of renunciation for the period ahead"
+        },
+        {
+          "term": "namukkārasahiaṁ",
+          "gloss": "the shortest pratyākhyāna formula, 'together with the Navkāra'"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-colophon/02",
+      "recitation": "chaṭṭhuṁ āvaśyaka pūrṇa",
+      "plainMeaning": "With that vow taken, the sixth obligatory duty is now complete.",
+      "idiomaticTranslation": "By this pratyākhyāna, the sixth Āvaśyaka — the duty of renunciation — is brought to completion.",
+      "explanation": "Marks the close of Paccakkhāṇa, the last of the six daily obligations.",
+      "ritualTerms": [
+        {
+          "term": "āvaśyaka",
+          "gloss": "one of the six obligatory daily duties"
+        },
+        {
+          "term": "paccakkhāṇa",
+          "gloss": "pratyākhyāna — the sixth Āvaśyaka, renunciation"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-colophon/03",
+      "recitation": "uṭhī, chha āvaśyaka saṁbhārī levā",
+      "plainMeaning": "Then stand up and call the six obligatory duties to mind.",
+      "idiomaticTranslation": "Thereafter, rising to a standing posture, recollect in mind the six Āvaśyakas that have been performed.",
+      "explanation": "A standing recollection (saṁbhāraṇā) of the six Āvaśyakas just completed.",
+      "ritualTerms": [
+        {
+          "term": "āvaśyaka",
+          "gloss": "one of the six obligatory daily duties"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-colophon/04",
+      "recitation": "sāmāyika pārvuṁ (devasi vidhi mujab)",
+      "plainMeaning": "Then end the sāmāyika exactly as taught for ending it in the Devasi pratikramaṇa.",
+      "idiomaticTranslation": "Then conclude the sāmāyika following the very procedure for concluding the sāmāyika that has been set out in the Daivasika (Devasi) pratikramaṇa.",
+      "explanation": "Defers to the Devasi rite's 'conclude the sāmāyika' procedure rather than restating it — the shared-by-reference model of the book.",
+      "ritualTerms": [
+        {
+          "term": "sāmāyika",
+          "gloss": "the vow of equanimity whose 48-minute period is here concluded"
+        },
+        {
+          "term": "devasi pratikramaṇa",
+          "gloss": "Daivasika — the daily sunset pratikramaṇa whose concluding vidhi is borrowed"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-colophon/05",
+      "recitation": "iti vidhipakṣa (acala) gacchīya śrāvakasya rāi-pratikramaṇa",
+      "plainMeaning": "Thus the Rāi pratikramaṇa of the Vidhipakṣa (Añcala) gaccha layperson is finished.",
+      "idiomaticTranslation": "Here ends the Rātrika (Rāi) pratikramaṇa of the śrāvaka of the Vidhipakṣa (Añcala) gaccha.",
+      "explanation": "The formal colophon (Sanskrit) sealing the Rāi rite; identifies the tradition and the layperson observer.",
+      "ritualTerms": [
+        {
+          "term": "rāi-pratikramaṇa",
+          "gloss": "Rātrika pratikramaṇa — the daily pre-dawn confession of the night's faults"
+        },
+        {
+          "term": "gaccha",
+          "gloss": "monastic lineage/order; here the Vidhipakṣa (Añcala) gaccha"
+        },
+        {
+          "term": "śrāvaka",
+          "gloss": "a lay devotee"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Añcalagaccha / Vidhipakṣa edition)",
+      "url": "",
+      "type": "reference",
+      "consultedFor": "Verbatim native vidhi text and tradition placement of the Rāi colophon"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "All five segments are procedural directions (kind=direction, no speaker), so recitation lines give the chantable cue phrase where one exists rather than a full chant. Segment 04 defers to the Devasi 'conclude sāmāyika' procedure per the book's shared-by-reference model (KB §1.1, §3.1); no concluding steps are invented here. Segment 05 is a Sanskrit colophon; 'Añcala/Acala' renders અચલ as printed."
+}

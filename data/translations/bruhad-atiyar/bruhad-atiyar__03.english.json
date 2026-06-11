@@ -1,0 +1,880 @@
+{
+  "shlokaId": "bruhad-atiyar/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the householder's vow not to steal — not to take anything, living or non-living, that has not been given — and here the reciter searches out the five ways he may have broken it, from buying stolen goods to using false weights and selling fake or adulterated things.",
+  "recitation": "trījuṁ sthūla adattādāna viramaṇa vrata. sacitta, acitta, rāja-nigraha kāriuṁ, piyāruṁ, aṇadīdhuṁ levā niyama. sūkṣma tṛṇa, indhaṇa pathi patita vyavahāra-nioge dāṇacorī, jayaṇā. e trījā sthūla adattādāna viramaṇa vrata taṇā pāñca atiyāra śodhuṁ. tenāhaḍe, takkarapaoge, viruddha rajjāi kamme, kūḍatulla kūḍamāṇe, tappaḍi rūvaga vavahāre. stenāhata—jāṇī karī corāi vastu līdhī hoya. taskara-prayoga—corane saṁbala āpyuṁ hoya. pagarahaṇa dīdhuṁ hoya, āgala thai corāi vastu veñcī veñcāvī hoya. viruddha-rajjāi kamme—viruddha-rājya jai vyavasāya kīdho hoya. kūḍatulla-kūḍamāṇe—kūḍāṁ tolāṁ kūḍāṁ māpāṁ kīdhāṁ hoya, anere dīdhuṁ anere līdhuṁ hoya, lahaka-ṛhaka kīdhuṁ hoya, kāṭalāṁ kūḍāṁ kīdhāṁ hoya, usisī dīdhī hoya. tat-pratirūpaka-vyavahāra—sapharī vastu-māṁhe napharī vastu ghālī sapharīne mūlye veñcī hoya. ghī, tela, sāhilī, kaucī bhelasaṁbhela kīdhāṁ hoya. navī vānakī dekhāḍī jūnī vastu āpī hoya. tathā kūḍo karaho kāḍhyo hoya, vañca-droha, viśvāsa-ghāta kīdho hoya. lekhe koya varāśyuṁ hoya, kūḍī mudrā saṁcārī hoya. sisīsī javāra, phalyā caṇā upāḍyā hoya, kuṇaha-nuṁ dravya vyavasāya karatāṁ āpaṇāpāṁ kane rahyuṁ hoya, nāṇāṁ palaṭo kīdho hoya. aneruṁ e trījā sthūla adattādāna viramaṇa-vrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "ત્રીજું",
+      "translit": "trījuṁ",
+      "gloss": "third",
+      "partOfSpeech": "adj",
+      "etymology": "from Skt. tṛtīya, Pkt. taïya; ordinal of 'three'",
+      "notes": "marks the third aṇuvrata"
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross, coarse (the lay, limited form)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sthūla 'thick, gross'; opposed to sūkṣma 'subtle'",
+      "notes": "the householder keeps the vow in its 'gross' degree, not the monastic absolute"
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "taking what is not given (theft)",
+      "partOfSpeech": "compound",
+      "etymology": "a-datta ('not given') + ādāna ('taking')",
+      "notes": "glossary term; the object the vow renounces"
+    },
+    {
+      "token": "વિરમણ",
+      "translit": "viramaṇa",
+      "gloss": "abstaining, desisting from",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vi-√ram 'to cease'"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata 'religious observance, vow'"
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "animate, ensouled (a living thing)",
+      "partOfSpeech": "adj",
+      "etymology": "sa- 'with' + citta 'consciousness'",
+      "notes": "first object-class one must not steal"
+    },
+    {
+      "token": "અચિત્ત",
+      "translit": "acitta",
+      "gloss": "inanimate, soulless (a non-living thing)",
+      "partOfSpeech": "adj",
+      "etymology": "a- 'without' + citta",
+      "notes": "second object-class; together sacitta/acitta exhaust all property"
+    },
+    {
+      "token": "રાજ-નિગ્રહ",
+      "translit": "rāja-nigraha",
+      "gloss": "(things whose theft brings) royal/state seizure or punishment",
+      "partOfSpeech": "compound",
+      "etymology": "rāja 'king, state' + nigraha 'restraint, seizure, punishment'",
+      "notes": "i.e. goods protected by law, taking which invites state penalty"
+    },
+    {
+      "token": "કારિઉં",
+      "translit": "kāriuṁ",
+      "gloss": "caused, made/effected",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. participle of √kṛ 'to do', causative",
+      "notes": "old-Gujarati form; reads with the resolve below"
+    },
+    {
+      "token": "પિયારું",
+      "translit": "piyāruṁ",
+      "gloss": "dear, precious (a cherished thing)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. piya, Skt. priya 'dear'",
+      "notes": "another quality of property one resolves not to take unbidden"
+    },
+    {
+      "token": "અણદીધું",
+      "translit": "aṇadīdhuṁ",
+      "gloss": "the not-given",
+      "partOfSpeech": "adj",
+      "etymology": "aṇa- (negative) + dīdhuṁ 'given' (Pkt. diṇṇa, Skt. datta)",
+      "notes": "vernacular equivalent of adatta"
+    },
+    {
+      "token": "લેવા",
+      "translit": "levā",
+      "gloss": "to take",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. infinitive of levuṁ, Skt. √labh / lā"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "(my) rule/resolve (of restraint)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ni-√yam 'to restrain'",
+      "notes": "the practitioner's personal undertaking; the structural niyama-stage of the formula"
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "subtle, minute",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sūkṣma",
+      "notes": "introduces the jayaṇā-exception for trifling, unavoidable takings"
+    },
+    {
+      "token": "તૃણ",
+      "translit": "tṛṇa",
+      "gloss": "grass, a blade of straw",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tṛṇa",
+      "notes": "type of trifling object"
+    },
+    {
+      "token": "ઇંધણ",
+      "translit": "indhaṇa",
+      "gloss": "firewood, fuel",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. indhana, from √indh 'to kindle'"
+    },
+    {
+      "token": "પથિ",
+      "translit": "pathi",
+      "gloss": "on the path/road",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pathin 'road', locative",
+      "notes": "reads with patita: lying on the road"
+    },
+    {
+      "token": "પતિત",
+      "translit": "patita",
+      "gloss": "fallen, dropped (i.e. ownerless)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. √pat 'to fall'",
+      "notes": "such fallen fuel/grass picked up is covered by jayaṇā, not counted as theft"
+    },
+    {
+      "token": "વ્યવહારનિઓગે",
+      "translit": "vyavahāra-nioge",
+      "gloss": "in the course of (ordinary) dealings/occupation",
+      "partOfSpeech": "compound",
+      "etymology": "vyavahāra 'transaction, conduct' + niyoga 'engagement, application', locative",
+      "notes": "the everyday business context in which minute lapses are guarded, not vowed away"
+    },
+    {
+      "token": "દાણચોરી",
+      "translit": "dāṇacorī",
+      "gloss": "smuggling / evasion of toll-duty",
+      "partOfSpeech": "noun",
+      "etymology": "dāṇa (Skt. dāna here = customs/toll) + corī 'theft'",
+      "notes": "evading lawful duty is itself a subtle adattādāna"
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "vigilant care/guarding (the qualified exception)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jayaṇā, Skt. yatanā 'effort, care'",
+      "notes": "glossary term; here it covers the subtle items just named"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative"
+    },
+    {
+      "token": "ત્રીજા",
+      "translit": "trījā",
+      "gloss": "third (oblique)",
+      "partOfSpeech": "adj",
+      "etymology": "see trījuṁ"
+    },
+    {
+      "token": "તણા",
+      "translit": "taṇā",
+      "gloss": "of, belonging to",
+      "partOfSpeech": "particle",
+      "etymology": "old-Guj. genitive postposition taṇuṁ/taṇā",
+      "notes": "possessive linking vrata to its five atiyār"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial breaches)",
+      "partOfSpeech": "noun",
+      "etymology": "book's spelling of atichāra; see preface",
+      "notes": "glossary term; the book uses અતિયાર verbatim"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine/scrutinize, search out",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √śudh/śodhana 'to cleanse, investigate'",
+      "notes": "the refrain's verb: I now audit these five"
+    },
+    {
+      "token": "તેનાહડે",
+      "translit": "tenāhaḍe",
+      "gloss": "by receiving stolen goods (stenāhṛta)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. for Skt. stena-āhṛta 'brought by a thief'; locative -e",
+      "notes": "1st atichāra — Prakrit formula"
+    },
+    {
+      "token": "તક્કરપઓગે",
+      "translit": "takkarapaoge",
+      "gloss": "by employing/abetting a thief (taskara-prayoga)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. takkara (Skt. taskara 'thief') + paoga (Skt. prayoga 'employment')",
+      "notes": "2nd atichāra"
+    },
+    {
+      "token": "વિરુદ્ધ",
+      "translit": "viruddha",
+      "gloss": "opposed, hostile, unlawful",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vi-√rudh 'to obstruct'"
+    },
+    {
+      "token": "રજ્જાઇ",
+      "translit": "rajjāi",
+      "gloss": "of the realm/state",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. rajja, Skt. rājya 'kingdom'",
+      "notes": "with viruddha = a hostile/contraband state"
+    },
+    {
+      "token": "કમ્મે",
+      "translit": "kamme",
+      "gloss": "by act/dealing (karman)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kamma, Skt. karman, locative",
+      "notes": "3rd atichāra: viruddha-rājya-atikrama — trading against the law of the land"
+    },
+    {
+      "token": "કૂડતુલ્લ",
+      "translit": "kūḍatulla",
+      "gloss": "false balance/weights",
+      "partOfSpeech": "compound",
+      "etymology": "kūḍa 'false, counterfeit' + tulla (Skt. tulā 'balance')"
+    },
+    {
+      "token": "કૂડમાણે",
+      "translit": "kūḍamāṇe",
+      "gloss": "by false measures",
+      "partOfSpeech": "compound",
+      "etymology": "kūḍa + māṇa (Skt. māna 'measure'), locative",
+      "notes": "4th atichāra: hīnādhika-mānonmāna — short/over weighing & measuring"
+    },
+    {
+      "token": "તપ્પડિરૂવગ",
+      "translit": "tappaḍirūvaga",
+      "gloss": "counterfeit/look-alike substitution",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. tap-paḍirūvaga, Skt. tat-pratirūpaka 'a counterfeit of it'",
+      "notes": "5th atichāra"
+    },
+    {
+      "token": "વવહારે",
+      "translit": "vavahāre",
+      "gloss": "in dealing/transaction",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vavahāra, Skt. vyavahāra, locative",
+      "notes": "completes pratirūpaka-vyavahāra: passing off fakes as genuine"
+    },
+    {
+      "token": "સ્તેનાહત-જાણી",
+      "translit": "stenāhata—jāṇī",
+      "gloss": "knowing (a thing) to be stolen",
+      "partOfSpeech": "compound",
+      "etymology": "stena-āhata 'struck/seized by a thief' + jāṇī 'having known' (√jñā)",
+      "notes": "begins the Gujarati gloss of atichāra 1"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done/with intent",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. absolutive of karavuṁ, √kṛ"
+    },
+    {
+      "token": "ચોરાઇ",
+      "translit": "corāi",
+      "gloss": "stolen",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. cor 'thief' + passive",
+      "notes": "recurs below"
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "thing, goods",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vastu",
+      "notes": "recurs throughout"
+    },
+    {
+      "token": "લીધી",
+      "translit": "līdhī",
+      "gloss": "took (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past of levuṁ, √labh"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may (it) have been (done)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. subjunctive of hovuṁ 'to be'",
+      "notes": "recurring auxiliary closing each confessed possibility: 'it may have happened that…'"
+    },
+    {
+      "token": "ચોરને",
+      "translit": "corane",
+      "gloss": "to a thief",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. cor + dative -ne"
+    },
+    {
+      "token": "સંબલ",
+      "translit": "saṁbala",
+      "gloss": "provisions, support (for the road)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śambala 'travel-provisions'",
+      "notes": "giving a thief supplies = abetment (atichāra 2)"
+    },
+    {
+      "token": "આપ્યું",
+      "translit": "āpyuṁ",
+      "gloss": "gave",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past of āpavuṁ 'to give'"
+    },
+    {
+      "token": "પગરહણ",
+      "translit": "pagarahaṇa",
+      "gloss": "shelter/harbouring (a place to stay)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./old-Guj.; cf. pra-grahaṇa 'taking in'",
+      "notes": "harbouring a thief; book spelling verbatim"
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "gave",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past of devuṁ, Skt. √dā",
+      "notes": "recurs"
+    },
+    {
+      "token": "આગલ",
+      "translit": "āgala",
+      "gloss": "forward, as front-man",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. āgaḷ 'ahead'"
+    },
+    {
+      "token": "થઇ",
+      "translit": "thai",
+      "gloss": "becoming, acting as",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. absolutive of thavuṁ 'to become'",
+      "notes": "āgala thai = stepping up as agent/fence"
+    },
+    {
+      "token": "વેંચી",
+      "translit": "veñcī",
+      "gloss": "sold",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. veñcavuṁ 'to sell'"
+    },
+    {
+      "token": "વેંચાવી",
+      "translit": "veñcāvī",
+      "gloss": "got (it) sold (causative)",
+      "partOfSpeech": "verb",
+      "etymology": "causative of veñcavuṁ"
+    },
+    {
+      "token": "વિરુદ્ધરાજ્ય",
+      "translit": "viruddha-rājya",
+      "gloss": "a hostile/enemy kingdom",
+      "partOfSpeech": "compound",
+      "etymology": "viruddha + rājya",
+      "notes": "glossing atichāra 3"
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "having gone",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. absolutive of javuṁ 'to go'"
+    },
+    {
+      "token": "વ્યવસાય",
+      "translit": "vyavasāya",
+      "gloss": "trade, business",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vyavasāya 'effort, occupation'",
+      "notes": "recurs"
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "did, carried on",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past of karavuṁ",
+      "notes": "variants kīdhuṁ/kīdhāṁ recur for gender/number"
+    },
+    {
+      "token": "કૂડાં",
+      "translit": "kūḍāṁ",
+      "gloss": "false, counterfeit (pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. kūḍuṁ 'false'",
+      "notes": "recurs with tolāṁ, māpāṁ, kāṭalāṁ"
+    },
+    {
+      "token": "તોલાં",
+      "translit": "tolāṁ",
+      "gloss": "weights",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. toluṁ 'a weight', Skt. tulā"
+    },
+    {
+      "token": "માપાં",
+      "translit": "māpāṁ",
+      "gloss": "measures",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. māp 'measure', Skt. māna"
+    },
+    {
+      "token": "કીધાં",
+      "translit": "kīdhāṁ",
+      "gloss": "made/used (them)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past pl. of karavuṁ",
+      "notes": "recurring closer with kūḍāṁ etc."
+    },
+    {
+      "token": "અનેરે",
+      "translit": "anere",
+      "gloss": "by/with another (different one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "old-Guj. aneruṁ 'other'",
+      "notes": "gave by one measure, took by another"
+    },
+    {
+      "token": "લીધું",
+      "translit": "līdhuṁ",
+      "gloss": "took",
+      "partOfSpeech": "verb",
+      "etymology": "see līdhī"
+    },
+    {
+      "token": "લહકઋહક",
+      "translit": "lahaka-ṛhaka",
+      "gloss": "sleight of hand, light-and-heavy trickery",
+      "partOfSpeech": "compound",
+      "etymology": "onomatopoeic/colloquial old-Guj.; lahaka 'light' ~ ṛhaka 'heavy'",
+      "notes": "uncertain dialectal pair; sense: deft cheating in weighing — flagged in notes"
+    },
+    {
+      "token": "કાટલાં",
+      "translit": "kāṭalāṁ",
+      "gloss": "weighing-stones, scale-weights",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. kāṭaluṁ 'weight-stone'"
+    },
+    {
+      "token": "ઉસિસી",
+      "translit": "usisī",
+      "gloss": "skimming off / shorting the heap (a pinch taken away)",
+      "partOfSpeech": "noun",
+      "etymology": "old-Guj.; cf. ucchiṣṭa 'remainder'",
+      "notes": "dialectal; sense uncertain — quietly withholding part; flagged in notes"
+    },
+    {
+      "token": "દીધી",
+      "translit": "dīdhī",
+      "gloss": "gave (f.)",
+      "partOfSpeech": "verb",
+      "etymology": "see dīdhuṁ"
+    },
+    {
+      "token": "તત્પ્રતિરૂપકવ્યવહાર",
+      "translit": "tat-pratirūpaka-vyavahāra",
+      "gloss": "dealing in counterfeit look-alikes",
+      "partOfSpeech": "compound",
+      "etymology": "tat 'that' + pratirūpaka 'imitation' + vyavahāra 'dealing'",
+      "notes": "Sanskrit gloss-heading of atichāra 5"
+    },
+    {
+      "token": "સફરી",
+      "translit": "sapharī",
+      "gloss": "superior/genuine (high-grade) goods",
+      "partOfSpeech": "adj",
+      "etymology": "old-Guj. trade term, cf. Persian; 'first-quality'",
+      "notes": "contrasted with napharī; meaning from context, flagged"
+    },
+    {
+      "token": "વસ્તુમાંહે",
+      "translit": "vastu-māṁhe",
+      "gloss": "inside the goods",
+      "partOfSpeech": "noun",
+      "etymology": "vastu + old-Guj. māṁhe 'within'"
+    },
+    {
+      "token": "નફરી",
+      "translit": "napharī",
+      "gloss": "inferior/cheap goods",
+      "partOfSpeech": "adj",
+      "etymology": "old-Guj. trade term, antonym of sapharī",
+      "notes": "mixing cheap into fine and selling at the fine price"
+    },
+    {
+      "token": "ઘાલી",
+      "translit": "ghālī",
+      "gloss": "having put/inserted",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. ghālavuṁ 'to insert'"
+    },
+    {
+      "token": "સફરીને",
+      "translit": "sapharīne",
+      "gloss": "of/at the superior (grade)",
+      "partOfSpeech": "adj",
+      "etymology": "sapharī + oblique -ne"
+    },
+    {
+      "token": "મૂલ્યે",
+      "translit": "mūlye",
+      "gloss": "at the price",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mūlya 'value', locative"
+    },
+    {
+      "token": "ઘી",
+      "translit": "ghī",
+      "gloss": "clarified butter (ghee)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ghṛta"
+    },
+    {
+      "token": "તેલ",
+      "translit": "tela",
+      "gloss": "oil",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. taila"
+    },
+    {
+      "token": "સાહિલી",
+      "translit": "sāhilī",
+      "gloss": "(a commodity — likely a grain/pulse or refined sugar)",
+      "partOfSpeech": "noun",
+      "etymology": "old-Guj.; identity uncertain",
+      "notes": "named adulterable goods; exact referent flagged as uncertain"
+    },
+    {
+      "token": "કઉચી",
+      "translit": "kaucī",
+      "gloss": "(another adulterable commodity)",
+      "partOfSpeech": "noun",
+      "etymology": "old-Guj.; uncertain",
+      "notes": "flagged in notes"
+    },
+    {
+      "token": "ભેલસંભેલ",
+      "translit": "bhelasaṁbhela",
+      "gloss": "adulteration, mixing-up",
+      "partOfSpeech": "compound",
+      "etymology": "Guj. bheḷ 'mixture', reduplicated for emphasis",
+      "notes": "adulterating ghee, oil, etc."
+    },
+    {
+      "token": "નવી",
+      "translit": "navī",
+      "gloss": "new",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. nava"
+    },
+    {
+      "token": "વાનકી",
+      "translit": "vānakī",
+      "gloss": "sample, swatch (showing-piece)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. vānagī/vānakī 'specimen'"
+    },
+    {
+      "token": "દેખાડી",
+      "translit": "dekhāḍī",
+      "gloss": "having shown",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. causative of dekhavuṁ 'to see'",
+      "notes": "show a fine sample, deliver old/inferior stock"
+    },
+    {
+      "token": "જૂની",
+      "translit": "jūnī",
+      "gloss": "old",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. jūnuṁ 'old'"
+    },
+    {
+      "token": "આપી",
+      "translit": "āpī",
+      "gloss": "gave/handed over",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. āpavuṁ"
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "and also, likewise",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tathā"
+    },
+    {
+      "token": "કૂડો",
+      "translit": "kūḍo",
+      "gloss": "false (m.)",
+      "partOfSpeech": "adj",
+      "etymology": "see kūḍāṁ"
+    },
+    {
+      "token": "કરહો",
+      "translit": "karaho",
+      "gloss": "(false) account/reckoning or claim",
+      "partOfSpeech": "noun",
+      "etymology": "old-Guj.; cf. karaha 'levy, account'",
+      "notes": "drawing up a false account; sense flagged"
+    },
+    {
+      "token": "કાઢ્યો",
+      "translit": "kāḍhyo",
+      "gloss": "drew up, produced",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. kāḍhavuṁ 'to take/draw out'"
+    },
+    {
+      "token": "વંચદ્રોહ",
+      "translit": "vañca-droha",
+      "gloss": "fraud and betrayal",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vañcana 'deceit' + droha 'treachery'"
+    },
+    {
+      "token": "વિશ્વાસઘાત",
+      "translit": "viśvāsa-ghāta",
+      "gloss": "breach of trust",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. viśvāsa 'trust' + ghāta 'striking down'"
+    },
+    {
+      "token": "લેખે",
+      "translit": "lekhe",
+      "gloss": "in the account/reckoning",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. lekha 'writing, account', locative"
+    },
+    {
+      "token": "કોય",
+      "translit": "koya",
+      "gloss": "someone, anyone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. koī"
+    },
+    {
+      "token": "વરાશ્યું",
+      "translit": "varāśyuṁ",
+      "gloss": "was cheated/short-changed in the reckoning",
+      "partOfSpeech": "verb",
+      "etymology": "old-Guj.; cf. varasāvavuṁ 'to make suffer/dupe'",
+      "notes": "sense from context; flagged"
+    },
+    {
+      "token": "કૂડી",
+      "translit": "kūḍī",
+      "gloss": "false (f.)",
+      "partOfSpeech": "adj",
+      "etymology": "see kūḍāṁ"
+    },
+    {
+      "token": "મુદ્રા",
+      "translit": "mudrā",
+      "gloss": "coin, seal/stamp",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mudrā 'seal, coin'"
+    },
+    {
+      "token": "સંચારી",
+      "translit": "saṁcārī",
+      "gloss": "passed/circulated (counterfeit)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. sam-√car causative 'to set in motion'",
+      "notes": "passing forged coin/seal"
+    },
+    {
+      "token": "સિસીસી",
+      "translit": "sisīsī",
+      "gloss": "(a measure-by-measure / pilfered grain term)",
+      "partOfSpeech": "noun",
+      "etymology": "old-Guj.; uncertain",
+      "notes": "reads with javāra; sense flagged"
+    },
+    {
+      "token": "જવાર",
+      "translit": "javāra",
+      "gloss": "millet/sorghum (jowar)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. javār, jvār"
+    },
+    {
+      "token": "ફલ્યા",
+      "translit": "phalyā",
+      "gloss": "ripened, fruited",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. phaḷavuṁ 'to bear fruit'"
+    },
+    {
+      "token": "ચણા",
+      "translit": "caṇā",
+      "gloss": "chickpeas, gram",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. caṇaka"
+    },
+    {
+      "token": "ઉપાડ્યા",
+      "translit": "upāḍyā",
+      "gloss": "lifted/carried off (without leave)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. upāḍavuṁ 'to pick up'",
+      "notes": "taking another's standing/ripening crop = field-theft"
+    },
+    {
+      "token": "કુણહનું",
+      "translit": "kuṇaha-nuṁ",
+      "gloss": "someone's, another's",
+      "partOfSpeech": "pronoun",
+      "etymology": "old-Guj. kuṇaha 'some person' + genitive -nuṁ"
+    },
+    {
+      "token": "દ્રવ્ય",
+      "translit": "dravya",
+      "gloss": "wealth, property, money",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dravya 'substance, goods'"
+    },
+    {
+      "token": "કરતાં",
+      "translit": "karatāṁ",
+      "gloss": "while doing",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. present participle of karavuṁ"
+    },
+    {
+      "token": "આપણાપાં",
+      "translit": "āpaṇāpāṁ",
+      "gloss": "with oneself, in one's own keeping",
+      "partOfSpeech": "pronoun",
+      "etymology": "old-Guj. reflexive āpaṇuṁ 'one's own'",
+      "notes": "another's money retained with oneself during dealings"
+    },
+    {
+      "token": "કને",
+      "translit": "kane",
+      "gloss": "near, with (in possession)",
+      "partOfSpeech": "particle",
+      "etymology": "Guj. kane 'beside'"
+    },
+    {
+      "token": "રહ્યું",
+      "translit": "rahyuṁ",
+      "gloss": "remained, stayed (withheld)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. rahevuṁ 'to remain'"
+    },
+    {
+      "token": "નાણાં",
+      "translit": "nāṇāṁ",
+      "gloss": "money, coin",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. nāṇuṁ 'coin'"
+    },
+    {
+      "token": "પલટો",
+      "translit": "palaṭo",
+      "gloss": "switch, exchange/swap",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. palaṭavuṁ 'to turn/change'",
+      "notes": "money-changing fraud, swapping coin dishonestly"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "anything else (whatever other)",
+      "partOfSpeech": "pronoun",
+      "etymology": "old-Guj. 'other'",
+      "notes": "opens the sealing refrain; the rest (micchā mi dukkaḍaṁ) is the shared seal"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning, in respect of",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. viṣaya 'sphere', locative",
+      "notes": "closes: '…whatever else regarding this third vow'"
+    }
+  ],
+  "literalTranslation": "Third: the vow of abstaining from gross taking of what is not given. My rule is not to take — whether ensouled or soulless, whether a thing whose theft brings state-punishment, or a cherished thing — anything not given. As for subtle cases — a blade of grass, fuel fallen on the road, or evasions arising in the ordinary course of dealings — there is jayaṇā (guarding-care). I now examine the five transgressions of this third vow of abstaining from gross theft: (1) tenāhaḍe — receiving stolen goods; (2) takkarapaoge — employing/abetting a thief; (3) viruddha-rajjāi-kamme — trading against the law of the realm; (4) kūḍatulla-kūḍamāṇe — false weights and measures; (5) tappaḍirūvaga-vavahāre — dealing in counterfeit look-alikes. [Glosses:] Knowing a thing to be stolen, I may have taken it. I may have given a thief provisions, given him shelter, or, acting as his front, sold or got stolen goods sold. I may have done business by going into a hostile/contraband realm. I may have kept false weights and false measures — giving by one and taking by another, doing light-and-heavy trickery, keeping false weight-stones, skimming the heap. I may have inserted inferior goods into superior and sold them at the superior price; adulterated ghee, oil, sāhilī, kaucī; shown a fine sample and delivered old stock; drawn up a false account, committed fraud and breach of trust; short-changed someone in the reckoning, passed false coin; carried off another's millet or ripening gram; while trading, kept another's wealth with myself; worked a money-swap fraud. Whatever else there was regarding this third vow of abstaining from gross theft [— may that wrong of mine be undone].",
+  "idiomaticTranslation": "Third comes the householder's vow against gross theft. My resolve is to take nothing that is not freely given — be it living or lifeless, a cherished possession or goods the state itself protects. For the smallest unavoidable things — a wisp of grass, fuel dropped on the road, the petty frictions of honest trade — I rely on watchful care (jayaṇā). And now I search my conduct for the five ways this vow may have slipped: handling stolen goods, abetting a thief, trafficking against the law of the land, cheating with false weights and measures, and trading in counterfeits. Did I knowingly buy what was stolen? Did I provision a thief, shelter him, or play the fence who moves his loot? Did I deal in contraband across hostile borders? Did I rig my scales and measures — give by one, take by another, palm the light for the heavy, keep crooked weight-stones, shave the heap? Did I slip cheap goods into fine and charge the fine price; adulterate ghee, oil and grain; show a bright sample but hand over old stock; cook a false account; betray a trust; short a man in his reckoning; pass forged coin; carry off another's standing crop of millet or gram; pocket a client's money during a deal; or work a sleight in changing cash? For all this, and whatever else against this third vow — may my wrongdoing be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having confessed false speech in the second vow, the reciter now turns from the tongue to the hand: adattādāna, 'taking what is not given.' The verse first fixes the vow's scope with two exhaustive pairs — sacitta/acitta (living/non-living) and the contrast of an everyday 'cherished thing' (piyāruṁ) with goods whose theft draws state penalty (rāja-nigraha) — so that no category of property escapes the resolve. Crucially, it then carves out jayaṇā: a blade of grass, fuel lying fallen on the road, the inevitable frictions of vyavahāra are not declared sins but guarded with care — the lay alternative to a monk's absolute asteya. The heart of the verse is the canonical Prakrit pentad — tenāhaḍe, takkarapaoge, viruddha-rajjāi-kamme, kūḍatulla-kūḍamāṇe, tappaḍirūvaga-vavahāre — which the medieval-Gujarati gloss then unfolds into a strikingly concrete bazaar of dishonesty. What gives this verse its force is its insistence that theft is far wider than burglary: the receiver, the harbourer, the fence, the smuggler, the shopkeeper with two sets of weights, the adulterator of ghee and oil, the seller who shows one sample and delivers another, the forger of coin and account, the money-changer's sleight, even pocketing a client's cash mid-deal — all are adattādāna. The catalogue moves deliberately from the obvious thief outward to the respectable merchant, refusing the householder any comfortable distance from the vice. The sealing 'aneruṁ … viṣe' gathers every unnamed variant into the shared micchā-mi-dukkaḍaṁ. (A few trade-terms — sāhilī, kaucī, lahaka-ṛhaka, usisī, varāśyuṁ — are dialectal and their exact referents uncertain; see notes.)",
+    "doctrinalContext": "The five glosses align exactly with the classical five atichāras of the asteya-aṇuvrata as fixed in Tattvārtha-sūtra 7.27 (stena-prayoga, tadāhṛtādāna, viruddha-rājyātikrama, hīnādhika-mānonmāna, pratirūpaka-vyavahāra), showing this medieval confession transmitting the canonical list faithfully under its vernacular names. Doctrinally the verse enforces the Jain principle that theft is not only the act but its abetment and its disguises: prayoga (instigation) and anumodanā (approval/profiting) bind karma as surely as the deed, which is why receiving, harbouring, and fencing are named first. The weights-and-measures and counterfeit clauses extend asteya into commercial honesty (vyavahāra-śuddhi), making fair trade a spiritual discipline, not mere social ethic — every false weight is a covert taking of 'what is not given.' Underlying all is aparigraha's near neighbour: grasping more than one's due is itself a form of hiṁsā against trust and against one's own right faith.",
+    "practicalRelevance": "For a modern reciter this verse is an audit of working life: it asks not 'did I rob anyone?' but 'did I cut a corner?' — pirated or stolen goods knowingly used, contraband or tax-evaded dealings, rigged metrics or invoices, adulterated or misrepresented products, bait-and-switch samples, withheld client funds, manipulated currency or accounts. Reciting it sincerely turns pratikramaṇa into a ledger-review of one's trade and converts honest measure, accurate billing, and refusal to profit from another's theft into daily expressions of the vow.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.27 — the five atichāras of the asteya-aṇuvrata (stena-prayoga, tadāhṛtādāna, viruddha-rājyātikrama, hīnādhika-mānonmāna, pratirūpaka-vyavahāra)",
+        "source": "Umāsvāti, Tattvārtha-sūtra; cf. Vijay K. Jain ed./trans."
+      },
+      {
+        "text": "Upāsakadaśāḥ / śrāvakācāra tradition on the third aṇuvrata (acaurya/asteya)",
+        "source": "Ratnakaraṇḍa-śrāvakācāra, Samantabhadra"
+      },
+      {
+        "text": "Laghu Atiyār — the short confession of the same twelve vows recited in Devasi/Rāi",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anuvrata (Śrāvaka) — five lay vows and their atichāras",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Confirming the third aṇuvrata (acaurya/asteya) and its place among the five lay vows and six āvaśyakas."
+    },
+    {
+      "title": "Asteya / Achaurya — non-stealing in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Asteya",
+      "type": "scholarship",
+      "consultedFor": "Definition and scope of asteya (act, speech, thought) underpinning the vow's framing."
+    },
+    {
+      "title": "Asteya — Sanskrit/Prakrit lexical and Jain definitions",
+      "url": "https://www.wisdomlib.org/definition/asteya",
+      "type": "dictionary",
+      "consultedFor": "Etymology (a- + steya) and cross-tradition senses used in the word-by-word glosses."
+    },
+    {
+      "title": "Tattvārtha-sūtra 7.27 — atichāras of the asteya-aṇuvrata",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Aligning the verse's five Prakrit atichāra-names with the canonical five (stena-prayoga, tadāhṛtādāna, viruddha-rājyātikrama, hīnādhika-mānonmāna, pratirūpaka-vyavahāra)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The canonical five-fold structure and the four named heads (receiving stolen goods, abetting a thief, unlawful-realm trade, false weights/measures, counterfeit dealing) are secure and match Tattvārtha-sūtra 7.27. Lower confidence attaches to several medieval-Gujarati trade/dialect terms whose exact referents are uncertain and are rendered by contextual sense: 'lahaka-ṛhaka' (light/heavy weighing trickery), 'usisī' (skimming/shorting a heap), 'sapharī'/'napharī' (superior vs inferior grade goods), 'sāhilī' and 'kaucī' (two adulterable commodities, likely grains/pulses or refined sugar), 'karaho' (a false account/levy), 'varāśyuṁ' (to dupe/short-change in reckoning), and 'sisīsī' (a grain-measure or pilfering term). The book's verbatim orthography is preserved (e.g. 'atiyār' for atichāra; spaced/period punctuation; 'pagarahaṇa'). The sealing formula is abbreviated here to 'aneruṁ … viṣe'; the full micchā-mi-dukkaḍaṁ seal is the sutra-level refrain noted in the preface and not re-glossed."
+}

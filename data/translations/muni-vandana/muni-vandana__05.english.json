@@ -1,0 +1,158 @@
+{
+  "shlokaId": "muni-vandana/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse simply names four teachers of the lineage in order — Siṁhatilaka, then Mahendraprabha, then Merutuṅga, then Jayakīrti — each taking the teacher's seat after the one before him.",
+  "recitation": "siri siṁhatilaya sūri, tappaya siri mahindappaha guruṇo. siri merutuṁga guruṇo, tappaya jayakitti gururāo.",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the venerable, the glorious (honorific prefix)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī ('glory, auspiciousness'), prefixed to a revered name.",
+      "notes": "Repeated before each ācārya's name as a mark of reverence."
+    },
+    {
+      "token": "સિંહતિલય",
+      "translit": "siṁhatilaya",
+      "gloss": "Siṁhatilaka (proper name of an ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "siṁha ('lion') + tilaya < Sanskrit tilaka ('forehead-mark, ornament-crown'): 'lion-like crest.'",
+      "notes": "Book spelling siṁhatilaya; standard form Siṁhatilakasūri."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "sūri (ācārya/preceptor — honorific suffix)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sūri ('learned one, sage'); here the title of a head-teacher.",
+      "notes": "See preface glossary; not re-defined."
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "on his seat, after him in succession",
+      "partOfSpeech": "compound",
+      "etymology": "tat ('his') + paya, here = paṭṭe ('on the seat'); Prakrit tat-paṭṭe.",
+      "notes": "The lineage refrain; paya may also be read as pada ('foot/step'), but the seat-sense governs (see notes)."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the venerable (honorific)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī.",
+      "notes": ""
+    },
+    {
+      "token": "મહિંદપ્પહ",
+      "translit": "mahindappaha",
+      "gloss": "Mahendraprabha (proper name of an ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "mahinda < Sanskrit mahendra ('great Indra') + ppaha < prabhā/prabha ('radiance'): 'splendour of the great Indra.'",
+      "notes": "Distinct from Mahendrasiṁhasūri (an earlier seat and author of the Aṣṭottarī Tīrthamālā); do not conflate."
+    },
+    {
+      "token": "ગુરુણો",
+      "translit": "guruṇo",
+      "gloss": "the guru (preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit guruṇo, oblique/honorific of guru < Sanskrit guru ('teacher, weighty one').",
+      "notes": "Functions as a reverential appellation closing the name-phrase."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the venerable (honorific)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī.",
+      "notes": ""
+    },
+    {
+      "token": "મેરુતુંગ",
+      "translit": "merutuṁga",
+      "gloss": "Merutuṅga (proper name of an ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "meru (the cosmic Mount Meru) + tuṁga < Sanskrit tuṅga ('lofty, towering'): 'lofty as Meru.'",
+      "notes": "This is the Anchalgachchha Merutuṅgasūri, author of the Jīrāpallī Pārśva Stava (Nava Smaraṇa #6); not Merutuṅga the Prabandhacintāmaṇi chronicler of the Nāgendra-gaccha."
+    },
+    {
+      "token": "ગુરુણો",
+      "translit": "guruṇo",
+      "gloss": "the guru (preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit guruṇo < Sanskrit guru.",
+      "notes": ""
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "on his seat, after him in succession",
+      "partOfSpeech": "compound",
+      "etymology": "tat ('his') + paya (= paṭṭe, 'on the seat').",
+      "notes": "Second occurrence of the succession refrain in this verse."
+    },
+    {
+      "token": "જયકિત્તિ",
+      "translit": "jayakitti",
+      "gloss": "Jayakīrti (proper name of an ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "jaya ('victory') + kitti < Sanskrit kīrti ('fame, glory'): 'whose fame is victory.'",
+      "notes": "Book spelling jayakitti; standard Jayakīrtisūri."
+    },
+    {
+      "token": "ગુરુરાઓ",
+      "translit": "gururāo",
+      "gloss": "king among gurus, sovereign preceptor",
+      "partOfSpeech": "noun",
+      "etymology": "guru + rāo < Sanskrit rāja ('king'): guru-rāja, 'the royal/foremost guru.'",
+      "notes": "An elevated epithet crowning the verse's final name."
+    }
+  ],
+  "literalTranslation": "Venerable Siṁhatilaka Sūri; on his seat, venerable Mahendraprabha the guru. Venerable Merutuṅga the guru; on his seat, Jayakīrti, the king among gurus.",
+  "idiomaticTranslation": "Glory to Siṁhatilakasūri; upon his seat sat the venerable guru Mahendraprabha. Then to the venerable guru Merutuṅga, and upon his seat, Jayakīrti — sovereign among gurus.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā carries the roll of seats one stage onward, naming four successive heads: Siṁhatilaka, Mahendraprabha, Merutuṅga and Jayakīrti. As elsewhere, the twice-sounded tappaya stitches each ācārya to the next; here it is worth hearing how the names themselves are chosen and shaped to praise. Siṁhatilaka is the 'lion-crest,' Mahendraprabha the 'radiance of great Indra,' Merutuṅga 'lofty as Mount Meru,' and Jayakīrti 'he whose renown is victory' — a small garland of light, height and fame that lets the reciter feel the stature of the line, not merely list it. The verse is not inert genealogy: Merutuṅgasūri named here is the very ācārya whose Jīrāpallī Pārśva Stava the practitioner will later chant among the Nine Smaraṇas, so this seat-name and a living protective hymn are one and the same person — lineage and liturgy meeting in a single breath. The closing word lifts the cadence deliberately: where the others are simply guruṇo ('the guru'), Jayakīrti is gururāo, 'king among gurus,' a crowning honorific that rounds the gāthā and hands the chain forward to the next verse's Jayakesarīsūri. Read this way, the four names are four lamps passed hand to hand, the homage cumulative rather than itemised.",
+    "doctrinalContext": "The verse embodies the Jain conviction that authentic teaching is guaranteed not by a single charismatic saint but by an unbroken transmission of authority — the paṭṭa passed seat to seat. Each guruṇo is honoured precisely as a link; the elevating gururāo for Jayakīrti shows that distinction within the line is still distinction within service to the line, never apart from it. Venerating named gurus is thus an act of śraddhā in the integrity of the conduct and scripture they carried forward, not person-worship.",
+    "practicalRelevance": "Reciting these four names, a śrāvaka practises gratitude and humility — locating one's own daily reflection inside a tradition far larger than oneself. Recognising Merutuṅgasūri here as the author of a hymn one will soon recite turns an abstract list into living memory, encouraging the practitioner to receive the teaching as a trust to be honoured and handed on intact.",
+    "crossReferences": [
+      {
+        "text": "Jīrāpallī Pārśva Stava (Nava Smaraṇa #6), attributed to Merutuṅgasūri",
+        "source": "Anchalgachchha (Vidhipaksha) Pañca Pratikramaṇa, Nava Smaraṇa section"
+      },
+      {
+        "text": "Anchalgachchha paṭṭāvalī, Āryarakṣitasūri counted 47th paṭṭa from Sudharmāsvāmī",
+        "source": "Achal Gaccha tradition (Wikipedia / gaccha paṭṭāvalī)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipaksha/Anchalgachchha identity and its unbroken succession of ācāryas from Sudharmāsvāmī, within which this paṭṭāvalī verse sits."
+    },
+    {
+      "title": "Aryarakshitsuri — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aryarakshitsuri",
+      "type": "scholarship",
+      "consultedFor": "Founder/yugapradhāna of the Vidhipaksha line whose later seats this verse continues to enumerate."
+    },
+    {
+      "title": "Paṭṭāvali — definition (Monier-Williams / Cologne Digital Sanskrit Dictionaries; Tamil lexicon)",
+      "url": "https://www.wisdomlib.org/definition/pattavali",
+      "type": "dictionary",
+      "consultedFor": "Confirming paṭṭāvalī as a 'list of successive spiritual heads' — the genre the tappaya refrain advances here."
+    },
+    {
+      "title": "Sūri — definition (Sanskrit/Prakrit/Jaina lexicons via Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/suri",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sūri as the ācārya/preceptor honorific and its śrī-prefixed usage."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Word meanings, name-etymologies and the seat-to-seat structure are secure; the precise historical identification of these four specific ācāryas rests on the Anchalgachchha paṭṭāvalī tradition rather than independent dated attestation. tappaya is read as tat-paṭṭe ('on his seat'); the second member paya could alternatively reflect pada ('foot/step'), but the succession-sense is standard. Book spellings are preserved verbatim (siṁhatilaya, mahindappaha, merutuṁga, jayakitti); IAST glosses normalise to Siṁhatilaka, Mahendraprabha, Merutuṅga, Jayakīrti. The Merutuṅga of this seat (Jīrāpallī Pārśva Stava author) is distinct from Merutuṅga the Prabandhacintāmaṇi chronicler (Nāgendra-gaccha); likewise Mahendraprabha here is distinct from Mahendrasiṁhasūri. The trailing daṇḍa (॥) is verse punctuation, not a lexical token."
+}

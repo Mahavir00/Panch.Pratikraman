@@ -1,0 +1,174 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/21",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May Pārśva — whose feet the whole world worships — wipe away the sins of everyone who recites this hymn, everyone who listens to it, and the poet Mānatuṅga too.",
+  "recitation": "jo paḍhaï jo a nisuṇaï, tāṇaṁ kaïṇo ya māṇatuṅgassa | pāso pāvaṁ pasameü, sayala bhuvaṇa-cciya calaṇo ||",
+  "wordByWord": [
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever, the one who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun, nom. sg., from Skt. yaḥ (यः).",
+      "notes": "Correlative; its answering 'them' is tāṇaṁ in the next line."
+    },
+    {
+      "token": "પઢઇ",
+      "translit": "paḍhaï",
+      "gloss": "recites, reads aloud",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paḍhaï, 3 sg. pres., from Skt. paṭhati (पठति), 'to recite/study'.",
+      "notes": "Covers spoken recitation of the stotra."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "and whoever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Repeated relative jo (Skt. yaḥ), pairing the reciter with the hearer.",
+      "notes": "The deliberate repetition equalizes reciter and listener."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit reduced form of ca (Skt. च), conjunctive particle.",
+      "notes": "Links paḍhaï and nisuṇaï."
+    },
+    {
+      "token": "નિસુણઇ",
+      "translit": "nisuṇaï",
+      "gloss": "listens, hears",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ni-suṇaï, 3 sg. pres., from Skt. ni-√śru, niśṛṇoti (निशृणोति), 'to hear attentively'.",
+      "notes": "Marks śravaṇa (hearing) as equal in fruit to recitation."
+    },
+    {
+      "token": "તાણં",
+      "translit": "tāṇaṁ",
+      "gloss": "of them, for these (two)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit gen. pl., from Skt. teṣām (तेषाम्).",
+      "notes": "Resumes both relatives — reciter and hearer."
+    },
+    {
+      "token": "કઇણો",
+      "translit": "kaïṇo",
+      "gloss": "of the poet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gen. sg. of kaï, from Skt. kaveḥ (कवेः), 'of the poet/seer'.",
+      "notes": "In apposition with māṇatuṅgassa; the author folds himself into the prayer."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya, from Skt. ca (च).",
+      "notes": "Adds the poet to the reciter-and-hearer pair."
+    },
+    {
+      "token": "માણતુંગસ્સ",
+      "translit": "māṇatuṅgassa",
+      "gloss": "of Māṇatuṅga (the poet's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gen. sg. of the proper name Māṇatuṅga (Skt. Mānatuṅga), the -ssa ending = Skt. -sya.",
+      "notes": "The embedded colophon/signature; the only proper name in the hymn besides Pārśva."
+    },
+    {
+      "token": "પાસો",
+      "translit": "pāso",
+      "gloss": "Pārśva (the Lord)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit nom. sg. pāso, from Skt. Pārśva (पार्श्व).",
+      "notes": "Grammatical subject of pasameü."
+    },
+    {
+      "token": "પાવં",
+      "translit": "pāvaṁ",
+      "gloss": "sin, evil karma",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva (acc. sg. pāvaṁ), from Skt. pāpam (पापम्).",
+      "notes": "The hymn here shifts its object from bhaya (fear) to pāpa (sin)."
+    },
+    {
+      "token": "પસમેઉ",
+      "translit": "pasameü",
+      "gloss": "may he quell, may he pacify",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pra-śam causative imperative, 3 sg., from Skt. praśamayatu (प्रशमयतु), 'let him calm/extinguish'.",
+      "notes": "Benedictive imperative — the verse's central petition."
+    },
+    {
+      "token": "સયલ",
+      "translit": "sayala",
+      "gloss": "whole, entire, all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sayala, from Skt. sakala (सकल), 'complete, all'.",
+      "notes": "First member of the bahuvrīhi epithet of Pārśva."
+    },
+    {
+      "token": "ભુવણચ્ચિઅ",
+      "translit": "bhuvaṇacciya",
+      "gloss": "worshipped by the world(s)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit bhuvaṇa + acciya: bhuvaṇa (Skt. bhuvana, 'world') + acciya (Skt. arcita, 'worshipped'); -rc- > -cc- by assimilation.",
+      "notes": "With sayala: 'worshipped by the whole world'."
+    },
+    {
+      "token": "ચલણો",
+      "translit": "calaṇo",
+      "gloss": "whose feet (are)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit calaṇa, from Skt. caraṇa (चरण, 'foot'); -r- > -l-. Here a bahuvrīhi: '(he) whose feet'.",
+      "notes": "Forms the epithet sayala-bhuvaṇacciya-calaṇo describing pāso — 'he whose feet are worshipped by the whole world'."
+    }
+  ],
+  "literalTranslation": "Whoever recites and whoever hears — for them, and for the poet Māṇatuṅga, may Pārśva, whose feet are worshipped by the whole world, quell sin.",
+  "idiomaticTranslation": "Whoever chants this hymn, whoever lends it an ear — for them, and for its poet Māṇatuṅga as well, may Lord Pārśva, at whose feet the whole world bows, dissolve every sin.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the poem's colophon-verse, and it makes two quiet but deliberate moves. First, it widens the circle of grace from the reciter (jo paḍhaï) to the hearer (jo a nisuṇaï): the doubled relative jo equalizes lips and ears, so that one who merely listens earns the same blessing as one who speaks. Second, with kaïṇo ya māṇatuṅgassa the author signs his own work — yet not to claim merit but to beg it, placing himself last among those whose pāpa needs quelling. The petition itself shifts vocabulary: where the danger-verses asked Pārśva to avert bhaya (fear), here the prayer is pāvaṁ pasameü — 'may he pacify sin' — naming the deeper malady behind every outward peril. The closing epithet sayala-bhuvaṇacciya-calaṇo ('whose feet the whole world worships') is the warrant for the request: a Lord venerated by every realm has the power to still the karmic root. Note how calaṇa (the 'feet' refrain that recurs across the hymn) returns one final time, now not as the devotee's refuge in a specific danger but as the universally adored seat of all protection — gathering the poem's central image into its signature. After the long catalogue of perils (vv. 20–21 having already broadened to kings, demons, omens and twilight), the hymn turns inward: the true enemy is sin, and the true remedy is the worshipped feet of Pārśva.",
+    "doctrinalContext": "The verse rests on two Jain commitments. (1) The salvific weight of śravaṇa: hearing the holy word (śruta) carries fruit equal to reciting it — devotion is receptive as well as active. (2) Pāpa-praśamana as the goal behind bhaya-hara: outward fears are symptoms; the disease is accumulated pāpa-karma. To ask that sin be 'quelled' (praśam-) is to ask for nirjarā and the calming of the passions (kaṣāya) that bind karma. The poet's self-inclusion models samyag-darśana's humility — even the composer of a protective hymn confesses himself a sinner needing the Jina's grace. The epithet 'worshipped by the whole world' affirms the Tīrthaṅkara's universal worthiness (the proper object of bhakti), without implying the Jina acts as a granter of boons in a theistic sense: the 'quelling' works through the devotee's own purifying remembrance of an utterly worship-worthy ideal.",
+    "practicalRelevance": "Recite this closing verse mindful that anyone within earshot shares its blessing — so chant audibly and let others listen. Take the poet's example: end your recitation not by claiming spiritual credit but by asking, humbly, that your own faults be stilled. And let the petition reframe your motive — beyond safety from outward dangers, seek the quieting of the inner pāpa that causes them.",
+    "crossReferences": [
+      {
+        "text": "Bhayahara (Namiūṇa) Stotra v. 19 — the self-praising verse that calls the hymn a treasure of blessings, of which this colophon is the natural seal",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Bhaktāmara Stotra, closing signature verse — the parallel Mānatuṅga colophon naming the poet and promising the devotee deliverance",
+        "source": "Bhaktamara Stotra (traditional attribution to Ācārya Mānatuṅga)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manatunga - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manatunga",
+      "type": "scholarship",
+      "consultedFor": "the poet Mānatuṅga named in this colophon-verse (kaïṇo ya māṇatuṅgassa) and his authorship of the Bhayahara/Namiūṇa stotra to Pārśva"
+    },
+    {
+      "title": "Parshvanatha - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "identity of Pārśva (pāso), the 23rd Tīrthaṅkara, as the universally worshipped Lord whose feet are invoked"
+    },
+    {
+      "title": "Bhaktamara Stotra - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "the parallel Mānatuṅga colophon convention (poet's signature + phalaśruti) used as a cross-reference"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: paṭhati, niśṛṇoti, praśamayatu, pāpa, sakala, bhuvana, arcita, caraṇa, kaveḥ"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Word readings follow the supplied Gujarati text verbatim. 'sayala bhuvaṇacciya calaṇo' is read as a single bahuvrīhi epithet of pāso ('he whose feet are worshipped by the whole world'); the spaced printing reflects the source orthography, not three independent words. 'a' (Skt. ca) and 'ya' (Skt. ca) are both connective particles; rendering them distinctly is a stylistic choice. 'calaṇa' (caraṇa, 'feet') is the hymn's recurring refrain rather than the homophonous calaṇa = 'motion'; context fixes the sense as 'feet'. acciya = arcita ('worshipped'), with Prakrit -rc- > -cc-. Some recensions order or spell the colophon slightly differently (e.g. kavvaṁ/kaïṇo variants); the present gloss matches the supplied text. The attribution to Mānatuṅga rests on this in-text colophon and tradition (see preface notes), not on an external dated record."
+}

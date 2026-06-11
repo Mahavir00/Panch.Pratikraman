@@ -1,0 +1,144 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/41",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "For anyone who bows down and sings the praise of Ajitanātha and Śāntinātha — the two whose faces glow like the full moon — all sin is stilled and good merit keeps growing.",
+  "recitation": "savvaṁ pasamai pāvaṁ, punnaṁ vaḍḍhai namaṁsamāṇassa; saṁpunna-canda-vayaṇassa, kittaṇaṁ ajia-saṁtissa.",
+  "wordByWord": [
+    {
+      "token": "સવ્વં",
+      "translit": "savvaṁ",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Skt. sarva; neuter accusative/nominative singular agreeing with pāvaṁ.",
+      "notes": "Scope-word: 'all' the sin, without remainder."
+    },
+    {
+      "token": "પસમઇ",
+      "translit": "pasamai",
+      "gloss": "subsides, is quelled, is pacified",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pasamai < Skt. pra-√śam, praśāmyati 'is extinguished/pacified'; 3rd sg. present.",
+      "notes": "Same root (√śam) as Śānti — the praise of Śānti yields praśama (quelling); not 'sees' (paśyati)."
+    },
+    {
+      "token": "પાવં",
+      "translit": "pāvaṁ",
+      "gloss": "sin, demerit-karma",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva < Skt. pāpa; neuter, here the grammatical subject of pasamai.",
+      "notes": ""
+    },
+    {
+      "token": "પુન્નં",
+      "translit": "punnaṁ",
+      "gloss": "merit, meritorious karma (puṇya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit punna (doubled -nn-) < Skt. puṇya; neuter nominative singular.",
+      "notes": "Paired antithetically with pāvaṁ: sin down, merit up."
+    },
+    {
+      "token": "વઢ્ઢઇ",
+      "translit": "vaḍḍhai",
+      "gloss": "increases, grows, flourishes",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vaḍḍhai < Skt. √vṛdh, vardhate 'grows'; 3rd sg. present.",
+      "notes": "Book's conjunct ḍḍh (વઢ્ઢ) preserved verbatim."
+    },
+    {
+      "token": "નમંસમાણસ્સ",
+      "translit": "namaṁsamāṇassa",
+      "gloss": "of the one who venerates / for the one bowing in homage",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit present middle participle namaṁsamāṇa < Skt. namasya-māna (denom. namasya- 'pay homage', √nam); genitive singular -ssa.",
+      "notes": "Genitive of the agent — the fruits accrue 'to/of' this venerator; not a finite 'I bow'."
+    },
+    {
+      "token": "સંપુન્ન",
+      "translit": "saṁpunna",
+      "gloss": "full, complete, whole",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit saṁpunna < Skt. sampūrṇa; first member of the compound saṁpunna-canda-vayaṇa.",
+      "notes": "Qualifies canda: the unwaning full moon."
+    },
+    {
+      "token": "ચંદ",
+      "translit": "canda",
+      "gloss": "moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit canda < Skt. candra; middle member of the bahuvrīhi 'full-moon-faced'.",
+      "notes": ""
+    },
+    {
+      "token": "વયણસ્સ",
+      "translit": "vayaṇassa",
+      "gloss": "of (whose) face / countenance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vayaṇa < Skt. vadana 'face'; genitive singular -ssa, agreeing with ajia-saṁtissa.",
+      "notes": "saṁpunna-canda-vayaṇassa = 'of the one whose face is the full moon' — a bahuvrīhi epithet of the Jinas."
+    },
+    {
+      "token": "કિત્તણં",
+      "translit": "kittaṇaṁ",
+      "gloss": "praising, eulogy, sung glorification (kīrtana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kittaṇa < Skt. kīrtana, from √kīrt 'to proclaim, extol'; neuter nominative singular.",
+      "notes": "The verbal act of praise that is itself the cause of the stated fruits."
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita (Ajitanātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajia < Skt. ajita; first member of the compound ajia-saṁti.",
+      "notes": "Half of the hymn's signature double name."
+    },
+    {
+      "token": "સંતિસ્સ",
+      "translit": "saṁtissa",
+      "gloss": "of Śānti (Śāntinātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit saṁti < Skt. śānti; genitive singular -ssa, governing kittaṇaṁ ('praise of Ajita-Śānti').",
+      "notes": "Genitive binds the whole epithet-cluster: 'the praise of full-moon-faced Ajita-and-Śānti'."
+    }
+  ],
+  "literalTranslation": "All sin subsides, merit increases, of the one venerating — [namely, by] the praise of Ajita-and-Śānti, whose face is the full moon.",
+  "idiomaticTranslation": "For whoever bows in homage — chanting the eulogy of Ajita and Śānti, those two whose faces shine like the unwaning full moon — every sin is stilled and merit only swells.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is a compact phala-stuti (statement of fruits) couplet near the hymn's close, and it works by a tight antithesis: sin is the subject of one verb, merit of the other. 'savvaṁ pasamai pāvaṁ' — all sin praśāmyati, is quenched — is balanced by 'punnaṁ vaḍḍhai' — merit vardhate, grows. The two movements (subtraction of pāpa, accretion of puṇya) are the complete arithmetic of devotional benefit. The poet's choice of pasamai (√śam) is not casual: it is the very root of Śānti, so the line enacts what it names — praising Śānti produces śama, pacification. The genitive 'namaṁsamāṇassa' fixes the beneficiary: not the Jinas, who need nothing, but the venerator who bows. The second pāda supplies the object of that homage through a single luminous epithet, 'saṁpunna-canda-vayaṇassa' — 'whose face is the full (unwaning) moon' — here applied jointly to Ajita and Śānti and governed by the genitive 'saṁtissa'. The full-moon face is the hymn's gentleness motif (saumya) crystallised into one image: a countenance that is cool, complete, and flawless. Crucially, the act credited with the fruit is 'kittaṇaṁ' — kīrtana, verbal praise itself — so the verse certifies the worth of the very recitation the devotee is performing as they reach this line.",
+    "doctrinalContext": "The couplet rests on the Jain doctrine of two karmic streams — pāpa (demerit) and puṇya (merit) — and speaks in the lay devotional register where bhakti decreases the former and accrues the latter. A practitioner should hold the nuance that, on the higher analysis, even puṇya is auspicious bondage (a golden fetter) rather than liberation itself; the phala-stuti here addresses the reciter's proximate, legitimate aspiration, not the final goal of nirjarā. The verb pra-√śam also names upaśama — the calming of the passions (kaṣāya) — so the 'subsiding' of sin is psychologically, not merely transactionally, framed: praise stills the inner agitation that generates pāpa.",
+    "practicalRelevance": "Arriving here, the reciter is told the dividend of the whole stava in one breath — bow, praise, and your sins quiet while your merit grows. Recite it as an act of intention (bhāva): let the word pasamai settle the mind into śama even as it is chanted, treating the kīrtana not as a means to a reward but as the calming itself.",
+    "crossReferences": [
+      {
+        "text": "Phala-stuti of vv.38–39 (the hymn destroys disease) — same benefit-declaration register",
+        "source": "Ajitaśānti Stava, Nandiṣeṇasūri (Anchalgachchha/Vidhipaksha Panch Pratikraman ed.)"
+      },
+      {
+        "text": "Appended maṅgala 'Upasargāḥ kṣayaṁ yānti…' — sin/affliction-removal motif sealing the recitation",
+        "source": "Sanskrit maṅgala stanzas (vv.43–46), recitation tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hargovind Das T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), Digital Dictionaries of South Asia",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit equivalents of pasamai (pra-√śam), vaḍḍhai (√vṛdh), punna (puṇya), pāva (pāpa), kittaṇa (kīrtana)."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams etc.), University of Cologne",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/derivations: pra-√śam (praśāmyati), √vṛdh (vardhate), √kīrt (kīrtana), namasya-, sampūrṇa, vadana, candra."
+    },
+    {
+      "title": "Jain eLibrary / stotra anthologies (Ajitaśānti Stava recensions and attribution)",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Verification of the verse's phala-stuti function within the Ajitaśānti Stava and the ajia-saṁti double-name convention."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Orthography preserved verbatim from the book (પુન્નં doubled -nn-, વઢ્ઢઇ conjunct ḍḍh, સંતિસ્સ genitive). 'namaṁsamāṇassa' is read as a Prakrit present participle in -māṇa (denominative namasya-) in the genitive of the benefiting agent; some recensions/glossing read the line's genitives as a single string ('of the venerator [who utters] the praise of full-moon-faced Ajita-Śānti'), which does not change the sense. 'saṁpunna-canda-vayaṇa' is taken as a bahuvrīhi ('full-moon-faced') jointly qualifying both Jinas; minor pāṭhāntara (variant) spacing/spelling may occur across editions. The pra-√śam / Śānti wordplay is interpretive but well grounded in the shared root."
+}

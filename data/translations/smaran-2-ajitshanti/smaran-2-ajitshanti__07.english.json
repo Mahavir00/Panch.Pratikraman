@@ -1,0 +1,272 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Ajita is beyond all liking and disliking, beyond old age and death, worshipped by gods and demons alike — and I too bow to him forever as my fearless refuge.",
+  "recitation": "arai-rai-timira-virahiya muvaraya-jara-maraṇaṁ, sura-asura-garula-bhuyaga-vai-payaya-paṇivaiyaṁ, ajiyaṁ ahaṁ pi ya sunaya-naya-niuṇam-abhayakaraṁ, saraṇam-uvasariya bhuvi divija-mahiyaṁ sayayam-uvaṇame.",
+  "wordByWord": [
+    {
+      "token": "અરઇ",
+      "translit": "arai",
+      "gloss": "aversion, displeasure (one pole of rāga-dveṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. arati, 'discontent, dislike'.",
+      "notes": "Paired with the next word as the two poles the vītarāga has transcended."
+    },
+    {
+      "token": "રઇ",
+      "translit": "rai",
+      "gloss": "delight, attachment (the opposite pole)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. rati, 'pleasure, fondness'.",
+      "notes": ""
+    },
+    {
+      "token": "તિમિર",
+      "translit": "timira",
+      "gloss": "darkness — here the gloom cast by liking-and-disliking",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. timira, 'gloom, ocular darkness'.",
+      "notes": ""
+    },
+    {
+      "token": "વિરહિઅ",
+      "translit": "virahia",
+      "gloss": "free from, devoid of",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. virahita, past part. of vi-√rah, 'to be parted from'.",
+      "notes": "Governs the preceding 'arai-rai-timira': free of the darkness of attraction/aversion."
+    },
+    {
+      "token": "મુવરય",
+      "translit": "muvaraya",
+      "gloss": "ceased, withdrawn (uparata)",
+      "partOfSpeech": "adj",
+      "etymology": "Sandhi m + uvaraya < Skt. uparata, past part. of upa-√ram, 'to cease'.",
+      "notes": "The initial m- is a euphonic hiatus-bridging consonant common in this hymn's compounds."
+    },
+    {
+      "token": "જર",
+      "translit": "jara",
+      "gloss": "old age",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. jarā.",
+      "notes": ""
+    },
+    {
+      "token": "મરણં",
+      "translit": "maraṇaṁ",
+      "gloss": "death (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. maraṇa, from √mṛ, 'to die'.",
+      "notes": "'muvaraya-jara-maraṇaṁ' = '[he] in whom old-age and death have ceased.'"
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. sura, 'deity'.",
+      "notes": ""
+    },
+    {
+      "token": "અસુર",
+      "translit": "asura",
+      "gloss": "asuras, anti-gods",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. asura.",
+      "notes": ""
+    },
+    {
+      "token": "ગરુલ",
+      "translit": "garula",
+      "gloss": "garuḍa, the divine eagle-being",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. garula < Skt. garuḍa.",
+      "notes": ""
+    },
+    {
+      "token": "ભુયગવઇ",
+      "translit": "bhuyagavai",
+      "gloss": "lords of serpents (bhujaga-pati)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. bhujaga ('serpent, snake') + pati ('lord'); Pkt. vai = pati.",
+      "notes": "Caps the list: the chiefs of gods, asuras, garuḍas and nāgas."
+    },
+    {
+      "token": "પયય",
+      "translit": "payaya",
+      "gloss": "devoutly, with reverent self-restraint",
+      "partOfSpeech": "adverb",
+      "etymology": "< Skt. prayata, 'self-controlled, pious, intent'.",
+      "notes": "Modifies the act of bowing in the next word."
+    },
+    {
+      "token": "પણિવઇયં",
+      "translit": "paṇivaiyaṁ",
+      "gloss": "bowed down to, reverently saluted (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. praṇipatita, past part. of pra-ṇi-√pat, 'to fall down before'.",
+      "notes": "'...vai-payaya-paṇivaiyaṁ' = 'reverently bowed to by the lords of [gods, asuras, garuḍas, serpents].'"
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita (the unconquered; 2nd Tīrthaṅkara) — accusative object of the bow",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. ajia < Skt. ajita, 'unconquered'.",
+      "notes": "Per the hymn's alternation, v.7 hymns Ajita (v.8 turns to Śānti)."
+    },
+    {
+      "token": "મહમવિય",
+      "translit": "m-ahaṁ-vi-ya",
+      "gloss": "and I too",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sandhi cluster: connective m + ahaṁ ('I') + vi (Pkt. = Skt. api, 'too') + ya (Pkt. = Skt. ca, 'and').",
+      "notes": "The pivotal 'ajiyaṁ ahaṁ pi ya' — the reciter joins the cosmic assembly that bows."
+    },
+    {
+      "token": "સુનય",
+      "translit": "sunaya",
+      "gloss": "sound guidance / right conduct (su-naya)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. su ('good') + naya ('leading, polity, method').",
+      "notes": "Read with the following two words as a single epithet of Ajita."
+    },
+    {
+      "token": "નય",
+      "translit": "naya",
+      "gloss": "naya — standpoint, valid method of viewing reality",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. naya, from √nī, 'to lead'.",
+      "notes": "Resonates with the Jain naya / anekānta doctrine."
+    },
+    {
+      "token": "નિઉણ",
+      "translit": "niuṇa",
+      "gloss": "skilled, expert, consummate",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. niuṇa < Skt. nipuṇa, 'clever, proficient'.",
+      "notes": "'sunaya-naya-niuṇa' = expert in right conduct and the nayas."
+    },
+    {
+      "token": "મભયકરં",
+      "translit": "m-abhayakaraṁ",
+      "gloss": "giver of fearlessness (abhaya-kara), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi m + abhaya ('safety') + kara ('maker'); < Skt. abhaya-kara.",
+      "notes": "Picks up 'abhayakare' / 'abhaya' from the preceding refuge-verse (v.6)."
+    },
+    {
+      "token": "સરણ",
+      "translit": "saraṇa",
+      "gloss": "refuge, shelter",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saraṇa < Skt. śaraṇa.",
+      "notes": ""
+    },
+    {
+      "token": "મુવસરિઅ",
+      "translit": "m-uvasaria",
+      "gloss": "having drawn near, having approached (for refuge)",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi m + uvasaria < Skt. upasṛtya/upasṛta, from upa-√sṛ, 'to approach'.",
+      "notes": "Absolutive sense: 'having come for refuge.' The m- is the bridging consonant."
+    },
+    {
+      "token": "ભુવિ",
+      "translit": "bhuvi",
+      "gloss": "on the earth (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. bhū, 'earth'; locative bhuvi.",
+      "notes": "Contrasts with 'divija' (the heaven-born) in the next phrase."
+    },
+    {
+      "token": "દિવિજ્જ",
+      "translit": "divijja",
+      "gloss": "the heaven-born, i.e. the gods (divi-ja)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. divi ('in heaven', loc.) + ja ('born') = divija.",
+      "notes": ""
+    },
+    {
+      "token": "મહિયં",
+      "translit": "mahiyaṁ",
+      "gloss": "worshipped, honoured (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. mahita, past part. of √mah, 'to honour'.",
+      "notes": "'bhuvi divija-mahiyaṁ' = worshipped on earth and by the heaven-born."
+    },
+    {
+      "token": "સયય",
+      "translit": "sayaya",
+      "gloss": "continually, always",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. sayaya < Skt. satata, 'constant'.",
+      "notes": ""
+    },
+    {
+      "token": "મુવણમે",
+      "translit": "m-uvaṇame",
+      "gloss": "I bow down (to him)",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi m + uvaṇame < Skt. upanamāmi, 1st sg. of upa-√nam, 'to bow toward'.",
+      "notes": "Main finite verb of the verse, paired with 'ahaṁ pi ya' (I too)."
+    }
+  ],
+  "literalTranslation": "To Ajita — free from the darkness of aversion and attachment, in whom old age and death have ceased, reverently bowed to by the lords of gods, asuras, garuḍas and serpents; the bestower of fearlessness, expert in right conduct and the nayas; worshipped on earth and by the heaven-born — I too, having drawn near for refuge, bow continually.",
+  "idiomaticTranslation": "Ajita stands beyond the twin gloom of liking and loathing, beyond old age and death; the chiefs of gods and demons, of garuḍas and serpents, bow before him in devotion. Master of right conduct and every standpoint, he hands fearlessness to all who come. Honoured on earth and in heaven alike — to him I too have come for refuge, and to him I bow, now and always.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.6 issued the imperative 'take refuge' (saraṇaṁ pavajjaha), v.7 enacts it: the reciter steps forward — ahaṁ pi ya, 'I too' — and names Ajita as that refuge, joining the very lords of gods, asuras, garuḍas and serpents who already bow. The 'too' is the verse's hinge: devotion is no solitary act but enrollment in a cosmic congregation. Ajita is praised first by negation (the apophatic mode dear to vītarāga-stuti): he is free of the timira, the 'darkness,' of arai-rai — aversion and attraction, the paired engine of rāga-dveṣa — and free of jarā-maraṇa, having stepped outside the wheel of birth and death. Then by positive epithet: sunaya-naya-niuṇa, 'expert in right conduct and the nayas,' and abhayakara, 'giver of fearlessness.' The two halves cohere — only one who has extinguished his own likes and dislikes can confer the safety others crave. The closing bhuvi… divija-mahiyaṁ ('worshipped on earth and in heaven') frames Ajita as venerated across both realms, while sayaya-uvaṇame ('I bow continually') turns a single salutation into a standing posture of the heart. Notice the sustained accusative chain: every epithet hangs on ajiyaṁ, so the whole stanza is one long, breathless act of bowing.",
+    "doctrinalContext": "The verse compresses core Jain soteriology. Arai-rai names rāga and dveṣa, the root passions whose severance defines vītarāgatā; their 'darkness' lifted, omniscient clarity remains. 'Old age and death ceased' points past mere longevity to mokṣa — escape from saṁsāra's recurrence. Sunaya-naya-niuṇa quietly invokes the naya doctrine: the Jina's perfect knowledge expresses itself through valid partial standpoints (anekānta), so calling him 'skilled in the nayas' praises both his conduct and his epistemic perfection. Abhaya — the gift of fearlessness — is, in Jain ethics, the highest dāna, the natural overflow of a being who threatens no one and fears nothing.",
+    "practicalRelevance": "Reciting v.7, the practitioner is invited to do what the gods do — set down, for the duration of the bow, their own arai-rai, the day's small likings and loathings, and rest in the equanimity the Jina embodies. The 'I too' makes the hymn personal: the reciter is not merely describing Ajita but enlisting under his refuge, asking that the same fearlessness steady their own heart.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 6.5 (rāga-dveṣa as drivers of karmic influx); 8.1 on bondage",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Ajitaśānti Stava v.6 — 'abhayakare saraṇaṁ pavajjaha' (the refuge this verse enacts)",
+        "source": "Nandiṣeṇasūri (this hymn)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the parallel act of bowing to the Tīrthaṅkaras",
+        "source": "Āvaśyaka-sūtra tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nipuṇa — definitions (drawing on Cologne Digital Sanskrit lexicons)",
+      "url": "https://www.wisdomlib.org/definition/nipuna",
+      "type": "dictionary",
+      "consultedFor": "Confirming niuṇa < nipuṇa = 'skilled, expert, well-versed'."
+    },
+    {
+      "title": "Abhayakara — definitions (Paia-sadda-mahaṇṇavo / Sheth, via DSAL)",
+      "url": "https://www.wisdomlib.org/definition/abhayakara",
+      "type": "dictionary",
+      "consultedFor": "Confirming abhaya-kara = 'that which brings freedom from fear'; Prakrit attestation."
+    },
+    {
+      "title": "Uparata — definitions (Cologne lexicons; Pali parallels)",
+      "url": "https://www.wisdomlib.org/definition/uparata",
+      "type": "dictionary",
+      "consultedFor": "Confirming muvaraya < uparata = 'ceased, desisting, withdrawn'."
+    },
+    {
+      "title": "Bhujaga — definitions (Cologne lexicons; Jain/Prakrit entries)",
+      "url": "https://www.wisdomlib.org/definition/bhujaga",
+      "type": "dictionary",
+      "consultedFor": "Confirming bhuyaga < bhujaga = 'serpent, snake' (here bhuyaga-vai = serpent-lords)."
+    },
+    {
+      "title": "Paṅca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)",
+      "url": "",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and its placement as v.7 of Smaraṇa #2 within the Pakkhī pratikramaṇa."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading follows the standard recension 'arai-rai-timira-virahiya-muvaraya-jara-maraṇaṁ … ajiyaṁ ahaṁ pi ya …'; the book's orthography (single/doubled conjuncts, anusvāra) is preserved verbatim and not normalized. 'મહમવિય' is parsed as the sandhi cluster m-ahaṁ-(p)i-ya ('and I too'); a minority of printings/glosses misread 'aham' as part of an epithet — the 'I too' reading is preferred as it supplies the verse's finite subject for 'uvaṇame'. 'પયય' (payaya) is taken as prayata ('reverently, with restraint') qualifying the bowing; some traditions read it adjectivally of the bowers. The recurring word-initial 'm-' in muvaraya / m-abhayakaraṁ / m-uvasaria / m-uvaṇame is a euphonic hiatus-bridging consonant, not a separate morpheme. Per the hymn's Ajita/Śānti alternation, this stanza hymns Ajita; the companion stanza to Śānti follows (v.8)."
+}

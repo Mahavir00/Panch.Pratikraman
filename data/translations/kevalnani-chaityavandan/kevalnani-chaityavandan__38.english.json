@@ -1,0 +1,156 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/38",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The hymn keeps bowing to the Jina by naming more holy temple-towns of western Rajasthan — Bikaner, Medta, Sirohi, the crest of Mount Abu, Ranakpur and Sadri.",
+  "recitation": "Bikāner ne meḍte, sā[mi] ॥ Sirohī ābu-śṛṅga | Rāṇakpur ne sādaḍī, sā[mi]",
+  "wordByWord": [
+    {
+      "token": "બિકાનેર",
+      "translit": "bikāner",
+      "gloss": "Bikaner (the city in north-western Rajasthan, seat of the famous Bhāṇḍāśāha Jina-temple)",
+      "partOfSpeech": "noun",
+      "etymology": "Place name; from the city's eponymous founder Rāo Bīkā (15th c.) + -ner (settlement); treated here as a tīrtha because it houses revered Jina-images.",
+      "notes": "A place name standing by metonymy for its caitya (Jina-temple), the true object of veneration."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Old/Middle Gujarati connective particle ne (joining co-ordinate nouns), from Apabhraṁśa.",
+      "notes": "Simple list-conjunction linking the temple-towns; carries no case force here."
+    },
+    {
+      "token": "મેડતે",
+      "translit": "meḍte",
+      "gloss": "at Medta (Merta, the Marwar town with ancient Jina-shrines)",
+      "partOfSpeech": "noun",
+      "etymology": "Place name Meḍtā / Mertā + locative ending -e ('at, in'); the metrical -e also serves the rhyme.",
+      "notes": "Locative form chosen for metre and the dhāḷa's rhyme-cadence; sense is 'and at Medta too'."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā[mi]",
+      "gloss": "Lord! (refrain — the abbreviated chant-word sāmi / svāmī, repeated after each place-name)",
+      "partOfSpeech": "invocation",
+      "etymology": "Abbreviation (marked by ૦) of the refrain word sāmi, from Sanskrit svāmin ('Lord, master'), i.e. the Jina enshrined at each named tīrtha.",
+      "notes": "The little circle ૦ is the book's abbreviation sign; the singers supply the full refrain heard from the dhāḷa's opening line. It turns each town-name into an address of homage to its Lord."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "(double bar — sung pause dividing the line's two halves)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa / praising-bar punctuation, part of the printed text per the book's orthography.",
+      "notes": "Not spoken; marks the caesura between the two pada-halves of the gāthā."
+    },
+    {
+      "token": "સીરોહી",
+      "translit": "sirohī",
+      "gloss": "Sirohi (the southern-Rajasthan town, gateway to the Abu shrines)",
+      "partOfSpeech": "noun",
+      "etymology": "Place name Sirohī; the seat of a princely state long associated with Śvetāmbara Jina-temples.",
+      "notes": "Paired naturally with Abu, which lies in the Sirohi region."
+    },
+    {
+      "token": "આબુશૃંગ",
+      "translit": "ābu-śṛṅga",
+      "gloss": "the peak of (Mount) Abu (i.e. the marble Dilvāḍā Jina-temples on its crest)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa compound: Ābu (Mount Abu) + śṛṅga (Sanskrit 'peak, crest, horn'); 'the summit of Abu'.",
+      "notes": "Naming the śṛṅga, not just the town, evokes the celebrated hilltop Dilvāḍā shrines specifically."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "(single bar — sung pause closing the first line)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa punctuation, preserved verbatim from the book.",
+      "notes": "Marks the end of the first gāthā-line before the next pair of towns."
+    },
+    {
+      "token": "રાણકપુર",
+      "translit": "rāṇakpur",
+      "gloss": "Ranakpur (the great Caturmukha Ādinātha temple of 1,444 pillars)",
+      "partOfSpeech": "noun",
+      "etymology": "Place name Rāṇakpur, 'town of the Rāṇā', named after Rāṇā Kumbha, in whose reign Dharaṇā Śāha built the temple (15th c.).",
+      "notes": "One of the most celebrated Śvetāmbara tīrthas; its mere name carries great devotional weight."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Old/Middle Gujarati connective ne (see above).",
+      "notes": "Joins Ranakpur to its neighbouring shrine-town Sadri."
+    },
+    {
+      "token": "સાદડી",
+      "translit": "sādaḍī",
+      "gloss": "Sadri (Sādaḍī, the temple-town adjoining Ranakpur)",
+      "partOfSpeech": "noun",
+      "etymology": "Place name Sādaḍī / Sādṛī, the settlement at the foot of the Ranakpur valley with its own Pārśvanātha shrines.",
+      "notes": "Fittingly paired with Ranakpur, which it abuts; the rhyme -ḍī / -te knits the verse."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā[mi]",
+      "gloss": "Lord! (the closing refrain again — homage to the Jina of these tīrthas)",
+      "partOfSpeech": "invocation",
+      "etymology": "Same abbreviated refrain sāmi (< svāmin) as above, sealing the second line.",
+      "notes": "Its recurrence makes the whole verse a rhythmic litany of 'Lord… Lord…' over each named shrine."
+    }
+  ],
+  "literalTranslation": "Bikaner and at Medta — Lord! ; Sirohi, the peak of Abu; Ranakpur and Sadri — Lord!",
+  "idiomaticTranslation": "I bow at Bikaner and Medta — O Lord! — at Sirohi and on the crest of Mount Abu, at Ranakpur and Sadri — O Lord!",
+  "elaboration": {
+    "verseByVerseCommentary": "This couplet continues the dhāḷa-8 garland of earthly shrines, but with a clear geographic turn: where the preceding verse roamed the north and east (Soripur, Hastināpur, Alwar, Pirojpur), this verse settles firmly into Marwar and southern Rajasthan, the Śvetāmbara heartland nearest the poet's own Vidhipakṣa world. The six names are not random: Bikaner (Bhāṇḍāśāha), Medta and Sirohi are flourishing temple-towns, while Ābu-śṛṅga and Ranakpur name the two supreme marble masterpieces of the region — and the pairing of Ranakpur with adjoining Sadri shows the poet listing a tīrtha together with its satellite shrine. The single compound ābu-śṛṅga is the verse's finest stroke: by naming the 'peak' rather than merely the town, Mūlā lifts the reciter's eye to the hilltop Dilvāḍā temples crowning the mountain. The abbreviated refrain સા૦ (sāmi, 'Lord') after each half turns the bare list into call-and-response devotion — every place-name is completed by an address to the Jina who dwells there, so the worshipper is not reciting a gazetteer but bowing, town by town, to the same Lord present in each. The following verse will carry the journey onward to Bhinnamāl, Kotaḍā, Bāhaḍmer and Rāyadhaṇpur, keeping the westward sweep intact.",
+    "doctrinalContext": "The verse enacts tīrtha-bhakti as an extension of caitya-vandana: bowing to the Jina through his images and temples (caitya). Naming a place is, doctrinally, bowing to the sthāpanā-nikṣepa — the Jina established in image and shrine — so that the distant Ādinātha of Ranakpur or the Jinas of Abu become present to the reciter's mind. The refrain sāmi ('Lord') makes the principle explicit: the towns are venerable only because the svāmin, the Jina, abides in their caityas; reverence rests on the Tīrthaṅkara, not on stone or geography. Mentally circling these earthly tīrthas strengthens samyaktva (right faith) by binding the worshipper to the living network of Jina-worship.",
+    "practicalRelevance": "A reciter today can let each name surface an actual shrine he has seen or hopes to see — picturing the Ranakpur pillars or the Abu marble — and answer each with the inward refrain 'Lord!', converting a list into a real mānasika (mental) pilgrimage when bodily travel is impossible. It is an invitation to mark one's own region's shrines into this same litany of homage.",
+    "crossReferences": [
+      {
+        "text": "Dhāḷa 8 tīrthamālā, adjacent verses (Soripur–Hastiṇāur; Bhinnamāl–Kotaḍe)",
+        "source": "Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā (108 tīrthas)",
+        "source": "Mahendrasinhasūri, in the Pakkhī pratikramaṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ranakpur Jain temple",
+      "url": "https://en.wikipedia.org/wiki/Ranakpur_Jain_temple",
+      "type": "scholarship",
+      "consultedFor": "Identity of Ranakpur (Caturmukha Dharaṇa-vihāra, Ādinātha) and adjoining Sadri in Pali district."
+    },
+    {
+      "title": "Dilwara Temples (Mount Abu)",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples",
+      "type": "scholarship",
+      "consultedFor": "Verifying ābu-śṛṅga as the hilltop Śvetāmbara marble Jina-temples of Mount Abu."
+    },
+    {
+      "title": "Merta, Rajasthan",
+      "url": "https://en.wikipedia.org/wiki/Merta_City",
+      "type": "scholarship",
+      "consultedFor": "Identifying મેડતે / Medta with Merta in the Marwar (Nagaur) region and its Jain shrines."
+    },
+    {
+      "title": "Sirohi",
+      "url": "https://en.wikipedia.org/wiki/Sirohi",
+      "type": "scholarship",
+      "consultedFor": "Locating Sirohi as the southern-Rajasthan district adjoining Mount Abu with Śvetāmbara temples."
+    },
+    {
+      "title": "Shringa, Śṛṅga — definitions",
+      "url": "https://www.wisdomlib.org/definition/shringa",
+      "type": "dictionary",
+      "consultedFor": "Glossing śṛṅga as 'peak, crest, horn' in the compound ābu-śṛṅga."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The place-name list is unambiguous; readings preserved verbatim per the book (મેડતે locative, સાદડી for Sadri/Sādṛī). The refrain સા૦ is an abbreviation marked by the circle ૦; it is expanded here as sāmi (< svāmin, 'Lord'), the standard sung refrain of such Gujarati tīrthamālā dhāḷas, supplied in full from the dhāḷa's opening line — the precise expansion rests on genre convention and is marked '[mi]' to flag the editorial completion. Punctuation bars ॥ and । are retained as printed. Identifications (Bikaner = Bhāṇḍāśāha town; Ranakpur = Ādinātha; ābu-śṛṅga = Dilvāḍā crest) are secure; the specific named shrine intended at each smaller town (Medta, Sirohi, Sadri) is not specified by the verse and is left general."
+}

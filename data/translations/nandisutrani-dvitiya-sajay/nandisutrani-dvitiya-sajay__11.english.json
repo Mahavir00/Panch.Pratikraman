@@ -1,0 +1,170 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May the teaching-lineage of the great teacher named Revatī-nakṣatra — pure as gold and shining with wisdom — flourish for ever.",
+  "recitation": "jaccaṁ jaṇadhāu-sama-pahāṇa-maïya-kuvalaya-nihāṇaṁ, vakkau vāyaga-vaṁso revaï-nakkhatta-nāmāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "જચ્ચં",
+      "translit": "jaccaṁ",
+      "gloss": "genuine, of true/noble quality (here qualifying the gold)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt jacca < Skt jātya (जात्य) 'high-born, of the best kind, unalloyed'.",
+      "notes": "Read closely with the following word: 'genuine native gold'."
+    },
+    {
+      "token": "જણધાઉ",
+      "translit": "jaṇadhāu",
+      "gloss": "native metal, pure gold",
+      "partOfSpeech": "compound",
+      "etymology": "jaṇa (Skt jāta-rūpa, 'gold') + dhāu (Skt dhātu, 'metal, ore').",
+      "notes": "jaccaṁ + jaṇadhāu together = 'true-born / unalloyed gold', the standard purity-simile of the lineage hymn."
+    },
+    {
+      "token": "સમ",
+      "translit": "sama",
+      "gloss": "like, equal to, resembling",
+      "partOfSpeech": "adj",
+      "etymology": "Skt sama (सम) 'equal, similar'.",
+      "notes": ""
+    },
+    {
+      "token": "પ્યહાણ",
+      "translit": "pyahāṇa",
+      "gloss": "foremost, pre-eminent, surpassing",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt pahāṇa < Skt pradhāna (प्रधान) 'chief, principal'.",
+      "notes": "Compound 'sama-pahāṇa' = 'pre-eminent as (pure gold)'; book spells the token પ્યહાણ verbatim."
+    },
+    {
+      "token": "મદિય",
+      "translit": "madiya",
+      "gloss": "of the intellect, mental (mati-)",
+      "partOfSpeech": "compound",
+      "etymology": "mai / mati (Skt mati, मति 'intellect, understanding') + -ya.",
+      "notes": "Joins with kuvalaya to give 'mati-kuvalaya', the blue-lotus that is the intellect."
+    },
+    {
+      "token": "કુવલય",
+      "translit": "kuvalaya",
+      "gloss": "blue water-lily, blue lotus — here a metaphor for luminous intellect",
+      "partOfSpeech": "noun",
+      "etymology": "Skt kuvalaya (कुवलय) 'blue lotus, Nymphaea'.",
+      "notes": "The lotus that blooms is the conventional image for an awakened, flowering mind."
+    },
+    {
+      "token": "નિહાણં",
+      "translit": "nihāṇaṁ",
+      "gloss": "treasure, treasure-house, repository",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt nihāṇa < Skt nidhāna (निधान) 'receptacle, treasure, store'.",
+      "notes": "'mati-kuvalaya-nihāṇaṁ' = 'a treasury in whom the lotus of intellect is laid up'."
+    },
+    {
+      "token": "વક્કઉ",
+      "translit": "vakkau",
+      "gloss": "may it flourish / prosper (benedictive optative)",
+      "partOfSpeech": "verb",
+      "etymology": "3rd-sg. optative; functions in parallel with vaḍḍhau (Skt vardhatām, 'may it increase') of the preceding gāthā.",
+      "notes": "The exact form વક્કઉ is unusual; see verse-level notes for the variant-reading caveat."
+    },
+    {
+      "token": "વાયગ",
+      "translit": "vāyaga",
+      "gloss": "vācaka (an ācārya authorized to recite/expound scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vāyaga < Skt vācaka (वाचक) 'speaker, reciter'.",
+      "notes": "Glossary term from the preface; used here in the compound vāyaga-vaṁso."
+    },
+    {
+      "token": "વંસો",
+      "translit": "vaṁso",
+      "gloss": "lineage, line of succession",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vaṁsa < Skt vaṁśa (वंश) 'family-line, bamboo, lineage'.",
+      "notes": "vāyaga-vaṁso = the reciter-lineage, the recurring subject of vv.9–11."
+    },
+    {
+      "token": "રેવઇ",
+      "translit": "revaï",
+      "gloss": "Revatī (the asterism whose name the teacher bears)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt revatī (रेवती), the last of the 27 nakṣatras.",
+      "notes": "Here the first member of the personal name Revatī-nakṣatra."
+    },
+    {
+      "token": "નક્ખત્ત",
+      "translit": "nakkhatta",
+      "gloss": "nakṣatra (lunar asterism); second member of the teacher's name",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt nakkhatta < Skt nakṣatra (नक्षत्र) 'star, asterism'.",
+      "notes": "revaï-nakkhatta = the ācārya 'Revatī-nakṣatra'."
+    },
+    {
+      "token": "નામાણં",
+      "translit": "nāmāṇaṁ",
+      "gloss": "named, by name; of the one whose name is",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt < Skt nāman (नामन्) 'name'; genitive force, 'of [him] named'.",
+      "notes": "Construes with vaṁso: 'the lineage of the one named Revatī-nakṣatra'."
+    }
+  ],
+  "literalTranslation": "Genuine — like pure native gold — pre-eminent, a treasure-house of the blue-lotus of intellect: may the vācaka-lineage of the one named Revatī-nakṣatra flourish.",
+  "idiomaticTranslation": "Pure as true-born gold, surpassing and pre-eminent, a treasury in whom the lotus of wisdom is laid up — may the reciter-lineage of the ācārya named Revatī-nakṣatra ever flourish!",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā completes the couplet begun in the previous verse. Verse 10 invoked 'may the vācaka-vaṁśa flourish' for the line of Ārya Nāgahastī; verse 11 carries the very same benediction forward to a second guardian of that reciter-line, the ācārya whose name is Revatī-nakṣatra. The repetition of vāyaga-vaṁso (...flourish) is deliberate: the two teachers are praised as a paired hinge of the Kālika-anuyoga's transmission. The verse adorns this teacher with two compact similes drawn from the hymn's stock of purity-images, but applies them pointedly to him. First, jaccaṁ jaṇadhāu-sama-pahāṇa — he is 'pre-eminent as genuine, unalloyed gold': his conduct and doctrine are without the slightest base alloy, and like gold his worth only brightens with testing. Second, maïya-kuvalaya-nihāṇaṁ — he is a 'treasure-house of the blue-lotus of intellect': his mind is both the lotus that blooms in clarity and the casket that safely stores it, so that the canon entrusted to him neither dims nor is lost. The benedictive verb (vakkau, paralleling vaḍḍhau) turns the act of vandanā into a living wish — the reciter does not merely remember this master but prays that the chain descending from him keep growing. Naming a teacher by a nakṣatra is itself characteristic of the early paṭṭāvalī, where asterism-names (Revatī-nakṣatra) sit beside gotra-markers as the lineage's identifying tags.",
+    "doctrinalContext": "The verse-specific point is the theology of unbroken transmission (vācaka-vaṁśa / paṭṭa-paramparā): the canon is 'kālika-śruta', oral teaching guarded by authorized reciters, so the survival of the teaching is identical with the survival of the line of reciters — hence the worshipper blesses the lineage, not merely the man. The two similes encode two Jain virtues required of such a guardian: gold for niravadya (faultless, alloy-free) conduct, and the kuvalaya-of-intellect for the cultivated mati-jñāna (the first of the five jñānas the Nandī will enumerate) by which the śruta is rightly held and expounded. Calling the teacher a nihāṇaṁ (repository) anticipates the later jewel-casket image used of Ārya Rakṣita: the ideal ācārya is valued precisely as a safe vessel for the anuyoga.",
+    "practicalRelevance": "Chanting this verse, the reciter performs gratitude as blessing — wishing continuance, not just honouring the past. It models two aspirations to carry into one's own study: purity 'like gold' (integrity that withstands testing) and a 'blooming lotus' intellect (wisdom kept luminous and shared, not hoarded). It is a reminder that one preserves the teaching by becoming a trustworthy link in it.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī — preceding gāthā: 'vaḍḍhau vāyaga-vaṁso jasa vaṁso ajja-nāga-hatthīṇaṁ' (v.10, naming Ārya Nāgahastī)",
+        "source": "Nandī Sūtra (Devarddhigaṇi Kṣamāśramaṇa redaction)"
+      },
+      {
+        "text": "Nandī Sūtra five-jñāna enumeration (mati / abhinibodhika foremost) developed after the Sthavirāvalī closes (v.27)",
+        "source": "Nandī Sūtra, Valabhī recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jātya — Wisdom Library (Sanskrit/Jainism definitions)",
+      "url": "https://www.wisdomlib.org/definition/jatya",
+      "type": "dictionary",
+      "consultedFor": "Sense of jaccaṁ / jātya as 'genuine, of the best/unalloyed kind' qualifying gold."
+    },
+    {
+      "title": "Nidhāna / Niddhana — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/niddhana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of nihāṇaṁ < nidhāna as 'treasure, receptacle, store'."
+    },
+    {
+      "title": "Kuvalaya — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/kuvalaya",
+      "type": "dictionary",
+      "consultedFor": "Kuvalaya as 'blue lotus/water-lily' and its metaphorical use."
+    },
+    {
+      "title": "Vācaka — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/vacaka",
+      "type": "dictionary",
+      "consultedFor": "Vāyaga / vācaka as 'reciter, expounder' (vācaka-vaṁśa)."
+    },
+    {
+      "title": "Nakṣatra — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/nakshatra",
+      "type": "dictionary",
+      "consultedFor": "Nakkhatta / nakṣatra as 'lunar asterism', and Revatī as an asterism-name."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)",
+      "url": "https://data.book/panch-pratikraman.full.md",
+      "type": "commentary",
+      "consultedFor": "Verbatim verse text and placement of the Dvitīya Nandī Sajjhāy in the Pakkhī study-portion (internal corpus path, not a public link)."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Verse-specific caveats: (1) The verb form વક્કઉ (vakkau) is unusual; it is read here as a benedictive optative 'may it flourish', parallel to vaḍḍhau (vardhatām) in the preceding gāthā — some recensions of this Sthavirāvalī read vaḍḍhau or vandāmi in this slot, so the reading should be treated as the book's and flagged. (2) The compound જણધાઉ (jaṇadhāu) is parsed as jāta-rūpa-dhātu = 'native/pure gold'; an alternative split is possible but the gold-simile is secure from sama-pahāṇa. (3) The identification of 'Revatī-nakṣatra' as a specific historical ācārya paired with Nāgahastī in the vācaka-vaṁśa is traditional (per the sutra preface's structure-arc), not firmly dated history. (4) The book is treated as the golden source; every mātrā, anusvāra and conjunct of the token column is preserved verbatim and not normalized."
+}

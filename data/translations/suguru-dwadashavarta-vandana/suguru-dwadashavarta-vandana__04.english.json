@@ -1,0 +1,64 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the disciple gently asks the teacher, \"And is your spiritual practice going well?\"",
+  "recitation": "jattā bhe?",
+  "wordByWord": [
+    {
+      "token": "જત્તા",
+      "translit": "jattā",
+      "gloss": "spiritual 'journey' — the guru's continued ascetic restraint and endeavour (yātrā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jattā < Sanskrit yātrā ('going, journey, course'), from the root √yā 'to go, proceed'; the conjunct -tr- assimilates to -tt- in Prakrit",
+      "notes": "Not literal travel here but the ongoing 'journey' of tapas (austerity), niyama (observance) and saṁyama (self-restraint) — the steady upkeep of the ascetic's conduct. The homonym jattā = 'matted hair' (< jaṭā) is irrelevant in this register."
+    },
+    {
+      "token": "ભે",
+      "translit": "bhe",
+      "gloss": "to you / your (honorific)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit enclitic bhe, second-person honorific genitive/dative (≈ Sanskrit vaḥ / te), 'of you, to you'",
+      "notes": "A respectful address to the guru, recurring as the connective courtesy across the well-being questions (vv. 3–5). The verb of being ('is it well-sustained?') is elided, as is idiomatic in these clipped inquiry-formulae."
+    }
+  ],
+  "literalTranslation": "Your spiritual endeavour (yātrā) — [is it well] for you?",
+  "idiomaticTranslation": "And your ascetic practice — your austerity, restraint and observance — is it being well sustained, revered one?",
+  "elaboration": {
+    "verseByVerseCommentary": "After inquiring (in the preceding unit) whether the guru's day has passed in comfort with little bodily fatigue, the disciple now turns from the body to the conduct. The whole inquiry is compressed into a single noun: jattā. Etymologically a 'journey' (yātrā), the word is lifted from physical travel to name the guru's spiritual course — the daily 'going forward' of tapas, niyama and saṁyama that constitutes ascetic life. The clipped phrasing — bare noun, honorific bhe, and an unspoken verb of well-being — is deliberate: it is a courtesy half-spoken, completed by the choreography rather than by grammar. The spaced syllables of the source (જ — ત્તા — ભે) mark where an āvarta turning of the joined hands falls, so the word is as much enacted as uttered. Notice the careful sequencing of concern: first the guru's comfort, here the welfare of his discipline, and next (javaṇijjaṁ ca bhe?) the sustaining of body and senses. This middle question is the spiritual heart of the triad — it asks not 'are you at ease?' but 'is your striving unbroken?', valuing the teacher's sādhanā above his mere physical state.",
+    "doctrinalContext": "Jattā/yātrā here names the lived practice of the threefold ascetic discipline — tapa (austerity), niyama (regulated observance) and saṁyama (restraint of the senses and passions) — the very 'movement' by which a renunciate advances toward liberation. To ask after a guru's yātrā is to treat the integrity of his cāritra (right conduct), not his comfort, as the truest measure of his welfare. The verse thus quietly affirms the Jain valuation of conduct: a being's real condition is the state of their restraint.",
+    "practicalRelevance": "The reciter is trained to care first about a teacher's spiritual steadfastness, not merely their physical ease. Said today, the word invites the practitioner to ask — of the guru and reflexively of oneself — whether the 'journey' of vows and self-discipline is still moving forward unhindered.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Vandanaka (Third Āvaśyaka) — the well-being inquiry 'jattā bhe? javaṇijjaṁ ca bhe?'",
+        "source": "Śvetāmbara Āgama, Āvaśyaka-sūtra with Niryukti tradition"
+      },
+      {
+        "text": "jattā / yātrā glossed as the ascetic's saṁyama-yātrā ('journey of restraint')",
+        "source": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Hindi Dictionary)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899) — entry 'yātrā'",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php?key=yAtrA&dict=MW",
+      "type": "dictionary",
+      "consultedFor": "Root √yā and the senses 'going, journey, course of conduct, maintenance' underlying Prakrit jattā"
+    },
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit Dictionary)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.325511",
+      "type": "dictionary",
+      "consultedFor": "Prakrit gloss of jattā (< yātrā) and the enclitic honorific bhe"
+    },
+    {
+      "title": "Yātrā — collected lexical definitions (incl. Jain usage)",
+      "url": "https://www.wisdomlib.org/definition/yatra",
+      "type": "scholarship",
+      "consultedFor": "Cross-tradition semantic range of yātrā and its devotional/ascetic 'journey' sense"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The 'verse' is a single elliptical inquiry-clause (two tokens, jattā + bhe) with the verb of being suppressed; the spaced syllables in the source (જ — ત્તા — ભે) are not orthographic but mark where an āvarta hand-gesture falls and are preserved as printed. The trailing '?' is editorial punctuation flagging the interrogative, not a lexical token. Reading jattā as yātrā ('spiritual restraint/endeavour') follows the tradition knowledge base and standard Āvaśyaka commentary; the irrelevant homonym jattā 'matted hair' (< jaṭā) is excluded by context. This unit flows directly into the following 'javaṇijjaṁ ca bhe?', which extends the inquiry to bodily/sensory sustenance."
+}

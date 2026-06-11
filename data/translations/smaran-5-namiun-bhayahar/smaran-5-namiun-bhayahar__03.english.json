@@ -1,0 +1,178 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Those same disease-ravaged people, by worshipping your feet, get their health and beauty back — just as mountain trees burnt by a forest fire turn green and lovely once more.",
+  "recitation": "te tuha calaṇa-ārāhaṇa-salilañjali-seya-vuḍḍhi-ucchāhā, vaṇa-dava-daḍḍhā giri-pāyavā vva pattā puṇo vi lacchiṁ.",
+  "wordByWord": [
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "they, those (same afflicted ones of the previous verse)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit te < Skt. te, nom. pl. of tad",
+      "notes": "Anaphoric — points back to the leprosy-stricken sufferers described in v.2."
+    },
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your (i.e. Pārśva's)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tuha < Skt. tava, gen. sg. of tvam",
+      "notes": "Governs calaṇa — 'your feet.'"
+    },
+    {
+      "token": "ચલણારાહણ",
+      "translit": "calaṇārāhaṇa",
+      "gloss": "worship/service of (your) feet",
+      "partOfSpeech": "compound",
+      "etymology": "calaṇa (< Skt. caraṇa, foot) + ārāhaṇa (< Skt. ārādhana, worship, propitiation)",
+      "notes": "First member of the long bahuvrīhi qualifying 'te.'"
+    },
+    {
+      "token": "સલિલંજલિ",
+      "translit": "salilañjali",
+      "gloss": "a cupped-handful (libation) of water",
+      "partOfSpeech": "compound",
+      "etymology": "salila (water) + añjali (joined-palms offering); Skt. salila-añjali",
+      "notes": "The act of feet-worship is figured as pouring an añjali of water at the feet."
+    },
+    {
+      "token": "સેય",
+      "translit": "seya",
+      "gloss": "sprinkling, watering, irrigation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit seya < Skt. seka (sprinkling, watering)",
+      "notes": "The pivotal pun: this 'watering' both irrigates the devotee's zeal and answers the rain that revives the scorched trees. A minority reading takes seya as sveda (sweat of effort); seka fits the water/forest-fire imagery better."
+    },
+    {
+      "token": "વુડ્ઢિ",
+      "translit": "vuḍḍhi",
+      "gloss": "increase, swelling, growth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vuḍḍhi < Skt. vṛddhi",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્છાહા",
+      "translit": "ucchāhā",
+      "gloss": "(having) zeal, fervour, enthusiasm",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ucchāha < Skt. utsāha (zeal, energy)",
+      "notes": "Closes the bahuvrīhi: 'te ... ucchāhā' = those whose zeal is swelled by the watering-libation of worshipping your feet."
+    },
+    {
+      "token": "વણ",
+      "translit": "vaṇa",
+      "gloss": "forest, wood",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaṇa < Skt. vana",
+      "notes": "First member of the simile-compound vaṇa-dava-daḍḍhā."
+    },
+    {
+      "token": "દવદડ્ઢા",
+      "translit": "dava-daḍḍhā",
+      "gloss": "scorched by a wildfire",
+      "partOfSpeech": "compound",
+      "etymology": "dava (< Skt. dava, forest-fire) + daḍḍha (< Skt. dagdha, burnt), nom. pl.",
+      "notes": "Agrees with giri-pāyavā — 'mountain-trees burnt by forest-fire.'"
+    },
+    {
+      "token": "ગિરિપા",
+      "translit": "giri-pā[yavā]",
+      "gloss": "mountain-tree(s)",
+      "partOfSpeech": "compound",
+      "etymology": "giri (mountain) + pāyava (< Skt. pādapa, tree, lit. 'drinking by the foot/root')",
+      "notes": "The source prints a stray space — 'ગિરિપા યવવ્વ' — so this token and the next together read giri-pāyavā vva. The break is a print/OCR artifact, not a word boundary."
+    },
+    {
+      "token": "યવવ્વ",
+      "translit": "[pā]yavā vva",
+      "gloss": "...-trees, just like",
+      "partOfSpeech": "particle",
+      "etymology": "remainder of pāyavā (pādapāḥ) + vva (< Skt. iva, 'like, as')",
+      "notes": "vva is the comparative particle 'like'; it joins to the preceding token to give 'like mountain-trees.'"
+    },
+    {
+      "token": "પત્તા",
+      "translit": "pattā",
+      "gloss": "attained, regained",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patta < Skt. prāpta (past part. of prāp), nom. pl. pattā",
+      "notes": "Main predicate, agreeing with 'te.'"
+    },
+    {
+      "token": "પુણો",
+      "translit": "puṇo",
+      "gloss": "again, anew",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit puṇo < Skt. punaḥ",
+      "notes": ""
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "even, too",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vi < Skt. api",
+      "notes": "puṇo vi = 'once again, even.' Emphasizes that what seemed irrecoverable is in fact recovered."
+    },
+    {
+      "token": "લચ્છિં",
+      "translit": "lacchiṁ",
+      "gloss": "splendour, beauty, fortune (Lakṣmī)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lacchī < Skt. lakṣmī; acc. sg. lacchiṁ",
+      "notes": "Object of pattā. For the trees it is new green foliage; for the devotee it is restored health, beauty and prosperity — the word holds both at once."
+    }
+  ],
+  "literalTranslation": "They — their zeal swelled by the watering-libation of the worship of your feet — like mountain-trees scorched by a forest fire, have attained splendour (Lakṣmī) once again.",
+  "idiomaticTranslation": "Those very sufferers, the fervour of their devotion fed like life-giving water by the worship poured out at your feet, win back their beauty and fortune once more — exactly as the fire-blackened trees on a mountainside burst green and lovely again after the rains.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the second half of the disease-pair, and it turns directly on the horror of v.2. Where v.2 left the body rotting — fingers, nose and beauty consumed by the 'fire-sparks' of leprosy — v.3 answers that fire with water. The whole rescue rides on a single deliberate pun: seya (seka), the 'sprinkling/watering' of the feet-libation, is the same watering that, as rain, revives a scorched forest. So the simile is exact, not decorative: the afflicted are the burnt giri-pāyava (mountain-trees), the fire of leprosy is the dava (wildfire), the worship-water is the rain, and lacchiṁ is the new foliage that returns. Note the grammar: the long compound calaṇa-ārāhaṇa-salilañjali-seya-vuḍḍhi-ucchāhā is a bahuvrīhi describing 'te' — the devotees are defined as 'those whose zeal has grown by that watering.' The cure is therefore not magical substitution but a kindled inner ucchāha (fervour) that worship nourishes. puṇo vi ('even again') carries the emotional weight: what v.2 made to look like permanent ruin is shown to be reversible. lacchiṁ is chosen with care — it means at once foliage, physical beauty, and worldly fortune, so the single word repairs everything the previous verse destroyed.",
+    "doctrinalContext": "The verse embodies the stotra's working premise that smaraṇa-bhakti — devoted remembrance and ārādhana of the Jina's feet — operates as a real, regenerative force in a devotee's life, restoring bodily and worldly well-being. Doctrinally the agent is the bhakta's own cultivated ucchāha (zeal/vīrya): grace is mediated through effortful, watered devotion rather than imposed from outside, consistent with the Jain stress on self-exertion. The pādapa simile also quietly encodes a Jain conviction that catastrophe is impermanent and conditions are reversible through right effort — the burnt tree is not dead but dormant, awaiting its 'rain.'",
+    "practicalRelevance": "For a reciter facing illness, disfigurement or ruin, this verse is the deliberate turn from dread to hope: hold the image of the green-again mountainside and let it convert despair into ucchāha — steady, watered devotion — rather than passive waiting. It teaches that recovery is nourished drop by drop, like irrigation, not seized in a single stroke.",
+    "crossReferences": [
+      {
+        "text": "Preceding gāthā (v.2): the leprosy/great-disease 'fire-sparks' that scorch every limb — the ruin this verse reverses",
+        "source": "Namiūṇa Bhayahara Stotra, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "v.3's nature-simile of the burnt mountain/forest growing green again, flagged in the sutra preface as the recurring 'restoration after ruin' motif",
+        "source": "Namiūṇa Bhayahara Stotra, sutra preface (recurringImagery)"
+      },
+      {
+        "text": "Cf. the parallel deliverance-template in the danger-pairs that follow (sea vv.4–5, fire vv.6–7), and the summary v.18",
+        "source": "Namiūṇa Bhayahara Stotra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "56 Namiyun Stotra (Romanized) — Jain Quantum",
+      "url": "https://jainqq.org/booktext/56_Namiyun_Stotra_Romanized/300580",
+      "type": "translation",
+      "consultedFor": "Romanized Prakrit reading of gāthā 3 (te tuha calaṇārāhaṇa … pattā puṇo vi lacchiṁ) and verse sequence"
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara and fear-remover to whom the hymn's deliverance-promise is addressed"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicons (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: seka (sprinkling/watering), vṛddhi, utsāha, lakṣmī, pādapa, dagdha, prāpta"
+    },
+    {
+      "title": "H. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna0000shet",
+      "type": "dictionary",
+      "consultedFor": "Prakrit-to-Sanskrit equivalences: vuḍḍhi=vṛddhi, ucchāha=utsāha, lacchī=lakṣmī, calaṇa=caraṇa, vva=iva"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Verse text follows the supplied book reading verbatim, including the stray space in 'ગિરિપા યવવ્વ', which is a print/OCR break inside giri-pāyavā vva and not a word boundary. The central interpretive choice is seya = seka ('watering/sprinkling'), which makes the water/forest-fire pun cohere; a minority reading takes seya as sveda ('sweat of devout effort'), shifting the sense to 'zeal swelled by the sweat of feet-worship' — the deliverance is the same either way. lacchiṁ (Lakṣmī) is intentionally polyvalent (foliage / beauty / fortune); rendered to keep all three. Some recensions print the compound and sandhi slightly differently (e.g. vuḍḍhi-acchāyā vs vuḍḍhi-ucchāhā); glosses here follow the supplied Gujarati ઉચ્છાહા = utsāha. The jainqq.org archive page is bot-blocked (HTTP 403) to automated fetches but is a genuine, citable Jain text repository."
+}

@@ -1,0 +1,170 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With a calm and joyful mind I bow my head to the venerable nun Nandī (and) Lakṣmaṇā, who is forever devoted to knowledge, faith, austerity and humble discipline.",
+  "recitation": "nāṇammi daṁsaṇammi ya, tava viṇae nicca-kāla-m-ujjuttaṁ; ajjā ṇaṁdi-lakhamaṇaṁ, sirasā vaṁde pasanna-maṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "નાણમ્મિ",
+      "translit": "nāṇammi",
+      "gloss": "in knowledge (jñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of nāṇa (< Skt. jñāna); the -ammi ending is the Ardhamāgadhī locative singular.",
+      "notes": "First of the four qualities; the locative marks the sphere 'in which' the honoree is ever-engaged."
+    },
+    {
+      "token": "દંસણમ્મિ",
+      "translit": "daṁsaṇammi",
+      "gloss": "in faith-insight (darśana)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of daṁsaṇa (< Skt. darśana), 'seeing, conviction'; same -ammi locative.",
+      "notes": "Right faith/insight, the second of the three jewels (ratnatraya)."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit conjunctive ya (< Skt. ca), copulative connective.",
+      "notes": "Links the paired locatives jñāna and darśana to the following tapas and vinaya."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "in austerity (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava (< Skt. tapas); here the metrically shortened locative/stem standing for tave, 'in penance'.",
+      "notes": "Construes with the locative series; classed with vinaya as the means of self-purification."
+    },
+    {
+      "token": "વિણએ",
+      "translit": "viṇae",
+      "gloss": "in humble discipline (vinaya)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of viṇaya (< Skt. vinaya), 'modesty, reverent discipline'; -e is the locative singular.",
+      "notes": "Vinaya is the doctrinally weighty fourth term, prized as the root of dharma and the gateway to scripture."
+    },
+    {
+      "token": "નિચ્ચ",
+      "translit": "nicca",
+      "gloss": "constant, perpetual",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nicca (< Skt. nitya), 'eternal, unceasing'.",
+      "notes": "Forms the adverbial compound nicca-kāla, 'at all times'."
+    },
+    {
+      "token": "કાલ",
+      "translit": "kāla",
+      "gloss": "time",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. kāla, 'time'; in nicca-kāla an adverbial accusative, 'for all time, ever'.",
+      "notes": "Together with nicca intensifies the unbroken constancy of the engagement."
+    },
+    {
+      "token": "મુજજુત્તં",
+      "translit": "m-ujjuttaṁ",
+      "gloss": "(ever-) engaged, intent",
+      "partOfSpeech": "adj",
+      "etymology": "ujjutta (< Skt. udyukta), 'roused to effort, diligently engaged'; the prefixed -m- is a euphonic hiatus-bridge after nicca-kāla.",
+      "notes": "Predicate adjective (accusative, agreeing with the honoree) governing the four preceding locatives: 'ever-intent on knowledge, faith, austerity, discipline'."
+    },
+    {
+      "token": "અજજા",
+      "translit": "ajjā",
+      "gloss": "the venerable (lady), Āryā",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajjā (< Skt. āryā), the feminine honorific 'noble one', the standard title of a sādhvī.",
+      "notes": "The feminine form signals that the homage now turns to a nun, not a male ācārya."
+    },
+    {
+      "token": "ણંદિ",
+      "translit": "ṇaṁdi",
+      "gloss": "Nandī (proper name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇaṁdi (< Skt. nandī), 'joy, auspiciousness'; here a personal name.",
+      "notes": "Read by this tradition as the venerable nun Nandī; the word also resonates with the Nandī Sūtra's own auspicious title."
+    },
+    {
+      "token": "લખમણં",
+      "translit": "lakhamaṇaṁ",
+      "gloss": "Lakṣmaṇā (proper name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lakhamaṇā (< Skt. lakṣmaṇā), 'the auspicious/marked one'; accusative -aṁ as object of vande.",
+      "notes": "Object of 'I bow'. May be read as a second sādhvī (Nandī and Lakṣmaṇā) or as one nun named Nandī-Lakṣmaṇā; the recension's accusative leaves both open."
+    },
+    {
+      "token": "સિરસા",
+      "translit": "sirasā",
+      "gloss": "with the head",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of sira (< Skt. śiras), 'head'; sirasā = śirasā, 'by means of the head'.",
+      "notes": "Instrumental of bodily homage — the deepest bow, head lowered to the feet."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vaṁde",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "First person singular present of vaṁd- (< Skt. vand-), 'to venerate'.",
+      "notes": "The hymn's governing act of devotion, here in the first person."
+    },
+    {
+      "token": "પસન્નમણં",
+      "translit": "pasanna-maṇaṁ",
+      "gloss": "with a serene mind",
+      "partOfSpeech": "compound",
+      "etymology": "pasanna (< Skt. prasanna), 'clear, calm, glad' + maṇa (< Skt. manas), 'mind'; an accusative/adverbial bahuvrīhi qualifying the manner of bowing.",
+      "notes": "Specifies bhāva-śuddhi — the inner serenity that makes the outward bow a true vandanā."
+    }
+  ],
+  "literalTranslation": "In knowledge and in insight, in austerity and in discipline ever-constantly engaged — the venerable Nandī (and) Lakṣmaṇā, with my head, with a serene mind, I bow to.",
+  "idiomaticTranslation": "To the venerable nun Nandī and to Lakṣmaṇā — forever intent upon knowledge, right faith, austerity and reverent discipline — I bow my head with a heart at peace.",
+  "elaboration": {
+    "verseByVerseCommentary": "After verses that processed teacher after teacher by gotra, this gāthā does something quietly remarkable: the feminine honorific ajjā (āryā) turns the homage toward a sādhvī, drawing the nuns' lineage explicitly into the roll of those who guarded the canon. The praise is built from four locatives — nāṇa, daṁsaṇa, tava, viṇae — over which the single predicate nicca-kāla-m-ujjuttaṁ presides: she is not merely learned but 'ever, at all times, intent' on all four. A reciter familiar with the famous five-ācāra verse (nāṇammi daṁsaṇammi ya caraṇammi…) will hear the echo; here, tellingly, the list pairs the first two jewels not with cāritra but with tapas and vinaya — the very disciplines through which śruta is earned and transmitted, which is exactly why they fit a hymn about the canon's keepers. The second line supplies the act: sirasā vaṁde — a head-lowered bow — qualified by pasanna-maṇaṁ, a serene mind. The verse thus models its own ideal: outward prostration (sirasā) married to inward calm (pasanna-maṇa), body and mind aligned in a single gesture of reverence to one who embodied the four virtues. The compactness is deliberate — one honoree, four qualities, one bow — and needs no padding.",
+    "doctrinalContext": "Three of the four named qualities are the first two of the ratnatraya (jñāna, darśana) plus tapas, one of the standard means of nirjarā (shedding of karma). The fourth, vinaya, is the load-bearing term here: Jain tradition holds vinaya-mūlo dhammo — reverent discipline is the root of the whole teaching and the first of the internal austerities, the precondition for receiving śruta from a teacher. Placing vinaya beside knowledge and austerity frames the honoree as one fit both to receive and to hand on scripture — apt in a lineage hymn. The closing pasanna-maṇaṁ encodes bhāva-śuddhi: vandanā is valid not by the bow alone but by the purified, serene intention (bhāva) behind it.",
+    "practicalRelevance": "Recited today, the verse asks the worshipper to check the bhāva behind the bow: like the honoree, be 'ever-engaged' (nicca-kāla-m-ujjutta) in knowledge, faith, austerity and humility — not occasionally but continuously — and to make every prostration whole by joining the lowered head (sirasā) to a genuinely calm, glad mind (pasanna-maṇa).",
+    "crossReferences": [
+      {
+        "text": "Nāṇammi daṁsaṇammi ya caraṇammi tave taha ya viriyammi — the five ācāra verse echoed by this line",
+        "source": "Āvaśyaka / pratikramaṇa tradition"
+      },
+      {
+        "text": "Vinaya as first internal tapas and 'root of dharma'",
+        "source": "Uttarādhyayana-sūtra, ch. 29–30; Daśavaikālika 9 (Vinaya-samādhi)"
+      },
+      {
+        "text": "Nandī Sūtra Sthavirāvalī, homage to the vācaka lineage",
+        "source": "Nandī-sūtra (Devardhigaṇi Kṣamāśramaṇa redaction)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandī-sūtra (text and commentary), Jain Quantum / Jain eLibrary",
+      "url": "https://jainqq.org/booktext/Nandi_Sutra/001",
+      "type": "translation",
+      "consultedFor": "The Sthavirāvalī context and the reading of the Nandī / Lakṣmaṇā homage within the teacher-lineage."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams, Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and roots for jñāna, darśana, tapas, vinaya, udyukta, prasanna, śiras, vand-."
+    },
+    {
+      "title": "Jain eLibrary — Nandīsūtra and Sthavirāvalī resources",
+      "url": "https://www.jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "Identification of the sādhvī honoured and the place of the vācaka-vaṁśa in the lineage."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (H. D. T. Sheth), Prakrit-Sanskrit dictionary — digitized",
+      "url": "https://archive.org/details/paiasaddamahanna00sheth",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms nāṇa, daṁsaṇa, viṇaya, ujjutta, nicca, pasanna and their locative/accusative inflections."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The phrase 'ajjā ṇaṁdi lakhamaṇaṁ' is genuinely ambiguous in the recited Prakrit: it may name two sādhvīs (the venerable Nandī and Lakṣmaṇā) or a single nun 'Nandī-Lakṣmaṇā'; some Sthavirāvalī recensions instead read a male ācārya here (e.g. Ajja Nandila), so the gender/identity is tradition-dependent — followed the preface's reading of a sādhvī honoree and flagged the alternative. 'તવ' (tava) is taken as a metrically shortened locative parallel to viṇae; the -m- of 'મુજજુત્તં' is a euphonic hiatus-bridge, not a separate morpheme. The verbatim Gujarati orthography (e.g. અજજા, મુજજુત્તં, લખમણં) is preserved per the book's golden-source rule and not normalized."
+}

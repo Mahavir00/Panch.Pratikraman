@@ -1,0 +1,70 @@
+{
+  "shlokaId": "navkar/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Arihants — the awakened, still-living teachers who have conquered their inner enemies.",
+  "recitation": "Namo Arihantāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence / I bow (to)",
+      "partOfSpeech": "invocation",
+      "etymology": "From Sanskrit indeclinable namas ('bowing, homage'), root nam- ('to bend, bow'); Prakrit namo. As an indeclinable it governs the dative — hence the following dative-plural object.",
+      "notes": "The same namo opens each of the first five bows; here it is voiced once, addressed to the first Parameṣṭhin."
+    },
+    {
+      "token": "અરિહંતાણં",
+      "translit": "arihantāṇaṁ",
+      "gloss": "to the Arihants (the awakened, still-embodied conquerors of inner foes)",
+      "partOfSpeech": "noun",
+      "etymology": "Dative plural of arihanta; stem ari ('enemy' — i.e. the kaṣāyas) + hanta ('slayer'), giving 'foe-destroyer'. The honorific dative ending -āṇaṁ (Skt. -ānām in form, dative in Prakrit usage) marks 'to/unto'. A parallel traditional derivation reads the stem as aruhanta/arahanta, 'the worthy (of worship)', from arha- ('to deserve').",
+      "notes": "Older inscriptions and recensions read arahanta (e.g. namo arahantāṇaṁ); this book's arihanta reflects the later Āvaśyaka reading."
+    }
+  ],
+  "literalTranslation": "Reverence to the Arihants.",
+  "idiomaticTranslation": "I bow in homage to the Arihants — the awakened conquerors who, having slain the inner enemies, still walk the world revealing the path.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single line carries the whole weight of a beginning: it is the very first utterance of the Devasi pratikramaṇa and, historically, the oldest line of the entire mantra — the lone phrase namo arahantāṇaṁ recorded by itself in early inscriptions before the other four bows were joined to it. The verse offers no name, no deity, no image: only an act (namo) and a class of beings in the dative (arihantāṇaṁ). The grammar is the theology. By bowing to a quality-class rather than to a person, the reciter venerates a spiritual state that anyone may in principle reach. The choice of the Arihant for the first bow is deliberate and pointed: of the two arrived ones, the Siddha is the higher, fully-liberated state, yet the verse opens not with the Siddha but with the still-embodied Arihant — because it is the living, teaching conqueror who actually reveals the path the reciter is about to walk. The day's confession therefore begins by turning toward the one who makes confession meaningful. The dual etymology deepens this: the Arihant is both the slayer of inner enemies (ari-hanta — anger, pride, deceit, greed) and the worthy-of-worship (arha-), so the very word fuses achievement with reverence. To say this line is to name the goal (inner conquest) and the gesture (homage) in a single breath, setting the posture for everything that follows.",
+    "doctrinalContext": "The Arihant embodies the conquest of the four kaṣāyas and the attainment of kevala-jñāna (omniscience) while still embodied — the kevalin/Tīrthaṅkara who teaches before final liberation. Bowing to this state, not to a creator-god, enacts the Jain principle that reverence is offered to realized qualities and the path they exemplify, which is why the line is name-free. It implicitly distinguishes the Arihant (sa-śarīrin, still teaching) from the bodiless Siddha bowed to in the next verse — the difference between the guide on the road and the one who has reached its end.",
+    "practicalRelevance": "Spoken first, the line resets the reciter's orientation before any self-examination: one fixes attention on the conquered passions as the actual enemy, not outward circumstances, and adopts the bodily and mental posture of homage. It is the breath a Jain returns to all day — a one-line reminder that the inner foes are what must be 'slain'.",
+    "crossReferences": [
+      {
+        "text": "Namo arahantāṇaṁ — sole opening line, Hathigumpha inscription of Khāravela (2nd c. BCE–1st c. CE)",
+        "source": "Udayagiri, Kalinga; cf. M. A. Dhaky"
+      },
+      {
+        "text": "Pañca-namaskāra opening, Vyākhyāprajñapti / Āvaśyaka-sūtra (mangalācaraṇa)",
+        "source": "Śvetāmbara Āgama tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, history, transliteration and meaning",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "First-line primacy, the arahanta→arihanta reading shift, and the Hathigumpha attestation of namo arahantāṇaṁ as the earliest line."
+    },
+    {
+      "title": "Arihant (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Arihant_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Definition of Arihant as the embodied, omniscient conqueror of the kaṣāyas, distinct from the Siddha."
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon): namas, arhat",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Root and case of namas (homage governing the dative) and the arha-/arhat derivation underlying the 'worthy' reading of arihanta."
+    },
+    {
+      "title": "Hathigumpha inscription",
+      "url": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "type": "scholarship",
+      "consultedFor": "Epigraphic dating of namo arahantāṇaṁ as the opening mangala line in early Jain usage."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "This book reads અરિહંતાણં (arihanta); many early witnesses and other recensions read arahanta/arahantāṇaṁ — a difference of reading, not of meaning. The ari-hanta ('foe-slayer') and arha- ('worthy') etymologies are both traditional and are presented as complementary, not as a settled choice. The trailing daṇḍa/period is the book's punctuation, not a lexical token. The doctrinal point that the embodied Arihant is bowed to before the higher Siddha is well attested, though ācāryas phrase its rationale variously."
+}

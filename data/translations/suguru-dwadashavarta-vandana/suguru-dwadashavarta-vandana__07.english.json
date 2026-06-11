@@ -1,0 +1,326 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing to my teacher, I confess and sincerely repent for any disrespect I may have shown the guru today — in thought, word, or deed, or out of anger, pride, deceit, or greed — censuring myself and casting off the wrong.",
+  "recitation": "āvassiāe, paḍikkamāmi, khamāsamaṇāṇaṁ devasiāe āsāyaṇāe, tittīsannayarāe, jaṁ kiṁci micchāe, maṇa-dukkaḍāe, vaya-dukkaḍāe, kāya-dukkaḍāe, kohāe, māṇāe, māyāe, lobhāe, savva-kāliāe, savva-micchovayārāe, savva-dhammāikkamaṇāe, āsāyaṇāe. jo me devasio aïāro kao, tassa khamāsamaṇo! paḍikkamāmi, nindāmi, garihāmi, appāṇaṁ vosirāmi.",
+  "wordByWord": [
+    {
+      "token": "આવસ્સિઆએ",
+      "translit": "āvassiāe",
+      "gloss": "with the āvaśyikī declaration (of having necessarily ceased/abandoned activity to make this confession)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit āvassiā < Sanskrit āvaśyikī, 'the obligatory/necessary-departure declaration'; instrumental-locative case ending -āe",
+      "notes": "Twin of the naiṣedhikī motif of the sūtra: it opens the closing pratikramaṇa, marking the act as one of declared withdrawal from fault."
+    },
+    {
+      "token": "પડિક્કમામિ",
+      "translit": "paḍikkamāmi",
+      "gloss": "I turn back / I confess and repent",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit prati-kram-, 'to step back'; 1st person singular present",
+      "notes": ""
+    },
+    {
+      "token": "ખમાસમણાણં",
+      "translit": "khamāsamaṇāṇaṁ",
+      "gloss": "toward the kṣamāśramaṇas (the forgiving ascetic-gurus)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khamā-samaṇa < Sanskrit kṣamā-śramaṇa; genitive plural -āṇaṁ",
+      "notes": "Plural here: the reverence extends to the whole order of revered ascetics, not one guru only."
+    },
+    {
+      "token": "દેવસિઆએ",
+      "translit": "devasiāe",
+      "gloss": "pertaining to the day (the day's)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit daivasika, 'of the day'; instrumental-locative -āe",
+      "notes": "The period-word that fixes which pratikramaṇa is underway (substituted in the fortnightly/seasonal/annual forms)."
+    },
+    {
+      "token": "આસાયણાએ",
+      "translit": "āsāyaṇāe",
+      "gloss": "for/in respect of disrespect (āśātanā) shown to the guru",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit āśātanā, 'slight, affront'; instrumental-locative -āe",
+      "notes": "Opens the list of what is being confessed; echoed again at the list's close."
+    },
+    {
+      "token": "તિત્તીસન્નયરાએ",
+      "translit": "tittīsannayarāe",
+      "gloss": "(by) any one of the thirty-three (āśātanās)",
+      "partOfSpeech": "compound",
+      "etymology": "tittīsa (Skt. trayastriṁśat, 'thirty-three') + annayara (Skt. anyatara, 'any one of'); case -āe",
+      "notes": "Refers to the traditional enumeration of thirty-three modes of disrespect toward the guru."
+    },
+    {
+      "token": "જંકિંચિ",
+      "translit": "jaṁ kiṁci",
+      "gloss": "whatsoever",
+      "partOfSpeech": "pronoun",
+      "etymology": "jaṁ (Skt. yad) + kiṁci (Skt. kiṁcid); relative–indefinite pair, 'whatever'",
+      "notes": "Sweeps in any fault not separately named."
+    },
+    {
+      "token": "મિચ્છાએ",
+      "translit": "micchāe",
+      "gloss": "(done) wrongly / through wrongness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit mithyā, 'false, wrong'; case -āe",
+      "notes": ""
+    },
+    {
+      "token": "મણદુક્કડાએ",
+      "translit": "maṇa-dukkaḍāe",
+      "gloss": "by misdeed of mind",
+      "partOfSpeech": "compound",
+      "etymology": "maṇa (Skt. manas, 'mind') + dukkaḍa (Skt. duṣkṛta, 'ill-done'); case -āe",
+      "notes": "First of the mind–speech–body triad."
+    },
+    {
+      "token": "વયદુક્કડાએ",
+      "translit": "vaya-dukkaḍāe",
+      "gloss": "by misdeed of speech",
+      "partOfSpeech": "compound",
+      "etymology": "vaya (Skt. vacas/vāk, 'speech') + dukkaḍa (duṣkṛta); case -āe",
+      "notes": ""
+    },
+    {
+      "token": "કાયદુક્કડાએ",
+      "translit": "kāya-dukkaḍāe",
+      "gloss": "by misdeed of body",
+      "partOfSpeech": "compound",
+      "etymology": "kāya (Skt. kāya, 'body') + dukkaḍa (duṣkṛta); case -āe",
+      "notes": "Completes the triad of doors of action."
+    },
+    {
+      "token": "કોહાએ",
+      "translit": "kohāe",
+      "gloss": "by anger",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koha < Sanskrit krodha; case -āe",
+      "notes": "First of the four kaṣāyas named here as roots of disrespect."
+    },
+    {
+      "token": "માણાએ",
+      "translit": "māṇāe",
+      "gloss": "by pride",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit māṇa < Sanskrit māna; case -āe",
+      "notes": ""
+    },
+    {
+      "token": "માયાએ",
+      "translit": "māyāe",
+      "gloss": "by deceit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit māyā; case -āe",
+      "notes": ""
+    },
+    {
+      "token": "લોભાએ",
+      "translit": "lobhāe",
+      "gloss": "by greed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit lobha; case -āe",
+      "notes": "Last of the four passions."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all / every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit sarva; qualifies the following member of the compound",
+      "notes": "Begins savva-kāliāe."
+    },
+    {
+      "token": "કાલિઆએ",
+      "translit": "kāliāe",
+      "gloss": "(faults) belonging to all times",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit kālika, 'temporal, of time'; case -āe — savva-kāliāe = 'pertaining to all time'",
+      "notes": "Extends the confession beyond the day to faults of every time."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all / every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit sarva",
+      "notes": "Begins savva-micchovayārāe."
+    },
+    {
+      "token": "મિચ્છોવયારાએ",
+      "translit": "micchovayārāe",
+      "gloss": "by all false/insincere conduct (toward the guru)",
+      "partOfSpeech": "compound",
+      "etymology": "micchā (Skt. mithyā) + uvayāra (Skt. upacāra, 'service, dealing') → micchovayāra, 'false treatment'; case -āe",
+      "notes": "Sandhi of micchā + uvayāra."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all / every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit sarva",
+      "notes": "Begins savva-dhammāikkamaṇāe."
+    },
+    {
+      "token": "ધમ્માઇક્કમણાએ",
+      "translit": "dhammāikkamaṇāe",
+      "gloss": "by all transgression of dharma (right conduct)",
+      "partOfSpeech": "compound",
+      "etymology": "dhamma (Skt. dharma) + aikkamaṇa (Skt. atikramaṇa, 'overstepping') → dharmātikramaṇa; case -āe",
+      "notes": "Sandhi of dhamma + aikkamaṇa."
+    },
+    {
+      "token": "આસાયણાએ",
+      "translit": "āsāyaṇāe",
+      "gloss": "— (all this) as disrespect (āśātanā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit āśātanā; case -āe",
+      "notes": "Second occurrence: closes and gathers the whole enumerated list back under the heading of 'disrespect'."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whatever (transgression)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo < Sanskrit yaḥ; relative pronoun, masculine singular",
+      "notes": "Opens the summarizing relative clause."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "by me / my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit/Sanskrit me, enclitic of asmad, 'I'",
+      "notes": ""
+    },
+    {
+      "token": "દેવસિઓ",
+      "translit": "devasio",
+      "gloss": "of-the-day (daily)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit daivasika; masculine nominative, agreeing with aïāro",
+      "notes": "The period-word in adjectival form."
+    },
+    {
+      "token": "અઇઆરો",
+      "translit": "aïāro",
+      "gloss": "transgression / lapse",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit aticāra, 'going beyond (a vow)'; masculine nominative",
+      "notes": "Spelled with -y- (અતિયાર) elsewhere in this edition per its orthography."
+    },
+    {
+      "token": "કઓ",
+      "translit": "kao",
+      "gloss": "was done / committed",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit kṛta, past passive participle of kṛ-, 'to do'",
+      "notes": ""
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "for/of that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit < Sanskrit tasya, genitive of tad",
+      "notes": "Picks up the relative jo: 'whatever… of that…'"
+    },
+    {
+      "token": "ખમાસમણો",
+      "translit": "khamāsamaṇo",
+      "gloss": "O kṣamāśramaṇa! (O forgiving one / revered guru)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit khamā-samaṇa < Sanskrit kṣamā-śramaṇa; vocative singular",
+      "notes": "Direct address to the guru at the moment of repentance."
+    },
+    {
+      "token": "પડિક્કમામિ",
+      "translit": "paḍikkamāmi",
+      "gloss": "I turn back / I repent",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit prati-kram-; 1st person singular present",
+      "notes": "First of the closing four-fold formula."
+    },
+    {
+      "token": "નિંદામિ",
+      "translit": "nindāmi",
+      "gloss": "I censure (myself, inwardly)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Sanskrit nind-, 'to blame'; 1st person singular present",
+      "notes": "Self-censure before one's own conscience."
+    },
+    {
+      "token": "ગરિહામિ",
+      "translit": "garihāmi",
+      "gloss": "I reproach (myself, before the guru)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit garh-, 'to reproach, confess openly'; 1st person singular present",
+      "notes": "Open confession in another's (the guru's) presence — distinct from inward nindā."
+    },
+    {
+      "token": "અપ્પાણં",
+      "translit": "appāṇaṁ",
+      "gloss": "the (sinful) self / it",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit appāṇa < Sanskrit ātman; accusative singular",
+      "notes": "Object of vosirāmi: the fault-laden self/act being cast off."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I renounce / I cast off",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit vi-ut-sṛj-, 'to release, abandon'; 1st person singular present",
+      "notes": "The final act of release that completes the formula."
+    }
+  ],
+  "literalTranslation": "With the declaration of cessation, I confess — concerning the day's disrespect toward the forgiving ascetics: any one of the thirty-three (āśātanās), whatever (was done) wrongly, by misdeed of mind, by misdeed of speech, by misdeed of body, by anger, by pride, by deceit, by greed, by (faults) of all time, by all false dealing, by all transgression of dharma — (all) as disrespect. Whatever day-transgression was committed by me, for that, O forgiving one, I turn back, I censure myself, I reproach myself, I renounce the (sinful) self.",
+  "idiomaticTranslation": "Having drawn back from all activity to make this amends, I confess every disrespect I have shown my revered teachers in the course of this day. Whatever of the thirty-three slights I committed, whatever wrong I did, by mind, by speech, by body; out of anger, pride, deceit or greed; through faults of any time, through all insincere conduct, through any overstepping of right conduct — for all such disrespect: O forgiving one, whatever lapse of the day I am guilty of, that I now turn back from, that I censure within myself, that I confess openly before you, and that errant self I cast away.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding unit only *asked* for pardon (khāmemi… vaikkamaṁ), this concluding unit performs the full repentance. It is built as one long instrumental list framed by āsāyaṇāe at both ends: the opening āsāyaṇāe announces the subject (disrespect to the guru), and the second āsāyaṇāe seals it, so that everything between — the thirty-three slights, the mind–speech–body misdeeds, the four passions, and the sweeping 'all time / all false dealing / all overstepping of dharma' — is gathered up as varieties of a single fault. The drafting is deliberately exhaustive: named categories (tittīsannayarāe, the three dukkaḍas, the four kaṣāyas) are followed by catch-all sweeps (jaṁ kiṁci, the three savva- compounds) so that nothing escapes. Then the relative clause jo me devasio aïāro kao narrows the cosmic list back to the concrete: 'whatever lapse of *the day* I actually committed.' The verse climaxes in the graded four-verb formula paḍikkamāmi–nindāmi–garihāmi–vosirāmi: I step back from the fault, I blame it inwardly, I confess it openly before the guru, and finally I release it. Note the precise difference the verse preserves between nindā (private self-reproach) and garhā (avowal in another's presence) — the guru is addressed by name, khamāsamaṇo, exactly at the hinge between inward and outward confession. The closing appāṇaṁ vosirāmi does not renounce the soul itself but the fault-bound self, completing veneration as an act of self-purification, not mere courtesy.",
+    "doctrinalContext": "The verse enacts the structure of right repentance (samyak pratikramaṇa): recognition, three channels of action (yoga — mind, speech, body), the four passions (kaṣāya) as the inner cause, and a graded movement from turning-back to renunciation. Its specific doctrinal weight is that disrespect to the guru is itself treated as a confessable transgression with its own catalogue (the thirty-three āśātanās), underscoring that reverence for the enlightened teacher is not sentiment but a vow whose breach incurs karmic lapse. The four-verb close is the same canonical formula used to dispose of fault elsewhere in the Āvaśyaka liturgy, applied here to the guru-relationship.",
+    "practicalRelevance": "A reciter uses this verse to convert a vague feeling of 'I may have been disrespectful' into a precise, owned act: name the channel (was it a thought, a word, a gesture?), name the root passion (irritation? ego?), then move deliberately through the four steps rather than stopping at apology. The doubled āsāyaṇāe is a cue to let the long list resolve into one honest admission before closing with release.",
+    "crossReferences": [
+      {
+        "text": "Vandanaka (Guru-vandana) Āvaśyaka — closing pratikramaṇa of guru-āśātanā",
+        "source": "Āvaśyaka-sūtra and Niryukti tradition (Śvetāmbara Āgama)"
+      },
+      {
+        "text": "The four-fold formula paḍikkamāmi nindāmi garihāmi (appāṇaṁ) vosirāmi, paralleling its use in Iriyāvahiyam / Tassa Uttari",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Suguru Vandana Sutra — text and English translation",
+      "url": "https://jainuniversity.org/pathshala/suguru-vandana-sutra/",
+      "type": "translation",
+      "consultedFor": "Verifying the running English sense of the closing pratikramaṇa (āśātanā, four passions, and the nindāmi–garihāmi–vosirāmi formula)"
+    },
+    {
+      "title": "Suguru Vandana Sutra — Jain Sutras and Stotras",
+      "url": "https://jainknowledge.com/media-information/61/jain_sutras/SUGURU-VANDANA-SUTRA",
+      "type": "translation",
+      "consultedFor": "Cross-checking the rendering of appāṇaṁ vosirāmi as renunciation of the fault-self and the day-transgression clause"
+    },
+    {
+      "title": "Suguru Vandana Sutra (ritual texts collection)",
+      "url": "https://archive.org/download/jain_ritual_texts_201403/29_Suguru_vandana_Sutra_289029.pdf",
+      "type": "translation",
+      "consultedFor": "Independent transliteration and meaning of the closing unit"
+    },
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit Dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheh",
+      "type": "dictionary",
+      "consultedFor": "Prakrit-to-Sanskrit glosses of āsāyaṇā, dukkaḍa, aïāra, vosir-, garih-, and the -āe instrumental ending"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "āsāyaṇāe occurs twice and functions as a frame (announce-then-seal); both are glossed as 'disrespect (āśātanā).' jaṁ kiṁci is treated as a two-word relative–indefinite pair though printed solid. micchovayāra and dhammāikkamaṇa are read as the sandhi-compounds mithyā-upacāra and dharma-atikramaṇa respectively. 'devasio/devasiāe' is the daily period-word, swapped for pakkhiya/cāumāsiya/saṁvacchariya in the other pratikramaṇas (noted only to place the word, not to restate the rule). The thirty-three āśātanās are a standard enumeration of the Śvetāmbara Āvaśyaka commentary tradition; the specific count is taken as authoritative per the knowledge base, but the per-item list is not printed in this verse. Online translations consulted are devotional renderings, not critical editions; the per-token glosses rest on standard Prakrit lexicography rather than a page-level critical citation."
+}

@@ -1,0 +1,178 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/20",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse salutes a great teacher who had mastered every branch of learning and every kind of scriptural study, who stood foremost among the expounders of the canon, and who brought joy and renown to his whole spiritual family.",
+  "recitation": "akkha bharaha ppahāṇo, bahuviha sijjhāya sumuṇiya ppahāṇo. aṇuogiya vara vasahe, nāila kula vaṁsa nandi kare.",
+  "wordByWord": [
+    {
+      "token": "અક્ખ",
+      "translit": "akkha",
+      "gloss": "in the akṣa-lore (the science of logic/dialectics; or, more broadly, the secular sciences)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit akkha < Sanskrit akṣa; here in the learned sense of akṣa-vidyā / ānvīkṣikī, the science of reasoned inquiry",
+      "notes": "Read as the first member of the compound akkha-bharaha-pahāṇa; some commentators take akkha + bharaha together as a pair of secular learnings the teacher had mastered."
+    },
+    {
+      "token": "ભરહ",
+      "translit": "bharaha",
+      "gloss": "and in the Bharata-lore (the arts/dramaturgy of Bharata, i.e. the fine and worldly sciences)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bharaha < Sanskrit bharata, the sage Bharata's nāṭya-śāstra, by extension the body of secular arts",
+      "notes": "The pairing akkha-bharaha conventionally signals breadth of secular learning beyond scripture."
+    },
+    {
+      "token": "પ્પહાણો",
+      "translit": "ppahāṇo",
+      "gloss": "foremost, pre-eminent, chief",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pahāṇa (geminated ppahāṇa after the preceding word) < Sanskrit pradhāna, 'principal, chief'",
+      "notes": "Caps the first quarter: foremost in the akṣa and Bharata sciences."
+    },
+    {
+      "token": "બહુવિહ",
+      "translit": "bahuviha",
+      "gloss": "of many kinds, manifold",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bahuviha < Sanskrit bahuvidha (bahu 'many' + vidhā 'kind')",
+      "notes": "Qualifies sijjhāya — the many varieties of scriptural study."
+    },
+    {
+      "token": "સિજ્ઝાય",
+      "translit": "sijjhāya",
+      "gloss": "sacred study, scriptural recitation (svādhyāya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjhāya/sajjhāya < Sanskrit svādhyāya",
+      "notes": "Here the object of mastery, not the ritual category; glossed in the preface, used freely."
+    },
+    {
+      "token": "સુમુણિય",
+      "translit": "sumuṇiya",
+      "gloss": "well-understood, thoroughly grasped",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit su- ('well') + muṇiya (past participle of muṇai 'to know') < Sanskrit su-jñāta / su-mata",
+      "notes": "He is one by whom the many kinds of study have been well understood."
+    },
+    {
+      "token": "પ્પહાણો",
+      "translit": "ppahāṇo",
+      "gloss": "foremost, pre-eminent (repeated)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pahāṇa < Sanskrit pradhāna; deliberate refrain-repetition from quarter one",
+      "notes": "The doubled pahāṇo binds the two limbs of praise: foremost in worldly sciences, foremost in scriptural mastery."
+    },
+    {
+      "token": "અણુઓગિય",
+      "translit": "aṇuogiya",
+      "gloss": "among the masters of anuyoga (systematic exposition of scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇuogiya < Sanskrit ānuyogika, 'pertaining to / skilled in anuyoga'",
+      "notes": "anuyoga glossed in the preface; here personalized to the expounders themselves."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, best, choicest",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Sanskrit vara, 'choice, best'",
+      "notes": "Intensifies vasaha — the very best bull."
+    },
+    {
+      "token": "વસહે",
+      "translit": "vasahe",
+      "gloss": "O bull (among them) — i.e. the foremost, the chief",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vasaha < Sanskrit vṛṣabha, 'bull'; idiomatically the strongest/best of a group (cf. naravṛṣabha, munivṛṣabha)",
+      "notes": "vara-vasaha = 'the excellent bull of the anuyoga-masters', a stock simile for supremacy; case-ending here vocative/oblique in the homage frame."
+    },
+    {
+      "token": "નાઇલ",
+      "translit": "nāila",
+      "gloss": "of the Nāila (Nāgila) clan",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nāila, traditionally equated with the Nāgila gotra/kula of the teacher-lineage",
+      "notes": "Identification as the Nāgila gotra is the tradition's; flagged uncertain (see notes)."
+    },
+    {
+      "token": "કુલ",
+      "translit": "kula",
+      "gloss": "family, clan",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit kula, 'family line'",
+      "notes": "Pairs with vaṁsa to denote the monastic clan-lineage."
+    },
+    {
+      "token": "વંસ",
+      "translit": "vaṁsa",
+      "gloss": "lineage, succession",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaṁsa < Sanskrit vaṁśa, 'lineage, bamboo (hence continuous stock)'",
+      "notes": "nāila-kula-vaṁsa = the clan-and-lineage of the Nāila/Nāgila stock."
+    },
+    {
+      "token": "નંદિ",
+      "translit": "nandi",
+      "gloss": "joy, delight, flourishing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit nandi, 'joy, prosperity'; echoes the title of the Nandī Sūtra itself",
+      "notes": "A pointed pun: the teacher 'makes nandi' within a hymn drawn from the Nandī Sūtra."
+    },
+    {
+      "token": "કરે",
+      "translit": "kare",
+      "gloss": "the one who makes / brings about",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kara < Sanskrit kara, agent-suffix 'making'; nandi-kare = 'maker of joy'",
+      "notes": "Forms the compound epithet nandi-kara, 'joy-bringer to the lineage'."
+    }
+  ],
+  "literalTranslation": "Foremost in the akṣa-science and the Bharata-arts; foremost in having thoroughly mastered the many kinds of sacred study (svādhyāya); the excellent bull among the masters of anuyoga (scriptural exposition); the bringer of joy to the clan and lineage of the Nāila (Nāgila).",
+  "idiomaticTranslation": "Pre-eminent in the secular sciences of reasoning and the arts, and no less pre-eminent in his thorough command of every kind of scripture — that choicest bull among the expounders of the canon, who brought gladness and glory to the whole Nāila lineage: to him I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the second of the two gāthās praising the great Vācaka Nāgārjuna: the preceding verse painted him in fine gold and the spotless lotus, and the following verse bows to Ācārya Bhūtadinna as 'disciple of the Nāgārjuna sages' — so this stanza sits squarely inside that portrait. Its architecture is a deliberate double 'pahāṇo' (foremost… foremost): the first limb, akkha-bharaha-pahāṇo, credits him with command of the secular learnings — the akṣa-lore of reasoned inquiry and the Bharata-arts — while the second, bahuviha sijjhāya sumuṇiya pahāṇo, turns inward to scripture, declaring that the manifold kinds of svādhyāya were not merely recited but 'well understood' (sumuṇiya) by him. The verse then crowns both with a single image: aṇuogiya vara vasahe, 'the choicest bull among the anuyoga-masters'. The bull (vasaha/vṛṣabha) is the canon's standard emblem of the strongest of a herd — as nara-vṛṣabha or muni-vṛṣabha mark the foremost of men or monks — so here it marks the foremost of those who can correctly unfold the kālika-śruta. The closing epithet nāila-kula-vaṁsa-nandi-kare, 'joy-maker to the Nāila lineage', lands a quiet pun: within a hymn excerpted from the Nandī Sūtra, the teacher is literally one who 'makes nandi' for his clan. The praise thus fuses breadth (worldly sciences), depth (mastered scripture), supremacy (the bull), and fruit (joy carried forward to the lineage).",
+    "doctrinalContext": "The verse turns on two load-bearing Jain categories. First, anuyoga — the systematic exposition by which a bare sūtra is opened into doctrine; the tradition reckons four anuyogas, and the entire second sajjhāy is a roll-call of those who guarded the Kālika-śruta anuyoga. To call a teacher the 'bull of the anuyoga-masters' is therefore to name him a trustworthy channel of transmission, not merely a scholar. Second, svādhyāya (sijjhāya): in Jain ascetic discipline svādhyāya is itself one of the internal austerities (abbhantara-tava), so 'having well understood the many kinds of study' is praise of tapas, not bookishness. The pairing of akkha-bharaha (secular sciences) with scripture reflects the ideal of the complete ācārya, equipped to defend and expound the teaching in any forum, yet anchoring all worldly competence in right knowledge (samyag-jñāna).",
+    "practicalRelevance": "For the reciter, the stanza reframes study as devotion: it is not enough to chant the canon — the praise falls on one who has 'well understood' it (sumuṇiya), making svādhyāya a daily inner austerity rather than rote. It also models breadth without rootlessness: secular learning (akkha-bharaha) is honoured only because it served the scripture it crowned. Finally, nandi-kara sets an aspiration — to be one whose practice brings joy and continuity to one's own community and lineage.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 30.34 — svādhyāya listed among the six internal austerities (abbhantara-tava)",
+        "source": "Śvetāmbara Āgama; Hermann Jacobi, Jaina Sūtras Part II (SBE 45)"
+      },
+      {
+        "text": "Nandī-sūtra — the anuyoga of the Kālika-śruta and the five jñānas the sūtra expounds",
+        "source": "Nandīsūtra, Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī)"
+      },
+      {
+        "text": "vṛṣabha as 'foremost of a class' (cf. nara-vṛṣabha, muni-vṛṣabha)",
+        "source": "Cologne Digital Sanskrit Lexicon, s.v. vṛṣabha"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vrishabha, Vṛṣabha — definitions (incl. Jain and Cologne/Purana-Index entries)",
+      "url": "https://www.wisdomlib.org/definition/vrishabha",
+      "type": "dictionary",
+      "consultedFor": "Confirming vṛṣabha/vasaha ('bull') as the stock metaphor for the foremost/strongest of a group, underpinning 'vara vasaha' = chief among anuyoga-masters."
+    },
+    {
+      "title": "Anuyoga — definitions (incl. Jain ‘exposition of principles’ / gaṇitānuyoga)",
+      "url": "https://www.wisdomlib.org/definition/anuyoga",
+      "type": "dictionary",
+      "consultedFor": "Glossing aṇuogiya as 'pertaining to anuyoga', the systematic scriptural exposition, and its four-fold Jain classification."
+    },
+    {
+      "title": "Pradhana, Pradhāna — definitions (incl. Jain entry)",
+      "url": "https://www.wisdomlib.org/definition/pradhana",
+      "type": "dictionary",
+      "consultedFor": "Confirming pahāṇo < pradhāna = 'chief, foremost, pre-eminent', the refrain-word of the verse."
+    },
+    {
+      "title": "Nandi, Nāndī — definitions (incl. Prakrit and Jain entries)",
+      "url": "https://www.wisdomlib.org/definition/nandi",
+      "type": "dictionary",
+      "consultedFor": "Glossing nandi as 'joy/prosperity' and noting the wordplay with the title of the Nandī Sūtra in 'nandi-kara'."
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "(1) Context strongly places this as the second gāthā of the Nāgārjunācārya praise — the preceding verse's gold/lotus/dayāguṇa imagery is the standard Nāgārjuna stanza, and the following verse bows to Bhūtadinna as 'disciple of the Nāgārjuna sages'; a minority reading could take v.20 as introducing a distinct Nāila-kula ācārya. (2) The compound akkha-bharaha-pahāṇo is genuinely ambiguous: I read akkha = akṣa-vidyā (logic/dialectics) and bharaha = Bharata's arts, i.e. mastery of secular sciences; some renderings instead gloss akkha as 'senses/eyes' (akṣa) or link bharaha to 'Bharata-(kṣetra)'. Treated as uncertain. (3) The equation Nāila = the Nāgila gotra/kula is traditional rather than firmly historical, per the preface's caution on gotra identifications. (4) Per the book's fidelity rule, the recited Prakrit (geminate ppahāṇo, sijjhāya with jjh) is preserved verbatim and not normalized; teacher-name normalization to IAST appears only in commentary. (5) Sandhi-/refrain-repetition of pahāṇo is intentional and is glossed at both occurrences for 100% token coverage."
+}

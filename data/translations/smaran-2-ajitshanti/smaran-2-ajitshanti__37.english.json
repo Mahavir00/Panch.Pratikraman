@@ -1,0 +1,181 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/37",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Signing the hymn with his own name, the poet prays for joy — for himself, for everyone gathered to listen, and above all the joy that is found in self-restraint.",
+  "recitation": "taṁ moeu a nandi, pāveu a nandiseṇa m-abhinandi | parisāvi ya suha-nandi, mama ya disau saṁjame nandi ||37||",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him / that One (the Jina)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt taṁ < Skt tam, acc. sg. of tad; carries over the Jina-subject of the preceding stanza.",
+      "notes": "Object/recipient of the granting verb; resumes 'taṁ' from v.36."
+    },
+    {
+      "token": "મોએઉ",
+      "translit": "moeu",
+      "gloss": "may [He] release / bestow",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt moei < Skt muñcati (√muc, 'to loose, let flow'), 3 sg. imperative; here 'let flow forth, grant'.",
+      "notes": "Reads the gift of joy as something 'released' or set flowing, not merely given."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt a < Skt ca, enclitic conjunction, here metrically reduced."
+    },
+    {
+      "token": "નંદિ",
+      "translit": "nandi",
+      "gloss": "joy / felicity",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt nandi < Skt nandi (√nand, 'to rejoice'); acc. nandiṁ. First of the four 'nandi' in the verse and the pun on the poet's name.",
+      "notes": "Book preserves the bare form 'nandi'; the accusative -ṁ is metrically understood."
+    },
+    {
+      "token": "પાવેઉ",
+      "translit": "pāveu",
+      "gloss": "may [he] attain / win",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt pāvei < Skt prāpnoti (√āp with pra, 'to obtain'), 3 sg. imperative; 'let [Nandiṣeṇa] obtain'.",
+      "notes": "Subject shifts to the poet named in the next token."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt a < Skt ca."
+    },
+    {
+      "token": "નંદિસેણ",
+      "translit": "nandiseṇa",
+      "gloss": "Nandiṣeṇa (the poet)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name; nandi ('joy') + seṇa < Skt senā/sena ('host'), i.e. 'army of joy'. The author's self-signature (kavi-mudrā).",
+      "notes": "The hymn's only naming of its composer; the name itself contains 'nandi', driving the pun."
+    },
+    {
+      "token": "મભિનંદિ",
+      "translit": "m-abhinandi",
+      "gloss": "(and) abundant joy / glad rejoicing",
+      "partOfSpeech": "noun",
+      "etymology": "Euphonic -m- (hiatus-bridging) + Pkt abhinandi < Skt abhinandana (abhi-√nand, 'to rejoice greatly, welcome'); acc. 'exceeding joy'.",
+      "notes": "Second 'nandi'; an intensified joy beyond the first. May faintly echo Abhinandana, the 4th Tīrthaṅkara (left as a resonance, not asserted)."
+    },
+    {
+      "token": "પરિસાવિ",
+      "translit": "parisāvi",
+      "gloss": "the assembly too",
+      "partOfSpeech": "compound",
+      "etymology": "parisā < Skt parṣad ('congregation, audience') + vi < Skt api ('also'); the gathered listeners of the recitation.",
+      "notes": "Widens the prayer outward from poet to whole congregation."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and / also",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt ya < Skt ca."
+    },
+    {
+      "token": "સુહનંદિ",
+      "translit": "suha-nandi",
+      "gloss": "blissful joy",
+      "partOfSpeech": "compound",
+      "etymology": "suha < Skt sukha ('ease, bliss') + nandi ('joy'); 'the joy that is bliss'. Third 'nandi'.",
+      "notes": "Joy wished upon the assembly."
+    },
+    {
+      "token": "મમ",
+      "translit": "mama",
+      "gloss": "to me / for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt mama < Skt mama, gen./dat. sg. of asmad; the poet's personal petition."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt ya < Skt ca."
+    },
+    {
+      "token": "દિસઉ",
+      "translit": "disau",
+      "gloss": "may [He] grant / bestow",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt disai < Skt diśati (√diś, 'to point out, allot, grant'), 3 sg. imperative; 'let [the Jina] allot'.",
+      "notes": "Returns to the Jina as giver for the climactic fourth wish."
+    },
+    {
+      "token": "સંજમે",
+      "translit": "saṁjame",
+      "gloss": "in self-restraint (saṁyama)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt saṁjama < Skt saṁyama (sam-√yam, 'to hold together, restrain'); locative sg., 'in restraint, in disciplined conduct'.",
+      "notes": "The decisive word: the locus of the highest joy sought."
+    },
+    {
+      "token": "નંદિ",
+      "translit": "nandi",
+      "gloss": "joy",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt nandi < Skt nandi (√nand). Fourth and culminating 'nandi'.",
+      "notes": "'saṁjame nandi' = joy-in-self-restraint, the verse's summit."
+    }
+  ],
+  "literalTranslation": "May He release joy; and may Nandiṣeṇa attain abundant joy; the assembly too — blissful joy; and to me may He grant joy in self-restraint.",
+  "idiomaticTranslation": "May the Lord let joy flow forth; may Nandiṣeṇa win joy upon joy; may this whole congregation taste blissful gladness; and to me, above all, may He grant the joy that lives in self-restraint.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the stanza in which the poet seals his work, weaving his own name 'Nandiṣeṇa' into a fourfold chime on the word nandi — 'joy'. Where v.36 asked the Jina to *remove* despondency (visāya) and pour out grace, v.37 turns to the positive gift that follows: joy itself. The four occurrences form a deliberate ladder. First a plain nandi 'released' (moeu) by the Lord; then the poet's own abhinandi, an intensified rejoicing, attained (pāveu) under his signed name; then suha-nandi, blissful gladness, wished upon the whole parisā (the gathered listeners); and finally — the rhetorical summit — saṁjame nandi, joy located not in any object but *in self-restraint*, prayed for himself (mama). The movement is telling: from the Lord, to the singer, outward to the congregation, and then inward and upward to the one joy that liberates. Note the breadth of heart in 'parisāvi ya' — the poet will not ask happiness for himself alone; he folds every listener into the blessing, a quiet act of maitrī. And note the self-effacement of the climax: having named himself, he asks not for fame or comfort but for delight in discipline — the only joy a Jain considers finally worth having. The verse thus closes the hymn's prayer-arc (vv.35–37) on its truest note before the phala-stuti of the next stanza turns to *when* and *by whom* the hymn should be recited.",
+    "doctrinalContext": "The verse rests on the Jain distinction between sensory pleasure and the soul's own joy. Worldly nandi arises from contact with objects and is bound up with karmic influx; the joy 'in saṁyama' is svābhāvika — it springs from the restraint of the senses and passions and accompanies nirjarā, the shedding of karma. To pray for *saṁjame nandi* is therefore to ask for the inner condition of the mokṣa-mārga itself, not a worldly boon. The outward wish for the assembly's joy enacts maitrī-bhāvanā, the first of the four reflections (maitrī, pramoda, kāruṇya, mādhyastha), so that the stanza models both right desire (delight in discipline) and right disposition (goodwill to all).",
+    "practicalRelevance": "Reaching this verse, the reciter is invited to personalize the hymn: name yourself in the poet's place, then check what 'joy' you are actually asking for. The verse trains the heart to redirect its native craving for happiness away from indulgence and toward delight in one's vows and restraint — and to widen the prayer so the whole congregation is included, never oneself alone.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 29 (on the fruits and gladness of saṁyama and self-control)",
+        "source": "H. Jacobi, Sacred Books of the East vol. 45"
+      },
+      {
+        "text": "Daśavaikālika-sūtra (saṁyama as the monk's joy; cf. the Drumapuṣpikā sajjhāy of the Devasi pratikramaṇa)",
+        "source": "Anchalgachchha Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "Ajitaśānti Stava v.36 (immediately preceding: removal of visāya and gift of pasāya, which this verse completes with nandi)",
+        "source": "Nandiṣeṇasūri, as printed in the source book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandi — Prakrit/Sanskrit lexical entry (Pāia-sadda-mahaṇṇavo & Sanskrit dictionaries)",
+      "url": "https://www.wisdomlib.org/definition/nandi",
+      "type": "dictionary",
+      "consultedFor": "Sense of nandi as 'joy/felicity' (√nand) across Prakrit and Sanskrit; basis of the verse's fourfold pun."
+    },
+    {
+      "title": "Saṃyama — Sanskrit/Prakrit lexical entry (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.wisdomlib.org/definition/samyama",
+      "type": "dictionary",
+      "consultedFor": "Meaning of saṁyama as 'restraint, self-control' (sam-√yam) and its Jain doctrinal value."
+    },
+    {
+      "title": "Abhinandana — Sanskrit/Prakrit lexical entry",
+      "url": "https://www.wisdomlib.org/definition/abhinandana",
+      "type": "dictionary",
+      "consultedFor": "Sense of abhinandana/abhinandi as 'great rejoicing, glad welcome' (abhi-√nand); possible Tīrthaṅkara-name resonance."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra, trans. Hermann Jacobi (Sacred Books of the East, vol. 45)",
+      "url": "https://archive.org/details/jainasutras02jacouoft",
+      "type": "translation",
+      "consultedFor": "Canonical support for joy/contentment located in self-restraint (saṁyama) rather than sense-objects."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The book preserves the verse with the short ending 'નંદિ/નંદિ' (nandi) and 'મભિનંદિ', without explicit accusative anusvāra; metre and sense imply nandiṁ/abhinandiṁ, and several printed recensions read the -ṁ forms. The three imperatives are parsed as 3 sg.: moeu (√muc, 'release/bestow'), pāveu (√āp+pra, 'attain'), disau (√diś, 'grant') — pāveu is here read with Nandiṣeṇa as subject ('may N. attain'), though it can also be read causatively ('may [the Lord] cause N. to attain'); both yield the same devotional sense. 'નંદિસેણ મભિનંદિ' is taken as nandiseṇa + euphonic -m- + abhinandi; the -m- is a hiatus-bridge, not a separate morpheme. The fourfold nandi is the poet's signature (kavi-mudrā), confirmed by the preface. A faint echo of Abhinandana (4th Tīrthaṅkara) in 'abhinandi' is noted as a resonance only, not asserted. Per the tradition base, this shared smaraṇa recurs in Cāumāsī/Sāṁvatsarī unchanged but for the pakkhī→cāumāsī/saṁvatsarī substitution."
+}

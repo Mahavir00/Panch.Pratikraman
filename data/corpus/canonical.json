@@ -1,0 +1,4005 @@
+{
+  "tradition": "achhalgach",
+  "source": "data/book/panch-pratikraman.full.md (golden OCR of the printed book)",
+  "generatedAt": "2026-06-07T17:19:47.002Z",
+  "sutras": [
+    {
+      "sutraId": "navkar",
+      "name_native": "શ્રી નવકાર મહામંત્ર",
+      "name_translit": "Shri Navkar Mahamantra",
+      "name_en": "The Navkar (Pancha-Parameshthi) Great Mantra",
+      "aliases": [],
+      "order": 1,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "20",
+      "pdfPages": [
+        2
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Universal opening invocation to the five Parameshthins",
+      "shlokas": [
+        {
+          "shlokaId": "navkar/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "નમો અરિહંતાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "નમો સિદ્ધાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "નમો આયરિયાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "નમો ઉવજ્ઝાયાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "નમો લોએ સવ્વસાહૂણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "એસો પંચ નમુક્કારો,",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "સવ્વપાવપ્પણાસણો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "મંગલાણં ચ સવ્વેસિં,",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "navkar/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "પઢમં હોઇ મંગલં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "panchindiya",
+      "name_native": "પંચિંદિય સૂત્ર (શ્રી ગુરુસ્થાપના સૂત્ર)",
+      "name_translit": "Panchindiya Sutra (Guru-sthapana)",
+      "name_en": "Five-Senses / Guru-Establishment Sutra",
+      "aliases": [],
+      "order": 2,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "21",
+      "pdfPages": [
+        3
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Praise of the guru's 36 attributes; establishes the sthapanacharya",
+      "shlokas": [
+        {
+          "shlokaId": "panchindiya/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "પંચિંદિય સંવરણો, તહ નવવિહ બંભચેર ગુત્તિધરો ।\nચઉવિહ કસાય મુક્કો, ઇય અટ્ઠારસ ગુણેહિં સંજુત્તો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "panchindiya/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "પંચ મહવ્વય જુત્તો, પંચ વિહાયાર પાલણ સમત્થો ।\nપંચ સમિઓ તિગુત્તો, છત્તીસ ગુણેહિં ગુરુ મજ્ઝ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "iriyavahiyam",
+      "name_native": "ઇરિયાવહિયં સૂત્ર / ઇરિયાપથિકી સૂત્ર",
+      "name_translit": "Iriyavahiyam Sutra",
+      "name_en": "Confession of Faults While Moving",
+      "aliases": [],
+      "order": 3,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "21",
+      "pdfPages": [
+        3
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Atonement (micchami dukkadam) for harm to living beings during movement",
+      "shlokas": [
+        {
+          "shlokaId": "iriyavahiyam/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "ઇચ્છામિ પડિક્કમિઉં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "ઇરિયાવહિયાએ વિરાહણાએ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "ગમણાગમણે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "પાણક્કમણે, બીયક્કમણે, હરિયક્કમણે, ઓસા, ઉત્તિંગ, પણગ, દગ, મટ્ટી,\nમક્કડા-સંતાણા સંકમણે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "જે મે જીવા વિરાહિયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "એગિંદિયા, બેઇંદિયા, તેઇંદિયા, ચઉરિંદિયા, પંચિંદિયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "iriyavahiyam/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "અભિહયા, વત્તિયા, લેસિયા, સંઘાઇયા, સંઘટ્ટિયા, પરિયાવિયા, કિલામિયા,\nઉદ્દવિયા, ઠાણાઓ ઠાણં સંકામિયા, જીવિયાઓ વવરોવિયા,\nતસ્સ મિચ્છા મિ દુક્કડં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "tassa-uttari",
+      "name_native": "તસ્સ ઉત્તરીકરણ સૂત્ર",
+      "name_translit": "Tassa Uttari Sutra",
+      "name_en": "Tassa Uttari (Kayotsarga-introducer)",
+      "aliases": [],
+      "order": 4,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "22",
+      "pdfPages": [
+        4
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Resolve to purify the self by undertaking kayotsarga",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "annattha",
+      "name_native": "અન્નત્થ સૂત્ર (કાયોત્સર્ગ)",
+      "name_translit": "Annattha Sutra",
+      "name_en": "Annattha (Permitted Exceptions in Kayotsarga)",
+      "aliases": [],
+      "order": 5,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "22",
+      "pdfPages": [
+        4
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Lists bodily acts that do not break the kayotsarga vow",
+      "shlokas": [
+        {
+          "shlokaId": "annattha/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "અન્નત્થ ઊસસિએણં, નિસસિએણં, ખાસિએણં, છીએણં, જંભાઇએણં,\nઉડ્ડુએણં, વાયનિસગ્ગેણં, ભમલિએ, પિત્તમુચ્છાએ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "annattha/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "સુહુમેહિં અંગસંચાલેહિં, સુહુમેહિં ખેલસંચાલેહિં,\nસુહુમેહિં દિટ્ઠિસંચાલેહિં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "annattha/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "એવમાઇએહિં આગારેહિં, અભગ્ગો, અવિરાહિઓ,\nહુજ્જ મે કાઉસ્સગ્ગો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "annattha/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "જાવ અરિહંતાણં ભગવંતાણં, નમુક્કારેણં, ન પારેમિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "annattha/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "તાવ કાયં ઠાણેણં, મોણેણં, ઝાણેણં, અપ્પાણં, વોસિરામિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "logassa",
+      "name_native": "લોગસ્સ સૂત્ર (ચતુર્વિંશતિ-સ્તવ)",
+      "name_translit": "Logassa Sutra (Chaturvimshati-stava)",
+      "name_en": "Logassa — Praise of the Twenty-Four Tirthankaras",
+      "aliases": [],
+      "order": 6,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "22-23",
+      "pdfPages": [
+        4,
+        5
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Second Avashyaka (Chauvisattho); the kayotsarga is counted in Logassa units",
+      "shlokas": [
+        {
+          "shlokaId": "logassa/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "લોગસ્સ ઉજ્જોઅગરે, ધમ્મ તિત્થયરે જિણે ।\nઅરિહંતે કિત્તઇસ્સં, ચઉવ્વીસંપિ કેવલી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "ઉસભ મજિઅં ચ વંદે, સંભવ મભિણંદણં ચ સુમઇં ચ ।\nપઉમપ્પહં સુપાસં, જિણં ચ ચંદપ્પહં વંદે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "સુવિહિં ચ પુષ્ફદંતં, સીયલ સિજ્જંસ વાસુપુજ્જં ચ ।\nવિમલ મણંતં ચ જિણં, ધમ્મં સંતિં ચ વંદામિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "કુંથું અરં ચ મલ્લિં, વંદે મુણિસુવ્વયં નમિજિણં ચ ।\nવંદામિ રિટ્ઠનેમિં, પાસં તહ વદ્ધમાણં ચ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "એવં મએ અભિથુઆ, વિહુય રયમલા પહીણ જર મરણા ॥\nચઉવીસંપિ જિણવરા, તિત્થયરા મે પસીયંતુ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "કિત્તિય વંદિય મહિયા, જે એ લોગસ્સ ઉત્તમા સિદ્ધા ।\nઆરુગ્ગ બોહિલાભં, સમાહિવરમુત્તમં દિંતુ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "logassa/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "ચંદેસુ નિમ્મલયરા, આઇચ્ચેસુ અહિયં પયાસયરા ।\nસાગર વર ગંભીરા સિદ્ધા સિદ્ધિં મમ દિસંતુ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "gamanagamano",
+      "name_native": "ગમણાગમણો",
+      "name_translit": "Gamanagamano",
+      "name_en": "Gamanagamano (Faults of Coming and Going)",
+      "aliases": [],
+      "order": 7,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "23",
+      "pdfPages": [
+        5
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Confession of faults in movement to and from the place of ritual",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "jivrashi",
+      "name_native": "જીવરાશિ સૂત્ર",
+      "name_translit": "Jivarashi Sutra",
+      "name_en": "Jivarashi (Classes of Living Beings)",
+      "aliases": [],
+      "order": 8,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "24",
+      "pdfPages": [
+        6
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Enumeration of the classes of jivas, for mindful confession",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "adhar-papsthanak",
+      "name_native": "અઢાર પાપસ્થાનક સૂત્ર",
+      "name_translit": "Adhar Papasthanak Sutra",
+      "name_en": "The Eighteen Sources of Sin",
+      "aliases": [],
+      "order": 9,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "25",
+      "pdfPages": [
+        7
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "The eighteen categories of sin to be confessed and renounced",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "dravya-kshetra-kaal-bhav",
+      "name_native": "દ્રવ્ય ક્ષેત્ર કાલ ભાવ",
+      "name_translit": "Dravya Kshetra Kaal Bhav",
+      "name_en": "Substance, Place, Time, State (declaration)",
+      "aliases": [],
+      "order": 10,
+      "kind": "vidhi-sutra",
+      "script": "gujarati",
+      "bookPages": "25",
+      "pdfPages": [
+        7
+      ],
+      "usedIn": [
+        "devasi",
+        "deshavagasik"
+      ],
+      "role": "Declaration of the four-fold scope (dravya/kshetra/kaal/bhava) for the vow",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "karemi-bhante",
+      "name_native": "કરેમિ ભંતે! સૂત્ર (સામાયિક)",
+      "name_translit": "Karemi Bhante Sutra",
+      "name_en": "Karemi Bhante — the Samayika Vow",
+      "aliases": [],
+      "order": 11,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "26",
+      "pdfPages": [
+        8
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari",
+        "deshavagasik"
+      ],
+      "role": "First Avashyaka (Samaiya): the equanimity vow that opens samayika",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "padilehana",
+      "name_native": "પડિલેહણ વિધિ (૫૦ બોલ)",
+      "name_translit": "Padilehana Vidhi (50 bol)",
+      "name_en": "Inspection of Garments — 50 Points",
+      "aliases": [],
+      "order": 12,
+      "kind": "vidhi-sutra",
+      "script": "gujarati",
+      "bookPages": "27-30",
+      "pdfPages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "The 50-point mindful inspection (padilehana) of cloth and body",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "suguru-dwadashavarta-vandana",
+      "name_native": "સુગુરુને (દ્વાદશાવર્ત) વાંદણા સૂત્ર",
+      "name_translit": "Suguru Dwadashavarta Vandana Sutra",
+      "name_en": "Twelve-Fold Salutation to the Guru",
+      "aliases": [],
+      "order": 13,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "31-32",
+      "pdfPages": [
+        13,
+        14
+      ],
+      "usedIn": [
+        "devasi",
+        "rai",
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Third Avashyaka (Vandanaa): the twelve-gesture veneration of the guru",
+      "shlokas": [
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "ઇચ્છામિ ખમાસમણો! વંદિઉં જાવણિજ્જાએ નિસીહિઆએ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "અણુજાણહ મે મિઉગ્ગહં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "નિસીહિ અ - હો, કા - યં, કા - ય, સંફાસં, ખમણિજ્જો ભે કિલામો\nઅપ્પકિલંતાણં, બહુસુભેણ ભે દિવસો વઇક્કંતો ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "જ - ત્તા - ભે?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "જ - વ - ણિ, જ્જં - ચ - ભે?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "ખામેમિ ખમાસમણો ! દેવસિયં વઇક્કમં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "suguru-dwadashavarta-vandana/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "*આવસ્સિઆએ, પડિક્કમામિ, ખમાસમણાણં દેવસિઆએ આસાયણાએ,\nતિત્તીસન્નયરાએ, જંકિંચિ મિચ્છાએ, મણદુક્કડાએ, વયદુક્કડાએ,\nકાયદુક્કડાએ, કોહાએ, માણાએ, માયાએ, લોભાએ, સવ્વ કાલિઆએ,\nસવ્વ મિચ્છોવયારાએ, સવ્વ ધમ્માઇક્કમણાએ, આસાયણાએ. જો મે દેવસિઓ\nઅઇઆરો કઓ, તસ્સ ખમાસમણો ! પડિક્કમામિ, નિંદામિ, ગરિહામિ,\nઅપ્પાણં વોસિરામિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "laghu-atiyar",
+      "name_native": "શ્રાવકના બાર વ્રતના લઘુ અતિયાર",
+      "name_translit": "Shravakna Bar Vratna Laghu Atiyar",
+      "name_en": "Short Confession of the 12 Lay Vows' Transgressions",
+      "aliases": [],
+      "order": 14,
+      "kind": "atichar",
+      "script": "gujarati",
+      "bookPages": "33-36",
+      "pdfPages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "usedIn": [
+        "devasi",
+        "rai"
+      ],
+      "role": "Fourth Avashyaka (Padikkamana): the SHORT atichar — confession of transgressions of the 12 shravaka vows (used in Devasi/Rai)",
+      "shlokas": [
+        {
+          "shlokaId": "laghu-atiyar/01",
+          "number": 1,
+          "printedNumber": 2,
+          "native_script": "(ઇચ્છં) અરિહંત દેવ, સુસાધુ ગુરુ, જિનપ્રણીત ધર્મ, ભાવતઃ સમકિત\nપ્રતિપાલું, દ્રવ્યતો લૌકિક, લોકોત્તર, દેવગત, ગુરુગત, પર્વગત મિથ્યાત્વ\nવિષે જયણા કરું. એ શ્રી સમકિતતણા પાંચ અતિયાર શોધું. શંકા, કંખા,\nવિતિગિચ્છા, પરપાખંડી પરશંસા, પરપાખંડી સંથુઓ. એ પાંચ અતિયારમાંહે\nદિવસ (રાત્રિ હોય તો “રાત્રિ સંબંધી” કહેવું) સંબંધી જિકો કોઇ\nઅતિયાર હુઓ હોય, તે સવિ હું મને, વચને, કાયાએ કરી મિચ્છા મિ\nદુક્કડં.\n૧. બાર વ્રત માંહે પહેલું પ્રાણાતિપાત વિરમણવ્રત. સ્થૂલ બે ઇંદ્રિયાદિક\nત્રસ જીવ નિરપરાધ ઉપેતકરણ સંકલ્પી કરી હણવા નિયમ, આરંભે જયણા.\nએ પહેલા પ્રાણાતિપાત વિરમણવ્રતતણા પાંચ અતિયાર શોધું. બંધે, વહે,\nછવિચ્છેએ, અઇભારે, ભત્તપાણવુચ્છેએ. એ પાંચ અતિયારમાંહે દિવસ\nસંબંધી. ઇત્યાદિ પાઠ દરેક અતિયારે કહેવું.\n૨. બીજું સ્થૂલ મૃષાવાદ વિરમણવ્રત. પંચવિધ કન્નાલીએ, ગોવાલીએ,\nભમાલીએ, નાસાવહારે, કૂડસક્ખિજ્જે. એ પાંચ મોટકાં કૂડાં આપણને કાજે,\nસ્વજનને કાજે, ધર્મને કાજે મૂકી, પરકાજે કૂડું બોલવા નિયમ, સૂક્ષ્મ\nઅલીકતણી જયણા કરું. એ બીજા સ્થૂલ મૃષાવાદ વિરમણવ્રતતણા પાંચ\nઅતિયાર શોધું. સહસ્સાભક્ખાણો, રહસ્સાભક્ખાણો, સદારામંતભેએ\nમોસોવએસે, કૂડલેહકરણે. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/02",
+          "number": 2,
+          "printedNumber": 3,
+          "native_script": "૩. ત્રીજું સ્થૂલ અદત્તાદાન વિરમણવ્રત. સચિત્ત, અચિત્ત રાજનિગ્રહ\nકારીઉં, પિયારું અણદીધું લેવા નિયમ. સૂક્ષ્મ તૃણા, ઇંધણા, પથિપતિત\nવવહારનિયોગે, દાણચોરીજયણા. એ ત્રીજા સ્થૂલ અદત્તાદાન વિરમણવ્રતતણા\nપાંચ અતિયાર શોધું. તેનાહડે, તક્કરપ્પઓગે, વિરુદ્ધરજજાઇકમ્મે,\nકૂડતુલ્લકૂડમાણે, તપ્પડિરુવગવવહારે. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/03",
+          "number": 3,
+          "printedNumber": 4,
+          "native_script": "૪. ચોથું શીલવ્રત. યથાશકતે, સ્વદારાસંતોષ, પરદારાવિવર્જના-\nરૂપ. એ ચોથા શીલવ્રતતણા પાંચ અતિયાર શોધું. ઇતર પરિગ્ગહિયાગમણે,\nઅપર પરિગ્ગહિયાગમણે, અનંગકીડા, પરવિવાહ કરણે, કામભોગ\nતિવ્વાભિલાસે. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/04",
+          "number": 4,
+          "printedNumber": 5,
+          "native_script": "૫. પાંચમું પરિગ્રહ પરિમાણવ્રત. નવવિધ, ખિત્ત, ઘર, હટ્ટ, વાડિય,\nકુવિય, ધણ-ધન્ન, હિરણ્ણ-સુવણ્ણ, અઇપરિમાણ દુપ્પય, ચઉપ્પયમિય,\nનવવિહ પરિગ્ગહવયંતો. એ પાંચમા પરિગ્રહપરિમાણવ્રતતણા પાંચ અતિયાર\nશોધું. ખિત્તવત્થુ પ્પમાણાઇક્કમે, હિરણ્ણસુવણ્ણ પ્પમાણાઇક્કમે, ધણધન્ન\nપ્પમાણાઇક્કમે, દુપ્પય ચઉપ્પય પ્પમાણાઇક્કમે, કુવિય પ્પમાણાઇક્કમે. એ\nપાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/05",
+          "number": 5,
+          "printedNumber": 6,
+          "native_script": "૬. છઠ્ઠું દિશિવ્રત ત્રિવિધે જાણવું. ઉઢ્ઢદિસિવએ, અહોદિસિવએ,\nતિરિયદિસિવએ. એ છઠ્ઠા દિશિવ્રતતણાં પાંચ અતિયાર શોધું. ઉઢ્ઢદિસિ\nપ્પમાણાઇક્કમે, અહોદિસિ પ્પમાણાઇક્કમે, તિરિયદિસિ પ્પમાણાઇક્કમે,\nખિત્તવુઢ્ઢિ, સયંતરદ્ધા. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/06",
+          "number": 6,
+          "printedNumber": 1,
+          "native_script": "૭. સાતમું ભોગોપભોગવ્રત. દ્વિવિધ, ભોજનતઃ કર્મતશ્ચ. તત્ર\nભોજનતઃ–\nસચિત્ત દવ્વ વિગ્ગઇ, ઉવાણ તંબોલ ચીર કુસુમેસુ ।\nવાહણ સયણ વિલેવણ,બંભ દિસિ ન્હાણ ભત્તેસુ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "એ સાતમા ભોગોપભોગવ્રતતણા પાંચ અતિયાર શોધું. સચિત્ત આહારે,\nસચિત્ત પડિબદ્ધ આહારે. અપ્પોસહિ ભક્ખણયા, દુપ્પોસહિ ભક્ખણયા,\nતુચ્છોસહિ ભક્ખણયા. એ પાંચ અતિયાર માંહે. ॥\nકર્મતઃ પન્નરે કર્માદાન, ઇંગાલકમ્મે, વણકમ્મે, સાડીકમ્મે, ભાડીકમ્મે,\nફોડીકમ્મે, દંત વાણિજ્જે, લખ્ખ વાણિજ્જે, રસ વાણિજ્જે, વિસ વાણિજ્જે,\nકેસ વાણિજ્જે, જંતપીલણ કમ્મે, નિલંછણ કમ્મે, દવગ્ગિ દાવણયા, સર\nદહ તલાવ સોસણયા, અસઇ પોસણયા એ પન્નર કર્માદાન વિષે સ્થૂલ\nનિયમ, સૂક્ષ્મતણી જયણા. એ પન્નર કર્માદાન માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "૮. આઠમું અનર્થદંડ વિરમણવ્રત. ચતુર્વિધ અવજઝાણાયરિએ,\nપ્પમાયાયરિએ, હિંસપ્પયાણે, પાવકમ્મોવએસે.એ આઠમા અનર્થદંડ\nવિરમણવ્રતતણા પાંચ અતિયાર શોધું. કંદપ્પે, કુક્કુઇએ, મુહરિએ,\nસંજુત્તાહિગરણે, ઉવભોગ પરિભોગ અઇરેગે. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "૯. નવમું સામાયિકવ્રત. સામાઇય નામ સાવજજ જોગ પરિવજજણં,\nનિરવજજ જોગ આસેવણા ચ. એ નવમા સામાયિક વ્રતતણા પાંચ અતિયાર\nશોધું. મણ દુપ્પણિહાણે, વય દુપ્પણિહાણે, કાય દુપ્પણિહાણે, સામાઇયસ્સ\nઅકરણયા, સામાઇયસ્સ અણવુટ્ઠિયસ્સ કરણયા. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "૧૦. દશમું દેશાવગાસિકવ્રત. દિસિવય ગહિયસ્સ, દિસા પરિમાણસ્સ,\nપઇદિણં પરિમાણ કરણં. એ દશમા દેશાવગાસિકવ્રતતણા પાંચ અતિયાર\nશોધું. આણવણપ્પઓગે, પેસવણ પ્પઓગે, સદ્દાણુવાઇ, રુવાણુવાઇ,\nબહિયા પુગ્ગલ પક્ખેવે. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "૧૧. ઇગ્યારસું (અગિયારમું) પૌષધવ્રત. ચિહું ભેદે જાણવું.\nઆહારપોસહે, સરીરસક્કાર પોસહે, બંભચેર પોસહે, અવ્વાવાર પોસહે.\nએ ઇગ્યારમા પૌષધવ્રતતણા પાંચ અતિયાર શોધું. અપ્પડિલેહિય દુપ્પડિલેહિય\nસિજજાસંથ્થારે, અપ્પમજ્જિય દુપ્પમજ્જિય સિજજાસંથારે, અપ્પડિલેહિય\nદુપ્પડિલેહિય ઉચ્ચાર પાસવણ ભૂમિ, અપ્પમજ્જિય દુપ્પમજ્જિય ઉચ્ચાર\nપાસવણ ભૂમિ, પોસહોવવાસસ્સ સમ્મં અણાણુપાલયણા. એ પાંચ અતિયાર\nમાંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "laghu-atiyar/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "૧૨ બારમું અતિથિ સંવિભાગવ્રત, અતિથિ સંવિભાગો નામ\nનાયાગયાણં, કપ્પણિજજાણં, અન્નપાણાઇણં, દવ્વાણં, દેસ–\nકાલ–સદ્ધા–સક્કાર, કમ્મજોએ, પરાઇભત્તીએ, આયાણુગ્ગહ બુદ્ધિએ\nસંજયાણં દાણં. એ બારમા અતિથિ સંવિભાગ વ્રતતણા પાંચ અતિયાર શોધું.\nસચિત્ત નિક્ખેવણયા, સચિત્ત પિહણયા, કાલાઇક્કમદાણે, પરોવએસે,\nમચ્છરયા. એ પાંચ અતિયાર માંહે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "muni-vandana",
+      "name_native": "શ્રી ગુરુવંદના (મુનિ વંદના) સૂત્ર",
+      "name_translit": "Shri Guru-vandana (Muni Vandana) Sutra",
+      "name_en": "Salutation to the Munis (with Anchalgachchha lineage)",
+      "aliases": [],
+      "order": 15,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "37-38",
+      "pdfPages": [
+        19,
+        20
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Veneration of the munis; includes the Anchalgachchha pattaavali (lineage of acharyas)",
+      "shlokas": [
+        {
+          "shlokaId": "muni-vandana/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "અઢાઇજેસુ દીવ સમુદ્દેસુ, પન્નરસસુ કમ્મભૂમિસુ ॥\nજાવંત કેવિ સાહૂ, રયહરણ ગુચ્છ પડિગ્ગહ ધારા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "પંચમહવ્વય ધારા, અઢાર સહસ્સ * સીલંગ ધારા ॥\nઅખ્ખયાયાર ચરિત્તા, તે સવ્વે સિરસા મણસા મત્થએણ વંદામિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/03",
+          "number": 3,
+          "printedNumber": 1,
+          "native_script": "પહેલે પાટે સુધર્માસ્વામી, બીજે પાટે જંબૂસ્વામી, ત્રીજે પાટે પ્રભવસ્વામી,\nચોથે પાટે સિજ્જંભવસૂરિ, પાંચમે પાટે યશોભદ્રસૂરિ, છઠ્ઠે પાટે સંભૂતિવિજયસૂરિ,\nસાતમે પાટે ભદ્રબાહુસ્વામી, આઠમે પાટે સ્થૂલિભદ્રસ્વામી * એવા પાટાનુપાટે\nસુડતાલીસમા પાટધર, શ્રીવિધિપક્ષગચ્છ શણગાર, જંગમ યુગપ્રધાન –\nપુજ્જ સિરિ અજ્જરખ્ખિય, ગુરુણો તપ્પટ્ટે પુજ્જ જયસિંહા ॥\nસૂરિ સિરિ ધમ્મઘોસા, મહિંદસિંહા તઓ ગુરુણો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/04",
+          "number": 4,
+          "printedNumber": 2,
+          "native_script": "તપ્પય સિરિ સિંહપહા, તેસિં પએ અજયસિંહ વરગુરુણો ॥\nદેવિંદસિંહ ગુરુણો, તપ્પય સિરિ ધમ્મપ્પહસૂરિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/05",
+          "number": 5,
+          "printedNumber": 3,
+          "native_script": "સિરિ સિંહતિલય સૂરિ, તપ્પય સિરિ મહિંદપ્પહ ગુરુણો ॥\nસિરિ મેરુતુંગ ગુરુણો, તપ્પય જયકિત્તિ ગુરુરાઓ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/06",
+          "number": 6,
+          "printedNumber": 4,
+          "native_script": "સિરિ જયકેસરી સૂરિ, તપ્પય સિદ્ધાંતસાયરો સુગુરુ ॥\nસિરિ ભાવસાયર ગુરુ, તપ્પય સૂરિ ગુણનિહાણો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/07",
+          "number": 7,
+          "printedNumber": 5,
+          "native_script": "સિરિ ધમ્મમુત્તિ સૂરિ, તપ્પય કલ્લાણસાયર મુણિંદો ॥\nસિરિ અમરસાયર ગુરુ, કલ્લાણં કુણઉ સંઘસ્સ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "muni-vandana/08",
+          "number": 8,
+          "printedNumber": 6,
+          "native_script": "તપ્પટ્ટે પુવ્વ પવ્વય, ભાણુ વિજજાસાયરં સૂરિ ॥\nસિરિ ઉદયસાયર સૂરિ, તપ્પય ગુણામણિ રુહાણં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "drumapushpika-sajjhay",
+      "name_native": "શ્રી દશવૈકાલિકે દ્રુમપુષ્પિકા પ્રથમાધ્યયન સજ્ઝાય",
+      "name_translit": "Dashavaikalik Drumapushpika Pratham-adhyayan Sajjhay",
+      "name_en": "Drumapushpika — First Chapter of the Dashavaikalika Sutra",
+      "aliases": [],
+      "order": 16,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "39",
+      "pdfPages": [
+        21
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Svadhyaya (study-recitation): the opening chapter of the Dashavaikalika mulasutra",
+      "shlokas": [
+        {
+          "shlokaId": "drumapushpika-sajjhay/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "પ્રથમાધ્યયન સજ્ઝાય ॥\nધમ્મો મંગલમુક્કિઠં, અહિંસા સંજમો તવો ।\nદેવાવિ તં નમંસંતિ, જસ્સ ધમ્મે સયા મણો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "drumapushpika-sajjhay/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "જહા દુમસ્સ પુફ્ફેસુ, ભમરો આવિયઇ રસં ।\nણ ય પુફ્ફં કિલામેઇ, સો ય પીણેઇ અપ્પયં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "drumapushpika-sajjhay/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "એમે એ સમણા મુત્તા, જે લોએ સંતિ સાહૂણો ।\nવિહંગમાવ પુફ્ફેસુ, દાણભત્તેસણે રયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "drumapushpika-sajjhay/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "વયં ચ વિત્તિં લબ્ભામો, ન ય કોઇ ઉવહમ્મઇ ।\nઅહાગડેસુ રિયંતે, પુફ્ફેસુ ભમરા જહા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "drumapushpika-sajjhay/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "મહુગારસમા બુદ્ધા, જે ભવંતિ અણિસ્સિયા ।\nણાણાપિંડરયા દંતા, તેણં વુચ્ચંતિ સાહૂણો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "panch-parmeshthi-sajjhay",
+      "name_native": "પંચ પરમેષ્ઠિની સજઝાય",
+      "name_translit": "Panch Parmeshthi ni Sajjhay",
+      "name_en": "Sajjhay of the Five Parameshthins",
+      "aliases": [],
+      "order": 17,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "39",
+      "pdfPages": [
+        21
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Svadhyaya in praise of the five supreme beings",
+      "shlokas": [
+        {
+          "shlokaId": "panch-parmeshthi-sajjhay/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "અરહિંતા મંગલં મુજઝ, અરિહંતા મુજઝ દેવયા।\nઅરિહંતા કિત્તિયં તાણં, વોસિરામિ ત્તિ પાવગં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "panch-parmeshthi-sajjhay/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "સિદ્ધાય મંગલં મુજઝ, સિદ્ધાય મુજઝ દેવયા।\nસિદ્ધાય કિત્તિયં તાણં,વોસિરામિ ત્તિ પાવગં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "panch-parmeshthi-sajjhay/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "આયરિયા મંગલં મુજઝ, આયરિયા મુજઝ દેવયા।\nઆયરિયા કિત્તિયં તાણં, વોસિરામિ ત્તિ પાવગં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "panch-parmeshthi-sajjhay/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "ઉવજઝાયા મંગલં મુજઝ, ઉવજઝાયા મુજઝ દેવયા।\nઉવજઝાયા કિત્તિયં તાણં, વોસિરામિ ત્તિ પાવગં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "mannaha-jinanam-sajjhay",
+      "name_native": "મન્નહ જિણાણં (શ્રાવક કૃત્યની) સજઝાય",
+      "name_translit": "Mannaha Jinanam (Shravak Krutya ni) Sajjhay",
+      "name_en": "Mannaha Jinanam — The Lay Devotee's Duties",
+      "aliases": [],
+      "order": 18,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "40",
+      "pdfPages": [
+        22
+      ],
+      "usedIn": [
+        "devasi"
+      ],
+      "role": "Svadhyaya enumerating the daily duties of a shravaka",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "samayik-parvani",
+      "name_native": "સામાયિક પારવાની ગાથા તથા સૂત્ર",
+      "name_translit": "Samayik Parvani Gatha ane Sutra",
+      "name_en": "Verses & Sutra for Concluding the Samayika",
+      "aliases": [],
+      "order": 19,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "41-43",
+      "pdfPages": [
+        23,
+        24,
+        25
+      ],
+      "usedIn": [
+        "devasi",
+        "deshavagasik"
+      ],
+      "role": "Marks completion of the 48-minute samayika and its concluding confession",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "kevalnani-chaityavandan",
+      "name_native": "શ્રી કેવલનાણી બૃહત્ ચૈત્યવંદન",
+      "name_translit": "Kevalnani Bruhat Chaityavandan",
+      "name_en": "The Kevalnani Great Chaitya-vandana (by Vachak Moola)",
+      "aliases": [],
+      "order": 20,
+      "kind": "chaityavandan",
+      "script": "gujarati",
+      "bookPages": "45-50",
+      "pdfPages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "usedIn": [
+        "rai"
+      ],
+      "role": "Extended devotional hymn (multiple dhalas) venerating the omniscient Jinas and the tirthas",
+      "shlokas": [
+        {
+          "shlokaId": "kevalnani-chaityavandan/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-પહેલી)\nકેવલનાણી શ્રી નિરવાણી, સાગર મહાજસ વિમલ તે જાણી ।\nસર્વાનુભૂતિ શ્રીધર ગુણખાણી, દત્ત દામોદર વંદો પ્રાણી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "સુતેજસ્વામી મુનિસુવ્રત જાણી, સુમતિને શિવગતિ પંચમ નાણી ।\nઅસ્તાંગ નેમીસર અનિલ તે જાણી, યશોધર સેવો મનમાંહિ આણી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "કૃતારથ જપતાં નવિ હોય હાણી, ધમીસર પામ્યા શિવપુરરાણી ।\nશુદ્ધમતિ શિવકર સ્વંદન ઠાણી, સંપ્રતિના ગુણ ગાયે ઇંદ્રાણી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "'વાચકમૂલા' કહે ઉગતે ભાણી, સ્તવન ભણો જિમ થાઓ નાણી ।\nએ ચોવીશી નિત્ય નિત્ય ગાણી, મુક્તિતણાં સુખ જિમ લ્યો પ્રાણી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/05",
+          "number": 5,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-બીજી)\nઆદિ અજિત જ રે, સંભવ અભિનંદન ભણું ।\nશ્રી સુમતિ જ રે, પદ્મપ્રભુજીના ગુણ થુણું ।\nશ્રી સુપારસ રે, ચંદ્રપ્રભ (જગ) જિન જાણીએ ।\nસુવિધિ શીતલ રે શ્રેયાંસ હરખે વખાણીએ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/06",
+          "number": 6,
+          "printedNumber": 2,
+          "native_script": "ત્રુટક\nવખાણીએ શ્રી વાસુપૂજ્ય, વિમલ અનંત ધર્મ શાંતિ એ ।\nકુંથુ અર મલ્લિ મુનિસુવ્રત, નમિ નેમ ધ્યાઉં ચિત્ત એ ।\nશૂર ધીર પાર્શ્વ વીર, વર્તમાને જિનવરા ।\nકર જોડી વાચક ભણે મૂલા, સ્વામી સેવક સુખકરા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/07",
+          "number": 7,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-ત્રીજી)\nપદ્મનાભ સુરદેવ, સુપાર્શ્વ સ્વયંપ્રભુ હોઇ ।\nસર્વાનુભૂતિ દેવસુત, ઉદય પેઢાલજ જોઇ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/08",
+          "number": 8,
+          "printedNumber": 2,
+          "native_script": "પોટિલ સતકીર્તિ, મુનિસુવ્રત અમમ નિઃકષાય ।\nનિપુલાયક નિર્મમ, ચિત્રગુપ્તિ વંદું પાય",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/09",
+          "number": 9,
+          "printedNumber": 3,
+          "native_script": "સમાધિ સુસંવર, યશોધર, વિજય મલ્લીદેવ ।\nઅનંતવીરજ ભદ્રકૃત, તેહની કીજે સેવ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/10",
+          "number": 10,
+          "printedNumber": 4,
+          "native_script": "અનાગત જિનવર, હોશો તેહના નામ ।\nભણો \"વાચક મૂલા\", તેહને કરું પ્રણામ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/11",
+          "number": 11,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-ચોથી)\nમહાવિદેહ પંચ મઝાર, પ્રત્યેકે જિન ચાર ।\nસીમંધર જુગમંધર, બાહુ સુબાહુ એ સુખકર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/12",
+          "number": 12,
+          "printedNumber": 2,
+          "native_script": "સુજાત સ્વયંપ્રભ સ્વામી, ઋષભાનન લેહું નામી\nઅનંતવીરજ દેવ, સુરપ્રભુ, કરું ય સેવ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/13",
+          "number": 13,
+          "printedNumber": 3,
+          "native_script": "વિશાલ વજંધર સાહુ, ચંદ્રાનન ચંદ્રબાહુ ।\nભુજંગ ઇશ્વર ગાઉં, નેમિપ્રભુ ચિત્ત એ લાઉં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/14",
+          "number": 14,
+          "printedNumber": 4,
+          "native_script": "વીરસેન મહાભદ્ર વંદું, દેવજસા દીઠે આનંદું ।\nઅજિતવીરિય વંદન, શાશ્વતા ઋષભા ચંદ્રાનન",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/15",
+          "number": 15,
+          "printedNumber": 5,
+          "native_script": "વર્ધમાન વારિષેણ ઇશ, એ હુવા જિન ચોવીશ ।\nએવા છન્નુ એ જિનવર, 'વાચક મૂલા' કહે સુખકર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/16",
+          "number": 16,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-પાંચમી)\nહવે પાયાલે લોક મઝ, જિહાં અસુરકુમાર ।\nલાખ ચોસઠ જિનભુવન અછે, તિહાં કરું જુહાર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/17",
+          "number": 17,
+          "printedNumber": 2,
+          "native_script": "નાગકુમાર માંહે કહ્યા, તિહાં લાખ ચોરાશી ।\nએતા જિનહર તિહાં નમું, થાઉં સમકિતવાસી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/18",
+          "number": 18,
+          "printedNumber": 3,
+          "native_script": "સોવનકુમાર મઝ લાખ, બહુંતેર પ્રાસાદ ।\nછન્નું લાખ વાયુ મઝ, સુણિયે સુરનાદ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/19",
+          "number": 19,
+          "printedNumber": 4,
+          "native_script": "દીપકુમાર દિશાકુમાર, વળી ઉદધિકુમાર ।\nવિદ્યુત્ સ્તનિતકુમાર, અને વળી અગ્નિકુમાર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/20",
+          "number": 20,
+          "printedNumber": 5,
+          "native_script": "એ છએ સ્થાનક જાણીએ, પ્રત્યેકે જિનહર ।\nછહુંતેર છહુંતેર લાખ તિહાં, * ભવિઅણ જન સુખકર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/21",
+          "number": 21,
+          "printedNumber": 6,
+          "native_script": "એવંકારે સવિ મળી, બહુંતેર તિહાં લાખ ।\nસાત કોડી જિનહર નમું, શ્રી જિનવર ભાંખ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/22",
+          "number": 22,
+          "printedNumber": 7,
+          "native_script": "લાખ સાઠ નેવ્યાસી કોડી, અને તેરસેં કોડી ।\nજિન પડિમા શ્રીજિનતણી, વંદું બે કર જોડી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/23",
+          "number": 23,
+          "printedNumber": 8,
+          "native_script": "અસંખ્યા વ્યંતર જોઇસી, અસંખ્યા જિનહર ।\nઅસંખ્યા પડિમા જિનતણી, નમિએ નહિ દુર્ગતિ ડર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/24",
+          "number": 24,
+          "printedNumber": 9,
+          "native_script": "'વાચક મૂલા' કહે દેવ, દેઓ સુમતિ સદા મુજ ।\nજિનવચને હું લીન થઇ, ગાઉં જિનજી તુજ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/25",
+          "number": 25,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-છઠ્ઠી)\nચાલ\nસોહમ ઈશાન સનતકુમાર એ,\nમાહિંદ બંભ રે લાંતક સાર એ ॥\nત્રુટક\nસાર શુક્ર અને સહસારહ, આનત પ્રાણત આરણા ।\nઅચ્યુત નવગ્રૈવેયક ત્રિક તિહાં પંચ અનુત્તર તારણા ।\nઅનુક્રમે પ્રાસાદ કહીએ, લાખ સહસ સત સંખયા ।\nબત્તીસ અઠ્ઠાવીસ બારહ, અઠ્ ચઉ લક્ખ અક્ખયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/26",
+          "number": 26,
+          "printedNumber": 2,
+          "native_script": "ચાલ\nપન્નાસ ચાલીસ, છ સહસ જિનહરા ।\nદો દો દોઢજ, દોઢજ સત્તાવરા ॥\nત્રુટક\nવરા સત્તવરા ઇગ્યારોત્તર, સત્તોત્તરસો જાણીએ ।\nએકસો ઉપર પંચ અનુત્તર, અનુક્રમે વખાણીએ ।\nસર્વે મળી જિનહર જિનહર, લાખ ચોરાસી સાખ એ ।\nસહસ સત્તાણું આગલા, તિહાં વીસ ને ત્રણ દાખ એ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/27",
+          "number": 27,
+          "printedNumber": 3,
+          "native_script": "ચાલ\nએકસોકોડી રે, બાવનકોડી એ ।\nલાખચોરાણું રે, સંખ્યા જોડીએ ॥\nત્રુટક\nજોડીએ ચોસઠસહસ, એકસો ચાલીસે તિહાં આગલી ।\nજિનપ્રાસાદ એકસો અસિઅ લેખે, વંદું પ્રતિમા ઉજલી ।\nચૈત્યસંખ્યા ઊર્ધ્વલોકે, વીર વચન વિખ્યાત એ ।\n'વાચક મૂલા' કહે ભણજો, સ્તવન એ પ્રભાત એ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/28",
+          "number": 28,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-સાતમી)\nવેયડ્ઢગિરિ સિતરિસો જિનહર, વૃષધરના તિહાં ત્રીશજી ।\nકુરુડુમના દશ જિનહર બોલ્યા, ગજદંતે તિહાં વીશજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/29",
+          "number": 29,
+          "printedNumber": 2,
+          "native_script": "અસિઅ તે જિનહર કુરુડુમ પરિધેં, અસિઅ વખારે જાણુંજી ।\nમેરુતણા પંચાશી જિનહર, ઇક્ષુકારે ચાર વખાણુંજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/30",
+          "number": 30,
+          "printedNumber": 3,
+          "native_script": "માનુષોત્તર પર્વત તિહાં ચાર જ, નંદીસરમાં વીશજી ।\nકુંડલ રુચક તિહાં ચાર ચાર જિનહર, ઋષભાદિક તિહાં ઇશજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/31",
+          "number": 31,
+          "printedNumber": 4,
+          "native_script": "પંચસયા ઇગ્યારે અધિકા, જિનહર તીર્ચ્છે લોકેજી ।\nપડિમા એકસઠ સહસ ચારસેં, બોલી સઘળે થોકેજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/32",
+          "number": 32,
+          "printedNumber": 5,
+          "native_script": "અધો ઊર્ધ્વ ને તીર્ચ્છે લોકે, સવ્વે મળી કોડી આઠેજી ।\nલાખ છપ્પન ને સહસ સત્તાણુ, પણસય ચોત્રીસ પાઠેજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/33",
+          "number": 33,
+          "printedNumber": 6,
+          "native_script": "જિનપડિમા પન્નરસેં કોડી, બેતાલીશ વળી કોડીજી ।\nલાખ પંચાવન સહસ પણવીસ, પણસય ચાલીસ જોડીજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/34",
+          "number": 34,
+          "printedNumber": 7,
+          "native_script": "એતા સ્તવન ભણો જે ભાવે, પ્રહ ઉગમતે સૂરે જી ।\n'વાચક મૂલા' કહે ગુણ ગાતાં, દુર્ગતિ નાસે દૂરે જી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/35",
+          "number": 35,
+          "printedNumber": 1,
+          "native_script": "(ઢાળ-આઠમી)\nઅઠ્ઠાવય સમેતશિખર ગિરિ, સાજિનજિઅ (સાજનજિ અ) ।\nરેવતગિરિ સેત્તુંજ ॥ ગજપદ ધમ્મચક્ક કહું. સા૦ ।\nવેભાર ગિરિ ઉત્તુંગ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/36",
+          "number": 36,
+          "printedNumber": 2,
+          "native_script": "રહાવતે કુંજરાવતે, સા૦ ॥ તિહુઅણ ગિરિ ગ્વાલેર ।\nકાશી અવંતી જાણીએ, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/37",
+          "number": 37,
+          "printedNumber": 3,
+          "native_script": "સોરિપુર હત્થિણાઉરે, સા૦ ॥ અલવર ઇરાવણ પાસ ।\nપીરોજપુરે ભૂઅડ ભલો, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/38",
+          "number": 38,
+          "printedNumber": 4,
+          "native_script": "બિકાનેર ને મેડતે, સા૦ ॥ સીરોહી આબુશૃંગ ।\nરાણકપુર ને સાદડી, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/39",
+          "number": 39,
+          "printedNumber": 5,
+          "native_script": "ભિન્નમાલ ને કોટડે, સા૦ ॥ બાહડમેર મઝાર ।\nરાયધણપુર રળિયામણું, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/40",
+          "number": 40,
+          "printedNumber": 6,
+          "native_script": "સાચોર જાલોર રાડ્રે, સા૦ ॥ ગોડી પુરવર પાસ ।\nપાટણ અમદાવાદ વળી, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/41",
+          "number": 41,
+          "printedNumber": 7,
+          "native_script": "અમીઝરે નવપલ્લવે, સા૦ ॥ નવખંડ થરાદ્રે ઠામ ।\nતારંગે બુરહાનપુરે, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/42",
+          "number": 42,
+          "printedNumber": 8,
+          "native_script": "ખંભાયત ને તારાપુરે, સા૦ ॥ માતર ને ગંધાર ।\nલોઢણ ચિંતામણિ વરુ, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/43",
+          "number": 43,
+          "printedNumber": 9,
+          "native_script": "દેવકપાટણ દેવગિરિ, સા૦ ॥ નવેનગર વંદી જોય ।\nદીવાદિક સવિ બંદરે, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/44",
+          "number": 44,
+          "printedNumber": 10,
+          "native_script": "વડનગર ને ડુંગરપુરે, સા૦ ॥ ઇડર માલવદેશ ।\nકલ્યાણક જિહાં જિનતણાં, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/45",
+          "number": 45,
+          "printedNumber": 11,
+          "native_script": "ગામ નગર પુર પાટણો, સા૦ ॥ જિનમૂરતિ જિહાં હોય ।\n'વાચકમૂલા' કહે મુજ, સા૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "kevalnani-chaityavandan/46",
+          "number": 46,
+          "printedNumber": 12,
+          "native_script": "કલશ\nછન્નુએ જિનવર છન્નુએ જિનવર, અધો ઊર્ધ્વ ને લોક તીર્ચ્છે જાણુએ ।\nસાસય અસાસય જિનપડિમા, તે સવ્વે વખાણું એ ।\nગચ્છ વિધિપક્ષ પૂજ્ય પ્રગટ, શ્રીધર્મમૂર્તિ સૂરીંદુએ ।\nવાચક મૂલા કહે ભણતાં, ઋદ્ધિવૃદ્ધિ આણંદુએ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "bharahesar-sajjhay",
+      "name_native": "શ્રી ભરહેસરની સજ્ઝાય",
+      "name_translit": "Bharahesar ni Sajjhay",
+      "name_en": "Bharahesar — Litany of Exemplary Souls",
+      "aliases": [],
+      "order": 21,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "51-52",
+      "pdfPages": [
+        33,
+        34
+      ],
+      "usedIn": [
+        "rai"
+      ],
+      "role": "Svadhyaya reciting the names of great monks and satis (virtuous women) as exemplars",
+      "shlokas": [
+        {
+          "shlokaId": "bharahesar-sajjhay/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "ભરહેસર બાહુબલી, અભયકુમારો અ ઢંઢણકુમારો ।\nસિરિઓ અણિયાઉત્તો, અઇમુત્તો નાગદત્તો ય",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "મેઅજ્જ થૂલિભદ્દો, વયરરિસી નંદિસેણ સિંહગિરિ ।\nકયવન્નો અ સુકોસલ, પુંડરિઓ કેસિ કરકંડુ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "હલ્લ વિહલ્લ સુદંસણ, સાલ મહાસાલ સાલિભદ્દો અ ।\nભદ્દો દસન્નભદ્દો, પસન્નચંદો અ જસભદ્દો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "જંબૂપહુ વંકચૂલો, ગયસુકુમાલો અવંતિસુકુમાલો ।\nધન્નો ઇલાઇપુત્તો, ચિલાઇપુત્તો અ બાહુમુણિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "અજ્જગિરિ અજ્જરક્ખિઅ, અજ્જસુહત્થી ઉદાયગો મણગો ।\nકાલયસૂરિ સંબો, પજ્જુન્નો મૂલદેવો અ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "પભવો વિન્હુકુમારો, અદકુમારો દઢપ્પહારી અ ।\nસિજ્જંસ કૂરગડુ અ, સિજ્જંભવ મેહકુમારો અ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "એમાઇ મહાસત્તા, દિંતુ સુહં ગુણાગણેહિં સંજુત્તા ।\nજેસિં નામગ્ગહણે, પાવપબંધા * વિલયં જંતિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "સુલસા ચંદનબાલા, મણોરમા મયણરેહા દમયંતી ।\nનમયાસુંદરી સીયા, નંદા ભદ્દા સુભદ્દા ય",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "રાઇમઇ રિસિદત્તા, પઉમાવઇ અંજણા સિરીદેવી ।\nજિટ્ઠ સુજિટ્ઠ મિગાવઇ, પભાવઇ ચિલ્લણાદેવી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "બંભી સુંદરી રુપ્પિણી, રેવઇ કુંતી સિવા જયંતિ ય ।\nદેવઇ દોવઇ ધારિણી, કલાવઇ પુફ્ફચૂલા ય",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "પઉમાવઇ ય ગોરી, ગંધારી લખમણા સુસીમા ય ।\nજંબૂવઇ સચ્ચભામા, રુપ્પિણિ કણ્હઢ મહિસીઓ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "જખ્ખા ય જખ્ખદિન્ના, ભૂઆ તહ ચેવ ભૂઅદિન્ના ય ।\nસેણા વેણા રેણા, ભયણીઓ થૂલિભદ્દસ્સ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bharahesar-sajjhay/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "ઇચ્ચાઇ મહાસઇઓ, જયંતિ અકલંક સીલ કલિઆઓ ।\nઅજ્જવિ વજ્જઇ જાસિં, જસ પડહો તિહુઅણે સયલે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "rai-mangalacharan",
+      "name_native": "મંગલાચરણ (શ્લોક) — મંગલં ભગવાન વીરો",
+      "name_translit": "Rai Mangalacharan (Shlok)",
+      "name_en": "Closing Auspicious Verses (Mangalam Bhagavan Viro etc.)",
+      "aliases": [],
+      "order": 22,
+      "kind": "stuti",
+      "script": "gujarati",
+      "bookPages": "53-54",
+      "pdfPages": [
+        35,
+        36
+      ],
+      "usedIn": [
+        "rai"
+      ],
+      "role": "Concluding auspicious verses of the Rai pratikraman",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "bruhad-atiyar",
+      "name_native": "શ્રાવકના બાર વ્રતના બૃહદ્ અતિયાર",
+      "name_translit": "Shravakna Bar Vratna Bruhad Atiyar",
+      "name_en": "Extended Confession of the 12 Lay Vows' Transgressions",
+      "aliases": [],
+      "order": 23,
+      "kind": "atichar",
+      "script": "gujarati",
+      "bookPages": "55-68",
+      "pdfPages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "usedIn": [
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Fourth Avashyaka (Padikkamana) in EXTENDED form: detailed atichar of the 5 anuvratas + 3 gunavratas + 4 shikshavratas (used in Pakshik/Chaumasi/Samvatsari)",
+      "shlokas": [
+        {
+          "shlokaId": "bruhad-atiyar/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(મોટા અતિયાર)\nઇચ્છં શ્રાવકતણો ધર્મે શ્રી સમ્યક્ત્વમૂળ બાર વ્રત ભણીએ . ઇચ્છં\nઅરિહંત દેવ, સુસાધુ ગુરુ, જિનપ્રણીત ધર્મ ભાવતઃ સમકિત પ્રતિપાલું. દ્રવ્યતો\nલૌકિક લોકોત્તર દેવગત, ગુરુગત, પર્વગત મિથ્યાત્વ ચતુર્વિધ ભણીએ. હરિ,\nહર, બ્રહ્મા, સૂર્ય, ઇંદ્ર, ચંદ્ર, ગ્રહ, ગોત્રજ, ગણેશ, દિક્પાલ, ક્ષેત્રપાલ,\nસ્કંદ, કપિલ, બુદ્ધ, હનુમંત, યક્ષ, રાક્ષસ * ભક્તિ મુક્તિદાયક ભણી\nઆરાધીએ. તે લૌકિક દેવગત મિથ્યાત્વ. ચરક, પરિવ્રાજક, કૌલ, કાપાલિક,\nદ્વિજ, તાપસ સંસારતારકભણી માનીએ, તે લૌકિક ગુરુગત મિથ્યાત્વ.\n* પરપરિગૃહીત જિનબિંબ, વૈરોટ્યા, બ્રહ્મ, શાંતિ પ્રમુખ જૈન દેવ દેવીતણું\nજે દેવબુદ્ધે પૂજન તે લોકોત્તર દેવગત મિથ્યાત્વ. પાસત્થા, ઉસન્ના, કુશીલ,\nસંસક્ત, અહાછંદ, નિન્હવ, બોટિક, દ્રવ્યલિંગીતણો વિષે જે ગુરુબુદ્ધે પૂજન\nતે લોકોત્તર ગુરુગત મિથ્યાત્વ. એ ચતુર્વિધ મિથ્યાત્વ યથાશક્તે પરિહરું.\nએ શ્રી સમકિતતણા પાંચ અતિયાર શોધું.\nશંકા, કંખા, વિતિગિચ્છા, પરપાસંડિ પરસંસા, પરપાસંડિ સંથુઓ.\nશંકા-જીવાજીવાદિક નવતત્ત્વમાંહે એકે તત્ત્વતણો મન સંદેહ ધર્યો હોય,\nઅથવા દેવગુરુધર્મ સિદ્ધાંતતણો મન સંદેહ ધર્યો હોય. કાંક્ષા-અપર ધર્મ\nતણો અભિલાષ ધર્યો હોય, અથવા સર્વે ધર્મ સરખા લેખવ્યા હોય.\nવિતિગિચ્છા - ધર્મતણા ફલપ્રત્યે મન સંદેહ ધર્યો હોય, અથવા મલમલીન\nગાત્ર તપોધન, તપોધના દેખી દુગંછા કીધી હોય. પરપાસંડિ પરશંસા-\nપરદર્શનીતણી અતિશય વિદ્યાખ્યાતિ દેખી પ્રશંસા કીધી હોય. પરપાસંડિ\nસંથુઓ-પરદર્શનીશું સંસ્તવ, પરિચય, ઇષ્ટગોષ્ટી, અંતરંગ પ્રીતિ, ભક્તિ,\nદાન, આલાપાદિક કીધાં કરાવ્યાં હોય.\nપરતીર્થે સ્વવશપણે ગયા હોઇએ. સ્નાન, દાન, હોમ, મહોત્સવ કીધાં\nકરાવ્યાં હોય તથા સંક્રાંતિ ગ્રહણાસ્નાન, દાનાદિક કર્મ સમાચર્યાં હોય.\nહોળી, પડલી પૂજી હોય, પીપલ, તુલસી, પાણી ઘાલ્યાં હોય. નદી, કુંડ,\nપ્રમુખ લોકિકતીર્થે ધર્મ બુદ્ધે સ્નાન કીધું હોય. આદિત્યવારે એકાદશી ભણી\nતપ કીધું હોય. લોક પ્રવાહે દેવદેવી ભણી યાત્રા ઉજાણી માની હોય.\nકન્યાહલ લીધું હોય, નીલ, તુલસી પરણાવ્યા હોય. શ્રાદ્ધ સંવત્સરી જમ્યા\nહોઇએ.\nઅજ્ઞાપડવો, બલેવ, ભાઇબીજ, અખાત્રીજ, વિણાયગચોથ, નાગ-\nપાંચમ, ઝીલણાછઠ્ઠ, શીલસાતમ, ધ્રુઆઠમ, માહીનોમ, અહવદશમી,\nવિજયાદશમી, ભીમએકાદશી, વચ્છબારશી, ધનતેરશી, શિવચતુર્દશી,\nપૈતૃકીઅમાવાસ્યા, માહીપૂનમ તથા સંક્રાંતિ, ગ્રહણ, વ્યતિપાત, વેધૃત પ્રમુખ\nલોકિકપર્વ અને અષ્ટમી, ચતુર્દશી, પૂર્ણિમા, અમાવાસ્યા, તથા પર્યુ-\nષણપર્વતણી ત્રીજ, ચોથ, પાંચમ ટાળી અનેરે દિવસે પર્વબુદ્ધે તપ કીધું\nહોય. અનેરું જે કાંઇ જિનવચન વિરાધ્યું હોય. અનેરું સમ્યક્ત્વવિષે\nપક્ષદિવસમાંહે જિકો કોઇ સૂક્ષ્મ, બાદર અતિયાર હુઓ હોય તે સવિ\nહું મને, વચને, કાયાએ કરી મિચ્છા મિ દુક્કડં.\n૧. બારવ્રત માંહે પહેલું પ્રાણાતિપાત વિરમણ વ્રત, સ્થૂલ બેઇંદ્રિયાદિક\nત્રસ જીવ નિરપરાધ ઉપેતકરણ સંકલ્પી કરી હણવા નિયમ, આરંભે જયણા.\nએ પહેલા પ્રાણાતિપાત વિરમણ વ્રતતણા પાંચ અતિયાર શોધું.\nબંધે, વહે, છવિચ્છેદે, અઇભારે, ભત્તપાણવુચ્છેએ. દ્વિપદ, ચતુષ્પદ\nપ્રત્યે નિબિડબંધ બાંધ્યા હોય. રીસવશે ઢોર, શ્વાન, માંજાર, દાસ, કુમાર,\nછોરુ, વાછરુ પ્રત્યે ગાઢો પ્રહાર દીધો હોય. છવિચ્છેદ-કર્ણ કંબલાદિકતણો\nછેદ કીધો હોય. ચઉકડી કુંડલી પડાવી હોય. બલીવર્દ નથાવ્યા હોય.\nઅતિભાર આરોપણ - પોઠિયા, વહિત્રા, ઊંટ, બલદ, ખર, વેસરને\nઅતિભાર આરોપ્યો હોય. ભક્તપાનવ્યવચ્છેદ-કુટુંબનાયક હુંતે ભૂખ્યાં,\nતરસ્યાં, ગ્લાન, વૃદ્ધ, છોરુ, વાછરુતણી સારસંભાલ કીધી ન હોય.\nલહેણો દેવે અજિમવો સોંહ દીધો હોય, લાંઘણા પાડી હોય. ખાલ\nવાહ્યા હોય. શલ્યાં ધાન દળાવ્યાં ભરડાવ્યાં હોય. ગળણું વહેલું આપ્યું ન\nહોય. નીલફૂલની જયણા કીધી ન હોય. ધાબા માંડ્યા હોય. કોઉ ઘાતી\nહોય. પૂંજે આગ દીધી હોય. વરાસે દીવો ઉઘાડો મૂક્યો હોય. વાશીગારે\nલીંપણું કીધું કરાવ્યું હોય. વરસાલે ખાત્ર ચલાવ્યા હોય. તડકે માંકડ પખોચ્યા\nહોય. રાત્રે સ્નાન, અંઘોળ કીધું હોય. આખું ફોફલ દાંતે ભાંગ્યું હોય.\nઘરના માણસને જયણા વિશે શિખામણા દીધી ન હોય. અનેરું એ પહેલા\nપ્રાણાતિપાતવિરમણવ્રત વિષે પક્ષ દિવસમાંહે જિકો કોઇ સૂક્ષ્મ, બાદર\nઅતિયાર હુઓ હોય, તે સવિ હું મને, વચને, કાયાએ કરી મિચ્છા મિ\nદુક્કડં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bruhad-atiyar/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "૨. બીજું સ્થૂલ મૃષાવાદ વિરમણ વ્રત પંચવિધ, કન્નાલીએ, ગોવાલીએ,\nભૂમાલીએ, નાસાવહારે, કૂડસક્ખિજ્જે. એ પાંચ મોટકાં કૂડાં આપણને કાજે,\nસ્વજનને કાજે, ધર્મને કાજે મૂકી, પરકાજે કૂડું બોલવા નિયમ. સૂક્ષ્મ\nઅલિકતણી જયણા. એ બીજા સ્થૂલ મૃષાવાદ વિરમણ વ્રત તણા પાંચ\nઅતિયાર શોધું.\nસહસ્સાભક્ખાણો, રહસ્સાભક્ખાણો, સદારામંતભેએ, મોસોવએસે,\nકૂડલેહકરણે. સહસાત્કારે-હારતે, ફીટતે, કુણહપ્રત્યે કૂડું આળ દીધું હોય.\nએ અમુકાતણું કામ અમુકેજ કીધું, ઇસ્યું ભણ્યું હોય. રહસ્સાભક્ખાણો-\nબેજણ એકાંત મંત્ર મંત્રતા દેખી, મેં જાણ્યું તુમે, અમુકું અમુકું રાજવિરુદ્ધ\nઆલોચ્યો છો, ઇસ્યું બોલ્યું હોય. સ્વકીય કલત્ર મિત્રતણો મંત્ર અનેરા આગળે\nપ્રકાશ્યો હોય. મૃષા-કૂડા સિદ્ધાંતતણો ઉપદેશ પરપ્રત્યે દીધો હોય, અથવા\nઅનેરા પાસે કૂડું બોલાવ્યું હોય. કૂડા લેખ લખાવ્યા હોય, મશીભેદ કીધો\nહોય, કૂડી હુંડી, કૂડી મુદ્રા સંચારી હોય, તથા કુણહશું કૂડો ઝગડો માંડ્યો\nહોય, હું જાણું છું તુજને નિધાન લાધું છે, તુજ કને અમુકા અમુકાતણું\nદ્રવ્ય રહ્યું છે, ઇસ્યું બોલ્યું હોય. અનેરું એ બીજા સ્થૂલ મૃષાવાદ વિરમણ\nવ્રત વિષે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bruhad-atiyar/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "૩. ત્રીજું સ્થૂલ અદત્તાદાન વિરમણ વ્રત. સચિત્ત, અચિત્ત, રાજ-\nનિગ્રહ કારિઉં, પિયારું, અણદીધું લેવા નિયમ. સૂક્ષ્મ તૃણ, ઇંધણ પથિ\nપતિત વ્યવહારનિઓગે દાણચોરી, જયણા.એ ત્રીજા સ્થૂલ અદત્તાદાન\nવિરમણ વ્રત તણા પાંચ અતિયાર શોધું.\nતેનાહડે, તક્કરપઓગે, વિરુદ્ધ રજ્જાઇ કમ્મે, કૂડતુલ્લ કૂડમાણે,\nતપ્પડિ રૂવગ વવહારે. સ્તેનાહત-જાણી કરી ચોરાઇ વસ્તુ લીધી હોય.\nતસ્કરપ્રયોગ-ચોરને સંબલ આપ્યું હોય. પગરહણ દીધું હોય, આગલ થઇ\nચોરાઇ વસ્તુ વેંચી વેંચાવી હોય. વિરુદ્ધરજ્જાઇ કમ્મે-વિરુદ્ધરાજ્ય જઇ\nવ્યવસાય કીધો હોય. કૂડતુલ્લકૂડમાણે-કૂડાં તોલાં કૂડાં માપાં કીધાં હોય,\nઅનેરે દીધું અનેરે લીધું હોય, લહકઋહક કીધું હોય, કાટલાં કૂડાં કીધાં\nહોય, ઉસિસી દીધી હોય. તત્પ્રતિરૂપકવ્યવહાર-સફરી વસ્તુમાંહે નફરી\nવસ્તુ ઘાલી સફરીને મૂલ્યે વેંચી હોય. ઘી, તેલ, સાહિલી, કઉચી ભેલસંભેલ\nકીધાં હોય. નવી વાનકી દેખાડી જૂની વસ્તુ આપી હોય. તથા કૂડો કરહો\nકાઢ્યો હોય, વંચદ્રોહ, વિશ્વાસઘાત કીધો હોય. લેખે કોય વરાશ્યું હોય,\nકૂડી મુદ્રા સંચારી હોય. સિસીસી જવાર, ફલ્યા ચણા ઉપાડ્યા હોય, કુણહનું\nદ્રવ્ય વ્યવસાય કરતાં આપણાપાં કને રહ્યું હોય, નાણાં પલટો કીધો હોય.\nઅનેરું એ ત્રીજા સ્થૂલ અદત્તાદાન વિરમણવ્રત વિષે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bruhad-atiyar/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "૪.  ચોથું શીલવ્રત યથાશક્તે સ્વદારાસંતોષ, પરદારા વિવર્જના રૂપ.\nએ ચોથા શીલવ્રતતણા પાંચઅતિયાર શોધું.\nઇત્તર પરિગ્ગહિયા ગમણે, અપર પરિગ્ગહિયા ગમણે, અનંગકીડા,\nપરવિવાહ કરણે, કામભોગ તિવ્વાભિલાસે. ઇત્વરે-થોડે કાલે દ્રવ્યાદિક\nપરિગૃહીત પરસ્ત્રીતણું ગમન કીધું હોય. અપરપરિગૃહીત-વિધવા કુમારિકાતણું\nગમન કીધું હોય. અનંગકીડા-અત્યાસક્તે સ્વદેહ પરદેહ કામ કુચેષ્ટા\nકીધી હોય. પરાયા વિવાહના જોડાવાડા કીધા હોય. કામભોગતણે વિષે\nરાત્રિ દિવસ, તચ્ચિત્ત થઇ તીવ્રાભિલાષ ધર્યો હોય. પર્વતિથિએ વિસ્મૃતલગે\nશીલભંગ હુઓ હોય. પરસ્ત્રીશું અશ્લીલ વચન હાસ્ય કીધાં હોય, સ્ત્રીતણાં\nઅવયવભણી સરાગદૃષ્ટિ કીધી હોય. વેશ્યા વાહિગદર્શની ભણી દુષ્ટ\nમનસા કીધી હોય, સ્વખાંતરે શીલભંગ હુઓ હોય. અનેરું એ ચોથા\nશીલવ્રત વિષે૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "bruhad-atiyar/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "૫.  પાંચમું પરિગ્રહ પરિમાણ વ્રત નવવિધ, ખિત્ત, ઘર, હટ્ટ, વાડિય,\nકુવિય, ધણા, ધન્ન, હિરણ્ણ, સુવણ્ણ અઇપરિમાણા, દુપ્પય, ચઉપ્પયમિય,\nનવવિહ પરિગ્ગહવયંતો. એ પાંચમા પરિગ્રહ પરિમાણ વ્રત તણાં\nપાંચ અતિયાર શોધું.\nખિત્તવત્થુ પ્પમાણાઇક્કમે, હિરણ્ણસુવણ્ણ પ્પમાણાઇક્કમે, ધણાધન્ન\nપ્પમાણાઇક્કમે, દુપ્પયચઉપ્પય પ્પમાણાઇક્કમે, કુવિય પ્પમાણાઇક્કમે. ક્ષેત્ર-\nવાસ્તુ, હિરણ્ણ, સુવણ્ણ, ધન, ધાન્ય, દ્વિપદ, ચતુષ્પદ, રાછપીછતણો\nપ્રમાણાતિક્રમ કીધો હોય, અથવા પરિગ્રહતણે કારણે મોટા આરંભ કઠમર્દ\nમાંડ્યા હોય. આહડ્ડ, દોહડ્ડ ધર્યો હોય. આપણો પરિગ્રહ પુત્ર પૌત્રાદિકતણો,\nકરી આપણે કાજે અણાવ્યો હોય, પરિગ્રહપ્રમાણ લીધું ન હોય. લઇને\nપઢિયું ન હોય, પઢીને વિસાર્યું હોય, વિસારીને સંભાર્યું ન હોય. અનેરું\nએ પાંચમા પરિગ્રહ પરિમાણ વ્રત વિષે૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "ashtottari-tirthmala",
+      "name_native": "શ્રી અષ્ટોત્તરી તીર્થમાળા",
+      "name_translit": "Ashtottari Tirthmala",
+      "name_en": "Garland of 108 Tirthas (by Acharya Mahendrasinhsuri)",
+      "aliases": [],
+      "order": 24,
+      "kind": "stavan",
+      "script": "gujarati",
+      "bookPages": "69-79",
+      "pdfPages": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Devotional roll-call of 108 Jain pilgrimage tirthas, composed by the Anchalgachchha acharya Mahendrasinhsuri",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "nandisutrani-pratham-sajay",
+      "name_native": "શ્રી નંદીસૂત્રની પ્રથમ સજ્ઝાય",
+      "name_translit": "Shri Nandi-sutra ni Pratham Sajjhay",
+      "name_en": "First Sajjhay of the Nandi Sutra",
+      "aliases": [],
+      "order": 25,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "80-82",
+      "pdfPages": [
+        62,
+        63,
+        64
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Svadhyaya: extract from the Nandi-sutra praising Mahavira and the four-fold Sangha (city/chariot/lotus metaphors)",
+      "shlokas": [
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "જયઇ જગજીવ જોણી, વિયાણઓ જગગુરુ જગાણંદો ।\nજગનાહો જગબંધુ, જયઇ જગ પ્પિયામહો ભયવં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "જયઇ સુયાણં પ્પભવો, તિત્થયરાણં અપચ્છિમો જયઇ ।\nજયઇ ગુરુ લોગાણં, જયઇ મહપ્પા મહાવીરો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "ભદ્દં સવ્વ જગુજ્જોયગસ્સ ભદ્દં જિણસ્સ વીરસ્સ ।\nભદ્દં સુરાસુર નમંસિયસ્સ ભદ્દં ધૂય રયસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "ગુણ ભવણ ગહણ સુયરયણ, ભરિય દંસણ વિસુદ્ધ રત્થાગા ।\nસંઘ નયર ભદ્દં તે, અખંડ ચરિત્ત પાગારા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "સંજમ તવ તુંબારગસ્સ, નમો સમ્મત્ત પારિયલ્લસ્સ ।\nઅપ્પડિ ચક્કસ્સ જઓ, હોઇ સયા સંઘ ચક્કસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "ભદ્દં સીલ પડાગુ સિયસ્સ, તવ નિયમ તુરય જુત્તસ્સ ।\nસંઘ રહસ્સ ભગવઓ, સિજ્જાય સુનંદિ ઘોસસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "કમ્મ રય જલોહ વિહિગ્ગયસ્સ, સુય રયણ દીહ નાલસ્સ ।\nપંચ મહવ્વય થિર કણિયસ્સ, ગુણ કેસરાલસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "સાવગ જણ મહુઅરિ પરિવુઢસ્સ, જિણ સૂર તેય બુદ્ધસ્સ ।\nસંઘ પઉમસ્સ ભદ્દં, સમણ ગણ સહસ્સ પત્તસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "તવ સંજમ મિય લંછણ, અકિરિય રાહુ મુહ દુદ્ઘરિસ નિચ્ચં ।\nજય સંઘ ચંદ નિમ્મલ, સમ્મત્ત વિસુદ્ધ જુણ્હાગા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "પરતિત્થિય ગહ પહ નાસગસ્સ, તવ તેઅ દિત્ત લેસસ્સ ।\nનાણુજ્જોયસ્સ જએ, ભદ્દં દમ સંઘસૂરસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "ભદ્દં ધિઇવેલા પરિગયસ્સ, સજ્ઝાય જોગ મગરસ્સ ।\nઅક્ખોહસ્સ ભગવઓ, સંઘ સમુદ્દસ્સ રુંદસ્સ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "સમ્મદંસણ વર વઇર, દઢરૂઢ ગાઢાવગાઢ પીઢસ્સ ।\nધમ્મ વર રયણ મંડિઅ, ચામીયર મેહલાગસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "નિયમૂસિય કણય સિલા યલુ જજલ જલંત ચિત્તકૂડસ્સ ।\nનંદણ વણ મણાહર સુરભિ સીલ ગંધુ ધ્રુમાયસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/14",
+          "number": 14,
+          "printedNumber": 14,
+          "native_script": "જીવદયા સુંદર કંદરુ, દરિય મુણિવર મઇંદ ઇણણસ્સ ।\nહેઉ સય ધાઉ પગલંત, રયણ દિત્તોસહિ ગુહસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/15",
+          "number": 15,
+          "printedNumber": 15,
+          "native_script": "સંવર વર જલ પગલિય, ઉજ્ઝર પવિરાયમાણ હારસ્સ ।\nસાવગ જણ પઉર રવંત, મોર નચ્ચંત કુહરસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/16",
+          "number": 16,
+          "printedNumber": 16,
+          "native_script": "વિણાયણાય પવર મુણિવર, કુરંત વિજજુજજલંત સિહરસ્સ ।\nવિવિહ ગુણ કપ્પરુક્ખગ, ફલભર કુસુમાઉલ વણસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/17",
+          "number": 17,
+          "printedNumber": 17,
+          "native_script": "નાણવર રયણ દિપ્પંત કંત, વેરૂલિય વિમલ ચૂલસ્સ ।\nવંદામિ વિણય પણઓ, સંઘ મહામંદર ગિરિસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/18",
+          "number": 18,
+          "printedNumber": 18,
+          "native_script": "ગુણ રયણુજજલ કડયં, સીલ સુગંધિ તવ મંડિઉદેસં ।\nસુય બારસંગ સિહરં, સંઘ મહામંદરં વંદે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/19",
+          "number": 19,
+          "printedNumber": 19,
+          "native_script": "નયર રહ ચક્ક પઉમે, ચંદે સૂરે સમુદ મેરૂમ્મિ ।\nજો ઉવમિજજઇ સયયં, તં સંઘ ગુણાયરં વંદે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/20",
+          "number": 20,
+          "printedNumber": 20,
+          "native_script": "વંદે ઉસભં અજિયં, સંભવ મભિણંદણ સુમઇ પઉમપ્પહ સુપાસં ।\nસસિ પુફ્ફદંત સીયલ, સિજઝંસં વાસુપુજજં ચ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/21",
+          "number": 21,
+          "printedNumber": 21,
+          "native_script": "વિમલ મણંત ય ધમ્મં, સંતિ કુંથું અરં ચ મલ્લિં ચ ।\nમુણિસુવ્વય નમિ નેમિં, પાસં તહ વદ્ધમાણં ચ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/22",
+          "number": 22,
+          "printedNumber": 22,
+          "native_script": "પઢમિત્થ ઇંદભૂઇ, બીએ પુણ હોઇ અગ્ગિભૂઇત્તિ ।\nતઇએ ય વાઉભૂઇ, તઓ વિયત્તે સુહમ્મે ય.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/23",
+          "number": 23,
+          "printedNumber": 23,
+          "native_script": "મંડિય મોરિયપુત્તે અકંપિએ ચેવ અયલભાયા ય ।\nમેઅજજે ય પહાસે, ગણહરા હુંતિ વીરસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-pratham-sajay/24",
+          "number": 24,
+          "printedNumber": 24,
+          "native_script": "નિવ્વુઇપહ સાસણયં, જયઇ સયા સવ્વ ભાવ દેસણયં ।\nકુસમય મય ણાસણયં, જિણિંદ વર વીર સાસણયં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "nandisutrani-dvitiya-sajay",
+      "name_native": "શ્રી નંદીસૂત્રની દ્વિતીય સજ્ઝાય",
+      "name_translit": "Shri Nandi-sutra ni Dvitiya Sajjhay",
+      "name_en": "Second Sajjhay of the Nandi Sutra",
+      "aliases": [],
+      "order": 26,
+      "kind": "sajjhay",
+      "script": "gujarati",
+      "bookPages": "82-84",
+      "pdfPages": [
+        64,
+        65,
+        66
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Svadhyaya: the second Nandi-sutra extract",
+      "shlokas": [
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "સુહમ્મં અગ્ગિવેસાણં, જંબૂનામં ચ કાસવં ।\nપભવં કચ્ચાયણં વંદે, વચ્છં સિજ્જંભવં તહા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "જસભદ્દં તુંગીયં વંદે, સંભૂયં ચેવ માઢરં ।\nભદ્દબાહું ચ પાઇન્નં, થૂલભદ્દં ચ ગોયમં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "એલાવચ્ચસ ગુત્તં, વંદામિ મહાગિરિં સુહત્થિં ચ ।\nતત્તો કોસિય ગુત્તં, બહુલસ્સ સિરિવયં વંદે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "હારિય ગુત્તં સાઇં ચ, વંદિમો હારિયં ચ સામજજં ।\nવંદે કોસિય ગુત્તં, સંડિલ્લં અજ્જજિયધરં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "તિસમુદ ખાયકિત્તિં, દીવ સમુદ્દેસુ ગહિય પેયાલં ।\nવંદે અજ્જસમુદ્દં, અક્ખુભિય સમુદ્દ ગંભીરં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "ભણાગં કરગં જઝરગં, પભાવગં ણાણ દંસણ ગુણાણં ।\nવંદામિ અજ્જમંગું, સુયસાગર પારગં ધીરં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "વંદામિ અજ્જધમ્મં, વંદે તત્તો ય ભદ્દગુત્તં ચ ।\nતત્તોય અજ્જવઇરં, તવ નિયમ ગુણેહિં વઇરસમં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "વંદામિ અજ્જરક્ખિય ખમણો રક્ખિય ચરિત્ત સવ્વસ્સે ।\nરયણ કરંડગ ભૂઓ, અણુઓગો રક્ખિઓ જેહિં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "નાણમ્મિ દંસણમ્મિ ય, તવ વિણએ નિચ્ચ કાલ મુજજુત્તં ।\nઅજજા ણંદિ લખમણં, સિરસા વંદે પસન્નમણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "વઢઉ વાયગ વંસો, જસ વંસો અજજ નાગ હત્થીણં ।\nવાગરણ કરણ ભંગિય, કમ્મ પયડી પ્યહાણાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "જચ્ચં જણધાઉ સમ પ્યહાણ મદિય કુવલય નિહાણં ।\nવક્કઉ વાયગ વંસો, રેવઇ નક્ખત્ત નામાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "અયલપુરા ણિક્ખંતે, કાલિયસુય અણુઓગિએ ધીરે ।\nબંભ દીવગ સીહે, વાયગ પય મુત્તમં પત્તે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "જેસિં ઇમો અણુઓગો, પયરઇ અજજાવિ અદ્ધ ભરહંમિ ।\nબહુ નયર નિગ્ગય જસે, તં વંદે ખંદિલાયરિએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/14",
+          "number": 14,
+          "printedNumber": 14,
+          "native_script": "તત્તો હિમવંત મહંત વિક્કમે ધિઇ પરક્કમ મણંતે ।\nસજઝાય મણંત ધરે, હિમવંતે વંદિમો સિરસા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/15",
+          "number": 15,
+          "printedNumber": 15,
+          "native_script": "કાલિય સુય અણુયોગસ્સ ધારએ, ધારએ ય પુવ્વાણં ।\nહિમવંત ખમાસમણો, વંદે ણાગજજુણા યરિએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/16",
+          "number": 16,
+          "printedNumber": 16,
+          "native_script": "મિઉ મદવ સંપન્ને, અણુપુવ્વિં વાયગત્તણં પત્તે ।\nઓહ સુય સમાયારે, નાગજજુણ વાયએ વંદે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/17",
+          "number": 17,
+          "printedNumber": 17,
+          "native_script": "ગોવિંદાણં પિ નમો, અણુઓગો વિઉલ ધારિહિંદાણં ।\nનિચ્ચં ખંતિદયાણં, પરૂવણે દુલભિંદાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/18",
+          "number": 18,
+          "printedNumber": 18,
+          "native_script": "તત્તો અ ભૂયદિન્નં, નિચ્ચં તવ સંજમે અનિવ્વિણં ।\nપંડિઅ જણ સામણ્ણં, વંદામિ ય સંયમ વિહિન્નૂ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/19",
+          "number": 19,
+          "printedNumber": 19,
+          "native_script": "વર કણગ તવિય ચંપગ, વિમલ વર કમલ ગબ્ભ સિરિવણ્ણો ।\nભવિયજણ હિયય દઇએ, દયાગુણ વિસારએ ધીરે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/20",
+          "number": 20,
+          "printedNumber": 20,
+          "native_script": "અક્ખ ભરહ પ્પહાણો, બહુવિહ સિજ્ઝાય સુમુણિય પ્પહાણો ।\nઅણુઓગિય વર વસહે, નાઇલ કુલ વંસ નંદિ કરે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/21",
+          "number": 21,
+          "printedNumber": 21,
+          "native_script": "ભૂયદિય અપ્પગબ્ભે, વંદેહં ભૂયદિન્ન માયરિએ ।\nભવ ભય વુચ્છેય કરે, સીસે નાગજ્જુણ રિસીણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/22",
+          "number": 22,
+          "printedNumber": 22,
+          "native_script": "સુમુણિય નિચ્ચાનિચ્ચં, સુમુણિય સુત્તત્થ ધારએ નિચ્ચં ।\nવંદેહં લોહિચ્ચં, સબ્ભાવુ બ્ભાવણા તચ્ચં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/23",
+          "number": 23,
+          "printedNumber": 23,
+          "native_script": "અત્થ મહત્થ ખાણિં, સુસમણ વક્ખાણ કહણ નિવ્વાણિં ।\nપયઇય મહુરવાણિં, પયઓ પણામામિ દુસગણિં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/24",
+          "number": 24,
+          "printedNumber": 24,
+          "native_script": "તવ નિયમ સચ્ચ સંયમ, વિણય જજવ ખંતિ મદ્દવ રયાણં ।\nસીલ ગુણ ગદિયાણં, અણુઓગ જુગપ્પહાણાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/25",
+          "number": 25,
+          "printedNumber": 25,
+          "native_script": "સુકુમાલ કોમલ તલે, તેસિં પણામામિ લક્ખણ પસત્થે ।\nપાએ પાવયણીણં, પડિચ્છગ સએહિં પણિવઇએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/26",
+          "number": 26,
+          "printedNumber": 26,
+          "native_script": "જે અણ્ણો ભગવંતે, કાલિય સૂય અણુઓગિએ ધીરે ।\nતે પણમિઊણ સિરસા, નાણસ્સ પરૂવણં વુચ્છં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "nandisutrani-dvitiya-sajay/27",
+          "number": 27,
+          "printedNumber": 27,
+          "native_script": "થેરાવલીયા સમ્મત્તા ।\nઆભિણિબોહિય નાણં, સુયનાણં ચેવ ઓહિનાણં ચ ।\nતહ મણપજ્જવ નાણં, કેવલનાણં ચ પંચમયં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "smaran-1-bruhannamaskar",
+      "name_native": "બૃહન્નમસ્કાર (પ્રથમ સ્મરણ)",
+      "name_translit": "Bruhannamaskar",
+      "name_en": "Great Namaskara — 1st Smarana",
+      "aliases": [],
+      "order": 27,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "85-86",
+      "pdfPages": [
+        67,
+        68
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "First of the Nine Smaranas (protective stotras)",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "smaran-2-ajitshanti",
+      "name_native": "શ્રી અજિતશાંતિ સ્તવ (દ્વિતીય સ્મરણ)",
+      "name_translit": "Ajitshanti Stava",
+      "name_en": "Hymn to Ajitnatha & Shantinatha — 2nd Smarana",
+      "aliases": [],
+      "order": 28,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "86-92",
+      "pdfPages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Second Smarana, by Nandishenasuri; alternating Ajitnatha/Shantinatha praise in many metres",
+      "shlokas": [
+        {
+          "shlokaId": "smaran-2-ajitshanti/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(બીજું સ્મરણ)\nઅજિઅં જિઅ સવ્વ ભયં, સંતિં ચ પસંત સવ્વ ગયપાવં ।\nજય ગુરુ સંતિ ગુણકરે, દો વિ જિણવરે પણિવયામિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "વવગય મંગુલ ભાવે, તેહં વિઉલ તવ નિમ્મલ સહાવે ।\nનિરુવમ મહપ્પભાવે, થોસામિ સુદિઢ સપ્ભાવે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "સવ્વ દુક્ખ પ્પસંતીણં, સવ્વ પાવ પ્પસંતિણં,\nસયા અજિય સંતીણં, નમો અજિય સંતિણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "અજિઅ જિણ સુહ પવત્તણં, તવ પુરિસુત્તમ નામ કિત્તણં,\nતહ ય ધિઇ મઇ પ્પવત્તણં, તવ ય જિણુત્તમ સંતિ કિત્તણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "કિરિયા વિહિ સંચિઅ, કમ્મ કિલેસ વિમુક્ખયરં ।\nઅજિઅં નિચિઅં ચ ગુણેહિં મહામુણિઅ સિદ્ધિગયં ।\nઅજિઅસ્સ ય સંતિ મહા મુણિણોવિ અ સંતિકરં ।\nસયયં મમ નિવ્વુઇ કારણયં ચ નમંસણયં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "પુરિસા જઇ દુક્ખવારણં, જઇ અ વિમગ્ગહ સુક્ખકારણં ।\nઅજિઅં સંતિ ચ ભાવઓ, અભયકરે સરણં પવજ્જહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "અરઇ રઇ તિમિર વિરહિઅ મુવરય જર મરણં, સુર અસુર ગરુલ ભુયગવઇ\nપયય પણિવઇયં, અજિઅ મહમવિય સુનય નય નિઉણ મભયકરં ।\nસરણ મુવસરિઅ ભુવિ દિવિજ્જ મહિયં સયય મુવણમે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "તં ચ જિણુત્તમ મુત્તમ નિત્તમ સત્તધરં, અજ્જવ મદ્દવ ખંતિ વિમુત્તિ સમાહિ\nનિહિં,\nસંતિકરં પણમામિ દમુત્તમ તિત્થયરં, સંતિમુણી મમ સંતિ સમાહિ વરં દિસઉ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "સાવત્થિ પુવ્વ પત્થિવં ચ, વરહત્થિ મત્થય પસત્થ વિચ્છિન્ન સંથિઅં ।\nથિર સરિચ્છ વચ્છં મયગલ લીલાયમાણ વરગંધહત્થિ પત્થાણ પત્થિયં ।\nસંથવારિહં હત્થિ હત્થબાહું ધંત કણગ રુઅગ નિરુવહય પિંજરં,\nપવર લક્ખણોવચિય સોમ ચારુરુવં, સુઇ સુહ મણાભિરામ પરમ રમણિજ્જ\nવર દેવ દુંદુહિ નિનાય મહુરયર સુહગિરં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "અજિઅં જિઆરિગણં, જિઅ સવ્વભયં ભવોહરિઉ ।\nપણમામિ અહં પયઓ, પાવં પસમેઉ મે ભયવં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "કુરૂ જણવય હત્થિણા ઉર નરીસરો, પઢમં તઓ મહા ચક્કવટ્ટિ ભોએ ।\nમહપ્પભાવો, જો બાવત્તરિ પુરવર સહસ્સ વર નગર નિગમ જણવય વઇ,\nબત્તીસા રાયવર સહસ્સાણુ યાયમગ્ગો ।\nચઉદસ વરરયણ નવ મહાનિહિ,ચઉસઢિ સહસ્સ પવર જુવઇણ સુંદરવઇ,\nચુલસી હય ગય રહ સય સહસ્સ સામી, છન્નવઇ ગામકોડિ સામી આસિજ્જો\nભારહમ્મિ ભયવં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "તં સંતિ સંતિકરં, સંતિણં સવ્વભયા ।\nસંતિ થુણામિ જિણં, સંતિ વિહેઉ મે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "ઇક્ખાગ વિદેહ નરીસર, નરવસહા મુણિવસહા ।\nનવસારય સસિ સકલાણણ, વિગયતમા વિહુયરયા ।\n* અજિઉત્તમ તેઅગુણેહિં મુહામુણિ અમિઅ બલા વિઉલ ફુલા ।\nપણામામિ તે ભવ ભય મૂરણ, જગસરણા મમ સરણં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/14",
+          "number": 14,
+          "printedNumber": 14,
+          "native_script": "દેવ દાણવિંદ ચંદ સૂરવંદ હઠ્ઠ તુઠ્ઠ જિઠ્ઠ પરમ,\nલઠ્ઠ રુવ ધંત રુપ્પ પટ્ટસેય સુધ્ધ નિદ્ધ ધવલ ।\nદંતપંતિ સંતિ સત્તિ કિત્તિ મુત્તિ જુત્તિ ગુત્તિ પવર, દિત્તતેઅ વંદધેઅ\nસવ્વલોઅ ભાવિઅ પ્પભાવણોઅ પઇસ મે સમાહિં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/15",
+          "number": 15,
+          "printedNumber": 15,
+          "native_script": "વિમલસસિ કલાઇરેઅ સોમં, વિતિમિર સૂર કરાઇરેઅ તેઅં ।\nતિઅસવઇ ગણાઇરેઅ રુવં, ધરણિધર પ્પવરાઇરેઅ સારં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/16",
+          "number": 16,
+          "printedNumber": 16,
+          "native_script": "સત્તે અ સયા અજિઅં, સારીરે અ બલે અજિઅં ।\nતવ સંજમે અ અજિઅં, એસ અહં થુણામિ જિણં અજિઅં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/17",
+          "number": 17,
+          "printedNumber": 17,
+          "native_script": "સોમગુણેહિં પાવઇ ન તં, નવ સરય સસી, તેયગુણેહિં પાવઇ ન તં, નવ સરય રવી ॥\nરુવગુણેહિં પાવઇ ન તં તિઅસ ગણ વઇ, સારગુણેહિં પાવઇ ન તં,\nધરણિધર વઇ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/18",
+          "number": 18,
+          "printedNumber": 18,
+          "native_script": "તિત્થવર પવત્તયં તમ રય રહિયં, ધીરજણ થુઅચ્ચિઅં થુઅ કલિ કલુસં ॥\nસંતિ સુહપ્પવત્તયં તિગરણ પયઓ, સંતિમહં મહામુણિં સરણ મુવણમે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/19",
+          "number": 19,
+          "printedNumber": 19,
+          "native_script": "વિણઓણય સિરિ રઇ અંજલિ રિસિગણ સંથુઅં થિમિઅં ।\nવિબુહાહિવ ધણવઇ નરવઇ થુય મહિઅ ચ્ચિઅં બહુસો ।\nઅઇરુગ્ગય સરય દિવાયર સમહિઅ સપ્પભં તવસા ।\nગયણંગણ વિયરણ સમુઇય ચારણ વંદિઅં સિરસા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/20",
+          "number": 20,
+          "printedNumber": 20,
+          "native_script": "અસુર ગરુલ પરિવંદિઅં, કિન્નરોરગ ણમંસિઅં ।\nદેવકોડિ સય સંથુઅં, સમણ સંઘ પરિવંદિઅં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/21",
+          "number": 21,
+          "printedNumber": 21,
+          "native_script": "અભયં અણહં અરયં અરુઅં ।\nઅજિઅં અજિઅં પયઓ પણમે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/22",
+          "number": 22,
+          "printedNumber": 22,
+          "native_script": "આગયા વરવિમાણ દિવ્વ કણગ રહ તુરય પહકર સએહિં હુલિઅં\nસસંભમો અરણ ખ્ખુભિઅ લુલિઅ ચલકુંડલં ગય તિરીડ સોહંત મઉલિમાલા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/23",
+          "number": 23,
+          "printedNumber": 23,
+          "native_script": "જં સુરસંઘા સાસુરસંઘા, વેર વિઉત્તા ભત્તિ સુજુત્તા ।\nઆયર ભૂસિઅ સંભમ પિંડિઅ, સુઢ્ઢુ સુવિમ્હિઅ સવ્વ બલોઘા ।\nઉત્તમ કંચણ રયણ પરુવિઅ, ભાસુર ભૂસણ ભાસુરિ અંગા ।\nગાય સમોણય ભત્તિવ સાગય, પંજલિ પેસિઅ સીસ પણામા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/24",
+          "number": 24,
+          "printedNumber": 24,
+          "native_script": "વંદિઊણ થોઊણ તો જિણં, તિગુણમેવ ય પુણો પયાહિણં ।\nપણમિઊણ ય જિણં સુરાસુરા, પમુઇઆ સભવણાઈં તો ગયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/25",
+          "number": 25,
+          "printedNumber": 25,
+          "native_script": "તં મહામુણિ મહંપિ પંજલી, રાગ દોસ ભય મોહ વજ્જિઅં ।\nદેવ દાણવ નરિંદ વંદિઅં, સંતિ મુત્તમં મહાતવં નમે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/26",
+          "number": 26,
+          "printedNumber": 26,
+          "native_script": "અંબરંતર વિઆરણિઆઆહિં, લલિઅ હંસવહુ ગામિણિઆઆહિં ।\nપીણ સોણિથણ સાલિણિઆઆહિં, સકલ કમલદલ લોઅણિઆઆહિં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/27",
+          "number": 27,
+          "printedNumber": 27,
+          "native_script": "પીણ નિરંતર થણભર વિણમિઅ ગાયલઆઆહિં ।\nમણિ કંચણ પસિઢિલ મહલ સોહિઅ સોણિતડાહિં ।\nવર ખિંખિણિ નેઉર સતિલય વલય વિભૂસણિઆઆહિં,\nરઇકર ચઉર મણોહર સુંદર દંસણિઆઆહિં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/28",
+          "number": 28,
+          "printedNumber": 28,
+          "native_script": "દેવસુંદરીહિં પાયવંદિઆઆહિં વંદિયા ય જસ્સ તે સુવિક્કમા કમા, અપ્પણો\nનિડાલએહિં મંડણોડણ પગારએહિં, કેહિં કેહિં વિ અવંગ તિલય પત્તલેહ\nનામએહિં ચિલ્લએહિં સંગયં ગયાહિં, ભત્તિ સંનિવિઢ વંદણાગયાહિં હુંતિ,\nતે વંદિયા પુણો પુણો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/29",
+          "number": 29,
+          "printedNumber": 29,
+          "native_script": "તમહં જિણચંદં, અજિઅં જિઅમોહં ।\nધુય સવ્વકિલેસં, પયઓ પણમામિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/30",
+          "number": 30,
+          "printedNumber": 30,
+          "native_script": "થુઅવંદિઅસ્સા રિસિગણ દેવગણોહિં, તો દેવવહૂહિં પયઓ પણમિઅસ્સા ।\nજસ્સ જગુત્તમ સાસણયસ્સ ભત્તિવસાગય પિંડિઅયાહિં ।\nદેવ વરચ્છરસા બહુઆહિં સુરવર રઇગુણ પંડિયઆહિં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/31",
+          "number": 31,
+          "printedNumber": 31,
+          "native_script": "વંસ સદ્દ તંતિ તાલ મેલિએ, તિઉક્ખરા ભિરામ સદ્દ મીસએ કએ અ,\nસુઇસમાણણો અ સુદ્ધ સજ્જ ગીય પાય જાલ ઘંટિઆહિં, વલય મેહલા\nકલાવ નેઉરા ભિરામ સદ્મીસએ કએ અ,\nદેવનટ્ટિઆહિં હાવભાવ વિબ્ભમ પ્પગારએહિં નચ્ચિઊણ અંગહારએહિં,\nવંદિઆય જસ્સ તે સુવિક્કમા કમા\nતયં તિલોય સવ્વસત્ત સંતિકારયં, પસંત સવ્વ પાવ દોસ મેસહં,\nનમામિ સંતિમુત્તમં જિણં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/32",
+          "number": 32,
+          "printedNumber": 32,
+          "native_script": "છત્ત ચામર પડાગ જૂવ જવ મંડિઆ, ઝયવર મગર તુરય સિરિવચ્છ સુલંછણા ॥\nદીવ સમુદ્દ મંદર દિસાગય સોહિઆ ॥ સત્થિઅ વસહ સીહરહચક્ક\nવરંકિઆ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/33",
+          "number": 33,
+          "printedNumber": 33,
+          "native_script": "સહાવલક્ખા સમપ્પઇટ્ઠા, અદોસદુટ્ઠા ગુણેહિંજિટ્ઠા,\nપસાય સિટ્ઠા તવેણ પુટ્ઠા, સિરીહિં ઇટ્ઠા, રિસીહિં જુટ્ઠા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/34",
+          "number": 34,
+          "printedNumber": 34,
+          "native_script": "તે તવેણ ધુય સવ્વ પાવયા, સવ્વ લોઅ હિઅ મૂલપાવયા ।\nસંથુઆ અજિઅ સંતિ પાયયા, હુંતુ મે સિવ સુહાણ દાયયા",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/35",
+          "number": 35,
+          "printedNumber": 35,
+          "native_script": "એવં તવ બલ વિઉલં, થુઅં મએ અજિઅ સંતિ જિણજુઅલં ।\nવવગય કમ્મરય મલં, ગઈ ગયં સાસયં વિઉલં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/36",
+          "number": 36,
+          "printedNumber": 36,
+          "native_script": "તં બહુગુણપ્પસાયં, મુક્ખસુહેણ પરમેણ અવિસાયં ।\nનાસેઉ મે વિસાયં, કુણઉ અ પરિસાવિ અ પસાયં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/37",
+          "number": 37,
+          "printedNumber": 37,
+          "native_script": "તં મોએઉ અ નંદિ, પાવેઉ અ નંદિસેણ મભિનંદિ ।\nપરિસાવિ ય સુહનંદિ, મમ ય દિસઉ સંજમે નંદિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/38",
+          "number": 38,
+          "printedNumber": 38,
+          "native_script": "પક્ખિઅ * ચાઉમાસે, સંવચ્છરિએ અવસ્સ ભણિઅવ્વો ।\nસોઅવ્વો સવ્વેહિં, ઉવસગ્ગ નિવારણો એસો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/39",
+          "number": 39,
+          "printedNumber": 39,
+          "native_script": "જો પઢઇ જો અ નિસુણઇ, ઉભઓ કાલંપિ અજિઅ સંતિથયં ।\nન હુ હુંતિ તસ્સ રોગા, પુવ્વુપ્પન્ના વિનાસંતિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/40",
+          "number": 40,
+          "printedNumber": 40,
+          "native_script": "વવગય કલિ કલુસાણં, વવગય નિદ્ધંત રાગ દોસાણં ।\nવવગય પુણ બ્ભવાણં, નમોત્થુ દેવાહિ દેવાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/41",
+          "number": 41,
+          "printedNumber": 41,
+          "native_script": "સવ્વં પસમઇ પાવં, પુન્નં વઢ્ઢઇ નમંસમાણસ્સ ।\nસંપુન્ન ચંદ વયણસ્સ, કિત્તણં અજિઅ સંતિસ્સ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/42",
+          "number": 42,
+          "printedNumber": 42,
+          "native_script": "જઇ ઇચ્છહ પરમપયં, અહવા કિત્તિં સુવિત્થડં ભુવણે ।\nતા તિઅ લોગુદ્ધરણો, જિણવયણો આયરં કુણહ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/43",
+          "number": 43,
+          "printedNumber": 43,
+          "native_script": "સર્વ મંગલ માંગલ્યં, સર્વ કલ્યાણકારણં ।\nપ્રધાનં સર્વ ધર્માણાં, જૈનં જયતિ શાસનં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/44",
+          "number": 44,
+          "printedNumber": 44,
+          "native_script": "ઉપસર્ગાઃક્ષયં યાંતિ, છિદ્યંતે વિઘ્નવલ્લયઃ ।\nમનઃપ્રસન્નતામેતિ, પૂજ્યમાને જિનેશ્વરે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/45",
+          "number": 45,
+          "printedNumber": 45,
+          "native_script": "શિવમસ્તુ સર્વજગતઃ, પરહિતનિરતા ભવંતુ ભૂતગણાઃ ।\nદોષાઃ પ્રયાંતુ નાશં, સર્વત્ર સુખી ભવતુ લોકઃ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-2-ajitshanti/46",
+          "number": 46,
+          "printedNumber": 46,
+          "native_script": "સ્મરણં યસ્ય સત્વાનાં, તીવ્ર તાપોપશાંતયે ।\nઉત્કૃષ્ટ ગુણરૂપાય, તસ્મૈ શ્રીશાંતયે નમઃ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "smaran-3-virstava",
+      "name_native": "શ્રી વીરસ્તવ (તૃતીય સ્મરણ)",
+      "name_translit": "Virstava",
+      "name_en": "Hymn to Mahavira — 3rd Smarana",
+      "aliases": [],
+      "order": 29,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "92",
+      "pdfPages": [
+        74
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Third Smarana",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "smaran-4-upasargahar",
+      "name_native": "શ્રી ઉપસર્ગહર સ્તોત્ર (ચતુર્થ સ્મરણ)",
+      "name_translit": "Upasargahar Stotra",
+      "name_en": "Upasarga-hara Stotra — 4th Smarana",
+      "aliases": [],
+      "order": 30,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "92-93",
+      "pdfPages": [
+        74,
+        75
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Fourth Smarana, to Parshvanatha, for removal of afflictions",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "smaran-5-namiun-bhayahar",
+      "name_native": "શ્રી નમિઊણ ભયહર સ્તોત્ર (પંચમ સ્મરણ)",
+      "name_translit": "Namiun Bhayahar Stotra",
+      "name_en": "Namiun Bhayahara Stotra — 5th Smarana",
+      "aliases": [],
+      "order": 31,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "93-96",
+      "pdfPages": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Fifth Smarana, to Parshvanatha, for removal of fear",
+      "shlokas": [
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(પાંચમું સ્મરણ)\nનમિઊણ પણય સુરગણ ચૂડામણિ કિરણ રંજિઅં મુણિણો ।\nચલણ જુઅલં મહાભય પણાસણં સંથવં વુચ્છં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "સડિઅ કર ચરણ નહ મુહ, નિવુડ્ડ નાસા વિવન્ન લાયન્ના ।\nકુટ્ઠ મહારોગાનલ ફુલિંગ નિદ્દઢ સવ્વંગા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "તે તુહ ચલણારાહણ, સલિલંજલિ સેય વુડ્ઢિ ઉચ્છાહા ।\nવણ દવદડ્ઢા ગિરિપા યવવ્વ પત્તા પુણો વિ લચ્છિં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "દુવ્વાય ક્ખુભિઅ જલનિહિ ઉપ્ભડ કલ્લોલ ભીસણારાવે ।\nસંભંત ભય વિસંઠુલ નિજ્જામય મુક્કવાવારે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "અવિદલિય જાણવત્તા, ખણેણ પાવંતિ ઇચ્છિયં કૂલં ।\nપાસજિણ ચલણ જુઅલં, નિચ્ચં ચિઅ જે નમંતિ નરા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "ખર પવણુદ્ધુઅ વણદવ, જાલાવલિ મિલિય સયલ દુમ ગહણે ।\nડજ્ઝંત મુદ્ધ મયવહુ, ભીસણ રવ ભીસણંમિ વણે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "જગગુરુણો કમજુઅલં, નિવ્વાવિઅ સયલ તિહુઅણાભોઅં ।\nજે સંભરંતિ મણુઆ, ન કુણઇ જલણો ભયં તેસિં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "વિલસંત ભોગ ભીસણ, ફુરિઆઅરુણ નયણ તરલ જીહાલં ।\nઉગ્ગ ભુઅંગં નવજલય, સત્થહં ભીસણાયારં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "મન્નંતિ કીડસરિસં, દૂર પરિચ્છૂઢ વિસમ વિસવેગા ।\nતુહ નામક્ખર ફુડસિદ્ધ, મંત ગુરુઆ નરા લોએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "અડવીસુ ભિલ્લ તક્કર, પુલિંદ સદ્દૂલ સદ્ ભીમાસુ ।\nભય વિહુરવુન્ન કાયર, ઉલ્લૂરિય પડિઅ સત્થાસુ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "અવિલુત્ત વિહવ સારા, તુહ નાહ પણામ મત્ત વાવારા ।\nવવગય વિગ્ઘા સિગ્ઘં, પત્તા હિય ઇચ્છિઅં ઠાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "પજ્જલિયા નલ નયણં, દૂર વિયારિય મુહં મહાકાયં ।\nનહ કુલિસ ઘાય વિયલિઅ, ગઇંદ કુંભત્થલાભોઅં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "પણય સસંભમ પત્થિવ, નહ મણિ માણિક્ક પડિઅ પડિમસ્સ ।\nતુહ વયણ પહરણ ધરા, સીહં કુદ્ધંપિ ન ગણંતિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/14",
+          "number": 14,
+          "printedNumber": 14,
+          "native_script": "સસિ ધવલ દંત મુસલં, દીહ કરુલ્લાલ વુદ્ધિ ઉચ્છાહં ।\nમહુ પિંગ નયણ જુઅલં, સસલિલ નવ જલહરારાવં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/15",
+          "number": 15,
+          "printedNumber": 15,
+          "native_script": "ભીમં મહા ગઇંદં, અચ્ચાસન્નંપિ તે નવિ ગણંતિ ।\nજે તુમ્હ ચલણ જુઅલં, મુણિવઇ તુંગં સમલ્લીણા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/16",
+          "number": 16,
+          "printedNumber": 16,
+          "native_script": "સમરંમિ તિક્ખ ખગ્ગા ભિગ્ઘાય પવિદ્ધુદ્ધુય કબંધે ।\nકુંત વિણિહિભિન્ન કરિકલહ, મુક્ક સિક્કાર પઉરંમિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/17",
+          "number": 17,
+          "printedNumber": 17,
+          "native_script": "નિજ્જિય દપ્પુદ્ધર રિઉ, નરિંદ નિવહા ભડા જસં ધવલં ।\nપાવંતિ પાવ પસમિણ, પાસજિણ તુહ ધ્પભાવેણ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/18",
+          "number": 18,
+          "printedNumber": 18,
+          "native_script": "રોગ જલ જલણ વિસહર, ચોરારિ મઇંદ ગય રણ ભયાઇં ।\nપાસજિણ નામ સંકિત્તણેણ પસમંતિ સવ્વાઇં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/19",
+          "number": 19,
+          "printedNumber": 19,
+          "native_script": "એવં મહાભય હરં, પાસ જિણિંદસ્સ સંથવમુઆરં ।\nભવિય જણાણંદયરં, કલ્લાણ પરંપર નિહાણં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/20",
+          "number": 20,
+          "printedNumber": 20,
+          "native_script": "રાયભય જક્ખ રક્ખસ, કુસુમિણ દુસ્સઉણ રિક્ખ પીડાસુ ।\n* સંજ્જાસુ દોસુ પંથે, ઉવસગ્ગે તહય રયણીસુ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/21",
+          "number": 21,
+          "printedNumber": 21,
+          "native_script": "જો પઢઇ જો અ નિસુણઇ, તાણં કઇણો ય માણતુંગસ્સ ।\nપાસો પાવં પસમેઉ, સયલ ભુવણચ્ચિઅ ચલણો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/22",
+          "number": 22,
+          "printedNumber": 22,
+          "native_script": "ઉવસગ્ગંતે કમઠાસુરમ્મિ, ઝાણાઓ જો ન સંચલિઓ ।\nસુર નર કિન્નર જુવઇહિં, સંથુઓ જયઉ પાસજિણો.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/23",
+          "number": 23,
+          "printedNumber": 23,
+          "native_script": "એઅસ્સ મજ્ઝયારે, અઠ્ઠારસ અક્ખરેહિં જો મંતો ।\nજો જાણઇ સો જ્ઝાયઇ, પાસં પરમેસરં પયડં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/24",
+          "number": 24,
+          "printedNumber": 24,
+          "native_script": "તં નમહ પાસનાહં, ધરણિંદ નમંસિએં ભયવિણાસં ।\nજસ્સ ધ્પભાવેણ સયા, નાસંતિ ઉવદ્દવા સવ્વે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-5-namiun-bhayahar/25",
+          "number": 25,
+          "printedNumber": 25,
+          "native_script": "જં સમરંતાણં મણો, ન હોઇ વાહી ન તં મહાદુક્ખં ।\nનામંપિ ય મંતસમં, ઇય નાહ થુણામિ ભત્તીએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "smaran-6-jirapalli-parshva",
+      "name_native": "શ્રી જીરાપલ્લી પાર્શ્વ સ્તવ (ષષ્ઠ સ્મરણ)",
+      "name_translit": "Jirapalli Parshva Stava",
+      "name_en": "Jirapalli Parshvanatha Stava — 6th Smarana",
+      "aliases": [],
+      "order": 32,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "96-97",
+      "pdfPages": [
+        78,
+        79
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Sixth Smarana, by Merutungasuri, to Jirapalli Parshvanatha",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "smaran-7-shakrastava",
+      "name_native": "શક્રસ્તવ (નમુત્થુણં) (સપ્તમ સ્મરણ)",
+      "name_translit": "Shakrastava (Namuthunam)",
+      "name_en": "Shakra-stava / Namuthunam — 7th Smarana",
+      "aliases": [],
+      "order": 33,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "97-98",
+      "pdfPages": [
+        79,
+        80
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Seventh Smarana: the Shakra-stava (Namuthunam) praise of the Arihantas",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    },
+    {
+      "sutraId": "smaran-8-laghu-ajitshanti",
+      "name_native": "લઘુ અજિતશાંતિ સ્તવ (અષ્ટમ સ્મરણ)",
+      "name_translit": "Laghu Ajitshanti Stava",
+      "name_en": "Short Ajitshanti Stava — 8th Smarana",
+      "aliases": [],
+      "order": 34,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "98-99",
+      "pdfPages": [
+        80,
+        81
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Eighth Smarana, by Virganin: the short Ajitshanti hymn",
+      "shlokas": [
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(આઠમું સ્મરણ)\nગબ્ભ અવયાર સોહમ્મ સુર સામીઓ, જણણી જેય સંથુણઇ ભત્તિ ભર ભાવિઓ ।\nતિ જિણ ઇક્ખાગ કુરુ વંસ ભૂસણ ધરા, અજિઅ સંતીઅ નંદંતુ મંગલકરા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "જમ્મકાલંમિ જે અસુર સુર ભાસુરે, ન્હવિય બત્તીસ ઇંદેહિં સુરગિરિ સિરે ।\nખયર નર અમર આણંદ વદ્ધારયા, જયઉ જગિ અજિય સંતી ય ભટ્ટારયા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "ખવિય રિઉ વગ્ગ વર રજ્જ સુહ માણિઉં, પવર દાણેણ જગ સયલ સમ્માણિઉં ।\nજેહિં મુક્ખંકરી દિક્ખ કંખીકયા, તાહિ થુણિ અજિઅસંતી ય પય પંકયા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "ઘોર તવ ચરણ ઉવસગ્ગુ અહિયાસિઉં, દુજ્જય ઘાઇ કમ્માઇં નિન્નાસિઉં ।\nજેહિં નાણં સમુપ્પાડિઅં વિમલયં, દુઇય સોલસમ જિણ તિ જણ મહ સુવિણયં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "પવર દેસણાય તિહુયણ વિ પડિબોહિયં, ભવોવગ્ગાહિ કમ્માઈં મસમૂરિઅં ।\nપવર સુહ પરમ નિવ્વાણપુરિ જે ગયા, હઠ્ઠ તે નમહ જિણ અજિઅસંતી સયા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "કુવિઅ રિઉ વગ્ગ હરિ સરહ ગય જોયણી, ભૂય વેયાલ અદિ રક્ખસી ડાયણી ।\nતાસુ ઉવસગ્ગ કીરેઇ નાસેસયં, હિયઇ જો એહુ સમરેઇ જિણ જુઅલયં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "જઇ ન અહિલસહ દાલિદ દોહગ્ગયં, તુમ્હ અહિલસહ જઇ લચ્છિ સોહગ્ગયં ।\nભવહ જઇ ભીઅ જઇ સિવ સુહા સત્તયા, હવહ એયસ્સ જિણ દુગઇ તો ભત્તયા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-8-laghu-ajitshanti/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "એય સંવચ્છરિય પક્ખિય ચઉમાસિએ, અજિય સંતિત્થયં ભણાઇ જો નિસુણાઇ ।\nકહઇ કવિવીર ગણિ ભવિઅ જણ અગ્ગએ, અસુહ તસુ જાઇ સુહ સયલ સંપજ્જએ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "smaran-9-bruhad-ajitshanti",
+      "name_native": "બૃહદ્ અજિતશાંતિ સ્તવ (નવમ સ્મરણ)",
+      "name_translit": "Bruhad Ajitshanti Stava",
+      "name_en": "Great Ajitshanti Stava — 9th Smarana",
+      "aliases": [],
+      "order": 35,
+      "kind": "smaran",
+      "script": "gujarati",
+      "bookPages": "99-102",
+      "pdfPages": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "usedIn": [
+        "pakshik"
+      ],
+      "role": "Ninth Smarana: the extended Ajitshanti hymn",
+      "shlokas": [
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "(નવમું સ્મરણ)\nસકલ સુખ નિવહ દાનાય સુર પાદપં, પાદપંકજ નતાનેક નાકાધિપં ।\nઅચલ શિવ નિલયમ પ્રલય ગુણ શોભિતં, નૌમિ જિનમજિતમહ મજિતમુદિતોદિતમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "શાંતિમુપશાંત ભવ ભૂરિ ભય પરિભવં, ભુવન વન સુધન ઘન વારિ વર વૈભવમ્ ।\nપરમ શમમિહુસમ મસમ મહિમોદધે-ર્નતુમીહામનંતામહં સંદધે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "પુણય રથ સુપથ નયનાય વૃષભ ક્ષમૌ, વિપુલ સંસાર સરિદોઘ પુલિનોપમૌ ।\nસિદ્ધિ સિમંતિની શ્રુતિ વતંસાયિતૌ, સંપદે જિનપતી અજિતશાંતી યુતૌ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "ય: સમૂહો મુદામજનિ જનકાંબયો-સ્તાર મવતાર મવગમ્ય સમ્યગ્યયો: ।\nગજ વૃષ પ્રમુખ સુસ્વઘ્ન સંદર્શનાત્, તમલ મવગંતુ મન્યે ન મન્યે જના:.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "જનન સમયે યથો રસુર સુર નાયકા, નવ નવાનેક નેપથ્ય પરિધાયકા: ।\nવિદધુરુત્સવ મતુચ્છં ગિરૌ મંદરે, વાસયે તૌ જિનૌ નિજ મનો મંદિરે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "કોશલા પુરવરે પૂત વિજયોદરં, ભૂપ જિતશત્રુ કુલ કમલ વન દિનકરં ।\nદ્વિગુણ નવ શત કર પ્રમિત વર ભૂઘનં, નૌમિ કનકાભ મિભ ચિન્હ મજિતં જિનં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "ગજપુરે વિશ્વસેનેશ કુલ ભૂષણં, રુચિર મચિરાંગરુહ મનઘ મૃગ લક્ષણં ।\nષષ્ટ્યધિક હસ્ત શત વપુષ મુત્તમસુખં, શાંતિનાથં ચ ગાંગેય ગેયત્વિષમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/08",
+          "number": 8,
+          "printedNumber": 8,
+          "native_script": "જલધિ રસનાવની વિતત વર શાસનં, ચિંતિતોપસ્થિત દ્વિરદ તુરગાસનમ્ ।\nલલિત લલના જનાબદ્ધ બહુ બર્કરં, યૌ ચિરં રાજ્યમવત:સ્મ વિસ્મયકરમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/09",
+          "number": 9,
+          "printedNumber": 9,
+          "native_script": "તદનુ દનુજાદિત પ્રથિત મહિમોદયં, વર્ષદાનેન પરિતુષ્ટ જન સમુદયમ્ ।\nજગૃહતુ: સ્વહિત કામાવકામવ્રતં, તૌ નમસ્કૃત્ય તોષં ભજેદનવરતમ્",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/10",
+          "number": 10,
+          "printedNumber": 10,
+          "native_script": "તમસિ જિને યથો રખિલદોઘોદિતે, નિપુણ નીરજવને નિબિડમામોદિતે ।\nઉદિતવતિ કેવલજ્ઞાન ભાનૌ દ્રુતં, દિવસપતિનાપિ ખદ્યોત પોતાયિતમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/11",
+          "number": 11,
+          "printedNumber": 11,
+          "native_script": "યત્પદાંભોજ ભજનાય જાત ત્વરૈઃ, સંઘ સંઘટ્ટ ઘન ઘૃષ્ટ ભૂષણ ભરૈઃ ।\nવ્યૂઢમપિ રુચિર ચિર રુઢરસ નિર્ભરૈઃ, પાણિતલ માન મભવન્નભો નિર્ઝરૈઃ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/12",
+          "number": 12,
+          "printedNumber": 12,
+          "native_script": "ભરિત ભવ દુરિત દવ દહન પરિતાપિતાઃ, સદસિ યદાયમતિ પુણ્ય બુદ્ધયાપિતાઃ ।\nસત્યસંધાઃ સુધા સારસેકં, નરે-શામરેશા મુદા સર્વદા મેનિરે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/13",
+          "number": 13,
+          "printedNumber": 13,
+          "native_script": "આતપત્ર ત્રયં ચારવશ્યામરાઃ, કોટિ સંખ્યા ભજંતેડભિતશ્યામરાઃ ।\nઅનુપહત હુંદુભિ ધ્વનિત મચ્યુતપદે, યદતિશય રાજિરેષા ન કેષાં મુદે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/14",
+          "number": 14,
+          "printedNumber": 14,
+          "native_script": "બોધયિત્વાથ તત્ત્વાનિ ધીરં જનં, યોગતો યૌ ગતૌ ધામ નીરંજનં ।\nતમહમજિતં ચ શાંતિં ચ ચંચદ્દ્યુતિં, સુચિર મર્ચામિ પંચેષુ વિજયોદ્યતમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/15",
+          "number": 15,
+          "printedNumber": 15,
+          "native_script": "દ્વિપ રિપુ વ્યાલ વેતાલ રોગાનલા, નીર ચૌરાદયો ડન્યેડપિ સકલાઃ ખલાઃ ।\nતં ન લુંપંતિ કંચુકિન ઇવ વંજુલં, નમતિ યો વિમદ મિદમેવ જિન યામલમ્",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/16",
+          "number": 16,
+          "printedNumber": 16,
+          "native_script": "પાક્ષિકે કિલ ચતુર્માસિકે વાર્ષિકે, પર્વણિ પ્રકૃત વર પુણ્ય નર નાયકે ।\nયોડમુમતિ સોમમતિ રજિતશાંતિસ્તવં, પઠતિ નિશૃણોતિ લભતે સુખં સ ધ્રુવમ્.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "smaran-9-bruhad-ajitshanti/17",
+          "number": 17,
+          "printedNumber": 17,
+          "native_script": "ગુણ રાજિ વિરાજિત મરિપુ પરાજિત,મજિત શાંતિ જિન યુગલમિદમ્ ।\nમતિ શુભ્ર સભાજન મતિશય ભાજન, મુપજનયતુ સંઘસ્ય મુદમ્",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "pakkhi-khamana",
+      "name_native": "શ્રી પક્ખી ખામણા",
+      "name_translit": "Pakkhi Khamana",
+      "name_en": "Fortnightly Forgiveness (Khamana)",
+      "aliases": [],
+      "order": 36,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "102-103",
+      "pdfPages": [
+        84,
+        85
+      ],
+      "usedIn": [
+        "pakshik",
+        "chaumasi",
+        "samvatsari"
+      ],
+      "role": "Mutual asking-of-forgiveness; names the Anchalgachchha founders Aryarakshitsuri & Kalyanasagarsuri (and the current gacchadhipati)",
+      "shlokas": [
+        {
+          "shlokaId": "pakkhi-khamana/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "અરિહંતજીને ખમાવીએ રે, જેહના ગુણ છે બાર ખમો ભવિ ખામણા રે ।\nસિદ્ધજીને ખમાવીએ રે, ગુણ આઠોએ મનોહાર ॥ ખમો ભવિ૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/02",
+          "number": 2,
+          "printedNumber": 2,
+          "native_script": "આચાર્યજીને ખમાવીએ રે, જેહનાં ગુણ છત્રીશ ॥ ખમો ભવિ૦ ।\nઉપાધ્યાયજીને ખમાવીએ રે, જેહનાં ગુણ પચ્ચવીશ ॥ ખમો ભવિ૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/03",
+          "number": 3,
+          "printedNumber": 3,
+          "native_script": "સાધુ સર્વને ખમાવીએ રે, શોભે ગુણ સત્તાવીશ ॥ ખમો ભવિ૦ ।\nશ્રાવક શ્રાવિકાને ખમાવીએ રે, જેહના ગુણ એકવીશ ॥ ખમો ભવિ૦",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/04",
+          "number": 4,
+          "printedNumber": 4,
+          "native_script": "આઠમ પાખી ખમાવીએ રે,ચોમાસી ત્રણ વાર ॥ ખમો ભવિ. ।\nસંવત્સરી શુદ્ધ ખમાવીએ રે, ખમાવીએ વારંવાર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/05",
+          "number": 5,
+          "printedNumber": 5,
+          "native_script": "રૂઠડો સંઘ મનાવીએ રે, મનાવીએ વારંવાર ॥ ખમો ભવિ. ।\nઆર્યરક્ષિતસૂરિને ખમાવીએ રે, વિધિ પક્ષગચ્છ શણગાર॥ ખમો ભવિ.।\nકલ્યાણાસાગરસૂરિને ખમાવીએ રે, અંચલગચ્છ શણગાર ॥ ખમો\nભવિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/06",
+          "number": 6,
+          "printedNumber": 6,
+          "native_script": "* વર્તમાન ગચ્છાધિપતિશ્રીને ખમાવીએ રે અચલગચ્છ શણગાર",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        },
+        {
+          "shlokaId": "pakkhi-khamana/07",
+          "number": 7,
+          "printedNumber": 7,
+          "native_script": "*ચોમાસી ગુરુને ખમાવીએ રે, વાંચે સૂત્ર સિદ્ધાંત",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "deshavagasik-pachchakkhan",
+      "name_native": "શ્રી દેશાવગાશિક વ્રતનું પચ્ચખ્ખાણ",
+      "name_translit": "Deshavagasik Vrat nu Pachchakkhan",
+      "name_en": "Vow-Formula of the Deshavagasika Vrata",
+      "aliases": [],
+      "order": 37,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "106",
+      "pdfPages": [
+        88
+      ],
+      "usedIn": [
+        "deshavagasik"
+      ],
+      "role": "The pratyakhyana (renunciation formula) for the 10th lay vow",
+      "shlokas": [
+        {
+          "shlokaId": "deshavagasik-pachchakkhan/01",
+          "number": 1,
+          "printedNumber": 1,
+          "native_script": "અહન્નં ભંતે ! તુમ્હાણં સમીવે દેશાવગાસિયં પચ્ચખ્ખામિ, તં જહા\nદવ્વઓ, ખિત્તઓ, કાલઓ, ભાવઓ. દવ્વઓનં દેસાવગાસિયં, ખિત્તઓનં\nઇત્થં વા અન્નત્થં વા, કાલઓનં મુહુત્તં પરિમાણં જાવ ધારણા પરિમાણં\nપજ્જુવાસામિ, ભાવઓનં જાવ ગહેણં ન ગહિજ્જામિ જાવ છલેણં ન\nછલિજ્જામિ, અન્નેશ કેણ રોગાયં કેણ વા પરિણામો ન પરિવડઇ, તાવ\nમે અભિગ્ગહો, અન્નત્થણા ભોગેણં, સહસા ગારેણં, મહત્તરા ગારેણં,\nસવ્વ સમાહિ વત્તિયા ગારેણં, વોસિરઇ/વોસિરામિ.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "reconcile_confidence": 1
+        }
+      ]
+    },
+    {
+      "sutraId": "deshavagasik-samayik-pachchakkhan",
+      "name_native": "દેશાવગાશિક સામાયિક વ્રતનું પચ્ચખ્ખાણ",
+      "name_translit": "Deshavagasik Samayik Vrat nu Pachchakkhan",
+      "name_en": "Karemi Bhante for the Deshavagasika Samayika",
+      "aliases": [],
+      "order": 38,
+      "kind": "sutra",
+      "script": "gujarati",
+      "bookPages": "107",
+      "pdfPages": [
+        89
+      ],
+      "usedIn": [
+        "deshavagasik"
+      ],
+      "role": "The samayika vow adapted (jav desavagasiam) for the deshavagasika observance",
+      "needsVerseExtraction": true,
+      "shlokas": []
+    }
+  ],
+  "globalNotes": "Built deterministically from data/corpus/pratikraman-structure.json + the golden OCR pages by src/corpus/canonical-builder.js. 21/38 sutras have extracted verses (285 shlokas total). Sutras flagged needsVerseExtraction are prose/vidhi-heavy or pending a heading needle."
+}

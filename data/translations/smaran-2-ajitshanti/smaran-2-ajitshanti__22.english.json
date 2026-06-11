@@ -1,0 +1,189 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/22",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The gods come rushing in their hundreds of golden flying cars, chariots and horses, so eager that their earrings, armlets and crowns are shaken loose and tossing about.",
+  "recitation": "āgayā vara-vimāṇa-divva-kaṇaga-raha-turaya-pahakara-saehiṁ huliaṁ; sasaṁbhamo'taraṇa-khubhia-lulia-cala-kuṇḍalaṁ gaya-tirīḍa-sohanta-maulimālā.",
+  "wordByWord": [
+    {
+      "token": "આગયા",
+      "translit": "āgayā",
+      "gloss": "(they) have come, have arrived",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past participle of ā-√gam ('to come'); Skt. āgatāḥ.",
+      "notes": "Subject (the gods/celestials) is implied from the surrounding assembly description and supplied from context."
+    },
+    {
+      "token": "વરવિમાણ",
+      "translit": "vara-vimāṇa",
+      "gloss": "excellent celestial cars / aerial palaces",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vara ('best, choice') + vimāna ('flying chariot, sky-palace').",
+      "notes": "First member of the long instrumental compound naming the conveyances."
+    },
+    {
+      "token": "દિવ્વ",
+      "translit": "divva",
+      "gloss": "divine, heavenly",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. divya, from div ('heaven, to shine')."
+    },
+    {
+      "token": "કણગ",
+      "translit": "kaṇaga",
+      "gloss": "golden, of gold",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. kanaka ('gold'); Prakrit -n- > -ṇ-."
+    },
+    {
+      "token": "રહ",
+      "translit": "raha",
+      "gloss": "chariots",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ratha; Prakrit loss of intervocalic -t-."
+    },
+    {
+      "token": "તુરય",
+      "translit": "turaya",
+      "gloss": "horses, steeds",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. turaga ('swift-goer, horse'); Prakrit -g- > -y-."
+    },
+    {
+      "token": "પહકર",
+      "translit": "pahakara",
+      "gloss": "hosts, dense multitudes",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prakara ('heap, mass, multitude'); Prakrit pr- > pah-.",
+      "notes": "Means the swarming abundance of vehicles, not 'maker'; here it quantifies the chariots and horses arriving in masses."
+    },
+    {
+      "token": "સએહિં",
+      "translit": "saehiṁ",
+      "gloss": "by the hundreds",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental plural of Skt. śata ('hundred'); Prakrit saya + -ehiṁ.",
+      "notes": "Closes the instrumental compound: 'by hundreds of hosts of excellent vimānas, divine golden chariots and horses.'"
+    },
+    {
+      "token": "હુલિઅં",
+      "translit": "huliaṁ",
+      "gloss": "hurriedly, in a rush",
+      "partOfSpeech": "adverb",
+      "etymology": "From a Prakrit root hul- ('to hasten, bustle'); adverbial.",
+      "notes": "Conveys the breathless speed of the gods' descent; sets up the disarray described in the second line."
+    },
+    {
+      "token": "સસંભમો",
+      "translit": "sasaṁbhamo",
+      "gloss": "with flurried excitement, in an eager flutter",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sa- ('with') + saṁbhrama ('agitation, hurried eagerness').",
+      "notes": "Forms a sandhi with the following word: sasaṁbhamo + (o)taraṇa."
+    },
+    {
+      "token": "અરણ",
+      "translit": "(o)taraṇa",
+      "gloss": "(in the) alighting / descent (from their vehicles)",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. avataraṇa / ut-taraṇa ('getting down, descending').",
+      "notes": "The book's reading અરણ is the sandhi-shortened tail of sasaṁbhamo-(o)taraṇa, i.e. 'their flurried alighting'; read with the standard recension's -(ot)taraṇa-. Flagged as an orthographic variant."
+    },
+    {
+      "token": "ખ્ખુભિઅ",
+      "translit": "khubhia",
+      "gloss": "agitated, shaken up",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. kṣubhita, past part. of √kṣubh ('to be stirred, agitated'); Prakrit doubled kh-."
+    },
+    {
+      "token": "લુલિઅ",
+      "translit": "lulia",
+      "gloss": "tossed, set swaying",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. lulita ('moved to and fro, dishevelled'), past part. of √lul."
+    },
+    {
+      "token": "ચલકુંડલં",
+      "translit": "cala-kuṇḍalaṁ",
+      "gloss": "swinging earrings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. cala ('moving') + kuṇḍala ('ear-ornament')."
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "armlets (aṅgada)",
+      "partOfSpeech": "noun",
+      "etymology": "Sandhi remnant of kuṇḍala + aṅgaya (Skt. aṅgada, 'arm-band').",
+      "notes": "The book segments ...kuṇḍalaṁ gaya, but ગય is the second member of -kuṇḍal-aṅgaya-; read as 'armlets'. Variant flagged."
+    },
+    {
+      "token": "તિરીડ",
+      "translit": "tirīḍa",
+      "gloss": "diadems, tiaras",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kirīṭa ('crown, diadem'); Prakrit k- > t- (cf. tiriḍa)."
+    },
+    {
+      "token": "સોહંત",
+      "translit": "sohanta",
+      "gloss": "shining, resplendent",
+      "partOfSpeech": "adj",
+      "etymology": "Present participle of Prakrit soh- (Skt. √śubh, 'to gleam'); Skt. śobhamāna."
+    },
+    {
+      "token": "મઉલિમાલા",
+      "translit": "maulimālā",
+      "gloss": "crown-garlands, chaplets upon the head",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mauli ('crown, crest, head') + mālā ('garland, wreath').",
+      "notes": "Caps the catalogue of ornaments thrown into disarray by the rush."
+    }
+  ],
+  "literalTranslation": "They have come, in a rush, by hundreds of hosts of excellent celestial cars, divine golden chariots and horses — their swinging earrings, armlets, diadems and the gleaming garland-crowns shaken and tossed about in the flurried alighting.",
+  "idiomaticTranslation": "They came sweeping in — hundreds upon hundreds of them — in choice celestial sky-cars, divine golden chariots and swift steeds, all in headlong haste; and as they sprang down in their flurry, their swaying earrings, armlets, diadems and the shining wreath-crowns upon their heads were jostled and set trembling.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding stanza fell silent in a bare litany of homage — 'ajiaṁ ajiaṁ payao paṇame,' bowing with folded composure — this verse bursts into motion. The single finite verb āgayā ('they have come') is overwhelmed by a torrent of compounded nouns naming the traffic of heaven: sky-cars, golden chariots, horses, and not merely many but pahakara-saehiṁ, 'by hundreds of hosts.' The poet's craft is to make grammar enact the scene: the long unbroken instrumental compound rushes the ear forward just as the gods rush forward, and huliaṁ ('hurriedly') seals the breathless pace. The second line then photographs the consequence of that haste. The very ornaments that mark celestial dignity — kuṇḍala (earrings), aṅgada (armlets), kirīṭa (diadems), and the maulimālā (crown-wreaths) — are khubhia and lulia, shaken and tossed, because in their sasaṁbhama, their eager flutter, the gods leap down without decorum. The disorder is the point: beings whose ordinary state is serene majesty are visibly dishevelled by devotion. The image is one of controlled excess — every word piles ornament on ornament (kaṇaga, divva, sohanta) precisely so that the reader feels the dazzle and the rush together. This stanza is pure tableau, no doctrine stated; its work is to dramatize, through sound and accumulating imagery, that the approach to the Jina unsettles even the gods.",
+    "doctrinalContext": "The verse renders, in miniature, the Jain conviction that a Tīrthaṅkara stands above the entire heavenly order: the devas — themselves objects of worldly awe — become worshippers, and their disarrayed crowns silently rank them beneath the one they hasten toward. The spectacle of gods abandoning their poised dignity dramatizes bhakti as a force that overrides even celestial self-possession; reverence, not status, is what the scene measures. It belongs to the larger samavasaraṇa-type vision of all classes of being converging in homage, where the Jina's supremacy is shown not by his action but by the helpless eagerness of those who approach him.",
+    "practicalRelevance": "Recited, this verse invites the worshipper to bring not decorous, half-hearted attention but the gods' own sasaṁbhama — an eager, unguarded rush of the heart toward the Jina. It models a devotion willing to let composure slip; the reciter may take the tossed crowns as a cue to set down pride and self-image at the threshold of prayer.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava vv.19–31 (the cosmic assembly venerating the Jinas, into which this arrival opens)",
+        "source": "Nandiṣeṇasūri, in standard Śvetāmbara stotra recensions"
+      },
+      {
+        "text": "Samavasaraṇa accounts of gods descending in vimānas to attend the Tīrthaṅkara",
+        "source": "Āvaśyaka tradition / Triṣaṣṭiśalākāpuruṣacarita, Hemacandra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdom Library — 'Kirīṭa' (Sanskrit/Prakrit/Jain definitions)",
+      "url": "https://www.wisdomlib.org/definition/kirita",
+      "type": "dictionary",
+      "consultedFor": "tirīḍa < kirīṭa ('crown, diadem') and the Prakrit k- > t- shift."
+    },
+    {
+      "title": "Wisdom Library — 'Prakāra / Prakara' (multitude, mass)",
+      "url": "https://www.wisdomlib.org/definition/prakara",
+      "type": "dictionary",
+      "consultedFor": "pahakara < prakara ('heap, multitude, host') sense over 'maker'."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Skt. roots of kanaka, ratha, turaga, vimāna, mauli, kuṇḍala, aṅgada, kṣubhita, lulita."
+    },
+    {
+      "title": "JainQQ digital library — Ajitaśānti Stava recensions and stotra anthologies",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Standard recension word-segmentation (sasaṁbhamottaraṇa-…-kuṇḍal-aṅgaya-tirīḍa-sohanta-maulimālā) and the placement of this verse in the assembly sequence."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Two book readings reflect sandhi/orthographic splits rather than independent words: (1) અરણ (araṇa) is the tail of sasaṁbhamo-(ot)taraṇa, 'flurried alighting/descent'; (2) ગય (gaya) is the second member of -kuṇḍal-aṅgaya- (= aṅgada, 'armlet'), not a standalone word. Both are glossed per the widely attested standard recension and flagged as variants; the book's spacing/orthography is preserved verbatim in the tokens. The implied subject (the gods/celestials) is supplied from the surrounding assembly stanzas. huliaṁ ('hastily') rests on a Prakrit hul- root attested lexically but with some semantic latitude; rendered 'in a rush' on contextual grounds."
+}

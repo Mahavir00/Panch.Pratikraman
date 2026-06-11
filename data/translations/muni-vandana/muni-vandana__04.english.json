@@ -1,0 +1,158 @@
+{
+  "shlokaId": "muni-vandana/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse adds four more head-teachers to the lineage roll, naming who sat on the seat after whom: Siṁhaprabha, then Ajayasiṁha, then Devendrasiṁha, then Dharmaprabha.",
+  "recitation": "tappaya siri siṁhapahā, tesiṁ pae ajayasiṁha varaguruṇo ॥ deviṁdasiṁha guruṇo, tappaya siri dhammappahasūri",
+  "wordByWord": [
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "after him on the seat; next in the succession",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit tat-pade / tat-paṭṭe, 'on his seat'; tad ('that/his') + pada/paṭṭa ('seat'). The threading refrain of the litany.",
+      "notes": "Here it opens the line, marking Siṁhaprabha as the successor of the preceding Mahendrasiṁha."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the illustrious; venerable (śrī)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit < Sanskrit śrī, an honorific prefixed to a revered name.",
+      "notes": "Used here as an honorific qualifier of the name that follows."
+    },
+    {
+      "token": "સિંહપહા",
+      "translit": "siṁhapahā",
+      "gloss": "Siṁhaprabha(sūri) — 'lion-radiance'",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name. Prakrit < Sanskrit Siṁhaprabha: siṁha ('lion') + prabhā ('radiance'); pahā = Prakrit for prabhā.",
+      "notes": "Nominative form naming the ācārya who takes the seat."
+    },
+    {
+      "token": "તેસિં",
+      "translit": "tesiṁ",
+      "gloss": "of him / on his (seat)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive < Sanskrit teṣām / tasya, 'of him/them'.",
+      "notes": "Governs pae below: 'on his seat'."
+    },
+    {
+      "token": "પએ",
+      "translit": "pae",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative < Sanskrit pade, locative of pada ('seat, station'); here equivalent to the paṭṭa of succession.",
+      "notes": "tesiṁ pae = 'upon his seat (came) …'."
+    },
+    {
+      "token": "અજયસિંહ",
+      "translit": "ajayasiṁha",
+      "gloss": "Ajayasiṁha(sūri) — 'unconquerable lion'",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name. Sanskrit Ajaya ('unconquered') + siṁha ('lion').",
+      "notes": "The next paṭṭadhara, seated after Siṁhaprabha."
+    },
+    {
+      "token": "વરગુરુણો",
+      "translit": "varaguruṇo",
+      "gloss": "of the excellent guru",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit genitive: vara ('excellent, choice') + guru ('teacher') + -ṇo (Prakrit gen. sg., = Sanskrit -asya).",
+      "notes": "Genitive epithet attaching to Ajayasiṁha, framing him as object of veneration."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "verse-pause mark (daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa: a metrical/recitational punctuation mark, not a lexical word.",
+      "notes": "Marks the half-verse break; carries no meaning, retained verbatim per the book's orthography."
+    },
+    {
+      "token": "દેવિંદસિંહ",
+      "translit": "deviṁdasiṁha",
+      "gloss": "Devendrasiṁha(sūri) — 'lion among Indras/gods'",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name. Sanskrit Devendra ('lord of the gods, Indra') + siṁha ('lion'); deviṁda = Prakrit for devendra.",
+      "notes": "The third name of this verse, seated after Ajayasiṁha."
+    },
+    {
+      "token": "ગુરુણો",
+      "translit": "guruṇo",
+      "gloss": "of the guru; the guru",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive: guru + -ṇo (gen. sg.).",
+      "notes": "Epithet of Devendrasiṁha, parallel to varaguruṇo above."
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "after him on the seat; next in the succession",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit tat-pade / tat-paṭṭe; the recurring succession refrain (second occurrence in this verse).",
+      "notes": "Here links Devendrasiṁha forward to Dharmaprabha."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the illustrious; venerable (śrī)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit < Sanskrit śrī (second occurrence).",
+      "notes": "Honorific qualifying Dharmaprabhasūri."
+    },
+    {
+      "token": "ધમ્મપ્પહસૂરિ",
+      "translit": "dhammappahasūri",
+      "gloss": "Dharmaprabhasūri — 'radiance of dharma', the preceptor",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name. Sanskrit Dharmaprabha (dharma + prabhā, dhamma/pahā = Prakrit) + sūri ('preceptor, ācārya').",
+      "notes": "Closes the verse; the only name here carrying the explicit -sūri suffix."
+    }
+  ],
+  "literalTranslation": "After him (on the seat), the illustrious Siṁhaprabha; upon his seat, the excellent guru Ajayasiṁha. The guru Devendrasiṁha; after him, the illustrious Dharmaprabhasūri.",
+  "idiomaticTranslation": "Upon his seat came the venerable Siṁhaprabhasūri; upon that same seat, the excellent guru Ajayasiṁhasūri; then the guru Devendrasiṁhasūri; and after him, the venerable Dharmaprabhasūri.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā carries the Anchalgachchha chain four links onward, picking up exactly where the preceding line left Mahendrasiṁha and handing off, in the line that follows, to Siṁhatilaka. Its whole work is done by two alternating connectives — tappaya ('next on the seat') and tesiṁ pae ('upon his seat') — which here recur twice, so that the half-verse reads as two paired hand-overs: Siṁhaprabha → Ajayasiṁha, and Devendrasiṁha → Dharmaprabha. Worth noticing is the lion-cluster of names: Siṁha-prabha ('lion-radiance'), Ajaya-siṁha ('unconquerable lion'), Devendra-siṁha ('lion among the gods') — three successive seats whose names all carry siṁha, the lion as the standard emblem of fearless ascetic mastery — before the imagery turns at Dharma-prabha to prabhā, 'radiance,' echoing the -prabha of the first name and closing the verse on the light of dharma rather than the lion's strength. Note too the grammar of homage: each ācārya is named in the genitive of veneration — varaguruṇo, guruṇo, '(the seat) of the excellent guru,' '(the seat) of the guru' — so the syntax keeps every name an object of reverence, never a subject acting on his own account. The single explicit -sūri (Dharmaprabhasūri) rounds off the unit. Per the verse's role, no name is glossed as a saint in isolation; each is simply one tested link whose worth is its place in the unbroken transmission.",
+    "doctrinalContext": "The verse enacts guru-paramparā: spiritual authority in Jain ascetic tradition is received, not self-originated. The repeated locatives of the 'seat' (pae) and the genitives of the 'guru' make the doctrinal point grammatically — the paṭṭa endures while its holders pass, so that what is venerated is the continuous transmission of right teaching (the jaṅgama, living tīrtha) rather than any individual's charisma. The lion-named seats quietly encode the ascetic ideal those teachers embodied: fearless, unconquered conduct.",
+    "practicalRelevance": "Even a reciter who never memorises these four names is meant, on reaching this line, to register that the dharma reached them through specific, fallible-yet-faithful human hands — Siṁhaprabha to Dharmaprabha among them — and so to chant the line as an act of gratitude and humility rather than mere recall, keeping attention on the chain, not the syllables.",
+    "crossReferences": [
+      {
+        "text": "Anchalgachchha (Vidhipakṣa) paṭṭāvalī — succession Mahendrasiṁha → Siṁhaprabha → Ajayasiṁha → Devendrasiṁha → Dharmaprabha → Siṁhatilaka",
+        "source": "Achal Gaccha tradition, paṭṭāvalī"
+      },
+      {
+        "text": "Śatpadī (account of Achalgachchha practice and lineage)",
+        "source": "Mahendrasūri, VS 1294"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Anchal Gaccha / Vidhipakṣa) — overview and lineage",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipakṣa-gaccha identity and the unbroken paṭṭa-succession from Sudharmāsvāmī through Āryarakṣitsūri, within which these four ācāryas fall."
+    },
+    {
+      "title": "Aryarakshitsuri — founder of the Achal Gaccha",
+      "url": "https://en.wikipedia.org/wiki/Aryarakshitsuri",
+      "type": "scholarship",
+      "consultedFor": "The 47th-paṭṭa founder anchoring the litany and the gaccha's succession framework that continues into this verse."
+    },
+    {
+      "title": "Āryarakṣitsūri / Achalgachchha — book summary (Shramana Bhagwanto)",
+      "url": "https://jaingpt.org/knowledge/aryarakshitsuri_249086_249086",
+      "type": "scholarship",
+      "consultedFor": "Lineage continuity of the Achalgachchha and Dharmaghoṣa/Mahendrasūri's Śatpadī tradition documenting the succession."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots underlying the Prakrit forms: śrī (siri), guru, vara, pada (pae), siṁha, prabhā (pahā), dharma."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Names are secure from the gaccha's paṭṭāvalī, but exact dates for these intermediate paṭṭadharas (Siṁhaprabha, Ajayasiṁha, Devendrasiṁha, Dharmaprabha) are not independently dated and rest on the lineage tradition (so marked uncertain). siṁhapahā = Siṁhaprabha and dhammappahasūri = Dharmaprabhasūri, with Prakrit pahā for prabhā and doubled conjuncts (-ppaha-) preserved verbatim from the book. The daṇḍa ॥ is a recitational pause mark, not a lexical token. The verse has no independent meaning apart from its place in the litany; the genitives (varaguruṇo, guruṇo) read as 'on the seat of …' completing the tappaya/pae refrain."
+}

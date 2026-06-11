@@ -1,0 +1,62 @@
+{
+  "shlokaId": "iriyavahiyam/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This single phrase pins down when the harm happened — while I was going and coming, that is, moving about.",
+  "recitation": "gamaṇāgamaṇe",
+  "wordByWord": [
+    {
+      "token": "ગમણાગમણે",
+      "translit": "gamaṇāgamaṇe",
+      "gloss": "in going and coming; while moving to and fro",
+      "partOfSpeech": "compound",
+      "etymology": "A copulative (dvandva) compound in the locative singular: gamaṇa (Skt. gamana, 'going', from √gam, 'to go') + āgamaṇa (Skt. āgamana, 'coming', ā- 'towards' + √gam), joined by sandhi as gamaṇa-āgamaṇe and inflected with the locative ending -e ('in/while'). Prakrit gamaṇa reflects Skt. gamana with the regular softening/retention seen in Ardhamāgadhī.",
+      "notes": "Some recensions read the plural locative gamaṇāgamaṇesu ('in goings and comings'); this book's singular gamaṇāgamaṇe is honored verbatim."
+    }
+  ],
+  "literalTranslation": "in going-and-coming",
+  "idiomaticTranslation": "namely, in my going and my coming — in every movement to and fro.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding clause named the offence in the abstract — a transgression along the path of one's own movement — this one verse fixes its concrete occasion. gamaṇāgamaṇe is a locative: it answers the question 'in what circumstance was the harm done?' The answer is the most ordinary thing imaginable — going out and coming back. The dvandva pairing of gamaṇa and āgamaṇa is deliberate: it brackets a whole round-trip, the leaving and the returning, so that no leg of one's daily motion escapes the confession. Nothing here is dramatic; that is the point. The reciter is not confessing a battle or a hunt but the unremarkable traffic of a life — errands, walking to the temple, stepping across a threshold. By isolating this single locative phrase as its own verse, the sūtra slows the practitioner down precisely at the hinge between intention and act, before the long catalogue of what gets trodden underfoot (seeds, sprouts, dew, webs) is unrolled in the next breath. It is the grammatical setting of the whole apology: first the resolve, then the named fault, now its when — and only then its what and how.",
+    "doctrinalContext": "The verse operationalizes īryā-samiti at the level of plain locomotion. Jain doctrine holds that motion is the most constant and least avoidable occasion of hiṁsā, because one-sensed beings (earth-, water-, plant-bodies) saturate the ground one walks on. By naming gamaṇāgamaṇe — not war, not labour, but mere going and coming — the verse asserts that culpable harm is woven into the baseline activity of being embodied and mobile. The round-trip framing (going AND coming) also quietly refuses the excuse that the return journey, retracing a 'cleared' path, is harmless: each passage is its own fresh occasion of injury.",
+    "practicalRelevance": "A reciter can take this word as a cue to mentally replay the literal comings and goings of the elapsed period — every walk, commute, and errand — rather than reciting the sūtra as an abstraction. It trains the habit behind the words: walking watchfully, eyes on the path, treating one's ordinary movement as something that deserves both care beforehand and accounting afterward.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyaṁ Sutta, full text — '…iriyāvahiyāe virāhaṇāe gamaṇāgamaṇe pāṇa-kkamaṇe…'",
+        "source": "Iriyāvahi (Romanized), Jain Quantum (jainqq.org)"
+      },
+      {
+        "text": "īryā-samiti as the first of the five samitis governing careful movement",
+        "source": "Āvaśyaka tradition (Ṣaḍ-āvaśyaka), standard expositions"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Iriyāvahi (Romanized text of the Iriyāvahiyaṁ Sūtra)",
+      "url": "https://jainqq.org/booktext/Iriyavahi_Romanized/249452",
+      "type": "translation",
+      "consultedFor": "verbatim placement of gamaṇāgamaṇe within the sūtra's litany and confirmation of the going-and-coming reading"
+    },
+    {
+      "title": "Samvatsari Pratikraman (English) — Iriyāvahiyaṁ with translation",
+      "url": "https://jainqq.org/booktext/Samvatsari_Pratikraman_English/007738",
+      "type": "translation",
+      "consultedFor": "English rendering of gamaṇāgamaṇe as 'coming and going / movement' in a recited edition"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "root analysis of gamana (√gam, 'going') and āgamana (ā- + √gam, 'coming') underlying the Prakrit compound"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (H. D. T. Sheth, Prakrit–Sanskrit dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheth",
+      "type": "dictionary",
+      "consultedFor": "Prakrit form gamaṇa and the dvandva gamaṇāgamaṇa as 'going and coming, movement to and fro'"
+    }
+  ],
+  "translatorConfidence": 0.93,
+  "notes": "The verse is a single locative-singular dvandva compound; its meaning ('in going and coming') is securely attested and uncontested. The only notable variant is grammatical number — several editions print the plural locative gamaṇāgamaṇesu — but the gloss is unaffected. Per the source book's orthography rules, the singular gamaṇāgamaṇe is preserved as given. Root analyses via Sanskrit lexica are reliable; the placeholder/secondary-portal URLs should be checked for stability before publication."
+}

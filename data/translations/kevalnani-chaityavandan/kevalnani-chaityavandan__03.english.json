@@ -1,0 +1,180 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Chanting the names of these past, now-liberated Jinas brings only spiritual gain and never any loss — they have all won liberation, and even the queen of the gods sings their virtues.",
+  "recitation": "kṛtāratha japatāṁ navi hoya hāṇī, dhamīsara pāmyā śivapura-rāṇī. śuddhamati śivakara svaṁdana ṭhāṇī, saṁpratinā guṇa gāye iṁdrāṇī.",
+  "wordByWord": [
+    {
+      "token": "કૃતારથ",
+      "translit": "kṛtāratha",
+      "gloss": "Kṛtārtha — name of the (19th) Jina of the past age; literally 'one whose purpose is fulfilled'",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kṛtārtha = kṛta ('done, accomplished') + artha ('aim, purpose'); the medial -a- is a metrical/Apabhraṁśa vowel insertion.",
+      "notes": "Doubles as an epithet: chanting one 'whose aim is achieved' makes the reciter kṛtārtha too."
+    },
+    {
+      "token": "જપતાં",
+      "translit": "japatāṁ",
+      "gloss": "while chanting / on softly reciting (the name)",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit root jap ('to mutter, repeat a sacred name'); Gujarati present participle japatāṁ.",
+      "notes": ""
+    },
+    {
+      "token": "નવિ",
+      "translit": "navi",
+      "gloss": "not, never",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati / Apabhraṁśa negative na + vi (emphatic api), 'not even'.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "there is, comes to be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati hoya, from Sanskrit bhavati via Prakrit hoï.",
+      "notes": ""
+    },
+    {
+      "token": "હાણી",
+      "translit": "hāṇī",
+      "gloss": "loss, harm, diminution",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit hāni ('loss, decrease'), from root hā ('to abandon, lessen').",
+      "notes": "navi hoya hāṇī = 'no loss ever results' — i.e. nāma-japa is never wasted effort."
+    },
+    {
+      "token": "ધમીસર",
+      "translit": "dhamīsara",
+      "gloss": "Dharmeśvara — 'Lord of Dharma', a Jina of the past caubīsī",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dharma + īśvara → dharmeśvara; metrically contracted to dhamīsara.",
+      "notes": "Some past-caubīsī lists give Jineśvara at this position; this book's reading is honoured verbatim."
+    },
+    {
+      "token": "પામ્યા",
+      "translit": "pāmyā",
+      "gloss": "attained, won, reached",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati past tense of pāmavuṁ ('to obtain'), from Sanskrit prāp / Prakrit pāva.",
+      "notes": ""
+    },
+    {
+      "token": "શિવપુરરાણી",
+      "translit": "śivapura-rāṇī",
+      "gloss": "the queen-bride of Śivapura (the 'city of bliss', i.e. liberation/mokṣa personified)",
+      "partOfSpeech": "compound",
+      "etymology": "śiva ('bliss, weal') + pura ('city') + rāṇī ('queen', from Sanskrit rājñī). Śivapura = the abode of the liberated (siddha-loka).",
+      "notes": "A medieval bhakti trope: the Jina 'weds' mukti as his bride/queen — i.e. attains final liberation."
+    },
+    {
+      "token": "શુદ્ધમતિ",
+      "translit": "śuddhamati",
+      "gloss": "Śuddhamati — 'pure-minded one', a Jina of the past caubīsī",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śuddha ('pure') + mati ('mind, intellect').",
+      "notes": ""
+    },
+    {
+      "token": "શિવકર",
+      "translit": "śivakara",
+      "gloss": "Śivakara — 'maker of bliss/liberation', a Jina of the past caubīsī",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śiva ('weal, liberation') + kara ('one who makes, bestows').",
+      "notes": ""
+    },
+    {
+      "token": "સ્વંદન",
+      "translit": "svaṁdana",
+      "gloss": "Syandana — name of a Jina of the past caubīsī",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit syandana ('chariot; flowing'), from root syand ('to flow, move'); here a proper Jina-name.",
+      "notes": "Read as the Jina-name Syandana (a recognised past-caubīsī name), not as vandana ('bowing')."
+    },
+    {
+      "token": "ઠાણી",
+      "translit": "ṭhāṇī",
+      "gloss": "having established / set (these names) in the heart",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ṭhā / ṭhāṇa from Sanskrit sthā ('to stand, establish'); Old-Gujarati absolutive ṭhāṇī ('having installed/fixed').",
+      "notes": "Completes the act of enshrining the three preceding names in devotion."
+    },
+    {
+      "token": "સંપ્રતિના",
+      "translit": "saṁpratinā",
+      "gloss": "of Samprati — the (24th, final) Jina of the past caubīsī",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit samprati ('now, present') + Gujarati genitive -nā ('of').",
+      "notes": "Here a Jina-name closing the past twenty-four; not the Mauryan king Samprati."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtues, excellences",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa ('quality, merit, virtue').",
+      "notes": ""
+    },
+    {
+      "token": "ગાયે",
+      "translit": "gāye",
+      "gloss": "sings",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati gāvuṁ ('to sing'), from Sanskrit root gai / gāyati.",
+      "notes": ""
+    },
+    {
+      "token": "ઇંદ્રાણી",
+      "translit": "iṁdrāṇī",
+      "gloss": "Indrāṇī — the queen-consort of Indra, king of the gods",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit indrāṇī, feminine of Indra (with -ānī patronymic/spousal suffix); identified with Śacī.",
+      "notes": "Her singing signals that even the highest celestials are devotees of these Jinas."
+    }
+  ],
+  "literalTranslation": "Chanting 'Kṛtārtha', no loss ever comes; Dharmeśvara has won the queen-bride of the liberation-city. Śuddhamati, Śivakara and Syandana I install (in my heart); and the virtues of Samprati are sung even by Indrāṇī.",
+  "idiomaticTranslation": "Softly repeat the name of Kṛtārtha — not a particle of merit is ever lost in the saying of it. Dharmeśvara has wedded the bright queen of the City of Bliss, won final liberation. Śuddhamati, Śivakara and Syandana — I enshrine these names within my heart; and the virtues of Samprati are so radiant that Indrāṇī, queen of the gods, lifts her voice to sing them.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza completes the roll-call of the past-age twenty-four begun in the previous verse, naming its closing Jinas — Kṛtārtha, Dharmeśvara, Śuddhamati, Śivakara, Syandana and, last of all, Samprati — before the next verse turns to the poet's signature. Where verse 2 simply summoned its Jinas to the mind ('serve them, bringing them into the heart'), verse 3 sharpens the why: it states the fruit of that remembrance. The opening line is its doctrinal hinge — 'kṛtāratha japatāṁ navi hoya hāṇī': in chanting these names not an atom of spiritual gain is ever lost. The poet then layers three images of reward. First, attainment: Dharmeśvara has 'won the queen of Śivapura' — mukti figured, in the bridal idiom beloved of medieval Jain hymnody, as a radiant bride the Jina weds. Second, enshrinement: the devotee himself 'establishes' (ṭhāṇī) Śuddhamati, Śivakara and Syandana within — the act the verse asks of us. Third, acclaim: the virtues of Samprati are sung not by a mere mortal but by Indrāṇī, consort of the king of gods, so that the praise the reciter offers below is shown already echoing in the heavens above. The movement is thus deliberate — name, fruit, indwelling, cosmic chorus — and it quietly answers the beginner's unspoken question: why recite names of Jinas so remote that even their age has passed? Because the merit is real, the goal they reached is real, and all the worlds already honour them.",
+    "doctrinalContext": "Two principles anchor the verse. (1) The efficacy of nāma-smaraṇa: 'no loss ever comes' affirms that devotional recollection of a Jina is pure puṇya-bandha and nirjarā — spiritually it can only profit, never deplete, the reciter; the worth of the object (a perfected soul) guarantees the worth of the act. (2) Siddha-hood as the shared terminus: 'won the queen of Śivapura' names mokṣa — the soul's arrival at siddha-loka, free of all karma — as the destiny these Jinas have already realised, the same liberation the worshipper aspires to. The detail that Indrāṇī sings their guṇas expresses the Jain ordering of the cosmos in which devas, however exalted, remain devotees beneath the Jina: divinity worships the liberated, not the reverse.",
+    "practicalRelevance": "The verse is a charter of confidence for the daily reciter: trust that morning nāma-japa is never effort wasted, however distant the Jina. Practically, do as the verse instructs — 'ṭhāṇī', install each name in the heart as you say it, rather than letting the syllables pass unregistered. And let the image of Indrāṇī singing dissolve self-importance: if the queen of the gods sings these virtues, the worshipper joins a chorus already underway, with humility rather than pride.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of a full set of twenty-four Tīrthaṅkaras, the same enumerative-devotion model applied here to the past caubīsī",
+        "source": "Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "kṛtārtha — 'one whose aim is accomplished'",
+        "source": "Wisdomlib, definition of kṛtārtha"
+      },
+      {
+        "text": "syandana — 'chariot; flowing', here a Jina-name",
+        "source": "Wisdomlib, definition of syandana"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kṛtārtha — Sanskrit definitions",
+      "url": "https://www.wisdomlib.org/definition/kritartha",
+      "type": "dictionary",
+      "consultedFor": "Root and sense of kṛtārtha ('aim accomplished, fulfilled') for the token કૃતારથ and its double function as Jina-name and epithet."
+    },
+    {
+      "title": "Syandana — Sanskrit definitions",
+      "url": "https://www.wisdomlib.org/definition/syandana",
+      "type": "dictionary",
+      "consultedFor": "Confirming syandana ('chariot; flowing', root syand) underlying the token સ્વંદન read as the Jina-name Syandana."
+    },
+    {
+      "title": "Indrāṇī — definitions",
+      "url": "https://www.wisdomlib.org/definition/indrani",
+      "type": "dictionary",
+      "consultedFor": "Sense of Indrāṇī as the consort of Indra (identified with Śacī) for the token ઇંદ્રાણી."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse names the closing Jinas of the atīta (past) caubīsī — distinct from the familiar present twenty-four — so the names (Kṛtārtha, Dharmeśvara, Śuddhamati, Śivakara, Syandana, Samprati) are this tradition's past-age list and are kept verbatim per the book's orthography. Two readings carry mild uncertainty: ધમીસર is taken as the Jina-name Dharmeśvara (some past-caubīsī enumerations give Jineśvara at this slot), and સ્વંદન is read as the Jina-name Syandana rather than vandana ('bowing'), which fits the surrounding name-list and the absolutive ઠાણી ('having established'). 'Samprati' here is a Jina-name, not the Mauryan king. The bridal reading of શિવપુરરાણી (mukti as the Jina's queen/bride) follows standard medieval Jain hymn idiom. Metrical vowel-insertions (kṛtāratha for kṛtārtha) are preserved as printed."
+}

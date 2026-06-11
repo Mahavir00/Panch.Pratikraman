@@ -1,0 +1,220 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "No calamity — not a wild elephant, an enemy, a snake, a demon, disease, flood, or thief — can destroy the person who humbly bows to this Jina-pair, Ajita and Śānti.",
+  "recitation": "dvipa-ripu-vyāla-vetāla-rogānalā, nīra-caurādayo 'nye 'pi sakalāḥ khalāḥ |\ntaṁ na luṁpanti kañcukina iva vañjulaṁ, namati yo vimadam idam eva jina-yāmalam ||",
+  "wordByWord": [
+    {
+      "token": "દ્વિપ",
+      "translit": "dvipa",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "dvi- (two) + pā (to drink) — 'the twice-drinker,' that draws water with trunk then mouth; a stock figure for a rogue tusker.",
+      "notes": "First member of a long danger-compound running to khalāḥ."
+    },
+    {
+      "token": "રિપુ",
+      "translit": "ripu",
+      "gloss": "enemy, foe",
+      "partOfSpeech": "noun",
+      "etymology": "From √rip / lip (to smear, deceive) — 'the deceitful one.'"
+    },
+    {
+      "token": "વ્યાલ",
+      "translit": "vyāla",
+      "gloss": "serpent (also any beast of prey)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vyāla — 'a vicious/ferocious animal, snake, tiger.'",
+      "notes": "Here paired with vetāla for sound-play (vyāla-vetāla); the snake-sense is primary in this danger-list."
+    },
+    {
+      "token": "વેતાલ",
+      "translit": "vetāla",
+      "gloss": "ghoul, corpse-animating demon",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vetāla — 'an evil spirit haunting cemeteries that re-animates corpses.'"
+    },
+    {
+      "token": "રોગાનલા",
+      "translit": "rogānalā(ḥ)",
+      "gloss": "the fire(s) of disease",
+      "partOfSpeech": "compound",
+      "etymology": "roga (sickness) + anala (fire) — a metaphor making illness a consuming blaze; nominative plural agreeing with khalāḥ.",
+      "notes": "Sandhi: roga + anala → rogānala."
+    },
+    {
+      "token": "નીર",
+      "translit": "nīra",
+      "gloss": "water (i.e. flood, drowning)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit nīra — 'water'; in a list of perils it denotes deluge or drowning."
+    },
+    {
+      "token": "ચૌરાદયો",
+      "translit": "caurādayo (= caura-ādayaḥ)",
+      "gloss": "thieves and the rest",
+      "partOfSpeech": "compound",
+      "etymology": "caura (thief, from √cur, to steal) + ādi (beginning/etcetera) → caurādayaḥ, 'thieves etc.', closing the open-ended list.",
+      "notes": "ādayaḥ signals the enumeration is illustrative, not exhaustive."
+    },
+    {
+      "token": "ડન્યેડપિ",
+      "translit": "'nye 'pi (= anye api)",
+      "gloss": "others as well",
+      "partOfSpeech": "pronoun",
+      "etymology": "anya (other) + api (also/even); the leading ડ marks the avagraha (ऽ) after the long ā of caurādayo, eliding initial a-.",
+      "notes": "Verbatim orthography of the source book; the ડ-glyph stands for the elision-mark, not a consonant."
+    },
+    {
+      "token": "સકલાઃ",
+      "translit": "sakalāḥ",
+      "gloss": "all, every one (of them)",
+      "partOfSpeech": "adj",
+      "etymology": "sa- (with) + kalā (part) — 'complete, entire'; nominative plural."
+    },
+    {
+      "token": "ખલાઃ",
+      "translit": "khalāḥ",
+      "gloss": "wicked / malign ones",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit khala — 'base, mischievous'; here it sums up every preceding peril as a 'villain.'",
+      "notes": "Grammatical head of the whole danger-list: 'all these malign things.'"
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him (the devotee)",
+      "partOfSpeech": "pronoun",
+      "etymology": "tad, accusative singular masculine; object of luṁpanti, pointing forward to the yaḥ ('he who…') of line 2."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "The standard negation; the pivot of the protective promise."
+    },
+    {
+      "token": "લુંપંતિ",
+      "translit": "luṁpanti",
+      "gloss": "they destroy / tear down",
+      "partOfSpeech": "verb",
+      "etymology": "√lup (to break, plunder, harm), present 3rd person plural, lumpanti.",
+      "notes": "Subject = sakalāḥ khalāḥ; the negated verb carries the verse's whole assurance."
+    },
+    {
+      "token": "કંચુકિન",
+      "translit": "kañcukina(ḥ)",
+      "gloss": "serpents ('slough-bearers')",
+      "partOfSpeech": "noun",
+      "etymology": "kañcuka (sheath, the cast skin/slough) + -in (possessing) — 'the sheathed one,' a poetic kenning for a snake.",
+      "notes": "Subject of the implied verb in the simile: 'as serpents do not destroy the vañjula.'"
+    },
+    {
+      "token": "ઇવ",
+      "translit": "iva",
+      "gloss": "just as, like",
+      "partOfSpeech": "particle",
+      "etymology": "Comparative particle introducing the upamā (simile)."
+    },
+    {
+      "token": "વંજુલં",
+      "translit": "vañjulaṁ",
+      "gloss": "the vañjula (willow/aśoka) tree",
+      "partOfSpeech": "noun",
+      "etymology": "vañjula, a name of the Vetasa (Salix, willow) — a riverside tree where serpents are said to dwell yet leave it unharmed; accusative singular.",
+      "notes": "The traditional image: snakes nest in the vañjula but never gnaw it, so it stands secure."
+    },
+    {
+      "token": "નમતિ",
+      "translit": "namati",
+      "gloss": "bows down, reveres",
+      "partOfSpeech": "verb",
+      "etymology": "√nam (to bend, bow), present 3rd person singular; the act that secures the protection."
+    },
+    {
+      "token": "યો",
+      "translit": "yo (= yaḥ)",
+      "gloss": "he who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative yad, nominative singular masculine (yaḥ → yo before n-); correlate of taṁ in line 1."
+    },
+    {
+      "token": "વિમદ",
+      "translit": "vimada(m)",
+      "gloss": "free of pride, humbled",
+      "partOfSpeech": "adj",
+      "etymology": "vi- (without) + mada (intoxication, conceit) — 'shorn of arrogance'; qualifies the worshipper's inner state.",
+      "notes": "The bowing is efficacious precisely because it is mada-free; humility is the condition of refuge."
+    },
+    {
+      "token": "મિદમેવ",
+      "translit": "(m)idam eva",
+      "gloss": "this very (pair)",
+      "partOfSpeech": "pronoun",
+      "etymology": "idam (this) + eva (precisely); the m- is the sandhi-glide from vimadam idam, joining the words in recitation.",
+      "notes": "eva is emphatic — 'this and no other' Jina-pair."
+    },
+    {
+      "token": "જિન",
+      "translit": "jina",
+      "gloss": "Jina (the spiritual conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "From √ji (to conquer) — one who has vanquished the passions; first member of jina-yāmalam."
+    },
+    {
+      "token": "યામલમ્",
+      "translit": "yāmalam",
+      "gloss": "the pair, the twin",
+      "partOfSpeech": "noun",
+      "etymology": "yāmala / yamala (twin, couple), accusative singular; jina-yāmalam = the twin Jinas Ajita and Śānti.",
+      "notes": "Cf. the preface's yamala device; the object of namati."
+    }
+  ],
+  "literalTranslation": "Elephant, enemy, serpent, ghoul, the fires of disease, water, thieves and all the other malign things — none of them tear him down, just as serpents do not destroy the vañjula tree: he who, free of pride, bows to this very Jina-pair.",
+  "idiomaticTranslation": "The rogue elephant, the foe, the snake, the corpse-demon, the blaze of sickness, flood and thief — and every other cruel thing besides — cannot lay low the devotee who, emptied of all pride, bows to this twin of Jinas; he stands untouched, as the vañjula tree stands unharmed by the very serpents that coil in it.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having vowed in v.14 to adore the two Jinas who have passed to the stainless abode, the hymn now states what such adoration earns: immunity. The verse is built as a single grand sentence whose subject is a piled-up compound of perils — dvipa-ripu-vyāla-vetāla-rogānalā-nīra-caurādayaḥ — capped by the summarizing 'anye'pi sakalāḥ khalāḥ,' 'and all other malign things too,' so that no danger escapes the net. Against this whole army stands one small word: na. They 'do not tear him down' (na luṁpanti). The poet's craft shows in the chiming pairs (vyāla-vetāla; ripu-roga) and in the deliberately open ādayaḥ that lets the list stand for every conceivable harm. The simile is exquisite and easily missed: kañcukina iva vañjulaṁ — 'as serpents (do not destroy) the vañjula.' By tradition the willow-like vañjula is the very tree in which snakes coil, yet they never gnaw it; it lives secure amid what should threaten it. Just so the devotee dwells in a world full of perils and remains unharmed. The condition is stated last and is decisive: vimadam — 'free of pride.' The bowing that protects is not transactional ritual but ego-emptied surrender to 'this very' (idam eva) Jina-pair. The emphatic eva quietly excludes every rival refuge.",
+    "doctrinalContext": "The verse expresses the Jain understanding of protective devotion (stuti / smaraṇa) without lapsing into theism: the liberated Jinas, being utterly detached, grant no boons and intervene in nothing. What shields the reciter is the transformed state his own reverence produces — auspicious bhāva and the merit (puṇya) it generates, which loosen the inauspicious karmas that would otherwise ripen as calamity. Hence the insistence on vimada: pride (mada) is itself a passion that binds karma, so a mada-free bow is spiritually potent precisely because it is humble. The seven-plus perils map the Jain catalogue of bhayas (fears) the Nine Smaraṇas are recited to dispel, while the vañjula simile teaches equanimity — security amid danger rather than removal of danger.",
+    "practicalRelevance": "Recited at the close of the Pakkhī observance, this verse trains the devotee to meet life's elephants, illnesses, floods and thieves not by demanding rescue but by bowing pride-free, cultivating the inner steadiness of the vañjula that lets serpents coil yet remains whole.",
+    "crossReferences": [
+      {
+        "text": "Bhaktāmara Stotra vv. 34–43 (the parallel danger-list: gaja, siṁha, vahni, ahi, raṇa, jaladhi, jalodara, bandhana)",
+        "source": "Mānatuṅga, standard Śvetāmbara recension"
+      },
+      {
+        "text": "Laghu Ajitaśānti Stava (8th Smaraṇa), the companion protective hymn to the same Jina-pair",
+        "source": "Vīragaṇin (per the tradition knowledge base §3.5)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vañjula — definition (Rājanighaṇṭu; Vetasa / Salix, willow)",
+      "url": "https://www.wisdomlib.org/definition/vanjula",
+      "type": "dictionary",
+      "consultedFor": "Botanical identity of vañjula as the willow/Vetasa tree underlying the kañcukina iva vañjulaṁ simile."
+    },
+    {
+      "title": "Vyāla — definition (Sanskrit-English)",
+      "url": "https://www.wisdomlib.org/definition/vyala",
+      "type": "dictionary",
+      "consultedFor": "Range of vyāla ('serpent / beast of prey') in the danger-compound."
+    },
+    {
+      "title": "Vetāla — definition (Sanskrit-English)",
+      "url": "https://www.wisdomlib.org/definition/vetala",
+      "type": "dictionary",
+      "consultedFor": "Sense of vetāla as a corpse-animating ghoul/demon."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for √lup (lumpati, 'break/destroy/plunder'), kañcuka/kañcukin ('slough', 'snake'), and yamala/yāmala ('twin, pair')."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse's danger-list closely mirrors the Bhaktāmara Stotra's bhaya-enumeration, a shared Jain stotra topos. Orthographic note: ડન્યેડપિ encodes 'nye'pi (anye api) with the ડ-glyph standing for the avagraha (ऽ) of elision after caurādayo, and મિદમેવ is the sandhi-bound 'idam eva' carrying a euphonic m- from vimadam — both preserved verbatim per the source book's readings rather than normalized. The kañcukina iva vañjulaṁ simile relies on the traditional belief that serpents inhabit but do not damage the vañjula tree; the comparison is read as 'as serpents do not destroy the vañjula.' rogānalā and the list-words are taken as nominative plural in agreement with sakalāḥ khalāḥ. Authorship of this ninth (Bṛhad) Ajitaśānti Stava remains unattributed in the tradition knowledge base."
+}

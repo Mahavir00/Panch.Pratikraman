@@ -1,0 +1,152 @@
+{
+  "shlokaId": "bharahesar-sajjhay/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse simply recites the names of ten great, virtuous Jain women — Sulasā, Candanabālā, Manoramā, Madanarekhā, Damayantī, Narmadāsundarī, Sītā, Nandā, Bhadrā and Subhadrā — so that remembering them inspires us to be as steadfast as they were.",
+  "recitation": "sulasā candanabālā, maṇoramā mayaṇarehā damayantī | namayāsundarī sīyā, nandā bhaddā subhaddā ya ||",
+  "wordByWord": [
+    {
+      "token": "સુલસા",
+      "translit": "sulasā",
+      "gloss": "Sulasā (a devout laywoman of Rājagṛha, an ardent lay-devotee of Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. su- ('good, fair') + a stem related to lasā ('graceful'); 'the lovely/auspicious one'. Prakrit = Skt. Sulasā.",
+      "notes": "One of the sixteen (soḷ) satīs; remembered for unshakable samyaktva tested by the deva Ambaḍa."
+    },
+    {
+      "token": "ચંદનબાલા",
+      "translit": "candanabālā",
+      "gloss": "Candanabālā (the first sādhvī, who broke Mahāvīra's long fast with her offering)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. candana ('sandalwood') + bālā ('young woman, maiden') → 'sandalwood-maiden'. Prakrit Candaṇabālā.",
+      "notes": "Originally princess Vasumatī; the lone renunciant in this verse's roster."
+    },
+    {
+      "token": "મણોરમા",
+      "translit": "maṇoramā",
+      "gloss": "Manoramā (wife of Sudarśana Śeṭha of Campā, whose kāyotsarga and śīla saved him from execution)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. manas ('mind') + ramā/√ram ('delighting') → 'she who delights the mind'. Prakrit maṇo = Skt. manas.",
+      "notes": "Identification per the kathā tradition; recensions vary."
+    },
+    {
+      "token": "મયણરેહા",
+      "translit": "mayaṇarehā",
+      "gloss": "Madanarekhā (wife of Yugabāhu and mother of Nami, who repelled her brother-in-law Maṇiratha's advances)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Madanarekhā: madana ('Kāma, love') + rekhā ('line, streak/image') → 'the very likeness of love (in beauty)'. Prakrit mayaṇa = Skt. madana.",
+      "notes": "A paradigm of śīla preserved under temptation."
+    },
+    {
+      "token": "દમયંતી",
+      "translit": "damayantī",
+      "gloss": "Damayantī (faithful wife of Nala; a satī shared with the pan-Indic tradition, retold to Jain ethics)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. from √dam ('to subdue, tame') + pres. part. -antī → 'she who subdues (hearts/passions)'.",
+      "notes": "One of the five satīs common to Jain and Hindu lists."
+    },
+    {
+      "token": "નમયાસુંદરી",
+      "translit": "namayāsundarī",
+      "gloss": "Narmadāsundarī (a satī falsely accused yet vindicated by her steadfast śīla)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sundarī ('beautiful woman'); first member uncertain — most likely Narmadā (river-name) → Narmadāsundarī.",
+      "notes": "Reading uncertain; variously Narmadāsundarī / Nayāsundarī across recensions — see notes."
+    },
+    {
+      "token": "સીયા",
+      "translit": "sīyā",
+      "gloss": "Sītā (wife of Rāma/Padma in the Jain Rāmāyaṇa, vindicated through the fire-ordeal)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīyā = Skt. Sītā, 'furrow' (she who was found in the ploughed furrow).",
+      "notes": "Jain recensions recast her tale to conform to Jain ethics."
+    },
+    {
+      "token": "નંદા",
+      "translit": "nandā",
+      "gloss": "Nandā (chief queen of King Śreṇika of Magadha, mother of Abhayakumāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. from √nand ('to rejoice') → 'joy, the delightful one'.",
+      "notes": "Identification per kathā tradition; multiple Nandās exist in the literature."
+    },
+    {
+      "token": "ભદ્દા",
+      "translit": "bhaddā",
+      "gloss": "Bhadrā (a virtuous merchant-matron of the narrative tradition)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaddā = Skt. bhadrā, 'auspicious, good, blessed'.",
+      "notes": "Several Bhadrās appear in Jain kathā; specific identification uncertain."
+    },
+    {
+      "token": "સુભદ્દા",
+      "translit": "subhaddā",
+      "gloss": "Subhadrā (the satī of Campā whose chastity drew water in a sieve and opened the city gates)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit subhaddā = Skt. Subhadrā: su- ('very') + bhadrā ('auspicious') → 'most blessed'.",
+      "notes": "Her śīla-power producing a public miracle makes her the climactic name of the verse."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and (closing enclitic conjunction joining the list)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya = Skt. ca ('and'); enclitic coordinating conjunction.",
+      "notes": "Marks the close of the name-string, gathering all preceding satīs together."
+    }
+  ],
+  "literalTranslation": "Sulasā, Candanabālā, Manoramā, Madanarekhā, Damayantī; Narmadāsundarī, Sītā, Nandā, Bhadrā, and Subhadrā.",
+  "idiomaticTranslation": "Sulasā and Candanabālā, Manoramā, Madanarekhā and Damayantī; Narmadāsundarī and Sītā, Nandā, Bhadrā — and Subhadrā too.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the threshold verse of the satī panel: having sealed the roll of heroic souls, the litany now turns to women, and does so in pure name-taking — ten satīs strung together with a single closing 'ya', no deeds described. The opening pairing, Sulasā–Candanabālā, deliberately rhymes with the famous Brāhmī-Candanbālikā hymn that names the sixteen satīs, signalling that we have entered that revered company. The selection is pointedly varied. Candanabālā stands as the lone renunciant — the first sādhvī — set beside laywomen and queens (Nandā, Madanarekhā), quietly affirming that supreme virtue flowers in every station. Several names cluster around a single theme dear to this sajjhāy: śīla vindicated under duress. Madanarekhā repels Maṇiratha; Manoramā's kāyotsarga and fidelity save her condemned husband Sudarśana; Subhadrā's chastity famously draws water in a sieve and swings open Campā's gates; Sītā passes through fire unburnt. Damayantī and Sītā are also the bridge-figures shared with the wider Indian tradition, here retold to Jain ethics, so the verse honours both the canon's own heroines and the great satīs of common memory. Subhadrā is placed last for force: her public, miraculous vindication is the loudest single proof that śīla is not passive virtue but spiritual power — the very claim the closing phala-verse (v.13) will universalise.",
+    "doctrinalContext": "The verse dramatises śīla not as mere bodily chastity but as fidelity to dharma that generates real karmic and even visible fruit — Subhadrā's sieve, Manoramā's reprieve. In Jain terms this is the steadiness of one whose samyaktva and vrata cannot be shaken by craving, fear, or false accusation; the satī conquers the inner enemy (Damayantī's name literally means 'she who subdues'). By ranking a sādhvī, queens, and merchant-women side by side, the verse also enacts the dignity of the four-fold saṅgha: the householder's path, lived with unbroken śīla, reaches the same exemplary height as renunciation.",
+    "practicalRelevance": "Recited at dawn, each name is a touchstone, not a petition: the reciter calls up a specific image of steadfastness — fidelity under temptation, calm under false blame, vow kept under threat — and resolves to meet the day's pressures the same way. For women reciters especially these are living role models; for all, they convert an abstract resolve to keep śīla into ten concrete faces.",
+    "crossReferences": [
+      {
+        "text": "Bharahesara nī Sajjhāy, gāthā 8 (and the phala-verse, gāthā 13)",
+        "source": "Anchalgachchha / Vidhipaksha Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "Brāhmī-Candanbālikā, the sixteen-satī hymn",
+        "source": "Śvetāmbara devotional tradition"
+      },
+      {
+        "text": "Sītā, Damayantī and Nala narratives in the Jain retellings",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacarita"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Soḷ satī (the sixteen satīs)",
+      "url": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/sol-sati/",
+      "type": "scholarship",
+      "consultedFor": "Confirmation that the Bharahesara nī Sajjhāy lists satīs in the rāī pratikramaṇ; the stable sixteen-satī roster including Sulasā, Candanbālā, Sītā, Subhadrā, Damayantī."
+    },
+    {
+      "title": "Sulasā",
+      "url": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/sulasa/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Sulasā as a lay-devotee satī and her place among the sixteen."
+    },
+    {
+      "title": "Subhadrā",
+      "url": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/subhadra/",
+      "type": "scholarship",
+      "consultedFor": "Subhadrā's śīla-miracle (the sieve / city-gate) and her status as a satī."
+    },
+    {
+      "title": "Candanbālā",
+      "url": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/candanbala/",
+      "type": "scholarship",
+      "consultedFor": "Candanabālā as the first sādhvī who ended Mahāvīra's fast; etymology and narrative."
+    },
+    {
+      "title": "16 Sati in Jainism",
+      "url": "https://jainsite.com/jainism_post/16-sati-in-jainism/",
+      "type": "commentary",
+      "consultedFor": "Cross-check of the conventional satī name-list and individual identifications used in devotional practice."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is a pure name-string; all per-name identifications draw on the narrative (kathā) tradition, not the verse itself, and recensions differ. 'નમયાસુંદરી' (namayāsundarī) is the least certain reading — commonly understood as Narmadāsundarī, but Nayāsundarī/Naya-sundarī also occurs; treated as uncertain. 'Nandā' and 'Bhadrā' each match several women in Jain literature, so their identifications are tentative. The book's verbatim orthography is preserved (મયણરેહા for Madanarekhā, સીયા for Sītā, ભદ્દા/સુભદ્દા with doubled conjuncts); the daṇḍa '।' is a metrical pause, not a lexical token. Per the preface, the sajjhāy's arc, placement, and recurring nāma-grahaṇa imagery are not restated here."
+}

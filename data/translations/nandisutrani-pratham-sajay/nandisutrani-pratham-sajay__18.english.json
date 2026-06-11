@@ -1,0 +1,162 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/18",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse bows to the Jain community as though to a great mountain — its jewel-bright lower slopes are its virtues, its fragrant heights are good conduct and self-denial, and its very summit is the twelve sacred scriptures.",
+  "recitation": "guṇa rayaṇujjala kaḍayaṁ, sīla sugandhi tava maṇḍiuddesaṁ | suya bārasaṅga siharaṁ, saṅgha mahāmandaraṁ vande ||",
+  "wordByWord": [
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtue, good quality",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa, Prakrit guṇa; first member of the compound guṇa-rayaṇa ('virtue-jewels').",
+      "notes": "Compounded with the next word; the virtues are the 'jewels' that make the mountain's girdle gleam."
+    },
+    {
+      "token": "રયણુજજલ",
+      "translit": "rayaṇujjala",
+      "gloss": "jewel-bright, gleaming with gems (rayaṇa + ujjala)",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of Prakrit rayaṇa (Skt. ratna, 'jewel') + ujjala (Skt. ujjvala, 'shining, blazing'); here qualifying kaḍaya.",
+      "notes": "Reads guṇa-rayaṇa-ujjala: 'bright with the jewels that are virtues.'"
+    },
+    {
+      "token": "કડયં",
+      "translit": "kaḍayaṁ",
+      "gloss": "girdling slope / terraced flank of the mountain (lit. 'bracelet, encircling band')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaḍaya = Skt. kaṭaka, 'bracelet, girdle,' and by extension the encircling mid-slope or terraced ledge of a mountain.",
+      "notes": "Accusative sg. agreeing with mahāmandaraṁ. In Meru imagery kaṭaka is the girdling flank, here ablaze with virtue-jewels."
+    },
+    {
+      "token": "સીલ",
+      "translit": "sīla",
+      "gloss": "moral conduct, character (śīla)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śīla, Prakrit sīla; first member of sīla-sugandhi, 'fragrant with conduct.'",
+      "notes": "Conduct imagined as the mountain's perfume — fragrant groves and herbs of good character."
+    },
+    {
+      "token": "સુગંધિ",
+      "translit": "sugandhi",
+      "gloss": "fragrant, sweet-scented",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. su- ('good') + gandhi ('scented'); Prakrit sugandhi.",
+      "notes": "Qualifies the mountain's tracts (uddeśa), perfumed by śīla."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, ascetic practice (tapa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tapas, Prakrit tava; here in tava-maṇḍia, 'adorned with austerity.'",
+      "notes": "Austerity ornaments the slopes just as śīla perfumes them."
+    },
+    {
+      "token": "મંડિઉદેસં",
+      "translit": "maṇḍiuddesaṁ",
+      "gloss": "whose tracts/regions are adorned (maṇḍia + uddesa)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit maṇḍia (Skt. maṇḍita, 'adorned, decorated') + uddesa (Skt. uddeśa, 'region, tract, locality'); accusative sg.",
+      "notes": "Reads sīla-sugandhi-tava-maṇḍia-uddesaṁ: 'whose regions are made fragrant by conduct and adorned by austerity.'"
+    },
+    {
+      "token": "સુય",
+      "translit": "suya",
+      "gloss": "scripture, sacred learning (śruta)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śruta ('that which is heard'), Prakrit suya; first member of suya-bārasaṅga.",
+      "notes": "The scriptural canon, here forming the very peak of the mountain."
+    },
+    {
+      "token": "બારસંગ",
+      "translit": "bārasaṅga",
+      "gloss": "the twelve Aṅgas (dvādaśāṅga), the twelvefold scriptural canon",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit bāra (Skt. dvādaśa, 'twelve') + aṅga ('limb, canonical text'); = dvādaśāṅga.",
+      "notes": "The twelve primary Aṅgas from Ācārāṅga to Dṛṣṭivāda; here the summit of the Saṅgha-mountain."
+    },
+    {
+      "token": "સિહરં",
+      "translit": "siharaṁ",
+      "gloss": "peak, summit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śikhara, Prakrit sihara; accusative sg.",
+      "notes": "suya-bārasaṅga-siharaṁ: 'whose summit is the twelve Aṅgas of scripture' — the apex of the ascent."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the fourfold Jain community",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit saṅgha, 'assembly, community.'",
+      "notes": "The tenor of the simile, identified with mahāmandara."
+    },
+    {
+      "token": "મહામંદરં",
+      "translit": "mahāmandaraṁ",
+      "gloss": "the great Mount Mandara / Meru",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mahā- ('great') + mandara, the cosmic world-mountain; accusative sg., object of vande.",
+      "notes": "saṅgha mahāmandaraṁ stand in apposition: 'the Saṅgha, the great Mandara.'"
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √vand, 'to praise, salute, revere'; 1st person sg. present ātmanepada, vande.",
+      "notes": "The single finite verb; governs all the accusatives as one object — the Saṅgha-Mandara."
+    }
+  ],
+  "literalTranslation": "Whose girdling slope is bright with the jewels that are virtues (guṇa-rayaṇa-ujjala-kaḍaya), whose tracts are made fragrant by conduct (sīla) and adorned by austerity (tava), whose summit is the twelvefold Aṅga of scripture (suya-bārasaṅga-sihara) — that great Mount Mandara, the Saṅgha, I salute.",
+  "idiomaticTranslation": "Its terraced girdle ablaze with the jewels of virtue, its slopes made fragrant by pure conduct and adorned with austerity, its towering summit the twelvefold canon of scripture — to that great Mount Mandara which is the Saṅgha, I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the capstone of the seven-verse Meru sequence. Where the earlier Mandara verses built the mountain from the ground up — its adamantine base of right-faith, its dharma-jewel girdle, its golden cliffs, its fragrant Nandana grove and jewel-bright caves — this gāthā completes the climb by tracing a single vertical line from flank to peak and crowning it. The eye moves upward in three deliberate stages, each carrying a spiritual load. First the kaḍaya, the encircling girdle-slope, glitters with guṇa-rayaṇa, the 'jewels' that are virtues. Then the mid-mountain uddeśa (tracts) are doubly graced: śīla makes them sugandhi (fragrant), and tapa makes them maṇḍita (adorned) — conduct as perfume, austerity as ornament. Finally the gaze reaches the sihara, the summit, and there finds suya-bārasaṅga, the twelve Aṅgas of scripture itself. The ascent is the point: virtue at the base, conduct and austerity on the slopes, and revealed scripture as the highest attainment one can reach. Placing the dvādaśāṅga at the very peak quietly asserts that the Saṅgha's loftiest possession is the canon the Gaṇadharas composed. The verse closes the whole Meru arc on its single finite verb, vande — a direct bow that sets up the next verse's gathering of all eight similes in one breath. Note the sensory texture unique to this gāthā: it alone perfumes the mountain (sugandhi), turning moral fragrance into a felt, climbable landscape.",
+    "doctrinalContext": "The verse maps the three jewels and ascetic discipline onto a vertical scale: virtue (guṇa) and conduct (śīla) and austerity (tapa) culminate in śruta-jñāna, scriptural knowledge, figured as the summit. The choice of the dvādaśāṅga — the twelve canonical Aṅgas from Ācārāṅga to Dṛṣṭivāda — as the apex affirms the Śvetāmbara conviction that right-knowledge crowns and validates right-conduct, and that the living Saṅgha is the vessel that carries and embodies that canon. Tapa here is specifically an adornment, not a penance to be endured, reflecting the Jain valuation of austerity as the mountain's beauty rather than its burden.",
+    "practicalRelevance": "As the reciter visualizes the mountain, the verse invites a self-locating: am I still on the jeweled lower slopes of cultivating virtue, on the fragrant flanks of conduct and austerity, or climbing toward the summit of scriptural understanding? Bowing here is bowing toward an aspiration — to let one's own practice ascend from good qualities, through disciplined conduct, to genuine grasp of the teaching.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening maṅgala (Saṅgha-stuti, Mandara simile)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī)"
+      },
+      {
+        "text": "Samavāyāṅga-sūtra on the dvādaśāṅga (the twelve Aṅgas)",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.20 (śruta-jñāna among the five knowledges)",
+        "source": "Umāsvāti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kataka, Kaṭaka: 42 definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/kataka",
+      "type": "dictionary",
+      "consultedFor": "Sense of kaṭaka/kaḍaya as 'bracelet, girdle' and its extension to the encircling slope of a mountain"
+    },
+    {
+      "title": "Dvadashanga, Dvādaśāṅga: definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/dvadashanga",
+      "type": "dictionary",
+      "consultedFor": "Identity and roll of the twelve Aṅgas (suya-bārasaṅga) from Ācārāṅga to Dṛṣṭivāda"
+    },
+    {
+      "title": "Mandara — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/mandara",
+      "type": "dictionary",
+      "consultedFor": "Mandara/Meru as the cosmic world-mountain underlying the simile"
+    },
+    {
+      "title": "Kataka — Sanskrit Dictionary (Cologne-based)",
+      "url": "https://sanskritdictionary.com/?q=kataka",
+      "type": "dictionary",
+      "consultedFor": "Cross-check of kaṭaka glosses (slope/girdle, ornament) for the verse-token kaḍayaṁ"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) 'કડયં' (kaḍaya = Skt. kaṭaka) primarily means 'bracelet/girdle'; in the sustained Meru imagery it is read as the mountain's encircling girdle-slope — both senses cohere ('jewel-bright girdle'). (2) 'મંડિઉદેસં' is parsed as maṇḍia (maṇḍita, 'adorned') + uddesa (uddeśa, 'region/tract'); an alternative split maṇḍiu + desa yields the same sense ('adorned regions'). (3) sīla-sugandhi and tava-maṇḍia are taken as parallel qualifiers of uddesa; some readings attach sugandhi to the whole mountain. (4) Mātrās, anusvāras and conjuncts (e.g. બારસંગ, મહામંદરં) follow the Anchalgachchha/Vidhipaksha book verbatim and are not normalized. (5) The internal numbering of the Meru block (vv.12–18) varies slightly across recensions of the Nandī opening; this verse functions as the closing salutation of that block before v.19 gathers all eight similes. Glosses verified against Prakrit/Sanskrit lexica; no separate published English rendering of this exact gāthā was located, so the translation is the translator's own."
+}

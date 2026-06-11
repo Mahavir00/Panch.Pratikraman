@@ -1,0 +1,184 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/32",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Counting them all together, the Jina-temples in the lower, upper, and middle worlds come to eight crore, fifty-six lakh, ninety-seven thousand, five hundred thirty-four.",
+  "recitation": "Adho ūrdhva ne tīrcche loke, savve maḷī koḍī āṭhejī. Lākha chappana ne sahasa sattāṇu, paṇasaya cotrīsa pāṭhejī.",
+  "wordByWord": [
+    {
+      "token": "અધો",
+      "translit": "adho",
+      "gloss": "lower (world); below",
+      "partOfSpeech": "adj",
+      "etymology": "from Skt. adhaḥ 'below'; here qualifying adho-loka, the lower world.",
+      "notes": "Names the first of the three lokas being summed."
+    },
+    {
+      "token": "ઊર્ધ્વ",
+      "translit": "ūrdhva",
+      "gloss": "upper (world); above",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ūrdhva 'upward, on high'; here the ūrdhva-loka of the heavens.",
+      "notes": ""
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati copulative conjunction ne 'and'.",
+      "notes": "Joins the third member to the first two."
+    },
+    {
+      "token": "તીર્ચ્છે",
+      "translit": "tīrcche",
+      "gloss": "in the transverse (middle) world; oblique",
+      "partOfSpeech": "adj",
+      "etymology": "from Skt. tiryak / Pkt. tiriccha 'horizontal, sideways'; locative force here = the tiryag-loka.",
+      "notes": "Spelled તીર્ચ્છે verbatim; denotes the madhya/tiryag-loka completed in the previous verse."
+    },
+    {
+      "token": "લોકે",
+      "translit": "loke",
+      "gloss": "in the world(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. loka 'world', locative singular loke; here governing all three preceding qualifiers.",
+      "notes": "One locative covering adho-, ūrdhva- and tiryag-loka together."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all; the whole (of them)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. savve from Skt. sarve 'all'; the archaic Prakritic form is retained.",
+      "notes": ""
+    },
+    {
+      "token": "મળી",
+      "translit": "maḷī",
+      "gloss": "added together; combined",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati maḷvuṁ 'to meet, to be joined'; absolutive maḷī 'having been combined'.",
+      "notes": "Signals a grand total, not a per-loka figure."
+    },
+    {
+      "token": "કોડી",
+      "translit": "koḍī",
+      "gloss": "crore (ten million)",
+      "partOfSpeech": "noun",
+      "etymology": "from Skt. koṭi 'crore'; Pkt./Guj. koḍī.",
+      "notes": "Multiplied by the following 'āṭhe' = eight crore."
+    },
+    {
+      "token": "આઠેજી",
+      "translit": "āṭhejī",
+      "gloss": "eight (crore)",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. āṭha 'eight' (here āṭhe) + devotional refrain particle -jī.",
+      "notes": "-jī is the honorific/emphatic refrain closing every pāda of this dhāla; carries no numerical value."
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "from Skt. lakṣa 'a lakh'.",
+      "notes": ""
+    },
+    {
+      "token": "છપ્પન",
+      "translit": "chappana",
+      "gloss": "fifty-six",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. chappan from Skt. ṣaṭpañcāśat 'fifty-six'.",
+      "notes": "Qualifies lākha: fifty-six lakh."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati copulative conjunction ne 'and'.",
+      "notes": "Links the lakh-count to the thousand-count."
+    },
+    {
+      "token": "સહસ",
+      "translit": "sahasa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "from Skt. sahasra 'thousand'; Pkt. sahassa, here sahasa.",
+      "notes": ""
+    },
+    {
+      "token": "સત્તાણુ",
+      "translit": "sattāṇu",
+      "gloss": "ninety-seven",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. sattāṇu from Skt. saptanavati 'ninety-seven'.",
+      "notes": "Qualifies sahasa: ninety-seven thousand."
+    },
+    {
+      "token": "પણસય",
+      "translit": "paṇasaya",
+      "gloss": "five hundred",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. paṇa (Skt. pañca 'five') + saya (Skt. śata 'hundred') = five hundred.",
+      "notes": ""
+    },
+    {
+      "token": "ચોત્રીસ",
+      "translit": "cotrīsa",
+      "gloss": "thirty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. cotrīs from Skt. catustriṁśat 'thirty-four'.",
+      "notes": "With paṇasaya: five hundred thirty-four."
+    },
+    {
+      "token": "પાઠેજી",
+      "translit": "pāṭhejī",
+      "gloss": "in the (scriptural) reckoning; as recited",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāṭha 'text, recitation', locative pāṭhe 'in the text' + refrain -jī.",
+      "notes": "Asserts the figure is the received/canonical count, 'as stated in the text'."
+    }
+  ],
+  "literalTranslation": "In the lower, the upper, and the transverse world — all combined — eight crore, fifty-six lakh, and ninety-seven thousand, five hundred thirty-four, as in the reckoning.",
+  "idiomaticTranslation": "Taken all together across the lower, the upper, and the middle worlds, the Jina-temples number eight crore, fifty-six lakh, ninety-seven thousand, five hundred and thirty-four — so the scripture reckons them.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the cumulative ledger-line of the temple census: where the preceding verse closed the tally of shrines in the transverse (tiryag) world, here the poet draws the three worlds into a single sum — 'savve maḷī' ('all combined') — and announces the grand total of Jina-temples (jinhar/caitya): 8,56,97,534. The structure is purely additive and recited in descending place-values — koḍī (crore), lākha, sahasa, then the hundreds and units — a chanting-friendly numeral cascade in which each place is named before its multiplier (koḍī āṭhe, lākha chappan, sahasa sattāṇu). Two small words carry weight. 'Loke', a single locative, is made to govern all three preceding qualifiers (adho, ūrdhva, tīrcche), so that one breath embraces the whole triloka. 'Pāṭhe' ('in the reckoning/text') stamps the figure as received tradition rather than the poet's estimate — the worshipper is invited to trust, not to audit. The refrain '-jī' on āṭhejī and pāṭhejī is the dhāla's devotional pulse, not a numeral. Note the hinge function: this line completes the count of temples (caitya); the very next verse pivots to the far larger count of Jina-images (pratimā/bimba). So the verse is a structural seam — the moment the hymn finishes 'how many houses of the Jina' before asking 'how many faces of the Jina within them'. The figure given here is a tradition-specific reading; the widely cited Śvetāmbara total of eternal Jina-shrines is 8,57,00,282, so the book's 8,56,97,534 is best treated as this edition's received reckoning and preserved as printed.",
+    "doctrinalContext": "The verse rests on the cosmographic doctrine of śāśvata caityas — eternal, uncreated Jina-shrines distributed through the lower, upper, and middle worlds and continuously honoured by gods. To recite their sum is itself an act of dravya-stava (worship through external objects) and a strengthener of samyaktva: by mentally bowing to every shrine at once, the reciter affirms that the Jina is venerated boundlessly, independent of any one earthly temple. The deliberately overwhelming total is a devotional instrument — vastness meant to dissolve the ego's sense of scale, not a sum to be checked.",
+    "practicalRelevance": "When you reach this line, let the number land as awe rather than arithmetic: in one phrase you are bowing to every Jina-temple in all three worlds simultaneously. Chant the place-values steadily, and at 'pāṭhe' rest in trust of the received tradition — a brief, humbling reset before the even greater image-count that follows.",
+    "crossReferences": [
+      {
+        "text": "Cosmographic counts of śāśvata jina-caityas and bimbas across the three lokas",
+        "source": "Trilokasāra / Bṛhat-saṁgrahaṇī tradition; Jambūdvīpa-prajñapti"
+      },
+      {
+        "text": "Preceding verse — tiryag-loka temple tally that this verse totals",
+        "source": "Kevalnāṇī Bṛhat Caityavandana, Vācaka Mūlā (Anchalgaccha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Śāśvata — definitions (incl. Jainism; Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Sense of śāśvata ('eternal') applied to the everlasting Jina-shrines counted in this verse."
+    },
+    {
+      "title": "Koṭi — definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/koti",
+      "type": "dictionary",
+      "consultedFor": "Confirming koḍī = koṭi ('crore'), the highest place-value in the verse's count."
+    },
+    {
+      "title": "Svetambaras — eternal Jina shrines and images in the three lokas",
+      "url": "https://jainworld.jainworld.com/jainbooks/images/18/Svetambaras.htm",
+      "type": "scholarship",
+      "consultedFor": "The Śvetāmbara cosmographic totals of śāśvata caityas and bimbas, against which this edition's figure is compared."
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "The verse gives the combined three-world total of Jina-temples (caitya/jinhar) = 8,56,97,534, read in descending place-values; the immediately following verse switches to the Jina-image (pratimā) count, so this line is the seam between the two censuses. The widely cited Śvetāmbara total of eternal Jina-shrines is 8,57,00,282; the book's 8,56,97,534 is preserved verbatim as this edition's received reckoning and not reconciled. 'āṭhe' and 'pāṭhe' carry the devotional refrain '-jī' (no numeric value). Spellings તીર્ચ્છે, સવ્વે, કોડી kept as printed. Whether the count here is meant as śāśvata-only or as śāśvata+aśāśvata combined is not made explicit in the verse itself."
+}

@@ -1,0 +1,174 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May all good come to the Jain community — here pictured as a mighty city whose buildings are virtues, whose treasure is sacred knowledge, whose streets are pure faith, and whose protecting walls are flawless conduct.",
+  "recitation": "guṇa bhavaṇa gahaṇa suyarayaṇa, bhariya daṁsaṇa visuddha ratthāgā. saṅgha-nayara bhaddaṁ te, akhaṇḍa caritta pāgārā.",
+  "wordByWord": [
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtue, good quality",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. guṇa, from √grah/gṛ 'to bind, hold'; the strand-qualities that compose character.",
+      "notes": "First member of the compound guṇa-bhavaṇa-gahaṇa."
+    },
+    {
+      "token": "ભવણ",
+      "translit": "bhavaṇa",
+      "gloss": "mansion, dwelling-hall",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa < Skt. bhavana, from √bhū 'to be, become'; an edifice, the 'buildings' of the city.",
+      "notes": "Echoes gaṇa-bhavana ('assembly-hall ramparts') in the preface's city-imagery."
+    },
+    {
+      "token": "ગહણ",
+      "translit": "gahaṇa",
+      "gloss": "densely-built, deep, impenetrable (stronghold)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit gahaṇa < Skt. gahana 'dense thicket, profound, inaccessible place'.",
+      "notes": "Here: the city thickly packed with virtue-mansions — hence well-defended; a secondary sense 'profound' is also available."
+    },
+    {
+      "token": "સુયરયણ",
+      "translit": "suya-rayaṇa",
+      "gloss": "jewel(s) of scripture",
+      "partOfSpeech": "compound",
+      "etymology": "suya < Skt. śruta 'heard, sacred lore' + rayaṇa < Skt. ratna 'jewel'; the city's stored wealth.",
+      "notes": "śruta-ratna recurs as the lotus-stalk in vv.7–8."
+    },
+    {
+      "token": "ભરિય",
+      "translit": "bhariya",
+      "gloss": "filled, laden",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bhariya < Skt. bhṛta, past participle of √bhṛ 'to bear, fill'.",
+      "notes": "Governs suya-rayaṇa: the city is 'filled with scripture-jewels'."
+    },
+    {
+      "token": "દંસણ",
+      "translit": "daṁsaṇa",
+      "gloss": "right-faith, right-insight",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit daṁsaṇa < Skt. darśana, from √dṛś 'to see'; samyag-darśana, the first of the three jewels.",
+      "notes": ""
+    },
+    {
+      "token": "વિસુદ્ધ",
+      "translit": "visuddha",
+      "gloss": "wholly purified, spotless",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. viśuddha, vi- (intensive) + √śudh 'to purify'.",
+      "notes": "Qualifies the streets: 'purified by right-faith'."
+    },
+    {
+      "token": "રત્થાગા",
+      "translit": "ratthāgā",
+      "gloss": "streets, main thoroughfares",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ratthā < Skt. rathyā 'carriage-road, street' (from ratha 'chariot'); -gā as a Prakrit nominative-plural form.",
+      "notes": "daṁsaṇa-visuddha-ratthāgā = 'with streets made pure by right-faith'."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the four-fold community",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. saṅgha, sam- + √han/hañj 'to come together'.",
+      "notes": "Compounded with nayara; the tenor of the whole metaphor."
+    },
+    {
+      "token": "નયર",
+      "translit": "nayara",
+      "gloss": "city",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayara < Skt. nagara 'town, fortified city'.",
+      "notes": "saṅgha-nayara: 'the Saṅgha-as-city', the vehicle of the rūpaka."
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! welfare!",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhaddaṁ < Skt. bhadram 'good, blessed'.",
+      "notes": "The benedictory refrain carried over from v.3, now turned upon the Saṅgha."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "to you / to it",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit te < Skt. te, dative/genitive of tvam/tad.",
+      "notes": "'bhaddaṁ te' = 'auspiciousness be to you', addressing the Saṅgha-city."
+    },
+    {
+      "token": "અખંડ",
+      "translit": "akhaṇḍa",
+      "gloss": "unbroken, undivided",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. akhaṇḍa, a- (negation) + khaṇḍa 'fragment'; without breach.",
+      "notes": "An unbroken wall has no gap for an enemy — hence flawless, gapless conduct."
+    },
+    {
+      "token": "ચરિત્ત",
+      "translit": "caritta",
+      "gloss": "right-conduct",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit caritta < Skt. cāritra, from √car 'to move, behave'; the third jewel.",
+      "notes": ""
+    },
+    {
+      "token": "પાગારા",
+      "translit": "pāgārā",
+      "gloss": "ramparts, fortress-walls",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāgāra < Skt. prākāra 'rampart, enclosing wall' (pra- + √kṛ 'to make around').",
+      "notes": "akhaṇḍa-caritta-pāgārā: 'whose ramparts are unbroken conduct'."
+    }
+  ],
+  "literalTranslation": "Densely-built with mansions of virtue, filled with scripture-jewels, its streets purified by right-faith — O Saṅgha-city, auspiciousness to you, you whose ramparts are unbroken conduct!",
+  "idiomaticTranslation": "Auspiciousness to you, O city of the Saṅgha! — close-set with the halls of every virtue, your treasuries heaped with the jewels of sacred lore, your avenues swept clean by pure right-faith, and ringed about by the unbreached ramparts of perfect conduct.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.3 cried 'bhaddaṁ!' over Vīra, this verse turns the same blessing upon the community he founded, and does so by raising a single sustained image: the Saṅgha is a walled city, and every feature of the city is a feature of the spiritual life. The poet builds it in four strokes. Its architecture is guṇa-bhavaṇa — the dwellings are virtues, and gahaṇa says they stand close-packed, so dense that the city is itself a stronghold. Its wealth is suya-rayaṇa-bhariya, granaries and treasuries heaped not with gold but with the jewels of scripture. Its streets are daṁsaṇa-visuddha-ratthāgā: the very roads on which the citizens move are kept spotless by right-faith — fitting, since faith is what a practitioner walks by. And its defence is akhaṇḍa-caritta-pāgārā, ramparts of conduct that must be akhaṇḍa, 'unbroken', for a single breach in the wall — a single lapse in restraint — is all an enemy needs. Read together, the four map precisely onto the path: insight (darśana) directs movement, knowledge (śruta) enriches, conduct (cāritra) protects, and guṇa fills the whole enclosure. The verse opens the long chain of similes the hymn will pursue, so it states the city plainly and lets later verses (the wheel of v.5, the chariot of v.6) carry the procession forward without re-explanation.",
+    "doctrinalContext": "The four city-features quietly encode the ratnatraya, the three jewels that constitute the path to liberation — samyag-darśana (the pure streets), samyag-jñāna here as śruta (the jewel-treasure), and samyag-cāritra (the unbroken ramparts) — with guṇa as the encompassing edifice. The insistence on akhaṇḍa is doctrinally exact: conduct guards the soul only so long as it is whole, since each atichāra (transgression) is precisely a 'breach' in the wall — the very logic that the pratikramaṇa's confession exists to repair.",
+    "practicalRelevance": "The reciter is not merely admiring an institution but pronouncing a blessing — and, by implication, taking an inventory of self: Are my 'streets' (the faith I move by) kept clean? Is my 'wall' (daily conduct) unbroken, or has some lapse opened a gap that today's pratikramaṇa must seal? To say 'bhaddaṁ te' to the Saṅgha-city is to wish, and resolve, to be a sound stone in its wall.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ (the three jewels as the path)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Nandī-sūtra, opening maṅgala — the Saṅgha-stuti gāthās (city / wheel / chariot / lotus similes)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paia-sadda-mahaṇṇavo (Prakrit-Hindi dictionary), H. D. T. Sheth",
+      "url": "https://jainqq.org/booktext/Paia_Sadda_Mahannavo/016080",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for nayara, ratthā, pāgāra, bhariya, gahaṇa"
+    },
+    {
+      "title": "Pagara, Pagārā — definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/pagara",
+      "type": "dictionary",
+      "consultedFor": "pāgāra < prākāra = rampart / fortress-wall"
+    },
+    {
+      "title": "Gahana, Gahaṇa — definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/gahana",
+      "type": "dictionary",
+      "consultedFor": "gahaṇa < gahana = dense thicket / deep / impenetrable"
+    },
+    {
+      "title": "Rayana, Ratna — definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/rayana",
+      "type": "dictionary",
+      "consultedFor": "rayaṇa < ratna = jewel, in suya-rayaṇa (scripture-jewel)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The image and its four mapped components (virtue-mansions, scripture-treasure, faith-streets, conduct-ramparts) are secure and corroborated by multiple readings. 'gahaṇa' is rendered 'densely-built / impenetrable stronghold' (Skt. gahana); a minority reading takes it as 'profound', and some recensions analyse guṇa-bhavaṇa-gahaṇa as a 'thicket of virtue-halls' — both yield the same sense of a richly, densely virtuous city. 'ratthāgā' is read as a Prakrit nominative plural of rathyā ('streets'); the final -gā reflects book orthography and is preserved verbatim, not normalized. Mātrās, anusvāras and conjuncts follow the Anchalgachchha/Vidhipaksha book reading verbatim."
+}

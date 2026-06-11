@@ -1,0 +1,69 @@
+@font-face { font-family: "BodyLatin"; src: local("Georgia"), local("Times New Roman"); }
+@font-face { font-family: "BodyGujarati"; src: local("Noto Sans Gujarati"), local("Shruti"); }
+@font-face { font-family: "BodyDevanagari"; src: local("Noto Sans Devanagari"), local("Mangal"); }
+
+@page { size: A4; margin: 22mm 18mm 22mm 18mm; }
+
+* { box-sizing: border-box; }
+body {
+  font-family: "BodyLatin", Georgia, serif;
+  color: #1a1a1a;
+  line-height: 1.5;
+  font-size: 14pt;
+}
+
+.shloka {
+  page-break-inside: avoid;
+  margin: 0 0 18mm 0;
+  border-bottom: 1pt solid #ccc;
+  padding-bottom: 8mm;
+}
+
+.crumb { font-size: 11pt; color: #666; margin-bottom: 4mm; }
+
+.native {
+  font-size: 20pt;
+  font-weight: bold;
+  line-height: 1.7;
+  padding: 6mm 8mm;
+  background: #fafaf3;
+  border-left: 4pt solid #8a6d3b;
+  white-space: pre-wrap;
+}
+.native.gujarati { font-family: "BodyGujarati", "Noto Sans Gujarati", sans-serif; }
+.native.devanagari { font-family: "BodyDevanagari", "Noto Sans Devanagari", sans-serif; }
+
+h1 { font-size: 22pt; }
+h2 { font-size: 17pt; margin-top: 10mm; color: #5a4a2a; }
+h3 { font-size: 14pt; margin-top: 6mm; color: #5a4a2a; }
+
+.wbw {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12pt;
+  margin: 4mm 0;
+}
+.wbw th, .wbw td {
+  border: 0.5pt solid #ccc;
+  padding: 3pt 5pt;
+  text-align: left;
+  vertical-align: top;
+}
+.wbw th { background: #f1ece0; }
+
+.lang-block { margin-top: 8mm; }
+.lang-block.gujarati { font-family: "BodyGujarati", sans-serif; font-size: 16pt; }
+.lang-block.hindi    { font-family: "BodyDevanagari", sans-serif; font-size: 16pt; }
+.lang-block.english  { font-family: "BodyLatin", serif; font-size: 14pt; }
+
+.section-label {
+  display: inline-block; padding: 1pt 6pt; margin-right: 6pt;
+  background: #8a6d3b; color: #fff; font-size: 10pt; border-radius: 3pt;
+  vertical-align: middle;
+}
+.sources { font-size: 10pt; color: #555; }
+.sources a { color: #555; word-break: break-all; }
+.toc-entry { font-size: 12pt; line-height: 1.6; }
+.cover { text-align: center; padding-top: 60mm; }
+.cover h1 { font-size: 32pt; margin-bottom: 4mm; }
+.cover .sub { font-size: 16pt; color: #5a4a2a; }

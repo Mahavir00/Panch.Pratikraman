@@ -1,0 +1,638 @@
+{
+  "shlokaId": "bruhad-atiyar/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the fifth vow I promised to cap how much I own across nine kinds of property, and now I confess every way I crossed those limits or grasped for more.",
+  "recitation": "pāñcamuṁ parigraha parimāṇa vrata navavidha, khitta, ghara, haṭṭa, vāḍiya, kuviya, dhaṇā, dhanna, hiraṇṇa, suvaṇṇa ai-parimāṇā, duppaya, cauppaya-m-iya, navaviha pariggaha-vayanto. e pāñcamā parigraha parimāṇa vrata taṇāṁ pāñca atiyār śodhuṁ. khitta-vatthu ppamāṇāikkame, hiraṇṇa-suvaṇṇa ppamāṇāikkame, dhaṇā-dhanna ppamāṇāikkame, duppaya-cauppaya ppamāṇāikkame, kuviya ppamāṇāikkame. kṣetra-vāstu, hiraṇṇa, suvaṇṇa, dhana, dhānya, dvipada, catuṣpada, rāch-pīch-taṇo pramāṇātikrama kīdho hoy, athavā parigraha-taṇe kāraṇe moṭā ārambha kaṭha-marda māṇḍyā hoy. āhaḍḍ, dohaḍḍ dharyo hoy. āpaṇo parigraha putra pautrādika-taṇo, karī āpaṇe kāje aṇāvyo hoy, parigraha-pramāṇa līdhuṁ na hoy. laine paḍhiyuṁ na hoy, paḍhīne visāryuṁ hoy, visārīne sambhāryuṁ na hoy. aneruṁ e pāñcamā parigraha parimāṇa vrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "પાંચમું",
+      "translit": "pāñcamuṁ",
+      "gloss": "the fifth (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañcama 'fifth' + Guj. neuter -uṁ; from pañca 'five'.",
+      "notes": "Marks the fifth aṇuvrata; recurs as pāñcamā below in the oblique."
+    },
+    {
+      "token": "પરિગ્રહ",
+      "translit": "parigraha",
+      "gloss": "possession, acquisition of property",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pari- 'around' + √grah 'to seize' = 'grasping all around'.",
+      "notes": "Glossary term; here the object of the vow's limit."
+    },
+    {
+      "token": "પરિમાણ",
+      "translit": "parimāṇa",
+      "gloss": "limit, fixed measure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pari- + √mā 'to measure' = 'measuring out, bound'.",
+      "notes": "Glossary term parigraha-parimāṇa: the self-set ceiling on holdings."
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata 'religious observance, resolve'.",
+      "notes": ""
+    },
+    {
+      "token": "નવવિધ",
+      "translit": "navavidha",
+      "gloss": "ninefold, of nine kinds",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. nava 'nine' + vidha 'kind, sort'.",
+      "notes": "Heads the canonical nine categories of property listed next."
+    },
+    {
+      "token": "ખિત્ત",
+      "translit": "khitta",
+      "gloss": "field, land",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. khitta = Skt. kṣetra 'field, plot'.",
+      "notes": "Prakrit form of the first property-head; respelled kṣetra in the gloss-line."
+    },
+    {
+      "token": "ઘર",
+      "translit": "ghara",
+      "gloss": "house, dwelling",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Guj. ghara = Skt. gṛha 'house'.",
+      "notes": "Corresponds to vāstu in the Tattvārtha list."
+    },
+    {
+      "token": "હટ્ટ",
+      "translit": "haṭṭa",
+      "gloss": "shop, market-stall",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. haṭṭa = Skt. haṭṭa 'market'; cf. Hindi hāṭ.",
+      "notes": "Immovable commercial premises."
+    },
+    {
+      "token": "વાડિય",
+      "translit": "vāḍiya",
+      "gloss": "garden-enclosure, orchard, fenced plot",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vāḍiya = Skt. vāṭikā 'enclosed garden'.",
+      "notes": ""
+    },
+    {
+      "token": "કુવિય",
+      "translit": "kuviya",
+      "gloss": "sundry household goods, metalware/chattels (kupya)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kuviya = Skt. kupya 'base metals; movable household stuff'.",
+      "notes": "The fifth atichāra-category; glossed below as rāch-pīch."
+    },
+    {
+      "token": "ધણા",
+      "translit": "dhaṇā",
+      "gloss": "wealth, money",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. dhaṇa = Skt. dhana 'wealth, money'.",
+      "notes": ""
+    },
+    {
+      "token": "ધન્ન",
+      "translit": "dhanna",
+      "gloss": "grain, cereal stores",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. dhanna = Skt. dhānya 'grain'.",
+      "notes": "Paired with dhana as dhana-dhānya."
+    },
+    {
+      "token": "હિરણ્ણ",
+      "translit": "hiraṇṇa",
+      "gloss": "silver (uncoined precious metal)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. hiraṇṇa = Skt. hiraṇya, here conventionally 'silver'.",
+      "notes": "In this pairing hiraṇya=silver, suvarṇa=gold."
+    },
+    {
+      "token": "સુવણ્ણ",
+      "translit": "suvaṇṇa",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. suvaṇṇa = Skt. suvarṇa 'gold' (lit. 'good-coloured').",
+      "notes": ""
+    },
+    {
+      "token": "અઇપરિમાણા",
+      "translit": "ai-parimāṇā",
+      "gloss": "beyond the measure, excessive holding",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. ai = Skt. ati 'beyond' + parimāṇa 'measure'.",
+      "notes": "Signals that the listed items are not to exceed their fixed amounts."
+    },
+    {
+      "token": "દુપ્પય",
+      "translit": "duppaya",
+      "gloss": "bipeds (servants, dependants)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. duppaya = Skt. dvipada 'two-footed'.",
+      "notes": "Traditionally male/female servants (dāsī-dāsa)."
+    },
+    {
+      "token": "ચઉપ્પયમિય",
+      "translit": "cauppaya-m-iya",
+      "gloss": "quadrupeds (cattle), and so forth",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. cauppaya = Skt. catuṣpada 'four-footed' + euphonic -m- + iya '(and) such'.",
+      "notes": "-m- is a sandhi hiatus-breaker; iya gestures 'etc.' closing the list."
+    },
+    {
+      "token": "નવવિહ",
+      "translit": "navaviha",
+      "gloss": "ninefold",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. navaviha = Skt. navavidha.",
+      "notes": "Prakrit doublet of navavidha above, restating the ninefold scope."
+    },
+    {
+      "token": "પરિગ્ગહવયંતો",
+      "translit": "pariggaha-vayanto",
+      "gloss": "(the one) limiting/observing the possession-vow",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. pariggaha (= parigraha) + vaya (= vrata) + present-participle -nto 'being one who...'.",
+      "notes": "Describes the votary as actively bounding his possessions."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this, these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative e 'this/that'.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચમા",
+      "translit": "pāñcamā",
+      "gloss": "fifth (oblique)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañcama + Guj. oblique -ā.",
+      "notes": "Agrees with vrata in the genitive phrase."
+    },
+    {
+      "token": "તણાં",
+      "translit": "taṇāṁ",
+      "gloss": "of, belonging to",
+      "partOfSpeech": "particle",
+      "etymology": "Old Guj. genitive postposition taṇo/taṇāṁ (cf. Apabhraṁśa taṇaya).",
+      "notes": "Recurs as taṇe/taṇo below."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca 'five'.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyār",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. atichāra; spelled atiyār (અતિયાર) throughout this book.",
+      "notes": "Glossary term; the book's authoritative spelling with ય."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine and cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √śudh 'to purify' (caus. śodhayati); Guj. 1st-sg. śodhuṁ.",
+      "notes": "Refrain verb: simultaneously 'scrutinise' and 'purge'."
+    },
+    {
+      "token": "ખિત્તવત્થુ",
+      "translit": "khitta-vatthu",
+      "gloss": "land-and-building",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. khitta (kṣetra) + vatthu (vāstu).",
+      "notes": "First canonical atichāra-pair."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the (fixed) measure",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. (p)pamāṇa (= pramāṇa 'measure') + aikkama (= atikrama 'overstepping'), locative -e.",
+      "notes": "Refrain repeated five times, once per atichāra-pair; the doubled pp- is sandhi-gemination."
+    },
+    {
+      "token": "હિરણ્ણસુવણ્ણ",
+      "translit": "hiraṇṇa-suvaṇṇa",
+      "gloss": "silver-and-gold",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. hiraṇṇa + suvaṇṇa (= hiraṇya-suvarṇa).",
+      "notes": "Second atichāra-pair."
+    },
+    {
+      "token": "ધણાધન્ન",
+      "translit": "dhaṇā-dhanna",
+      "gloss": "wealth-and-grain",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. dhaṇa + dhanna (= dhana-dhānya).",
+      "notes": "Third atichāra-pair."
+    },
+    {
+      "token": "દુપ્પયચઉપ્પય",
+      "translit": "duppaya-cauppaya",
+      "gloss": "bipeds-and-quadrupeds (servants and livestock)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. duppaya + cauppaya (= dvipada-catuṣpada).",
+      "notes": "Fourth atichāra-pair."
+    },
+    {
+      "token": "કુવિય",
+      "translit": "kuviya",
+      "gloss": "sundry chattels (kupya)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kuviya = Skt. kupya.",
+      "notes": "Fifth atichāra-category (repeated from the opening list)."
+    },
+    {
+      "token": "ક્ષેત્રવાસ્તુ",
+      "translit": "kṣetra-vāstu",
+      "gloss": "land and dwelling",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kṣetra 'field' + vāstu 'building-site/house'.",
+      "notes": "Sanskritised gloss of khitta-vatthu, opening the Gujarati explanation."
+    },
+    {
+      "token": "વાસ્તુ",
+      "translit": "vāstu",
+      "gloss": "built property, house-site",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √vas 'to dwell' → vāstu 'dwelling'.",
+      "notes": ""
+    },
+    {
+      "token": "હિરણ્ણ",
+      "translit": "hiraṇṇa",
+      "gloss": "silver",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hiraṇya.",
+      "notes": "Repeated in the gloss-list."
+    },
+    {
+      "token": "સુવણ્ણ",
+      "translit": "suvaṇṇa",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. suvarṇa.",
+      "notes": "Repeated in the gloss-list."
+    },
+    {
+      "token": "ધન",
+      "translit": "dhana",
+      "gloss": "wealth, money",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dhana.",
+      "notes": ""
+    },
+    {
+      "token": "ધાન્ય",
+      "translit": "dhānya",
+      "gloss": "grain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dhānya.",
+      "notes": ""
+    },
+    {
+      "token": "દ્વિપદ",
+      "translit": "dvipada",
+      "gloss": "bipeds (servants)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dvi 'two' + pada 'foot'.",
+      "notes": ""
+    },
+    {
+      "token": "ચતુષ્પદ",
+      "translit": "catuṣpada",
+      "gloss": "quadrupeds (cattle)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. catur 'four' + pada 'foot'.",
+      "notes": ""
+    },
+    {
+      "token": "રાછપીછતણો",
+      "translit": "rāch-pīch-taṇo",
+      "gloss": "of household odds-and-ends, miscellaneous chattels",
+      "partOfSpeech": "compound",
+      "etymology": "Guj. colloquial reduplicative rāch-pīch 'sundry utensils/stuff' + genitive taṇo.",
+      "notes": "Vernacular rendering of kupya; rāch = household vessels/implements."
+    },
+    {
+      "token": "પ્રમાણાતિક્રમ",
+      "translit": "pramāṇātikrama",
+      "gloss": "exceeding of the limit",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. pramāṇa 'measure' + atikrama 'transgression'.",
+      "notes": "Sanskrit form of the Prakrit pamāṇāikkama refrain."
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "committed, done",
+      "partOfSpeech": "verb",
+      "etymology": "Old Guj. past participle of karavuṁ 'to do' (Skt. √kṛ).",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may (it) have been",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. subjunctive of thavuṁ/hovuṁ 'to be' (Skt. √bhū).",
+      "notes": "Recurs throughout: '...may have happened', framing tentative confession."
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. athavā 'or else'.",
+      "notes": ""
+    },
+    {
+      "token": "પરિગ્રહતણે",
+      "translit": "parigraha-taṇe",
+      "gloss": "for the sake of possession",
+      "partOfSpeech": "compound",
+      "etymology": "parigraha + Old Guj. oblique genitive taṇe.",
+      "notes": ""
+    },
+    {
+      "token": "કારણે",
+      "translit": "kāraṇe",
+      "gloss": "by reason of, on account of",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kāraṇa 'cause', locative -e.",
+      "notes": ""
+    },
+    {
+      "token": "મોટા",
+      "translit": "moṭā",
+      "gloss": "great, large",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. moṭuṁ 'big' (cf. Skt. *mōṭṭa).",
+      "notes": ""
+    },
+    {
+      "token": "આરંભ",
+      "translit": "ārambha",
+      "gloss": "harmful undertakings, injurious enterprise",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ā- + √rabh 'to begin' = 'commencing (violent) activity'.",
+      "notes": "Technical Jain ārambha: livelihood acts that destroy life."
+    },
+    {
+      "token": "કઠમર્દ",
+      "translit": "kaṭha-marda",
+      "gloss": "harsh crushing/grinding toil",
+      "partOfSpeech": "compound",
+      "etymology": "Guj. kaṭha 'hard, harsh' + Skt. mardana 'crushing'.",
+      "notes": "Heavy, life-injuring labour driven by acquisitiveness."
+    },
+    {
+      "token": "માંડ્યા",
+      "translit": "māṇḍyā",
+      "gloss": "set going, undertaken",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. māṇḍvuṁ 'to set up, begin'.",
+      "notes": "Plural agreeing with ārambha (undertakings)."
+    },
+    {
+      "token": "આહડ્ડ",
+      "translit": "āhaḍḍ",
+      "gloss": "hoarding, drawing-in (of goods)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Apabhr. āhaḍḍa, cf. Skt. ā-√hṛ 'to fetch, amass'.",
+      "notes": "Paired alliteratively with dohaḍḍ; expresses grasping accumulation."
+    },
+    {
+      "token": "દોહડ્ડ",
+      "translit": "dohaḍḍ",
+      "gloss": "redoubled grasping, over-amassing",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhr. echo-word on āhaḍḍ (do- 'two/double'), intensifying jingle.",
+      "notes": "Rhyming pair āhaḍḍ-dohaḍḍ = greedy heaping-up; verse-specific idiom (see notes)."
+    },
+    {
+      "token": "ધર્યો",
+      "translit": "dharyo",
+      "gloss": "held, kept, maintained",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √dhṛ 'to hold'; Guj. past dharyo.",
+      "notes": ""
+    },
+    {
+      "token": "આપણો",
+      "translit": "āpaṇo",
+      "gloss": "one's own",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. āpaṇuṁ 'our/one's own' (Skt. ātman).",
+      "notes": ""
+    },
+    {
+      "token": "પુત્ર",
+      "translit": "putra",
+      "gloss": "son",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. putra 'son'.",
+      "notes": ""
+    },
+    {
+      "token": "પૌત્રાદિકતણો",
+      "translit": "pautrādika-taṇo",
+      "gloss": "of grandson and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. pautra 'grandson' + ādika 'et cetera' + Guj. genitive taṇo.",
+      "notes": "Property held in descendants' names yet effectively one's own."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having made/treated (as)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. gerund of karavuṁ 'to do' (Skt. √kṛ).",
+      "notes": "Here 'reckoning (it) as...'."
+    },
+    {
+      "token": "આપણે",
+      "translit": "āpaṇe",
+      "gloss": "for ourselves, oneself",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. oblique of āpaṇuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "for the sake of",
+      "partOfSpeech": "particle",
+      "etymology": "Guj. kāj 'purpose' (Skt. kārya), locative -e.",
+      "notes": ""
+    },
+    {
+      "token": "અણાવ્યો",
+      "translit": "aṇāvyo",
+      "gloss": "had it brought/procured",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. causative of āvavuṁ 'to come' → aṇāvvuṁ 'to have fetched'.",
+      "notes": "Acquiring through others to dodge one's own limit."
+    },
+    {
+      "token": "પરિગ્રહપ્રમાણ",
+      "translit": "parigraha-pramāṇa",
+      "gloss": "the limit on possessions",
+      "partOfSpeech": "compound",
+      "etymology": "parigraha + pramāṇa.",
+      "notes": ""
+    },
+    {
+      "token": "લીધું",
+      "translit": "līdhuṁ",
+      "gloss": "taken, adopted",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past of levuṁ 'to take' (Skt. √lā/labh).",
+      "notes": "i.e. failed to formally set the limit."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na 'not'.",
+      "notes": "Negates the preceding verb; recurs below."
+    },
+    {
+      "token": "લઇને",
+      "translit": "laine",
+      "gloss": "having taken (the vow)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. gerund of levuṁ 'to take'.",
+      "notes": "Begins the take–study–forget–recall cadence."
+    },
+    {
+      "token": "પઢિયું",
+      "translit": "paḍhiyuṁ",
+      "gloss": "studied, learnt/recited (the vow's terms)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. paḍhai = Skt. √paṭh 'to read aloud, study'.",
+      "notes": ""
+    },
+    {
+      "token": "પઢીને",
+      "translit": "paḍhīne",
+      "gloss": "having studied",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. gerund of paḍhavuṁ (√paṭh).",
+      "notes": ""
+    },
+    {
+      "token": "વિસાર્યું",
+      "translit": "visāryuṁ",
+      "gloss": "forgotten",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. vi-√smṛ 'to forget'; Guj. visāravuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "વિસારીને",
+      "translit": "visārīne",
+      "gloss": "having forgotten",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. gerund of visāravuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સંભાર્યું",
+      "translit": "sambhāryuṁ",
+      "gloss": "recalled, brought back to mind",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. sam-√smṛ 'to remember'; Guj. sambhāravuṁ.",
+      "notes": "The chain take→learn→forget→fail-to-recall pinpoints lapses of mindfulness."
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "anything else, some other (transgression)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. aneruṁ 'other' (Skt. anya + -ḍa).",
+      "notes": "Opens the sealing refrain abbreviated by the closing ૦."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning, regarding",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. viṣaya 'sphere'; Guj. postposition viṣe 'in the matter of'.",
+      "notes": ""
+    },
+    {
+      "token": "૦",
+      "translit": "(seal-mark)",
+      "gloss": "[complete the sealing refrain here]",
+      "partOfSpeech": "particle",
+      "etymology": "Editorial cipher (zero/circle) marking an elided fixed refrain.",
+      "notes": "Cues the reciter to supply '...je kāṁi sūkṣma-bādara atiyār huo hoy, te savi huṁ mane vacane kāyāe karī micchā mi dukkaḍaṁ.'"
+    }
+  ],
+  "literalTranslation": "Fifth, the possession-limiting vow, ninefold: field, house, shop, garden, household-goods, wealth, grain, silver, gold — (kept) not beyond measure — bipeds, quadrupeds and the like; (he being) one who limits the ninefold possession. I now examine the five transgressions of this fifth possession-limiting vow: in exceeding the measure of land-and-building, of silver-and-gold, of wealth-and-grain, of bipeds-and-quadrupeds, of sundry goods. If I have overstepped the limit of land-house, silver, gold, wealth, grain, bipeds, quadrupeds, and household chattels; or, for the sake of possessions, set going great injurious enterprises and harsh grinding toil; held to greedy hoarding and over-amassing; had my own possession — that of son, grandson and the like — fetched for my own use; not taken the possession-limit; or having taken it, not studied it, having studied it forgotten it, having forgotten it failed to recall it — and whatever other (lapse) regarding this fifth possession-limiting vow [may my wrong be undone].",
+  "idiomaticTranslation": "The fifth vow is to set a ceiling on what I own across nine heads of property — land, house, shop, orchard, household goods, money, grain, silver, gold, servants, cattle and the rest — vowing never to hold more than my measure. Let me now search out the five ways I may have breached it: by exceeding my limit in land and building, in silver and gold, in money and grain, in servants and livestock, or in sundry chattels. If, for the sake of having more, I launched great harmful ventures and back-breaking toil; if I clung to greedy hoarding; if I had property registered to my son or grandson yet fetched it for my own use; if I never fixed my limit at all, or fixed it and never studied it, studied it and forgot it, forgot it and never brought it back to mind — for this and every other lapse in the fifth vow, may my wrongdoing be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the four vows that guard life, truth, property and chastity, the confession turns to the root passion behind so much harm — greed for things — and audits it under the parigraha-parimāṇa vow. The verse first recites the canonical 'navavidha' inventory of property (khitta, ghara, haṭṭa, vāḍiya, kuviya, dhana, dhanna, hiraṇṇa, suvaṇṇa, duppaya, cauppaya), then quotes the five Prakrit atichāra-formulas built on the single refrain 'pamāṇāikkame' — exceeding the measure — paired item by item exactly as in Tattvārtha-sūtra 7.24. What distinguishes this verse is the unusually vivid medieval-Gujarati gloss that follows the formula. It refuses to let 'limiting possessions' stay abstract: it indicts the great injurious enterprises (moṭā ārambha) and 'harsh grinding toil' (kaṭha-marda) that acquisitiveness sets in motion — reminding the reciter that hoarding is never victimless but spins out violence (himsā) through one's livelihood. The jingling pair āhaḍḍ-dohaḍḍ caricatures the grasping, heaping reflex of the miser. Sharpest of all is the clause on property held in a son's or grandson's name yet 'fetched for one's own use' (āpaṇe kāje aṇāvyo): the verse closes the favourite loophole of evading one's vowed ceiling by titling assets to dependants. Finally the take–study–forget–recall cadence (līdhuṁ–paḍhiyuṁ–visāryuṁ–sambhāryuṁ) confesses a subtler failure: not breaking the limit, but never seriously fixing it, or fixing and then letting it lapse from memory — a lapse of the very mindfulness the vow exists to cultivate. The verse then seals, per the sūtra's fixed pattern, with the abbreviated micchā mi dukkaḍaṁ marked by ૦.",
+    "doctrinalContext": "Parigraha in Jain doctrine is twofold — bāhya (external goods) and ābhyantara (inner attachment, the fourteen internal granthis) — and the decisive bondage is the inner mūrcchā, 'infatuation', which Umāsvāti defines as parigraha itself (Tattvārtha 7.12). The lay vow tackles the external by quantified self-limitation (parimāṇa), the householder's graded substitute for the muni's total aparigraha. This verse embodies the classical insight that possession is not morally inert: it drives ārambha — life-destroying enterprise — so the fifth vow is structurally tied back to the first (ahiṁsā). The loophole-clause on assets held in descendants' names shows the tradition policing bhāva (intention) over mere legal title: what one effectively controls and craves is one's parigraha regardless of whose name holds it, matching the canonical bhāva-atikrama. The closing memory-cadence reflects the doctrine that a vow demands sustained upayoga (mindful attention); to forget one's own limit is itself a transgression, because apramāda (vigilance) is the soul of vrata.",
+    "practicalRelevance": "A reciter today can make this verse concrete: have I actually fixed a numeric ceiling on home, savings, gold, gadgets and the rest — or do I merely intend to 'live simply'? The verse insists the limit be set, written, periodically reviewed and remembered, not left vague. It also asks the modern householder to notice the harm-supply-chain behind acquisitions (ārambha, kaṭha-marda) and the familiar dodge of parking wealth in family members' names while still enjoying it. Practically, it invites an annual audit: re-affirm the limit, surrender or donate the surplus, and renew mindfulness rather than let the vow fade from memory.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.24 — kṣetra-vāstu-hiraṇya-suvarṇa-dhana-dhānya-dāsī-dāsa-kupya-pramāṇātikramāḥ (the five atichāras of parigraha-parimāṇa)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.12 — mūrcchā parigrahaḥ (infatuation/attachment is the essence of possession)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Upāsakadaśāṅga 1 — Ānanda śrāvaka's fivefold reckoning of property in his vow of limitation",
+        "source": "Upāsakadaśāṅga-sūtra"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra, parigraha-parimāṇa aṇuvrata and its atichāras",
+        "source": "Samantabhadra, Ratnakaraṇḍa-śrāvakācāra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parigraha — definitions (Jainism section, incl. Tattvārtha 7.24 list of property-heads)",
+      "url": "https://www.wisdomlib.org/definition/parigraha",
+      "type": "dictionary",
+      "consultedFor": "Verifying the senses of parigraha and the kṣetra-vāstu/hiraṇya-suvarṇa/dhana-dhānya/dvipada-catuṣpada/kupya category-set."
+    },
+    {
+      "title": "Aparigraha (Non-possession)",
+      "url": "https://en.wikipedia.org/wiki/Aparigraha",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal framing of parigraha/aparigraha and the bāhya–ābhyantara (external/internal) and mūrcchā analysis."
+    },
+    {
+      "title": "Anuvrata (Śrāvaka / Jain lay vows)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Placing parigraha-parimāṇa as the fifth aṇuvrata among the householder's vows and its standard transgressions."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત), Anchalgachchha / Vidhipaksha Gaccha edition",
+      "url": "",
+      "type": "translation",
+      "consultedFor": "The verbatim Gujarati/Prakrit verse text, its atiyār spelling, and the sealing-refrain convention marked by ૦."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) hiraṇya here is rendered 'silver' (paired against suvarṇa 'gold'), the usual reading in this dvandva, though hiraṇya can mean gold generally. (2) kuviya/kupya and its vernacular gloss rāch-pīch denote miscellaneous household metalware/chattels; 'rāch-pīch' is a Gujarati colloquialism, glossed by sense. (3) āhaḍḍ–dohaḍḍ is a rhyming Apabhraṁśa-flavoured echo-pair; āhaḍḍ (< ā-√hṛ 'amass') is fairly secure, but dohaḍḍ is largely an intensifying jingle and the precise lexical value is uncertain — read as 'greedy hoarding/over-amassing'. (4) kaṭha-marda 'harsh grinding toil' is interpreted from kaṭha 'hard' + mardana 'crushing'; a variant sense 'hard bargaining/oppression' is possible. (5) The classical list names dāsī-dāsa (servants) where this verse has duppaya 'bipeds' — equivalent. (6) The trailing ૦ is the book's abbreviation cipher for the fixed sealing refrain (sūkṣma-bādara ... micchā mi dukkaḍaṁ), not an erratum. (7) Per the preface, the pakkhī→cāumāsī→sāṁvatsarī substitution and the sūtra's overall arc are not repeated here."
+}

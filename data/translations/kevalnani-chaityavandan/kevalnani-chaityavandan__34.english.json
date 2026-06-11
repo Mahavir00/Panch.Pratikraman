@@ -1,0 +1,198 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/34",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever lovingly recites this hymn at dawn as the sun rises will, by singing the Jinas' virtues, drive every bad rebirth far away.",
+  "recitation": "etā stavana bhaṇo je bhāve, praha ugamate sūre jī | 'vācaka mūlā' kahe guṇa gātāṁ, durgati nāse dūre jī",
+  "wordByWord": [
+    {
+      "token": "એતા",
+      "translit": "etā",
+      "gloss": "this (hymn) / these (verses)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati / Apabhraṁśa demonstrative from Sanskrit etad- (ete / etāḥ, 'these'); here pointing back to the whole stavana just recited.",
+      "notes": "Cataphoric: it gathers up the entire caityavandana into a single 'this'."
+    },
+    {
+      "token": "સ્તવન",
+      "translit": "stavana",
+      "gloss": "hymn of praise",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit stavana, from root √stu 'to praise'; a devotional eulogy.",
+      "notes": "The self-referential name the poet gives his own composition."
+    },
+    {
+      "token": "ભણો",
+      "translit": "bhaṇo",
+      "gloss": "recite! / chant! (you should recite)",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati imperative from Prakrit bhaṇai < Sanskrit √bhaṇ 'to speak, recite, utter'; the -o ending is a Gujarati imperative/optative.",
+      "notes": "An invitation-imperative addressed to the worshipper."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "whoever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati relative pronoun < Sanskrit yaḥ; introduces the conditional 'whoever (recites)'.",
+      "notes": "Pairs with the implied result-clause in the second line."
+    },
+    {
+      "token": "ભાવે",
+      "translit": "bhāve",
+      "gloss": "with (heartfelt) devotion / inner feeling",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of bhāva (Sanskrit bhāva, √bhū 'to be/become') — the inner disposition; 'by means of feeling'.",
+      "notes": "The pivotal word: recitation must be done bhāve, not mechanically."
+    },
+    {
+      "token": "પ્રહ",
+      "translit": "praha",
+      "gloss": "at early dawn / first watch",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit prahara / prabhāta 'watch of the day, daybreak'; contracted Old Gujarati 'praha' = the pre-dawn hour.",
+      "notes": "Locative-of-time sense: 'in the dawn-watch'."
+    },
+    {
+      "token": "ઉગમતે",
+      "translit": "ugamate",
+      "gloss": "as it rises / while rising",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati present participle (locative absolute) of ūgavuṁ 'to rise' < Sanskrit ud-gam 'to go up, rise'.",
+      "notes": "Forms an absolute construction with sūre: 'the sun rising'."
+    },
+    {
+      "token": "સૂરે",
+      "translit": "sūre",
+      "gloss": "(when) the sun",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of sūra < Sanskrit sūrya 'sun'; 'at/with the sun (rising)'.",
+      "notes": "Completes the dawn time-marker 'praha ugamate sūre' = at the rising of the dawn-sun."
+    },
+    {
+      "token": "જી",
+      "translit": "jī",
+      "gloss": "(reverential refrain particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Honorific Gujarati particle jī, marking respectful, sung cadence at the line-end.",
+      "notes": "A melodic refrain closing each pāda of the dhāla; untranslated by design."
+    },
+    {
+      "token": "વાચક",
+      "translit": "vācaka",
+      "gloss": "Vācaka (the preceptor-rank)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vācaka 'reader, expounder' = the Upādhyāya rank (see preface glossary).",
+      "notes": "First half of the poet's signature."
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "Mūlā (the poet's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name; Apabhraṁśa-derived form mūlā 'root, source'.",
+      "notes": "The recurring poetic signature 'Vācaka Mūlā' that seals each dhāla."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati present kahe < Prakrit kahai < Sanskrit kathayati 'tells, says'.",
+      "notes": "The signature-frame verb: 'Vācaka Mūlā says…'."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtues / excellences (of the Jinas)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa 'quality, virtue' (see preface usage); here the boundless attributes of the venerated Jinas.",
+      "notes": "Object of gātāṁ; the content of the praise just sung."
+    },
+    {
+      "token": "ગાતાં",
+      "translit": "gātāṁ",
+      "gloss": "while singing / in the singing",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati present participle of gāvuṁ 'to sing' < Sanskrit √gai 'to sing'.",
+      "notes": "Absolute participle: 'as one sings the virtues'."
+    },
+    {
+      "token": "દુર્ગતિ",
+      "translit": "durgati",
+      "gloss": "evil destiny / bad rebirth",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dur- 'bad' + gati 'course, rebirth-state'; the inauspicious realms (naraka, tiryañca, etc.), opposite of sugati.",
+      "notes": "The very thing the recitation's fruit annuls."
+    },
+    {
+      "token": "નાસે",
+      "translit": "nāse",
+      "gloss": "flees / is destroyed",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati nāse < Prakrit nassai < Sanskrit √naś 'to perish, vanish, flee'; both 'runs away' and 'is destroyed'.",
+      "notes": "The double sense (flee + perish) is deliberate, reinforced by dūre."
+    },
+    {
+      "token": "દૂરે",
+      "translit": "dūre",
+      "gloss": "far away",
+      "partOfSpeech": "adverb",
+      "etymology": "Locative of dūra < Sanskrit dūra 'distant'; 'to/at a far place'.",
+      "notes": "Intensifies nāse: the bad rebirth is driven off to a distance."
+    },
+    {
+      "token": "જી",
+      "translit": "jī",
+      "gloss": "(reverential refrain particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Honorific Gujarati particle jī, repeated as the closing cadence of the second couplet.",
+      "notes": "Matches the jī of line one, sealing the dhāla musically."
+    }
+  ],
+  "literalTranslation": "Recite this hymn — whoever (does so) with devotion, in the dawn-watch as the sun rises, jī. 'Vācaka Mūlā' says: while singing the virtues, evil rebirth flees far away, jī.",
+  "idiomaticTranslation": "Chant this hymn — let whoever recites it do so with a full heart, at first light as the sun climbs the sky. Vācaka Mūlā declares: when you sing the Jinas' boundless virtues, every evil rebirth is driven far, far away.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the phala-stuti — the 'declaration of fruit' — that seals the dhāla just before the poet turns, in the next stanza (ઢાળ-આઠમી), to his garland of earthly pilgrimage shrines. Having spent the preceding verse heaping up crores of Jina-images, Vācaka Mūlā now stops counting and tells the reciter what all this veneration is *for*. The hinge of the verse is the single word ભાવે (bhāve): the promised reward attaches not to the mere sound of the syllables but to the inner devotion behind them — 'whoever recites, *with feeling*.' The dawn time-marker, 'praha ugamate sūre,' fixes the recitation at first light, the natural hour of this pre-dawn service, so that the worshipper's first act of the day is praise. The second couplet carries the poet's recurring signature and states the result with a vivid verb: durgati does not merely lessen — it નાસે દૂરે (nāse dūre), 'flees far off,' as though frightened away by the singing of the Jinas' guṇas. The pairing of ગુણ ગાતાં (guṇa gātāṁ, 'while singing virtues') with durgati's flight makes the causal claim explicit: it is the act of guṇa-grahaṇa, dwelling on excellence, that repels the trajectory toward evil rebirth. The verse thus converts a long enumerative hymn into a personal promise, handing the immense cosmic survey back to the individual reciter as a usable spiritual benefit.",
+    "doctrinalContext": "The verse rests on two settled Jain principles. First, the primacy of bhāva over dravya: an outward act (dravya) bears spiritual fruit only when animated by inner intention (bhāva), so 'bhaṇo je bhāve' is doctrine, not ornament — devotionless recitation does not destroy durgati. Second, guṇa-anumodanā / guṇa-grahaṇa: rejoicing in and voicing another's virtues generates puṇya and śubha bhāva, attenuating the inauspicious karma that ripens as durgati (the naraka and tiryañca gatis) and steering the soul toward sugati. The 'flight' of durgati is best read as the loosening and shedding (nirjarā) of that karmic propensity, not a magical exemption.",
+    "practicalRelevance": "A reciter today can take the verse as an instruction on *how* to chant the caityavandana: begin the day, ideally at dawn, and engage the heart — picture and savour the Jinas' qualities rather than racing the words. The measurable 'fruit' is internal: a mind turned, first thing, toward virtue is already being steered away from the impulses that lead to a lower rebirth.",
+    "crossReferences": [
+      {
+        "text": "Logassa's closing prayer 'ārugga-bohi-lābhaṁ samāhi-varam uttamaṁ dintu' — a parallel phala-aspiration after praising the 24 Jinas",
+        "source": "Logassa (Cauvīsattho), Anchalgaccha Panch Pratikraman Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Mannaha Jiṇāṇaṁ sajjhāy — the śrāvaka's daily duty of jina-guṇa veneration whose fruit this verse echoes",
+        "source": "Devasi sajjhāy cluster, same edition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stavana — definition (Sanskrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/stavana",
+      "type": "dictionary",
+      "consultedFor": "Root √stu and the sense of stavana as a hymn of praise."
+    },
+    {
+      "title": "Guṇa — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/guna",
+      "type": "dictionary",
+      "consultedFor": "guṇa as virtue/excellence in Jain usage, glossing 'guṇa gātāṁ'."
+    },
+    {
+      "title": "Durgati — definition",
+      "url": "https://www.wisdomlib.org/definition/durgati",
+      "type": "dictionary",
+      "consultedFor": "durgati as 'evil destiny / bad rebirth' (dur- + gati) opposed to sugati."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — root √naś",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "√naś 'to perish, vanish, flee', glossing 'nāse'."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Verse-specific caveats: (1) 'એતા' (etā) is read as a demonstrative pointing to the just-completed hymn; some printings show 'એ તો'/'એતો', which would not change the sense materially. (2) 'પ્રહ' is taken as a contraction of prahara/prabhāta ('dawn-watch'); it is unambiguous in context with ugamate sūre. (3) 'નાસે' carries both 'flees' and 'is destroyed' (< √naś); the translation keeps the 'flees far' reading to honour દૂરે. (4) The verse functions as the closing phala-stuti of the dhāla immediately preceding the eighth dhāla's tīrthamālā, per the bracketing context verses. Readings and spellings (including જી as refrain) follow the Anchalgaccha (Vidhipaksha) edition verbatim; web glosses corroborate roots only, not the Gujarati orthography, for which the book is authoritative."
+}

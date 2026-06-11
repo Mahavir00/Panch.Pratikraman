@@ -1,0 +1,150 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/36",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This line of the pilgrimage-garland bows toward yet more holy places — Rahāvata and Kuñjarāvarta, the Tribhuvana hill-fort and Gwalior, and the ancient cities of Kāśī (Varanasi) and Avantī (Ujjain), which the worshipper should also keep in mind.",
+  "recitation": "rahāvate kuñjarāvate, sā[ṭek] ǁ tihuaṇa giri gvāler | kāśī avantī jāṇīe, sā[ṭek]",
+  "wordByWord": [
+    {
+      "token": "રહાવતે",
+      "translit": "rahāvate",
+      "gloss": "at Rahāvata (a tīrtha named in the garland)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name in the locative; -e is the Apabhraṁśa/old-Gujarati locative ending (‘at/in’), paralleling kuñjarāvate that follows.",
+      "notes": "Reading kept verbatim; the precise modern site of Rahāvata is not securely identifiable, so it is left transliterated."
+    },
+    {
+      "token": "કુંજરાવતે",
+      "translit": "kuñjarāvate",
+      "gloss": "at Kuñjarāvarta (a Jain pilgrimage place)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kuñjara (‘elephant’) + āvarta (‘turning, whirl’), hence ‘elephant-whirl’; locative -e, ‘at Kuñjarāvarta’.",
+      "notes": "Recurs in tīrthamālā literature as an ancient/legendary tīrtha; here paired with Rahāvata."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā[°]",
+      "gloss": "[abbreviated refrain — ‘sā…’]",
+      "partOfSpeech": "particle",
+      "etymology": "the ‘૦’ is the Gujarati abbreviation-circle marking a ṭeka (refrain) that recurs through this dhāla and is written out only at its first occurrence.",
+      "notes": "Printed twice in this verse as the line-refrain; the book abbreviates rather than expanding it, so the full refrain word is not recoverable from this verse alone."
+    },
+    {
+      "token": "॥",
+      "translit": "ǁ",
+      "gloss": "[double daṇḍa — verse pause]",
+      "partOfSpeech": "particle",
+      "etymology": "scribal/recitational punctuation marking a metrical break; part of the printed text.",
+      "notes": ""
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "Tribhuvana (lit. ‘three-world’), here the place-name compounded with giri",
+      "partOfSpeech": "compound",
+      "etymology": "Apabhraṁśa tihuaṇa < Sanskrit tribhuvana (tri- ‘three’ + bhuvana ‘world’); the literal ‘three worlds’ sense is here lexicalised into the toponym Tribhuvana-giri.",
+      "notes": "Read with the next token as Tribhuvana-giri, a hill-fort tīrtha; the older ‘three-world’ meaning still resonates within the cosmic frame of the hymn."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "hill, mountain (here: -giri of Tribhuvana-giri)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit giri ‘mountain’; a standard second member of tīrtha names (cf. Raivata-giri, Vaibhāra-giri).",
+      "notes": ""
+    },
+    {
+      "token": "ગ્વાલેર",
+      "translit": "gvāler",
+      "gloss": "Gwalior (Gvāler)",
+      "partOfSpeech": "noun",
+      "etymology": "old Gujarati spelling of Gwalior (Sanskrit Gopagiri/Gopācala); a fort-city long famous for its Jain rock-cut tīrthaṅkara images.",
+      "notes": ""
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "[single daṇḍa — phrase pause]",
+      "partOfSpeech": "particle",
+      "etymology": "printed recitational punctuation.",
+      "notes": ""
+    },
+    {
+      "token": "કાશી",
+      "translit": "kāśī",
+      "gloss": "Kāśī (Varanasi/Benares)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Kāśī, the ancient city; in Jain memory the birthplace of the Tīrthaṅkaras Supārśva (7th) and Pārśva (23rd).",
+      "notes": ""
+    },
+    {
+      "token": "અવંતી",
+      "translit": "avantī",
+      "gloss": "Avantī (the Ujjain region of Mālwā)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Avantī, the classical Mālava country around Ujjayinī; a celebrated Jain centre.",
+      "notes": ""
+    },
+    {
+      "token": "જાણીએ",
+      "translit": "jāṇīe",
+      "gloss": "(let us) know / is to be known, recognised",
+      "partOfSpeech": "verb",
+      "etymology": "old-Gujarati/Apabhraṁśa from Sanskrit root jñā ‘to know’ (jānīyāt / jñāyate); cohortative-passive ‘should be known, let it be acknowledged’.",
+      "notes": "Governs the whole list: these places too ‘are to be reverently acknowledged’ as tīrthas."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā[°]",
+      "gloss": "[abbreviated refrain — ‘sā…’, repeated]",
+      "partOfSpeech": "particle",
+      "etymology": "as above: the recurring ṭeka (refrain) of the dhāla, abbreviated with the ‘૦’ circle.",
+      "notes": "Closes the line as it opened, framing the place-list within the sung refrain."
+    }
+  ],
+  "literalTranslation": "At Rahāvata, at Kuñjarāvarta — [refrain] — Tribhuvana hill, Gwalior; Kāśī and Avantī — let these be known [as tīrthas] — [refrain].",
+  "idiomaticTranslation": "Honour, too, Rahāvata and Kuñjarāvarta; the hill-fort of Tribhuvana(-giri) and Gwalior; and know as holy the ancient cities of Kāśī and Avantī — [refrain].",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse gathered the supreme, classical tīrthas — Aṣṭāpada, Sammeta-śikhara, Raivata, Śatruñjaya, Gajapada, the Dharmacakra and Vaibhāra-giri — this verse turns the garland inland, into the Madhyadeśa heartland of north-central India: Rahāvata and Kuñjarāvarta, then the hill-fort Tribhuvana(-giri) beside Gwalior, and the venerable cities of Kāśī and Avantī. The string of locatives in -e (rahāvate, kuñjarāvate) literally sets the worshipper ‘at’ each place in turn, as if walking the route; the single finite verb jāṇīe (‘let it be known’) gathers the whole list and asks the reciter not merely to name but to reverently recognise each as a tīrtha. The poet’s ear lingers on resonant pairings — Rahāvata/Kuñjarāvarta echo each other in sound, and tihuaṇa (‘three-world’) quietly doubles the local hill-name with the hymn’s cosmic register before the line settles onto two of India’s oldest sacred cities. The verse flows straight on: the next line continues with Sauripura, Hastināpura, Alwar and beyond, so this is one bead in an unbroken recitation rather than a closed unit. Its work is to keep widening the circle of remembered holy ground without pause for praise — a brisk, name-by-name itinerary carried by the refrain (sā…).",
+    "doctrinalContext": "These are aśāśvata (made-in-time) tīrthas — earthly places sanctified by Jina-temples, images, and the lives of awakened teachers — set within a hymn that has already bowed to the śāśvata (eternal) shrines of the three worlds. Naming them enacts tīrtha-bhakti and bhāva-yātrā (mental pilgrimage): the reciter ‘visits’ each site in spirit, gathering the merit of darśana without travel. Kāśī carries special Jain weight as the birth-city of two Tīrthaṅkaras, Supārśva and Pārśva, so its inclusion is devotional memory, not mere geography. The cohortative jāṇīe frames the act doctrinally — recognition (samyag-jñāna of holy ground) feeding samyaktva, right faith, which such universe-wide reverence is meant to steady.",
+    "practicalRelevance": "Recited at dawn, the line lets a worshipper who will never reach Gwalior, Varanasi or Ujjain still bow to them inwardly: pause on each name, picture its shrine, and let jāṇīe become a quiet resolve to ‘acknowledge’ every Jina-place as worthy of reverence — turning a list of towns into a moment of devotion.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā (108 tīrthas) — the Pakkhī pilgrimage-litany of the same tradition",
+        "source": "Mahendrasiṁhasūri; Anchalgaccha (Vidhipakṣa) Panch Pratikraman Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Kāśī (Varanasi) as birthplace of Pārśvanātha (23rd) and Supārśvanātha (7th Tīrthaṅkara)",
+        "source": "Jaina hagiographical tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Avanti, Āvantī: 34 definitions (incl. Jainism) — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/avanti",
+      "type": "dictionary",
+      "consultedFor": "Identity of Avantī as the classical Mālava/Ujjain region and its place in Jain and Indic geography."
+    },
+    {
+      "title": "Gwalior Fort — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gwalior_Fort",
+      "type": "scholarship",
+      "consultedFor": "Identification of Gvāler as Gwalior (Gopagiri/Gopācala) and its standing as an ancient fort-city with major Jain rock-cut Tīrthaṅkara sculpture."
+    },
+    {
+      "title": "Triloka, Tri-loka: 13 definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/triloka",
+      "type": "dictionary",
+      "consultedFor": "Sense of tihuaṇa < tribhuvana/triloka (‘three worlds’) underlying the toponym Tribhuvana-giri."
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśvanātha's birth at Varanasi (Kāśī), grounding the verse-specific Jain significance of Kāśī as a tīrtha."
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "Place-list verse from the dhāla-8 tīrthamālā. Identifications: kuñjarāvate = Kuñjarāvarta (a tīrtha attested in tīrthamālā literature); gvāler = Gwalior; kāśī = Varanasi; avantī = Ujjain/Mālwā. ‘તિહુઅણ ગિરિ’ is read as the toponym Tribhuvana-giri (with the literal ‘three-world hill’ sense audible); a purely descriptive reading (‘the mountain [famed in] the three worlds’) is possible but less likely in a bare place-list — flagged as uncertain. ‘રહાવતે’ (Rahāvata) is preserved verbatim; its modern site is not securely identifiable. ‘સા૦’ is the abbreviated dhāla refrain (ṭeka): the ‘૦’ circle marks an abbreviation, and the book does not spell out the full refrain at this point, so it is left as ‘sā…’ rather than reconstructed. Locative endings in -e follow old-Gujarati/Apabhraṁśa usage. Web-tool ‘answers’ corroborated the readings but are not themselves cited; only stable, verifiable URLs are listed in sources."
+}

@@ -1,0 +1,64 @@
+{
+  "shlokaId": "navkar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Siddhas — the souls who have become completely free and perfect forever.",
+  "recitation": "namo siddhāṇaṁ",
+  "wordByWord": [
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence / I bow",
+      "partOfSpeech": "invocation",
+      "etymology": "Ardhamāgadhī from Sanskrit namaḥ, root √nam 'to bend, bow'; the same opening gesture as in v.1, here redirected to a new object.",
+      "notes": "Indeclinable; governs the dative siddhāṇaṁ ('homage to…')."
+    },
+    {
+      "token": "સિદ્ધાણં",
+      "translit": "siddhāṇaṁ",
+      "gloss": "to the Siddhas (the perfected, fully liberated souls)",
+      "partOfSpeech": "noun",
+      "etymology": "Dative plural of siddha; from Sanskrit siddha, past participle of √sidh 'to be accomplished, attain, be perfected'. Prakrit dative plural ending -āṇaṁ (= Sanskrit -ānām), here written with the book's anusvāra -ṁ.",
+      "notes": "The form is grammatically parallel to v.1's arihantāṇaṁ; only the venerated class changes."
+    }
+  ],
+  "literalTranslation": "Reverence to the Siddhas.",
+  "idiomaticTranslation": "I bow to the Siddhas — the perfected souls, wholly liberated and bodiless.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having bowed to the still-embodied teacher in v.1, the reciter now turns to the destination of the whole path: the Siddha. The single distinguishing word, siddha ('one who is accomplished, finished, perfected'), carries the verse's entire weight — it names not an office or activity but a completed state. Where the Arihant of v.1 still speaks, walks and teaches from within a body, the Siddha has shed even that: no name, no form, no further action remains to be done. This is why the second bow needs no qualifier such as 'in the world' (added only to the fifth bow); the Siddha is precisely the soul that has left the world (loka) of rebirth behind and rests at its summit. The pairing of vv.1–2 thus sets the two poles of arrival — the realized teacher who still serves, and the realized soul who has finished — between which the remaining three bows (Ācārya, Upādhyāya, Sādhu) name the guides still travelling. It is worth noting that this very line is among the oldest attested: the Hathigumpha inscription preserves only 'Namo Arahantanam' and 'Namo Save Sidhanam', the bows of vv.1–2, as a self-standing auspicious formula centuries before the full five were standardised.",
+    "doctrinalContext": "Doctrinally the Siddha is the soul that has destroyed all eight karmas (aṣṭa-karma) — the four ghātī (knowledge-, perception-, deluding- and obstruction-karmas) already gone in the Arihant, plus the four aghātī (āyu, nāma, gotra, vedanīya) that fall away at liberation. What remains is the soul's own nature: the ananta-catuṣṭaya — infinite knowledge (kevala-jñāna), infinite perception, infinite bliss and infinite energy. Such a soul is aśarīrī (bodiless) and ajara-amara (free of ageing and death), never to be reborn, dwelling at the Siddhaśilā at the apex of loka. The bow therefore venerates a state of pure being, not a person — homage offered to liberation itself as a realised fact, the proof that mokṣa is attainable.",
+    "practicalRelevance": "Reciting this line, the practitioner fixes the goal of the path before beginning the day's reflection: not merely to be a better person but to become wholly free. The Siddha is the reciter's own potential future self, so the bow is at once veneration and aspiration — a reminder that the soul bowed to and the soul bowing share one nature.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 10.1–10.7 (cause and nature of mokṣa; the liberated soul)",
+        "source": "Umāsvāti, trans. N. Tatia / standard editions"
+      },
+      {
+        "text": "Hathigumpha inscription: 'Namo Arahantanam / Namo Save Sidhanam'",
+        "source": "Kharavela of Kalinga, 2nd c. BCE–1st c. CE"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Siddha (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Siddha_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Definition of the Siddha as a fully liberated, karma-free soul; the ananta-catuṣṭaya and the soul's inherent perfection."
+    },
+    {
+      "title": "Ṇamōkāra mantra (Namokar Mantra)",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "The standard meaning of 'Namo Siddhanam', and the Hathigumpha inscription attesting the first two lines as an early standalone maṅgala."
+    },
+    {
+      "title": "Karma in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Karma_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "The eight karmas (ghātī/aghātī) whose total destruction constitutes Siddhahood and liberation."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "Verse text 'નમો સિદ્ધાણં.' follows the book verbatim, including the closing period. The book's reading siddhāṇaṁ (anusvāra) corresponds to Sanskrit siddhānām; the inscriptional variant 'Save Sidhanam' (= savva-siddhāṇaṁ, 'all Siddhas') is historical context, not this book's reading, and is not silently imported. The doctrinal point that the Arihant is bowed before the higher Siddha is established in the preface and not restated here."
+}

@@ -1,0 +1,172 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/35",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The poet now turns from the heavens to our own earth and begins naming its great Jain pilgrimage mountains — Aṣṭāpada, Sammeta-śikhara, Girnār, Śatruñjaya, Gajapada, the Dharma-wheel shrine and the towering Vaibhāra hill.",
+  "recitation": "(ḍhāḷa āṭhamī) aṭṭhāvaya sameta-śikhara giri, sā-janaji a | revata-giri settuṁja || gajapada dhammacakka kahuṁ. sā(-janaji a) | vebhāra giri uttuṁga",
+  "wordByWord": [
+    {
+      "token": "(ઢાળ-આઠમી)",
+      "translit": "(ḍhāḷa-āṭhamī)",
+      "gloss": "(the eighth dhāla / melodic section)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ḍhāḷa 'tune, melodic movement of a poem' + āṭhamī 'eighth' (from Sanskrit aṣṭama-).",
+      "notes": "A structural rubric, not part of the chanted line; it marks the start of the tīrtha-garland section."
+    },
+    {
+      "token": "અઠ્ઠાવય",
+      "translit": "aṭṭhāvaya",
+      "gloss": "Aṣṭāpada (the mountain where Ṛṣabha attained liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṭṭhāvaya < Sanskrit aṣṭāpada, lit. 'eight-stepped'; the holy peak associated with the first Jina's nirvāṇa.",
+      "notes": "Place-name; the Prakrit doubling -ṭṭh- and -y- glide are the book's orthography."
+    },
+    {
+      "token": "સમેતશિખર",
+      "translit": "sameta-śikhara",
+      "gloss": "Sammeta-śikhara (Shikharji, Parasnath hill)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sammeta- + śikhara 'peak'; the hill where twenty of the twenty-four Tīrthaṅkaras reached mokṣa.",
+      "notes": "Compound place-name."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "mountain, hill",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit giri 'mountain', carried unchanged into Prakrit (Sheth, Pāia-sadda-mahaṇṇavo).",
+      "notes": "Here qualifies Sammeta-śikhara; the word recurs below with Vaibhāra."
+    },
+    {
+      "token": "સાજિનજિઅ",
+      "translit": "sā-janaji a",
+      "gloss": "O good souls! (the dhāla's refrain, addressing the virtuous devotees)",
+      "partOfSpeech": "invocation",
+      "etymology": "sā(jjana) < Sanskrit sajjana 'virtuous person' + honorific -ji + vocative particle a; the printed variant is 'સાજનજિ અ'.",
+      "notes": "This is the ṭeka (refrain) abbreviated elsewhere as 'સા૦'. Its exact segmentation is editorial; some reciters hear 'sā jaṇa-ji a' = 'O dear good folk'."
+    },
+    {
+      "token": "રેવતગિરિ",
+      "translit": "revata-giri",
+      "gloss": "Raivata-giri (Girnār, where Neminātha was liberated)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit raivata- (Mount Raivataka) + giri 'mountain'; the Girnār massif near Junagadh.",
+      "notes": "Place-name; sacred especially to the 22nd Jina Neminātha."
+    },
+    {
+      "token": "સેત્તુંજ",
+      "translit": "settuṁja",
+      "gloss": "Śatruñjaya (Palitana hill, chief tīrtha of Ādinātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit settuṁja < Sanskrit śatruñjaya 'conqueror of foes (i.e. inner enemies)'.",
+      "notes": "Place-name; the spelling settuṁja is the book's verbatim Prakrit form."
+    },
+    {
+      "token": "ગજપદ",
+      "translit": "gajapada",
+      "gloss": "Gajapada (Gajāgrapada tīrtha)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit gaja 'elephant' + pada 'foot/step' (Gajāgrapada / Gajendrapada).",
+      "notes": "A lesser-documented tīrtha; identifications vary (linked in some traditions to the Vāsupūjya / Champā region). Marked uncertain."
+    },
+    {
+      "token": "ધમ્મચક્ક",
+      "translit": "dhammacakka",
+      "gloss": "Dharmacakra (the 'Wheel of Dharma' shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhammacakka < Sanskrit dharmacakra 'wheel of the Law'; here a named tīrtha bearing that emblem.",
+      "notes": "Often associated with the ancient Dharmacakra tīrtha (traditionally Takṣaśilā/Taxila); identification is traditional, not asserted as certain."
+    },
+    {
+      "token": "કહું",
+      "translit": "kahuṁ",
+      "gloss": "I tell, I recite (these names)",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati/Apabhraṁśa kahuṁ, 1st-person present < Prakrit kahaï < Sanskrit kathayati 'tells'.",
+      "notes": "The poet's first-person voice introducing the litany of holy places."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā(-janaji a)",
+      "gloss": "[refrain, repeated] — O good souls!",
+      "partOfSpeech": "invocation",
+      "etymology": "Scribal abbreviation (sā + daṇḍa) standing for the full refrain સાજિનજિઅ above.",
+      "notes": "The book marks the recurring ṭeka by its first syllable; the reciter restores the whole refrain."
+    },
+    {
+      "token": "વેભાર",
+      "translit": "vebhāra",
+      "gloss": "Vaibhāra (the Vaibhāragiri hill at Rājagṛha/Rajgir)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vebhāra < Sanskrit vaibhāra; one of the five hills girdling ancient Rājagṛha in Magadha.",
+      "notes": "Place-name; site of Jina sermons (Munisuvrata/Mahāvīra tradition)."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "mountain, hill",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit giri 'mountain'.",
+      "notes": "Forms the compound Vaibhāra-giri."
+    },
+    {
+      "token": "ઉત્તુંગ",
+      "translit": "uttuṁga",
+      "gloss": "lofty, towering, high",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Sanskrit uttuṅga, ut- 'up' + tuṅga 'high, elevated' (Wisdom Library; Sheth).",
+      "notes": "Epithet of Vaibhāra-giri, ending the line on an image of height."
+    }
+  ],
+  "literalTranslation": "(Eighth dhāla.) Aṣṭāpada, Sammeta-śikhara mountain — O good souls! — Raivata-giri, Śatruñjaya; Gajapada, Dharmacakra I recite — O good souls — the lofty Vaibhāra mountain.",
+  "idiomaticTranslation": "Now hear, O virtuous ones, this garland of holy peaks: Aṣṭāpada and Sammeta-śikhara; Girnār and Śatruñjaya; Gajapada and the Dharma-wheel shrine I name aloud — and the lofty hill of Vaibhāra too.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having swept the worshipper's gaze through the temples and images of the three worlds, the poet now lets it settle on this very earth, and the eighth dhāla opens as a tīrthamālā — a literal 'garland' threaded mountain by mountain. The selection is not random: each named peak is a mokṣa-bhūmi or a kalyāṇaka-hallowed site. Aṣṭāpada carries the nirvāṇa of the first Jina Ṛṣabha; Sammeta-śikhara holds the liberation of twenty Tīrthaṅkaras; Raivata-giri (Girnār) is the mountain of Neminātha; Śatruñjaya is Ādinātha's pre-eminent tīrtha. To these the poet adds Gajapada and the Dharma-wheel shrine, and crowns the line with Vaibhāra-giri of Rājagṛha, marked uttuṁga, 'towering'. The verb kahuṁ ('I recite') is significant: the poet steps forward in the first person, no longer counting cosmic shrines but personally calling out earthly names, drawing the listener into a shared act of remembrance. The refrain sā-janaji a ('O good souls') turns the litany outward to the congregation, so that naming becomes a communal summons. Where dhālas 5–7 overwhelmed with lakhs and crores, this verse works by the intimacy of proper names every Jain knows — the rhythm shifts from awe at number to warmth of recognition, and the towering close on uttuṁga keeps the upward, ascending motion that has run through the whole hymn.",
+    "doctrinalContext": "The verse rests on sthāvara-tīrtha bhakti: the Jain conviction that places sanctified by a Tīrthaṅkara's kalyāṇakas — above all the nirvāṇa-kalyāṇaka — become enduring fields of merit whose very darśana strengthens samyag-darśana (right faith). Naming a mokṣa-bhūmi is itself an act of homage that aligns the reciter's resolve with those who crossed over there. The closing epithet uttuṁga also carries a quiet doctrinal resonance: the physical height of the tīrtha mirrors the spiritual elevation (ūrdhva-gati) of the liberated soul.",
+    "practicalRelevance": "Recited at dawn, the verse lets the practitioner make a mānasika yātrā — a mental pilgrimage — bowing in turn to Aṣṭāpada, Shikharji, Girnār, Śatruñjaya and Vaibhāra without leaving the upāśraya, gathering a measure of pilgrimage-merit and steadying the day's faith. The refrain invites doing this not privately but as a community, calling fellow 'good souls' to remember the holy places together.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā (108 tīrthas) — the gaccha's own pilgrimage-litany recited in Pakkhī",
+        "source": "Mahendrasiṁhasūri"
+      },
+      {
+        "text": "Nirvāṇa-bhūmis of the Tīrthaṅkaras (Aṣṭāpada, Sammeta-śikhara, Girnār, etc.)",
+        "source": "Kalpasūtra tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uttunga, Uttuṅga — definitions",
+      "url": "https://www.wisdomlib.org/definition/uttunga",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of uttuṁga 'lofty, high' (ut- + tuṅga)."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Sheth) — Comprehensive Prakrit Dictionary",
+      "url": "https://jainqq.org/booktext/Paia_Sadda_Mahannavo/016080",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms giri, uttuṁga, settuṁja and verb root kah-."
+    },
+    {
+      "title": "Shikharji (Sammeta-śikhara)",
+      "url": "https://en.wikipedia.org/wiki/Shikharji",
+      "type": "scholarship",
+      "consultedFor": "Identification of Sammeta-śikhara as the nirvāṇa site of twenty Tīrthaṅkaras."
+    },
+    {
+      "title": "Shatrunjaya",
+      "url": "https://en.wikipedia.org/wiki/Shatrunjaya",
+      "type": "scholarship",
+      "consultedFor": "Identification of Śatruñjaya (Palitana) as the chief tīrtha of Ādinātha."
+    },
+    {
+      "title": "Girnar",
+      "url": "https://en.wikipedia.org/wiki/Girnar",
+      "type": "scholarship",
+      "consultedFor": "Identification of Raivata-giri (Girnār) and its link to Neminātha."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Verse-specific caveats: (1) The refrain is printed both as 'સાજિનજિઅ' and parenthetically as 'સાજનજિ અ', and abbreviated mid-stanza as 'સા૦'; I read it as sā(jjana)-ji a, 'O good souls', but the precise segmentation is editorial. (2) 'ગજપદ' (Gajapada/Gajāgrapada) and 'ધમ્મચક્ક' (Dharmacakra) are tīrthas with variant traditional identifications — Gajapada is sometimes placed in the Champā/Vāsupūjya region and Dharmacakra is traditionally linked to Takṣaśilā (Taxila); neither is asserted with certainty. (3) Prakrit spellings (aṭṭhāvaya, settuṁja, vebhāra, uttuṁga) are preserved verbatim per the Anchalgachchha (Vidhipaksha) edition's orthography. (4) The bracketed heading '(ઢાળ-આઠમી)' is a structural rubric, not a chanted token."
+}

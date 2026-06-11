@@ -1,0 +1,692 @@
+{
+  "shlokaId": "bruhad-atiyar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the householder's fourth vow — to stay content with one's own spouse and avoid all others — and here the reciter searches out and confesses every way he may have broken it.",
+  "recitation": "4. cothuṁ śīlavrata yathāśakte svadārā-santoṣa, paradārā vivarjanā rūpa. e cothā śīlavrata-taṇā pāñca atiyāra śodhuṁ. ittara pariggahiyā gamaṇe, apara pariggahiyā gamaṇe, anaṅga-kīḍā, para-vivāha karaṇe, kāma-bhoga tivvābhilāse. itvare-thoḍe kāle dravyādika parigṛhīta para-strī-taṇuṁ gamana kīdhuṁ hoya. apara-parigṛhīta — vidhavā kumārikā-taṇuṁ gamana kīdhuṁ hoya. anaṅga-kīḍā — atyāsakte svadeha paradeha kāma kuceṣṭā kīdhī hoya. parāyā vivāha-nā joḍāvāḍā kīdhā hoya. kāma-bhoga-taṇe viṣe rātri divasa, tac-citta thaï tīvrābhilāṣa dharyo hoya. parva-tithie vismṛta-lage śīla-bhaṅga huo hoya. para-strī-śuṁ aślīla vacana hāsya kīdhāṁ hoya, strī-taṇāṁ avayava-bhaṇī sa-rāga-dṛṣṭi kīdhī hoya. veśyā vāhiga-darśanī bhaṇī duṣṭa manasā kīdhī hoya, svakhāntare śīla-bhaṅga huo hoya. aneruṁ e cothā śīlavrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "૪.",
+      "translit": "4.",
+      "gloss": "Verse number four",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral cār-bhāgnuṁ aṅka; marks the fourth section of the confession.",
+      "notes": "The period before/after the numeral is the book's own punctuation, preserved verbatim."
+    },
+    {
+      "token": "ચોથું",
+      "translit": "cothuṁ",
+      "gloss": "fourth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati from Prakrit cauttha < Sanskrit caturtha, 'fourth'.",
+      "notes": ""
+    },
+    {
+      "token": "શીલવ્રત",
+      "translit": "śīlavrata",
+      "gloss": "the vow of chaste conduct (śīla)",
+      "partOfSpeech": "compound",
+      "etymology": "śīla 'good/chaste conduct' + vrata 'vow'; the lay name for the fourth aṇuvrata, framed as svadāra-santoṣa rather than monastic brahmacarya.",
+      "notes": ""
+    },
+    {
+      "token": "યથાશક્તે",
+      "translit": "yathāśakte",
+      "gloss": "according to one's capacity",
+      "partOfSpeech": "adverb",
+      "etymology": "yathā 'as' + śakti 'ability', locative; signals the graded, lay (not absolute) keeping of the vow.",
+      "notes": ""
+    },
+    {
+      "token": "સ્વદારાસંતોષ",
+      "translit": "svadārā-santoṣa",
+      "gloss": "contentment with one's own spouse",
+      "partOfSpeech": "compound",
+      "etymology": "sva 'own' + dārā 'wife/spouse' + santoṣa 'satisfaction'; defined in the preface glossary, used here as the positive substance of the vow.",
+      "notes": ""
+    },
+    {
+      "token": "પરદારા",
+      "translit": "paradārā",
+      "gloss": "others' spouses",
+      "partOfSpeech": "compound",
+      "etymology": "para 'other' + dārā 'wife'; the object renounced.",
+      "notes": ""
+    },
+    {
+      "token": "વિવર્જના",
+      "translit": "vivarjanā",
+      "gloss": "abstaining from, forsaking",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vi-√vṛj 'to shun', + -anā action-noun; 'avoidance'.",
+      "notes": ""
+    },
+    {
+      "token": "રૂપ",
+      "translit": "rūpa",
+      "gloss": "in the form of, consisting in",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rūpa 'form'; here adverbial — the vow 'taking the form of' contentment-with-own-spouse and shunning-others.",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e < Prakrit eya.",
+      "notes": ""
+    },
+    {
+      "token": "ચોથા",
+      "translit": "cothā",
+      "gloss": "fourth (oblique)",
+      "partOfSpeech": "adj",
+      "etymology": "Oblique form of cothuṁ agreeing with śīlavrata-taṇā.",
+      "notes": ""
+    },
+    {
+      "token": "શીલવ્રતતણા",
+      "translit": "śīlavrata-taṇā",
+      "gloss": "of the śīlavrata",
+      "partOfSpeech": "compound",
+      "etymology": "śīlavrata + Old-Gujarati genitive postposition -taṇā 'of'.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચઅતિયાર",
+      "translit": "pāñca atiyāra",
+      "gloss": "five transgressions (atiyār)",
+      "partOfSpeech": "compound",
+      "etymology": "pāñca 'five' + atiyār (the book's spelling of atichāra); written solid in the source.",
+      "notes": "atiyār is the preface glossary term; book spells it અતિયાર (with ય), preserved."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ < Sanskrit √śudh/śodhaya 'to purify, investigate'; 1st person — 'I now scrutinise'.",
+      "notes": "The recurring refrain-verb that opens each vow's atichāra review."
+    },
+    {
+      "token": "ઇત્તર",
+      "translit": "ittara",
+      "gloss": "for a short while; temporarily(-held)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ittara < Sanskrit itvara 'transient'; here qualifying a woman temporarily 'acquired'.",
+      "notes": "First of the five canonical Prakrit atichāra-names, quoted then glossed below."
+    },
+    {
+      "token": "પરિગ્ગહિયા",
+      "translit": "pariggahiyā",
+      "gloss": "acquired / taken in keeping",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pariggahiya < Sanskrit parigṛhīta 'possessed, married'.",
+      "notes": "Doubled -gg- is the Prakrit form, preserved verbatim."
+    },
+    {
+      "token": "ગમણે",
+      "translit": "gamaṇe",
+      "gloss": "in going/resorting (to)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gamaṇa < Sanskrit gamana 'going', locative; euphemism for sexual resort.",
+      "notes": ""
+    },
+    {
+      "token": "અપર",
+      "translit": "apara",
+      "gloss": "un- / not (the negating member)",
+      "partOfSpeech": "particle",
+      "etymology": "Here for a-pari- 'not-'; pairs with pariggahiyā to mean 'un-acquired'.",
+      "notes": "Spelled separately (અપર) in the canonical name; the gloss below joins it as અપરપરિગૃહીત."
+    },
+    {
+      "token": "પરિગ્ગહિયા",
+      "translit": "pariggahiyā",
+      "gloss": "acquired (here negated: unattached)",
+      "partOfSpeech": "adj",
+      "etymology": "As above; with apara- = 'a woman not married/kept by anyone'.",
+      "notes": ""
+    },
+    {
+      "token": "ગમણે",
+      "translit": "gamaṇe",
+      "gloss": "in resorting (to)",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": "Second atichāra-name."
+    },
+    {
+      "token": "અનંગકીડા",
+      "translit": "anaṅga-kīḍā",
+      "gloss": "unnatural / non-coital sexual play",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit anaṅga-kīḍā < Sanskrit ananga-krīḍā 'play not of the (proper) organ'; perverse erotic sport.",
+      "notes": "Third atichāra-name."
+    },
+    {
+      "token": "પરવિવાહ",
+      "translit": "para-vivāha",
+      "gloss": "others' marriages",
+      "partOfSpeech": "compound",
+      "etymology": "para 'other' + vivāha 'marriage'.",
+      "notes": ""
+    },
+    {
+      "token": "કરણે",
+      "translit": "karaṇe",
+      "gloss": "in arranging/bringing about",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit karaṇa 'doing', locative; matchmaking beyond one's own offspring.",
+      "notes": "Fourth atichāra-name."
+    },
+    {
+      "token": "કામભોગ",
+      "translit": "kāma-bhoga",
+      "gloss": "sensual enjoyment",
+      "partOfSpeech": "compound",
+      "etymology": "kāma 'desire' + bhoga 'enjoyment'.",
+      "notes": ""
+    },
+    {
+      "token": "તિવ્વાભિલાસે",
+      "translit": "tivvābhilāse",
+      "gloss": "in intense craving",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit tivva < Sanskrit tīvra 'intense' + abhilāṣa 'longing', locative.",
+      "notes": "Fifth atichāra-name; glossed in Gujarati below as tīvrābhilāṣa."
+    },
+    {
+      "token": "ઇત્વરે-થોડે",
+      "translit": "itvare-thoḍe",
+      "gloss": "for a short / brief (time)",
+      "partOfSpeech": "adj",
+      "etymology": "itvara (Sanskrit) glossed by Gujarati thoḍe 'little'; the book pairs the Sanskrit term with its vernacular equivalent.",
+      "notes": ""
+    },
+    {
+      "token": "કાલે",
+      "translit": "kāle",
+      "gloss": "in time / for a period",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kāla 'time', locative.",
+      "notes": ""
+    },
+    {
+      "token": "દ્રવ્યાદિક",
+      "translit": "dravyādika",
+      "gloss": "by money and the like",
+      "partOfSpeech": "compound",
+      "etymology": "dravya 'wealth' + ādika 'et cetera'; i.e. a woman 'acquired' by payment for a time.",
+      "notes": ""
+    },
+    {
+      "token": "પરિગૃહીત",
+      "translit": "parigṛhīta",
+      "gloss": "kept / acquired",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit parigṛhīta; the gloss of pariggahiyā.",
+      "notes": ""
+    },
+    {
+      "token": "પરસ્ત્રીતણું",
+      "translit": "para-strī-taṇuṁ",
+      "gloss": "of another's woman",
+      "partOfSpeech": "compound",
+      "etymology": "para 'other' + strī 'woman' + genitive -taṇuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "ગમન",
+      "translit": "gamana",
+      "gloss": "resort / intercourse",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit gamana; vernacular gloss of gamaṇe.",
+      "notes": ""
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "(may have) done",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati past participle of karvuṁ 'to do' < Sanskrit kṛta.",
+      "notes": "Recurs as kīdhuṁ/kīdhī/kīdhāṁ/kīdhā (gender-number agreement) throughout the confession; counted once here."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be / might have been",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati subjunctive of hovuṁ 'to be'; gives the tentative 'should I have…' tone of self-examination.",
+      "notes": "The recurring 'kīdhuṁ hoya / huo hoya / dharyo hoya' tag; counted once."
+    },
+    {
+      "token": "અપરપરિગૃહીત",
+      "translit": "apara-parigṛhīta",
+      "gloss": "not acquired / unattached",
+      "partOfSpeech": "compound",
+      "etymology": "apara- 'not' + parigṛhīta 'kept'; gloss of apara-pariggahiyā.",
+      "notes": ""
+    },
+    {
+      "token": "વિધવા",
+      "translit": "vidhavā",
+      "gloss": "a widow",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vidhavā 'husbandless'.",
+      "notes": "Concrete example of the 'unattached woman'."
+    },
+    {
+      "token": "કુમારિકાતણું",
+      "translit": "kumārikā-taṇuṁ",
+      "gloss": "of an unmarried maiden",
+      "partOfSpeech": "compound",
+      "etymology": "kumārikā 'virgin/maiden' + genitive -taṇuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "અત્યાસક્તે",
+      "translit": "atyāsakte",
+      "gloss": "in excessive attachment",
+      "partOfSpeech": "adverb",
+      "etymology": "ati 'over' + āsakti 'attachment', locative; the inner state behind anaṅga-kīḍā.",
+      "notes": ""
+    },
+    {
+      "token": "સ્વદેહ",
+      "translit": "svadeha",
+      "gloss": "(on) one's own body",
+      "partOfSpeech": "compound",
+      "etymology": "sva 'own' + deha 'body'.",
+      "notes": ""
+    },
+    {
+      "token": "પરદેહ",
+      "translit": "paradeha",
+      "gloss": "(on) another's body",
+      "partOfSpeech": "compound",
+      "etymology": "para 'other' + deha 'body'.",
+      "notes": ""
+    },
+    {
+      "token": "કામ",
+      "translit": "kāma",
+      "gloss": "lustful",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kāma 'desire'; here qualifying kuceṣṭā.",
+      "notes": ""
+    },
+    {
+      "token": "કુચેષ્ટા",
+      "translit": "kuceṣṭā",
+      "gloss": "perverse / improper acts",
+      "partOfSpeech": "noun",
+      "etymology": "ku- 'bad' + ceṣṭā 'gesture, effort'; bodily mis-conduct of a sexual kind.",
+      "notes": ""
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "(may have) done (fem. obj.)",
+      "partOfSpeech": "verb",
+      "etymology": "Feminine of kīdhuṁ, agreeing with kuceṣṭā.",
+      "notes": ""
+    },
+    {
+      "token": "પરાયા",
+      "translit": "parāyā",
+      "gloss": "others', belonging to strangers",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati parāyuṁ < parakīya 'another's'.",
+      "notes": ""
+    },
+    {
+      "token": "વિવાહના",
+      "translit": "vivāha-nā",
+      "gloss": "of marriage",
+      "partOfSpeech": "noun",
+      "etymology": "vivāha + Gujarati genitive -nā.",
+      "notes": ""
+    },
+    {
+      "token": "જોડાવાડા",
+      "translit": "joḍāvāḍā",
+      "gloss": "match-makings, the joining of couples",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati joḍvuṁ 'to join/pair' + agential -āvāḍā; the gloss of para-vivāha-karaṇe.",
+      "notes": ""
+    },
+    {
+      "token": "કીધા",
+      "translit": "kīdhā",
+      "gloss": "(may have) done (masc. pl. obj.)",
+      "partOfSpeech": "verb",
+      "etymology": "Plural of kīdhuṁ, agreeing with joḍāvāḍā.",
+      "notes": ""
+    },
+    {
+      "token": "કામભોગતણે",
+      "translit": "kāma-bhoga-taṇe",
+      "gloss": "regarding sensual enjoyment",
+      "partOfSpeech": "compound",
+      "etymology": "kāma-bhoga + genitive/locative -taṇe.",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning, in the matter of",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit viṣaye 'in the sphere of'.",
+      "notes": ""
+    },
+    {
+      "token": "રાત્રિ",
+      "translit": "rātri",
+      "gloss": "night",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rātri.",
+      "notes": ""
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "day",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit divasa; 'night and day' = ceaselessly.",
+      "notes": ""
+    },
+    {
+      "token": "તચ્ચિત્ત",
+      "translit": "tac-citta",
+      "gloss": "with mind fixed on it, engrossed",
+      "partOfSpeech": "compound",
+      "etymology": "tat 'that' + citta 'mind' (sandhi tac-citta) 'absorbed in that'.",
+      "notes": ""
+    },
+    {
+      "token": "થઇ",
+      "translit": "thaï",
+      "gloss": "having become",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati gerund of thavuṁ 'to become'.",
+      "notes": ""
+    },
+    {
+      "token": "તીવ્રાભિલાષ",
+      "translit": "tīvrābhilāṣa",
+      "gloss": "intense craving",
+      "partOfSpeech": "compound",
+      "etymology": "tīvra 'intense' + abhilāṣa 'longing'; Sanskritic gloss of Prakrit tivvābhilāse.",
+      "notes": ""
+    },
+    {
+      "token": "ધર્યો",
+      "translit": "dharyo",
+      "gloss": "(may have) held / harboured",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati dharvuṁ < Sanskrit √dhṛ 'to hold'.",
+      "notes": ""
+    },
+    {
+      "token": "પર્વતિથિએ",
+      "translit": "parva-tithie",
+      "gloss": "on a holy (parva) date",
+      "partOfSpeech": "compound",
+      "etymology": "parva 'sacred day' + tithi 'lunar date', locative; days on which continence is specially enjoined.",
+      "notes": ""
+    },
+    {
+      "token": "વિસ્મૃતલગે",
+      "translit": "vismṛta-lage",
+      "gloss": "through forgetfulness / inadvertently",
+      "partOfSpeech": "adverb",
+      "etymology": "vismṛta 'forgotten' + Gujarati -lage 'up to, on account of'; a lapse from inattention rather than intent.",
+      "notes": ""
+    },
+    {
+      "token": "શીલભંગ",
+      "translit": "śīla-bhaṅga",
+      "gloss": "a breach of chastity",
+      "partOfSpeech": "compound",
+      "etymology": "śīla 'chastity' + bhaṅga 'breaking'.",
+      "notes": ""
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "occurred / happened",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati past of hovuṁ 'to be/happen'.",
+      "notes": ""
+    },
+    {
+      "token": "પરસ્ત્રીશું",
+      "translit": "para-strī-śuṁ",
+      "gloss": "with another's woman",
+      "partOfSpeech": "compound",
+      "etymology": "para-strī + Gujarati comitative -śuṁ 'with'.",
+      "notes": ""
+    },
+    {
+      "token": "અશ્લીલ",
+      "translit": "aślīla",
+      "gloss": "obscene, indecent",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit a-ślīla 'not seemly'.",
+      "notes": ""
+    },
+    {
+      "token": "વચન",
+      "translit": "vacana",
+      "gloss": "words, speech",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vacana.",
+      "notes": ""
+    },
+    {
+      "token": "હાસ્ય",
+      "translit": "hāsya",
+      "gloss": "joking, ribald laughter",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit hāsya 'laughter'.",
+      "notes": ""
+    },
+    {
+      "token": "કીધાં",
+      "translit": "kīdhāṁ",
+      "gloss": "(may have) done (neut. pl.)",
+      "partOfSpeech": "verb",
+      "etymology": "Plural of kīdhuṁ agreeing with vacana-hāsya.",
+      "notes": ""
+    },
+    {
+      "token": "સ્ત્રીતણાં",
+      "translit": "strī-taṇāṁ",
+      "gloss": "of a woman's",
+      "partOfSpeech": "compound",
+      "etymology": "strī + genitive -taṇāṁ.",
+      "notes": ""
+    },
+    {
+      "token": "અવયવભણી",
+      "translit": "avayava-bhaṇī",
+      "gloss": "towards (her) limbs/body-parts",
+      "partOfSpeech": "compound",
+      "etymology": "avayava 'limb' + bhaṇī 'towards' (Gujarati postposition).",
+      "notes": ""
+    },
+    {
+      "token": "સરાગદૃષ્ટિ",
+      "translit": "sa-rāga-dṛṣṭi",
+      "gloss": "a passion-laden gaze",
+      "partOfSpeech": "compound",
+      "etymology": "sa 'with' + rāga 'passion' + dṛṣṭi 'look'; lustful staring.",
+      "notes": ""
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "(may have) done (fem.)",
+      "partOfSpeech": "verb",
+      "etymology": "Agreeing with dṛṣṭi.",
+      "notes": ""
+    },
+    {
+      "token": "વેશ્યા",
+      "translit": "veśyā",
+      "gloss": "a prostitute / courtesan",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit veśyā.",
+      "notes": ""
+    },
+    {
+      "token": "વાહિગદર્શની",
+      "translit": "vāhiga-darśanī",
+      "gloss": "a public dancing/performing woman who is gazed upon (uncertain)",
+      "partOfSpeech": "noun",
+      "etymology": "Apparently vāhya/vāhika 'outward, public' + darśana 'viewing' + fem. -ī; a woman of public spectacle.",
+      "notes": "Reading uncertain; an obscure medieval-Gujarati term, paired with veśyā as a woman of ill repute. Preserved verbatim; see notes."
+    },
+    {
+      "token": "ભણી",
+      "translit": "bhaṇī",
+      "gloss": "towards",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati postposition 'towards, with respect to'.",
+      "notes": ""
+    },
+    {
+      "token": "દુષ્ટ",
+      "translit": "duṣṭa",
+      "gloss": "wicked, corrupt",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit duṣṭa 'spoiled, evil'.",
+      "notes": ""
+    },
+    {
+      "token": "મનસા",
+      "translit": "manasā",
+      "gloss": "with the mind / intent",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit manasā, instrumental of manas 'mind'; here a corrupt/lustful mental disposition.",
+      "notes": ""
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "(may have) done (fem.)",
+      "partOfSpeech": "verb",
+      "etymology": "Agreeing with manasā/intention.",
+      "notes": ""
+    },
+    {
+      "token": "સ્વખાંતરે",
+      "translit": "svakhāntare",
+      "gloss": "in a dream / in private (uncertain)",
+      "partOfSpeech": "adverb",
+      "etymology": "Most plausibly a variant of svapnāntare 'in the interval of a dream' (sva-svapna + antara); alternatively 'in one's private quarters'.",
+      "notes": "Orthographically uncertain; likely the book's spelling/OCR of svapnāntare — a nocturnal/dream breach of chastity, a stock item of such confessions. Preserved verbatim; flagged in notes."
+    },
+    {
+      "token": "શીલભંગ",
+      "translit": "śīla-bhaṅga",
+      "gloss": "a breach of chastity",
+      "partOfSpeech": "compound",
+      "etymology": "See above; repeated.",
+      "notes": ""
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "occurred",
+      "partOfSpeech": "verb",
+      "etymology": "See above; repeated.",
+      "notes": ""
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "anything else, whatever other (lapse)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old-Gujarati aneruṁ 'other' < Sanskrit anya-tara; opens the sealing refrain.",
+      "notes": "Leads into the standard seal 'aneruṁ … micchā mi dukkaḍaṁ', abbreviated by the ૦ mark."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "ચોથા",
+      "translit": "cothā",
+      "gloss": "fourth",
+      "partOfSpeech": "adj",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "શીલવ્રત",
+      "translit": "śīlavrata",
+      "gloss": "the vow of chastity",
+      "partOfSpeech": "compound",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "વિષે૦",
+      "translit": "viṣe ⟦seal⟧",
+      "gloss": "concerning — [whatever lapse occurred, by mind, speech and body, may it be undone]",
+      "partOfSpeech": "particle",
+      "etymology": "viṣe 'regarding' + the book's circle-mark ૦ standing in for the full sealing refrain 'micchā mi dukkaḍaṁ'.",
+      "notes": "The ૦ is an in-text abbreviation sign directing the reciter to supply the recurring seal; preserved verbatim."
+    }
+  ],
+  "literalTranslation": "Fourth, the vow of chastity — according to capacity, in the form of contentment with one's own spouse and the forsaking of others' spouses. I now examine the five transgressions of this fourth vow of chastity: resorting to a temporarily-acquired (kept) woman; resorting to an unattached woman; non-coital sexual play; arranging others' marriages; intense craving for sensual enjoyment. For a short time, a woman acquired by money and the like — another's wife — I may have resorted to. An unattached woman — a widow, a maiden — I may have resorted to. In over-attachment I may have done lustful perverse acts upon my own body or another's. I may have arranged the match-makings of others' marriages. Engrossed in sensual enjoyment night and day, mind fixed on it, I may have harboured intense craving. On a holy date, through forgetfulness, a breach of chastity may have occurred. With another's woman I may have spoken obscene words and ribald jests; toward a woman's limbs I may have cast a passion-laden gaze. Toward a prostitute or a public performing-woman I may have held a corrupt intent; in a dream a breach of chastity may have occurred. Whatever else regarding this fourth vow of chastity [— by mind, speech and body, may it be undone].",
+  "idiomaticTranslation": "The fourth is the vow of chaste living, kept so far as a householder can: to rest content with one's own spouse and turn away from every other. Let me now search out the five ways I may have slipped from it — going to a woman hired or held for a time, going to one unattached, indulging in perverse erotic play, brokering others' unions, and burning with excessive lust. Have I, even briefly, gone to another's wife bought with money? to a widow or an unmarried girl? In the grip of attachment, have I misused my own body or another's? Have I made matches for strangers' weddings? Has my mind, fixed on pleasure day and night, nursed a fierce craving? Has chastity, even on a holy day, lapsed through carelessness? Have I traded indecent words and lewd jokes with another's wife, or let my eyes linger with desire on a woman's body? Have I harboured an impure heart toward a courtesan or a woman of public show — or broken my vow even in a dream? Whatever else I have done against this fourth vow, by mind, speech and body, may it be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having confessed theft in v.3, the reciter now turns inward to desire — the fourth aṇuvrata. Its opening line is doctrinally precise: the lay vow is not the monk's total brahmacarya but a two-sided discipline, 'yathāśakti' (to capacity) — positively svadāra-santoṣa (contentment with one's own spouse) and negatively paradāra-vivarjanā (shunning all others). The verse then quotes the canonical Prakrit pentad — ittara-pariggahiyā-gamaṇe, apara-pariggahiyā-gamaṇe, anaṅga-kīḍā, para-vivāha-karaṇe, kāma-bhoga-tivvābhilāse — and, true to this confession's method, glosses each with concrete cases: the hired or kept woman, the widow or maiden, perverse acts on one's own or another's body, matchmaking outside one's household, and a mind 'fixed day and night' on pleasure. What distinguishes v.4 is how far the gloss reaches past the five named slips. It catalogues lapses the bare list omits: a breach on a parva-tithi through mere forgetfulness; obscene speech and ribald jesting with another's wife; the lingering, passion-laden gaze (sa-rāga-dṛṣṭi) at a woman's limbs; an impure intent toward a courtesan; even a transgression in a dream (svapnāntare). The sweep is deliberate: chastity is breached not only by the act but by word, by look, by intent, and even by sleep's involuntary stirrings. The section then opens its standard seal with 'aneruṁ…', the circle-mark ૦ standing for the full mind-speech-body refrain. The verse thus widens the householder's self-scrutiny from deed to the whole field of desire, before v.5 moves on to possessions (parigraha).",
+    "doctrinalContext": "The verse turns on the lay reframing of the fourth Mahāvrata: where a sādhu vows absolute brahmacarya, the śrāvaka vows svadāra-santoṣa — the same vow held 'sthūla' (in coarse, partial form), exactly as the preface's aṇuvrata definition states. Its five atichāras are the classical set codified at Tattvārtha-sūtra 7.28 (anaṅga-krīḍā, paravivāha-karaṇa, itvarika-/aparigṛhīta-gamana, kāma-tīvrābhilāṣa), showing this medieval confession faithfully transmitting the canonical formula. Two doctrinal accents stand out. First, the spread of culpability across mana–vacana–kāyā: lewd speech and the lustful gaze are themselves transgressions, because in Jain ethics bhāva (intent/inner passion, rāga) — not merely the outward act — binds karma. Second, the inclusion of a dream-lapse and a forgetful parva-day slip marks the threshold between full atichāra (which needs volition) and the involuntary, which is confessed anyway to purify even subtle pramāda (heedlessness).",
+    "practicalRelevance": "Recited today, this verse asks a married householder to audit far more than overt infidelity: it names flirtatious or coarse talk, the lingering desirous look, pornographic or 'public-show' fixation, and obsessive preoccupation 'day and night' — every one a recognised slip from svadāra-santoṣa. Its lesson is that fidelity is guarded at the level of speech, sight and thought, not only deed; and that even involuntary lapses (a dream, a careless holy-day) are owned rather than excused, training the reciter toward watchfulness (apramāda) over the whole life of desire.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.28 — the five atichāras of the brahmacarya/svadāra-santoṣa vow (anaṅga-krīḍā, para-vivāha-karaṇa, itvarika-parigṛhīta-gamana, aparigṛhīta-gamana, kāma-tīvrābhilāṣa)",
+        "source": "Umāsvāti/Umāsvāmī, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Upāsakadaśāḥ (Aṅga 7) — Ānanda's acceptance of the svadāra-santoṣa aṇuvrata and its transgressions",
+        "source": "Śvetāmbara Aṅga canon"
+      },
+      {
+        "text": "Laghu Atiyār (this same book) — the short Devasi/Rāi confession of the same fourth vow, of which this is the extended counterpart",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit, Anchalgachchha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Brahmacharya — Jain conception of the fourth vow and lay chastity",
+      "url": "https://en.wikipedia.org/wiki/Brahmacharya",
+      "type": "scholarship",
+      "consultedFor": "The lay/monastic distinction in the fourth vow and the meaning of svadāra-santoṣa vs full brahmacarya."
+    },
+    {
+      "title": "Anuvrata / Śrāvaka — the five lesser vows of the Jain householder",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Placement of the chastity vow among the five aṇuvratas and the framing of partial (sthūla) lay observance."
+    },
+    {
+      "title": "Tattvārtha Sūtra — authoritative source of the vows and their atichāras",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical five atichāras of the brahmacarya vow at TS 7.28 transmitted by this confession."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The five Prakrit atichāra-names match the canonical set (Tattvārtha-sūtra 7.28) and are cross-confirmed by multiple references; their identification is high-confidence. Two vernacular tokens are uncertain and preserved verbatim per the book's fidelity rule: (1) 'વાહિગદર્શની' (vāhiga-darśanī) is an obscure medieval-Gujarati term, here read as a woman of public spectacle/performance paired with veśyā — reading tentative; (2) 'સ્વખાંતરે' (svakhāntare) is most plausibly the book's spelling/OCR of svapnāntare, 'in a dream' (a stock dream-breach item in such confessions), though 'in private quarters' is a possible alternative — flagged as uncertain. The trailing circle-mark '૦' after 'વિષે' is an in-text abbreviation directing the reciter to supply the full sealing refrain ('…te savi huṁ mane vacane kāyāe karī micchā mi dukkaḍaṁ'); it is part of the text, not an erratum. Doubled Prakrit conjuncts (પરિગ્ગહિયા) and the book's spelling 'atiyār' are retained verbatim."
+}

@@ -1,0 +1,162 @@
+{
+  "shlokaId": "logassa/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Now that I have praised them, I ask all twenty-four of these great teachers — who are washed clean of every stain and are beyond old age and death — to look on me with grace.",
+  "recitation": "evaṁ mae abhithuā, vihuya-raya-malā pahīṇa-jara-maraṇā. cauvīsaṁ pi jiṇavarā, titthayarā me pasīyantu.",
+  "wordByWord": [
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way (i.e. in the manner just performed by naming them)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit evaṁ < Sanskrit evam, deictic adverb 'so, thus'.",
+      "notes": "Points back to the naming of all twenty-four in vv.2–4; it gathers the whole roll-call into a single act."
+    },
+    {
+      "token": "મએ",
+      "translit": "mae",
+      "gloss": "by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mae, instrumental singular of the 1st-person pronoun < Sanskrit mayā.",
+      "notes": "Instrumental of agent governing the passive participle abhithuā."
+    },
+    {
+      "token": "અભિથુઆ",
+      "translit": "abhithuā",
+      "gloss": "(those who have been) well-praised, extolled",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle, Prakrit abhi-thua < Sanskrit abhiṣṭuta, from abhi + √stu 'to praise'.",
+      "notes": "Nominative plural agreeing with jiṇavarā; it discharges the vow kittaïssaṁ ('I will praise') made in v.1 — the praise promised is now declared accomplished."
+    },
+    {
+      "token": "વિહુય",
+      "translit": "vihuya",
+      "gloss": "having shaken off, having cast away",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle, Prakrit vihuya < Sanskrit vidhūta, from vi + √dhū 'to shake off, scatter'.",
+      "notes": "First member of the compound vihuya-raya-malā; the image is of dust violently shaken from cloth or scoured from metal."
+    },
+    {
+      "token": "રયમલા",
+      "translit": "raya-malā",
+      "gloss": "the dust-and-stain (of karma)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit raya (< Sanskrit rajas 'dust, particle') + mala ('dirt, impurity'); dvandva/tatpuruṣa compound, nominative plural -ā.",
+      "notes": "In Jain idiom raya is freshly-binding karmic dust and mala the older ingrained karmic stain; together with vihuya the epithet means 'those who have shaken off all karmic dust and stain'."
+    },
+    {
+      "token": "પહીણ",
+      "translit": "pahīṇa",
+      "gloss": "destroyed, done away with, exhausted",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle, Prakrit pahīṇa < Sanskrit prahīṇa, from pra + √hā 'to abandon, leave behind, diminish away'.",
+      "notes": "First member of the compound pahīṇa-jara-maraṇā."
+    },
+    {
+      "token": "જર",
+      "translit": "jara",
+      "gloss": "old age, decay",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jara < Sanskrit jarā, from √jṝ 'to grow old, wear out'.",
+      "notes": "Stands by metonymy for the whole decaying mortal condition of saṁsāra."
+    },
+    {
+      "token": "મરણા",
+      "translit": "maraṇā",
+      "gloss": "death",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maraṇa < Sanskrit maraṇa, from √mṛ 'to die'; nominative plural -ā of the compound.",
+      "notes": "jara-maraṇa is the canonical Jain/Indic pairing for the cycle of birth-and-death (saṁsāra); 'pahīṇa-jara-maraṇā' = those for whom aging and death are wholly destroyed — i.e. liberated, deathless."
+    },
+    {
+      "token": "ચઉવીસંપિ",
+      "translit": "cauvīsaṁ pi",
+      "gloss": "all twenty-four (every one of them)",
+      "partOfSpeech": "compound",
+      "etymology": "cauvīsaṁ ('twenty-four', Prakrit < Sanskrit caturviṁśati) + the enclitic particle pi (< Sanskrit api 'also, even, all'), written together in this recension.",
+      "notes": "The particle pi here is totalising — 'the twenty-four, all of them without exception'. Note this verse's verbatim spelling cauvīsaṁ contrasts with the doubled-conjunct cauvvīsaṁ of v.1; the source book preserves both, and they are not to be normalised."
+    },
+    {
+      "token": "જિણવરા",
+      "translit": "jiṇavarā",
+      "gloss": "the best of the Jinas, the foremost victors",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa (< Sanskrit jina 'victor') + vara ('best, excellent'); nominative plural -ā.",
+      "notes": "Subject of pasīyantu; the intensive -vara raises the bare jina to 'supreme victor'."
+    },
+    {
+      "token": "તિત્થયરા",
+      "translit": "titthayarā",
+      "gloss": "the ford-makers (Tīrthaṅkaras)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tittha (< Sanskrit tīrtha 'ford, crossing-place') + yara/kara ('maker'); nominative plural -ā.",
+      "notes": "In apposition to jiṇavarā — the same beings titled twice, as victors and as builders of the crossing over saṁsāra."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "to me, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit me, dative/genitive enclitic of the 1st-person pronoun < Sanskrit me.",
+      "notes": "Dative of the recipient of grace; balances the instrumental mae ('by me') at the verse's opening — I praised them, may they favour me."
+    },
+    {
+      "token": "પસીયંતુ",
+      "translit": "pasīyantu",
+      "gloss": "may they be gracious, may they show favour",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative/optative 3rd person plural, Prakrit pasīyantu < Sanskrit prasīdantu, from pra + √sad 'to settle, become serene, be gracious'.",
+      "notes": "The hinge-word of the hymn: the first petition-verb, converting four verses of praise into prayer and opening directly onto the requests of v.6."
+    }
+  ],
+  "literalTranslation": "Thus praised by me — they who have shaken off the dust-and-stain (of karma), whose aging and death are destroyed — may the twenty-four, all of them, the foremost Jinas, the ford-makers, be gracious to me.",
+  "idiomaticTranslation": "So have I praised them — those who have shaken off every speck and stain of karma, who stand beyond old age and beyond death. May all twenty-four of these supreme Victors, these makers of the ford, look upon me with grace.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the hinge of the hymn. The opening words 'evaṁ mae abhithuā' — 'thus praised by me' — formally close the act begun by the vow kittaïssaṁ ('I will praise') in v.1 and carried through the roll-call of vv.2–4: the praise promised is now declared done. Having completed it, the reciter pivots from naming to asking, and the verse's last word 'pasīyantu' ('may they be gracious') is the first petition in the whole stotra, opening straight onto the requests for health and bodhi in v.6. Between the closing of praise and the opening of prayer stand two epithets that say exactly who is being asked. 'vihuya-raya-malā' images liberation as cleansing — the soul scoured of karmic 'raya' (fresh dust) and 'mala' (ingrained stain) until it shines; 'pahīṇa-jara-maraṇā' states the result — aging and death utterly destroyed, the deathless state of one beyond saṁsāra. Note the deliberate mirroring of pronouns: 'mae' (by me, instrumental) at the head answers 'me' (to me, dative) at the close — I have given praise; may grace be given to me. A grammatical subtlety worth flagging: the two epithets most naturally describe the Jinas (already liberated), but some reciters hear in them the very fruit the devotee aspires to — to be himself made stainless and deathless by this praise. The recension's spelling 'cauvīsaṁ' here (against 'cauvvīsaṁ' in v.1) is an authentic variant of the source book, not an error.",
+    "doctrinalContext": "The verse compresses two core Jain doctrines into two epithets. First, karma as a fine material substance (raya/mala) that physically adheres to and weighs down the soul: liberation (mokṣa) is therefore literally a cleansing — the jīva, once 'vihuya-raya-malā', regains its innate luminous purity. Second, the equation of bondage with 'jarā-maraṇa', aging-and-death: to be 'pahīṇa-jara-maraṇā' is to have ended rebirth itself, the defining mark of a siddha. The theologically delicate point is 'pasīyantu'. A Tīrthaṅkara is vītarāga — wholly free of attachment and aversion — and so, strictly, grants no favours and answers no prayers; he is perfected and serene, not a responsive deity. The petition is thus understood in the bhakti register: the 'grace' that descends is the purifying effect that the act of devout praise works upon the reciter's own soul. The Jinas are 'gracious' as a clear mirror is gracious — by being what they are, they draw the devotee toward the same stainless, deathless state.",
+    "practicalRelevance": "Recited daily, this verse trains the practitioner to let praise mature into petition without grasping: one first gives (heartfelt praise of the twenty-four), then asks (for grace), modelling the devotional posture of the whole pratikramaṇa. Dwelling on 'vihuya-raya-malā' as one chants offers a working image for one's own confession — karma as removable dust, not permanent fate — encouraging the conviction that today's faults can be scoured clean. And because a vītarāga grants no magical boon, the reciter is reminded that the 'grace' he seeks is to be realised through his own effort, mirrored on the example of those already made pure.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra (on jarā-maraṇa as the mark of saṁsāra and its ending in liberation)",
+        "source": "Hermann Jacobi, Jaina Sūtras Part II (Sacred Books of the East vol. 45)"
+      },
+      {
+        "text": "Āvaśyaka-sūtra / Āvaśyaka Niryukti (Caturviṁśati-stava, the Second Āvaśyaka in which this gāthā stands)",
+        "source": "Anchalgachchha (Vidhipakṣa) ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Logassa v.6 (kittiya vandiya mahiyā … ārugga bohilābhaṁ … diṁtu) — the petition opened by pasīyantu here is made explicit there",
+        "source": "Logassa sūtra, Caturviṁśati-stava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Logassa Sutra — text and translation",
+      "url": "https://jaintreasures.org.uk/logassa-sutra/",
+      "type": "translation",
+      "consultedFor": "Verse-5 rendering of vihuya-raya-malā ('free from karmic dust/filth') and pahīṇa-jara-maraṇā ('free from old age and death')."
+    },
+    {
+      "title": "Logassa — meaning (J.V.B. Houston)",
+      "url": "http://www.jvbhouston.org/pdf/Stotras/logassa_meaning.pdf",
+      "type": "translation",
+      "consultedFor": "Glosses for raya/mala as karmic impurity and the petition pasīyantu; whole-verse English meaning."
+    },
+    {
+      "title": "Logassa Sootra — Pathshala",
+      "url": "https://jainuniversity.org/pathshala/logassa-sootra/",
+      "type": "commentary",
+      "consultedFor": "Word meanings of cauvīsaṁ, jiṇavara, titthayara and the 'be gracious to me' sense of pasīyantu."
+    },
+    {
+      "title": "Logassa Sutra — Jain Sutras and Stotras",
+      "url": "https://jainknowledge.com/media-information/44/jain_sutras/LOGASSA-SUTRA",
+      "type": "translation",
+      "consultedFor": "Cross-check of the verse text and idiomatic English translation of verse 5."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Source book spelling preserved verbatim: this verse reads 'ચઉવીસંપિ' (cauvīsaṁ) against v.1's doubled-conjunct 'ચઉવ્વીસંપિ' (cauvvīsaṁ); both are authentic to the Anchalgachchha recension and were not normalised. 'abhithuā', 'vihuya', 'pahīṇa' are past passive participles taken here as nominative plural agreeing with jiṇavarā/titthayarā; an alternative devotional reading construes the two purity-epithets as the fruit the reciter aspires to rather than (only) descriptions of the already-liberated Jinas — flagged as interpretive, not text-critical. 'pasīyantu': a vītarāga Tīrthaṅkara grants no favour in a literal theistic sense; the 'grace' is understood as the purifying effect of devout praise on the reciter — the bhakti idiom is standard but the underlying theology is noted as a known doctrinal nuance, not a textual ambiguity. The daṇḍa marks (॥) and comma punctuation follow the source orthography and are not glossed as tokens."
+}

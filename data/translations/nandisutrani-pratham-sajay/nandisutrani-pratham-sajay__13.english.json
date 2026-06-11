@@ -1,0 +1,160 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The community is like Mount Meru: its peaks blaze like cliffs of pure gold, and its lovely Nandana grove breathes out the sweet fragrance of good conduct.",
+  "recitation": "niyamūsiya kaṇaya silā-yalu jjala jalanta cittakūḍassa, nandaṇa vaṇa maṇāhara surabhi sīla gandhu dhrumāyassa.",
+  "wordByWord": [
+    {
+      "token": "નિયમૂસિય",
+      "translit": "niyamūsiya",
+      "gloss": "naturally lofty, inherently towering (raised up of its own nature)",
+      "partOfSpeech": "compound",
+      "etymology": "niya- (Skt. nija, 'own, innate') + ūsiya (Skt. ucchrita, 'raised, elevated'); some recensions read nicc'ūsiya, 'ever-raised'.",
+      "notes": "Qualifies the golden cliffs of the Saṅgha-Meru as rising by their own height — needing no support."
+    },
+    {
+      "token": "કણય",
+      "translit": "kaṇaya",
+      "gloss": "of gold, golden",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kanaka, 'gold'; Prakrit kaṇaya by intervocalic softening.",
+      "notes": ""
+    },
+    {
+      "token": "સિલા",
+      "translit": "silā",
+      "gloss": "rock, stone slab, cliff-face",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śilā, 'rock, crag'.",
+      "notes": "kaṇaya-silā = the golden rock of Meru's flanks."
+    },
+    {
+      "token": "યલુ",
+      "translit": "yalu",
+      "gloss": "surface, expanse, plateau (of the rock)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tala, 'surface, level ground'; here as -yalu in the compound silā-yala-, with sandhi into the following ujjala.",
+      "notes": "silā-yalu = śilā-tala, 'the surface of the rock'."
+    },
+    {
+      "token": "જજલ",
+      "translit": "jajala",
+      "gloss": "bright, gleaming, luminous",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ujjvala, 'shining, radiant'; here as -jjala continuing the compound from silā-yalu (silā-yalu-jjala = śilā-tala-ujjvala, 'with gleaming rock-surfaces').",
+      "notes": "Read with the preceding word; the printed split is orthographic, not semantic."
+    },
+    {
+      "token": "જલંત",
+      "translit": "jalanta",
+      "gloss": "blazing, flaming (with light)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. jvalat / jvalanta (pres. participle of √jval, 'to blaze'); Prakrit jalanta.",
+      "notes": "The golden cliffs appear to be on fire with reflected light."
+    },
+    {
+      "token": "ચિત્તકૂડસ્સ",
+      "translit": "cittakūḍassa",
+      "gloss": "of (Meru, whose) variegated / many-hued peaks",
+      "partOfSpeech": "compound",
+      "etymology": "citta (Skt. citra, 'variegated, bright-coloured') + kūḍa (Skt. kūṭa, 'peak, summit') + -assa, gen. sg. ending (Skt. -asya).",
+      "notes": "Genitive governing the whole line: 'of [the Saṅgha-Meru] whose bright-hued peaks are blazing gold-rock surfaces.' Not citta = 'mind' here, but citra = 'many-coloured'."
+    },
+    {
+      "token": "નંદણ",
+      "translit": "nandaṇa",
+      "gloss": "Nandana (the celestial pleasure-grove of Meru/Indra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nandana, 'gladdening', the proper name of the heavenly garden; from √nand, 'to rejoice'.",
+      "notes": ""
+    },
+    {
+      "token": "વણ",
+      "translit": "vaṇa",
+      "gloss": "grove, forest, wood",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vana, 'forest'; Prakrit vaṇa. nandaṇa-vaṇa = the Nandana grove.",
+      "notes": ""
+    },
+    {
+      "token": "મણાહર",
+      "translit": "maṇāhara",
+      "gloss": "captivating, heart-stealing, charming",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. manohara, 'mind-seizing' (manas + √hṛ, 'to carry off'); Prakrit maṇāhara.",
+      "notes": "Describes the Nandana grove."
+    },
+    {
+      "token": "સુરભિ",
+      "translit": "surabhi",
+      "gloss": "fragrant, sweet-smelling",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. surabhi, 'fragrant'.",
+      "notes": ""
+    },
+    {
+      "token": "સીલ",
+      "translit": "sīla",
+      "gloss": "good conduct, moral discipline (śīla)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śīla, 'character, virtuous conduct'; Prakrit sīla.",
+      "notes": "The figurative content of the simile: the grove's perfume IS the fragrance of the Saṅgha's śīla."
+    },
+    {
+      "token": "ગંધુ",
+      "translit": "gandhu",
+      "gloss": "scent, perfume, fragrance",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gandha, 'smell, fragrance'; the -u reflects the compounding stem before the following word.",
+      "notes": "sīla-gandhu = 'the fragrance of good conduct'."
+    },
+    {
+      "token": "ધ્રુમાયસ્સ",
+      "translit": "dhrumāyassa",
+      "gloss": "of (Meru) that exudes / wafts forth (the fragrance)",
+      "partOfSpeech": "compound",
+      "etymology": "Most likely (g)andh'uddhamāyassa, from uddhmāta / uddhamāyat (Skt. ud-√dhmā, 'to blow up, send forth') + -assa (gen. sg.); i.e. 'whose [grove] sends forth the scent'. A minority reading takes dhruma = druma, 'tree'.",
+      "notes": "Second genitive parallel to cittakūḍassa, both governed by saṅgha (Meru) named in the surrounding verses (vv.12–14)."
+    }
+  ],
+  "literalTranslation": "Of [the Saṅgha-Meru] whose bright, blazing, many-hued peaks are gleaming surfaces of naturally-lofty golden rock; whose captivating Nandana grove wafts forth the sweet fragrance of good conduct.",
+  "idiomaticTranslation": "— Meru, whose towering cliffs of pure gold blaze and gleam in many-coloured peaks, and whose enchanting Nandana grove breathes out, sweet and far, the perfume of holy conduct.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is a single sweep of two genitive phrases (cittakūḍassa … dhrumāyassa) — grammatically unfinished epithets that hang on the word 'Meru/Saṅgha' carried over from the surrounding verses, so the reciter must hear it as 'of that [community-mountain] which…'. The verse builds the upper reaches of the Meru-image in two registers. First, the visual: the peaks are not merely golden but niyamūsiya — lofty by their own nature, rising unsupported — and they blaze (jalanta) and gleam (-jjala = ujjvala) so that the cliff-faces seem ablaze with light. The doubled fire-and-light vocabulary (jjala + jalanta) is deliberate: the Saṅgha's eminence is self-luminous, owing its splendour to nothing external. Second, the verse turns from sight to scent. The Nandana grove — Meru's own celestial garden — is maṇāhara, it 'steals the heart', and from it streams a fragrance. But the poet immediately decodes the image: the perfume is sīla-gandha, the fragrance of moral conduct. Where v.12's adamantine base figured the Saṅgha's unshakable right-faith, this verse lifts the eye to its summit and its sweetness — the community is at once towering and tender, blazing gold to the sight and sweet śīla to the heart. The line-break mirrors the two faculties: eye then nose, grandeur then grace. Note how restraint serves the rūpaka: the verse never says 'the Saṅgha is good'; it lets a remembered fragrance carry the claim, so that virtue is something one is drawn toward rather than told about.",
+    "doctrinalContext": "The decoded compound sīla-gandha rests on a pervasive Jain conviction: śīla (right conduct) is not inert but radiant — it propagates, like scent on the wind, drawing beings without coercion. This is the practical face of cāritra, the third of the three jewels (samyag-darśana, samyag-jñāna, samyag-cāritra): conduct that has become so thoroughly the practitioner's nature that it diffuses of itself, just as the peaks are lofty 'of their own nature' (niya-). The pairing of blazing gold (outer eminence) with sīla-fragrance (inner virtue) quietly insists that the Saṅgha's true height is moral, not ornamental — the gold matters only because it crowns a mountain of conduct.",
+    "practicalRelevance": "When chanting this verse, let it reframe your own śīla: a vow kept is not a private restriction but a fragrance others unknowingly breathe. The reciter is invited to aspire not to be seen as good (blazing gold) but to be quietly fragrant — to let conduct spread its own scent without announcement.",
+    "crossReferences": [
+      {
+        "text": "Three jewels — samyag-darśana, samyag-jñāna, samyag-cāritra (śīla as lived cāritra)",
+        "source": "Tattvārtha-sūtra 1.1 (Umāsvāti)"
+      },
+      {
+        "text": "Nandī-sūtra opening maṅgala, Saṅgha-as-Meru gāthās (continuation across vv.12–18)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Root meanings of kanaka, śilā, tala, ujjvala, jvalat, kūṭa, citra, nandana, manohara, surabhi, śīla, gandha, ud-√dhmā"
+    },
+    {
+      "title": "JainQQ Digital Library (Ardhamāgadhī / Pāia-sadda-mahaṇṇavo lexical resources and Āgama texts)",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit phonological forms (kaṇaya, vaṇa, maṇāhara, sīla, jalanta) and Nandī-sūtra Saṅgha-stuti context"
+    },
+    {
+      "title": "Nandī-sūtra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening Saṅgha-praise in which the Meru simile sits"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is a pair of dangling genitives (cittakūḍassa, dhrumāyassa) completing the Saṅgha-as-Meru image carried from the preceding verses; it has no independent finite clause. Printed word-splits (e.g. 'સિલા યલુ જજલ' and 'ગંધુ ધ્રુમાયસ્સ') are orthographic and must be re-joined for sense: silā-yalu-jjala = śilā-tala-ujjvala, and gandhu+dhrumāyassa = gandh'-uddhamāyassa ('exuding the fragrance'). The final token ધ્રુમાયસ્સ is the chief uncertainty: read here as uddhamāyassa (ud-√dhmā, 'to send/blow forth'), agreeing with the standard Nandī reading; a minority parsing takes dhruma = druma ('tree'), which would yield 'whose Nandana grove of trees is fragrant with śīla'. The book's spelling (long ū in -mūsiya, the conjuncts) is preserved verbatim and not normalized. cittakūḍa here is citra-kūṭa ('many-hued peaks'), not citta = 'mind'. Web glosses were cross-checked against the Cologne lexicon; uncited AI summaries were not relied upon for the final readings."
+}

@@ -1,0 +1,88 @@
+{
+  "shlokaId": "iriyavahiyam/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "These are the living beings I may have harmed — creatures with one sense, two senses, three senses, four senses, and five senses.",
+  "recitation": "egindiyā, beindiyā, teindiyā, chaürindiyā, pañcindiyā",
+  "wordByWord": [
+    {
+      "token": "એગિંદિયા",
+      "translit": "egindiyā",
+      "gloss": "one-sensed beings (possessing only the sense of touch) — earth-, water-, fire-, air- and plant-bodies",
+      "partOfSpeech": "compound",
+      "etymology": "Ardhamāgadhī ega (Skt. eka, 'one') + indiya (Skt. indriya, 'sense-faculty'); -ā is the plural ending of the jīva listed as object of virāhiyā in the preceding verse",
+      "notes": "The doctrinally weightiest term: it asserts that even sthāvara (immobile) earth, water and vegetation are ensouled, so no footstep is karmically neutral."
+    },
+    {
+      "token": "બેઇંદિયા",
+      "translit": "beindiyā",
+      "gloss": "two-sensed beings (touch and taste) — e.g. worms, leeches, conches",
+      "partOfSpeech": "compound",
+      "etymology": "be (Skt. dvi, 'two') + indiya; plural -ā. The b- reflects the Prakrit reduction of Skt. dvi-",
+      "notes": ""
+    },
+    {
+      "token": "તેઇંદિયા",
+      "translit": "teindiyā",
+      "gloss": "three-sensed beings (touch, taste, smell) — e.g. ants, lice, bugs",
+      "partOfSpeech": "compound",
+      "etymology": "te (Skt. tri, 'three') + indiya; plural -ā",
+      "notes": ""
+    },
+    {
+      "token": "ચઉરિંદિયા",
+      "translit": "chaürindiyā",
+      "gloss": "four-sensed beings (touch, taste, smell, sight) — e.g. bees, flies, scorpions",
+      "partOfSpeech": "compound",
+      "etymology": "chaü (Skt. catur, 'four') + indiya; plural -ā. The r preserves the catur- stem before the vowel of indiya",
+      "notes": ""
+    },
+    {
+      "token": "પંચિંદિયા",
+      "translit": "pañcindiyā",
+      "gloss": "five-sensed beings (touch, taste, smell, sight, hearing) — e.g. humans, animals, birds, gods, hell-beings",
+      "partOfSpeech": "compound",
+      "etymology": "pañca (Skt. pañca, 'five') + indiya; plural -ā",
+      "notes": "Five-sensed beings include the saṁjñī (rational) class; harming them is held the gravest, completing the ascending scale."
+    }
+  ],
+  "literalTranslation": "One-sensed, two-sensed, three-sensed, four-sensed, five-sensed (beings).",
+  "idiomaticTranslation": "...beings of every order of sentience — those with a single sense, with two, with three, with four, and with all five — every one of them I here acknowledge.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 5 named the bare fact — 'whatever beings I have injured' — this verse immediately refuses to let that admission stay vague. It sorts the injured jīvas along the single axis Jain biology recognises: the count of indriyas, ascending from one to five. The ordering is purposive. By beginning with the egindiyā — the one-sensed earth-, water-, fire-, air- and plant-bodies that a careless newcomer might not even regard as alive — the reciter forecloses the easy excuse that 'I trod on nothing that mattered.' Each successive term widens the circle of conceded life until pañcindiyā gathers in humans, animals, gods and hell-beings alike. The five compounds are deliberately parallel and unadorned: this is not poetry but a checklist of conscience, spoken so that no class of victim escapes the confession by being forgotten. Read against the threefold analytic the sutra is building — the things trodden (v4), the beings graded here (v6), and the modes of harm to come (v7) — this verse supplies the middle term: the *subjects* of harm, weighed not by size or usefulness to us but strictly by how much sentient faculty they bear. It is the doctrinal hinge on which the whole confession's seriousness turns. (~210 words)",
+    "doctrinalContext": "The fivefold indriya-classification is canonical: it is set out in Umāsvāti's Tattvārtha-sūtra 2.10–2.14 and underlies the entire Jain account of jīva. Crucially for ahiṁsā, the schema is graded but not exclusionary — a one-sensed earth-body is as truly ensouled as a five-sensed human; the senses measure capacity for experience, not entitlement to be spared. Confessing all five classes in one breath enacts the Jain conviction that the soul (jīva) is equal in kind across the whole spectrum of embodiment, so that vigilance owes itself even to lives that show no visible movement.",
+    "practicalRelevance": "Reciting this line, a practitioner is meant to actually run the inventory — to picture the trampled blade of grass and the unseen insect as readily as a larger creature — converting a generic 'sorry for any harm' into a concrete, sense-by-sense reckoning that trains the careful attention (īryā-samiti) the whole sutra exists to cultivate.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 2.10–2.14 (jīvas classified ekendriya → pañcendriya)",
+        "source": "Umāsvāti, trans. Nathmal Tatia, That Which Is"
+      },
+      {
+        "text": "Jīva-vicāra Prakaraṇa (classification of living beings by senses)",
+        "source": "Śāntisūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jīva (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Jiva_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "the Jain doctrine of jīva and its classification by number of senses"
+    },
+    {
+      "title": "Tattvartha Sutra",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "canonical sense-based classification of beings (2.10–2.14), ekendriya through pañcendriya"
+    },
+    {
+      "title": "Ahimsa in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "the link between the indriya-graded life hierarchy and the practice of non-harm"
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "The terms are standard Ardhamāgadhī forms and uncontested in meaning; the only minor variation across editions is orthographic (e.g. beindiyā / baindiyā, chaürindiyā / caurindiyā) and in the illustrative example-species traditionally assigned to each class, which differ slightly between commentaries. The plural -ā ending here functions as the object-list governed by virāhiyā in the preceding verse; some recensions read the list with nominative force as a standalone enumeration — sense is unaffected."
+}

@@ -1,0 +1,164 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "O people — if you long to be rid of all suffering and to find the true source of happiness, then wholeheartedly take shelter in Ajita and Śānti, the two Jinas who give fearlessness.",
+  "recitation": "purisā jai dukkha-vāraṇaṁ, jai a vimaggaha sukkha-kāraṇaṁ. ajiaṁ saṁti ca bhāvao, abhaya-kare saraṇaṁ pavajjaha.",
+  "wordByWord": [
+    {
+      "token": "પુરિસા",
+      "translit": "purisā",
+      "gloss": "O men! O people!",
+      "partOfSpeech": "noun",
+      "etymology": "Vocative plural of purisa, Prakrit for Sanskrit puruṣa ('man, person').",
+      "notes": "Marks the verse's turn from praise to direct exhortation — the poet now addresses the listener face-to-face."
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit for Sanskrit yadi ('if'); opens a conditional clause.",
+      "notes": "Not jina/'victor' — purely the conditional 'if', paired with its echo in the next pāda."
+    },
+    {
+      "token": "દુક્ખવારણં",
+      "translit": "dukkha-vāraṇaṁ",
+      "gloss": "the warding-off of suffering",
+      "partOfSpeech": "compound",
+      "etymology": "dukkha (Skt. duḥkha, 'suffering') + vāraṇa (√vṛ, 'to ward off, prevent'); accusative singular as the object sought.",
+      "notes": "A verb of seeking is elided here and supplied from the parallel second clause (vimaggaha)."
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "and if",
+      "partOfSpeech": "particle",
+      "etymology": "Repetition of yadi, balancing the two conditions.",
+      "notes": "The doubled 'if…if' yokes a negative goal (removal of pain) to a positive one (gaining joy)."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and; also",
+      "partOfSpeech": "particle",
+      "etymology": "Reduced connective, Prakrit for Sanskrit ca/atha ('and, moreover').",
+      "notes": "Links the second condition to the first."
+    },
+    {
+      "token": "વિમગ્ગહ",
+      "translit": "vimaggaha",
+      "gloss": "you seek, you search for",
+      "partOfSpeech": "verb",
+      "etymology": "2nd person plural, from vi + √mārg (Skt. vimārgayati, 'to seek, look for, investigate').",
+      "notes": "Governs both objects — dukkha-vāraṇaṁ (by ellipsis) and sukkha-kāraṇaṁ."
+    },
+    {
+      "token": "સુક્ખકારણં",
+      "translit": "sukkha-kāraṇaṁ",
+      "gloss": "the cause of happiness",
+      "partOfSpeech": "compound",
+      "etymology": "sukkha (Skt. sukha, 'happiness, well-being') + kāraṇa ('cause, source'); accusative singular.",
+      "notes": "Deliberately mirrors dukkha-vāraṇaṁ in sound and shape — the two halves of the seeker's aim."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "Ajita (the second Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Accusative of Ajia (Skt. Ajita, 'the unconquered'); the object of refuge.",
+      "notes": "By the hymn's title-pun, also carries the sense 'the invincible'."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti (the sixteenth Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Accusative of Saṁti (Skt. Śānti, 'peace'); the second object of refuge.",
+      "notes": "Read with ajiaṁ, 'ajia-saṁti' simultaneously names two Jinas and 'invincible peace'."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Sanskrit ca, copulative 'and'.",
+      "notes": "Joins Ajita and Śānti as the paired objects of refuge."
+    },
+    {
+      "token": "ભાવઓ",
+      "translit": "bhāvao",
+      "gloss": "from the heart, with sincere devotion",
+      "partOfSpeech": "adverb",
+      "etymology": "Adverbial/ablative of bhāva ('inner disposition, feeling'), Skt. bhāvataḥ ('truly, sincerely').",
+      "notes": "Stresses that the refuge must be inward (bhāva), not mere outward gesture (dravya)."
+    },
+    {
+      "token": "અભયકરે",
+      "translit": "abhaya-kare",
+      "gloss": "the bestowers of fearlessness",
+      "partOfSpeech": "compound",
+      "etymology": "abhaya ('fearlessness') + kara ('maker, giver'); accusative, qualifying the two Jinas.",
+      "notes": "Names the precise gift the refuge yields — abhaya, the supreme dāna in Jain ethics."
+    },
+    {
+      "token": "સરણં",
+      "translit": "saraṇaṁ",
+      "gloss": "refuge, shelter",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit for Sanskrit śaraṇa ('protection, refuge'); accusative, object of pavajjaha.",
+      "notes": "Forms the idiom 'saraṇaṁ pavajjaha' — 'resort to as refuge'."
+    },
+    {
+      "token": "પવજ્જહ",
+      "translit": "pavajjaha",
+      "gloss": "take! resort to! go to!",
+      "partOfSpeech": "verb",
+      "etymology": "2nd person plural imperative, from pa + √vraj (Skt. pravrajati, 'to go forth, betake oneself to').",
+      "notes": "Literally 'go forth (to)'; with saraṇaṁ it means 'take refuge' — the verse's main command and climax."
+    }
+  ],
+  "literalTranslation": "O men — if (you seek) the warding-off of suffering, and if you seek the cause of happiness, then Ajita and Śānti, the makers of fearlessness, take as your refuge from the heart.",
+  "idiomaticTranslation": "O people! If you would ward off every suffering, and if you would seek the very wellspring of happiness, then with all your heart take refuge in Ajita and Śānti, the two givers of fearlessness.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the hinge where adoration becomes appeal. Having extolled the two Jinas, the poet now wheels around and addresses the congregation directly — 'purisā!' — and frames a single, irresistible argument as a balanced conditional: jai…jai a, 'if…and if.' The two protases are mirror images: dukkha-vāraṇaṁ (the warding-off of suffering) and sukkha-kāraṇaṁ (the cause of happiness), the negative and positive faces of every being's deepest wish, sealed by near-rhyme (vāraṇaṁ / kāraṇaṁ). Whatever you seek — to escape pain or to grasp joy — the verse insists there is one answer. That answer arrives as the imperative pavajjaha, 'take refuge,' the grammatical and emotional climax. The objects are 'ajiaṁ saṁti' — and here the hymn's signature double-meaning does quiet work: to take refuge in Ajita-and-Śānti is, by the very sound of their names, to take refuge in invincible-peace. The single adverb bhāvao is doing the heaviest lifting: refuge is to be taken from the heart, with genuine inner feeling, not as rote performance. Finally abhaya-kare names exactly what the refuge confers — fearlessness — answering the suffering and craving of the protases at their root, since fear is the soil in which both grow. The verse thus completes the vv.4–6 movement of urging refuge and primes the explicit Ajita-then-Śānti alternation that follows.",
+    "doctrinalContext": "The verse rests on the Jain understanding of śaraṇa: a Jina is not a boon-granting deity but the supreme exemplar and guide, so 'refuge' means orienting one's whole disposition toward the liberated ideal he embodies. The promised fruit, abhaya (fearlessness), is doctrinally weighty — abhaya-dāna, the gift of fearlessness, is reckoned the highest gift in Jain ethics, the inner correlate of ahiṁsā; one who is established in non-harm is freed from fear and gives freedom from fear. The twin conditions map onto the two poles of the path: nivṛtti, the cessation of suffering (karmic affliction), and the attainment of true, undeceiving happiness. Crucially, bhāvao foregrounds the Jain primacy of bhāva over dravya — inner intention over outward act: refuge bears fruit only when wholehearted.",
+    "practicalRelevance": "Recited within the Pakkhī rite, this verse converts chanting into self-examination: the reciter is being asked, point-blank, what they actually want — relief from suffering, or its source in lasting happiness — and then told the same gateway serves both. The word bhāvao is the personal checkpoint: am I taking refuge merely with my lips, or from the heart? Said sincerely, the line is a renewal of the practitioner's foundational orientation toward the Jina-ideal and toward fearlessness in daily conduct.",
+    "crossReferences": [
+      {
+        "text": "Catuḥśaraṇa Prakīrṇaka — 'cattāri saraṇaṁ pavajjāmi' (I take the fourfold refuge: Arihanta, Siddha, Sāhu, Kevali-paṇṇatta dhamma)",
+        "source": "Catuḥśaraṇa Painnaya (Śvetāmbara Prakīrṇaka canon)"
+      },
+      {
+        "text": "Logassa — invocation of the 24 Jinas for 'ārogga-bohi-lābha' and serene welfare, the same refuge-for-relief logic",
+        "source": "Āvaśyaka-sūtra (Caturviṁśati-stava)"
+      },
+      {
+        "text": "Abhaya-dāna as the foremost gift; fearlessness as the inner face of ahiṁsā",
+        "source": "Jain ethical tradition (cf. Bhaktāmara Stotra, refuge-from-fear stanzas)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens: puruṣa, yadi, duḥkha, vāraṇa, vi-mārg, sukha, kāraṇa, bhāva(taḥ), abhaya, kara, śaraṇa, pra-√vraj."
+    },
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Ajita as the 2nd Tīrthaṅkara and the meaning 'invincible/unconquered' behind 'ajiaṁ'."
+    },
+    {
+      "title": "Shantinatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Śānti as the 16th Tīrthaṅkara, deity of peace invoked to avert calamity — supporting the sense of 'saṁti' and the verse's refuge-for-relief theme."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse text preserved verbatim from the book, including orthographic variants (single/doubled conjuncts, anusvāra). 'જઇ' (jai) is read as the conditional yadi ('if'), not 'jina/victor'; the doubled jai…jai a is a balanced 'if…and if'. 'અ' (a) is taken as the reduced connective ca ('and'). 'વિમગ્ગહ' and 'પવજ્જહ' are read as 2nd-person-plural imperatives addressed to 'purisā'; some recensions treat vimaggaha as a present indicative ('you seek'). A verb of seeking is elided in the first protasis (dukkhavāraṇaṁ) and supplied from the parallel clause. 'અભયકરે' (abhaya-kare) is accusative qualifying the two Jinas; an alternative parse takes it as locative ('in the fearlessness-makers') with negligible change in sense. The standard reading across editions is the conditional 'if you seek removal of suffering / the cause of happiness — take refuge in Ajita and Śānti.'"
+}

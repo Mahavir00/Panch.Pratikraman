@@ -1,0 +1,335 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/09",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "આ ગાથામાં જિન (શાંતિનાથ)ની રાજવી ભવ્યતા ને દિવ્ય સૌંદર્યનું વર્ણન છે — છાતી હાથીના ઉન્નત ગંડસ્થળ જેવી વિશાળ, ચાલ ઉત્તમ ગંધહસ્તી જેવી, શરીર શુદ્ધ સોના જેવું તેજસ્વી ને વાણી દેવ-દુંદુભિથીય મધુર છે.",
+  "recitation": "સાવત્થિ પુવ્વ પત્થિવં ચ, વરહત્થિ મત્થય પસત્થ વિચ્છિન્ન સંથિઅં; થિર સરિચ્છ વચ્છં, મયગલ લીલાયમાણ વરગંધહત્થિ પત્થાણ પત્થિયં; સંથવારિહં હત્થિ હત્થબાહું, ધંત કણગ રુઅગ નિરુવહય પિંજરં; પવર લક્ખણોવચિય સોમ ચારુરુવં, સુઇ સુહ મણાભિરામ પરમ રમણિજ્જ; વર દેવ દુંદુહિ નિનાય મહુરયર સુહગિરં.",
+  "wordByWord": [
+    {
+      "token": "સાવત્થિ",
+      "translit": "sāvatthi",
+      "gloss": "શ્રાવસ્તી નગરી (પ્રાકૃત રૂપ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sāvatthī < સં. śrāvastī; પ્રાચીન રાજનગરી",
+      "notes": "અહીં 'પૂર્વે રાજા' સાથે જોડાઈ 'જે પૂર્વે (શ્રાવસ્તી/રાજનગરીના) રાજા હતા' એવો ભાવ; પાઠ-વાચન અંગે જુઓ notes."
+    },
+    {
+      "token": "પુવ્વ",
+      "translit": "puvva",
+      "gloss": "પૂર્વે, અગાઉ (દીક્ષા-પૂર્વેની અવસ્થામાં)",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. puvva < સં. pūrva"
+    },
+    {
+      "token": "પત્થિવં",
+      "translit": "patthivaṃ",
+      "gloss": "પાર્થિવ = રાજા, ભૂમિપતિ (દ્વિતીયા વિભક્તિ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. patthiva < સં. pārthiva (પૃથ્વી-પતિ)"
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "અને (સંયોજક અવ્યય)",
+      "partOfSpeech": "particle",
+      "etymology": "સં. ca"
+    },
+    {
+      "token": "વરહત્થિ",
+      "translit": "varahatthi",
+      "gloss": "શ્રેષ્ઠ હાથી",
+      "partOfSpeech": "compound",
+      "etymology": "vara (શ્રેષ્ઠ) + hatthi < સં. hastin (હાથી)"
+    },
+    {
+      "token": "મત્થય",
+      "translit": "matthaya",
+      "gloss": "મસ્તક = હાથીનું ઉન્નત ગંડસ્થળ/કુંભસ્થળ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. matthaya < સં. mastaka"
+    },
+    {
+      "token": "પસત્થ",
+      "translit": "pasattha",
+      "gloss": "પ્રશસ્ત, વખાણવા યોગ્ય, ઉત્તમ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. pasattha < સં. praśasta"
+    },
+    {
+      "token": "વિચ્છિન્ન",
+      "translit": "vicchinna",
+      "gloss": "વિસ્તીર્ણ, વિશાળ, પહોળું",
+      "partOfSpeech": "adj",
+      "etymology": "સં. vicchinna; અહીં 'વિસ્તૃત/પહોળું' અર્થમાં"
+    },
+    {
+      "token": "સંથિઅં",
+      "translit": "saṃthiaṃ",
+      "gloss": "સંસ્થિત, સુગ્રથિત, સુબદ્ધ (ઘાટીલું)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. saṃthia < સં. saṃsthita"
+    },
+    {
+      "token": "થિર",
+      "translit": "thira",
+      "gloss": "સ્થિર, દૃઢ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. thira < સં. sthira"
+    },
+    {
+      "token": "સરિચ્છ",
+      "translit": "saricchа",
+      "gloss": "સદૃશ, સમાન (તે ગંડસ્થળ જેવું)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. saricchа < સં. sadṛkṣa / sadṛśa"
+    },
+    {
+      "token": "વચ્છં",
+      "translit": "vacchaṃ",
+      "gloss": "વક્ષ:સ્થળ, છાતી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. vaccha < સં. vakṣas"
+    },
+    {
+      "token": "મયગલ",
+      "translit": "mayagala",
+      "gloss": "મદગલ = જેના ગંડસ્થળમાંથી મદ (દાન) ઝરે છે તે મત્ત હાથી",
+      "partOfSpeech": "compound",
+      "etymology": "mada (મદ) + gala (ઝરવું) < સં. mada-gala"
+    },
+    {
+      "token": "લીલાયમાણ",
+      "translit": "līlāyamāṇa",
+      "gloss": "લીલાપૂર્વક ઝૂમતો/વિહરતો",
+      "partOfSpeech": "adj",
+      "etymology": "સં. līlāyamāna (līlā પરથી નામધાતુ-કૃદન્ત)"
+    },
+    {
+      "token": "વરગંધહત્થિ",
+      "translit": "varagandhahatthi",
+      "gloss": "શ્રેષ્ઠ ગંધહસ્તી (જેની ગંધમાત્રથી અન્ય હાથી ભાગે એવો મહાગજ)",
+      "partOfSpeech": "compound",
+      "etymology": "vara + gandha (સુગંધ/મદગંધ) + hatthi < સં. gandhahastin"
+    },
+    {
+      "token": "પત્થાણ",
+      "translit": "patthāṇa",
+      "gloss": "પ્રસ્થાન = ગતિ, ચાલ, પ્રયાણ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. patthāṇa < સં. prasthāna"
+    },
+    {
+      "token": "પત્થિયં",
+      "translit": "patthiyaṃ",
+      "gloss": "પ્રસ્થિત = (એ ચાલે) ચાલનાર, આગળ વધનાર",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. patthia < સં. prasthita"
+    },
+    {
+      "token": "સંથવારિહં",
+      "translit": "saṃthavārihaṃ",
+      "gloss": "સંસ્તવ-અર્હ = સ્તુતિને યોગ્ય",
+      "partOfSpeech": "adj",
+      "etymology": "saṃthava < સં. saṃstava (સ્તુતિ) + ariha < સં. arha (યોગ્ય)"
+    },
+    {
+      "token": "હત્થિ",
+      "translit": "hatthi",
+      "gloss": "હાથી (અહીં 'હાથીની સૂંઢ' અર્થ-સંકેત)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. hatthi < સં. hastin"
+    },
+    {
+      "token": "હત્થબાહું",
+      "translit": "hatthabāhuṃ",
+      "gloss": "હાથીની સૂંઢ સમાન (દીર્ઘ-પુષ્ટ) ભુજાવાળા",
+      "partOfSpeech": "compound",
+      "etymology": "hattha (હાથ/સૂંઢ) + bāhu (ભુજા) < સં. hasta-bāhu"
+    },
+    {
+      "token": "ધંત",
+      "translit": "dhaṃta",
+      "gloss": "ધમેલું, અગ્નિમાં તપાવી શુદ્ધ કરેલું",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. dhaṃta < સં. dhmāta (ધમવું)"
+    },
+    {
+      "token": "કણગ",
+      "translit": "kaṇaga",
+      "gloss": "કનક, સોનું",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. kaṇaga < સં. kanaka"
+    },
+    {
+      "token": "રુઅગ",
+      "translit": "ruaga",
+      "gloss": "રુચક = શુદ્ધ સુવર્ણ / સુવર્ણ-આભૂષણ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. ruaga < સં. rucaka"
+    },
+    {
+      "token": "નિરુવહય",
+      "translit": "niruvahaya",
+      "gloss": "નિરુપહત = નિર્દોષ, અખંડિત, મલિનતા-રહિત",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. niruvahaya < સં. nirupahata"
+    },
+    {
+      "token": "પિંજરં",
+      "translit": "piṃjaraṃ",
+      "gloss": "પિંગળ = સોનેરી-પીળાશ પડતો તેજસ્વી વર્ણ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. piñjara"
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "પ્રવર, શ્રેષ્ઠ, ઉત્તમ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. pavara < સં. pravara"
+    },
+    {
+      "token": "લક્ખણોવચિય",
+      "translit": "lakkhaṇovaciya",
+      "gloss": "ઉત્તમ લક્ષણોથી યુક્ત/અલંકૃત",
+      "partOfSpeech": "compound",
+      "etymology": "lakkhaṇa < સં. lakṣaṇa + uvaciya < સં. upacita (સંચિત/યુક્ત)"
+    },
+    {
+      "token": "સોમ",
+      "translit": "soma",
+      "gloss": "સૌમ્ય, શીતળ, ચંદ્ર સમ પ્રસન્ન",
+      "partOfSpeech": "adj",
+      "etymology": "સં. soma (ચંદ્ર/સૌમ્ય)"
+    },
+    {
+      "token": "ચારુરુવં",
+      "translit": "cāruruvaṃ",
+      "gloss": "ચારુ રૂપ = મનોહર, સુંદર સ્વરૂપ",
+      "partOfSpeech": "compound",
+      "etymology": "cāru (મનોહર) + ruva < સં. rūpa"
+    },
+    {
+      "token": "સુઇ",
+      "translit": "sui",
+      "gloss": "શ્રુતિ = કાન, શ્રવણ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sui < સં. śruti"
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "સુખ, સુખકર",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. suha < સં. sukha"
+    },
+    {
+      "token": "મણાભિરામ",
+      "translit": "maṇābhirāma",
+      "gloss": "મનને આનંદ આપનાર, મનોહર",
+      "partOfSpeech": "compound",
+      "etymology": "maṇa < સં. manas + abhirāma (રમ્ય)"
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "પરમ, અત્યંત",
+      "partOfSpeech": "adj",
+      "etymology": "સં. parama"
+    },
+    {
+      "token": "રમણિજ્જ",
+      "translit": "ramaṇijja",
+      "gloss": "રમણીય, અતિ મનોહર",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. ramaṇijja < સં. ramaṇīya"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "શ્રેષ્ઠ, ઉત્તમ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. vara"
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "દેવ, દિવ્ય",
+      "partOfSpeech": "noun",
+      "etymology": "સં. deva"
+    },
+    {
+      "token": "દુંદુહિ",
+      "translit": "duṃduhi",
+      "gloss": "દુંદુભિ = નગારું, દિવ્ય ભેરી/વાદ્ય",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. duṃduhi < સં. dundubhi"
+    },
+    {
+      "token": "નિનાય",
+      "translit": "nināya",
+      "gloss": "નિનાદ = ગંભીર ધ્વનિ, ગર્જના",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. nināya < સં. nināda"
+    },
+    {
+      "token": "મહુરયર",
+      "translit": "mahurayara",
+      "gloss": "મધુરતર = (દુંદુભિ-નાદથીય) વધારે મીઠો",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. mahura < સં. madhura + તર (તુલનાવાચક પ્રત્યય)"
+    },
+    {
+      "token": "સુહગિરં",
+      "translit": "suhagiraṃ",
+      "gloss": "સુખકર વાણી/સ્વરવાળા",
+      "partOfSpeech": "compound",
+      "etymology": "suha < સં. sukha + gira < સં. gir (વાણી)"
+    }
+  ],
+  "literalTranslation": "(જે) પૂર્વે પાર્થિવ (રાજા) હતા; શ્રેષ્ઠ હાથીના મસ્તક (ગંડસ્થળ) જેવી પ્રશસ્ત, વિશાળ ને સુગ્રથિત — સ્થિર ને તે-સદૃશ વક્ષ:સ્થળવાળા; મદ ઝરતા, લીલાથી ઝૂમતા શ્રેષ્ઠ ગંધહસ્તીની ચાલે ચાલનારા; સ્તુતિને યોગ્ય, હાથીની સૂંઢ સમાન ભુજાવાળા; ધમેલા-શુદ્ધ કનક ને નિર્મળ રુચક-સુવર્ણ જેવા સોનેરી વર્ણવાળા; ઉત્તમ લક્ષણોથી યુક્ત, સૌમ્ય ને મનોહર રૂપવાળા; કાનને સુખકર, મનને રમ્ય, પરમ રમણીય, ને શ્રેષ્ઠ દેવ-દુંદુભિના નિનાદથીય મધુરતર સુખકર વાણીવાળા (એવા જિનને હું સ્તવું છું).",
+  "idiomaticTranslation": "પૂર્વાવસ્થામાં મહાન રાજવી રહેલા એ જિનેશ્વર — જેમનું વક્ષ:સ્થળ શ્રેષ્ઠ હાથીના ઉન્નત ગંડસ્થળ સમું પ્રશસ્ત, વિશાળ, સુગ્રથિત ને સ્થિર છે; જેમની ગતિ મદ ઝરતા, લીલાથી ઝૂમતા ઉત્તમ ગંધહસ્તીની ભવ્ય ચાલ સમી છે; જે સ્તુતિને સર્વથા યોગ્ય છે ને જેમની ભુજાઓ હાથીની સૂંઢ સમી દીર્ઘ-બળવાન છે; જેમનો વર્ણ અગ્નિમાં ધમેલા નિર્મળ શુદ્ધ સુવર્ણ જેવો સોનેરી-તેજસ્વી છે; જે ઉત્તમ લક્ષણોથી અલંકૃત, સૌમ્ય ને મનોહર સ્વરૂપવાળા છે; અને જેમની વાણી કાનને સુખ આપનારી, મનને રમ્ય, પરમ રમણીય ને શ્રેષ્ઠ દેવ-દુંદુભિના નિનાદથીય મધુરતર છે — એવા એ શાંતિજિનને હું ભાવથી સ્તવું છું.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ આખી ગાથા દ્વિતીયા-વિભક્તિના વિશેષણોની એક અખંડ માલા છે; એમાં ક્રિયાપદ (પ્રણિપાત/સ્તુતિ) આ ગાથામાં નથી — તે અનુગામી ગાથામાં 'પણમામિ અહં પયઓ' રૂપે પૂરી થાય છે. અહીં જિનના દેહ-સૌંદર્યનું ચિત્ર ત્રણ ઉપમા-સમૂહોથી દોરાય છે. (૧) ગજ-ઉપમા: છાતી શ્રેષ્ઠ હાથીના વિશાળ ગંડસ્થળ જેવી પ્રશસ્ત ને સ્થિર; ચાલ મદ ઝરતા, લીલાથી ઝૂમતા ગંધહસ્તીની — જે ગંધહસ્તીની ગંધમાત્રથી અન્ય હાથી ભાગે, એ અપ્રતિહત રાજવૈભવનું પ્રતીક; ભુજાઓ સૂંઢ સમી દીર્ઘ-પુષ્ટ. (૨) સુવર્ણ-ઉપમા: વર્ણ અગ્નિમાં ધમેલા, નિર્મળ, અખંડિત રુચક-સુવર્ણ જેવો — સોના-વાચક શબ્દો (ધંત, કણગ, રુઅગ, પિંજર) એક પર એક મૂકી તપ્ત-કાંચન જેવી દિવ્ય દીપ્તિ ઘૂંટવામાં આવી છે. (૩) લક્ષણ ને સ્વર: ઉત્તમ લક્ષણોથી અલંકૃત, સૌમ્ય-ચારુ રૂપ, ને દેવ-દુંદુભિના નાદથીય મધુરતર વાણી. ભાવ-ગતિ બાહ્યથી અંતર ભણી વહે છે — પ્રચંડ રાજ-મહિમા (હાથી) → નિર્મળ તેજ (સોનું) → કાન ને મનને શાંત-રમ્ય કરનારી સૌમ્યતા (સોમ, સુઇ-સુહ, સુહગિર). આમ ઉગ્ર વૈભવ છેવટે 'શાંતિ'માં વિરમે છે — જે શાંતિનાથના નામને જ સાર્થક કરે છે. 'પુવ્વ પત્થિવ' એમના રાજવી (ચક્રવર્તી) પૂર્વ-જીવનને માત્ર સ્મરી, તેને જિન-મહિમા સામે ગૌણ ઠેરવે છે; ને 'દેવ-દુંદુહિ' સમવસરણના દિવ્ય વાદ્યનો સંકેત આપે છે.",
+    "doctrinalContext": "ગાથા જિનના દેહને માત્ર સૌંદર્ય નહિ, પણ પુણ્ય-પ્રકર્ષનું મૂર્ત રૂપ ગણાવે છે — મહાપુરુષનાં શુભ લક્ષણો (લક્ખણ), વિશાળ વક્ષ ને ગજ-ગતિ એ ઉત્તમ-પુરુષ-લક્ષણો છે; તપ્ત-સુવર્ણ-વર્ણ તીર્થંકરના વિશિષ્ટ પુણ્ય-દેહનું ચિહ્ન છે. 'દેવ-દુંદુભિ' તીર્થંકરના અષ્ટ-મહાપ્રાતિહાર્યમાંનું એક છે, ને જિન-વાણીને તેથીય મધુર કહેવી એ વાણીના અતિશયનો નિર્દેશ છે. બાહ્ય રૂપ અંતરંગ સિદ્ધિનું દર્પણ — એ જૈન દૃષ્ટિ અહીં અધ્યાહૃત છે.",
+    "practicalRelevance": "પાઠ કરનાર આ વર્ણન ભાવપૂર્વક મનમાં દોરી, ઉપાસ્ય જિનનું પ્રસન્ન-સૌમ્ય રૂપ ધારી શકે; 'સોમ', 'સુઇ-સુહ' ને 'મહુરયર સુહગિર' પર ધ્યાન કેન્દ્રિત કરી ઉગ્રતા-ભરેલા ચિત્તને શાંતિ ભણી વાળવાનો અભ્યાસ કરે — સ્તવ-નામ 'શાંતિ'ને જ આત્મસાત્ કરવાનો ઉપક્રમ.",
+    "crossReferences": [
+      {
+        "text": "અષ્ટ-મહાપ્રાતિહાર્ય — દેવ-દુંદુભિ સહિત (ચૈત્યવંદન-પરંપરા)",
+        "source": "શ્વેતાંબર ચૈત્યવંદન-ભાષ્ય પરંપરા"
+      },
+      {
+        "text": "લોગસ્સ — ચોવીસ તીર્થંકરોની સ્તુતિ (દેહ-લક્ષણ ને નામ-સ્મરણ)",
+        "source": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (અંચલગચ્છ આવૃત્તિ)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Savatthi (Sāvatthī) — definition (Jainism/Prakrit/Pali)",
+      "url": "https://www.wisdomlib.org/definition/savatthi",
+      "type": "dictionary",
+      "consultedFor": "સાવત્થી = શ્રાવસ્તી નગરી; પ્રાકૃત-સંસ્કૃત રૂપ"
+    },
+    {
+      "title": "Gandhahastin (Gandhahasti) — definition",
+      "url": "https://www.wisdomlib.org/definition/gandhahastin",
+      "type": "dictionary",
+      "consultedFor": "ગંધહસ્તી = સુગંધિત-મદ-ગંધવાળો શ્રેષ્ઠ મહાગજ; ઉપમાર્થ"
+    },
+    {
+      "title": "Dundubhi — definition (musical/divine drum)",
+      "url": "https://www.wisdomlib.org/definition/dundubhi",
+      "type": "dictionary",
+      "consultedFor": "દુંદુભિ = દિવ્ય નગારું/ભેરી; નિનાદ-ઉપમા"
+    },
+    {
+      "title": "Rucaka — definition (pure gold / ornament)",
+      "url": "https://www.wisdomlib.org/definition/rucaka",
+      "type": "dictionary",
+      "consultedFor": "રુચક = શુદ્ધ સુવર્ણ/સુવર્ણ-આભૂષણ; વર્ણ-ઉપમા"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "(૧) 'સાવત્થિ' (sāvatthī) શબ્દનું પ્રચલિત રૂપ 'શ્રાવસ્તી' નગરી છે, તેથી અહીં 'સાવત્થિ પુવ્વ પત્થિવં' = 'જે પૂર્વે (શ્રાવસ્તીના/રાજનગરીના) રાજા હતા' એમ લીધું છે. પ્રસ્તાવનામાં શાંતિનાથનું ચક્રવર્તી-વૈભવ હસ્તિનાપુર સાથે જોડ્યું છે; શ્રાવસ્તી vs હસ્તિનાપુરનો આ ભેદ પાઠ-ભેદ કે સામાન્ય 'રાજનગરી' અર્થે પ્રયોગ હોઈ શકે — અનિશ્ચિત તરીકે નોંધેલ. (૨) આ ગાથા એ ક્રિયાપદ-રહિત વિશેષણ-માલા છે; સ્તુતિ/પ્રણિપાતનું ક્રિયાપદ અનુગામી ગાથામાં આવે છે. (૩) 'વિચ્છિન્ન' અહીં 'વિચ્છેદ' નહિ પણ 'વિસ્તીર્ણ/વિશાળ' અર્થમાં લીધું છે; 'સંથિઅં'ને 'સંસ્થિત/સુગ્રથિત' ગણ્યું. (૪) મૂળ પાઠની માત્રા, અનુસ્વાર ને સંયુક્તાક્ષરો પુસ્તક પ્રમાણે વેરિએટિમ રાખ્યાં છે; છંદ-લય ગાથા-ભેદે બદલાય તે સ્વાભાવિક છે."
+}

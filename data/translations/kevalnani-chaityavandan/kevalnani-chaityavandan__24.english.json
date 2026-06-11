@@ -1,0 +1,166 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The poet Vācaka Mūlā prays: \"Lord, always grant me good understanding; absorbed in your teaching, I sing your praise, O revered Jina.\"",
+  "recitation": "'vācaka mūlā' kahe deva, deo sumati sadā muj. jinavacane huṁ līna thaï, gāuṁ jinajī tuj",
+  "wordByWord": [
+    {
+      "token": "'વાચક મૂલા'",
+      "translit": "'vācaka mūlā'",
+      "gloss": "Vācaka Mūlā (the poet, by name and monastic rank)",
+      "partOfSpeech": "invocation",
+      "etymology": "vācaka, the Upādhyāya/preceptor rank, from √vac 'to speak'; Mūlā the author's personal name — his poetic signature (bhaṇitā/chāpa)",
+      "notes": "The single quotes mark the poet naming himself; functions as the closing signature."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says, speaks",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati/Apabhraṁśa kahaï, from Prakrit kahei < Sanskrit kathayati 'tells, says'",
+      "notes": "Third-person; the poet refers to himself in the third person, as is conventional in the signature."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "O Lord, O Divine One (the Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit deva 'shining one, deity', from √div 'to shine'",
+      "notes": "Vocative address to the Jina; here a term of reverent address, not a heavenly god."
+    },
+    {
+      "token": "દેઓ",
+      "translit": "deo",
+      "gloss": "grant, give (please bestow)",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati respectful imperative of devuṁ 'to give', from Prakrit deï < Sanskrit dadāti",
+      "notes": "Honorific/polite imperative addressed to the Lord."
+    },
+    {
+      "token": "સુમતિ",
+      "translit": "sumati",
+      "gloss": "good understanding, right intelligence",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit su- 'good, right' + mati 'mind, thought' (from √man 'to think')",
+      "notes": "The boon requested — discerning wisdom that keeps the devotee on the path."
+    },
+    {
+      "token": "સદા",
+      "translit": "sadā",
+      "gloss": "always, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit sadā 'always', preserved unchanged in Gujarati",
+      "notes": ""
+    },
+    {
+      "token": "મુજ",
+      "translit": "muj",
+      "gloss": "to me, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Archaic/poetic Gujarati first-person oblique, from Apabhraṁśa majjha < Sanskrit mama 'my/mine'",
+      "notes": "Dative sense here: 'grant to me'."
+    },
+    {
+      "token": "જિનવચને",
+      "translit": "jinavacane",
+      "gloss": "in the Jina's word (teaching)",
+      "partOfSpeech": "compound",
+      "etymology": "jina 'conqueror, Tīrthaṅkara' + vacana 'speech, utterance' (from √vac); locative -e 'in'",
+      "notes": "Locative governing līna: 'absorbed IN the Jina's word'."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person nominative huṁ, from Apabhraṁśa hauṁ < Sanskrit aham",
+      "notes": ""
+    },
+    {
+      "token": "લીન",
+      "translit": "līna",
+      "gloss": "absorbed, immersed, merged",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit līna, past participle of √lī 'to cling, dissolve, become absorbed'",
+      "notes": "Connotes complete devotional/meditative absorption."
+    },
+    {
+      "token": "થઇ",
+      "translit": "thaï",
+      "gloss": "having become",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati absolutive of thavuṁ 'to become', from Prakrit thā- < Sanskrit sthā 'to stand, be'",
+      "notes": "Forms 'having become absorbed' with līna — a conjunctive participle."
+    },
+    {
+      "token": "ગાઉં",
+      "translit": "gāuṁ",
+      "gloss": "I sing (your praise)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati first-person present of gāvuṁ 'to sing', from Prakrit gā- < Sanskrit gāyati (√gai)",
+      "notes": ""
+    },
+    {
+      "token": "જિનજી",
+      "translit": "jinajī",
+      "gloss": "O revered Jina",
+      "partOfSpeech": "noun",
+      "etymology": "jina + honorific particle -jī (Indic respect suffix)",
+      "notes": "Affectionate-respectful vocative to the Jina."
+    },
+    {
+      "token": "તુજ",
+      "translit": "tuj",
+      "gloss": "you / your (of you)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Archaic/poetic Gujarati second-person oblique, from Apabhraṁśa tujjha < Sanskrit tava 'your'",
+      "notes": "Object of gāuṁ: 'I sing of you / your praise'."
+    }
+  ],
+  "literalTranslation": "'Vācaka Mūlā' says: O Lord, grant me good understanding always; having become absorbed in the Jina's word, I sing of you, O revered Jina.",
+  "idiomaticTranslation": "Vācaka Mūlā prays: O Lord, bestow on me right understanding for ever; lost in your teaching, I sing your praise, O beloved Jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the dhāla's signature stanza, where the poet steps forward in his own name to seal the section with a personal prayer. After the preceding verse's vast census of uncountable Jina-images and shrines ('asaṅkhyā paḍimā jinataṇī') — an outward sweep across the cosmos — the poet now turns sharply inward and upward: from counting the boundless to asking for one small, vital gift, sumati, 'right understanding.' The movement is deliberate. Having stood before immensity, the finite self does not ask for wealth, heaven, or even liberation, but for the discernment to keep singing rightly. Two verbs frame the devotee's posture. He prays deo ('grant') — receptive, dependent — and then declares gāuṁ ('I sing') — active, self-offering. Between them stands the hinge phrase jinavacane līna thaï, 'having become absorbed in the Jina's word': the song is not the poet's invention but flows from immersion in the teaching itself. The boon requested (sumati) and the means named (jinavacana) are the same reality seen twice — right understanding IS absorption in the Jina's word. The intimate vocatives deva and jinajī, and the archaic muj/tuj, give the verse the warmth of direct address, closing the long hymn's cosmic grandeur on a note of personal, trembling devotion. The poet's self-naming is not pride but humility: he disappears INTO the song, claiming only the role of one who, by grace, sings.",
+    "doctrinalContext": "The verse turns on the Jaina conviction that liberating knowledge is mediated through jina-vacana — the authoritative word of the Tīrthaṅkara, the āgama. To ask for sumati is to ask for samyag-jñāna paired with samyag-darśana: an intellect rightly oriented, able to discriminate truth (the etymological force of su-mati). Crucially, the poet locates this faculty not in autonomous reasoning but in līnatā, absorptive surrender to scripture — echoing the Jaina path where right knowledge arises from and is tested against the Jina's teaching, never apart from it. Devotional singing (bhakti) is thus framed as a knowledge-practice: praise that springs from absorption purifies the singer's mati and steadies śraddhā.",
+    "practicalRelevance": "Reciting this verse, the practitioner makes the poet's prayer personal: before going out into the day's distractions, ask not for outcomes but for sumati — the clarity to keep choosing rightly — and let recitation itself be the immersion that grants it. It models a humble close to any devotion: name your dependence, then sing anyway.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 (samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ) — right knowledge as a pillar of the path, here prayed for as sumati",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "The recurring 'Vācaka Mūlā kahe' signature closing each dhāla of this caityavandana",
+        "source": "Vācaka Mūlā, Kevalnāṇī Bṛhat Caityavandana (Anchalgachchha/Vidhipaksha Panch Pratikraman ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sumati, Sumatī: 28 definitions",
+      "url": "https://www.wisdomlib.org/definition/sumati",
+      "type": "dictionary",
+      "consultedFor": "Sense and etymology of sumati (su- + mati, 'good/right understanding')."
+    },
+    {
+      "title": "Lina, Līna: 33 definitions",
+      "url": "https://www.wisdomlib.org/definition/lina",
+      "type": "dictionary",
+      "consultedFor": "Meaning of līna 'absorbed, merged, immersed' from √lī, in devotional/meditative usage."
+    },
+    {
+      "title": "Vacana, Vācanā: 26 definitions",
+      "url": "https://www.wisdomlib.org/definition/vacana",
+      "type": "dictionary",
+      "consultedFor": "Sense of vacana 'speech, utterance' underlying the compound jina-vacana."
+    },
+    {
+      "title": "Jina, Jīna: 29 definitions",
+      "url": "https://www.wisdomlib.org/definition/jina",
+      "type": "dictionary",
+      "consultedFor": "Meaning of jina 'conqueror / Tīrthaṅkara' in jinavacane and jinajī."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is in Old/poetic Gujarati, so glosses rely on Apabhraṁśa–Gujarati morphology (muj, tuj, huṁ, deo, thaï) plus Sanskrit-derived vocabulary; the Sanskrit dictionary sources corroborate the loanwords (sumati, līna, vacana, jina) but not the inflected Gujarati forms, whose readings follow standard Old Gujarati grammar. 'deva' is read as a vocative of reverent address to the Jina, not a separate celestial deity; deo could alternatively be parsed as an honorific imperative addressed to that deva, the reading adopted here. Spelling (દેઓ, ગાઉં, જિનજી) is kept verbatim per the book's orthography. The number for this verse is given as 9 in the source metadata though it is line/segment id 24 within the sutra; no doctrinal weight rests on that numbering."
+}

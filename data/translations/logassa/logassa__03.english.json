@@ -1,0 +1,168 @@
+{
+  "shlokaId": "logassa/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to eight more of the great teachers — Suvidhi (also called Puṣpadanta), Śītala, Śreyāṁsa, Vāsupūjya, Vimala, Ananta, Dharma and Śānti.",
+  "recitation": "suvihiṁ ca pupphadantaṁ, sīyala sijjaṁsa vāsupujjaṁ ca | vimala-m-aṇantaṁ ca jiṇaṁ, dhammaṁ saṁtiṁ ca vandāmi ||",
+  "wordByWord": [
+    {
+      "token": "સુવિહિં",
+      "translit": "suvihiṁ",
+      "gloss": "Suvidhi (the 9th Tīrthaṅkara) — accusative, object of vandāmi",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suvihi < Sanskrit su-vidhi, 'of good/right observance'; the 9th Jina, also titled Suvidhinātha.",
+      "notes": "His proper name; the very next token gives his alternative name."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca, the standard enumerative conjunction.",
+      "notes": "Here it links Suvidhi with his second name rather than a distinct Jina."
+    },
+    {
+      "token": "પુષ્ફદંતં",
+      "translit": "puṣphadantaṁ",
+      "gloss": "Puṣpadanta (a second name of the same 9th Tīrthaṅkara) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit puṣpa-danta, 'flower-toothed'; standard Prakrit puppha-danta. The book's reading retains ષ્ફ.",
+      "notes": "Tradition treats Suvidhi and Puṣpadanta as two names of one Jina, hence two tokens but one teacher."
+    },
+    {
+      "token": "સીયલ",
+      "translit": "sīyala",
+      "gloss": "Śītala (the 10th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīyala < Sanskrit śītala, 'cool, soothing'; the 10th Jina, Śītalanātha.",
+      "notes": "Stem form without overt case-ending, as common in this litany."
+    },
+    {
+      "token": "સિજ્જંસ",
+      "translit": "sijjaṁsa",
+      "gloss": "Śreyāṁsa (the 11th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjaṁsa < Sanskrit śreyāṁsa, 'most auspicious/excellent'; the 11th Jina, Śreyāṁsanātha.",
+      "notes": "Misread by casual sources as 'all Siddhas'; it is the proper name of the 11th Jina."
+    },
+    {
+      "token": "વાસુપુજ્જં",
+      "translit": "vāsupujjaṁ",
+      "gloss": "Vāsupūjya (the 12th Tīrthaṅkara) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāsupujja < Sanskrit vāsupūjya, 'worshipful as Vasu'; the 12th Jina.",
+      "notes": ""
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": "Closes the first line's enumeration."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala (the 13th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit vimala, 'stainless, spotless'; the 13th Jina, Vimalanātha.",
+      "notes": "The name doubles as the adjective 'stainless' — see commentary on the śleṣa."
+    },
+    {
+      "token": "મણંતં",
+      "translit": "(-m-)aṇaṁtaṁ",
+      "gloss": "Ananta (the 14th Tīrthaṅkara) — accusative, with euphonic m",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇaṁta < Sanskrit ananta, 'endless, infinite'; the 14th Jina, Anantanātha. The initial m- is a sandhi glide carried over from vimala(ṁ).",
+      "notes": "Sandhi joins vimala + aṇaṁtaṁ as vimala-m-aṇaṁtaṁ; not a separate word."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": ""
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (Victor) — accusative epithet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'one who has conquered the passions'.",
+      "notes": "A single epithet woven into the roll-call, applying the title 'Jina' to those named."
+    },
+    {
+      "token": "ધમ્મં",
+      "translit": "dhammaṁ",
+      "gloss": "Dharma (the 15th Tīrthaṅkara) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamma < Sanskrit dharma, 'law, righteous order'; the 15th Jina, Dharmanātha.",
+      "notes": "The name doubles as 'the Dharma' itself — part of the verse's wordplay."
+    },
+    {
+      "token": "સંતિં",
+      "translit": "saṁtiṁ",
+      "gloss": "Śānti (the 16th Tīrthaṅkara) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁti < Sanskrit śānti, 'peace, tranquillity'; the 16th Jina, Śāntinātha.",
+      "notes": "Name doubles as 'peace', closing the verse on a resonant note."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": ""
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I venerate / I bow to",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vandāmi < Sanskrit vande/vandāmi, root vand, 'to praise, salute, bow'; 1st person singular present.",
+      "notes": "The single finite verb governing every accusative name in the verse; v.2 used vande, this verse vandāmi."
+    }
+  ],
+  "literalTranslation": "Suvidhi, that is Puṣpadanta, and Śītala, Śreyāṁsa and Vāsupūjya; and Vimala and Ananta the Jina, Dharma and Śānti — I venerate.",
+  "idiomaticTranslation": "I bow to Suvidhi, whom we also call Puṣpadanta, and to Śītala, Śreyāṁsa and Vāsupūjya; I venerate Vimala and the Jina Ananta, and Dharma and Śānti too.",
+  "elaboration": {
+    "verseByVerseCommentary": "This second panel of the roll-call carries the count forward from Candraprabha (8th, closing v.2) to Śāntinātha (16th), so that exactly the middle eight Jinas — 9 through 16 — are gathered here. The opening pairing is the verse's one true subtlety: 'suvihiṁ ca pupphadantaṁ' does not name two teachers but one, the 9th Jina, whose canonical double-name is honoured by setting both forms side by side with ca. A reciter must not miscount him as two. What gives the verse its quiet beauty is that several of these names are also living words. Vimala means 'stainless', Ananta 'endless', Dharma 'the law', Śānti 'peace' — so the line reads simultaneously as a list of persons and as a quiet creed: the soul made stainless, infinite, established in dharma, come to peace. The single inserted epithet jiṇaṁ ('the Jina') reminds the chanter that every name in the litany, whatever its surface meaning, denotes one who has conquered the inner foes. Metrically the verse keeps the hymn's plain enumerative gait — name, ca, name — with the euphonic glide vimala-m-aṇaṁtaṁ smoothing the second line. The verb shifts from v.2's vande to vandāmi, the same act of homage in a fuller form, sustaining the unbroken first-person reverence that binds all three roll-call verses into one continuous bow.",
+    "doctrinalContext": "The verse embodies the principle that veneration in Jainism is directed not at gods who grant boons but at fully liberated exemplars — each named Jina is an arihanta-become-siddha who proves the path is walkable. The accidental-seeming aptness of the names (stainless, endless, peace) reflects the Jain conviction that the liberated soul's true nature is precisely vimala (free of karmic rust), ananta (infinite in knowledge and bliss), and śānti (utterly undisturbed); naming the Jinas is thus also naming the goal. Honouring Suvidhi and Puṣpadanta as one teacher quietly upholds scriptural fidelity over surface arithmetic.",
+    "practicalRelevance": "When reciting, hold Suvidhi/Puṣpadanta as a single bow, not two, and let the meaningful names land as aspirations — bowing to 'Vimala' as a wish for one's own stainlessness, to 'Śānti' as a prayer for inner calm. Chanted attentively, this verse turns a memory-list into eight successive acts of self-orienting reverence.",
+    "crossReferences": [
+      {
+        "text": "Caturviṁśati-stava (Logassa), Second Āvaśyaka, vv.2–4 (the roll-call of the 24)",
+        "source": "Āvaśyaka-sūtra, Ardhamāgadhī canon"
+      },
+      {
+        "text": "Names and sequence of Tīrthaṅkaras 9–16 (Suvidhi/Puṣpadanta to Śānti)",
+        "source": "Jaina universal history; cf. Dundas, The Jains, 2nd ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara (overview, names and sequence of the 24)",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical order and identity of the 24 Tīrthaṅkaras, including positions 9–16 named in this verse."
+    },
+    {
+      "title": "Shitalanatha (10th Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Shitalanatha",
+      "type": "scholarship",
+      "consultedFor": "Verifying Śītala as the 10th Jina and the meaning 'cool/soothing' of the name sīyala."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Universität zu Köln)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit root-forms underlying the Prakrit tokens (vimala, ananta, dharma, śānti, vand-) for the word-by-word glosses."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse-specific caveats: (1) 'suvihiṁ ca pupphadantaṁ' names a single Jina (the 9th) by two traditional names; ca here is appositional, not enumerative of two teachers — casual sources sometimes miscount. (2) 'sīyala sijjaṁsa' are the proper names Śītala (10th) and Śreyāṁsa (11th); one AI/web gloss wrongly rendered them as 'all Siddhas' — rejected. (3) 'મણંતં' = aṇaṁtaṁ (Ananta, 14th) with a euphonic m carried from preceding vimala(ṁ); analysed as sandhi, not a separate word. (4) Several names (Vimala 'stainless', Ananta 'endless', Dharma 'law', Śānti 'peace') are simultaneously meaningful words — an intentional resonance, treated in the commentary. (5) The book's orthography પુષ્ફદંતં (ષ્ફ) is preserved verbatim in the token; the more common Prakrit reading is puppha-dantaṁ. (6) The daṇḍa marks (।, ॥) and verse number in the source are punctuation, not glossed tokens."
+}

@@ -1,0 +1,230 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The joy that overwhelmed the two mothers when they saw the great dreams — the elephant, the bull, and the rest — announcing the holy children to come was so vast that, I feel, ordinary people simply cannot grasp it.",
+  "recitation": "yaḥ samūho mudām ajani janakāmbayos\ntāram avatāram avagamya samyag yayoḥ |\ngaja-vṛṣa-pramukha-su-svapna-sandarśanāt\ntam alam avagantum manye na manye janāḥ ||",
+  "wordByWord": [
+    {
+      "token": "ય:",
+      "translit": "yaḥ",
+      "gloss": "which (the mass of joy that…) — relative pronoun answered later by 'tam'",
+      "partOfSpeech": "pronoun",
+      "etymology": "From the relative stem ya-; nom. sg. masc. agreeing with 'samūhaḥ'.",
+      "notes": "Opens a relative–correlative frame completed by 'tam' (that) in the second line."
+    },
+    {
+      "token": "સમૂહો",
+      "translit": "samūho",
+      "gloss": "mass, multitude, swell (of joy)",
+      "partOfSpeech": "noun",
+      "etymology": "saṃ- (together) + √ūh (to gather); nom. sg. samūhaḥ, sandhi → samūho.",
+      "notes": "Subject of the verse; here a 'heap' or surging swell of joys."
+    },
+    {
+      "token": "મુદામ્",
+      "translit": "mudām",
+      "gloss": "of joys, of delights",
+      "partOfSpeech": "noun",
+      "etymology": "From mudā (joy, < √mud, to rejoice); gen. pl. mudām qualifying 'samūhaḥ' — a 'mass of joys'.",
+      "notes": "Printed sandhi-joined as મુદામજનિ (mudām + ajani)."
+    },
+    {
+      "token": "અજનિ",
+      "translit": "ajani",
+      "gloss": "arose, was born, came to be",
+      "partOfSpeech": "verb",
+      "etymology": "Aorist passive 3rd sg. of √jan (to be born); a-jani, 'it was generated'.",
+      "notes": "The main finite verb of the relative clause."
+    },
+    {
+      "token": "જનકાંબયોઃ",
+      "translit": "janakāmbayoḥ",
+      "gloss": "of the two mothers (lit. of the parents/mothers of the two)",
+      "partOfSpeech": "compound",
+      "etymology": "janaka (progenitor) + ambā (mother), gen. dual -ayoḥ; visarga → -yos before t-.",
+      "notes": "Genitive dual = the two mothers (Vijayā of Ajita, Acirā of Śānti). The element 'janaka' here functions in the sense 'parent/mother'; a reading 'jananī-' is conceivable but the book's text is honored verbatim."
+    },
+    {
+      "token": "તાર",
+      "translit": "tāram",
+      "gloss": "lofty, surpassing, exalted",
+      "partOfSpeech": "adj",
+      "etymology": "tāra (high, loud, excellent; < √tṝ, to cross over); acc. sg. tāram qualifying 'avatāram'.",
+      "notes": "Yamaka echo with the following 'avatāram'."
+    },
+    {
+      "token": "અવતાર",
+      "translit": "avatāram",
+      "gloss": "descent (of the soul into the womb), incarnation",
+      "partOfSpeech": "noun",
+      "etymology": "ava- (down) + √tṝ (to cross); acc. sg. avatāram, 'a coming-down'.",
+      "notes": "Here the cyavana/garbha event — the Jina-soul's descent into the womb. Printed split તાર + મવતાર (tāra + m-avatāram)."
+    },
+    {
+      "token": "અવગમ્ય",
+      "translit": "avagamya",
+      "gloss": "having understood, having comprehended",
+      "partOfSpeech": "verb",
+      "etymology": "ava- + √gam (to go) → 'to come to know'; gerund (absolutive) -ya.",
+      "notes": "The mothers' inferring the child's greatness from the dreams; printed as મવગમ્ય (m-avagamya)."
+    },
+    {
+      "token": "સમ્યક્",
+      "translit": "samyak",
+      "gloss": "rightly, fully, correctly",
+      "partOfSpeech": "adverb",
+      "etymology": "samyañc (proper, complete); adverbial samyak, before y- → samyag.",
+      "notes": "Modifies 'avagamya' — they grasped it truly, not vaguely. Printed સમ્યગ્યયો: (samyag + yayoḥ)."
+    },
+    {
+      "token": "યયોઃ",
+      "translit": "yayoḥ",
+      "gloss": "of the two (Jinas), whose (dual)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative stem ya-; gen. dual yayoḥ, 'of which two'.",
+      "notes": "Refers to the pair Ajita–Śānti; governs 'avatāram' (the descent of the two)."
+    },
+    {
+      "token": "ગજ",
+      "translit": "gaja",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "gaja (elephant); first member of the dream-compound.",
+      "notes": "The first of the great auspicious dreams of a Tīrthaṅkara's mother."
+    },
+    {
+      "token": "વૃષ",
+      "translit": "vṛṣa",
+      "gloss": "bull",
+      "partOfSpeech": "noun",
+      "etymology": "vṛṣa (bull, < √vṛṣ, to shower/be virile); emblem of dharma.",
+      "notes": "Second of the great dreams; also Ṛṣabha's emblem, evoking dharma."
+    },
+    {
+      "token": "પ્રમુખ",
+      "translit": "pramukha",
+      "gloss": "foremost, headed by, et cetera",
+      "partOfSpeech": "adj",
+      "etymology": "pra- (forth) + mukha (face/front); 'having … at the head'.",
+      "notes": "'Elephant, bull, and the rest' — names two of the fourteen dreams and implies the others."
+    },
+    {
+      "token": "સુસ્વઘ્ન",
+      "translit": "su-svapna",
+      "gloss": "auspicious dreams, good dreams",
+      "partOfSpeech": "compound",
+      "etymology": "su- (good, auspicious) + svapna (dream, < √svap, to sleep).",
+      "notes": "The book reads સ્વઘ્ન (su-svaghna), an orthographic variant of svapna preserved verbatim per the source."
+    },
+    {
+      "token": "સંદર્શનાત્",
+      "translit": "sandarśanāt",
+      "gloss": "from the sight of, on beholding",
+      "partOfSpeech": "noun",
+      "etymology": "sam- + √dṛś (to see) → sandarśana (viewing); abl. sg. -āt, 'because of the seeing'.",
+      "notes": "Ablative of cause: the joy arose 'from' beholding the dreams."
+    },
+    {
+      "token": "તમ્",
+      "translit": "tam",
+      "gloss": "that (mass of joy)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative ta-; acc. sg. tam, correlative to opening 'yaḥ'.",
+      "notes": "Object of 'avagantum'; printed તમલ (tam + alam)."
+    },
+    {
+      "token": "અલમ્",
+      "translit": "alam",
+      "gloss": "able, capable, equal to (with infinitive)",
+      "partOfSpeech": "particle",
+      "etymology": "Indeclinable alam; with an infinitive = 'competent/able to', here negated by 'na'.",
+      "notes": "Construction 'alam avagantum' = 'able to comprehend'."
+    },
+    {
+      "token": "અવગંતું",
+      "translit": "avagantum",
+      "gloss": "to comprehend, to fathom",
+      "partOfSpeech": "verb",
+      "etymology": "ava- + √gam; infinitive -tum.",
+      "notes": "Object-infinitive with 'alam'; printed મવગંતુ (m-avagantum)."
+    },
+    {
+      "token": "મન્યે",
+      "translit": "manye",
+      "gloss": "I think, I deem",
+      "partOfSpeech": "verb",
+      "etymology": "√man (to think); ātmanepada 1st sg. pres. manye.",
+      "notes": "The poet's personal verdict, framing the hyperbole."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Negative indeclinable na.",
+      "notes": "Negates 'alam' — 'not able'."
+    },
+    {
+      "token": "મન્યે",
+      "translit": "manye",
+      "gloss": "I think (repeated — sound-play)",
+      "partOfSpeech": "verb",
+      "etymology": "√man, ātmanepada 1st sg.; deliberate repetition (yamaka).",
+      "notes": "The twinned 'manye … na manye' is a chiming figure: 'I think [they cannot] — yes, so I think.'"
+    },
+    {
+      "token": "જના:",
+      "translit": "janāḥ",
+      "gloss": "people, ordinary folk",
+      "partOfSpeech": "noun",
+      "etymology": "jana (person, < √jan); nom. pl. janāḥ.",
+      "notes": "Subject of the negated 'alam' clause — common people, as against the mothers' privileged joy."
+    }
+  ],
+  "literalTranslation": "That mass of joys which arose for the two mothers — once they had rightly comprehended, from the sight of the auspicious dreams headed by elephant and bull, the lofty descent of those two [Jinas] — that, I think, people are not able to fathom; so I do think.",
+  "idiomaticTranslation": "When the two queen-mothers beheld the great dreams — the elephant, the bull, and all the rest — and truly understood that an exalted soul was descending into the womb, such an ocean of joy welled up in them that ordinary people, I am convinced, could never fathom it; no, I think they never could.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having yoked the two Jinas together as one 'pair' a moment earlier, the hymn now opens their joint life-story at its very first auspicious moment: the conception. The poet does not narrate the descent directly; he measures it by the joy it produced in the mothers. The whole verse is a single rapture-image — a 'samūha of mudā', a heaped-up swell of joys (note the plural mudām, joys upon joys) — that 'arose' (ajani) the instant the two queens, beholding the elephant- and bull-led dreams, 'rightly understood' (samyag avagamya) that no common child but a lofty soul was entering the womb. The closing line turns from narration to confession of inadequacy: that joy is something 'people are not able to comprehend (na… alam avagantum), I think.' The doubled manye … na manye is pure sound-craft — a chiming echo that lets the poet both assert and re-assert his verdict, the music carrying the hyperbole. Two further touches reward attention. First, the verb 'avagamya' (the mothers comprehend) is deliberately mirrored by 'avagantum' (people cannot comprehend): the mothers grasp what onlookers never will. Second, the tāram/avatāram echo binds 'lofty' to 'descent', so the very sound enacts a height coming down. The verse thus advances the arc from the pair's invocation to their entry into the world, and sets up the next verse, where the gods take over the celebration with their birth-festival on Mount Mandara.",
+    "doctrinalContext": "This is the garbha (cyavana) kalyāṇaka — the first of the five auspicious events that structure every Tīrthaṅkara's life. The fourteen great dreams (the elephant and bull named here standing for the full set) are the canonical sign by which a Jina-mother knows the soul descending into her womb is a future ford-maker. 'Avatāram' is precise: in Jain terms the perfected-to-be soul descends (cyavana) from a heavenly birth into the human womb. The verse also makes a quiet epistemological point characteristic of bhakti-stava: the mothers' joy is presented as cognitively inaccessible to ordinary minds (janāḥ), a greatness that exceeds common measure — the same logic the hymn later applies to omniscience outshining the sun. Devotion, not calculation, is the only adequate response.",
+    "practicalRelevance": "Recited at this verse, the worshipper is invited to enter the mothers' wonder — to feel that the arrival of holiness in the world is an event beyond ordinary reckoning. It models the right posture before the sacred: not analysis but joyful awe, and the humility to admit, with the poet, that some blessings are too great to fully fathom.",
+    "crossReferences": [
+      {
+        "text": "Pañca Kalyāṇaka — the conception (garbha/cyavana) kalyāṇaka and the mother's auspicious dreams",
+        "source": "Jain universal history; cf. Kalpasūtra dream narratives"
+      },
+      {
+        "text": "v.5 of this stava — the gods' birth-festival on Mount Mandara, which continues the celebration begun here",
+        "source": "Bṛhad Ajitaśānti Stava (preface arc)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Apte, Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Glosses and grammar of samūha, mudā, alam (+ infinitive = 'able to'), avatāra, ava-√gam (avagamya/avagantum), and manye (√man)."
+    },
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the first mother (Queen Vijayā) and birthplace (Ayodhyā) of the 2nd Tīrthaṅkara referenced by 'janakāmbayoḥ'."
+    },
+    {
+      "title": "Shantinatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Identity and Hastināpura origin of the 16th Tīrthaṅkara, the second of the two mothers/Jinas worshipped as a pair."
+    },
+    {
+      "title": "Panch Kalyanaka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panch_Kalyanaka",
+      "type": "scholarship",
+      "consultedFor": "The conception (garbha/cyavana) kalyāṇaka and the canonical great dreams (elephant, bull, etc.) that the mother beholds."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The relative–correlative frame (yaḥ samūhaḥ … tam … na manye janāḥ) is read with 'yayoḥ' (gen. dual) referring to the two Jinas and 'avatāram' as their descent into the womb. 'janakāmbayoḥ' is taken as the genitive dual 'of the two mothers'; the first member 'janaka' is functioning in a parental sense and a variant reading 'jananī-' is conceivable but the book's text is preserved verbatim. The source prints સુસ્વઘ્ન (su-svaghna) for su-svapna ('auspicious dream'); this orthographic reading is honored, not normalized, per the book's fidelity rules. 'manye na manye' is a deliberate yamaka echo; it is read as emphatic ('I think they cannot — yes, so I think'), and the slight ambiguity between emphasis and a softened 'I do (/do not) think' is poetic and intended. 'tāram' is taken adjectivally ('lofty') with 'avatāram'; reading it as a separate noun ('star/pupil') is possible but contextually weaker."
+}

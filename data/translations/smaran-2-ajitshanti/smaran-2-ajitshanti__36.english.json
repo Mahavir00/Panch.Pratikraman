@@ -1,0 +1,158 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/36",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "That Jina, rich in grace and free of all sorrow through the supreme joy of liberation — may he wipe away my sadness and pour his grace on the whole congregation too.",
+  "recitation": "taṁ bahuguṇappasāyaṁ, mukkhasuheṇa parameṇa avisāyaṁ; nāseu me visāyaṁ, kuṇau a parisāvi a pasāyaṁ.",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that one; him (the Jina just praised)",
+      "partOfSpeech": "pronoun",
+      "etymology": "From Skt. tam, accusative singular of the demonstrative tad; here resuming the 'jiṇajualaṁ' (Jina-pair) of the preceding verse.",
+      "notes": "Accusative object of praise that the optative verbs below take as their implied agent — a common devotional pivot from 'that one whom I praise' to 'may that one act.'"
+    },
+    {
+      "token": "બહુગુણપ્પસાયં",
+      "translit": "bahuguṇappasāyaṁ",
+      "gloss": "abounding in the grace born of many virtues",
+      "partOfSpeech": "compound",
+      "etymology": "bahu (many) + guṇa (virtue) + pasāya (< Skt. prasāda, grace/favour); accusative agreeing with 'taṁ'. The doubled -pp- is the Prakrit conjunct of pra-sāda.",
+      "notes": "First of four -sāya/-sāyaṁ rhymes that structure the stanza."
+    },
+    {
+      "token": "મુક્ખસુહેણ",
+      "translit": "mukkhasuheṇa",
+      "gloss": "by the bliss of liberation",
+      "partOfSpeech": "compound",
+      "etymology": "mukkha (< Skt. mokṣa, liberation) + suha (< Skt. sukha, happiness); instrumental singular -eṇa expressing means.",
+      "notes": "The cause by which the Jina is 'avisāya' — sorrowless."
+    },
+    {
+      "token": "પરમેણ",
+      "translit": "parameṇa",
+      "gloss": "supreme, highest",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. parama (supreme); instrumental singular, qualifying 'mukkhasuheṇa'.",
+      "notes": ""
+    },
+    {
+      "token": "અવિસાયં",
+      "translit": "avisāyaṁ",
+      "gloss": "free from dejection (sorrowless)",
+      "partOfSpeech": "adj",
+      "etymology": "a- (privative) + visāya (< Skt. viṣāda, despair, dejection); accusative agreeing with 'taṁ'.",
+      "notes": "Deliberately set against 'visāyaṁ' in the next line — the Jina lacks the very viṣāda the devotee asks to be rid of."
+    },
+    {
+      "token": "નાસેઉ",
+      "translit": "nāseu",
+      "gloss": "may he destroy / annihilate",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of the root naś (to perish), Skt. nāśayatu 'let him cause to perish'; Prakrit 3rd-person singular imperative/optative -eu.",
+      "notes": ""
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "my; for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Enclitic genitive/dative of the first-person pronoun (Skt. me).",
+      "notes": "Anchors the prayer to the individual reciter, before it widens to the assembly."
+    },
+    {
+      "token": "વિસાયં",
+      "translit": "visāyaṁ",
+      "gloss": "dejection, despair, sorrow",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. viṣāda (despondency, grief); accusative singular, object of 'nāseu'.",
+      "notes": "Not viṣaya (sense-object): the antithesis with 'avisāyaṁ' and the stanza's -sāya rhyme fix it as viṣāda."
+    },
+    {
+      "token": "કુણઉ",
+      "translit": "kuṇau",
+      "gloss": "may he make / bestow",
+      "partOfSpeech": "verb",
+      "etymology": "From the root kṛ (to do, make), Skt. karotu; Prakrit 3rd-person singular imperative/optative.",
+      "notes": "Takes 'pasāyaṁ' (grace) as its object — 'may he make/grant grace.'"
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and; also",
+      "partOfSpeech": "particle",
+      "etymology": "Reduced Prakrit form of Skt. ca (and).",
+      "notes": "First connective, coordinating the second petition with the first."
+    },
+    {
+      "token": "પરિસાવિ",
+      "translit": "parisāvi",
+      "gloss": "for the assembly too",
+      "partOfSpeech": "compound",
+      "etymology": "parisā (< Skt. pariṣad, the religious assembly/congregation) + vi (< Skt. api, also/even); sandhi-joined.",
+      "notes": "The dative sense ('to/for the assembly') is governed by 'kuṇau pasāyaṁ'. The same 'parisā' recurs in the following verse ('parisāvi ya suhanandi')."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and; also",
+      "partOfSpeech": "particle",
+      "etymology": "Reduced Prakrit form of Skt. ca (and); the doubled 'a…a' reinforces the inclusive 'too'.",
+      "notes": ""
+    },
+    {
+      "token": "પસાયં",
+      "translit": "pasāyaṁ",
+      "gloss": "grace, favour, gracious blessing",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. prasāda (grace, serenity, benevolence); accusative singular, object of 'kuṇau'.",
+      "notes": "Closes the fourfold -sāya chime (pasāya / avisāya / visāya / pasāya) that gives the verse its sonic seal."
+    }
+  ],
+  "literalTranslation": "That one — gracious through many virtues, sorrowless by reason of the supreme bliss of liberation — may he destroy my dejection, and may he grant grace to the assembly too.",
+  "idiomaticTranslation": "That Jina, whose every virtue radiates grace and who, in the supreme bliss of liberation, knows no sorrow at all — may he annihilate the grief within me, and shower his grace upon this whole congregation as well.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just declared the praise complete in the previous verse, the poet now turns from eulogy to petition: the praised Jina is invoked to act. The stanza is built on a single, audacious sonic device — four rhyming -sāya forms (pasāya, avisāya, visāya, pasāya) — that is also a chain of meaning. The Jina is 'bahuguṇa-p-pasāya,' grace itself overflowing from his countless virtues, and 'avisāya,' utterly without viṣāda, because the 'supreme bliss of liberation' (mukkha-suha parama) leaves no room for grief. From that very sorrowlessness the prayer draws its logic: the One who has no dejection is asked to 'destroy my dejection' (nāseu me visāyaṁ) — the devotee's viṣāda answered precisely by the Jina's a-viṣāda. The closing line widens the circuit outward: 'kuṇau a parisāvi a pasāyaṁ' — and let him make grace 'for the assembly too.' The doubled 'a…a' (ca…ca) insists on the inclusion; the petition that began with a single 'me' ends embracing the whole congregation. This pivot from self to saṅgha sets up the following verse, which carries the same parisā into its own prayer for joy (nandi).",
+    "doctrinalContext": "The verse rests on a vītarāga theology of grace. A liberated Jina does not intervene with personal favour the way a theistic deity might; his 'pasāya' (prasāda) is the upliftment that flows to one who fixes the mind on his guṇa — devotion to virtue itself dissolves the devotee's affliction. Viṣāda here is a mental pain (an ārta state of despondency), and its remedy is structurally Jain: contemplation of a being who, having reached parama mukkha-suha, is constitutionally sorrowless. The expansion to 'parisā' enacts maitrī — the wish for others' well-being — so that the fruit of recitation is not hoarded but shared with the fourfold community.",
+    "practicalRelevance": "A reciter may name their own viṣāda — grief, depression, dread — and ask the sorrowless Jina to dissolve it, then deliberately let the prayer overflow to everyone present. The stanza trains the heart to move from 'heal me' to 'grace us all,' making personal relief inseparable from goodwill toward the assembly.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava v.37 ('…parisāvi ya suhanandi, mama ya disau saṁjame nandi') — the immediately following verse carries the same 'parisā' into a prayer for joy.",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava (Anchalgachchha/Vidhipaksha recension)"
+      },
+      {
+        "text": "Logassa, 'ārugga-bohi-lābhaṁ samāhi-varam-uttamaṁ dintu' — the parallel Jain prayer asking the praised Tīrthaṅkaras to grant health, enlightenment and supreme equanimity.",
+        "source": "Caturviṁśati-stava (Logassa), Āvaśyaka tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Viṣāda — definition (Sanskrit/Prakrit lexicon entries)",
+      "url": "https://www.wisdomlib.org/definition/visada",
+      "type": "dictionary",
+      "consultedFor": "Confirming viṣāda = despair/dejection/despondency (a mānasa pain), against the homophone viṣaya; fixing 'visāya'/'avisāya'."
+    },
+    {
+      "title": "Prasāda — definition (Sanskrit lexicon entries)",
+      "url": "https://www.wisdomlib.org/definition/prasada",
+      "type": "dictionary",
+      "consultedFor": "Confirming prasāda = grace, favour, beneficence, serenity for 'pasāya'/'pasāyaṁ'."
+    },
+    {
+      "title": "Parṣad / Pārṣad — definition (Jaina/Sanskrit lexicon entries)",
+      "url": "https://www.wisdomlib.org/definition/parshad",
+      "type": "dictionary",
+      "consultedFor": "Confirming pariṣad = assembly/congregation for 'parisā' (parisāvi = parisā + api)."
+    },
+    {
+      "title": "Jain stotra anthologies / Ajitaśānti Stava recensions",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Verse text, attribution to Nandiṣeṇasūri, and the petition-to-the-pair reading of the closing stanzas."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Reading 'visāya/avisāya' as Skt. viṣāda (dejection) rather than viṣaya (sense-object): the deliberate antithesis avisāyaṁ↔visāyaṁ and the fourfold -sāya rhyme (pasāya/avisāya/visāya/pasāya) make viṣāda decisive; the viṣaya reading breaks both. 'taṁ' is accusative resuming the Jina-pair (jiṇajualaṁ) of v.35 and serves as the implied agent of the optatives nāseu/kuṇau — a devotional shift from object-of-praise to invoked-actor. 'parisāvi' = parisā (pariṣad) + vi (api). Orthography (doubled -pp- in bahuguṇappasāyaṁ, the bar daṇḍa, anusvāras) is preserved verbatim from the book, not normalized."
+}

@@ -1,0 +1,88 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "O forgiving teacher, of my own glad will I wish to bow to you — only as far as my body allows, and having first set aside every harmful act.",
+  "recitation": "icchāmi khamāsamaṇo! vandiuṁ jāvaṇijjāe nisīhiāe",
+  "wordByWord": [
+    {
+      "token": "ઇચ્છામિ",
+      "translit": "icchāmi",
+      "gloss": "I wish, I desire (of my own free will)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit icchāmi < Sanskrit icchāmi, 1st person singular present of root iṣ ('to wish, desire').",
+      "notes": "The voluntary 'I wish' enacts icchākāra — the principle that an act of homage is offered by glad consent, never by compulsion."
+    },
+    {
+      "token": "ખમાસમણો",
+      "translit": "khamāsamaṇo",
+      "gloss": "O forbearing ascetic! (vocative address to the guru)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit khamā ('forbearance', < kṣamā) + samaṇa ('ascetic, śramaṇa'); vocative singular = kṣamāśramaṇa, 'O forgiveness-ascetic'.",
+      "notes": "The trailing '!' marks the vocative call; the guru is named by the very virtue (kṣamā) the disciple seeks."
+    },
+    {
+      "token": "વંદિઉં",
+      "translit": "vandiuṁ",
+      "gloss": "to bow, to salute, to venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit infinitive vandiuṁ < Sanskrit vanditum, from root vand ('to praise, to salute reverentially').",
+      "notes": "Infinitive completing icchāmi: 'I wish to bow.' It governs the two instrumental qualifications that follow."
+    },
+    {
+      "token": "જાવણિજ્જાએ",
+      "translit": "jāvaṇijjāe",
+      "gloss": "with sustainable strength; to the limit of my bodily capacity (yāpanīya, instrumental)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jāvaṇijja (variant javaṇijja) < Sanskrit yāpanīya ('that which can be sustained / carried on'); instrumental singular -āe.",
+      "notes": "Qualifies the bow: offered only within what the body can sustain without strain or self-harm."
+    },
+    {
+      "token": "નિસીહિઆએ",
+      "translit": "nisīhiāe",
+      "gloss": "with cessation of sinful activity (naiṣedhikī, instrumental)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nisīhiā < Sanskrit naiṣedhikī ('declared abstention, prohibition'), from ni-ṣidh ('to forbid, to desist'); instrumental singular -āe.",
+      "notes": "Second qualification of the bow: undertaken only after setting aside all sāvadya (blameworthy) activity."
+    }
+  ],
+  "literalTranslation": "I wish, O forbearing ascetic, to bow [to you] — with sustainable capacity, with the setting-aside [of sinful activity].",
+  "idiomaticTranslation": "O forbearing master! Of my own glad will I desire to offer you salutation — to the very limit of my bodily strength, and with every harmful activity laid aside.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening unit is the disciple's stated intention, voiced before a single limb has moved. Three deliberate hinges carry it. First, icchāmi — 'I wish' — frames the entire homage as an act of free, glad consent (icchākāra): reverence offered under no coercion is alone spiritually fruitful. Second, the vocative khamāsamaṇo! addresses the teacher not by name or rank but by kṣamā, forbearance — the disciple summons the guru precisely as the embodiment of the patience he himself hopes to receive and to learn. Third, the verb vandiuṁ ('to bow') is fenced by two instrumental conditions that the disciple imposes on his own act. Jāvaṇijjāe restricts the bow to what the body can sustain: the salutation must never become ostentatious strain or self-injury, an extension of ahiṁsā inward toward one's own frame. Nisīhiāe makes the bow conditional on first abandoning sinful activity — one does not approach the guru carrying the day's blameworthy conduct, but lays it down at the threshold of the act. Thus the verse is not yet praise and not yet inquiry; it is a precise self-binding declaration — 'I willingly intend to bow, within my capacity, having renounced wrongdoing' — that sets the moral terms before the salutation proper and the request to enter the guru's space (the following 'aṇujāṇaha me miuggahaṁ') can begin.",
+    "doctrinalContext": "The verse compresses three Jain commitments into one sentence. Icchāmi expresses icchākāra, foremost of the ten monastic courtesies (sāmācārī), whereby every meritorious act rests on willing assent rather than command. Jāvaṇijjāe (yāpanīya) applies ahiṁsā to the actor's own body: devotion must be sustainable, not violent toward the self. Nisīhiāe (naiṣedhikī) is the renunciatory pivot — the negative discipline of desisting from sāvadya-yoga (blameworthy activity) as the precondition of pure veneration; the same naiṣedhikī attitude underlies the ritual 'nisīhi' uttered when entering a sacred enclosure.",
+    "practicalRelevance": "Before bowing, the reciter consciously generates three things: willing consent (not rote motion), honest awareness of bodily limit (bow only as far as one's health truly permits), and a mental setting-aside of the day's faults and distractions. Recited this way, the very first words convert a mechanical gesture into a chosen, bounded, purified offering.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Vandanaka-adhyayana (the formula icchāmi khamāsamaṇo... as the opening of guru-vandana)",
+        "source": "Śvetāmbara Āgama, Devardhigaṇi redaction"
+      },
+      {
+        "text": "Dasavidha sāmācārī — icchākāra as the first of the ten courtesies",
+        "source": "Uttarādhyayana / Mūlācāra exposition of monastic conduct"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hargovind Das T. Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit Dictionary)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.325511",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses of jāvaṇijja (yāpanīya), nisīhiā (naiṣedhikī), and the infinitive vandiuṁ"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots and forms: iṣ/icchāmi, vand/vanditum, kṣamā, śramaṇa, yāpanīya, ni-ṣidh/naiṣedhikī"
+    },
+    {
+      "title": "Pratikramana (encyclopedic overview of the Jain confession ritual)",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "General placement of guru-vandana within the daily pratikramaṇa and the meaning of reverential confession"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "jāvaṇijjāe and nisīhiāe are read per the standard yāpanīya/naiṣedhikī derivations, consistent with the preface glossary; popular online glosses that render them as 'for offense / for omission' are not followed. The book spells the term with variant conjuncts (javaṇijja ~ jāvaṇijja); the verbatim source reading is retained. The '!' after khamāsamaṇo marks the vocative address and is not a separate lexical token. Doctrinal points (icchākāra, naiṣedhikī) rest on standard Śvetāmbara Āvaśyaka scholarship and were not independently page-verified online."
+}

@@ -1,0 +1,242 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing to Ajita — who frees us from heaped-up karma, is full of virtues, and has reached perfection — and to peace-giving Śānti is, for me, the everlasting cause of release.",
+  "recitation": "kiriyā vihi saṁcia, kamma kilesa vimukkhayaraṁ | ajiaṁ niciaṁ ca guṇehiṁ mahāmuṇia siddhigayaṁ | ajiassa ya saṁti mahā muṇiṇo vi a saṁtikaraṁ | sayayaṁ mama nivvui kāraṇayaṁ ca namaṁsaṇayaṁ",
+  "wordByWord": [
+    {
+      "token": "કિરિયા",
+      "translit": "kiriyā",
+      "gloss": "action, (ritual) activity",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit kriyā, from √kṛ 'to do'.",
+      "notes": "Heads the long bahuvrīhi compound describing karma 'accumulated through activity'."
+    },
+    {
+      "token": "વિહિ",
+      "translit": "vihi",
+      "gloss": "method, prescribed procedure",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit vidhi, from √dhā 'to set, ordain'.",
+      "notes": "kiriyā-vihi = 'by act and rite', the channels through which karma piles up."
+    },
+    {
+      "token": "સંચિઅ",
+      "translit": "saṁcia",
+      "gloss": "accumulated, heaped up",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit sañcita, past participle of sam-√ci 'to gather'."
+    },
+    {
+      "token": "કમ્મ",
+      "translit": "kamma",
+      "gloss": "karma, the binding residue of deeds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit karman, from √kṛ."
+    },
+    {
+      "token": "કિલેસ",
+      "translit": "kilesa",
+      "gloss": "affliction, defiling passion",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit kleśa, from √kliś 'to torment'.",
+      "notes": "kamma-kilesa = the karma-afflictions the Jina removes."
+    },
+    {
+      "token": "વિમુક્ખયરં",
+      "translit": "vimukkhayaraṁ",
+      "gloss": "the one who liberates (from), remover",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vimukkha (< Sanskrit vimokṣa, vi-√muc 'to release') + -kara 'making'; accusative -aṁ.",
+      "notes": "Predicated of Ajita: 'liberator from accumulated karma-affliction'."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "Ajita (the unconquered one), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit ajita, a- 'not' + jita 'conquered'."
+    },
+    {
+      "token": "નિચિઅં",
+      "translit": "niciaṁ",
+      "gloss": "densely filled, thick (with virtues)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit nicita, ni-√ci 'to heap up'.",
+      "notes": "Paired with guṇehiṁ: 'closely packed with virtues'."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit = Sanskrit ca."
+    },
+    {
+      "token": "ગુણેહિં",
+      "translit": "guṇehiṁ",
+      "gloss": "with virtues, by good qualities",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit instrumental plural of guṇa < Sanskrit guṇa; Skt. -aiḥ → Pkt. -ehiṁ."
+    },
+    {
+      "token": "મહામુણિઅ",
+      "translit": "mahāmuṇia",
+      "gloss": "great sage",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahā 'great' + muṇi (< Sanskrit muni 'sage') + adjectival/euphonic -a.",
+      "notes": "Epithet of Ajita as supreme ascetic."
+    },
+    {
+      "token": "સિદ્ધિગયં",
+      "translit": "siddhigayaṁ",
+      "gloss": "gone to perfection / liberation",
+      "partOfSpeech": "compound",
+      "etymology": "siddhi 'perfection, the liberated state' + gaya (< Sanskrit gata, √gam 'to go'); accusative -aṁ.",
+      "notes": "Marks Ajita as siddha — the goal the reciter seeks."
+    },
+    {
+      "token": "અજિઅસ્સ",
+      "translit": "ajiassa",
+      "gloss": "of Ajita",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive singular of ajia; Skt. -asya → Pkt. -assa."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit connective ya (= Sanskrit ca/atha)."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti (Śāntinātha; peace)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit śānti, from √śam 'to be calm'.",
+      "notes": "Genitive sense carried with mahā-muṇiṇo: 'of the great sage Śānti'."
+    },
+    {
+      "token": "મહા",
+      "translit": "mahā",
+      "gloss": "great",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit = Sanskrit mahā- 'great'."
+    },
+    {
+      "token": "મુણિણોવિ",
+      "translit": "muṇiṇo vi",
+      "gloss": "of the sage too",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi-joined: muṇiṇo (genitive of muṇi < Skt. muni) + vi (< Sanskrit api 'also, even').",
+      "notes": "One orthographic token in the book; = 'of the great sage [Śānti] as well'."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and, also",
+      "partOfSpeech": "particle",
+      "etymology": "Reduced Prakrit connective (< ca / api).",
+      "notes": "Light copulative linking Ajita and Śānti in the genitive."
+    },
+    {
+      "token": "સંતિકરં",
+      "translit": "saṁtikaraṁ",
+      "gloss": "peace-making, bestower of peace",
+      "partOfSpeech": "adj",
+      "etymology": "saṁti (< Sanskrit śānti) + -kara 'making'; accusative -aṁ.",
+      "notes": "Plays on the name Śānti: he literally 'makes śānti'."
+    },
+    {
+      "token": "સયયં",
+      "translit": "sayayaṁ",
+      "gloss": "always, perpetually",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit satatam 'continually'."
+    },
+    {
+      "token": "મમ",
+      "translit": "mama",
+      "gloss": "my, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit = Sanskrit mama, genitive of the first person."
+    },
+    {
+      "token": "નિવ્વુઇ",
+      "translit": "nivvui",
+      "gloss": "tranquil release, beatitude",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit nirvṛti, nis-√vṛ 'to be at rest, extinguished'.",
+      "notes": "Connotes both inner peace and final emancipation."
+    },
+    {
+      "token": "કારણયં",
+      "translit": "kāraṇayaṁ",
+      "gloss": "cause, means",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāraṇa (< Sanskrit kāraṇa, √kṛ) + suffix -ya; accusative -aṁ."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit = Sanskrit ca."
+    },
+    {
+      "token": "નમંસણયં",
+      "translit": "namaṁsaṇayaṁ",
+      "gloss": "the bowing, act of salutation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit namaṁsaṇa (< Sanskrit namasyana, denom. √namasya 'to do homage') + -ya; accusative -aṁ.",
+      "notes": "Grammatical subject of the stanza: 'this salutation … is the cause'."
+    }
+  ],
+  "literalTranslation": "Ajita — remover of the karma-afflictions heaped up through act and rite, densely filled with virtues, the great sage gone to perfection — and, of the great sage Śānti too, the peace-maker: the salutation [to them] is for me, always, the cause of [my] tranquil release.",
+  "idiomaticTranslation": "He frees us from the karma and affliction that act and ritual have heaped up; thick with virtue, the great sage who has gone to perfection — this is Ajita. And of the peace-bestowing great sage Śānti as well: to bow to these two is, for me, the unfailing and everlasting cause of beatitude.",
+  "elaboration": {
+    "verseByVerseCommentary": "The grammatical heart of the stanza is its last word, namaṁsaṇayaṁ — 'the act of bowing.' Everything before it is the object of that homage, and the verse's claim is bold and personal: my salutation to these two Jinas is itself sayayaṁ … nivvui-kāraṇayaṁ, the perpetual cause of my release. Devotion is not merely expressed; it is named as a soteriological instrument. The poet stacks three predicates onto Ajita. First, vimukkhayara — he is the liberator from kamma-kilesa that is kiriyā-vihi-saṁcia, 'amassed through act and observance'; even meritorious ritual binds, and the Jina undoes that binding. Second, niciaṁ guṇehiṁ — 'densely packed with virtues,' a striking image of fullness answering the emptiness of shed karma. Third, siddhigayaṁ — 'gone to siddhi,' the accomplished goal. The third line pivots to Śānti through the title's signature wordplay: saṁti-mahāmuṇiṇo … saṁtikaraṁ — 'the peace-sage who makes peace.' Set beside Ajita the 'unconquered,' the pair again yokes invincibility to peace. Note how this verse advances the local arc: the preceding stanza named the Jinas as the kindling of dhiti and mati and as kittana (praise-worthy), while the next will issue the imperative saraṇaṁ pavajjaha — 'take refuge!' Verse 5 supplies the logical bridge between them: because bowing to Ajita-and-Śānti is the standing cause of one's nivvui, refuge in them naturally follows.",
+    "doctrinalContext": "The phrase kiriyā-vihi-saṁcia-kamma carries real Jain weight: in karma theory even puṇya (auspicious) action accrues binding karman, so liberation requires saṁvara (stoppage) and nirjarā (shedding), not merely good deeds. Ajita as vimukkhayara models the egress from that bondage. The contrast nivvui (nirvṛti) versus saṁcia kamma maps the path's two poles — accumulation versus extinction. By making namaṁsaṇa the 'cause' of nivvui, the verse reflects the bhakti-as-nimitta principle: veneration of the perfected (siddha-guṇa) functions as an auxiliary cause that conduces the soul toward its own siddhi.",
+    "practicalRelevance": "When reciting this stanza, the practitioner is meant to feel the bow itself as efficacious, not ceremonial. One pauses on the realisation that even one's good works bind, and entrusts their dissolution to the Jina — meeting the shedding of karma (the emptying) with the in-filling of guṇa, and resting the whole effort in steady, repeated salutation as the 'everlasting cause' of inner peace.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava v.6 ('…abhayakare saraṇaṁ pavajjaha') — the refuge-imperative this verse grounds",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava (Nava-Smaraṇa recension)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 9.1–9.3 on saṁvara and nirjarā as the means to mokṣa",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitshanti Stavanam by Nandishen Suri (Hindi/Sanskrit edition)",
+      "url": "https://epustakalay.com/book/150537-ajitshanti-stavanam-by-nandishen-suri/",
+      "type": "translation",
+      "consultedFor": "Attribution to Nandiṣeṇasūri and the received verse text of the Ajitaśānti Stava."
+    },
+    {
+      "title": "Śrī Ajitśānti Stotra — metres and devotional context",
+      "url": "https://jainmantras.com/shri-ajitshanti-stotra/",
+      "type": "commentary",
+      "consultedFor": "The hymn's metrical scheme (the early stanzas including the ālingaṇaka metre) and its protective role among the Nava-Smaraṇa."
+    },
+    {
+      "title": "Ajitshanti Stotram — Book Summary (JainGPT/Jain Knowledge)",
+      "url": "https://jaingpt.org/knowledge/ajitshanti_stotram_229326_229326",
+      "type": "scholarship",
+      "consultedFor": "Twin praise of Ajitanātha and Śāntinātha and the bivalent ajita/śānti name-play running through the hymn."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: vimokṣa (vi-√muc), sañcita/nicita (√ci), nirvṛti (nis-√vṛ), namasyana, kleśa, kāraṇa."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The book ends this stanza at નમંસણયં; several recensions continue the same sentence with 'ālingaṇayaṁ' (an embrace/clasp), the metre of these opening verses being the ālingaṇaka — treated here as a variant continuation, not part of the book's verbatim text. Orthographic variants are preserved as printed: મહામુણિઅ (line 2) vs the spaced મહા … મુણિણો (line 3); મુણિણોવિ is a sandhi-joined token (muṇiṇo + vi/api). Line 3 reads the genitives ajiassa and (saṁti-)mahāmuṇiṇo as jointly governed by namaṁsaṇayaṁ ('the salutation of/to both'); an alternative parse takes saṁtikaraṁ predicatively of Śānti — meaning is stable either way. niciaṁ is read as nicita 'densely filled (with guṇas)'; a minority reading links it to niścita 'certain', which is less apt to the instrumental guṇehiṁ. Web glosses for this verse are devotional, not lexicographic; word-roots were cross-checked against standard Sanskrit/Prakrit lexical equivalents."
+}

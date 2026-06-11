@@ -1,0 +1,161 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Mahāvīra's teaching is forever victorious, because it shows the way to liberation, explains the whole of reality, and sweeps away every false belief.",
+  "recitation": "nivvui-paha-sāsaṇayaṁ, jayai sayā savva-bhāva-desaṇayaṁ; kusamaya-maya-ṇāsaṇayaṁ, jiṇiṁda-vara-vīra-sāsaṇayaṁ.",
+  "wordByWord": [
+    {
+      "token": "નિવ્વુઇપહ",
+      "translit": "nivvui-paha",
+      "gloss": "the path of/to liberation (the road to nirvāṇa-bliss)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit nivvui (< Skt. nirvṛti, 'extinction, repose, final release') + paha (< Skt. patha, 'path'); a tatpuruṣa qualifying śāsana — 'the teaching that is the path to liberation.'",
+      "notes": "nirvṛti here = mokṣa/nirvāṇa, the soul's release from saṁsāra."
+    },
+    {
+      "token": "સાસણયં",
+      "translit": "sāsaṇayaṁ",
+      "gloss": "the teaching / dispensation (śāsana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāsaṇa (< Skt. śāsana, 'rule, instruction, dispensation') + svārthika -aya suffix (no change of sense) + acc./nom. -aṁ; the rhyme-word that ends three of the four pādas.",
+      "notes": "First of two occurrences; the -aya is a non-meaning-bearing taddhita that gives the verse its -ayaṁ rhyme."
+    },
+    {
+      "token": "જયઇ",
+      "translit": "jayai",
+      "gloss": "triumphs, is ever-victorious",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jayai (< Skt. jayati, √ji, 'to conquer, prevail'); 3rd-sg. present — the hymn's sealing 'jaya!'",
+      "notes": "Echoes the jayai-refrain of the sūtra's opening maṅgala, closing the hymn where it began."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā (< Skt. sadā, 'always')."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva (< Skt. sarva, 'all'); first member of the compound savva-bhāva-desaṇa."
+    },
+    {
+      "token": "ભાવ",
+      "translit": "bhāva",
+      "gloss": "existents, realities, states-of-being",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. bhāva (√bhū, 'to be'); here the full range of substances and modes (dravya-paryāya) that the omniscient teaching expounds.",
+      "notes": "savva-bhāva = the totality of reality grasped in kevalajñāna."
+    },
+    {
+      "token": "દેસણયં",
+      "translit": "desaṇayaṁ",
+      "gloss": "expounding, full disclosure (of all realities)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit desaṇā (< Skt. deśanā, √diś, 'to point out, teach') + svārthika -aya + -aṁ; 'savva-bhāva-desaṇa' = 'that which sets forth all existents.'"
+    },
+    {
+      "token": "કુસમય",
+      "translit": "kusamaya",
+      "gloss": "false doctrine, heterodox creed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ku- ('bad, wrong') + samaya ('doctrine, tenet') < Skt. ku-samaya; a pejorative for mithyā-darśana / rival ekānta views.",
+      "notes": "Glossary's śāsana is the true samaya; kusamaya is its opposite."
+    },
+    {
+      "token": "મય",
+      "translit": "maya",
+      "gloss": "the pride / intoxication (of false doctrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maya (< Skt. mada, 'conceit, intoxication'; intervocalic d→y); compound kusamaya-maya = 'the arrogance of false creeds.'",
+      "notes": "Read here as mada ('conceit'); some reciters take maya as māyā ('delusion') — see notes."
+    },
+    {
+      "token": "ણાસણયં",
+      "translit": "ṇāsaṇayaṁ",
+      "gloss": "destroyer, that which annihilates",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāsaṇa (< Skt. nāśana, √naś caus., 'to destroy') + svārthika -aya + -aṁ; initial n→ṇ per Prakrit phonology.",
+      "notes": "kusamaya-maya-ṇāsaṇa = 'destroyer of the conceit of false doctrine.'"
+    },
+    {
+      "token": "જિણિંદ",
+      "translit": "jiṇiṁda",
+      "gloss": "Lord of the Jinas (Jinendra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa ('Jina, conqueror') + iṁda (< Skt. indra, 'lord, chief') = jinendra; first member of the final epithet-compound."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "supreme, most excellent",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Skt. vara ('best, choicest'); intensifies jiṇiṁda-...-vīra."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra (Mahāvīra, the Hero)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. vīra ('hero, valiant one'); the abbreviated name of the 24th Tīrthaṅkara.",
+      "notes": "Names the teaching's source: jiṇiṁda-vara-vīra-sāsaṇa = 'the dispensation of the supreme Jinendra Vīra.'"
+    },
+    {
+      "token": "સાસણયં",
+      "translit": "sāsaṇayaṁ",
+      "gloss": "the teaching / dispensation (śāsana)",
+      "partOfSpeech": "noun",
+      "etymology": "Repetition of token 2; here the head-noun of the whole sentence — the subject that 'ever triumphs.'",
+      "notes": "Second occurrence; the three preceding -ayaṁ epithets all qualify this final sāsaṇayaṁ."
+    }
+  ],
+  "literalTranslation": "Ever-victorious is the teaching that is the path to liberation — the teaching that expounds all existents, the destroyer of the conceit of false doctrines — the teaching of the supreme Lord-of-Jinas, Vīra.",
+  "idiomaticTranslation": "Forever triumphant is the dispensation of the supreme Lord Jina, Vīra: it is the very road to liberation, it lays bare the whole of reality, and it shatters the arrogance of every false creed — may that teaching ever prevail!",
+  "elaboration": {
+    "verseByVerseCommentary": "The hymn closes by lifting its gaze from those who carry the teaching back to the teaching itself. Where v.23 named the eleven Gaṇadharas — the human channels of Vīra's word — v.24 acclaims that word's own perpetual triumph, sealing the sajjhāy with the same jayai ('it conquers!') that opened the Nandī maṅgala. The craft is a fourfold rhyme: three epithet-compounds (sāsaṇayaṁ, desaṇayaṁ, ṇāsaṇayaṁ) all converge on a fourth, the head-word sāsaṇayaṁ, so the ear hears 'teaching… teaching… teaching' hammered home. Each epithet states one office of the śāsana. As nivvui-paha-sāsaṇa it is soteriological — the very road to mokṣa, not merely a description of it. As savva-bhāva-desaṇa it is epistemic — the omniscient disclosure of every substance and mode, the fruit of kevala-jñāna. As kusamaya-maya-ṇāsaṇa it is polemical — it does not merely differ from rival doctrines but dissolves their mada, their self-intoxicated conceit. Only after these three functions are stated is the source named: jiṇiṁda-vara-vīra, 'the supreme Lord Jina, Vīra.' The verse thus moves liberation → omniscience → refutation → author, and the single finite verb jayai sayā ('ever triumphs') governs the whole — a benediction the reciter pronounces over the entire path just traversed.",
+    "doctrinalContext": "The three epithets compress the Jain self-understanding of its own teaching. Nivvui-paha answers to the ratnatraya as mokṣa-mārga (Tattvārtha-sūtra 1.1): the śāsana is identical with the path of right faith, knowledge and conduct, not an external map of it. Savva-bhāva-desaṇa rests on omniscience and anekānta: a teaching grounded in kevala-jñāna can expound the totality of dravyas and paryāyas, which a partial (ekānta) view cannot. Kusamaya-maya-ṇāsaṇa frames false doctrine's defect not as mere error but as mada — the conceited absolutizing of one standpoint that syādvāda deflates. The triad therefore claims completeness (it covers all reality), efficacy (it reaches liberation), and corrective power (it cures dogmatic pride).",
+    "practicalRelevance": "Reciting this closing gāthā, the practitioner converts study into allegiance: having praised Vīra, the Saṅgha and the Gaṇadharas, one now affirms confidence in the teaching that unites them, pronouncing 'jaya' as a quiet vow to walk the nivvui-paha. The line also tempers the polemic — what is to be destroyed is mada, conceit, not persons — a useful check on the reciter's own dogmatic pride.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ (basis of 'nivvui-paha')",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Nandī-sūtra opening maṅgala — 'jayaï… mahāvīro' (the jayai-refrain this verse echoes to close the hymn)",
+        "source": "Nandī-sūtra, Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nivvui / Nivvuī (Prakrit, < Skt. nirvṛti)",
+      "url": "https://www.wisdomlib.org/definition/nivvui",
+      "type": "dictionary",
+      "consultedFor": "Gloss of nivvui as nirvṛti — liberation/final release, for the compound nivvui-paha"
+    },
+    {
+      "title": "Kusamaya, Kusa-maya (heterodox doctrine)",
+      "url": "https://www.wisdomlib.org/definition/kusamaya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of kusamaya as a heterodox/false religious doctrine (Kannada lexicon entry)"
+    },
+    {
+      "title": "Deśanā / Desana (exposition, teaching)",
+      "url": "https://www.wisdomlib.org/definition/desana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of desaṇa(yaṁ) as deśanā, 'expounding,' for savva-bhāva-desaṇa"
+    },
+    {
+      "title": "Śāsana / Sasana (rule, dispensation, teaching)",
+      "url": "https://www.wisdomlib.org/definition/shasana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sāsaṇa(yaṁ) as śāsana, the Jina's teaching/dispensation"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is an epithet-stacked closing benediction; the head-noun is the second sāsaṇayaṁ ('teaching'), with the verb jayai sayā ('ever triumphs') and the three preceding -ayaṁ compounds all qualifying it. The taddhita -aya in sāsaṇaya/desaṇaya/ṇāsaṇaya is svārthika (sense-neutral), inserted for the four-pāda rhyme; I have not assigned it independent meaning. Chief ambiguity: માય/મય 'maya' — read here as mada ('conceit, intoxication') of false doctrine, the more common parsing; a minority reading takes it as māyā ('delusion/deceit'), giving 'destroyer of the deceit of false doctrine.' One web source mis-segmented 'paha' (path) as 'passions' and 'sayā' (always) as 'self' — both rejected on standard Prakrit grounds. Orthography (anusvāras, ણ, doubled conjuncts) follows the printed book verbatim and is not normalized. The closing jayai deliberately mirrors the Nandī maṅgala's opening jayai-litany."
+}

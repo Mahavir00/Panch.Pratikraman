@@ -1,0 +1,158 @@
+{
+  "shlokaId": "muni-vandana/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After Jayakesarīsūri the lineage-seat passed to Siddhāntasāgara, then to Bhāvasāgara, and then to the virtue-rich Guṇanidhānasūri — four more head-teachers honoured in turn.",
+  "recitation": "siri jayakesarī sūri, tappaya siddhāntasāyaro suguru ॥ siri bhāvasāyara guru, tappaya sūri guṇanihāṇo",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, holy (honorific 'Śrī')",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī, 'splendour, glory'; prefixed to a venerable name.",
+      "notes": "Recurs before each name in the litany as a respectful prefix."
+    },
+    {
+      "token": "જયકેસરી",
+      "translit": "jayakesarī",
+      "gloss": "Jayakesarī (name: 'lion of victory')",
+      "partOfSpeech": "noun",
+      "etymology": "jaya ('victory') + kesarin ('lion'); name of the paṭṭadhara.",
+      "notes": "An Anchalgachchha ācārya; here the seat-holder preceding the next links."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "preceptor (ācārya-title)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sūri, 'sage, learned one'; honorific suffix to lineage names.",
+      "notes": "Glossary term; used here as Jayakesarī's title."
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "on his seat; after him (in succession)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tat-paṭṭa(e), locative: 'on his (tat) paṭṭa (seat)'; the litany's succession-refrain.",
+      "notes": "Not from √tap; it is tad + paṭṭa, threading one ācārya to the next."
+    },
+    {
+      "token": "સિદ્ધાંતસાયરો",
+      "translit": "siddhāntasāyaro",
+      "gloss": "Siddhāntasāgara (name: 'ocean of doctrine')",
+      "partOfSpeech": "noun",
+      "etymology": "siddhānta ('established doctrine, āgama') + sāgara ('ocean'); Prakrit sāyara, nominative -o.",
+      "notes": "First of the two 'Sāgara'-named seats in this verse; the name itself praises his mastery of scripture."
+    },
+    {
+      "token": "સુગુરુ",
+      "translit": "suguru",
+      "gloss": "the good/true guru",
+      "partOfSpeech": "noun",
+      "etymology": "su- ('good, true') + guru ('teacher'); emphatic appellation.",
+      "notes": "Marks Siddhāntasāgara as a worthy preceptor, not merely a name in a list."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "(verse pause / metrical bar)",
+      "partOfSpeech": "particle",
+      "etymology": "daṇḍa punctuation marking the gāthā's mid-pause.",
+      "notes": "Part of the printed text; a chanting caesura, not a word."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, holy (honorific 'Śrī')",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī.",
+      "notes": "Repeated invocation, now prefixing the next name."
+    },
+    {
+      "token": "ભાવસાયર",
+      "translit": "bhāvasāyara",
+      "gloss": "Bhāvasāgara (name: 'ocean of [pure] disposition')",
+      "partOfSpeech": "noun",
+      "etymology": "bhāva ('inner state, right disposition') + sāgara ('ocean'); Prakrit sāyara.",
+      "notes": "Second 'Sāgara' name; the epithet evokes depth of pure inner intent (bhāva)."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "teacher, guru",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guru, 'weighty, venerable; preceptor'.",
+      "notes": "Titles Bhāvasāgara as the lineage-guru."
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "on his seat; after him (in succession)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tat-paṭṭa(e), locative.",
+      "notes": "Second occurrence of the succession-refrain, carrying the chain forward."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "preceptor (ācārya-title)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sūri.",
+      "notes": "Here titles the final name of the verse."
+    },
+    {
+      "token": "ગુણનિહાણો",
+      "translit": "guṇanihāṇo",
+      "gloss": "Guṇanidhāna (name: 'treasure-trove of virtues')",
+      "partOfSpeech": "noun",
+      "etymology": "guṇa ('virtue, quality') + nidhāna ('treasury, repository'); Prakrit nihāṇa, nominative -o.",
+      "notes": "The closing seat-holder of this gāthā; the name doubles as praise — a storehouse of the guru's virtues."
+    }
+  ],
+  "literalTranslation": "The glorious Jayakesarī Sūri; on his seat, the good guru Siddhāntasāgara; the glorious Bhāvasāgara guru; on his seat, Sūri Guṇanidhāna, the treasury of virtues.",
+  "idiomaticTranslation": "Glorious Jayakesarīsūri; and after him on the seat, that true guru Siddhāntasāgara, an ocean of doctrine; glorious Bhāvasāgara-guru, an ocean of pure intent; and after him on the seat, Guṇanidhānasūri, a very treasure-house of virtues.",
+  "elaboration": {
+    "verseByVerseCommentary": "Following the same tappaya ('on his seat') beat that has carried the roll forward, this gāthā adds four more links: Jayakesarī, Siddhāntasāgara, Bhāvasāgara, and Guṇanidhāna. What is striking here is that the names stop being mere labels and become small acts of praise. With Siddhānta-sāgara ('ocean of established doctrine') and Bhāva-sāgara ('ocean of pure inner disposition'), the verse introduces the 'Sāgara' (ocean) naming that will mark the later seats of this line — each ācārya figured as a fathomless expanse, here of āgamic learning and of bhāva. The verse refuses to let the names pass flatly: suguru ('the true guru') is pinned to Siddhāntasāgara, and the closing Guṇa-nidhāna ('treasury of virtues') crowns the gāthā with a name that is itself a tribute. So the reciter is not merely counting seats; each epithet quietly states what made that occupant fit to hold the paṭṭa — depth in doctrine, purity of disposition, fullness of virtue. The gāthā thus bridges from the earlier seats (closing at Jayakīrti) toward the Dharmamūrti–Kalyāṇasāgara seats that follow, keeping the chain unbroken while sharpening its devotional point.",
+    "doctrinalContext": "The three meaningful names sketch the very ideal of an ācārya: siddhānta (command of the āgama/doctrine), bhāva (the pure inner intention behind conduct), and guṇa (the aggregate of a guru's qualities, classically the thirty-six guṇas enumerated in the Panchindiya). Honouring these seats is therefore not antiquarian record-keeping but veneration of those qualities themselves — the substance of the third Āvaśyaka, guru-vandanā. To bow to Guṇanidhāna 'treasury of virtues' is to affirm that the guru is revered for embodied guṇa, not for office alone.",
+    "practicalRelevance": "Chanting this verse, the reciter lets each name double as an aspiration: to deepen in scripture like a 'sāgara' of siddhānta, to purify bhāva, and to gather guṇa rather than fault. It turns lineage-memory into a mirror — the qualities praised in the gurus are the qualities to cultivate in oneself.",
+    "crossReferences": [
+      {
+        "text": "Panchindiya — the thirty-six guṇas of the guru (guru-sthāpanā)",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Anchalgachchha (Vidhipaksha) paṭṭāvalī — Sāgara-named succession",
+        "source": "Achal Gaccha tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipaksha-gaccha identity; succession from Sudharmāsvāmī; the gaccha's paṭṭāvalī tradition and Sāgara-named ācāryas."
+    },
+    {
+      "title": "Aryarakshitsuri — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aryarakshitsuri",
+      "type": "scholarship",
+      "consultedFor": "Founder/47th-paṭṭa framing of the Anchalgachchha line that this litany continues."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses for nidhāna ('repository, treasure'), guṇa, sāgara, sūri, śrī underlying the name-etymologies."
+    },
+    {
+      "title": "Achal Gaccha — overview and pattavali (Wikiwand)",
+      "url": "https://www.wikiwand.com/en/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Cross-check of the succession order Jayakesarī → Siddhāntasāgara → Bhāvasāgara → Guṇanidhāna within the gaccha's paṭṭāvalī."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "tappaya = tat-paṭṭa(e) (locative 'on his seat'), the succession-refrain; it is NOT a √tap derivative. Names are kept verbatim in their Prakrit forms (sāyara for Sanskrit sāgara, nihāṇo for nidhāna), with the -o being the Prakrit nominative singular. 'Guṇanihāṇo' is read here as the proper name Guṇanidhānasūri per the preface's paṭṭāvalī arc; it can also be parsed as an epithet ('treasury of virtues') of the same seat — the two readings coincide in sense. Independent dated attestation for these intermediate seats is not in the supplied knowledge base; their order rests on the source book and the gaccha's own paṭṭāvalī rather than externally fixed dates, so individual dates are left uncertain."
+}

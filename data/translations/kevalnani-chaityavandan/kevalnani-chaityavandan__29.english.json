@@ -1,0 +1,170 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/29",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Still counting the deathless Jina-temples of the middle world, this verse tallies eighty around the great Kuru-trees, eighty on the elephant-tusk (Vakṣāra) mountains, eighty-five on the Meru peaks, and four on the Ikṣukāra mountains.",
+  "recitation": "asia te jinhara kuruḍuma paridheṁ, asia vakhāre jāṇuṁ jī. merutaṇā pañcāśī jinhara, ikṣukāre cāra vakhāṇuṁ jī.",
+  "wordByWord": [
+    {
+      "token": "અસિઅ",
+      "translit": "asia",
+      "gloss": "eighty",
+      "partOfSpeech": "numeral",
+      "etymology": "Old-Gujarati/Prakrit from Sanskrit aśīti 'eighty' (Prakrit asīi); the cardinal eighty.",
+      "notes": "Same numeral repeated in the second quarter of the line."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative from Sanskrit tad-; here a metrical deictic pointing to the shrines just being enumerated.",
+      "notes": ""
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhara",
+      "gloss": "Jina-temple(s)",
+      "partOfSpeech": "noun",
+      "etymology": "jina + ghara (Sanskrit gṛha 'house') = jina-gṛha, 'house of the Jina'; the book's recurring jinhar form.",
+      "notes": "Reckoned here as śāśvata (eternal) caityas of the middle world."
+    },
+    {
+      "token": "કુરુડુમ",
+      "translit": "kuruḍuma",
+      "gloss": "the great cosmic trees of the Kuru lands (Devakuru and Uttarakuru)",
+      "partOfSpeech": "compound",
+      "etymology": "kuru (Devakuru/Uttarakuru) + ḍuma (Prakrit ḍuma = Sanskrit druma, 'tree'); the colossal Jambū, Śālmali and their fellow trees of those regions.",
+      "notes": "Carried over from the preceding verse, which also names the Kurus and the Gajadanta tusks."
+    },
+    {
+      "token": "પરિધેં",
+      "translit": "paridheṁ",
+      "gloss": "around, in the encircling circuit",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit paridhi 'circumference, surrounding belt', in the locative sense 'round about'.",
+      "notes": "Governs the temples ringing the Kuru-trees."
+    },
+    {
+      "token": "અસિઅ",
+      "translit": "asia",
+      "gloss": "eighty",
+      "partOfSpeech": "numeral",
+      "etymology": "As above, Sanskrit aśīti.",
+      "notes": "Second occurrence: the eighty Vakṣāra mountains across the two-and-a-half continents."
+    },
+    {
+      "token": "વખારે",
+      "translit": "vakhāre",
+      "gloss": "on the Vakṣāra (elephant-tusk) mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vakkhāra = Sanskrit vakṣāra, the tusk-shaped ranges that partition each Mahāvideha; locative 'on the vakṣāras'.",
+      "notes": "Sixteen per Mahāvideha; eighty across Jambūdvīpa, Dhātakīkhaṇḍa and Puṣkarārdha."
+    },
+    {
+      "token": "જાણુંજી",
+      "translit": "jāṇuṁ jī",
+      "gloss": "know (this)! — with the reverential particle jī",
+      "partOfSpeech": "verb",
+      "etymology": "jāṇavũ 'to know' (Sanskrit jñā-) + honorific/metrical jī; an exhortation to the listener.",
+      "notes": "Pairs with vakhāṇuṁ jī at the line's close."
+    },
+    {
+      "token": "મેરુતણા",
+      "translit": "merutaṇā",
+      "gloss": "of / belonging to Meru",
+      "partOfSpeech": "compound",
+      "etymology": "Meru + taṇā, the Old-Gujarati genitive particle ('belonging to'); 'pertaining to the Sumerus'.",
+      "notes": "Embraces the shrines of all five Merus."
+    },
+    {
+      "token": "પંચાશી",
+      "translit": "pañcāśī",
+      "gloss": "eighty-five",
+      "partOfSpeech": "numeral",
+      "etymology": "Sanskrit pañcāśīti 'eighty-five' (pañca + aśīti).",
+      "notes": "The book's figure for the Meru caityas; see notes."
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhara",
+      "gloss": "Jina-temples",
+      "partOfSpeech": "noun",
+      "etymology": "jina + ghara, as above.",
+      "notes": "Here the forest-belt shrines of the Merus."
+    },
+    {
+      "token": "ઇક્ષુકારે",
+      "translit": "ikṣukāre",
+      "gloss": "on the Ikṣukāra mountains",
+      "partOfSpeech": "noun",
+      "etymology": "ikṣu 'sugarcane' + kāra/ākāra 'shape' (cf. Sanskrit iṣukāra/ikṣukāra) — the sugarcane-bow ranges; locative 'on the Ikṣukāras'.",
+      "notes": "Two in Dhātakīkhaṇḍa and two in Puṣkarārdha = four shrines."
+    },
+    {
+      "token": "ચાર",
+      "translit": "cāra",
+      "gloss": "four",
+      "partOfSpeech": "numeral",
+      "etymology": "Sanskrit catur > Prakrit cāri; the cardinal four.",
+      "notes": ""
+    },
+    {
+      "token": "વખાણુંજી",
+      "translit": "vakhāṇuṁ jī",
+      "gloss": "I expound / proclaim — with the reverential particle jī",
+      "partOfSpeech": "verb",
+      "etymology": "vakhāṇavũ 'to expound, extol' (Sanskrit vyākhyāna) + honorific jī.",
+      "notes": "Closes the quatrain with the poet's act of devotional proclamation."
+    }
+  ],
+  "literalTranslation": "Eighty those Jina-temples in the circuit of the Kuru-trees; eighty on the Vakṣāra mountains, know it. Of Meru, eighty-five Jina-temples; on the Ikṣukāra mountains four, I proclaim.",
+  "idiomaticTranslation": "Eighty Jina-shrines stand ringed about the great Kuru-trees, and eighty more upon the tusk-shaped Vakṣāra ranges — mark them well. Eighty-five crown the forested Merus, and four rise upon the sugarcane-bow Ikṣukāra mountains — these I lovingly proclaim.",
+  "elaboration": {
+    "verseByVerseCommentary": "Set in the heart of the middle-world census, this verse sweeps the worshipper's gaze from the ranges named just before (Vaitāḍhya, Vṛṣadhara, the Kuru trees, the Gajadanta tusks) onward to four further clusters of eternal shrines, before the next verse leaves the continents for Mānuṣottara, Nandīśvara, Kuṇḍala and Rucaka. The kuruḍumas are the towering cosmic trees of Devakuru and Uttarakuru — the Jambū, the Śālmali and their fellows — about whose circuit (paridhi) eighty Jina-temples stand. The vakhāras are the elephant-tusk Vakṣāra ridges that quarter each Mahāvideha; counted across the two-and-a-half continents they reach eighty, every one crowned with a deathless caitya. 'Of Meru' the poet gives eighty-five, gathering the shrines set in the forest-belts — Bhadraśāla, Nandana, Saumanasa, Pāṇḍaka — that ring the five Sumerus; and on the four Ikṣukāra mountains, two in Dhātakīkhaṇḍa and two in Puṣkarārdha, four temples. The paired imperatives jāṇuṁ jī … vakhāṇuṁ jī ('know it! … I proclaim it!') lift the bare arithmetic into a chant of wonder: the reciter is not inventorying real estate but rehearsing, ridge by ridge and peak by peak, that the Jina is enshrined wherever the cosmos has form.",
+    "doctrinalContext": "Every shrine counted here is śāśvata — uncreated, never consecrated and never destroyed — unlike the time-bound, man-made temples of Bharata. The verse thus enacts the Jaina conviction that veneration of the Jina has no historical origin: the loka itself is permanently furnished with His image on its trees, ridges and mountains. Saluting these unreachable caityas in recitation is bhāva-pūjā (mental worship), and firm faith in the eternal caityas and pratimās is itself a recognized mark of samyag-darśana (right insight).",
+    "practicalRelevance": "Chanting the line, the practitioner mentally circumambulates trees, ranges and peaks no pilgrim could ever reach, offering caitya-vandana to temples beyond this earth. Take the four place-names as four bows: the immensity is meant to dissolve self-importance into awe, not to be audited as a sum.",
+    "crossReferences": [
+      {
+        "text": "Jambūdvīpaprajñapti — placement of Vakṣāra ranges, the Kuru trees, and the Meru forest-belts with their śāśvata caityas",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 2.2 — listing of the Vaitāḍhyas, Vakṣāra mountains, Deva- and Uttarakurus, and Bhadraśāla/Nandana/Saumanasa/Pāṇḍaka around Sumeru",
+        "source": "Hemacandra, tr. Helen M. Johnson (GOS)"
+      },
+      {
+        "text": "Jīvābhigama-sūtra / Sthānāṅga — the doctrine of śāśvata-caityas and śāśvata-pratimās as objects of right faith",
+        "source": "Śvetāmbara Āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vaksara, Vakṣāra (wisdomlib definition) — citing Hemacandra's Triṣaṣṭiśalākāpuruṣacaritra and the Pāia-sadda-mahaṇṇavo (Sheth)",
+      "url": "https://www.wisdomlib.org/definition/vaksara",
+      "type": "dictionary",
+      "consultedFor": "Vakṣāra = the four/sixteen elephant-tusk mountain ranges of Mahāvideha; the Deva/Uttarakuru trees and the Bhadraśāla–Nandana–Saumanasa–Pāṇḍaka forests encircling Sumeru; Prakrit vakkhāra."
+    },
+    {
+      "title": "Ishukara, Iṣukāra (wisdomlib definition) — Apte and Cologne (Monier-Williams) Sanskrit lexica",
+      "url": "https://www.wisdomlib.org/definition/ishukara",
+      "type": "dictionary",
+      "consultedFor": "Etymology of ikṣukāra/iṣukāra and corroboration of the four Ikṣukāra (sugarcane-bow) boundary mountains, two each in Dhātakīkhaṇḍa and Puṣkarārdha."
+    },
+    {
+      "title": "Asiti, Aśīti (wisdomlib definition) — Pali and Cologne Sanskrit lexica",
+      "url": "https://www.wisdomlib.org/definition/asiti",
+      "type": "dictionary",
+      "consultedFor": "Confirming aśīti = 'eighty' (Prakrit asīi), the value of the verse's twice-repeated asia."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra of Hemacandra (English translation)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "Cosmographic placement of the Vaitāḍhyas, Vakṣāras, Deva/Uttarakurus and the four Meru-forests, underpinning the verse's middle-world enumeration."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Readings follow the Anchalgaccha (Vidhipaksha) book verbatim, including jinhar/jinhara spelling and the numerals. The cosmographic identifications are secure: Vakṣāra = elephant-tusk ranges (sixteen per Mahāvideha, eighty across the 2.5 continents, each bearing one śāśvata caitya); Ikṣukāra = four boundary mountains (2 in Dhātakīkhaṇḍa + 2 in Puṣkarārdha) = four temples. The Kuru-tree count 'eighty' and the Meru count 'eighty-five' are the book's own devotional reckoning and are preserved as printed rather than independently audited; classical handbooks more often give the five Merus a round eighty (sixteen forest-shrines × five), so the book's eighty-five may fold in additional structures (e.g., cūlikā/tree shrines) — this surplus is noted as uncertain. 'kuruḍuma' is read as kuru + druma ('the trees of the Kuru lands'); a place-name reading cannot be wholly excluded but is unlikely given the parallel mountain-by-mountain tally."
+}

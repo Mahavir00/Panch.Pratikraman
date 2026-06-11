@@ -1,0 +1,149 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "People who always bow to Lord Pārśva's feet cross the stormy sea safely and, with their boat unbroken, quickly reach the shore they long for.",
+  "recitation": "avidaliya jāṇavattā, khaṇeṇa pāvaṁti icchiyaṁ kūlaṁ; pāsajiṇa calaṇa-jualaṁ, niccaṁ cia je namaṁti narā.",
+  "wordByWord": [
+    {
+      "token": "અવિદલિય",
+      "translit": "avidaliya",
+      "gloss": "unshattered, undamaged, not split apart",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (negation) + vidalita, past participle of √dal 'to split, burst, crack' (Skt. a-vidalita)",
+      "notes": "Here it qualifies the boats: 'with vessels uncracked' — the hull itself is spared, not merely the passengers."
+    },
+    {
+      "token": "જાણવત્તા",
+      "translit": "jāṇavattā",
+      "gloss": "(having) ships / sea-vessels",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jāṇavatta < Skt. yāna-pātra 'conveyance-vessel, boat' (yāna 'vehicle' + pātra 'vessel'); nom. pl.",
+      "notes": "With avidaliya it forms a bahuvrīhi describing the men — 'those whose boats are unbroken.'"
+    },
+    {
+      "token": "ખણેણ",
+      "translit": "khaṇeṇa",
+      "gloss": "in a moment, instantly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit khaṇa < Skt. kṣaṇa 'instant'; instrumental kṣaṇena 'in a moment'"
+    },
+    {
+      "token": "પાવંતિ",
+      "translit": "pāvaṁti",
+      "gloss": "they reach, they attain",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pāvai < Skt. prāpnoti, √(pra)āp 'to reach, obtain'; 3rd pers. pl. present (prāpnuvanti)"
+    },
+    {
+      "token": "ઇચ્છિયં",
+      "translit": "icchiyaṁ",
+      "gloss": "wished-for, desired",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit icchiya < Skt. icchita, past participle of √iṣ 'to wish, desire'; agrees with kūlaṁ"
+    },
+    {
+      "token": "કૂલં",
+      "translit": "kūlaṁ",
+      "gloss": "the shore, the (far) bank",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kūla 'bank, shore'; accusative singular, object of pāvaṁti"
+    },
+    {
+      "token": "પાસજિણ",
+      "translit": "pāsajiṇa",
+      "gloss": "of Pārśva the Jina (the Victor Pārśvanātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit pāsa < Skt. Pārśva (23rd Tīrthaṅkara) + jiṇa < Skt. jina 'victor'; first member of the compound 'feet-of-Pārśva-Jina'"
+    },
+    {
+      "token": "ચલણ",
+      "translit": "calaṇa",
+      "gloss": "feet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit calaṇa < Skt. caraṇa 'foot' (√car 'to move'); in compound with jualaṁ"
+    },
+    {
+      "token": "જુઅલં",
+      "translit": "jualaṁ",
+      "gloss": "the pair (i.e. the two feet)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit juala < Skt. yugala 'pair, couple'; calaṇa-jualaṁ = caraṇa-yugala, 'the pair of feet', accusative, object of namaṁti",
+      "notes": "Not 'flame'; juala here is yugala 'pair', the standard refuge-image of the Jina's two feet."
+    },
+    {
+      "token": "નિચ્ચં",
+      "translit": "niccaṁ",
+      "gloss": "always, constantly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit nicca < Skt. nitya 'constant, perpetual'; adverbial accusative 'constantly'"
+    },
+    {
+      "token": "ચિઅ",
+      "translit": "cia",
+      "gloss": "verily, ever (emphatic)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit cia / ccia < Skt. eva, emphatic particle; reinforces niccaṁ → 'constantly, without fail'"
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "who (those who)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je < Skt. ye, relative pronoun, nom. masc. pl."
+    },
+    {
+      "token": "નમંતિ",
+      "translit": "namaṁti",
+      "gloss": "bow down, venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namai < Skt. namati, √nam 'to bow, salute'; 3rd pers. pl. present (namanti)"
+    },
+    {
+      "token": "નરા",
+      "translit": "narā",
+      "gloss": "men, people",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nara 'man, person'; nom. masc. pl. narāḥ — the subject of both namaṁti and pāvaṁti"
+    }
+  ],
+  "literalTranslation": "With their vessels unshattered, in a single moment they reach the longed-for shore — those men who, constantly and without fail, bow to the pair of feet of Pārśva-Jina.",
+  "idiomaticTranslation": "Those who never cease to bow at the two feet of Pārśva the Victor — their boat rides out the storm uncracked, and in a moment they touch the shore their heart was set upon.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is the 'rescue' half of the shipwreck pair: where the preceding verse left the reader inside the roar of a wind-lashed ocean with the helmsman paralysed by terror, this verse answers it without naming the storm again — it simply delivers the devotee to safety. Notice the poet's deliberate inversion: the fruit (avidaliya jāṇavattā khaṇeṇa pāvaṁti icchiyaṁ kūlaṁ — 'boat intact, in a moment they gain the wished-for shore') is placed first, and the condition (je namaṁti narā — 'the men who bow') is held back to the very end, so the listener tastes deliverance before learning its cause. Two concrete touches give the verse its force. First, avidaliya jāṇavattā: it is not merely the passengers who survive but the hull itself that stays whole — protection extends to one's livelihood and goods, not just bare life. Second, khaṇeṇa, 'in a moment' — grace is immediate, collapsing the long terror of the sea into an instant of arrival. The hinge of the whole verse is niccaṁ cia, 'constantly, without fail': the deliverance is promised not to a panic-stricken cry in the storm but to the man whose bowing is already a daily habit. The danger-verse thus quietly teaches that refuge is built in calm weather and cashed in the crisis. The object of that refuge is, as throughout the hymn, the calaṇa-jualaṁ — the pair of feet — the fixed point to which the frightened devotee clings.",
+    "doctrinalContext": "The verse rests on the Jain conviction that vandana — bowing to the Jina's feet — is itself efficacious karma-conduct, generating puṇya and the protective disposition of the guardian deities, rather than the Jina actively intervening (the vītarāga acts on no one). The 'desired shore' works on two registers at once: the literal coastline the sailor seeks, and the 'far bank' of the ocean of saṁsāra (bhava-sāgara), the standard Jain figure for the sea of rebirth that the practitioner longs to cross. Thus the same act that secures worldly safety (laukika phala) is, for the advanced reader, an image of crossing to liberation. The stress on niccaṁ ('constant' devotion) aligns with the broader logic of the Smaraṇas: steady, repeated remembrance — not occasional bargaining — is what reshapes the soul and draws protection.",
+    "practicalRelevance": "Recited before or during travel and danger, the verse trains the reciter to make veneration a daily constant rather than an emergency measure — so that when the literal or figurative storm comes, the refuge is already familiar. Each recitation reframes one's own crises as a 'sea' to be crossed and points the mind to a fixed, steadying object: Pārśva's feet.",
+    "crossReferences": [
+      {
+        "text": "Companion sea-rescue stanza praising the Jina who carries the devotee across the ocean ('ambhonidhau...')",
+        "source": "Bhaktāmara Stotra (attrib. Mānatuṅga), v. on deliverance at sea"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra — sister Pārśva-hymn on his protective, fear-removing power",
+        "source": "Upasargahara Stotra (4th Smaraṇa), attrib. Bhadrabāhu"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara addressed in pāsajiṇa, and his standing as object of protective devotion"
+    },
+    {
+      "title": "Bhaktamara Stotra (and Manatunga)",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Mānatuṅga authorship tradition shared with this hymn, and the parallel sea-deliverance topos in fear-removing stotras"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: yāna-pātra, kūla, kṣaṇa, prāp (√āp), caraṇa, yugala, nitya, √nam"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Reading: avidaliya-jāṇavattā is taken as a bahuvrīhi qualifying narā ('men whose boats are unbroken'); some recensions construe jāṇavattā as an independent nominative plural ('the vessels [reach]...'), with little change of sense. jāṇavatta < yāna-pātra ('boat') is secure; the gloss 'flame' sometimes seen for juala is mistaken — juala = yugala 'pair'. cia is the emphatic eva (also written ccia in other manuscripts). The 'desired shore' (icchiyaṁ kūlaṁ) is read on two levels — literal coast and the far bank of saṁsāra — the latter is interpretive, flagged as such. Token spellings (e.g. ઇચ્છિયં, જુઅલં) follow the supplied source verbatim and may differ from other printed recensions; web auto-summaries on this verse were found unreliable and were not relied upon for the gloss."
+}

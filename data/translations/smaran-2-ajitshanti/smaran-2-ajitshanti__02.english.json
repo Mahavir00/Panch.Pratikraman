@@ -1,0 +1,168 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Those two perfect Jinas—wholly free of evil, made pure by their austerity, and of unmatched glory—I now praise with firm, heartfelt devotion.",
+  "recitation": "vavagaya-maṁgula-bhāve, tehaṁ viula-tava-nimmala-sahāve; niruvama-mahappabhāve, thosāmi sudiḍha-sabbhāve.",
+  "wordByWord": [
+    {
+      "token": "વવગય",
+      "translit": "vavagaya",
+      "gloss": "departed, dispelled, [in whom evil] has gone away",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit vyapagata (vi-apa-√gam), 'gone away, removed'; cf. Pali vyapagata 'departed.'",
+      "notes": "First member of the bahuvrīhi vavagaya-maṁgula-bhāve, 'in whom inauspicious states have wholly departed.'"
+    },
+    {
+      "token": "મંગુલ",
+      "translit": "maṁgula",
+      "gloss": "evil, inauspiciousness, taint",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṁgula = Sanskrit amaṅgala, 'the inauspicious'; with loss of the initial a- and a -la formant.",
+      "notes": "The thing negated/removed: amaṅgala-bhāva, every inauspicious inner state."
+    },
+    {
+      "token": "ભાવે",
+      "translit": "bhāve",
+      "gloss": "in (their) states / dispositions",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhāva (√bhū), 'state, condition, mental disposition'; Prakrit/Apabhraṁśa ending -e.",
+      "notes": "Closes the compound: 'whose dispositions are void of all evil.' First of four chiming -bhāve / -sahāve / -pabhāve / -sabbhāve cadences."
+    },
+    {
+      "token": "તેહં",
+      "translit": "tehaṁ",
+      "gloss": "those (two)—[whom] I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sandhi of te ('those,' du./pl.) + (a)haṁ = Sanskrit aham, 'I.'",
+      "notes": "te = the two Jinas, object of thosāmi; ahaṁ = the praising poet. Some editions print 'te haṁ' as two words."
+    },
+    {
+      "token": "વિઉલ",
+      "translit": "viula",
+      "gloss": "vast, ample, abundant",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viula = Sanskrit vipula, 'large, extensive.'",
+      "notes": "Qualifies tava: 'vast austerity.'"
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, penance (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava = Sanskrit tapas, 'ascetic heat, austerity.'",
+      "notes": "The named means of purification within viula-tava-nimmala-sahāve."
+    },
+    {
+      "token": "નિમ્મલ",
+      "translit": "nimmala",
+      "gloss": "stainless, pure",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nimmala = Sanskrit nirmala (nir + mala), 'free of impurity'; conjunct rm > mm.",
+      "notes": "Predicates purity of the Jinas' nature, achieved through tapas."
+    },
+    {
+      "token": "સહાવે",
+      "translit": "sahāve",
+      "gloss": "in (their) innate nature",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahāva = Sanskrit svabhāva (sva + bhāva), 'innate nature'; ending -e.",
+      "notes": "viula-tava-nimmala-sahāve = 'whose very nature is made stainless by vast austerity.'"
+    },
+    {
+      "token": "નિરુવમ",
+      "translit": "niruvama",
+      "gloss": "incomparable, peerless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit niruvama = Sanskrit nirupama (nir + upamā), 'without comparison.'",
+      "notes": "Heads niruvama-mahappabhāve, 'of incomparable great majesty.'"
+    },
+    {
+      "token": "મહપ્પભાવે",
+      "translit": "mahappabhāve",
+      "gloss": "of great majesty / mighty glory",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahappabhāva = Sanskrit mahāprabhāva (mahā + prabhāva); conjunct hp/pr > pp; ending -e.",
+      "notes": "The visible prabhāva (splendour, might) of an Arhat."
+    },
+    {
+      "token": "થોસામિ",
+      "translit": "thosāmi",
+      "gloss": "I will praise / I praise (them)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thosāmi = Sanskrit stoṣyāmi, 1 sg. future of √stu, 'to praise, extol, hymn.'",
+      "notes": "The governing verb of the opening couplet—advancing from paṇivayāmi ('I bow,' v.1) to thosāmi ('I will praise')."
+    },
+    {
+      "token": "સુદિઢ",
+      "translit": "sudiḍha",
+      "gloss": "firm, steadfast",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sudiḍha = Sanskrit sudṛḍha (su + dṛḍha), 'very firm.'",
+      "notes": "Book reads સુદિઢ (sudiḍha); the widely printed variant is sudiṭṭha = Sanskrit sudṛṣṭa, 'well-discerned, clearly seen.' Either way it qualifies the manner of praise."
+    },
+    {
+      "token": "સપ્ભાવે",
+      "translit": "sabbhāve",
+      "gloss": "with true / genuine devotion",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sabbhāva = Sanskrit sadbhāva (sat + bhāva), 'genuine feeling, true sentiment, veneration'; conjunct dbh > bbh.",
+      "notes": "Adverbial of manner: '(I praise) with firm, heartfelt devotion.' Pointed bhāva-echo—the Jinas are vavagaya-maṁgula-bhāve, the devotee offers sad-bhāve."
+    }
+  ],
+  "literalTranslation": "Those two [Jinas], in whom inauspicious states have wholly departed, whose nature is made stainless by vast austerity, of incomparable great majesty—them I will praise with firm, true devotion.",
+  "idiomaticTranslation": "Those two Jinas—every trace of evil gone from them, their very being purified by boundless austerity, their majesty beyond all compare—I now extol with steadfast, heartfelt devotion.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza completes the movement begun in v.1. There the poet only bowed (paṇivayāmi); here he names the verb that drives the whole hymn—thosāmi, 'I will praise'—and supplies the grounds for praising in three tight epithets, each sealed by a -bhāve cadence. First, vavagaya-maṁgula-bhāve: the two Jinas are emptied of every amaṅgala, every inauspicious inner state. Second, viula-tava-nimmala-sahāve: their nature is stainless, and the instrument is named outright—'vast austerity,' the tapas that burns away karma. Third, niruvama-mahappabhāve: an incomparable majesty, the outward prabhāva that crowns inward purity. Then the fourth -bhāve turns the lens inward onto the reciter: sudṛḍha-sabbhāve, 'with firm, genuine feeling.' The four rhyming endings (bhāve / sahāve / pabhāve / sabbhāve) are not ornament alone; they thread the Jinas' purified states to the poet's sincere one, so that the verse argues, sonically, that only a true bhāva is fit to praise beings void of false bhāva. The book's સુદિઢ (sudṛḍha, 'firm') is read here for steadfastness; many editions carry sudiṭṭha (sudṛṣṭa, 'clearly discerned'), which would stress praise born of clear insight rather than firmness—both cohere. With the qualifications now declared, the hymn is poised to release its great refrain in v.3, namo ajiya-saṁtiṇaṁ.",
+    "doctrinalContext": "Bhāva—inner disposition—is the hinge of Jain soteriology: it is one's mental state that binds or sheds karma. The Jinas' freedom from amaṅgala-bhāva images the destruction of the kaṣāyas and the four ghātī karmas; their nimmala-sahāva 'by tapas' points precisely to nirjarā, the shedding of karma through austerity (a core tattva). The reciter's own sudṛḍha-sabbhāve enacts bhāva-stuti: praise whose worth lies in sincerity of feeling, not in mere syllables—consonant with the wider principle that inner (bhāva) worship outranks merely external act.",
+    "practicalRelevance": "The verse instructs its own manner of recitation: do not chant mechanically but offer the praise with sudṛḍha-sabbhāva—firm, sincere feeling. Holding in mind that the Jina you praise is wholly free of inner evil and purified by austerity, let that purity become the aspiration of your own bhāva as you recite.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava v.1 (paṇivayāmi)—the bow that this verse turns into praise (thosāmi)",
+        "source": "Nandiṣeṇasūri; Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 9.3, 'tapasā nirjarā ca'—austerity (tapas) effects the shedding of karma, grounding nimmala-sahāve",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava)—the parallel act of stuti to the purified Jinas",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajit Shanti Stotra Stavan with Lyrics (verbatim Prakrit text, v.2)",
+      "url": "https://www.jainstutistavan.com/2020/03/ajit-santi-stotra-stavan-with-lyrics.html",
+      "type": "translation",
+      "consultedFor": "Verbatim verse-2 text 'ववगय-मंगुल-भावे… थोसामि सुदिट्ठ-सब्भावे' and the variant sudiṭṭha vs the book's sudiḍha."
+    },
+    {
+      "title": "Vyapagata — Sanskrit/Pali dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/vyapagata",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vavagaya < vyapagata, 'gone away, departed, removed.'"
+    },
+    {
+      "title": "Stu (√stu) — Apte Practical Sanskrit-English Dictionary",
+      "url": "https://www.wisdomlib.org/definition/stu",
+      "type": "dictionary",
+      "consultedFor": "Root √stu 'to praise' and future stoṣyāmi underlying Prakrit thosāmi."
+    },
+    {
+      "title": "Nirupama — Sanskrit dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/nirupama",
+      "type": "dictionary",
+      "consultedFor": "Gloss of niruvama < nirupama, 'incomparable, peerless.'"
+    },
+    {
+      "title": "Sadbhava — Sanskrit dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/sadbhava",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sabbhāve < sadbhāva, 'genuine feeling, true sentiment, veneration.'"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse text matches the book verbatim. Two readings of the penultimate token exist: the book prints સુદિઢ (sudiḍha = Skt. sudṛḍha, 'firm') while many editions read sudiṭṭha (= Skt. sudṛṣṭa, 'well-discerned'); both qualify the praise and are noted. તેહં is printed as one word in the book and parsed as te + (a)haṁ ('those—I'); some editions print 'te haṁ.' The recurring -e endings are Prakrit/Apabhraṁśa case forms; the three compounds qualify the dual Jinas while the final sabbhāve is read adverbially (manner of praising). The future thosāmi is taken in a present-resolve sense ('I now praise')."
+}

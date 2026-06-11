@@ -1,0 +1,220 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "When Ajita and Śānti were born, the thirty-two Indras bathed the infants on the summit of Mount Meru, delighting the sky-beings, humans, and gods — so may these two Lords be victorious in the world.",
+  "recitation": "jammakālaṁmi je asura sura bhāsure, nhaviya battīsa indehiṁ suragiri sire. khayar nara amar āṇaṁda vaddhārayā, jayau jagi ajiya saṁtī ya bhaṭṭārayā.",
+  "wordByWord": [
+    {
+      "token": "જમ્મકાલંમિ",
+      "translit": "jammakālaṁmi",
+      "gloss": "at the time of (their) birth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit janma-kāle; compound janma (birth) + kāla (time), with Prakrit locative ending -ṁmi (= Skt. -e).",
+      "notes": "The -ṁmi locative is a characteristic Prakrit/Apabhraṁśa case-form; it frames the whole verse as the birth-moment."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "they who (relative pronoun)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit from Sanskrit ye, nominative plural of the relative yad.",
+      "notes": "Sets up a relative clause resolved by 'jayau … bhaṭṭārayā' in the second line."
+    },
+    {
+      "token": "અસુર",
+      "translit": "asura",
+      "gloss": "asuras (the demon-class / Bhavanapati gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit asura, retained unchanged in Prakrit.",
+      "notes": "Paired with sura to mean 'the whole host of celestials' attending the birth."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, devas",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sura, 'shining one,' a god.",
+      "notes": "With asura forms the merism asura-sura = 'every order of divine being.'"
+    },
+    {
+      "token": "ભાસુરે",
+      "translit": "bhāsure",
+      "gloss": "resplendent, radiant (locative/qualifying the shining assembly)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit bhāsura, 'shining,' from root √bhās (to shine); Prakrit -e ending.",
+      "notes": "Most naturally read as 'amid the asura-and-sura host that was ablaze with light'; some reciters read it as describing the radiant newborns themselves — see notes."
+    },
+    {
+      "token": "ન્હવિય",
+      "translit": "nhaviya",
+      "gloss": "(were) bathed / consecrated",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past participle from Sanskrit snāpita (caused to bathe), root √snā; Prakrit reduces sn- to nh-.",
+      "notes": "The technical janma-abhiṣeka, the ceremonial birth-bath of a Tīrthaṅkara."
+    },
+    {
+      "token": "બત્તીસ",
+      "translit": "battīsa",
+      "gloss": "thirty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Sanskrit dvātriṁśat (32).",
+      "notes": "Counts the Indras who perform the bath; some recensions of the abhiṣeka episode tally sixty-four Indras — see notes."
+    },
+    {
+      "token": "ઇંદેહિં",
+      "translit": "indehiṁ",
+      "gloss": "by the Indras",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit indraiḥ, instrumental plural of indra; Prakrit instrumental plural ending -ehiṁ.",
+      "notes": "Instrumental marks the Indras as the agents of the bathing."
+    },
+    {
+      "token": "સુરગિરિ",
+      "translit": "suragiri",
+      "gloss": "on the mountain of the gods (Meru)",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit sura-giri, 'gods' mountain'; sura (god) + giri (mountain) = Mount Meru.",
+      "notes": "Stands in apposition to sire; together 'on Meru's summit.'"
+    },
+    {
+      "token": "સિરે",
+      "translit": "sire",
+      "gloss": "on the crest, summit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit śire, locative of śiras (head, peak).",
+      "notes": "Pin-points the place of the abhiṣeka — the very crown of Meru."
+    },
+    {
+      "token": "ખયર",
+      "translit": "khayar",
+      "gloss": "sky-goers (khecaras / vidyādharas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit khecara, 'moving in the sky' (khe, in the sky + cara, going).",
+      "notes": "Here clearly the semi-divine sky-faring vidyādharas, not the homonym 'destroyer'; first member of the triad khayar-nara-amara."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "men, human beings",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit nara, 'man.'",
+      "notes": "The middle, human term of the three-world audience."
+    },
+    {
+      "token": "અમર",
+      "translit": "amara",
+      "gloss": "gods, the immortals",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit a- (not) + mara (dying) = 'deathless,' a god.",
+      "notes": "Completes khecara–human–god, i.e. the upper, middle, and aerial inhabitants who all rejoice."
+    },
+    {
+      "token": "આણંદ",
+      "translit": "āṇaṁda",
+      "gloss": "joy, bliss",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit ānanda, 'joy,' from root √nand.",
+      "notes": "Object of the following 'increasers.'"
+    },
+    {
+      "token": "વદ્ધારયા",
+      "translit": "vaddhārayā",
+      "gloss": "(they who are) the increasers / heighteners",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit causative agent-noun from Sanskrit vardhaka / vardhayitṛ, 'one who makes grow,' root √vṛdh (to increase).",
+      "notes": "Epithet of the two Jinas: 'augmenters of the joy of sky-goers, men, and gods.'"
+    },
+    {
+      "token": "જયઉ",
+      "translit": "jayau",
+      "gloss": "may (they) be victorious!",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Sanskrit jayatu, third-person imperative of √ji (to conquer).",
+      "notes": "The benedictory core of the verse; though singular in form it acclaims both Jinas jointly."
+    },
+    {
+      "token": "જગિ",
+      "translit": "jagi",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit jagati, locative of jagat (world).",
+      "notes": "Here locative 'in the world,' not the homophonous optative 'may arise.'"
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita (the 2nd Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit from Sanskrit Ajita, 'the unconquered.'",
+      "notes": "First of the twin subjects."
+    },
+    {
+      "token": "સંતી",
+      "translit": "saṁtī",
+      "gloss": "Śānti (the 16th Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit from Sanskrit Śānti, 'peace.'",
+      "notes": "Second of the twin subjects; ajiya-saṁtī is the hymn's recurring dual name."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit ca, Prakrit ya, conjunction.",
+      "notes": "Couples Ajita and Śānti as the joint recipients of the benediction."
+    },
+    {
+      "token": "ભટ્ટારયા",
+      "translit": "bhaṭṭārayā",
+      "gloss": "the venerable Lords",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit bhaṭṭāraka, 'most venerable lord,' honorific of √bhṛ.",
+      "notes": "Closes the verse by titling the pair as supreme lords worthy of homage."
+    }
+  ],
+  "literalTranslation": "At their birth-time — they who, amid the radiant host of asuras and suras, were bathed by the thirty-two Indras on the summit of Meru, the mountain of the gods; the increasers of the joy of sky-goers, men, and gods — may they be victorious in the world, the venerable Lords Ajita and Śānti.",
+  "idiomaticTranslation": "In the hour of their birth, while the whole shining throng of gods and demigods looked on, the thirty-two Indras bathed the two infant Jinas on Meru's lofty crown; swelling the gladness of sky-beings, of humankind, and of the deathless gods. Victory, then, to these venerable Lords Ajita and Śānti throughout the world!",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 1 invoked the two Jinas at the threshold of their careers, this verse opens their life-story at its first public miracle: the janma-abhiṣeka. The locative jammakālaṁmi fixes the exact moment of birth, and nhaviya … battīsa indehiṁ suragiri sire compresses the whole grand episode into a single image — the thirty-two Indras lifting the newborns to the crown of Meru and pouring the consecration-waters over them. The phrase asura sura bhāsure widens the frame so that the entire celestial spectrum, bright with its own radiance, stands witness. The second line shifts from event to effect: the bath is not merely honour paid to the infants but joy diffused outward — khayar nara amar āṇaṁda vaddhārayā names the three tiers of the cosmos (aerial vidyādharas, earthly humans, heavenly gods) whose gladness the Jinas 'increase.' Thus the very birth of a Tīrthaṅkara is already a benefit conferred on all worlds. The verse then turns the narrative into prayer: jayau jagi … bhaṭṭārayā — 'may these venerable Lords triumph in the world.' The dual name ajiya saṁtī, sealed by the simple conjunctive ya, keeps the twin-address that runs through the hymn; the grammatically singular jayau is to be heard as acclaiming both. In a few Apabhraṁśa lines the poet has moved from cosmic event to universal joy to devotional benediction — the characteristic three-beat rhythm of a Jina-stava verse.",
+    "doctrinalContext": "The janma-kalyāṇaka (birth-auspiciousness) is the first of the five kalyāṇakas that punctuate every Tīrthaṅkara's life, and the Indra-led bathing of the infant on Meru is its signature rite — an acknowledgement by the highest beings of the cosmos that one destined to ford the ocean of saṁsāra has appeared. Doctrinally significant is that the Jinas are 'increasers of joy' (āṇaṁda-vaddhārayā): a Tīrthaṅkara's worth is measured by benefit to others across the three abodes, foreshadowing the tīrtha (the fourfold community) they will establish. The triad khecara–nara–amara also asserts the universality of that benefit — it crosses the boundaries of birth-realm. The number battīsa (thirty-two) follows this book's reckoning of the bathing Indras.",
+    "practicalRelevance": "Recited in the Pākṣika reflection, this verse invites the worshipper to relocate joy at its source: just as sky-beings, humans and gods drew gladness from the Jinas' mere birth, the reciter renews delight in the path itself rather than in transient gains. Visualising the Meru-bath while chanting jayau jagi turns abstract veneration into a felt act of homage, steadying the mind for the atonement that follows.",
+    "crossReferences": [
+      {
+        "text": "Kalpa-sūtra, accounts of the janma-abhiṣeka of the Tīrthaṅkaras on Mount Meru",
+        "source": "Bhadrabāhu, trans. H. Jacobi, Jaina Sūtras (SBE 22)"
+      },
+      {
+        "text": "Ajitaśānti Stava (2nd Smaraṇa), the longer companion hymn jointly praising Ajita and Śānti",
+        "source": "Nandiṣeṇasūri"
+      },
+      {
+        "text": "Laghu Ajitaśānti Stava verse 1 (the immediately preceding verse), invoking the two Jinas hymned by their mothers and the Saudharma gods",
+        "source": "Vīragaṇin"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — snā/snāpita, vardhaka, khecara, bhaṭṭāraka, jagat",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit forms nhaviya, vaddhārayā, khayar, bhaṭṭārayā, jagi"
+    },
+    {
+      "title": "jainQQ Digital Jain Library — janma-kalyāṇaka and the Meru birth-abhiṣeka by the Indras",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "The ritual of the Indras bathing the newborn Tīrthaṅkara on Meru and its place among the five kalyāṇakas"
+    },
+    {
+      "title": "Tīrthaṅkara — kalyāṇakas, janma-abhiṣeka and the role of Indra",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Corroboration of the birth-consecration episode and the cosmology of the bathing Indras"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Verse text preserved verbatim from the book (e.g. ન્હવિય, બત્તીસ, જમ્મકાલંમિ). Two ambiguities: (1) bhāsure most naturally qualifies the asura-sura assembly ('radiant host'), but can be read of the radiant newborns — both yield the same scene. (2) battīsa = 32 follows the book's reckoning of the bathing Indras; several abhiṣeka accounts (e.g. some Kalpa-sūtra narrations) speak of sixty-four Indras, so the count is tradition-specific, not contradicted here. khayar is taken as khecara ('sky-goer') from the triad khayar-nara-amara, not the homonym 'destroyer'; jagi as locative 'in the world' (jagati), not an optative. Singular jayau is read as a joint acclamation of both Jinas, per the hymn's dual address."
+}

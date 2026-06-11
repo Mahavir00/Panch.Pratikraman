@@ -1,0 +1,155 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/22",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "There are countless billions of eternal Jina-images in the lower world, and I bow to them all with my two hands folded.",
+  "recitation": "lākha sāṭha nevyāsī koḍī, ane terseṁ koḍī; jina paḍimā śrī-jina-taṇī, vandūṁ be kara joḍī",
+  "wordByWord": [
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "from Sanskrit lakṣa, 'one hundred thousand'; Prakrit/old-Gujarati lakkha > lākh",
+      "notes": "Read with sāṭh as 'sixty lakh' (sāṭh lākh, poetic inversion)."
+    },
+    {
+      "token": "સાઠ",
+      "translit": "sāṭha",
+      "gloss": "sixty",
+      "partOfSpeech": "adj",
+      "etymology": "from Sanskrit ṣaṣṭi 'sixty'; Prakrit saṭṭhi > Gujarati sāṭh"
+    },
+    {
+      "token": "નેવ્યાસી",
+      "translit": "nevyāsī",
+      "gloss": "eighty-nine",
+      "partOfSpeech": "adj",
+      "etymology": "from Sanskrit navāśīti 'eighty-nine'; Prakrit ṇavāsīi > Gujarati nevyāsī",
+      "notes": "Qualifies koḍī: 'eighty-nine crore'."
+    },
+    {
+      "token": "કોડી",
+      "translit": "koḍī",
+      "gloss": "crore (ten million)",
+      "partOfSpeech": "noun",
+      "etymology": "from Sanskrit koṭi 'ten million, the highest place-value'; Prakrit koḍi > koḍī"
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati conjunctive ane, from Sanskrit anyat / Apabhraṁśa aṇṇa-i 'and, further'"
+    },
+    {
+      "token": "તેરસેં",
+      "translit": "terseṁ",
+      "gloss": "thirteen hundred (1300)",
+      "partOfSpeech": "adj",
+      "etymology": "tera (Skt. trayodaśa 'thirteen') + seṁ (Skt. śata 'hundred'); 'thirteen hundreds' = 1300",
+      "notes": "Qualifies the following koḍī: terseṁ koḍī = 1300 crore."
+    },
+    {
+      "token": "કોડી",
+      "translit": "koḍī",
+      "gloss": "crore (ten million)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit koṭi; repeated to complete the second numeric block (1300 crore)",
+      "notes": "Second occurrence of koḍī, governing terseṁ."
+    },
+    {
+      "token": "જિન",
+      "translit": "jina",
+      "gloss": "Jina (the awakened conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jina, 'conqueror' (of passions), from √ji 'to conquer'",
+      "notes": "In compound with paḍimā: 'Jina-image'."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "image(s), icon(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā, from Sanskrit pratimā 'likeness, image' (prati + √mā 'to measure/form')",
+      "notes": "Number is unmarked (collective plural) — 'the Jina-images', the bimbas just enumerated."
+    },
+    {
+      "token": "શ્રીજિનતણી",
+      "translit": "śrī-jina-taṇī",
+      "gloss": "of the holy Jina",
+      "partOfSpeech": "compound",
+      "etymology": "śrī (honorific 'venerable') + jina + taṇī, the feminine old-Gujarati genitive particle 'of' (from Sanskrit *tanaka-); agrees with feminine paḍimā",
+      "notes": "taṇī is a possessive postposition ('of'), inflected feminine to agree with paḍimā."
+    },
+    {
+      "token": "વંદું",
+      "translit": "vandūṁ",
+      "gloss": "I bow to, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit vande (√vand 'to praise, salute, worship'); old-Gujarati 1st-person present vandūṁ 'I bow'",
+      "notes": "The single finite verb of the verse; first-person, making the cosmic count a personal act of homage."
+    },
+    {
+      "token": "બે",
+      "translit": "be",
+      "gloss": "two",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit dvi 'two'; Prakrit be/be > Gujarati be"
+    },
+    {
+      "token": "કર",
+      "translit": "kara",
+      "gloss": "hand(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kara 'hand' (from √kṛ 'to do')"
+    },
+    {
+      "token": "જોડી",
+      "translit": "joḍī",
+      "gloss": "joining, folding together",
+      "partOfSpeech": "verb",
+      "etymology": "absolutive/participle of joḍvuṁ 'to join, unite', from Sanskrit yojayati (√yuj 'to join')",
+      "notes": "be kara joḍī = 'with the two hands joined' — the añjali gesture of reverence."
+    }
+  ],
+  "literalTranslation": "Sixty lakh, eighty-nine crore, and thirteen hundred crore — the images of the holy Jina — I venerate, my two hands joined.",
+  "idiomaticTranslation": "Thirteen hundred crore, eighty-nine crore, and sixty lakh — so many eternal images of the blessed Jina! With my two palms pressed together I bow to every one of them.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse completes the lower-world (adho-loka) leg of the census that the previous verse opened. There the poet had counted the Jina-temples of the Bhavanapati realms — 'seven crore and seventy-two lakh jinhar'; here he counts the paḍimās enshrined within them. The three numeric blocks — sixty lakh, eighty-nine crore, and thirteen-hundred crore — sum to 13,89,60,00,000 (thirteen arab, eighty-nine crore, sixty lakh) eternal Jina-images, exactly the traditional reckoning of 180 śāśvata bimbas in each of the 7,72,00,000 lower-world shrines just named. The pairing is deliberate: temples in one verse, the images that fill them in the next, so the worshipper sees not empty halls but every shrine occupied by the form of the Jina. The numbers are piled up first, in apposition, and only at the very end does the single verb arrive — 'vandūṁ', I bow — collapsing this staggering total into one intimate act. The closing phrase 'be kara joḍī', the two hands folded in añjali, is the verse's emotional centre: against billions of images stands one small pair of hands. That contrast is the whole devotional point. The verse also turns on 'śrī-jina-taṇī', 'of the holy Jina' — every one of those countless icons is a likeness of the same awakened one, so to bow to all of them is to bow to the single ideal they embody. The following verse will release the tally into the immeasurable ('asaṅkhya') vyantara and jyotiṣka shrines; this verse is the last point at which the figures are still countable.",
+    "doctrinalContext": "The verse rests on the doctrine of the śāśvata jina-bimba — Jina-images that are eternal and uncreated, existing of themselves in fixed numbers throughout the cosmos, as distinct from the aśāśvata images consecrated by human hands. For the Mūrtipūjaka tradition this enumeration is a scriptural warrant for image-veneration itself: the Jina is rightly worshipped through his pratimā, and the very fabric of the universe is studded with such images. Bowing to the lower-world bimbas with folded hands is dravya-bhakti (devotion through the body and an external object) ordered toward bhāva-bhakti (inner reverence for the Jina's qualities).",
+    "practicalRelevance": "Reciting this at dawn, a worshipper lets the unimaginable count overwhelm the ego and then channels it into one concrete gesture — palms joined — so that vast cosmology becomes a single, doable act of homage. It trains the mind to see every Jina-image, however humble and local, as one of countless windows onto the same perfected soul.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse (kevalnani-chaityavandan/21): 'bahuṁtera tihāṁ lākha, sāta koḍī jinahara namuṁ' — the 7,72,00,000 lower-world Jina-temples whose images this verse counts.",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Jaina cosmographic tradition of śāśvata caityas with 180 bimbas each, as systematized in the Jīvābhigama and Jambūdvīpa-prajñapti.",
+        "source": "Śvetāmbara Āgama cosmography (traditional reckoning)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratimā: 40 definitions",
+      "url": "https://www.wisdomlib.org/definition/pratima",
+      "type": "dictionary",
+      "consultedFor": "Confirming paḍimā < Sanskrit pratimā 'image, likeness, icon' and its religious-image sense."
+    },
+    {
+      "title": "Śāśvata: 24 definitions",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Sense of śāśvata 'eternal, ever-existing', underpinning the śāśvata jina-bimba doctrine of the verse."
+    },
+    {
+      "title": "Bhavanapati: 6 definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/bhavanapati",
+      "type": "scholarship",
+      "consultedFor": "Identifying the lower-world Bhavanapati realm whose temples and images this verse enumerates."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Number parsing: 'lākh sāṭh' = 60 lakh; 'nevyāsī koḍī' = 89 crore; 'ane terseṁ koḍī' = 1300 crore; total 13,89,60,00,000 — which equals the previous verse's 7,72,00,000 lower-world shrines at the traditional 180 śāśvata images per shrine, confirming the reading. Spellings (નેવ્યાસી, તેરસેં, કોડી) are kept verbatim per the book's orthography. The daṇḍa '।' separating the two lines is structural punctuation, not a lexical token. The collective number of paḍimā is grammatically unmarked but contextually plural. Exact bimba-per-shrine figures are traditional cosmographic numbers preserved as printed, not independently audited."
+}

@@ -1,0 +1,202 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/30",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse tallies the eternal Jina-temples standing on certain cosmic mountains and islands and says that Ṛṣabha and his fellow ever-existing Jinas are the lords enshrined in them.",
+  "recitation": "mānuṣottara parvata tihāṁ cāra ja, nandīsaramāṁ vīśajī. kuṇḍala rucaka tihāṁ cāra cāra jinahara, ṛṣabhādika tihāṁ īśajī.",
+  "wordByWord": [
+    {
+      "token": "માનુષોત્તર",
+      "translit": "mānuṣottara",
+      "gloss": "Mānuṣottara — the ring-wall mountain that bounds the human world",
+      "partOfSpeech": "noun",
+      "etymology": "mānuṣa ('human') + uttara ('beyond, further'); Skt Mānuṣottara",
+      "notes": "The bangle-shaped barrier in mid-Puṣkaradvīpa past which no mortal is born or dies; four śāśvata caityas crown it in the four directions."
+    },
+    {
+      "token": "પર્વત",
+      "translit": "parvata",
+      "gloss": "mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt parvata 'mountain'",
+      "notes": ""
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati tihāṁ < Pkt tahiṁ / Skt tatra 'there'",
+      "notes": "A recurring deictic the poet uses to fix each cosmic site."
+    },
+    {
+      "token": "ચાર",
+      "translit": "cāra",
+      "gloss": "four",
+      "partOfSpeech": "numeral",
+      "etymology": "Skt catur > Pkt cattāri > Guj. cār",
+      "notes": "i.e. four jinahara (temples), one to each cardinal direction."
+    },
+    {
+      "token": "જ",
+      "translit": "ja",
+      "gloss": "just, only (emphatic)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati emphatic enclitic ja < Skt eva",
+      "notes": "Stresses the exact count: 'just four'."
+    },
+    {
+      "token": "નંદીસરમાં",
+      "translit": "nandīsaramāṁ",
+      "gloss": "in Nandīśvara (the isle)",
+      "partOfSpeech": "noun",
+      "etymology": "Nandīśvara ('lord of joy') + Gujarati locative -māṁ 'in'",
+      "notes": "The eighth and holiest dvīpa, venerated only by gods; spelled nandīsara (for nandīśvara) per the book."
+    },
+    {
+      "token": "વીશ",
+      "translit": "vīśa",
+      "gloss": "twenty",
+      "partOfSpeech": "numeral",
+      "etymology": "Skt viṁśati > Pkt vīsa > Guj. vīś",
+      "notes": "Counts twenty caityas here; see notes on the more familiar reckoning of fifty-two for Nandīśvara."
+    },
+    {
+      "token": "જી",
+      "translit": "jī",
+      "gloss": "honorific / devotional end-refrain particle",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati honorific jī",
+      "notes": "Written conjoined as વીશજી (vīśa+jī); the '…jī' is the reverential refrain closing each pāda of this dhāla, not a lexical word."
+    },
+    {
+      "token": "કુંડલ",
+      "translit": "kuṇḍala",
+      "gloss": "Kuṇḍala (isle / its mountain)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt kuṇḍala 'ring, earring'; the Kuṇḍala(vara)-dvīpa and its Kuṇḍalagiri",
+      "notes": ""
+    },
+    {
+      "token": "રુચક",
+      "translit": "rucaka",
+      "gloss": "Rucaka (isle / its mountain)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt rucaka; the Rucaka(vara)-dvīpa and its Rucakagiri",
+      "notes": ""
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in those places",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati tihāṁ < Pkt tahiṁ / Skt tatra",
+      "notes": "Second occurrence, now governing both Kuṇḍala and Rucaka."
+    },
+    {
+      "token": "ચાર",
+      "translit": "cāra",
+      "gloss": "four",
+      "partOfSpeech": "numeral",
+      "etymology": "Skt catur > Pkt cattāri",
+      "notes": ""
+    },
+    {
+      "token": "ચાર",
+      "translit": "cāra",
+      "gloss": "four (reduplicated: 'four apiece')",
+      "partOfSpeech": "numeral",
+      "etymology": "distributive reduplication cāra cāra = 'four each'",
+      "notes": "The doubling assigns four temples to each of the two isles — the same fourfold directional symmetry as Mānuṣottara."
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinahara",
+      "gloss": "Jina-temples (jinālaya)",
+      "partOfSpeech": "noun",
+      "etymology": "jina + ghara/hara ('house, abode'); = Skt jinālaya / jinabhavana",
+      "notes": "Book spelling jinahara; the unit being counted throughout this dhāla."
+    },
+    {
+      "token": "ઋષભાદિક",
+      "translit": "ṛṣabhādika",
+      "gloss": "Ṛṣabha and the rest",
+      "partOfSpeech": "compound",
+      "etymology": "Ṛṣabha + ādika ('…and the others')",
+      "notes": "Names the four eternal (śāśvata) Jina-figures borne by every śāśvata image: Ṛṣabha(-ānana), Candrānana, Vāriṣeṇa, Vardhamāna."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in them",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati tihāṁ < Pkt tahiṁ / Skt tatra",
+      "notes": "Third occurrence, locating the enshrined Jinas within the temples just counted."
+    },
+    {
+      "token": "ઇશ",
+      "translit": "īśa",
+      "gloss": "lord(s), presiding deity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt īśa 'lord, ruler' (root īś- 'to rule')",
+      "notes": "The eternal Jinas are the īśa — the abiding 'lords' enshrined in these temples."
+    },
+    {
+      "token": "જી",
+      "translit": "jī",
+      "gloss": "honorific / devotional end-refrain particle",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati honorific jī",
+      "notes": "Written conjoined as ઇશજી (īśa+jī); closes the pāda with the same reverential refrain."
+    }
+  ],
+  "literalTranslation": "On the Mānuṣottara mountain there are just four (Jina-temples); in Nandīśvara, twenty. On Kuṇḍala and on Rucaka, four temples each there — and there Ṛṣabha and the rest (the eternal Jinas) are the lords (enshrined).",
+  "idiomaticTranslation": "Upon the great wall-mountain Mānuṣottara stand just four Jina-shrines; in holy Nandīśvara, twenty more. On Kuṇḍala and on Rucaka, four temples apiece — and within them all it is Ṛṣabha and his eternal companions who reign as the enshrined Lords.",
+  "elaboration": {
+    "verseByVerseCommentary": "The census of middle-world shrines presses outward beyond Meru (the previous verse) to the rim of the inhabited cosmos. First comes Mānuṣottara, the bangle-shaped wall ringing Puṣkaradvīpa that marks the very edge of the human realm — 'just four' (cāra ja) caityas crown it, one to each direction, the emphatic ja insisting on the exactness of the figure. Then the gaze leaps to Nandīśvara, the gods' most beloved isle of festival-worship, here credited with twenty shrines. Kuṇḍala and Rucaka, the outer ring-isles, each carry four, the reduplication cāra cāra spreading the same fourfold directional symmetry across both. That repeating 'four-to-a-direction' pattern is the verse's quiet aesthetic: cosmic architecture built on the maṇḍala of the four quarters. The climax is doctrinal, not numerical — ṛṣabhādika tihāṁ īśa: in every one of these temples it is not a temporal Tīrthaṅkara but the eternal foursome (Ṛṣabha and his companions) who 'reign' as the presiding Lords. The running tally is deliberately left open: it pours directly into the grand middle-world total announced in the next verse. The worshipper is not asked to add the numbers but to feel the reach of veneration extend to shrines no human foot can ever approach.",
+    "doctrinalContext": "The verse turns on the Jain doctrine of śāśvata caityas and bimbas — temples and images that are uncreated and eternal, never built and never destroyed, perpetually worshipped by the gods. Their defining mark is that every one of them enshrines the same four eternal Jina-names — Ṛṣabhānana, Candrānana, Vāriṣeṇa, Vardhamāna — so 'Ṛṣabha and the rest are the lords there' is a precise dogmatic statement, not a poetic flourish: it identifies whose form these countless icons bear. By placing these eternal Lords on Mānuṣottara (the boundary of the human world) and on the trans-human isles of Nandīśvara, Kuṇḍala and Rucaka, the verse affirms that Jina-presence saturates regions forever beyond human pilgrimage, which is precisely why bowing to them strengthens samyaktva (right faith) in what cannot be seen.",
+    "practicalRelevance": "Reciting this, the worshipper performs a mental pradakṣiṇā of shrines no mortal can physically reach, vandanā to the eternal Jinas worshipped by the gods themselves — a daily reminder that pratimā-pūjā connects the small self to a Jina-presence that is boundless and beginningless, not confined to the temple down the street.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 3.7 (Mānuṣottara as the limit of Manuṣya-loka)",
+        "source": "Umāsvāti; Encyclopedia of Jainism — Tattvartha Sutra 3"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 2.3 (description of Mānuṣottara mountain)",
+        "source": "Hemacandra; tr. Helen M. Johnson, archive.org"
+      },
+      {
+        "text": "Śāśvata-caitya / śāśvata-jina enumerations (Jīvābhigama, Bṛhat-saṅgrahaṇī tradition)",
+        "source": "Śvetāmbara cosmographic corpus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manushottara, Mānuṣottara — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/manushottara",
+      "type": "dictionary",
+      "consultedFor": "Confirming Mānuṣottara as the ring-mountain bounding the human world in mid-Puṣkaradvīpa and that it bears four Jina temples in the four directions."
+    },
+    {
+      "title": "Nandishvara, Nandīśvara — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/nandishvara",
+      "type": "dictionary",
+      "consultedFor": "Identity of Nandīśvara as the holy dvīpa of eternal Jina-shrines venerated by the gods."
+    },
+    {
+      "title": "Rishabhanana, Ṛṣabhānana — Monier-Williams / Cologne Sanskrit Lexicon",
+      "url": "https://www.wisdomlib.org/definition/rishabhanana",
+      "type": "dictionary",
+      "consultedFor": "Verifying Ṛṣabhānana as the proper name of an (eternal) Jina, the lead member of ṛṣabhādika."
+    },
+    {
+      "title": "Jina — definitions (eternal/śāśvata Jinas)",
+      "url": "https://www.wisdomlib.org/definition/jina",
+      "type": "dictionary",
+      "consultedFor": "The set of four eternal Jina-names (Ṛṣabhānana, Candrānana, Vāriṣeṇa, Vardhamāna) borne by śāśvata images."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The reading 'nandīsaramāṁ vīśa' (twenty in Nandīśvara) is preserved verbatim from the book and is the chief uncertainty here: the widely transmitted Śvetāmbara reckoning gives Nandīśvara fifty-two śāśvata caityas (4 añjanagiri + 16 dadhimukha + 32 ratikara). The figure 'twenty' may reflect this hymn's own/regional accounting, or count only the 4 añjanagiri + 16 dadhimukha shrines (= 20) — this is suggested, not asserted. Per the gaccha edition's orthography rules, the printed numbers and spellings (nandīsara for nandīśvara, jinahara, tihāṁ) are kept as-is and not normalized. 'īśa' is read as 'lord/presiding deity'; the four eternal names supplied in the gloss are drawn from the sutra preface, not re-coined here. This verse's counts are intentionally partial — they feed the middle-world (tiryag-loka) grand total of 511 temples stated in the following verse, so they should not be summed in isolation."
+}

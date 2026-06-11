@@ -1,0 +1,162 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/22",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Even while the demon Kamaṭha was attacking him, Pārśva never moved from his meditation — so let that Pārśva, praised by the maidens of gods, humans and kinnaras, be victorious.",
+  "recitation": "uvasaggante kamaṭhāsurammi, jhāṇāo jo na saṁcalio | sura nara kinnara juvaihiṁ, saṁthuo jayau pāsajiṇo ||",
+  "wordByWord": [
+    {
+      "token": "ઉવસગ્ગંતે",
+      "translit": "uvasaggante",
+      "gloss": "while (he) was inflicting the affliction; at the time of the upasarga",
+      "partOfSpeech": "participle",
+      "etymology": "locative singular of the present participle of uvasagga (Skt. upasarga, 'an ordeal directed at an ascetic') used verbally; the loc. forms a locative-absolute with the next word",
+      "notes": "Heads the locative-absolute clause 'while Kamaṭha-asura was inflicting the ordeal'. Some recensions split it as 'uvasaggaṁ te'."
+    },
+    {
+      "token": "કમઠાસુરમ્મિ",
+      "translit": "kamaṭhāsurammi",
+      "gloss": "upon Kamaṭha the asura; (when) Kamaṭha the demon",
+      "partOfSpeech": "noun",
+      "etymology": "kamaṭha + asura, locative singular in -mmi (Skt. kamaṭhāsure); Kamaṭha = the asura whose storm-and-flood assault Pārśva endured",
+      "notes": "Completes the locative-absolute: 'when Kamaṭha-asura was making the assault'."
+    },
+    {
+      "token": "ઝાણાઓ",
+      "translit": "jhāṇāo",
+      "gloss": "from (his) meditation",
+      "partOfSpeech": "noun",
+      "etymology": "jhāṇa (Skt. dhyāna, 'meditative absorption') + ablative ending -āo",
+      "notes": "Ablative of separation, governed by 'saṁcalio' ('moved away from')."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "who",
+      "partOfSpeech": "pronoun",
+      "etymology": "relative pronoun, masc. nom. sg. (Skt. yaḥ)",
+      "notes": "Antecedent is pāsajiṇo at the verse's end."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "negative particle (Skt. na)",
+      "notes": ""
+    },
+    {
+      "token": "સંચલિઓ",
+      "translit": "saṁcalio",
+      "gloss": "wavered; stirred; was shaken",
+      "partOfSpeech": "verb",
+      "etymology": "past participle saṁcalia (Skt. saṁcalita, 'moved, shaken') from saṁ + √cal, masc. nom. sg. -o",
+      "notes": "With preceding 'na': 'did not waver (from his dhyāna)' — the hinge of the verse."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "of gods",
+      "partOfSpeech": "noun",
+      "etymology": "sura (Skt. sura, 'deity'); first member of the compound qualifying 'juvaihiṁ'",
+      "notes": "Stem-form in compound 'sura-nara-kinnara-juvai-'."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "of men; of humans",
+      "partOfSpeech": "noun",
+      "etymology": "nara (Skt. nara, 'man'); second member of the compound",
+      "notes": ""
+    },
+    {
+      "token": "કિન્નર",
+      "translit": "kinnara",
+      "gloss": "of kinnaras (celestial musician-beings)",
+      "partOfSpeech": "noun",
+      "etymology": "kinnara (Skt. kiṁnara, a class of demigods); third member of the compound",
+      "notes": ""
+    },
+    {
+      "token": "જુવઇહિં",
+      "translit": "juvaihiṁ",
+      "gloss": "by the young women; by the maidens",
+      "partOfSpeech": "noun",
+      "etymology": "juvai (Skt. yuvatī, 'young woman') + instrumental plural -hiṁ (Skt. -bhiḥ); 'by the maidens of gods, men and kinnaras'",
+      "notes": "Instrumental agent of 'saṁthuo'. The whole compound = suranarakinnarayuvatībhiḥ; one may also read it loosely as 'by gods, men, kinnaras and (their) maidens'."
+    },
+    {
+      "token": "સંથુઓ",
+      "translit": "saṁthuo",
+      "gloss": "praised; extolled; well-lauded",
+      "partOfSpeech": "verb",
+      "etymology": "past participle saṁthua (Skt. saṁstuta, 'praised') from saṁ + √stu, masc. nom. sg. -o; cognate with saṁstava",
+      "notes": "Predicated of Pārśva, agreeing with pāsajiṇo."
+    },
+    {
+      "token": "જયઉ",
+      "translit": "jayau",
+      "gloss": "may he be victorious; hail (to him); let him triumph",
+      "partOfSpeech": "verb",
+      "etymology": "3rd person singular imperative of √ji (Skt. jayatu, 'let him conquer')",
+      "notes": "The benedictory acclamation that turns the verse from narration to triumphal homage."
+    },
+    {
+      "token": "પાસજિણો",
+      "translit": "pāsajiṇo",
+      "gloss": "Pārśva-jina; the Victor Pārśva",
+      "partOfSpeech": "compound",
+      "etymology": "pāsa (Skt. pārśva) + jiṇa (Skt. jina, 'victor'), masc. nom. sg. -o",
+      "notes": "Antecedent of 'jo'; subject of 'jayau'."
+    }
+  ],
+  "literalTranslation": "When Kamaṭha the asura was inflicting the ordeal, he who did not waver from his meditation — extolled by the maidens of gods, men and kinnaras — may that Pārśva-jina be victorious.",
+  "idiomaticTranslation": "While the demon Kamaṭha rained his ordeal upon him, Pārśva did not stir a hair's breadth from his meditation. Praised by the young women of the gods, of mortals, and of the kinnaras — to that victorious Pārśva-jina, all hail!",
+  "elaboration": {
+    "verseByVerseCommentary": "After twenty-one verses that promise the trembling devotee rescue from peril, this verse turns at last to the one who is himself perfectly beyond peril — and shows him in the very moment of maximum danger. The grammar enacts the contrast: a locative-absolute storm-clause ('uvasaggante kamaṭhāsurammi') frames the violence, while the quiet relative clause at its centre — 'jhāṇāo jo na saṁcalio', 'who did not waver from his meditation' — registers no motion at all. The single negated participle 'na saṁcalio' is the hinge of the whole hymn: the abhaya (fearlessness) that earlier verses begged for is here embodied, not petitioned. Pārśva is not saved from the danger; he simply is not moved by it. The verse then widens from this still point to a cosmic audience — the maidens of suras, naras and kinnaras singing his praise ('saṁthuo') — so that the same syllable-root that names the hymn (saṁstava) now names the act of the three worlds. The closing 'jayau pāsajiṇo' shifts the register decisively: the supplication of the danger-litany becomes a victory-cry. Note that 'jina' ('victor') is doubly earned here — Pārśva conquers both the outer assailant and, more truly, every inner impulse to flinch. The verse thus supplies the unspoken ground for all the rescues catalogued before it: the feet and name that protect devotees are powerful precisely because their owner was himself the unmoved meditator.",
+    "doctrinalContext": "The verse crystallises the Jain ideal of samatā — equanimity under upasarga — as the inner face of vītarāgatā (passionlessness). Steadiness in dhyāna while being attacked is not mere endurance but the visible sign that the soul has uprooted the kaṣāyas (passions) that fear feeds on; this is why he is called 'jina', the conqueror, in the same breath as he is shown unmoving. Kamaṭha embodies the doctrine of cross-birth enmity ripening as karma, set against Pārśva's unretaliating compassion — the assailant rages, the meditator neither resists nor recoils. The praise by celestial, human and kinnara maidens points to the principle that true spiritual mastery commands the homage of all gati (states of existence) without seeking it. For the bhayahara hymn this verse is the doctrinal keystone: protection flows from a fearlessness that the protector first perfected in himself.",
+    "practicalRelevance": "Having recited verse after verse asking Pārśva to remove outer dangers, the reciter here contemplates the source of that protective power and is invited to internalise it: when life delivers its own 'Kamaṭha' — provocation, loss, sudden dread — the practice is to remain 'na saṁcalio', unshaken in one's centre. The verse reframes devotion as imitation, not just petition: one steadies the mind by remembering a mind that storms could not stir.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggahara Stotra (4th Smaraṇa, also to Pārśva and the Kamaṭha episode)",
+        "source": "Nava Smaraṇa, Anchalgachchha/Vidhipaksha edition"
+      },
+      {
+        "text": "The Kamaṭha (Meghamālin) upasarga and the protection by Dharaṇendra and Padmāvatī",
+        "source": "Parshvanatha — traditional hagiography (Kalpa Sūtra tradition)"
+      },
+      {
+        "text": "Bhaktāmara Stotra, by the same traditional author Mānatuṅga",
+        "source": "Mānatuṅga"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as 23rd Tīrthaṅkara, the Kamaṭha upasarga, and the Dharaṇendra/Padmāvatī protection legend underlying this verse"
+    },
+    {
+      "title": "Bhaktamara Kalyanmandir Namiun Stotratrayam (Romanized critical edition, H. R. Kapadia)",
+      "url": "https://jainqq.org/booktext/Bhaktamara_Kalyanmandir_Namiun_Stotratrayam_Romanized/003015",
+      "type": "translation",
+      "consultedFor": "the romanized Prakrit text of the Namiūṇa/Bhayahara Stotra and its gāthā readings for word-by-word verification"
+    },
+    {
+      "title": "Manatunga (author of Bhaktāmara and the fear-removing stotras)",
+      "url": "https://en.wikipedia.org/wiki/Manatunga",
+      "type": "scholarship",
+      "consultedFor": "traditional attribution of the Namiūṇa Stotra to Ācārya Mānatuṅga, cross-referenced with the Bhaktāmara"
+    },
+    {
+      "title": "Dharanendra",
+      "url": "https://en.wikipedia.org/wiki/Dharanendra",
+      "type": "scholarship",
+      "consultedFor": "the serpent-lord's veneration of the meditating Pārśva, illuminating the 'praised by gods/kinnaras' imagery"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Word readings follow the supplied Gujarati text verbatim. Variants exist across recensions: 'uvasaggante' is sometimes printed/parsed as 'uvasaggaṁ te', and 'kamaṭhāsurammi' as 'kamaḍhāsuramhi'; these do not change the sense (a locative-absolute, 'while Kamaṭha the asura made the assault'). 'juvaihiṁ' (instr. pl., Skt. yuvatībhiḥ) is taken as the agent governing the compound 'sura-nara-kinnara-', i.e. 'praised by the maidens of gods, men and kinnaras'; a looser reading 'by gods, men, kinnaras and (their) maidens' is also current. In some narrative traditions Pārśva's assailant is named Meghamālin/Saṁvara (the reborn Kamaṭha); the verse uses 'kamaṭha-asura' directly. The Kamaṭha legend is treated only at verse level here, since its sutra-level framing is given in the preface."
+}

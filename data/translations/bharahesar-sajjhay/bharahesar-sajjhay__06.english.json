@@ -1,0 +1,152 @@
+{
+  "shlokaId": "bharahesar-sajjhay/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse calls to mind eight more great souls — Prabhava, Viṣṇukumāra, Ārdrakumāra, Dṛḍhaprahārī, Śreyāṁsa, Kūragaḍuka, Śayyaṁbhava and Meghakumāra — holding each up as an example worth remembering and imitating.",
+  "recitation": "pabhavo viṇhukumāro, adakumāro daḍhappahārī a | sijjaṁsa kūragaḍu a, sijjaṁbhava mehakumāro a",
+  "wordByWord": [
+    {
+      "token": "પભવો",
+      "translit": "pabhavo",
+      "gloss": "Prabhava(svāmī) — the brigand-chief turned monk who became third head of the order after Sudharmā and Jambū",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pabhava < Sanskrit prabhava ('arising, source'); here a proper name, Prabhavasvāmī",
+      "notes": "He converted Śayyaṁbhava (named later in this same verse), so two consecutive paṭṭadharas stand side by side here."
+    },
+    {
+      "token": "વિન્હુકુમારો",
+      "translit": "viṇhukumāro",
+      "gloss": "Viṣṇukumāra — the muni who by the labdhi of body-expansion (vaikriya) strode the worlds to curb the minister Namuci and rescue 700 persecuted monks",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit viṇhu < Sanskrit viṣṇu + kumāra ('prince'); compound proper name Viṣṇukumāra",
+      "notes": "Jain counterpart of the Trivikrama 'three-strides' motif, here turned to saṅgha-protection."
+    },
+    {
+      "token": "અદકુમારો",
+      "translit": "adakumāro",
+      "gloss": "Ārdrakumāra — the prince of Ārdraka who renounced and became a celebrated debater for the Jina's path",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit adaa/ardaa < Sanskrit ārdraka + kumāra; proper name Ārdrakumāra",
+      "notes": "Some recensions read 'addakumāro'."
+    },
+    {
+      "token": "દઢપ્પહારી",
+      "translit": "daḍhappahārī",
+      "gloss": "Dṛḍhaprahārī — the man guilty of four grave killings who, after taking dīkṣā, bore six months of abuse with equanimity and won omniscience",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit daḍha < Sanskrit dṛḍha ('firm') + pahārī < prahārin ('striker'); proper name 'the firm striker'",
+      "notes": "His name's literal sense ('hard-hitter') recalls the violent past his forbearance overcame."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a, reduced form of ca ('and'); connective and metrical filler joining the names",
+      "notes": "Recurs three times in the verse, each simply linking the listed names."
+    },
+    {
+      "token": "સિજ્જંસ",
+      "translit": "sijjaṁsa",
+      "gloss": "Śreyāṁsa(kumāra) — the prince who, recalling a past life, gave Ṛṣabhadeva the first proper alms (sugarcane juice), founding the alms-cycle",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjaṁsa < Sanskrit śreyāṁsa ('most auspicious'); proper name Śreyāṁsakumāra",
+      "notes": "This is the donor-prince, NOT Śreyāṁsanātha the 11th Tīrthaṅkara — a common confusion."
+    },
+    {
+      "token": "કૂરગડુ",
+      "translit": "kūragaḍu",
+      "gloss": "Kūragaḍuka — the monk unable to fast who ate his rice on the great fast-day yet, free of all pride, attained omniscience while the proud fasters did not",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kūra ('boiled rice') + gaḍu(ka); nickname 'rice-eater', Kūragaḍuka",
+      "notes": "Spelled variously (Kūragaḍuya / Kūralagaḍu) across recensions."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < ca ('and'); connective particle",
+      "notes": ""
+    },
+    {
+      "token": "સિજ્જંભવ",
+      "translit": "sijjaṁbhava",
+      "gloss": "Śayyaṁbhava(sūri) — the brahmin convert who composed the Daśavaikālika-sūtra to give his short-lived son Manaka the essence of monastic conduct",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjaṁbhava < Sanskrit śayyaṁbhava; proper name Śayyaṁbhavasūri",
+      "notes": "Disciple of Prabhava, named at the head of this verse."
+    },
+    {
+      "token": "મેહકુમારો",
+      "translit": "mehakumāro",
+      "gloss": "Meghakumāra — King Śreṇika's son who, troubled as a new monk, steadied his resolve when Mahāvīra recalled to him his forbearing past life as an elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit meha < Sanskrit megha ('cloud') + kumāra; proper name Meghakumāra",
+      "notes": "His story heads the Jñātādharmakathā."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < ca ('and'); closing connective particle",
+      "notes": "Carries the list onward to the next verse's names."
+    }
+  ],
+  "literalTranslation": "Prabhava(svāmī), Viṣṇukumāra, Ārdrakumāra and Dṛḍhaprahārī; Śreyāṁsa(kumāra) and Kūragaḍuka, Śayyaṁbhava and Meghakumāra.",
+  "idiomaticTranslation": "Bring to mind Prabhavasvāmī and Viṣṇukumāra, Ārdrakumāra and steadfast Dṛḍhaprahārī; Śreyāṁsa too and Kūragaḍuka, Śayyaṁbhava and Meghakumāra — names to hold in the heart.",
+  "elaboration": {
+    "verseByVerseCommentary": "The roll-call of mahāsattvas presses on, and this verse is quietly chosen to show that 'greatness' wears many faces. Two of the eight are pillars of the lineage — Prabhava, the reformed brigand who led the order, and Śayyaṁbhava, whom Prabhava himself initiated and who distilled the Daśavaikālika for his dying son Manaka; placing teacher and disciple in one breath lets the reciter feel the transmission of the path as living succession, not abstraction. Around them stand four souls whose glory is inward conquest. Dṛḍhaprahārī, stained by four killings, burns that karma away not by penance for show but by absorbing six months of insult without a flicker of anger. Kūragaḍuka, too weak to fast, eats his bowl of rice on the holy day and reaches kevala-jñāna — while the monks who fasted with pride do not; the verse thus sets bhāva (inner disposition) decisively above dravya (outward act). Viṣṇukumāra bends a hard-won labdhi to the saṅgha's defence; Ārdrakumāra leaves a throne to argue the Jina's truth; Śreyāṁsa, remembering a former birth, offers the first alms and opens the whole economy of supātra-dāna; Meghakumāra, faltering on his first hard night, is steadied when Mahāvīra unveils his patient elephant-life. Read together, the eight teach that the door to liberation is opened by equanimity, repentance, restraint and right intent — never by birth, display, or austerity worn as ornament.",
+    "doctrinalContext": "The verse-specific lesson is the primacy of bhāva over external form. Kūragaḍuka's kevala-jñāna mid-meal, set against the fruitless pride of the fasters, dramatises that māna (pride) — a kaṣāya — obstructs liberation more surely than breaking a fast does, and that tapas without equanimity is empty. Dṛḍhaprahārī enacts the corollary: no karma, however heavy, is beyond exhaustion through samyak-cāritra and the calm endurance of parīṣaha and upasarga (titikṣā). Viṣṇukumāra's deployment of labdhi for saṅgha-rakṣā, and Śreyāṁsa's inaugural supātra-dāna, extend the same axis of right intention into action.",
+    "practicalRelevance": "Reciting these names, a practitioner checks the impulse to measure piety by visible austerity or status. Kūragaḍuka rebukes spiritual pride; Dṛḍhaprahārī assures even the gravely faulted that sincere conduct and patient endurance can cleanse the past; Meghakumāra models steadying a wavering resolve by recalling what one has already borne.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra (composed by Śayyaṁbhava for Manaka)",
+        "source": "Śvetāmbara Mūlasūtra; Jainpedia overview"
+      },
+      {
+        "text": "Sūtrakṛtāṅga 2.6, Ārdrakīya adhyayana (Ārdrakumāra's debate)",
+        "source": "Aṅga-āgama (Jacobi, SBE 45)"
+      },
+      {
+        "text": "Jñātādharmakathā 1.1 (Meghakumāra and the elephant past-life)",
+        "source": "Aṅga-āgama, kathā tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Daśavaikālikasūtra — overview (attributed to Śayyaṁbhava / Sijjaṁbhava)",
+      "url": "https://jainpedia.org/reading/dasavaikalikasutra/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Śayyaṁbhava as composer of the Daśavaikālika and the Manaka narrative."
+    },
+    {
+      "title": "Shayyambhavacharya — Jain Stories",
+      "url": "https://jainknowledge.com/media-information/188/jain_stories/Shayyambhavacharya",
+      "type": "commentary",
+      "consultedFor": "Śayyaṁbhava's conversion by Prabhava and composition of the Daśavaikālika for his son Manaka."
+    },
+    {
+      "title": "Meghakumāra — definitions and kathā references",
+      "url": "https://www.wisdomlib.org/definition/meghakumara",
+      "type": "dictionary",
+      "consultedFor": "Verifying Meghakumāra as a Jain narrative exemplar (Meghakumāra-kathā)."
+    },
+    {
+      "title": "Ārdraka / Ārdraka in Jainism — definitions",
+      "url": "https://www.wisdomlib.org/definition/ardraka",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit/Prakrit root of Ārdra(ka) and the Jain figure Ārdrakumāra."
+    },
+    {
+      "title": "Bahubali (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Bahubali",
+      "type": "scholarship",
+      "consultedFor": "Confirming the kathā/canonical milieu of the litany's exemplars (Panel I context)."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "All eight names are securely attested as exemplars in this litany; the readings follow the book verbatim. 'સિજ્જંસ (sijjaṁsa)' is Śreyāṁsakumāra the first-alms donor, NOT the Tīrthaṅkara Śreyāṁsanātha — flagged to prevent a frequent conflation. 'કૂરગડુ' appears as Kūragaḍu(ka)/Kūragaḍuya/Kūralagaḍu across recensions; the rice-eater identification and his kevala-jñāna are from the kathā tradition. 'અદકુમારો' = Ārdrakumāra (also 'addakumāro' in some texts). The thrice-repeated particle 'અ' is Prakrit reduced 'ca' ('and'), connective and metrical. Per the tradition knowledge base, individual story-details vary by recension; where a detail is from kathā literature rather than verbatim canon, it is presented as traditional."
+}

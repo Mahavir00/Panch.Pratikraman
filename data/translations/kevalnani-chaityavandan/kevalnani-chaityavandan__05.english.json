@@ -1,0 +1,238 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Joyfully, the poet names and praises the first eleven of this age's twenty-four awakened Jinas, from Ādi (Ṛṣabha) and Ajita down to Śreyāṁsa.",
+  "recitation": "(ḍhāḷa-bījī) ādi ajita ja re, sambhava abhinandana bhaṇuṁ. śrī sumati ja re, padmaprabhujī-nā guṇa thuṇuṁ. śrī supārasa re, candraprabha (jaga) jina jāṇīe. suvidhi śītala re śreyāṁsa harakhe vakhāṇīe.",
+  "wordByWord": [
+    {
+      "token": "(ઢાળ-બીજી)",
+      "translit": "(ḍhāḷa-bījī)",
+      "gloss": "(second melody-section)",
+      "partOfSpeech": "noun",
+      "etymology": "ḍhāḷa (Gujarati 'tune, melodic section of a stavan') + bījī ('second', from Sanskrit dvitīya).",
+      "notes": "A structural rubric, not a chanted word; it marks the start of the second dhāla, which begins the present-age (vartamāna) caubīsī."
+    },
+    {
+      "token": "આદિ",
+      "translit": "ādi",
+      "gloss": "Ādi(nātha) — Ṛṣabhadeva, the first Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit ādi, 'first, beginning'; an epithet of Ṛṣabha as the inaugurator of the present caubīsī.",
+      "notes": "Stands by name-shorthand for Ṛṣabha/Ādinātha (Tīrthaṅkara 1)."
+    },
+    {
+      "token": "અજિત",
+      "translit": "ajita",
+      "gloss": "Ajita(nātha), the second Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit a- (not) + jita (conquered) = 'unconquered'.",
+      "notes": "Tīrthaṅkara 2."
+    },
+    {
+      "token": "જ",
+      "translit": "ja",
+      "gloss": "indeed, very (emphatic)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati emphatic enclitic ja, restrictive/intensive ('just, the very').",
+      "notes": "Part of the dhāla's fixed lilt 'ja re'."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (chant-refrain vocative)",
+      "partOfSpeech": "particle",
+      "etymology": "Indo-Aryan vocative interjection re, a metrical filler giving the tune its sway.",
+      "notes": "Recurs as a refrain throughout the dhāla; carries no propositional meaning."
+    },
+    {
+      "token": "સંભવ",
+      "translit": "sambhava",
+      "gloss": "Sambhava(nātha), the third Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit sam- + √bhū, 'arising, coming-into-being'.",
+      "notes": "Tīrthaṅkara 3."
+    },
+    {
+      "token": "અભિનંદન",
+      "translit": "abhinandana",
+      "gloss": "Abhinandana(nātha), the fourth Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit abhi- + √nand, 'rejoicing, gladdening'.",
+      "notes": "Tīrthaṅkara 4."
+    },
+    {
+      "token": "ભણું",
+      "translit": "bhaṇuṁ",
+      "gloss": "I recite / I utter",
+      "partOfSpeech": "verb",
+      "etymology": "From Prakrit/Sanskrit √bhaṇ, 'to speak, recite'; first-person singular present.",
+      "notes": "Frames the naming as an act of recitation."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "venerable, holy (honorific)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī, 'splendour, auspiciousness'; prefixed as a mark of reverence.",
+      "notes": "Repeated before several names; here before Sumati and Supāras."
+    },
+    {
+      "token": "સુમતિ",
+      "translit": "sumati",
+      "gloss": "Sumati(nātha), the fifth Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit su- (good) + mati (mind, wisdom) = 'of good understanding'.",
+      "notes": "Tīrthaṅkara 5."
+    },
+    {
+      "token": "પદ્મપ્રભુજીના",
+      "translit": "padmaprabhujī-nā",
+      "gloss": "of revered Padmaprabha (the sixth Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "padma (lotus) + prabhā (radiance) = 'lotus-radiant'; + honorific -jī + Gujarati genitive -nā ('of').",
+      "notes": "Tīrthaṅkara 6; the genitive governs guṇa ('his virtues')."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtues, excellences",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa, 'quality, merit'.",
+      "notes": "Object of thuṇuṁ — it is Padmaprabha's qualities that are praised."
+    },
+    {
+      "token": "થુણું",
+      "translit": "thuṇuṁ",
+      "gloss": "I praise / I hymn",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit √stu (to praise), Prakrit thuṇa-; first-person singular present.",
+      "notes": "Same root as stava/stuti; a stronger devotional verb than bhaṇuṁ."
+    },
+    {
+      "token": "સુપારસ",
+      "translit": "supārasa",
+      "gloss": "Supārśva(nātha), the seventh Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Vernacular form of Sanskrit Supārśva: su- (fine) + pārśva (side, flank).",
+      "notes": "Tīrthaṅkara 7; spelt supārasa per the book's orthography (distinct from the 23rd, Pārśva)."
+    },
+    {
+      "token": "ચંદ્રપ્રભ",
+      "translit": "candraprabha",
+      "gloss": "Candraprabha, the eighth Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "candra (moon) + prabhā (radiance) = 'moon-radiant'.",
+      "notes": "Tīrthaṅkara 8."
+    },
+    {
+      "token": "(જગ)",
+      "translit": "(jaga)",
+      "gloss": "(in/of the world)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Gujarati jaga from Sanskrit jagat, 'world'.",
+      "notes": "Bracketed in the source (a metrical/variant insertion); qualifies jina as 'Jina of the world'."
+    },
+    {
+      "token": "જિન",
+      "translit": "jina",
+      "gloss": "Jina (conqueror, Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit √ji, 'to conquer' — one who has conquered the passions.",
+      "notes": "Defined in the preface glossary; used here as the class-noun for the named ones."
+    },
+    {
+      "token": "જાણીએ",
+      "translit": "jāṇīe",
+      "gloss": "let us know / recognize",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit √jñā (to know), Prakrit jāṇa-; first-person plural hortative.",
+      "notes": "Shifts from 'I' (bhaṇuṁ, thuṇuṁ) to inclusive 'we', drawing the congregation in."
+    },
+    {
+      "token": "સુવિધિ",
+      "translit": "suvidhi",
+      "gloss": "Suvidhi(nātha), the ninth Jina (also Puṣpadanta)",
+      "partOfSpeech": "invocation",
+      "etymology": "su- (good) + vidhi (rule, observance) = 'of good observance'.",
+      "notes": "Tīrthaṅkara 9; his alternate name is Puṣpadanta."
+    },
+    {
+      "token": "શીતલ",
+      "translit": "śītala",
+      "gloss": "Śītala(nātha), the tenth Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit śītala, 'cool, soothing'.",
+      "notes": "Tīrthaṅkara 10."
+    },
+    {
+      "token": "શ્રેયાંસ",
+      "translit": "śreyāṁsa",
+      "gloss": "Śreyāṁsa(nātha), the eleventh Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit śreyas, 'most excellent, most blessed'.",
+      "notes": "Tīrthaṅkara 11; the verse closes the first half of the caubīsī here."
+    },
+    {
+      "token": "હરખે",
+      "translit": "harakhe",
+      "gloss": "with joy, gladly",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati harakh from Sanskrit harṣa, 'joy' + instrumental -e ('with joy').",
+      "notes": "Colours the whole act of praise as joyful, not merely dutiful."
+    },
+    {
+      "token": "વખાણીએ",
+      "translit": "vakhāṇīe",
+      "gloss": "let us extol / describe in praise",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vakhāṇavuṁ (to extol, describe glowingly), ultimately related to Sanskrit vyākhyāna; first-person plural hortative.",
+      "notes": "The cadence-word that carries into the next (truṭak) verse, which repeats vakhāṇīe."
+    }
+  ],
+  "literalTranslation": "Ādi (Ṛṣabha) and Ajita indeed, O! — Sambhava and Abhinandana I recite. Venerable Sumati indeed, O! — revered Padmaprabha's virtues I praise. Venerable Supārśva, O! — Candraprabha, Jina of the world, let us know. Suvidhi, Śītala, O!, Śreyāṁsa — with joy let us extol.",
+  "idiomaticTranslation": "Ādinātha and Ajita — yes, these I recite, and Sambhava and Abhinandana too. Holy Sumati — and the virtues of revered Padmaprabha I sing in praise. Venerable Supārśva, and Candraprabha, the world's own Jina — let us hold them in mind. Suvidhi, Śītala and Śreyāṁsa — these, with a glad heart, let us extol.",
+  "elaboration": {
+    "verseByVerseCommentary": "Opening the second dhāla, this verse is a pure roll-call: it names, in canonical order, the first eleven Jinas of the present caubīsī — Ādi (Ṛṣabha), Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha, Supāras (Supārśva), Candraprabha, Suvidhi, Śītala, Śreyāṁsa — and stops precisely at the eleventh, leaving Vāsupūjya onward to the following truṭak (which resumes on the very word vakhāṇīe). The artistry lies less in argument than in a graded ladder of devotional verbs: the poet first 'recites' the names (bhaṇuṁ), then rises to 'praise' Padmaprabha's guṇa (thuṇuṁ, the √stu of stava itself), then turns outward to 'let us know' Candraprabha (jāṇīe), and finally, 'with joy', 'let us extol' the rest (harakhe vakhāṇīe). The movement from singular 'I' to plural 'we', and from bare naming to joyful extolling, quietly gathers the solitary reciter into a congregation and warms recitation into love. Note the verbatim vernacular forms the book preserves — supārasa for Supārśva, the bracketed (jaga), and the refrain 'ja re' that gives the tune its sway; these are melodic and orthographic features, not doctrinal ones. A reader need only recognize that each name is a window: Sumati 'good-minded', Padmaprabha 'lotus-radiant', Candraprabha 'moon-radiant', Śītala 'cooling', Śreyāṁsa 'most blessed' — every epithet already a miniature praise.",
+    "doctrinalContext": "Naming the Tīrthaṅkaras is itself an act of worship: this verse enacts in vernacular what the canonical Logassa (caturviṁśati-stava) does in Prakrit — nāma-smaraṇa, the remembrance of the Jinas by name. In Jain understanding the nāma (name) is one of the four nikṣepas through which the venerable is made present, so to utter 'Ādi… Śreyāṁsa' is already to bow. Because each name encodes a guṇa, the list doubles as a meditation on the qualities a soul realizes on the path to kevala-jñāna. Reciting it strengthens samyaktva (right faith) by fixing the mind on those who have perfected it.",
+    "practicalRelevance": "At dawn, let the reciter not rush the names but let each one register as a face turned toward them — pairing the meaning with the name (Śītala = coolness for a heated mind, Sumati = clear thinking for the day ahead). The cue word is harakhe: praise offered gladly, not as rote duty. Carrying the unfinished list into the next verse trains patience and continuity of attention.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical naming of the same twenty-four Jinas",
+        "source": "Anchalgacchha (Vidhipaksha) Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "List and order of the 24 Tīrthaṅkaras (Ṛṣabha … Mahāvīra)",
+        "source": "Wikipedia, 'Tirthankara'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara — canonical list and order of the 24 Jinas",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the names and 1–11 ordering: Ṛṣabha, Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha, Supārśva, Candraprabha, Suvidhi/Puṣpadanta, Śītala, Śreyāṁsa."
+    },
+    {
+      "title": "Padmaprabha, Padmaprabhā — definitions",
+      "url": "https://www.wisdomlib.org/definition/padmaprabha",
+      "type": "dictionary",
+      "consultedFor": "Etymology of Padmaprabha (padma 'lotus' + prabhā 'radiance') and its Jaina Tīrthaṅkara identity."
+    },
+    {
+      "title": "Shreyamsa, Śreyāṃsa — definitions",
+      "url": "https://www.wisdomlib.org/definition/shreyamsa",
+      "type": "dictionary",
+      "consultedFor": "Etymology of Śreyāṁsa (from śreyas 'most excellent/blessed') and its place as the 11th Tīrthaṅkara."
+    },
+    {
+      "title": "Chandraprabha — definitions",
+      "url": "https://www.wisdomlib.org/definition/chandraprabha",
+      "type": "dictionary",
+      "consultedFor": "Etymology of Candraprabha (candra 'moon' + prabhā 'radiance') as the 8th Tīrthaṅkara."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is an epithet/name list, so commentary is kept tight per the length guidance. Vernacular and orthographic forms are preserved verbatim per the book: 'supārasa' for Supārśva (Tīrthaṅkara 7, not to be confused with the 23rd, Pārśva), the bracketed '(જગ)/(jaga)', honorific-laden 'padmaprabhujī-nā', and the melodic refrain 'ja re'/'re'. The list deliberately ends at Śreyāṁsa (11th); Vāsupūjya onward continues in the following truṭak verse, which resumes on the same verb vakhāṇīe — hence the half-finished feel is original, not a textual gap. 'Suvidhi' (9th) is also known as Puṣpadanta. The verse-level recitation is given in IAST because the target script is Latin (English)."
+}

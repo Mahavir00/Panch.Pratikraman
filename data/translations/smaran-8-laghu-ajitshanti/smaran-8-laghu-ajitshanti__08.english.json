@@ -1,0 +1,216 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever recites or even just listens to this hymn of Ajita and Śānti at the yearly, fortnightly, or four-monthly rites — as the poet Vīra Gaṇin declares before the faithful — has all misfortune leave them and all good fortune come to them.",
+  "recitation": "eya saṁvacchariya pakkhiya caumāsie, ajiya saṁti-tthayaṁ bhaṇāi jo nisuṇāi. kahai kavivīra gaṇi bhavia jaṇa aggae, asuha tasu jāi suha sayala saṁpajjae.",
+  "wordByWord": [
+    {
+      "token": "એય",
+      "translit": "eya",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa/Prakrit eya, eta from Skt. etad (this); demonstrative pointing to the hymn just completed.",
+      "notes": "Some recensions read 'esa' (Skt. eṣaḥ); the sense ('this very hymn') is identical."
+    },
+    {
+      "token": "સંવચ્છરિય",
+      "translit": "saṁvacchariya",
+      "gloss": "at the annual (Sāṁvatsarika) rite",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. saṁvacchara from Skt. saṁvatsara (year) + -iya; the once-yearly Paryuṣaṇa pratikramaṇa.",
+      "notes": "Locative-sense adjective with the rite understood."
+    },
+    {
+      "token": "પક્ખિય",
+      "translit": "pakkhiya",
+      "gloss": "at the fortnightly (Pākṣika) rite",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. pakkha from Skt. pakṣa (lunar fortnight) + -iya.",
+      "notes": ""
+    },
+    {
+      "token": "ચઉમાસિએ",
+      "translit": "caumāsie",
+      "gloss": "at the four-monthly (Cāturmāsika) rite",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. cau (Skt. catur, four) + māsa (month) + -ie locative; the seasonal pratikramaṇa.",
+      "notes": "The three occasions are listed in ascending coverage; the verse names them, not the substitution mechanism."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita(-nātha), the 2nd Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ajiya from Skt. ajita ('unconquered'); first member of the dual subject Ajita-Śānti.",
+      "notes": ""
+    },
+    {
+      "token": "સંતિત્થયં",
+      "translit": "saṁti-tthayaṁ",
+      "gloss": "the Śānti-hymn (i.e. the Ajita-and-Śānti stava), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "saṁti (Skt. śānti, Śāntinātha) + tthaya (Skt. stava, hymn of praise) + acc. -ṁ; with preceding 'ajiya', the dual-name title of this stava.",
+      "notes": "Object of both 'bhaṇāi' and 'nisuṇāi'. Not 'today/peace'; saṁti here is the Jina Śānti and tthaya is stava."
+    },
+    {
+      "token": "ભણાઇ",
+      "translit": "bhaṇāi",
+      "gloss": "recites, utters",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. bhaṇai from Skt. √bhaṇ (to speak); 3rd sg. present.",
+      "notes": ""
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. jo from Skt. yaḥ (relative pronoun, masc. sg.); correlative resumed by 'tasu' below.",
+      "notes": ""
+    },
+    {
+      "token": "નિસુણાઇ",
+      "translit": "nisuṇāi",
+      "gloss": "listens, hears",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. ni-suṇai from Skt. ni-√śru (to hear attentively); 3rd sg. present.",
+      "notes": "Coupled with 'bhaṇāi': both reciter and hearer share the fruit."
+    },
+    {
+      "token": "કહઇ",
+      "translit": "kahai",
+      "gloss": "declares, proclaims",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. kahai from Skt. √kath (to tell); 3rd sg. present.",
+      "notes": "Introduces the author's signed assurance."
+    },
+    {
+      "token": "કવિવીર",
+      "translit": "kavivīra",
+      "gloss": "the poet Vīra (Kavi Vīra)",
+      "partOfSpeech": "noun",
+      "etymology": "kavi (Skt. poet) + vīra (the author's name); the colophon signature.",
+      "notes": "Taken with 'gaṇi' as the proper name Vīra Gaṇin, the attributed author."
+    },
+    {
+      "token": "ગણિ",
+      "translit": "gaṇi",
+      "gloss": "Gaṇin (an ascetic title)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gaṇin, one who heads a gaṇa (group of monks); an honorific rank.",
+      "notes": ""
+    },
+    {
+      "token": "ભવિઅ",
+      "translit": "bhavia",
+      "gloss": "the worthy (bhavya) souls, capable of liberation",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. bhavia from Skt. bhavya (fit, destined for mokṣa); modifies 'jaṇa'.",
+      "notes": "Marks the intended audience as those karmically capable of release."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jaṇa from Skt. jana (people); here the assembled congregation.",
+      "notes": ""
+    },
+    {
+      "token": "અગ્ગએ",
+      "translit": "aggae",
+      "gloss": "before, in the presence of",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. agge from Skt. agrataḥ (in front of); locative-adverbial.",
+      "notes": "'bhavia jaṇa aggae' = before the assembly of worthy souls."
+    },
+    {
+      "token": "અસુહ",
+      "translit": "asuha",
+      "gloss": "misfortune, the inauspicious (aśubha)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. asuha from Skt. aśubha (inauspicious, evil); subject of 'jāi'.",
+      "notes": "Connotes aśubha karma and its painful effects."
+    },
+    {
+      "token": "તસુ",
+      "translit": "tasu",
+      "gloss": "his / their (of that person)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt./Apabhraṁśa tasu from Skt. tasya (genitive of tad); resumes the relative 'jo'.",
+      "notes": ""
+    },
+    {
+      "token": "જાઇ",
+      "translit": "jāi",
+      "gloss": "goes away, departs",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. jāi from Skt. √yā (to go); 3rd sg. present.",
+      "notes": ""
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "good fortune, the auspicious (śubha)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. suha from Skt. śubha (auspicious, well-being); subject of 'saṁpajjae'.",
+      "notes": "Antithetical pair with 'asuha'."
+    },
+    {
+      "token": "સયલ",
+      "translit": "sayala",
+      "gloss": "all, entire",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sayala from Skt. sakala (whole, complete); qualifies 'suha'.",
+      "notes": ""
+    },
+    {
+      "token": "સંપજ્જએ",
+      "translit": "saṁpajjae",
+      "gloss": "comes about, accrues, is attained",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. saṁpajjai from Skt. saṁ-√pad (saṁpadyate, to come to pass, be obtained); 3rd sg. present passive-intransitive.",
+      "notes": "The promissory verb of the phala-śruti."
+    }
+  ],
+  "literalTranslation": "This — at the annual, the fortnightly, the four-monthly [rite] — whoever recites or hears the Ajita-Śānti hymn: the poet Vīra Gaṇin proclaims before the worthy folk that of that person misfortune departs and all good fortune comes about.",
+  "idiomaticTranslation": "Whoever recites this hymn of Ajita and Śānti — or merely listens to it — at the yearly, fortnightly, and four-monthly atonement, of that soul, declares the poet Vīra Gaṇin before the gathered faithful, every misfortune departs and all good fortune flows in.",
+  "elaboration": {
+    "verseByVerseCommentary": "The closing verse is the colophon (praśasti) and fruit-statement (phala-śruti) of the hymn, and it does three things in two lines. First, it fixes the hymn's liturgical home by naming, in one breath, the three occasions on which it is recited — saṁvacchariya, pakkhiya, caumāsie — moving from the rarest to the most frequent observance and thereby reminding the reciter that this single text serves all three atonements. Second, and most tenderly, it widens the circle of grace with the pairing 'bhaṇāi jo nisuṇāi': the reward is promised not only to the one who *recites* (bhaṇāi) but equally to the one who merely *hears* (nisuṇāi). The listener who cannot read the difficult Apabhraṁśa is not excluded; attentive śravaṇa earns the same merit as recitation. Third, the poet signs his work — 'kahai kavivīra gaṇi' — and, importantly, locates the proclamation 'bhavia jaṇa aggae', before the assembly of *bhavya* souls, those karmically capable of liberation; the promise is made publicly and to the spiritually receptive, not as a private charm. The verse then lands on a crisp antithetical couplet: 'asuha tasu jāi, suha sayala saṁpajjae' — his misfortune *departs* and all good fortune *accrues*. The two intransitive verbs jāi (goes) and saṁpajjae (comes to be) frame a chiastic emptying-and-filling: what is inauspicious leaves of its own accord, and what is auspicious arrives in its entirety (sayala). After five verses of the two Jinas' life-arc and two of protection and exhortation, this is the seal that converts narrative praise into a living promise for the one who takes the hymn to heart.",
+    "doctrinalContext": "The reciter-and-hearer parity rests on the Jain valuation of śravaṇa: attentive hearing of holy speech is itself a meritorious (puṇya) act that begins to thin aśubha (inauspicious) karma, so the listener shares the benefit. The asuha/suha antithesis is karmic, not merely circumstantial — 'misfortune departs' points to the shedding (nirjarā) of pāpa-prakṛtis, while 'all good fortune accrues' is the ripening of puṇya, the worldly face of a devotion whose ultimate aim remains liberation. The address to *bhavya* souls quietly encodes the doctrine that the fruit lands where the soil is fit: only the bhavya, capable of mokṣa, can finally convert this auspicious gain into release.",
+    "practicalRelevance": "A reciter today should note that simply *sitting in attention* during the hymn, even without reciting, is treated as fully fruitful — an encouragement to the many who attend the pratikramaṇa without command of the old language. Recite or listen with the awareness that you are deliberately exchanging the inauspicious for the auspicious, and let the verse seal the whole hymn as a resolve rather than a routine.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava (the longer 2nd Smaraṇa) — the dual Ajita-and-Śānti praise this hymn abridges",
+        "source": "Nandiṣeṇasūri; Nava Smaraṇa collection"
+      },
+      {
+        "text": "Āvaśyaka Niryukti g.1532 — kāyotsarga breath-counts distinguishing the pakkhī/cāumāsī/sāṁvatsarī occasions named here",
+        "source": "Āvaśyaka Niryukti (cited in the source book)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Ajita (ajiya) as the 2nd Tīrthaṅkara and the existence of the Ajitaśānti devotional tradition"
+    },
+    {
+      "title": "Shantinatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Śānti (saṁti) as the 16th Tīrthaṅkara invoked for averting calamity, grounding the asuha-departs/suha-accrues promise"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Sheth) — Cologne Digital Sanskrit Lexicon, PGN scan",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/PGNScan/2020/web/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit verb and noun forms: bhaṇai, nisuṇai, saṁpajjai, jāi, sayala, bhavia, asuha/suha"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is the hymn's colophon; 'kavivīra gaṇi' is read as the proper name Vīra Gaṇin per the book's attribution, though it could be parsed appositively ('the heroic poet, the gaṇin'). Opening token 'eya' (this) appears as 'esa' in some recensions with no change of sense. Spelling (ત્થ in saṁtitthayaṁ, single/double conjuncts) is preserved verbatim from the source book; mātrās and anusvāras follow it. Web AI-summary glosses that rendered 'ajiya saṁti' as 'today, peace' are erroneous and were rejected; saṁti is the Jina Śāntinātha and tthaya = stava."
+}

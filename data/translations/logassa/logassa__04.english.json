@@ -1,0 +1,160 @@
+{
+  "shlokaId": "logassa/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the last eight of the twenty-four great teachers — Kunthu, Ara, Malli, Munisuvrata, Nami, Arishtanemi, Parshva and Vardhamana (Mahavira).",
+  "recitation": "kuṁthuṁ araṁ ca malliṁ, vande muṇisuvvayaṁ namijiṇaṁ ca | vandāmi riṭṭhaṇemiṁ, pāsaṁ taha vaddhamāṇaṁ ca",
+  "wordByWord": [
+    {
+      "token": "કુંથું",
+      "translit": "kuṁthuṁ",
+      "gloss": "Kunthu (the 17th Tīrthaṅkara), accusative object of veneration",
+      "partOfSpeech": "noun",
+      "etymology": "Ardhamāgadhī proper name; Skt. Kunthu-nātha. Accusative ending -ṁ marks him as the one being bowed to.",
+      "notes": "First-named here; opens the final octad (17–24)."
+    },
+    {
+      "token": "અરં",
+      "translit": "araṁ",
+      "gloss": "Ara (the 18th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Ara-nātha; the bare stem ara- with accusative -ṁ.",
+      "notes": ""
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Pkt. ca, the enclitic copulative conjunction 'and'.",
+      "notes": "Links the names within the list; recurs three times in the verse."
+    },
+    {
+      "token": "મલ્લિં",
+      "translit": "malliṁ",
+      "gloss": "Malli (the 19th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Malli-nātha, 'Lord of jasmine'; accusative -ṁ.",
+      "notes": "In the Śvetāmbara Mūrtipūjaka reckoning of this gaccha, Malli is venerated as female (Mallī-kuṁvarī)."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I venerate, I bow",
+      "partOfSpeech": "verb",
+      "etymology": "√vand 'to praise, salute'; 1st-person singular present, Skt. vande. Stands mid-line, governing the names around it.",
+      "notes": "The verse uniquely supplies two finite verbs of homage — vande here and vandāmi below."
+    },
+    {
+      "token": "મુણિસુવ્વયં",
+      "translit": "muṇisuvvayaṁ",
+      "gloss": "Munisuvrata (the 20th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. muṇi-suvvaya < Skt. muni-suvrata, 'the sage of excellent vows' (su- 'good' + vrata 'vow'); accusative -ṁ.",
+      "notes": "The name is itself meaningful — 'of fair vows'."
+    },
+    {
+      "token": "નમિજિણં",
+      "translit": "namijiṇaṁ",
+      "gloss": "Nami the Jina (the 21st Tīrthaṅkara), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "nami (Skt. Nami-nātha) + jiṇa (< Skt. jina, 'victor'); compounded, accusative -ṁ.",
+      "notes": "Nami alone among this octad is expressly tagged jiṇa, for metre and emphasis."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Enclitic copulative ca, 'and'.",
+      "notes": "Closes the first hemistich's list."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I venerate, I bow",
+      "partOfSpeech": "verb",
+      "etymology": "√vand, 1st-person singular present, Pkt. vandāmi = Skt. vandāmi 'I salute'.",
+      "notes": "The standard roll-call verb (as ending vv.2–3); here it opens the second hemistich."
+    },
+    {
+      "token": "રિટ્ઠનેમિં",
+      "translit": "riṭṭhaṇemiṁ",
+      "gloss": "Arishtanemi / Nemi (the 22nd Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. riṭṭha-ṇemi < Skt. ariṣṭa-nemi ('one whose chariot-rim is of unfailing/ariṣṭa quality'); accusative -ṁ.",
+      "notes": "Verbatim spelling of this recension; also known simply as Nemi(nātha)."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Parshva (the 23rd Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. pāsa < Skt. pārśva (Pārśvanātha); accusative -ṁ.",
+      "notes": ""
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus, likewise, and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. taha < Skt. tathā, 'thus, in that way'; here a connective 'and likewise'.",
+      "notes": "Joins Parshva to the final name."
+    },
+    {
+      "token": "વદ્ધમાણં",
+      "translit": "vaddhamāṇaṁ",
+      "gloss": "Vardhamāna / Mahāvīra (the 24th and last Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vaddhamāṇa < Skt. vardhamāna, 'ever-increasing, growing' (√vṛdh); accusative -ṁ. Birth-name of Mahāvīra.",
+      "notes": "Seals the roll-call of all twenty-four; the apaścima (last) Jina of this age."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Enclitic ca, 'and'.",
+      "notes": "Final 'and' completes the enumeration of the twenty-four."
+    }
+  ],
+  "literalTranslation": "Kunthu and Ara and Malli — I venerate (them), (and) Munisuvrata and Nami the Jina; I bow to Arishtanemi, to Parshva, and likewise to Vardhamāna.",
+  "idiomaticTranslation": "To Kunthu, to Ara, and to Malli I bow; I venerate Munisuvrata and Nami the Victor; I salute Arishtanemi, Parshva, and likewise Vardhamāna — Mahāvīra, the last.",
+  "elaboration": {
+    "verseByVerseCommentary": "This third and final roll-call verse completes the canonical list, naming Tīrthaṅkaras seventeen through twenty-four and closing on Vardhamāna — Mahāvīra, the apaścima (last) Jina of the present descending age, and the founding teacher of the very order in which this reciter stands. After two verses that each ended with a single vandāmi, verse 4 noticeably doubles the homage: vande crowns the first hemistich and vandāmi opens the second. This is not redundancy but devotional intensification at the climax of the enumeration — the closer the reciter draws to Mahāvīra, the more the act of bowing presses forward. Two names are subtly marked out of the plain list: Nami is expressly called jiṇa ('the Victor'), and Nemi appears in his fuller honorific form riṭṭha-ṇemi (Ariṣṭanemi), each lending weight and metrical fullness to the line. The most theologically charged name is Malli (19th): in this Śvetāmbara Mūrtipūjaka tradition Malli is venerated as a woman, so the bare, undifferentiated namaskāra she receives — identical to that given every male Jina — is itself a quiet doctrinal statement. The verse grants no name an epithet of rank: Kunthu, who reigned as a cakravartin, and Pārśva and Mahāvīra, the historically nearest teachers, all receive the same single accusative and the same bow, affirming that in their perfected state the twenty-four are equals.",
+    "doctrinalContext": "The verse-specific point is two-fold. First, by closing on Vardhamāna it anchors the abstract list of twenty-four in the historically attested teacher whose śāsana governs the present, readying the turn in verse 5 from praise to petition ('thus praised by me…'). Second, the inclusion of Malli with an unqualified salutation embodies the Śvetāmbara conviction that the soul's capacity for kevala-jñāna and Tīrthaṅkarahood is not bound by gender — a liberating truth woven silently into a mere name. The uniform veneration of all eight, regardless of worldly station (Kunthu's cakravartin sovereignty included), expresses the Jain teaching that liberation levels every prior distinction of birth, sex, and rank.",
+    "practicalRelevance": "Recited daily, this verse asks the practitioner to name each teacher deliberately rather than rush a blur of syllables — to let the two verbs vande and vandāmi register as two distinct, deepening bows. A reciter may pause inwardly at Malli to recall that the path is open to every soul, and rest at Vardhamāna with the recognition that the line of twenty-four ends in one's own living tradition.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Caturviṁśati-stava (Second Āvaśyaka), gāthā 4",
+        "source": "Ardhamāgadhī Jain Āgama"
+      },
+      {
+        "text": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha / Vidhipakṣa ed.)",
+        "source": "Anchalgachchha edition, verbatim verse text"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mallinatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mallinatha",
+      "type": "scholarship",
+      "consultedFor": "19th Tīrthaṅkara Malli, the Śvetāmbara doctrine of Malli as female and women's capacity for liberation."
+    },
+    {
+      "title": "Munisuvrata — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Identity, ordinal position (20th) and name-meaning of Munisuvrata."
+    },
+    {
+      "title": "Neminatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neminatha",
+      "type": "scholarship",
+      "consultedFor": "Identification of Ariṣṭanemi/Nemi as the 22nd Tīrthaṅkara and his epithet forms."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Names 17–24 are standard and uncontroversial. The verse uniquely carries two finite verbs of homage (vande, vandāmi); both are preserved verbatim from this Anchalgachchha recension, as are the spellings malliṁ, riṭṭhaṇemiṁ and vaddhamāṇaṁ. The veneration of Malli as female reflects this gaccha's Śvetāmbara Mūrtipūjaka affiliation (noted in the preface); the Digambara tradition reads Malli as male — a sectarian variant, not a textual one here. No mātrā or conjunct has been normalised."
+}

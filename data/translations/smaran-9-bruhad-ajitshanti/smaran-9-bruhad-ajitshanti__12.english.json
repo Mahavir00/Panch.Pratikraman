@@ -1,0 +1,174 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Kings and gods, burning in the fire of worldly sin, came to the Jinas' assembly and joyfully treasured their teaching as a cooling sprinkle of nectar.",
+  "recitation": "bharita bhava durita dava dahana paritāpitāḥ, sadasi yadāyam ati puṇya buddhyāpitāḥ. satyasandhāḥ sudhā sāra-sekaṁ, nareśā-mareśā mudā sarvadā menire",
+  "wordByWord": [
+    {
+      "token": "ભરિત",
+      "translit": "bharita",
+      "gloss": "filled, brimming, replete",
+      "partOfSpeech": "adj",
+      "etymology": "from √bhṛ 'to bear, fill'; past participle bharita 'filled'",
+      "notes": "qualifies the saṁsāra that is 'full' of sin"
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, saṁsāra",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhū 'to become, be'; bhava 'becoming, the round of rebirth'"
+    },
+    {
+      "token": "દુરિત",
+      "translit": "durita",
+      "gloss": "sin, evil, affliction",
+      "partOfSpeech": "noun",
+      "etymology": "dur- 'bad' + ita (√i 'go'); 'ill-gone', i.e. wrongdoing — attested in Jain usage (cf. wisdomlib s.v. durita)"
+    },
+    {
+      "token": "દવ",
+      "translit": "dava",
+      "gloss": "wildfire, forest-fire",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dava 'forest conflagration', from √du 'to burn'"
+    },
+    {
+      "token": "દહન",
+      "translit": "dahana",
+      "gloss": "burning, conflagration",
+      "partOfSpeech": "noun",
+      "etymology": "from √dah 'to burn'; dahana 'the act of burning, fire'"
+    },
+    {
+      "token": "પરિતાપિતાઃ",
+      "translit": "paritāpitāḥ",
+      "gloss": "scorched, tormented (nom. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "pari- 'all around' + √tap 'to heat' (causative tāpita); 'thoroughly scorched'",
+      "notes": "agrees with the lords of men and gods named in line 2; first member of a yamaka rhyme with buddhyāpitāḥ"
+    },
+    {
+      "token": "સદસિ",
+      "translit": "sadasi",
+      "gloss": "in the assembly (i.e. the samavasaraṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "locative of sadas 'assembly, council hall'; here the Jina's preaching-assembly"
+    },
+    {
+      "token": "યદાયમતિ",
+      "translit": "yadāyam ati",
+      "gloss": "when this [pair], very-",
+      "partOfSpeech": "compound",
+      "etymology": "sandhi of yadā 'when' + ayam 'this' (m. nom. sg.) + ati 'exceedingly'",
+      "notes": "ayam points to the Jina-pair present in the assembly; ati intensifies the following puṇya"
+    },
+    {
+      "token": "પુણ્ય",
+      "translit": "puṇya",
+      "gloss": "meritorious, holy",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. puṇya 'merit, the morally good'; here in compound ati-puṇya-buddhyā 'with abundantly meritorious mind'"
+    },
+    {
+      "token": "બુદ્ધયાપિતાઃ",
+      "translit": "buddhyāpitāḥ",
+      "gloss": "brought/led by their intellect (nom. pl.)",
+      "partOfSpeech": "compound",
+      "etymology": "buddhyā (instr. of buddhi 'intellect') + āpitāḥ (caus. pp. of √āp 'to reach, attain'), 'caused to arrive'",
+      "notes": "i.e. drawn to the assembly by their merit-laden minds; rhymes with paritāpitāḥ (yamaka). The book's spelling બુદ્ધયા for buddhyā is kept verbatim"
+    },
+    {
+      "token": "સત્યસંધાઃ",
+      "translit": "satyasandhāḥ",
+      "gloss": "men true to their vow, the truth-pledged (nom. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "satya 'truth' + sandhā 'pledge, compact'; 'whose compact is truth' (cf. wisdomlib s.v. satyasandha)"
+    },
+    {
+      "token": "સુધા",
+      "translit": "sudhā",
+      "gloss": "nectar, ambrosia",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sudhā 'the drink of immortality'; metaphor for the Jina's liberating teaching (cf. wisdomlib s.v. sudhā)"
+    },
+    {
+      "token": "સારસેકં",
+      "translit": "sāra-sekaṁ",
+      "gloss": "a sprinkling of the essence (acc. sg.)",
+      "partOfSpeech": "compound",
+      "etymology": "sāra 'essence, quintessence' + seka 'sprinkling, anointing' (√sic 'to sprinkle')",
+      "notes": "object of menire: the teaching is esteemed AS a sprinkle of nectar's essence"
+    },
+    {
+      "token": "નરે-શામરેશા",
+      "translit": "nareśā-mareśā",
+      "gloss": "lords of men and lords of gods (nom. pl.)",
+      "partOfSpeech": "compound",
+      "etymology": "nara-īśa 'king' + amara-īśa 'lord of the immortals, Indra'; dvandva with euphonic split nareśā-(a)mareśā",
+      "notes": "the subject of the verse — kings and Indras; the hyphenation in the book marks the sound-play (yamaka) across the word-break"
+    },
+    {
+      "token": "મુદા",
+      "translit": "mudā",
+      "gloss": "with joy, gladly",
+      "partOfSpeech": "adverb",
+      "etymology": "instrumental of mud 'joy' (√mud 'to rejoice')"
+    },
+    {
+      "token": "સર્વદા",
+      "translit": "sarvadā",
+      "gloss": "always, evermore",
+      "partOfSpeech": "adverb",
+      "etymology": "sarva 'all' + -dā (temporal suffix); 'at all times'"
+    },
+    {
+      "token": "મેનિરે",
+      "translit": "menire",
+      "gloss": "they esteemed, regarded, held [it] to be",
+      "partOfSpeech": "verb",
+      "etymology": "perfect 3rd pl. ātmanepada of √man 'to think, esteem'; reduplicated mene → menire",
+      "notes": "governs sāra-sekaṁ as a predicative accusative: 'they regarded [the teaching] as a sprinkle of nectar'"
+    }
+  ],
+  "literalTranslation": "Scorched by the burning wildfire of the sins of brimming worldly existence, when in the assembly this [pair was present], the truth-pledged lords of men and lords of gods — brought [there] by their richly meritorious minds — with joy, evermore esteemed [it] as a sprinkling of the essence of nectar.",
+  "idiomaticTranslation": "Kings and the lords of the gods, seared by the raging wildfire of the sins that fill this round of births, were drawn by their merit-laden hearts to the holy assembly; and there those men of unbreakable truth, ever rejoicing, forever cherished the Jinas' word as a cooling shower of the very essence of nectar.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse set the saṅgha rushing toward the Jinas, this verse tells us why they come and what they receive. The whole stanza is built on a single elemental contrast: fire against nectar. Line one is all heat — bharita-bhava-durita-dava-dahana piles 'filled–existence–sin–wildfire–burning' into one scorching compound, and the worshippers, however exalted, are paritāpitāḥ, 'thoroughly burnt.' The poet's point is pointed: even nareśa and amareśa — the highest kings and Indra himself, the very summit of worldly and heavenly fortune — are still ablaze in saṁsāra. Rank does not cool the fire. What cools it arrives in line two as sudhā-sāra-seka, 'a sprinkling of the essence of nectar' — the Jina's teaching (or his mere darśana) falling like immortal dew on souls aflame. The craft is deliberate: paritāpitāḥ and buddhyāpitāḥ chime as a yamaka, and nareśā-(a)mareśā splits a single sound-run across a word-break so the line rings even before it is understood. Two further touches reward attention. The lords are buddhyāpitāḥ — 'brought by intellect': it is their own accumulated merit and discernment that carries them to the assembly, not chance. And they are satyasandhāḥ, 'truth-pledged' — only a heart fixed on truth recognizes the teaching as nectar rather than mere sound. The verb menire ('they esteemed, always and gladly') makes the response permanent, not a passing thrill: once tasted, the nectar is valued forever.",
+    "doctrinalContext": "The image of saṁsāra as a forest-fire (bhava-dāva) and of the Jina's deśanā as amṛta is a stock Jain figure for the function of right teaching: the burning is the work of the kaṣāyas (passions) and accumulated karmic 'sin' (durita), and the only true coolant is the liberating word of an omniscient teacher. The verse quietly asserts the Jain valuation of spiritual over temporal sovereignty — that kingship and even Indra-hood are still bondage, still burning — while making the worshippers' satyasandhatva (steadfastness in truth, akin to samyag-darśana) the precondition for receiving the teaching profitably. This is the samavasaraṇa not as spectacle but as soteriology.",
+    "practicalRelevance": "Reciting this verse, place yourself among those scorched lords: wealth, status, even pleasure do not extinguish the inner fire of craving. The remedy is to come 'brought by a meritorious mind' — to approach the teaching deliberately, with a truth-pledged heart — and then to value it as menire suggests: not as a one-time relief but as nectar to be esteemed mudā sarvadā, gladly and always.",
+    "crossReferences": [
+      {
+        "text": "The samavasaraṇa scene and the eight prātihāryas continued in the following verse (v.13: the three umbrellas, chowries, and celestial drum)",
+        "source": "Bṛhad Ajitaśānti Stava, 9th Smaraṇa (Anchalgachchha/Vidhipaksha Panch Pratikraman, vidhi-sahit ed.)"
+      },
+      {
+        "text": "Saṁsāra likened to a blazing fire from which the Jina's word rescues beings (recurring Uttarādhyayana/Daśavaikālika imagery of the world ablaze)",
+        "source": "Uttarādhyayana-sūtra / Daśavaikālika-sūtra (Śvetāmbara Mūlasūtras)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdom Library — 'Satyasandha' (Sanskrit/Jain lexical entry)",
+      "url": "https://www.wisdomlib.org/definition/satyasandha",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of satyasandha 'true to one's pledge/vow'"
+    },
+    {
+      "title": "Wisdom Library — 'Sudhā' (Sanskrit/Jain lexical entry)",
+      "url": "https://www.wisdomlib.org/definition/sudha",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sudhā 'nectar/ambrosia' and its devotional metaphorical use"
+    },
+    {
+      "title": "Wisdom Library — 'Durita' (Sanskrit/Jain lexical entry)",
+      "url": "https://www.wisdomlib.org/definition/durita",
+      "type": "dictionary",
+      "consultedFor": "Gloss of durita 'sin/affliction', including its attested Jain sense"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is Sanskrit recorded in the book's Gujarati script; spellings (e.g. બુદ્ધયા for buddhyā, the hyphenated નરે-શામરેશા marking the yamaka across a word-break) are preserved verbatim per the source's fidelity rule, not normalized. Two readings carry mild uncertainty: (1) buddhyāpitāḥ is parsed as buddhyā + āpitāḥ (caus. of √āp, 'brought/led by intellect'); a variant analysis as ārpitāḥ ('offered/dedicated with meritorious mind') is grammatically possible and would shift the nuance slightly without changing the verse's sense. (2) The implied object of menire is taken to be the Jina's teaching/darśana ('they esteemed [it] as nectar'); the syntax also permits esteeming the Jina-pair (ayam) themselves as the nectar. Authorship of this Bṛhad version remains unattributed in the tradition knowledge base (preface, notes). The fire-vs-nectar contrast and the paritāpitāḥ/buddhyāpitāḥ yamaka are secure and central to the verse's intended effect."
+}

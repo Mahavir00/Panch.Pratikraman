@@ -1,0 +1,298 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/46",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In this closing crowning verse the poet praises the ninety-six Jinas of all three worlds and every eternal and built-in-time Jina-image, names his order and its teacher, and prays that whoever recites this finds growing prosperity and joy.",
+  "recitation": "kalaśa | chhannue jinavara chhannue jinavara, adho ūrdhva ne loka tīrcche jāṇue. sāsaya asāsaya jina-paḍimā, te savve vakhāṇuṁ e. gaccha vidhipakṣa pūjya pragaṭa, śrī-dharma-mūrti sūrīndue. vācaka mūlā kahe bhaṇatāṁ, ṛddhi-vṛddhi āṇandue.",
+  "wordByWord": [
+    {
+      "token": "કલશ",
+      "translit": "kalaśa",
+      "gloss": "the crowning concluding stanza (heading marking this final 'pouring' verse)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kalaśa, 'pitcher, finial'; here the section-label for the sealing benediction",
+      "notes": "A rubric/heading printed before the stanza, not a syntactic part of it; retained verbatim."
+    },
+    {
+      "token": "છન્નુએ",
+      "translit": "chhannue",
+      "gloss": "ninety-six (the 96 Jinas, i.e. four caubīsīs)",
+      "partOfSpeech": "noun",
+      "etymology": "from Prakrit channaviṁ / chha-ṇaüi < Sanskrit ṣaṇṇavati 'ninety-six'; -e is an oblique/locative-flavoured Old-Gujarati ending",
+      "notes": "Refers to the past, present, future and Mahāvideha sets of twenty-four (4×24)."
+    },
+    {
+      "token": "જિનવર",
+      "translit": "jinavara",
+      "gloss": "the most excellent Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "jina ('conqueror') + vara ('best, foremost'); honorific intensifier",
+      "notes": ""
+    },
+    {
+      "token": "છન્નુએ",
+      "translit": "chhannue",
+      "gloss": "ninety-six (repeated for emphasis)",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": "The doubling 'chhannue jinavar chhannue jinavar' is a chant-refrain device of devotional intensification."
+    },
+    {
+      "token": "જિનવર",
+      "translit": "jinavara",
+      "gloss": "the most excellent Jinas (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અધો",
+      "translit": "adho",
+      "gloss": "lower (the lower world, adho-loka)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit adhaḥ 'below'",
+      "notes": ""
+    },
+    {
+      "token": "ઊર્ધ્વ",
+      "translit": "ūrdhva",
+      "gloss": "upper (the upper world, ūrdhva-loka)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit ūrdhva 'above, upward'",
+      "notes": ""
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati conjunctive ne 'and'",
+      "notes": ""
+    },
+    {
+      "token": "લોક",
+      "translit": "loka",
+      "gloss": "world(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit loka 'world, region of existence'",
+      "notes": "Here gathers the three lokas into one sweep."
+    },
+    {
+      "token": "તીર્ચ્છે",
+      "translit": "tīrcche",
+      "gloss": "in the middle/oblique (world), the tiryag-loka",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tiriccha / tiyacchа < Sanskrit tiryak 'transverse, horizontal'; locative -e",
+      "notes": "Completes the triloka triad adho–ūrdhva–tīrcche."
+    },
+    {
+      "token": "જાણુએ",
+      "translit": "jāṇue",
+      "gloss": "know / are to be known",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jāṇaï < Sanskrit jñā 'to know'; Old-Gujarati optative/euphonic -ue",
+      "notes": "Invites the reciter to mentally apprehend the Jinas filling all three worlds."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal (ever-existing)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya < Sanskrit śāśvata 'perpetual'",
+      "notes": ""
+    },
+    {
+      "token": "અસાસય",
+      "translit": "asāsaya",
+      "gloss": "non-eternal (made in time)",
+      "partOfSpeech": "adj",
+      "etymology": "a- (negation) + sāsaya; Sanskrit aśāśvata",
+      "notes": ""
+    },
+    {
+      "token": "જિનપડિમા",
+      "translit": "jina-paḍimā",
+      "gloss": "Jina-images",
+      "partOfSpeech": "compound",
+      "etymology": "jina + Prakrit paḍimā < Sanskrit pratimā 'image, icon'",
+      "notes": "Both eternal and built-in-time icons are folded into a single act of praise."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit/Old-Gujarati te 'they, those' < Sanskrit te",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savve < Sanskrit sarve 'all'",
+      "notes": ""
+    },
+    {
+      "token": "વખાણું",
+      "translit": "vakhāṇuṁ",
+      "gloss": "I praise / extol / expound",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati vakhāṇavuṁ < Prakrit vakkhāṇa- < Sanskrit vyākhyāna 'exposition, praise'; first-person",
+      "notes": "The poet himself becomes the devotee, summing the whole hymn in one verb of praise."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "(emphatic/metrical particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati euphonic line-closing particle e",
+      "notes": "Recurring end-of-line filler that carries the melody; not separately translatable."
+    },
+    {
+      "token": "ગચ્છ",
+      "translit": "gaccha",
+      "gloss": "monastic order/lineage",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaccha < Sanskrit gaccha 'a monastic group'",
+      "notes": ""
+    },
+    {
+      "token": "વિધિપક્ષ",
+      "translit": "vidhipakṣa",
+      "gloss": "Vidhipakṣa (the order's self-name; the Anchalgaccha)",
+      "partOfSpeech": "noun",
+      "etymology": "vidhi 'right procedure' + pakṣa 'party, side'",
+      "notes": "The gaccha's own designation, as set out in the preface."
+    },
+    {
+      "token": "પૂજ્ય",
+      "translit": "pūjya",
+      "gloss": "worthy of worship, venerable",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit pūjya, gerundive of pūj 'to worship'",
+      "notes": ""
+    },
+    {
+      "token": "પ્રગટ",
+      "translit": "pragaṭa",
+      "gloss": "manifest, renowned, openly resplendent",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit prakaṭa 'manifest, evident'",
+      "notes": "Qualifies the gaccha as conspicuously honoured."
+    },
+    {
+      "token": "શ્રીધર્મમૂર્તિ",
+      "translit": "śrī-dharma-mūrti",
+      "gloss": "the venerable Dharmamūrti (the presiding teacher)",
+      "partOfSpeech": "noun",
+      "etymology": "honorific śrī + the personal name Dharmamūrti ('embodiment of dharma')",
+      "notes": "The gacchādhipati under whom the author wrote; named here to seal the work under his authority."
+    },
+    {
+      "token": "સૂરીંદુએ",
+      "translit": "sūrīndue",
+      "gloss": "the chief among sūris (ācāryas), Indra-of-preceptors",
+      "partOfSpeech": "noun",
+      "etymology": "sūri 'ācārya, preceptor' + indu/indra 'lord, chief'; Old-Gujarati -ue ending",
+      "notes": "Title of pre-eminence; the -indu form also evokes 'moon', a stock simile of radiant glory."
+    },
+    {
+      "token": "વાચક",
+      "translit": "vācaka",
+      "gloss": "Vācaka (the Upādhyāya rank; the author's title)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vācaka 'reader, expounder' < vac 'to speak'",
+      "notes": ""
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "Mūlā (the poet's name)",
+      "partOfSpeech": "noun",
+      "etymology": "proper name; the closing poetic signature (bhaṇitā)",
+      "notes": "'Vācaka Mūlā kahe' is the author's recurring signature refrain."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati kahevuṁ < Prakrit kahaï < Sanskrit kath 'to tell'",
+      "notes": ""
+    },
+    {
+      "token": "ભણતાં",
+      "translit": "bhaṇatāṁ",
+      "gloss": "while reciting / for those who recite",
+      "partOfSpeech": "verb",
+      "etymology": "present participle of Prakrit bhaṇaï 'recites' < Sanskrit bhaṇ 'to speak, recite'",
+      "notes": "Conditions the benediction on the act of recitation."
+    },
+    {
+      "token": "ઋદ્ધિવૃદ્ધિ",
+      "translit": "ṛddhi-vṛddhi",
+      "gloss": "prosperity and increase (material and spiritual abundance)",
+      "partOfSpeech": "compound",
+      "etymology": "ṛddhi 'attainment, prosperity' + vṛddhi 'growth, increase'",
+      "notes": "A paired benediction-formula."
+    },
+    {
+      "token": "આણંદુએ",
+      "translit": "āṇandue",
+      "gloss": "joy, bliss (comes about)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit āṇanda < Sanskrit ānanda 'bliss'; Old-Gujarati -ue ending",
+      "notes": "The hymn ends on ānanda — the fruit promised to the reciter."
+    }
+  ],
+  "literalTranslation": "Ninety-six excellent Jinas, ninety-six excellent Jinas — know them in the lower, the upper, and the middle world. Eternal and non-eternal Jina-images — all of those I extol. The Vidhipakṣa gaccha, venerable and renowned, the chief-of-preceptors Śrī Dharmamūrti(sūri); Vācaka Mūlā says: to those who recite, prosperity, increase and joy.",
+  "idiomaticTranslation": "Ninety-six radiant Jinas — ninety-six radiant Jinas! — behold them filling the lower, the upper and the middle world. Every Jina-image, eternal or fashioned in time, I now extol with all my heart. Glory to the renowned and venerable Vidhipakṣa order and to its crown of preceptors, Śrī Dharmamūrtisūri. Vācaka Mūlā declares: whoever recites this hymn shall gather ever-growing prosperity, abundance and joy.",
+  "elaboration": {
+    "verseByVerseCommentary": "The kalaśa does for the whole hymn what its name implies — it is the finial poured over the temple of all eight dhālas, gathering their immensity into a single breath of praise. The opening line collapses the entire enumeration that has gone before: the four caubīsīs become 'chhannue jinavar', and the doubling — 'chhannue jinavar, chhannue jinavar' — is not redundancy but chant, the refrain swelling so the reciter feels the number rather than counts it. The second half-line, 'adho ūrdhva ne loka tīrcche jāṇue', telescopes dhālas 5–7 (the lower, upper and middle worlds) into three words, asking the worshipper to 'know' — to hold in mind — Jinas distributed through the whole triloka. The next line resolves the hymn's running śāśvata/aśāśvata distinction into one inclusive act: 'sāsaya asāsaya jina-paḍimā, te savve vakhāṇuṁ' — eternal and made-in-time images alike, *all* of them, the poet extols. The verb shifts from the earlier 'jāṇue' (know) to 'vakhāṇuṁ' (I praise), moving the verse from cognition to devotion, and from the assembly to the single voice of the author. The last two lines turn from cosmos to lineage: the manifest, venerable Vidhipakṣa gaccha and its 'sūrīndu', Śrī Dharmamūrti — the work is signed and sealed under living authority. Finally the poetic colophon 'Vācaka Mūlā kahe' issues the phala-śruti: 'bhaṇatāṁ ṛddhi-vṛddhi āṇandue' — recitation yields prosperity, increase and joy. Thus the verse completes the hymn's characteristic motion from the boundless cosmos inward to the named teacher, and outward again to the reciter's own welfare.",
+    "doctrinalContext": "Two doctrinal threads are knotted here. First, the count 'ninety-six' encodes the Jain conviction that awakened guides are never absent: twenty-four for the past age, twenty-four for the present, twenty-four for the future, and twenty-four of the ever-present Mahāvideha realm — time and space are never void of a Jina. Second, the pairing 'sāsaya asāsaya jina-paḍimā' affirms a specifically Mūrtipūjaka teaching: the Jina is rightly venerated through his image (caitya-vandana), whether that image is one of the eternal, uncreated icons of the śāśvata-tīrthas or one consecrated by human hands in time — both are fit objects of reverence. Extolling 'te savve' (all of them) is therefore a quiet doctrinal assertion of image-worship as a means of strengthening samyaktva. The closing phala-śruti reflects the standard Jain logic of puṇya: reverent recitation accrues merit that ripens as ṛddhi, vṛddhi and ānanda — though the deeper aim, consonant with the hymn's awe-before-immensity, is the steadying of faith rather than worldly gain alone.",
+    "practicalRelevance": "Recited as the seal of the morning caityavandana, this verse lets the worshipper let go of the dizzying numbers just heard and rest in a single, whole-hearted bow to every Jina and every Jina-image, everywhere. A practitioner today can use the doubled 'chhannue jinavar' as a focusing refrain, then consciously include both the famous eternal tīrthas and the image in their own local temple under 'sāsaya asāsaya... te savve', and close by receiving the benediction of ṛddhi-vṛddhi-ānanda as an intention for the day rather than a transaction.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — praise of the twenty-four Tīrthaṅkaras, the nucleus the 'chhannu' expands fourfold",
+        "source": "Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā — the 108 tīrthas, parallel devotional census of śāśvata/aśāśvata shrines",
+        "source": "Mahendrasinhasūri, in the same edition (Pakkhī)"
+      },
+      {
+        "text": "Jaina triloka cosmography — adho-/ūrdhva-/tiryag-loka framework underlying 'adho ūrdhva... tīrcche'",
+        "source": "Tattvārtha-sūtra, ch. 3 (Umāsvāti)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shashvata, Śāśvata — definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Confirming śāśvata 'eternal/ever-existing' (Prakrit sāsaya) and its Jain usage for ever-existing entities."
+    },
+    {
+      "title": "Kalasha, Kalaśa — definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/kalasha",
+      "type": "dictionary",
+      "consultedFor": "Sense of kalaśa as a finial/crowning element, supporting the reading of the verse as the hymn's sealing benediction."
+    },
+    {
+      "title": "Jinabimba, Jina-bimba — definitions",
+      "url": "https://www.wisdomlib.org/definition/jinabimba",
+      "type": "dictionary",
+      "consultedFor": "Corroborating jina-image (paḍimā/bimba/pratimā) as 'icon/statue of a Jina'."
+    },
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha)",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Vidhipakṣa/Anchalgaccha named in the kalaśa as the author's order."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse-initial 'કલશ' is a printed section-heading (the kalaśa rubric) rather than a syntactic word of the stanza; glossed but flagged as a label. Old-Gujarati line-final '-એ/-ઉએ' (jāṇue, sūrīndue, āṇandue) and the standalone 'એ' are euphonic/metrical endings whose exact grammatical force is soft; rendered as emphatic/optative per context. 'સૂરીંદુએ' is read as sūri-indra ('chief of preceptors'); the indu spelling additionally evokes 'moon' (a glory-simile), noted but not pressed. 'છન્નુએ' = 96, read per the hymn's own four-caubīsī scheme. Spellings (સાસય/અસાસય, જિનપડિમા, વખાણું) are kept verbatim per the source book's orthography. Dharmamūrtisūri's precise pontifical dates are not asserted, consistent with the preface's caution."
+}

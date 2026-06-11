@@ -1,0 +1,226 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Ajita, the conqueror, who grants every happiness like the gods' wish-fulfilling tree, at whose lotus-feet countless lords of heaven bow, and who shines with imperishable virtue in the changeless bliss of liberation.",
+  "recitation": "sakala-sukha-nivaha-dānāya sura-pādapaṁ, pāda-paṅkaja-natāneka-nākādhipaṁ | acala-śiva-nilayam pralaya-guṇa-śobhitaṁ, naumi jinam ajitam aham ajitam uditoditam ||",
+  "wordByWord": [
+    {
+      "token": "સકલ",
+      "translit": "sakala",
+      "gloss": "whole, entire, all",
+      "partOfSpeech": "adj",
+      "etymology": "sa- (with) + kalā (part) → 'having all parts', complete",
+      "notes": "First member of the compound sakala-sukha-nivaha-dānāya."
+    },
+    {
+      "token": "સુખ",
+      "translit": "sukha",
+      "gloss": "happiness, well-being, bliss",
+      "partOfSpeech": "noun",
+      "etymology": "su- (good) + kha (axle-hole/space) → 'running smoothly', ease",
+      "notes": ""
+    },
+    {
+      "token": "નિવહ",
+      "translit": "nivaha",
+      "gloss": "multitude, host, abundant mass",
+      "partOfSpeech": "noun",
+      "etymology": "ni- + √vah (to carry) → a 'gathered together' heap/collection",
+      "notes": "sukha-nivaha = 'the whole host of joys'."
+    },
+    {
+      "token": "દાનાય",
+      "translit": "dānāya",
+      "gloss": "for the giving, for bestowing (dative)",
+      "partOfSpeech": "noun",
+      "etymology": "√dā (to give) + -ana, dative singular -āya 'for the purpose of'",
+      "notes": "Dative of purpose: the Jina exists 'for the bestowing' of all happiness."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestials, deva",
+      "partOfSpeech": "noun",
+      "etymology": "sura, traditionally opposed to a-sura; a shining/heavenly being",
+      "notes": ""
+    },
+    {
+      "token": "પાદપં",
+      "translit": "pādapaṁ",
+      "gloss": "tree (here the celestial wish-tree, kalpa-vṛkṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "pāda (foot/root) + pa (√pā, to drink) → 'that drinks by its foot', i.e. a tree; accusative -aṁ qualifying jinam",
+      "notes": "sura-pādapa = 'tree of the gods' = the wish-fulfilling kalpavṛkṣa; the Jina is that tree to all beings."
+    },
+    {
+      "token": "પાદપંકજ",
+      "translit": "pāda-paṅkaja",
+      "gloss": "foot-lotus, lotus-feet",
+      "partOfSpeech": "compound",
+      "etymology": "pāda (foot) + paṅkaja (paṅka 'mud' + ja 'born' = lotus)",
+      "notes": "Deliberate sound-echo of the preceding pādapaṁ (pādapa → pāda-paṅkaja)."
+    },
+    {
+      "token": "નતાનેક",
+      "translit": "natāneka",
+      "gloss": "bowed-by-many",
+      "partOfSpeech": "compound",
+      "etymology": "nata (√nam, bowed, bent down) + aneka (na 'not' + eka 'one' = many), vowel-sandhi a+a→ā",
+      "notes": "Modifies the heaven-lords who bow at the lotus-feet."
+    },
+    {
+      "token": "નાકાધિપં",
+      "translit": "nākādhipaṁ",
+      "gloss": "lords of heaven (Indras)",
+      "partOfSpeech": "noun",
+      "etymology": "nāka (heaven, firmament) + adhipa (adhi + pa, 'over-lord'), sandhi a+a→ā; accusative -aṁ",
+      "notes": "pāda-paṅkaja-nata-aneka-nāka-adhipaṁ = '(him) at whose lotus-feet many lords of heaven bow' — even Indras are subordinate."
+    },
+    {
+      "token": "અચલ",
+      "translit": "acala",
+      "gloss": "immovable, unshakable, eternal",
+      "partOfSpeech": "adj",
+      "etymology": "a- (not) + cala (√cal, moving) → 'not moving'",
+      "notes": "Describes the changeless state of mokṣa."
+    },
+    {
+      "token": "શિવ",
+      "translit": "śiva",
+      "gloss": "auspicious, blissful (here = liberation, mokṣa)",
+      "partOfSpeech": "adj",
+      "etymology": "śiva 'auspicious, kindly'; in Jain usage śiva/śiva-pada is a standard name for the liberated state",
+      "notes": "Not the Hindu deity; here the 'auspicious abode' = mokṣa."
+    },
+    {
+      "token": "નિલયમ",
+      "translit": "nilayam",
+      "gloss": "abode, dwelling, resting place",
+      "partOfSpeech": "noun",
+      "etymology": "ni- + √lī (to settle/cling) → a settling-place; accusative",
+      "notes": "acala-śiva-nilayam = '(he who is/dwells in) the immovable auspicious abode'. Book prints નિલયમ (open m) rather than નિલયં."
+    },
+    {
+      "token": "પ્રલય",
+      "translit": "pralaya",
+      "gloss": "dissolution, cosmic end, destruction",
+      "partOfSpeech": "noun",
+      "etymology": "pra- (forth) + √lī (to dissolve) → 'complete dissolution'",
+      "notes": "See notes: in pralaya-guṇa-śobhitaṁ the intended sense is virtues that survive/transcend dissolution, i.e. imperishable virtues."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "quality, virtue, excellence",
+      "partOfSpeech": "noun",
+      "etymology": "guṇa 'strand, attribute'",
+      "notes": "Points to the ananta-catuṣṭaya, a Jina's four infinite perfections."
+    },
+    {
+      "token": "શોભિતં",
+      "translit": "śobhitaṁ",
+      "gloss": "adorned, made resplendent",
+      "partOfSpeech": "adj",
+      "etymology": "√śubh (to shine) causative past participle, accusative -aṁ",
+      "notes": "guṇa-śobhitaṁ = 'resplendent with virtues'."
+    },
+    {
+      "token": "નૌમિ",
+      "translit": "naumi",
+      "gloss": "I praise, I bow to, I extol",
+      "partOfSpeech": "verb",
+      "etymology": "√nu / √nau (to praise/laud), present 1st-person singular",
+      "notes": "The main verb governing every accusative epithet in the verse."
+    },
+    {
+      "token": "જિનમ્",
+      "translit": "jinam",
+      "gloss": "the Jina, the conqueror (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "√ji (to conquer) → jina 'victor over passions and karma'; accusative -m",
+      "notes": "Printed sandhi-joined as જિનમજિતમહ = jinam + ajitam + aham."
+    },
+    {
+      "token": "અજિતમ્",
+      "translit": "ajitam",
+      "gloss": "Ajita (the 2nd Tīrthaṅkara), the proper name",
+      "partOfSpeech": "invocation",
+      "etymology": "a- (not) + jita (√ji, conquered) → 'the unconquered'; here as the personal name Ajitanātha",
+      "notes": "First of the two ajitam — taken as the name; second occurrence (below) as its literal sense, a yamaka."
+    },
+    {
+      "token": "અહમ્",
+      "translit": "aham",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "aham, first-person singular pronoun",
+      "notes": "Final -m carries over into the next printed token (…મહ મજિતમ્ = …aha + m-ajitam)."
+    },
+    {
+      "token": "અજિતમ્",
+      "translit": "ajitam",
+      "gloss": "the invincible, the unconquered (epithet)",
+      "partOfSpeech": "adj",
+      "etymology": "a- + jita as above — here in its literal adjectival force",
+      "notes": "The repeated ajitam … ajitam is intentional yamaka: 'Ajita the unconquered'."
+    },
+    {
+      "token": "ઉદિતોદિતમ્",
+      "translit": "uditoditam",
+      "gloss": "risen-and-ever-risen, supremely exalted",
+      "partOfSpeech": "adj",
+      "etymology": "udita (√ud-i, risen) + uditam (risen again), sandhi a+u→o → 'risen upon risen', ever-ascendant",
+      "notes": "Sound-doubling matching the ajitam-ajitam echo; connotes glory that only keeps rising."
+    }
+  ],
+  "literalTranslation": "For the giving of the whole host of all happiness, the wish-tree of the gods; (him) at whose lotus-feet bow many lords of heaven; the immovable, auspicious abode (of liberation), resplendent with virtues (that outlast even cosmic dissolution) — I praise the Jina Ajita, I (praise) the unconquered, ever-risen one.",
+  "idiomaticTranslation": "I bow to the Jina Ajita: the heavenly wish-tree that pours out every joy, before whose lotus-feet a host of heaven's own kings bend low; he who is the unshakable, blissful abode of liberation, ablaze with imperishable virtue — Ajita the invincible, whose glory only rises and rises.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse is a single, breathless salute to Ajita alone — the worship of Śānti waits for the very next verse ('śāntim upaśānta-bhava-bhaya…'). The poet builds the praise as a ladder of accusatives all governed by one verb, naumi ('I praise'): first what Ajita does (sura-pādapaṁ — he is the gods' kalpavṛkṣa, giving not stray boons but the entire mass of happiness, sakala-sukha-nivaha), then who reveres him (lotus-feet bowed to by 'many heaven-lords', a plural that quietly dwarfs even the Indras), then what he has become (acala-śiva-nilayam — the immovable, auspicious resting-place that is liberation). The craft is audible: pādapaṁ chimes into pāda-paṅkaja, and the final pāda runs on doubled syllables — ajitam … ajitam, uditodita — where the name 'Ajita' is sounded once as a name and once as its meaning, 'unconquered', so the ear hears the theology before the mind parses it. uditodita ('risen and risen again') closes the verse on perpetual ascent, the right note to launch a seventeen-verse hymn. Note the deliberate self-insertion of the worshipper (aham, 'I'), tucked between the divine epithets — the devotee places himself, small, amid the bowing heaven-lords.",
+    "doctrinalContext": "Three doctrinal points are compressed here. (1) The 'happiness' Ajita gives is not worldly: as the gods' wish-tree he grants sakala-sukha — the complete, unbroken bliss that for Jainism means the soul's own liberated nature, not granted boons; a Jina is a guide to it, the verse's poetic 'tree.' (2) The lotus-feet bowed by many nākādhipas affirm a cardinal Jain hierarchy — celestial kings, however mighty, stand below the passion-free Jina; veneration flows upward from power to purity. (3) acala-śiva-nilayam and pralaya-guṇa-śobhitaṁ together name the siddha state: an unmoving abode (the changeless mokṣa beyond the cosmos's cycles) and virtues that outlast even pralaya — the ananta-catuṣṭaya (infinite knowledge, perception, bliss, energy) which, being of the soul, no dissolution can touch. The very name Ajita ('unconquered') encodes the goal: one whom no kaṣāya or karma could subdue.",
+    "practicalRelevance": "Recited at the head of the Smaraṇa, the verse trains the reciter to begin not with petition but with right valuation: to seek from a Jina 'the whole of happiness' (the soul's freedom), not piecemeal favours, and to measure all worldly power against feet that even heaven's kings bow to. The doubled, rising sounds (ajitam-ajitam, uditodita) make it a natural chant — let the cadence carry the mind toward the 'immovable abode' it names.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the model of saluting a Jina by name and epithet",
+        "source": "Āvaśyaka-sūtra, Āv. 2 (this book)"
+      },
+      {
+        "text": "Bhaktāmara Stotra v.1–2 — the same kalpa-vṛkṣa / gods-bowing imagery for an opening Jina-salute",
+        "source": "Mānatuṅgasūri"
+      },
+      {
+        "text": "The name 'Ajita' (2nd Tīrthaṅkara, golden-hued, elephant emblem)",
+        "source": "Standard Jain Tīrthaṅkara accounts (cf. preface)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for nivaha, pādapa, nilaya, nāka, adhipa, uditodita, naumi (√nu)."
+    },
+    {
+      "title": "V. S. Apte, Practical Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/APScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Compound senses of pāda-paṅkaja, nākādhipa, acala, śiva (= mokṣa), pralaya, and sandhi resolution."
+    },
+    {
+      "title": "Wisdom Library — Sanskrit definitions (pādapa, nivaha, nilaya, pralaya)",
+      "url": "https://www.wisdomlib.org/definition/padapa",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking the 'tree / wish-tree' and 'abode' senses used in devotional usage."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and its placement as the 9th Smaraṇa within the Pakkhī pratikramaṇa."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) pralaya-guṇa-śobhitaṁ is the verse's chief ambiguity: 'pralaya' literally is cosmic dissolution, yet the laudatory sense requires virtues that endure beyond/despite dissolution (i.e. imperishable, soul-intrinsic guṇas); some readings may intend an implied privative ('a-pralaya', undecaying). Rendered as 'imperishable virtue' and flagged here rather than emended. (2) The book prints નિલયમ (open -m) and the run-on જિનમજિતમહ મજિતમુદિતોદિતમ્; per the tradition's fidelity rule these orthographic readings are preserved, and the last pāda is split as naumi jinam ajitam aham ajitam uditoditam. (3) ajitam appears twice as deliberate yamaka — once as the proper name Ajita, once as the adjective 'unconquered'; uditodita mirrors this doubling. (4) This verse praises Ajita only; Śānti is introduced in v.2 (the 'following verse' supplied). (5) Authorship of this Bṛhad version is left unattributed per the knowledge base."
+}

@@ -1,0 +1,438 @@
+{
+  "shlokaId": "muni-vandana/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This part names the great teachers who sat one after another on the seat of our order — the first eight from Sudharmāsvāmī to Sthūlibhadra, and then, forty-seventh in that unbroken line, our reformer Āryarakṣitasūri, after whom come Jayasiṁha, Dharmaghoṣa and Mahendrasiṁha.",
+  "recitation": "pahele pāṭe sudharmāsvāmī, bīje pāṭe jambūsvāmī, trīje pāṭe prabhavasvāmī, cothe pāṭe sijjambhavasūri, pāñcame pāṭe yaśobhadrasūri, chaṭṭhe pāṭe sambhūtivijayasūri, sātame pāṭe bhadrabāhusvāmī, āṭhame pāṭe sthūlibhadrasvāmī — evā pāṭānupāṭe suḍatālīsamā pāṭadhara, śrī-vidhipakṣagaccha śaṇagāra, jaṅgama yugapradhāna — pujja siri ajjarakkhiya, guruṇo tappaṭṭe pujja jayasiṁhā. sūri siri dhammaghosā, mahindasiṁhā tao guruṇo",
+  "wordByWord": [
+    {
+      "token": "પહેલે",
+      "translit": "pahele",
+      "gloss": "on the first (seat)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal locative, from Skt prathama → Prakrit paḍhama → Guj pahelo; loc. pahele.",
+      "notes": "Heads the prose roll; pairs with pāṭe."
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat (of succession)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of pāṭa (Skt paṭṭa), the pontifical seat.",
+      "notes": "Recurs eight times, once per named seat (occurrences 2,5,8,11,14,17,20,23)."
+    },
+    {
+      "token": "સુધર્માસ્વામી",
+      "translit": "sudharmāsvāmī",
+      "gloss": "Sudharmāsvāmī (the first head-teacher)",
+      "partOfSpeech": "invocation",
+      "etymology": "Su-dharma ('good law') + svāmī ('lord'); the fifth Gaṇadhara of Mahāvīra, source of this line.",
+      "notes": "Root of the whole paṭṭāvalī."
+    },
+    {
+      "token": "બીજે",
+      "translit": "bīje",
+      "gloss": "on the second",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt dvitīya; loc. bīje.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "જંબૂસ્વામી",
+      "translit": "jambūsvāmī",
+      "gloss": "Jambūsvāmī",
+      "partOfSpeech": "invocation",
+      "etymology": "Jambū + svāmī; disciple of Sudharmā, held in tradition to be the last kevalī of this avasarpiṇī.",
+      "notes": ""
+    },
+    {
+      "token": "ત્રીજે",
+      "translit": "trīje",
+      "gloss": "on the third",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt tṛtīya.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "પ્રભવસ્વામી",
+      "translit": "prabhavasvāmī",
+      "gloss": "Prabhavasvāmī",
+      "partOfSpeech": "invocation",
+      "etymology": "Prabhava + svāmī; successor of Jambūsvāmī.",
+      "notes": ""
+    },
+    {
+      "token": "ચોથે",
+      "translit": "cothe",
+      "gloss": "on the fourth",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt caturtha.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "સિજ્જંભવસૂરિ",
+      "translit": "sijjambhavasūri",
+      "gloss": "Sijjambhava-sūri (Śayyambhava)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit Sijjambhava = Skt Śayyambhava + sūri; traditionally the composer of the Daśavaikālika-sūtra.",
+      "notes": "Spelling kept verbatim per the book."
+    },
+    {
+      "token": "પાંચમે",
+      "translit": "pāñcame",
+      "gloss": "on the fifth",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt pañcama.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "યશોભદ્રસૂરિ",
+      "translit": "yaśobhadrasūri",
+      "gloss": "Yaśobhadra-sūri",
+      "partOfSpeech": "invocation",
+      "etymology": "Yaśas ('fame') + bhadra ('auspicious') + sūri.",
+      "notes": ""
+    },
+    {
+      "token": "છઠ્ઠે",
+      "translit": "chaṭṭhe",
+      "gloss": "on the sixth",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt ṣaṣṭha → Pkt chaṭṭha.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "સંભૂતિવિજયસૂરિ",
+      "translit": "sambhūtivijayasūri",
+      "gloss": "Sambhūtivijaya-sūri",
+      "partOfSpeech": "invocation",
+      "etymology": "Sambhūti + vijaya ('victory') + sūri; co-pupil of Bhadrabāhu under Yaśobhadra.",
+      "notes": ""
+    },
+    {
+      "token": "સાતમે",
+      "translit": "sātame",
+      "gloss": "on the seventh",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt saptama.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "ભદ્રબાહુસ્વામી",
+      "translit": "bhadrabāhusvāmī",
+      "gloss": "Bhadrabāhusvāmī",
+      "partOfSpeech": "invocation",
+      "etymology": "Bhadra + bāhu ('arm') + svāmī; tradition's last śruta-kevalī (knower of the whole canon).",
+      "notes": ""
+    },
+    {
+      "token": "આઠમે",
+      "translit": "āṭhame",
+      "gloss": "on the eighth",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal, from Skt aṣṭama.",
+      "notes": ""
+    },
+    {
+      "token": "પાટે",
+      "translit": "pāṭe",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "See first occurrence.",
+      "notes": "Repeated (last of the eight)."
+    },
+    {
+      "token": "સ્થૂલિભદ્રસ્વામી",
+      "translit": "sthūlibhadrasvāmī",
+      "gloss": "Sthūlibhadrasvāmī",
+      "partOfSpeech": "invocation",
+      "etymology": "Sthūli-bhadra + svāmī; pupil of Bhadrabāhu, famed for steadfastness in renunciation.",
+      "notes": "Closes the named early roll at the eighth seat."
+    },
+    {
+      "token": "*",
+      "translit": "(asterisk)",
+      "gloss": "(reciter's pause / footnote marker)",
+      "partOfSpeech": "particle",
+      "etymology": "Editorial mark printed in the book, not a spoken word.",
+      "notes": "Preserved verbatim per the book's orthography rules; marks a break before the leap forward."
+    },
+    {
+      "token": "એવા",
+      "translit": "evā",
+      "gloss": "such, in this very manner",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati evā, from Skt evam ('thus'); here qualifying the seats just named.",
+      "notes": "Pivots from the listed eight to the chain that follows."
+    },
+    {
+      "token": "પાટાનુપાટે",
+      "translit": "pāṭānupāṭe",
+      "gloss": "seat after seat, in continuous succession",
+      "partOfSpeech": "compound",
+      "etymology": "pāṭa + anu ('following') + pāṭa, locative; = paṭṭānupāṭṭa.",
+      "notes": "Compresses the unnamed intervening seats into a single sweep."
+    },
+    {
+      "token": "સુડતાલીસમા",
+      "translit": "suḍatālīsamā",
+      "gloss": "forty-seventh",
+      "partOfSpeech": "adj",
+      "etymology": "Guj ordinal of suḍatālīs (47), from Skt sapta-catvāriṁśat.",
+      "notes": "The number that fixes Āryarakṣitasūri's place from Sudharmāsvāmī."
+    },
+    {
+      "token": "પાટધર",
+      "translit": "pāṭadhara",
+      "gloss": "holder of the seat",
+      "partOfSpeech": "compound",
+      "etymology": "pāṭa ('seat') + dhara ('bearer'), from Skt √dhṛ; the occupant of the paṭṭa.",
+      "notes": ""
+    },
+    {
+      "token": "શ્રીવિધિપક્ષગચ્છ",
+      "translit": "śrī-vidhipakṣagaccha",
+      "gloss": "the glorious Vidhipakṣa order",
+      "partOfSpeech": "compound",
+      "etymology": "honorific śrī + Vidhipakṣa-gaccha (the order's own name for the Anchalgachchha).",
+      "notes": "Heads the epithet 'ornament of the Vidhipakṣa-gaccha.'"
+    },
+    {
+      "token": "શણગાર",
+      "translit": "śaṇagāra",
+      "gloss": "ornament, adornment",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati śaṇagāra ('decoration'), from Skt śṛṅgāra.",
+      "notes": "Predicates of Āryarakṣitasūri: he adorns the order."
+    },
+    {
+      "token": "જંગમ",
+      "translit": "jaṅgama",
+      "gloss": "moving, living (not fixed)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt jaṅgama ('that which moves'), opposite of sthāvara ('fixed').",
+      "notes": "Qualifies yugapradhāna: a living, walking pre-eminence."
+    },
+    {
+      "token": "યુગપ્રધાન",
+      "translit": "yugapradhāna",
+      "gloss": "foremost teacher of the age",
+      "partOfSpeech": "noun",
+      "etymology": "yuga ('age') + pradhāna ('chief').",
+      "notes": "Defined in the preface; here joined to jaṅgama as 'living yugapradhāna.'"
+    },
+    {
+      "token": "–",
+      "translit": "(dash)",
+      "gloss": "(pause before the Prakrit gāthā)",
+      "partOfSpeech": "particle",
+      "etymology": "Punctuation in the printed text.",
+      "notes": "Marks the shift from Gujarati prose to the Prakrit verse-chain."
+    },
+    {
+      "token": "પુજ્જ",
+      "translit": "pujja",
+      "gloss": "venerable, worshipful",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pujja, from Skt pūjya ('to be worshipped').",
+      "notes": "Honorific prefixed to Āryarakṣita."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "Śrī (auspicious, honoured)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit siri, from Skt śrī.",
+      "notes": "Honorific; recurs in line 6."
+    },
+    {
+      "token": "અજ્જરખ્ખિય",
+      "translit": "ajjarakkhiya",
+      "gloss": "Āryarakṣita",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajja (Skt ārya) + rakkhiya (Skt rakṣita, 'protected'); = Āryarakṣitasūri.",
+      "notes": "The 47th paṭṭadhara and founder-reformer of the Vidhipakṣa-gaccha."
+    },
+    {
+      "token": "ગુરુણો",
+      "translit": "guruṇo",
+      "gloss": "of the guru / the guru's",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive of guru (Skt guruḥ → guroḥ).",
+      "notes": "With tappaṭṭe: 'on the guru's seat'; could read sg. or honorific pl."
+    },
+    {
+      "token": "તપ્પટ્ટે",
+      "translit": "tappaṭṭe",
+      "gloss": "on his (that one's) seat",
+      "partOfSpeech": "compound",
+      "etymology": "ta (Skt tasya, 'his') + paṭṭe (locative of paṭṭa); = tasya paṭṭe.",
+      "notes": "The chain-refrain that threads one ācārya to the next."
+    },
+    {
+      "token": "પુજ્જ",
+      "translit": "pujja",
+      "gloss": "venerable",
+      "partOfSpeech": "adj",
+      "etymology": "See above.",
+      "notes": "Repeated, now honouring Jayasiṁha."
+    },
+    {
+      "token": "જયસિંહા",
+      "translit": "jayasiṁhā",
+      "gloss": "Jayasiṁha(sūri)",
+      "partOfSpeech": "invocation",
+      "etymology": "jaya ('victory') + siṁha ('lion'); successor on Āryarakṣita's seat.",
+      "notes": ""
+    },
+    {
+      "token": "॥",
+      "translit": "(daṇḍa)",
+      "gloss": "(verse-end double bar)",
+      "partOfSpeech": "particle",
+      "etymology": "Scribal terminator marking the gāthā close.",
+      "notes": "Preserved verbatim."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "the preceptor (ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt sūri; honorific for an ācārya (preface glossary).",
+      "notes": "Applies to Dharmaghoṣa here."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "Śrī (honoured)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit siri, from Skt śrī.",
+      "notes": "Repeated."
+    },
+    {
+      "token": "ધમ્મઘોસા",
+      "translit": "dhammaghosā",
+      "gloss": "Dharmaghoṣa(sūri)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit dhamma (Skt dharma) + ghosa ('proclamation'); 'proclaimer of the Dharma.'",
+      "notes": ""
+    },
+    {
+      "token": "મહિંદસિંહા",
+      "translit": "mahindasiṁhā",
+      "gloss": "Mahendrasiṁha(sūri)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit mahinda (Skt mahendra) + siṁha ('lion').",
+      "notes": "Tradition credits a Mahendrasiṁhasūri with the Aṣṭottarī Tīrthamālā recited in Pakkhī."
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "then, thereafter",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tao, from Skt tataḥ ('from that, then').",
+      "notes": "Carries the chain onward to the next seat (continued in the following verse)."
+    },
+    {
+      "token": "ગુરુણો",
+      "translit": "guruṇo",
+      "gloss": "the guru(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive of guru.",
+      "notes": "Leaves the sentence open, handing the litany to the next gāthā."
+    }
+  ],
+  "literalTranslation": "On the first seat, Sudharmāsvāmī; on the second seat, Jambūsvāmī; on the third seat, Prabhavasvāmī; on the fourth seat, Sijjambhava-sūri; on the fifth seat, Yaśobhadra-sūri; on the sixth seat, Sambhūtivijaya-sūri; on the seventh seat, Bhadrabāhusvāmī; on the eighth seat, Sthūlibhadrasvāmī — in such seat-after-seat succession, the forty-seventh seat-holder, ornament of the glorious Vidhipakṣa-gaccha, the living foremost-of-the-age, the venerable Śrī Āryarakṣita; on that guru's seat the venerable Jayasiṁha; the preceptor Śrī Dharmaghoṣa, then Mahendrasiṁha — the gurus thereafter.",
+  "idiomaticTranslation": "On the first seat sat Sudharmāsvāmī, on the second Jambūsvāmī, on the third Prabhavasvāmī, on the fourth Sijjambhavasūri, on the fifth Yaśobhadrasūri, on the sixth Sambhūtivijayasūri, on the seventh Bhadrabāhusvāmī, on the eighth Sthūlibhadrasvāmī — and so, seat following seat, came the forty-seventh holder of the throne: the ornament of the glorious Vidhipakṣa order, a yugapradhāna living and walking among us, venerable Śrī Āryarakṣita. Upon his seat then sat venerable Jayasiṁha; after him the preceptor Śrī Dharmaghoṣa, and then Mahendrasiṁha — the gurus who followed, one upon another.",
+  "elaboration": {
+    "verseByVerseCommentary": "This passage is the hinge of the litany: it shifts register twice and, in doing so, performs the very idea of succession. It opens as Gujarati prose — a measured roll-call, 'on the first seat… on the eighth seat…' — that deliberately mirrors the canonical sthavira-list (Sudharmā, Jambū, Prabhava, Śayyambhava, Yaśobhadra, Sambhūtivijaya, Bhadrabāhu, Sthūlibhadra) every Śvetāmbara reciter already half-knows. By beginning where the whole tradition begins, the gaccha grafts its own line onto the trunk of Mahāvīra's order. Then comes the bold compression: the single word pāṭānupāṭe ('seat after seat') leaps across thirty-eight unnamed pontiffs to land on suḍatālīsamā pāṭadhara — the forty-seventh seat-holder. The verse does not pad the gap; the leap itself is the argument, that the chain is continuous whether or not each link is voiced. The epithets crown the arrival: śrī-vidhipakṣagaccha śaṇagāra ('ornament of the order') and, most strikingly, jaṅgama yugapradhāna — a 'moving, living' yugapradhāna. The adjective jaṅgama (over against sthāvara, 'fixed') insists that supreme authority is not a relic but a person who walks, teaches and can be bowed to now. With the dash the text drops from Gujarati prose into terse Prakrit gāthā, and the chain-refrain tappaṭṭe ('on his seat') takes over, clicking ācārya to ācārya: Āryarakṣita → Jayasiṁha → Dharmaghoṣa → Mahendrasiṁha. The closing tao guruṇo ('then the gurus…') leaves the sentence grammatically open, deliberately handing the unfinished line to the next verse — the litany refuses to come to rest, because the succession itself has not.",
+    "doctrinalContext": "The verse enacts the Jain conviction that the Dharma is preserved not as a free-floating text but as guru-paramparā — an embodied transmission from teacher to seated successor. Naming the early śruta-kevalīs and sthaviras (Bhadrabāhu, Sthūlibhadra) anchors authority in those who carried the canon; placing Āryarakṣita as forty-seventh in that same line claims for the Vidhipakṣa reform the legitimacy of the original order rather than novelty. The pointed word jaṅgama reflects the doctrine that a living, vow-keeping ācārya is itself a tīrtha — a fordable crossing — so that veneration of the present guru is continuous with veneration of the Gaṇadhara.",
+    "practicalRelevance": "As the reciter speaks these seats aloud, he locates himself at the living end of a 47-plus link chain, turning private devotion into membership in a community that outlasts any one life. The unfinished close (tao guruṇo) is a cue not to stop: it invites the reciter to carry the names forward in the verses that follow, and, by extension, to become a faithful link rather than a mere admirer of the line.",
+    "crossReferences": [
+      {
+        "text": "Kalpasūtra, Sthavirāvalī (the sthavira succession Sudharmā → Jambū → … → Bhadrabāhu → Sthūlabhadra)",
+        "source": "Bhadrabāhu (attrib.); Jacobi tr., Jaina Sūtras Part I (SBE 22)"
+      },
+      {
+        "text": "Daśavaikālika-sūtra ch.1 (Drumapuṣpikā), traditionally composed by Śayyambhava — the fourth seat named here",
+        "source": "Śayyambhavasūri (attrib.); also recited as drumapushpika-sajjhay in Devasi"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipakṣa-gaccha self-name; Āryarakṣitasūri as 11th-c. founder-reformer; descent from Gaṇadhara Sudharmāsvāmī."
+    },
+    {
+      "title": "Aryarakshitsuri — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aryarakshitsuri",
+      "type": "scholarship",
+      "consultedFor": "Āryarakṣita's identity as founder and his place as 47th paṭṭa in the succession from Sudharmāsvāmī."
+    },
+    {
+      "title": "Sudharmaswami — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sudharmaswami",
+      "type": "scholarship",
+      "consultedFor": "Sudharmāsvāmī as Gaṇadhara and root of the Śvetāmbara guru-succession (first seat)."
+    },
+    {
+      "title": "Sthulabhadra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "type": "scholarship",
+      "consultedFor": "Bhadrabāhu (last śruta-kevalī) and Sthūlibhadra in the early sthavira succession (seats seven and eight)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "This verse straddles two registers: a Gujarati prose roll naming the first eight seats, then a Prakrit gāthā beginning the seat-by-seat chain — handled here as one continuous unit per the source. Spellings are kept verbatim (e.g. sijjambhava, ajjarakkhiya, dhammaghosā, mahindasiṁhā); IAST glosses are normalized for clarity and may differ from the book. The 38 intervening seats between Sthūlibhadra (8th) and Āryarakṣita (47th) are intentionally not enumerated — pāṭānupāṭe compresses them. 'guruṇo' is a Prakrit genitive readable as singular or honorific plural. The asterisk (*) and daṇḍa (॥) are printed markers preserved verbatim, not spoken words. Among the named seats only the founder/47th-paṭṭa claim is independently verifiable; the early names rest on the shared sthavira tradition and the gaccha's own paṭṭāvalī. The final clause (tao guruṇo) is grammatically open and continues into the following verse."
+}

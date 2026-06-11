@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================ design tokens */
+/* Colors are stored as space-separated RGB channels so Tailwind's
+   "rgb(var(--token) / <alpha-value>)" can apply opacity. */
+:root {
+  /* Jain devotional palette */
+  --c-maroon: 123 30 34; /* #7B1E22 deep maroon */
+  --c-saffron: 224 138 30; /* #E08A1E saffron */
+  --c-gold: 201 162 39; /* #C9A227 gold */
+  --c-green: 31 122 74; /* Jain-flag green */
+  --c-indigo: 39 47 92; /* deep blue */
+
+  /* Light theme — ivory / parchment ground */
+  --c-ground: 250 245 235; /* #FAF5EB */
+  --c-surface: 255 252 246;
+  --c-surface-2: 245 238 225;
+  --c-line: 226 214 192;
+  --c-ink: 43 33 27; /* warm near-black */
+  --c-muted: 120 104 88;
+  --c-accent: var(--c-maroon);
+
+  --shadow-tint: 60 40 20;
+  color-scheme: light;
+}
+
+:root.dark {
+  /* Dark theme — deep indigo / charcoal ground, gold + saffron accents */
+  --c-ground: 20 21 30; /* deep indigo charcoal */
+  --c-surface: 28 29 41;
+  --c-surface-2: 36 38 54;
+  --c-line: 58 60 82;
+  --c-ink: 240 233 220;
+  --c-muted: 168 162 184;
+  --c-saffron: 240 165 70;
+  --c-gold: 222 186 86;
+  --c-maroon: 196 96 96;
+  --c-accent: var(--c-gold);
+
+  --shadow-tint: 0 0 0;
+  color-scheme: dark;
+}
+
+/* ===================================================================== base */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-ground text-ink font-sans antialiased;
+    background-image:
+      radial-gradient(ellipse 80% 50% at 50% -10%, rgb(var(--c-saffron) / 0.07), transparent),
+      radial-gradient(ellipse 60% 50% at 100% 0%, rgb(var(--c-maroon) / 0.05), transparent);
+    background-attachment: fixed;
+    /* Prevent any accidental horizontal scroll on small screens. */
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif text-ink;
+    text-wrap: balance;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-saffron ring-offset-2;
+    --tw-ring-offset-color: rgb(var(--c-ground));
+  }
+  ::selection {
+    background: rgb(var(--c-saffron) / 0.28);
+  }
+  /* Indic scripts: comfortable, generous sizing relative to Latin. */
+  .x-guj {
+    font-family: theme('fontFamily.guj');
+    line-height: 1.85;
+  }
+  .x-deva {
+    font-family: theme('fontFamily.deva');
+    line-height: 1.85;
+  }
+}
+
+/* =============================================================== components */
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-page px-4 sm:px-6 lg:px-8;
+  }
+  .card {
+    @apply rounded-2xl border border-line bg-surface shadow-card;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-line
+      bg-surface px-4 py-2 text-sm font-medium text-ink transition
+      hover:border-saffron hover:text-maroon focus-visible:ring-2 disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply border-transparent bg-maroon text-white hover:bg-maroon/90 hover:text-white;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-surface-2
+      px-2.5 py-1 text-xs font-medium text-muted;
+  }
+  .link {
+    @apply text-maroon underline decoration-saffron/50 underline-offset-2
+      transition hover:decoration-saffron;
+  }
+  .label-eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.18em] text-saffron;
+  }
+  /* Long-form scholarly prose. */
+  .prose-sacred {
+    @apply text-ink/90 leading-relaxed;
+  }
+  .prose-sacred p {
+    @apply mb-3;
+  }
+  .prose-sacred a {
+    @apply link;
+  }
+  .prose-sacred h1 { @apply text-3xl font-serif mt-8 mb-3; }
+  .prose-sacred h2 { @apply text-2xl font-serif mt-7 mb-3; }
+  .prose-sacred h3 { @apply text-xl font-serif mt-6 mb-2; }
+  .prose-sacred ul { @apply list-disc pl-6 mb-3 space-y-1; }
+  .prose-sacred ol { @apply list-decimal pl-6 mb-3 space-y-1; }
+  .prose-sacred blockquote {
+    @apply border-l-4 border-saffron/60 bg-surface-2 pl-4 py-2 my-3 rounded-r-lg italic;
+  }
+  .prose-sacred table {
+    @apply w-full text-sm border-collapse my-4;
+  }
+  .prose-sacred th, .prose-sacred td {
+    @apply border border-line px-3 py-2 text-left align-top;
+  }
+  .prose-sacred th { @apply bg-surface-2 font-semibold; }
+  .prose-sacred code {
+    @apply rounded bg-surface-2 px-1.5 py-0.5 text-[0.85em];
+  }
+  .prose-sacred hr { @apply my-6 border-line; }
+}
+
+/* skip-link */
+.skip-link {
+  @apply sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50
+    focus:rounded-lg focus:bg-maroon focus:px-4 focus:py-2 focus:text-white;
+}
+
+/* ============================================================ accessibility */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ============================================================ mobile safe-area */
+/* On phones the gutter is 1rem; widen it only if the device reports a notch
+   inset, without disturbing the larger sm:/lg: paddings on bigger screens. */
+@media (max-width: 639px) {
+  .container-page {
+    padding-left: max(1rem, env(safe-area-inset-left));
+    padding-right: max(1rem, env(safe-area-inset-right));
+  }
+}
+
+/* Comfortable tap targets on touch devices, without inflating desktop density. */
+@media (pointer: coarse) {
+  .btn {
+    min-height: 2.5rem;
+  }
+}
+
+/* =================================================================== print */
+@media print {
+  .no-print { display: none !important; }
+  body { background: #fff; color: #000; }
+  .card { box-shadow: none; border-color: #ccc; }
+  a { text-decoration: none; color: #000; }
+  details { display: block !important; }
+  details > summary { display: none; }
+}

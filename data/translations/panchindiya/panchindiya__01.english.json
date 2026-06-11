@@ -1,0 +1,158 @@
+{
+  "shlokaId": "panchindiya/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "A true teacher controls his five senses, keeps celibacy in nine careful ways, and is free of anger, pride, deceit and greed — eighteen good qualities in all.",
+  "recitation": "pañcindiya saṁvaraṇo, taha navaviha baṁbhacera guttidharo / cauviha kasāya mukko, iya aṭṭhārasa guṇehiṁ saṁjutto",
+  "wordByWord": [
+    {
+      "token": "પંચિંદિય",
+      "translit": "pañcindiya",
+      "gloss": "the five senses (touch, taste, smell, sight, hearing)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit pañca (five) + indiya < Skt. indriya (sense-faculty); here in compound as the object of restraint.",
+      "notes": "Object of saṁvaraṇo; the count 'five' opens the verse's tally toward eighteen."
+    },
+    {
+      "token": "સંવરણો",
+      "translit": "saṁvaraṇo",
+      "gloss": "one who restrains / stops (the inflow)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. saṁvaraṇa, from saṁ-√vṛ 'to cover, hold back'; nominative agent-form -o. Cf. saṁvara, the stopping of karmic influx.",
+      "notes": "Predicated of the guru: 'a restrainer of the five senses.'"
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise / and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt. tathā 'thus, so'; here a connective linking the first attribute to the second.",
+      "notes": "Joins sense-restraint to the ninefold celibacy that follows."
+    },
+    {
+      "token": "નવવિહ",
+      "translit": "navaviha",
+      "gloss": "ninefold, of nine kinds",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nava (nine) + viha < Skt. vidha 'kind, fold'; qualifies baṁbhacera.",
+      "notes": "The nine guards (gupti) protecting celibacy in thought, word and deed."
+    },
+    {
+      "token": "બંભચેર",
+      "translit": "baṁbhacera",
+      "gloss": "celibacy / pure conduct (brahmacarya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit baṁbha < Skt. brahma + cera < carya 'conduct'; the 'pure walking,' chastity in thought, speech and body.",
+      "notes": "Modified by navaviha and governed by guttidharo: 'bearer of the ninefold guard of celibacy.'"
+    },
+    {
+      "token": "ગુત્તિધરો",
+      "translit": "guttidharo",
+      "gloss": "bearer of the guards (one who upholds the restraints)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit gutti < Skt. gupti 'guarding' + dharo < √dhṛ 'to hold, bear'; nominative agent in -o.",
+      "notes": "Here gutti denotes the nine safeguards of brahmacarya, not yet the three mind-speech-body guptis of verse 2."
+    },
+    {
+      "token": "ચઉવિહ",
+      "translit": "cauviha",
+      "gloss": "fourfold, of four kinds",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cau (four) < Skt. catur + viha < vidha 'fold'; qualifies kasāya.",
+      "notes": "Counts the fourth virtue-set; 5 + 9 + 4 will total eighteen."
+    },
+    {
+      "token": "કસાય",
+      "translit": "kasāya",
+      "gloss": "the passions — anger, pride, deceit, greed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. kaṣāya, lit. 'that which colours/stains'; the soul-staining emotions binding karma.",
+      "notes": "Object of mukko; the guru is defined by their absence."
+    },
+    {
+      "token": "મુક્કો",
+      "translit": "mukko",
+      "gloss": "freed, released (from)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit mukka < Skt. mukta, past participle of √muc 'to release'; nominative -o.",
+      "notes": "'Free of the fourfold passions' — the negative counterpart to the positive virtues that precede."
+    },
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit iya < Skt. iti 'thus'; summative particle closing the enumeration.",
+      "notes": "Marks the arithmetic wrap-up of the verse."
+    },
+    {
+      "token": "અટ્ઠારસ",
+      "translit": "aṭṭhārasa",
+      "gloss": "eighteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭhārasa < Skt. aṣṭādaśa 'eighteen' (aṣṭan + daśan).",
+      "notes": "The sum 5 + 9 + 4 = 18, the first half of the thirty-six."
+    },
+    {
+      "token": "ગુણેહિં",
+      "translit": "guṇehiṁ",
+      "gloss": "with virtues / qualities",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit guṇa < Skt. guṇa 'quality, virtue'; instrumental plural -ehiṁ 'by means of, with.'",
+      "notes": "Instrumental governed by saṁjutto."
+    },
+    {
+      "token": "સંજુત્તો",
+      "translit": "saṁjutto",
+      "gloss": "joined with, endowed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit saṁjutta < Skt. saṁyukta, from saṁ-√yuj 'to join'; nominative -o.",
+      "notes": "Final predicate: '[the guru is] endowed with eighteen virtues.'"
+    }
+  ],
+  "literalTranslation": "A restrainer of the five senses, and likewise a bearer of the ninefold guard of celibacy; freed of the fourfold passions — thus endowed with eighteen virtues.",
+  "idiomaticTranslation": "He holds his five senses in check and keeps celibacy guarded in all its nine ways; anger, pride, deceit and greed have no hold on him — and so, complete in eighteen virtues, he stands.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse builds the first half of the guru's portrait by simple addition: five plus nine plus four. Notice its deliberate rhythm of positive then negative discipline. Saṁvaraṇo and guttidharo are stated as what the guru actively does — he restrains (saṁvara) the five sense-gates and bears (dharo) the nine safeguards of celibacy — while mukko states what he has left behind, the four soul-staining passions. The grammar mirrors Jain practice itself: liberation is both saṁvara (stopping fresh inflow) and the shedding of what already binds. The verse is careful with its vocabulary of 'guarding': here gutti names the nine protections specific to brahmacarya (avoiding provocative company, rich food, idle recollection of past pleasure, and so on), distinct from the three guptis of mind, speech and body that the next verse will count. The closing line — iya aṭṭhārasa guṇehiṁ saṁjutto — does not merely list but sums, sealing eighteen as a completed unit. This matters because the very next verse opens a second, parallel tally (the great vows, conduct, carefulnesses and restraints) that adds a second eighteen. So this verse is not a standalone description but the first term of an equation; its 'eighteen' is meaningful only as half of a thirty-six it deliberately leaves open. The reciter who finishes this line has counted exactly halfway to the complete guru.",
+    "doctrinalContext": "The three attributes encode a compact map of ascetic discipline. Sense-restraint (indriya-saṁvara) addresses the gateways through which craving and karma enter; the ninefold guard of brahmacarya treats celibacy not as a single rule but as a fenced perimeter of nine concrete precautions; and freedom from the four kaṣāyas (krodha, māna, māyā, lobha) strikes at what Jain doctrine names the principal cause of karmic bondage (bandha) and continued rebirth. Together they show the guru as one who has secured the body's gates, the vow most easily breached, and the inner emotional roots of karma — the outer, the relational, and the inner field of discipline.",
+    "practicalRelevance": "Reciting this verse, a practitioner is not only honouring a teacher but holding up a measurable checklist to aspire to: am I guarding my senses, am I disciplined in conduct, am I loosening anger, pride, deceit and greed? The verse invites self-audit before veneration — one bows to the ideal precisely by testing oneself against its first eighteen marks.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.1–9.6 (saṁvara and the stopping of āsrava through gupti and indriya-control)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra 16 (the nine guards of brahmacarya, navavidha brahmacarya-gupti)",
+        "source": "Uttarādhyayana-sūtra, Śvetāmbara āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikraman Sutra with meaning — Panchindiya / Guru-sthapana sutra",
+      "url": "https://jainqq.org",
+      "type": "translation",
+      "consultedFor": "Standard decomposition of the first eighteen attributes (5 senses + 9-fold brahmacarya + 4 kashaya) and the guru-sthapana use of the verse"
+    },
+    {
+      "title": "Panchindiya Sutra (text and commentary)",
+      "url": "https://www.jainlibrary.org/book-detail.php?bookid=100043",
+      "type": "translation",
+      "consultedFor": "Verse text, sense-restraint (indriya-nirodha) reading, and enumeration of the guru's qualities"
+    },
+    {
+      "title": "Brahmacharya",
+      "url": "https://en.wikipedia.org/wiki/Brahmacharya",
+      "type": "scholarship",
+      "consultedFor": "Meaning of brahmacarya as sense-discipline and 'conduct on the path of Brahman,' supporting the gloss of baṁbhacera"
+    },
+    {
+      "title": "Kashaya (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Kashaya_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "The four kaṣāyas (krodha, māna, māyā, lobha) as the principal cause of karmic bondage, supporting cauviha kasāya mukko"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse text is read verbatim from the supplied Gujarati; per book orthography the readings (e.g. ગુત્તિધરો, મુક્કો) are authoritative and IAST translits are normalizations. 'taha' (તહ) is a connective particle, glossed but not part of the numeric tally. Within this verse 'gutti' denotes the nine guards of brahmacarya specifically; it should not be conflated with the three guptis (mind/speech/body) counted in verse 2. A minor variant 'navavidha' for નવવિહ appears in some editions; sense is unchanged."
+}

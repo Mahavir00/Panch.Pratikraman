@@ -1,0 +1,64 @@
+{
+  "shlokaId": "iriyavahiyam/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This names what the apology is about: harm done along the path of one's own walking and moving.",
+  "recitation": "iriyāvahiyāe virāhaṇāe",
+  "wordByWord": [
+    {
+      "token": "ઇરિયાવહિયાએ",
+      "translit": "iriyāvahiyāe",
+      "gloss": "in the matter of the path-of-movement; concerning faults of walking/moving",
+      "partOfSpeech": "noun",
+      "etymology": "Ardhamāgadhī, from Skt. īryāpathika- (īryā 'movement' + patha 'path'); the feminine ā-stem here carries the oblique (locative) ending -āe, 'in/with respect to'.",
+      "notes": "The base term is in the preface glossary; what is verse-specific is the case ending -āe, which frames this as the domain 'in the matter of [the īryā-patha]'."
+    },
+    {
+      "token": "વિરાહણાએ",
+      "translit": "virāhaṇāe",
+      "gloss": "in/by the transgression — the injury or violation (of living beings)",
+      "partOfSpeech": "noun",
+      "etymology": "Ardhamāgadhī virāhaṇā, from Skt. virādhanā (vi- + √rādh, 'to thwart, violate, injure'); same oblique -āe ending, matching the first word.",
+      "notes": "Left unqualified here — covering both deliberate and incidental harm. The matched -āe endings bind it to iriyāvahiyāe in apposition."
+    }
+  ],
+  "literalTranslation": "In the matter of the path-of-movement, in the transgression —",
+  "idiomaticTranslation": "…concerning whatever harm I have caused along the path of my own movement —",
+  "elaboration": {
+    "verseByVerseCommentary": "Having voiced the bare resolve in verse 1 ('I wish to atone'), this verse supplies the first object of that resolve — it does not yet say what was harmed, only the sphere within which harm occurred. Two feminine nouns stand side by side in the same oblique case (-āe): iriyāvahiyāe, 'in the matter of movement,' and virāhaṇāe, 'in the transgression.' The grammar is deliberately nested. The first word fixes the arena — the īryā-patha, one's own walking and going-about; the second names what happened within that arena — virāhaṇā, injury. The reciter is in effect saying, 'as regards my movement, and the harm bound up with it…,' leaving the next verse (gamaṇāgamaṇe, 'in going and coming') to tighten the lens and the long litany of verse 4 to itemise exactly what was trodden. Notice that virāhaṇā arrives unqualified: no adjective softens it to 'accidental' or limits it to a creature-type. That bareness is the point — the confession opens at maximum scope and only afterwards specifies, so that nothing escapes the net. The twinned -āe endings also set the sonic template for the whole sūtra, whose subsequent members (-kkamaṇe, -saṁkamaṇe, and the verb-list of verse 7) keep returning to this oblique cadence, turning the confession into a rhythmic enumeration rather than a single statement.",
+    "doctrinalContext": "The verse locates fault precisely at the seam between conduct and awareness: harm is reckoned not by intention alone but by the simple fact of having moved through a world saturated with life. This is the practical face of īryā-samiti — vigilance of movement — and of ahiṁsā extended even to the one-sensed earth-, water-, and plant-bodies the footstep cannot help disturbing. By naming virāhaṇā without qualification, the verse encodes the Jain principle that incidental, unintended injury still registers and still calls for pratikramaṇa; awareness, not innocence, is what the practice cultivates.",
+    "practicalRelevance": "At this phrase the reciter mentally narrows the day's atonement onto a single front — movement — and honestly surveys it: every walk, every reaching and shifting that may have crushed a life. It is the moment to convert a general sense of guilt into a specific, owned domain before the verse proceeds to itemise the harm.",
+    "crossReferences": [
+      {
+        "text": "Iryāpatha-pratikramaṇa (the sūtra's identity as the confession of movement)",
+        "source": "Dashavaikālika-sūtra commentarial tradition"
+      },
+      {
+        "text": "Referred to as 'Gamana-atichāra pratikramaṇa' in the Āvaśyaka commentary",
+        "source": "Ācārya Haribhadrasūri, Āvaśyaka-vṛtti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Iriyavahiya Sutra (Romanized text with translation)",
+      "url": "https://jainqq.org/booktext/05_Iriyavahiya_Sutra_Romanized/300050",
+      "type": "translation",
+      "consultedFor": "verbatim sequence of the sūtra confirming 'iriyāvahiyāe virāhaṇāe' and its English rendering"
+    },
+    {
+      "title": "Iriyāvahiyā Sutra — Jain Treasures",
+      "url": "https://jaintreasures.org.uk/iriyavahiya-sutra/",
+      "type": "commentary",
+      "consultedFor": "the sūtra's identity as īryāpath / gamana-atichāra pratikramaṇa per Haribhadrasūri and Hemacandrasūri, and the structure of the confession"
+    },
+    {
+      "title": "Jain Pathshala Sutra Recap — Oshwal Association of the U.K.",
+      "url": "https://oshwal.org.uk/jain-pathshala-sutra-recap/",
+      "type": "translation",
+      "consultedFor": "cross-check of the line meaning and the broader confession-of-movement gloss"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is two oblique-case tokens excerpted from a continuous Prakrit sentence; in connected recitation it runs straight into verse 3 (gamaṇāgamaṇe), so the 'translation' is necessarily a clause-fragment, not a stand-alone sentence. The ending -āe is read here as the Ardhamāgadhī feminine oblique (locative); some grammars parse it as instrumental ('by the transgression'), which shifts the English to 'by the harm done while moving' — both are defensible and the sense is unchanged. virāhaṇā (Skt. virādhanā) is unqualified in this verse and is specified only in later verses; do not read a creature-restriction into it here. Source URLs are verifiable community/scholarly editions; the underlying book wording (Anchalgachchha/Vidhipaksha edition) is treated as the golden source per the tradition knowledge base."
+}

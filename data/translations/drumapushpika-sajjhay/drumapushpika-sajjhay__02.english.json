@@ -1,0 +1,170 @@
+{
+  "shlokaId": "drumapushpika-sajjhay/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Just as a bee sips nectar from a tree's blossoms without hurting the flower yet feeds itself, so a good monk should take his food.",
+  "recitation": "jahā dumassa pupphesu, bhamaro āviyai rasaṁ; ṇa ya pupphaṁ kilāmei, so ya pīṇei appayaṁ.",
+  "wordByWord": [
+    {
+      "token": "જહા",
+      "translit": "jahā",
+      "gloss": "just as, in the way that",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jahā < Sanskrit yathā; correlative of taha/tathā, opening a simile (upamā).",
+      "notes": "Sets up the comparison whose 'so too' counterpart is supplied in the following verses (v.3–5)."
+    },
+    {
+      "token": "દુમસ્સ",
+      "translit": "dumassa",
+      "gloss": "of the tree",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive singular; Prakrit duma < Sanskrit druma 'tree' (root of the chapter-name Drumapuṣpikā).",
+      "notes": "Genitive governs pupphesu: 'the flowers of the tree'."
+    },
+    {
+      "token": "પુફ્ફેસુ",
+      "translit": "pupphesu",
+      "gloss": "among the flowers, on the blossoms",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural; Prakrit puppha < Sanskrit puṣpa 'flower'. The -esu ending marks 'in/among'.",
+      "notes": "Plural: the bee ranges over many blossoms, prefiguring the mādhukarī 'a-little-from-many' ideal."
+    },
+    {
+      "token": "ભમરો",
+      "translit": "bhamaro",
+      "gloss": "the bee, the black bee",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative singular; Prakrit bhamara < Sanskrit bhramara 'bee' (from √bhram 'to roam'), the rover from flower to flower.",
+      "notes": "The grammatical subject; the verse's emblem of the harmless gatherer."
+    },
+    {
+      "token": "આવિયઇ",
+      "translit": "āviyai",
+      "gloss": "sips, draws up, drinks in",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. present; Prakrit āviyai < Sanskrit ā-pibati (ā + √pā 'to drink up'); some read it to ā-√svad 'to taste'.",
+      "notes": "Conveys gentle drawing, not tearing or plucking — the manner is as important as the act."
+    },
+    {
+      "token": "રસં",
+      "translit": "rasaṁ",
+      "gloss": "the nectar, the juice (essence)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative singular; Prakrit/Sanskrit rasa 'sap, juice, essence', from √ras.",
+      "notes": "Only the freely-yielded sap is taken — the standing image for ahākaḍa (yathākṛta) alms."
+    },
+    {
+      "token": "ણ",
+      "translit": "ṇa",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ṇa < Sanskrit na; initial n- regularly cerebralized to ṇ- in this orthography.",
+      "notes": "Negates kilāmei — the hinge of the whole ethic: he does NOT harm."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, yet",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca 'and'; here adversative in force ('and yet').",
+      "notes": "Joins the two facts the verse balances: no harm done, self yet nourished."
+    },
+    {
+      "token": "પુફ્ફં",
+      "translit": "pupphaṁ",
+      "gloss": "the flower (object)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative singular of puppha < Sanskrit puṣpa; the thing acted upon, now in the singular.",
+      "notes": "Shift to singular individualizes: no single blossom is wearied."
+    },
+    {
+      "token": "કિલામેઇ",
+      "translit": "kilāmei",
+      "gloss": "wearies, makes wither, harms",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. causative; Prakrit kilāmei < Sanskrit klāmayati (caus. of √klam 'to be weary/wilt') — 'to cause to droop'.",
+      "notes": "Precise: not 'destroy' but 'exhaust/tire' — the giver must feel no depletion or burden."
+    },
+    {
+      "token": "સો",
+      "translit": "so",
+      "gloss": "he, it (the bee)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Nominative singular masculine; Prakrit so < Sanskrit saḥ.",
+      "notes": "Resumes bhamaro, turning attention to the bee's own gain."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, moreover",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca; second occurrence, here simply additive.",
+      "notes": "Adds the positive outcome to the negative one just stated."
+    },
+    {
+      "token": "પીણેઇ",
+      "translit": "pīṇei",
+      "gloss": "nourishes, satisfies, sustains",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. causative; Prakrit pīṇei < Sanskrit prīṇayati / pīṇayati (caus. of √prī/√pyai 'to be pleased, to swell/nourish').",
+      "notes": "Causative-reflexive: he 'makes full/glad' his own self."
+    },
+    {
+      "token": "અપ્પયં",
+      "translit": "appayaṁ",
+      "gloss": "himself, his own self",
+      "partOfSpeech": "pronoun",
+      "etymology": "Accusative reflexive; Prakrit appaya/appā < Sanskrit ātman 'self'.",
+      "notes": "Object of pīṇei; closes the verse on legitimate, non-exploitative self-care."
+    }
+  ],
+  "literalTranslation": "Just as on the flowers of a tree a bee sips up the juice — and it does not weary the flower, and it (yet) nourishes itself.",
+  "idiomaticTranslation": "As a bee lights upon a tree's blossoms and draws up their nectar, leaving no flower wearied or withered, and so feeds and contents itself — even thus, harming none, the seeker takes only what is freely given.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 1 named the substance of dharma (ahiṁsā, saṁyama, tava), this verse renders it visible in a single, exact picture before any application is drawn. Note the deliberate grammar: the flowers are plural (pupphesu) but the flower harmed would be singular (pupphaṁ) — a little is taken from many, so no one source is drained. The three verbs carry the doctrine in sequence: āviyai (sips, not tears), the negated kilāmei (does not weary — strikingly, not merely 'does not destroy' but 'does not even tire'), and pīṇei (yet nourishes). The verse holds two truths in one breath through the pivot ṇa ya … so ya: harmlessness to another and sustenance of oneself are presented not as a trade-off but as simultaneously achievable. The bee proves that one may live, eat, and be satisfied without leaving a wound behind. Crucially, this is pure simile (jahā with no 'so too' yet); the verse withholds its human referent, letting the image stand whole — the comparison to the śramaṇa is held back for v.3. The choice of klam ('to droop/tire') is precise monastic ethics: the test of right alms is not only that the giver survives the gift, but that the gift costs them no fatigue, no special trouble. The nectar is what the flower freely exudes; nothing is plucked or demanded. In that single restraint lies the whole discipline of gocarī.",
+    "doctrinalContext": "The verse fuses ahiṁsā with aparigraha at the level of method. Ahiṁsā here is graded finely: the standard is not 'cause no death' but 'cause no depletion, no wearying' — non-burden, not merely non-destruction. Self-nourishment (pīṇei appayaṁ) is explicitly sanctioned, refuting any reading of asceticism as self-erasure: the body may be sustained, provided the sustenance is drawn as the bee draws nectar — only what is freely yielded. This anticipates the technical eṣaṇā-samiti and the rule of ahākaḍa (yathākṛta) food, food already prepared for the householder's own use, which the next verses make explicit.",
+    "practicalRelevance": "For the reciter it sets a daily measure: take only what is freely given, spread small demands across many sources so none is strained, and leave every giver un-wearied. Beyond alms, it models any ethical consumption — sustain yourself without exhausting people, resources, or relationships. The self-check is simple: did my taking leave anyone or anything the poorer or the more tired?",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika 1.3–1.5 (the simile applied to the śramaṇa and the wordplay on sādhu / madhukara-samā)",
+        "source": "Daśavaikālika-sūtra, ch.1 Drumapuṣpikā"
+      },
+      {
+        "text": "Dhammapada 49 (Pupphavagga): 'yathāpi bhamaro pupphaṁ … rasam ādāya' — the parallel bee-and-flower simile for the wandering sage",
+        "source": "Dhammapada, Khuddaka-nikāya (Pali)"
+      },
+      {
+        "text": "The mādhukarī-vṛtti as the norm of gocarī/gochari alms-seeking",
+        "source": "Daśavaikālika-niryukti & Śvetāmbara monastic commentary tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dashvaikalika Sutra (full text), ch.1 Drumapushpika",
+      "url": "https://jainqq.org/booktext/Dashvaikalika_Sutra/229833",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit gāthā 1.2 and its standard sense; bee-and-flower simile; attribution to Ācārya Śayyambhava"
+    },
+    {
+      "title": "Daśavaikālika — Wisdomlib definition (citing University of Cambridge and Cologne Lexicon)",
+      "url": "https://www.wisdomlib.org/definition/dashavaikalika",
+      "type": "scholarship",
+      "consultedFor": "Status as 2nd Mūlasūtra, authorship by Śayyambhava (Sijjaṁbhava), Ardhamāgadhī composition and ten-chapter structure"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and roots for the per-token glosses: druma, puṣpa, bhramara, rasa, √klam (klāmayati), √prī (prīṇayati), ātman"
+    },
+    {
+      "title": "Mūla-sūtra — Jainpedia glossary",
+      "url": "https://jainpedia.org/glossary/mula-sutra/",
+      "type": "scholarship",
+      "consultedFor": "Place of the Daśavaikālika among the Śvetāmbara mūla-sūtras as a foundational text for newly-initiated ascetics"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verb આવિયઇ (āviyai) is most naturally derived from Sanskrit ā-pibati (ā+√pā, 'drinks up'); a minority of commentators relate it to ā-√svad ('tastes'). Either way the sense 'sips/draws nectar' is secure. The Anchalgachchha book's Prakrit orthography (initial ṇ- in ણ ય, doubled ફ્ફ in પુફ્ફ, અપ્પયં for ātmānam) is preserved verbatim and not normalized. The verse is pure upamā: it contains the image only; its explicit human application (śramaṇa) begins in v.3, so no 'so too' clause appears here. Reading and sense are not textually doubtful."
+}

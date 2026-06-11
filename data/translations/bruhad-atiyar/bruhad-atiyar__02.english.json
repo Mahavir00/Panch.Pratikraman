@@ -1,0 +1,858 @@
+{
+  "shlokaId": "bruhad-atiyar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the second vow I promise not to tell big lies to help others, and I now look back and confess the five ways I may have slipped: a hasty false accusation, exposing someone's secret, betraying my spouse's or friend's confidence, teaching what is false, and forging documents.",
+  "recitation": "2. bījuṁ sthūla mṛṣāvāda viramaṇa vrata pañcavidha — kannālīe, govālīe, bhūmālīe, nāsāvahāre, kūḍasakkhijje. e pāñca moṭakāṁ kūḍāṁ āpaṇane kāje, svajanane kāje, dharmane kāje mūkī, parakāje kūḍuṁ bolavā niyama. sūkṣma alikataṇī jayaṇā. e bījā sthūla mṛṣāvāda viramaṇa vrata taṇā pāñca atiyāra śodhuṁ. sahassābhakkhāṇo, rahassābhakkhāṇo, sadārāmantabhee, mosovaese, kūḍalehakaraṇe. sahasātkāre — hārate, phīṭate, kuṇaha-pratye kūḍuṁ āḷa dīdhuṁ hoy. e amukātaṇuṁ kāma amukej kīdhuṁ, isyuṁ bhaṇyuṁ hoy. rahassābhakkhāṇo — bejaṇa ekānta mantra mantratā dekhī, meṁ jāṇyuṁ tume, amukuṁ amukuṁ rājaviruddha ālocyo cho, isyuṁ bolyuṁ hoy. svakīya kalatra mitrataṇo mantra anerā āgaḷe prakāśyo hoy. mṛṣā-kūḍā siddhāntataṇo upadeśa parapratye dīdho hoy, athavā anerā pāse kūḍuṁ bolāvyuṁ hoy. kūḍā lekha lakhāvyā hoy, maśībheda kīdho hoy, kūḍī huṇḍī, kūḍī mudrā sañcārī hoy, tathā kuṇahaśuṁ kūḍo jhagaḍo māṇḍyo hoy, huṁ jāṇuṁ chuṁ tujane nidhāna lādhuṁ che, tuja kane amukā amukātaṇuṁ dravya rahyuṁ che, isyuṁ bolyuṁ hoy. aneruṁ e bījā sthūla mṛṣāvāda viramaṇa vrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "૨.",
+      "translit": "2.",
+      "gloss": "verse number 'two' (the section on the second vow)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral dvi; the period before the numeral is part of the book's punctuation",
+      "notes": "Marks the start of the 2nd aṇuvrata block."
+    },
+    {
+      "token": "બીજું",
+      "translit": "bījuṁ",
+      "gloss": "second",
+      "partOfSpeech": "adj",
+      "etymology": "from Skt. dvitīya via Apabhraṁśa bīa-",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross, coarse (the lay-level, non-absolute form)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sthūla 'thick, gross'; contrasts with a monk's mahāvrata",
+      "notes": "Signals the aṇuvrata, not the great vow."
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "false / harmful speech, lying",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mṛṣā 'falsely' + vāda 'speaking'",
+      "notes": "Glossary term (preface)."
+    },
+    {
+      "token": "વિરમણ",
+      "translit": "viramaṇa",
+      "gloss": "abstaining, desisting",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vi- + √ram 'to cease'",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata",
+      "notes": ""
+    },
+    {
+      "token": "પંચવિધ",
+      "translit": "pañcavidha",
+      "gloss": "of five kinds, fivefold",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca 'five' + vidhā 'kind'",
+      "notes": "Introduces the five 'great lies' that the vow forbids, listed next."
+    },
+    {
+      "token": "કન્નાલીએ",
+      "translit": "kannālīe",
+      "gloss": "false speech about a girl/human (kanyā-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kanyā 'maiden' + alīka 'false'; locative-style -e",
+      "notes": "First of the five gross falsehoods; classically false testimony in betrothal/marriage, by extension lies about people (bipeds)."
+    },
+    {
+      "token": "ગોવાલીએ",
+      "translit": "govālīe",
+      "gloss": "false speech about cattle (go-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. go 'cow/cattle' + alīka 'false'",
+      "notes": "Lies about animals (quadrupeds), e.g. in livestock trade."
+    },
+    {
+      "token": "ભૂમાલીએ",
+      "translit": "bhūmālīe",
+      "gloss": "false speech about land (bhūmi-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. bhūmi 'land' + alīka 'false'",
+      "notes": "Lies in disputes over land/immovable property."
+    },
+    {
+      "token": "નાસાવહારે",
+      "translit": "nāsāvahāre",
+      "gloss": "denying / embezzling a deposit (nyāsa-apahāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. nyāsa 'a thing entrusted' + apahāra 'taking away'",
+      "notes": "Falsely denying property left in trust."
+    },
+    {
+      "token": "કૂડસક્ખિજ્જે",
+      "translit": "kūḍasakkhijje",
+      "gloss": "bearing false witness (kūṭa-sākṣya)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. kūḍa 'false' (Skt. kūṭa) + sakkhi 'witness' (Skt. sākṣin)",
+      "notes": "Perjury; fifth of the gross falsehoods."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca",
+      "notes": ""
+    },
+    {
+      "token": "મોટકાં",
+      "translit": "moṭakāṁ",
+      "gloss": "big, gross, weighty",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati moṭuṁ 'big' + diminutive/emphatic -kāṁ",
+      "notes": "Qualifies the five lies as 'major'."
+    },
+    {
+      "token": "કૂડાં",
+      "translit": "kūḍāṁ",
+      "gloss": "lies, falsehoods (pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Guj. kūḍuṁ 'false' from Skt. kūṭa",
+      "notes": ""
+    },
+    {
+      "token": "આપણને કાજે",
+      "translit": "āpaṇane kāje",
+      "gloss": "for one's own sake",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. āpaṇuṁ 'one's own' + kāje 'for the sake of' (Skt. kārya)",
+      "notes": "First of three motives that are NOT exempted."
+    },
+    {
+      "token": "સ્વજનને કાજે",
+      "translit": "svajanane kāje",
+      "gloss": "for the sake of one's own kin",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. svajana 'kinsman' + kāje",
+      "notes": ""
+    },
+    {
+      "token": "ધર્મને કાજે",
+      "translit": "dharmane kāje",
+      "gloss": "for the sake of religion/dharma",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. dharma + kāje",
+      "notes": ""
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "setting aside, excepting",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √mūk 'to leave, place'; absolutive -ī",
+      "notes": "Pivotal: lies for self, kin, and even religion are set aside (NOT licensed); the resolve targets lying for another's worldly gain."
+    },
+    {
+      "token": "પરકાજે",
+      "translit": "parakāje",
+      "gloss": "for another's sake / another's business",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. para 'other' + kāje",
+      "notes": "The specific scope of the lay resolve here."
+    },
+    {
+      "token": "કૂડું",
+      "translit": "kūḍuṁ",
+      "gloss": "a lie, falsehood",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kūṭa",
+      "notes": ""
+    },
+    {
+      "token": "બોલવા",
+      "translit": "bolavā",
+      "gloss": "to speak",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √bol 'to speak'; infinitive",
+      "notes": ""
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "resolve, rule, restraint",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. niyama",
+      "notes": "The practitioner's concrete vow-formulation."
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "subtle, minor",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sūkṣma",
+      "notes": "Paired with bādara throughout the confession."
+    },
+    {
+      "token": "અલિકતણી",
+      "translit": "alikataṇī",
+      "gloss": "of falsehood",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. alīka 'false' + Guj. genitive -taṇī",
+      "notes": "Subtle/unavoidable falsehood is covered by jayaṇā, not absolute abstention."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "vigilant guarding (the careful exception)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jayaṇā from Skt. yatanā 'effort, care'",
+      "notes": "Glossary term (preface)."
+    },
+    {
+      "token": "એ બીજા",
+      "translit": "e bījā",
+      "gloss": "this second",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. e + bījuṁ",
+      "notes": "Opens the standard refrain."
+    },
+    {
+      "token": "તણા",
+      "translit": "taṇā",
+      "gloss": "of, belonging to (genitive)",
+      "partOfSpeech": "particle",
+      "etymology": "Old Guj. genitive postposition taṇo/taṇā",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgression (the book's spelling of atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aticāra; the book consistently writes અતિયાર",
+      "notes": "Glossary term (preface)."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine / cleanse / purify",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √śudh 'to purify'; 1st sg.",
+      "notes": "The refrain 'I now examine the five atichāras.'"
+    },
+    {
+      "token": "સહસ્સાભક્ખાણો",
+      "translit": "sahassābhakkhāṇo",
+      "gloss": "hasty false accusation (sahasā-abhyākhyāna)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. sahasā 'rashly' + abbhakkhāṇa 'false charge' (Skt. abhyākhyāna)",
+      "notes": "First atichāra; quoted in Prakrit, then glossed."
+    },
+    {
+      "token": "રહસ્સાભક્ખાણો",
+      "translit": "rahassābhakkhāṇo",
+      "gloss": "false charge about a secret (rahasya-abhyākhyāna)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. rahassa 'secret' (Skt. rahasya) + abbhakkhāṇa",
+      "notes": "Second atichāra."
+    },
+    {
+      "token": "સદારામંતભેએ",
+      "translit": "sadārāmantabhee",
+      "gloss": "betraying a spouse's confidence (svadāra-mantra-bheda)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. svadāra 'own wife' + mantra 'private counsel' + bheda 'breaking'",
+      "notes": "Third atichāra."
+    },
+    {
+      "token": "મોસોવએસે",
+      "translit": "mosovaese",
+      "gloss": "false teaching (mṛṣopadeśa)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. mosa 'false' (Skt. mṛṣā) + uvaesa 'instruction' (Skt. upadeśa)",
+      "notes": "Fourth atichāra."
+    },
+    {
+      "token": "કૂડલેહકરણે",
+      "translit": "kūḍalehakaraṇe",
+      "gloss": "making forged documents (kūṭa-lekha-karaṇa)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. kūḍa 'false' + leha 'writing' (Skt. lekha) + karaṇa 'doing'",
+      "notes": "Fifth atichāra."
+    },
+    {
+      "token": "સહસાત્કારે",
+      "translit": "sahasātkāre",
+      "gloss": "rashly, on a sudden impulse",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. sahasā-kāra 'acting suddenly'",
+      "notes": "Begins the gloss of the first atichāra."
+    },
+    {
+      "token": "હારતે",
+      "translit": "hārate",
+      "gloss": "on losing (something)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √hār 'to lose'; locative participle",
+      "notes": "Setting in which a rash charge is made."
+    },
+    {
+      "token": "ફીટતે",
+      "translit": "phīṭate",
+      "gloss": "on something going missing / being spoilt",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √phīṭ 'to be lost, undone'",
+      "notes": ""
+    },
+    {
+      "token": "કુણહપ્રત્યે",
+      "translit": "kuṇaha-pratye",
+      "gloss": "against / toward someone",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Guj. kuṇaha 'someone' + Skt. prati 'toward'",
+      "notes": ""
+    },
+    {
+      "token": "આળ",
+      "translit": "āḷa",
+      "gloss": "a false charge, blame, slander",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. āḷ 'false imputation'",
+      "notes": ""
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "given (i.e. leveled)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √de 'to give'; past",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may (it) have been (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √ho 'to be'; subjunctive 3rd sg.",
+      "notes": "Refrain-verb recurring after every confessed act ('… may have happened'); repeated throughout the verse."
+    },
+    {
+      "token": "અમુકાતણું",
+      "translit": "amukātaṇuṁ",
+      "gloss": "of so-and-so (a certain person's)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. amuka 'a certain one' + Guj. genitive -taṇuṁ",
+      "notes": "Placeholder, like English 'such-and-such'."
+    },
+    {
+      "token": "કામ",
+      "translit": "kāma",
+      "gloss": "work, deed, business",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. karma 'action'",
+      "notes": ""
+    },
+    {
+      "token": "અમુકેજ",
+      "translit": "amukej",
+      "gloss": "by a certain one indeed",
+      "partOfSpeech": "pronoun",
+      "etymology": "amuka + emphatic -j (Skt. eva)",
+      "notes": "Falsely pinning a deed on a named person."
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "done",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √kar 'to do'; past",
+      "notes": ""
+    },
+    {
+      "token": "ઇસ્યું",
+      "translit": "isyuṁ",
+      "gloss": "thus, such (a thing)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Guj. isyuṁ 'in this manner'",
+      "notes": "Recurs to introduce the reported false utterance."
+    },
+    {
+      "token": "ભણ્યું",
+      "translit": "bhaṇyuṁ",
+      "gloss": "said, uttered",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √bhaṇ 'to speak'",
+      "notes": ""
+    },
+    {
+      "token": "બેજણ",
+      "translit": "bejaṇa",
+      "gloss": "two persons",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. be 'two' + jaṇ 'person'",
+      "notes": "Begins the gloss of the second atichāra (rahasya)."
+    },
+    {
+      "token": "એકાંત",
+      "translit": "ekānta",
+      "gloss": "in private, alone",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. ekānta 'solitary place'",
+      "notes": ""
+    },
+    {
+      "token": "મંત્ર",
+      "translit": "mantra",
+      "gloss": "private counsel, secret consultation",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mantra 'counsel'",
+      "notes": ""
+    },
+    {
+      "token": "મંત્રતા",
+      "translit": "mantratā",
+      "gloss": "conferring, taking counsel",
+      "partOfSpeech": "verb",
+      "etymology": "denominative of mantra; present participle",
+      "notes": ""
+    },
+    {
+      "token": "દેખી",
+      "translit": "dekhī",
+      "gloss": "having seen",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √dekh 'to see'; absolutive",
+      "notes": ""
+    },
+    {
+      "token": "મેં",
+      "translit": "meṁ",
+      "gloss": "I (agentive)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. ergative of huṁ",
+      "notes": ""
+    },
+    {
+      "token": "જાણ્યું",
+      "translit": "jāṇyuṁ",
+      "gloss": "knew, found out",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √jñā 'to know'",
+      "notes": ""
+    },
+    {
+      "token": "તુમે",
+      "translit": "tume",
+      "gloss": "you (pl./respectful)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. tumhe",
+      "notes": ""
+    },
+    {
+      "token": "અમુકું અમુકું",
+      "translit": "amukuṁ amukuṁ",
+      "gloss": "this-and-that, such-and-such",
+      "partOfSpeech": "pronoun",
+      "etymology": "reduplicated amuka",
+      "notes": "Placeholder for fabricated specifics."
+    },
+    {
+      "token": "રાજવિરુદ્ધ",
+      "translit": "rājaviruddha",
+      "gloss": "against the king / treasonous to the state",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. rāja 'king' + viruddha 'opposed'",
+      "notes": "The dangerous secret falsely imputed."
+    },
+    {
+      "token": "આલોચ્યો",
+      "translit": "ālocyo",
+      "gloss": "deliberated, plotted",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. ā-√loc 'to consider'",
+      "notes": ""
+    },
+    {
+      "token": "છો",
+      "translit": "cho",
+      "gloss": "(you) are",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. copula 2nd pl.",
+      "notes": ""
+    },
+    {
+      "token": "બોલ્યું",
+      "translit": "bolyuṁ",
+      "gloss": "spoke, said",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √bol",
+      "notes": "Recurs as the closing verb of several confessed utterances."
+    },
+    {
+      "token": "સ્વકીય",
+      "translit": "svakīya",
+      "gloss": "one's own",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. svakīya",
+      "notes": "Begins the svadāra-mantra-bheda gloss."
+    },
+    {
+      "token": "કલત્ર",
+      "translit": "kalatra",
+      "gloss": "wife, spouse",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kalatra",
+      "notes": ""
+    },
+    {
+      "token": "મિત્રતણો",
+      "translit": "mitrataṇo",
+      "gloss": "of a friend",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mitra + Guj. genitive -taṇo",
+      "notes": "Confidence of spouse OR friend."
+    },
+    {
+      "token": "અનેરા",
+      "translit": "anerā",
+      "gloss": "others, another",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. aneru 'other' (Skt. anya + -era)",
+      "notes": ""
+    },
+    {
+      "token": "આગળે",
+      "translit": "āgaḷe",
+      "gloss": "before, in front of",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. āgaḷ 'ahead'",
+      "notes": ""
+    },
+    {
+      "token": "પ્રકાશ્યો",
+      "translit": "prakāśyo",
+      "gloss": "revealed, made public",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. pra-√kāś 'to make shine/manifest'",
+      "notes": ""
+    },
+    {
+      "token": "મૃષા",
+      "translit": "mṛṣā",
+      "gloss": "false",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. mṛṣā",
+      "notes": "Begins the mṛṣopadeśa gloss."
+    },
+    {
+      "token": "કૂડા",
+      "translit": "kūḍā",
+      "gloss": "false",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. kūṭa",
+      "notes": "Doubling mṛṣā-kūḍā for emphasis ('false, untrue')."
+    },
+    {
+      "token": "સિદ્ધાંતતણો",
+      "translit": "siddhāntataṇo",
+      "gloss": "of a doctrine / settled principle",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. siddhānta + Guj. genitive",
+      "notes": "Teaching a false tenet as if authoritative."
+    },
+    {
+      "token": "ઉપદેશ",
+      "translit": "upadeśa",
+      "gloss": "teaching, instruction, counsel",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upadeśa",
+      "notes": ""
+    },
+    {
+      "token": "પરપ્રત્યે",
+      "translit": "parapratye",
+      "gloss": "to another (person)",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. para + prati",
+      "notes": ""
+    },
+    {
+      "token": "દીધો",
+      "translit": "dīdho",
+      "gloss": "given (i.e. imparted)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √de",
+      "notes": ""
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. athavā",
+      "notes": ""
+    },
+    {
+      "token": "પાસે",
+      "translit": "pāse",
+      "gloss": "through / by (someone)",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. pās 'near, by'",
+      "notes": "Causing another to lie counts equally."
+    },
+    {
+      "token": "બોલાવ્યું",
+      "translit": "bolāvyuṁ",
+      "gloss": "caused (someone) to speak",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √bol; causative",
+      "notes": ""
+    },
+    {
+      "token": "લેખ",
+      "translit": "lekha",
+      "gloss": "documents, writings, records",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. lekha 'writing'",
+      "notes": "Begins the kūṭalekha gloss."
+    },
+    {
+      "token": "લખાવ્યા",
+      "translit": "lakhāvyā",
+      "gloss": "caused to be written",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √likh; causative",
+      "notes": ""
+    },
+    {
+      "token": "મશીભેદ",
+      "translit": "maśībheda",
+      "gloss": "ink-tampering, altering a written record",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. maṣī 'ink' + bheda 'splitting, alteration'",
+      "notes": "Doctoring entries in a ledger/deed."
+    },
+    {
+      "token": "કૂડી",
+      "translit": "kūḍī",
+      "gloss": "false (fem.)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. kūṭa",
+      "notes": "Qualifies huṇḍī and mudrā."
+    },
+    {
+      "token": "હુંડી",
+      "translit": "huṇḍī",
+      "gloss": "bill of exchange, promissory note",
+      "partOfSpeech": "noun",
+      "etymology": "Guj./Hindi huṇḍī, a mercantile credit instrument",
+      "notes": "Forged commercial paper."
+    },
+    {
+      "token": "મુદ્રા",
+      "translit": "mudrā",
+      "gloss": "seal, stamp, signet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mudrā",
+      "notes": ""
+    },
+    {
+      "token": "સંચારી",
+      "translit": "sañcārī",
+      "gloss": "circulated, passed off, put into use",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. sam-√car 'to move about'; causative absolutive",
+      "notes": ""
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "and also, likewise",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tathā",
+      "notes": ""
+    },
+    {
+      "token": "કુણહશું",
+      "translit": "kuṇahaśuṁ",
+      "gloss": "with someone",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Guj. kuṇaha 'someone' + -śuṁ 'with'",
+      "notes": ""
+    },
+    {
+      "token": "કૂડો",
+      "translit": "kūḍo",
+      "gloss": "false (masc.)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. kūṭa",
+      "notes": ""
+    },
+    {
+      "token": "ઝગડો",
+      "translit": "jhagaḍo",
+      "gloss": "quarrel, litigation, dispute",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. jhagaḍo",
+      "notes": "Filing a baseless lawsuit."
+    },
+    {
+      "token": "માંડ્યો",
+      "translit": "māṇḍyo",
+      "gloss": "started, instituted, set up",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √māṇḍ 'to begin'",
+      "notes": ""
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. huṁ",
+      "notes": ""
+    },
+    {
+      "token": "જાણું છું",
+      "translit": "jāṇuṁ chuṁ",
+      "gloss": "I know",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √jñā + Guj. present copula",
+      "notes": "Opening of a fabricated, extortionate claim."
+    },
+    {
+      "token": "તુજને",
+      "translit": "tujane",
+      "gloss": "to you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. tuj 'thee' + dative -ne",
+      "notes": ""
+    },
+    {
+      "token": "નિધાન",
+      "translit": "nidhāna",
+      "gloss": "buried treasure, hoard",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nidhāna 'deposit, treasure'",
+      "notes": ""
+    },
+    {
+      "token": "લાધું",
+      "translit": "lādhuṁ",
+      "gloss": "found, come to hand",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. √lādh 'to obtain'",
+      "notes": ""
+    },
+    {
+      "token": "છે",
+      "translit": "che",
+      "gloss": "is, has",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. copula",
+      "notes": ""
+    },
+    {
+      "token": "તુજ કને",
+      "translit": "tuja kane",
+      "gloss": "with you, in your keeping",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. tuj + kane 'near, in possession of'",
+      "notes": ""
+    },
+    {
+      "token": "દ્રવ્ય",
+      "translit": "dravya",
+      "gloss": "wealth, property, goods",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dravya",
+      "notes": ""
+    },
+    {
+      "token": "રહ્યું",
+      "translit": "rahyuṁ",
+      "gloss": "remains, is left/lodged",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √rah / Guj. √rah 'to stay'",
+      "notes": "Falsely alleging another's wealth is held by the listener."
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "anything else, whatever other (transgression)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. aneruṁ 'other'",
+      "notes": "Opens the abbreviated sealing refrain."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning, in respect of",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. viṣaye 'in the matter of'",
+      "notes": "Here the seal is shortened; the full 'mane, vacane, kāyāe… micchā mi dukkaḍaṁ' is understood from the first vow's pattern."
+    }
+  ],
+  "literalTranslation": "Second: the gross vow of abstaining from false speech, fivefold — the falsehood about a girl, the falsehood about cattle, the falsehood about land, the embezzling of a deposit, and false witness. Setting aside these five great lies told for one's own sake, for one's kin's sake, and for religion's sake, the resolve is against speaking a lie for another's worldly sake; for subtle falsehood there is jayaṇā (careful guarding). I now examine the five transgressions of this second vow of abstaining from false speech. Sahasā-abhyākhyāna, rahasya-abhyākhyāna, svadāra-mantra-bheda, mṛṣopadeśa, kūṭalekha-karaṇa: rashly — on losing something, on something going missing — I may have leveled a false charge against someone, saying 'so-and-so's deed was done by such-a-one.' Rahasya-abhyākhyāna: seeing two people conferring in private, I may have said, 'I knew it — you have plotted such-and-such treason against the king'; or I may have disclosed before others the private counsel of my own wife or friend. I may have given to another the teaching of a false doctrine, or made another speak a lie. I may have had forged documents written, doctored a record (ink-tampering), passed off a false bill of exchange or a false seal, or instituted a baseless lawsuit against someone, or said, 'I know a treasure has come to you,' 'such-and-such person's wealth is lodged with you.' Whatever else (occurred) regarding this second gross vow of abstaining from false speech.",
+  "idiomaticTranslation": "Second comes the householder's vow against gross falsehood, which forbids the five great lies: lying about a person, about cattle, about land, denying a trust placed in one's care, and bearing false witness. Even lies told to protect myself, my family, or my faith are not excused — and my resolve is firm against lying for someone else's worldly advantage; only subtle, unavoidable falsehood is left to careful guarding. Now I search my conduct for the vow's five slips. (1) A rash false accusation: when something was lost or went missing, did I hastily pin the blame on someone — 'that deed was done by so-and-so'? (2) Betraying a secret: seeing two people talking quietly, did I declare, 'I know — you are plotting treason,' or did I expose my own spouse's or friend's confidence to outsiders? (3,4) Did I instruct anyone in false teaching, or put a lie in another's mouth? (5) Did I have false papers drawn up, tamper with a record, circulate a forged bill or seal, start a groundless lawsuit, or threaten someone with 'I know you've found a hoard,' 'so-and-so's money is hidden with you'? For all of this, and any other lapse against this second vow — may it be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having confessed harm to life in the first vow, the practitioner now turns from the hand to the tongue. The verse is built in two tiers that a reader should not confuse. First it fixes the vow's SCOPE through the classical five 'great lies' (moṭā kūḍā): kanyālīka (about people), gavālīka (about animals), bhūmyalīka (about land), nyāsāpahāra (denying a deposit), and kūṭasākṣya (false witness) — the gross falsehoods that wreck reputations, property, and justice. A striking ethical sharpness follows: lies told 'for my own sake, my kin's sake, even for religion's sake' are explicitly set aside (mūkī) — not licensed but excluded from any excuse — and the lay resolve squarely targets lying parakāje, for another's worldly gain, while subtle falsehood is met by jayaṇā. The second tier quotes the five Prakrit atichāra-names and glosses each with vivid, courtroom-and-counting-house detail: the rash blame thrown when something is lost (sahasā-abhyākhyāna); the dangerous 'I know your secret — you are plotting against the king,' and the betrayal of a spouse's or friend's confidence (rahasya-abhyākhyāna, svadāra-mantra-bheda); teaching a false doctrine or making another lie (mṛṣopadeśa); and a whole merchant's catalogue of forgery — false deeds, doctored ledgers (maśībheda), counterfeit huṇḍīs and seals, frivolous lawsuits, and extortionate claims about hidden treasure (kūṭalekha-karaṇa). The movement from scope to slip teaches that the vow is breached not only by the big courtroom lie but by everyday speech that the speaker barely registers as 'lying.'",
+    "doctrinalContext": "The verse encodes the Jain teaching that satya is violated by speech that is asatya OR merely apriya/ahita — untrue, or true but harmful. Note a tradition-specific point: this Śvetāmbara lay-confession lists the second vow's five atichāras as sahasā-abhyākhyāna, rahasya-abhyākhyāna, svadāra-mantra-bheda, mṛṣopadeśa, and kūṭalekha-karaṇa (the Vandittu / Śrāddha-pratikramaṇa set), which differs from the Tattvārtha-sūtra 7.21 list (mithyopadeśa, raho-abhyākhyāna, kūṭalekha-kriyā, nyāsāpahāra, sākāra-mantra-bheda). Tellingly, nyāsāpahāra (nāsāvahāra) appears here not as an atichāra but among the five GROSS lies the vow forbids outright — a coherent rearrangement, not an error. The repeated 'kīdhuṁ–karāvyuṁ / bolyuṁ–bolāvyuṁ' (doing and causing) enforces the karaṇa–kāraṇa principle: instigating or causing a lie binds karma as the act itself does. And the refusal to excuse lies told even 'for dharma' upholds the primacy of truth over expedient piety.",
+    "practicalRelevance": "Read as a daily audit, this verse asks unglamorous questions: Did I blurt blame when something went missing? Did I repeat a private confidence, forward a friend's secret, or pass along gossip dressed as 'I just know'? Did I sign or circulate a misleading document, inflate a record, or pressure someone with a half-true threat? Crucially it indicts the lies we tell 'for a good cause' — for the family, the firm, even the temple — and the lies we get others to tell for us. The takeaway: guard not only courtroom oaths but ledgers, messages, and offhand accusations.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.21 — the five atichāras of satya-vrata (mithyopadeśa, raho-abhyākhyāna, kūṭalekha-kriyā, nyāsāpahāra, sākāra-mantra-bheda)",
+        "source": "Umāsvāti, Tattvārtha-sūtra (with commentary), Jain Quantum romanized ed."
+      },
+      {
+        "text": "Vandittu / Śrāddha-pratikramaṇa sūtra — the parallel lay list 'sahasā-abbhakkhāṇa, raho-abbhakkhāṇa, sadāra-manta-bheda, mosovaesa, kūḍalehakaraṇa'",
+        "source": "Śvetāmbara śrāvaka-pratikramaṇa tradition"
+      },
+      {
+        "text": "Upāsakadaśāṅga — the five gross falsehoods (kanyālīka, gavālīka, bhūmyalīka, nyāsāpahāra, kūṭasākṣya)",
+        "source": "Aṅga-āgama; standard Śvetāmbara enumeration of sthūla-mṛṣāvāda"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvartha Sutra (Romanized) — chapter 7 (vows and their atichāras, 7.21)",
+      "url": "https://jainqq.org/booktext/Tattvartha_Sutra_Romanized/001934",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the canonical five atichāras of the truthfulness vow and confirming the variance from this confession's Śvetāmbara lay list."
+    },
+    {
+      "title": "Satya — truthfulness as alignment of thought, speech and action",
+      "url": "https://en.wikipedia.org/wiki/Satya",
+      "type": "scholarship",
+      "consultedFor": "The general doctrine that satya is violated by untrue OR harmful speech, framing the vow's scope."
+    },
+    {
+      "title": "Jain eLibrary (jainelibrary.org)",
+      "url": "https://www.jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "Verifying the structure of the twelve lay vows and the five gross falsehoods (kanyālīka, gavālīka, bhūmyalīka, nyāsāpahāra, kūṭasākṣya) of sthūla-mṛṣāvāda."
+    },
+    {
+      "title": "Tattvartha Sutra (standard ed., PDF)",
+      "url": "https://www.jainpuja.com/jain-puja/Granth/tattvartha_sutra_004098_std.pdf",
+      "type": "translation",
+      "consultedFor": "Secondary confirmation of the satya-vrata atichāra terminology and glosses (forgery, false instruction, breach of confidence)."
+    }
+  ],
+  "translatorConfidence": 0.84,
+  "notes": "(1) The verse contains TWO pentads that must not be conflated: the five 'great lies' defining the vow's scope (kannālīe/govālīe/bhūmālīe/nāsāvahāre/kūḍasakkhijje = kanyā-/go-/bhūmi-alīka, nyāsāpahāra, kūṭasākṣya) and the five atichāras quoted afterward (sahasā-/rahasya-abhyākhyāna, svadāra-mantra-bheda, mṛṣopadeśa, kūṭalekha-karaṇa). (2) This lay list of atichāras matches the Śvetāmbara Vandittu/Śrāddha-pratikramaṇa tradition and differs from Tattvārtha-sūtra 7.21; notably nyāsāpahāra here sits among the gross lies, not the atichāras — a deliberate recension feature, flagged as such, not an error. (3) Old-Gujarati forms (kuṇaha, isyuṁ, aneruṁ, kane, lādhuṁ, phīṭate) are glossed from context and standard medieval-Gujarati usage; mātrās/anusvāras follow the book verbatim per the orthography rule (e.g. અતિયાર, not અતિચાર). (4) The sealing refrain is abbreviated in the printed text ('aneruṁ … viṣe'); the full 'mane, vacane, kāyāe karī micchā mi dukkaḍaṁ' is supplied by the established per-vow pattern (see v.1) and is not repeated here. (5) 'maśībheda' is read as doctoring/altering an inked record (maṣī 'ink' + bheda); an alternative sense 'forging a seal/signature' is plausible and would overlap with the following mudrā clause."
+}

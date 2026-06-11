@@ -1,0 +1,262 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/19",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Sages, the lords of gods, wealth, and men, and ascetics who roam the sky all bow and praise the Jina, who shines brighter than the freshly risen autumn sun through the power of his austerity.",
+  "recitation": "viṇaoṇaya siri rai aṁjali risigaṇa saṁthuaṁ thimiaṁ | vibuhāhiva dhaṇavai naravai thuya mahia cciaṁ bahuso | airuggaya saraya divāyara samahia sappabhaṁ tavasā | gayaṇaṁgaṇa viyaraṇa samuiya cāraṇa vaṁdiaṁ sirasā ||",
+  "wordByWord": [
+    {
+      "token": "વિણઓણય",
+      "translit": "viṇaoṇaya",
+      "gloss": "bowed down in humility",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vinaya-avanata (vinaya, 'humility, reverence' + avanata, 'bent down'); Pkt. oṇaya < avanata.",
+      "notes": "Opens a compound qualifying the sages' bodily posture as they salute."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "head",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śiras ('head'); Pkt. sira. Here in compound, not śrī ('glory').",
+      "notes": "Reads as sira- in 'sira-raïya-aṁjali': the añjali set at the bowed head."
+    },
+    {
+      "token": "રઇ",
+      "translit": "rai",
+      "gloss": "formed, placed",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. raïya < Skt. racita ('made, fashioned, placed').",
+      "notes": "Past participle: the folded hands 'formed/placed' at the humbly bowed head."
+    },
+    {
+      "token": "અંજલિ",
+      "translit": "aṁjali",
+      "gloss": "folded hands (gesture of salutation)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. añjali ('the hollowed, joined palms raised in reverence').",
+      "notes": ""
+    },
+    {
+      "token": "રિસિગણ",
+      "translit": "risigaṇa",
+      "gloss": "the host of sages",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. ṛṣi-gaṇa (ṛṣi, 'seer, sage' + gaṇa, 'multitude'); Pkt. risi < ṛṣi.",
+      "notes": "The agent of the praising in line 1."
+    },
+    {
+      "token": "સંથુઅં",
+      "translit": "saṁthuaṁ",
+      "gloss": "well-praised, hymned",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saṁstuta (saṁ- + √stu, 'to praise'); Pkt. saṁthua.",
+      "notes": "Accusative epithet of the Jina, the object of veneration carried through the stanza."
+    },
+    {
+      "token": "થિમિઅં",
+      "translit": "thimiaṁ",
+      "gloss": "stilled, motionless (in rapt devotion)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sthimita/stimita ('motionless, calm, unstirred'); Pkt. thimiya.",
+      "notes": "Conveys the sages standing transfixed; some read it of the assembly's hushed stillness."
+    },
+    {
+      "token": "વિબુહાહિવ",
+      "translit": "vibuhāhiva",
+      "gloss": "lord of the gods (Indra)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vibudha-adhipa (vibudha, 'the wise ones, gods' + adhipa, 'lord'); Pkt. vibuha.",
+      "notes": ""
+    },
+    {
+      "token": "ધણવઇ",
+      "translit": "dhaṇavai",
+      "gloss": "lord of wealth (Kubera)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dhana-pati (dhana, 'wealth' + pati, 'lord'); Pkt. vai < pati.",
+      "notes": "The yakṣa-king Kubera, treasurer of the gods."
+    },
+    {
+      "token": "નરવઇ",
+      "translit": "naravai",
+      "gloss": "lord of men (king)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. nara-pati (nara, 'man' + pati, 'lord'); Pkt. vai < pati.",
+      "notes": "Kings/emperors; the three together span the sovereignty of all three spheres."
+    },
+    {
+      "token": "થુય",
+      "translit": "thuya",
+      "gloss": "praised",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. stuta (√stu, 'to praise'); Pkt. thuya.",
+      "notes": "First of the triad thuya–mahia–cciaṁ describing how the three lords venerate him."
+    },
+    {
+      "token": "મહિઅ",
+      "translit": "mahia",
+      "gloss": "honored, extolled",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. mahita (√mah, 'to honour, magnify'); Pkt. mahia.",
+      "notes": ""
+    },
+    {
+      "token": "ચ્ચિઅં",
+      "translit": "cciaṁ",
+      "gloss": "worshipped (with offerings)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. arcita (√arc, 'to worship'); here as the second member of mahia-(a)rciaṁ = mahita-arcita.",
+      "notes": "The initial a- is elided in sandhi after mahia; doubled cc- preserves the book's orthography."
+    },
+    {
+      "token": "બહુસો",
+      "translit": "bahuso",
+      "gloss": "again and again, repeatedly",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. bahuśaḥ (bahu, 'much, many' + -śaḥ, distributive); Pkt. bahuso.",
+      "notes": "Stresses the ceaseless, repeated homage."
+    },
+    {
+      "token": "અઇરુગ્ગય",
+      "translit": "airuggaya",
+      "gloss": "freshly/recently risen",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. acira-udgata (acira, 'not long, recent' + udgata, 'risen up'); Pkt. airuggaya.",
+      "notes": "Qualifies the autumn sun in the simile."
+    },
+    {
+      "token": "સરય",
+      "translit": "saraya",
+      "gloss": "autumn",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śarad ('autumn'); Pkt. saraya.",
+      "notes": "The clear post-monsoon season — a stock image of unclouded brilliance."
+    },
+    {
+      "token": "દિવાયર",
+      "translit": "divāyara",
+      "gloss": "sun",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. divākara (diva, 'day/sky' + kara, 'maker'); Pkt. divāyara.",
+      "notes": "'airuggaya-saraya-divāyara' = the newly risen autumn sun."
+    },
+    {
+      "token": "સમહિઅ",
+      "translit": "samahia",
+      "gloss": "exceeding, surpassing",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. samadhika (sam + adhika, 'more, in excess'); Pkt. samahia.",
+      "notes": "The Jina's radiance is 'more than' even that sun."
+    },
+    {
+      "token": "સપ્પભં",
+      "translit": "sappabhaṁ",
+      "gloss": "radiant, full of luster",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saprabha (sa-, 'with' + prabhā, 'light, splendour'); Pkt. sappabha.",
+      "notes": "Accusative epithet of the Jina."
+    },
+    {
+      "token": "તવસા",
+      "translit": "tavasā",
+      "gloss": "through austerity (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tapasā, instrumental of tapas ('ascetic heat, austerity'); Pkt. tavasā.",
+      "notes": "Instrumental: the source of the surpassing brilliance is tapas, not physical light."
+    },
+    {
+      "token": "ગયણંગણ",
+      "translit": "gayaṇaṁgaṇa",
+      "gloss": "the courtyard/expanse of the sky",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. gagana-aṅgaṇa (gagana, 'sky' + aṅgaṇa, 'courtyard, open ground'); Pkt. gayaṇa.",
+      "notes": "The heavens imagined as an open courtyard ranged by the cāraṇas."
+    },
+    {
+      "token": "વિયરણ",
+      "translit": "viyaraṇa",
+      "gloss": "ranging, roaming about",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vicaraṇa (vi + √car, 'to move about'); Pkt. viyaraṇa.",
+      "notes": "Qualifies the cāraṇa ascetics who traverse the sky."
+    },
+    {
+      "token": "સમુઇય",
+      "translit": "samuiya",
+      "gloss": "assembled, gathered together",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. samudita (sam + udita, 'come together; arisen'); Pkt. samuiya.",
+      "notes": "The cāraṇas converge in a body to do homage."
+    },
+    {
+      "token": "ચારણ",
+      "translit": "cāraṇa",
+      "gloss": "sky-faring ascetic-sages (cāraṇa munis)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. cāraṇa ('one who moves'); the cāraṇa-ṛddhi ascetics endowed with supernatural mobility.",
+      "notes": "Jaṅghā-cāraṇa and vidyā-cāraṇa munis who move through the air by attainment; not 'feet' (caraṇa) here."
+    },
+    {
+      "token": "વંદિઅં",
+      "translit": "vaṁdiaṁ",
+      "gloss": "venerated, bowed to",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vandita (√vand, 'to salute, revere'); Pkt. vaṁdia.",
+      "notes": "Final accusative epithet sealing the stanza's chain of veneration."
+    },
+    {
+      "token": "સિરસા",
+      "translit": "sirasā",
+      "gloss": "with the head (in obeisance)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śirasā, instrumental of śiras ('head'); Pkt. sirasā.",
+      "notes": "Bowing the head — the verse closes on the same humble gesture (sira) with which it opened."
+    }
+  ],
+  "literalTranslation": "[The Jina,] hymned by the host of sages who stand motionless, their folded hands set at heads bowed in humility; praised, honored, and worshipped again and again by the lord of the gods (Indra), the lord of wealth (Kubera), and the lords of men (kings); radiant through austerity, surpassing the freshly risen autumn sun; venerated head-bowed by the assembled cāraṇa ascetics ranging the courtyard of the sky.",
+  "idiomaticTranslation": "Sages stand spellbound, palms joined upon humbly lowered brows, and hymn him. Indra lord of the gods, Kubera lord of riches, and the kings of men praise, honor, and adore him over and over. Through the fire of austerity he outshines the newly risen autumn sun. And the sky-roaming cāraṇa ascetics, gathered out of the heavens' wide courtyard, bow their heads to him.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is a single, unbroken accusative epithet-chain: every worshipper named is praising one object — the Jina hymned in the surrounding section. The poet builds the homage in three rising tiers. First the ṛṣis (risigaṇa): not merely bowing but thimiaṁ, 'stilled' — rapt and motionless, their añjali resting on humbly lowered heads, so that the verse literally opens and closes on the same gesture (siri… sirasā). Second, the three sovereigns of the worlds — Indra (vibuhāhiva), Kubera (dhaṇavai), and earthly kings (naravai) — heaping a triple act of devotion (thuya, mahia, cciaṁ) bahuso, 'again and again': lordship over heaven, wealth, and earth all yield repeated homage. The pivot is the central simile: he is sappabhaṁ samahia — more luminous than the acira-udgata śarad-divākara, the just-risen autumn sun whose clarity, after the monsoon, is proverbial. Yet the half-line names the true source: tavasā, 'through austerity.' His splendor is not solar but ascetic — the inner glow of tapas. The closing tier is the most striking: even the cāraṇa munis, sages who range the open courtyard of the sky by their own attainment, descend and assemble (samuiya) to bow head-low. The whole verse is thus a vertical sweep — earthbound sages, the lords of the three spheres, and the sky-borne ascetics — all converging in one act of reverence, with humility (vinaya) framing both ends.",
+    "doctrinalContext": "Two doctrinal points are specific to this verse. (1) The cāraṇa munis are no mere poetic angels: Jain cosmology classes the cāraṇa-ṛddhi (jaṅghā-cāraṇa and vidyā-cāraṇa) among the labdhis/ṛddhis — supernatural powers won through restraint and austerity that let an ascetic move above the earth or through the air. That even these power-endowed sages bow head-low asserts the Jina's rank above all attainment: siddhi yields to the one who has transcended it. (2) The simile tavasā sappabhaṁ encodes the Jain valuation of tapas as luminosity. The Jina outshines the autumn sun not by physical light but by the radiance of austerity — tapas as the heat that burns karma and manifests as visible splendor — reframing brilliance as a moral, not a celestial, quality.",
+    "practicalRelevance": "The reciter is meant to fold into this cosmic añjali: as gods, kings, and sky-faring sages bow, so does the chanter, sirasā — head lowered. The verse front-loads and seals itself with vinaya (humility), the root-virtue of Jain conduct; chanting it is a rehearsal of self-lowering before the ideal. Its takeaway is plain: whatever powers or status one holds — wealth, rank, even spiritual attainment — they are rightly laid down in reverence.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 3.46 (on cāraṇa-ṛddhi: jaṅghā-cāraṇa and vidyā-cāraṇa sky-faring powers)",
+        "source": "Umāsvāti, Tattvārthasūtra; cf. Encyclopedia of Jainism summary"
+      },
+      {
+        "text": "Aṣṭottarī / Smaraṇa tradition of the cosmic assembly venerating the Jina (Ajitaśānti Stava, devotional-assembly section)",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdomlib: Janghacarana (Jaṅghācāraṇa) — cāraṇa-ṛddhi sky-faring powers in Jainism",
+      "url": "https://www.wisdomlib.org/definition/janghacarana",
+      "type": "dictionary",
+      "consultedFor": "Doctrinal identity of the cāraṇa munis (jaṅghā-/vidyā-cāraṇa) as ascetics with supernatural sky-faring attainment, supporting the reading of cāraṇa in pāda 4."
+    },
+    {
+      "title": "Wisdomlib: Carana / Cāraṇa — Jain and Sanskrit senses",
+      "url": "https://www.wisdomlib.org/definition/carana",
+      "type": "dictionary",
+      "consultedFor": "Distinguishing cāraṇa (sky-roaming sage) from caraṇa ('foot'); confirming the agent-noun sense in pāda 4."
+    },
+    {
+      "title": "Wisdomlib: Tapas — austerity in Jain philosophy",
+      "url": "https://www.wisdomlib.org/definition/tapas",
+      "type": "dictionary",
+      "consultedFor": "Sense of tapas/tapasā as ascetic austerity, grounding 'tavasā sappabhaṁ' (radiant through austerity)."
+    },
+    {
+      "title": "Wisdomlib: Sthimita / Stimita — 'motionless, still'",
+      "url": "https://www.wisdomlib.org/definition/sthimita",
+      "type": "dictionary",
+      "consultedFor": "Gloss of thimiaṁ < sthimita ('stilled, motionless') in pāda 1."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) 'siri rai' is parsed as sira-raïya (śiraḥ-racita, '[añjali] formed at the bowed head'), agreeing with viṇaoṇaya; an alternative reading takes siri as śrī ('with grace/reverence') and rai as rati ('delight'), but the head/sira reading is favored by the closing sirasā that frames the stanza. (2) 'cciaṁ' is read as the second member of mahia-(a)rciaṁ = mahita-arcita ('honored-and-worshipped'), the initial a- elided in sandhi; the doubled cc- and other conjuncts/anusvāras are retained verbatim per the book's orthography, not normalized. (3) The grammatical subject (the Jina being venerated) is carried from the surrounding praise rather than named within the verse; the specific Tīrthaṅkara is therefore not asserted here. (4) Glosses 'Indra/Kubera/king' for vibuhāhiva/dhaṇavai/naravai render the standard epithet-identities of the three lords."
+}

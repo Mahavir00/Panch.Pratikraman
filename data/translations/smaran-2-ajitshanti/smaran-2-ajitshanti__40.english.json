@@ -1,0 +1,152 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/40",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the Jinas, the gods of gods, from whom all quarrel, impurity, attachment, hatred, and rebirth have completely vanished.",
+  "recitation": "vavagaya kali kalusāṇaṁ, vavagaya niddhanta rāga dosāṇaṁ | vavagaya puṇa-bbhavāṇaṁ, namotthu devāhi-devāṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "વવગય",
+      "translit": "vavagaya",
+      "gloss": "departed, gone away, utterly removed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. vyapagata (vi-apa-√gam, 'to go off, depart')",
+      "notes": "Past participle used adjectivally; it heads each of the three parallel epithets in this verse, so it recurs three times."
+    },
+    {
+      "token": "કલિ",
+      "translit": "kali",
+      "gloss": "strife, quarrel, discord",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. kali ('contention, dispute'); here NOT 'Kali-yuga' but 'quarrelsomeness'",
+      "notes": "Forms a dvandva with the following kalusa within the genitive-plural epithet."
+    },
+    {
+      "token": "કલુસાણં",
+      "translit": "kalusāṇaṁ",
+      "gloss": "of (those whose) impurities (are gone)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kalusa < Skt. kaluṣa ('turbid, foul, defiled'); genitive plural -āṇaṁ (< Skt. -ānām)",
+      "notes": "The case ending carries the whole compound vavagaya-kali-kalusa and agrees with devāṇaṁ."
+    },
+    {
+      "token": "વવગય",
+      "translit": "vavagaya",
+      "gloss": "departed, gone, smelted away",
+      "partOfSpeech": "adj",
+      "etymology": "see above (second occurrence)",
+      "notes": "Here paired with niddhanta to intensify the sense of total eradication."
+    },
+    {
+      "token": "નિદ્ધંત",
+      "translit": "niddhanta",
+      "gloss": "burnt out, smelted, refined away (as dross from metal)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. < Skt. nirdhmāta / niṣ-√dham ('to blow away, smelt by blowing the fire')",
+      "notes": "A metallurgical image: the passions are not merely absent but 'smelted out' like impurities purged from ore."
+    },
+    {
+      "token": "રાગ",
+      "translit": "rāga",
+      "gloss": "attachment, desire",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rāga (√rañj, 'to be coloured, dyed, impassioned')",
+      "notes": "First of the binding pair rāga-dveṣa."
+    },
+    {
+      "token": "દોસાણં",
+      "translit": "dosāṇaṁ",
+      "gloss": "of (those whose) aversions (are gone)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. dosa < Skt. dveṣa ('hatred, aversion'); genitive plural -āṇaṁ",
+      "notes": "Closes the rāga-dosa pair; ending again agrees with devāṇaṁ."
+    },
+    {
+      "token": "વવગય",
+      "translit": "vavagaya",
+      "gloss": "departed, gone",
+      "partOfSpeech": "adj",
+      "etymology": "see above (third occurrence)",
+      "notes": "Heads the final, climactic epithet — the end of rebirth itself."
+    },
+    {
+      "token": "પુણ",
+      "translit": "puṇa",
+      "gloss": "again",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. puṇa < Skt. punar ('again, anew'); sandhi-joined to the next word",
+      "notes": "Combines with bbhava to form punabbhava, 're-becoming.'"
+    },
+    {
+      "token": "બ્ભવાણં",
+      "translit": "bbhavāṇaṁ",
+      "gloss": "of (their) re-births / re-becomings",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhava < Skt. bhava ('existence, becoming'; √bhū); doubled bbh- from sandhi with puṇa; genitive plural -āṇaṁ",
+      "notes": "puṇa-bbhava = punarbhava, the cycle of rebirth; its 'departure' means liberation (mokṣa)."
+    },
+    {
+      "token": "નમોત્થુ",
+      "translit": "namotthu",
+      "gloss": "may there be homage; homage be (to)",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. namo + tthu < Skt. namaḥ + astu ('let there be obeisance'); the same opening as the Śakra-stava 'namotthuṇaṁ'",
+      "notes": "An optative salutation, stronger than a bare 'namo' — it wishes homage into being."
+    },
+    {
+      "token": "દેવાહિ",
+      "translit": "devāhi",
+      "gloss": "over the gods / above the gods (god-of-)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. for the Skt. element devādhi- (deva + adhi, 'above/over the gods'), first member of devādhideva",
+      "notes": "Joins with devāṇaṁ to yield devādhideva, 'god of gods.'"
+    },
+    {
+      "token": "દેવાણં",
+      "translit": "devāṇaṁ",
+      "gloss": "to the gods (of gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. deva < Skt. deva ('god'); genitive/dative plural -āṇaṁ",
+      "notes": "devāhi-devāṇaṁ = 'to the gods-of-gods' — the Jinas, worshipped even by the celestials."
+    }
+  ],
+  "literalTranslation": "To those from whom strife and impurity have departed; to those from whom attachment and aversion have departed, smelted away; to those from whom re-birth has departed — homage be to the gods of gods.",
+  "idiomaticTranslation": "Homage be to the Gods of gods — the Jinas — from whom all quarrel and defilement have vanished, in whom desire and hatred are smelted utterly away, and for whom the wheel of rebirth has forever ceased.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is a salutation built as a tricolon: three genitive-plural epithets, each opened by 'vavagaya' (gone), all resolving onto the single object 'devāhi-devāṇaṁ' — the gods of gods. The triad is purposefully graded. First the outward and gross are removed: 'kali' (strife) and 'kalusa' (defilement). Then the inner root-passions: 'rāga' and 'dosa,' qualified by the vivid 'niddhanta' — not merely absent but smelted out, as a smith blows away dross from molten ore. Finally the result that follows once the passions are burnt away: 'puṇa-bbhava,' rebirth itself, has departed. The verse thus traces cause to effect — purge the defilements, the passions are smelted, and rebirth ends. The optative salute 'namotthu' (let homage be), echoing the Śakra-stava's opening, then crowns the three negations with a single affirmation: these purified ones alone are worthy of the title devādhideva, revered by the very gods. Moving on from the phala-stuti just before it, the hymn now turns from stating benefits to rendering closing homage.",
+    "doctrinalContext": "The verse compactly states the Jain causal chain of bondage and release: rāga-dveṣa (attachment and aversion) are the kaṣāya-driven roots that bind karma; their eradication ('niddhanta') is the destruction of the ghātī-karmas, and the cessation of 'punarbhava' is mokṣa — the end of saṁsāra. The title devādhideva asserts the Jain hierarchy in which a liberated, vītarāga Jina stands above all heaven-dwelling devas, who themselves remain within saṁsāra.",
+    "practicalRelevance": "Reciting this verse, the devotee names the exact obstacles to be shed — quarrel, impurity, desire, hatred — and holds up the Jina as proof that they can be utterly burnt away, not merely suppressed. It reframes worship: one bows not to a fortune-granting deity but to a model of total passionlessness to be emulated.",
+    "crossReferences": [
+      {
+        "text": "Namotthuṇaṁ (Śakra-stava) — 'namo'stu' salutation form and the devādhideva epithet",
+        "source": "Smaraṇa #7, this corpus"
+      },
+      {
+        "text": "Tattvārtha-sūtra 10.2–3 — destruction of kṣaya of karmas and attainment of mokṣa (end of punarbhava)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Navsmaran (Romanized, with English meanings) — Ajitaśānti Stava",
+      "url": "https://jainqq.org/explore/001093/1",
+      "type": "translation",
+      "consultedFor": "Verse text and devotional sense of the Ajitaśānti Stava; the namotthu/devādhideva salutation in context."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Skt. roots underlying the Prakrit tokens: vyapagata, kaluṣa, nirdhmāta, dveṣa, punarbhava, devādhideva."
+    },
+    {
+      "title": "Sanskrit Dictionary (Cologne-based aggregate lexicon)",
+      "url": "https://www.sanskritdictionary.com/?q=deva%CC%84dhideva",
+      "type": "dictionary",
+      "consultedFor": "Verification of devādhideva ('god of gods') and kaluṣa ('turbid, defiled')."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Token segmentation: 'kali kalusāṇaṁ', 'niddhanta rāga dosāṇaṁ', and 'puṇa bbhavāṇaṁ' are read as single genitive-plural compounds (the case ending falling on the last member) that all qualify 'devāhi-devāṇaṁ'. The book's verbatim orthography is preserved, including the doubled 'બ્ભ' (bbh-) from puṇa+bhava sandhi and the split spelling 'પુણ બ્ભવાણં'. 'niddhanta' is glossed via Skt. nirdhmāta (smelted/blown-out); some lexica also relate it to nirdhānta — both yield 'purged/burnt out'. 'kali' here is the common Prakrit noun 'strife/quarrel', NOT a reference to Kali-yuga (a misreading found in some popular paraphrases). One web source erroneously rendered 'kali kalusa' as 'sins of Kali Yuga'; this is rejected. Verse-count traditions vary (46 vs 47); the book's numbering is followed."
+}

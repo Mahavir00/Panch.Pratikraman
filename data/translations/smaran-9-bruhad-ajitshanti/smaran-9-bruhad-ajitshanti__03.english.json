@@ -1,0 +1,192 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May the two Jina-lords Ajita and Śānti, worshipped together, bring us good fortune — for they pull the chariot of our merit onto the right road, hold back the flood of rebirth like a riverbank, and adorn Liberation herself like her ear-jewels.",
+  "recitation": "puṇya-ratha-supatha-nayanāya vṛṣabha-kṣamau, vipula-saṁsāra-sarid-ogha-pulinopamau | siddhi-sīmantinī-śruti-vataṁsāyitau, saṁpade jinapatī ajitaśāntī yutau.",
+  "wordByWord": [
+    {
+      "token": "પુણય",
+      "translit": "puṇya",
+      "gloss": "merit, good karma (the first member of the compound puṇya-ratha, 'chariot of merit')",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit puṇya, 'meritorious, auspicious'; book spells it puṇaya, preserved verbatim.",
+      "notes": "Begins the compound puṇya-ratha-supatha-nayanāya."
+    },
+    {
+      "token": "રથ",
+      "translit": "ratha",
+      "gloss": "chariot, cart",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ratha, from √ṛ 'to move/go'; a wheeled vehicle.",
+      "notes": "The vehicle the two Jinas, as bullocks, draw."
+    },
+    {
+      "token": "સુપથ",
+      "translit": "supatha",
+      "gloss": "the good path, the right road (of liberation)",
+      "partOfSpeech": "compound",
+      "etymology": "su- 'good' + patha 'path' (from √path).",
+      "notes": "Accusative goal of the leading: leading [the chariot] onto the good path."
+    },
+    {
+      "token": "નયનાય",
+      "translit": "nayanāya",
+      "gloss": "for the leading, for the conducting (of the chariot onto the good path)",
+      "partOfSpeech": "noun",
+      "etymology": "Dative singular of nayana 'leading, guiding', from √nī 'to lead'.",
+      "notes": "Dative of purpose: 'fit for leading'. Closes the compound puṇya-ratha-supatha-nayanāya, governing kṣamau."
+    },
+    {
+      "token": "વૃષભ",
+      "translit": "vṛṣabha",
+      "gloss": "bull, ox (a draught-bull)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vṛṣabha 'bull', from √vṛṣ 'to be strong/rain down'; also a mark of preeminence.",
+      "notes": "First member of vṛṣabha-kṣamau; an upamāna ('capable like bulls'). The bull also chimes with Ajitanātha's elephant/ox imagery."
+    },
+    {
+      "token": "ક્ષમૌ",
+      "translit": "kṣamau",
+      "gloss": "the two who are capable / equal to the task (like bulls)",
+      "partOfSpeech": "adj",
+      "etymology": "Nominative dual masculine of kṣama 'able, competent, equal to' (and secondarily 'forbearing'), from √kṣam.",
+      "notes": "Dual -au, referring to the two Jinas. Primary sense here is 'competent, strong enough' to draw the merit-chariot; the overtone 'forbearing' resonates with Śānti."
+    },
+    {
+      "token": "વિપુલ",
+      "translit": "vipula",
+      "gloss": "vast, broad, immense",
+      "partOfSpeech": "adj",
+      "etymology": "vi- + pula; 'extensive, great'.",
+      "notes": "Qualifies the saṁsāra-river-flood."
+    },
+    {
+      "token": "સંસાર",
+      "translit": "saṁsāra",
+      "gloss": "the cycle of birth-and-death, worldly transmigration",
+      "partOfSpeech": "noun",
+      "etymology": "saṁ- + √sṛ 'to flow/move'; 'a flowing-together, continuous rebirth'.",
+      "notes": "Member of the compound vipula-saṁsāra-sarid-ogha; here imaged as a river in spate."
+    },
+    {
+      "token": "સરિદોઘ",
+      "translit": "sarid-ogha",
+      "gloss": "the flood-stream of a river (sarit 'river' + ogha 'flood, torrent')",
+      "partOfSpeech": "compound",
+      "etymology": "sarit (from √sṛ, 'that which flows') + ogha 'torrent, flood'; sandhi sarit+ogha → saridogha.",
+      "notes": "saṁsāra is the 'river', its ogha the rushing flood the devotee must cross."
+    },
+    {
+      "token": "પુલિનોપમૌ",
+      "translit": "pulinopamau",
+      "gloss": "the two resembling a sandbank / shore (against the flood)",
+      "partOfSpeech": "compound",
+      "etymology": "pulina 'sandbank, sandy shore' + upama 'likeness'; nominative dual pulina-upamau.",
+      "notes": "Dual -au for the two Jinas: they are the firm bank/sandbar where the flood of saṁsāra is stayed."
+    },
+    {
+      "token": "સિદ્ધિ",
+      "translit": "siddhi",
+      "gloss": "Liberation, final perfection (here personified as a lady)",
+      "partOfSpeech": "noun",
+      "etymology": "from √sidh 'to succeed, attain'; 'accomplishment, the perfected state, mokṣa'.",
+      "notes": "First member of siddhi-sīmantinī-...; Siddhi figured as a woman/bride."
+    },
+    {
+      "token": "સિમંતિની",
+      "translit": "sīmantinī",
+      "gloss": "lady, woman (lit. one with a parted braid)",
+      "partOfSpeech": "noun",
+      "etymology": "from sīmanta 'parting of the hair' + -inī (fem.); a graceful woman/bride.",
+      "notes": "Siddhi-sīmantinī = 'the lady Liberation', personified; book spells simantinī, preserved."
+    },
+    {
+      "token": "શ્રુતિ",
+      "translit": "śruti",
+      "gloss": "ear",
+      "partOfSpeech": "noun",
+      "etymology": "from √śru 'to hear'; here in its concrete sense 'ear' (not 'scripture').",
+      "notes": "The ear of the lady Siddhi, on which the two serve as ornaments."
+    },
+    {
+      "token": "વતંસાયિતૌ",
+      "translit": "vataṁsāyitau",
+      "gloss": "the two who have become / serve as ear-ornaments",
+      "partOfSpeech": "verb",
+      "etymology": "Denominative past participle from vataṁsa 'ear-jewel, ear-ornament' (cf. avataṁsa); nominative dual -au.",
+      "notes": "siddhi-sīmantinī-śruti-vataṁsāyitau: the pair adorn the ears of Lady Liberation like her jewels — graceful and inseparable from her."
+    },
+    {
+      "token": "સંપદે",
+      "translit": "saṁpade",
+      "gloss": "for prosperity, for [our] well-being and attainment",
+      "partOfSpeech": "noun",
+      "etymology": "Dative singular of saṁpad 'prosperity, success, fortune', from saṁ- + √pad.",
+      "notes": "Dative of purpose governing the whole prayer: 'may the two be [present] for prosperity.'"
+    },
+    {
+      "token": "જિનપતી",
+      "translit": "jinapatī",
+      "gloss": "the two Jina-lords (lords among the Jinas)",
+      "partOfSpeech": "noun",
+      "etymology": "jina 'conqueror' + pati 'lord, master'; nominative dual jinapatī.",
+      "notes": "Dual: the two are bound as one inseparable pair."
+    },
+    {
+      "token": "અજિતશાંતી",
+      "translit": "ajitaśāntī",
+      "gloss": "Ajita and Śānti (the two by name)",
+      "partOfSpeech": "noun",
+      "etymology": "dvandva of Ajita(nātha) + Śānti(nātha); nominative dual ajita-śāntī.",
+      "notes": "The 2nd and 16th Tīrthaṅkaras, named together as the yamala-pair this hymn worships."
+    },
+    {
+      "token": "યુતૌ",
+      "translit": "yutau",
+      "gloss": "the two joined, united together",
+      "partOfSpeech": "adj",
+      "etymology": "Nominative dual of yuta, past participle of √yu 'to join, unite'.",
+      "notes": "Seals the verse's binding device: Ajita and Śānti invoked as one yoked pair."
+    }
+  ],
+  "literalTranslation": "Capable as bulls for the leading [of the chariot of merit] onto the good path; resembling a sandbank against the flood-stream of the river of vast saṁsāra; become the ear-ornaments upon the ear of the lady Liberation — for prosperity [be] the two united Jina-lords, Ajita and Śānti.",
+  "idiomaticTranslation": "Strong as a yoke of bulls, they draw the chariot of our merit onto the road that runs true; like a firm shore they break the vast floodwaters of rebirth; and upon the ear of Lady Liberation they shine as her very jewels. May these two Jina-lords, Ajita and Śānti, joined as one, abide with us for our every prosperity.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having saluted Ajita and then Śānti one after the other in the opening couplets, the hymn now welds them into a single object of worship — every word here is in the grammatical dual (kṣamau, pulinopamau, vataṁsāyitau, jinapatī, ajitaśāntī, yutau) so the two never act apart. Three swift images carry the praise. First, vṛṣabha-kṣamau: the Jinas are the draught-bulls strong enough (kṣama) to haul the puṇya-ratha, the 'chariot of merit', up onto the supatha, the right road — devotion harnesses their power to keep the soul's good karma moving toward release. Note the double edge of kṣama: it means 'capable' but also 'forbearing', so the bull-strength is quietly Śānti's patience as well. Second, pulinopamau: against the vipula-saṁsāra-sarid-ogha — the broad, rushing floodwater of the river of rebirth — the pair are like a pulina, the firm sandbank where the torrent is stayed and the crosser finds footing. Third and most tender, siddhi-sīmantinī-śruti-vataṁsāyitau: Siddhi (Liberation) is personified as a graceful bride, and the two Jinas have 'become her ear-ornaments' — they grace Mukti and are inseparable from her, the way jewels never leave a bride's ears. The verse closes in prayer: saṁpade jinapatī ajitaśāntī yutau — 'for prosperity, [may they be,] the two united Jina-lords Ajita and Śānti.' The dative saṁpade gives the verse its purpose: this is the moment the worshipper actually asks the joined pair for well-being, the petition the rest of the hymn will expand.",
+    "doctrinalContext": "The verse compresses the whole soteriological journey into three metaphors: puṇya (meritorious karma) is the vehicle, the mārga ('good path') is the route, and siddhi (the perfected, liberated state) is the destination — the Jinas operating at each stage as motive-power, refuge, and adornment of the goal. The saṁsāra-as-flood image is standard Jain (and pan-Indian) bhava-sāgara/ogha symbolism for the peril of transmigration, here checked not by a boat but by a steadfast shore. Personifying Siddhi as a bride whom the Jinas adorn expresses that the Tīrthaṅkaras are not merely on the way to liberation but constitutive of its very glory. Doctrinally the dual case enacts the yamala principle: two Jinas of different eras worshipped as one undivided merit-field.",
+    "practicalRelevance": "Recited devotionally, this is the verse where the practitioner stops narrating and asks — naming Ajita and Śānti together and seeking saṁpad, true prosperity, which in this frame means safe passage across saṁsāra, not worldly gain. A reciter can hold each image in turn: let the pair pull your merit forward, stand as your shore when life's currents rise, and keep liberation as the bride worth adorning your whole effort toward.",
+    "crossReferences": [
+      {
+        "text": "Bṛhad Ajitaśānti Stava v.3 (the joint invocation 'jinapatī ajitaśāntī yutau' for prosperity)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Bhava-ogha / saṁsāra-sāgara crossing imagery in the Logassa ('tittha-yarā me pasīyantu') and Uttarādhyayana",
+        "source": "Āvaśyaka-sūtra tradition; Uttarādhyayana-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — 'pulina' (sandbank, shore)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Confirming pulina = 'sandbank/sandy shore' for the pulinopamau simile."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — 'vataṁsa / avataṁsa' (ear-ornament) and 'sīmantinī' (woman, lady)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/monier/",
+      "type": "dictionary",
+      "consultedFor": "Glossing vataṁsa as 'ear-ornament' and sīmantinī as 'lady/woman' for the Siddhi-bride image, and kṣama as 'capable/able'."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and the placement of the Bṛhad Ajitaśānti Stava as the ninth Smaraṇa."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Every word in this verse is dual (-au / -ī), so the entire praise is of the two Jinas jointly. kṣamau is read as kṣama 'capable/equal-to' (the draught-bulls strong enough to pull the merit-chariot), with a deliberate secondary resonance of kṣama 'forbearing' suiting Śānti; some popular glosses instead split vṛṣabha (Ajita's emblem) / kṣama (Śānti's forbearance) as two epithets, which is plausible but grammatically strains the single dual adjective — flagged as the main interpretive variant. śruti is taken in its concrete sense 'ear' (not 'scripture'), required by vataṁsa 'ear-ornament'. Book spellings puṇaya and simantinī are preserved verbatim per the source's orthography. Authorship of this Bṛhad version is left unattributed per the tradition knowledge base; the dictionary scan-portal URLs are stable entry points, the specific headword pages should be confirmed if a per-lemma citation is required."
+}

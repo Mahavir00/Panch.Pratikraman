@@ -1,0 +1,274 @@
+{
+  "shlokaId": "laghu-atiyar/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the eighth vow — to give up needless, purposeless harm — and here the reciter names its four forms and asks pardon for its five small slips.",
+  "recitation": "āṭhamuṁ anarthadaṇḍa-viramaṇavrata. caturvidha — avajjhāṇāyariè, ppamāyāyariè, hiṁsappayāṇe, pāvakammovaese. e āṭhamā anarthadaṇḍa-viramaṇavratataṇā pāṁca atiyāra śodhuṁ. kandappe, kukkuie, muharie, saṁjuttāhigaraṇe, uvabhoga paribhoga aireġe. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૮",
+      "translit": "8 (āṭha)",
+      "gloss": "eight — the section number marking the eighth vow",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati numeral; cf. Skt. aṣṭan, Pkt. aṭṭha.",
+      "notes": "A verse/vow marker, not part of the chanted body."
+    },
+    {
+      "token": "આઠમું",
+      "translit": "āṭhamuṁ",
+      "gloss": "eighth",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. aṣṭama; Guj. ordinal āṭhamuṁ (neuter, agreeing with vrata).",
+      "notes": ""
+    },
+    {
+      "token": "અનર્થદંડ",
+      "translit": "anarthadaṇḍa",
+      "gloss": "purposeless harm (anarthadaṇḍa — 'punishment/injury incurred to no purpose')",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. an-artha ('without purpose/benefit') + daṇḍa ('rod, punishment, injury'); the self-inflicted karmic 'penalty' taken on for no real gain.",
+      "notes": "Glossed in the preface; the term names the vow's object."
+    },
+    {
+      "token": "વિરમણવ્રત",
+      "translit": "viramaṇavrata",
+      "gloss": "vow of desisting (from it)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. viramaṇa ('ceasing, abstaining', √ram + vi) + vrata ('vow').",
+      "notes": ""
+    },
+    {
+      "token": "ચતુર્વિધ",
+      "translit": "caturvidha",
+      "gloss": "of four kinds, four-fold",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catur ('four') + vidha ('sort, kind').",
+      "notes": "Introduces the canonical four species of anarthadaṇḍa that follow."
+    },
+    {
+      "token": "અવજઝાણાયરિએ",
+      "translit": "avajjhāṇāyariè",
+      "gloss": "by evil brooding-conduct (apadhyānācarita — dwelling on harmful/cruel thoughts)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. avajjhāṇa = Skt. apadhyāna ('evil meditation', apa- + dhyāna) + āyaria = ācarita ('conduct, indulgence'); locative -è marks the item being confessed.",
+      "notes": "First of the four kinds: malevolent or anxious mental brooding."
+    },
+    {
+      "token": "પ્પમાયાયરિએ",
+      "translit": "ppamāyāyariè",
+      "gloss": "by negligent conduct (pramādācarita — heedless, careless activity)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. pamāya = Skt. pramāda ('negligence, heedlessness') + āyaria = ācarita; initial doubling pp- is the book's verbatim sandhi from the preceding word.",
+      "notes": "Second kind: careless action that injures life without aim."
+    },
+    {
+      "token": "હિંસપ્પયાણે",
+      "translit": "hiṁsappayāṇe",
+      "gloss": "by supplying means of violence (hiṁsā-pradāna — handing over weapons/instruments of harm)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hiṁsā ('injury') + pradāna ('giving, supplying', pra + √dā); Pkt. payāṇa, locative -e.",
+      "notes": "Third kind: providing others the tools or fire/poison for harm."
+    },
+    {
+      "token": "પાવકમ્મોવએસે",
+      "translit": "pāvakammovaese",
+      "gloss": "by counsel toward sinful deeds (pāpa-karma-upadeśa — advising/instigating sin)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāpa ('sin') + karma ('deed') + upadeśa ('instruction, counsel'); Pkt. pāvakamma + ovaesa, locative -e.",
+      "notes": "Fourth kind: idle or harmful advice that prompts others to sin."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative e (Skt. etad).",
+      "notes": "Resumptive: 'this (eighth vow)…'."
+    },
+    {
+      "token": "આઠમા",
+      "translit": "āṭhamā",
+      "gloss": "(of the) eighth",
+      "partOfSpeech": "adj",
+      "etymology": "Oblique of āṭhamuṁ; agrees with the genitive vrata-phrase.",
+      "notes": "Repeats the ordinal in oblique case before the genitive."
+    },
+    {
+      "token": "અનર્થદંડ",
+      "translit": "anarthadaṇḍa",
+      "gloss": "purposeless harm (repeated)",
+      "partOfSpeech": "compound",
+      "etymology": "See above.",
+      "notes": "Restated to fix the vow before naming its atichāras."
+    },
+    {
+      "token": "વિરમણવ્રતતણા",
+      "translit": "viramaṇavratataṇā",
+      "gloss": "of the desisting-vow",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇavrata + Guj. genitive postposition -taṇā ('of, belonging to', from Skt. -tanaka).",
+      "notes": "-taṇā carries the possessive: '…of this vow'."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Skt. pañca, Guj. pāṁca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra — partial lapses)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aticāra; book's verbatim spelling atiyāra (with ય).",
+      "notes": "Preface glossary term."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinize / cleanse / examine",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. 1st-person from √śudh ('to purify, scrutinize'); Skt. śodhayāmi.",
+      "notes": "The reciter's act of self-examination for each vow."
+    },
+    {
+      "token": "કંદપ્પે",
+      "translit": "kandappe",
+      "gloss": "by lewd/lustful jesting (kandarpa — sensual banter)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kandarpa ('Cupid, lust'); Pkt. kandappa, locative -e.",
+      "notes": "First atichāra of the five."
+    },
+    {
+      "token": "કુક્કુઇએ",
+      "translit": "kukkuie",
+      "gloss": "by buffoonery / vulgar gestures (kautkucya — clowning with body and speech)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kautkucya / kaukkucca ('mischievous antics'); Pkt. kukkuia, locative -e.",
+      "notes": "Second atichāra."
+    },
+    {
+      "token": "મુહરિએ",
+      "translit": "muharie",
+      "gloss": "by garrulity (maukharya — idle, excessive chatter)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maukharya ('talkativeness', from mukhara 'loud-mouthed'); Pkt. muharia, locative -e.",
+      "notes": "Third atichāra."
+    },
+    {
+      "token": "સંજુત્તાહિગરણે",
+      "translit": "saṁjuttāhigaraṇe",
+      "gloss": "by keeping implements assembled ready (saṁyuktādhikaraṇa — having tools/weapons joined and at hand)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. saṁyukta ('joined together') + adhikaraṇa ('instrument, implement of action'); Pkt. saṁjutta + āhigaraṇa, locative -e.",
+      "notes": "Fourth atichāra; some recensions read asamīkṣya-adhikaraṇa ('acting without forethought')."
+    },
+    {
+      "token": "ઉવભોગ",
+      "translit": "uvabhoga",
+      "gloss": "consumables (upabhoga — what is enjoyed once, e.g. food)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upabhoga ('enjoyment', upa + √bhuj); Pkt. uvabhoga.",
+      "notes": "Part of the fifth atichāra compound."
+    },
+    {
+      "token": "પરિભોગ",
+      "translit": "paribhoga",
+      "gloss": "durables (paribhoga — what is enjoyed repeatedly, e.g. clothing, furniture)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. paribhoga ('repeated use', pari + √bhuj).",
+      "notes": ""
+    },
+    {
+      "token": "અઇરેગે",
+      "translit": "aireġe",
+      "gloss": "by excess (atireka — over-accumulation/over-indulgence)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. atireka ('surplus, excess', ati + √ric); Pkt. aireġa, locative -e.",
+      "notes": "Fifth atichāra: keeping or using consumables and durables far beyond need."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "See above.",
+      "notes": "Closes the list."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five (repeated)",
+      "partOfSpeech": "numeral",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (these I confess whatever I incurred)",
+      "partOfSpeech": "postposition",
+      "etymology": "Guj. māṁhe ('inside, among'); Skt. madhye.",
+      "notes": "The elided refrain: 'among these five, whatever slip arose by day/night — micchā mi dukkaḍaṁ.'"
+    }
+  ],
+  "literalTranslation": "Eighth, the vow of desisting from purposeless harm. Four-fold: by evil brooding, by negligent conduct, by supplying means of violence, by counsel toward sin. I scrutinize the five transgressions of this eighth desisting-from-purposeless-harm vow: lewd jesting, buffoonery, garrulity, keeping implements assembled ready, excess of consumables and durables. Among these five transgressions (whatever I incurred).",
+  "idiomaticTranslation": "The eighth vow: to renounce harm that serves no purpose. It takes four forms — dwelling on cruel or anxious thoughts, acting in heedless carelessness, handing others the instruments of violence, and giving counsel that prompts sin. I now examine the five subtle lapses of this vow: indulging in lewd banter, in vulgar clowning, in idle chatter, in keeping weapons and tools ready-assembled, and in hoarding or over-using more goods than I need. For whatever among these five I have committed, I seek pardon.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just bounded *necessary* consumption in vow seven (bhogopabhoga, with its fifteen karmādāna trades), the reciter now turns to harm that has no necessity at all. The hinge is the word anartha — 'without purpose.' Where the earlier vows curb violence done for a livelihood or a need, this eighth vow attacks the daṇḍa (self-injury through karma) a person takes on for no gain whatever: the cruelty entertained in idle thought, the carelessness that crushes life underfoot, the axe or poison passed to another's hand, the careless word that sets a sin in motion. This verse is structurally unusual within the sutra: before the standard 'five atichāra' formula, it inserts a caturvidha (four-fold) analysis — apadhyāna, pramāda, hiṁsā-pradāna, pāpopadeśa — naming the *kinds* of purposeless harm. So the reader meets the vow's positive content first, then its lapses. The five atichāras then probe how the vow erodes not through dramatic acts but through tone and habit: kandarpa (lewd wit), kaukucya (clowning gesture), maukharya (motor-mouthed chatter) — three faults of speech and manner — followed by saṁyuktādhikaraṇa (leaving knives, weapons, tools lying joined and ready so others may misuse them) and upabhoga-paribhoga-atireka (surrounding oneself with far more goods than life requires). The list quietly insists that an unguarded mouth and an over-furnished house are themselves forms of violence-by-default. The closing māṁhe folds straight into the day/night confession-refrain.",
+    "doctrinalContext": "Anarthadaṇḍa is treated in the śrāvakācāra as the guṇavrata that most directly polices intention and ambient influence rather than overt deed — the principle that ahiṁsā governs the *mind* and one's *effect on others*, not merely one's own hands. The four-fold scheme matches Tattvārtha-sūtra 7.21 and Ratnakaraṇḍa-śrāvakācāra 53 (apadhyāna / pāpopadeśa / pramādacarita / hiṁsādāna); the five atichāras match Tattvārtha-sūtra 7.27. Reading the two lists together shows the Jain analysis of karma-influx (āsrava) by the three yogas: apadhyāna and the speech-lapses are mano- and vāg-yoga, while supplying weapons and hoarding goods are kāya-yoga — purposeless harm leaking through thought, word and body alike.",
+    "practicalRelevance": "Today the vow speaks pointedly to casual cruelty and clutter: gossip and mockery (maukharya, kaukucya), coarse or salacious humor (kandarpa), leaving dangerous things carelessly accessible, sharing or forwarding content that incites harm (a modern pāpopadeśa), and accumulating possessions far past need. The reciter checks each evening: did I cause harm I had no reason to cause?",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.21 (four kinds of anarthadaṇḍa) and 7.27 (its five atichāras)",
+        "source": "Umāsvāti; trans. Vijay K. Jain, Vikalp Printers"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra, vv. 53–55 (apadhyāna, pāpopadeśa, pramādacarita, hiṁsādāna)",
+        "source": "Ācārya Samantabhadra"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra (śrāvaka guṇavratas)",
+        "source": "Aṅga-āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha-sūtra with Sarvārthasiddhi (Vijay K. Jain), ch. 7",
+      "url": "https://jainqq.org/booktext/Tattvartha_Sutra/034448",
+      "type": "translation",
+      "consultedFor": "Four kinds of anarthadaṇḍa (7.21) and the five atichāras kandarpa, kautkucya, maukharya, saṁyuktādhikaraṇa, upabhoga-paribhogātireka (7.27)."
+    },
+    {
+      "title": "Ācārya Umāsvāmī's Tattvārthasūtra — English explanation (Vijay K. Jain)",
+      "url": "https://archive.org/details/Tattvartha18CompleteWeb",
+      "type": "scholarship",
+      "consultedFor": "Verbatim Sanskrit of 7.27 and definitions of the anarthadaṇḍa atichāras."
+    },
+    {
+      "title": "Tattvartha Sutra, Chapter 7 — Jainworld",
+      "url": "https://jainworld.com/scripture/tattvarth-sutra/chapter-7/",
+      "type": "translation",
+      "consultedFor": "Cross-check of the anarthadaṇḍa vow and its transgression list."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text, orthography (atiyāra, doubled conjuncts), and the four-fold caturvidha framing in this recension."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse uniquely prefaces the standard five-atichāra formula with a caturvidha (four-fold) classification of anarthadaṇḍa (apadhyāna/avajjhāṇa, pramāda, hiṁsā-pradāna, pāpa-karmopadeśa); these four are the vow's content, not its atichāras. Prākrit forms are kept verbatim per the book: 'ppamāyāyariè' shows word-initial doubling from sandhi, and 'saṁjuttāhigaraṇe' corresponds to saṁyuktādhikaraṇa — note that Tattvārtha 7.27 reads asamīkṣyādhikaraṇa ('ill-considered action'), a recognized variant of the same fourth atichāra; preserved, not normalized. The day/night confession refrain is elided after 'māṁhe' (supplied per the sutra's repeating template). Glosses of the Prākrit atichāra-terms follow the Tattvārtha/Sarvārthasiddhi tradition where the book gives no separate definition."
+}

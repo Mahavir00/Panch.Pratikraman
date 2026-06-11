@@ -1,0 +1,168 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/20",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse lists every kind of danger one might face — the wrath of rulers, ghosts and demons, nightmares, bad omens, hostile stars, eerie twilights, lonely roads, sudden calamities and the dark of night — from all of which Pārśva's hymn keeps the devotee safe (the rescue is completed in the next verse).",
+  "recitation": "rāyabhaya jakkha rakkhasa kusumiṇa dussauṇa rikkha pīḍāsu | saṁjjāsu dosu panthe uvasagge taha ya rayaṇīsu ||",
+  "wordByWord": [
+    {
+      "token": "રાયભય",
+      "translit": "rāyabhaya",
+      "gloss": "fear of/from kings, royal wrath",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit rāya (< Skt. rājan, 'king') + bhaya (< √bhī, 'to fear'); = rāja-bhaya, 'fear arising from a ruler's power'.",
+      "notes": "Heads the genitive-sense list governed by pīḍāsu ('in the perils of…')."
+    },
+    {
+      "token": "જક્ખ",
+      "translit": "jakkha",
+      "gloss": "yakṣa, a demigod / nature-spirit (often menacing)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jakkha < Skt. yakṣa; a class of semi-divine beings.",
+      "notes": ""
+    },
+    {
+      "token": "રક્ખસ",
+      "translit": "rakkhasa",
+      "gloss": "rākṣasa, demon / flesh-eating ogre",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rakkhasa < Skt. rākṣasa (from √rakṣ); a malevolent night-roaming being.",
+      "notes": ""
+    },
+    {
+      "token": "કુસુમિણ",
+      "translit": "kusumiṇa",
+      "gloss": "bad dream, nightmare",
+      "partOfSpeech": "compound",
+      "etymology": "ku- ('bad, ill') + sumiṇa (Prakrit, < Skt. svapna, 'dream') = ku-svapna / duḥsvapna.",
+      "notes": "NOT 'kusuma/flower'; here ku-svapna, 'evil dream', paired idiomatically with the ill-omen term that follows."
+    },
+    {
+      "token": "દુસ્સઉણ",
+      "translit": "dussauṇa",
+      "gloss": "bad omen, evil portent",
+      "partOfSpeech": "compound",
+      "etymology": "dus- ('bad') + sauṇa (Prakrit, < Skt. śakuna, 'omen, augury') = duḥ-śakuna.",
+      "notes": "'Bad dreams and bad omens' is a stock pair (cf. Bṛhatsaṃhitā ch.2)."
+    },
+    {
+      "token": "રિક્ખ",
+      "translit": "rikkha",
+      "gloss": "star/asterism — hence affliction by stars or planets",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rikkha < Skt. ṛkṣa, 'star, lunar mansion (nakṣatra)'; here in the sense of astral/graha affliction.",
+      "notes": "Stands for graha-pīḍā, 'planetary/astral trouble'."
+    },
+    {
+      "token": "પીડાસુ",
+      "translit": "pīḍāsu",
+      "gloss": "in the afflictions / perils (of the above)",
+      "partOfSpeech": "noun",
+      "etymology": "pīḍā (< √pīḍ, 'to oppress, hurt') + locative plural -su; 'amid the torments of…'.",
+      "notes": "Locative that ties together items 1–6: king-fear, yakṣa, rākṣasa, bad dream, bad omen, hostile star."
+    },
+    {
+      "token": "સંજ્જાસુ",
+      "translit": "saṁjjāsu",
+      "gloss": "at the twilights (dawn and dusk junctures)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁjjā < Skt. sandhyā ('juncture, twilight') + locative plural -su.",
+      "notes": "The liminal day-junctures, traditionally felt as times of vulnerability."
+    },
+    {
+      "token": "દોસુ",
+      "translit": "dosu",
+      "gloss": "amid mishaps / adverse conditions",
+      "partOfSpeech": "noun",
+      "etymology": "Most plausibly doṣeṣu (loc. pl. of doṣa, 'fault, defect, harm').",
+      "notes": "Reading uncertain; some construe it with the preceding word as 'at the two (do) twilights' — flagged in notes."
+    },
+    {
+      "token": "પંથે",
+      "translit": "panthe",
+      "gloss": "on the road, while travelling",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pantha < Skt. pathin ('path, road'), locative singular panthe.",
+      "notes": ""
+    },
+    {
+      "token": "ઉવસગ્ગે",
+      "translit": "uvasagge",
+      "gloss": "in calamity / hostile ordeal (upasarga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uvasagga < Skt. upasarga, locative singular.",
+      "notes": "Glossary term; here in its broad sense of any sudden affliction, not only an ascetic's ordeal."
+    },
+    {
+      "token": "તહય",
+      "translit": "taha ya",
+      "gloss": "and likewise, and also",
+      "partOfSpeech": "particle",
+      "etymology": "taha (< Skt. tathā, 'thus, so') + ya (< Skt. ca, 'and').",
+      "notes": "Connective linking the final item to the series."
+    },
+    {
+      "token": "રયણીસુ",
+      "translit": "rayaṇīsu",
+      "gloss": "in the nights",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇī < Skt. rajanī ('night') + locative plural -su.",
+      "notes": "Closes the catalogue of dangerous times and places."
+    }
+  ],
+  "literalTranslation": "In the perils of king-fear, of yakṣas, of rākṣasas, of bad dreams, of bad omens, and of hostile stars; at the twilights, amid mishaps, on the road, in calamity, and likewise in the nights —",
+  "idiomaticTranslation": "Whatever danger may close in — the wrath of a king, a yakṣa or a rākṣasa, a nightmare, an ill omen, an affliction of the stars; at the uncertain twilight hours, when things go wrong, out on the open road, in any sudden calamity, and in the depths of the night —",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the body of the hymn painted seven concrete, physical perils, this verse turns to the invisible and the circumstantial. Royal wrath (rāyabhaya), spirits (yakṣa, rākṣasa), nightmares (ku-svapna), ill omens (duḥ-śakuna) and astral affliction (ṛkṣa) are exactly the folk-religious dreads an ordinary householder lives with — not lions and shipwrecks but the anxieties of court, household and almanac. The second line shifts from agents of fear to its times and places: the liminal twilights (sandhyā), moments when things go wrong (dosu), the exposed road (panthe), sudden calamity (upasarga) and the dark hours (rayaṇī). Notice the grammar: every word here is a locative ('in… at… on…'), and yet the verse contains no main verb. It is deliberately suspended — a long protasis whose apodosis arrives only in the next gāthā, 'jo paḍhaï jo a nisuṇaï…' ('whoever recites, whoever hears…'), where Pārśva is asked to quell the reciter's sin. Read alone the verse is a roll-call of dread; read with its sequel it becomes a single sweeping promise that no time, place or unseen power lies outside the Jina's shelter. The poet thus broadens 'mahābhaya' from the dramatic to the everyday, so the most timid devotee finds his own fears named here.",
+    "doctrinalContext": "The verse performs a quiet doctrinal move: the very powers that popular religion seeks to appease by propitiation — planets, omens, spirits — are here simply enumerated and then dissolved by smaraṇa, remembrance of the Jina. Nothing is offered to graha or yakṣa; refuge is taken in Pārśva alone. This reflects the Jain conviction that no external deity governs one's fate and that fear (bhaya) is ultimately a state of the deluded soul, loosened not by ritual bargaining but by recollecting one who has himself conquered all fear (the Jina, the abhaya-da). By gathering twilight, road and night — the classic liminal thresholds — the verse also affirms that the protection is unconditioned by time or place.",
+    "practicalRelevance": "The reciter is taught to reach for this verse precisely at thresholds of unease: before sleep when nightmares come, when an omen or astrological worry unsettles the mind, when facing those in power, when setting out on a journey, or alone at night. Its modern force is to reframe such anxieties — naming each one, then handing it over to Pārśva instead of feeding it.",
+    "crossReferences": [
+      {
+        "text": "Following gāthā (smaran-5-namiun-bhayahar/21): 'jo paḍhaï jo a nisuṇaï…' — supplies the main clause that completes this verse's locative list.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra (4th Smaraṇa, to Pārśvanātha) — companion fear-remover invoking deliverance from poison, disease and graha-affliction.",
+        "source": "Nava Smaraṇa corpus"
+      },
+      {
+        "text": "Bṛhatsaṃhitā ch.2 — the stock cluster of 'bad dreams (duḥsvapna), ill omens, and astral trouble' that this verse mirrors.",
+        "source": "Varāhamihira, via Wisdom Library"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ṛkṣa — 33 definitions (star, asterism, lunar mansion)",
+      "url": "https://www.wisdomlib.org/definition/riksha",
+      "type": "dictionary",
+      "consultedFor": "rikkha (ṛkṣa) = star/nakṣatra, hence astral/planetary affliction"
+    },
+    {
+      "title": "Duḥsvapna — definitions (bad dream)",
+      "url": "https://www.wisdomlib.org/definition/duhsvapna",
+      "type": "dictionary",
+      "consultedFor": "kusumiṇa = ku-svapna/duḥsvapna ('bad dream'); the dream–omen–planet cluster"
+    },
+    {
+      "title": "Śakuna / Sakuṇa — definitions (omen, augury)",
+      "url": "https://www.wisdomlib.org/definition/shakuna",
+      "type": "dictionary",
+      "consultedFor": "dussauṇa = duḥ-śakuna ('bad omen'), incl. Prakrit/Jain attestation"
+    },
+    {
+      "title": "Rākṣasa — definitions (demon)",
+      "url": "https://www.wisdomlib.org/definition/rakshasa",
+      "type": "dictionary",
+      "consultedFor": "rakkhasa = rākṣasa, including the Jain sense"
+    },
+    {
+      "title": "Sandhyā — definitions (twilight, juncture)",
+      "url": "https://www.wisdomlib.org/definition/sandhya",
+      "type": "dictionary",
+      "consultedFor": "saṁjjāsu = sandhyāsu ('at the twilights')"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is syntactically incomplete on its own: it is a chain of locatives whose governing verb appears in the following gāthā (v.21), so the translations are left grammatically open. 'kusumiṇa' is ku-svapna ('bad dream'), not 'flower' (kusuma) — a common misreading. 'rikkha' is Skt. ṛkṣa ('star/asterism'), here standing for graha/astral affliction. The reading of 'dosu' is uncertain: it is taken here as doṣeṣu ('amid mishaps/faults'); some recensions instead construe it with the preceding word as 'do' ('two'), i.e. 'at the two twilights', or read 'duṭṭha-panthe' ('on the dangerous road') — flagged per fidelity policy. Spellings (saṁjjāsu, dussauṇa, tahaya, rayaṇīsu) follow the source book verbatim and may differ from other editions."
+}

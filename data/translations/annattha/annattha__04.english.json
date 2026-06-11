@@ -1,0 +1,96 @@
+{
+  "shlokaId": "annattha/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I will keep standing still in meditation for as long as I have not yet ended it by bowing to the Arihantas.",
+  "recitation": "jāva arihantāṇaṁ bhagavantāṇaṁ, namukkāreṇaṁ, na pāremi",
+  "wordByWord": [
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "as long as / until (such time as)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jāva < Sanskrit yāvat; the opening member of the yāvat…tāvat (jāva…tāva) correlative.",
+      "notes": "Opens the temporal clause completed by tāva in the next verse; here paired with the negated verb, so the sense is 'so long as I have not yet…'."
+    },
+    {
+      "token": "અરિહંતાણં",
+      "translit": "arihantāṇaṁ",
+      "gloss": "of the Arihantas (those who have destroyed the inner foes / the worthy ones)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit arihanta < Sanskrit arhat ('worthy') and the folk-etymology ari-hanta ('slayer of enemies', i.e. the passions); genitive plural -āṇaṁ < Skt. -ānām.",
+      "notes": "The very word that opens the Navkar (ṇamo arihantāṇaṁ); its genitive marks the Arihantas as the recipients of the concluding salutation."
+    },
+    {
+      "token": "ભગવંતાણં",
+      "translit": "bhagavantāṇaṁ",
+      "gloss": "of the Bhagavants (the blessed, glorious Lords)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhagavanta < Sanskrit bhagavat ('possessing bhaga — fortune, majesty, glory'); genitive plural -āṇaṁ.",
+      "notes": "Stands in apposition to arihantāṇaṁ, honorifically amplifying it; the two genitives together name a single object of reverence."
+    },
+    {
+      "token": "નમુક્કારેણં",
+      "translit": "namukkāreṇaṁ",
+      "gloss": "by the namaskāra (the salutation / Navkar)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit namukkāra < Sanskrit namaskāra (namas 'bowing' + kāra 'making'); instrumental singular -eṇaṁ < Skt. -ena, expressing the means.",
+      "notes": "Instrumental of means: the kāyotsarga is to be released by means of this salutation — the ritual act that formally ends it."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit na = Sanskrit na, the standard negative.",
+      "notes": "Negates pāremi; the whole vow holds precisely during the interval in which this 'not yet concluded' remains true."
+    },
+    {
+      "token": "પારેમિ",
+      "translit": "pāremi",
+      "gloss": "I conclude / bring to completion (the kāyotsarga)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pāremi < Sanskrit pārayāmi (√pṛ/pāraya, 'to carry across, accomplish, bring to an end'); 1st person singular present.",
+      "notes": "Transitive 'I finish/complete it'; the unstated object is the kāyotsarga. First-person form makes this the practitioner's own spoken resolve."
+    }
+  ],
+  "literalTranslation": "As long as I do not conclude (it) — by the salutation to the Arihanta Bhagavants —",
+  "idiomaticTranslation": "For just so long as I have not yet brought this kāyotsarga to its close by bowing in salutation to the Arihantas, the Blessed Lords —",
+  "elaboration": {
+    "verseByVerseCommentary": "Having sealed the list of exceptions in verse 3 with the goal of an unbroken, unviolated practice, the reciter now turns from what is permitted to *when* the practice runs. This verse is the opening half of a single suspended sentence: it states the condition (jāva … na pāremi, 'as long as I have not concluded') and deliberately leaves the main clause hanging until tāva in the next verse. The grammar is doing devotional work. By voicing the end-point *first* — and in the negative — the practitioner fixes the boundary of the vow before declaring its content: the stillness is in force throughout the entire stretch in which the salutation has *not yet* been made. The chosen terminus is itself significant. The kāyotsarga is not ended by a clock, by fatigue, or by mere will, but by a deliberate act of reverence — the namaskāra to the arihantāṇaṁ bhagavantāṇaṁ. Two honorifics are stacked: arihanta (the conqueror of the inner enemies, the very first word of the Navkar) and bhagavanta (the glorious, blessed Lord), so that the act which closes the meditation is also the act which crowns it with homage. The instrumental namukkāreṇaṁ ('by means of the salutation') makes the bow not an afterthought but the very instrument of release. Thus the verse converts a question of duration into a gesture of worship: the body will be 'set aside' until devotion itself lifts the vow.",
+    "doctrinalContext": "The verse encodes the Jain principle that a kāyotsarga is a bounded, intentional act, not an open-ended trance: it has a willed beginning (the resolve of Tassa Uttari) and a willed, ritually-marked end. Anchoring that end in the namaskāra to the Arihantas ties the meditative 'abandonment of the body' back to the supreme objects of refuge — the Pañca-Parameṣṭhi, headed by the arihanta. The doubled epithet arihanta–bhagavanta affirms a core tenet: the one worthy of salutation is so because he has annihilated the ghāti-karmas and the inner passions (kaṣāyas), becoming kevalin. The reciter's stillness, then, is offered up to and released by that ideal — meditation framed as homage.",
+    "practicalRelevance": "In practice this verse is the reciter's promise to remain absolutely steady for as long as the closing Navkar has not been uttered — not to cut the kāyotsarga short out of restlessness or distraction. It teaches the discipline of letting a defined act of reverence, rather than impatience, decide when one is finished; the meditation ends on devotion's terms, not the body's.",
+    "crossReferences": [
+      {
+        "text": "Ṇamō arihantāṇaṁ — opening pada of the Navkāra (Namaskāra) Mahāmantra, the very salutation invoked here",
+        "source": "Namaskāra Mantra, Āvaśyaka tradition"
+      },
+      {
+        "text": "Annattha v.5 (tāva kāyaṁ ṭhāṇeṇaṁ moṇeṇaṁ jhāṇeṇaṁ appāṇaṁ vosirāmi) — the tāva clause that completes this jāva sentence",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Arihant (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Arihant_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "etymology and doctrinal meaning of arihanta (arhat / 'conqueror of inner foes'), kevalin status, and its place at the head of the Namaskāra"
+    },
+    {
+      "title": "Namokar Mantra",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "the salutation 'ṇamo arihantāṇaṁ' that constitutes the concluding namaskāra of the kāyotsarga"
+    },
+    {
+      "title": "Kayotsarga",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "the nature of kāyotsarga as a bounded meditative practice formally concluded by the Namaskāra"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is grammatically incomplete on its own: jāva…na pāremi is the protasis whose apodosis is supplied by tāva…vosirāmi in v.5, so the translations are left open-ended to preserve the suspended jāva…tāva structure. namukkāreṇaṁ is read as an instrumental of means ('by the salutation'); pāremi is transitive with an unexpressed object (the kāyotsarga), standard in this formula. arihantāṇaṁ and bhagavantāṇaṁ are taken as co-referential genitives ('of the Arihanta Bhagavants'). Orthography is honored verbatim per the Anchalgachchha edition; no variant readings for this short verse were noted in the supplied source material."
+}

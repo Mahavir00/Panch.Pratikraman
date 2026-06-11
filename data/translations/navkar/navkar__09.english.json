@@ -1,0 +1,86 @@
+{
+  "shlokaId": "navkar/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This prayer is the very first and finest of all good and lucky things.",
+  "recitation": "paḍhamaṁ hoi maṅgalaṁ.",
+  "wordByWord": [
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "first, foremost, prime",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍhama < Sanskrit prathama ('first'); the cluster -th- softens to -ḍh- and -r- is lost — a regular Middle-Indic sound shift. Nom./acc. sg. neuter -aṁ agreeing with maṅgalaṁ.",
+      "notes": "Carries both senses at once: 'first' in sequence (recited at the outset) and 'foremost' in rank (highest of blessings)."
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "is, becomes",
+      "partOfSpeech": "verb",
+      "etymology": "Ardhamāgadhī hoi < Sanskrit bhavati ('is, becomes'); bh- weakens to h- and the ending -ti reduces to -i. 3rd person singular present.",
+      "notes": "The Śvetāmbara reading of this book; the variant recension reads 'havai' (also < bhavati). Sense is identical."
+    },
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "auspicious thing, blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṅgala = Sanskrit maṅgala ('the auspicious, a blessing'). Nom. sg. neuter, the predicate of hoi.",
+      "notes": "Echoes maṅgalaṇaṁ of the preceding line, closing the figure: 'of all blessings… the first blessing.'"
+    },
+    {
+      "token": ".",
+      "translit": "·",
+      "gloss": "verse-final stop (daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "Orthographic full-stop printed in the book marking the close of the cūlikā and of the whole mantra.",
+      "notes": "Not lexical; preserved verbatim per the book's punctuation."
+    }
+  ],
+  "literalTranslation": "[it] is the first auspicious thing.",
+  "idiomaticTranslation": "— this is the foremost auspiciousness of them all.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single half-line is the resolution of a sentence that has been building across the cūlikā: the previous line set up 'and of all auspicious things' (maṅgalaṇaṁ cha savvesiṁ), and here that genitive plural finally lands on its predicate — 'paḍhamaṁ hoi maṅgalaṁ', it is the first/foremost auspicious one. The whole grammatical weight of the verse rests on one adjective, paḍhamaṁ, which does double duty. Temporally it means 'first': the namaskāra is what a Jain utters before anything else — before worship, before the day, before any undertaking. Hierarchically it means 'foremost': not merely one blessing among the savva ('all') already named, but the source-blessing from which the auspiciousness of the others is reckoned. The verb hoi is quietly important too — the mantra does not merely 'have' auspiciousness, it 'becomes/is' maṅgala itself; the act of homage and the blessing are identified, not related as cause to distant effect. Notice the deliberate ring-composition: maṅgalaṁ here answers maṅgalaṇaṁ there, so the cūlikā closes on the very word it was turning over, sealing the claim by repetition. After eight lines of bowing and of naming sin's destruction, the mantra ends not on the worshipper's effort but on a serene declarative: this simply is the first of all good things.",
+    "doctrinalContext": "The verse crystallises the Jain understanding of maṅgala as something one enacts rather than receives. Where many traditions seek auspiciousness from an external deity or omen, here the foremost maṅgala is the pañca-namaskāra — reverence directed at spiritual states and qualities (the five Parameṣṭhins), not at any named god. Calling it paḍhamaṁ ranks reverence itself above every ritual, gift, or sign a layperson might count as lucky: the inner act of homage outranks all outer fortune. This is why the line functions doctrinally as the mantra's self-warrant — it tells the reciter why the preceding bows matter and why this text, above all others, opens every observance.",
+    "practicalRelevance": "A reciter can let this closing line reframe what 'auspicious' means: not waiting for a lucky moment but making one, by beginning each task, journey, or decision with the Navkar. Dwelling on paḍhamaṁ at the very end turns the mantra's conclusion back into a beginning — the cue to carry it into the next undertaking.",
+    "crossReferences": [
+      {
+        "text": "Navkar Mantra, cūlikā line 'maṅgalāṇaṁ cha savvesiṁ paḍhamaṁ havai/hoi maṅgalaṁ'",
+        "source": "Namokar Mantra, Wikipedia"
+      },
+      {
+        "text": "Maṅgala as the foremost auspiciousness of the pañca-namaskāra",
+        "source": "JAINA, 'The Namokar Mantra'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Text and standard meaning of the cūlikā line; havai/hoi variant readings."
+    },
+    {
+      "title": "The Namokar Mantra — Prayer of the Jain Religion (JAINA)",
+      "url": "https://www.jaina.org/general/custom.asp?page=NamokarMantra",
+      "type": "translation",
+      "consultedFor": "Rendering of 'paḍhamaṁ … maṅgalaṁ' as the foremost/first auspiciousness."
+    },
+    {
+      "title": "Namokar Mantra — Jainworld",
+      "url": "https://jainworld.com/education/jain-education-material/beginner-level/namokar-mantra/",
+      "type": "translation",
+      "consultedFor": "Line-by-line gloss of the concluding maṅgala verses."
+    },
+    {
+      "title": "Navkar Mantra in the Jain Tradition — Meaning and Purport",
+      "url": "https://culturalsamvaad.com/navkar-mantra-in-the-jain-tradition-meaning-and-purport/",
+      "type": "commentary",
+      "consultedFor": "Sense of paḍhamaṁ as 'first and foremost' and the cūlikā's devotional purport."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "Verse is the final half-line of the cūlikā and grammatically completes the preceding line 'maṅgalaṇaṁ cha savvesiṁ'. This book's reading is 'hoi' (હોઇ); other recensions read 'havai' — both < Sanskrit bhavati, no change in meaning. 'paḍhamaṁ' deliberately bears both 'first (in order)' and 'foremost (in rank)'; the translation keeps both. Punctuation/daṇḍa preserved verbatim per the book."
+}

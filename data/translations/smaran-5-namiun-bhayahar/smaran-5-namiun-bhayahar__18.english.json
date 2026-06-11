@@ -1,0 +1,166 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/18",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Saying Lord Pārśvanātha's name aloud calms every great danger — disease, drowning, fire, snakebite, robbers, foes, lions, elephants and war.",
+  "recitation": "roga jala jalaṇa visahara, corāri maïnda gaya raṇa bhayāiṁ; pāsajiṇa-nāma-saṅkittaṇeṇa pasamanti savvāiṁ.",
+  "wordByWord": [
+    {
+      "token": "રોગ",
+      "translit": "roga",
+      "gloss": "disease, sickness",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. roga (√ruj, 'to break/afflict'); Prakrit roga unchanged.",
+      "notes": "First item of the recapitulated danger-list; the leprosy/disease peril of vv.2–3."
+    },
+    {
+      "token": "જલ",
+      "translit": "jala",
+      "gloss": "water (i.e. the peril of drowning/flood)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jala, 'water'; here by metonymy the shipwreck/sea danger of vv.4–5.",
+      "notes": ""
+    },
+    {
+      "token": "જલણ",
+      "translit": "jalaṇa",
+      "gloss": "fire, blaze",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jalaṇa = Skt. jvalana (√jval, 'to blaze'); the forest-fire of vv.6–7.",
+      "notes": "Note the near-rhyme jala / jalaṇa — water set beside fire."
+    },
+    {
+      "token": "વિસહર",
+      "translit": "visahara",
+      "gloss": "venomous serpent (viṣadhara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit visahara = Skt. viṣa-dhara, 'venom-bearer'; the snakebite peril of vv.8–9.",
+      "notes": "Preface-glossed term; used here without re-definition."
+    },
+    {
+      "token": "ચોરારિ",
+      "translit": "corāri",
+      "gloss": "thieves and foes",
+      "partOfSpeech": "compound",
+      "etymology": "Dvandva: cora ('thief', Skt. cora) + ari ('enemy', Skt. ari); the bandit peril of vv.10–11 plus the hostile foe.",
+      "notes": "Two perils folded into one word for metrical economy."
+    },
+    {
+      "token": "મઇંદ",
+      "translit": "maïnda",
+      "gloss": "lion",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maïnda = Skt. mṛgendra, 'lord of beasts' (mṛga + indra); the lion extension of vv.12–15.",
+      "notes": "Verified via Pāia-sadda-mahaṇṇavo / Skt. mṛgendra."
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaya = Skt. gaja, 'elephant'; the rutting-elephant peril of vv.12–15.",
+      "notes": ""
+    },
+    {
+      "token": "રણ",
+      "translit": "raṇa",
+      "gloss": "battle, war",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. raṇa, 'combat'; the battle peril of vv.16–17.",
+      "notes": ""
+    },
+    {
+      "token": "ભયાઇં",
+      "translit": "bhayāiṁ",
+      "gloss": "fears, perils (plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhayāni, nom./acc. neut. pl. of bhaya, 'fear'; Prakrit -āiṁ for -āni.",
+      "notes": "Sums the eight/nine preceding nouns as 'these fears'."
+    },
+    {
+      "token": "પાસજિણ",
+      "translit": "pāsajiṇa",
+      "gloss": "Pārśva the Jina",
+      "partOfSpeech": "compound",
+      "etymology": "pāsa (Skt. pārśva) + jiṇa (Skt. jina, 'victor'); a tatpuruṣa naming the 23rd Tīrthaṅkara.",
+      "notes": "Genitive in sense ('of Pārśva-jina'), governing nāma."
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "name",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nāman, 'name'; here the holy name treated as efficacious sound.",
+      "notes": "Compounded with pāsajiṇa and saṅkittaṇa."
+    },
+    {
+      "token": "સંકિત્તણેણ",
+      "translit": "saṅkittaṇeṇa",
+      "gloss": "by the proclaiming aloud (saṅkīrtana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṅkittaṇa = Skt. saṅkīrtana (sam + √kīrt, 'to proclaim, praise'), instr. sg. -eṇa.",
+      "notes": "Audible utterance — distinct from silent smaraṇa; the verse's operative means."
+    },
+    {
+      "token": "પસમંતિ",
+      "translit": "pasamanti",
+      "gloss": "are stilled, subside, grow calm",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pasamanti = Skt. praśāmyanti (pra + √śam, 'to be quelled'), 3rd pl. pres.",
+      "notes": "Intransitive: the fears settle rather than being slain."
+    },
+    {
+      "token": "સવ્વાઇં",
+      "translit": "savvāiṁ",
+      "gloss": "all (of them)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit savvāiṁ = Skt. sarvāṇi, nom. neut. pl. of sarva, 'all'.",
+      "notes": "Totalizing word that seals the claim — no listed peril exempt."
+    }
+  ],
+  "literalTranslation": "Disease, water, fire, serpent, thieves-and-foes, lion, elephant, battle — [these] fears: by the proclaiming of the name of Pārśva the Jina, all are stilled.",
+  "idiomaticTranslation": "Disease, drowning, fire and venomous serpent; robbers and foes, the lion, the rutting elephant, and the clash of battle — every one of these terrors is wholly quelled by simply proclaiming aloud the name of Pārśva-jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "After seven danger-pairs each unfolded at leisure, verse 18 does the opposite: it compresses the whole catalogue into one breathless run — roga, jala, jalaṇa, visahara, corāri, maïnda, gaya, raṇa — eight perils (nine, if corāri is split) named without a single connective, piled so the line itself races like the dangers it invokes. The pivot is the instrumental nāma-saṅkittaṇeṇa: not the 'feet' (calaṇa) of the invocation-verses, nor silent recollection, but saṅkīrtana — the Name spoken, sounded, proclaimed aloud. The verb pasamanti ('they subside, are stilled') is intransitive: the fears are not slain or put to flight so much as simply settled, the way agitation settles into praśama (calm). And savvāiṁ — 'all of them' — seals the claim: nothing in the preceding litany is exempt. Where each earlier pair argued one rescue at a time, this verse asserts the whole by recapitulation, the gathering gāthā that lets the litany close before the hymn turns (v.19) to praise itself. Note the poet's economy: corāri folds thief (cora) and foe (ari) into one word, and maïnda (mṛgendra, 'lord of beasts') crowns the lion — the line deliberately crowded so its sound enacts dangers thronging, then all at once quelled by one uttered Name.",
+    "doctrinalContext": "The verse rests on nāma-smaraṇa raised to nāma-saṅkīrtana: the Jina's name is treated not as a mere label but as efficacious sound. Crucially, Jain devotion locates the power not in Pārśva acting — a liberated siddha does not intervene in the world — but in the purifying effect on the one who recites. Fear (bhaya) is a mode of mohanīya-driven agitation; praśama, its stilling, is itself a rung of the path. So 'all subside' is psychological and spiritual before it is circumstantial: the Name works by quieting the mind that magnifies every peril, which is precisely why the intransitive pasamanti, not a transitive 'destroys', is the right verb.",
+    "practicalRelevance": "At any moment of acute fear — sudden illness, an accident, a threat on the road — the reciter is taught to do exactly what the verse names: say Pārśva's name aloud, audibly, rather than merely think it. The deliberate shift from silent worry to vocal saṅkīrtana is itself the technique; the steadied breath and settled mind are the 'subsiding' the verse promises.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra vv.2–17 — the seven danger-pairs this verse gathers and recapitulates",
+        "source": "Mānatuṅgasūri (trad.), Bhayahara/Namiūṇa Stotra"
+      },
+      {
+        "text": "Upasargahara Stotra (4th Smaraṇa) — parallel Pārśva fear-removal ('visahara-phuliṅga-manta')",
+        "source": "trad. Bhadrabāhu; Nava Smaraṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara identified by the serpent-hood, and Dharaṇendra association, confirming the addressee of pāsajiṇa-nāma"
+    },
+    {
+      "title": "Mrigendra — definition (Wisdomlib Sanskrit/Marathi lexicon)",
+      "url": "https://www.wisdomlib.org/definition/mrigendra",
+      "type": "dictionary",
+      "consultedFor": "confirming maïnda = Skt. mṛgendra ('lord of beasts', lion)"
+    },
+    {
+      "title": "Jvalana — definition (Wisdomlib, incl. Jain usage)",
+      "url": "https://www.wisdomlib.org/definition/jvalana",
+      "type": "dictionary",
+      "consultedFor": "confirming jalaṇa = Skt. jvalana ('fire, blaze')"
+    },
+    {
+      "title": "Samkirtana / Saṅkīrtana — definition (Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/samkirtana",
+      "type": "dictionary",
+      "consultedFor": "confirming saṅkittaṇa = Skt. saṅkīrtana ('proclamation, praise aloud') vs. silent smaraṇa"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is the summary gāthā (v.18) that recapitulates the hymn's catalogue of great fears. Word-readings follow the supplied source verbatim (e.g. જલણ jalaṇa, મઇંદ maïnda). 'corāri' is parsed as a dvandva cora+ari (thief + foe); some recensions and reciters treat it as a single 'thieves-and-enemies' item, which shifts the peril count between eight and nine — the totalizing savvāiṁ ('all') is unaffected either way. AI-generated web summaries of this stotra were found unreliable (one conflated it with Naminātha and fabricated Devanāgarī lines); accordingly only per-word lexical meanings were taken from dictionaries and the doctrinal framing from the supplied knowledge base, not from those summaries. The pāsajiṇa-nāma compound carries an implicit genitive ('of Pārśva-jina'). pasamanti is intransitive ('subside'), deliberately not transitive 'destroys'."
+}

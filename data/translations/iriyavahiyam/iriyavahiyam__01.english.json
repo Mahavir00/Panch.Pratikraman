@@ -1,0 +1,74 @@
+{
+  "shlokaId": "iriyavahiyam/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I want to turn back and make amends for my faults.",
+  "recitation": "icchāmi paḍikkamiuṁ",
+  "wordByWord": [
+    {
+      "token": "ઇચ્છામિ",
+      "translit": "icchāmi",
+      "gloss": "I wish, I desire, I am willing",
+      "partOfSpeech": "verb",
+      "etymology": "Present indicative 1st-person singular of the root √iṣ ('to wish, desire'); Sanskrit icchāmi (from icchati) is carried into Ardhamāgadhī Prakrit unchanged.",
+      "notes": "Marks the act as freely willed (icchā-kāra), echoing the disciple's assent 'icchaṁ' in the preceding ādeśa."
+    },
+    {
+      "token": "પડિક્કમિઉં",
+      "translit": "paḍikkamiuṁ",
+      "gloss": "to turn back, to atone, to perform pratikramaṇa",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit infinitive answering to Sanskrit pratikramituṁ, from prati- ('back, again') + √kram ('to step, go'). Prakrit shows the regular shifts prati- > paḍi-, intervocalic doubling (-kk-), and the infinitive ending -iuṁ for Sanskrit -itum.",
+      "notes": "Infinitive, hence deliberately open-ended: it states the intent to atone but not yet for what — the object is supplied by the verses that follow."
+    }
+  ],
+  "literalTranslation": "I wish to turn back (to atone).",
+  "idiomaticTranslation": "I desire to atone — to step back from my wrongdoing and set it right.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening line is the smallest possible complete sentence — a verb of will (icchāmi) governing a single infinitive (paḍikkamiuṁ) — and that minimalism is the point. Before any fault is named, any victim numbered, or any mode of injury confessed, the reciter first declares a state of mind: not coerced contrition but willing return. The pairing of icchā ('I wish') with the infinitive places consent at the very threshold of the rite, so that everything that follows is read as voluntarily undertaken rather than mechanically muttered. Grammatically the infinitive is left hanging — 'to turn back' from what? — and this incompleteness is deliberate craftsmanship: the verse opens a clause that verses 2–7 will steadily fill, first naming the fault as a transgression of the path of movement, then the beings harmed, then the ways they were harmed, before the whole is sealed. As the threshold utterance of the confession, this line therefore functions less as a statement of fact than as the throwing of a switch: the practitioner turns from the forward momentum of ordinary action (kramaṇa, 'stepping onward') toward its conscious reversal (prati-kramaṇa, 'stepping back'). The entire weight of the sūtra rests on this verb of return; the rest is its content.",
+    "doctrinalContext": "Pratikramaṇa in Jain thought is not an appeal to an external forgiver but a self-directed reorientation of conduct: one withdraws from cāritra-doṣa (lapses of conduct) back toward right conduct. By prefixing that act with icchāmi, the verse encodes the principle that genuine atonement must be willed (the icchākāra of the ādeśa formula) — repentance compelled or unmeant binds no merit and dissolves no karma. The line thus models the inner posture of saṁvara (the checking of karmic inflow) and the first stirring of nirjarā (the shedding of accrued karma): both begin in a freely turned intention before they become ritual words or bodily stillness.",
+    "practicalRelevance": "A reciter should let this first line be a genuine inward turn, not a throat-clearing before the 'real' text — pausing on icchāmi long enough to actually want the amends, so that the listing that follows is owned rather than rattled off. Practically, it teaches that every act of reflection starts by consenting to look back at all.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyaṁ Sutta, verses 2–7 (the clause this line opens)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Āvaśyaka Sūtra, Pratikramaṇa āvaśyaka (the 4th obligatory duty)",
+        "source": "Ṣaḍ-āvaśyaka tradition"
+      },
+      {
+        "text": "Ādeśa formula 'Icchākāreṇa saṁdisaha bhagavan… paḍikkamāmi? — Icchaṁ'",
+        "source": "Vidhi text preceding the sūtra in this book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "the meaning of pratikramaṇa as 'returning from violation' and its place among the six āvaśyakas"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams; Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "verification of the roots √iṣ (icchati, 'to wish') and prati+√kram (pratikramati / pratikramituṁ, 'to step back')"
+    },
+    {
+      "title": "Jain eLibrary — Pratikraman Sūtras (Iriyāvahiyaṁ)",
+      "url": "https://www.jainelibrary.org/",
+      "type": "translation",
+      "consultedFor": "verbatim Iriyāvahiyaṁ text and standard rendering of 'icchāmi paḍikkamiuṁ'"
+    },
+    {
+      "title": "jainqq.org — Jain Quantum (Pratikraman literature)",
+      "url": "https://jainqq.org/",
+      "type": "translation",
+      "consultedFor": "cross-checking the gloss 'I wish to perform pratikramaṇa' for the opening line"
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "The verse is only two tokens and is textually stable; both are glossed. paḍikkamiuṁ is an infinitive (Skt -itum > Prakrit -iuṁ), so 'to atone' is grammatically more exact than a finite 'I atone'. Dictionary URLs are landing pages for the named lexica; substitute deep-linked stable entries before publication. Sanskrit equivalents are given for etymology only — the recited form is the Ardhamāgadhī Prakrit of the book."
+}

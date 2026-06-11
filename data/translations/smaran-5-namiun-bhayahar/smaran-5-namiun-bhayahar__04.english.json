@@ -1,0 +1,142 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a storm at sea so violent that the towering waves roar terrifyingly and even the ship's own sailors, frozen with panic, let go of the helm.",
+  "recitation": "duvvāya-kkhubhia-jalanihi | uppabhaḍa-kallola-bhīsaṇārāve || saṁbhanta-bhaya-visaṁṭhula | nijjāmaya-mukkavāvāre ||",
+  "wordByWord": [
+    {
+      "token": "દુવ્વાય",
+      "translit": "duvvāya",
+      "gloss": "by a foul / contrary gale",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit duvvāya < Skt durvāta (dur- 'evil, bad' + vāta 'wind'); the storm-wind that drives the disaster.",
+      "notes": "First member of the line-1 compound; the causal force that churns the sea."
+    },
+    {
+      "token": "ક્ખુભિઅ",
+      "translit": "kkhubhia",
+      "gloss": "churned, agitated, thrown into turmoil",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit khubhia < Skt kṣubhita, past participle of √kṣubh 'to be shaken/agitated'; word-initial doubling (kkh-) is the book's verbatim sandhi.",
+      "notes": "Qualifies jalanihi — the ocean is what has been churned."
+    },
+    {
+      "token": "જલનિહિ",
+      "translit": "jalanihi",
+      "gloss": "the ocean (lit. water-treasury)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jalanihi < Skt jala-nidhi ('jala' water + 'nidhi' receptacle/treasure), a standard kenning for the sea.",
+      "notes": "duvvāya-kkhubhia-jalanihi = 'the sea churned by foul gales' — itself the source of the waves named next."
+    },
+    {
+      "token": "ઉપ્ભડ",
+      "translit": "uppabhaḍa",
+      "gloss": "towering, fierce, formidable",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ubbhaḍa / uppabhaḍa < Skt udbhaṭa 'prominent, towering, terrible'.",
+      "notes": "Qualifies kallola — the waves are towering."
+    },
+    {
+      "token": "કલ્લોલ",
+      "translit": "kallola",
+      "gloss": "great waves, surging billows",
+      "partOfSpeech": "noun",
+      "etymology": "Skt/Prakrit kallola 'large wave, billow, surge'.",
+      "notes": "uppabhaḍa-kallola = 'the towering billows' whose roar terrifies."
+    },
+    {
+      "token": "ભીસણારાવે",
+      "translit": "bhīsaṇārāve",
+      "gloss": "in [a sea] of terrifying roar",
+      "partOfSpeech": "compound",
+      "etymology": "bhīsaṇa (< Skt bhīṣaṇa 'terrifying') + ārāva (< Skt ā-√rā 'loud roar, din'); locative singular -e closing the whole line-1 bahuvrīhi.",
+      "notes": "The locative -e governs the entire compound: 'on [the sea] which has the terrifying roar of the towering billows of the ocean churned by foul gales.' Note: there is no main verb here — line 1 is pure scene-setting in the locative."
+    },
+    {
+      "token": "સંભંત",
+      "translit": "saṁbhanta",
+      "gloss": "panic-stricken, reeling, whirling in confusion",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit saṁbhanta < Skt sambhrānta 'agitated, bewildered, thrown into a whirl'.",
+      "notes": "Begins line 2's locative compound describing the sailors."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear, terror",
+      "partOfSpeech": "noun",
+      "etymology": "Skt/Prakrit bhaya 'fear' (√bhī).",
+      "notes": "saṁbhanta-bhaya = 'whirling/sudden terror' — the cause of the helmsmen's collapse."
+    },
+    {
+      "token": "વિસંઠુલ",
+      "translit": "visaṁṭhula",
+      "gloss": "unsteady, faltering, paralyzed, undone",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit visaṁṭhula < Skt visaṁsthula 'tottering, unsteady, out of composure' (vi- + saṁsthula).",
+      "notes": "Predicated of the niryāmaka — the steersmen have lost their footing/composure."
+    },
+    {
+      "token": "નિજ્જામય",
+      "translit": "nijjāmaya",
+      "gloss": "helmsmen, steersmen, ship-pilots",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nijjāmaya < Skt niryāmaka 'one who steers a ship, helmsman, pilot' (nir- + √yam 'to guide/control').",
+      "notes": "The rhetorical pivot: the very professionals on whom the passengers' lives depend are themselves undone."
+    },
+    {
+      "token": "મુક્કવાવારે",
+      "translit": "mukkavāvāre",
+      "gloss": "with [their] tasks let go / duties abandoned",
+      "partOfSpeech": "compound",
+      "etymology": "mukka (< Skt mukta 'released, let go') + vāvāra (< Skt vyāpāra 'occupation, function, work'); locative singular -e closing line 2's bahuvrīhi.",
+      "notes": "'…where the steersmen, reeling with sudden terror, have dropped their work (let the helm/oars fall).' Like line 1, this whole line is a locative circumstance awaiting the main clause — which arrives only in v.5."
+    }
+  ],
+  "literalTranslation": "On the ocean churned by foul gales, [terrible] with the terrifying roar of its towering billows; [there,] where the helmsmen, reeling and unsteady with sudden terror, have let go of all their work —",
+  "idiomaticTranslation": "On a sea lashed to fury by contrary gales, where mountainous waves break with a terrifying roar, and even the helmsmen — reeling, undone by sudden panic — have let the oars fall from their hands…",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is deliberately a sentence without a subject or a finite verb: both lines are sustained locative compounds (…bhīsaṇārāve … mukkavāvāre, 'on the sea where…, where the sailors…'), and the listener is left hanging in the danger until the very next verse supplies the rescue (the undamaged ships reach shore, for those who bow to Pārśva's feet). The suspension is the poet's craft, not a defect: he holds the reciter inside the terror so that the deliverance of v.5 lands with full force. Watch the controlled escalation. Line 1 climbs the chain of cause and effect — foul wind (duvvāya) churns the ocean (kkhubhia-jalanihi), the churning throws up towering waves (uppabhaḍa-kallola), the waves assault the ear with a terrifying roar (bhīsaṇārāve): wind to water to wave to sound, each member feeding the next. Line 2 then turns from the sea to the human response, and chooses the sharpest possible image of helplessness: not the passengers but the niryāmaka — the trained steersman, the one competent hand aboard — is himself saṁbhanta (whirling in panic) and visaṁṭhula (unstrung), and has dropped his very work (mukka-vāvāra). When expert skill itself collapses, no worldly resource is left. That vacuum is exactly the space the stotra fills.",
+    "doctrinalContext": "Shipwreck is the second of the catalogued great perils (mahābhaya), and the verse states the precondition under which smaraṇa proves its power: not when human means still work, but when they have wholly failed (the helmsman has abandoned the helm). The danger is concrete and literal here, yet the image inevitably carries the bhava-sāgara resonance dear to Jain teaching — the storm-tossed ocean of saṁsāra that no one's own steering can cross — so that taking refuge in the Jina's feet (named in v.5) reads at once as physical rescue and as the soul's only sure passage. The accent falls on dependence: deliverance comes not from one's competence but from remembrance of Pārśva.",
+    "practicalRelevance": "Recite this verse for the moment when control is gone — when the people who 'should' be able to fix things are themselves overwhelmed. It trains the reciter not to despair when expertise fails, but to steady the mind precisely there and turn it toward Pārśva, completing the thought in v.5 rather than stopping inside the fear.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa/Bhayahara Stotra v.5 (avidalia-jāṇavattā… pāventi icchiyaṁ kūlaṁ) — the grammatical and devotional completion of this verse: the ships reach the desired shore",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namiūṇa/Bhayahara Stotra v.18 — the summary verse listing 'water' (jala) among the perils stilled by Pārśva's name",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara to whom the fear-removing hymn is addressed"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "glosses for niryāmaka ('helmsman/steersman/pilot'), kṣubhita ('agitated/churned'), visaṁsthula ('unsteady, tottering'), vyāpāra ('occupation/work')"
+    },
+    {
+      "title": "kallola — Wiktionary",
+      "url": "https://en.wiktionary.org/wiki/kallola",
+      "type": "dictionary",
+      "consultedFor": "gloss for kallola ('large wave, surging billow')"
+    },
+    {
+      "title": "Bhaktamara Stotra — Wikipedia (on Ācārya Mānatuṅga)",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "the fear-remover stotra tradition attributed to Mānatuṅga, the genre context of this hymn"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This verse is syntactically incomplete on its own: both lines are locative-case bahuvrīhi compounds (…bhīsaṇārāve, …mukkavāvāre) with no finite verb or subject; the main clause is delivered in v.5. Renderings that supply a verb here are interpretive. Spellings follow the source book verbatim (e.g. word-initial doubling in 'ક્ખુભિઅ', 'મુક્ક-'; 'નિજ્જામય'); other recensions read uvvāya/duvvāya and ubbhaḍa/uppabhaḍa, and some print 'visaṁthula'. visaṁṭhula (Skt visaṁsthula 'unsteady/undone') is a rarer item; the gloss is well supported by the lexica but the exact shade ('paralyzed' vs 'reeling') is interpretive. The compound-internal word-divisions printed in the book are followed as given."
+}

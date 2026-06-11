@@ -1,0 +1,170 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May all be well! — the holy community is the Lord's war-chariot: good conduct is its raised flag, austerity and self-discipline are its galloping horses, and the joyful sound of sacred study is its triumphant peal.",
+  "recitation": "bhaddaṁ sīla-paḍāg(u)ssiyassa, tava-niyama-turaya-juttassa | saṅgha-rahassa bhagavao, sijjāya-sunandi-ghosassa ||",
+  "wordByWord": [
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "welfare! / auspiciousness!",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhadda < Sanskrit bhadra ('good, blessed'); the accusative/nominative bhadram used as a benedictory exclamation.",
+      "notes": "The benediction that governs the whole verse: every following genitive ('…-ssa') depends on it — 'welfare TO the chariot…'."
+    },
+    {
+      "token": "સીલ",
+      "translit": "sīla",
+      "gloss": "moral conduct / discipline",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīla < Sanskrit śīla ('character, virtuous conduct'); first member of the compound sīla-paḍāga.",
+      "notes": "Here the 'banner' material of the chariot — conduct held aloft for all to see."
+    },
+    {
+      "token": "પડાગુ",
+      "translit": "paḍāgu",
+      "gloss": "banner / flag",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍāgā < Sanskrit patākā ('flag, banner'). The final -u carries into the sandhi paḍāg(a)-ussiya.",
+      "notes": "patākā is standardly a banner/flag (Wisdom Library, Sanskrit dictionary)."
+    },
+    {
+      "token": "સિયસ્સ",
+      "translit": "(us)siyassa",
+      "gloss": "of [that whose banner is] hoisted / raised",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ussiya < Sanskrit ucchrita ('raised, hoisted up'), genitive sg. -assa (< -asya).",
+      "notes": "The book splits પડાગુ સિયસ્સ orthographically; read together as paḍāg-ussiyassa = 'of [the chariot] whose śīla-banner is raised high.' The genitive marks it as an epithet of the chariot."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity (tapa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava < Sanskrit tapas ('ascetic heat, austerity').",
+      "notes": "First of the paired draught-animals; glossed in the preface."
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "restraint / binding vow",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ni + √yam ('to hold, curb'); niyama = 'restriction, self-imposed observance.'",
+      "notes": "Paired with tava as the chariot's two horses."
+    },
+    {
+      "token": "તુરય",
+      "translit": "turaya",
+      "gloss": "horse / swift steed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit turaya < Sanskrit turaga ('the swift-goer,' tura + ga = 'going quickly') = horse.",
+      "notes": "turaga = horse (Wisdom Library, Sanskrit/Purāṇic dictionary)."
+    },
+    {
+      "token": "જુત્તસ્સ",
+      "translit": "juttassa",
+      "gloss": "of [the chariot] yoked / harnessed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit jutta < Sanskrit yukta (past part. of √yuj, 'to yoke, join'), genitive sg. -assa.",
+      "notes": "Completes the compound tava-niyama-turaya-juttassa = 'yoked with the horses of austerity and restraint.'"
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the four-fold community (saṅgha)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit saṁ + √han / √h(ṛ) → saṅgha ('assembly, congregation'); preface glossary term.",
+      "notes": "First member of saṅgha-raha = 'the chariot that is the Saṅgha.'"
+    },
+    {
+      "token": "રહસ્સ",
+      "translit": "rahassa",
+      "gloss": "of the chariot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raha < Sanskrit ratha ('war-chariot'), genitive sg. -assa (< rathasya).",
+      "notes": "The governing image of this verse. (Read raha-ssa = rathasya; not rahasya 'secret.')"
+    },
+    {
+      "token": "ભગવઓ",
+      "translit": "bhagavao",
+      "gloss": "of the Blessed One / the Lord (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhagavao < Sanskrit bhagavataḥ, genitive sg. of bhagavant ('possessing bhaga — fortune, majesty').",
+      "notes": "The chariot belongs to Bhagavān Mahāvīra — it is HIS vehicle that the Saṅgha embodies."
+    },
+    {
+      "token": "સિજ્જાય",
+      "translit": "sijjāya",
+      "gloss": "sacred study (svādhyāya / sajjhāya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjāya / sajjhāya < Sanskrit svādhyāya ('self-recitation, scriptural study'); su + adhyāya.",
+      "notes": "Book's verbatim spelling સિજ્જાય (a recognized variant of સિજ્ઝાય); preface glossary term."
+    },
+    {
+      "token": "સુનંદિ",
+      "translit": "sunandi",
+      "gloss": "auspicious gladness / the glad peal",
+      "partOfSpeech": "compound",
+      "etymology": "su- ('good, auspicious') + nandi (< √nand, 'to rejoice'; also 'a joyous sound / the auspicious instrument-peal').",
+      "notes": "A deliberate echo of the Nandī-sūtra itself — the 'glad sound' that is this very hymn's source."
+    },
+    {
+      "token": "ઘોસસ્સ",
+      "translit": "ghosassa",
+      "gloss": "of the peal / resounding proclamation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ghosa < Sanskrit ghoṣa ('loud sound, proclamation, the chanting of mantras'), genitive sg. -assa.",
+      "notes": "ghoṣa = a loud sound / the loud enchanting of mantras (Wisdom Library). Forms sijjāya-sunandi-ghosa = 'the auspicious peal of sacred study' — the chariot's victory-cry."
+    }
+  ],
+  "literalTranslation": "Welfare! — to the Blessed One's chariot that is the Saṅgha: whose banner of moral conduct is hoisted high, that is yoked to the horses of austerity and restraint, [and that resounds] with the auspicious peal of sacred study.",
+  "idiomaticTranslation": "May there be welfare and victory! — for the holy Saṅgha, the war-chariot of the Lord Mahāvīra: its banner of pure conduct flies high, its swift horses are austerity and self-restraint, and it rolls forward to the glad, triumphant peal of sacred study.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having ridden the irresistible Saṅgha-wheel of the previous verse, the hymn now mounts the full chariot. The whole stanza is one benediction — bhaddaṁ ('welfare!') — followed by a cascade of genitives, every epithet hanging on that single blessing: welfare TO this chariot, AND that one, AND the Lord's own. The rūpaka assembles a complete war-chariot from three parts. Its flag is sīla (moral conduct), 'hoisted high' (ussiya) so that the community's discipline is visible and proud, a rallying standard. Its motive power is a matched pair of horses, tava and niyama (austerity and restraint), 'yoked' (jutta) — the ascetic effort that actually drives the Saṅgha forward across the battlefield of saṁsāra. And its sound is the sijjāya-sunandi-ghosa, the 'auspicious peal of sacred study' — the rumbling, triumphant battle-cry of svādhyāya. The chariot is not the reciter's own; it is bhagavao, the Blessed One's: the Saṅgha is Mahāvīra's vehicle, carrying his teaching into victory. Note the self-referential wit of sunandi-ghosa: the 'glad sound' names the Nandī-sūtra from which this very hymn is drawn, so the chant the reciter is performing IS the chariot's peal. The image advances cleanly from wheel (v.5) toward the lotus that follows (v.7): from the single victorious wheel, to the assembled vehicle of conduct-and-discipline, before the hymn turns to purity risen above the karmic flood.",
+    "doctrinalContext": "The three chariot-parts map a working monastic life onto the Jain path. sīla is right conduct (cāritra) made public and steady; tapa and niyama together are the engine of self-purification — tapa being the burning-off of karma. Crucially, svādhyāya (the chariot's 'sound') is itself reckoned a form of tapa in Jain doctrine: it is one of the six abhyantara (internal) austerities, not a mere accessory. So the verse quietly shows tapa working on two levels — as the horses that pull and as the proclamation that announces — uniting outward discipline, inward effort, and the preservation of śruta (scripture) in one moving whole. A chariot needs all three at once: a standard to follow, power to move, and a voice to lead; conduct, austerity-restraint, and study are inseparable in the same way.",
+    "practicalRelevance": "The reciter is not merely describing the chariot's peal — by chanting this sajjhāya within the Pākṣika, he or she IS sounding it. The verse turns study-recitation into participation: your svādhyāya is the very battle-cry that drives the Saṅgha's chariot. It invites a self-check — is my 'banner' of conduct actually raised, are austerity and restraint genuinely yoked and pulling, or is only the sound present without the horses?",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening maṅgala / Saṅgha-stuti (the chariot gāthā)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi Kṣamāśramaṇa redaction"
+      },
+      {
+        "text": "Svādhyāya counted among the six internal austerities (abhyantara-tapa) — Tattvārtha-sūtra 9.20",
+        "source": "Umāsvāti, Tattvārtha-sūtra (numbering per Śvetāmbara recension)"
+      },
+      {
+        "text": "Chariot/horse imagery for the disciplined self and the path",
+        "source": "Uttarādhyayana-sūtra (e.g. the disciplined-mind/chariot motif)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Patākā — definitions (Sanskrit dictionary: 'flag, banner')",
+      "url": "https://www.wisdomlib.org/definition/pataka",
+      "type": "dictionary",
+      "consultedFor": "Gloss of પડાગુ / paḍāga = patākā, 'banner/flag'"
+    },
+    {
+      "title": "Turaga — definitions ('horse, swift steed')",
+      "url": "https://www.wisdomlib.org/definition/turaga",
+      "type": "dictionary",
+      "consultedFor": "Gloss of તુરય / turaya = turaga, 'horse'"
+    },
+    {
+      "title": "Ghoṣa — definitions ('loud sound, proclamation, chanting of mantras')",
+      "url": "https://www.wisdomlib.org/definition/ghosha",
+      "type": "dictionary",
+      "consultedFor": "Gloss of ઘોસસ્સ / ghosa = ghoṣa, 'peal/proclamation'"
+    },
+    {
+      "title": "Svādhyāya — definitions ('self-study, recitation'; internal austerity)",
+      "url": "https://www.wisdomlib.org/definition/svadhyaya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of સિજ્જાય / sijjāya = svādhyāya and its status as abhyantara-tapa"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Orthography: the book splits પડાગુ સિયસ્સ, which read together is paḍāg(a)-ussiyassa = sīla-paḍāga-ucchrita-sya, 'of [the chariot] whose śīla-banner is hoisted'; the initial u- of ussiya is absorbed into the preceding -ગુ. The whole verse is a single benediction (bhaddaṁ) governing a chain of genitives in -assa/-ao. સિજ્જાય is the book's verbatim spelling (variant of સિજ્ઝાય) and is preserved un-normalized. sunandi-ghosa carries a deliberate double sense — 'auspicious glad-peal' and an echo of the Nandī-sūtra source. Exact tapa/niyama vs. niyama/turaya parsing and the precise Tattvārtha-sūtra verse-numbering can vary by recension; the chariot-part assignment (banner=sīla, horses=tava+niyama, sound=svādhyāya) is secure and matches the preface arc."
+}

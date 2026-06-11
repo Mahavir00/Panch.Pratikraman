@@ -1,0 +1,294 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/28",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Heavenly women, their faces beautifully decorated, bow their foreheads down to the Jina's feet and worship those feet again and again.",
+  "recitation": "devasundarīhiṁ pāyavandiāāhiṁ vandiyā ya jassa te suvikkamā kamā, appaṇo niḍālaehiṁ maṇḍaṇoḍaṇa-pagāraehiṁ, kehiṁ kehiṁ vi avaṅga-tilaya-pattaleha-nāmaehiṁ cillaehiṁ saṅgayaṁ gayāhiṁ, bhatti-sannividha vandaṇāgayāhiṁ huṁti, te vandiyā puṇo puṇo.",
+  "wordByWord": [
+    {
+      "token": "દેવસુંદરીહિં",
+      "translit": "devasundarīhiṁ",
+      "gloss": "by the celestial women",
+      "partOfSpeech": "noun",
+      "etymology": "deva ('god, celestial') + sundarī ('beautiful woman'); instrumental plural ending -hiṁ (Skt -bhiḥ).",
+      "notes": "The agent throughout this long instrumental clause; the goddesses are the ones doing the worship."
+    },
+    {
+      "token": "પાયવંદિઆઆહિં",
+      "translit": "pāyavandiāāhiṁ",
+      "gloss": "by those bowing at the feet",
+      "partOfSpeech": "compound",
+      "etymology": "pāya ('foot', Skt pāda) + vandiā ('bowing, venerating', Skt vandita); instr. pl. agreeing with devasundarīhiṁ.",
+      "notes": "Adjectival to the goddesses — 'foot-saluting women'. The doubled -āā- preserves the book's orthography."
+    },
+    {
+      "token": "વંદિયા",
+      "translit": "vandiyā",
+      "gloss": "are venerated",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle of vand- ('to bow, praise'), Skt vandita; nom. pl. agreeing with kamā ('feet').",
+      "notes": "Predicated of 'te kamā' — those feet are the thing venerated."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt ca, connective particle.",
+      "notes": ""
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun, genitive sing., Skt yasya.",
+      "notes": "Refers to the Jina (Ajita/Śānti) — 'whose feet…'."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative, nom. pl., Skt te.",
+      "notes": "Qualifies kamā ('those feet')."
+    },
+    {
+      "token": "સુવિક્કમા",
+      "translit": "suvikkamā",
+      "gloss": "of beautiful stride / invincible",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('well, beautiful') + vikkama ('stride, valour, prowess', Skt vikrama).",
+      "notes": "Bivalent: 'finely-striding' feet and, by play on Ajita, 'unconquerable' feet."
+    },
+    {
+      "token": "કમા",
+      "translit": "kamā",
+      "gloss": "feet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt krama ('step, foot'); nom. pl.",
+      "notes": "The object of all the goddesses' homage."
+    },
+    {
+      "token": "અપ્પણો",
+      "translit": "appaṇo",
+      "gloss": "their own",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reflexive, Skt ātmanaḥ ('of oneself'); here qualifying 'foreheads'.",
+      "notes": ""
+    },
+    {
+      "token": "નિડાલએહિં",
+      "translit": "niḍālaehiṁ",
+      "gloss": "with (their) foreheads",
+      "partOfSpeech": "noun",
+      "etymology": "niḍāla ('forehead', Skt lalāṭa/nidāla); instr. pl. -ehiṁ.",
+      "notes": "The forehead — the loftiest part of the body — is what they lower to the feet."
+    },
+    {
+      "token": "મંડણોડણ",
+      "translit": "maṇḍaṇoḍaṇa",
+      "gloss": "of adornment-decoration",
+      "partOfSpeech": "compound",
+      "etymology": "maṇḍaṇa ('ornamentation', Skt maṇḍana) compounded; first member of 'maṇḍaṇoḍaṇa-pagāraehiṁ'.",
+      "notes": "Orthographically irregular in the book (preserved verbatim); sense is 'modes of adornment'."
+    },
+    {
+      "token": "પગારએહિં",
+      "translit": "pagāraehiṁ",
+      "gloss": "with the kinds/manners",
+      "partOfSpeech": "noun",
+      "etymology": "Skt prakāra ('kind, manner'); instr. pl.",
+      "notes": "'With (foreheads bearing) various manners of decoration.'"
+    },
+    {
+      "token": "કેહિં",
+      "translit": "kehiṁ",
+      "gloss": "with some / which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Interrogative-indefinite, instr. pl., Skt kaiḥ.",
+      "notes": ""
+    },
+    {
+      "token": "કેહિં",
+      "translit": "kehiṁ",
+      "gloss": "with some (repeated) — i.e. all manner of",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reduplication of kehiṁ; reduplicated with vi yields 'whatever, every sort of'.",
+      "notes": "'kehiṁ kehiṁ vi' = 'with every conceivable kind of'."
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "even, also",
+      "partOfSpeech": "particle",
+      "etymology": "Skt api; here an indefinite marker with kehiṁ.",
+      "notes": ""
+    },
+    {
+      "token": "અવંગ",
+      "translit": "avaṅga",
+      "gloss": "the eye-corner streak",
+      "partOfSpeech": "noun",
+      "etymology": "Skt apāṅga — the cosmetic line drawn at the outer corner of the eye.",
+      "notes": "First of three named facial ornaments."
+    },
+    {
+      "token": "તિલય",
+      "translit": "tilaya",
+      "gloss": "the forehead mark (tilaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt tilaka — the auspicious dot/mark on the forehead.",
+      "notes": ""
+    },
+    {
+      "token": "પત્તલેહ",
+      "translit": "pattaleha",
+      "gloss": "the leaf-tracery design",
+      "partOfSpeech": "noun",
+      "etymology": "patta ('leaf', Skt patra) + leha ('line, streak', Skt lekhā) — leaf-shaped cosmetic patterns (patra-lekhā) drawn in musk/sandal paste.",
+      "notes": "Third named ornament; classical śṛṅgāra face-painting."
+    },
+    {
+      "token": "નામએહિં",
+      "translit": "nāmaehiṁ",
+      "gloss": "bearing the names (of)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt nāman ('name'); instr. pl. 'by-names'.",
+      "notes": "Binds the three preceding words: 'ornaments named avaṅga, tilaya, pattaleha'."
+    },
+    {
+      "token": "ચિલ્લએહિં",
+      "translit": "cillaehiṁ",
+      "gloss": "with the glittering (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "cilla ('shining, glittering', a Prakrit deśī/onomatopoeic stem); instr. pl.",
+      "notes": "Describes the sparkling forehead-ornaments."
+    },
+    {
+      "token": "સંગયં",
+      "translit": "saṅgayaṁ",
+      "gloss": "gracefully / harmoniously",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt saṅgata ('well-joined, fitting, graceful').",
+      "notes": "Adverbial to 'moving' — their gait is elegant and well-composed."
+    },
+    {
+      "token": "ગયાહિં",
+      "translit": "gayāhiṁ",
+      "gloss": "by those moving / who have come",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle of gam- ('to go'), Skt gata; instr. pl.",
+      "notes": "'Gracefully-moving women' — continuing the description of the goddesses."
+    },
+    {
+      "token": "ભત્તિ",
+      "translit": "bhatti",
+      "gloss": "devotion",
+      "partOfSpeech": "noun",
+      "etymology": "Skt bhakti ('loving devotion').",
+      "notes": "First member of 'bhatti-sannividha'."
+    },
+    {
+      "token": "સંનિવિઢ",
+      "translit": "sannividha",
+      "gloss": "steeped in / filled with",
+      "partOfSpeech": "adj",
+      "etymology": "Skt sanniviṣṭa ('settled-in, full of, intent upon').",
+      "notes": "'bhatti-sannividha' = 'wholly immersed in devotion'."
+    },
+    {
+      "token": "વંદણાગયાહિં",
+      "translit": "vandaṇāgayāhiṁ",
+      "gloss": "by those come to venerate",
+      "partOfSpeech": "compound",
+      "etymology": "vandaṇā ('veneration', Skt vandanā) + gayā ('gone/come', Skt gata); instr. pl.",
+      "notes": "'Women who have come for the act of homage.'"
+    },
+    {
+      "token": "હુંતિ",
+      "translit": "huṁti",
+      "gloss": "they are / they become",
+      "partOfSpeech": "verb",
+      "etymology": "Skt bhavanti ('they are'); 3rd person plural present.",
+      "notes": "Frames the women as 'being' devotion-filled venerators."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those (feet)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative, nom. pl., Skt te.",
+      "notes": "Resumes 'kamā' for the closing refrain."
+    },
+    {
+      "token": "વંદિયા",
+      "translit": "vandiyā",
+      "gloss": "are venerated",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle of vand-, Skt vandita; nom. pl.",
+      "notes": "Echoes the opening 'vandiyā', framing the verse."
+    },
+    {
+      "token": "પુણો",
+      "translit": "puṇo",
+      "gloss": "again",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt punaḥ ('again').",
+      "notes": ""
+    },
+    {
+      "token": "પુણો",
+      "translit": "puṇo",
+      "gloss": "and again",
+      "partOfSpeech": "adverb",
+      "etymology": "Reduplication of puṇo; 'puṇo puṇo' = 'again and again, repeatedly'.",
+      "notes": "Closes the stanza on inexhaustible, repeated homage."
+    }
+  ],
+  "literalTranslation": "And those finely-striding (invincible) feet of his are venerated by the celestial women who bow at the feet — women who, with their own foreheads bearing every manner of adornment, glittering ornaments by the names of avaṅga (eye-corner line), tilaka and pattra-lekhā (leaf-tracery), moving gracefully, come steeped in devotion to do homage; those feet are venerated again and again.",
+  "idiomaticTranslation": "The celestial women bow low at his feet — those feet of unconquerable, beautiful stride. Their own foreheads are arrayed in every kind of adornment: the glittering eye-corner streak, the tilaka, the delicate leaf-tracery of musk and sandal. Gliding forward with graceful step, brimming with devotion, they come to render homage — and so those feet are worshipped again and again.",
+  "elaboration": {
+    "verseByVerseCommentary": "Here the camera of the hymn lifts from the goddesses' bodies and jewelled gait (sketched in the preceding stanza) to their faces and the act of bowing itself. The poet names three specific cosmetics of classical śṛṅgāra — avaṅga (apāṅga, the line at the eye's outer corner), tilaya (the forehead tilaka), and pattaleha (patra-lekhā, leaf-shaped tracery painted in musk or sandal) — and calls them cilla, 'glittering'. The point is a deliberate spatial paradox: the forehead (niḍāla), the highest and most carefully ornamented part of a person, is brought down to touch the feet (kamā), the lowest. Beauty at its most studied prostrates before sanctity. The feet are 'suvikkama' — both 'of beautiful stride' and, punning on Ajita's name, 'invincible'; the strongest place to take refuge. Note the framing: the stanza opens with 'vandiyā' (are venerated) and closes with 'te vandiyā puṇo puṇo' (venerated again and again), enclosing the whole tableau in the single act of homage. The reduplications — 'kehiṁ kehiṁ vi', 'puṇo puṇo' — are not filler but the verse's engine: they convey both the endless variety of the women's ornament and the endlessness of their bowing. The verse thus completes the devasundarī portrait and hands directly to the next stanza, which drops description altogether and bows outright — 'taṁ ahaṁ jiṇacandaṁ… payao paṇamāmi' — so that the reciter, having watched the goddesses worship, now joins them.",
+    "doctrinalContext": "That the most exalted saṁsāric beings — the gods' own consorts — repeatedly prostrate before the Jina dramatizes a core Jain hierarchy: devas, however radiant, remain bound within the cycle of rebirth, while the Tīrthaṅkara stands beyond it. Worldly beauty and celestial power are shown finding their fulfilment only in surrender at the vītarāga's feet. The verse also enacts vandanā — formal veneration — as a devotional discipline: the 'puṇo puṇo' (repeatedly) mirrors the principle that homage is not a single gesture but a sustained practice, and the lowering of the adorned forehead images the dissolution of māna (pride), one of the four passions (kaṣāya).",
+    "practicalRelevance": "Reciting this stanza, the practitioner is invited to picture even goddesses bowing tirelessly and to imitate their attitude: bring your 'highest' — your pride, accomplishment, the carefully-presented self — down to the Jina's feet, and do so 'again and again' rather than once. It models humility and the steadiness of repeated devotion over a single dramatic act.",
+    "crossReferences": [
+      {
+        "text": "Bhaktāmara Stotra (vv. on suras/celestials worshipping the Jina) — the same trope of heavenly beings venerating the Jina's feet",
+        "source": "Mānatuṅgasūri, Bhaktāmara Stotra"
+      },
+      {
+        "text": "Ajitaśānti Stava, immediately preceding verse (pīṇa nirantara thaṇabhara… — the goddesses' bodies and ornaments) and following verse (taṁ ahaṁ jiṇacandaṁ… paṇamāmi)",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajit Shanti Stotra (Romanized) — full Prakrit recension",
+      "url": "https://jainqq.org/booktext/57_Ajit_Shanti_Stotra_Romanized/300530",
+      "type": "translation",
+      "consultedFor": "Verifying the verse text (devasundarīhiṁ … suvikkamā kamā … puṇo puṇo) and the devasundarī sequence."
+    },
+    {
+      "title": "Ajitshanti Stotram — digitized Prakrit text",
+      "url": "https://jainqq.org/booktext/Ajitshanti_Stotram/229326",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the stanza ordering and orthography of the celestial-women verses."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Etymologies of apāṅga (avaṅga), tilaka, patra-lekhā, krama, lalāṭa, vikrama, sanniviṣṭa."
+    },
+    {
+      "title": "Wisdom Library — entry 'apāṅga' (apanga)",
+      "url": "https://www.wisdomlib.org/definition/apanga",
+      "type": "dictionary",
+      "consultedFor": "Confirming avaṅga = apāṅga, the cosmetic line at the outer corner of the eye."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is one continuous instrumental clause: the goddesses (devasundarī…, in instrumental plural) venerate, and the main predication is 'te kamā vandiyā puṇo puṇo' ('those feet are venerated again and again'). 'maṇḍaṇoḍaṇa' (મંડણોડણ) is orthographically irregular and preserved verbatim from the book; it is read here as a maṇḍaṇa- ('adornment') compound qualifying 'pagāraehiṁ' ('kinds/manners'), but the exact second member is uncertain — variant recensions read it differently. 'avaṅga/tilaya/pattaleha-nāmaehiṁ' is taken as 'ornaments bearing the names avaṅga, tilaka, patra-lekhā'. 'suvikkamā' is rendered with its double sense (beautiful stride / invincible), consistent with the hymn's Ajita name-play. Whether this stanza belongs to the Ajita or Śānti side of the alternation is not fixed by the verse in isolation; the book's verse numbering (28) is followed."
+}

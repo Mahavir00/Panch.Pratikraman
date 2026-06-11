@@ -1,0 +1,150 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/21",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the modest teacher Bhūtadinna, who frees us from the fear of rebirth and who was the disciple of the sage Nāgārjuna.",
+  "recitation": "bhūyadiya appagabbhe, vandehaṁ bhūyadinna māyarie | bhava-bhaya-vucchēya-kare, sīse nāgajjuṇa risīṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ભૂયદિય",
+      "translit": "bhūyadiya",
+      "gloss": "devoted to the welfare of living beings (an honorific epithet that also echoes the name Bhūtadinna)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bhūya (< Skt. bhūta, 'living being') + diya, most plausibly < hita ('benefit, welfare'), giving bhūta-hita; the form puns on the teacher's own name Bhūta-dinna.",
+      "notes": "Resolution uncertain; see notes. Read as a qualifier of the ācārya named in the next line."
+    },
+    {
+      "token": "અપ્પગબ્ભે",
+      "translit": "appagabbhe",
+      "gloss": "unassuming, free of arrogance, modest",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit appagabbha < Skt. apragalbha ('not bold/forward'); a- (negation) + pragalbha ('bold, arrogant').",
+      "notes": "Locative/honorific form agreeing with māyarie. A second, secondary reading a-pra-gabbha (< a-garbha, 'beyond womb-rebirth') resonates with this verse's bhava-bhaya theme, but apragalbha is the attested sense."
+    },
+    {
+      "token": "વંદેહં",
+      "translit": "vandehaṁ",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vande (< Skt. √vand, 'to salute, praise') + emphatic/first-person particle -haṁ ('I do indeed bow').",
+      "notes": "The recurring devotional act of the hymn, here in its first-person form."
+    },
+    {
+      "token": "ભૂયદિન્ન",
+      "translit": "bhūyadinna",
+      "gloss": "Bhūtadinna (the teacher's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Bhūya-dinna < Skt. Bhūta-datta, 'given by the beings/devatās'; bhūta + dinna (< datta, 'given').",
+      "notes": "The Kālika-śruta vācaka honoured in this verse."
+    },
+    {
+      "token": "માયરિએ",
+      "translit": "māyarie",
+      "gloss": "the ācārya (preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit āyariya < Skt. ācārya ('teacher'); the initial m- is a euphonic/sandhi consonant linking it to the preceding name.",
+      "notes": "Accusative/honorific object of vandehaṁ."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, rebirth, saṁsāra",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit bhava (< √bhū, 'to become'); the cycle of becoming.",
+      "notes": "First member of the compound bhava-bhaya."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear, dread",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit bhaya (< √bhī, 'to fear').",
+      "notes": "bhava-bhaya = 'the fear of (continued) existence'."
+    },
+    {
+      "token": "વુચ્છેય",
+      "translit": "vucchēya",
+      "gloss": "cutting-off, severance, cessation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vucchēya / vocchea < Skt. vyucchēda ('cutting off, destruction'); vi- + ucchēda (< √chid, 'to cut').",
+      "notes": "Joined with kare to form 'who effects the cutting-off'."
+    },
+    {
+      "token": "કરે",
+      "translit": "kare",
+      "gloss": "the maker (of), one who effects",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kara < Skt. kara ('doer, maker', < √kṛ, 'to do'); here agreeing with māyarie.",
+      "notes": "bhava-bhaya-vucchēya-kare = 'who brings about the severing of the fear of rebirth'."
+    },
+    {
+      "token": "સીસે",
+      "translit": "sīse",
+      "gloss": "the disciple",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīsa < Skt. śiṣya ('pupil, disciple'); intervocalic and sibilant softening typical of Prakrit.",
+      "notes": "Identifies Bhūtadinna's place in the succession."
+    },
+    {
+      "token": "નાગજ્જુણ",
+      "translit": "nāgajjuṇa",
+      "gloss": "Nāgārjuna (the preceding teacher)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Nāgajjuṇa < Skt. Nāgārjuna; the conjunct -rj- assimilates to Prakrit -jj-.",
+      "notes": "The Jain vācaka Nāgārjuna of the Kālika-śruta line, not the Buddhist philosopher."
+    },
+    {
+      "token": "રિસીણં",
+      "translit": "risīṇaṁ",
+      "gloss": "of the sages (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit risi < Skt. ṛṣi ('seer, sage'); genitive plural -īṇaṁ < Skt. -īnām.",
+      "notes": "'Disciple of the Nāgārjuna sages' — i.e. of Nāgārjuna and his circle/line."
+    }
+  ],
+  "literalTranslation": "Devoted to the good of all beings and free of all arrogance — I bow to Ācārya Bhūtadinna, the maker of the cutting-off of the fear of worldly existence, the disciple of the Nāgārjuna sages.",
+  "idiomaticTranslation": "Ever bent on the welfare of living beings, and utterly without pride, I bow low to the preceptor Bhūtadinna — he who severs the dread of birth-and-death — the worthy disciple of the sage Nāgārjuna.",
+  "elaboration": {
+    "verseByVerseCommentary": "The homage now reaches Bhūtadinna, and the verse frames him by two inner qualities before it ever names a deed. He is appagabbha — apragalbha, unassuming, the opposite of the forward, self-displaying teacher; and bhūyadiya, bent on the good of living beings. That pairing is deliberate: greatness in this lineage is measured by humility turned outward into service, not by brilliance turned inward into pride. Only then is he named — bhūyadinna māyarie — and the slight pun between bhūyadiya and Bhūta-dinna ('given by the beings') lets the epithet and the name mirror each other, so the man's character and his name say the same thing. The third quarter gives his salvific function in a single tight compound, bhava-bhaya-vucchēya-kare: he is one who effects the very severance of saṁsāra's fear — not merely a soother of dread but its cutter, because the teaching he guards shows the way out of becoming altogether. The closing quarter fixes his place in the chain: sīse nāgajjuṇa risīṇaṁ, disciple of the sage Nāgārjuna, linking this verse backward to the Nāgārjunīya vācakas and forward (in v.22) to Lohitya. So in four feet the gāthā gives a complete portrait: two virtues, the name, the saving work, and the lineage-anchor."
+  },
+  "doctrinalContext": "The verse's doctrinal weight sits in bhava-bhaya-vucchēya-kara. Jain soteriology treats saṁsāra — the beginningless round of birth, death and rebirth — as the proper object of saṁvega, a wholesome dread that drives one toward liberation. The ācārya is praised not for removing fear by comfort but for severing its root: right knowledge of the kālika-śruta cuts the karmic bondage that makes rebirth, so the 'fear of existence' ends when existence-as-bondage ends. Bhūtadinna's two epithets encode the means: a-pragalbhatā (freedom from the pride that is itself a kaṣāya, a passion-fuelled fault) and bhūta-hita (compassionate orientation to all jīvas, the practical face of ahiṁsā). Thus humility and beings'-welfare are not mere ornaments but the conduct that fits a transmitter of liberating knowledge.",
+  "practicalRelevance": "Reciting this verse, the worshipper holds up a concrete template: revere the teacher less for cleverness than for two testable marks — freedom from arrogance and active care for others — and ask the same of oneself. The phrase bhava-bhaya invites a moment of saṁvega: feel the urgency of the round of rebirth, and turn that feeling, as Bhūtadinna's life did, into humble study and service rather than anxiety.",
+  "crossReferences": [
+    {
+      "text": "Nandī-sūtra, Sthavirāvalī (the gāthās naming the Kālika-śruta vācakas — Skandila, Nāgārjuna, Bhūtadinna, Lohitya)",
+      "source": "Devardhigaṇi Kṣamāśramaṇa redaction; Nandīsūtra, Jain Āgama corpus"
+    },
+    {
+      "text": "Concept of saṁvega / bhava-bhaya as motive for liberation",
+      "source": "Tattvārtha-sūtra tradition; standard Śvetāmbara doctrinal usage"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary)",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for appagabbha (apragalbha), vucchēya (vyucchēda), sīsa (śiṣya) and risi (ṛṣi)."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — apragalbha",
+      "url": "https://sanskritdictionary.com/apragalbha/9922/7",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit base apragalbha = 'not bold, modest, unassuming', underlying Prakrit appagabbha."
+    },
+    {
+      "title": "ISJS Prakrit Dictionary (English translation of Pāia-sadda-mahaṇṇavo)",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking Prakrit-to-Sanskrit equivalences for the verse's tokens."
+    },
+    {
+      "title": "Jain eLibrary — Nandī-sūtra (Nandīsūtra)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The Nandī-sūtra Sthavirāvalī and the placement of Bhūtadinna as a Kālika-śruta vācaka and disciple in the Nāgārjuna line."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Verse-specific caveats: (1) bhūyadiya is the least certain token — its second member diya is read here as < hita ('welfare'), giving bhūta-hita ('benefactor of beings'), an epithet that puns on the name Bhūtadinna; a reading via dayā ('compassion') or dīpta ('radiant') is conceivable but less well supported, so the gloss is offered as probable, not settled. (2) appagabbhe is taken as apragalbha ('modest'); a thematically resonant minority reading a-garbha ('free of womb-rebirth') is noted but not adopted. (3) The m- of māyarie is a euphonic/sandhi consonant on āyariya (ācārya), not a root element. (4) nāgajjuṇa here denotes the Jain vācaka Nāgārjuna of the Kālika-śruta succession, not the Mādhyamika Buddhist philosopher; risīṇaṁ is genitive plural, hence 'of the Nāgārjuna sages/line'. (5) Per book-fidelity rules the recited mātrās, anusvāras and conjuncts follow the source verbatim and have not been normalized."
+}

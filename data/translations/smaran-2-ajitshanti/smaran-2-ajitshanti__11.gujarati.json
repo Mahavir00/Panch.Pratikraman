@@ -1,0 +1,416 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/11",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "આ ગાથા જણાવે છે કે શ્રી શાંતિનાથ ભગવાન તીર્થંકર બનતાં પહેલાં હસ્તિનાપુરના રાજા અને છ ખંડના સ્વામી ચક્રવર્તી હતા — ૭૨,૦૦૦ નગર, ૩૨,૦૦૦ રાજા, ૧૪ રત્ન, ૯ નિધિ અને અપાર વૈભવના ધણી હતા.",
+  "recitation": "કુરુ જણવય હત્થિણાઉર નરીસરો, પઢમં તઓ મહા ચક્કવટ્ટિ ભોએ; મહપ્પભાવો, જો બાવત્તરિ પુરવર સહસ્સ વર નગર નિગમ જણવય વઇ, બત્તીસા રાયવર સહસ્સાણુયાયમગ્ગો; ચઉદસ વરરયણ નવ મહાનિહિ, ચઉસઢિ સહસ્સ પવર જુવઇણ સુંદરવઇ, ચુલસી હય ગય રહ સય સહસ્સ સામી, છન્નવઇ ગામકોડિ સામી આસિ જો ભારહમ્મિ ભયવં.",
+  "wordByWord": [
+    {
+      "token": "કુરૂ",
+      "translit": "kurū",
+      "gloss": "કુરુ (દેશ/વંશ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kuru — ઉત્તર ભારતનો પ્રસિદ્ધ કુરુ-જનપદ",
+      "notes": "આગળના 'જણવય' સાથે જોડાઈ 'કુરુ-દેશ' અર્થ આપે છે"
+    },
+    {
+      "token": "જણવય",
+      "translit": "jaṇavaya",
+      "gloss": "જનપદ, દેશ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. jaṇavaya < સં. janapada (jana + pada)",
+      "notes": ""
+    },
+    {
+      "token": "હત્થિણા",
+      "translit": "hatthiṇā",
+      "gloss": "હસ્તિ(નાપુર) — નગરનામનો પૂર્વાંશ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. hatthiṇāura < સં. hastināpura (hastin 'હાથી' + pura 'નગર')",
+      "notes": "પુસ્તકમાં 'હત્થિણા ઉર' એમ સંધિ-છૂટું છપાયું છે; બંને મળી 'હસ્તિનાપુર'"
+    },
+    {
+      "token": "ઉર",
+      "translit": "ura",
+      "gloss": "-પુર (નગર); હસ્તિણા+ઉર = હસ્તિનાપુર",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. -ura < સં. -pura, 'નગર'",
+      "notes": ""
+    },
+    {
+      "token": "નરીસરો",
+      "translit": "narīsaro",
+      "gloss": "નરેશ્વર, મનુષ્યોના સ્વામી — રાજા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. nara 'મનુષ્ય' + īśvara 'સ્વામી' = narīśvara/nareśvara",
+      "notes": "કુરુ-દેશ ને હસ્તિનાપુરના રાજા તરીકે શાંતિનાથનું વર્ણન"
+    },
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "પ્રથમ, પહેલાં",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. paḍhama < સં. prathama",
+      "notes": "પ્રથમ રાજા, પછી ચક્રવર્તી — ક્રમ-સૂચક"
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "ત્યારબાદ, પછી",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. tao < સં. tataḥ",
+      "notes": ""
+    },
+    {
+      "token": "મહા",
+      "translit": "mahā",
+      "gloss": "મહાન, મહા-",
+      "partOfSpeech": "adj",
+      "etymology": "સં. mahat/mahā",
+      "notes": ""
+    },
+    {
+      "token": "ચક્કવટ્ટિ",
+      "translit": "cakkavaṭṭi",
+      "gloss": "ચક્રવર્તી, ષટ્-ખંડાધિપતિ સમ્રાટ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. cakkavaṭṭi < સં. cakravartin (cakra 'ચક્ર' + vartin 'ફેરવનાર')",
+      "notes": ""
+    },
+    {
+      "token": "ભોએ",
+      "translit": "bhoe",
+      "gloss": "ભોગ, ઐશ્વર્ય-સુખ (ભોગવ્યા)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. bhoa < સં. bhoga (√bhuj 'ભોગવવું')",
+      "notes": "'મહા ચક્કવટ્ટિ ભોએ' = મહાન ચક્રવર્તીના ભોગ-વૈભવ"
+    },
+    {
+      "token": "મહપ્પભાવો",
+      "translit": "mahappabhāvo",
+      "gloss": "મહા-પ્રભાવ-શાળી, મહાન સામર્થ્યવાળા",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. < સં. mahā-prabhāva (mahā + prabhāva 'તેજ/સામર્થ્ય')",
+      "notes": ""
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "જે (સંબંધવાચક)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. jo < સં. yaḥ",
+      "notes": "આખા વર્ણન-સમૂહને શાંતિનાથ સાથે જોડતું સંબંધ-સર્વનામ"
+    },
+    {
+      "token": "બાવત્તરિ",
+      "translit": "bāvattari",
+      "gloss": "બોંતેર (૭૨)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. bāvattari < સં. dvāsaptati",
+      "notes": ""
+    },
+    {
+      "token": "પુરવર",
+      "translit": "puravara",
+      "gloss": "ઉત્તમ નગરો",
+      "partOfSpeech": "compound",
+      "etymology": "સં. pura 'નગર' + vara 'શ્રેષ્ઠ'",
+      "notes": "બાવત્તરિ પુરવર સહસ્સ = ૭૨,૦૦૦ ઉત્તમ નગર"
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "હજાર",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sahassa < સં. sahasra",
+      "notes": ""
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "શ્રેષ્ઠ, ઉત્તમ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. vara (√vṛ)",
+      "notes": ""
+    },
+    {
+      "token": "નગર",
+      "translit": "nagara",
+      "gloss": "નગર (શહેરો)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. nagara",
+      "notes": ""
+    },
+    {
+      "token": "નિગમ",
+      "translit": "nigama",
+      "gloss": "નિગમ — વેપારી/વાણિજ્ય-નગર",
+      "partOfSpeech": "noun",
+      "etymology": "સં. nigama 'વ્યાપાર-કેન્દ્ર, મંડી'",
+      "notes": "નગર-નિગમ-જનપદ એ વસતી-એકમોની ક્રમિક માલા"
+    },
+    {
+      "token": "જણવય",
+      "translit": "jaṇavaya",
+      "gloss": "જનપદ, ગ્રામ-પ્રદેશ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. jaṇavaya < સં. janapada",
+      "notes": ""
+    },
+    {
+      "token": "વઇ",
+      "translit": "vaï",
+      "gloss": "પતિ, સ્વામી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. vaï < સં. pati",
+      "notes": "વર-નગર-નિગમ-જનપદ-પતિ = એ સર્વનો સ્વામી"
+    },
+    {
+      "token": "બત્તીસા",
+      "translit": "battīsā",
+      "gloss": "બત્રીસ (૩૨)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. battīsā < સં. dvātriṁśat",
+      "notes": ""
+    },
+    {
+      "token": "રાયવર",
+      "translit": "rāyavara",
+      "gloss": "શ્રેષ્ઠ રાજાઓ",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. rāya < સં. rāja 'રાજા' + vara 'શ્રેષ્ઠ'",
+      "notes": "બત્તીસા રાયવર સહસ્સ = ૩૨,૦૦૦ મુકુટબદ્ધ રાજાઓ"
+    },
+    {
+      "token": "સહસ્સાણુ",
+      "translit": "sahassāṇu",
+      "gloss": "હજાર + અનુ- (પાછળ)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. sahasra + anu-",
+      "notes": "આગળના 'યાયમગ્ગો' સાથે = 'સહસ્સ-અણુયાય-મગ્ગો'"
+    },
+    {
+      "token": "યાયમગ્ગો",
+      "translit": "yāyamaggo",
+      "gloss": "(અણુ)યાત-માર્ગ — પાછળ ચાલતો અનુયાયી-સમૂહ",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. < સં. anuyāta 'પાછળ ગયેલ' + mārga 'માર્ગ'",
+      "notes": "૩૨,૦૦૦ રાજાઓ જેના માર્ગે અનુસરતા — એવા સમ્રાટ"
+    },
+    {
+      "token": "ચઉદસ",
+      "translit": "caudasa",
+      "gloss": "ચૌદ (૧૪)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. caudasa < સં. caturdaśa",
+      "notes": "ચક્રવર્તીનાં ૧૪ રત્નો"
+    },
+    {
+      "token": "વરરયણ",
+      "translit": "vararayaṇa",
+      "gloss": "ઉત્તમ રત્નો",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. rayaṇa < સં. ratna; vara 'શ્રેષ્ઠ' + ratna",
+      "notes": "ચક્ર, છત્ર, દંડ, ખડ્ગ, મણિ, ચર્મ, કાકિણી (સપ્ત એકેન્દ્રિય) + સેનાપતિ, ગૃહપતિ, વાર્ધકિ, પુરોહિત, સ્ત્રી, અશ્વ, ગજ (સપ્ત પંચેન્દ્રિય)"
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "નવ (૯)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. nava",
+      "notes": ""
+    },
+    {
+      "token": "મહાનિહિ",
+      "translit": "mahānihi",
+      "gloss": "મહા-નિધિ — અક્ષય મહાન ભંડારો",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. nihi < સં. nidhi 'નિધાન'; mahā + nidhi",
+      "notes": "ચક્રવર્તીના નવ અક્ષય નિધિ"
+    },
+    {
+      "token": "ચઉસઢિ",
+      "translit": "causaḍhi",
+      "gloss": "ચોસઠ (૬૪)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. causaḍhi < સં. catuḥṣaṣṭi",
+      "notes": ""
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "હજાર",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sahassa < સં. sahasra",
+      "notes": "ચઉસઢિ સહસ્સ = ૬૪,૦૦૦"
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "પ્રવર, અતિ ઉત્તમ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. pavara < સં. pravara",
+      "notes": ""
+    },
+    {
+      "token": "જુવઇણ",
+      "translit": "juvaiṇa",
+      "gloss": "યુવતીઓ (અંતઃપુર-સ્ત્રીઓ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. juvaï < સં. yuvati",
+      "notes": "ચઉસઢિ સહસ્સ પવર જુવઇણ = ૬૪,૦૦૦ ઉત્તમ યુવતીઓ"
+    },
+    {
+      "token": "સુંદરવઇ",
+      "translit": "sundaravaï",
+      "gloss": "સુંદર (સ્ત્રીઓના) સ્વામી/પતિ",
+      "partOfSpeech": "compound",
+      "etymology": "સં. sundara 'સુંદર' + pati > પ્રા. vaï 'સ્વામી'",
+      "notes": "ઉપરની યુવતીઓના સ્વામી"
+    },
+    {
+      "token": "ચુલસી",
+      "translit": "culasī",
+      "gloss": "ચોર્યાસી (૮૪)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. culasī < સં. caturaśīti",
+      "notes": "આગળ 'સય સહસ્સ' (લાખ) સાથે = ૮૪ લાખ"
+    },
+    {
+      "token": "હય",
+      "translit": "haya",
+      "gloss": "અશ્વ, ઘોડા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. haya 'ઘોડો'",
+      "notes": ""
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "ગજ, હાથી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. gaya < સં. gaja",
+      "notes": ""
+    },
+    {
+      "token": "રહ",
+      "translit": "raha",
+      "gloss": "રથ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. raha < સં. ratha",
+      "notes": ""
+    },
+    {
+      "token": "સય",
+      "translit": "saya",
+      "gloss": "સો (શત)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. saya < સં. śata",
+      "notes": "'સય સહસ્સ' = સો × હજાર = લાખ"
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "હજાર",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sahassa < સં. sahasra",
+      "notes": "ચુલસી-સય-સહસ્સ = ૮૪ લાખ (હય, ગય, રથ — પ્રત્યેક)"
+    },
+    {
+      "token": "સામી",
+      "translit": "sāmī",
+      "gloss": "સ્વામી, માલિક",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sāmī < સં. svāmī",
+      "notes": "૮૪ લાખ અશ્વ-ગજ-રથના સ્વામી"
+    },
+    {
+      "token": "છન્નવઇ",
+      "translit": "channavaï",
+      "gloss": "છન્નુ (૯૬)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. channavaï < સં. ṣaṇṇavati",
+      "notes": ""
+    },
+    {
+      "token": "ગામકોડિ",
+      "translit": "gāmakoḍi",
+      "gloss": "ગ્રામ-કરોડ — કરોડ ગામો",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. gāma < સં. grāma + koḍi < koṭi 'કરોડ'",
+      "notes": "છન્નવઇ ગામકોડિ = ૯૬ કરોડ ગામ"
+    },
+    {
+      "token": "સામી",
+      "translit": "sāmī",
+      "gloss": "સ્વામી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sāmī < સં. svāmī",
+      "notes": "૯૬ કરોડ ગામના સ્વામી"
+    },
+    {
+      "token": "આસિજ્જો",
+      "translit": "āsijjo",
+      "gloss": "(જે) હતા",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. āsi < સં. āsīt (√as, ભૂતકાળ); -jjo = સંબંધ/લય-પૂરક",
+      "notes": "ભૂતકાળ-રૂપ — 'હતા'; આ આખા વૈભવની ભૂતકાલિકતા જ વૈરાગ્યનો સંકેત આપે છે"
+    },
+    {
+      "token": "ભારહમ્મિ",
+      "translit": "bhārahammi",
+      "gloss": "ભરત(ક્ષેત્ર)માં",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. bhāraha + -mmi (સપ્તમી) < સં. bhārate",
+      "notes": "જંબૂદ્વીપના ભરતક્ષેત્રમાં"
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "ભગવાન, પૂજ્ય",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. bhayavaṁ < સં. bhagavān",
+      "notes": "વૈભવ-વર્ણનનું શિખર — એ જ ભગવાન (તીર્થંકર) શાંતિનાથ"
+    }
+  ],
+  "literalTranslation": "જે પ્રથમ કુરુ-દેશ ને હસ્તિનાપુરના રાજા હતા, પછી મહાન ચક્રવર્તીના ભોગ ભોગવનાર મહા-પ્રભાવશાળી થયા; જે ૭૨,૦૦૦ ઉત્તમ નગર તથા શ્રેષ્ઠ નગર-નિગમ-જનપદના સ્વામી, ૩૨,૦૦૦ શ્રેષ્ઠ રાજાઓ જેના માર્ગે અનુસરતા એવા; ૧૪ ઉત્તમ રત્ન, ૯ મહા-નિધિ, ૬૪,૦૦૦ પ્રવર યુવતીઓના સુંદર સ્વામી; ૮૪ લાખ અશ્વ-ગજ-રથના સ્વામી ને ૯૬ કરોડ ગામના સ્વામી — એ ભરતક્ષેત્રમાં ભગવાન (શાંતિનાથ) હતા.",
+  "idiomaticTranslation": "પ્રથમ તેઓ કુરુ-દેશ ને હસ્તિનાપુરના નરેશ્વર હતા, ને પછી છ ખંડ પર ચક્ર ફેરવનાર મહા-પ્રભાવી ચક્રવર્તીના ઐશ્વર્ય-ભોગ ભોગવનાર બન્યા. બોંતેર હજાર ઉત્તમ નગરો, અને શ્રેષ્ઠ નગર-મંડી-જનપદના સ્વામી; બત્રીસ હજાર મુકુટધારી રાજાઓ જેના ચરણ-માર્ગે અનુસરતા. ચૌદ રત્ન ને નવ અક્ષય નિધિના ધણી, ચોસઠ હજાર પ્રવર યુવતીઓના સુંદર સ્વામી; ચોર્યાસી લાખ ઘોડા, હાથી ને રથના સ્વામી, અને છન્નુ કરોડ ગામના અધિપતિ — એવા ભરતક્ષેત્રના ભગવાન શ્રી શાંતિનાથ હતા.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ ગાથા એક અખંડ વૈભવ-માલા છે, જે વ્યાકરણ-દૃષ્ટિએ 'જો…આસિજ્જો' (જે…હતા) એ એક જ સંબંધ-વાક્યમાં ગૂંથાયેલી છે — એક શ્વાસે ઉચ્ચારાતો સમ્રાટ-પરિચય. કવિ ગણના ચડતા ક્રમે ગોઠવે છે: પ્રથમ 'નરીસરો' (એક નગરનો રાજા), પછી 'ચક્કવટ્ટિ' (ષટ્-ખંડ-સમ્રાટ), ને અંતે વસતી-એકમ, રાજા, રત્ન, નિધિ, સ્ત્રી, વાહન ને ગ્રામની વિરાટ સંખ્યાઓ — ૭૨,૦૦૦ થી ૯૬ કરોડ સુધી — જેથી શ્રોતાના ચિત્તમાં ઐશ્વર્યનો ઉત્તુંગ શિખર રચાય. પણ આખી ગાથાનો ભાર છેલ્લા બે શબ્દ પર ઢળે છે: 'આસિ…ભયવં' — 'એ બધું જે હતા, તે ભગવાન.' ભૂતકાળ-રૂપ 'આસિ' એ આ ગાથાનું હૃદય છે: આટલો અપાર વૈભવ 'હતો', રહ્યો નહીં. નગર-નિગમ-જનપદની ત્રિપદી, હય-ગય-રથની ત્રિપદી — એ લયબદ્ધ સમાસ-શ્રેણીઓ સ્તવના છંદ-સૌંદર્યને જીવંત રાખે છે. વિશેષ ધ્યાનપાત્ર છે કે વર્ણન માત્ર સ્તુતિ માટે નથી; એ ત્યાગની ભૂમિકા છે — જે પુરુષ આ સર્વનો સ્વામી હતો, તેણે જ આ સઘળું છોડી તીર્થ-પ્રવર્તન કર્યું. તેથી અહીંની પ્રત્યેક સંખ્યા જેટલી મોટી, શાંતિનાથનો ત્યાગ તેટલો જ ઉન્નત. પૂર્વ ગાથાઓના નામ-શ્લેષ ને પ્રણિપાત પછી અહીં સ્તવ ઐતિહાસિક-પૌરાણિક ચરિત્ર-ભૂમિ પર ઊતરે છે, ને આગળની ગાથાઓમાં ફરી જ્યોતિ-ઉપમા ને શાંતિ-સ્તુતિ તરફ વળે છે.",
+    "doctrinalContext": "ગાથાનો મુખ્ય સિદ્ધાંત-બિંદુ અપરિગ્રહ ને ત્યાગ-મહિમા છે. જૈન પરંપરામાં શાંતિનાથ એ ત્રણ વિરલ આત્માઓમાંના એક છે જે એક જ ભવમાં ચક્રવર્તી, કામદેવ ને તીર્થંકર — ત્રણેય પદ પામ્યા. ૧૪ રત્ન ને ૯ નિધિ એ ચક્રવર્તી-પદનાં શાસ્ત્ર-નિર્દિષ્ટ ચિહ્નો છે; પણ સ્તવ એને ગૌરવ-ગાન રૂપે નહીં, વૈરાગ્ય-પ્રેરક રૂપે મૂકે છે — 'સર્વોચ્ચ સાંસારિક ઐશ્વર્ય પણ અનિત્ય ને ત્યાજ્ય છે, સાચી શાંતિ તો સંયમ-મોક્ષમાં જ.' આ જ સ્તવના 'શાંતિ' નામ સાથે અર્થ-સંગતિ રચે છે: જે છ ખંડ જીતી પણ ન શમ્યો, તે અંતે 'શાંતિ' રૂપે પ્રશમ-દાતા બન્યો.",
+    "practicalRelevance": "આ ગાથા બોલતી વખતે સાધક ભોગ-વૈભવની ભવ્યતા ગાઈને છેલ્લે 'આસિ' (હતા) શબ્દ પર થોભે — ને અનુભવે કે ૯૬ કરોડ ગામનો સ્વામી પણ એ બધું મૂકી ગયો. એ ચિંતન રોજિંદા સંગ્રહ-મમત્વ ને અહંકારને ઢીલા કરી અપરિગ્રહ-ભાવ જગાડે છે; શાંતિનાથનું સ્મરણ ભય ને અશાંતિ સામે રક્ષાત્મક બળ આપે છે.",
+    "crossReferences": [
+      {
+        "text": "ત્રિષષ્ટિશલાકાપુરુષચરિત્ર, પર્વ ૫ (શાંતિનાથ-ચરિત્ર) — ચક્રવર્તી-વૈભવ ને ત્યાગ",
+        "source": "આચાર્ય હેમચંદ્રસૂરિ"
+      },
+      {
+        "text": "ચક્રવર્તીનાં ૧૪ રત્ન ને ૯ નિધિની ગણના — જંબૂદ્વીપપ્રજ્ઞપ્તિ / સ્થાનાંગ-આધારિત પરંપરા",
+        "source": "આગમ-આધારિત જૈન કોશ-પરંપરા"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Śāntinātha — 16th Tīrthaṅkara (Chakravarti, born at Hastinapur; fourteen ratna, nine nidhi)",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "શાંતિનાથનું હસ્તિનાપુરમાં જન્મ, ચક્રવર્તી-તીર્થંકર-કામદેવ ત્રિપદ, ૧૪ રત્ન ૯ નિધિ, શાંતિ-દેવ રૂપે ઉપસર્ગ-નિવારણ"
+    },
+    {
+      "title": "Chakravartin — ideal universal monarch (six-continent ruler, jewels, treasures, army)",
+      "url": "https://en.wikipedia.org/wiki/Chakravartin",
+      "type": "scholarship",
+      "consultedFor": "ચક્રવર્તી-પદનો અર્થ, ૧૪ રત્ન / ૯ નિધિ ને વિરાટ સેના-વૈભવની પુષ્ટિ"
+    },
+    {
+      "title": "Hastinapur — capital of the Kuru kingdom, mentioned in Jain texts",
+      "url": "https://en.wikipedia.org/wiki/Hastinapur",
+      "type": "scholarship",
+      "consultedFor": "'કુરુ જણવય હત્થિણાઉર' — હસ્તિનાપુર કુરુ-જનપદની રાજધાની હોવાની ઐતિહાસિક પુષ્ટિ"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "(૧) 'હત્થિણા ઉર' પુસ્તકમાં સંધિ-છૂટું છપાયું છે; બંને મળી 'હસ્તિનાપુર' (પ્રા. hatthiṇāura). (૨) 'સય સહસ્સ' = શત × સહસ્ર = લાખ; તેથી 'ચુલસી હય ગય રહ સય સહસ્સ' = ૮૪ લાખ — પ્રત્યેક અશ્વ, ગજ ને રથ (ચક્રવર્તીની પ્રસિદ્ધ ૮૪ લાખની ગણના). (૩) 'સહસ્સાણુયાયમગ્ગો' = સહસ્સ-અણુયાય-મગ્ગો ('હજારો રાજાઓ જેના માર્ગે અનુસરતા'); ટોકન-વિભાજન પુસ્તક પ્રમાણે વેરિએટિમ રાખ્યું છે. (૪) 'આસિજ્જો' = āsi ('હતા', ભૂતકાળ) સાથે છંદ-પૂરક/સંબંધ-અંશ '-jjo'; પાઠાંતરે 'આસિ જો' એમ પણ વાંચી શકાય. (૫) ૧૪ રત્ન-૯ નિધિની ચોક્કસ યાદી આગમ-ભેદે અલ્પ ભિન્ન જણાવાય છે; અહીં સામાન્ય જૈન-પરંપરા અનુસરી છે."
+}

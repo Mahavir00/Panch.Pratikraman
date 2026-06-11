@@ -1,0 +1,134 @@
+{
+  "shlokaId": "pakkhi-khamana/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Let us beg pardon of the revered head-monk (Acharya), who has thirty-six fine qualities, and of the revered scripture-teacher (Upadhyaya), who has twenty-five — O fortunate soul, forgive!",
+  "recitation": "ācāryajīne khamāvīe re, jehnāṁ guṇa chattrīśa — khamo bhavi [khāmaṇā re]. upādhyāyajīne khamāvīe re, jehnāṁ guṇa paccavīśa — khamo bhavi [khāmaṇā re].",
+  "wordByWord": [
+    {
+      "token": "આચાર્યજીને",
+      "translit": "ācāryajīne",
+      "gloss": "to the revered Acharya (head-preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ācārya ('one who teaches by conduct', from ā-√car, 'to practise') + the Gujarati honorific -jī + dative case-marker -ne",
+      "notes": "The vernacular honorific -jī clothes the canonical Parameshthin-rank in everyday devotional warmth; -ne marks him as the object appeased."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us appease / let us beg forgiveness of",
+      "partOfSpeech": "verb",
+      "etymology": "Causative-hortative of khamāvavuṁ, from Prakrit khamā- / Sanskrit √kṣam ('to forgive, endure'); first-person plural exhortation",
+      "notes": "Causative: not merely 'we forgive' but 'we cause-to-forgive', i.e. we approach and entreat the other to release resentment."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (tender vocative/emphatic call)",
+      "partOfSpeech": "particle",
+      "etymology": "Common Indic geet-particle of address and song-emphasis",
+      "notes": "Carries the lilt of the khamaṇā-geet; addressed to the singer's own soul."
+    },
+    {
+      "token": "જેહનાં",
+      "translit": "jehnāṁ",
+      "gloss": "whose (qualities)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun; old-Gujarati jeha (= Skt. yad) + genitive-plural -nāṁ",
+      "notes": "Anusvāra marks agreement with the plural guṇa that follows."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa, 'strand, merit, quality'",
+      "notes": "Used here in the enumerated sense fixed for each rank."
+    },
+    {
+      "token": "છત્રીશ",
+      "translit": "chattrīśa",
+      "gloss": "thirty-six",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati numeral from Prakrit chattīsa / Sanskrit ṣaṭ-triṁśat",
+      "notes": "The Acharya's standard reckoning of 36 — commonly 5 sense-restraints + 9 celibacy-guards + freedom from the 4 passions + 5 great vows + 5 conducts + 5 carefulnesses + 3 restraints."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of khamavuṁ, from √kṣam, 'to forgive'",
+      "notes": "The refrain's command — distinct from the hortative khamāvīe above: the soul is now ordered to grant pardon."
+    },
+    {
+      "token": "ભવિ૦",
+      "translit": "bhavi [khāmaṇā re]",
+      "gloss": "O fortunate soul, [forgive] — (refrain abbreviated)",
+      "partOfSpeech": "invocation",
+      "etymology": "bhavi = bhavya, 'a soul fit for liberation'; the symbol ૦ (eka-ḍo) marks the omitted continuation of the refrain",
+      "notes": "The circle ૦ is a scribal 'etc.' sign: the chanter completes the full refrain 'khamo bhavi khāmaṇā re'."
+    },
+    {
+      "token": "ઉપાધ્યાયજીને",
+      "translit": "upādhyāyajīne",
+      "gloss": "to the revered Upadhyaya (scripture-teacher)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit upādhyāya ('one near whom one studies', upa-adhi-√i) + honorific -jī + dative -ne",
+      "notes": "The monk charged with teaching the Agamas to the order; paired here with the Acharya as the two living preceptor-ranks."
+    },
+    {
+      "token": "પચ્ચવીશ",
+      "translit": "paccavīśa",
+      "gloss": "twenty-five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati numeral from Prakrit pañcavīsa / Sanskrit pañca-viṁśati",
+      "notes": "The Upadhyaya's standard reckoning of 25 — the 11 Aṅgas + 12 Upāṅgas he masters and teaches, plus caraṇa-sittari and karaṇa-sittari (conduct- and practice-seventies)."
+    }
+  ],
+  "literalTranslation": "Let us beg forgiveness of the revered Acharya, O!, whose qualities are thirty-six — forgive, O fortunate soul! Let us beg forgiveness of the revered Upadhyaya, O!, whose qualities are twenty-five — forgive, O fortunate soul!",
+  "idiomaticTranslation": "Come, let us appease the revered Acharya, adorned with his six-and-thirty virtues — forgive, O fortunate soul! And let us appease the revered Upadhyaya, rich in his five-and-twenty — forgive, O fortunate soul!",
+  "elaboration": {
+    "verseByVerseCommentary": "Having appeased the two perfected ranks — the Arihant (12) and the Siddha (8) — in the previous verse, the song now steps down to the two living guides who actually stand before the disciple: the Acharya, head of the order, and the Upadhyaya, its teacher of scripture. The shift is deliberate and tender. One can offend a liberated Siddha only abstractly; but one offends one's own Acharya and Upadhyaya daily and concretely — by lapses of vinaya (deference), by inattention in study, by disobedience. So the khamaṇā grows more pointed exactly as it nears home. The verse names each by his guṇa-count, the litany of recognition the whole song is built on: thirty-six for the Acharya, the fullest disciplinary profile in the order (sense-restraint, celibacy-guards, freedom from the passions, the great vows, conduct, carefulness and restraint), and twenty-five for the Upadhyaya, reckoned chiefly from the eleven Aṅgas and twelve Upāṅgas he has mastered and transmits. Read together the pair embodies the two wings of the path: the Acharya as the living measure of cāritra (conduct) and the Upadhyaya as the living measure of jñāna (scriptural knowledge) — so to ask their pardon is to bow before both right-action and right-knowledge at once. Notice too the grammatical hinge: khamāvīe is a causative exhortation ('let us move them to forgive'), while the refrain's khamo is a bare imperative addressed inward to one's own bhavya soul — the singer simultaneously entreats the teacher outwardly and commands the heart inwardly to let resentment go.",
+    "doctrinalContext": "The verse rests on the Jain principle that kṣamāpanā is impossible without prior recognition of worth: you cannot sincerely seek pardon from one whose virtue you have not acknowledged, so each appeasement is prefaced by counting guṇas. By pairing the conduct-exemplar (Acharya, 36) with the knowledge-exemplar (Upadhyaya, 25) the verse quietly affirms the jñāna-kriyā-bhyāṁ mokṣaḥ axiom — liberation through knowledge-and-action together. The two counts also carry the song forward arithmetically: added to the previous verse's 12+8, they advance the tally of the Pañca-Parameṣṭhin's hundred-and-eight gunas that the next verse completes with the Sadhu's 27.",
+    "practicalRelevance": "At this point in the fortnightly khamaṇā the reciter brings to mind specific failures of respect and attentiveness toward his own guru and study-teacher — sharp words, skipped duties, half-hearted listening — and releases any grudge he himself holds against them. Dwelling for a breath on each guṇa-count turns a rote line into an examination of conscience: do I honour in my teachers the very virtues I have slighted?",
+    "crossReferences": [
+      {
+        "text": "Namo Āyariyāṇaṁ; Namo Uvajjhāyāṇaṁ — the third and fourth salutations of the Navkar (Pañca-Parameṣṭhin)",
+        "source": "Navkāra Mahāmantra, as printed in Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Acharya = 36 attributes, Upadhyaya = 25 attributes (Navpad enumeration)",
+        "source": "Bhadrabahu Vijay, 'Guidelines of Jainism — Navpad'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Guidelines of Jainism — Navpad (Bhadrabahu Vijay)",
+      "url": "https://jainworld.jainworld.com/jainbooks/guideline/60.htm",
+      "type": "scholarship",
+      "consultedFor": "Standard guna-counts of the Parameshthins: Acharya 36 and Upadhyaya 25 attributes, and their respective roles (head-preceptor vs scripture-teacher)"
+    },
+    {
+      "title": "Wisdom Library — 'Upādhyāya' (definitions across Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/upadhyaya",
+      "type": "dictionary",
+      "consultedFor": "Etymology and sense of upādhyāya (upa-adhi-√i, 'one near whom one studies') and its Jain role"
+    },
+    {
+      "title": "Wisdom Library — 'Ācārya' (definitions across Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/acharya",
+      "type": "dictionary",
+      "consultedFor": "Etymology and sense of ācārya ('one who teaches by his own conduct', ā-√car) and its Jain role as order-head"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots √kṣam ('to forgive/endure') behind khamāvīe/khamo, and guṇa, pañca-viṁśati, ṣaṭ-triṁśat"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse text preserved verbatim from the source book, including the abbreviation glyph '૦' in 'ખમો ભવિ૦', which is a scribal continuation-mark for the refrain 'khamo bhavi khāmaṇā re' established in verse 1; it is expanded in brackets, not normalized. The exact internal breakdown of the 36 Acharya-gunas and 25 Upadhyaya-gunas varies slightly across Shvetambara handbooks; the totals (36 / 25) are fixed and uncontested, and the breakdowns given are the most widely attested reckonings (Acharya: 5 indriya-restraints + 9 brahmacarya-guptis + 4 kaṣāya-freedoms + 5 mahāvratas + 5 ācāras + 5 samitis + 3 guptis; Upadhyaya: 11 Aṅgas + 12 Upāṅgas + caraṇa-sittari + karaṇa-sittari). 'jehnāṁ' is read as the possessive relative 'whose'. The hortative khamāvīe vs imperative khamo distinction is grammatical and secure."
+}

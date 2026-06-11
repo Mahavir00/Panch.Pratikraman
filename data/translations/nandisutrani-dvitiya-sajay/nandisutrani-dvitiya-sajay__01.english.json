@@ -1,0 +1,136 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to four early teachers who carried Mahāvīra's teaching forward — Sudharmā, Jambū, Prabhava and Śayyambhava — each named with the family-line he came from.",
+  "recitation": "suhammaṁ aggivesāṇaṁ, jambūnāmaṁ ca kāsavaṁ | pabhavaṁ kaccāyaṇaṁ vande, vacchaṁ sijjaṁbhavaṁ tahā ||",
+  "wordByWord": [
+    {
+      "token": "સુહમ્મં",
+      "translit": "suhammaṁ",
+      "gloss": "Sudharmā (object of homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit for Sanskrit Sudharmā (su- 'good' + dharma 'law/order'); the accusative -aṁ marks him as the one bowed to.",
+      "notes": "Mahāvīra's fifth gaṇadhara and the source of the surviving monastic line; the verse names him first."
+    },
+    {
+      "token": "અગ્ગિવેસાણં",
+      "translit": "aggivesāṇaṁ",
+      "gloss": "of the Agnivaiśyāyana clan-line",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aggivesāṇa < Sanskrit Āgniveśyāyana / Agnivaiśyāyana, a brāhmaṇa gotra; agreeing with suhammaṁ.",
+      "notes": "Identifies Sudharmā by his gotra."
+    },
+    {
+      "token": "જંબૂનામં",
+      "translit": "jambūnāmaṁ",
+      "gloss": "named Jambū",
+      "partOfSpeech": "compound",
+      "etymology": "jambū (the rose-apple tree / personal name) + nāma 'by name'; a bahuvrīhi, 'he whose name is Jambū', in the accusative.",
+      "notes": "Sudharmā's disciple, traditionally the last to attain kevala-jñāna in this descending cycle."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Sanskrit ca, the connective 'and', joining Jambū to the preceding Sudharmā.",
+      "notes": ""
+    },
+    {
+      "token": "કાસવં",
+      "translit": "kāsavaṁ",
+      "gloss": "of the Kāśyapa clan-line",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kāsava < Sanskrit Kāśyapa, a brāhmaṇa gotra; qualifies Jambū.",
+      "notes": "Jambū's gotra."
+    },
+    {
+      "token": "પભવં",
+      "translit": "pabhavaṁ",
+      "gloss": "Prabhava (object of homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pabhava < Sanskrit Prabhava ('arising, origin'); accusative.",
+      "notes": "Jambū's successor; tradition recalls him as a brigand-prince who renounced and led the order."
+    },
+    {
+      "token": "કચ્ચાયણં",
+      "translit": "kaccāyaṇaṁ",
+      "gloss": "of the Kātyāyana clan-line",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kaccāyaṇa < Sanskrit Kātyāyana, a brāhmaṇa gotra; qualifies Prabhava.",
+      "notes": "Prabhava's gotra."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow / I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit √vand 'to praise, salute', 1st sg. present ātmanepada vande; the governing verb that the four names are objects of.",
+      "notes": "Placed mid-verse, it gathers both the preceding and following names into one act of homage."
+    },
+    {
+      "token": "વચ્છં",
+      "translit": "vacchaṁ",
+      "gloss": "of the Vatsa clan-line",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vaccha < Sanskrit Vatsa, a brāhmaṇa gotra; qualifies Śayyambhava.",
+      "notes": "Not to be read as 'calf' (vatsa) here; it is the gotra of the next teacher."
+    },
+    {
+      "token": "સિજ્જંભવં",
+      "translit": "sijjaṁbhavaṁ",
+      "gloss": "Śayyambhava (object of homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjaṁbhava < Sanskrit Śayyambhava; accusative.",
+      "notes": "The compiler of the Daśavaikālika-sūtra (whose first chapter is the Drumapuṣpikā sajjhāy of the Devasi pratikramaṇa)."
+    },
+    {
+      "token": "તહા",
+      "translit": "tahā",
+      "gloss": "likewise / and so too",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahā < Sanskrit tathā 'thus, likewise'; closes the list, extending 'vande' to Śayyambhava as well.",
+      "notes": "Signals continuation into the next verse's names."
+    }
+  ],
+  "literalTranslation": "Sudharmā of the Agnivaiśyāyana gotra, and Jambū by name of the Kāśyapa gotra; Prabhava of the Kātyāyana gotra I bow to, and Vatsa-gotra Śayyambhava likewise.",
+  "idiomaticTranslation": "I bow to Sudharmā of the Agnivaiśyāyana line and to Jambū of the Kāśyapa line; to Prabhava of the Kātyāyana line I bow, and so too to Śayyambhava of the Vatsa line.",
+  "elaboration": {
+    "verseByVerseCommentary": "The hymn opens at the headwaters of the succession and names exactly four teachers — Sudharmā, Jambū, Prabhava, Śayyambhava — the unbroken sequence of guru and disciple that carried Mahāvīra's word into its first four generations. Note the verse's craftsmanship: each name is yoked to its gotra (Agnivaiśyāyana, Kāśyapa, Kātyāyana, Vatsa), and the single verb 'vande' is set in the third quarter so that it reaches backward to Sudharmā, Jambū and Prabhava and forward, via 'tahā' ('likewise'), to Śayyambhava — one act of homage binding the whole chain. That all four gotras are brāhmaṇa clan-names quietly records a historical truth the tradition treasures: these foundational ācāryas were brāhmaṇa-born and brought their learning into Mahāvīra's order. The placement is deliberate. Sudharmā stands first because his is the only gaṇadhara-line that continued; Jambū seals the age of omniscience; Prabhava guards the canon; and Śayyambhava — given last and with the bridging 'tahā' — is the doorway to the next generation named in verse 2 (Yaśobhadra and beyond). The verse is thus not a bare list but an ordered descent, each gotra-tag a fixed coordinate that lets the reciter locate every teacher precisely in the lineage.",
+    "doctrinalContext": "The verse enacts the Jain conviction that liberating knowledge is not self-sprung but received — transmitted intact through a living guru-disciple succession. By tagging each teacher with his gotra, the gāthā authenticates the transmission the way a witnessed deed authenticates a grant: the śruta is traceable, person to named person, back to Mahāvīra. Śayyambhava's inclusion carries special doctrinal weight, for he distilled the monastic essentials into the Daśavaikālika — proof that this lineage did not merely preserve the canon but reshaped it for practice.",
+    "practicalRelevance": "Reciting this opening gāthā, the worshipper does not admire the teachers from outside but steps onto the same chain — bowing to the four through whom the very sūtra now on his lips reached him, and acknowledging a debt that obliges him to study and pass on what he has received.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra, ch. 1 (Drumapuṣpikā) — composed by Śayyambhava, recited as the Drumapuṣpikā sajjhāy",
+        "source": "Śayyambhava; cf. structure tree id drumapushpika-sajjhay"
+      },
+      {
+        "text": "Nandī-sūtra Sthavirāvalī, continuing gāthā (Yaśobhadra, Sambhūta, Bhadrabāhu, Sthūlabhadra)",
+        "source": "Nandī-sūtra, Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sthavirāvalī (Romanized) — Nandī-sūtra succession of elders",
+      "url": "https://jainqq.org/booktext/Sthaviravali_Romanized/006961",
+      "type": "scholarship",
+      "consultedFor": "Romanized Sthavirāvalī text and the ordered succession Sudharmā → Jambū → Prabhava → Śayyambhava."
+    },
+    {
+      "title": "Jain eLibrary — Nandī-sūtra (Sthavirāvalī)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Nandī-sūtra as the source of the lineage-roll and the identity/sequence of the named ācāryas."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/forms behind the Prakrit tokens: √vand (vande), tathā (tahā), nāma, and the gotra names Kāśyapa, Kātyāyana, Vatsa."
+    }
+  ],
+  "translatorConfidence": 0.87,
+  "notes": "Token coverage is complete (11/11). Gotra equations — Sudharmā: Agnivaiśyāyana, Jambū: Kāśyapa, Prabhava: Kātyāyana, Śayyambhava: Vatsa — are the tradition's and are well attested, though some early identifications are traditional rather than firmly historical. 'vacchaṁ' is the gotra Vatsa here, not 'calf'; 'kaccāyaṇaṁ' = Kātyāyana, not to be confused with the grammarian. Orthography (anusvāra, geminates such as -mm-/-jj-/-cc-, long ū in jambū) follows the source book verbatim and has not been normalized; minor pāṭhāntara spellings (e.g. sijjaṁbhava / sejjaṁbhava) occur in other editions."
+}

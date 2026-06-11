@@ -1,0 +1,223 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Ajita, the golden-bodied second Jina, born in the great city of Ayodhyā (Kośalā) to King Jitaśatru and Queen Vijayā, whose emblem is the elephant.",
+  "recitation": "kośalā-puravare pūta vijayodaraṁ, bhūpa jitaśatru kula-kamala-vana-dinakaraṁ; dviguṇa nava-śata kara pramita vara bhū-ghanaṁ, naumi kanakābham ibha-cinham ajitaṁ jinaṁ.",
+  "wordByWord": [
+    {
+      "token": "કોશલા",
+      "translit": "kośalā",
+      "gloss": "Kośalā (the Kośala country, whose capital is Ayodhyā)",
+      "partOfSpeech": "noun",
+      "etymology": "proper place-name; the ancient janapada Kośala, identified in Jain accounts with Ayodhyā (Vinītā/Sāketa)",
+      "notes": "construed with the following puravare as one locative phrase"
+    },
+    {
+      "token": "પુરવરે",
+      "translit": "puravare",
+      "gloss": "in the foremost (greatest) city",
+      "partOfSpeech": "noun",
+      "etymology": "pura (city) + vara (best, foremost); locative singular pura-vare"
+    },
+    {
+      "token": "પૂત",
+      "translit": "pūta",
+      "gloss": "pure, sanctified, hallowed",
+      "partOfSpeech": "adj",
+      "etymology": "past participle of √pū 'to purify'",
+      "notes": "either an epithet of Ajita ('the pure one') or read with the next word: 'who sanctified (Vijayā's) womb'"
+    },
+    {
+      "token": "વિજયોદરં",
+      "translit": "vijayodaraṁ",
+      "gloss": "(born) from the womb of Queen Vijayā",
+      "partOfSpeech": "compound",
+      "etymology": "Vijayā (the mother's name) + udara (belly, womb); accusative agreeing with ajitaṁ jinaṁ",
+      "notes": "Vijayā is the standard name of Ajita's mother; a secondary reading takes vijaya- as 'victory' (the 'victory-bearing womb'), echoing the legend that Vijayā became invincible at dice while carrying him"
+    },
+    {
+      "token": "ભૂપ",
+      "translit": "bhūpa",
+      "gloss": "king",
+      "partOfSpeech": "noun",
+      "etymology": "bhū (earth) + pa (protector); 'protector of the earth' — here the father"
+    },
+    {
+      "token": "જિતશત્રુ",
+      "translit": "jitaśatru",
+      "gloss": "Jitaśatru (Ajita's father)",
+      "partOfSpeech": "noun",
+      "etymology": "jita (conquered) + śatru (enemy) = 'one whose foes are conquered'; a proper name"
+    },
+    {
+      "token": "કુલ",
+      "translit": "kula",
+      "gloss": "lineage, family, dynasty",
+      "partOfSpeech": "noun",
+      "etymology": "kula 'family'; here the royal Ikṣvāku line; first member of the compound kula-kamala-vana-dinakaraṁ"
+    },
+    {
+      "token": "કમલ",
+      "translit": "kamala",
+      "gloss": "lotus",
+      "partOfSpeech": "noun",
+      "etymology": "kamala 'lotus, water-lily'"
+    },
+    {
+      "token": "વન",
+      "translit": "vana",
+      "gloss": "grove, cluster, pond (of lotuses)",
+      "partOfSpeech": "noun",
+      "etymology": "vana 'forest, thicket'; kamala-vana = a bed/grove of lotuses"
+    },
+    {
+      "token": "દિનકરં",
+      "translit": "dinakaraṁ",
+      "gloss": "the sun (that makes the lotuses bloom)",
+      "partOfSpeech": "noun",
+      "etymology": "dina (day) + kara (maker) = 'day-maker, sun'; accusative; sun to the lotus-grove of his lineage",
+      "notes": "imagery: as the sun opens a pond of lotuses, Ajita's birth makes his dynasty flourish"
+    },
+    {
+      "token": "દ્વિગુણ",
+      "translit": "dviguṇa",
+      "gloss": "twofold, twice",
+      "partOfSpeech": "adj",
+      "etymology": "dvi (two) + guṇa (fold, times)"
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "nine",
+      "partOfSpeech": "adj",
+      "etymology": "numeral nava 'nine'"
+    },
+    {
+      "token": "શત",
+      "translit": "śata",
+      "gloss": "hundred",
+      "partOfSpeech": "noun",
+      "etymology": "numeral śata 'hundred'; nava-śata = nine hundred"
+    },
+    {
+      "token": "કર",
+      "translit": "kara",
+      "gloss": "cubit (hasta), a hand-measure",
+      "partOfSpeech": "noun",
+      "etymology": "kara 'hand', here the cubit unit (= hasta); 4 kara/hasta = 1 dhanuṣa",
+      "notes": "dvi-guṇa nava-śata kara = twice 900 = 1800 cubits = 450 dhanuṣa, the canonical height of Ajitanātha"
+    },
+    {
+      "token": "પ્રમિત",
+      "translit": "pramita",
+      "gloss": "measured, of the measure of",
+      "partOfSpeech": "adj",
+      "etymology": "pra + √mā 'to measure'; past participle 'measured out'"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, splendid",
+      "partOfSpeech": "adj",
+      "etymology": "vara 'choice, best'; qualifies the body"
+    },
+    {
+      "token": "ભૂઘનં",
+      "translit": "bhūghanaṁ",
+      "gloss": "of solid, substantial frame (body)",
+      "partOfSpeech": "compound",
+      "etymology": "ghana 'dense, solid mass'; bhū- here 'being / stature' (or intensive 'abundant'); accusative",
+      "notes": "the whole phrase: 'whose excellent, solid body is measured at 1800 cubits'; the precise force of bhū- is uncertain and is left un-normalized per the source book"
+    },
+    {
+      "token": "નૌમિ",
+      "translit": "naumi",
+      "gloss": "I bow to, I praise",
+      "partOfSpeech": "verb",
+      "etymology": "√nu/nau 'to praise, extol'; present indicative first person singular",
+      "notes": "the governing verb of the verse; all accusatives are its objects"
+    },
+    {
+      "token": "કનકાભ",
+      "translit": "kanakābha",
+      "gloss": "golden-hued, gold-complexioned",
+      "partOfSpeech": "adj",
+      "etymology": "kanaka (gold) + ābhā (luster, sheen); 'having the radiance of gold'",
+      "notes": "the sandhi form is kanakābham, the -m liaising into the next written token"
+    },
+    {
+      "token": "મિભ",
+      "translit": "ibha",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "ibha 'elephant'; the leading મ-/m- is the carried-over anusvāra of kanakābha-m",
+      "notes": "with cinha it forms ibha-cinha, 'elephant-emblem' — Ajitanātha's lāñchana"
+    },
+    {
+      "token": "ચિન્હ",
+      "translit": "cinha",
+      "gloss": "mark, emblem, distinguishing sign",
+      "partOfSpeech": "noun",
+      "etymology": "cihna/cinha 'mark, sign'; here the Tīrthaṅkara's identifying emblem (lāñchana)"
+    },
+    {
+      "token": "મજિતં",
+      "translit": "ajitaṁ",
+      "gloss": "Ajita, 'the Unconquered'",
+      "partOfSpeech": "noun",
+      "etymology": "a (not) + jita (conquered) = 'invincible'; the name of the 2nd Jina; accusative",
+      "notes": "the leading મ-/m- is the carried-over anusvāra of cinha-m; word-form is ajitaṁ"
+    },
+    {
+      "token": "જિનં",
+      "translit": "jinaṁ",
+      "gloss": "the Jina (Victor)",
+      "partOfSpeech": "noun",
+      "etymology": "√ji 'to conquer'; jina 'one who has conquered (the passions)'; accusative, object of naumi"
+    }
+  ],
+  "literalTranslation": "In the foremost city of Kośalā, [born] hallowing the womb of (Queen) Vijayā; [son] of King Jitaśatru, the sun to the lotus-grove of his lineage; whose excellent, solid body is measured at twice nine hundred (1800) cubits — I bow to the golden-hued, elephant-emblemed Jina Ajita.",
+  "idiomaticTranslation": "Born in glorious Kośalā to sanctify Queen Vijayā's womb; son of King Jitaśatru and the very sun that opens the lotus-pond of his royal line; his splendid frame towering eighteen hundred cubits high — to that gold-bright, elephant-bannered Jina Ajita I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse left the two infant Jinas being bathed by the gods on Meru, this verse zooms in to fix Ajita's individual identity — and verse 7 will mirror it exactly for Śānti, so the pair stays balanced. Six identifying data are packed in: his city (Kośalā/Ayodhyā), his mother (Vijayā, named obliquely through 'vijayodara,' her womb), his royal father (Jitaśatru), his dynasty, his height, his colour, and his emblem. The loveliest stroke is kula-kamala-vana-dinakaraṁ: the family is a pond of lotuses and the newborn Jina is the rising sun whose touch makes them open — a single image that says 'his birth made the whole lineage flower.' The height is given not in plain dhanuṣa but riddled into 'twice nine hundred cubits' (dvi-guṇa nava-śata kara = 1800 kara = 450 dhanuṣa), a deliberate numerical flourish that the matching Śānti verse answers with '160 cubits.' The verse closes on the three fixed iconographic facts every devotee must hold in mind — kanaka (gold body), ibha (elephant emblem), ajita (the unconquered name) — and the verb naumi, 'I bow,' which alone governs the whole cascade of epithets. Note the chiming -daraṁ / -karaṁ / -ghanaṁ / -jinaṁ end-rhyme that drives the verse as sound.",
+    "doctrinalContext": "The verse encodes the standard biographical 'data-set' that Jain tradition fixes for each of the twenty-four Tīrthaṅkaras: birth-city, parents, body-colour (varṇa), emblem (lāñchana), and canonical height for this descending half-cycle (avasarpiṇī), in which successive Jinas are progressively shorter-lived and smaller. The elephant lāñchana is Ajita's permanent recognition-mark in image-worship. The name 'Ajita' ('Unconquered') is itself doctrinally loaded: the very word that names the foe-conquering father (Jita-śatru) is negated in the son, pointing past worldly victory to the inner conquest of the kaṣāyas that defines a Jina. The 'gold-hued' body belongs to the supernormal, auspicious physique attributed to a Tīrthaṅkara's final embodiment.",
+    "practicalRelevance": "For the reciter this verse is a devotional 'identikit': by naming city, parents, height, colour and emblem in one breath it lets the worshipper actually picture Ajita — golden-bodied, elephant beneath him — and steady the mind on a specific Jina rather than an abstraction. Holding the elephant-and-gold image is a concrete focus for darśana and visualization during the smaraṇa.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭi-śalākā-puruṣa-caritra, parvan 2 (life of Ajitanātha): birth at Ayodhyā, parents Jitaśatru and Vijayā, the dice-legend behind the name 'Ajita'",
+        "source": "Hemacandra (tr. Helen M. Johnson, GOS)"
+      },
+      {
+        "text": "Uttarapurāṇa (Digambara) on the naming of Ajita as 'unconquered'",
+        "source": "Guṇabhadra"
+      },
+      {
+        "text": "Standard Tīrthaṅkara lāñchana and pramāṇa lists (emblem = elephant; height = 450 dhanuṣa)",
+        "source": "Jain iconographic tradition / Vijay K. Jain, Ācārya works"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Birth at Ayodhyā (Kośala) to King Jitaśatru and Queen Vijaya; golden complexion; elephant emblem; height of 450 dhanuṣa; the womb-legend (Vijaya's invincibility at dice) behind the name Ajita"
+    },
+    {
+      "title": "Ibha — definition (Sanskrit/Prakrit dictionaries, Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/ibha",
+      "type": "dictionary",
+      "consultedFor": "Confirming ibha = 'elephant' across Sanskrit, Prakrit and lexical sources (ibha-cinha = elephant-emblem)"
+    },
+    {
+      "title": "Dinakara — definition (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/dinakara",
+      "type": "dictionary",
+      "consultedFor": "Confirming dinakara = 'sun' (dina-kara, day-maker) for the kula-kamala-vana-dinakara lotus-and-sun image"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verbatim book readings are preserved, including the sandhi-split written tokens 'મિભ' (= -m + ibha) and 'મજિતં' (= -m + ajitaṁ), where the leading મ/-m is the anusvāra carried from the preceding word. 'વિજયોદરં' is read as Vijayā-udara, 'the womb of (mother) Vijayā,' agreeing with the standard tradition that names Ajita's mother Vijayā; an alternative reading hears vijaya- as 'victory' (a victory-bearing womb), which the dice-legend in the Triṣaṣṭi account also supports — both are noted rather than forced. The height phrase 'dvi-guṇa nava-śata kara' = 2×900 = 1800 cubits (hasta) = 450 dhanuṣa, the canonical measure (4 hasta = 1 dhanuṣa). The exact force of 'bhū-' in 'vara-bhū-ghanaṁ' ('excellent solid frame') is uncertain and has been glossed, not normalized. Per the source book's orthography rules, no mātrā or conjunct has been silently corrected."
+}

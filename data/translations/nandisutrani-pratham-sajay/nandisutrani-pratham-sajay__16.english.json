@@ -1,0 +1,152 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Picturing the holy community as Mount Meru, this verse praises its lightning-bright summit crowned by the noblest monks, and its grove crowded with wish-granting trees of every virtue, heavy with fruit and flowers.",
+  "recitation": "viṇāyaṇāya pavara muṇivara, kuraṃta vijju-jjalaṃta siharassa | viviha guṇa kappa-rukkhaga, phala-bhara kusumāula vaṇassa ||",
+  "wordByWord": [
+    {
+      "token": "વિણાયણાય",
+      "translit": "viṇāyaṇāya",
+      "gloss": "endowed with humility/discipline (vinaya); reverent",
+      "partOfSpeech": "compound",
+      "etymology": "From Skt. vinaya ('humility, right discipline, the leading-away of fault') > Prakrit viṇaya; here qualifying the munis on the peak.",
+      "notes": "OCR/lexical reading uncertain; could also be parsed as a descriptor of the summit. Read with vinaya in line with the hymn's repeated stress on monastic discipline."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "most excellent, foremost",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pravara ('chief, best') > Prakrit pavara, by loss of intervocalic -r- cluster and softening."
+    },
+    {
+      "token": "મુણિવર",
+      "translit": "muṇivara",
+      "gloss": "best of sages, foremost monk",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. muni ('sage, silent ascetic') + vara ('best') = muni-vara; Prakrit muṇivara. A tatpuruṣa 'excellent among munis'."
+    },
+    {
+      "token": "કુરંત",
+      "translit": "kuraṃta",
+      "gloss": "abiding, gracing; (lit.) making, rendering",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle of √kṛ ('to do, make'); Skt. kurvat > Prakrit kuraṃta. Here: the munis 'making/gracing' the peak resplendent.",
+      "notes": "Participial reading; an alternative would take it as a flower-name (kuraṇṭa), but the grove-flowers belong to line 2, so the participle of √kṛ is preferred."
+    },
+    {
+      "token": "વિજજુજજલંત",
+      "translit": "vijju-jjalaṃta",
+      "gloss": "blazing like lightning, flashing-bright",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vidyut ('lightning') > Prakrit vijju + jvalat/jvalanta ('blazing', pres. part. of √jval) > jjalaṃta, with assimilation. A simile-compound 'lightning-blazing'."
+    },
+    {
+      "token": "સિહરસ્સ",
+      "translit": "siharassa",
+      "gloss": "of the peak, of the summit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śikhara ('peak, crest') > Prakrit sihara; genitive singular -assa (Skt. -asya). The -ssa ties this clause to the implied Meru/Saṅgha of the following verse.",
+      "notes": "Genitive depending on 'saṅgha-mahāmandara giri', resolved by 'vandāmi' in v.17."
+    },
+    {
+      "token": "વિવિહ",
+      "translit": "viviha",
+      "gloss": "manifold, various",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vividha ('of many kinds') > Prakrit viviha, by softening of the medial -dh-."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtue, good quality",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. guṇa ('quality, merit, strand') > Prakrit guṇa; here the spiritual virtues of the Saṅgha, embodied as wish-trees."
+    },
+    {
+      "token": "કપ્પરુક્ખગ",
+      "translit": "kappa-rukkhaga",
+      "gloss": "wish-fulfilling trees (kalpavṛkṣa)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kalpa ('wish, the granting of a wish') + vṛkṣa ('tree') = kalpa-vṛkṣa > Prakrit kappa-rukkha, with diminutive/collective -ga; conjuncts assimilated (lp>pp, kṣ>kkh)."
+    },
+    {
+      "token": "ફલભર",
+      "translit": "phala-bhara",
+      "gloss": "laden with fruit; a burden of fruit",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. phala ('fruit, result') + bhara ('load, weight') = phala-bhara; Prakrit unchanged. Bahuvrīhi: '[the grove] whose load is its fruit'."
+    },
+    {
+      "token": "કુસુમાઉલ",
+      "translit": "kusumāula",
+      "gloss": "thronged with flowers, dense with blossoms",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kusuma ('flower') + ākula ('crowded, filled') = kusumākula > Prakrit kusumāula, with vocalization of -k- to glide and hiatus."
+    },
+    {
+      "token": "વણસ્સ",
+      "translit": "vaṇassa",
+      "gloss": "of the grove, of the forest",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vana ('forest, grove') > Prakrit vaṇa (n>ṇ); genitive singular -assa. Evokes Meru's celestial Nandana grove.",
+      "notes": "Parallel genitive to siharassa; the two halves give the peak and the grove of the one Saṅgha-Meru."
+    }
+  ],
+  "literalTranslation": "[Of that Meru] whose lightning-blazing peak the most excellent, discipline-endowed best of sages grace; whose grove [teems] with wish-fulfilling trees of manifold virtues, laden with fruit and thronged with blossoms.",
+  "idiomaticTranslation": "Its summit flashes like lightning, crowned by the foremost of disciplined sages; its grove is a paradise of wish-granting trees, each one a different virtue, bowed low with fruit and ablaze with flowers — such is the great Mountain that is the Saṅgha.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā gives two more limbs of the Saṅgha-as-Meru figure, both in the genitive (siharassa, vaṇassa) that hangs unresolved until the 'vandāmi' of the next verse. The first half lifts the eye to the summit: the peak does not merely shine but 'blazes like lightning' (vijju-jjalanta), and what crowns it is not snow or gold but living holiness — 'the most excellent, discipline-endowed best of sages' (viṇāya pavara muṇivara) who abide there (kuranta). The mapping is exact: as gods and seers throng Meru's heights, so the Saṅgha's loftiest point is its company of accomplished munis, and their adornment is vinaya — the humility and self-discipline that is the root of all monastic virtue. The second half drops to the slopes: the grove (vaṇa), unmistakably the celestial Nandana of Meru, is planted with 'wish-fulfilling trees of manifold virtues' (viviha-guṇa-kappa-rukkhaga). Here the poet makes the single most pointed move of the verse — every distinct guṇa of the community is itself a kalpavṛkṣa. And these trees are not barren ornaments: they are 'laden with fruit' (phala-bhara) and 'thronged with blossoms' (kusumāula), the bending boughs and crowded flowers signalling a virtue that actually yields — flower of practice, fruit of realization. The verse thus pairs height with fertility: the munis are the unreachable summit, the virtues the generous, fruiting grove that draws and sustains all who approach.",
+    "doctrinalContext": "The verse's theological weight sits on the kalpavṛkṣa simile. A worldly wish-tree grants sensual desires; here the trees are the Saṅgha's virtues, and what they yield is spiritual — the 'fruit' (phala) is the karmic result of right practice, the maturing of the path toward liberation. By making each guṇa a separate tree, the verse affirms that the community's holiness is not a single abstraction but a whole flowering ecology of qualities (the three jewels, the great vows, restraint, study) each bearing its own fruit. The munis on the lightning-bright peak embody the apex of that same ascent: vinaya named first because, in Jain pedagogy, humility before the guru and the teaching is the precondition of all higher attainment.",
+    "practicalRelevance": "The reciter is invited to two acts at once: to look up — honoring the disciplined munis as the living summit of the tradition — and to look around at the grove, recognizing that virtue is meant to fruit, not merely to be admired. Cultivate a guṇa as one tends a tree: rooted in vinaya, it should in time blossom (visible practice) and bear fruit (real change), offering shade and nourishment to others.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening maṅgala — the Saṅgha-Meru gāthās (peaks, Nandana grove, jewel-caves)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi Kṣamāśramaṇa redaction"
+      },
+      {
+        "text": "Cosmographic descriptions of Meru's Nandana-vana and its kalpavṛkṣas",
+        "source": "Jambudvīpa-prajñapti / Tiloyapaṇṇatti (Jain cosmology)"
+      },
+      {
+        "text": "Virtue and reverence (vinaya) as the root of liberation-practice",
+        "source": "Daśavaikālika-sūtra ch. 9 (Vinaya-samādhi)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kalpavṛkṣa — definitions (incl. Jain context; Mandāra as a wish-tree)",
+      "url": "https://www.wisdomlib.org/definition/kalpavriksha",
+      "type": "dictionary",
+      "consultedFor": "Sense and register of kappa-rukkha (kalpa-vṛkṣa) as 'wish-fulfilling tree' and its Meru association"
+    },
+    {
+      "title": "Nandanavana — definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/nandanavana",
+      "type": "dictionary",
+      "consultedFor": "Identification of vaṇa with Meru's celestial Nandana grove"
+    },
+    {
+      "title": "Śikhara — definitions",
+      "url": "https://www.wisdomlib.org/definition/shikhara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sihara/śikhara as 'peak, crest, summit'"
+    },
+    {
+      "title": "Munivara — definitions ('excellent sage')",
+      "url": "https://www.wisdomlib.org/definition/munivara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of muṇivara as muni-vara, 'best/excellent among sages'"
+    },
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Source identity of the gāthās as the opening Saṅgha-praise of the Nandī-sūtra"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The two genitive endings (siharassa, vaṇassa) are not resolved within this verse: they qualify the 'saṅgha-mahāmandara giri' that is finally bowed to by 'vandāmi' in the following verse (17), so v.16 should be read as a descriptive clause carried over. Line 2 is secure (viviha guṇa kappa-rukkhaga / phala-bhara kusumāula vaṇassa). In line 1, 'viṇāyaṇāya' (read here from vinaya, 'discipline/humility') and 'kuraṃta' (read as the present participle of √kṛ, 'gracing/making') are the least certain tokens; OCR mātrā/conjunct rendering of the Anchalgachchha book is honored verbatim and not normalized. Recensions of the Nandī opening vary slightly in the count/wording of the Meru-gāthās, so minor variant readings are possible; consult a critical edition where exact wording is decisive."
+}

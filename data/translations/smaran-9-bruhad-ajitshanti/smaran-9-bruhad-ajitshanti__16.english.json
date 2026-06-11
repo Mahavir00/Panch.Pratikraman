@@ -1,0 +1,206 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever, with a calm and devoted heart, recites or listens to this Ajita–Śānti hymn on the holy days—fortnightly, seasonal, and yearly—will surely gain happiness.",
+  "recitation": "pākṣike kila cāturmāsike vārṣike, parvaṇi prakṛta-vara-puṇya-nara-nāyake | yo'mum atisoma-matir ajita-śānti-stavaṁ, paṭhati niśṛṇoti labhate sukhaṁ sa dhruvam ||",
+  "wordByWord": [
+    {
+      "token": "પાક્ષિકે",
+      "translit": "pākṣike",
+      "gloss": "on the fortnightly (pākṣika) holy day / observance",
+      "partOfSpeech": "noun",
+      "etymology": "From pakṣa (a 'fortnight,' half-lunar-month) + -ika; locative singular of pākṣika.",
+      "notes": "Locative of time — 'on the pakkhī (fortnightly) occasion.' First of the three graded observance-tiers named in the verse."
+    },
+    {
+      "token": "કિલ",
+      "translit": "kila",
+      "gloss": "indeed, truly, verily",
+      "partOfSpeech": "particle",
+      "etymology": "Indeclinable emphatic/asseverative particle (kila), often 'as is well known.'",
+      "notes": "Lends the phala-statement the tone of an established, trusted promise; metrically fills the line."
+    },
+    {
+      "token": "ચતુર્માસિકે",
+      "translit": "cāturmāsike",
+      "gloss": "on the four-monthly (seasonal) holy day / observance",
+      "partOfSpeech": "noun",
+      "etymology": "From catur ('four') + māsa ('month') + -ika; locative singular of cāturmāsika.",
+      "notes": "The thrice-yearly season-end (cāumāsī) tier."
+    },
+    {
+      "token": "વાર્ષિકે",
+      "translit": "vārṣike",
+      "gloss": "on the yearly (annual) holy day / observance",
+      "partOfSpeech": "noun",
+      "etymology": "From varṣa ('year') + -ika; locative singular of vārṣika.",
+      "notes": "The annual (sāṁvatsarī / Paryuṣaṇā) tier — the climax of the three."
+    },
+    {
+      "token": "પર્વણિ",
+      "translit": "parvaṇi",
+      "gloss": "on the sacred day, the festival juncture",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of parvan ('joint, juncture, lunar node, holy day'); the parvan days are the calendar 'joints' fixed for observance.",
+      "notes": "The governing locative the three -ike adjectives qualify: the pākṣika, cāturmāsika, and vārṣika parvan."
+    },
+    {
+      "token": "પ્રકૃત",
+      "translit": "prakṛta",
+      "gloss": "performed, instituted, duly undertaken",
+      "partOfSpeech": "adj",
+      "etymology": "Past participle of pra-√kṛ ('to do thoroughly, set in motion, ordain').",
+      "notes": "First member of the compound qualifying parvaṇi — the festival 'duly kept' by the worthy."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, foremost, choice",
+      "partOfSpeech": "adj",
+      "etymology": "From √vṛ ('to choose'); vara = 'select, best.'",
+      "notes": "Compounded with the following puṇya-nara-nāyaka."
+    },
+    {
+      "token": "પુણ્ય",
+      "translit": "puṇya",
+      "gloss": "meritorious; (of) merit, holy",
+      "partOfSpeech": "adj",
+      "etymology": "puṇya, 'merit, the fruit of good karma'; here adjectival, 'merit-laden.'",
+      "notes": "Continues the compound — 'the excellent, meritorious lord(s) of men.'"
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "man, human",
+      "partOfSpeech": "noun",
+      "etymology": "nara, 'man'; cognate with the divine-human pair nara-nārāyaṇa.",
+      "notes": "Compound member of nara-nāyaka."
+    },
+    {
+      "token": "નાયકે",
+      "translit": "nāyake",
+      "gloss": "for/by the lord, the leader (of men) = the king",
+      "partOfSpeech": "noun",
+      "etymology": "From √nī ('to lead') + -aka; nāyaka, 'leader, chief'; locative singular nāyake.",
+      "notes": "Closes the compound prakṛta-vara-puṇya-nara-nāyake. Reads either as an attribute of parvaṇi ('the festival instituted by the meritorious foremost of men') or as a locative-absolute ('the king of merit being present')."
+    },
+    {
+      "token": "યોડમુમતિ",
+      "translit": "yo'mum ati-",
+      "gloss": "he who ... this ... very-",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sandhi-cluster: yaḥ ('who,' relative pron., nom. sg., correlate of saḥ) + amum ('this,' acc. sg. of adas, object of paṭhati/niśṛṇoti) + the intensive prefix ati- ('exceedingly') beginning the next word. The ડ (avagraha ’) marks the elided a- of amum.",
+      "notes": "Three units fused in writing. amum 'this' points to the very hymn being recited; ati- carries over to soma-mati."
+    },
+    {
+      "token": "સોમમતિ",
+      "translit": "(ati-)soma-matiḥ",
+      "gloss": "with a serene, moon-cool mind",
+      "partOfSpeech": "compound",
+      "etymology": "soma ('moon, cooling nectar') + mati ('mind, intention'); with the carried-over ati- = atisoma-matiḥ, 'of exceedingly serene mind' (≈ saumya-mati). Nominative singular agreeing with saḥ.",
+      "notes": "Names the inner condition of the fruit — not mere recitation but recitation with a calm, devout bhāva. Its visarga (matiḥ) sandhis to -r before the next word."
+    },
+    {
+      "token": "રજિતશાંતિસ્તવં",
+      "translit": "(mati)r ajita-śānti-stavaṁ",
+      "gloss": "[mind]; the Ajita–Śānti hymn (this praise-song)",
+      "partOfSpeech": "noun",
+      "etymology": "The opening ર is the sandhi -r of the preceding matiḥ, NOT part of the name. ajita ('the Unconquered,' the 2nd Jina) + śānti ('Peace,' the 16th Jina, Śāntinātha) + stava ('hymn'); accusative singular stavaṁ.",
+      "notes": "The object of both verbs — 'this hymn.' The verse names itself, the hallmark of a phala-śruti."
+    },
+    {
+      "token": "પઠતિ",
+      "translit": "paṭhati",
+      "gloss": "reads aloud, recites",
+      "partOfSpeech": "verb",
+      "etymology": "Present 3rd sg. of √paṭh ('to recite, read aloud').",
+      "notes": "The reciter's share of the merit."
+    },
+    {
+      "token": "નિશૃણોતિ",
+      "translit": "niśṛṇoti",
+      "gloss": "listens to, hears (attentively)",
+      "partOfSpeech": "verb",
+      "etymology": "ni- (intensive/'down into') + present 3rd sg. of √śru ('to hear'), śṛṇoti; ni-śṛṇoti, 'to give ear to, hearken.'",
+      "notes": "The listener's equal share — placing reciter and hearer on one footing."
+    },
+    {
+      "token": "લભતે",
+      "translit": "labhate",
+      "gloss": "obtains, gains, comes to have",
+      "partOfSpeech": "verb",
+      "etymology": "Present 3rd sg. ātmanepada of √labh ('to obtain').",
+      "notes": "The promised result-verb; middle voice marks the gain accruing to the agent himself."
+    },
+    {
+      "token": "સુખં",
+      "translit": "sukhaṁ",
+      "gloss": "happiness, well-being, ease",
+      "partOfSpeech": "noun",
+      "etymology": "su- ('good') + kha ('axle-hole/space') → 'running smoothly'; sukha, accusative singular.",
+      "notes": "Deliberately open: worldly ease, freedom from the fears of v.15, and ultimately the bliss of the path."
+    },
+    {
+      "token": "સ",
+      "translit": "saḥ",
+      "gloss": "he, that very one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Nominative singular of tad; the correlative answering the relative yaḥ.",
+      "notes": "Resolves the yaḥ … saḥ ('whoever … he') frame of the promise."
+    },
+    {
+      "token": "ધ્રુવમ્",
+      "translit": "dhruvam",
+      "gloss": "surely, certainly, without fail",
+      "partOfSpeech": "adverb",
+      "etymology": "Adverbial accusative of dhruva ('fixed, firm, the Pole-star'); 'fixedly, of a certainty.'",
+      "notes": "The seal of the guarantee — the fruit is dhruva, as fixed as the pole-star."
+    }
+  ],
+  "literalTranslation": "On the fortnightly, the four-monthly, the yearly holy day—indeed—on the festival instituted by the excellent, meritorious lord of men, whoever, with an exceedingly serene mind, recites or listens to this Ajita–Śānti hymn—he, certainly, obtains happiness.",
+  "idiomaticTranslation": "Truly, on every sacred day kept by the worthy and merit-rich—be it the fortnightly, the seasonal, or the yearly observance—whoever recites this Ajita–Śānti hymn, or even listens to it with a heart cooled to moon-bright serenity, that one will, beyond all doubt, attain happiness.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the hymn's explicit phala-śruti, and it is built as a single conditional sentence whose two halves a reciter can feel: a long list of when and how (line 1 and the first half of line 2), then a swift triple verb of result (paṭhati niśṛṇoti labhate). Three things deserve notice. First, the three observance-tiers are named in ascending order—pākṣika, cāturmāsika, vārṣika—so the verse quietly mirrors the graduated rhythm of the practitioner's calendar, the smallest cycle opening onto the greatest. Second, the inner qualifier ati-soma-mati is the heart of the promise: the fruit is not mechanical. It is the serene, 'moon-cool' mind—free of the heat of passion and the fears just enumerated in v.15—that draws the benefit, so the line is as much an instruction on bhāva as a guarantee. Third, and most tenderly, the verse pairs paṭhati with niśṛṇoti: the one who merely listens stands beside the one who recites. Merit here is not gate-kept by literacy or memory; the attentive ear earns the same sukham. The closing dhruvam is the poet's signature of certainty—after fifteen verses of biography, protection, and praise, the hymn stakes its own worth on a fixed, pole-star promise, before the final benediction (v.17) widens that promise from the individual to the whole Saṅgha.",
+    "doctrinalContext": "The verse encodes the Jain logic of bhāva over mere kriyā: the act (recitation/hearing) bears fruit in proportion to the purity of intention, hence ati-soma-mati is named before the verbs. By placing recitation on the parvan days, it ties devotional merit to the saṁvara-and-nirjarā rhythm of the observance-calendar, where heightened restraint multiplies the karmic yield of a good act. The equal billing of reciter and listener reflects the tradition's high valuation of śravaṇa (hearing of sacred word) as itself a merit-bearing act of the threefold yoga. And the deliberately unspecified sukham keeps the door open from worldly well-being to the supreme, fearless ease that is the path's true aim—continuous with the protective register of the preceding verse.",
+    "practicalRelevance": "A reciter today can take the verse as a checklist for their own act: choose the day (a parvan if possible), settle the mind to 'moon-cool' calm before beginning, and recite or—if one cannot—simply listen with full attention, trusting that the second is as fruitful as the first. It reframes attendance at a recitation one cannot lead as full participation, not a lesser one.",
+    "crossReferences": [
+      {
+        "text": "Bṛhad Ajitaśānti Stava v.15 (the protective promise that calamities cannot harm the devotee) and v.17 (the closing benediction on the Saṅgha) — this phala-śruti bridges them.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Compare the closing phala-śruti of the Prakrit Ajitaśānti (2nd Smaraṇa) by Nandiṣeṇasūri, which likewise promises welfare to the reciter/hearer.",
+        "source": "Nava Smaraṇa collection, jainqq.org"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and grammar of parvan, kila, dhruvam, prakṛta (pra-√kṛ), nāyaka (√nī), niśṛṇoti (ni-√śru), labhate (√labh), sukha, and the soma/mati compound."
+    },
+    {
+      "title": "Ajitshanti Stotram (full text)",
+      "url": "https://jainqq.org/booktext/Ajitshanti_Stotram/229326",
+      "type": "translation",
+      "consultedFor": "The Ajita–Śānti devotional tradition and the conventional shape of its concluding phala-śruti naming the reciter and listener."
+    },
+    {
+      "title": "Nava Smaraṇa (the Nine Remembrance hymns collection)",
+      "url": "https://jainqq.org/explore/008333/111",
+      "type": "scholarship",
+      "consultedFor": "Placement of Ajita–Śānti material within the Nine Smaraṇas and the protective/merit purpose of the set."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and the pākṣika/cāturmāsika/vārṣika observance framework the verse invokes."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The source orthography fuses sandhi heavily, so several written 'tokens' are multi-word: યોડમુમતિ = yaḥ + amum + ati- (the ડ is avagraha for elided a-), and the ર opening રજિતશાંતિસ્તવં is the sandhi -r of the preceding matiḥ, NOT part of the name Ajita-Śānti. સોમમતિ is read as (ati-)soma-mati ('serene, moon-cool mind,' ≈ saumya-mati); an alternative reading 'Soma-mati' as a proper name is possible but unsupported by context. The compound prakṛta-vara-puṇya-nara-nāyake is grammatically ambiguous—an attribute of parvaṇi ('the festival kept by the meritorious foremost of men') or a locative absolute—and the rendering leans on the former. sukham is left deliberately broad per the text. Per the tradition knowledge base, authorship of this Bṛhad Ajitaśānti Stava is unattested and is left uncertain. Open-web stotra texts of 'Ajitaśānti' differ from this Bṛhad recension; the book remains the golden source for every mātrā and conjunct, and its readings are preserved unnormalized."
+}

@@ -1,0 +1,142 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the teacher Ārya Samudra, whose fame reached the three seas and who, like a calm, deep ocean, fathomed the depths of all the worlds.",
+  "recitation": "tisamuda khāyakittiṁ, dīva samuddesu gahiya peyālaṁ | vande ajjasamuddaṁ, akkhubhiya samudda gambhīraṁ ||",
+  "wordByWord": [
+    {
+      "token": "તિસમુદ",
+      "translit": "ti-samuda",
+      "gloss": "of/reaching the three seas (i.e. far and wide)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ti (Skt. tri, 'three') + samuda (Skt. samudra, 'ocean, sea'); the three seas bordering Bharata, a stock idiom for 'the whole known world'.",
+      "notes": "Qualifies the following khāya-kittiṁ: fame extending to the three oceans. First of three ocean-words in the verse, all punning on the teacher's name."
+    },
+    {
+      "token": "ખાયકિત્તિં",
+      "translit": "khāya-kittiṁ",
+      "gloss": "renowned fame (one whose fame is celebrated) — accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit khāya (Skt. khyāta, 'famed, celebrated', root khyā 'to be known') + kittiṁ (Skt. kīrti, 'fame, renown'); accusative singular, object of vande.",
+      "notes": "khyāta-kīrti = 'of famed renown'; with ti-samuda, 'whose renown is celebrated across the three seas'."
+    },
+    {
+      "token": "દીવ",
+      "translit": "dīva",
+      "gloss": "continents / islands",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dīva (Skt. dvīpa, 'island, continent'); in Jain cosmography the concentric dvīpas of the middle world.",
+      "notes": "Forms the cosmographic pair dvīpa-samudra (continents-and-oceans) with the next word."
+    },
+    {
+      "token": "સમુદ્દેસુ",
+      "translit": "samuddesu",
+      "gloss": "in/among the oceans (locative plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samudda (Skt. samudra, 'ocean') + locative plural ending -esu.",
+      "notes": "dīva-samuddesu = 'in the [matters of the] continents and oceans', i.e. the whole dvīpa-samudra cosmography that the canon expounds."
+    },
+    {
+      "token": "ગહિય",
+      "translit": "gahiya",
+      "gloss": "grasped, comprehended, penetrated",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit gahiya (Skt. gṛhīta, past participle of grah 'to seize, grasp').",
+      "notes": "Active sense here: 'one by whom [the depths] were grasped'."
+    },
+    {
+      "token": "પેયાલં",
+      "translit": "peyālaṁ",
+      "gloss": "the depths / the abyss (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit peyāla (Skt. pātāla, 'the nether depths, the ocean abyss'); accusative singular.",
+      "notes": "gahiya-peyālaṁ = 'who has fathomed the depths' — his learning plumbed the dvīpa-samudra cosmography to its very abyss. Plays on the ocean imagery of his name."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I pay homage",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Skt. vande, 1st person singular present of vand 'to salute, revere'.",
+      "notes": "The verse's main verb; the recurring act of vandanā governing the whole sajjhāy."
+    },
+    {
+      "token": "અજ્જસમુદ્દં",
+      "translit": "ajja-samuddaṁ",
+      "gloss": "Ārya Samudra (the teacher so named) — accusative",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajja (Skt. ārya, 'noble', the honorific prefixing ācārya names) + samudda (Skt. samudra, 'ocean'); the personal name. Accusative, object of vande.",
+      "notes": "The named teacher; identification as the lineage ācārya 'Ārya Samudra' is the tradition's. His name 'Ocean' is the pivot of the verse's wordplay."
+    },
+    {
+      "token": "અક્ખુભિય",
+      "translit": "akkhubhiya",
+      "gloss": "unshaken, unagitated, untroubled",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (negative) + kkhubhiya (Skt. kṣubhita, 'agitated, stirred', root kṣubh); = Skt. akṣubhita, 'unstirred'.",
+      "notes": "Begins the closing simile akkhubhiya-samudda-gambhīraṁ."
+    },
+    {
+      "token": "સમુદ્દ",
+      "translit": "samudda",
+      "gloss": "ocean (in the simile)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samudda (Skt. samudra, 'ocean').",
+      "notes": "Third occurrence of the ocean-word, here purely as the object of comparison, echoing the teacher's name."
+    },
+    {
+      "token": "ગંભીરં",
+      "translit": "gambhīraṁ",
+      "gloss": "deep, profound, fathomless (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Skt. gambhīra, 'deep, profound'; accusative singular agreeing with ajja-samuddaṁ.",
+      "notes": "akkhubhiya-samudda-gambhīraṁ = '[him who is] fathomless like an unstirred ocean' — the simile sealing the name-pun."
+    }
+  ],
+  "literalTranslation": "Of renown famed across the three seas; one who has grasped the depths within the continents and oceans — I bow to Ārya Samudra, fathomless as an unshaken ocean.",
+  "idiomaticTranslation": "His fame has spread to the very edges of the three seas; his understanding has plumbed the depths of the continents and oceans of the worlds. I bow to Ārya Samudra — calm, unstirred, and fathomless as the deep ocean itself.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single verse is woven almost entirely from the teacher's own name, Samudda ('Ocean'), and it rings four ocean-notes in turn. First, ti-samuda khāya-kittiṁ: his renown reaches 'the three seas', the idiom for the bounds of the known world. Second, dīva-samuddesu gahiya-peyālaṁ: 'in the continents and oceans he grasped the depths' — a deliberate double sense. Read cosmographically, he fathomed the dvīpa-samudra structure of the worlds that the canon maps; read of the man, his learning, like a diver, reached the abyss (peyāla = pātāla) where ordinary minds cannot go. Third and fourth, the closing simile akkhubhiya-samudda-gambhīraṁ fuses two virtues onto the name: he is unshaken (akṣubhita) — no storm of debate, hardship, or passion stirs his surface — and gambhīra, fathomless in wisdom. The poet thus turns a proper name into a complete spiritual portrait: as an ocean is at once vast in fame's reach, deep beyond sounding, and yet calm at its core, so is Ārya Samudra. The grammar is simple — one verb, vande, governing the accusative ajja-samuddaṁ qualified by three epithets — but the rhetoric is dense: the figure is yamaka/śleṣa, the same sound 'samudda' carrying name, metaphor, and cosmography at once. The verse therefore advances the lineage-roll not by adding biography but by fixing one teacher in memory through an unforgettable image, exactly the homage-and-simile pattern the hymn applies to each elder in turn.",
+    "doctrinalContext": "The 'depths grasped in the continents and oceans' points to the kālika-śruta's cosmographic content — the jīva-laden dvīpa-samudra geography of the middle world — which an ācārya must master and transmit intact. 'Unshaken' (akṣubhita) names the monastic virtue of equanimity (samatā) under the upasargas and parīṣahas, the same steadiness the whole hymn prizes in its elders; 'fathomless' (gambhīra) names the depth of right-knowledge (samyag-jñāna) that qualifies a vācaka to expound scripture. The verse quietly models the ideal: vast in influence, deep in learning, calm in conduct.",
+    "practicalRelevance": "Reciting this verse, the practitioner asks for the ocean's three qualities in their own sādhanā: a calm surface (akṣubhita) that the day's provocations cannot stir, depth (gambhīra) won by steady study rather than show, and a fame, if any, that follows virtue rather than being chased. The image gives a simple daily test — meet disturbance as a deep sea meets a passing squall.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, Sthavirāvalī gāthās (homage to Ārya Samudra)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction; Jain eLibrary edition"
+      },
+      {
+        "text": "akṣubhita-samudra-gambhīra as a recurring ācārya-simile",
+        "source": "Preface, recurringImagery (this sutra)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and roots: gṛhīta (grah), khyāta/kīrti, akṣubhita (kṣubh), gambhīra, pātāla, samudra, dvīpa."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Hindi dictionary), H. T. Sheth",
+      "url": "https://www.jainqq.org/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms gahiya, peyāla, khāya, kitti, samudda, dīva, akkhubhiya and their Sanskrit correspondences."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Nandīsūtra) and its Sthavirāvalī",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Placement of the Ārya Samudra homage within the Nandī-sūtra teacher-lineage and the dvīpa-samudra cosmographic frame."
+    },
+    {
+      "title": "Nandī Sūtra (Jain Dharma kā Mūla) — English version",
+      "url": "https://www.jainworld.com/literature/sacred-books/jain-dharma-ka-mool/english/version1/chapterxv.asp",
+      "type": "translation",
+      "consultedFor": "General sense of the Sthavirāvalī homage-verses and Prakrit idioms such as ti-samudda ('three seas')."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is a sustained śleṣa/yamaka on the name samudda ('ocean'): ti-samuda (three seas of fame), dīva-samuddesu (cosmographic oceans), and the closing akkhubhiya-samudda simile. peyāla is read as Skt. pātāla ('abyss, depths'); a minority sense 'drinkable' (peya) does not suit the context. તિસમુદ is given with a single -d- in this book; other recensions read tisamudda — preserved verbatim per the orthography rules. The identification of 'Ārya Samudra' as the specific lineage ācārya is traditional, as flagged in the preface; no biographical detail is asserted beyond the epithets the verse itself supplies. gahiya-peyāla is taken as an active bahuvrīhi ('by whom the depths were grasped')."
+}

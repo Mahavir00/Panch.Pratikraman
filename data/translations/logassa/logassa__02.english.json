@@ -1,0 +1,174 @@
+{
+  "shlokaId": "logassa/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the reciter bows, one by one, to the first eight of the twenty-four great Jain teachers — from Ṛṣabha and Ajita through to Supārśva and Candraprabha.",
+  "recitation": "usabha majiaṁ ca vande, saṁbhava mabhiṇaṁdaṇaṁ ca sumaiṁ ca | paümappahaṁ supāsaṁ, jiṇaṁ ca caṁdappahaṁ vande ||",
+  "wordByWord": [
+    {
+      "token": "ઉસભ",
+      "translit": "usabha",
+      "gloss": "Ṛṣabha — the first Tīrthaṅkara (object of vande)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit usabha < Sanskrit ṛṣabha, 'bull' (Ṛṣabha's iconographic emblem).",
+      "notes": "Stem form standing as accusative object of the following vande."
+    },
+    {
+      "token": "મજિઅં",
+      "translit": "m-ajiaṁ",
+      "gloss": "and Ajita — the second Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "ajiaṁ < Sanskrit ajita, 'unconquered'; the leading m is a euphonic āgama (hiatus-filling consonant) inserted between usabha and ajiaṁ.",
+      "notes": "The word is ajiaṁ (Ajita); the m belongs to no name — it merely bridges the two adjacent vowels. Accusative singular."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca, connective.",
+      "notes": ""
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I venerate / I bow",
+      "partOfSpeech": "verb",
+      "etymology": "First person singular present of √vand, 'to praise, salute, bow'.",
+      "notes": "First of two occurrences; brackets the list of names (see second vande at the close)."
+    },
+    {
+      "token": "સંભવ",
+      "translit": "saṁbhava",
+      "gloss": "Sambhava — the third Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁbhava < Sanskrit sambhava, 'origin, coming-into-being'.",
+      "notes": "Stem form as accusative object."
+    },
+    {
+      "token": "મભિણંદણં",
+      "translit": "m-abhiṇaṁdaṇaṁ",
+      "gloss": "and Abhinandana — the fourth Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "abhiṇaṁdaṇaṁ < Sanskrit abhinandana, 'rejoicing, delight'; again preceded by the euphonic āgama m.",
+      "notes": "As with m-ajiaṁ, the m bridges saṁbhava and abhiṇaṁdaṇaṁ; the name is Abhinandana. Note Prakrit n → ṇ. Accusative singular."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": ""
+    },
+    {
+      "token": "સુમઇં",
+      "translit": "sumaiṁ",
+      "gloss": "Sumati — the fifth Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "sumaiṁ < Sanskrit sumati, 'good mind, sound wisdom' (su 'good' + mati 'mind').",
+      "notes": "Accusative singular; intervocalic t softened/lost in Prakrit (sumati → sumai)."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": "Third ca of the verse, closing the first hemistich's tally."
+    },
+    {
+      "token": "પઉમપ્પહં",
+      "translit": "paümappahaṁ",
+      "gloss": "Padmaprabha — the sixth Tīrthaṅkara",
+      "partOfSpeech": "compound",
+      "etymology": "paüma (< Sanskrit padma, 'lotus') + ppaha (< prabhā, 'radiance') = 'lotus-radiant'; his emblem is the red lotus.",
+      "notes": "A guṇa-niṣpanna (quality-derived) name; accusative singular."
+    },
+    {
+      "token": "સુપાસં",
+      "translit": "supāsaṁ",
+      "gloss": "Supārśva — the seventh Tīrthaṅkara",
+      "partOfSpeech": "compound",
+      "etymology": "su ('good, fair') + pāsa (< Sanskrit pārśva, 'side, flank') = 'fair-sided'.",
+      "notes": "Accusative singular; Prakrit rś → s."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (Victor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'conqueror (of the passions)'.",
+      "notes": "An epithet here syntactically governing Candraprabha, but applicable to all named — a reminder that each is a Jina."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca.",
+      "notes": ""
+    },
+    {
+      "token": "ચંદપ્પહં",
+      "translit": "caṁdappahaṁ",
+      "gloss": "Candraprabha — the eighth Tīrthaṅkara",
+      "partOfSpeech": "compound",
+      "etymology": "caṁda (< Sanskrit candra, 'moon') + ppaha (< prabhā, 'radiance') = 'moon-radiant'; his emblem is the moon.",
+      "notes": "Accusative singular; pairs imagistically with paümappahaṁ — two 'radiance' (ppaha) names within one verse."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I venerate / I bow",
+      "partOfSpeech": "verb",
+      "etymology": "First person singular present of √vand.",
+      "notes": "Second vande, closing the inclusio opened by the first; the eight names are framed between two acts of bowing."
+    }
+  ],
+  "literalTranslation": "Ṛṣabha and Ajita I venerate; Sambhava and Abhinandana and Sumati; Padmaprabha, Supārśva, and the Jina Candraprabha I venerate.",
+  "idiomaticTranslation": "I bow to Ṛṣabha and to Ajita; to Sambhava, to Abhinandana, and to Sumati; to Padmaprabha and Supārśva; and to the Jina Candraprabha I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having vowed in the previous verse to praise all twenty-four, the reciter now begins the actual roll-call, naming Tīrthaṅkaras one through eight in their exact canonical order: Ṛṣabha, Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha, Supārśva, Candraprabha. The verse's craft lies in two features a careful reciter should notice. First, it is bracketed by vande — 'I bow' opens the verse and 'I bow' closes it — so the eight names are held within an embrace of veneration; the single verb does devotional duty for every name. Second, twice an extra m appears at a word-junction (usabha **m**-ajiaṁ, saṁbhava **m**-abhiṇaṁdaṇaṁ). This is not part of any name but a euphonic consonant (āgama) that Ardhamāgadhī inserts to smooth the meeting of two vowels — a point on which newcomers (and even some glosses) stumble, mistaking 'majiaṁ' for a separate figure. The name is simply Ajita. Note too that several of these are 'speaking names': Paüma-ppaha is 'lotus-radiant', Caṁda-ppaha 'moon-radiant', Sumai 'sound-minded', Supāsa 'fair-sided' — so the very act of naming already praises each one's distinguishing light or virtue. The lone epithet jiṇaṁ ('the Jina'), grammatically attached to Candraprabha, in spirit crowns all eight: each named teacher is a conqueror of the inner foes.",
+    "doctrinalContext": "The verse enacts nāma-smaraṇa / kīrtana — devotion through precise remembrance of names. In Jain thought a Tīrthaṅkara's name is guṇa-niṣpanna, born of his qualities, so to utter 'Padmaprabha' or 'Candraprabha' is already to recall the radiance such a being embodies. Bowing to all eight with one undifferentiated vande affirms the equality of the perfected: among Jinas there is no rank, only the same conquered, liberated state. The naming is not mythography but a spiritual census of those who have actually crossed, offered as living proof that the path can be walked to its end.",
+    "practicalRelevance": "When chanting, the reciter should let each name land as a distinct bow rather than blur the list into sound — pausing inwardly on each of the eight. Practically, mark the euphonic m so as not to fracture or invent names (Ajita, not 'majiaṁ'; Abhinandana, not 'mabhinandana'). Because Logassa also times kāyotsarga, accurate, unhurried articulation of this naming-verse keeps the breath-count honest.",
+    "crossReferences": [
+      {
+        "text": "Caturviṁśati-stava (Logassa), gāthā 2 — the naming of Tīrthaṅkaras 1–8 within the Second Āvaśyaka",
+        "source": "Āvaśyaka-sūtra, Ardhamāgadhī canon"
+      },
+      {
+        "text": "Standard sequence of the twenty-four Tīrthaṅkaras, Ṛṣabha through Mahāvīra",
+        "source": "Kalpasūtra; cf. Wikipedia, 'Tirthankara'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Canonical order and identity of the twenty-four Tīrthaṅkaras, confirming names 1–8 in this verse."
+    },
+    {
+      "title": "Padmaprabha",
+      "url": "https://en.wikipedia.org/wiki/Padmaprabha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the sixth Tīrthaṅkara and the lotus emblem/red complexion underlying the name paüma-ppaha ('lotus-radiant')."
+    },
+    {
+      "title": "Chandraprabha",
+      "url": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the eighth Tīrthaṅkara as 'Lord of Moon' and the moon emblem behind caṁda-ppaha ('moon-radiant')."
+    },
+    {
+      "title": "Suparshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Suparshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the seventh Tīrthaṅkara (Supārśva, 'fair-sided') confirming the gloss of supāsaṁ."
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "The names follow the standard canonical order 1–8 (Ṛṣabha, Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha, Supārśva, Candraprabha), matching the preface's stated arc. The leading m in 'majiaṁ' and 'mabhiṇaṁdaṇaṁ' is a euphonic hiatus-filling consonant (āgama m), not part of any name; some online glosses err here, variously misreading 'majiaṁ' as Padmaprabha or as Sanskrit madhyam — both are incorrect, the word is Ajita. Verbatim orthography of the Anchalgachchha (Vidhipakṣa) source is preserved (e.g. ṇ for n, ppa conjuncts, anusvāras); no normalisation applied. Tokenisation here keeps the euphonic m with its following name for clarity; it could equally be analysed as a junction-consonant standing apart."
+}

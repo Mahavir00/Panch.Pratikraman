@@ -1,0 +1,162 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/17",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing low in reverence, I salute the Sangha — a great Mount Meru whose summit blazes, lovely and spotless, with the jewels of supreme knowledge.",
+  "recitation": "ṇāṇavara-rayaṇa dippanta-kanta, verūliya vimala cūlassa | vandāmi viṇaya-paṇao, saṅgha mahāmandara-girissa ||",
+  "wordByWord": [
+    {
+      "token": "નાણવર",
+      "translit": "ṇāṇavara",
+      "gloss": "of supreme/excellent knowledge",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ṇāṇa (< Skt. jñāna, 'knowledge') + vara ('best, excellent'); here the second of the three jewels, right-knowledge.",
+      "notes": "Qualifies rayaṇa: 'jewels of excellent knowledge'."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Skt. ratna, 'gem, jewel'.",
+      "notes": "The gems studding Meru's crest, glossed here as right-knowledge."
+    },
+    {
+      "token": "દિપ્પંત",
+      "translit": "dippanta",
+      "gloss": "blazing, shining",
+      "partOfSpeech": "adj",
+      "etymology": "Present participle, Prakrit dippanta < Skt. dīpyamāna, from √dīp 'to blaze, shine'.",
+      "notes": "Describes the radiance of the knowledge-jewels."
+    },
+    {
+      "token": "કંત",
+      "translit": "kanta",
+      "gloss": "lovely, beautiful",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kanta < Skt. kānta, 'beloved, lovely', from √kam 'to desire'.",
+      "notes": "Paired with dippanta: the crest is both radiant and beautiful."
+    },
+    {
+      "token": "વેરૂલિય",
+      "translit": "verūliya",
+      "gloss": "vaiḍūrya (beryl / cat's-eye gem)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit verūliya < Skt. vaiḍūrya, a precious blue-green stone (beryl/cat's-eye), one of the canonical gems of Meru.",
+      "notes": "A technical gem-name; transliterated, as it names a specific jewel of the mountain's summit."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "spotless, pure",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Prakrit vimala, vi- ('away') + mala ('stain'): 'free of stain'.",
+      "notes": "Qualifies verūliya: a flawless vaiḍūrya, evoking purity."
+    },
+    {
+      "token": "ચૂલસ્સ",
+      "translit": "cūlassa",
+      "gloss": "of the crest / summit",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive sg. of Prakrit cūlā (< Skt. cūlā/cūlikā, 'crest, peak, topknot'); the cūlikā is the jewel-bright summit of Meru.",
+      "notes": "Genitive in agreement with girissa: 'the mountain whose crest is...'."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I salute, I bow to",
+      "partOfSpeech": "verb",
+      "etymology": "1st person sg. present, Skt./Prakrit √vand 'to praise, venerate, salute'.",
+      "notes": "The main verb of the verse; object is saṅgha-mahāmandara-girissa."
+    },
+    {
+      "token": "વિણય",
+      "translit": "viṇaya",
+      "gloss": "reverence, humility",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit viṇaya < Skt. vinaya, 'discipline, humility, reverence'; vi- + √nī.",
+      "notes": "Adverbial/instrumental sense with paṇao: 'bowed through reverence'."
+    },
+    {
+      "token": "પણઓ",
+      "translit": "paṇao",
+      "gloss": "bowed down, prostrate",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇao < Skt. praṇata, pra- + √nam 'to bend, bow'; nominative agreeing with the unstated 'I'.",
+      "notes": "viṇaya-paṇao: '(I,) bowed low in reverence'."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the four-fold community",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit saṅgha (see preface glossary).",
+      "notes": "In apposition with the mountain: the Saṅgha IS the great Mandara."
+    },
+    {
+      "token": "મહામંદર",
+      "translit": "mahāmandara",
+      "gloss": "great Mandara (Mount Meru)",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + mandara, the cosmic world-mountain Meru (see preface glossary).",
+      "notes": "Forms the rūpaka identifying the Saṅgha with Meru."
+    },
+    {
+      "token": "ગિરિસ્સ",
+      "translit": "girissa",
+      "gloss": "of the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive sg. of Prakrit giri < Skt. giri, 'mountain'.",
+      "notes": "Object of vandāmi taken in the genitive/objective sense: 'I salute (the mountain that is) the Saṅgha-Meru'."
+    }
+  ],
+  "literalTranslation": "Of the great Mandara-mountain that is the Saṅgha — whose crest is lovely and blazing with jewels of supreme knowledge, spotless with flawless vaiḍūrya — I, bowed low in reverence, offer my salutation.",
+  "idiomaticTranslation": "I bow in humble reverence to the Saṅgha, that towering Mount Meru whose very summit shines, lovely and pure, set with flawless beryl and ablaze with the jewels of supreme knowledge.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having climbed the lower slopes of the Saṅgha-Meru in the preceding verse — its wish-granting trees of virtue, its lightning-bright ridges, its forest heavy with flower and fruit — the hymn now lifts the eye to the very crowning summit (cūlā/cūlikā). On Meru's pinnacle the canonical gems of cosmology gleam; here those gems are read spiritually: the crest blazes (dippanta) and is lovely (kanta) with rayaṇa of excellent knowledge (ṇāṇavara), and is spotless (vimala) with flawless vaiḍūrya. The single ruling image is right-knowledge crowning the community: just as a mountain is recognised by its highest, brightest point, the Saṅgha is crowned by samyag-jñāna. The gem-pairing is deliberate — radiant brilliance (the active light of knowledge) joined to flawless purity (knowledge undimmed by stain or false view). The second line supplies what the slopes-verse lacked: the worshipper's own posture. 'viṇaya-paṇao' — bowed low through reverence — is not ornament but the prescribed inner stance toward this summit; and 'vandāmi', 'I salute', is the verse's sole finite verb, making this the explicit act of homage. The verse thus pivots from describing the mountain to bowing before it, preparing the eye to ascend in the next verse to the twelve-fold scripture (bārasaṅga) as the ultimate peak.",
+    "doctrinalContext": "The verse foregrounds two of the three jewels (ratna-traya): right-knowledge (jñāna), figured as the gem-bright summit, approached through vinaya — reverent humility, traditionally named the root of the whole Jain path (vinaya-mūlo dhammo). That the reciter is 'viṇaya-paṇao' before approaching knowledge encodes a doctrinal sequence: humility conditions the reception of true knowledge. The pairing of blazing radiance (dippanta) with stainlessness (vimala) mirrors the Jain account of kevala-jñāna as light wholly free of the obscuring karmas — knowledge that is at once luminous and pure.",
+    "practicalRelevance": "When the reciter reaches this gāthā, the body's bow (praṇāma) and the inner attitude of vinaya are meant to coincide: one does not merely admire the Saṅgha's learning but bends before it. It is a moment to check pride in one's own study and to receive the community's knowledge as a crowning, borrowed gem rather than a personal possession.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika 9.2 — 'vinaya' as the root of dharma and the disposition for receiving knowledge",
+        "source": "Daśavaikālika-sūtra (Śvetāmbara Mūlasūtra)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (the three jewels)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Nandī-sūtra opening maṅgala, Meru/Mandara Saṅgha-similes (vv.12–18 of this sajjhāy)",
+        "source": "Nandī-sūtra (Devardhigaṇi redaction)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vaidurya, Vaiḍūrya — definitions (Sanskrit/Prakrit/Jaina)",
+      "url": "https://www.wisdomlib.org/definition/vaidurya",
+      "type": "dictionary",
+      "consultedFor": "Identification of verūliya/vaiḍūrya as a precious stone (beryl/cat's-eye) and its Prakrit form"
+    },
+    {
+      "title": "Mandara or Mount Meru: Significance and symbolism",
+      "url": "https://www.wisdomlib.org/concept/mandara-or-mount-meru",
+      "type": "scholarship",
+      "consultedFor": "Mandara as a name/aspect of Meru and the jewelled summit imagery"
+    },
+    {
+      "title": "Mount Meru — Jainpedia",
+      "url": "https://jainpedia.org/glossary/mount-meru/",
+      "type": "scholarship",
+      "consultedFor": "Jain cosmological Meru: central world-mountain, terraced, jewel-bright summit (cūlikā)"
+    },
+    {
+      "title": "Mount Meru — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Meru",
+      "type": "translation",
+      "consultedFor": "General cosmological background on Meru/Sumeru and its gem-faced summit"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading follows the verbatim book text; mātrās/anusvāras (e.g. 'વેરૂલિય' long ū, 'પણઓ') not normalized. The compound 'ṇāṇavara-rayaṇa-dippanta-kanta...cūlassa' is taken as a single bahuvrīhi qualifying 'girissa' (the mountain whose crest is...). 'girissa'/'cūlassa' are genitives read here as objective with vandāmi ('I salute the mountain...'), as is idiomatic in these Saṅgha-stuti gāthās; an alternative parse takes vandāmi's object as the apposed 'saṅgha-mahāmandara' with the genitives adnominal — the devotional sense is unchanged. 'verūliya' is rendered beryl/cat's-eye per the Prakrit lexica; precise gem-identification (beryl vs. cat's-eye vs. lapis) varies by tradition and is left flagged. Per methodology, more than three distinct verifiable references were consulted; Prakrit glosses cross-checked against the senses recorded in Sheth's Pāia-sadda-mahaṇṇavo and Monier-Williams (vaiḍūrya, cūlā, praṇata, √vand)."
+}

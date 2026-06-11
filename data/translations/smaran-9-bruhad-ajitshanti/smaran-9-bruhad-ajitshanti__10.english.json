@@ -1,0 +1,164 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "When the Jina attained all-knowing (kevala-jñāna), its inner light shone so brilliantly that even the blazing sun seemed no more than a tiny firefly beside it.",
+  "recitation": "tamasi jine yato'khila-doṣaugha-udite, nipuṇa-nīraja-vane nibiḍam āmodite | uditavati kevala-jñāna-bhānau drutaṁ, divasa-patinā'pi khadyota-potāyitam ||",
+  "wordByWord": [
+    {
+      "token": "તમસિ",
+      "translit": "tamasi",
+      "gloss": "in the darkness; when the darkness (here: the gloom of ignorance, moha) [was dispelled]",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of tamas (n.), 'darkness'; from √tam, 'to be obscured/faint'.",
+      "notes": "Functions inside a locative-absolute clause describing the conditions at the sun-of-omniscience's rising; darkness doubles as a stock metaphor for ignorance."
+    },
+    {
+      "token": "જિને",
+      "translit": "jine",
+      "gloss": "in the Jina (the conqueror, the Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of jina (m.), 'victor', from √ji, 'to conquer'.",
+      "notes": "Read as locative 'in/within the Jina' (the locus where omniscience dawns). The book's reading જિને is preserved; a near-homograph જિતે jite, 'conquered' (agreeing with tamasi, 'the darkness having been conquered'), is also defensible — see verse notes."
+    },
+    {
+      "token": "યથો",
+      "translit": "yato (yataḥ)",
+      "gloss": "whence; from which; thereby",
+      "partOfSpeech": "particle",
+      "etymology": "Ablatival/relative adverb yataḥ (yatas), from the relative stem ya- + suffix -tas.",
+      "notes": "Connective linking the rising of the light to the clearing away of the fault-born darkness. Could alternatively reflect yathā ('just as'); read here as yataḥ before the following vowel (yato 'khila-)."
+    },
+    {
+      "token": "રખિલદોઘોદિતે",
+      "translit": "(')khila-doṣaugha-udite",
+      "gloss": "[in the darkness] arisen from the whole flood of faults — akhila 'entire', doṣa 'fault/flaw', augha (ogha) 'flood, host', udita 'risen'",
+      "partOfSpeech": "compound",
+      "etymology": "Bahuvrīhi/tatpuruṣa compound: akhila (a- 'not' + khila 'gap/remainder' = 'whole') + doṣa-augha ('flood of faults') + udita (pp. of ud-√i, 'risen'); locative singular agreeing with tamasi.",
+      "notes": "The leading ર (ra) reflects the sandhi of yataḥ + akhila → yato 'khila (with the lost avagraha) plus an OCR seam; read as akhila-. The cluster દોઘો is taken as doṣ(a)-augh(a)- ('flood of faults'); a plainer doṣa-ogha or duḥkha-ogha is possible. Verbatim book reading retained."
+    },
+    {
+      "token": "નિપુણ",
+      "translit": "nipuṇa",
+      "gloss": "abundant, full, dense (qualifying the lotus-grove)",
+      "partOfSpeech": "adj",
+      "etymology": "nipuṇa, lit. 'skilled, complete'; here in its attested sense 'entire, abundant, much'.",
+      "notes": "Not the common 'clever' here; the sunrise imagery calls for 'thick/abundant' modifying nīraja-vana."
+    },
+    {
+      "token": "નીરજવને",
+      "translit": "nīraja-vane",
+      "gloss": "in the lotus-grove",
+      "partOfSpeech": "compound",
+      "etymology": "Locative singular of nīraja-vana: nīraja ('water-born' = lotus; nīra 'water' + ja 'born') + vana ('grove, forest').",
+      "notes": "Lotuses opening at sunrise are the classic image; here souls/the assembly bloom as omniscience dawns."
+    },
+    {
+      "token": "નિબિડમામોદિતે",
+      "translit": "nibiḍam āmodite",
+      "gloss": "densely (nibiḍam) made fragrant / gladdened (āmodite)",
+      "partOfSpeech": "compound",
+      "etymology": "nibiḍam (adv., 'densely, thickly', from nibiḍa) + āmodite (locative sg. of āmodita, pp. of ā-√mud, 'made fragrant; delighted, gladdened'). Sandhi-joined nibiḍam + āmodite.",
+      "notes": "āmodita carries the double sense 'perfumed' (the lotuses) and 'delighted' (the beings) — completing the locative-absolute picture of the lotus-grove richly abloom and rejoicing."
+    },
+    {
+      "token": "ઉદિતવતિ",
+      "translit": "uditavati",
+      "gloss": "having risen (when [the sun] had risen)",
+      "partOfSpeech": "verb",
+      "etymology": "Locative singular of uditavat, the -vat past active participle of ud-√i ('to rise'); 'one that has risen'.",
+      "notes": "Heads the main locative absolute with bhānau: 'when the sun ... had risen'."
+    },
+    {
+      "token": "કેવલજ્ઞાન",
+      "translit": "kevala-jñāna",
+      "gloss": "absolute omniscience (in compound, 'of omniscience')",
+      "partOfSpeech": "compound",
+      "etymology": "kevala ('sole, absolute, pure') + jñāna ('knowledge'). Glossary term (see preface).",
+      "notes": "The fourth kalyāṇaka of a Tīrthaṅkara's life is being narrated."
+    },
+    {
+      "token": "ભાનૌ",
+      "translit": "bhānau",
+      "gloss": "in/with the sun → 'the sun of omniscience' (kevala-jñāna-bhānau)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of bhānu (m.), 'sun, light, ray', from √bhā, 'to shine'.",
+      "notes": "Joined with the preceding compound: kevala-jñāna-bhānau, 'the sun that is omniscience', the subject of uditavati."
+    },
+    {
+      "token": "દ્રુતં",
+      "translit": "drutaṁ",
+      "gloss": "swiftly, at once",
+      "partOfSpeech": "adverb",
+      "etymology": "Adverbial neuter of druta (pp. of √dru, 'to run, hasten'), 'quick, swift'.",
+      "notes": "Stresses how instantly the day-sun was eclipsed the moment omniscience dawned."
+    },
+    {
+      "token": "દિવસપતિનાપિ",
+      "translit": "divasa-patinā api",
+      "gloss": "even by the lord of day (the sun) — divasa-pati 'day-lord = sun'; api 'even'",
+      "partOfSpeech": "compound",
+      "etymology": "Instrumental singular of divasa-pati (divasa 'day' + pati 'lord, master') + the emphatic particle api ('even, also'); sandhi -patinā + api → -patinā'pi.",
+      "notes": "Instrumental as the agent of the impersonal denominative that follows: 'even by the sun [the behaviour of a firefly] was enacted'."
+    },
+    {
+      "token": "ખદ્યોત",
+      "translit": "khadyota",
+      "gloss": "firefly, glow-worm (in compound)",
+      "partOfSpeech": "noun",
+      "etymology": "khadyota (m.), 'firefly', traditionally parsed khe ('in the sky') + dyota ('shining'), 'that which glimmers in the air'.",
+      "notes": "The benchmark of the feeblest, most fleeting light — the foil for the sun, which is itself the foil for omniscience."
+    },
+    {
+      "token": "પોતાયિતમ્",
+      "translit": "potāyitam",
+      "gloss": "was made to behave like a hatchling/young one → 'reduced to a mere baby firefly' (khadyota-potāyitam)",
+      "partOfSpeech": "verb",
+      "etymology": "Impersonal neuter past participle of the denominative potāya- ('to act/be made as a pota, a young one/infant'), from pota (m.), 'young one, cub, child'.",
+      "notes": "A bold denominative coinage: khadyota-pota = 'a firefly-hatchling' (a diminutive of a diminutive). 'Even the sun was swiftly rendered a baby firefly' — the impersonal construction (kṛta-bhāva) lets the verse humble the sun without naming a doer."
+    }
+  ],
+  "literalTranslation": "When, in the Jina, the darkness arisen from the entire flood of faults [was undone] — the dense lotus-grove richly made fragrant and glad — and the sun of absolute omniscience had risen, at once even by the lord of day (the sun) the conduct of a mere baby firefly was enacted.",
+  "idiomaticTranslation": "As omniscience dawned within the Jina like a sun, the darkness bred of every fault was swept away; the thick lotus-groves opened, drenched in fragrance and delight. And before that risen sun of absolute knowing, the very lord of day — the sun itself — was, in an instant, dimmed to nothing more than a tiny firefly's flicker.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having renounced the throne after the year of giving in the previous verse, the Jina here reaches the fourth auspicious event: the rising of kevala-jñāna. The poet builds the whole stanza as a single sunrise conceit. Three locative-absolute strokes set the dawn-scene — the fault-born darkness clears (tamasi … doṣaugha-udite), the dense lotus-groves swell with fragrance and joy (nipuṇa-nīraja-vane nibiḍam āmodite), and then the true 'sun', kevala-jñāna-bhānu, lifts above the horizon of the Jina's soul. The pay-off lands in the last foot: divasa-patinā'pi khadyota-potāyitam — 'even the lord of day was made a baby firefly.' The wit is deliberate and layered. A firefly already shames the sun by comparison's logic; the poet goes further with pota, a diminutive, so the sun is not merely a firefly but its hatchling — feeble, momentary, borrowed. The impersonal denominative potāyitam withholds any agent, so the humbling reads as something the sun simply 'underwent' the instant omniscience rose (drutaṁ). The lotus motif does double duty in this tradition's idiom: as physical blossoms greeting dawn, and as awakening souls and the gathering assembly opening to the Jina's light — which the following verses develop into the samavasaraṇa. Note too how the chiming -ite … -ite … and the dense d-/kh- play (already a hallmark of this hymn) make the verse a piece of heard music, the sound itself imitating radiance breaking out. The verse advances the life-arc precisely one step — from renunciation to enlightenment — and stages it not as a claim but as an image the ear can see.",
+    "doctrinalContext": "The sun/firefly contrast is not pious exaggeration but an ontological ranking. The physical sun is jaḍa (insentient) light: it reveals only rūpī (formed) objects, only what faces it, only one region at a time, and only the present. Kevala-jñāna is cetana (conscious) light that knows all substances and all their modes — past, present, and future — across the whole of loka and aloka, simultaneously and without instrument (Tattvārtha-sūtra 1.30, sarva-dravya-paryāyeṣu kevalasya). Measured against a knowing that has no edge in space, time, or object, the sun's vast but finite glow is genuinely firefly-scale; calling it even a 'firefly' flatters it. Doctrinally the dawn-image also encodes the removal of jñānāvaraṇīya and the four ghātī-karmas: the 'darkness arisen from the flood of faults' (doṣaugha) is precisely the karmic veil, and its clearing is the necessary condition for the inner sun to stand revealed — knowledge here is uncovered, not produced.",
+    "practicalRelevance": "The reciter is invited to right-size every borrowed light by which we ordinarily steer — scholarship, cleverness, sensory information: all are firefly-glimmer beside the soul's own latent kevala-jñāna. The verse asks for two responses: humility, since even the sun bows here; and aspiration, since that same omniscient light is veiled, not absent, within every soul, awaiting the thinning of the karmic 'darkness'. Chanting it, one resolves to dim the ego's firefly and turn toward the inner sun.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.30 — kevala-jñāna knows all substances and modes (sarva-dravya-paryāyeṣu)",
+        "source": "Umāsvāti/Umāsvāmi, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Ajitaśānti Stava (2nd Smaraṇa) — companion hymn to the same Jina-pair, on omniscience and protection",
+        "source": "Nandiṣeṇasūri (per the tradition knowledge base §3.5)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the 24 Jinas as 'more luminous than the sun, clearer than the moon' (āiccesu ahiyaṁ payāsayarā)",
+        "source": "Āvaśyaka-sūtra, Cauvīsattho"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for khadyota ('firefly'), pota ('young one') and its denominative, āmodita ('fragrant/gladdened', ā-√mud), bhānu ('sun'), nīraja ('lotus'), nipuṇa ('abundant/complete'), druta ('swift')."
+    },
+    {
+      "title": "Wisdomlib — Sanskrit dictionary and Jain concepts (kevala-jñāna, nīraja, divasapati, khadyota)",
+      "url": "https://www.wisdomlib.org/definition/kevala-jnana",
+      "type": "dictionary",
+      "consultedFor": "Definition of kevala-jñāna as omniscience and the lexical senses of divasapati ('lord of day = sun'), nīraja ('water-born, lotus'), and khadyota."
+    },
+    {
+      "title": "JainQQ digital library — Ajitaśānti Stava and the doctrine of kevala-jñāna",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "The Ajitaśānti hymn tradition addressed to the Ajita–Śānti pair and the Jain account of omniscience outshining the sun."
+    }
+  ],
+  "translatorConfidence": 0.74,
+  "notes": "The core sense — the sun of kevala-jñāna rising so that even the day-sun becomes a mere firefly — is certain and matches all consulted sources and the preface. Several readings are textually delicate and the book's orthography is preserved verbatim rather than normalized: (1) જિને jine is read as locative 'in the Jina'; the homograph જિતે jite ('conquered', agreeing with tamasi) is an equally coherant alternative. (2) યથો રખિલ is reconstructed as yataḥ + akhila → yato 'khila ('whence the entire…'), the leading ર/avagraha being a sandhi-and-OCR seam. (3) દોઘો is taken as doṣa-augha ('flood of faults'); doṣa-ogha or duḥkha-ogha are possible. (4) નિપુણ is read in its attested sense 'abundant/dense', not 'clever'. (5) પોતાયિતમ् is an impersonal denominative past participle, 'the behaviour of a (firefly-)hatchling was enacted [even by the sun]'. Authorship of this ninth (Bṛhad) Ajitaśānti Stava is not attributed in the tradition knowledge base and is left open."
+}

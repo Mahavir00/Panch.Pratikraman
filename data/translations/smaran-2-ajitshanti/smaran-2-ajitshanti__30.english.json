@@ -1,0 +1,198 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/30",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse honours the Jina to whom sages, gods, and the goddesses bow, and whose supreme teaching even the heavenly dancing-maidens — overcome by devotion — gather to revere.",
+  "recitation": "thua-vandiassā risi-gaṇa deva-gaṇohiṁ, to deva-vahūhiṁ payao paṇamiassā | jassa jaguttama sāsaṇayassa bhatti-vasāgaya piṇḍiyāhiṁ | deva varacchharasā bahuāhiṁ sura-vara rai-guṇa paṇḍiyāhiṁ",
+  "wordByWord": [
+    {
+      "token": "થુઅવંદિઅસ્સા",
+      "translit": "thua-vandiassā",
+      "gloss": "of him who is hymned and venerated",
+      "partOfSpeech": "compound",
+      "etymology": "thua < Skt. stuta 'praised, hymned' + vandia < vandita 'bowed to' + -assa, genitive sg. ending (Skt. -asya)",
+      "notes": "A genitive describing the Jina; governs the venerating agents that follow."
+    },
+    {
+      "token": "રિસિગણ",
+      "translit": "risi-gaṇa",
+      "gloss": "by the host(s) of sages",
+      "partOfSpeech": "compound",
+      "etymology": "risi < Skt. ṛṣi 'seer, sage' + gaṇa 'troop, host'; here in instrumental force, joined to the next word",
+      "notes": "Stem form taken instrumentally in the dvandva with devagaṇa."
+    },
+    {
+      "token": "દેવગણોહિં",
+      "translit": "deva-gaṇohiṁ",
+      "gloss": "by the hosts of gods",
+      "partOfSpeech": "noun",
+      "etymology": "deva 'god' + gaṇa 'host' + -ohiṁ, instrumental pl. (Apabhraṁśa for Skt. -aiḥ)",
+      "notes": "Pairs with risi-gaṇa: the two ranks who venerate."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, and after that",
+      "partOfSpeech": "particle",
+      "etymology": "< Skt. tataḥ 'then, thereupon'",
+      "notes": "Marks a sequence: after sages and gods, the goddesses."
+    },
+    {
+      "token": "દેવવહૂહિં",
+      "translit": "deva-vahūhiṁ",
+      "gloss": "by the consorts of the gods (goddesses)",
+      "partOfSpeech": "noun",
+      "etymology": "deva 'god' + vahū < Skt. vadhū 'wife, bride' + -hiṁ, instrumental pl.",
+      "notes": "Introduces the celestial women foregrounded by this section."
+    },
+    {
+      "token": "પયઓ",
+      "translit": "payao",
+      "gloss": "reverently, with collected devotion",
+      "partOfSpeech": "adverb",
+      "etymology": "< Skt. prayata 'self-controlled, intent, reverent'; used adverbially",
+      "notes": "The same word seals the previous verse's paṇamāmi ('payao paṇamāmi'); here it qualifies the goddesses' obeisance."
+    },
+    {
+      "token": "પણમિઅસ્સા",
+      "translit": "paṇamiassā",
+      "gloss": "of him who is bowed down to",
+      "partOfSpeech": "compound",
+      "etymology": "paṇamia < Skt. praṇamita / praṇata 'bowed to' + -assa, genitive sg.",
+      "notes": "Second genitive epithet of the Jina, parallel to thua-vandiassā."
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "< Skt. yasya, relative pronoun genitive sg.",
+      "notes": "Links the Jina to his śāsana in the next phrase."
+    },
+    {
+      "token": "જગુત્તમ",
+      "translit": "jaguttama",
+      "gloss": "supreme in the world, world-best",
+      "partOfSpeech": "adj",
+      "etymology": "jaga < Skt. jagat 'world' + uttama 'highest, best'",
+      "notes": "Qualifies sāsaṇa: the teaching that surpasses all in the world."
+    },
+    {
+      "token": "સાસણયસ્સ",
+      "translit": "sāsaṇayassa",
+      "gloss": "of the teaching / the order (śāsana)",
+      "partOfSpeech": "noun",
+      "etymology": "sāsaṇa < Skt. śāsana 'teaching, doctrine, dispensation' (+ -aya- extension) + -assa, genitive sg.",
+      "notes": "Genitive: 'of him, of world-supreme teaching' — i.e. whose dispensation is honoured by those that follow."
+    },
+    {
+      "token": "ભત્તિવસાગય",
+      "translit": "bhatti-vasāgaya",
+      "gloss": "come under the sway of devotion",
+      "partOfSpeech": "compound",
+      "etymology": "bhatti < Skt. bhakti 'devotion' + vasa < vaśa 'control, sway' + āgaya < āgata 'come, arrived'",
+      "notes": "Describes the women: drawn helplessly by bhakti, not by command — the emotional engine of the whole tableau."
+    },
+    {
+      "token": "પિંડિઅયાહિં",
+      "translit": "piṇḍiyāhiṁ",
+      "gloss": "by [those] assembled together",
+      "partOfSpeech": "adj",
+      "etymology": "piṇḍiya < Skt. piṇḍita 'gathered, massed, made into a heap' + -āhiṁ, fem. instrumental pl.",
+      "notes": "The goddesses converge as a single throng to venerate the śāsana."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "divine, of the gods",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. deva 'god, celestial'; stem form qualifying the apsaras",
+      "notes": "Forms deva-varacchharasā, 'divine excellent apsaras'."
+    },
+    {
+      "token": "વરચ્છરસા",
+      "translit": "varacchharasā",
+      "gloss": "excellent apsaras (celestial maidens)",
+      "partOfSpeech": "compound",
+      "etymology": "vara 'best, excellent' + acchharasā < Skt. apsaras 'celestial nymph' (Pkt. acchara, with metrical doubling cch)",
+      "notes": "Apsaras paired with bahuāhiṁ ('by many')."
+    },
+    {
+      "token": "બહુઆહિં",
+      "translit": "bahuāhiṁ",
+      "gloss": "by many",
+      "partOfSpeech": "adj",
+      "etymology": "bahu < Skt. bahu 'many' + -āhiṁ, fem. instrumental pl.",
+      "notes": "Stresses the multitude of heavenly dancers."
+    },
+    {
+      "token": "સુરવર",
+      "translit": "sura-vara",
+      "gloss": "of the chief gods / best of celestials",
+      "partOfSpeech": "compound",
+      "etymology": "sura < Skt. sura 'god' + vara 'best, foremost'",
+      "notes": "Marks the apsaras as belonging to the highest gods' courts."
+    },
+    {
+      "token": "રઇગુણ",
+      "translit": "rai-guṇa",
+      "gloss": "in the arts/accomplishments of delight (rati)",
+      "partOfSpeech": "compound",
+      "etymology": "rai < Skt. rati 'pleasure, amorous delight, the art of love' + guṇa 'quality, accomplishment'",
+      "notes": "The very skills of allure are here redirected into worship."
+    },
+    {
+      "token": "પંડિયઆહિં",
+      "translit": "paṇḍiyāhiṁ",
+      "gloss": "by [those] expert, learned",
+      "partOfSpeech": "adj",
+      "etymology": "paṇḍiya < Skt. paṇḍita 'learned, skilled' + -āhiṁ, fem. instrumental pl.",
+      "notes": "Predicated of the apsaras: connoisseuses of rati who turn their mastery to the Jina."
+    }
+  ],
+  "literalTranslation": "Of him who is hymned and venerated by hosts of sages and hosts of gods, and then reverently bowed down to by the consorts of the gods; whose world-supreme teaching is honoured by [women] assembled together, come under the sway of devotion — by many divine and excellent apsaras of the foremost gods, expert in the arts of delight.",
+  "idiomaticTranslation": "To Him whom the throngs of sages and gods hymn and venerate, and before whom, then, the very wives of the gods bow low in pure reverence — whose teaching, supreme in all the world, the heavenly women now throng to honour, swept up by devotion: a host of radiant apsaras from the courts of the highest gods, mistresses of every art of delight, who lay that mastery at His feet.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse builds a deliberate ascending census of worshippers. First come two ranks held in stem-form apposition — risi-gaṇa and deva-gaṇohiṁ, the hosts of sages and of gods — who 'hymn and venerate' (thua-vandia). The little particle 'to' ('then') then turns the camera, and a new rank steps forward: deva-vahū, the consorts of the gods, bowing payao — 'reverently,' the same self-collected word that closed the preceding stanza's 'payao paṇamāmi,' now transferred from the reciter's own bow to the goddesses'. The second and third lines zoom in further still, from goddesses in general to the apsaras in particular. What binds the women is not protocol but bhatti-vasāgaya — they have 'come under the sway of devotion,' drawn helplessly rather than summoned, and so 'assemble' (piṇḍiyā) as one massed throng around the jaguttama sāsaṇa, the world-supreme teaching. The poet's sharpest stroke is saved for last: these apsaras are rai-guṇa-paṇḍiyā, 'expert in the arts of rati,' connoisseuses of allure and amorous delight — and it is precisely that virtuosity, the most worldly of all skills, that they now bend wholly toward the Jina. The line thus does more than catalogue admirers; it dramatizes a conversion of faculties, the sensual perfected into the devotional. Note too that the entire verse hangs on genitives (thua-vandiassā, paṇamiassā, jassa … sāsaṇayassa): grammatically the Jina simply stands, motionless and supreme, while rank upon rank of the cosmos arranges itself in homage around him — a stillness against which all this celestial motion is measured.",
+    "doctrinalContext": "The verse quietly enacts a core Jain conviction: veneration of a Tīrthaṅkara is the free, magnetized response of beings across every register of existence, never a tribute he seeks. The Jina is grammatically inert here — only honoured — because a kevalin is vītarāga, beyond craving the praise that the universe nonetheless pours out. The women's bhakti-vaśa, devotion's irresistible 'sway,' models how attachment (rāga) can be transmuted rather than merely suppressed: their rai-guṇa — the very skills of sensual delight — are not condemned but re-aimed, an implicit teaching that the path redirects the passions toward the dispassionate. That the apsaras revere not the Jina's body but his jaguttama sāsaṇa underscores that what is ultimately worshipped is the liberating teaching itself.",
+    "practicalRelevance": "Reciting this verse, the practitioner is invited to do what the apsaras do — to bring not a diminished self but one's fullest gifts and even one's strongest attachments, and lay them, 'swept up by devotion,' at the feet of the teaching. It reframes worship as the joyful surrender of one's best capacities rather than a grim renunciation of them.",
+    "crossReferences": [
+      {
+        "text": "Following stanza: 'vandiāya jassa te suvikkamā kamā' — the apsaras' dance resolves into a bow at the Jina's 'invincible feet,' the goal toward which this verse's gathering moves.",
+        "source": "Ajitaśānti Stava (Nandiṣeṇasūri), Pakkhī recension"
+      },
+      {
+        "text": "Ajitaśānti Stava vv.26–31 — the sustained devasundarī tableau of celestial women bowing, singing, and dancing.",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajit Shanti Stotra (Romanized) — Jain Quantum",
+      "url": "https://jainqq.org/booktext/57_Ajit_Shanti_Stotra_Romanized/300530",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit text and romanization of the devasundarī verses; confirmation of risi-gaṇa / deva-gaṇa / deva-vahū venerator sequence."
+    },
+    {
+      "title": "Shri Ajit Shanti Sutra — Lyrics in multiple scripts (Stavan / jainstavan.in)",
+      "url": "https://jainstavan.in/song/SASS",
+      "type": "translation",
+      "consultedFor": "Cross-checking the celestial-women stanzas (deva-sundarī, apsaras, flute-and-drum) and verse division."
+    },
+    {
+      "title": "Verse-by-verse meaning of Ajit Shanti Stotra — JainKnowledge",
+      "url": "https://jainknowledge.com/question/1262/verse-by-verse-meaning-of-ajit-shanti-stotra",
+      "type": "commentary",
+      "consultedFor": "Sense-level glossing of the apsaras / devotion (bhakti) motif and the 'world-supreme teaching' epithet."
+    },
+    {
+      "title": "Paia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. T. Sheth",
+      "url": "https://jainqq.org/explore/001001/1",
+      "type": "dictionary",
+      "consultedFor": "Root-forms and meanings of piṇḍiya (piṇḍita, 'assembled'), bhatti-vasa-āgaya (bhakti-vaśa-āgata), acchara (apsaras), and paṇḍiya (paṇḍita)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is a chain of genitives (thua-vandiassā, paṇamiassā, jassa…sāsaṇayassa) describing the Jina, with the venerating agents in feminine instrumental plurals (-āhiṁ, -ohiṁ) typical of Apabhraṁśa-tinged Prakrit; case-endings are read accordingly. 'payao' is taken as Skt. prayata ('reverent, self-controlled'), used adverbially. વરચ્છરસા shows metrical doubling (vara + acchara(sā) = apsaras); the orthographic variation between પિંડિઅયાહિં and પંડિયઆહિં (piṇḍiyā / paṇḍiyā) is preserved verbatim from the book and the two are kept semantically distinct ('assembled' vs 'expert'). Verse numbering within the devasundarī sequence varies slightly across recensions (some count this hymn at 47 verses); the book's numbering is followed. The reading of bhatti-vasa as 'sway/control of devotion' (vaśa) rather than 'abode' (vāsa) is adopted on contextual grounds and is the main point of residual ambiguity."
+}

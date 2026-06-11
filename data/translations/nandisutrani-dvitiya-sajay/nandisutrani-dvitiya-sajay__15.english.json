@@ -1,0 +1,150 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Himavanta, the forbearing teacher who safeguarded the timed scriptures and the ancient Pūrva texts, and to teacher Nāgārjuna.",
+  "recitation": "kāliya suya aṇuyogassa dhārae, dhārae ya puvvāṇaṁ; himavaṁta khamāsamaṇo, vande ṇāgajjuṇāyarie.",
+  "wordByWord": [
+    {
+      "token": "કાલિય",
+      "translit": "kāliya",
+      "gloss": "of the kālika (time-restricted) scripture; studied only at fixed canonical hours",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kāliya < Sanskrit kālika, 'pertaining to (a fixed) time' (kāla)",
+      "notes": "First member of the compound kāliya-suya, the body of canon the named masters preserved."
+    },
+    {
+      "token": "સુય",
+      "translit": "suya",
+      "gloss": "scripture, heard/transmitted teaching",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suya < Sanskrit śruta, 'that which is heard'",
+      "notes": ""
+    },
+    {
+      "token": "અણુયોગસ્સ",
+      "translit": "aṇuyogassa",
+      "gloss": "of the systematic exposition (genitive)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇuyoga < Sanskrit anuyoga; -ssa is the Ardhamāgadhī genitive singular ending",
+      "notes": "Glossary term (anuyoga) already defined in the preface."
+    },
+    {
+      "token": "ધારએ",
+      "translit": "dhārae",
+      "gloss": "the holder, bearer (honorific accusative object of veneration)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhāraya < Sanskrit dhāraka, 'one who holds/retains', from √dhṛ 'to bear'",
+      "notes": "The -e ending is an Ardhamāgadhī honorific accusative; he 'holds' the kālika-śruta anuyoga."
+    },
+    {
+      "token": "ધારએ",
+      "translit": "dhārae",
+      "gloss": "the holder, bearer (repeated, now governing the Pūrvas)",
+      "partOfSpeech": "noun",
+      "etymology": "as above, Prakrit dhāraya < Sanskrit dhāraka",
+      "notes": "Deliberate epanalepsis: a second 'dhārae' binds the teacher to the Pūrvas as well as the anuyoga."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca, conjunctive particle",
+      "notes": ""
+    },
+    {
+      "token": "પુવ્વાણં",
+      "translit": "puvvāṇaṁ",
+      "gloss": "of the Pūrvas (the fourteen 'prior' canonical texts; genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit puvva < Sanskrit pūrva, 'prior, ancient'; -āṇaṁ is the genitive plural",
+      "notes": "'Holder of the Pūrvas' is a traditional eulogistic honorific; full Pūrva knowledge was already declining in this era."
+    },
+    {
+      "token": "હિમવંત",
+      "translit": "himavaṁta",
+      "gloss": "Himavanta (proper name; literally 'the snow-clad', i.e. Himālaya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit himavaṁta < Sanskrit himavant, 'possessing snow', an epithet of the Himālaya",
+      "notes": "The Himālaya simile for his steadfastness was developed in the previous verse; here the word is his name."
+    },
+    {
+      "token": "ખમાસમણો",
+      "translit": "khamāsamaṇo",
+      "gloss": "Kṣamāśramaṇa (the forbearing ascetic; revered teacher-title)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khamā-samaṇa < Sanskrit kṣamā-śramaṇa, 'forbearance-ascetic'",
+      "notes": "Glossary term (kṣamāśramaṇa) defined in the preface; here it titles Himavanta."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vande < Sanskrit vande, 1st person singular of √vand, 'to salute reverently'",
+      "notes": "The hymn's recurring act of homage; governs the names that follow."
+    },
+    {
+      "token": "ણાગજજુણા",
+      "translit": "ṇāgajjuṇā",
+      "gloss": "Nāgārjuna (proper name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāgajjuṇa < Sanskrit Nāgārjuna; initial ṇa- is the Ardhamāgadhī cerebralization of na-",
+      "notes": "Sandhi-joined to the next token: ṇāgajjuṇā + āyarie → ṇāgajjuṇāyarie."
+    },
+    {
+      "token": "યરિએ",
+      "translit": "(ā)yarie",
+      "gloss": "the ācārya, master-teacher (honorific accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit āyariya < Sanskrit ācārya, 'teacher, preceptor'; -e honorific accusative",
+      "notes": "The initial ā is absorbed in sandhi with the preceding ṇāgajjuṇā; together: 'Ācārya Nāgārjuna'."
+    }
+  ],
+  "literalTranslation": "The holder of the anuyoga of the kālika-śruta, and the holder of the Pūrvas — Himavanta the Kṣamāśramaṇa; I bow, and to Ācārya Nāgārjuna.",
+  "idiomaticTranslation": "To Himavanta, the forbearing master who held safe the exposition of the timed canon and bore the ancient Pūrvas, and to the venerable Ācārya Nāgārjuna — I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is the hinge of the Kālika-anuyoga section: it gathers up the praise of Himavanta and pivots to Nāgārjuna. The doubled 'dhārae' is doing deliberate work — the same teacher is named guardian twice over: first of the *anuyoga* (the living, systematic exposition) of the kālika-śruta, then of the *puvvāṇaṁ*, the ancient Pūrvas whose mastery was already growing rare. To 'hold' is the verse's whole claim to greatness: not authorship but faithful retention and transmission. Himavanta is titled khamāsamaṇa — forbearance is named as the virtue that qualifies a man to carry scripture, since only the patient survive famine, dispersal and the long labour of memorization. The fourth quarter, 'vande ṇāgajjuṇāyarie,' turns the bow forward to Nāgārjuna, whom tradition remembers as the master who presided over the Valabhī recitation (vācanā) of the canon, parallel to Skandila's at Mathurā. So the verse quietly tracks the actual mechanism by which the canon reached us: two great holders, two centres, one unbroken chain. The next verse will unfold Nāgārjuna as vācaka; this verse only opens the bow to him, letting the homage flow from teacher to teacher without a break.",
+    "doctrinalContext": "The verse encodes the Jain understanding that scripture (śruta-jñāna) is preserved not by writing first but by *dhāraṇā* — retentive holding in qualified minds. The pairing of kālika-śruta and Pūrvas marks the two strata of canon: the time-restricted texts still studied, and the ancient Pūrvas in decline. Honouring a teacher as their 'holder' affirms that right knowledge is guru-dependent and lineage-borne, and that forbearance (kṣamā) is a precondition of custodianship.",
+    "practicalRelevance": "The reciter learns that receiving teaching is a trust to be *held* and passed on intact, and that patience is what makes one fit to hold it. Bowing to two named guardians, one renews personal gratitude to the unseen chain behind every sūtra one chants.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī (Kālika-anuyoga guardians: Skandila, Himavanta, Nāgārjuna)",
+        "source": "Devavācaka / Devarddhigaṇi Kṣamāśramaṇa, Valabhī recension"
+      },
+      {
+        "text": "Mathurā and Valabhī recitations (vācanā) of the Agamas under Skandila and Nāgārjuna",
+        "source": "Wikipedia, 'Jain councils'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain councils",
+      "url": "https://en.wikipedia.org/wiki/Jain_councils",
+      "type": "scholarship",
+      "consultedFor": "Nāgārjuna presiding the Valabhī recitation of the kālika-śruta (parallel to Skandila at Mathurā), confirming the verse's historical referent."
+    },
+    {
+      "title": "Jain literature",
+      "url": "https://en.wikipedia.org/wiki/Jain_literature",
+      "type": "scholarship",
+      "consultedFor": "The Pūrvas (puvvāṇaṁ), the oral Ardhamāgadhī transmission of śruta, and the role of dhāraṇā in preserving canon."
+    },
+    {
+      "title": "Sthaviravali (Pariśiṣṭaparvan / Sthavirāvalicarita)",
+      "url": "https://en.wikipedia.org/wiki/Sthaviravali",
+      "type": "scholarship",
+      "consultedFor": "The Sthavirāvalī genre as the ordered succession-roll of Jain elders, the frame of this hymn."
+    },
+    {
+      "title": "Devardhigani Kshamashraman",
+      "url": "https://en.wikipedia.org/wiki/Devardhigani_Kshamashraman",
+      "type": "scholarship",
+      "consultedFor": "The redactor and the kṣamāśramaṇa title applied to revered scripture-holders such as Himavanta."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The two 'dhārae' forms and 'āyarie' are Ardhamāgadhī honorific accusatives; I read the kālika-anuyoga/Pūrva epithets as describing Himavanta Kṣamāśramaṇa, with 'vande' bowing to him and to Ācārya Nāgārjuna (the next verse develops Nāgārjuna as vācaka). 'Holder of the Pūrvas' is a traditional eulogistic attribution; full Pūrva knowledge was already in decline in this period, so it signals honour and partial mastery rather than complete possession. The identification of this Nāgārjuna with the leader of the Valabhī vācanā is the tradition's and is historically plausible but not firmly dated. Verse text and every mātrā/anusvāra follow the book verbatim (ણાગજજુણા યરિએ split across two tokens with sandhi)."
+}

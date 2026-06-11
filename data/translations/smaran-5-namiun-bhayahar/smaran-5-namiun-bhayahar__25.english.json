@@ -1,0 +1,180 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/25",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever holds Pārśva in mind suffers no disease and no great sorrow, and even his name works like a mantra — so, my Lord, I praise you with love.",
+  "recitation": "jaṁ samarantāṇaṁ maṇo, na hoi vāhī na taṁ mahādukkhaṁ; nāmaṁ pi ya mantasamaṁ, iya nāha thuṇāmi bhattīe.",
+  "wordByWord": [
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whom (the Lord)",
+      "partOfSpeech": "pronoun",
+      "etymology": "relative pronoun, accusative sg.; Skt. yam (from rel. stem ya-).",
+      "notes": "Object of 'remembering'; its antecedent is Pārśva, named only by the vocative nāha later."
+    },
+    {
+      "token": "સમરંતાણં",
+      "translit": "samarantāṇaṁ",
+      "gloss": "of those who remember / for those remembering",
+      "partOfSpeech": "verb",
+      "etymology": "present participle gen. pl., from Skt. √smṛ 'remember' (smarat-); Prakrit ending -āṇaṁ for the gen. pl.",
+      "notes": "Governs jaṁ: 'of those who remember whom'. Picks up the hymn's keyword smaraṇa, here as active mental recollection."
+    },
+    {
+      "token": "મણો",
+      "translit": "maṇo",
+      "gloss": "mind",
+      "partOfSpeech": "noun",
+      "etymology": "nom. sg., Skt. manas; Prakrit maṇa.",
+      "notes": "Locates the action in the mind: it is the mind of the rememberers that stays free of affliction."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "negative particle, Skt. na.",
+      "notes": ""
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "becomes / arises",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. pres., from Skt. √bhū 'be, become' (bhavati > Prakrit hoi).",
+      "notes": "Singular verb shared by both 'disease' and 'great suffering'."
+    },
+    {
+      "token": "વાહી",
+      "translit": "vāhī",
+      "gloss": "disease, sickness",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vyādhi; Prakrit vāhi.",
+      "notes": "Bodily affliction — first of the great-fears in the hymn (vv.2–3) now recalled in shorthand."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "nor",
+      "partOfSpeech": "particle",
+      "etymology": "negative particle, Skt. na.",
+      "notes": "Second negation, pairing the two ills."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative, acc./nom. sg. n., Skt. tad.",
+      "notes": "Deictic 'that (well-known)' great suffering — gesturing back over the whole catalogue of perils."
+    },
+    {
+      "token": "મહાદુક્ખં",
+      "translit": "mahādukkhaṁ",
+      "gloss": "great suffering",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + dukkha (Skt. duḥkha 'suffering'); a karmadhāraya compound.",
+      "notes": "Pairs bodily vāhi with comprehensive (bodily-and-mental) anguish."
+    },
+    {
+      "token": "નામંપિ",
+      "translit": "nāmaṁ pi",
+      "gloss": "even the name",
+      "partOfSpeech": "noun",
+      "etymology": "nāma (Skt. nāman 'name') + enclitic pi (Skt. api 'even, too').",
+      "notes": "api stresses that the bare name — without ritual apparatus — already suffices."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "connective, Skt. ca (Prakrit ya).",
+      "notes": "Links the name-clause to the preceding remembrance-clause."
+    },
+    {
+      "token": "મંતસમં",
+      "translit": "mantasamaṁ",
+      "gloss": "equal to a mantra",
+      "partOfSpeech": "compound",
+      "etymology": "manta (Skt. mantra) + sama ('equal, like'); a comparative tatpuruṣa.",
+      "notes": "Caps the hymn's recurring name-as-mantra motif (cf. v.9, v.23)."
+    },
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit iya, from Skt. iti / evam 'thus'.",
+      "notes": "Gathers the two preceding praises into the reason for the poet's worship."
+    },
+    {
+      "token": "નાહ",
+      "translit": "nāha",
+      "gloss": "O Lord",
+      "partOfSpeech": "invocation",
+      "etymology": "vocative sg., Skt. nātha 'lord, protector'; Prakrit nāha.",
+      "notes": "The single direct address; the third-person litany now turns to second-person."
+    },
+    {
+      "token": "થુણામિ",
+      "translit": "thuṇāmi",
+      "gloss": "I praise / I hymn",
+      "partOfSpeech": "verb",
+      "etymology": "1st sg. pres., from Skt. √stu 'praise' (stunāmi > Prakrit thuṇāmi).",
+      "notes": "First-person verb sealing the stotra as the poet's own act."
+    },
+    {
+      "token": "ભત્તીએ",
+      "translit": "bhattīe",
+      "gloss": "with devotion",
+      "partOfSpeech": "noun",
+      "etymology": "instr. sg., Skt. bhaktyā (bhakti 'devotion'); Prakrit bhattī.",
+      "notes": "The closing word: bhakti is named as the instrument of the praise."
+    }
+  ],
+  "literalTranslation": "He, for those whose mind remembers whom there arises no disease nor that great suffering, and whose name too is equal to a mantra — thus, O Lord, with devotion I praise [you].",
+  "idiomaticTranslation": "He in whose remembrance the mind knows neither disease nor any great affliction, and whose very name is the equal of a mantra — it is You, O Lord, whom I hymn with devotion.",
+  "elaboration": {
+    "verseByVerseCommentary": "The closing gāthā turns inward. After verse 24's third-person salute to the Dharaṇendra-worshipped Pārśva, the poet at last addresses the Lord directly (nāha) and speaks in his own voice (thuṇāmi, 'I praise'). Two compact claims justify that praise. First, jaṁ samarantāṇaṁ maṇo na hoi vāhī na taṁ mahādukkhaṁ: in the mind (maṇo) of those who remember him, neither bodily disease (vāhi) nor 'that' comprehensive great suffering (mahādukkha) arises. The deictic taṁ ('that') is doing quiet work — it points back over the whole litany of storms, fires, serpents and battles, folding them all into two words. Where the body of the hymn rescued the devotee from external perils, this verse relocates the rescue to its true seat: the mind held steady by recollection. Second, nāmaṁ pi ya mantasamaṁ — 'and even the name is mantra-equal' — gathers the recurring name-as-mantra thread and democratizes it: not only the hidden eighteen-syllable formula signposted in verse 23, but the plain name itself carries a mantra's power, the enclitic pi ('even') underscoring that nothing more elaborate is required. The final word is the key: bhattīe, 'with devotion'. The poem does not end on the name's power but on the worshipper's love — the instrument that makes remembrance effective.",
+    "doctrinalContext": "The verse rests on smaraṇa and bhakti rather than on any boon granted by a deity: the Jina, liberated and indifferent, bestows nothing, so the fruit ('no disease, no great suffering') is the purifying effect of the devotee's own steadied mind — recollection that displaces ārta- and raudra-dhyāna (anguished, cruel mental states) with dharma-dhyāna. Naming the mind (maṇo) as the locus reflects the Jain priority of bhāva, inner disposition, over outer act. 'Even the name equals a mantra' expresses the nāma-nikṣepa, the name-aspect by which the Jina is fully present and efficacious in his very name.",
+    "practicalRelevance": "Recite this verse as the hymn's seal: when the full stotra cannot be chanted — in sudden illness, fear, or a sleepless night — let the bare name of Pārśva stand in for the whole, held in the mind with devotion. It teaches the reciter that the protection sought through the preceding verses is finally a discipline of attention and love, not a transaction.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggahara Stotra, v.4 'tuha sammatte laddhe' — devotion to Pārśva as itself the source of well-being",
+        "source": "Bhadrabāhu (trad.); Nava Smaraṇa collections"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava), 'kittiya-vandiya-mahiyā' — praising and naming the Jinas as the act of worship",
+        "source": "Āvaśyaka-sūtra (Cauvīsattho)"
+      },
+      {
+        "text": "Bhaktāmara Stotra — companion Pārśva/Ṛṣabha hymn ascribed to the same Mānatuṅga, on the saving power of devotional praise",
+        "source": "Mānatuṅgasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the addressee (nāha) as Pārśvanātha, the 23rd Tīrthaṅkara venerated with Dharaṇendra, confirming the verse's object"
+    },
+    {
+      "title": "Bhaktamara Stotra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Mānatuṅga as the traditional author of the companion fear-removing stotra, supporting the colophon-verse's first-person devotional signature"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens: √smṛ (samarantāṇaṁ), √bhū (hoi), vyādhi (vāhī), duḥkha, nāman, mantra, sama, nātha, √stu (thuṇāmi), bhakti"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The syntax is elliptical: jaṁ … maṇo na hoi vāhī reads best as a genitive-of-possessor construction, 'in the mind of those who remember whom no disease arises' (samarantāṇaṁ as participial gen. pl. governing jaṁ). 'iya' renders Skt. iti/evam ('thus'). 'taṁ' before mahādukkhaṁ is taken as a deictic 'that (aforementioned)' summing the hymn's perils, though it can also read as a bland correlative. 'nāmaṁ pi ya' is segmented nāma + api + ya; some recensions read 'nāmaṁ pi a'. Verse text, spellings (vāhī, dukkhaṁ, thuṇāmi) and the count of 25 verses follow the supplied Anchalgachchha book verbatim and may differ from other recensions. The web's auto-generated 'translations' of this verse were found unreliable and were not used; glossing rests on the dictionary etyma plus the verse's own grammar."
+}

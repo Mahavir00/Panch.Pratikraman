@@ -1,0 +1,218 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Their supreme teaching woke up all three worlds, the last of their karmas was burned away, and they passed into the city of liberation — so always bow joyfully to the two Jinas, Ajita and Śānti.",
+  "recitation": "pavara desaṇāya tihuyaṇa vi paḍibohiyaṁ, bhavovaggāhi kammāiṁ masamūriaṁ. pavara suha parama nivvāṇapuri je gayā, haṭṭha te namaha jiṇa ajiasaṁtī sayā.",
+  "wordByWord": [
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "supreme, most excellent",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt pravara, 'foremost, choicest'; Prakrit loses the medial r of the conjunct (pra-vara → pavara)",
+      "notes": "Qualifies desaṇā here; recurs in pāda 3 qualifying suha."
+    },
+    {
+      "token": "દેસણાય",
+      "translit": "desaṇāya",
+      "gloss": "by/through the preaching (the Jina's sermon)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt deśanā, 'instruction, religious discourse'; instrumental ending -āya marks the means",
+      "notes": "Technical term for a Tīrthaṅkara's sermon delivered from the samavasaraṇa after kevalajñāna."
+    },
+    {
+      "token": "તિહુયણ",
+      "translit": "tihuyaṇa",
+      "gloss": "the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt tribhuvana (ti = tri, 'three'; huyaṇa < bhuvana, 'world'); the b softens to h in Apabhraṁśa",
+      "notes": "Heavens, the middle (human/animal) world, and the lower worlds — the whole cosmos as audience of the sermon."
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "even, too",
+      "partOfSpeech": "particle",
+      "etymology": "< Skt api, 'also, even'; reduced to vi in Prakrit",
+      "notes": "Emphatic — 'even the three worlds (entire)' were awakened."
+    },
+    {
+      "token": "પડિબોહિયં",
+      "translit": "paḍibohiyaṁ",
+      "gloss": "was awakened, was enlightened",
+      "partOfSpeech": "verb",
+      "etymology": "< Skt pratibodhita, past passive participle of prati-√budh, 'to awaken (someone) fully'; Prakrit prati → paḍi, dh → h",
+      "notes": "Causative-passive: the worlds were 'made to awaken' by the preaching. (Not 'worshipped' — a common mis-gloss.)"
+    },
+    {
+      "token": "ભવોવગ્ગાહિ",
+      "translit": "bhavovaggāhi",
+      "gloss": "the existence-sustaining (aghātī) [karmas]",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt bhavopagrāhin (bhava, 'embodied existence' + upagrāhin, 'that which holds/sustains'); upagrāhi → uvaggāhi",
+      "notes": "Already in the preface glossary; the four aghātī karmas that keep the liberated-in-life soul embodied until nirvāṇa."
+    },
+    {
+      "token": "કમ્માઈં",
+      "translit": "kammāiṁ",
+      "gloss": "karmas",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt karmāṇi, neuter plural of karman; Prakrit assimilates rm → mm",
+      "notes": "Accusative plural, object of masamūriaṁ."
+    },
+    {
+      "token": "મસમૂરિઅં",
+      "translit": "masamūriaṁ",
+      "gloss": "were utterly crushed / ground away",
+      "partOfSpeech": "verb",
+      "etymology": "past participle of a √mṛd / sam-√mūr ('to crush, pulverize') base; the verse-form reads ma-samūriaṁ, an intensive 'thoroughly pulverized'",
+      "notes": "Exact morphology of the ma- element is uncertain (see notes); sense 'destroyed completely' is secure from context and parallels."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "supreme",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt pravara (see token 1)",
+      "notes": "Second occurrence; here qualifying suha ('supreme bliss')."
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "bliss, happiness",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt sukha; intervocalic kh → h in Prakrit",
+      "notes": "Forms the compound 'supreme-bliss [city]' describing nirvāṇa."
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "highest, ultimate",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt parama, 'utmost'; unchanged in Prakrit",
+      "notes": "Stacks with pavara to intensify the description of the nirvāṇa-city."
+    },
+    {
+      "token": "નિવ્વાણપુરિ",
+      "translit": "nivvāṇapuri",
+      "gloss": "to the city of nirvāṇa",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt nirvāṇapurī (nirvāṇa, 'final liberation' + purī, 'city'); nirv → nivv by assimilation",
+      "notes": "In glossary; locative/accusative of goal — 'gone to the city of nirvāṇa', i.e. the siddha-loka."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "who (those who)",
+      "partOfSpeech": "pronoun",
+      "etymology": "< Skt ye, nominative plural of the relative ya-",
+      "notes": "Relative pronoun answered by te ('them') in pāda 4."
+    },
+    {
+      "token": "ગયા",
+      "translit": "gayā",
+      "gloss": "have gone",
+      "partOfSpeech": "verb",
+      "etymology": "< Skt gatāḥ, past participle of √gam, 'to go'; intervocalic t → y",
+      "notes": "Completes the relative clause: 'who have gone to the city of nirvāṇa'."
+    },
+    {
+      "token": "હઠ્ઠ",
+      "translit": "haṭṭha",
+      "gloss": "joyfully, with delight",
+      "partOfSpeech": "adverb",
+      "etymology": "< Skt hṛṣṭa, 'delighted, thrilled' (√hṛṣ); ṛṣṭ → aṭṭh in Prakrit",
+      "notes": "Adverbial — describes the worshipper's gladness in bowing."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "them",
+      "partOfSpeech": "pronoun",
+      "etymology": "< Skt tān, accusative plural of tad-",
+      "notes": "Object of namaha; correlative of je."
+    },
+    {
+      "token": "નમહ",
+      "translit": "namaha",
+      "gloss": "bow! salute!",
+      "partOfSpeech": "verb",
+      "etymology": "< Skt namata, 2nd-person plural imperative of √nam, 'to bow'; -ata → -aha in Prakrit",
+      "notes": "Direct exhortation to the assembled reciters — 'all of you, bow.'"
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "the Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt jina, 'victor'; n → ṇ in Prakrit",
+      "notes": "In glossary; dual reference to the two Tīrthaṅkaras."
+    },
+    {
+      "token": "અજિઅસંતી",
+      "translit": "ajiasaṁtī",
+      "gloss": "Ajita and Śānti (the 2nd and 16th Jinas)",
+      "partOfSpeech": "invocation",
+      "etymology": "dvandva of Ajita (< Skt Ajita, 'unconquered') + Śāntī (< Skt Śānti, 'peace')",
+      "notes": "The hymn's recurring twin-subject; here in apposition to jiṇa."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, forever",
+      "partOfSpeech": "adverb",
+      "etymology": "< Skt sadā, 'ever'; intervocalic d → y",
+      "notes": "Closes the verse — the salutation is to be perpetual."
+    }
+  ],
+  "literalTranslation": "By [their] supreme preaching even the three worlds were awakened; the existence-sustaining (aghātī) karmas were utterly crushed. Those who have gone to the supreme-bliss, highest city of nirvāṇa — bow to them joyfully always, the Jinas Ajita and Śānti.",
+  "idiomaticTranslation": "Their matchless sermon roused the whole of the three worlds to wakefulness, and the last karmas that had held them in the body were ground utterly away. Having passed into the highest city of liberation, that abode of supreme bliss — gladly, and for ever, bow down to them, the two Jinas, Ajita and Śānti.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse carries the two Jinas across the final threshold. Verse 4 left them at the moment of kevalajñāna, the four ghāti karmas destroyed; verse 5 picks up immediately after. First comes the fruit of omniscience turned outward: the pavara desaṇā, the 'supreme preaching' from the samavasaraṇa, by which tihuyaṇa vi — even the entire three-world cosmos — is paḍibohiyaṁ, awakened. The Jina's omniscience is not a private attainment; its very function is to rouse others, and the poet measures its reach by the widest possible audience. The second pāda completes the karmic ledger: bhavovaggāhi kammāiṁ masamūriaṁ — the existence-sustaining (aghātī) karmas, all that remained binding the enlightened soul to a body, are 'ground utterly away.' With nothing left to hold them, je gayā nivvāṇapuri — they 'have gone to the city of nirvāṇa,' qualified by pavara, suha and parama, a triple stack of superlatives for the abode of liberated souls. Only now does the verse pivot from narration to command: haṭṭha te namaha — 'joyfully bow to them.' The haṭṭha is doing real work: the worshipper's response to a completed liberation is not awe or fear but gladness. Sayā ('always') universalizes the act beyond the moment of recitation. Structurally the verse closes the biographical half of the hymn — the life-arc reaches its terminus at siddha-hood — and hands the reciter the refrain (namaha jiṇa ajiasaṁtī) that the protective verses 6–8 will build upon.",
+    "doctrinalContext": "The verse turns on Jain karma-theory's two-stage liberation. Kevalajñāna (v.4) follows the destruction of the four ghāti ('destructive') karmas, but the soul remains embodied as a kevalin because the four aghātī or bhavopagrāhī karmas — vedanīya (feeling), āyu (lifespan), nāma (body-making) and gotra (status) — still ripen. These do not obscure the soul's qualities; they merely sustain the present birth. Their exhaustion (masamūriaṁ) at life's end is precisely what nirvāṇa is: the soul, now akarma, rises to the siddha-loka, the 'city of nirvāṇa.' The verse thus marks the doctrinal boundary between sayogī-kevalin (omniscient-while-embodied) and siddha (disembodied-liberated). The desaṇā detail also encodes the Tīrthaṅkara's defining role: a kevalin who is a Tīrthaṅkara establishes the tīrtha through teaching, which is why omniscience here issues in cosmos-wide awakening rather than silent withdrawal.",
+    "practicalRelevance": "Recited, the verse asks the devotee to internalize the full ladder of liberation in a single breath — teaching that awakens, karmas that fall away, the goal attained — and to respond not with dread but with haṭṭha, glad-hearted bowing. The imperative namaha is plural and present: the assembly bows together, now. For the practitioner it reframes one's own karmic work as continuous with the Jinas' path, the same aghātī karmas one carries being the very ones they exhausted.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 8.5–8.26 (the eight karma-prakṛtis; ghātī vs aghātī classification)",
+        "source": "Umāsvāti, tr. Nathmal Tatia, That Which Is (HarperCollins)"
+      },
+      {
+        "text": "Tattvārtha Sūtra 10.2–10.4 (destruction of remaining karmas and the soul's upward motion to liberation)",
+        "source": "Umāsvāti / Umāsvāmī"
+      },
+      {
+        "text": "Laghu Ajitaśānti Stava v.4 (duiya solasama jiṇa — the kevalajñāna that this verse continues)",
+        "source": "Vīragaṇin (same hymn)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Karma in Jainism — ghātiyā and aghātiyā karmas",
+      "url": "https://en.wikipedia.org/wiki/Karma_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "The four aghātī / bhavopagrāhī karmas (vedanīya, āyu, nāma, gotra) and the two-stage path from kevalajñāna to nirvāṇa"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma pravara, deśanā, pratibodhita, hṛṣṭa, nirvāṇa, sadā underlying the Prakrit tokens"
+    },
+    {
+      "title": "Wisdom Library — Bhavopagrāhin / Aghātiya karma",
+      "url": "https://www.wisdomlib.org/definition/bhavopagrahin",
+      "type": "dictionary",
+      "consultedFor": "Definition of bhavopagrāhī karma as the existence-sustaining (aghātī) karmas exhausted at nirvāṇa"
+    },
+    {
+      "title": "Wisdom Library — Tribhuvana (three worlds)",
+      "url": "https://www.wisdomlib.org/definition/tribhuvana",
+      "type": "dictionary",
+      "consultedFor": "Sense and scope of tihuyaṇa = tribhuvana as the cosmos awakened by the Jina's sermon"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Token glosses are secure except masamūriaṁ: the destructive sense ('crushed, ground away') is certain from context and the bhavopagrāhī object, but the precise morphology of the ma-samūr- base is uncertain — it reads as an intensive past participle of a √mṛd/sam-√mūr crushing-root rather than a standard form, so its exact derivation is left tentative. bhavovaggāhi is read as the aghātī/bhavopagrāhī karmas per the preface glossary and standard karma-theory. Following the hymn's dual convention, the singular-sounding desaṇā, gayā and te are taken as addressed to both Jinas jointly (ajiasaṁtī), fixed by v.4. Spelling preserved verbatim from the book; the source URL in the preface is a placeholder and is not relied on here. An online AI gloss rendering paḍibohiyaṁ as 'worshipped' was rejected as erroneous; pratibodhita = 'awakened' is confirmed."
+}

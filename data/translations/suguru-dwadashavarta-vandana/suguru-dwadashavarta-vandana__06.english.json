@@ -1,0 +1,88 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I ask your forgiveness, O revered teacher, for whatever wrong I have done to you today.",
+  "recitation": "khāmemi khamāsamaṇo! devasiyaṁ vaikkamaṁ",
+  "wordByWord": [
+    {
+      "token": "ખામેમિ",
+      "translit": "khāmemi",
+      "gloss": "I beg forgiveness, I seek your pardon",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit causative of √kṣam ('to forgive, to bear'); = Skt. kṣāmayāmi ('I cause to forgive', i.e. 'I ask to be forgiven'). Note the long ā: this is the causative khāmemi ('I seek forgiveness'), distinct from khamemi ('I forgive').",
+      "notes": "First person singular present. The causative stem is decisive for the sense: the disciple is not granting forgiveness here but soliciting it from the guru."
+    },
+    {
+      "token": "ખમાસમણો",
+      "translit": "khamāsamaṇo",
+      "gloss": "O kṣamāśramaṇa (the forgiveness-ascetic, the guru)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. kṣamā-śramaṇa, 'forbearance-ascetic'; Prakrit vocative in -o.",
+      "notes": "Vocative address to the guru (defined in the preface glossary)."
+    },
+    {
+      "token": "!",
+      "translit": "!",
+      "gloss": "(vocative pause marking direct address to the guru)",
+      "partOfSpeech": "particle",
+      "etymology": "Editorial mark of the vocative call, printed in the source.",
+      "notes": "Preserved verbatim as in the book."
+    },
+    {
+      "token": "દેવસિયં",
+      "translit": "devasiyaṁ",
+      "gloss": "pertaining to the day, of today's (span)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. daivasika, 'of the day' (from divasa, 'day'); Prakrit devasiya- + accusative -ṁ, agreeing with vaikkamaṁ.",
+      "notes": "This is the period-word: in Pakkhī it becomes pakkhiyaṁ, in Cāumāsī cāumāsiyaṁ, in Sāṁvatsarī saṁvacchariyaṁ."
+    },
+    {
+      "token": "વઇક્કમં",
+      "translit": "vaikkamaṁ",
+      "gloss": "transgression, overstepping (of conduct toward the guru)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vyatikrama, 'going across, violation, breach' (vi + ati + √kram, 'to step beyond'); Prakrit vaikkama-, accusative -ṁ.",
+      "notes": "Direct object of khāmemi; here specifically any lapse of reverence toward the guru during the day."
+    }
+  ],
+  "literalTranslation": "I beg forgiveness, O forgiveness-ascetic (guru)! for the day's transgression.",
+  "idiomaticTranslation": "Forgive me, O kṣamāśramaṇa, for whatever transgression I have committed against you in the course of this day.",
+  "elaboration": {
+    "verseByVerseCommentary": "This short unit is the hinge of the salutation. The three preceding inquiries — about the guru's comfort, his ascetic endeavour (jattā), and his bodily sustenance (javaṇijja) — have completed the disciple's solicitous courtesy. Here that courtesy turns inward and becomes confession: having attended to the guru's well-being, the disciple now attends to his own conduct toward the guru and finds it wanting. The single most important word is khāmemi. It is the causative of √kṣam, and its long ā separates it sharply from khamemi ('I forgive'): the disciple is not pardoning anyone but asking to be pardoned. Popular renderings that read this as 'I forgive all beings' import the universal-forgiveness formula (khāmemi savve jīve) from elsewhere and misplace it; in this two-party exchange the object is explicit and narrow — devasiyaṁ vaikkamaṁ, 'the day's transgression', a vyatikrama, a literal 'stepping across' the bounds of reverence owed to the teacher. Note too how compressed this verse is. It states the whole act of seeking pardon in four words; the very next unit (Āvassiāe paḍikkamāmi…) will unfold exactly this seed into a full enumerated pratikramaṇa — the thirty-three āśātanās, the faults of mind, speech and body, the four passions. So verse 6 is the thesis and verse 7 its expansion: first the bare plea, then its itemised confession. The period-word devasiyaṁ also quietly fixes which observance is in progress, the daily form here.",
+    "doctrinalContext": "The verse enacts the Jain conviction that kṣamā (forbearance/forgiveness) is sought before it can be received, and that reconciliation with the guru is a precondition of valid pratikramaṇa. By naming the fault as vyatikrama — an overstepping rather than a mere mistake — it frames disrespect to the guru as a breach of conduct (cāritra), not just an etiquette slip, consistent with reverence for the enlightened teacher being treated as essential to the path.",
+    "practicalRelevance": "A reciter should let this line be a genuine pause of accountability: before the long confession that follows, simply acknowledge, plainly and without itemising yet, that the day held some lapse of respect toward one's teacher — and ask, in the causative spirit of khāmemi, to be forgiven rather than to forgive.",
+    "crossReferences": [
+      {
+        "text": "Khāmemi savve jīve (universal-forgiveness formula) — to be distinguished from this guru-directed khāmemi",
+        "source": "Āvaśyaka / Pratikramaṇa liturgy"
+      },
+      {
+        "text": "vyatikrama as breach of vow/conduct",
+        "source": "Ācārāṅga-sūtra and Niryukti commentary tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit Dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheh",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and stems: khamemi/khāmemi (√kṣam, causative kṣāmayāmi), vaikkama (vyatikrama), devasiya (daivasika)"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents: vyatikrama ('transgression, violation', vi+ati+√kram), kṣam/kṣāmayati ('to forgive; causative, to ask forgiveness'), daivasika ('of the day')"
+    },
+    {
+      "title": "Jain eLibrary / JainQQ — Pratikramaṇa and Vandanaka sūtra texts and translations",
+      "url": "https://jainqq.org",
+      "type": "translation",
+      "consultedFor": "Standard reading and sense of the Dvādaśāvarta Vāndaṇā line khāmemi khamāsamaṇo! devasiyaṁ vaikkamaṁ within the vandana"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse text is rendered verbatim from the source, including the spaced vocative '!' after khamāsamaṇo. The single substantive interpretive point is the causative khāmemi ('I seek forgiveness', Skt. kṣāmayāmi), as against khamemi ('I forgive'); some popular web sources conflate the two and graft on the universal-forgiveness verse (khāmemi savve jīve), which does not belong here — the object is explicitly devasiyaṁ vaikkamaṁ, the day's transgression toward the guru. Web verification returned mostly generic devotional material; the gloss rests on standard Prakrit/Sanskrit lexica and the tradition knowledge base, so treat page-level citation as not independently web-verified. The period-word devasiyaṁ is the only token that substitutes across the five pratikramaṇas."
+}

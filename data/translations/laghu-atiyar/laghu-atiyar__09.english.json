@@ -1,0 +1,330 @@
+{
+  "shlokaId": "laghu-atiyar/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the ninth vow — sitting in calm equanimity (sāmāyika) — and here the reciter names and seeks pardon for the five small ways that period of stillness can go wrong: a wandering mind, careless speech, a restless body, skipping it altogether, or doing it sloppily.",
+  "recitation": "Navamuṁ sāmāyika-vrata. Sāmāiya nāma sāvajja joga parivajjaṇaṁ, niravajja joga āsevaṇā ca. E navamā sāmāyika vratataṇā pāṁca atiyāra śodhuṁ. Maṇa duppaṇihāṇe, vaya duppaṇihāṇe, kāya duppaṇihāṇe, sāmāiyassa akaraṇayā, sāmāiyassa aṇavuṭṭhiyassa karaṇayā. E pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૯.",
+      "translit": "9.",
+      "gloss": "nine (verse-ordinal marking the ninth vow)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral aṅka; the Gujarati ordinals ૧–૧૨ count the twelve vows.",
+      "notes": "Structural marker, not part of the chanted Prakrit."
+    },
+    {
+      "token": "નવમું",
+      "translit": "navamuṁ",
+      "gloss": "ninth",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. navama (ninth) + Guj. neuter ending -uṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સામાયિકવ્રત",
+      "translit": "sāmāyika-vrata",
+      "gloss": "the sāmāyika vow (the vow of equanimity-sitting)",
+      "partOfSpeech": "compound",
+      "etymology": "sāmāyika (< sama 'equanimity' + āya, the 'gaining' of evenness) + vrata 'vow'; first of the four śikṣāvrata.",
+      "notes": "Headline naming the vow under review."
+    },
+    {
+      "token": "સામાઇય",
+      "translit": "sāmāiya",
+      "gloss": "sāmāyika (equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit form of Skt. sāmāyika; the -y- of sāmāyika softens to -i- in Prakrit.",
+      "notes": "Opens the canonical definition-line."
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "by name; is called",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Pkt. nāma 'namely, to wit', a defining particle introducing a definition.",
+      "notes": ""
+    },
+    {
+      "token": "સાવજજ",
+      "translit": "sāvajja",
+      "gloss": "sinful, blameworthy (activity)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāvajja < Skt. sāvadya (sa- 'with' + avadya 'fault/blame').",
+      "notes": ""
+    },
+    {
+      "token": "જોગ",
+      "translit": "joga",
+      "gloss": "activity (of mind, speech, body)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. joga < Skt. yoga; here in its Jain technical sense of 'activity/vibration of the soul', not 'union'.",
+      "notes": ""
+    },
+    {
+      "token": "પરિવજજણં",
+      "translit": "parivajjaṇaṁ",
+      "gloss": "abandoning, renouncing",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. parivajjaṇa < Skt. parivarjana (pari + √vṛj 'to avoid/shun').",
+      "notes": "Object of the first half: 'the giving-up of sinful activity'."
+    },
+    {
+      "token": "નિરવજજ",
+      "translit": "niravajja",
+      "gloss": "blameless, faultless (activity)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. niravajja < Skt. niravadya (nir- 'without' + avadya 'fault'); antonym of sāvajja.",
+      "notes": ""
+    },
+    {
+      "token": "જોગ",
+      "translit": "joga",
+      "gloss": "activity",
+      "partOfSpeech": "noun",
+      "etymology": "As above (yoga, activity).",
+      "notes": "Second occurrence, paired with niravajja."
+    },
+    {
+      "token": "આસેવણા",
+      "translit": "āsevaṇā",
+      "gloss": "cultivation, engaging in, practising",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. āsevaṇā < Skt. āsevanā (ā + √sev 'to serve/practise/attend upon').",
+      "notes": "Balances parivajjaṇaṁ: shun the blameworthy, take up the blameless."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Pkt. ca, copulative conjunction.",
+      "notes": "Joins the two limbs of the definition."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these; this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e ('this/these'), from Skt. eta-.",
+      "notes": "Switches the register from Prakrit definition to Gujarati procedural frame."
+    },
+    {
+      "token": "નવમા",
+      "translit": "navamā",
+      "gloss": "ninth",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. navama + Guj. oblique -ā.",
+      "notes": ""
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyika",
+      "gloss": "sāmāyika (equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sāmāyika (full Sanskritic spelling in the Gujarati matrix).",
+      "notes": ""
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vratataṇā",
+      "gloss": "of the vow; belonging to the vow",
+      "partOfSpeech": "noun",
+      "etymology": "vrata + Guj. genitive postposition -taṇā ('of/pertaining to').",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. pāṁca < Skt. pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial lapses of a vow)",
+      "partOfSpeech": "noun",
+      "etymology": "Book's spelling (with ય) of atichāra < Skt. aticāra (ati + √car 'to overstep').",
+      "notes": "Spelt atiyāra per this recension's orthography."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / purify / examine",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. 1st-person from √śodh (Skt. śodhana 'cleansing, scrutinising').",
+      "notes": "'I cleanse [my conscience of] the five transgressions.'"
+    },
+    {
+      "token": "મણ",
+      "translit": "maṇa",
+      "gloss": "mind",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. maṇa < Skt. manas.",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પણિહાણે",
+      "translit": "duppaṇihāṇe",
+      "gloss": "ill-direction / wrong application (locative: 'in the misdirecting')",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. duppaṇihāṇa < Skt. duṣpraṇidhāna (duṣ 'ill' + praṇidhāna 'directing, fixing'); -e locative.",
+      "notes": "First atichāra: letting the mind wander during sāmāyika."
+    },
+    {
+      "token": "વય",
+      "translit": "vaya",
+      "gloss": "speech",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vaya < Skt. vāc / vacas.",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પણિહાણે",
+      "translit": "duppaṇihāṇe",
+      "gloss": "ill-direction / wrong application",
+      "partOfSpeech": "noun",
+      "etymology": "As above.",
+      "notes": "Second atichāra: careless or improper speech during sāmāyika."
+    },
+    {
+      "token": "કાય",
+      "translit": "kāya",
+      "gloss": "body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. kāya.",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પણિહાણે",
+      "translit": "duppaṇihāṇe",
+      "gloss": "ill-direction / wrong application",
+      "partOfSpeech": "noun",
+      "etymology": "As above.",
+      "notes": "Third atichāra: restless or improper bodily posture/movement."
+    },
+    {
+      "token": "સામાઇયસ્સ",
+      "translit": "sāmāiyassa",
+      "gloss": "of the sāmāyika",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. genitive -ssa (Skt. -sya) on sāmāiya.",
+      "notes": ""
+    },
+    {
+      "token": "અકરણયા",
+      "translit": "akaraṇayā",
+      "gloss": "non-performance, not doing it",
+      "partOfSpeech": "noun",
+      "etymology": "a- (privative) + karaṇa 'doing' + abstract -yā (Skt. -tā); 'the state of not-doing'.",
+      "notes": "Fourth atichāra: failing to perform the sāmāyika at all."
+    },
+    {
+      "token": "સામાઇયસ્સ",
+      "translit": "sāmāiyassa",
+      "gloss": "of the sāmāyika",
+      "partOfSpeech": "noun",
+      "etymology": "As above (genitive).",
+      "notes": ""
+    },
+    {
+      "token": "અણવુટ્ઠિયસ્સ",
+      "translit": "aṇavuṭṭhiyassa",
+      "gloss": "of the unsteady / improperly-established (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. aṇavuṭṭhiya < Skt. anavasthita (an- 'not' + avasthita 'settled, established'); genitive -assa.",
+      "notes": "Qualifies an implied 'sāmāyika done in an unsettled manner'."
+    },
+    {
+      "token": "કરણયા",
+      "translit": "karaṇayā",
+      "gloss": "performing, doing",
+      "partOfSpeech": "noun",
+      "etymology": "karaṇa 'doing' + abstract -yā.",
+      "notes": "Fifth atichāra: performing sāmāyika carelessly / before the full time, without proper steadiness."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative.",
+      "notes": "Closing-frame repetition."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "As above.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "As above.",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among, within (these five)",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. māṁhe 'inside/among' < Skt. madhye.",
+      "notes": "Seals the list: 'among these five [whatever I lapsed in...]', leading into the micchā mi dukkaḍaṁ refrain."
+    }
+  ],
+  "literalTranslation": "Ninth, the sāmāyika vow. Sāmāyika, by name, is the abandoning of sinful activity, and the cultivating of blameless activity. These — I scrutinise the five transgressions of this ninth sāmāyika vow: ill-direction of mind, ill-direction of speech, ill-direction of body, the non-performance of the sāmāyika, the performing of the sāmāyika in an unsteady manner. Among these five [transgressions, whatever I have committed...].",
+  "idiomaticTranslation": "The ninth vow: sāmāyika, the sitting in equanimity. What is sāmāyika? It is the laying-aside of every blameworthy activity and the taking-up only of the blameless. Now I examine the five ways this vow may have been stained: letting my mind wander, letting my tongue slip, letting my body grow restless, neglecting to sit at all, or sitting carelessly and without steadiness. Among these five — whatever fault arose, may it be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "Verse 9 opens the śikṣāvrata quartet, and the text pauses to embed a definition it gave no other vow: 'sāmāiya nāma sāvajja joga parivajjaṇaṁ, niravajja joga āsevaṇā ca.' This is the classical Āvaśyaka-tradition definition of sāmāyika, and its two-beat shape — shun (parivajjaṇa) the blameworthy, cultivate (āsevaṇā) the blameless — mirrors the very rhythm of pratikramaṇa itself, making this vow a miniature of the whole rite. The five atichāras then divide cleanly: the first three are the trividha-yoga of mind (maṇa), speech (vaya) and body (kāya), each spoiled by duppaṇihāṇa — 'ill-placing', the activity that leaks out where stillness was vowed. The last two move from quality to existence of the act: akaraṇayā (not doing the sāmāyika at all) and aṇavuṭṭhiyassa karaṇayā (doing it unsteadily — breaking the forty-eight minutes early, or sitting without proper resolve). Note that this recension's final pair differs from the more familiar Tattvārtha list (anādara and smṛty-anupasthāna); the Anchalgachchha book substitutes the 'non-doing / unsteady-doing' couplet, a variant well-attested in Śvetāmbara āvaśyaka practice. The genitive sāmāiyassa governing both shows these last two are faults about the observance as a whole, not merely lapses within it. After the dense Prakrit definition the language reverts to the Gujarati procedural frame ('e... śodhuṁ... māṁhe'), and the verse hands off to the day/night confession refrain shared by every vow.",
+    "doctrinalContext": "Sāmāyika operationalises the doctrine that bondage flows from yoga (activity) driven by kaṣāya; by vowing niravadya-yoga alone for a fixed span, the householder rehearses the sarva-virati (total restraint) of the ascetic within a measured frame. The trivividha mano-vāk-kāya analysis of the first three atichāras reflects the standard Jain anatomy of action across the three channels, each capable of independent transgression. The fourth and fifth atichāras encode a subtle ethic: that a vow is wounded not only by doing it badly but by omitting it, and that half-hearted, restless observance (anavasthita) is itself a countable fault — sincerity and steadiness are part of the vow's substance, not optional extras.",
+    "practicalRelevance": "A reciter checks the day's sāmāyika against five honest questions: did my mind drift, did I speak idly, did I fidget or rise restlessly, did I skip it, did I rush or hold it half-heartedly? Naming the specific slip — rather than a vague 'I did badly' — is what the atichāra format trains, turning the next sitting into a deliberately steadier one.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.33 — five atichāras of sāmāyika (mano-/vāg-/kāya-duṣpraṇidhāna, anādara, smṛty-anupasthāna)",
+        "source": "Umāsvāti, with Sarvārthasiddhi/Bhāṣya tradition"
+      },
+      {
+        "text": "Āvaśyaka-sūtra / Anuyogadvāra — the definition 'sāvajja-jogaṁ pariccayāmi... sāmāiya'",
+        "source": "Śvetāmbara Āvaśyaka tradition"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — śikṣāvrata observance by the lay disciple",
+        "source": "Aṅga canon"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha-sūtra of Umāsvāti, chapter 7 (vows and their atichāras)",
+      "url": "https://www.jainworld.com/scriptures/tattvartha-sutra/",
+      "type": "scholarship",
+      "consultedFor": "The canonical five atichāras of sāmāyika and the three-fold mano-vāk-kāya duṣpraṇidhāna framework against which this recension's variant is read."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://archive.org/details/PaiaSaddaMahannavo",
+      "type": "dictionary",
+      "consultedFor": "Glosses for duppaṇihāṇa (duṣpraṇidhāna), sāvajja/niravajja (sāvadya/niravadya), and aṇavuṭṭhiya (anavasthita)."
+    },
+    {
+      "title": "JainQQ digital library — Āvaśyaka and śrāvakācāra texts",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "The Āvaśyaka definition of sāmāyika as sāvadya-yoga-parivarjana / niravadya-yoga-āsevana, and the 'akaraṇa / anavasthita-karaṇa' atichāra variant in Śvetāmbara practice."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit root-forms underlying the Prakrit tokens: praṇidhāna, parivarjana, āsevanā, avasthita, aticāra."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Two verse-specific caveats. (1) The last two atichāras here — 'sāmāiyassa akaraṇayā' (non-performance) and 'sāmāiyassa aṇavuṭṭhiyassa karaṇayā' (unsteady performance) — diverge from the Tattvārtha-sūtra's standard pair 'anādara' (disrespect) and 'smṛty-anupasthāna' (lapse of mindfulness). This 'non-doing / unsteady-doing' couplet is a recognised Śvetāmbara āvaśyaka variant and is preserved here verbatim, not normalised to the Tattvārtha list. (2) 'aṇavuṭṭhiya' = anavasthita ('unsettled/unsteady'); a minority of readings instead derive a sense of 'doing it before the proper completion of the time-span', which is compatible with the unsteadiness gloss. The verse's per-token spellings (duppaṇihāṇe, aṇavuṭṭhiyassa) follow this book's orthography (e.g. atiyāra with ય) and were not regularised."
+}

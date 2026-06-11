@@ -1,0 +1,146 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/19",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And so this is the noble hymn to Lord Pārśva that takes away great fear, gladdens worthy souls, and is a treasure-house of unbroken blessings.",
+  "recitation": "evaṁ mahābhaya-haraṁ, pāsa jiṇindassa saṁthavam-uāraṁ | bhaviya-jaṇāṇanda-yaraṁ, kallāṇa-paraṁpara-nihāṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. evam; a gathering deictic that points back over the whole preceding litany (vv.2–18).",
+      "notes": "Functions as the hinge: 'such (as just described) is this hymn'."
+    },
+    {
+      "token": "મહાભય",
+      "translit": "mahābhaya",
+      "gloss": "great fear, the great perils",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mahā- ('great') + bhaya ('fear'); first member of the bahuvrīhi mahābhaya-hara.",
+      "notes": "Glossary term (preface); here it sums the whole catalogue of dangers, not one peril."
+    },
+    {
+      "token": "હરં",
+      "translit": "haraṁ",
+      "gloss": "removing, that which takes away",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. hara, from √hṛ ('to carry off, remove'); accusative agreeing with saṁthavaṁ.",
+      "notes": "Echoes the stotra's own title-epithet bhaya-hara."
+    },
+    {
+      "token": "પાસ",
+      "translit": "pāsa",
+      "gloss": "Pārśva (the 23rd Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsa = Skt. Pārśva; here in genitive relation with jiṇindassa.",
+      "notes": "Glossary term (preface)."
+    },
+    {
+      "token": "જિણિંદસ્સ",
+      "translit": "jiṇindassa",
+      "gloss": "of the lord of Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina + indra → jinendra ('Jina-lord'); Prakrit genitive sg. -assa.",
+      "notes": "pāsa jiṇindassa = 'of Pārśva, lord among Jinas' — the hymn's object of praise."
+    },
+    {
+      "token": "સંથવમુઆરં",
+      "translit": "saṁthavam-uāraṁ",
+      "gloss": "the exalted hymn of praise",
+      "partOfSpeech": "compound",
+      "etymology": "saṁthavaṁ (Skt. saṁstava, 'sustained praise') + uāraṁ (Skt. udāra, 'noble, lofty, exalted'), joined by sandhi with the typical Prakrit loss of intervocalic d (udāra → uāra).",
+      "notes": "Two words written as one token; saṁstava is the glossary term and the hymn's self-name."
+    },
+    {
+      "token": "ભવિય",
+      "translit": "bhaviya",
+      "gloss": "the worthy souls (bhavya, those capable of liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaviya = Skt. bhavya; in Jain doctrine a soul possessing the innate capacity for mokṣa (opp. abhavya).",
+      "notes": "First member of bhaviya-jaṇa ('bhavya folk')."
+    },
+    {
+      "token": "જણાણંદયરં",
+      "translit": "jaṇāṇanda-yaraṁ",
+      "gloss": "giving joy to (those) people",
+      "partOfSpeech": "compound",
+      "etymology": "jaṇa (Skt. jana, 'people') + āṇanda (Skt. ānanda, 'joy') + -yara/-kara (Skt. -kara, 'making'); 'maker of joy for the bhavya people'.",
+      "notes": "Reads with the preceding bhaviya: bhaviya-jaṇa-āṇanda-yaraṁ, 'delighting worthy souls'."
+    },
+    {
+      "token": "કલ્લાણ",
+      "translit": "kallāṇa",
+      "gloss": "auspiciousness, well-being, blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kallāṇa = Skt. kalyāṇa; first member of the compound kalyāṇa-paraṁpara-nidhāna.",
+      "notes": "Spans worldly welfare and the ultimate good (mokṣa)."
+    },
+    {
+      "token": "પરંપર",
+      "translit": "paraṁpara",
+      "gloss": "succession, unbroken series",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. paramparā ('one-after-another, continuous lineage'); middle member of the compound.",
+      "notes": "kallāṇa-paraṁpara = 'an unbroken chain of blessings' across births."
+    },
+    {
+      "token": "નિહાણં",
+      "translit": "nihāṇaṁ",
+      "gloss": "treasure-house, repository",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nihāṇa = Skt. nidhāna ('store, treasury'), from ni-√dhā ('to deposit'); accusative agreeing with saṁthavaṁ.",
+      "notes": "Final epithet: the hymn is itself the storehouse of that blessing-succession."
+    }
+  ],
+  "literalTranslation": "Thus (is) this exalted hymn of praise of Pārśva, lord of Jinas — remover of great fear, giver of joy to worthy souls, a treasure-house of an unbroken succession of blessings.",
+  "idiomaticTranslation": "Such, then, is this lofty hymn to Pārśva, the Jina-lord: it carries off every great fear, it fills worthy hearts with gladness, and it is a very treasury of blessings that flow on, one upon another, without end.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.18 closed the litany by naming all the perils and promising that Pārśva's name alone stills them, v.19 turns the gaze from object to instrument: it stops praising Pārśva-through-his-dangers and praises the very hymn that has been doing the work. The opening 'evaṁ' ('thus, such-as-described') deliberately gathers everything recited so far into a single demonstrative, then loads the saṁstava with four predicates. Two look backward — it is mahābhaya-hara ('great-fear-removing'), recapitulating the whole danger-catalogue in one word, and it is udāra ('exalted'), a hymn worthy of its subject, pāsa jiṇinda. Two look forward to its fruit — it is bhaviya-jaṇa-āṇanda-kara, gladdening exactly those souls who are bhavya (capable of liberation), and kalyāṇa-paraṁpara-nihāṇa, a 'treasury of an unbroken succession of blessings.' This is the classic phala-stuti move — the praise-of-the-praise that converts a protective recitation into a self-aware devotional act and prepares the widening of scope in vv.20–21. Notice the careful audience-marking: the joy is promised not to all hearers but to bhavya souls, quietly aligning fear-removal with the soul's deeper fitness for mokṣa. The single compressed simile-free verse therefore does double duty — sealing the danger-section and announcing that the hymn's reward is not merely safety but a continuing stream of welfare culminating beyond this life.",
+    "doctrinalContext": "Two doctrinal points are specific to this verse. First, bhaviya (bhavya): Jain metaphysics divides souls into bhavya (possessing the latent capacity for liberation) and abhavya (lacking it); by saying the hymn gladdens 'bhavya folk,' the poet ties its efficacy to spiritual receptivity, not mere audition. Second, kalyāṇa-paraṁparā-nidhāna frames the reward as a phala-paramparā — an unbroken succession of auspicious states (favourable rebirths, right faith, ultimately mokṣa), the standard Jain ladder by which puṇya earned through devotion matures across lives. Thus the verse quietly lifts the stotra's promise from worldly bhaya-removal to the soteriological 'great good.'",
+    "practicalRelevance": "Recited near the hymn's close, this verse invites the practitioner to pause and consciously affirm what the recitation is for: not magic against this-worldly danger only, but a deposit into a 'treasury of blessings' that keeps yielding. Chanting it with that awareness reframes daily protective recitation as a step on the liberation-path, and reminds the reciter that the gladness it brings is proportional to one's own bhavya receptivity.",
+    "crossReferences": [
+      {
+        "text": "bhavya/abhavya distinction (capacity for liberation)",
+        "source": "Tattvārtha-sūtra, Umāsvāti"
+      },
+      {
+        "text": "Namiūṇa / Bhayahara Stotra, danger-litany vv.2–18 summed in v.18",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "phala-stuti pattern (a stotra praising its own fruit) shared with the Bhaktāmara colophon verses",
+        "source": "Bhaktāmara Stotra, Mānatuṅga"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara addressed as pāsa jiṇinda in this verse"
+    },
+    {
+      "title": "Bhaktamara Stotra",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Mānatuṅga authorship and the phala-stuti convention of a hymn praising its own efficacy"
+    },
+    {
+      "title": "Tattvartha Sutra",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "the bhavya/abhavya doctrine underlying bhaviya-jaṇa ('worthy souls')"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots of udāra ('exalted'), nidhāna ('treasury'), paramparā ('succession'), kalyāṇa ('welfare')"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is a phala-stuti praising the hymn itself; it contains no danger-image, so the commentary is kept tight. saṁthavamuāraṁ is a sandhi compound = saṁstava + udāra (Prakrit loss of intervocalic d: udāra → uāra), here read attributively ('exalted saṁstava'); some recensions print udāra separately. bhaviya is taken as Skt. bhavya ('soul capable of liberation') rather than 'future' (bhāvī); the Jain devotional context strongly favours bhavya, and bhaviya-jaṇa is a fixed phrase. paraṁpara is the stem of paramparā. Spellings (કલ્લાણ, નિહાણં, જિણિંદસ્સ) follow the supplied Anchalgachchha book text verbatim and may differ from other recensions; verse-numbering as 19 per the supplied text."
+}

@@ -1,0 +1,248 @@
+{
+  "vidhiId": "rai-vidhi",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "Rāi Pratikramaṇa — Procedure (Dawn Reflection)",
+  "summary": "This step lays out the Rātrika (Rāi) pratikramaṇa, the daily dawn rite reviewing the faults of the night. Up to the second Āvaśyaka it mirrors the Devasi (sunset) pratikramaṇa, simply substituting the word 'rāiya' for 'devasik'; it then adds two night-specific kāyotsargas and concludes with the Kevalnāṇī caityavandana and the Bharahesar sajjhāy in place of the usual Devasi closings.",
+  "segments": [
+    {
+      "segmentId": "rai-vidhi/01",
+      "recitation": "devasik → rāiya",
+      "plainMeaning": "Up to the second Āvaśyaka, do everything just as in the evening (Devasi) pratikramaṇa, only saying 'rāiya' wherever it said 'devasik'.",
+      "idiomaticTranslation": "Now, in the Rāi pratikramaṇa, the procedure up to the second Āvaśyaka is to be followed exactly as in the Devasik pratikramaṇa; the only difference is that wherever the word 'devasik' (of the day) occurs, one should say 'rāiya' (of the night) instead.",
+      "explanation": "A reference instruction, not a chant: it borrows the Devasi sequence wholesale and applies the day→night word-substitution rather than reprinting the shared sūtras.",
+      "ritualTerms": [
+        {
+          "term": "pratikramaṇa",
+          "gloss": "the rite of turning back: reflection, confession and renewal"
+        },
+        {
+          "term": "āvaśyaka",
+          "gloss": "one of the six obligatory daily observances"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/02",
+      "recitation": "(give one khamāsamaṇa, rise, and say:)",
+      "plainMeaning": "Offer one prostration, stand up, and then speak the next line.",
+      "idiomaticTranslation": "Then, after offering one khamāsamaṇa (full prostration of homage), stand upright and say the following.",
+      "explanation": "A posture cue that frames the ādeśa that follows in segment 03.",
+      "ritualTerms": [
+        {
+          "term": "khamāsamaṇa",
+          "gloss": "a reverential prostration begging forgiveness, made to the guru"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/03",
+      "recitation": "Icchākāreṇa saṁdissaha bhagavan! tṛtīya āvaśyaka bhaṇī, abhibhava-aśeṣa, dukkhakkhaya, kammakkhaya nimittaṁ karemi kāussaggaṁ,",
+      "plainMeaning": "With your leave, Reverend Sir — for the third Āvaśyaka I now perform kāyotsarga to overcome all faults and to destroy suffering and karma.",
+      "idiomaticTranslation": "'By your gracious permission, command me, O Reverend One! Having reached the third Āvaśyaka, for the sake of overcoming all (faults) without remainder, for the destruction of suffering and the destruction of karma, I undertake kāyotsarga.'",
+      "explanation": "The disciple's ādeśa seeking leave to begin the third-Āvaśyaka kāyotsarga; it states the threefold purpose (overcoming all, ending suffering, ending karma).",
+      "ritualTerms": [
+        {
+          "term": "ādeśa",
+          "gloss": "a formal request-and-permission declaration spoken before a ritual unit"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        },
+        {
+          "term": "āvaśyaka",
+          "gloss": "one of the six obligatory daily observances"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/04",
+      "recitation": "Annattha (then a kāyotsarga of five full Logassa)",
+      "plainMeaning": "Recite Annattha, then stand in kāyotsarga while silently telling five complete Logassa.",
+      "idiomaticTranslation": "Then, having recited Annattha (the formula of permitted exceptions), perform the kāyotsarga of five complete Logassa.",
+      "explanation": "Sets the measure of this kāyotsarga: five whole Logassa, recited in full (the longest count of the Rāi rite).",
+      "ritualTerms": [
+        {
+          "term": "Annattha",
+          "gloss": "the sūtra naming bodily acts that do not break the kāyotsarga"
+        },
+        {
+          "term": "Logassa",
+          "gloss": "praise of the 24 Tīrthaṅkaras, used as the breath-unit for counting kāyotsarga"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/05",
+      "recitation": "(complete the kāyotsarga, then recite Logassa aloud)",
+      "plainMeaning": "End the kāyotsarga and recite the Logassa out loud.",
+      "idiomaticTranslation": "Then, releasing the kāyotsarga, recite the Logassa aloud.",
+      "explanation": "The standard release: the silently-held kāyotsarga is concluded with one openly-voiced Logassa.",
+      "ritualTerms": [
+        {
+          "term": "Logassa",
+          "gloss": "praise of the 24 Tīrthaṅkaras (the second Āvaśyaka)"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/06",
+      "recitation": "(give one khamāsamaṇa, rise, and say:)",
+      "plainMeaning": "Offer one prostration, stand up, and then speak the next line.",
+      "idiomaticTranslation": "Then, after offering one khamāsamaṇa (full prostration of homage), stand upright and say the following.",
+      "explanation": "The same posture cue repeated, now framing the night-purification ādeśa in segment 07.",
+      "ritualTerms": [
+        {
+          "term": "khamāsamaṇa",
+          "gloss": "a reverential prostration begging forgiveness, made to the guru"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/07",
+      "recitation": "Icchākāreṇa saṁdissaha bhagavan! kusumiṇa dussumiṇa uḍḍāmaṇī nimittaṁ rāi pāyacchitta visohaṇatthaṁ karemi kāussaggaṁ,",
+      "plainMeaning": "With your leave, Reverend Sir — to wipe away bad dreams and nightmares and to purify the night's faults, I now perform kāyotsarga.",
+      "idiomaticTranslation": "'By your gracious permission, command me, O Reverend One! For the removal of (sinful) dreams and nightmares, and for the cleansing atonement of the faults of the night, I undertake kāyotsarga.'",
+      "explanation": "This ādeśa is unique to the dawn rite: it targets impure or disturbing dreams of the past night and the night's transgressions.",
+      "ritualTerms": [
+        {
+          "term": "ādeśa",
+          "gloss": "a formal request-and-permission declaration spoken before a ritual unit"
+        },
+        {
+          "term": "pāyacchitta",
+          "gloss": "atonement / expiatory penance for transgressions"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/08",
+      "recitation": "Annattha (then a kāyotsarga of four Logassa, up to 'sāgaravaragambhīrā')",
+      "plainMeaning": "Recite Annattha, then hold kāyotsarga while silently telling four Logassa, each only as far as 'sāgaravaragambhīrā'.",
+      "idiomaticTranslation": "Then, having recited Annattha, perform the kāyotsarga of four Logassa, each counted only up to the words 'sāgaravaragambhīrā'.",
+      "explanation": "Unlike the five full Logassa above, this kāyotsarga uses the shortened Logassa, stopping at 'sāgaravaragambhīrā' (per the general note in segment 14).",
+      "ritualTerms": [
+        {
+          "term": "Annattha",
+          "gloss": "the sūtra naming bodily acts that do not break the kāyotsarga"
+        },
+        {
+          "term": "Logassa",
+          "gloss": "praise of the 24 Tīrthaṅkaras, used as the breath-unit for kāyotsarga"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/09",
+      "recitation": "(complete the kāyotsarga, then recite Logassa aloud)",
+      "plainMeaning": "End the kāyotsarga and recite the Logassa out loud.",
+      "idiomaticTranslation": "Releasing the kāyotsarga, recite the Logassa aloud.",
+      "explanation": "The release for the second kāyotsarga, concluded with one openly-voiced Logassa.",
+      "ritualTerms": [
+        {
+          "term": "Logassa",
+          "gloss": "praise of the 24 Tīrthaṅkaras (the second Āvaśyaka)"
+        },
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/10",
+      "recitation": "(from the cheḍā paḍilehaṇa through the sajjhāy: follow the Devasi procedure)",
+      "plainMeaning": "From the cloth-end inspection up to the sajjhāy, do everything as in the Devasi pratikramaṇa.",
+      "idiomaticTranslation": "Then the procedure from the cheḍā paḍilehaṇa (inspection of the garment-edge) onward up to the sajjhāy is to be known exactly as in the Devasik pratikramaṇa procedure.",
+      "explanation": "Another reference instruction borrowing the shared Devasi sequence for this whole stretch of the rite.",
+      "ritualTerms": [
+        {
+          "term": "paḍilehaṇa",
+          "gloss": "careful inspection of cloth/body to avoid harming tiny living beings"
+        },
+        {
+          "term": "sajjhāy",
+          "gloss": "svādhyāya — sacred study-recitation in the closing portion"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/11",
+      "recitation": "(in place of the stavanas, recite the 'Kevalnāṇī' stavana)",
+      "plainMeaning": "Here there is one special change: instead of the usual hymns, recite the 'Kevalnāṇī' hymn.",
+      "idiomaticTranslation": "The one special difference here is that, in place of the usual stavanas (devotional hymns), one should recite the 'Kevalnāṇī' stavana.",
+      "explanation": "Marks the Rāi-specific substitution within the borrowed Devasi sequence: the Kevalnāṇī bṛhat-caityavandana replaces the ordinary hymns.",
+      "ritualTerms": [
+        {
+          "term": "stavana",
+          "gloss": "a devotional hymn of praise"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/12",
+      "recitation": "(in place of the sajjhāy, recite the 'Bharahesar Bāhubalī' sajjhāy)",
+      "plainMeaning": "Likewise, instead of the usual sajjhāy, recite the 'Bharahesar Bāhubalī' sajjhāy.",
+      "idiomaticTranslation": "And, in place of the usual sajjhāy, one should recite the 'Bharahesar Bāhubalī' sajjhāy.",
+      "explanation": "The companion substitution to segment 11: the Bharahesar Bāhubalī litany of exemplary monks and satīs takes the place of the Devasi sajjhāy.",
+      "ritualTerms": [
+        {
+          "term": "sajjhāy",
+          "gloss": "svādhyāya — sacred study-recitation in the closing portion"
+        }
+      ]
+    },
+    {
+      "segmentId": "rai-vidhi/13",
+      "recitation": "(the Kevalnāṇī stavana and Bharahesar Bāhubalī sajjhāy are as follows)",
+      "plainMeaning": "That Kevalnāṇī hymn and Bharahesar Bāhubalī sajjhāy are to be known as given below.",
+      "idiomaticTranslation": "That Kevalnāṇī stavana and the Bharahesar Bāhubalī sajjhāy are to be understood as follows. ॥",
+      "explanation": "A pointer that the texts of these two substituted pieces follow next in the book.",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "rai-vidhi/14",
+      "recitation": "(Note: all kāyotsargas except the five-Logassa one go only up to 'sāgaravara gambhīrā')",
+      "plainMeaning": "Note: in the Rāi rite every kāyotsarga except the five-Logassa one is counted only up to 'sāgaravara gambhīrā'.",
+      "idiomaticTranslation": "Note: in the Rāi pratikramaṇa, all kāyotsargas other than the five-Logassa one are to be performed only as far as 'sāgaravara gambhīrā'.",
+      "explanation": "A general rule covering the whole step: it explains why the second kāyotsarga (segment 08) uses the shortened Logassa while the first (segment 04) uses the full one.",
+      "ritualTerms": [
+        {
+          "term": "kāyotsarga",
+          "gloss": "meditative abandonment of the body, held in stillness"
+        },
+        {
+          "term": "Logassa",
+          "gloss": "praise of the 24 Tīrthaṅkaras, the breath-unit for kāyotsarga"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)",
+      "url": "",
+      "type": "reference",
+      "consultedFor": "Rāi pratikramaṇa vidhi placement, kāyotsarga counts, and day→night word-substitution per the tradition knowledge base"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Translations follow the supplied native segments and the tradition KB verbatim; no steps or counts were added. 'uḍḍāmaṇī' (segment 07) is rendered idiomatically as 'removal/wiping away' of kusumiṇa-dussumiṇa (good/bad or sinful dreams and nightmares); this gloss is interpretive and not independently attested in the provided KB, so it is flagged as mildly uncertain. The book uses 'devasik/rāiya' (and elsewhere 'rāi'); these are preserved as given. No external URL is cited because the source book OCR path was not independently verifiable in this session."
+}

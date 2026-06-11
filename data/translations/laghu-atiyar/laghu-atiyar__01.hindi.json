@@ -1,0 +1,944 @@
+{
+  "shlokaId": "laghu-atiyar/01",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "plainMeaning": "इस आरंभिक भाग में साधक पहले सच्ची श्रद्धा (सम्यक्त्व) के पाँच दोषों को, फिर अहिंसा और सत्य — पहले दो व्रतों — के पाँच-पाँच दोषों को याद करके 'मिच्छा मि दुक्कडं' कहते हुए उनकी क्षमा माँगता है।",
+  "recitation": "(इच्छं) अरिहंत देव, सुसाधु गुरु, जिनप्रणीत धर्म, भावतः समकित प्रतिपालुं, द्रव्यतो लौकिक, लोकोत्तर, देवगत, गुरुगत, पर्वगत मिथ्यात्व विषे जयणा करुं। ए श्री समकिततणा पांच अतियार शोधुं। शंका, कंखा, वितिगिच्छा, परपाखंडी परशंसा, परपाखंडी संथुओ। ए पांच अतियारमांहे दिवस (रात्रि होय तो 'रात्रि संबंधी' कहेवुं) संबंधी जिको कोइ अतियार हुओ होय, ते सवि हुं मने, वचने, कायाए करी मिच्छा मि दुक्कडं। १. बार व्रत मांहे पहेलुं प्राणातिपात विरमणव्रत। स्थूल बे इंद्रियादिक त्रस जीव निरपराध उपेतकरण संकल्पी करी हणवा नियम, आरंभे जयणा। ए पहेला प्राणातिपात विरमणव्रततणा पांच अतियार शोधुं। बंधे, वहे, छविच्छेए, अइभारे, भत्तपाणवुच्छेए। ए पांच अतियारमांहे दिवस संबंधी। इत्यादि पाठ दरेक अतियारे कहेवुं। २. बीजुं स्थूल मृषावाद विरमणव्रत। पंचविध कन्नालीए, गोवालीए, भमालीए, नासावहारे, कूडसक्खिज्जे। ए पांच मोटकां कूडां आपणने काजे, स्वजनने काजे, धर्मने काजे मूकी, परकाजे कूडुं बोलवा नियम, सूक्ष्म अलीकतणी जयणा करुं। ए बीजा स्थूल मृषावाद विरमणव्रततणा पांच अतियार शोधुं। सहस्साभक्खाणो, रहस्साभक्खाणो, सदारामंतभेए मोसोवएसे, कूडलेहकरणे। ए पांच अतियार मांहे।",
+  "wordByWord": [
+    {
+      "token": "(ઇચ્છં)",
+      "translit": "icchaṁ",
+      "gloss": "स्वीकार है / मुझे यह इष्ट है",
+      "partOfSpeech": "particle",
+      "etymology": "प्रा. icchaṁ < सं. iṣṭa/icchā (इच्छा); आदेश-संवाद का स्वीकृति-वाचक उत्तर।",
+      "notes": "कोष्ठक में होने से यह विधि (आदेश-स्वीकृति) का अवशेष है, जो पाठ के आरंभ में बोला जाता है।"
+    },
+    {
+      "token": "અરિહંત",
+      "translit": "arihanta",
+      "gloss": "अरिहंत (राग-द्वेष रूपी शत्रुओं को जीतने वाले तीर्थंकर)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. arihanta < सं. arihan/arhat; 'ari' (शत्रु) + 'hanta' (नाशक), अथवा arhat (पूज्य)।"
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "देव (आराध्य) — यहाँ 'अरिहंत ही सच्चे देव हैं' ऐसा श्रद्धा-कथन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. deva < √div (द्योतित होना)।"
+    },
+    {
+      "token": "સુસાધુ",
+      "translit": "susādhu",
+      "gloss": "सुसाधु (सच्चे, सुविहित साधु)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. su (श्रेष्ठ) + sādhu (√sādh — साधना करने वाला)।"
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "गुरु — यहाँ 'सुसाधु ही सच्चे गुरु हैं'",
+      "partOfSpeech": "noun",
+      "etymology": "सं. guru (गुरु, भारी/पूज्य)।"
+    },
+    {
+      "token": "જિનપ્રણીત",
+      "translit": "jinapraṇīta",
+      "gloss": "जिन द्वारा प्ररूपित / उपदिष्ट",
+      "partOfSpeech": "adj",
+      "etymology": "सं. jina (जिन) + praṇīta (pra+√nī — कहा/रचा हुआ)।"
+    },
+    {
+      "token": "ધર્મ",
+      "translit": "dharma",
+      "gloss": "धर्म — यहाँ 'जिन-प्रणीत ही सच्चा धर्म है'",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dharma < √dhṛ (धारण करना)।"
+    },
+    {
+      "token": "ભાવતઃ",
+      "translit": "bhāvataḥ",
+      "gloss": "भाव से (आंतरिक श्रद्धा-परिणाम से)",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. bhāva + तस् प्रत्यय (पंचमी-अर्थक)।",
+      "notes": "आगे के 'द्रव्यतः' के साथ युग्म; भाव-स्तर पर पूर्ण, द्रव्य-स्तर पर यतना।"
+    },
+    {
+      "token": "સમકિત",
+      "translit": "samakita",
+      "gloss": "सम्यक्त्व (देव-गुरु-धर्म में सच्ची श्रद्धा)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा./गुज. samakita < सं. samyaktva।"
+    },
+    {
+      "token": "પ્રતિપાલું",
+      "translit": "pratipāluṁ",
+      "gloss": "(मैं) भली-भाँति पालन करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. prati+√pāl (पालन करना), उत्तम-पुरुष एकवचन क्रिया।"
+    },
+    {
+      "token": "દ્રવ્યતો",
+      "translit": "dravyato",
+      "gloss": "द्रव्य से (बाह्य व्यवहार-स्तर पर)",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. dravya + तस् प्रत्यय।"
+    },
+    {
+      "token": "લૌકિક",
+      "translit": "laukika",
+      "gloss": "लौकिक (सांसारिक) मिथ्यात्व",
+      "partOfSpeech": "adj",
+      "etymology": "सं. loka + ठक् (इक) प्रत्यय।"
+    },
+    {
+      "token": "લોકોત્તર",
+      "translit": "lokottara",
+      "gloss": "लोकोत्तर (धर्म-क्षेत्र-संबंधी) मिथ्यात्व",
+      "partOfSpeech": "adj",
+      "etymology": "सं. loka + uttara (परे)।"
+    },
+    {
+      "token": "દેવગત",
+      "translit": "devagata",
+      "gloss": "देव-विषयक (मिथ्या देवों को मानने रूप मिथ्यात्व)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. deva + gata (विषयक)।"
+    },
+    {
+      "token": "ગુરુગત",
+      "translit": "gurugata",
+      "gloss": "गुरु-विषयक (कुगुरु को गुरु मानने रूप मिथ्यात्व)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. guru + gata।"
+    },
+    {
+      "token": "પર્વગત",
+      "translit": "parvagata",
+      "gloss": "पर्व-विषयक (मिथ्या पर्व/उत्सव मानने रूप मिथ्यात्व)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. parva (पर्व) + gata।"
+    },
+    {
+      "token": "મિથ્યાત્વ",
+      "translit": "mithyātva",
+      "gloss": "मिथ्यात्व (विपरीत/झूठी श्रद्धा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mithyā + त्व भाव-प्रत्यय।"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "के विषय में / के बारे में",
+      "partOfSpeech": "particle",
+      "etymology": "सं. viṣaye (विषय की सप्तमी), गुज. में परसर्ग रूप।"
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "जयणा (यतना/सावधानी)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. jayaṇā < सं. yatanā।",
+      "notes": "प्रस्तावना में परिभाषित — यहाँ केवल प्रयोग।"
+    },
+    {
+      "token": "કરું",
+      "translit": "karuṁ",
+      "gloss": "(मैं) करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √kṛ, उत्तम-पुरुष एकवचन।"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "यह / ये (निर्देशक सर्वनाम)",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. e < अप. ए < सं. eta/etad।",
+      "notes": "यह सर्वनाम पूरे पाठ में बार-बार आता है ('ए श्री समकिततणा', 'ए पांच…'); प्रत्येक बार वही अर्थ — संक्षेप हेतु यहाँ एक बार ग्लॉस किया।"
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "श्री (आदर/मंगल-सूचक उपपद)",
+      "partOfSpeech": "particle",
+      "etymology": "सं. śrī (शोभा, मंगल)।"
+    },
+    {
+      "token": "સમકિતતણા",
+      "translit": "samakitataṇā",
+      "gloss": "सम्यक्त्व के",
+      "partOfSpeech": "noun",
+      "etymology": "samakita + गुज. संबंध-परसर्ग 'तणा' (= का/के, सं. ‑तनक से)।"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "पाँच",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. pāṁca < सं. pañca।",
+      "notes": "संख्या-वाचक; पाठ में हर व्रत के साथ 'पांच अतियार' में पुनरावृत्त — एक बार ग्लॉस।"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "अतिचार (व्रत में लगी आंशिक भूल)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. aïyāra/atiyāra < सं. aticāra।",
+      "notes": "पुस्तक की वर्तनी 'अतियार' (य के साथ) सुरक्षित; प्रस्तावना में परिभाषित।"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "शोधता/शुद्ध करता हूँ (आलोचना द्वारा)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √śudh (शुद्ध करना), उत्तम-पुरुष एकवचन।",
+      "notes": "प्रस्तावना में परिभाषित।"
+    },
+    {
+      "token": "શંકા",
+      "translit": "śaṁkā",
+      "gloss": "शंका (जिन-वचन/तत्त्व में संदेह) — सम्यक्त्व का पहला अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śaṅkā < √śaṅk (शंका करना)।"
+    },
+    {
+      "token": "કંખા",
+      "translit": "kaṁkhā",
+      "gloss": "कांक्षा (अन्य मत/सांसारिक फल की आकांक्षा) — दूसरा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. kaṁkhā < सं. kāṅkṣā (इच्छा)।"
+    },
+    {
+      "token": "વિતિગિચ્છા",
+      "translit": "vitigicchā",
+      "gloss": "विचिकित्सा (धर्म-फल में संदेह / साधु आदि के प्रति घृणा) — तीसरा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. vitigicchā < सं. vicikitsā (vi+√cit इच्छार्थक द्वित्व)।"
+    },
+    {
+      "token": "પરપાખંડી",
+      "translit": "parapākhaṁḍī",
+      "gloss": "पर-पाखंडी (अन्य/मिथ्या मत के अनुयायी)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. para (अन्य) + pāṣaṇḍin (मत-विशेष का अनुयायी)।"
+    },
+    {
+      "token": "પરશંસા",
+      "translit": "paraśaṁsā",
+      "gloss": "प्रशंसा (मिथ्या-मती की प्रशंसा) — चौथा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "सं. praśaṁsā < pra+√śaṁs।",
+      "notes": "'परपाखंडी परशंसा' = पर-पाखंडी की प्रशंसा।"
+    },
+    {
+      "token": "પરપાખંડી",
+      "translit": "parapākhaṁḍī",
+      "gloss": "पर-पाखंडी (पुनरुक्त — पाँचवें अतिचार का पूर्वपद)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।",
+      "notes": "पुनरावृत्त पद; संथुओ के साथ जुड़कर पाँचवाँ अतिचार बनाता है।"
+    },
+    {
+      "token": "સંથુઓ",
+      "translit": "saṁthuo",
+      "gloss": "संस्तव (मिथ्या-मती से घनिष्ठ परिचय/संग) — पाँचवाँ अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. saṁthava < सं. saṁstava (sam+√stu — परिचय/स्तुति)।"
+    },
+    {
+      "token": "અતિયારમાંહે",
+      "translit": "atiyāramāṁhe",
+      "gloss": "अतिचारों में (से)",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra + गुज. 'मांहे' (= में, सं. madhye से)।"
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "दिन (देवसि पडिक्कमणा का 'दिवस संबंधी')",
+      "partOfSpeech": "noun",
+      "etymology": "सं. divasa (दिन)।"
+    },
+    {
+      "token": "(રાત્રિ",
+      "translit": "rātri",
+      "gloss": "रात (विधि-निर्देश का आरंभ — कोष्ठक में)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rātri (रात्रि)।",
+      "notes": "यह कोष्ठक-अंश सूत्र नहीं, विधि-निर्देश है।"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (यदि हो)",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. hoya < सं. bhavati/√bhū।"
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "तो (शर्त-सूचक)",
+      "partOfSpeech": "particle",
+      "etymology": "सं. tataḥ/tarhi से व्युत्पन्न।"
+    },
+    {
+      "token": "“રાત્રિ",
+      "translit": "rātri",
+      "gloss": "'रात्रि' (प्रतिस्थाप्य शब्द)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rātri।",
+      "notes": "राइ पडिक्कमणा में 'दिवस' के स्थान पर बोला जाने वाला शब्द।"
+    },
+    {
+      "token": "સંબંધી”",
+      "translit": "saṁbaṁdhī",
+      "gloss": "संबंधी (राइ में 'रात्रि संबंधी')",
+      "partOfSpeech": "adj",
+      "etymology": "सं. saṁbandhin (sam+√bandh)।"
+    },
+    {
+      "token": "કહેવું)",
+      "translit": "kahevuṁ",
+      "gloss": "कहना चाहिए (विधि-निर्देश का अंत)",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. kahevuṁ < सं. kathayati/√kath।"
+    },
+    {
+      "token": "સંબંધી",
+      "translit": "saṁbaṁdhī",
+      "gloss": "संबंधी (दिन-संबंधी)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. saṁbandhin।",
+      "notes": "कोष्ठक के बाद मुख्य पाठ की धारा फिर जुड़ती है।"
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "जो भी / जो कोई",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. jiko < सं. yaḥ-kaḥ (यः कः)।"
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "कोई",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. koi < सं. ko'pi।"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "अतिचार (जो कोई अतिचार)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "हुआ",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. huo < सं. bhūta/√bhū (भूतकालिक)।"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (हुआ हो)",
+      "partOfSpeech": "verb",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "वह / वे (सब)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. tat/te।"
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "सब, समस्त",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. savva/savi < सं. sarva।"
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "मैं",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. huṁ < सं. aham/प्रा. huṁ।"
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "मन से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. manasā (मन की तृतीया)।"
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "वचन से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vacanena (वचन की तृतीया)।"
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "काया से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. kāyena/kāyayā; गुज. करण-रूप।"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "करके",
+      "partOfSpeech": "verb",
+      "etymology": "सं. kṛtvā/√kṛ (पूर्वकालिक क्रिया)।"
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "मिथ्या (निष्फल) हो",
+      "partOfSpeech": "particle",
+      "etymology": "प्रा. micchā < सं. mithyā।",
+      "notes": "'मिच्छा मि दुक्कडं' सूत्र प्रस्तावना में परिभाषित।"
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "मेरा",
+      "partOfSpeech": "pronoun",
+      "etymology": "प्रा. mi < सं. me (मेरा)।"
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "दुष्कृत (बुरा कर्म) — '(वह) मेरा दुष्कृत मिथ्या हो'",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. dukkaḍa < सं. duṣkṛta।"
+    },
+    {
+      "token": "૧.",
+      "translit": "1.",
+      "gloss": "१ (पहला व्रत — क्रमांक)",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. अंक १।"
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "बारह",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. bāra < सं. dvādaśa।"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "व्रत",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vrata।",
+      "notes": "प्रस्तावना में परिभाषित।"
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "में (के बीच)",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. 'मांहे' < सं. madhye।"
+    },
+    {
+      "token": "પહેલું",
+      "translit": "paheluṁ",
+      "gloss": "पहला",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. paheluṁ < सं. prathama/प्रा. paḍhama।"
+    },
+    {
+      "token": "પ્રાણાતિપાત",
+      "translit": "prāṇātipāta",
+      "gloss": "प्राणातिपात (जीव-हिंसा, प्राणों का अतिपात)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. prāṇa + atipāta (ati+√pat — गिराना/नष्ट करना)।"
+    },
+    {
+      "token": "વિરમણવ્રત",
+      "translit": "viramaṇavrata",
+      "gloss": "विरमण-व्रत (विरत होने/त्याग का व्रत)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. viramaṇa (vi+√ram — विरत होना) + vrata।"
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "स्थूल (मोटी, प्रत्यक्ष हिंसा)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sthūla।",
+      "notes": "प्रस्तावना में परिभाषित।"
+    },
+    {
+      "token": "બે",
+      "translit": "be",
+      "gloss": "दो (द्वि-इंद्रिय)",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. be < सं. dvi/प्रा. be।"
+    },
+    {
+      "token": "ઇંદ્રિયાદિક",
+      "translit": "iṁdriyādika",
+      "gloss": "इंद्रिय आदि (द्वि-इंद्रिय आदि जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. indriya + ādika (आदि)।",
+      "notes": "बे-इंद्रिय से लेकर ऊपर के त्रस जीवों का निर्देश।"
+    },
+    {
+      "token": "ત્રસ",
+      "translit": "trasa",
+      "gloss": "त्रस (चलने-फिरने वाले/गतिशील) जीव",
+      "partOfSpeech": "adj",
+      "etymology": "सं. trasa < √tras (त्रास/चलना)।"
+    },
+    {
+      "token": "જીવ",
+      "translit": "jīva",
+      "gloss": "जीव (प्राणी)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. jīva < √jīv (जीना)।"
+    },
+    {
+      "token": "નિરપરાધ",
+      "translit": "niraparādha",
+      "gloss": "निरपराध (निर्दोष)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. nir + aparādha।"
+    },
+    {
+      "token": "ઉપેતકરણ",
+      "translit": "upetakaraṇa",
+      "gloss": "जान-बूझकर/उपेक्षापूर्वक किया गया कृत्य",
+      "partOfSpeech": "compound",
+      "etymology": "सं. upeta (upa+√i — प्राप्त/जान-बूझकर) + karaṇa (करना)।",
+      "notes": "पाठांतर-अर्थ संभव; यहाँ 'सायास/संकल्पित कृत्य' के अर्थ में।"
+    },
+    {
+      "token": "સંકલ્પી",
+      "translit": "saṁkalpī",
+      "gloss": "संकल्पपूर्वक (इरादे से)",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. saṁkalpa (sam+√kḷp) से।"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "करके",
+      "partOfSpeech": "verb",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "હણવા",
+      "translit": "haṇavā",
+      "gloss": "मारने का (हनन करने का)",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. haṇavuṁ < सं. √han (मारना)।"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "नियम (त्याग की प्रतिज्ञा) — यहाँ 'न मारने का नियम'",
+      "partOfSpeech": "noun",
+      "etymology": "सं. niyama < ni+√yam।"
+    },
+    {
+      "token": "આરંભે",
+      "translit": "āraṁbhe",
+      "gloss": "आरंभ (गृह-व्यापारजन्य अनिवार्य हिंसा) में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. ārambha (ā+√rabh) की सप्तमी।"
+    },
+    {
+      "token": "જયણા.",
+      "translit": "jayaṇā",
+      "gloss": "जयणा (यतना रखूँ)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "પહેલા",
+      "translit": "pahelā",
+      "gloss": "पहले (इस पहले व्रत के)",
+      "partOfSpeech": "adj",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "વિરમણવ્રતતણા",
+      "translit": "viramaṇavratataṇā",
+      "gloss": "विरमण-व्रत के",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇavrata + संबंध-परसर्ग 'तणा'।"
+    },
+    {
+      "token": "બંધે",
+      "translit": "baṁdhe",
+      "gloss": "बंध (जीवों को बाँधना) — पहला अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा./सं. bandha < √bandh।"
+    },
+    {
+      "token": "વહે",
+      "translit": "vahe",
+      "gloss": "वध (मारना/पीटना) — दूसरा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. vaha < सं. vadha < √vadh।"
+    },
+    {
+      "token": "છવિચ્છેએ",
+      "translit": "chavicchee",
+      "gloss": "छविच्छेद (अंग-भंग, त्वचा/अंग काटना) — तीसरा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. chavi-ccheya < सं. chavi (त्वचा/अंग) + cheda (√chid)।"
+    },
+    {
+      "token": "અઇભારે",
+      "translit": "aïbhāre",
+      "gloss": "अतिभार (अधिक बोझ लादना) — चौथा अतिचार",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. aïbhāra < सं. atibhāra (ati + bhāra)।"
+    },
+    {
+      "token": "ભત્તપાણવુચ્છેએ",
+      "translit": "bhattapāṇavucchee",
+      "gloss": "भक्त-पान-व्युच्छेद (अन्न-जल रोकना) — पाँचवाँ अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. bhatta (भक्त/अन्न) + pāṇa (पान/जल) + vucchea < सं. vyavaccheda (रोकना)।"
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "दिन (दिवस संबंधी)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "સંબંધી.",
+      "translit": "saṁbaṁdhī",
+      "gloss": "संबंधी",
+      "partOfSpeech": "adj",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "ઇત્યાદિ",
+      "translit": "ityādi",
+      "gloss": "इत्यादि (आगे का पाठ इसी प्रकार)",
+      "partOfSpeech": "particle",
+      "etymology": "सं. iti + ādi।"
+    },
+    {
+      "token": "પાઠ",
+      "translit": "pāṭha",
+      "gloss": "पाठ (बोलने योग्य अंश)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. pāṭha < √paṭh।"
+    },
+    {
+      "token": "દરેક",
+      "translit": "dareka",
+      "gloss": "प्रत्येक",
+      "partOfSpeech": "adj",
+      "etymology": "गुज./फ़ा. dar-ek; प्रत्येक के अर्थ में।"
+    },
+    {
+      "token": "અતિયારે",
+      "translit": "atiyāre",
+      "gloss": "(हर) अतिचार पर",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra की सप्तमी।"
+    },
+    {
+      "token": "કહેવું.",
+      "translit": "kahevuṁ",
+      "gloss": "कहना (चाहिए) — विधि-निर्देश",
+      "partOfSpeech": "verb",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "૨.",
+      "translit": "2.",
+      "gloss": "२ (दूसरा व्रत — क्रमांक)",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. अंक २।"
+    },
+    {
+      "token": "બીજું",
+      "translit": "bījuṁ",
+      "gloss": "दूसरा",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. bījuṁ < सं. dvitīya/प्रा. bīa।"
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "मृषावाद (असत्य भाषण)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. mṛṣā (झूठ) + vāda (√vad — बोलना)।"
+    },
+    {
+      "token": "પંચવિધ",
+      "translit": "paṁcavidha",
+      "gloss": "पाँच प्रकार का",
+      "partOfSpeech": "adj",
+      "etymology": "सं. pañca + vidha (प्रकार)।"
+    },
+    {
+      "token": "કન્નાલીએ",
+      "translit": "kannālīe",
+      "gloss": "कन्यालीक (कन्या/मनुष्य-विषयक झूठ)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. kannālīa < सं. kanyā + alīka (झूठ)।",
+      "notes": "पारंपरिक रूप से 'द्विपद/मनुष्य-विषयक असत्य'।"
+    },
+    {
+      "token": "ગોવાલીએ",
+      "translit": "govālīe",
+      "gloss": "गव्यालीक (गाय/पशु-विषयक झूठ)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. govālīa < सं. go (गाय/चतुष्पद) + alīka।"
+    },
+    {
+      "token": "ભમાલીએ",
+      "translit": "bhamālīe",
+      "gloss": "भूम्यलीक (भूमि/स्थावर-विषयक झूठ)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. bhūmālīa < सं. bhūmi (भूमि) + alīka।"
+    },
+    {
+      "token": "નાસાવહારે",
+      "translit": "nāsāvahāre",
+      "gloss": "न्यासापहार (धरोहर हड़पना/उससे मुकरना)",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. nāsāvahāra < सं. nyāsa (धरोहर) + apahāra (हरण)।"
+    },
+    {
+      "token": "કૂડસક્ખિજ્જે",
+      "translit": "kūḍasakkhijje",
+      "gloss": "कूट-साक्षी (झूठी गवाही देना)",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. kūḍa (झूठा) + sakkhi < सं. sākṣya (साक्ष्य)।"
+    },
+    {
+      "token": "મોટકાં",
+      "translit": "moṭakāṁ",
+      "gloss": "बड़े (मोटे, गंभीर)",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. moṭuṁ (बड़ा) का बहुवचन।"
+    },
+    {
+      "token": "કૂડાં",
+      "translit": "kūḍāṁ",
+      "gloss": "झूठ (बहुवचन)",
+      "partOfSpeech": "noun",
+      "etymology": "गुज. kūḍuṁ (झूठ) का बहुवचन < प्रा. kūḍa।"
+    },
+    {
+      "token": "આપણને",
+      "translit": "āpaṇane",
+      "gloss": "अपने लिए (हमारे लिए)",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. āpaṇ (हम/अपना) + 'ने'।"
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "के लिए / के वास्ते",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. kāje < सं. kārya (कार्य के निमित्त)।",
+      "notes": "तीन बार पुनरावृत्त (आपणने/स्वजनने/धर्मने काजे) — समान अर्थ।"
+    },
+    {
+      "token": "સ્વજનને",
+      "translit": "svajanane",
+      "gloss": "स्वजन (अपने सगे) के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. sva + jana + गुज. 'ने'।"
+    },
+    {
+      "token": "ધર્મને",
+      "translit": "dharmane",
+      "gloss": "धर्म के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dharma + गुज. 'ने'।"
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "छोड़कर (इन निमित्तों को छोड़कर)",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. mūkavuṁ (छोड़ना) < सं. √muc।"
+    },
+    {
+      "token": "પરકાજે",
+      "translit": "parakāje",
+      "gloss": "पराये/दूसरे कार्य के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. para + kārya (गुज. kāje)।",
+      "notes": "अर्थ: इन चार निमित्तों से भी पराये प्रयोजन हेतु झूठ न बोलने का नियम।"
+    },
+    {
+      "token": "કૂડું",
+      "translit": "kūḍuṁ",
+      "gloss": "झूठ",
+      "partOfSpeech": "noun",
+      "etymology": "गुज. kūḍuṁ < प्रा. kūḍa।"
+    },
+    {
+      "token": "બોલવા",
+      "translit": "bolavā",
+      "gloss": "बोलने का",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. bolavuṁ (बोलना)।"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "नियम (त्याग की प्रतिज्ञा)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "सूक्ष्म (छोटा, अप्रत्यक्ष)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sūkṣma।"
+    },
+    {
+      "token": "અલીકતણી",
+      "translit": "alīkataṇī",
+      "gloss": "असत्य/झूठ की",
+      "partOfSpeech": "noun",
+      "etymology": "सं. alīka (झूठ) + गुज. संबंध-परसर्ग 'तणी'।"
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "जयणा (सूक्ष्म असत्य में यतना)",
+      "partOfSpeech": "noun",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "કરું.",
+      "translit": "karuṁ",
+      "gloss": "(मैं) करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "બીજા",
+      "translit": "bījā",
+      "gloss": "दूसरे (इस दूसरे व्रत के)",
+      "partOfSpeech": "adj",
+      "etymology": "ऊपर देखें।"
+    },
+    {
+      "token": "સહસ્સાભક્ખાણો",
+      "translit": "sahassābhakkhāṇo",
+      "gloss": "सहसाभ्याख्यान (बिना सोचे, अकस्मात् मिथ्या दोषारोपण) — पहला अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. sahasā (अकस्मात्) + abhakkhāṇa < सं. abhyākhyāna (मिथ्या दोषारोपण)।"
+    },
+    {
+      "token": "રહસ્સાભક્ખાણો",
+      "translit": "rahassābhakkhāṇo",
+      "gloss": "रहस्याभ्याख्यान (किसी की गुप्त बात प्रकट कर मिथ्या आरोप) — दूसरा अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. rahassa < सं. rahasya (गुप्त) + abhyākhyāna।"
+    },
+    {
+      "token": "સદારામંતભેએ",
+      "translit": "sadārāmaṁtabhee",
+      "gloss": "स्वदार-मंत्रभेद (अपनी पत्नी/विश्वस्त की गुप्त मंत्रणा प्रकट करना) — तीसरा अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "सं. sva-dāra (अपनी स्त्री) + mantra (गुप्त परामर्श) + bheda (प्रकट करना)।",
+      "notes": "पाठांतर: कुछ परंपराओं में 'स्व-दार' को 'विश्वस्त-जन' तक व्यापक लिया जाता है।"
+    },
+    {
+      "token": "મોસોવએસે",
+      "translit": "mosovaese",
+      "gloss": "मृषोपदेश (झूठा/भ्रामक उपदेश-परामर्श देना) — चौथा अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. mosa < सं. mṛṣā (झूठ) + uvaesa < upadeśa।"
+    },
+    {
+      "token": "કૂડલેહકરણે",
+      "translit": "kūḍalehakaraṇe",
+      "gloss": "कूट-लेख-करण (झूठे दस्तावेज़/जालसाजी करना) — पाँचवाँ अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. kūḍa (झूठा) + leha < सं. lekha (लेख) + karaṇa (करना)।"
+    },
+    {
+      "token": "માંહે.",
+      "translit": "māṁhe",
+      "gloss": "में (इन पाँच अतिचारों में)",
+      "partOfSpeech": "particle",
+      "etymology": "ऊपर देखें।",
+      "notes": "खंड यहाँ 'दिवस संबंधी… मिच्छा मि दुक्कडं' की पूर्वोक्त लय में पूर्ण होता है।"
+    }
+  ],
+  "literalTranslation": "(स्वीकार है —) अरिहंत ही देव, सुसाधु ही गुरु, और जिन-प्रणीत ही धर्म; भाव से सम्यक्त्व का पालन करूँ, द्रव्य से लौकिक, लोकोत्तर, देवगत, गुरुगत और पर्वगत मिथ्यात्व के विषय में यतना रखूँ। इस श्री सम्यक्त्व के पाँच अतिचार शोधता हूँ — शंका, कांक्षा, विचिकित्सा, परपाखंडी-प्रशंसा, परपाखंडी-संस्तव। इन पाँच अतिचारों में दिन (रात हो तो 'रात्रि संबंधी' कहें) संबंधी जो कोई अतिचार हुआ हो, वह सब मैं मन, वचन और काया से — मिच्छा मि दुक्कडं। १. बारह व्रतों में पहला प्राणातिपात-विरमणव्रत। स्थूल द्वि-इंद्रिय आदि त्रस, निरपराध जीवों को जान-बूझकर संकल्पपूर्वक मारने का (त्याग) नियम; आरंभजन्य हिंसा में यतना। इस पहले प्राणातिपात-विरमणव्रत के पाँच अतिचार शोधता हूँ — बंध, वध, छविच्छेद, अतिभार, भक्त-पान-व्युच्छेद। इन पाँच अतिचारों में दिन संबंधी… इत्यादि पाठ हर अतिचार पर कहें। २. दूसरा स्थूल मृषावाद-विरमणव्रत। पाँच प्रकार के — कन्या-विषयक, पशु-विषयक, भूमि-विषयक झूठ, धरोहर-अपहार, कूट-साक्षी — ये पाँच बड़े झूठ अपने लिए, स्वजन के लिए, धर्म के लिए छोड़कर, पराये प्रयोजन हेतु झूठ बोलने का नियम; सूक्ष्म असत्य की यतना करूँ। इस दूसरे स्थूल मृषावाद-विरमणव्रत के पाँच अतिचार शोधता हूँ — सहसाभ्याख्यान, रहस्याभ्याख्यान, स्वदार-मंत्रभेद, मृषोपदेश, कूटलेखकरण। इन पाँच अतिचारों में।",
+  "idiomaticTranslation": "मैं हृदय से स्वीकार करता हूँ — अरिहंत ही मेरे देव, सुविहित साधु ही मेरे गुरु, और जिनेश्वर-कथित ही मेरा धर्म। भाव से मैं इस सम्यक्त्व को पूरी तरह निभाऊँ; और जहाँ गृहस्थ-जीवन में व्यवहार-स्तर पर लौकिक या लोकोत्तर, देव-गुरु-पर्व संबंधी मिथ्यात्व का स्पर्श हो सकता है, वहाँ सजग यतना रखूँ। अब इस श्रद्धा के पाँच दोष शोधता हूँ — संदेह, अन्य-मत की चाह, धर्म-फल में दुविधा, मिथ्या-मतियों की प्रशंसा और उनसे घनिष्ठता। दिन (या रात) में इनमें से जो भी भूल हुई हो, उस सबके लिए मन-वचन-काया से 'मिच्छा मि दुक्कडं'। फिर पहला व्रत — अहिंसा : द्वि-इंद्रिय आदि निर्दोष त्रस जीवों को जान-बूझकर संकल्पपूर्वक न मारने का नियम लेता हूँ, और जीवन-निर्वाह के अनिवार्य आरंभ में यतना रखता हूँ; इसके पाँच अतिचार — बाँधना, पीटना, अंग-छेदन, अति-भार लादना, अन्न-जल रोकना — शोधता हूँ। दूसरा व्रत — सत्य : कन्या, पशु, भूमि संबंधी, धरोहर हड़पने वाले और झूठी गवाही के — ये पाँच बड़े झूठ अपने, स्वजन या धर्म तक के लिए भी त्यागकर किसी पराये स्वार्थ हेतु न बोलने का नियम लेता हूँ, सूक्ष्म असत्य में यतना रखता हूँ; इसके पाँच अतिचार — बिना सोचे आरोप, गुप्त बात उघाड़ना, विश्वास की मंत्रणा प्रकट करना, झूठा परामर्श, और जालसाज़ी के लेख — शोधता हूँ।",
+  "elaboration": {
+    "verseByVerseCommentary": "यह आरंभिक खंड व्रत-शुद्धि से पहले श्रद्धा-शुद्धि की नींव रखता है — पहले सम्यक्त्व, फिर पहले दो अणुव्रत। ध्यान देने योग्य पहली बारीकी 'भावतः' और 'द्रव्यतो' का युग्म है : साधक भाव (आंतरिक परिणाम) से सम्यक्त्व को निरपवाद रूप से पालता है, किन्तु द्रव्य (बाह्य व्यवहार) के स्तर पर — जहाँ गृहस्थ को लौकिक रीति-रिवाज, अन्य-देव, अन्य-गुरु या लोक-पर्वों का व्यावहारिक स्पर्श अनिवार्यतः होता है — वह 'जयणा' रखता है। यही गृहस्थ-आचार की कुंजी है : अंतःकरण में अडिग श्रद्धा, व्यवहार में सतर्क संयम। सम्यक्त्व के पाँच अतिचार आरोही दोष-क्रम दिखाते हैं — शंका (तत्त्व में संदेह), कंखा (अन्य-मत/फल की चाह), वितिगिच्छा (धर्म-फल में दुविधा या साधु-घृणा), फिर बहिर्मुखी दो — परपाखंडी-प्रशंसा और परपाखंडी-संस्तव; अर्थात् भीतर के संशय से बाहर मिथ्या-मती के संग तक दोष की गति। पहले अणुव्रत में 'निरपराध त्रस जीव… संकल्पी… हणवा नियम' सूत्र-वाक्य महत्त्वपूर्ण है : गृहस्थ संकल्पी (सायास) हिंसा का त्याग करता है, पर आरंभजा (निर्वाह-जन्य) हिंसा में केवल यतना रख पाता है — यही अणु (छोटे) व्रत और महाव्रत का भेद है। इसके पाँच अतिचार बंध-वध-छविच्छेद-अतिभार-भक्तपानव्युच्छेद मुख्यतः पशुओं/आश्रितों के प्रति क्रूरता के रूप हैं — हिंसा का परिधि-क्षेत्र, न कि सीधा वध। दूसरे व्रत में पहले 'पंचविध मोटकां कूडां' (कन्या, गो, भूमि, न्यासापहार, कूटसाक्षी) गिनाकर स्थूल असत्य का स्वरूप बाँधा गया है, फिर 'आपणने–स्वजनने–धर्मने काजे मूकी' — अपने, स्वजन, यहाँ तक कि धर्म के नाम पर भी झूठ का त्याग — एक तीव्र नैतिक माँग है। इसके पाँच अतिचार वाणी के सूक्ष्मतर दुरुपयोग हैं : अकस्मात् आरोप, गुप्त-भेद, विश्वास-भंग, मिथ्या-उपदेश और जाली लेख। इस तरह यह खंड श्रद्धा → अहिंसा → सत्य की क्रमिक चढ़ाई रचता है।",
+    "doctrinalContext": "यहाँ का केंद्रीय सिद्धांत है सम्यक्त्व की प्राथमिकता : चारित्र (व्रत) तभी फलवान् होता है जब उसकी जड़ सम्यग्-दर्शन में हो — इसीलिए बारह व्रतों के अतिचार-शोधन से पूर्व सम्यक्त्व के पाँच अतिचार शोधे जाते हैं। दूसरा सिद्धांत है गृहस्थ का 'अणु'-स्तर : संकल्पी-आरंभी हिंसा का विभाजन दिखाता है कि श्रावक स्थूल/सायास पाप का प्रत्याख्यान करता है और सूक्ष्म/अनिवार्य में यतना — यही अणुव्रत को महाव्रत से अलग करता है। अतिचार-नामों की प्राकृत परिभाषाएँ तत्त्वार्थसूत्र (अ.७) की श्रावक-अतिचार-सूची से मेल खाती हैं, जो इस पाठ की प्राचीन वंदित्तु-परंपरा से निरंतरता दर्शाती हैं।",
+    "practicalRelevance": "आज का साधक इसे आत्म-निरीक्षण की तालिका की तरह बरते : सम्यक्त्व में — क्या मैंने तत्त्व पर संदेह किया, चमत्कार/भौतिक लाभ की चाह में दूसरे मतों की ओर झुका, या मिथ्या-प्रचार को सराहा? अहिंसा में — पशुओं, सेवकों, आश्रितों को बाँधना, पीटना, अधिक बोझ देना, समय पर भोजन-जल न देना — ये आधुनिक संदर्भ में भी जीवंत अतिचार हैं। सत्य में — अफवाह/अकस्मात् आरोप, किसी का भेद खोलना, विश्वास तोड़ना, भ्रामक सलाह, और कागज़ी जालसाज़ी से बचना। राइ पडिक्कमणा में 'दिवस' के स्थान पर 'रात्रि संबंधी' पढ़ना स्मरण रखें।",
+    "crossReferences": [
+      {
+        "text": "तत्त्वार्थसूत्र ७.१८ (सम्यक्त्व के अतिचार: शंका-कांक्षा-विचिकित्सा-अन्यदृष्टि-प्रशंसा-संस्तव)",
+        "source": "उमास्वाति, तत्त्वार्थाधिगम सूत्र"
+      },
+      {
+        "text": "तत्त्वार्थसूत्र ७.२० (अहिंसाणुव्रत के अतिचार: बन्ध-वध-छेद-अतिभारारोपण-भक्तपानव्यवच्छेद)",
+        "source": "उमास्वाति, तत्त्वार्थाधिगम सूत्र"
+      },
+      {
+        "text": "तत्त्वार्थसूत्र ७.२१ (सत्याणुव्रत के अतिचार: मिथ्योपदेश-रहस्याभ्याख्यान-कूटलेखक्रिया आदि)",
+        "source": "उमास्वाति, तत्त्वार्थाधिगम सूत्र"
+      },
+      {
+        "text": "वंदित्तु सूत्र (श्रावक-प्रतिक्रमण) — बारह व्रतों के अतिचारों की मूल गाथा-परंपरा",
+        "source": "श्वेतांबर आवश्यक-परंपरा"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anuvrata — twelve vows of a Jain layperson",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "अणुव्रत का स्वरूप, बारह व्रतों का विभाजन तथा पहले-दूसरे अणुव्रत के पाँच-पाँच अतिचारों की पुष्टि।"
+    },
+    {
+      "title": "Samyaktva (Right faith) in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Samyaktva",
+      "type": "scholarship",
+      "consultedFor": "सम्यक्त्व के पाँच अतिचार — शंका, कांक्षा, विचिकित्सा, परपाखंडी-प्रशंसा, परपाखंडी-संस्तव — के अर्थ का सत्यापन।"
+    },
+    {
+      "title": "Tattvartha Sutra (chapter 7 — vratas and their atichāras)",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "व्रत-अतिचार-सूची की शास्त्रीय परंपरा एवं प्राकृत अतिचार-नामों का संस्कृत प्रतिमान।"
+    },
+    {
+      "title": "Jain Ethics — The Twelve Vows of Laity and their Transgressions",
+      "url": "https://www.jainworld.com/education/jainism-introduction/jain-ethics-the-twelve-vows-of-laity-and-their-transgressions/",
+      "type": "commentary",
+      "consultedFor": "कन्नालीए/गोवालीए/भमालीए आदि स्थूल मृषावाद के प्रकार तथा अतिचारों का व्यावहारिक विवरण।"
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)",
+      "url": "https://data/book/panch-pratikraman.full.md",
+      "type": "translation",
+      "consultedFor": "मूल पाठ अक्षरशः, 'अतियार' वर्तनी, दिवस/रात्रि प्रतिस्थापन-निर्देश।"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "वर्तनी पुस्तक के अनुसार अक्षरशः रखी गई है ('अतिचार' = 'अतियार')। कोष्ठक-अंश '(रात्रि होय तो रात्रि संबंधी कहेवुं)' सूत्र नहीं बल्कि विधि-निर्देश है। 'कन्नालीए/गोवालीए/भमालीए' के दो परंपरागत अर्थ-पक्ष हैं — (क) झूठ का विषय (कन्या/मनुष्य, पशु, भूमि) और (ख) झूठ का प्रयोजन (अपने/पर/उभय हेतु); यहाँ अधिक प्रचलित 'विषय-आधारित' अर्थ अपनाया गया है, यह एक ज्ञात व्याख्या-भेद है। 'उपेतकरण' का अर्थ संदर्भ-अनुमानित ('सायास/जान-बूझकर') है, इसका पाठांतर संभव। 'सदारामंतभेए' को 'स्वदार-मंत्रभेद' पढ़ा गया है; कुछ सूचियों में यह 'विश्वस्त-मंत्रभेद' तक व्यापक है। सम्यक्त्व का पाँचवाँ अतिचार यहाँ श्वेतांबर वंदित्तु-परंपरा अनुसार 'परपाखंडी-संस्तव' है, जो प्रस्तावना की टिप्पणी से संगत है।"
+}

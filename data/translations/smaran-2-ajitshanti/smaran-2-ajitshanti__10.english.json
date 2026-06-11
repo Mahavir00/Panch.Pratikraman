@@ -1,0 +1,154 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow with all my heart to Lord Ajita, who has conquered every enemy and every fear; may he wash away my wrongdoing.",
+  "recitation": "ajiaṁ jiārigaṇaṁ, jia savvabhayaṁ bhavohariu | paṇamāmi ahaṁ payao, pāvaṁ pasameu me bhayavaṁ ||",
+  "wordByWord": [
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "Ajita (the Unconquered), the 2nd Tīrthaṅkara — accusative, object of homage",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. *ajita* (a- 'not' + jita 'conquered'); Prakrit *ajia*, acc. *ajiaṁ*. The name itself means 'never vanquished.'",
+      "notes": "Bivalent name-play with the verb jia/jita that follows: the 'Unconquered' is praised as the conqueror."
+    },
+    {
+      "token": "જિઆરિગણં",
+      "translit": "jiārigaṇaṁ",
+      "gloss": "one who has conquered the host of foes (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. *jita-ari-gaṇa* (jita 'conquered' + ari 'enemy' + gaṇa 'host, troop'); Prakrit acc. *jiārigaṇaṁ*.",
+      "notes": "The ari-gaṇa is read doctrinally as the inner enemies — the kaṣāyas (passions) — not literal armies."
+    },
+    {
+      "token": "જિઅ",
+      "translit": "jia",
+      "gloss": "conquered, having overcome",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. past participle *jita* (√ji 'to conquer'); Prakrit *jia*.",
+      "notes": "Heads the next epithet, joining with savvabhayaṁ: 'who has conquered all fear.'"
+    },
+    {
+      "token": "સવ્વભયં",
+      "translit": "savvabhayaṁ",
+      "gloss": "all fear (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. *sarva-bhaya* (sarva 'all' + bhaya 'fear, dread'); Prakrit *savva-bhaya*, acc. *savvabhayaṁ*.",
+      "notes": "Echoes the hymn's abhaya (fearlessness) motif; cf. the sevenfold bhaya of Jain lists."
+    },
+    {
+      "token": "ભવોહરિઉ",
+      "translit": "bhavohariu",
+      "gloss": "remover of the flood of worldly existence (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. *bhava-ogha-hara* (bhava 'rebirth, existence' + ogha 'flood, torrent' + hara 'remover'); Prakrit *bhavoha-hariu* with vowel-sandhi bhava+ogha → bhavoha.",
+      "notes": "Saṁsāra figured as an overwhelming current the Jina sweeps away."
+    },
+    {
+      "token": "પણમામિ",
+      "translit": "paṇamāmi",
+      "gloss": "I bow, I pay homage",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. *praṇamāmi* (pra + √nam 'to bend, bow'), 1st sg. present; Prakrit *paṇamāmi*.",
+      "notes": ""
+    },
+    {
+      "token": "અહં",
+      "translit": "ahaṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. *aham*; Prakrit *ahaṁ*, 1st person singular nominative.",
+      "notes": "Explicit 'I' underscores the personal, first-person turn of the verse."
+    },
+    {
+      "token": "પયઓ",
+      "translit": "payao",
+      "gloss": "reverently, with composed and self-restrained devotion",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. *prayata* 'self-controlled, intent, ritually composed' (pra + √yam 'to restrain'); Prakrit *payao*, here adverbial/predicative to the speaker.",
+      "notes": "Marks the bow as bhāva-namaskāra — done with a disciplined, attentive mind, not mechanically."
+    },
+    {
+      "token": "પાવં",
+      "translit": "pāvaṁ",
+      "gloss": "sin, demerit (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. *pāpa* 'evil, sin'; Prakrit *pāva*, acc. *pāvaṁ*.",
+      "notes": ""
+    },
+    {
+      "token": "પસમેઉ",
+      "translit": "pasameu",
+      "gloss": "may it quell / pacify / extinguish",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. *praśamayatu* / *praśāmyatu* (pra + √śam 'to be pacified, cease'), 3rd sg. imperative; Prakrit *pasameu*.",
+      "notes": "Benedictive petition — 'let (the Lord) still my sin.'"
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "my, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. *me*, enclitic gen./dat. of *aham*; same in Prakrit.",
+      "notes": ""
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Blessed Lord (nom.)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. *bhagavān* 'possessing bhaga — fortune, majesty, holiness'; Prakrit *bhayavaṁ*, nom. sg.",
+      "notes": "Grammatical subject of pasameu: it is the Lord who is asked to quell the sin."
+    }
+  ],
+  "literalTranslation": "Ajita, conqueror of the host of foes, who has conquered all fear, remover of the flood of existence — to him I, reverent and composed, bow; may the Lord quell my sin.",
+  "idiomaticTranslation": "To Ajita — who has vanquished the whole army of inner foes, who has overcome every fear, who sweeps away the torrent of rebirth — I bow with disciplined devotion; may the Blessed One still all my sin.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the royal-sovereign portrait of the preceding stanza, the hymn now swings back to Ajita, and the poet packs the line with a tight cluster of ji-/jia- epithets that pivot on the Jina's very name. The paradox is deliberate: a-jita, 'the never-conquered,' is hymned precisely as the supreme conqueror — jiārigaṇaṁ (vanquisher of the foe-host), jia savvabhayaṁ (vanquisher of all fear). Read against Jain doctrine, the 'host of enemies' is not an outward army but the inner adversaries — the kaṣāyas (anger, pride, deceit, greed) and the passions that bind the soul; to be Jina is exactly to have won that interior war. bhavohariu then widens the frame: he is the one who carries off the very flood (ogha) of saṁsāra. With these three accusative epithets the Jina is fully characterized as object of worship; the verse then turns on its hinge to the worshipper. paṇamāmi ahaṁ payao foregrounds the first-person act of bowing, and the single word payao (Skt. prayata) is the weight-bearing term: the prostration is to be made with a composed, self-restrained, ritually intent mind — bhāva-namaskāra rather than a hollow gesture. The closing petition, pāvaṁ pasameu me bhayavaṁ, completes the movement from praise to plea: having bowed, the reciter asks the Lord to pacify his own sin, the line landing on bhayavaṁ, 'the Blessed One,' as the agent who can do so.",
+    "doctrinalContext": "The verse compresses three doctrinal points. First, the etymological theology of 'Jina': spiritual victory is interior — the conquest of kaṣāya and the eighteen pāpa-sthānaka — so jiārigaṇaṁ glosses what it means to be a Tīrthaṅkara. Second, abhaya: 'who has conquered all fear' presents the Jina as the fearless one and, by extension, the giver of fearlessness to devotees. Third, the soteriology of crossing: bhava-ogha figures rebirth as a flood, and the Jina as the ford-maker who removes it. The devotee's side is equally doctrinal: payao signals that homage is efficacious only as bhāva (inner intent), and pāvaṁ pasameu frames the pacification of sin as the fruit of such devotion — the same confessional logic that animates pratikramaṇa.",
+    "practicalRelevance": "Reciting this verse, bow with the mind the word payao demands — composed, attentive, restrained — not mechanically. Let 'conqueror of the foe-host' redirect the prayer inward: the enemies to be defeated are one's own passions, here and now. Take the closing line as a genuine personal petition for the quieting of one's faults, in keeping with the self-examination of the rite.",
+    "crossReferences": [
+      {
+        "text": "Logassa — the Jinas as 'arihanta', destroyers of the inner foes, and bestowers of bodhi/samādhi",
+        "source": "Caturviṁśati-stava, Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra (Smaraṇa 4) — 'pāva-pasamaṇa', the pacification of sin through the Jina's grace",
+        "source": "Nava Smaraṇa, Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "Sarva-bhaya / abhaya — the Jina as abhaya-dātā (giver of fearlessness)",
+        "source": "standard Jain stotra usage; cf. preface glossary 'abhaya'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of jita (√ji), prayata (pra+√yam), ogha, praśam (pasameu), bhagavat (bhayavaṁ)."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo: A Comprehensive Prakrit-Hindi Dictionary (H. D. T. Sheth)",
+      "url": "https://archive.org/details/PaiaSaddaMahannavoOCRPlusBookmarks",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms ajia, jia, savva-bhaya, bhavoha, paṇamāmi, payao, pāva, pasameu, bhayavaṁ."
+    },
+    {
+      "title": "Stavan for Bhagwan Ajitanatha / Jain stotra repository (HereNow4U)",
+      "url": "https://www.herenow4u.net/index.php?id=115499",
+      "type": "scholarship",
+      "consultedFor": "Devotional usage and identification of Ajitanātha (2nd Tīrthaṅkara) in Śvetāmbara hymnody."
+    },
+    {
+      "title": "Jain stotra anthologies — Ajitaśānti Stava recensions (JainQQ)",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Attribution to Nandiṣeṇasūri and the Ajita/Śānti alternation pattern (access returned HTTP 403 at fetch time; consulted via cached references)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "ભવોહરિઉ is parsed bhava-ogha-hariu (acc. of bhava-ogha-hara/-hariya, 'remover of the flood of existence') via the regular sandhi bhava+ogha → bhavoha; the book's reading is preserved verbatim. પયઓ (payao) is taken as Skt. prayata, 'composed/self-restrained/intent,' construed adverbially with the bowing speaker; some readers gloss it 'devoutly/with reverence' — the senses converge. The standalone જિઅ heads the compound jia-savvabhayaṁ ('conqueror of all fear'). The verse turns on the deliberate Ajita/jita word-play. Some recensions of this stanza read the second epithet as 'bhavohariuṁ ca' or vary the daṇḍa placement; the Anchalgachchha book's punctuation and orthography are followed here. Doctrinal reading of ari-gaṇa as the inner passions is the standard Jain interpretation, not an explicit gloss in the verse itself."
+}

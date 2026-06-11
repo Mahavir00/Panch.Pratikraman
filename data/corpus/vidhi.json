@@ -1,0 +1,920 @@
+{
+  "tradition": "achhalgach",
+  "source": "data/book/panch-pratikraman.full.md (golden OCR of the printed book)",
+  "generatedAt": "2026-06-09T10:55:14.498Z",
+  "steps": [
+    {
+      "vidhiId": "devasi-opening",
+      "pratikraman": "devasi",
+      "summary_en": "Mangalacharan and preliminary instructions: don clean inspected cloth, set up the sthapanacharya, salute the guru.",
+      "bookPages": "19-20",
+      "pdfPages": [
+        1,
+        2
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "devasi-opening/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "સિદ્ધાંતમાં કહ્યા મુજબ ગુણવાનની ભક્તિ માટે ગુરુમહારાજને વંદન કરી, શ્રાવકોએ પોતાના પાપો આલોવવાં માટે, તથા સર્વ અતિચારોની શુદ્ધિ માટે સાંજે-સવારે હંમેશાં અવશ્ય પ્રતિક્રમણ કરવું જોઇએ, તથા દરરોજ અનુકૂળ સમયે સામાયિક કરવું જોઇએ. તે સંબંધી સર્વ પ્રકારનાં ક્રિયાનુષ્ઠાનો કરવાં, અને તે પણ દેવગુરુની સમક્ષ કરવા. પરંતુ જો તેઓનો સાક્ષાત્ અભાવ હોય તો દેવ પ્રતિમા,¹ ગુરુની સદ્ભાવસ્થાપના અને અસદ્ભાવસ્થાપના આગળ સઘળું ક્રિયાનુષ્ઠાન કરવું. કદાચ તેનો પણ અભાવ હોય તો જ્ઞાનનું પુસ્તક આચાર્યની જગ્યાએ સ્થાપીને સઘળી ક્રિયા કરવી, કેમ કે જ્ઞાનથી અધિક કોઇ પદાર્થ નથી. આ દુઃષમકાલરૂપ પાંચમા આરામાં અજ્ઞાનરૂપી અંધકારમાં ડૂબેલા ભવ્ય જીવોના ઉદ્ધાર માટે શ્રી જિનશાસનમાં સૂર્ય સમાન એવા શ્રીસુધર્માસ્વામીથી સુડતાલીસમે પાટે થયેલા શ્રીવિધિપક્ષગચ્છાલંકાર યુગપ્રધાન દાદા શ્રી આર્યરક્ષિતસૂરીશ્વરે આગમને અનુસારે શ્રાવકો માટે શુદ્ધ વિધિની પ્રરૂપણા કરેલી છે, તે મુજબ સમ્યક્ત્વની શુદ્ધિ માટે હવે પછી આગળ જણાવ્યા પ્રમાણે વિધિ સહિત ગુરુસ્થાપના કરીને સામાયિક તથા પ્રતિક્રમણ કરવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-opening/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "ગુરુ મહારાજના પડિલેહણ કરાયેલા સ્થાપનાચાર્ય હોય તો, ગુરુ સ્થાપના નહીં કરવી.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-opening/03",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "તે માટે શ્રાવકે ઘેરથી જયણાપૂર્વક ઉપાશ્રય કે ધર્મશાળામાં આવી, પ્રથમ દંડાસનથી તે મકાનમાં કાજો કાઢવો. પછી તે કાજાને જયણાપૂર્વક પરઠીને પ્રથમ દૃષ્ટિથી પડિલેહણ કરેલાં શુદ્ધ વસ્ત્ર પહેરવાં. એક સાડી (એક જ પનાવાળું) ઉત્તરાસંગ કરી, કટાસણું પાથરી, ગુરુસ્થાપનાના ઊંચા આસન માટે પાટ અથવા બાજોઠ જતનાપૂર્વક પ્રમાર્જી, સ્થાપવો. તથા તેની ઉપર ઠવણી / સાપડો રાખી, તે પર પ્રતિષ્ઠા કરેલા સ્થાપનાચાર્યજીની અથવા તેને અભાવે જ્ઞાનના પુસ્તકની અથવા નવકાર વાળીની સ્થાપના કરવી. એટલે કે કટાસણા પર ઉભા રહીને ડાબા હાથમાં ઉત્તરાસંગનો છેડો મુખે આડો દઇ, જમણો હાથ સ્થાપનાજી સન્મુખ સમો રાખી, એક “નવકાર” પાઠ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "navkar"
+        },
+        {
+          "segmentId": "devasi-opening/04",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! “ગુરુસ્થાપના પાઠ ભણુંજી?”",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "panchindiya"
+        },
+        {
+          "segmentId": "devasi-opening/05",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "ભણેહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-opening/06",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી પંચિંદિયનું પાઠ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "panchindiya"
+        }
+      ]
+    },
+    {
+      "vidhiId": "devasi-iriya-adesh",
+      "pratikraman": "devasi",
+      "summary_en": "Adesh to perform iriyavahiyam; then recite iriyavahiyam, tassa uttari, annattha.",
+      "bookPages": "21",
+      "pdfPages": [
+        3
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "devasi-iriya-adesh/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પૂર્વે જણાવ્યા મુજબ સ્થાપનાજીને ગુરુવંદન કરી, ઉભા થઇ, બન્ને હાથ જોડી, “જિનમુદ્રા” તથા “યોગમુદ્રા” સાચવતાં થકા નીચે મુજબ આદેશ લેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-iriya-adesh/02",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! ઇરિયાવહિયં પડિક્કમામિ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "iriyavahiyam"
+        },
+        {
+          "segmentId": "devasi-iriya-adesh/03",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "પડિક્કમેહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-iriya-adesh/04",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-iriya-adesh/05",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "“ઇરિયાવહિયં” તથા “તસ્સ ઉત્તરી” અને “અન્નત્થ ઉસસિએણં” પાઠ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "iriyavahiyam"
+        }
+      ]
+    },
+    {
+      "vidhiId": "devasi-logassa-kausagga",
+      "pratikraman": "devasi",
+      "summary_en": "One Logassa kayotsarga (up to 'chandesu nimmalayara'), then recite Logassa aloud.",
+      "bookPages": "22",
+      "pdfPages": [
+        4
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "devasi-logassa-kausagga/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "ઉપર પ્રમાણે કહ્યા પછી એક લોગસ્સનો કાઉસ્સગ્ગ “ચંદેસુ નિમ્મલયરા” સુધી કરવું. (લોગસ્સનો કાઉસ્સગ્ગ જ્યાં જ્યાં આવે ત્યાં ત્યાં તે પાઠ સુધી જ કરવું. જ્યાં ફેરફાર હશે ત્યાં જણાવાશે.)",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-logassa-kausagga/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી “નમો અરિહંતાણં” એ પદ કહીને કાઉસ્સગ્ગ પારવું, અને સર્વ કાઉસ્સગ્ગમાં એ પ્રમાણે જ કરવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-logassa-kausagga/03",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી નીચેમુજબ પ્રગટ “લોગસ્સ” કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "logassa"
+        }
+      ]
+    },
+    {
+      "vidhiId": "devasi-samayik-parva",
+      "pratikraman": "devasi",
+      "summary_en": "Procedure to conclude the samayika (kausagga 5/6 Avashyaka — Paccakkhana).",
+      "bookPages": "41",
+      "pdfPages": [
+        23
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "devasi-samayik-parva/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "\"દુક્ખક્ખય કમ્મક્ખયનિમિત્તં કરેમિ કાઉસ્સગ્ગં\" પછી \"અન્નત્થ\" કહી, \"સિદ્ધા સિદ્ધિં મમ દિસંતુ\" સુધી સંપૂર્ણ પાંચ લોગસ્સનો કાઉસ્સગ્ગ કરવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "annattha"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી પ્રગટ લોગસ્સ કહેવું, એ કાઉસગ્ગ નામે પાંચમું આવશ્યક પૂરું થયું. પાંચમું આવશ્યક કરવાથી બાકી રહેલા અતિયારો પણ શુદ્ધ થાય છે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "logassa"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/03",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી એક ખમાસમણ દઇ, ઉભા થઇ, આદેશ લેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/04",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! છઠ્ઠા આવશ્યક ભણી પચ્ચખ્ખાણ વાંદણા દઉંજી ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "suguru-dwadashavarta-vandana"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/05",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "દેહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/06",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/07",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "બે વાંદણા દેવા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "suguru-dwadashavarta-vandana"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/08",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છકારી ભગવન્ ! પસાઓ કરી, પચ્ચખ્ખાણની આશ કરાવોજી",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/09",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "ગુરુમુખે ચઉવિહાર પચ્ચખ્ખાણ લેવું, તેમના અભાવે જ્ઞાન વૃદ્ધના મુખે લેવું, અને તેમના પણ અભાવે પોતે જ ચઉવિહારનું પચ્ચખ્ખાણ લેવું. એ પચ્ચખ્ખાણ નામે છઠ્ઠું આવશ્યક પૂરું થયું. એ આવશ્યક કરવાથી પચ્ચખ્ખાણની શુદ્ધિ થાય છે.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/10",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી ઉભા રહી કહેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/11",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "પહેલે સામાયિક ૧, બીજે ચઉવિસત્થો ૨, ત્રીજે વાંદણા ૩, ચોથે * પડિક્કમણું ૪, પાંચમે કાઉસગ્ગ ૫, છઠ્ઠે પચ્ચખ્ખાણ ૬, એ છ આવશ્યક પૂરા થયા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/12",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "એ પ્રમાણે છ આવશ્યક સંભારી જવાં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/13",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "સામાયિક પારવાની વિધિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/14",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી એક ખમાસમણ દઇ,",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/15",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! સચિત્તને સંઘટ્ટે ઇરિયાવહિયં પડિક્કમુંજી ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "iriyavahiyam"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/16",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "આદેશ લઇ, 'ઇરિયાવહિયં' પડિક્કમવી, અને એક લોગસ્સનો કાઉસ્સગ્ગ કરી, પ્રગટ લોગસ્સ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "logassa"
+        },
+        {
+          "segmentId": "devasi-samayik-parva/17",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી એક ખમાસમણ દઇ, ઉભા થઇ, આદેશ લેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/18",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! સામાયિક પારું ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/19",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "પુણોવિ કાયવ્વં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/20",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "યથાશક્તિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/21",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "વળી ખમાસમણ દઇ, ઉભા થઇ, કહે",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/22",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! સામાયિક પાર્યું ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/23",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "આરાહિયં આયારો ન મુત્તવ્વો",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/24",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "તહત્તિ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/25",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "એક ખમાસમણ દઇ, ઉભડક આસને હેઠા બેસી, આદેશ લેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-samayik-parva/26",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ !",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    },
+    {
+      "vidhiId": "devasi-colophon",
+      "pratikraman": "devasi",
+      "summary_en": "Colophon: thus ends the Daivasika pratikramana of the Vidhipaksha (Anchala) gaccha shravaka.",
+      "bookPages": "44",
+      "pdfPages": [
+        26
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "devasi-colophon/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પુસ્તક વિગરેની સ્થાપના સ્થાપી હોય તો તેની સામે જમણો હાથ અવળો (ઉઠાવવાની મુદ્રામાં) રાખી, ૧ નવકાર ગણી, ઉત્થાપના વિધિ કરવી.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "navkar"
+        },
+        {
+          "segmentId": "devasi-colophon/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "ગુરુ ભગવંતના સ્થાપનાચાર્યજી હોય તો ઉત્થાપના કરવાની જરૂર નથી.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "devasi-colophon/03",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "ઇતિ શ્રી વિધિપક્ષ(અચલ)ગચ્છીય શ્રાવકસ્ય દેવસિક પ્રતિક્રમણ સમાપ્તં ॥",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    },
+    {
+      "vidhiId": "rai-vidhi",
+      "pratikraman": "rai",
+      "summary_en": "Rai pratikramana procedure (parallels Devasi, adapted for dawn; 'rai' replaces 'devasi' in the formulas).",
+      "bookPages": "44",
+      "pdfPages": [
+        26
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "rai-vidhi/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "હવે રાઇ પ્રતિક્રમણમાં બીજા આવશ્યક સુધીની વિધિ દેવસિકપ્રતિક્રમણ પ્રમાણે જ જાણવી, ફક્ત ફેર એટલો કે જ્યાં જ્યાં \"દેવસિક\" શબ્દ હોય ત્યાં \"રાઇય\" શબ્દ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી એક ખમાસમણ દઇ, ઉભા થઇ, કહેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/03",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! ત્રીજા આવશ્યક ભણી, અભિભવઅશેષ, દુક્ખક્ખય, કમ્મક્ખય નિમિત્તં કરેમિ કાઉસ્સગ્ગં,",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/04",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી અન્નત્થ. કહી, સંપૂર્ણ પાંચ લોગસ્સનો કાઉસ્સગ્ગ કરવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "annattha"
+        },
+        {
+          "segmentId": "rai-vidhi/05",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી કાઉસ્સગ્ગ પારી, પ્રગટ લોગસ્સ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "logassa"
+        },
+        {
+          "segmentId": "rai-vidhi/06",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી એક ખમાસમણ દઇ, ઉભા થઇ, કહેવું",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/07",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! કુસુમિણ દુસુમિણ ઉડ્ડામણીનિમિત્તં રાઇ પાયચ્છિત્ત વિસોહણત્થં કરેમિ કાઉસ્સગ્ગં,",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/08",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી અન્નત્થ. કહી ચાર લોગસ્સનો \"સાગરવરગંભીરા\" સુધી કાઉસ્સગ્ગ કરવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "annattha"
+        },
+        {
+          "segmentId": "rai-vidhi/09",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "કાઉસ્સગ્ગ પારી, પ્રગટ લોગસ્સ કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "logassa"
+        },
+        {
+          "segmentId": "rai-vidhi/10",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી છેડા પડિલેહણ થી સજ્ઝાય સુધીની વિધિ દેવસિક પ્રતિક્રમણની વિધિ પ્રમાણે જાણવી.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/11",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "તેમાં વિશેષ એટલું કે સ્તવનોની જગ્યાએ \"કેવલનાણી\" સ્તવન કહેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "kevalnani-chaityavandan"
+        },
+        {
+          "segmentId": "rai-vidhi/12",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "તથા સજ્ઝાયની જગ્યાએ \"ભરહેસરબાહુબલી\" સજ્ઝાય કહેવી.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "bharahesar-sajjhay"
+        },
+        {
+          "segmentId": "rai-vidhi/13",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "તે કેવલનાણી સ્તવન તથા ભરહેસર બાહુબલી સજ્ઝાય આ પ્રમાણે જાણવી. ॥",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-vidhi/14",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "નોંધ : રાઇ પ્રતિક્રમણમાં પાંચ લોગસ્સ સિવાયના બધા કાઉસ્સગ્ગ \"સાગરવર ગંભીરા\" સુધી કરવા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    },
+    {
+      "vidhiId": "rai-colophon",
+      "pratikraman": "rai",
+      "summary_en": "Colophon: thus ends the Ratrika pratikramana of the Vidhipaksha (Anchala) gaccha shravaka.",
+      "bookPages": "54",
+      "pdfPages": [
+        36
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "rai-colophon/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "\"ૐ નમો જંબૂદ્વીપે\" પાઠ કહ્યા પછી શક્તિ મુજબ નમુક્કારસહિઅં આદિ પચ્ચખ્ખાણ ગુરુ આદિકના મુખેથી લેવું. ગુરુ ભગવંતોનો યોગ ન હોય તો, જ્ઞાન વૃદ્ધ પાસેથી, તે પણ ન હોય તો, સ્વમુખે લેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-colophon/02",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "એ પચ્ચખ્ખાણ નામે છઠ્ઠું આવશ્યક પૂરું થયું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-colophon/03",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી ઉભા રહી, છ આવશ્યક સંભારી લેવા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-colophon/04",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પછી દેવસિક પ્રતિક્રમણમાં સામાયિક પારવાની વિધિ કહેલ છે, તે પ્રમાણે સામાયિક પારવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "rai-colophon/05",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "॥ ઇતિ વિધિપક્ષ(અચલ) ગચ્છીય શ્રાવકસ્ય રાઇપ્રતિક્રમણ ॥",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    },
+    {
+      "vidhiId": "pakshik-opening",
+      "pratikraman": "pakshik",
+      "summary_en": "Pakshik pratikramana begins (Vidhipaksha gaccha shravaka).",
+      "bookPages": "54",
+      "pdfPages": [
+        36
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "pakshik-opening/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "પાક્ષિકપ્રતિક્રમણમાં પ્રથમ દેવસિક પ્રતિક્રમણમાં ત્રીજા આવશ્યકના વાંદણા સુધી જે ક્રિયાવિધિ છે, તે પ્રમાણે સર્વ ક્રિયાવિધિ જાણવી. પછી એક ખમાસમણ દઇ, નીચે પ્રમાણે આદેશ લેવું.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-opening/02",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છાકારેણ સંદિસ્સહ ભગવન્ ! ચોથા આવશ્યક ભણી, ગુરુપર્વભણી પાખી સવિશેષ બૃહદ્ અતિચાર આલોઉંજી ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "bruhad-atiyar"
+        },
+        {
+          "segmentId": "pakshik-opening/03",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "આલોવેહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-opening/04",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-opening/05",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "એક જણો ઉભા થઇ, એક નવકાર કહી, બૃહદ્ અતિચાર કહેવા. અને બીજા સર્વેએ પ્રથમના આઠ અતિચાર સુધી જમણો ઢીંચણ ઉંચો રાખીને બેસવું, અને નવમા અતિચારથી ઉભા રહી, અતિચાર સાવધાન પણે સાંભળવા.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    },
+    {
+      "vidhiId": "pakshik-nav-smaran",
+      "pratikraman": "pakshik",
+      "summary_en": "The Nine Smaranas (protective stotras) are recited.",
+      "bookPages": "85",
+      "pdfPages": [
+        67
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "pakshik-nav-smaran/01",
+          "kind": "adesh",
+          "speaker": "shishya",
+          "native_script": "ભણુંજી ?",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-nav-smaran/02",
+          "kind": "adesh",
+          "speaker": "guru",
+          "native_script": "ભણેહ",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-nav-smaran/03",
+          "kind": "formula",
+          "speaker": "shishya",
+          "native_script": "ઇચ્છં",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        },
+        {
+          "segmentId": "pakshik-nav-smaran/04",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "હેઠા બેસી, નવકારપૂર્વક નવ સ્મરણ કહેવાં.",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": "navkar"
+        }
+      ]
+    },
+    {
+      "vidhiId": "pakshik-colophon",
+      "pratikraman": "pakshik",
+      "summary_en": "Colophon: thus the Pakshika pratikramana of the Vidhipaksha gaccha shravaka is complete.",
+      "bookPages": "103",
+      "pdfPages": [
+        85
+      ],
+      "needsExtraction": false,
+      "segments": [
+        {
+          "segmentId": "pakshik-colophon/01",
+          "kind": "direction",
+          "speaker": null,
+          "native_script": "॥ ઇતિ શ્રીવિધિપક્ષગચ્છીયશ્રાવકસ્ય પાક્ષિક પ્રતિક્રમણં સંપૂર્ણમ્ ॥",
+          "script": "gujarati",
+          "source_ids": [
+            "book"
+          ],
+          "leadsToSutra": null
+        }
+      ]
+    }
+  ]
+}

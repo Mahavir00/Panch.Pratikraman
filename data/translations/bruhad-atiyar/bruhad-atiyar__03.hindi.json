@@ -1,0 +1,730 @@
+{
+  "shlokaId": "bruhad-atiyar/03",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "plainMeaning": "यह तीसरा व्रत है—बिना दी हुई चीज़ न लेने का (चोरी न करने का); इसमें होने वाली पाँच भूलें—चोरी का माल लेना, चोर की मदद करना, राज-विरुद्ध व्यापार, झूठे तौल-माप, और मिलावट/नकली माल बेचना—गिनाकर उनकी क्षमा माँगी जाती है।",
+  "recitation": "३. तीजुं स्थूल अदत्तादान विरमण व्रत। सचित्त, अचित्त, राज-निग्रह कारिउं, पियारुं, अणदीधुं लेवा नियम। सूक्ष्म तृण, इंधण पथि पतित व्यवहारनिओगे दाणचोरी, जयणा। ए तीजा स्थूल अदत्तादान विरमण व्रत तणा पांच अतियार शोधुं। तेनाहडे, तक्करपओगे, विरुद्ध रज्जाइ कम्मे, कूडतुल्ल कूडमाणे, तप्पडि रूवग ववहारे। स्तेनाहत-जाणी करी चोराइ वस्तु लीधी होय। तस्करप्रयोग-चोरने संबल आप्युं होय। पगरहण दीधुं होय, आगल थइ चोराइ वस्तु वेंची वेंचावी होय। विरुद्धरज्जाइ कम्मे-विरुद्धराज्य जइ व्यवसाय कीधो होय। कूडतुल्लकूडमाणे-कूडां तोलां कूडां मापां कीधां होय, अनेरे दीधुं अनेरे लीधुं होय, लहकऋहक कीधुं होय, काटलां कूडां कीधां होय, उसिसी दीधी होय। तत्प्रतिरूपकव्यवहार-सफरी वस्तुमांहे नफरी वस्तु घाली सफरीने मूल्ये वेंची होय। घी, तेल, साहिली, कउची भेलसंभेल कीधां होय। नवी वानकी देखाडी जूनी वस्तु आपी होय। तथा कूडो करहो काढ्यो होय, वंचद्रोह, विश्वासघात कीधो होय। लेखे कोय वराश्युं होय, कूडी मुद्रा संचारी होय। सिसीसी जवार, फल्या चणा उपाड्या होय, कुणहनुं द्रव्य व्यवसाय करतां आपणापां कने रह्युं होय, नाणां पलटो कीधो होय। अनेरुं ए तीजा स्थूल अदत्तादान विरमणव्रत विषे।",
+  "wordByWord": [
+    {
+      "token": "ત્રીજું",
+      "translit": "trījuṁ",
+      "gloss": "तीसरा",
+      "partOfSpeech": "adj",
+      "etymology": "सं. tṛtīya > प्रा./गु. trīju",
+      "notes": "क्रम-सूचक; तीसरा अणुव्रत"
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "स्थूल, बड़ा/मोटा (गृहस्थ-स्तरीय)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sthūla",
+      "notes": "साधु के सूक्ष्म महाव्रत की तुलना में गृहस्थ का सीमित व्रत"
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "बिना दी हुई वस्तु को लेना (चोरी)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. a-datta (न दिया हुआ) + ādāna (लेना)",
+      "notes": "अस्तेय व्रत का विषय"
+    },
+    {
+      "token": "વિરમણ",
+      "translit": "viramaṇa",
+      "gloss": "विरति, त्याग",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi-ram् (रुकना)"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "व्रत, संकल्प",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vrata"
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "सजीव/सचेतन वस्तु",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sa + citta (चेतनायुक्त)",
+      "notes": "चोरी के विषय का प्रथम भेद"
+    },
+    {
+      "token": "અચિત્ત",
+      "translit": "acitta",
+      "gloss": "निर्जीव वस्तु",
+      "partOfSpeech": "adj",
+      "etymology": "सं. a + citta"
+    },
+    {
+      "token": "રાજ-નિગ્રહ",
+      "translit": "rāja-nigraha",
+      "gloss": "राज द्वारा निषिद्ध/जब्त की हुई (वस्तु)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. rāja (राज्य) + nigraha (रोक/जब्ती)",
+      "notes": "राज्य-नियम से वर्जित वस्तु"
+    },
+    {
+      "token": "કારિઉં",
+      "translit": "kāriuṁ",
+      "gloss": "रखी/सम्भाली हुई (वस्तु)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. kṛta/dhārita > अपभ्रंश kāriu",
+      "notes": "पाठ-स्तर पर अर्थ अनिश्चित; सम्भवतः 'किसी की रखी/धरोहर' वस्तु—notes देखें"
+    },
+    {
+      "token": "પિયારું",
+      "translit": "piyāruṁ",
+      "gloss": "प्रिय/मूल्यवान वस्तु",
+      "partOfSpeech": "adj",
+      "etymology": "सं. priya > प्रा. piya > गु. piyāru"
+    },
+    {
+      "token": "અણદીધું",
+      "translit": "aṇadīdhuṁ",
+      "gloss": "बिना दी हुई, अनदी हुई",
+      "partOfSpeech": "adj",
+      "etymology": "गु. aṇ (न) + dīdhuṁ (दिया); सं. a-datta का देशज रूप"
+    },
+    {
+      "token": "લેવા",
+      "translit": "levā",
+      "gloss": "लेने का (न लेने का)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. labh > गु. leva"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "नियम, प्रतिज्ञा (न लेने की)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. niyama"
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "सूक्ष्म, अति-छोटा",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sūkṣma",
+      "notes": "स्थूल के विपरीत; इसमें जयणा (छूट) रखी जाती है"
+    },
+    {
+      "token": "તૃણ",
+      "translit": "tṛṇa",
+      "gloss": "तिनका, घास",
+      "partOfSpeech": "noun",
+      "etymology": "सं. tṛṇa"
+    },
+    {
+      "token": "ઇંધણ",
+      "translit": "iṁdhaṇa",
+      "gloss": "ईंधन, जलावन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. indhana"
+    },
+    {
+      "token": "પથિ પતિત",
+      "translit": "pathi patita",
+      "gloss": "मार्ग पर गिरी हुई (वस्तु)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. pathi (राह पर) + patita (गिरा हुआ)"
+    },
+    {
+      "token": "વ્યવહારનિઓગે",
+      "translit": "vyavahāra-nioge",
+      "gloss": "व्यवहार/लेन-देन के प्रसंग में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vyavahāra + niyoga (प्रयोग/नियुक्ति)"
+    },
+    {
+      "token": "દાણચોરી",
+      "translit": "dāṇacorī",
+      "gloss": "कर/जकात की चोरी, तौल-माप में चोरी",
+      "partOfSpeech": "noun",
+      "etymology": "फ़ा./गु. dāṇ (कर, चुंगी) + corī (चोरी)",
+      "notes": "यहाँ सूक्ष्म स्तर पर जयणा सहित उल्लिखित"
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "विवेकपूर्ण छूट/सावधानी",
+      "partOfSpeech": "noun",
+      "etymology": "सं. yatanā > प्रा. jayaṇā",
+      "notes": "प्रस्तावना में पूर्व-परिभाषित"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "यह, इस",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. etad > गु. e"
+    },
+    {
+      "token": "ત્રીજા",
+      "translit": "trījā",
+      "gloss": "तीसरे (के)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. tṛtīya"
+    },
+    {
+      "token": "તણા",
+      "translit": "taṇā",
+      "gloss": "के, सम्बन्धी (षष्ठी)",
+      "partOfSpeech": "particle",
+      "etymology": "अपभ्रंश taṇaa (सम्बन्ध-वाचक)"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "पाँच",
+      "partOfSpeech": "adj",
+      "etymology": "सं. pañca"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "अतिचार, व्रत-मलिन करने वाली भूलें",
+      "partOfSpeech": "noun",
+      "etymology": "सं. aticāra; पुस्तक-वर्तनी 'अतियार'"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "शुद्ध करता/करती हूँ, आलोचना करता हूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. śodh् (शुद्ध करना)"
+    },
+    {
+      "token": "તેનાહડે",
+      "translit": "tenāhaḍe",
+      "gloss": "स्तेनाहृत—चोरी का माल (ग्रहण करना)",
+      "partOfSpeech": "noun",
+      "etymology": "सं./प्रा. stena (चोर) + āhṛta (लाया हुआ)",
+      "notes": "प्रथम अतिचार का प्राकृत नाम"
+    },
+    {
+      "token": "તક્કરપઓગે",
+      "translit": "takkarapaoge",
+      "gloss": "तस्करप्रयोग—चोर को प्रेरित/नियुक्त करना",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. takkara (=सं. taskara, चोर) + paoga (=prayoga)",
+      "notes": "द्वितीय अतिचार"
+    },
+    {
+      "token": "વિરુદ્ધ રજ્જાઇ કમ્મે",
+      "translit": "viruddha rajjāi kamme",
+      "gloss": "विरुद्धराज्यातिक्रम—राज-विरुद्ध (अवैध) कर्म/व्यापार",
+      "partOfSpeech": "compound",
+      "etymology": "सं. viruddha-rājya + karman > प्रा. rajjāi kamme",
+      "notes": "तृतीय अतिचार"
+    },
+    {
+      "token": "કૂડતુલ્લ કૂડમાણે",
+      "translit": "kūḍatulla kūḍamāṇe",
+      "gloss": "कूटतुला-कूटमान—झूठे तौल व झूठे माप",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kūṭa (झूठा) + tulā (तराज़ू) / māna (माप)",
+      "notes": "चतुर्थ अतिचार"
+    },
+    {
+      "token": "તપ્પડિ રૂવગ વવહારે",
+      "translit": "tappaḍi rūvaga vavahāre",
+      "gloss": "तत्प्रतिरूपक-व्यवहार—नकली/मिलावटी माल का व्यवहार",
+      "partOfSpeech": "compound",
+      "etymology": "सं. tat-pratirūpaka (वैसा ही दिखने वाला नकली) + vyavahāra",
+      "notes": "पंचम अतिचार"
+    },
+    {
+      "token": "સ્તેનાહત",
+      "translit": "stenāhata",
+      "gloss": "चोरी से लाई हुई (वस्तु)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. stena + āhata/āhṛta"
+    },
+    {
+      "token": "જાણી કરી",
+      "translit": "jāṇī karī",
+      "gloss": "जान-बूझकर",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. jñātvā kṛtvā > गु."
+    },
+    {
+      "token": "ચોરાઇ",
+      "translit": "corāi",
+      "gloss": "चुराई हुई",
+      "partOfSpeech": "adj",
+      "etymology": "सं. cora > गु. corāi"
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "वस्तु, चीज़",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vastu"
+    },
+    {
+      "token": "લીધી",
+      "translit": "līdhī",
+      "gloss": "ली हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. labdha > गु. līdhī"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (आलोचना-सूचक)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. bhū/bhavati > गु. hoya",
+      "notes": "'...होय' = ऐसा कोई दोष हुआ हो—पूरे पाठ में आवर्ती"
+    },
+    {
+      "token": "તસ્કરપ્રયોગ",
+      "translit": "taskaraprayoga",
+      "gloss": "चोर को सहयोग देना",
+      "partOfSpeech": "compound",
+      "etymology": "सं. taskara + prayoga"
+    },
+    {
+      "token": "ચોરને",
+      "translit": "corane",
+      "gloss": "चोर को",
+      "partOfSpeech": "noun",
+      "etymology": "सं. cora"
+    },
+    {
+      "token": "સંબલ",
+      "translit": "saṁbala",
+      "gloss": "रसद, पाथेय, सहायता-सामग्री",
+      "partOfSpeech": "noun",
+      "etymology": "सं. sambala (मार्ग-भोजन)"
+    },
+    {
+      "token": "આપ્યું",
+      "translit": "āpyuṁ",
+      "gloss": "दिया हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. arpita > गु. āpyuṁ"
+    },
+    {
+      "token": "પગરહણ",
+      "translit": "pagarahaṇa",
+      "gloss": "आश्रय/शरण (अथवा गिरवी रखी वस्तु)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. pragrahaṇa (ग्रहण/आश्रय)",
+      "notes": "अर्थ-छाया: चोर को पनाह या चोरी का माल गिरवी रखना"
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "दिया हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. datta > गु. dīdhuṁ"
+    },
+    {
+      "token": "આગલ થઇ",
+      "translit": "āgala thai",
+      "gloss": "आगे होकर, मध्यस्थ/अग्रणी बनकर",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. agra > गु. āgala"
+    },
+    {
+      "token": "વેંચી વેંચાવી",
+      "translit": "veṁcī veṁcāvī",
+      "gloss": "बेची व बिकवाई हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. vikraya > गु. veṁcvuṁ",
+      "notes": "स्वयं बेचना तथा दूसरों से बिकवाना दोनों"
+    },
+    {
+      "token": "વિરુદ્ધરાજ્ય",
+      "translit": "viruddharājya",
+      "gloss": "शत्रु/प्रतिकूल राज्य",
+      "partOfSpeech": "compound",
+      "etymology": "सं. viruddha + rājya"
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "जाकर",
+      "partOfSpeech": "verb",
+      "etymology": "सं. yātvā > गु. jaī"
+    },
+    {
+      "token": "વ્યવસાય",
+      "translit": "vyavasāya",
+      "gloss": "व्यापार, व्यवसाय",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vyavasāya"
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "किया हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. kṛta > गु. kīdho"
+    },
+    {
+      "token": "કૂડાં તોલાં",
+      "translit": "kūḍāṁ tolāṁ",
+      "gloss": "झूठे तौल/बाट",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kūṭa + tula"
+    },
+    {
+      "token": "કૂડાં માપાં",
+      "translit": "kūḍāṁ māpāṁ",
+      "gloss": "झूठे माप",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kūṭa + māna/māpa"
+    },
+    {
+      "token": "કીધાં",
+      "translit": "kīdhāṁ",
+      "gloss": "किए हों",
+      "partOfSpeech": "verb",
+      "etymology": "सं. kṛta > गु."
+    },
+    {
+      "token": "અનેરે દીધું અનેરે લીધું",
+      "translit": "anere dīdhuṁ anere līdhuṁ",
+      "gloss": "एक (बाट) से दिया, दूसरे से लिया",
+      "partOfSpeech": "compound",
+      "etymology": "सं. anya > गु. anerũ (दूसरा)",
+      "notes": "लेने-देने में भिन्न बाट प्रयोग करना"
+    },
+    {
+      "token": "લહકઋહક",
+      "translit": "lahaka-ṛhaka",
+      "gloss": "हलके-भारी का हेर-फेर (तौल-गड़बड़)",
+      "partOfSpeech": "noun",
+      "etymology": "देशज अनुकरण-शब्द (हलका/भारी)",
+      "notes": "तौल में चालाकी का देशज मुहावरा"
+    },
+    {
+      "token": "કાટલાં કૂડાં",
+      "translit": "kāṭalāṁ kūḍāṁ",
+      "gloss": "झूठे बाट/काँटे",
+      "partOfSpeech": "compound",
+      "etymology": "गु. kāṭluṁ (बाट) + kūḍuṁ (झूठा)"
+    },
+    {
+      "token": "ઉસિસી",
+      "translit": "usisī",
+      "gloss": "(तौल में) कमी/घटाकर देना",
+      "partOfSpeech": "noun",
+      "etymology": "देशज; 'ऊनी/कम' से सम्बद्ध",
+      "notes": "कम तौलकर देना—अर्थ अनुमानित"
+    },
+    {
+      "token": "દીધી",
+      "translit": "dīdhī",
+      "gloss": "दी हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. datta"
+    },
+    {
+      "token": "તત્પ્રતિરૂપકવ્યવહાર",
+      "translit": "tatpratirūpaka-vyavahāra",
+      "gloss": "नकली को असली जैसा बनाकर व्यवहार",
+      "partOfSpeech": "compound",
+      "etymology": "सं. tat + pratirūpaka + vyavahāra"
+    },
+    {
+      "token": "સફરી",
+      "translit": "sapharī",
+      "gloss": "उत्तम/बढ़िया (माल)",
+      "partOfSpeech": "adj",
+      "etymology": "अ./फ़ा. ṣāf > गु. saphar (शुद्ध/उत्तम)",
+      "notes": "नफरी के विपरीत—बढ़िया श्रेणी"
+    },
+    {
+      "token": "વસ્તુમાંહે",
+      "translit": "vastumāṁhe",
+      "gloss": "वस्तु में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vastu + madhye > गु. māṁhe"
+    },
+    {
+      "token": "નફરી",
+      "translit": "napharī",
+      "gloss": "घटिया/हलकी (माल)",
+      "partOfSpeech": "adj",
+      "etymology": "देशज; saphar के प्रतिपक्ष में",
+      "notes": "घटिया श्रेणी का माल"
+    },
+    {
+      "token": "ઘાલી",
+      "translit": "ghālī",
+      "gloss": "मिलाकर, डालकर",
+      "partOfSpeech": "verb",
+      "etymology": "गु. ghāl्vũ (डालना)"
+    },
+    {
+      "token": "મૂલ્યે",
+      "translit": "mūlye",
+      "gloss": "मूल्य पर, दाम पर",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mūlya"
+    },
+    {
+      "token": "વેંચી",
+      "translit": "veṁcī",
+      "gloss": "बेची हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. vikraya > गु."
+    },
+    {
+      "token": "ઘી, તેલ",
+      "translit": "ghī, tela",
+      "gloss": "घी, तेल",
+      "partOfSpeech": "noun",
+      "etymology": "सं. ghṛta, taila"
+    },
+    {
+      "token": "સાહિલી",
+      "translit": "sāhilī",
+      "gloss": "एक वस्तु/अनाज (सम्भवतः साठी/तिलहन)",
+      "partOfSpeech": "noun",
+      "etymology": "देशज; निश्चित अर्थ अज्ञात",
+      "notes": "क्षेत्रीय वस्तु-नाम; अर्थ अनिश्चित"
+    },
+    {
+      "token": "કઉચી",
+      "translit": "kauchī",
+      "gloss": "एक वस्तु (सम्भवतः कौंच/किसी बीज)",
+      "partOfSpeech": "noun",
+      "etymology": "देशज; निश्चित अर्थ अज्ञात",
+      "notes": "क्षेत्रीय वस्तु-नाम; अर्थ अनिश्चित"
+    },
+    {
+      "token": "ભેલસંભેલ",
+      "translit": "bhelasaṁbhela",
+      "gloss": "मिलावट, मिश्रण",
+      "partOfSpeech": "noun",
+      "etymology": "गु. bheḷvũ (मिलाना) का द्विरुक्त रूप"
+    },
+    {
+      "token": "નવી વાનકી",
+      "translit": "navī vānakī",
+      "gloss": "नया नमूना (सैम्पल)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. nava + vānakī (बानगी/नमूना)"
+    },
+    {
+      "token": "દેખાડી",
+      "translit": "dekhāḍī",
+      "gloss": "दिखाकर",
+      "partOfSpeech": "verb",
+      "etymology": "सं. dṛś् > गु. dekhāḍvũ"
+    },
+    {
+      "token": "જૂની વસ્તુ",
+      "translit": "jūnī vastu",
+      "gloss": "पुरानी वस्तु",
+      "partOfSpeech": "compound",
+      "etymology": "सं. jīrṇa > गु. jūnũ"
+    },
+    {
+      "token": "આપી",
+      "translit": "āpī",
+      "gloss": "दी हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. arpita > गु."
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "तथा, और",
+      "partOfSpeech": "particle",
+      "etymology": "सं. tathā"
+    },
+    {
+      "token": "કૂડો કરહો",
+      "translit": "kūḍo karaho",
+      "gloss": "झूठा कर्ज़/हिसाब निकाला हो",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kūṭa + karṣa/karaha (कर्ज़, उधार)",
+      "notes": "अर्थ-छाया: झूठा देनदारी-दावा खड़ा करना"
+    },
+    {
+      "token": "કાઢ્યો",
+      "translit": "kāḍhyo",
+      "gloss": "निकाला हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. kṛṣ > गु. kāḍhvũ"
+    },
+    {
+      "token": "વંચદ્રોહ",
+      "translit": "vaṁcadroha",
+      "gloss": "ठगी, धोखाधड़ी",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vañcana (ठगना) + droha (द्रोह)"
+    },
+    {
+      "token": "વિશ્વાસઘાત",
+      "translit": "viśvāsaghāta",
+      "gloss": "विश्वासघात, भरोसा तोड़ना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. viśvāsa + ghāta"
+    },
+    {
+      "token": "લેખે",
+      "translit": "lekhe",
+      "gloss": "हिसाब/बही में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. lekha (लेख, हिसाब)"
+    },
+    {
+      "token": "કોય વરાશ્યું",
+      "translit": "koya varāśyuṁ",
+      "gloss": "किसी का (कुछ) दबा/हड़प लिया हो",
+      "partOfSpeech": "verb",
+      "etymology": "देशज varāsvũ (हड़पना/खपाना)",
+      "notes": "हिसाब में किसी का धन दबा लेना—अर्थ अनुमानित"
+    },
+    {
+      "token": "કૂડી મુદ્રા",
+      "translit": "kūḍī mudrā",
+      "gloss": "झूठी/जाली मुहर या सिक्का",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kūṭa + mudrā"
+    },
+    {
+      "token": "સંચારી",
+      "translit": "saṁcārī",
+      "gloss": "चलाई/प्रचलित की हो",
+      "partOfSpeech": "verb",
+      "etymology": "सं. saṁcāra (चलाना)"
+    },
+    {
+      "token": "સિસીસી જવાર",
+      "translit": "sisīsī javāra",
+      "gloss": "(खेत से) ज्वार के सिट्टे/दाने",
+      "partOfSpeech": "noun",
+      "etymology": "देशज; javāra = सं. yavākāra/ज्वार",
+      "notes": "बिना दिए खेत-उपज उठाना"
+    },
+    {
+      "token": "ફલ્યા ચણા",
+      "translit": "phalyā caṇā",
+      "gloss": "फलित/लगे हुए चने",
+      "partOfSpeech": "noun",
+      "etymology": "सं. phala + caṇaka"
+    },
+    {
+      "token": "ઉપાડ્યા",
+      "translit": "upāḍyā",
+      "gloss": "उठा लिए हों",
+      "partOfSpeech": "verb",
+      "etymology": "सं. utpāṭ > गु. upāḍvũ"
+    },
+    {
+      "token": "કુણહનું",
+      "translit": "kuṇahanuṁ",
+      "gloss": "किसी का",
+      "partOfSpeech": "pronoun",
+      "etymology": "अपभ्रंश kuṇaha (=कोई, किसी)"
+    },
+    {
+      "token": "દ્રવ્ય",
+      "translit": "dravya",
+      "gloss": "धन, द्रव्य",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dravya"
+    },
+    {
+      "token": "કરતાં",
+      "translit": "karatāṁ",
+      "gloss": "करते हुए",
+      "partOfSpeech": "verb",
+      "etymology": "सं. kurvat > गु."
+    },
+    {
+      "token": "આપણાપાં કને",
+      "translit": "āpaṇāpāṁ kane",
+      "gloss": "अपने पास",
+      "partOfSpeech": "adverb",
+      "etymology": "गु. āpaṇũ (अपना) + kane (पास)"
+    },
+    {
+      "token": "રહ્યું",
+      "translit": "rahyuṁ",
+      "gloss": "रह गया हो (दबा रहा हो)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. rah् > गु. rahevũ"
+    },
+    {
+      "token": "નાણાં પલટો",
+      "translit": "nāṇāṁ palaṭo",
+      "gloss": "सिक्कों/मुद्रा की अदला-बदली (खोटा बदलना)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. nāṇaka (सिक्का) + paryāya/palaṭa (बदलना)"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "और भी (जो कुछ अन्य दोष)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. anya > गु. anerũ",
+      "notes": "समापन-सूत्र की ओर संकेत; शेष सब दोष समेटने वाला"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "के विषय में, सम्बन्ध में",
+      "partOfSpeech": "particle",
+      "etymology": "सं. viṣaye"
+    }
+  ],
+  "literalTranslation": "तीसरा स्थूल अदत्तादान-विरमण व्रत। सचित्त, अचित्त, राज-निषिद्ध, (किसी की) रखी हुई, प्रिय—ऐसी अनदी हुई वस्तु न लेने का नियम; तृण, ईंधन, मार्ग पर गिरी वस्तु तथा व्यवहार-प्रसंग में होने वाली सूक्ष्म दाण-चोरी की जयणा (छूट)। इस तीसरे व्रत के पाँच अतिचार मैं शुद्ध करता हूँ—स्तेनाहृत, तस्करप्रयोग, विरुद्धराज्य-कर्म, कूटतुला-कूटमान, तत्प्रतिरूपक-व्यवहार। जान-बूझकर चोरी की वस्तु ली हो; चोर को रसद दी हो; आश्रय दिया हो, आगे होकर चोरी का माल बेचा-बिकवाया हो; शत्रु-राज्य में जाकर व्यवसाय किया हो; झूठे तौल-माप किए हों, एक बाट से दिया दूसरे से लिया हो, हलके-भारी का हेर-फेर किया हो, झूठे काँटे किए हों, कम तौलकर दिया हो; बढ़िया माल में घटिया मिलाकर बढ़िया के दाम बेचा हो; घी, तेल आदि में मिलावट की हो; नया नमूना दिखाकर पुरानी वस्तु दी हो; झूठा कर्ज़ निकाला हो, ठगी व विश्वासघात किया हो; हिसाब में किसी का धन दबाया हो, जाली मुहर चलाई हो; खेत से ज्वार-चने उठा लिए हों, व्यापार में किसी का धन अपने पास रख लिया हो, खोटी मुद्रा बदली हो। इस तीसरे व्रत सम्बन्धी और भी जो दोष हुए हों।",
+  "idiomaticTranslation": "अब तीसरा अणुव्रत—बिना दी हुई किसी भी वस्तु को न लेने का। सजीव हो या निर्जीव, राज द्वारा वर्जित हो, किसी की धरोहर हो या किसी को प्रिय हो—जो मुझे न दी गई हो, उसे न लूँ; केवल तिनके-ईंधन या राह में पड़ी तुच्छ वस्तु और व्यापार की अनिवार्य सूक्ष्म दाण-चोरी जैसी बातों में ही विवेकपूर्ण छूट रखता हूँ। इस व्रत के पाँचों अतिचारों की मैं आलोचना करता हूँ: चोरी का माल जान-बूझकर लेना, चोर की मदद या उसे पनाह देना और बिचौलिया बनकर चोरी का माल खपाना; राज-विरुद्ध जाकर व्यापार करना; झूठे बाट-तराज़ू, अलग-अलग बाट से लेन-देन, कम तौलना—ये सब छल; और बढ़िया माल में घटिया मिलाकर ऊँचे दाम बेचना, घी-तेल में मिलावट, नमूना कुछ और माल कुछ, झूठा हिसाब, ठगी, विश्वासघात, जाली सिक्के-मुहर, दूसरे का धन दबा लेना, खेत की उपज चुपके उठा लेना—जहाँ-जहाँ ऐसा कोई दोष हुआ हो। इस तीसरे व्रत से जुड़ा और भी जो कुछ चूका, उस सबकी क्षमा माँगता हूँ।",
+  "elaboration": {
+    "verseByVerseCommentary": "दूसरे व्रत (मृषावाद) से बढ़कर यह श्लोक वाणी से कर्म की ओर मुड़ता है: यहाँ 'न दी हुई वस्तु को ले लेना' ही पाप है। ध्यान देने योग्य है कि व्रत की चार-आयामी सीमा-घोषणा अति व्यापक है—सचित्त, अचित्त, राज-निषिद्ध, धरोहर और प्रिय वस्तु; अर्थात् चोरी केवल मूल्यवान वस्तु तक सीमित नहीं, किसी का अधिकार-क्षेत्र लाँघना ही चोरी है। साथ ही 'तृण-ईंधन-पथपतित' तथा व्यापार की 'सूक्ष्म दाणचोरी' में जयणा रखकर पाठ गृहस्थ की व्यावहारिक विवशता को यथार्थवादी ढंग से स्वीकारता है—यही अणुव्रत को महाव्रत से अलग करता है। श्लोक की असली शक्ति पाँच अतिचारों के गुजराती विवरण में है, जो चोरी की परिभाषा को निजी डाके से उठाकर 'बाज़ार-नैतिकता' तक फैला देता है। ध्यान दें कि सूची का अधिकांश भाग सीधे व्यापारी-जीवन से है: झूठे बाट (कूडां तोलां), अलग-अलग बाट से लेन-देन, हलके-भारी का हेर-फेर, बढ़िया में घटिया की मिलावट (सफरी-नफरी), घी-तेल की भेलसंभेल, नमूना दिखाकर घटिया देना, झूठा कर्ज़, जाली मुद्रा-मुहर, बही में हेरा-फेरी, और 'किसी का धन व्यापार करते अपने पास रख लेना।' यह सूची इस तथ्य का दर्पण है कि अंचलगच्छ का यह पाठ मुख्यतः व्यापारी श्रावक-समाज के लिए रचा गया, जहाँ अस्तेय की सबसे बड़ी परीक्षा तराज़ू और बही-खाते पर होती है। 'वंचद्रोह-विश्वासघात' का स्पष्ट उल्लेख दिखाता है कि भरोसे का दुरुपयोग भी चोरी का ही रूप है—भले ही कानूनन वैध दिखे। अंत में 'अनेरुं...विषे' वह आवर्ती कुंजी है जो गिनाई न गई हर सूक्ष्म-स्थूल भूल को समेटकर मन-वचन-काया से 'मिच्छा मि दुक्कडं' की ओर ले जाती है, और श्लोक को चौथे (शील) व्रत के लिए तैयार करती है।",
+    "doctrinalContext": "यह श्लोक तीसरे अणुव्रत—स्थूल अदत्तादान-विरमण (अस्तेय)—और उसके शास्त्रीय पंच-अतिचारों का देशज प्रतिफलन है। तत्त्वार्थसूत्र (७.२२) में ये पाँच यों गिनाए हैं: स्तेनप्रयोग, तदाहृतादान, विरुद्धराज्यातिक्रम, हीनाधिकमानोन्मान, और प्रतिरूपकव्यवहार—जिनसे पाठ के 'तेनाहडे, तक्करपओगे, विरुद्धरज्जाइकम्मे, कूडतुल्लकूडमाणे, तप्पडिरूवगववहारे' सीधे मेल खाते हैं। सैद्धांतिक मर्म यह है कि जैन-दृष्टि में 'अदत्त' के चार भेद हैं—स्वामी-अदत्त, जीव-अदत्त, तीर्थंकर-अदत्त, गुरु-अदत्त; गृहस्थ मुख्यतः स्वामी-अदत्त (किसी के स्वत्व का अतिक्रमण) से विरत होता है। अतिचार और अनाचार का सूक्ष्म भेद भी यहाँ निहित है: खुली डकैती व्रत-भंग (अनाचार) है, जबकि तौल-माप का छल, मिलावट या जयणा की सीमा-उल्लंघन व्रत को पूर्णतः तोड़े बिना मलिन करता है—इसीलिए ये 'अतिचार' हैं और आलोचना-योग्य हैं। मिलावट व नकली-माल को चोरी गिनना यह सिखाता है कि अस्तेय केवल 'न उठाना' नहीं, अपितु 'मूल्य के बदले उतना ही सच्चा देना' भी है—अर्थात् व्यापारिक प्रामाणिकता अहिंसा-सत्य की ही विस्तारित अभिव्यक्ति है।",
+    "practicalRelevance": "आज का साधक इस श्लोक को 'व्यापार-नैतिकता की आलोचना' रूप में पढ़े: क्या मैंने तौल-माप, बिल, GST/कर (आधुनिक 'दाणचोरी'), गुणवत्ता-घोषणा या ब्रांड-नकल में किसी को कम दिया? क्या मिलावट, झूठा विज्ञापन, या नमूना-बनाम-माल का अंतर किया? क्या किसी की धरोहर, उधार, या भरोसे का दुरुपयोग किया? यहाँ तक कि सॉफ्टवेयर-पायरेसी, डेटा-चोरी या दूसरे का श्रेय हड़पना भी 'अदत्तादान' के समकालीन रूप हैं। श्लोक का संदेश—प्रत्येक लेन-देन में 'जितना मूल्य लिया, उतना सच्चा दिया या नहीं' की जाँच—और जहाँ चूक हुई वहाँ निःसंकोच 'मिच्छा मि दुक्कडं'।",
+    "crossReferences": [
+      {
+        "text": "तत्त्वार्थसूत्र ७.२२ — अस्तेयाणुव्रत के पाँच अतिचार (स्तेनप्रयोग-तदाहृतादान-विरुद्धराज्यातिक्रम-हीनाधिकमानोन्मान-प्रतिरूपकव्यवहाराः)",
+        "source": "उमास्वाति, तत्त्वार्थाधिगम सूत्र (जैन ई-लाइब्रेरी)"
+      },
+      {
+        "text": "उपासकदशांग — श्रावक के बारह व्रत व उनके अतिचारों का मूल आगमिक ढाँचा",
+        "source": "अंग-आगम, तृतीय अणुव्रत प्रसंग"
+      },
+      {
+        "text": "अस्तेय अणुव्रत — अदत्त के चार भेद व अतिचार/अनाचार विवेक",
+        "source": "Wikipedia, 'Asteya'; Jainpedia 'Non-stealing'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Asteya (Jain ethics) — five aticharas of the non-stealing vow",
+      "url": "https://en.wikipedia.org/wiki/Asteya",
+      "type": "scholarship",
+      "consultedFor": "अस्तेय अणुव्रत के पाँच अतिचारों के नाम व अर्थ की पुष्टि"
+    },
+    {
+      "title": "Tattvārtha Sūtra (Umāsvāti), ch. VII.22 — vows and their atichāras",
+      "url": "https://www.jainelibrary.org/",
+      "type": "scholarship",
+      "consultedFor": "स्तेनप्रयोग/तदाहृतादान/विरुद्धराज्यातिक्रम/हीनाधिकमानोन्मान/प्रतिरूपकव्यवहार के शास्त्रीय सूत्र-पाठ"
+    },
+    {
+      "title": "Jainpedia — Principles: Non-stealing (asteya)",
+      "url": "https://www.jainpedia.org/themes/principles/non-stealing/",
+      "type": "scholarship",
+      "consultedFor": "अदत्तादान-विरति के व्यावहारिक स्वरूप व अतिचार-व्याख्या"
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "मूल गुजराती-प्राकृत पाठ व वर्तनी ('अतियार', सफरी/नफरी आदि देशज शब्द)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) पाठ गुजराती-प्राकृत मिश्रित व्यापारी-बोलचाल का है; अनेक देशज वाणिज्यिक शब्दों का निश्चित अर्थ शब्दकोशों में दुर्लभ है—'कारिउं', 'उसिसी', 'सिसीसी जवार', 'साहिली', 'कउची', 'कूडो करहो', 'कोय वराश्युं' का अर्थ संदर्भ से अनुमानित है और अनिश्चित चिह्नित किया गया है। (2) 'पगरहण' की दो अर्थ-छायाएँ सम्भव हैं—चोर को आश्रय देना अथवा चोरी का माल गिरवी रखना; यहाँ प्रथम को प्रमुख माना। (3) 'सफरी/नफरी' क्रमशः उत्तम/घटिया श्रेणी के अर्थ में लिया, जो प्रसंग ('सफरीने मूल्ये वेंची') से पुष्ट है। (4) पाँच अतिचारों के प्राकृत नामों का तत्त्वार्थसूत्र ७.२२ की क्रम-सूची से सटीक मेल है, अतः मूल ढाँचे की confidence उच्च; देशज उदाहरण-शब्दों की मध्यम। (5) वर्तनी पुस्तकानुसार यथावत् ('अतियार', 'लहकऋहक') रखी गई—सामान्यीकृत नहीं की।"
+}

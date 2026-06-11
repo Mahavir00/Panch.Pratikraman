@@ -1,0 +1,178 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/28",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse counts the ever-existing Jina-temples found on four kinds of cosmic mountains and great trees of the middle world: 170, 30, 10 and 20.",
+  "recitation": "(ḍhāḷ sātamī) veyaḍḍha-giri sittariso jinhar, vṛṣadhara-nā tihāṁ trīśajī. kuru-ḍuma-nā daśa jinhar bolyā, gaja-dante tihāṁ vīśajī.",
+  "wordByWord": [
+    {
+      "token": "ઢાળ",
+      "translit": "ḍhāḷa",
+      "gloss": "melodic section, tune-unit of the hymn",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ḍhāḷa, a sung stanza-group set to one melody (from Skt. *ḍhāla-/dhālā, a metrical 'cast')",
+      "notes": "Rubric, not chanted; marks the start of the seventh dhāla, the tiryag-loka (middle-world) census."
+    },
+    {
+      "token": "સાતમી",
+      "translit": "sātamī",
+      "gloss": "seventh",
+      "partOfSpeech": "adj",
+      "etymology": "ordinal of Guj. sāta 'seven' (Skt. sapta → Pkt. satta)",
+      "notes": ""
+    },
+    {
+      "token": "વેયડ્ઢગિરિ",
+      "translit": "veyaḍḍha-giri",
+      "gloss": "the Vaitāḍhya (Vijayārdha) mountains",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. veyaḍḍha < Skt. vaitāḍhya + giri 'mountain'; the range bisecting each Bharata/Airāvata and Mahāvideha vijaya",
+      "notes": "Across the aḍhāī-dvīpa there are 34 (Jambū) + 68 (Dhātakī) + 68 (Puṣkarārdha) = 170 such mountains, each bearing one eternal temple."
+    },
+    {
+      "token": "સિતરિસો",
+      "translit": "sittariso",
+      "gloss": "one hundred seventy (170)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sattari 'seventy' (Skt. saptati) + so 'hundred' (śata); 'a hundred-and-seventy'",
+      "notes": "Counts the Vaitāḍhya temples; the figure matches the traditional 170 Vaitāḍhya peaks of the 2½ continents."
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhar",
+      "gloss": "Jina-temples (jinālayas)",
+      "partOfSpeech": "noun",
+      "etymology": "jina + har < Skt. gṛha 'house' → jina-gṛha, 'house of the Jina'",
+      "notes": "Here the śāśvata (eternal) shrines specifically."
+    },
+    {
+      "token": "વૃષધરના",
+      "translit": "vṛṣadhara-nā",
+      "gloss": "of the Varṣadhara (region-bounding) mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. varṣadhara 'holder/divider of the regions (varṣa)', here vṛṣadhara, + Guj. genitive -nā",
+      "notes": "The six boundary ranges (Himavān, Mahāhimavān, Niṣadha, Nīla, Rukmī, Śikharī) per continent; 6 + 12 + 12 = 30 across the 2½ continents."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Guj./Apabhraṁśa tihāṁ < Skt. tasmin/tatra 'there'",
+      "notes": ""
+    },
+    {
+      "token": "ત્રીશજી",
+      "translit": "trīśajī",
+      "gloss": "thirty (30) — with reverential -jī",
+      "partOfSpeech": "noun",
+      "etymology": "trīśa < Skt. triṁśat 'thirty' + honorific/metrical particle -jī",
+      "notes": "-jī is a devotional, line-filling particle recurring as the dhāla's rhyme."
+    },
+    {
+      "token": "કુરુડુમના",
+      "translit": "kuru-ḍuma-nā",
+      "gloss": "of the Kuru trees (the great Jambū and Śālmali trees)",
+      "partOfSpeech": "compound",
+      "etymology": "kuru (Deva-kuru / Uttara-kuru regions) + ḍuma < Skt. druma 'tree' + genitive -nā",
+      "notes": "The colossal Jambū tree of Uttarakuru and Śālmali tree of Devakuru; 2 + 4 + 4 = 10 across the 2½ continents, each crowned by a temple."
+    },
+    {
+      "token": "દશ",
+      "translit": "daśa",
+      "gloss": "ten (10)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. daśa 'ten'",
+      "notes": ""
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhar",
+      "gloss": "Jina-temples (jinālayas)",
+      "partOfSpeech": "noun",
+      "etymology": "jina + har < Skt. gṛha 'house'",
+      "notes": "Repeated invocation; counted on the Kuru trees."
+    },
+    {
+      "token": "બોલ્યા",
+      "translit": "bolyā",
+      "gloss": "are declared / are said (in scripture)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. bolvuṁ 'to speak' (Pkt. bolla-), past/passive participle masc. pl.",
+      "notes": "Frames the counts as authoritative tradition: 'are stated to be'."
+    },
+    {
+      "token": "ગજદંતે",
+      "translit": "gaja-dante",
+      "gloss": "on the Gajadanta (elephant-tusk) mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gaja 'elephant' + danta 'tusk'; the four tusk-shaped ranges flanking Meru, locative -e",
+      "notes": "4 + 8 + 8 = 20 Gajadanta ranges across the 2½ continents, one temple each."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Guj./Apabhraṁśa tihāṁ < Skt. tatra",
+      "notes": ""
+    },
+    {
+      "token": "વીશજી",
+      "translit": "vīśajī",
+      "gloss": "twenty (20) — with reverential -jī",
+      "partOfSpeech": "noun",
+      "etymology": "vīśa < Skt. viṁśati 'twenty' + honorific/metrical -jī",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "(Seventh dhāla.) On the Vaitāḍhya mountains, a hundred-and-seventy Jina-temples; on the Varṣadhara ranges, thirty there. On the Kuru trees, ten Jina-temples are declared; on the Gajadanta mountains, twenty there.",
+  "idiomaticTranslation": "Now, in the seventh melody: upon the Vaitāḍhya mountains stand a hundred and seventy eternal Jina-shrines, and upon the region-girding Varṣadhara ranges, thirty more. Ten such shrines crown the mighty Kuru trees, so the scriptures say, and twenty grace the elephant-tusk Gajadanta peaks — to all of which I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Opening the seventh dhāla, the poet turns the worshipper's gaze fully into the tiryag-loka and begins a feature-by-feature audit of its śāśvata jinālayas. He does not count temples region by region but landform-class by landform-class across the whole aḍhāī-dvīpa (the 2½ continents where humans dwell): every Vaitāḍhya, every Varṣadhara, every Kuru-tree, every Gajadanta is tallied at once. The four numbers are exact, not rhetorical: 170 Vaitāḍhya peaks (34 + 68 + 68 over Jambūdvīpa, Dhātakīkhaṇḍa and Puṣkarārdha), 30 Varṣadhara boundary-ranges (6 + 12 + 12), 10 great Kuru-trees (the Jambū and Śālmali, 2 + 4 + 4), and 20 Gajadanta tusk-ranges flanking the Merus (4 + 8 + 8) — each bearing a single eternal shrine. The verb 'bolyā' ('are declared') quietly signals that these figures are received scripture, not the poet's reckoning. The verse pairs naturally with the next, which continues the same ledger — eighty on the Vakṣāras, eighty-five on Meru, four on Ikṣukāra — so this couplet is one panel of a continuous cosmic survey, dense with proper nouns and deliberately sparse in adjectives so the mind can simply travel from mountain to tree to mountain, bowing at each.",
+    "doctrinalContext": "The temples counted here are śāśvata — beginningless and endless, never built and never destroyed, perpetually housing Jina-images. Venerating them affirms that Jina-reverence is woven into the very geography of the cosmos, independent of any human age or effort; the worshipper's bow joins a worship that has no start in time. Counting by landform also encodes Jaina madhya-loka cosmography precisely: Vaitāḍhya bisect the karma-bhūmi regions, Varṣadhara wall them off, Gajadanta cradle the Kurus around Meru, and the Kuru-trees mark the bhoga-bhūmi of effortless enjoyment — yet even those pleasure-lands are crowned with eternal shrines, teaching that no realm is without the Jina.",
+    "practicalRelevance": "At dawn the reciter cannot visit these places, so the verse is a guided mental pilgrimage: as each number is chanted, picture bowing at all 170 Vaitāḍhya shrines, then 30, then 10, then 20 at once. The precision is the practice — letting the sheer reach of eternal worship dissolve self-preoccupation and steady samyaktva before the day begins.",
+    "crossReferences": [
+      {
+        "text": "Jambūdvīpa-prajñapti / Kṣetra-samāsa: enumeration of Vaitāḍhya, Varṣadhara and Gajadanta and their śāśvata caityas",
+        "source": "Śvetāmbara Āgama-cosmography tradition"
+      },
+      {
+        "text": "Bṛhat-saṅgrahaṇī (Saṅgrahaṇī-ratna), gāthās on śāśvata-jinabimba counts of the madhya-loka",
+        "source": "Śrīcandrasūri"
+      },
+      {
+        "text": "Tattvārtha-sūtra 3.1–3.13 (continents, boundary-mountains and regions of the middle world)",
+        "source": "Umāsvāti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vaitadhya, Vaitāḍhya — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/vaitadhya",
+      "type": "dictionary",
+      "consultedFor": "Identity of Vaitāḍhya/Vijayārdha as the Bharata-bisecting mountain of the madhya-loka, supporting the 'veyaḍḍha-giri' gloss."
+    },
+    {
+      "title": "Varshadhara, Varṣadhara — definitions",
+      "url": "https://www.wisdomlib.org/definition/varshadhara",
+      "type": "dictionary",
+      "consultedFor": "Sense of Varṣadhara as a region-dividing (varṣa-holding) boundary mountain, supporting the 'vṛṣadhara' gloss."
+    },
+    {
+      "title": "Shashvata, Śāśvata — definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Confirming śāśvata = eternal/ever-existing, the category of the jinhar counted in this verse."
+    },
+    {
+      "title": "Jaina eLibrary — Śāśvata Jinālaya enumerations of the aḍhāī-dvīpa",
+      "url": "https://en.jainelibrary.org/content?type=d&cid=192010",
+      "type": "scholarship",
+      "consultedFor": "Corroborating the traditional counts of eternal Jina-temples on Vaitāḍhya (170), Varṣadhara (30), Kuru-trees (10) and Gajadanta (20)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Word-segmentation of the verse follows the printed Anchalgaccha (Vidhipaksha) text verbatim; the spelling વેયડ્ઢ/વૃષધર/કુરુડુમ and the honorific suffix -જી are kept as printed and not normalized. 'સિતરિસો' is read as 170 (sattari + so = 'a hundred-and-seventy'), which matches the well-attested 34+68+68 = 170 Vaitāḍhya peaks of the two-and-a-half continents; if instead read as a bare 'seventy', the cosmography would not align, so 170 is preferred. The four counts (170/30/10/20) are traditional śāśvata-jinālaya figures for the whole aḍhāī-dvīpa, not for Jambūdvīpa alone; sub-totals (e.g., Gajadanta as 4×5 vs. one-per-range) vary slightly across Digambara (Tiloyapaṇṇatti/Trilokasāra) and Śvetāmbara reckonings, but the aggregate of 20 is shared. 'બોલ્યા' marks the figures as received tradition. This couplet is verse 28 of the hymn and the head of dhāla 7; it continues directly into the following verse's tally (Vakṣāra 80, Meru 85, Ikṣukāra 4)."
+}

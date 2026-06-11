@@ -1,0 +1,154 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bow to Lord Pārśva — honoured by the serpent-king Dharaṇendra and the destroyer of fear — for by his power every calamity is forever undone.",
+  "recitation": "taṁ namaha pāsanāhaṁ, dharaṇiṁda-namaṁsiaṁ bhaya-viṇāsaṁ; jassa (p)pabhāveṇa sayā, nāsaṁti uvaddavā savve.",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him, that one (the object of homage)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit accusative sg. of the demonstrative ta- (Skt. tam); points forward to Pārśva named in the next word.",
+      "notes": "Resumes the Pārśva who in v.23 holds the hidden mantra; here he becomes the express object of 'bow'."
+    },
+    {
+      "token": "નમહ",
+      "translit": "namaha",
+      "gloss": "bow! pay homage! (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "2nd pers. pl. imperative of √nam 'to bow' (Skt. namata > Pkt. namaha); a direct call to the assembly of reciters.",
+      "notes": "Not a private confession but a collective summons — the only finite imperative aimed at the listeners in this verse."
+    },
+    {
+      "token": "પાસનાહં",
+      "translit": "pāsanāhaṁ",
+      "gloss": "Pārśva-nātha, Lord Pārśva (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "pāsa (Skt. Pārśva) + nāha (Skt. nātha 'lord'); accusative -aṁ as the object of namaha.",
+      "notes": "The hymn's sole addressee; see preface glossary for Pārśvanātha."
+    },
+    {
+      "token": "ધરણિંદ",
+      "translit": "dharaṇiṁda",
+      "gloss": "Dharaṇendra (the serpent-lord)",
+      "partOfSpeech": "compound",
+      "etymology": "dharaṇi 'earth/serpent-realm' + inda (Skt. indra 'lord'); prior member of the compound dharaṇinda-namaṁsiaṁ.",
+      "notes": "Sandhi-joined to the following participle; see preface glossary for Dharaṇendra."
+    },
+    {
+      "token": "નમંસિએં",
+      "translit": "namaṁsiaṁ",
+      "gloss": "venerated, saluted (by)",
+      "partOfSpeech": "adj",
+      "etymology": "past participle of the denominative namasya- 'to do homage' (√nam); Skt. namasita; agrees with pāsanāhaṁ (acc.).",
+      "notes": "With dharaṇiṁda = 'saluted by Dharaṇendra'; the god himself bows to the Jina."
+    },
+    {
+      "token": "ભયવિણાસં",
+      "translit": "bhaya-viṇāsaṁ",
+      "gloss": "destroyer of fear (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "bhaya 'fear' + viṇāsa (Skt. vināśa 'destruction', √naś caus.); a bahuvrīhi epithet of Pārśva.",
+      "notes": "Restates the hymn's title-theme bhayahara in fresh wording."
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "of whom, by whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive sg. of the relative ya- (Skt. yasya); opens the relative clause that explains why one should bow.",
+      "notes": ""
+    },
+    {
+      "token": "ધ્પભાવેણ",
+      "translit": "(p)pabhāveṇa",
+      "gloss": "by the power, by the might/efficacy",
+      "partOfSpeech": "noun",
+      "etymology": "instrumental sg. of pabhāva (Skt. prabhāva 'spiritual potency'); -eṇa = Skt. -ena.",
+      "notes": "The book's reading ધ્પભાવેણ is an evident orthographic slip for પ્પભાવેણ / પ્રભાવેણ (pabhāveṇa); glossed as such — flagged in notes."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā = Skt. sadā 'always'; adverbial, qualifying nāsaṁti.",
+      "notes": "Stresses the unfailing, perpetual scope of the protection."
+    },
+    {
+      "token": "નાસંતિ",
+      "translit": "nāsaṁti",
+      "gloss": "perish, are destroyed",
+      "partOfSpeech": "verb",
+      "etymology": "3rd pers. pl. present of √naś 'to perish' (Skt. naśyanti > Pkt. nāsaṁti); intransitive here.",
+      "notes": "Subject is uvaddavā — the calamities themselves vanish; deliverance is framed as the dangers' own collapse."
+    },
+    {
+      "token": "ઉવદ્દવા",
+      "translit": "uvaddavā",
+      "gloss": "calamities, disturbances (nom. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uvaddava = Skt. upadrava 'affliction, calamity'; nominative pl. -ā.",
+      "notes": "See preface glossary for upadrava; here pluralised and totalised by savve."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all, every one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva = Skt. sarva 'all'; nom. pl. masc. -e, agreeing with uvaddavā.",
+      "notes": "Gathers the whole catalogue of perils into a single sweep — 'all calamities without exception'."
+    }
+  ],
+  "literalTranslation": "Bow to that Pārśvanātha — saluted by Dharaṇendra, the destroyer of fear — by whose power all calamities perish forever.",
+  "idiomaticTranslation": "Bow, all of you, to Lord Pārśva — before whom even the serpent-king Dharaṇendra bends in homage, who shatters every fear — for by the sheer might of his presence all calamities, of every kind, are forever undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just pointed, in v.23, to the eighteen-syllable mantra concealed 'in the middle' of the hymn, the poet now steps back from the esoteric and issues an open, public command: namaha — 'bow, all of you.' This is the only verse whose main verb is a plural imperative turned outward to the assembly, and it functions as the hymn's culminating act of homage before the closing personal confession of v.25. Three epithets compress the whole stotra into a single salutation. Dharaṇinda-namaṁsiyaṁ — 'saluted by Dharaṇendra' — invokes, in one clause, the serpent-lord whose protective devotion the preface explains; the rhetorical force is that of a kāvya argument-from-greatness: if so mighty a god himself bows, how much more should we. Bhaya-viṇāsaṁ restates the title-theme bhayahara in a fresh compound, sealing the litany of seven perils that the body of the hymn unrolled. The relative clause then supplies the ground of the command: jassa pabhāveṇa sayā nāsaṁti uvaddavā savve. Note the grammar of deliverance — the calamities (uvaddavā) are themselves the subject of 'perish' (nāsaṁti); rescue is figured not as a shield interposed but as the spontaneous collapse of every danger in the Jina's presence. sayā ('ever') universalises in time, savve ('all') universalises in kind: no peril, at no moment, withstands his pabhāva. After verse-pairs that each isolated one terror, v.24 thus totalises — every upadrava, always, undone.",
+    "doctrinalContext": "The verse locates the saving efficacy precisely in pabhāva (prabhāva) — the radiant potency that flows from the Jina's perfected, passion-free qualities — not in any boon-granting intervention. This is doctrinally pointed: Dharaṇendra, a powerful deva, is shown bowing to Pārśva, dramatising the Jain order in which even the gods stand below the vītarāga Tīrthaṅkara and serve the dharma rather than command it. The 'destruction' of calamities is therefore not a miracle worked upon the world but the natural outshining of dread by an object of perfect refuge; the reciter's own act — namaha, smaraṇa — is the operative cause, consistent with the hymn's repeated teaching that remembrance of the Jina's feet and name is itself the means of protection.",
+    "practicalRelevance": "Used as the sealing bow of the recitation: the reciter, having mentally passed through each modelled danger, here turns the whole hymn into one outward act of homage and rests in the assurance that 'all calamities, always, perish' — cultivating fearlessness (abhaya) less as a request granted than as a settled inner refuge.",
+    "crossReferences": [
+      {
+        "text": "Upasargahara Stotra (4th Smaraṇa), vv. on Pārśva–Dharaṇendra protection and removal of upasarga/upadrava",
+        "source": "Nine Smaraṇas, Anchalgachchha/Vidhipaksha Panch Pratikraman"
+      },
+      {
+        "text": "Bhayahara (Namiūṇa) Stotra v.18 — the gathering verse that lists disease, water, fire, serpent, thief, foe, lion, elephant, war",
+        "source": "Bhayahara Stotra, attrib. Mānatuṅgasūri"
+      },
+      {
+        "text": "Parśva–Kamaṭha–Dharaṇendra narrative (serpent-hood iconography)",
+        "source": "Parshvanatha, Wikipedia"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "56 Namiyun Stotra (Romanized) — Jain Quantum",
+      "url": "https://jainqq.org/booktext/56_Namiyun_Stotra_Romanized/300580",
+      "type": "translation",
+      "consultedFor": "verbatim Prakrit text and structure of the Namiūṇa/Bhayahara Stotra, confirming verse readings (taṁ namaha pāsanāhaṁ … nāsaṁti uvaddavā savve)"
+    },
+    {
+      "title": "Upadrava — definition (Sanskrit/Prakrit lexicon)",
+      "url": "https://www.wisdomlib.org/definition/upadrava",
+      "type": "dictionary",
+      "consultedFor": "meaning and Sanskrit derivation of uvaddava < upadrava ('affliction, calamity, suffering')"
+    },
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as 23rd Tīrthaṅkara, the Dharaṇendra serpent-lord association and the Kamaṭha episode underlying 'dharaṇinda-namaṁsiyaṁ'"
+    },
+    {
+      "title": "Bhaktamara Stotra — on Ācārya Mānatuṅga",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "traditional attribution of the fear-removing stotras to Mānatuṅga, supporting the hymn's authorship frame"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is the standard penultimate-group salutation of the Namiūṇa/Bhayahara Stotra; the reading is secure across recensions. One source-book orthographic anomaly: ધ્પભાવેણ is an evident scribal/OCR slip for પ્પભાવેણ (pabhāveṇa, Skt. prabhāveṇa) and is glossed accordingly while the verbatim token is preserved. દ્વિ-token split dharaṇiṁda + namaṁsiaṁ reflects the book's spacing; semantically they form one compound 'saluted by Dharaṇendra'. namaha is read as the 2nd-pl. imperative (Skt. namata); some printings show namaha/namaha-variants but the sense ('bow, all of you') is unaffected. The recitation preserves the optional doubling (p)pabhāveṇa seen in Māhārāṣṭrī Prakrit."
+}

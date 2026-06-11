@@ -1,0 +1,154 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the patient monk Ārya Rakṣita, who guarded the right conduct of everyone and kept the scriptural teaching as safe as jewels in a casket.",
+  "recitation": "vandāmi ajja-rakkhiya khamaṇo, rakkhiya caritta savvasse; rayaṇa-karaṇḍaga-bhūo, aṇuogo rakkhio jehiṁ.",
+  "wordByWord": [
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Sanskrit √vand (to salute, praise); 1st person singular present.",
+      "notes": "The hymn's recurring act of homage; here governing the accusative Ārya Rakṣita."
+    },
+    {
+      "token": "અજ્જરક્ખિય",
+      "translit": "ajja-rakkhiya",
+      "gloss": "Ārya Rakṣita (the noble Rakṣita)",
+      "partOfSpeech": "invocation",
+      "etymology": "ajja = Skt. ārya (noble) + rakkhiya = Skt. rakṣita (protected, guarded); a proper name.",
+      "notes": "Object of vandāmi; the historical ācārya, disciple of Ārya Vajra named in the preceding verse."
+    },
+    {
+      "token": "ખમણો",
+      "translit": "khamaṇo",
+      "gloss": "the forbearing ascetic (kṣamaṇa / kṣamāśramaṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khamaṇa from Skt. kṣamaṇa/kṣapaṇa (one given to forbearance and austerity); honorific for a monk.",
+      "notes": "Epithet of Ārya Rakṣita; nominative-form honorific in apposition."
+    },
+    {
+      "token": "રક્ખિય",
+      "translit": "rakkhiya",
+      "gloss": "protected, guarded",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Skt. rakṣita, past participle of √rakṣ (to guard).",
+      "notes": "Qualifies caritta; a deliberate pun on his very name Rakṣita — 'the protector who protected'."
+    },
+    {
+      "token": "ચરિત્ત",
+      "translit": "caritta",
+      "gloss": "conduct, right conduct (cāritra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. cāritra (√car, to move/practise); the third jewel of the ratnatraya.",
+      "notes": "Object protected; right conduct of the monastic community."
+    },
+    {
+      "token": "સવ્વસ્સે",
+      "translit": "savvasse",
+      "gloss": "of all, of everyone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit from Skt. sarvasya, genitive of sarva (all).",
+      "notes": "Genitive: 'the conduct of all' — i.e. he safeguarded the discipline of the whole order."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. ratna (jewel).",
+      "notes": "First member of the compound rayaṇa-karaṇḍaga."
+    },
+    {
+      "token": "કરંડગ",
+      "translit": "karaṇḍaga",
+      "gloss": "casket, basket",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. karaṇḍaka (a small box or basket, esp. for valuables).",
+      "notes": "rayaṇa-karaṇḍaga = 'jewel-casket'; the verse's governing simile (see preface glossary)."
+    },
+    {
+      "token": "ભૂઓ",
+      "translit": "bhūo",
+      "gloss": "become, having become",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Skt. bhūta, past participle of √bhū (to become).",
+      "notes": "Completes the compound: the anuyoga that 'has become a jewel-casket'."
+    },
+    {
+      "token": "અણુઓગો",
+      "translit": "aṇuogo",
+      "gloss": "the exposition (anuyoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. anuyoga (systematic exposition of scripture); nominative subject of rakkhio.",
+      "notes": "Grammatical subject of the second line; the kālika-śruta exposition he preserved."
+    },
+    {
+      "token": "રક્ખિઓ",
+      "translit": "rakkhio",
+      "gloss": "was protected, was guarded",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Skt. rakṣita, past participle of √rakṣ; passive predicate agreeing with aṇuogo.",
+      "notes": "Second naming-pun on Rakṣita; 'the exposition was kept safe'."
+    },
+    {
+      "token": "જેહિં",
+      "translit": "jehiṁ",
+      "gloss": "by whom",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit from Skt. yaiḥ, instrumental plural of the relative ya- (who).",
+      "notes": "Honorific plural for Ārya Rakṣita; 'by whom (the anuyoga) was protected'."
+    }
+  ],
+  "literalTranslation": "I bow to the forbearing ascetic Ārya Rakṣita, by whom the conduct of all was protected — by whom the exposition (anuyoga), become a jewel-casket, was guarded.",
+  "idiomaticTranslation": "I bow low to the patient ascetic Ārya Rakṣita, guardian of the right conduct of the whole order — he by whom the sacred exposition, grown precious as a casket of jewels, was kept whole and safe.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse honoured Ārya Vajra (Vajrasvāmī) for his austere strength, this verse turns to his disciple Ārya Rakṣita — and the poet binds the two by lineage as well as theme. The whole gāthā is a sustained play on the ācārya's name: rakkhiya (he 'protected'), rakkhio (it 'was guarded'), all sounding his name Rakṣita, 'the Protected/Protector'. The first line credits him with guarding 'the conduct of all' (rakkhiya caritta savvasse): not his own discipline only, but the cāritra of the entire saṅgha, which he steadied at a time of decline. The second line states his signature achievement through the jewel-casket image: the anuyoga 'become a jewel-casket' (rayaṇa-karaṇḍaga-bhūo) was preserved by him. Tradition remembers Ārya Rakṣita as the master who, foreseeing that intellects would weaken, separated the four anuyogas — narrative, conduct, cosmology and doctrine — which until then had been expounded together upon every sūtra. By sorting the teaching into distinct caskets, he made the heavy mass of oral scripture portable and learnable, and so 'protected' it for generations who could no longer hold it whole. The simile is exact: a casket does not create the gems, it keeps them ordered and intact — just as Rakṣita did not author the canon but arranged and shielded it. The verse thus advances the hymn's argument that the lineage is not mere succession but active guardianship; each elder is praised for a concrete act of preservation, and Rakṣita's is the systematic safekeeping of the exposition itself.",
+    "doctrinalContext": "The verse foregrounds cāritra, the third of the three jewels (ratnatraya: samyag-darśana, jñāna, cāritra), and links its survival to the survival of the anuyoga — implying that right conduct cannot endure without a rightly transmitted teaching. The jewel-casket image quietly equates scripture-arrangement with monastic discipline: both are acts of rakṣā (guarding). The historical referent — Ārya Rakṣita's anuyoga-pṛthaktva (separation of the four expositions), traditionally at Dashapura — marks a turning point in śruta-history, where pedagogy adapts to declining capacity without altering the content guarded.",
+    "practicalRelevance": "For the reciter, this verse models stewardship: one need not compose new teaching to serve the dharma — faithfully preserving, ordering and passing on what was received is itself a salvific act. It invites gratitude that the sūtras now chanted survive only because someone, in a harder age, took the trouble to keep them safe.",
+    "crossReferences": [
+      {
+        "text": "Anuyogadvāra-sūtra (on the method of anuyoga / exposition)",
+        "source": "Śvetāmbara Āgama, Mūlasūtra"
+      },
+      {
+        "text": "Account of Ārya Rakṣita's separation of the four anuyogas at Dashapura",
+        "source": "Āvaśyaka-cūrṇi / Sthavirāvalī traditions"
+      },
+      {
+        "text": "Preceding gāthā v.7 — homage to Ārya Vajra, Rakṣita's preceptor",
+        "source": "Nandī-sūtra Dvitīya Sajjhāy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Four Anuyogas (Jain Agam literature)",
+      "url": "https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/",
+      "type": "scholarship",
+      "consultedFor": "The fourfold anuyoga classification and Ārya Rakṣita's role in systematizing it."
+    },
+    {
+      "title": "Aryarakshitsuri — Book Summary (JainQQ corpus)",
+      "url": "https://jainqq.org/explore/249066/1",
+      "type": "scholarship",
+      "consultedFor": "Ārya Rakṣita's life, discipleship under Vajrasvāmī, Dashapura, and the separation/preservation of the anuyogas."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for rakṣita (√rakṣ), anuyoga, karaṇḍaka, kṣamaṇa, sarva, bhūta."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Sthavirāvalī)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The Nandī-sūtra lineage section and the placement of the Ārya Rakṣita gāthā."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "ખમણો (khamaṇo) is read as kṣamaṇa/kṣamāśramaṇa, a monk-honorific, not as a vocative 'forgive'; this fits the homage context and Ārya Rakṣita's known title. જેહિં (jehiṁ, instrumental plural) is an honorific plural referring to the single ācārya. The identification of Ārya Rakṣita as the separator of the four anuyogas is traditional (Āvaśyaka-cūrṇi / Sthavirāvalī accounts) rather than independently dated; flagged as the tradition's. One online summary mis-glosses 'Ajja Rakkhiya' as a nun — this is incorrect; the figure here is the male ācārya Ārya Rakṣitasūri, disciple of Vajrasvāmī. The recited Prakrit (e.g. savvasse, aṇuogo, rakkhio) is kept verbatim from the book and not normalized."
+}

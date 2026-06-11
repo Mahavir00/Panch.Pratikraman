@@ -1,0 +1,168 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a terrifying forest fire — flames whipped up by a fierce wind engulf every tree and the helpless does burn, their screams filling the woods — to set up the rescue the next verse promises.",
+  "recitation": "khara-pavaṇuddhua vaṇadava, jālāvali miliya sayala duma gahaṇe; ḍajjhanta muddha mayavahu, bhīsaṇa rava bhīsaṇaṁmi vaṇe.",
+  "wordByWord": [
+    {
+      "token": "ખર",
+      "translit": "khara",
+      "gloss": "harsh, cutting, fierce (here qualifying the wind)",
+      "partOfSpeech": "adj",
+      "etymology": "from Skt. khara, 'sharp, hot, biting'",
+      "notes": "modifies pavaṇa; a 'khara' wind is a parching, gale-like wind that feeds a fire"
+    },
+    {
+      "token": "પવણુદ્ધુઅ",
+      "translit": "pavaṇuddhua",
+      "gloss": "whipped up / fanned by the wind",
+      "partOfSpeech": "compound",
+      "etymology": "pavaṇa (Skt. pavana, 'wind') + uddhua (Skt. uddhūta, 'stirred up, blown aloft'); sandhi pavaṇa+uddhua → pavaṇuddhua",
+      "notes": "with khara: 'whipped up by the fierce wind'"
+    },
+    {
+      "token": "વણદવ",
+      "translit": "vaṇadava",
+      "gloss": "forest-fire, wildfire",
+      "partOfSpeech": "compound",
+      "etymology": "vaṇa (Skt. vana, 'forest') + dava (Skt. dava/dāva, 'wildfire')",
+      "notes": "stem in compound with the following jālāvali"
+    },
+    {
+      "token": "જાલાવલિ",
+      "translit": "jālāvali",
+      "gloss": "rows / garlands of flames",
+      "partOfSpeech": "compound",
+      "etymology": "jālā (Skt. jvālā, 'flame') + āvali (Skt. āvalī, 'row, line, string'); jālā+āvali → jālāvali",
+      "notes": "the instrument that envelops the trees; 'streaming bands of fire'"
+    },
+    {
+      "token": "મિલિય",
+      "translit": "miliya",
+      "gloss": "joined together, met, merged (i.e. enveloped)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. past participle milita, from √mil, 'to join, unite'",
+      "notes": "the flame-rows have 'met / closed over' all the trees"
+    },
+    {
+      "token": "સયલ",
+      "translit": "sayala",
+      "gloss": "all, entire, every",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sakala, 'whole, all'; intervocalic -k- > -y-/elision in Prakrit",
+      "notes": "qualifies duma"
+    },
+    {
+      "token": "દુમ",
+      "translit": "duma",
+      "gloss": "tree(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. druma, 'tree'; cluster dr- > d- in Prakrit",
+      "notes": "sayala-duma = 'all the trees', in the thicket"
+    },
+    {
+      "token": "ગહણે",
+      "translit": "gahaṇe",
+      "gloss": "in the dense thicket / impenetrable depth",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gahana, 'dense, thicket, impenetrable place'; locative singular gahaṇe",
+      "notes": "locative closing the first descriptive cluster: 'in the dense thicket of all the trees enveloped by the flame-rows'"
+    },
+    {
+      "token": "ડજ્ઝંત",
+      "translit": "ḍajjhanta",
+      "gloss": "burning, being scorched",
+      "partOfSpeech": "verb",
+      "etymology": "present participle from Skt. dahyamāna (√dah, 'to burn'); passive dahya- > Prakrit ḍajjha-",
+      "notes": "describes the doe-wives caught in the blaze"
+    },
+    {
+      "token": "મુદ્ધ",
+      "translit": "muddha",
+      "gloss": "innocent, tender, dazed / bewildered",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. mugdha, 'naive, gentle, confused'; conjunct -gdh- > -ddh-",
+      "notes": "the does are 'mugdha' — helpless and panic-stunned, heightening pathos"
+    },
+    {
+      "token": "મયવહુ",
+      "translit": "mayavahu",
+      "gloss": "doe-wives, female deer",
+      "partOfSpeech": "compound",
+      "etymology": "maya (Skt. mṛga, 'deer'; mṛga > maya/miga) + vahu (Skt. vadhū, 'young wife, female')",
+      "notes": "muddha-mayavahu = 'the innocent does'; the burning of sentient creatures carries the ahiṁsā undertone"
+    },
+    {
+      "token": "ભીસણ",
+      "translit": "bhīsaṇa",
+      "gloss": "terrible, dreadful (qualifying the cries)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhīṣaṇa, 'frightful', from √bhī, 'to fear'",
+      "notes": "first member of the doubling bhīsaṇa…bhīsaṇaṁmi"
+    },
+    {
+      "token": "રવ",
+      "translit": "rava",
+      "gloss": "cry, scream, roar",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rava, 'cry, sound', from √ru",
+      "notes": "bhīsaṇa-rava = 'with dreadful cries' (of the burning creatures)"
+    },
+    {
+      "token": "ભીસણંમિ",
+      "translit": "bhīsaṇaṁmi",
+      "gloss": "in the fearsome / dreadful",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhīṣaṇa + Prakrit locative ending -ṁmi (= Skt. -e); 'in the dreadful…'",
+      "notes": "the deliberate repetition of the root bhīsaṇa intensifies the horror"
+    },
+    {
+      "token": "વણે",
+      "translit": "vaṇe",
+      "gloss": "in the forest",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vana, 'forest'; locative singular vane > vaṇe",
+      "notes": "the governing locative: the whole scene is set 'in a forest made dreadful by dreadful cries'"
+    }
+  ],
+  "literalTranslation": "In the dense thicket where all the trees are met (enveloped) by the flame-rows of a forest-fire whipped up by the harsh wind — where the innocent does are burning — in a forest made dreadful by dreadful cries…",
+  "idiomaticTranslation": "A wildfire, lashed to fury by the cutting wind, flings its garlands of flame until they close over every tree of the deep woods; there the gentle does burn helpless, and the forest itself turns to terror, dreadful with their dreadful cries.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the opening, peril-painting half of the fire-couplet: the verse names no rescuer and offers no relief — that is withheld until the next gāthā — and so it is pure, controlled scene-painting whose suspense is the point. The poet builds the catastrophe in a single tightening chain of cause and effect: a harsh wind (khara), which fans the wildfire (pavaṇuddhua vaṇadava), whose flame-rows (jālāvali) close over (miliya) all the trees (sayala duma) in the dense thicket (gahaṇe). Only after the inferno is total does he turn to its victims — the 'innocent does' (muddha mayavahu) caught burning alive (ḍajjhanta). The adjective muddha is doing real work: these are not predators but gentle, bewildered creatures, and their helplessness converts a nature-scene into something that wounds the listener. The closing line seals the horror with deliberate sound-play: bhīsaṇa rava bhīsaṇaṁmi vaṇe — 'dreadful cries in a dreadful forest' — the root bhīsaṇa repeated so that the screams and the place become one undivided terror, and the governing locative vaṇe ('in the forest') leaves the whole picture hanging, grammatically incomplete, waiting for the devotee and the Jina who will complete it next. The verse thus enacts in its very syntax the experience of being trapped: everything is locative, surrounded, with no exit yet in sight. Calibrated tightly, it asks the reciter only to feel the fire fully — so that the cool refuge to come will register with full force.",
+    "doctrinalContext": "Among the catalogued great fears, this couplet isolates agni-bhaya (the fear of fire). The verse-specific point lies in what it chooses to show: not the devotee's own scorching but the burning of sentient does, which quietly threads ahiṁsā through the terror — the peril is measured by harm to living beings, not merely property. By naming no protector while every clause piles on dread, the poet dramatizes a core conviction of protective recitation: it is not the absence of calamity but smaraṇa (remembrance) of the Jina that turns it aside; the calamity here is allowed its full, unrelieved weight precisely so that remembrance, when it arrives, is shown to be the sole hinge of deliverance. The conflagration also reads naturally as a figure for saṁsāra itself — the 'fire' that consumes the unguarded — making the literal danger a doorway to the deeper one.",
+    "practicalRelevance": "Reciting this verse, one is meant to actually inhabit the fire — the panic, the heat, the cries — and not rush past it; its discomfort is functional. Held against the relief of the following verse, it trains the practitioner to meet the literal and inner 'fires' of life (sudden fear, engulfing crisis, the heat of the passions) by turning, in the very moment of being surrounded, to the refuge of the Jina's feet, finding stillness where instinct screams to flee.",
+    "crossReferences": [
+      {
+        "text": "Following gāthā (v.7): 'jagaguruṇo kamajualaṁ… na kuṇai jalaṇo bhayaṁ tesiṁ' — those who remember the world-guru's pair of feet, fire causes them no fear (the deliverance that completes this verse)",
+        "source": "Namiūṇa Bhayahara Stotra, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Bhaktāmara Stotra's davānala (forest-fire) refuge-simile — the parallel image of creatures fleeing a wildfire to a protector, by the same traditional author Mānatuṅga",
+        "source": "Manatunga, Bhaktāmara Stotra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams / Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit cognates underlying the Prakrit tokens: pavana, dava/dāva, jvālā, āvalī, milita, sakala, druma, gahana, dahyamāna (√dah), mugdha, mṛga, vadhū, bhīṣaṇa (√bhī), rava, vana"
+    },
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara and the upasarga legend (Meghamālin/Kamaṭha's assault, including fire) that underlies the hymn's fire imagery and protective force"
+    },
+    {
+      "title": "Bhaktamara Stotra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "commentary",
+      "consultedFor": "traditional authorship of fear-removing stotras by Mānatuṅga and the parallel forest-fire (davānala) refuge-simile in his corpus"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Spellings (ડજ્ઝંત, મુદ્ધ, મયવહુ, ભીસણંમિ, the half/doubled conjuncts and the locative -ṁmi) follow the source book verbatim and may differ from other recensions. 'mayavahu' is read as mṛga-vadhū ('doe-wives / female deer'); some recensions/readers take maya- generally as 'deer/beasts' — the sense 'gentle does' best fits muddha. 'miliya' is taken as qualifying the flame-rows that have closed over the trees; it could alternatively be parsed with the trees themselves ('all the trees merged in flame'), with no change to overall meaning. The verse is grammatically a chain of locatives setting the scene; its main clause and the rescuer (Pārśva) are completed only in v.7, so this gāthā is intentionally an unresolved, danger-painting half-verse."
+}

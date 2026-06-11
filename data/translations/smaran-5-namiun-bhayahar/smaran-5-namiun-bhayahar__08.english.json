@@ -1,0 +1,160 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a terrifying cobra — its hood shimmering, its eyes flashing red, its tongue darting, its body dark as a storm-cloud — the deadly serpent-danger from which Pārśva's devotees are delivered in the very next verse.",
+  "recitation": "vilasanta bhoga bhīsaṇa, phuriā-aruṇa nayaṇa tarala jīhālaṁ; ugga bhuaṅgaṁ navajalaya, satthahaṁ bhīsaṇāyāraṁ.",
+  "wordByWord": [
+    {
+      "token": "વિલસંત",
+      "translit": "vilasanta",
+      "gloss": "glistening, swaying, flickering (describing the hood/coils)",
+      "partOfSpeech": "adj",
+      "etymology": "present participle of Skt. vi-√las 'to shine, sport, flicker' → Pkt. vilasanta (Skt. vilasat).",
+      "notes": "Qualifies bhoga: the snake's expanded hood seen as 'shimmering' or 'restlessly swaying.'"
+    },
+    {
+      "token": "ભોગ",
+      "translit": "bhoga",
+      "gloss": "the serpent's hood / coiled body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. bhoga, in serpent contexts 'the expanded hood or curving body of a snake' (distinct from bhoga 'enjoyment').",
+      "notes": "Dictionary sense 'coil/hood of a serpent' (wisdomlib bhoga, Prakrit/Sanskrit entries)."
+    },
+    {
+      "token": "ભીસણ",
+      "translit": "bhīsaṇa",
+      "gloss": "terrifying, fearsome",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhīṣaṇa 'frightful' (√bhī 'to fear') → Pkt. bhīsaṇa.",
+      "notes": "First member of an inclusio: it opens the description and bhīsaṇāyāraṁ closes it."
+    },
+    {
+      "token": "ફુરિઆઅરુણ",
+      "translit": "phuriā-aruṇa",
+      "gloss": "flashing-red, [eyes] red as throbbing fire/dawn",
+      "partOfSpeech": "compound",
+      "etymology": "phuriā < Skt. sphurita 'throbbing, flashing, quivering' (√sphur) + aruṇa 'red, reddish, dawn-coloured.'",
+      "notes": "Sandhi-joined compound modifying nayaṇa: 'with flashing red eyes.'"
+    },
+    {
+      "token": "નયણ",
+      "translit": "nayaṇa",
+      "gloss": "eye(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nayana 'eye' (√nī, 'that which leads/guides') → Pkt. nayaṇa.",
+      "notes": "Forms a bahuvrīhi with the preceding compound: 'flashing-red-eyed.'"
+    },
+    {
+      "token": "તરલ",
+      "translit": "tarala",
+      "gloss": "trembling, darting, restlessly quivering",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. tarala 'tremulous, moving to and fro' (√tṝ) → Pkt. tarala.",
+      "notes": "Modifies jīhālaṁ: the flickering forked tongue."
+    },
+    {
+      "token": "જીહાલં",
+      "translit": "jīhālaṁ",
+      "gloss": "[having a] tongue (i.e. tongued)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. jīhā < Skt. jihvā 'tongue' + possessive/adjectival suffix -la; accusative -ṁ.",
+      "notes": "Bahuvrīhi qualifying bhuaṅgaṁ: 'with a [darting] tongue.' Accusative agrees with the serpent."
+    },
+    {
+      "token": "ઉગ્ગ",
+      "translit": "ugga",
+      "gloss": "fierce, violent, savage",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ugra 'formidable, fierce' → Pkt. ugga (assimilation gr → gg).",
+      "notes": "Directly qualifies the serpent."
+    },
+    {
+      "token": "ભુઅંગં",
+      "translit": "bhuaṅgaṁ",
+      "gloss": "serpent, cobra (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhujaṅga 'serpent' (bhuja 'bend/arm' + -ga 'mover', the 'crooked-going one') → Pkt. bhuaṅga.",
+      "notes": "The grammatical head of the whole verse; in the accusative because its verb ('regard as a mere insect') falls in v.9."
+    },
+    {
+      "token": "નવજલય",
+      "translit": "navajalaya",
+      "gloss": "a fresh rain-cloud (and so, dark/black)",
+      "partOfSpeech": "compound",
+      "etymology": "nava 'new, fresh' + jalaya/jalada 'water-giver = cloud' (jala 'water' + -da/-ya) → 'newly gathered monsoon cloud.'",
+      "notes": "Standard simile for a deep-black colour; here the cobra's body."
+    },
+    {
+      "token": "સત્થહં",
+      "translit": "satthahaṁ",
+      "gloss": "resembling, like (in colour/form)",
+      "partOfSpeech": "adj",
+      "etymology": "read as Pkt. for Skt. sannibha / sadṛśa 'resembling, similar to'; with navajalaya, 'like a fresh cloud.'",
+      "notes": "Spelling varies by recension (sattaha / saṁttha); the comparative sense 'like' is secure even where the exact Sanskrit equivalent is debated — see notes."
+    },
+    {
+      "token": "ભીસણાયારં",
+      "translit": "bhīsaṇāyāraṁ",
+      "gloss": "of terrifying form / dreadful in aspect",
+      "partOfSpeech": "compound",
+      "etymology": "bhīṣaṇa 'terrifying' + ākāra 'shape, form' → bhīṣaṇākāra, Pkt. bhīsaṇāyāra; accusative -ṁ.",
+      "notes": "Closes the inclusio opened by bhīsaṇa, sealing the description in dread."
+    }
+  ],
+  "literalTranslation": "A fierce serpent — terrifying with its glistening, swaying hood, with flashing red eyes and a darting, quivering tongue, dark as a fresh rain-cloud, of dreadful form —",
+  "idiomaticTranslation": "Behold the fierce cobra: its outspread hood shimmering and dreadful, its eyes flashing blood-red, its restless tongue flickering, its body black as a freshly gathered monsoon cloud — a very shape of terror.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the first half of the serpent-pair: the poet spends the whole gāthā painting the peril and deliberately withholds the rescue, which lands only in the next verse. Grammatically the verse is one long accusative phrase with no finite verb — every word leans on bhuaṅgaṁ ('serpent'), and the sentence stays suspended until v.9 supplies subject and verb ('men… regard it as a mere insect'). The reader is thus made to dwell inside the dread before relief arrives. The description works in four swift sensory strokes, all visual: the swaying, glistening hood (vilasanta-bhoga); the blood-red, fire-flashing eyes (phuriā-aruṇa-nayaṇa); the darting forked tongue (tarala-jīhālaṁ); and the storm-cloud blackness of the body (navajalaya-satthahaṁ). Two words of terror clamp the verse shut like a frame — it opens on bhīsaṇa ('terrifying') and closes on bhīsaṇāyāraṁ ('of terrifying form'), an inclusio that lets nothing escape its menace. The 'fresh rain-cloud' simile is naturalistic — the deep black of a cobra — yet it quietly prepares the reversal: Pārśva, the serpent-sheltered Jina, is the one figure for whom such a serpent holds no power. The verse's whole craft is to make the snake maximally fearsome so that the next verse's calm — venom counted as an insect's tickle — strikes all the harder.",
+    "doctrinalContext": "The serpent here embodies one of the classical 'great fears' (mahābhaya). Doctrinally the verse stages fear itself as the real bondage: dread is an aversion-rooted passion (dveṣa) that distorts perception, and the Tīrthaṅkara's gift is abhaya (fearlessness). The deliverance promised in the pair is not that the snake vanishes but that the reciter's seeing is transformed — the deadly serpent is re-perceived 'as a mere insect.' This is the verse's quiet teaching: smaraṇa and the name-as-mantra reorder the mind so that equanimity, not instinct, governs the encounter with terror.",
+    "practicalRelevance": "While chanting, let the image rise in full — hood, red eyes, flicking tongue, black body — and then carry it across into the next verse's poise rather than suppressing it. The verse trains the reciter to look fear squarely in the face and hold steady, trusting the deliverance that immediately follows.",
+    "crossReferences": [
+      {
+        "text": "Following verse (smaran-5-namiun-bhayahar/09): those who hold Pārśva's name-syllables as a perfected mantra count the venomous serpent as a mere insect",
+        "source": "Namiūṇa (Bhayahara) Stotra, Anchalgachchha Panch Pratikraman edition"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra (4th Smaraṇa), also to Pārśva as viṣahara ('venom-bearer/poison-remover')",
+        "source": "Nava Smaraṇa, Pakkhī sequence"
+      },
+      {
+        "text": "The Kamaṭha upasarga and Dharaṇendra's serpent-hood protection of the meditating Pārśva",
+        "source": "Parshvanatha (Wikipedia)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "56 Namiyun Stotra (Romanized) — Prakrit text of the Bhayahara/Namiūṇa Stotra",
+      "url": "https://jainqq.org/booktext/56_Namiyun_Stotra_Romanized/300580",
+      "type": "translation",
+      "consultedFor": "verbatim verse text 'vilasaṃta-bhoga-bhīsaṇa… ugga-bhuaṃgaṃ navajalaya-satthahaṃ bhīsaṇāyāraṃ' and verse identification"
+    },
+    {
+      "title": "Bhayaharastotra, Bhayahara-stotra — definition",
+      "url": "https://www.wisdomlib.org/definition/bhayaharastotra",
+      "type": "scholarship",
+      "consultedFor": "identification of the hymn as Pārśvanātha-stotra = Bhayahara = Namiūṇa, composed by Mānatuṅgasūri"
+    },
+    {
+      "title": "Bhoga — Prakrit/Sanskrit dictionary definition",
+      "url": "https://www.wisdomlib.org/definition/bhoga",
+      "type": "dictionary",
+      "consultedFor": "the sense of bhoga as a serpent's coil/hood, and the bhujaṅga/jalada root forms"
+    },
+    {
+      "title": "Bhaktāmara, Kalyāṇamandira and Namiūṇa",
+      "url": "https://jainpedia.org/reading/bhaktamara-kalyanamandira-and-namiuna/",
+      "type": "scholarship",
+      "consultedFor": "the Namiūṇa Stotra's place among the Pārśva-hymns and its critical-edition history"
+    },
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva's serpent association (Dharaṇendra hoods, Kamaṭha) underlying the serpent imagery"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Verse text is firmly attested (jainqq romanized edition matches the supplied Gujarati verbatim). The verse is syntactically incomplete on its own: it is a chain of accusatives whose subject and finite verb ('mannanti kīḍasarisaṁ', 'regard [it] as like an insect') stand in the following verse (v.9) — the two must be read together. 'satthahaṁ' (સત્થહં) is the chief uncertainty: it is read here as a Prakrit comparative ('resembling, like', for Skt. sannibha/sadṛśa), giving 'dark like a fresh rain-cloud'; the comparative sense is secure even though the exact Sanskrit equivalent and spelling differ across recensions (variants such as sattaha/saṁttha occur). 'vilasanta-bhoga' admits both 'swaying/restless hood' and 'glistening hood/coils.' 'jīhālaṁ' is taken as a bahuvrīhi ('[serpent] having a [darting] tongue'). Per the source book's orthography rules, the supplied Gujarati spelling is preserved verbatim."
+}

@@ -1,0 +1,144 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May there be blessing and welfare to Lord Mahāvīra — the one who lights up the whole world, whom even gods and demons bow to, and who has cast off all the dust of karma.",
+  "recitation": "bhaddaṁ savva-jagujjoyagassa bhaddaṁ jiṇassa vīrassa, bhaddaṁ surāsura-namaṁsiyassa bhaddaṁ dhūya-rayassa.",
+  "wordByWord": [
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! / welfare (to) — the benedictory refrain (1st of four)",
+      "partOfSpeech": "invocation",
+      "etymology": "< Skt. bhadra 'auspicious, good, blessed'; acc./nom. sg. neut. used adverbially as a benediction",
+      "notes": "Governs the following genitive: 'bhaddaṁ X-assa' = 'auspiciousness to X'. Repeated four times as anaphora."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, entire",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. sarva 'all'; first member of the compound savva-jagujjoyaga",
+      "notes": "Qualifies jaga (world): 'the entire world'."
+    },
+    {
+      "token": "જગુજ્જોયગસ્સ",
+      "translit": "jagujjoyagassa",
+      "gloss": "to the illuminator of the world (genitive)",
+      "partOfSpeech": "compound",
+      "etymology": "jaga < Skt. jagat 'world' + ujjoyaga < Skt. uddyotaka 'illuminator' (ud-√dyut 'to shine forth, light up') + gen. sg. -assa (< Skt. -asya); = jagad-uddyotaka",
+      "notes": "With savva: 'illuminator of all the world' — the light of kevala-jñāna lighting every realm; advances v.2's jagaguru."
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! (to) — refrain, 2nd",
+      "partOfSpeech": "invocation",
+      "etymology": "see token 1; < Skt. bhadra",
+      "notes": ""
+    },
+    {
+      "token": "જિણસ્સ",
+      "translit": "jiṇassa",
+      "gloss": "to the Jina, the Conqueror (genitive)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. jina 'conqueror, victor' (√ji 'to conquer'); gen. sg. -assa",
+      "notes": "'Conqueror' of the inner enemies (kaṣāyas); paired in apposition with vīrassa."
+    },
+    {
+      "token": "વીરસ્સ",
+      "translit": "vīrassa",
+      "gloss": "to Vīra (genitive) — i.e. Mahāvīra",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. vīra 'hero, valiant one'; gen. sg. -assa",
+      "notes": "jiṇassa vīrassa = 'the Jina Vīra', naming Mahāvīra (cf. glossary mahāvīra)."
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! (to) — refrain, 3rd",
+      "partOfSpeech": "invocation",
+      "etymology": "see token 1",
+      "notes": ""
+    },
+    {
+      "token": "સુરાસુર",
+      "translit": "surāsura",
+      "gloss": "gods and demons (sura + asura)",
+      "partOfSpeech": "compound",
+      "etymology": "sura < Skt. sura 'god, deva' + asura < Skt. asura 'anti-god, demon'; dvandva compound with vowel-sandhi a+a→ā",
+      "notes": "A merism: 'gods and anti-gods' = beings of every celestial rank, hence all the worlds' powers."
+    },
+    {
+      "token": "નમંસિયસ્સ",
+      "translit": "namaṁsiyassa",
+      "gloss": "to the one bowed-to / saluted (genitive)",
+      "partOfSpeech": "compound",
+      "etymology": "namaṁsiya < Skt. namasita / denom. namasya- 'to be bowed to, revered' (√nam 'to bend, bow') + gen. sg. -assa",
+      "notes": "surāsura-namaṁsiyassa = 'to him who is saluted by gods and demons'; a past-passive epithet of universal homage."
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! (to) — refrain, 4th and climactic",
+      "partOfSpeech": "invocation",
+      "etymology": "see token 1",
+      "notes": ""
+    },
+    {
+      "token": "ધૂય",
+      "translit": "dhūya",
+      "gloss": "shaken off, cast away",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. dhūta 'shaken off, removed' (√dhū 'to shake'); note the book's long ū (ધૂય), preserved verbatim",
+      "notes": "First member of dhūya-raya; past participle used actively/possessively: 'having shaken off'."
+    },
+    {
+      "token": "રયસ્સ",
+      "translit": "rayassa",
+      "gloss": "of dust (= karmic matter) (genitive) — i.e. 'to him who has shaken off the dust'",
+      "partOfSpeech": "noun",
+      "etymology": "raya < Skt. rajas 'dust, pollen, particulate'; gen. sg. -assa; here dust = karma-pudgala adhering to the soul",
+      "notes": "dhūya-rayassa = 'to him whose karmic dust is shaken off' — names the liberation underlying the prior three epithets."
+    }
+  ],
+  "literalTranslation": "Auspiciousness to the illuminator of all the world! Auspiciousness to the Jina Vīra! Auspiciousness to him who is saluted by gods and demons! Auspiciousness to him who has shaken off the dust (of karma)!",
+  "idiomaticTranslation": "All blessing to him who floods the whole world with light! All blessing to Vīra, the Conqueror! All blessing to him at whose feet gods and demons alike bow down! All blessing to him who has shaken every speck of karmic dust from his soul!",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.2 closed on 'jaya' — Mahāvīra triumphant — v.3 turns that triumph into benediction, opening the fourfold 'bhaddaṁ' (auspiciousness!) litany. The four genitive clauses are not random praise but a deliberate sequence moving outward, then inward. (1) savva-jagujjoyaga — 'illuminator of all the world' — picks up the previous verse's jagaguru and suyāṇaṁ pabhavo: his omniscient light reaches every realm. (2) jiṇassa vīrassa names him plainly, conqueror and hero, lest the cosmic imagery float free of the person. (3) surāsura-namaṁsiya measures his stature by his worshippers: if gods and anti-gods alike bow, no being stands above him. (4) dhūya-rayassa is the climax and the cause of the other three — he illumines, conquers, and is adored precisely because he has shaken off the dust of karma. The verse thus reasons backwards from visible glory (light, homage) to its hidden root (liberation). The anaphora of bhaddaṁ also does ritual work: this same word of blessing, lavished here on Vīra, is about to be handed forward to the Saṅgha, whose praise the very next verse opens ('saṅgha-nayara bhaddaṁ te'). The reciter blesses the teacher first, then the community that carries him.",
+    "doctrinalContext": "The pivotal word is dhūya-raya. Jain metaphysics treats karma not as moral bookkeeping but as fine material particles (karma-pudgala) that settle on the soul like dust on a mirror; liberation is their literal removal (nirjarā), after which the soul's innate light shines unobstructed. So 'illuminator of the world' (epithet 1) and 'dust shaken off' (epithet 4) are cause and effect: the kevalin radiates because nothing veils him. The image is canonical, not casual — the Logassa, recited in this very pratikramaṇa, salutes the Tīrthaṅkaras as 'dhuya-raya-malā' (those who have shaken off the dust and dirt of karma). v.3 compresses that whole soteriology into a single epithet appended to a hymn of praise.",
+    "practicalRelevance": "Reciting the fourfold bhaddaṁ, the practitioner is not merely flattering Mahāvīra but naming a goal: the 'dust' he shook off is the same karmic dust the reciter has come to confess and shed in pratikramaṇa. Pronouncing 'dhūya-rayassa' is a quiet aspiration — may my own soul be likewise swept clean — and a reminder that veneration (epithets 1–3) without the inner work (epithet 4) misses the point.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava): 'dhuya-raya-malā pahīṇa-jara-maraṇā' — the Tīrthaṅkaras who have shaken off the dust and dirt of karma; same dhūta-rajas epithet, recited in this pratikramaṇa",
+        "source": "Āvaśyaka-sūtra / Logassa, as printed in Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Nandī-sūtra, opening maṅgala stuti of Mahāvīra (source of this gāthā)",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ratnachandraji, An Illustrated Ardha-Magadhi Dictionary (Sacitra Arddha-Māgadhī Kosha)",
+      "url": "https://openlibrary.org/books/OL2164387M/An_illustrated_Ardha-Magadhi_dictionary",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for ujjoyaga (illuminator), dhūya/dhūta (shaken off), raya/rajas (dust), and namaṁsiya (saluted)"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and roots: ud-√dyut/uddyotaka, dhūta (√dhū), rajas, √nam/namasya, sura, asura, jina (√ji), vīra, bhadra"
+    },
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening maṅgala-stuti of Mahāvīra, the source of this gāthā"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "All four bhaddaṁ-clauses take the genitive ('auspiciousness to X'), a benedictive idiom; rendered as 'to/of'. The book's long ū in ધૂય (dhūya) is preserved verbatim per the orthography rules; some recensions read dhuya (short u). surāsura is a dvandva (sura+asura) with a+a→ā sandhi. namaṁsiya is read as a past-passive epithet (namasita, 'bowed-to'); a denominative reading (namasya, 'to be revered') yields the same sense. dhūya-raya is the same karmic-dust metaphor attested in Logassa's 'dhuya-raya-malā'. No variant footnote for this gāthā was supplied with the inputs; wording follows the verse as given."
+}

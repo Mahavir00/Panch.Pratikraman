@@ -1,0 +1,43 @@
+{
+  "name": "panch-pratikraman-website",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A reverent, three-language (English/Gujarati/Hindi) website presenting the Pancha Pratikramana sutras of the Achhalgach (Vidhipaksha) Jain tradition.",
+  "scripts": {
+    "predev": "npm run sync-data",
+    "dev": "vite",
+    "start": "npm run dev",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "sync-data": "node scripts/sync-data.mjs",
+    "sync-data:watch": "node scripts/sync-data.mjs --watch",
+    "validate": "node scripts/validate-data.mjs",
+    "predeploy": "npm run sync-data && npm run build",
+    "deploy": "gh-pages -d dist -t true"
+  },
+  "dependencies": {
+    "@fontsource/eb-garamond": "^5.1.0",
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/noto-sans-devanagari": "^5.1.0",
+    "@fontsource/noto-sans-gujarati": "^5.1.0",
+    "@fontsource/noto-serif-devanagari": "^5.1.0",
+    "@fontsource/noto-serif-gujarati": "^5.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.26.2",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.8"
+  }
+}

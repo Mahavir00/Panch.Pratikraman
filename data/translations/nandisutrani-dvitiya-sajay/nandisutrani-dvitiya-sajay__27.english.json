@@ -1,0 +1,164 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/27",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The roll of teachers is now finished, and the verse lists the five kinds of knowledge: sense-knowledge, scripture-knowledge, clairvoyance, mind-reading, and omniscience.",
+  "recitation": "therāvalīyā sammattā. ābhiṇibohiya ṇāṇaṁ, suya-ṇāṇaṁ ceva ohi-ṇāṇaṁ ca; taha maṇa-pajjava ṇāṇaṁ, kevala-ṇāṇaṁ ca pañcamayaṁ.",
+  "wordByWord": [
+    {
+      "token": "થેરાવલીયા",
+      "translit": "therāvalīyā",
+      "gloss": "the Sthavirāvalī (the lineage-roll of elders)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit therāvalī (< Skt. sthavira-āvalī, 'a row/chain of elders') + nominative ending -yā",
+      "notes": "Subject of sammattā; refers back to the whole preceding teacher-succession just recited."
+    },
+    {
+      "token": "સમ્મત્તા",
+      "translit": "sammattā",
+      "gloss": "is concluded / completed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sammatta < Skt. samāptā (past participle of sam-āp, 'to be finished'), fem. agreeing with therāvalīyā",
+      "notes": "A colophon-like marker closing the lineage section; do not confuse with samyaktva ('sammatta' = right faith), a homonym not meant here."
+    },
+    {
+      "token": "આભિણિબોહિય",
+      "translit": "ābhiṇibohiya",
+      "gloss": "abhinibodhika (perceptual/sense-and-mind knowledge, i.e. mati-jñāna)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit < Skt. ābhinibodhika, from abhi- ('towards, fully') + ni- ('into') + √budh ('to cognize') + -ika; 'that which yields direct comprehension'",
+      "notes": "The canonical Nandī term for mati-jñāna; the long initial ā- is the book's reading."
+    },
+    {
+      "token": "નાણં",
+      "translit": "ṇāṇaṁ",
+      "gloss": "knowledge (jñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇa < Skt. jñāna (√jñā, 'to know'); nom./acc. sg. -aṁ",
+      "notes": "First of four occurrences of the head-word ṇāṇaṁ, one per knowledge-type named here."
+    },
+    {
+      "token": "સુયનાણં",
+      "translit": "suya-ṇāṇaṁ",
+      "gloss": "śruta-jñāna (scriptural / heard knowledge)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit suya < Skt. śruta ('heard'; √śru) + ṇāṇaṁ (jñāna)",
+      "notes": "The one jñāna that is verbal and transmissible — fittingly named just after honouring the lineage that transmitted it."
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed / and also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ceva < Skt. ca eva (ca 'and' + eva, emphatic 'verily'), sandhi-fused",
+      "notes": "Conjunctive-emphatic, linking śruta to the next item; metrical filler that also stresses inclusion."
+    },
+    {
+      "token": "ઓહિનાણં",
+      "translit": "ohi-ṇāṇaṁ",
+      "gloss": "avadhi-jñāna (clairvoyance; direct knowledge of material things within limits)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ohi < Skt. avadhi ('limit, range') + ṇāṇaṁ (jñāna)",
+      "notes": "First of the three 'direct' (pratyakṣa) knowledges."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt. ca, copulative conjunction",
+      "notes": "Joins avadhi into the list."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise / thus",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt. tathā ('so, likewise')",
+      "notes": "Opens the second half-line, carrying the enumeration forward to items four and five."
+    },
+    {
+      "token": "મણપજ્જવ",
+      "translit": "maṇa-pajjava",
+      "gloss": "manaḥparyaya (knowledge of others' mental states; telepathy)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit maṇa (< Skt. manas, 'mind') + pajjava (< Skt. paryaya/paryava, 'modes, transformations')",
+      "notes": "The variant manaḥparyāya/manaḥparyava is well attested; the form here qualifies the following ṇāṇaṁ."
+    },
+    {
+      "token": "નાણં",
+      "translit": "ṇāṇaṁ",
+      "gloss": "knowledge (jñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇa < Skt. jñāna; here qualified by maṇa-pajjava",
+      "notes": "Repeated head-word, here completing manaḥparyaya-jñāna."
+    },
+    {
+      "token": "કેવલનાણં",
+      "translit": "kevala-ṇāṇaṁ",
+      "gloss": "kevala-jñāna (absolute, omniscient knowledge)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kevala < Skt. kevala ('sole, pure, absolute') + ṇāṇaṁ (jñāna)",
+      "notes": "The perfect, unaided omniscience of the Arhats/Tīrthaṅkaras; the summit of the list."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt. ca, copulative conjunction",
+      "notes": "Final connective before the ordinal that closes the count."
+    },
+    {
+      "token": "પંચમયં",
+      "translit": "pañcamayaṁ",
+      "gloss": "the fifth (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. pañcama ('fifth', from pañca 'five') + -ka/-aṁ; ordinal in nom./acc. sg.",
+      "notes": "Marks kevala as item number five, sealing the canonical fivefold scheme."
+    }
+  ],
+  "literalTranslation": "The roll of elders is concluded. Abhinibodhika-knowledge (mati), and śruta-knowledge, and avadhi-knowledge; likewise manaḥparyaya-knowledge, and kevala-knowledge — the fifth.",
+  "idiomaticTranslation": "Here the lineage of the elders comes to its close. Now hear the five knowledges: the insight of mind and sense, the knowledge born of scripture, the far-seeing clairvoyance; and so too the knowing of others' thoughts, and, as the fifth, the boundless omniscience of the perfected.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is a hinge. Its first half-line, 'therāvalīyā sammattā', is a structural seal: the entire teacher-succession just recited is formally declared finished, and the poet pivots from honouring those who guarded the canon to naming what the canon is about. The previous verse had promised 'nāṇassa parūvaṇaṁ vucchaṁ' ('I shall expound knowledge'); this verse delivers the promised list. The five are given in their fixed canonical sequence: ābhiṇibohiya (mati), suya (śruta), ohi (avadhi), maṇa-pajjava (manaḥparyaya), and kevala — with the head-word ṇāṇaṁ repeated to stamp each as a genuine mode of jñāna, and the closing ordinal 'pañcamayaṁ' fixing kevala as the crown. The ordering is not random: it climbs from the most common and mediated (sense-and-scripture knowledge, shared by ordinary beings) through the extraordinary direct cognitions (avadhi, manaḥparyaya) to the absolute (kevala). Note the elegance of the placement: śruta-jñāna — the only transmissible, word-borne knowledge — is named immediately after a hymn celebrating the very vācaka-vaṁśa that carried śruta down the generations. The lineage just praised existed precisely to preserve item two of this list. Thus the verse fuses devotion and doctrine: having bowed to the guardians, the reciter now beholds the treasure guarded.",
+    "doctrinalContext": "These five jñānas are the cornerstone of Jain epistemology, also enumerated at Tattvārtha-sūtra I.9 ('mati-śruta-avadhi-manaḥparyaya-kevalāni jñānam'). The standard classification divides them into parokṣa (indirect) — mati and śruta, which depend on senses, mind, and words — and pratyakṣa (direct) — avadhi, manaḥparyaya, and kevala, which the soul grasps without sensory mediation. Mati and śruta can be right or wrong (turning to ajñāna in a mithyādṛṣṭi); avadhi and manaḥparyaya belong to advanced souls; kevala-jñāna is the infinite, faultless omniscience that arises only on the destruction of all knowledge-obscuring (jñānāvaraṇīya) karma, marking kevalin-hood. By closing the lineage-roll on this enumeration, the sutra frames the whole Nandī as a treatise on jñāna — the lineage preserved the teaching, and the teaching is, at root, the analysis of knowing itself.",
+    "practicalRelevance": "For the reciter, the verse reorients the Pakkhī study-portion from remembering people to contemplating the soul's own faculty of knowing. Chanting the five in order is a compact meditation on a graded path: cultivate disciplined mati and śruta now — study, listen, retain — while revering avadhi, manaḥparyaya, and kevala as the soul's latent capacities, uncovered only as karma thins. It quietly reminds the lay practitioner that the scriptural (śruta) knowledge he is at that moment exercising is itself one rung of a five-rung ladder whose summit is omniscience.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra I.9–33 (five jñānas and their subdivisions)",
+        "source": "Umāsvāti; cf. Vijay K. Jain ed., and Wisdom Library commentary"
+      },
+      {
+        "text": "Nandī-sūtra, opening exposition of pañca-jñāna (abhinibodhika etc.)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction"
+      },
+      {
+        "text": "Preceding verse 26: 'nāṇassa parūvaṇaṁ vucchaṁ' (announcement this verse fulfils)",
+        "source": "Nandī-sūtra Dvitīya Sajjhāy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Abhinibodhika — definition (Jainism / Nandīsūtra)",
+      "url": "https://www.wisdomlib.org/definition/abhinibodhika",
+      "type": "dictionary",
+      "consultedFor": "Confirming ābhiṇibohiya = abhinibodhika = mati as the first of the five Nandī-sūtra jñānas, and its Prakrit/Sanskrit forms and etymology."
+    },
+    {
+      "title": "Tattvārtha Sūtra, Chapter 1 (Right Faith and Knowledge) — I.9",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084583.html",
+      "type": "commentary",
+      "consultedFor": "The canonical fivefold jñāna list and the parokṣa/pratyakṣa division underlying the verse's ordering."
+    },
+    {
+      "title": "Tattvartha Sutra — Book Summary (five types of knowledge)",
+      "url": "https://jaingpt.org/knowledge/tattvartha_sutra_003426_003426",
+      "type": "translation",
+      "consultedFor": "Cross-checking the English equivalents (sensory, scriptural, clairvoyance, telepathy, omniscience) for mati/śruta/avadhi/manaḥparyaya/kevala."
+    }
+  ],
+  "translatorConfidence": 0.93,
+  "notes": "Verse text followed verbatim from the book, including the long initial ā- in 'આભિણિબોહિય' and the spelling 'સમ્મત્તા'. 'sammattā' here = Skt. samāptā ('concluded'), NOT samyaktva ('right faith'); the homonymy is a known reading-trap, flagged for safety. 'maṇa-pajjava' reflects the manaḥparyaya/manaḥparyava variant pair (both attested; sense identical). The danda '।' and final period are book punctuation, not lexical tokens, so they are not glossed. 'pañcamayaṁ' is read as the ordinal 'the fifth' (pañcama + -ka); some manuscripts have 'pañcama(ya)ṁ' metri causa. The first preface source URL is an internal corpus path and is therefore not cited among the verifiable web sources above."
+}

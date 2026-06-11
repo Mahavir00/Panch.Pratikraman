@@ -1,0 +1,190 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/16",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "આત્મબળમાં, શરીરબળમાં અને તપ-સંયમમાં—દરેક રીતે સદા અજેય એવા અજિતનાથ ભગવાનને હું ભાવથી સ્તવું છું.",
+  "recitation": "સત્તે અ સયા અજિઅં, સારીરે અ બલે અજિઅં । તવ સંજમે અ અજિઅં, એસ અહં થુણામિ જિણં અજિઅં ॥",
+  "wordByWord": [
+    {
+      "token": "સત્તે",
+      "translit": "satte",
+      "gloss": "સત્ત્વ(આત્મબળ/ધૈર્ય)માં",
+      "partOfSpeech": "noun",
+      "etymology": "સં. sattva > પ્રા. satta; સપ્તમી એકવચન",
+      "notes": "આત્માનું વીર્ય/અંતઃસામર્થ્ય"
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "સં. ca > પ્રા. a (સંયોજક અવ્યય)",
+      "notes": ""
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "સદા, હંમેશાં",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. sadā > પ્રા. sayā",
+      "notes": ""
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "અજિત, અજેય",
+      "partOfSpeech": "adj",
+      "etymology": "સં. ajita (a + √ji 'જીતવું') > પ્રા. ajia",
+      "notes": "અહીં ગુણવાચક—'જે જિતાયા નથી'"
+    },
+    {
+      "token": "સારીરે",
+      "translit": "sārīre",
+      "gloss": "શરીરમાં, દેહ-સંબંધે",
+      "partOfSpeech": "adj",
+      "etymology": "સં. śārīra (< śarīra) > પ્રા. sārīra; સપ્તમી એકવચન",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "સં. ca > પ્રા. a",
+      "notes": ""
+    },
+    {
+      "token": "બલે",
+      "translit": "bale",
+      "gloss": "બળમાં, શક્તિમાં",
+      "partOfSpeech": "noun",
+      "etymology": "સં. bala > પ્રા. bala; સપ્તમી એકવચન",
+      "notes": "બાહુબળ/દેહબળ"
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "અજિત, અજેય",
+      "partOfSpeech": "adj",
+      "etymology": "સં. ajita > પ્રા. ajia",
+      "notes": ""
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "તપમાં",
+      "partOfSpeech": "noun",
+      "etymology": "સં. tapas > પ્રા. tava; સપ્તમી એકવચન",
+      "notes": "અહીં 'તવ' = તપ; સંસ્કૃત 'તવ' (=તારું) નહીં"
+    },
+    {
+      "token": "સંજમે",
+      "translit": "saṁjame",
+      "gloss": "સંયમમાં",
+      "partOfSpeech": "noun",
+      "etymology": "સં. saṁyama > પ્રા. saṁjama; સપ્તમી એકવચન",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "સં. ca > પ્રા. a",
+      "notes": ""
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "અજિત, અજેય",
+      "partOfSpeech": "adj",
+      "etymology": "સં. ajita > પ્રા. ajia",
+      "notes": ""
+    },
+    {
+      "token": "એસ",
+      "translit": "esa",
+      "gloss": "આ, એ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. eṣa > પ્રા. esa (નિર્દેશક સર્વનામ)",
+      "notes": ""
+    },
+    {
+      "token": "અહં",
+      "translit": "ahaṁ",
+      "gloss": "હું",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. aham > પ્રા. ahaṁ",
+      "notes": "સ્તુતિ-કર્તાનો સ્પષ્ટ સંકલ્પ"
+    },
+    {
+      "token": "થુણામિ",
+      "translit": "thuṇāmi",
+      "gloss": "સ્તવું છું, સ્તુતિ કરું છું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √stu (staumi/stunāmi) > પ્રા. thuṇa-; ઉત્તમ પુરુષ એકવચન વર્તમાન",
+      "notes": ""
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "જિનને (રાગ-દ્વેષ-જેતા)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. jina (√ji) > પ્રા. jiṇa; દ્વિતીયા એકવચન",
+      "notes": ""
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "અજિતનાથ(ને)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. ajita > પ્રા. ajia; અહીં બીજા તીર્થંકરનું નામ",
+      "notes": "ગુણવાચક 'અજિત' અહીં નામ-વાચક સંજ્ઞા બને છે"
+    }
+  ],
+  "literalTranslation": "સત્ત્વ(આત્મબળ)માં સદા અજિત, શરીરમાં અને બળમાં અજિત, તપમાં અને સંયમમાં (પણ) અજિત—એ આ જિનને, અજિતને, હું સ્તવું છું.",
+  "idiomaticTranslation": "આત્માના સત્ત્વમાં તેઓ સદાકાળ અજેય છે, શરીર અને બળમાં અજેય છે, તપ અને સંયમમાં પણ અજેય છે—એવા આ અપરાજિત જિન અજિતનાથને હું વંદનાપૂર્વક સ્તવું છું.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ ગાથા ચાર ક્ષેત્રોમાં જિનની અજેયતા ગણાવતી લયબદ્ધ માલા છે, અને દરેક ચરણને 'અજિઅં' શબ્દથી મુદ્રિત કરી અંતે એ જ શબ્દ ભગવાનનું નામ—અજિત—બની જાય છે. પ્રથમ 'સત્તે અ સયા અજિઅં'—સત્ત્વ એટલે આત્માનું વીર્ય ને ધૈર્ય; એમાં તેઓ 'સદા' અજિત છે, ક્ષણિક નહીં પણ સતત. પછી 'સારીરે અ બલે'—શરીર અને બાહુબળ; ક્ષત્રિય-તીર્થંકર હોવાથી દેહબળમાં પણ અપરાજિત. અંતે 'તવ સંજમે'—તપ અને સંયમ, જે સાધનાનું હાર્દ છે; ત્યાં પણ કોઈ એમને હરાવી ન શકે. આમ અંતઃકરણ (સત્ત્વ), દેહ (બલ) અને સાધના (તપ-સંયમ)—ત્રણેય સ્તરે અજેયતા દર્શાવી, કવિ 'એસ અહં થુણામિ જિણં અજિઅં' કહી પોતાનો સ્તુતિ-સંકલ્પ ('અહં થુણામિ') સ્પષ્ટ ઉચ્ચારે છે. પુનરાવર્તિત 'અજિઅં' ગુણ-વાચક વિશેષણથી ધીમે ધીમે નામ-વાચક સંજ્ઞામાં સરકી, ગુણ અને નામ એક થઈ જાય—એ આ ગાથાની વિશેષ ચમત્કૃતિ છે.",
+    "doctrinalContext": "જૈન દૃષ્ટિએ 'અજિત' હોવું એટલે કેવળ બાહ્ય શત્રુ પર નહીં, પણ રાગ-દ્વેષ-કષાય જેવા આંતર-શત્રુ પર વિજય. આ ગાથા એ વિજયને ત્રણ ક્ષેત્રે વિસ્તારે છે: સત્ત્વ (આત્મ-વીર્ય), બલ (દેહ-શક્તિ) અને તપ-સંયમ (ચારિત્ર). વીર્ય—આત્માની અનંત શક્તિ—વીર્યાંતરાય કર્મના ક્ષયથી પ્રગટે છે; તીર્થંકરમાં તે પૂર્ણ હોવાથી તેઓ કોઈ પણ પરિષહ કે ઉપસર્ગથી 'અજિત' રહે. તપ અને સંયમ—જે કર્મ-નિર્જરા તથા સંવરનાં મુખ્ય સાધન છે—માં અજેયતા સૂચવે છે કે તેમની સાધના નિષ્કંપ ને અસ્ખલિત હતી. આમ ગાથા તીર્થંકરની અજેયતાને માત્ર શારીરિક નહીં, પણ આધ્યાત્મિક પૂર્ણતા તરીકે સ્થાપે છે.",
+    "practicalRelevance": "સાધક આ ગાથા બોલતાં પોતાનામાં પણ ત્રિવિધ અજેયતાનો સંકલ્પ ભાવે: મન-સત્ત્વમાં અડગ રહેવું, શરીરની દુર્બળતા આડે ન આવવા દેવી, અને તપ-સંયમમાં ડગમગ ન થવું. પુનરાવર્તિત 'અજિઅં' જપ-સદૃશ લય આપે છે, જે ચિત્તને એકાગ્ર કરી ભય કે પરિષહ સામે મનોબળ દૃઢ કરે—જે આ સ્તવને રક્ષાત્મક સ્મરણ બનાવે છે.",
+    "crossReferences": [
+      {
+        "text": "નમો અજિય સંતિણં (અજિતશાંતિ સ્તવ, ગાથા ૩)",
+        "source": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (અંચલગચ્છ/વિધિપક્ષ આવૃત્તિ)"
+      },
+      {
+        "text": "લોગસ્સ—બીજા તીર્થંકર અજિતનાથની 'અજિઅં ચ વંદે' રૂપે સ્તુતિ",
+        "source": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "ajita, jina (√ji), sattva, bala, tapas, saṁyama, √stu નાં મૂળ-અર્થ"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Hindi Dictionary), H. T. Sheth — Internet Archive",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "પ્રાકૃત રૂપો thuṇai/thuṇāmi, ajia, jiṇa, esa નાં ગ્લોસ"
+    },
+    {
+      "title": "Prakrit Dictionary (English translation of Pāia-Sadda-Mahaṇṇavo), ISJS",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "પ્રાકૃત સપ્તમી/સંયોજક 'a', tava=tapas અને sayā=sadā ની ચકાસણી"
+    },
+    {
+      "title": "Ajita — definitions (Jainism section), Wisdomlib",
+      "url": "https://www.wisdomlib.org/definition/ajita",
+      "type": "scholarship",
+      "consultedFor": "'અજિત' = બીજા તીર્થંકર તથા 'અપરાજિત' અર્થની પુષ્ટિ"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "'તવ' અહીં 'તપસ્' (તપ)નું પ્રાકૃત રૂપ છે, સંસ્કૃત 'તવ' (=તારું) નહીં—સંદર્ભ સ્પષ્ટ કરે છે. 'સત્તે'ને કેટલાક 'સત્ત્વ' (આત્મબળ/ધૈર્ય) તો કેટલાક 'સત્/સત્ય'ના અર્થમાં લે છે; અહીં સત્ત્વ-અર્થ સ્વીકાર્યો છે. પુનરાવર્તિત 'અજિઅં' છેલ્લે ભગવાનનું નામ 'અજિત' બને છે—ગુણ-નામ શ્લેષ. પાઠ-ભેદે માત્રા/અનુસ્વારમાં થોડો ફેર સંભવ; પુસ્તક-પાઠ વેરિએટિમ રાખ્યો છે."
+}

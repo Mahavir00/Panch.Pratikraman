@@ -1,0 +1,144 @@
+{
+  "shlokaId": "muni-vandana/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I honour every true Jain monk anywhere in the inhabited world — all who carry the ascetic's woollen broom, cloth-tuft and alms-bowl.",
+  "recitation": "aḍhāijjesu dīva-samuddesu, pannarasasu kammabhūmisu; jāvanta kevi sāhū, rayaharaṇa guccha paḍiggaha dhārā",
+  "wordByWord": [
+    {
+      "token": "અઢાઇજેસુ",
+      "translit": "aḍhāijjesu",
+      "gloss": "in the two-and-a-half (continents)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aḍhāī ('two-and-a-half') + locative plural -esu; cf. aḍhāī-dvīpa, the two-and-a-half continents (glossary).",
+      "notes": "Locative plural agreeing with dīva-samuddesu; sets the outer geographic bound of the homage."
+    },
+    {
+      "token": "દીવ",
+      "translit": "dīva",
+      "gloss": "islands/continents",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dīva < Sanskrit dvīpa ('island, continent'); stem-form in the compound dīva-samuddesu.",
+      "notes": "Jambūdvīpa, Dhātakīkhaṇḍa and half of Puṣkaravara are intended."
+    },
+    {
+      "token": "સમુદ્દેસુ",
+      "translit": "samuddesu",
+      "gloss": "in the oceans",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samudda < Sanskrit samudra ('ocean') + locative plural -esu.",
+      "notes": "Forms a dvandva with dīva: 'in the continents-and-oceans' of the aḍhāī-dvīpa region."
+    },
+    {
+      "token": "પન્નરસસુ",
+      "translit": "pannarasasu",
+      "gloss": "in the fifteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pannarasa < Sanskrit pañcadaśa ('fifteen') + locative plural -su.",
+      "notes": "Numeral qualifying kammabhūmisu."
+    },
+    {
+      "token": "કમ્મભૂમિસુ",
+      "translit": "kammabhūmisu",
+      "gloss": "in the karma-lands (lands of action)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kamma < Sanskrit karma ('action') + bhūmi ('land') + locative plural -su; cf. karmabhūmi (glossary).",
+      "notes": "The fifteen lands (5 Bharata, 5 Airāvata, 5 Mahāvideha) where ascetic life and liberation are possible (Tattvārtha-sūtra 3.37)."
+    },
+    {
+      "token": "જાવંત",
+      "translit": "jāvanta",
+      "gloss": "as many as there are; however many",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jāvanta < Sanskrit yāvantaḥ ('as many as'); correlative quantifier.",
+      "notes": "Universalising: 'all who exist,' without number or name."
+    },
+    {
+      "token": "કેવિ",
+      "translit": "kevi",
+      "gloss": "any whatsoever; whoever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit ke vi < Sanskrit ke api ('any, some, whosoever').",
+      "notes": "Paired with jāvanta to mean 'whosoever they may be' — unconditional inclusion."
+    },
+    {
+      "token": "સાહૂ",
+      "translit": "sāhū",
+      "gloss": "monks (sādhus)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāhū < Sanskrit sādhu ('ascetic, holy one'); nominative plural.",
+      "notes": "The object of the homage; defined here as a class, not as named individuals."
+    },
+    {
+      "token": "રયહરણ",
+      "translit": "rayaharaṇa",
+      "gloss": "woollen broom (rajoharaṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaharaṇa < Sanskrit rajo-haraṇa, 'dust-remover' (rajas + haraṇa); attested as the Jain ascetic's implement (Monier-Williams).",
+      "notes": "First of the three emblems; stem-form heading the bahuvrīhi closed by dhārā."
+    },
+    {
+      "token": "ગુચ્છ",
+      "translit": "guccha",
+      "gloss": "cloth-tuft / whisk",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit guccha ('tuft, cluster, bunch').",
+      "notes": "Second emblem; the cloth-tuft among monastic implements (preface glossary)."
+    },
+    {
+      "token": "પડિગ્ગહ",
+      "translit": "paḍiggaha",
+      "gloss": "alms-bowl",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍiggaha < Sanskrit pratigraha ('receptacle, that which receives'); cf. Pali paṭiggaha, 'receptacle'.",
+      "notes": "Third emblem; the bowl into which alms are received."
+    },
+    {
+      "token": "ધારા",
+      "translit": "dhārā",
+      "gloss": "bearers; those who hold",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dhāra < Sanskrit dhāra ('bearing, holding'), from √dhṛ; nominative plural agreeing with sāhū.",
+      "notes": "Closes the compound rayaharaṇa-guccha-paḍiggaha-dhārā, 'bearers of broom, tuft and bowl.'"
+    }
+  ],
+  "literalTranslation": "In the two-and-a-half continents and oceans, in the fifteen karma-lands — as many monks as there are, whosoever they be, bearers of the woollen broom, the cloth-tuft and the alms-bowl…",
+  "idiomaticTranslation": "Throughout the two-and-a-half continents with their oceans, across all fifteen lands of action, every single true monk there may be — each one bearing the ascetic's broom, cloth-tuft and alms-bowl…",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening gāthā is grammatically a suspended sentence: it gathers the object of the homage but withholds the verb, which arrives only in the following verse as 'te savve… vandāmi' ('all of them I salute'). Read the two gāthās as one breath. The first line fixes the cosmic boundary — the aḍhāī-dvīpa and its fifteen karmabhūmis — because precisely there, and nowhere else, can the ascetic life be lived; the homage is therefore as wide as the world in which a muni can exist, yet no wider than reality. The second line then refuses every limit of identity: jāvanta kevi sāhū, 'as many monks as there are, whosoever they may be.' No name, no gaccha, no sect, no living-or-recently-departed distinction is admitted — the reciter bows to the office of the monk wherever it is genuinely held. The single qualifier is the triad rayaharaṇa-guccha-paḍiggaha-dhārā: the broom, the cloth-tuft and the bowl are not décor but the working liṅga (outward sign) of true renunciation — the broom for ahiṁsā in every movement, the bowl for a life of dependence on alms, the tuft for the disciplined handling of implements. Where these marks are truly borne, a sādhu is to be found and venerated. The verse thus tunes the reciter's reverence to the ideal itself before, later in the sūtra, it narrows to the specific paṭṭāvalī of one's own lineage.",
+    "doctrinalContext": "The geography is doctrinal, not decorative: per Tattvārtha-sūtra 3.37, the karmabhūmis are the regions where the six occupations and, crucially, mokṣa-directed effort (caritra, tapas) are possible — so the salutation's reach exactly matches the field of possible sainthood. The emblems encode the muni's vows in objects: the rajoharaṇa is ahiṁsā made portable, the paḍiggaha is aparigraha and alms-dependence made visible. By honouring 'whoever bears these marks,' the verse enacts bhāva-vandanā to the ascetic ideal rather than dravya-vandanā to a person, guarding the homage against partiality.",
+    "practicalRelevance": "Recited at dusk, this verse asks the lay practitioner to widen the heart past family, teacher and sect to revere genuine renunciation wherever it appears — and to measure a monk by the quiet marks of conduct, not by fame or affiliation. It seeds the day's reflection with humility before the ascetic ideal one has not yet attained.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 3.37 (the fifteen karmabhūmis)",
+        "source": "Umāsvāti; as cited via wisdomlib.org"
+      },
+      {
+        "text": "Following gāthā 'te savve sirasā maṇasā matthaeṇa vandāmi' (the completing verb of this salutation)",
+        "source": "Pañca Pratikramaṇa Sūtra (Vidhipakṣa ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Karmabhūmi — definitions (incl. Tattvārtha-sūtra 3.37; fifteen regions in the two-and-half continents)",
+      "url": "https://www.wisdomlib.org/definition/karmabhumi",
+      "type": "dictionary",
+      "consultedFor": "Doctrinal sense and count of karmabhūmi; confirmation that the 15 lands of action lie within the aḍhāī-dvīpa."
+    },
+    {
+      "title": "Rajoharana — Sanskrit/Prakrit lexicon entries (Monier-Williams; epigraphical glossary)",
+      "url": "https://www.wisdomlib.org/definition/rajoharana",
+      "type": "dictionary",
+      "consultedFor": "Etymology rajas+haraṇa ('dust-remover'); Jain usage and Ardhamāgadhī form rayoharaṇa for the ascetic's broom."
+    },
+    {
+      "title": "Paṭiggaha — Pali/Prakrit lexicon entries (PTS dictionary; Prakrit paḍiggaha)",
+      "url": "https://www.wisdomlib.org/definition/patiggaha",
+      "type": "dictionary",
+      "consultedFor": "Sense 'receptacle/that which receives' (< pratigraha) supporting the gloss 'alms-bowl' for paḍiggaha."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The main verb of the salutation (vandāmi) is not in this verse; it appears in the following gāthā, so this verse is best read as the protasis whose apodosis is 'te savve… vandāmi.' 'guccha' is glossed conservatively as cloth-tuft/whisk per the preface; its exact referent varies across commentaries (some read it as the cluster/binding of the rajoharaṇa). 'dīva-samuddesu' is treated as a dvandva ('continents-and-oceans'). Book spellings are preserved verbatim (e.g. અઢાઇજેસુ, રયહરણ, પડિગ્ગહ); IAST glosses are normalised for clarity and may differ from the source mātrās. Per-token POS uses the stable English enum as instructed."
+}

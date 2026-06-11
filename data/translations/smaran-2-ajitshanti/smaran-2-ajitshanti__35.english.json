@@ -1,0 +1,176 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/35",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In this way I have sung the vast power of Ajita and Śānti, the two Jinas who, freed of all karmic dust, have reached the eternal, boundless state of liberation.",
+  "recitation": "evaṁ tava bala viulaṁ, thuaṁ mae ajia saṁti jiṇajualaṁ; vavagaya kammaraya malaṁ, gaī gayaṁ sāsayaṁ viulaṁ.",
+  "wordByWord": [
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "From Skt. evam (deictic particle), unchanged in Prakrit.",
+      "notes": "Points back over the whole hymn: 'in the manner just shown.'"
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "your (of you two)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive of Skt. tvam → Pkt. tava/tuha; here governing 'bala.'",
+      "notes": "Addressed to the Jina-pair; see notes for a possible secondary echo of tapa (austerity)."
+    },
+    {
+      "token": "બલ",
+      "translit": "bala",
+      "gloss": "power, strength, might",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bala 'strength'; retained as bala in Prakrit.",
+      "notes": "The spiritual might by which the Jinas remained 'Ajita' (unconquered) over karma."
+    },
+    {
+      "token": "વિઉલં",
+      "translit": "viulaṁ",
+      "gloss": "vast, abundant, extensive",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. viula < Skt. vipula 'wide, great' (-p- elided intervocalically).",
+      "notes": "Accusative, qualifying bala; deliberately echoed at the verse's close."
+    },
+    {
+      "token": "થુઅં",
+      "translit": "thuaṁ",
+      "gloss": "praised, hymned",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle, Pkt. thua < Skt. stuta (√stu 'to praise').",
+      "notes": "Passive: '(has been) praised'; subject is bala, agent mae."
+    },
+    {
+      "token": "મએ",
+      "translit": "mae",
+      "gloss": "by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Instrumental, Pkt. mae < Skt. mayā (asmad).",
+      "notes": "The poet/reciter as agent of the completed praise."
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita (the Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. ajia < Skt. ajita 'unconquered.'",
+      "notes": "First member of the twin-name compound that follows."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti (the Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. saṁti < Skt. śānti 'peace.'",
+      "notes": "Paired with Ajita as the dual object of address."
+    },
+    {
+      "token": "જિણજુઅલં",
+      "translit": "jiṇajualaṁ",
+      "gloss": "the pair of Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (< Skt. jina) + juala (< Skt. yugala 'pair'), accusative -aṁ.",
+      "notes": "'Ajia saṁti jiṇajualaṁ' = the Jina-couple Ajita-and-Śānti."
+    },
+    {
+      "token": "વવગય",
+      "translit": "vavagaya",
+      "gloss": "removed, wholly gone away",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. vavagaya < Skt. vyapagata (vi-apa-√gam 'to depart utterly').",
+      "notes": "First member of a bahuvrīhi describing the Jinas."
+    },
+    {
+      "token": "કમ્મરય",
+      "translit": "kammaraya",
+      "gloss": "karmic dust",
+      "partOfSpeech": "compound",
+      "etymology": "kamma (< Skt. karman) + raya (< Skt. rajas 'dust, pollen').",
+      "notes": "Karma imaged as fine settling dust on the soul."
+    },
+    {
+      "token": "મલં",
+      "translit": "malaṁ",
+      "gloss": "stain, impurity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mala 'dirt, taint'; retained in Prakrit.",
+      "notes": "Paired with raya: dust (loose) and stain (clinging) — the whole defilement, now 'vavagaya.'"
+    },
+    {
+      "token": "ગઈ",
+      "translit": "gaī",
+      "gloss": "state, destiny, goal",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. gaī < Skt. gati (√gam) 'going, attained state.'",
+      "notes": "Here the supreme destiny — siddhi/mokṣa."
+    },
+    {
+      "token": "ગયં",
+      "translit": "gayaṁ",
+      "gloss": "gone (to), reached",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle, Pkt. gaya < Skt. gata (√gam).",
+      "notes": "'gaī gayaṁ' = 'gone to that state'; an accusative-of-goal construction."
+    },
+    {
+      "token": "સાસયં",
+      "translit": "sāsayaṁ",
+      "gloss": "eternal, everlasting",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāsaya < Skt. śāśvata 'perpetual.'",
+      "notes": "Qualifies gaī: a destiny never lost, never reversed."
+    },
+    {
+      "token": "વિઉલં",
+      "translit": "viulaṁ",
+      "gloss": "vast, boundless",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. viula < Skt. vipula 'wide, great.'",
+      "notes": "Closing echo of the verse-opening viulaṁ — framing the stanza."
+    }
+  ],
+  "literalTranslation": "Thus your vast power has been praised by me, O Ajita-and-Śānti Jina-pair — (you) whose karmic dust and stain are gone away, gone to the eternal, boundless state.",
+  "idiomaticTranslation": "And so, O Ajita and Śānti, you twin Jinas, I have hymned your boundless might — you in whom every speck of karmic dust and stain has fallen utterly away, who have passed into that eternal, limitless abode of liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is the seal of the praise proper: 'evaṁ … thuaṁ mae' — 'thus has it been hymned by me' — gathers up everything sung before and offers it back to the two Jinas. The poet does not praise an attribute here so much as close the account, naming exactly what he has been praising: 'bala viulaṁ,' their vast power. That power is then defined by its fruit in the second half — these are Jinas 'vavagaya-kammaraya-malaṁ,' their karmic dust and stain wholly departed, who have 'gone to the eternal, boundless state.' Note the poet's craftsmanship, which the hymn is celebrated for: 'viulaṁ' opens the verse (vast power) and closes it (vast state), binding strength to its result — the boundless might of austerity issues in a boundless, deathless destiny. The two metaphors 'raya' (loose dust) and 'mala' (clinging stain) together render karma's complete grip, so their joint removal signals nothing partial: total liberation. Coming just after v.34's prayer that the Jinas, 'their every sin shaken off by tapas,' be givers of the bliss of liberation, this verse answers by affirming that they themselves have already reached it — the surest ground for the petition. The address 'ajia saṁti jiṇajualaṁ' keeps the twin-praise intact to the very end, so that the conclusion, like the body of the hymn, asks for one invincible peace from the two together.",
+    "doctrinalContext": "The verse rests on the Jain understanding of karma as subtle material particles (karma-pudgala) that settle on and bind the soul; 'kammaraya-mala' images this as dust and taint. Their utter removal (vavagaya) is the destruction of the four ghātī and remaining karmas, yielding the soul's innate purity. The 'sāsaya viula gaī' is the siddha-gati / mokṣa: 'eternal' because, once attained, the liberated soul never returns to saṁsāra, and 'boundless' because the freed soul abides in infinite knowledge, perception, and bliss (ananta-catuṣṭaya). Naming the Jinas as ones who have already 'gone' to this state grounds the hymn's protective petitions in their accomplished omniscient liberation, not in mere hope.",
+    "practicalRelevance": "Reaching this verse, the reciter consciously offers the whole hymn as complete — 'thus I have praised you' — a moment to release the recitation rather than chase more words. Meditating on the twin 'viulaṁ' lets one hold a single thought: the same dust-and-stain of karma I confess in pratikramaṇa is exactly what these Jinas have shed, and the eternal state they reached is the goal of my own effort.",
+    "crossReferences": [
+      {
+        "text": "Logassa: 'siddhā siddhiṁ mama disantu' — the liberated, having reached siddhi, as the goal sought",
+        "source": "Caturviṁśati-stava (Āvaśyaka sūtra)"
+      },
+      {
+        "text": "Tattvārtha-sūtra ch.10 on mokṣa as the soul's release after the removal of all karma",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra 10.1–4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vipula, Vipulā: definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/vipula",
+      "type": "dictionary",
+      "consultedFor": "Verifying viula < vipula = 'vast, wide, extensive' for both 'bala viulaṁ' and 'gaī … viulaṁ.'"
+    },
+    {
+      "title": "Gati: definitions (Sanskrit, Buddhism, Jainism)",
+      "url": "https://www.wisdomlib.org/definition/gati",
+      "type": "dictionary",
+      "consultedFor": "Confirming gaī < gati as 'going / attained state / destiny,' read here as mokṣa-gati."
+    },
+    {
+      "title": "Yugala: definitions (Sanskrit, Pali)",
+      "url": "https://www.wisdomlib.org/definition/yugala",
+      "type": "dictionary",
+      "consultedFor": "Confirming juala < yugala = 'pair, couple' in 'jiṇajualaṁ' (the Jina-pair)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Book orthography preserved verbatim, including 'વિઉલં' (viulaṁ) occurring twice and the single-consonant Prakrit forms. 'તવ' is read as the genitive 'your' (of the Jina-pair) governing 'bala'; given the preceding verse's emphasis on tapas ('te taveṇa dhuya savva pāvayā'), some reciters may hear a secondary resonance of tapa-bala ('the power of austerity'), but the primary syntax is 'your vast power.' 'thuaṁ' is taken as passive past participle (stuta) agreeing with bala; 'gaī gayaṁ' is read as accusative-of-goal ('gone to the state'). The compound 'vavagaya-kammaraya-malaṁ' is parsed as a bahuvrīhi describing the Jinas. Verse-numbering follows the book's count (35 of 46)."
+}

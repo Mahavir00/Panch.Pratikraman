@@ -1,0 +1,152 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We reverently bow to three more elders of our teacher-line — Svāti and Śyāmārya, both of the Hārita clan, and Śāṇḍilya of the Kauśika clan, who faithfully kept the monastic discipline.",
+  "recitation": "hāriya guttaṁ sāiṁ ca, vandimo hāriyaṁ ca sāmajjaṁ | vande kosiya guttaṁ, saṇḍillaṁ ajja-jiya-dharaṁ ||",
+  "wordByWord": [
+    {
+      "token": "હારિય",
+      "translit": "hāriya",
+      "gloss": "of the Hārita (clan-line); belonging to the Hārita gotra",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit hāriya < Skt hārita, a gotra-name; here qualifying the elder Svāti.",
+      "notes": "Adjectival prefix to guttaṁ; marks Svāti's clan-lineage."
+    },
+    {
+      "token": "ગુત્તં",
+      "translit": "guttaṁ",
+      "gloss": "(the) gotra / clan-line (accusative, as object of homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gutta < Skt gotra; accusative -aṁ governed by the verb of bowing.",
+      "notes": ""
+    },
+    {
+      "token": "સાઇં",
+      "translit": "sāiṁ",
+      "gloss": "Svāti (the elder Svāti), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāi < Skt Svāti (also read Sāti), a personal name; acc. sāiṁ.",
+      "notes": "A sthavira of the Hārita gotra named in the succession-roll."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt/Prakrit ca, the standard connective.",
+      "notes": "Couples Svāti with the following Śyāmārya."
+    },
+    {
+      "token": "વંદિમો",
+      "translit": "vandimo",
+      "gloss": "we bow / we venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit 1st-person plural present of √vand (Skt vandāmahe); 'we offer homage'.",
+      "notes": "First-person PLURAL here, against the singular vande in the second line — a subtle widening from communal to personal homage."
+    },
+    {
+      "token": "હારિયં",
+      "translit": "hāriyaṁ",
+      "gloss": "the Hārita-gotra (one), accusative",
+      "partOfSpeech": "adj",
+      "etymology": "hāriya + acc. -aṁ; agreeing with sāmajjaṁ (Śyāmārya).",
+      "notes": "Repeats the Hārita marker, now for Śyāmārya — the two are clan-brothers in lineage."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt/Prakrit ca.",
+      "notes": ""
+    },
+    {
+      "token": "સામજજં",
+      "translit": "sāmajjaṁ",
+      "gloss": "Śyāmārya (Ārya Śyāma), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sāma (Skt Śyāma, the name) + ajja (Skt ārya, 'noble/elder'), sandhi-fused to sāmajja; acc. sāmajjaṁ.",
+      "notes": "Traditionally the Ārya Śyāma credited with the Prajñāpanā (Paṇṇavaṇā) Upāṅga; the verse fixes him in the Hārita gotra."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Skt/Prakrit 1st-person singular present of √vand.",
+      "notes": "Shifts to the SINGULAR — the reciter now speaks in his own voice."
+    },
+    {
+      "token": "કોસિય",
+      "translit": "kosiya",
+      "gloss": "of the Kauśika (clan-line)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kosiya < Skt Kauśika, a gotra-name; qualifying guttaṁ.",
+      "notes": "Shifts the clan-marker from Hārita to Kauśika for Śāṇḍilya."
+    },
+    {
+      "token": "ગુત્તં",
+      "translit": "guttaṁ",
+      "gloss": "(the) gotra / clan-line (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gutta < Skt gotra; acc. -aṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સંડિલ્લં",
+      "translit": "saṇḍillaṁ",
+      "gloss": "Śāṇḍilya (the elder Śāṇḍilya), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṇḍilla < Skt Śāṇḍilya; acc. saṇḍillaṁ.",
+      "notes": "A Kauśika-gotra sthavira; the name is also the Prakrit form behind 'Skandila', though the structural placement here is among the early gotra-named elders (see notes)."
+    },
+    {
+      "token": "અજ્જજિયધરં",
+      "translit": "ajjajiyadharaṁ",
+      "gloss": "the Ārya, upholder of the jīta (the settled/customary discipline), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "ajja (Skt ārya, 'noble elder') + jiya (Skt jīta, the 'won/established' customary observance, jīta-kalpa) + dhara (Skt dhara, 'holder, upholder'); acc. -aṁ.",
+      "notes": "Read here as an epithet of Śāṇḍilya — 'the noble keeper of the jīta'. Some take ajja-jiyadharaṁ as a distinct name, 'Ārya Jītadhara' (see notes)."
+    }
+  ],
+  "literalTranslation": "The Hārita-gotra Svāti — we bow; and the Hārita Śyāmārya we bow to. I bow to the Kauśika-gotra Śāṇḍilya, the noble upholder of the settled discipline (jīta).",
+  "idiomaticTranslation": "To Svāti of the Hārita line, and to Śyāmārya of that same Hārita clan, we bow our heads in homage; and I bow to Śāṇḍilya of the Kauśika line, that noble elder who held fast the settled rule of conduct.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse advances the roll-call by clan, pairing two Hārita-gotra elders before turning to a Kauśika one. First come Svāti and Śyāmārya, bracketed together by the twice-spoken 'hāriya'; the doubling is not redundancy but lineage-binding — it tells the reciter these two stand in one clan-stream of transmission. Śyāmārya (sāma + ajja) is the most luminous name here: the tradition remembers him as the master behind the Prajñāpanā, so a single accusative carries the weight of a whole Upāṅga preserved. Then the verse pivots on a grammatical hinge that rewards a close ear: the first line bows in the plural — 'vandimo', we bow — while the second drops to the singular 'vande', I bow. The communal voice of the assembly narrows to the worshipper's own throat, so that homage paid by the whole Saṅgha is also, suddenly, personal. The Kauśika elder Śāṇḍilya is crowned not with a simile (as the ocean- and Himālaya-similes adorn others) but with a conduct-epithet: 'ajja-jiya-dharaṁ', the noble who upholds the jīta — the established, time-tested discipline of the order. Where neighbouring verses praise depth or steadfastness, this one praises fidelity to rule: the teacher is honoured precisely because he kept the observance unbroken and handed it on intact. The verse thus moves from authorship (Śyāmārya, who shaped a text) to custodianship (Śāṇḍilya, who guarded the practice) — two complementary modes by which a lineage survives.",
+    "doctrinalContext": "The verse rests on gotra as the tracking-thread of transmission: an elder is located not by biography but by clan-stream, so that doctrine is seen to pass along identifiable, accountable lines. The epithet jīta-dhara introduces a precise disciplinary concept — the jīta(-kalpa), the body of 'settled' customary observance by which the order regulates conduct and expiation when older rule-texts fall silent. To praise a teacher as its upholder is to affirm that preserving the canon (Śyāmārya's work) and preserving right practice (Śāṇḍilya's) are one continuous act of guardianship; knowledge unmoored from disciplined conduct would not, in this view, have survived.",
+    "practicalRelevance": "Chanting this verse, the reciter consciously slides from 'we bow' to 'I bow', making the lineage's gratitude his own in the same breath. The pairing of an author (Śyāmārya) with a discipline-keeper (Śāṇḍilya) is a quiet instruction: honour both those who teach and those who simply keep the rule faithfully — and aspire, in one's own observance, to be a jīta-dhara, one who holds the settled discipline intact.",
+    "crossReferences": [
+      {
+        "text": "Prajñāpanā (Paṇṇavaṇā) Upāṅga — praśasti attributing the work to Ārya Śyāma (Śyāmārya) of the Hārita gotra",
+        "source": "Śvetāmbara Āgama; Jain eLibrary edition"
+      },
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī gāthās (succession of Hārita- and Kauśika-gotra elders)",
+        "source": "Devavācaka (Devarddhigaṇi Kṣamāśramaṇa), Valabhī recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Nandīsūtra) and Prajñāpanā praśasti",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Sthavirāvalī succession of Hārita-/Kauśika-gotra elders and the attribution of the Prajñāpanā to Ārya Śyāma (Śyāmārya)."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for gotra, ārya, √vand (vande/vandāmahe), jīta and dhara underlying the Prakrit tokens."
+    },
+    {
+      "title": "JainQQ digital library — Nandī Sūtra Sthavirāvalī and Prakrit lexical references (Pāia-sadda-mahaṇṇavo)",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Prakrit forms saṇḍilla/Śāṇḍilya, sāmajja = Śyāmārya, and the jīta(-kalpa) sense of ajja-jiya-dhara."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "sāmajjaṁ resolves as sāma (Śyāma) + ajja (ārya) = Śyāmārya/Ārya Śyāma, traditionally the author of the Prajñāpanā; the Hārita-gotra attribution is internal to the verse. 'ajjajiyadharaṁ' is taken here as an epithet of Śāṇḍilya — 'the Ārya who upholds the jīta(-kalpa), the settled customary discipline'; a defensible alternative parses it as a separate proper name, 'Ārya Jītadhara' — flagged as uncertain. saṇḍilla is the Prakrit behind both 'Śāṇḍilya' and the later 'Skandila'; whether this elder is identical to the Skandila of the Māthurī recension honoured later in the hymn is uncertain — the verse's position among the early gotra-named teachers favours an earlier Sthavira Śāṇḍilya. sāiṁ may be read Svāti or Sāti. Per the book's fidelity rule, the recited Prakrit (mātrās, anusvāra, conjunct -jj-/-ll-) is preserved verbatim and not normalized; recitation is rendered in IAST as the English target script."
+}

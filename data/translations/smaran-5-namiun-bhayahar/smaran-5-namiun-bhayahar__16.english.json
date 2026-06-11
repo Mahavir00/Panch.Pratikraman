@@ -1,0 +1,154 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a horrifying battlefield — sharp swords lopping bodies into headless trunks, spears running war-elephants through — as the next deadly peril from which those who remember Pārśva will be carried safely.",
+  "recitation": "samaraṁmi tikkha-khagg'-abhighāya-paviddh'-uddhuya-kabaṁdhe, kunta-viṇihi-bhinna-kari-kalaha-mukka-sikkāra-paüraṁmi.",
+  "wordByWord": [
+    {
+      "token": "સમરંમિ",
+      "translit": "samaraṁmi",
+      "gloss": "in the battle, on the field of war",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative sg. of samara (Skt. saṃgrāma/samara, 'battle, combat'); the -ṁmi ending is the Māhārāṣṭrī locative.",
+      "notes": "This single locative governs the whole verse; both kabaṁdhe and paüraṁmi are locatives further describing this 'battle'."
+    },
+    {
+      "token": "તિક્ખ",
+      "translit": "tikkha",
+      "gloss": "sharp, keen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. tīkṣṇa ('sharp'); kṣṇ > kkh by the regular Prakrit assimilation.",
+      "notes": "Qualifies khagga ('sword')."
+    },
+    {
+      "token": "ખગ્ગા",
+      "translit": "khaggā",
+      "gloss": "swords",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khagga < Skt. khaḍga ('sword'); ḍg > gg. Here the first member of the compound khagga-abhighāya.",
+      "notes": "Reads in sandhi with the following word as tikkha-khagg'-abhighāya, 'by the strokes of sharp swords'."
+    },
+    {
+      "token": "ભિગ્ઘાય",
+      "translit": "bhigghāya",
+      "gloss": "by the striking, by the blows",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (a)bhigghāya < Skt. abhighāta ('a striking, blow, impact'), from abhi-√han. The initial a- is elided in sandhi after khagga.",
+      "notes": "Instrumental sense ('by the blows of swords') feeding the next compound."
+    },
+    {
+      "token": "પવિદ્ધુદ્ધુય",
+      "translit": "paviddh'uddhuya",
+      "gloss": "hurled-and-tossed-up, flung about and shaken aloft",
+      "partOfSpeech": "compound",
+      "etymology": "Dvandva/sequence of paviddha (Skt. praviddha, 'thrown, hurled, scattered', pra-√vyadh) + uddhuya (Skt. uddhūta, 'tossed up, shaken violently', ud-√dhū).",
+      "notes": "Describes the kabaṁdha (trunks) sent flying and convulsing on the field."
+    },
+    {
+      "token": "કબંધે",
+      "translit": "kabaṁdhe",
+      "gloss": "(amid) headless trunks",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of kabandha (Skt. kabandha, 'a headless trunk / decapitated body that still moves').",
+      "notes": "Classic battlefield image of trunks still twitching after decapitation; locative agreeing with samaraṁmi."
+    },
+    {
+      "token": "કુંત",
+      "translit": "kunta",
+      "gloss": "lance, spear",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit kunta ('spear, lance, javelin'); attested as a weapon in Dhanurveda and in Prakrit lexica.",
+      "notes": "First member of kunta-viṇihibhinna, 'pierced through by lances'."
+    },
+    {
+      "token": "વિણિહિભિન્ન",
+      "translit": "viṇihibhinna",
+      "gloss": "struck down and pierced through",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit viṇihi(a) (Skt. vinihata, 'struck down, slain', vi-ni-√han) + bhinna (Skt. bhinna, 'split, pierced', √bhid).",
+      "notes": "Book reading is viṇihibhinna; some recensions read viṇibbhinna/vinibhinna ('pierced right through'). Qualifies the elephants."
+    },
+    {
+      "token": "કરિકલહ",
+      "translit": "kari-kalaha",
+      "gloss": "war-elephants in combat, the elephant-fray",
+      "partOfSpeech": "compound",
+      "etymology": "kari (Skt. karin, 'elephant', lit. 'the one with a hand/trunk', from kara) + kalaha (Skt. kalaha, 'fight, strife, brawl').",
+      "notes": "The clashing battle-elephants whose pierced bodies emit the cries named next."
+    },
+    {
+      "token": "મુક્ક",
+      "translit": "mukka",
+      "gloss": "let loose, released, given out",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit mukka < Skt. mukta ('released, let go', √muc); kt > kk.",
+      "notes": "Past participle qualifying sikkāra: the cries 'let out' by the wounded elephants."
+    },
+    {
+      "token": "સિક્કાર",
+      "translit": "sikkāra",
+      "gloss": "shrieks, trumpeting cries of pain",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sikkāra < Skt. sītkāra/śītkāra, an inarticulate hissing or wailing sound drawn in through the teeth, expressive of pain.",
+      "notes": "Here the agonized trumpeting/shrieking of speared elephants."
+    },
+    {
+      "token": "પઉરંમિ",
+      "translit": "paüraṁmi",
+      "gloss": "abounding in, thick with, full of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit locative of paüra (Skt. pracura/pracaura, 'abundant, dense, copious').",
+      "notes": "Locative agreeing with samaraṁmi: the battle is 'crowded' with these elephant-shrieks."
+    }
+  ],
+  "literalTranslation": "In the battle — strewn with headless trunks flung up and tossed about by the strokes of sharp swords, and thick with the shrieks let loose by war-elephants run clean through by lances —",
+  "idiomaticTranslation": "On a battlefield where keen swords hew men to headless, twitching trunks that are flung and tumbled in the dust, and where the air is dense with the agonized trumpeting of war-elephants pierced through by lances — even there, those who hold Pārśva in remembrance pass through unharmed.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the seventh and climactic great-fear of the litany: saṃgrāma, open battle. Tellingly, the entire gāthā is a single suspended locative phrase — 'in the battle that is thus and thus' — with no main verb and no devotee yet in sight. The poet withholds the rescue deliberately; the grammatical subject and the saving turn ('those who bear Pārśva's name win bright fame') arrive only in the paired following verse. So verse 16 does one thing with total concentration: it makes the terror real. Two sensory panels do the work. First the eye: tikkha-khagga, sharp swords, reduce men to kabandha — the trunk that has lost its head yet still jerks and is 'hurled up and tossed about' (paviddh'-uddhuya) in the press. Then the ear: kunta-viṇihibhinna war-elephants, speared through, fill the field (paüraṁmi) with mukka-sikkāra, their loosed, drawn-in shrieks of pain. Sight of dismemberment, sound of animal agony — the verse assaults two senses at once, exactly the technique used for the storm-sea and the forest-fire earlier. Note the compounding density: nearly every word locks into one of two long bahuvrīhi chains qualifying 'battle', so the line reads as fast and crowded as the carnage it names. The horror is not gratuitous; its very excess measures the protection promised next.",
+    "doctrinalContext": "Battle belongs to the classical set of mahābhaya from which the Jina is invoked as bhaya-hara. Doctrinally the verse stages the most karmically charged of perils — mass himsā, the very violence the śrāvaka vows to renounce — and locates deliverance not in counter-force but in smaraṇa, protective recollection. The implicit lesson, completed in v.17, is that refuge in Pārśva is efficacious even within the worst external karmic storm; the remembering mind is shielded where weapons cannot reach. The kabandha image also quietly carries the Jain meditation on the body's fragility and impermanence (anitya): the 'self' a warrior defends is, in an instant, a headless trunk tumbling in the dust.",
+    "practicalRelevance": "A reciter rarely faces literal swords, but does face overwhelming conflict — hostility, chaos, situations where one is outmatched and afraid. This verse trains the response: do not meet terror by adding to the violence, but anchor the mind in the Jina's name and let that recollection carry you through intact. Chant it to steady yourself in any 'battlefield' moment, trusting the deliverance the next verse names.",
+    "crossReferences": [
+      {
+        "text": "Following verse (smaran-5-namiun-bhayahar/17): 'nijjiya-dappuddhara-riu...' — the heroes who, their proud foes conquered, win bright fame; this completes the suspended clause of v.16.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Verse 18, the summary roll-call of perils (disease, water, fire, serpent, thief, foe, lion, elephant, battle) stilled by reciting Pārśva's name.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit; sutra preface structureArc"
+      },
+      {
+        "text": "The classical Jain seven/eight mahābhaya set, of which 'battle' (saṃgrāma) is the culminating member.",
+        "source": "Anchalgachchha Tradition Knowledge Base, §6 (doctrinal themes)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kabandha — definitions (Monier-Williams, Apte, Puranic & Pali lexica)",
+      "url": "https://www.wisdomlib.org/definition/kabandha",
+      "type": "dictionary",
+      "consultedFor": "confirming kabandha = 'headless trunk / decapitated body', the central battlefield image of this verse"
+    },
+    {
+      "title": "Sitkara / Sītkāra — definitions (Apte, Shabda-Sagara, Monier-Williams)",
+      "url": "https://www.wisdomlib.org/definition/sitkara",
+      "type": "dictionary",
+      "consultedFor": "etymology of sikkāra < sītkāra as an inarticulate drawn-in cry of pain, here the elephants' shriek"
+    },
+    {
+      "title": "Kunta — definitions (Dhanurveda, Nāṭyaśāstra, Sanskrit & Prakrit lexica)",
+      "url": "https://www.wisdomlib.org/definition/kunta",
+      "type": "dictionary",
+      "consultedFor": "kunta = 'spear/lance' as a weapon, including its Prakrit attestation"
+    },
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara and fear-remover invoked across the danger-verses, framing the battle peril"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse 16 is grammatically incomplete on its own: it is an extended locative description of 'the battle', whose main clause and saving turn fall in the paired verse 17 — so it is rendered here as a suspended scene rather than a full sentence. Token readings follow the supplied book verbatim: ભિગ્ઘાય is taken as (a)bhigghāya = Skt. abhighāta in sandhi with khagga (tikkha-khagg'-abhighāya, 'by blows of sharp swords'); વિણિહિભિન્ન (viṇihibhinna) is read as vinihata+bhinna ('struck-down and pierced'), though other recensions show viṇibbhinna/vinibhinna ('pierced right through') — the sense (elephants run through by lances) is stable. The exact distribution of paviddha vs uddhuya (both 'hurled/tossed') across the trunks is poetic redundancy for intensity rather than two distinct actions. Web-search engine answers conflating this with a Narasimha hymn were discarded as unreliable; lexical claims rest on the dictionary sources cited."
+}

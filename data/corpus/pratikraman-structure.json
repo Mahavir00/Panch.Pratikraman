@@ -1,0 +1,198 @@
+{
+  "tradition": "achhalgach",
+  "traditionAliases": ["Achhalgach", "Achalgachchha", "Anchalgachchha", "Aanchalagaccha", "Vidhipaksha Gaccha", "વિધિપક્ષગચ્છ", "અંચલગચ્છ"],
+  "source": "data/book/panch-pratikraman.full.md",
+  "sourceBook": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (Panch Pratikraman Sutra — Vidhi Sahit), Anchalgachchha (Vidhipaksha) edition; scanned book pages 19–108.",
+  "generatedAt": "2026-06-07",
+  "note": "Website backbone. Each pratikraman has an ordered `sequence` of steps. A step of type 'sutra' references a sutraId in `sutras` (clickable -> shlokas + word-by-word translation + commentary). A step of type 'vidhi' is procedural connective text (begin/end declarations, 'now recite X'); its full native prose lives in the golden text at `bookPages`. Chaumasi and Samvatsari are defined by the book itself as Pakshik plus substitutions, so they use `basedOn` + `overrides` rather than repeating the sequence. Shared sutras are defined once here and referenced by multiple pratikramans (`usedIn`).",
+
+  "pageOffset": 18,
+  "_pageOffsetNote": "PDF page N in data/book/pages/page-NNN.txt corresponds to printed book page N+18.",
+
+  "sutras": {
+    "navkar": { "name_native": "શ્રી નવકાર મહામંત્ર", "name_translit": "Shri Navkar Mahamantra", "name_en": "The Navkar (Pancha-Parameshthi) Great Mantra", "kind": "sutra", "bookPages": "20", "pdfPages": [2], "gathaCount": 9, "role": "Universal opening invocation to the five Parameshthins", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "panchindiya": { "name_native": "પંચિંદિય સૂત્ર (શ્રી ગુરુસ્થાપના સૂત્ર)", "name_translit": "Panchindiya Sutra (Guru-sthapana)", "name_en": "Five-Senses / Guru-Establishment Sutra", "kind": "sutra", "bookPages": "21", "pdfPages": [3], "gathaCount": 2, "role": "Praise of the guru's 36 attributes; establishes the sthapanacharya", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "iriyavahiyam": { "name_native": "ઇરિયાવહિયં સૂત્ર / ઇરિયાપથિકી સૂત્ર", "name_translit": "Iriyavahiyam Sutra", "name_en": "Confession of Faults While Moving", "kind": "sutra", "bookPages": "21", "pdfPages": [3], "gathaCount": 7, "role": "Atonement (micchami dukkadam) for harm to living beings during movement", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "tassa-uttari": { "name_native": "તસ્સ ઉત્તરીકરણ સૂત્ર", "name_translit": "Tassa Uttari Sutra", "name_en": "Tassa Uttari (Kayotsarga-introducer)", "kind": "sutra", "bookPages": "22", "pdfPages": [4], "gathaCount": 1, "role": "Resolve to purify the self by undertaking kayotsarga", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "annattha": { "name_native": "અન્નત્થ સૂત્ર (કાયોત્સર્ગ)", "name_translit": "Annattha Sutra", "name_en": "Annattha (Permitted Exceptions in Kayotsarga)", "kind": "sutra", "bookPages": "22", "pdfPages": [4], "gathaCount": 5, "role": "Lists bodily acts that do not break the kayotsarga vow", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "logassa": { "name_native": "લોગસ્સ સૂત્ર (ચતુર્વિંશતિ-સ્તવ)", "name_translit": "Logassa Sutra (Chaturvimshati-stava)", "name_en": "Logassa — Praise of the Twenty-Four Tirthankaras", "kind": "sutra", "bookPages": "22-23", "pdfPages": [4, 5], "gathaCount": 7, "role": "Second Avashyaka (Chauvisattho); the kayotsarga is counted in Logassa units", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "gamanagamano": { "name_native": "ગમણાગમણો", "name_translit": "Gamanagamano", "name_en": "Gamanagamano (Faults of Coming and Going)", "kind": "sutra", "bookPages": "23", "pdfPages": [5], "role": "Confession of faults in movement to and from the place of ritual", "usedIn": ["devasi"] },
+    "jivrashi": { "name_native": "જીવરાશિ સૂત્ર", "name_translit": "Jivarashi Sutra", "name_en": "Jivarashi (Classes of Living Beings)", "kind": "sutra", "bookPages": "24", "pdfPages": [6], "role": "Enumeration of the classes of jivas, for mindful confession", "usedIn": ["devasi"] },
+    "adhar-papsthanak": { "name_native": "અઢાર પાપસ્થાનક સૂત્ર", "name_translit": "Adhar Papasthanak Sutra", "name_en": "The Eighteen Sources of Sin", "kind": "sutra", "bookPages": "25", "pdfPages": [7], "gathaCount": 18, "role": "The eighteen categories of sin to be confessed and renounced", "usedIn": ["devasi"] },
+    "dravya-kshetra-kaal-bhav": { "name_native": "દ્રવ્ય ક્ષેત્ર કાલ ભાવ", "name_translit": "Dravya Kshetra Kaal Bhav", "name_en": "Substance, Place, Time, State (declaration)", "kind": "vidhi-sutra", "bookPages": "25", "pdfPages": [7], "role": "Declaration of the four-fold scope (dravya/kshetra/kaal/bhava) for the vow", "usedIn": ["devasi", "deshavagasik"] },
+    "karemi-bhante": { "name_native": "કરેમિ ભંતે! સૂત્ર (સામાયિક)", "name_translit": "Karemi Bhante Sutra", "name_en": "Karemi Bhante — the Samayika Vow", "kind": "sutra", "bookPages": "26", "pdfPages": [8], "gathaCount": 1, "role": "First Avashyaka (Samaiya): the equanimity vow that opens samayika", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari", "deshavagasik"] },
+    "padilehana": { "name_native": "પડિલેહણ વિધિ (૫૦ બોલ)", "name_translit": "Padilehana Vidhi (50 bol)", "name_en": "Inspection of Garments — 50 Points", "kind": "vidhi-sutra", "bookPages": "27-30", "pdfPages": [9, 10, 11, 12], "role": "The 50-point mindful inspection (padilehana) of cloth and body", "usedIn": ["devasi"] },
+    "suguru-dwadashavarta-vandana": { "name_native": "સુગુરુને (દ્વાદશાવર્ત) વાંદણા સૂત્ર", "name_translit": "Suguru Dwadashavarta Vandana Sutra", "name_en": "Twelve-Fold Salutation to the Guru", "kind": "sutra", "bookPages": "31-32", "pdfPages": [13, 14], "gathaCount": 7, "role": "Third Avashyaka (Vandanaa): the twelve-gesture veneration of the guru", "usedIn": ["devasi", "rai", "pakshik", "chaumasi", "samvatsari"] },
+    "laghu-atiyar": { "name_native": "શ્રાવકના બાર વ્રતના લઘુ અતિયાર", "name_translit": "Shravakna Bar Vratna Laghu Atiyar", "name_en": "Short Confession of the 12 Lay Vows' Transgressions", "kind": "atichar", "bookPages": "33-36", "pdfPages": [15, 16, 17, 18], "role": "Fourth Avashyaka (Padikkamana): the SHORT atichar — confession of transgressions of the 12 shravaka vows (used in Devasi/Rai)", "usedIn": ["devasi", "rai"] },
+    "muni-vandana": { "name_native": "શ્રી ગુરુવંદના (મુનિ વંદના) સૂત્ર", "name_translit": "Shri Guru-vandana (Muni Vandana) Sutra", "name_en": "Salutation to the Munis (with Anchalgachchha lineage)", "kind": "sajjhay", "bookPages": "37-38", "pdfPages": [19, 20], "role": "Veneration of the munis; includes the Anchalgachchha pattaavali (lineage of acharyas)", "usedIn": ["devasi"] },
+    "drumapushpika-sajjhay": { "name_native": "શ્રી દશવૈકાલિકે દ્રુમપુષ્પિકા પ્રથમાધ્યયન સજ્ઝાય", "name_translit": "Dashavaikalik Drumapushpika Pratham-adhyayan Sajjhay", "name_en": "Drumapushpika — First Chapter of the Dashavaikalika Sutra", "kind": "sajjhay", "bookPages": "39", "pdfPages": [21], "gathaCount": 5, "role": "Svadhyaya (study-recitation): the opening chapter of the Dashavaikalika mulasutra", "usedIn": ["devasi"] },
+    "panch-parmeshthi-sajjhay": { "name_native": "પંચ પરમેષ્ઠિની સજઝાય", "name_translit": "Panch Parmeshthi ni Sajjhay", "name_en": "Sajjhay of the Five Parameshthins", "kind": "sajjhay", "bookPages": "39", "pdfPages": [21], "gathaCount": 4, "role": "Svadhyaya in praise of the five supreme beings", "usedIn": ["devasi"] },
+    "mannaha-jinanam-sajjhay": { "name_native": "મન્નહ જિણાણં (શ્રાવક કૃત્યની) સજઝાય", "name_translit": "Mannaha Jinanam (Shravak Krutya ni) Sajjhay", "name_en": "Mannaha Jinanam — The Lay Devotee's Duties", "kind": "sajjhay", "bookPages": "40", "pdfPages": [22], "role": "Svadhyaya enumerating the daily duties of a shravaka", "usedIn": ["devasi"] },
+    "samayik-parvani": { "name_native": "સામાયિક પારવાની ગાથા તથા સૂત્ર", "name_translit": "Samayik Parvani Gatha ane Sutra", "name_en": "Verses & Sutra for Concluding the Samayika", "kind": "sutra", "bookPages": "41-43", "pdfPages": [23, 24, 25], "gathaCount": 7, "role": "Marks completion of the 48-minute samayika and its concluding confession", "usedIn": ["devasi", "deshavagasik"] },
+
+    "kevalnani-chaityavandan": { "name_native": "શ્રી કેવલનાણી બૃહત્ ચૈત્યવંદન", "name_translit": "Kevalnani Bruhat Chaityavandan", "name_en": "The Kevalnani Great Chaitya-vandana (by Vachak Moola)", "kind": "chaityavandan", "bookPages": "45-50", "pdfPages": [27, 28, 29, 30, 31, 32], "role": "Extended devotional hymn (multiple dhalas) venerating the omniscient Jinas and the tirthas", "usedIn": ["rai"] },
+    "bharahesar-sajjhay": { "name_native": "શ્રી ભરહેસરની સજ્ઝાય", "name_translit": "Bharahesar ni Sajjhay", "name_en": "Bharahesar — Litany of Exemplary Souls", "kind": "sajjhay", "bookPages": "51-52", "pdfPages": [33, 34], "gathaCount": 13, "role": "Svadhyaya reciting the names of great monks and satis (virtuous women) as exemplars", "usedIn": ["rai"] },
+    "rai-mangalacharan": { "name_native": "મંગલાચરણ (શ્લોક) — મંગલં ભગવાન વીરો", "name_translit": "Rai Mangalacharan (Shlok)", "name_en": "Closing Auspicious Verses (Mangalam Bhagavan Viro etc.)", "kind": "stuti", "bookPages": "53-54", "pdfPages": [35, 36], "gathaCount": 5, "role": "Concluding auspicious verses of the Rai pratikraman", "usedIn": ["rai"] },
+
+    "bruhad-atiyar": { "name_native": "શ્રાવકના બાર વ્રતના બૃહદ્ અતિયાર", "name_translit": "Shravakna Bar Vratna Bruhad Atiyar", "name_en": "Extended Confession of the 12 Lay Vows' Transgressions", "kind": "atichar", "bookPages": "55-68", "pdfPages": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50], "role": "Fourth Avashyaka (Padikkamana) in EXTENDED form: detailed atichar of the 5 anuvratas + 3 gunavratas + 4 shikshavratas (used in Pakshik/Chaumasi/Samvatsari)", "usedIn": ["pakshik", "chaumasi", "samvatsari"] },
+    "ashtottari-tirthmala": { "name_native": "શ્રી અષ્ટોત્તરી તીર્થમાળા", "name_translit": "Ashtottari Tirthmala", "name_en": "Garland of 108 Tirthas (by Acharya Mahendrasinhsuri)", "kind": "stavan", "bookPages": "69-79", "pdfPages": [51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61], "role": "Devotional roll-call of 108 Jain pilgrimage tirthas, composed by the Anchalgachchha acharya Mahendrasinhsuri", "usedIn": ["pakshik"] },
+    "nandisutrani-pratham-sajay": { "name_native": "શ્રી નંદીસૂત્રની પ્રથમ સજ્ઝાય", "name_translit": "Shri Nandi-sutra ni Pratham Sajjhay", "name_en": "First Sajjhay of the Nandi Sutra", "kind": "sajjhay", "bookPages": "80-82", "pdfPages": [62, 63, 64], "gathaCount": 24, "role": "Svadhyaya: extract from the Nandi-sutra praising Mahavira and the four-fold Sangha (city/chariot/lotus metaphors)", "usedIn": ["pakshik"] },
+    "nandisutrani-dvitiya-sajay": { "name_native": "શ્રી નંદીસૂત્રની દ્વિતીય સજ્ઝાય", "name_translit": "Shri Nandi-sutra ni Dvitiya Sajjhay", "name_en": "Second Sajjhay of the Nandi Sutra", "kind": "sajjhay", "bookPages": "82-84", "pdfPages": [64, 65, 66], "role": "Svadhyaya: the second Nandi-sutra extract", "usedIn": ["pakshik"] },
+    "smaran-1-bruhannamaskar": { "name_native": "બૃહન્નમસ્કાર (પ્રથમ સ્મરણ)", "name_translit": "Bruhannamaskar", "name_en": "Great Namaskara — 1st Smarana", "kind": "smaran", "smaranNo": 1, "bookPages": "85-86", "pdfPages": [67, 68], "role": "First of the Nine Smaranas (protective stotras)", "usedIn": ["pakshik"] },
+    "smaran-2-ajitshanti": { "name_native": "શ્રી અજિતશાંતિ સ્તવ (દ્વિતીય સ્મરણ)", "name_translit": "Ajitshanti Stava", "name_en": "Hymn to Ajitnatha & Shantinatha — 2nd Smarana", "kind": "smaran", "smaranNo": 2, "bookPages": "86-92", "pdfPages": [68, 69, 70, 71, 72, 73], "role": "Second Smarana, by Nandishenasuri; alternating Ajitnatha/Shantinatha praise in many metres", "usedIn": ["pakshik"] },
+    "smaran-3-virstava": { "name_native": "શ્રી વીરસ્તવ (તૃતીય સ્મરણ)", "name_translit": "Virstava", "name_en": "Hymn to Mahavira — 3rd Smarana", "kind": "smaran", "smaranNo": 3, "bookPages": "92", "pdfPages": [74], "role": "Third Smarana", "usedIn": ["pakshik"] },
+    "smaran-4-upasargahar": { "name_native": "શ્રી ઉપસર્ગહર સ્તોત્ર (ચતુર્થ સ્મરણ)", "name_translit": "Upasargahar Stotra", "name_en": "Upasarga-hara Stotra — 4th Smarana", "kind": "smaran", "smaranNo": 4, "bookPages": "92-93", "pdfPages": [74, 75], "role": "Fourth Smarana, to Parshvanatha, for removal of afflictions", "usedIn": ["pakshik"] },
+    "smaran-5-namiun-bhayahar": { "name_native": "શ્રી નમિઊણ ભયહર સ્તોત્ર (પંચમ સ્મરણ)", "name_translit": "Namiun Bhayahar Stotra", "name_en": "Namiun Bhayahara Stotra — 5th Smarana", "kind": "smaran", "smaranNo": 5, "bookPages": "93-96", "pdfPages": [75, 76, 77, 78], "role": "Fifth Smarana, to Parshvanatha, for removal of fear", "usedIn": ["pakshik"] },
+    "smaran-6-jirapalli-parshva": { "name_native": "શ્રી જીરાપલ્લી પાર્શ્વ સ્તવ (ષષ્ઠ સ્મરણ)", "name_translit": "Jirapalli Parshva Stava", "name_en": "Jirapalli Parshvanatha Stava — 6th Smarana", "kind": "smaran", "smaranNo": 6, "bookPages": "96-97", "pdfPages": [78, 79], "role": "Sixth Smarana, by Merutungasuri, to Jirapalli Parshvanatha", "usedIn": ["pakshik"] },
+    "smaran-7-shakrastava": { "name_native": "શક્રસ્તવ (નમુત્થુણં) (સપ્તમ સ્મરણ)", "name_translit": "Shakrastava (Namuthunam)", "name_en": "Shakra-stava / Namuthunam — 7th Smarana", "kind": "smaran", "smaranNo": 7, "bookPages": "97-98", "pdfPages": [79, 80], "role": "Seventh Smarana: the Shakra-stava (Namuthunam) praise of the Arihantas", "usedIn": ["pakshik"] },
+    "smaran-8-laghu-ajitshanti": { "name_native": "લઘુ અજિતશાંતિ સ્તવ (અષ્ટમ સ્મરણ)", "name_translit": "Laghu Ajitshanti Stava", "name_en": "Short Ajitshanti Stava — 8th Smarana", "kind": "smaran", "smaranNo": 8, "bookPages": "98-99", "pdfPages": [80, 81], "role": "Eighth Smarana, by Virganin: the short Ajitshanti hymn", "usedIn": ["pakshik"] },
+    "smaran-9-bruhad-ajitshanti": { "name_native": "બૃહદ્ અજિતશાંતિ સ્તવ (નવમ સ્મરણ)", "name_translit": "Bruhad Ajitshanti Stava", "name_en": "Great Ajitshanti Stava — 9th Smarana", "kind": "smaran", "smaranNo": 9, "bookPages": "99-102", "pdfPages": [81, 82, 83, 84], "role": "Ninth Smarana: the extended Ajitshanti hymn", "usedIn": ["pakshik"] },
+    "pakkhi-khamana": { "name_native": "શ્રી પક્ખી ખામણા", "name_translit": "Pakkhi Khamana", "name_en": "Fortnightly Forgiveness (Khamana)", "kind": "sutra", "bookPages": "102-103", "pdfPages": [84, 85], "role": "Mutual asking-of-forgiveness; names the Anchalgachchha founders Aryarakshitsuri & Kalyanasagarsuri (and the current gacchadhipati)", "usedIn": ["pakshik", "chaumasi", "samvatsari"] },
+
+    "deshavagasik-pachchakkhan": { "name_native": "શ્રી દેશાવગાશિક વ્રતનું પચ્ચખ્ખાણ", "name_translit": "Deshavagasik Vrat nu Pachchakkhan", "name_en": "Vow-Formula of the Deshavagasika Vrata", "kind": "sutra", "bookPages": "106", "pdfPages": [88], "gathaCount": 1, "role": "The pratyakhyana (renunciation formula) for the 10th lay vow", "usedIn": ["deshavagasik"] },
+    "deshavagasik-samayik-pachchakkhan": { "name_native": "દેશાવગાશિક સામાયિક વ્રતનું પચ્ચખ્ખાણ", "name_translit": "Deshavagasik Samayik Vrat nu Pachchakkhan", "name_en": "Karemi Bhante for the Deshavagasika Samayika", "kind": "sutra", "bookPages": "107", "pdfPages": [89], "gathaCount": 1, "role": "The samayika vow adapted (jav desavagasiam) for the deshavagasika observance", "usedIn": ["deshavagasik"] }
+  },
+
+  "pratikramans": [
+    {
+      "id": "devasi",
+      "name_native": "દૈવસિક પ્રતિક્રમણ",
+      "name_translit": "Daivasika Pratikramana",
+      "name_en": "Daily Evening Pratikramana",
+      "frequency": "Daily, at sunset",
+      "covers": "Faults of the day",
+      "order": 1,
+      "bookPages": "19-44",
+      "isBase": true,
+      "note": "The book teaches Devasi in full; it is the base on which the other pratikramans build. The six Avashyakas are marked in the sequence.",
+      "sequence": [
+        { "type": "vidhi", "id": "devasi-opening", "summary_en": "Mangalacharan and preliminary instructions: don clean inspected cloth, set up the sthapanacharya, salute the guru.", "bookPages": "19-20" },
+        { "type": "sutra", "sutraId": "navkar" },
+        { "type": "sutra", "sutraId": "panchindiya", "avashyaka": null, "note": "Guru-establishment" },
+        { "type": "vidhi", "id": "devasi-iriya-adesh", "summary_en": "Adesh to perform iriyavahiyam; then recite iriyavahiyam, tassa uttari, annattha.", "bookPages": "21" },
+        { "type": "sutra", "sutraId": "iriyavahiyam" },
+        { "type": "sutra", "sutraId": "tassa-uttari" },
+        { "type": "sutra", "sutraId": "annattha" },
+        { "type": "vidhi", "id": "devasi-logassa-kausagga", "summary_en": "One Logassa kayotsarga (up to 'chandesu nimmalayara'), then recite Logassa aloud.", "bookPages": "22" },
+        { "type": "sutra", "sutraId": "logassa", "avashyaka": 2, "note": "Chauvisattho — 2nd Avashyaka" },
+        { "type": "sutra", "sutraId": "gamanagamano" },
+        { "type": "sutra", "sutraId": "jivrashi" },
+        { "type": "sutra", "sutraId": "adhar-papsthanak" },
+        { "type": "sutra", "sutraId": "dravya-kshetra-kaal-bhav" },
+        { "type": "sutra", "sutraId": "karemi-bhante", "avashyaka": 1, "note": "Samaiya — 1st Avashyaka (the samayika vow)" },
+        { "type": "sutra", "sutraId": "padilehana" },
+        { "type": "sutra", "sutraId": "suguru-dwadashavarta-vandana", "avashyaka": 3, "note": "Vandanaa — 3rd Avashyaka" },
+        { "type": "sutra", "sutraId": "laghu-atiyar", "avashyaka": 4, "note": "Padikkamana — 4th Avashyaka (short atichar)" },
+        { "type": "sutra", "sutraId": "muni-vandana", "note": "Includes the Anchalgachchha pattaavali" },
+        { "type": "sutra", "sutraId": "drumapushpika-sajjhay", "note": "Sajjhay (svadhyaya) section begins" },
+        { "type": "sutra", "sutraId": "panch-parmeshthi-sajjhay" },
+        { "type": "sutra", "sutraId": "mannaha-jinanam-sajjhay" },
+        { "type": "vidhi", "id": "devasi-samayik-parva", "summary_en": "Procedure to conclude the samayika (kausagga 5/6 Avashyaka — Paccakkhana).", "bookPages": "41", "avashyaka": 6 },
+        { "type": "sutra", "sutraId": "samayik-parvani" },
+        { "type": "vidhi", "id": "devasi-colophon", "summary_en": "Colophon: thus ends the Daivasika pratikramana of the Vidhipaksha (Anchala) gaccha shravaka.", "bookPages": "44" }
+      ]
+    },
+    {
+      "id": "rai",
+      "name_native": "રાઇ પ્રતિક્રમણ",
+      "name_translit": "Ratrika Pratikramana",
+      "name_en": "Daily Dawn Pratikramana",
+      "frequency": "Daily, before sunrise",
+      "covers": "Faults of the night",
+      "order": 2,
+      "bookPages": "44-54",
+      "note": "Shares the core Avashyaka sutras with Devasi (recited per the vidhi); the book prints the Rai-specific additions below.",
+      "sharedFrom": { "pratikraman": "devasi", "sutras": ["navkar", "panchindiya", "iriyavahiyam", "tassa-uttari", "annattha", "logassa", "karemi-bhante", "suguru-dwadashavarta-vandana", "laghu-atiyar"] },
+      "sequence": [
+        { "type": "vidhi", "id": "rai-vidhi", "summary_en": "Rai pratikramana procedure (parallels Devasi, adapted for dawn; 'rai' replaces 'devasi' in the formulas).", "bookPages": "44" },
+        { "type": "sutra", "sutraId": "kevalnani-chaityavandan" },
+        { "type": "sutra", "sutraId": "bharahesar-sajjhay" },
+        { "type": "sutra", "sutraId": "rai-mangalacharan" },
+        { "type": "vidhi", "id": "rai-colophon", "summary_en": "Colophon: thus ends the Ratrika pratikramana of the Vidhipaksha (Anchala) gaccha shravaka.", "bookPages": "54" }
+      ]
+    },
+    {
+      "id": "pakshik",
+      "name_native": "પાક્ષિક પ્રતિક્રમણ",
+      "name_translit": "Pakshika Pratikramana",
+      "name_en": "Fortnightly Pratikramana",
+      "frequency": "Fortnightly, on the 14th (chaudas) of each fortnight",
+      "covers": "Faults of fifteen days",
+      "order": 3,
+      "bookPages": "54-103",
+      "kausagga": "12 Logassa (300 breaths, per Avashyaka Niryukti g.1532)",
+      "note": "Uses the EXTENDED atichar (bruhad-atiyar) in place of the short one, and adds the tirthmala, the two Nandi-sutra sajjhays, the nine smaranas, and the pakkhi khamana. Shares the core Avashyaka sutras with Devasi.",
+      "sharedFrom": { "pratikraman": "devasi", "sutras": ["navkar", "panchindiya", "iriyavahiyam", "tassa-uttari", "annattha", "logassa", "karemi-bhante", "suguru-dwadashavarta-vandana"] },
+      "sequence": [
+        { "type": "vidhi", "id": "pakshik-opening", "summary_en": "Pakshik pratikramana begins (Vidhipaksha gaccha shravaka).", "bookPages": "54" },
+        { "type": "sutra", "sutraId": "bruhad-atiyar", "avashyaka": 4, "note": "Padikkamana — 4th Avashyaka (extended atichar)" },
+        { "type": "sutra", "sutraId": "ashtottari-tirthmala" },
+        { "type": "sutra", "sutraId": "nandisutrani-pratham-sajay" },
+        { "type": "sutra", "sutraId": "nandisutrani-dvitiya-sajay" },
+        { "type": "vidhi", "id": "pakshik-nav-smaran", "summary_en": "The Nine Smaranas (protective stotras) are recited.", "bookPages": "85" },
+        { "type": "sutra", "sutraId": "smaran-1-bruhannamaskar" },
+        { "type": "sutra", "sutraId": "smaran-2-ajitshanti" },
+        { "type": "sutra", "sutraId": "smaran-3-virstava" },
+        { "type": "sutra", "sutraId": "smaran-4-upasargahar" },
+        { "type": "sutra", "sutraId": "smaran-5-namiun-bhayahar" },
+        { "type": "sutra", "sutraId": "smaran-6-jirapalli-parshva" },
+        { "type": "sutra", "sutraId": "smaran-7-shakrastava" },
+        { "type": "sutra", "sutraId": "smaran-8-laghu-ajitshanti" },
+        { "type": "sutra", "sutraId": "smaran-9-bruhad-ajitshanti" },
+        { "type": "sutra", "sutraId": "pakkhi-khamana" },
+        { "type": "vidhi", "id": "pakshik-colophon", "summary_en": "Colophon: thus the Pakshika pratikramana of the Vidhipaksha gaccha shravaka is complete.", "bookPages": "103" }
+      ]
+    },
+    {
+      "id": "chaumasi",
+      "name_native": "ચાતુર્માસિક પ્રતિક્રમણ",
+      "name_translit": "Chaturmasika Pratikramana",
+      "name_en": "Four-Monthly (Seasonal) Pratikramana",
+      "frequency": "Three times a year, at the end of each four-month season (chaumasi chaudas)",
+      "covers": "Faults of four months",
+      "order": 4,
+      "bookPages": "103",
+      "basedOn": "pakshik",
+      "overrides": {
+        "wordSubstitution": { "from": "પક્ખી", "to": "ચઉમાસી" },
+        "kausagga": "20 Logassa (500 breaths, per Avashyaka Niryukti g.1532)"
+      },
+      "note": "The book defines Chaumasi entirely by reference: 'the Chaumasi pratikramana vidhi is as per the Pakshika, except wherever the word પક્ખી (pakkhi) occurs say ચઉમાસી (chaumasi) instead, and instead of the 12-Logassa kayotsarga do a 20-Logassa kayotsarga; all other vidhi is as per Pakshika.'",
+      "sequence": []
+    },
+    {
+      "id": "samvatsari",
+      "name_native": "સાંવત્સરિક પ્રતિક્રમણ",
+      "name_translit": "Samvatsarika Pratikramana",
+      "name_en": "Annual Pratikramana (Paryushana)",
+      "frequency": "Once a year, on Samvatsari (Bhadrapada, during Paryushana)",
+      "covers": "Faults of the entire year",
+      "order": 5,
+      "bookPages": "104",
+      "basedOn": "pakshik",
+      "overrides": {
+        "wordSubstitution": { "from": "પક્ખી", "to": "સંવત્સરિ" },
+        "kausagga": "40 Logassa + 1 Navkar (1008 breaths, per Avashyaka Niryukti g.1532)"
+      },
+      "note": "The book defines Samvatsari entirely by reference: 'as per the Pakshika, except પક્ખી (pakkhi) becomes સંવત્સરિ (samvatsari), and instead of the 12-Logassa kayotsarga do a 40-Logassa-plus-1-Navkar kayotsarga; all other vidhi is as per Pakshika.'",
+      "sequence": []
+    }
+  ],
+
+  "appendix": {
+    "note": "Shared ancillary observances printed after the five pratikramans (book pp.104-108). Not pratikramans themselves, but referenced by the vidhi.",
+    "items": [
+      { "id": "samayik-leva-parva-vidhi", "name_native": "સામાયિક લેવાની તથા પારવાની વિધિ", "name_en": "Procedure to take and to conclude the Samayika", "bookPages": "104-105", "pdfPages": [86, 87], "references": "samayika-taking vidhi = book pp.19-26 (up to Karemi Bhante); concluding = book pp.41-44" },
+      { "id": "deshavagasik-vidhi", "name_native": "દેશાવગાશિક કરવાની વિધિ", "name_en": "Procedure for the Deshavagasika (10th lay vow)", "bookPages": "105-108", "pdfPages": [87, 88, 89, 90], "sutras": ["deshavagasik-pachchakkhan", "deshavagasik-samayik-pachchakkhan"], "references": "Taking vidhi = book pp.19-26 with 'deshavagasik' substituted for 'samayik'; concluding = book pp.41-44" }
+    ]
+  },
+
+  "avashyakas": [
+    { "no": 1, "name_prakrit": "Samaiya", "name_sanskrit": "Samayika", "function_en": "Equanimity vow", "anchorSutras": ["karemi-bhante"] },
+    { "no": 2, "name_prakrit": "Cauvisattho", "name_sanskrit": "Chaturvimshati-stava", "function_en": "Praise of the 24 Tirthankaras", "anchorSutras": ["logassa"] },
+    { "no": 3, "name_prakrit": "Vandanaa", "name_sanskrit": "Vandanaka", "function_en": "Veneration of the guru", "anchorSutras": ["suguru-dwadashavarta-vandana", "panchindiya"] },
+    { "no": 4, "name_prakrit": "Padikkamana", "name_sanskrit": "Pratikramana", "function_en": "Reflection & atonement of transgressions", "anchorSutras": ["laghu-atiyar", "bruhad-atiyar"] },
+    { "no": 5, "name_prakrit": "Kaussagga", "name_sanskrit": "Kayotsarga", "function_en": "Bodily abandonment / meditation", "anchorSutras": ["tassa-uttari", "annattha"] },
+    { "no": 6, "name_prakrit": "Paccakkhana", "name_sanskrit": "Pratyakhyana", "function_en": "Renunciation / vow for the coming period", "anchorSutras": ["samayik-parvani"] }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse bows to a great teacher who was ordained in the town of Acalapura and, unshakably devoted to expounding the scriptures, rose to become the lineage's foremost scripture-reciter.",
+  "recitation": "ayalapurā ṇikkhaṁte, kāliyasuya aṇuogie dhīre | baṁbha dīvaga sīhe, vāyaga paya muttamaṁ patte ||",
+  "wordByWord": [
+    {
+      "token": "અયલપુરા",
+      "translit": "ayalapurā",
+      "gloss": "at (the town of) Acalapura",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ayalapura = Sanskrit acalapura ('unmoving city', a-cala + pura); a real town identified with Achalpur in the Amaravati district of Maharashtra. The ablative/locative -ā marks the place of ordination.",
+      "notes": "Monier-Williams glosses acalapura as 'name of a town, Jaina literature'; inscriptions (Nagardhan plates, c. 570 CE) attest the city at the foot of the Satpura hills."
+    },
+    {
+      "token": "ણિક્ખંતે",
+      "translit": "ṇikkhaṁte",
+      "gloss": "gone forth, renounced (i.e. ordained)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ṇikkhaṁta = Sanskrit niṣkrānta (niḥ + √kram, 'to step out'); the standard term for 'one who has gone forth' into the mendicant life.",
+      "notes": "Construes with the teacher: 'having taken dīkṣā at Acalapura'."
+    },
+    {
+      "token": "કાલિયસુય",
+      "translit": "kāliyasuya",
+      "gloss": "of the Kālika-śruta (the timed canonical texts)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kāliya-suya = Sanskrit kālika-śruta; kālika ('belonging to fixed times', from kāla) + śruta ('that which is heard', scripture). Glossed in the preface.",
+      "notes": "Forms a unit with the next word: 'in the exposition of the Kālika-śruta'."
+    },
+    {
+      "token": "અણુઓગિએ",
+      "translit": "aṇuogie",
+      "gloss": "in the systematic exposition (anuyoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇuoga = Sanskrit anuyoga (anu + √yuj, 'to join after, expound'); locative -ie, 'in/regarding the anuyoga'. Glossed in the preface.",
+      "notes": "Together with kāliyasuya: steadfast specifically in expounding the timed canon."
+    },
+    {
+      "token": "ધીરે",
+      "translit": "dhīre",
+      "gloss": "steadfast, resolute, sagacious",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dhīra = Sanskrit dhīra (from √dhṛ, 'to hold firm'); 'firm, constant, wise'. An epithet of the teacher in the homage case.",
+      "notes": "Carries the double sense of unshakeable resolve and intellectual depth befitting an expounder."
+    },
+    {
+      "token": "બંભ",
+      "translit": "baṁbha",
+      "gloss": "Brahma- (first member of the name Brahmadvīpaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit baṁbha = Sanskrit brahma; here not 'the deity' but the first element of the proper name Brahmadvīpaka.",
+      "notes": "baṁbha + dīvaga together render Sanskrit Brahmadvīpaka (Sheth's Pāia-sadda-mahaṇṇavo equates Prakrit baṁbhaddīviga ↔ Skt. brahmadvīpika)."
+    },
+    {
+      "token": "દીવગ",
+      "translit": "dīvaga",
+      "gloss": "-dvīpaka (second member of the name Brahmadvīpaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dīvaga = Sanskrit dvīpaka (dvīpa, 'island', + -ka); completing the name/branch-epithet Brahmadvīpaka.",
+      "notes": "Brahmadvīpaka may name a place/branch (the Brahmadvīpikā śākhā) from which the teacher is styled."
+    },
+    {
+      "token": "સીહે",
+      "translit": "sīhe",
+      "gloss": "Siṁha (the 'lion')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīha = Sanskrit siṁha, 'lion'; here the teacher's proper name, Brahmadvīpaka Siṁha, with the inevitable resonance of leonine fearlessness.",
+      "notes": "Reads simultaneously as the name 'Siṁha' and as the stock simile of a teacher who roars the doctrine like a lion."
+    },
+    {
+      "token": "વાયગ",
+      "translit": "vāyaga",
+      "gloss": "of a vācaka (authorized scripture-reciter)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāyaga = Sanskrit vācaka (from √vac, 'to speak'); an ācārya empowered to recite and expound the canon. Glossed in the preface.",
+      "notes": "Compounds with paya: vācaka-pada, 'the office/rank of vācaka'."
+    },
+    {
+      "token": "પય",
+      "translit": "paya",
+      "gloss": "position, rank, office",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paya = Sanskrit pada ('step, station, post'); here the formal dignity or seat of a vācaka.",
+      "notes": "vāyaga-paya = vācaka-pada, the recognised office of canonical expounder."
+    },
+    {
+      "token": "મુત્તમં",
+      "translit": "muttamaṁ",
+      "gloss": "the highest, supreme",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit muttama = Sanskrit uttama ('uppermost, best', superlative of ud); the doubled t is a Prakrit gemination of ut-tama.",
+      "notes": "Qualifies paya: 'the supreme rank' of vācaka."
+    },
+    {
+      "token": "પત્તે",
+      "translit": "patte",
+      "gloss": "attained, reached",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patta = Sanskrit prāpta (pra + √āp, 'to reach, obtain'); past participle, 'having attained'.",
+      "notes": "Completes the homage: 'he attained the supreme office of vācaka.'"
+    }
+  ],
+  "literalTranslation": "Gone forth at Acalapura, steadfast in the exposition (anuyoga) of the Kālika-śruta — Brahmadvīpaka Siṁha — he attained the supreme rank of vācaka.",
+  "idiomaticTranslation": "I bow to Brahmadvīpaka Siṁha, who took ordination in the town of Acalapura: resolute and deep, unwavering in his exposition of the timed canon, a very lion among teachers, he rose to the highest office of the scripture-reciter.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the preceding verse closed the praise of the Revatī-nakṣatra reciter-line, this gāthā singles out one of its luminaries by name and by place: Brahmadvīpaka Siṁha, ṇikkhaṁta — 'gone forth' — at Acalapura. The naming of an actual town (Achalpur in the Vidarbha region, attested in sixth-century copper-plate grants) is the verse's most striking feature: the canon is not handed down by abstractions but by named monks rooted in real geography, and the poet anchors the lineage to a place a pilgrim could still visit. The teacher is then characterised by a single governing virtue, dhīra — firmness that is at once moral steadiness and intellectual depth — and that firmness is given a precise object: kāliyasuya-aṇuoga, the exposition of the Kālika-śruta, the timed scriptures studied only at sanctioned hours. He is steadfast not in austerity in general but in the exacting work of expounding the canon correctly. The second line completes the portrait with a built-in pun: sīhe is both his name, Siṁha, and the stock image of the lion — the teacher whose doctrinal voice is fearless and commanding. The verse culminates in vāyaga-paya muttamaṁ patte: he reached the topmost rank of vācaka, the office of one authorised to recite and transmit scripture. The arc is deliberate — ordination (where he began) leads through unwavering study (how he laboured) to the supreme reciter's seat (what he attained), a miniature spiritual biography compressed into two lines and offered as an object of vandanā.",
+    "doctrinalContext": "The verse encapsulates the Jain conviction that scripture is preserved as living oral transmission, not merely as a book. The office of vācaka — the authorised reciter-expounder — is the institutional hinge on which the integrity of the Kālika-śruta turns, and attaining its 'supreme rank' (vāyaga-paya muttamaṁ) is presented as a spiritual summit comparable to ascetic attainment. The virtue named, dhīra, is precisely the quality the tradition demands of a transmitter: without unshakeable constancy, oral teaching corrupts. By tying that constancy to a named individual and a real town, the verse also affirms the historicity of the paṭṭa-paramparā as the guarantee of the canon's authenticity.",
+    "practicalRelevance": "Chanting this verse, a reciter honours the unglamorous labour of faithful transmission — the teachers who simply got the words right, generation after generation. It invites the practitioner to cultivate dhīra: steadiness in study, fidelity in passing on what one has received, and the courage to voice the teaching plainly, 'like a lion', without distortion or timidity.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī (the vācaka-vaṁśa gāthās, vv.9–12), praising the reciter-lineage of Nāgahastī and Revatī-nakṣatra",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī recension)"
+      },
+      {
+        "text": "Following gāthā (v.13), 'jesiṁ imo aṇuogo… taṁ vande khaṁdilāyarie', bowing to Skandilācārya whose anuyoga still spreads",
+        "source": "Nandī Sūtra Sthavirāvalī"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Brahmadvīpika — Paia-sadda-mahaṇṇavo (Sheth) entry, equating Prakrit baṁbhaddīviga ↔ Sanskrit brahmadvīpika",
+      "url": "https://www.wisdomlib.org/definition/brahmadvipika",
+      "type": "dictionary",
+      "consultedFor": "Identification of baṁbha + dīvaga as the proper name/branch-epithet Brahmadvīpaka and its Prakrit↔Sanskrit equivalence."
+    },
+    {
+      "title": "Acalapura — Monier-Williams ('name of a town, Jaina literature') and historical-geography entry (Achalpur, Amaravati dist.)",
+      "url": "https://www.wisdomlib.org/definition/acalapura",
+      "type": "dictionary",
+      "consultedFor": "Glossing ayalapurā as the town Acalapura and its identification with Achalpur in Maharashtra."
+    },
+    {
+      "title": "Vācaka — multi-dictionary entry ('reciter; responsible for chanting and study; expressive/denotative speaker')",
+      "url": "https://www.wisdomlib.org/definition/vacaka",
+      "type": "dictionary",
+      "consultedFor": "Glossing vāyaga (vācaka) as the authorised scripture-reciter/expounder and the sense of vāyaga-paya."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams; Böhtlingk–Roth)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying ṇikkhaṁta (niṣkrānta), patta (prāpta), muttama (uttama) and acalapura."
+    }
+  ],
+  "translatorConfidence": 0.76,
+  "notes": "The teacher is read as Brahmadvīpaka Siṁha (Prakrit Baṁbha-dīvaga Sīha), a vācaka of the reciter-lineage praised in the surrounding gāthās; this name-equation is the tradition's and the precise historical figure is not independently fixed — treat as traditional. 'Sīhe' functions simultaneously as the proper name Siṁha and as the conventional lion-simile. The -e terminations (ṇikkhaṁte, dhīre, sīhe, patte) are the Ardhamāgadhī homage-case endings carrying the implied governing 'vande' from the verse-pattern, here construed as nominal epithets of the one teacher; an alternative parse reads them as describing the lineage collectively. 'Brahmadvīpaka/-dvīpikā' may denote a śākhā (sub-branch) rather than a place, which would make it a branch-epithet rather than a second toponym. Acalapura's identification with modern Achalpur (Vidarbha) is well attested but the teacher's link to it rests on this verse alone. The recited Gujarati text is followed verbatim per the source book; no mātrā/anusvāra normalisation applied."
+}

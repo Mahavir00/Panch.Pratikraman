@@ -1,0 +1,390 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/25",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse names the heavens of the upper world one above another — from Saudharma up to the five supreme Anuttara vimānas — and begins counting the eternal Jina-palaces in each: thirty-two, twenty-eight, twelve, eight and four lakh.",
+  "recitation": "(ḍhāḷa-chhaṭṭhī) cāla / sohama īśāna sanatakumāra e, / māhinda baṁbha re lāntaka sāra e ॥ / truṭaka / sāra śukra ane sahasāraha, ānata prāṇata āraṇā. / acyuta navagraiveyaka trika tihāṁ pañca anuttara tāraṇā. / anukrame prāsāda kahīe, lākha sahasa sata saṅkhyā. / battīsa aṭṭhāvīsa bāraha, aṭh cau lakkha akkhayā.",
+  "wordByWord": [
+    {
+      "token": "(ઢાળ-છઠ્ઠી)",
+      "translit": "ḍhāḷa-chhaṭṭhī",
+      "gloss": "the sixth dhāla (melodic section)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ḍhāḷa 'tune/melodic movement' + chhaṭṭhī 'sixth' (Skt. ṣaṣṭhī)",
+      "notes": "Structural heading marking the start of Dhāla 6, the upper-world (ūrdhva-loka) census."
+    },
+    {
+      "token": "ચાલ",
+      "translit": "cāla",
+      "gloss": "the 'cāla' tune-segment",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati cāla 'gait, running tune' < Skt. cala 'moving'",
+      "notes": "A musical-prosodic marker; the dhāla alternates a cāla part and a truṭak part."
+    },
+    {
+      "token": "સોહમ",
+      "translit": "sohama",
+      "gloss": "Saudharma (the first heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sohamma < Skt. saudharma, the first kalpa",
+      "notes": "Lowest of the kalpa heavens, abode of Śakra (Indra)."
+    },
+    {
+      "token": "ઈશાન",
+      "translit": "īśāna",
+      "gloss": "Īśāna (the second heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. īśāna 'ruling'",
+      "notes": ""
+    },
+    {
+      "token": "સનતકુમાર",
+      "translit": "sanatakumāra",
+      "gloss": "Sanatkumāra (the third heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sanatkumāra",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "(metrical/emphatic particle, untranslatable filler)",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati / Apabhraṁśa enclitic e, deictic-emphatic",
+      "notes": "Line-end refrain syllable; carries no lexical meaning."
+    },
+    {
+      "token": "માહિંદ",
+      "translit": "māhinda",
+      "gloss": "Māhendra (the fourth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit māhinda < Skt. māhendra",
+      "notes": ""
+    },
+    {
+      "token": "બંભ",
+      "translit": "baṁbha",
+      "gloss": "Brahma / Brahmaloka (the fifth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit baṁbha < Skt. brahma(loka)",
+      "notes": ""
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "(vocative/metrical interjection, 'O', 'indeed')",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati re, exclamatory address",
+      "notes": "Filler for metre and song; not a name."
+    },
+    {
+      "token": "લાંતક",
+      "translit": "lāntaka",
+      "gloss": "Lāntaka (the sixth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. lāntaka",
+      "notes": ""
+    },
+    {
+      "token": "સાર",
+      "translit": "sāra",
+      "gloss": "excellent, foremost (essence)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sāra 'essence, the best'",
+      "notes": "Praise-word closing the cāla line; deliberately echoed at the start of the truṭak (the truṭak's chain-rhyme device)."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "(metrical/emphatic particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati enclitic e",
+      "notes": "Repeated line-end refrain."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "(verse-bar punctuation)",
+      "partOfSpeech": "particle",
+      "etymology": "daṇḍa, scribal verse divider",
+      "notes": "Part of the book's text per its orthography."
+    },
+    {
+      "token": "ત્રુટક",
+      "translit": "truṭaka",
+      "gloss": "the 'truṭak' meter-segment",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati truṭak, a quick chain-rhymed metre",
+      "notes": "Its convention is to begin by repeating the cāla's last word (here sāra)."
+    },
+    {
+      "token": "સાર",
+      "translit": "sāra",
+      "gloss": "excellent (echo-word)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sāra",
+      "notes": "Chain-rhyme repetition of the previous line's final word; carries the sense forward to Śukra."
+    },
+    {
+      "token": "શુક્ર",
+      "translit": "śukra",
+      "gloss": "Mahāśukra (the seventh heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śukra; here = mahāśukra kalpa",
+      "notes": ""
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati ane 'and' < Skt. anyat / Apabhraṁśa aṇṇa",
+      "notes": "Coordinating conjunction."
+    },
+    {
+      "token": "સહસારહ",
+      "translit": "sahasāraha",
+      "gloss": "Sahasrāra (the eighth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahasāra < Skt. sahasrāra; final -ha is a metrical/Apabhraṁśa extension",
+      "notes": ""
+    },
+    {
+      "token": "આનત",
+      "translit": "ānata",
+      "gloss": "Ānata (the ninth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ānata",
+      "notes": ""
+    },
+    {
+      "token": "પ્રાણત",
+      "translit": "prāṇata",
+      "gloss": "Prāṇata (the tenth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prāṇata",
+      "notes": ""
+    },
+    {
+      "token": "આરણા",
+      "translit": "āraṇā",
+      "gloss": "Āraṇa (the eleventh heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. āraṇa; final -ā for metre/rhyme",
+      "notes": ""
+    },
+    {
+      "token": "અચ્યુત",
+      "translit": "acyuta",
+      "gloss": "Acyuta (the twelfth heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. acyuta 'unfallen, imperishable'",
+      "notes": "Last of the twelve kalpas; above it lie the kalpātīta realms."
+    },
+    {
+      "token": "નવગ્રૈવેયક",
+      "translit": "nava-graiveyaka",
+      "gloss": "the nine graiveyaka (vimānas)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. nava 'nine' + graiveyaka 'of the neck' (from grīvā), so named as the 'neck' of the cosmic Puruṣa",
+      "notes": "Kalpātīta realm just above Acyuta."
+    },
+    {
+      "token": "ત્રિક",
+      "translit": "trika",
+      "gloss": "triad (set of three)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. trika 'group of three'",
+      "notes": "The nine graiveyakas are grouped as three triads — lower, middle and upper."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there (in that place)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati/Apabhraṁśa tihāṁ < Skt. tatra",
+      "notes": ""
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca 'five'",
+      "notes": ""
+    },
+    {
+      "token": "અનુત્તર",
+      "translit": "anuttara",
+      "gloss": "the Anuttara (the five supreme vimānas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. an-uttara 'than which there is none higher'",
+      "notes": "The topmost kalpātīta heaven, just below the siddha-śilā."
+    },
+    {
+      "token": "તારણા",
+      "translit": "tāraṇā",
+      "gloss": "delivering, saving (epithet of the vimānas)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. tāraṇa 'that which ferries across' < √tṝ 'to cross'",
+      "notes": "Rhyme-word praising the supreme heavens as near to liberation; from the Anuttara a being is at most two births from mokṣa."
+    },
+    {
+      "token": "અનુક્રમે",
+      "translit": "anukrame",
+      "gloss": "in sequence, in order",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. anukrameṇa 'in succession'",
+      "notes": "Signals that the numbers that follow map onto the heavens just listed, in order."
+    },
+    {
+      "token": "પ્રાસાદ",
+      "translit": "prāsāda",
+      "gloss": "palaces / Jina-temples (the celestial vimāna-shrines)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prāsāda 'lofty mansion, temple'",
+      "notes": "Here the eternal Jina-caityas crowning the heavenly vimānas; their tally equals the tally of vimānas."
+    },
+    {
+      "token": "કહીએ",
+      "translit": "kahīe",
+      "gloss": "are recounted / let us tell",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati kahīe < Skt. kathyate 'is said'",
+      "notes": "First-person plural / passive of recitation."
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. lakṣa",
+      "notes": "Units header: the largest tier of the count."
+    },
+    {
+      "token": "સહસ",
+      "translit": "sahasa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahasa < Skt. sahasra",
+      "notes": "Middle tier (the thousands figures fall in the next verse)."
+    },
+    {
+      "token": "સત",
+      "translit": "sata",
+      "gloss": "hundred",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sata < Skt. śata",
+      "notes": "Smallest tier of the tally."
+    },
+    {
+      "token": "સંખયા",
+      "translit": "saṅkhyā",
+      "gloss": "in number / by count",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. saṅkhyā 'enumeration'",
+      "notes": "Declares the whole list as a precise reckoning."
+    },
+    {
+      "token": "બત્તીસ",
+      "translit": "battīsa",
+      "gloss": "thirty-two (32 — Saudharma)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit battīsa < Skt. dvātriṁśat",
+      "notes": "32 lakh vimāna-palaces in Saudharma."
+    },
+    {
+      "token": "અઠ્ઠાવીસ",
+      "translit": "aṭṭhāvīsa",
+      "gloss": "twenty-eight (28 — Īśāna)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭhāvīsa < Skt. aṣṭāviṁśati",
+      "notes": "28 lakh in Īśāna."
+    },
+    {
+      "token": "બારહ",
+      "translit": "bāraha",
+      "gloss": "twelve (12 — Sanatkumāra)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bāraha < Skt. dvādaśa",
+      "notes": "12 lakh in Sanatkumāra."
+    },
+    {
+      "token": "અઠ્",
+      "translit": "aṭh",
+      "gloss": "eight (8 — Māhendra)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭha < Skt. aṣṭa",
+      "notes": "8 lakh in Māhendra."
+    },
+    {
+      "token": "ચઉ",
+      "translit": "cau",
+      "gloss": "four (4 — Brahmaloka)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cau < Skt. catur",
+      "notes": "4 lakh in Brahmaloka."
+    },
+    {
+      "token": "લક્ખ",
+      "translit": "lakkha",
+      "gloss": "lakh (hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lakkha < Skt. lakṣa",
+      "notes": "The unit applied to all five preceding figures (32/28/12/8/4 lakh)."
+    },
+    {
+      "token": "અક્ખયા",
+      "translit": "akkhayā",
+      "gloss": "imperishable, undecaying (eternal)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit akkhaya < Skt. akṣaya 'undecaying'",
+      "notes": "Stresses that these are śāśvata (ever-existing) shrines; a variant reading akkhayā < ākhyāta 'declared' is possible, but akṣaya better fits the eternal-temple theme."
+    }
+  ],
+  "literalTranslation": "(Dhāla six — cāla:) Saudharma, Īśāna, Sanatkumāra; Māhendra, Brahma, and excellent Lāntaka. (Truṭak:) excellent Śukra and Sahasrāra, Ānata, Prāṇata, Āraṇa; Acyuta, the nine graiveyakas in three triads, and there the five supreme Anuttara, the deliverers. In order their palaces are recounted, by lakhs, thousands and hundreds: thirty-two, twenty-eight, twelve, eight, four — lakhs, imperishable.",
+  "idiomaticTranslation": "Now the eye climbs the upper heavens, rung upon rung: Saudharma, Īśāna, Sanatkumāra; Māhendra, Brahma, glorious Lāntaka; glorious Śukra and Sahasrāra; Ānata, Prāṇata, Āraṇa, Acyuta; then the nine Graiveyakas in their three triads, and crowning all, the five supreme Anuttara that carry the soul across. Taken in order, their eternal Jina-palaces are told by lakhs, thousands and hundreds — thirty-two, twenty-eight, twelve, eight, and four lakh, undying and ever-standing.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having finished the lower world, the hymn now lifts the worshipper's gaze straight up the spine of the cosmos. The verse is essentially a vertical roll-call of the heavens, recited as a single ascending breath: the twelve kalpas (Saudharma through Acyuta), then the two kalpātīta tiers — the nine Graiveyakas 'in three triads' (trika) and the five Anuttara at the very top. The form mirrors the content: the truṭak's chain-rhyme, where the cāla's last word sāra is caught up again to begin the next line, makes the list itself feel like one realm linking seamlessly into the next, the way the heavens stack without gap. Two epithets do quiet doctrinal work. The Anuttara are called tāraṇā, 'the deliverers' — fitting, since a soul reaching the Anuttara is at most a birth or two from mokṣa. And the whole tally is sealed as akkhayā, 'imperishable': these are not built temples but śāśvata shrines that have always stood and always will. The verse then opens the census proper. 'In order (anukrame) the palaces are recounted, by lakhs, thousands and hundreds' is a deliberate signpost: the numbers that follow are to be read against the heavens just named, in sequence. The first five figures land here — 32, 28, 12, 8, 4 lakh — for Saudharma, Īśāna, Sanatkumāra, Māhendra and Brahma; the thousands- and hundreds-tier counts for the remaining heavens spill into the next verse, which is exactly why this one ends mid-reckoning on lakkha. The reciter is thus left leaning forward into the following lines.",
+    "doctrinalContext": "The 'palaces' (prāsāda) are the eternal Jina-caityas that, in Jaina cosmography, crown the vimānas of every heaven; counting the palaces is counting the vimānas, and the figures the verse gives — 32, 28, 12, 8, 4 lakh — are precisely the canonical vimāna-tallies of the first five kalpas in the Tattvārtha tradition. The point is not arithmetic but darśana-strengthening: the eternal, uncreated Jina-shrine exists in untold millions even in realms no human will ever enter, so the Jina is honoured wholly apart from any human act of building. The śāśvata/aśāśvata distinction (here flagged by akkhayā) and the kalpa vs. kalpātīta division (the twelve named kalpas versus the Graiveyaka–Anuttara) are the load-bearing categories the count rests on.",
+    "practicalRelevance": "Recited at dawn, this verse is a vertical meditation: the practitioner lets the names climb, Saudharma to Anuttara, bowing in spirit to an eternal Jina-temple atop each heaven. The lakh-figures are meant to dissolve the small self in awe, not to be summed — let the numbers widen the heart, then carry that steadied reverence into the day.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 4.3–4.4 (the vaimānika devas: kalpopapanna and kalpātīta; order of the heavens)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Bṛhat-saṅgrahaṇī / Saṅgrahaṇī-ratna (vimāna-counts of the kalpas: 32, 28, 12, 8, 4 lakh …)",
+        "source": "Śrīcandrasūri, Saṅgrahaṇī tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vaimānika — Jainism definition (citing Tattvārthasūtra 4.3 and the order of the twelve kalpas)",
+      "url": "https://www.wisdomlib.org/definition/vaimanika",
+      "type": "dictionary",
+      "consultedFor": "Confirming the sequence Saudharma, Īśāna, Sanatkumāra, Māhendra, Brahmaloka, Lāntaka, Mahāśukra, Sahasrāra, Ānata, Prāṇata, Āraṇa, Acyuta, and the kalpopapanna/kalpātīta division."
+    },
+    {
+      "title": "Graiveyaka — Jainism definition (kalpātīta subclass)",
+      "url": "https://www.wisdomlib.org/definition/graiveyaka",
+      "type": "dictionary",
+      "consultedFor": "Identifying the nine graiveyaka as kalpātīta vimānas above Acyuta and the etymology from grīvā ('neck')."
+    },
+    {
+      "title": "Anuttara — Jainism definition",
+      "url": "https://www.wisdomlib.org/definition/anuttara",
+      "type": "dictionary",
+      "consultedFor": "The five Anuttara as the supreme vimānas and the sense an-uttara 'than which none is higher'."
+    },
+    {
+      "title": "Prāsāda — definitions (Sanskrit/architecture)",
+      "url": "https://www.wisdomlib.org/definition/prasada",
+      "type": "dictionary",
+      "consultedFor": "Glossing prāsāda as 'lofty mansion / temple' for the celestial Jina-palaces."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Token spellings (sohama, baṁbha, sahasāraha, āraṇā, battīsa, akkhayā, etc.) are kept verbatim per the book's orthography, including its Prakrit/Apabhraṁśa metrical forms (e.g. final -ha in sahasāraha, -ā in āraṇā for rhyme). The five lakh-figures (32/28/12/8/4) align with the canonical vimāna-counts of the first five kalpas (Saudharma–Brahma); the verse stops mid-census, with the thousands/hundreds tiers (Lāntaka 50,000; Mahāśukra 40,000; Sahasrāra 6,000; Ānata–Āraṇa hundreds; graiveyaka 111; anuttara 5) continuing in the next verse, so 'sahasa/sata' here are headers, not yet applied. akkhayā is read as akṣaya 'imperishable' (suiting the śāśvata-caitya theme); a minority reading ākhyāta 'declared' is possible — flagged as uncertain. tāraṇā is taken as an epithet 'delivering/saving' rather than a place-name; this is interpretive. Vimāna-tallies are traditional cosmographic figures preserved as printed, not independently audited."
+}

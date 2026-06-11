@@ -1,0 +1,132 @@
+{
+  "shlokaId": "drumapushpika-sajjhay/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Wise ones who live unattached like honey-bees, taking a little food from many homes and keeping their senses in check — these are the people we rightly call true monks.",
+  "recitation": "mahugārasamā buddhā, je bhavanti aṇissiyā; ṇāṇā-piṇḍarayā dantā, teṇaṁ vuccanti sāhūṇo.",
+  "wordByWord": [
+    {
+      "token": "મહુગારસમા",
+      "translit": "mahugārasamā",
+      "gloss": "like a honey-bee (madhukara-samā)",
+      "partOfSpeech": "compound",
+      "etymology": "From mahugāra (Skt. madhukara, 'honey-maker/bee', mahu = honey + gāra/kara = maker) + samā ('like, equal to'). A bahuvrīhi-type simile compound.",
+      "notes": "Prakrit mahu- preserves the book's spelling; the term deliberately echoes the chapter's bee-imagery and sets up the closing wordplay with sāhū."
+    },
+    {
+      "token": "બુદ્ધા",
+      "translit": "buddhā",
+      "gloss": "the wise / awakened ones",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. root budh ('to awaken, understand'); Prakrit buddha = 'one who has understood' — here a discerning, awakened ascetic, not the Buddhist title.",
+      "notes": "Nominative plural; refers to mendicants of awakened insight."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "those who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun (Skt. ye), nom. pl., correlating with teṇaṁ ('for that reason') in the second half.",
+      "notes": "Opens the relative clause that the final pāda resolves."
+    },
+    {
+      "token": "ભવંતિ",
+      "translit": "bhavanti",
+      "gloss": "are / become",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt. root bhū ('to be, become'); 3rd person plural present, Prakrit bhavanti.",
+      "notes": "Links the subject 'wise ones' with their defining qualities."
+    },
+    {
+      "token": "અણિસ્સિયા",
+      "translit": "aṇissiyā",
+      "gloss": "unattached, leaning on no single support",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṇissiya = Skt. an-iśrita (a- negation + ni-śri, 'to lean upon, resort to'); 'not dependent on, not resorting to' any one giver or thing.",
+      "notes": "Carries the aparigraha sense: relying on no single household, exactly as a bee leans on no single flower."
+    },
+    {
+      "token": "ણાણાપિંડરયા",
+      "translit": "ṇāṇā-piṇḍarayā",
+      "gloss": "devoted to varied gathered alms",
+      "partOfSpeech": "compound",
+      "etymology": "ṇāṇā (Skt. nānā, 'various, manifold') + piṇḍa ('lump/morsel of alms-food') + rayā (Skt. ratā, 'engaged in, devoted to', from ram). 'Engaged in varied alms-morsels.'",
+      "notes": "Encodes the mādhukarī mode: small amounts collected from many homes, never a full meal from one."
+    },
+    {
+      "token": "દંતા",
+      "translit": "dantā",
+      "gloss": "self-controlled, tamed",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dānta, past participle of dam ('to tame, subdue'); 'one whose senses are mastered.'",
+      "notes": "The inner counterpart to the outer alms-discipline: restraint of the senses."
+    },
+    {
+      "token": "તેણં",
+      "translit": "teṇaṁ",
+      "gloss": "for that very reason, therefore",
+      "partOfSpeech": "adverb",
+      "etymology": "Instrumental of the demonstrative ta- (Skt. tena, 'by that, therefore'), with Prakrit anusvāra; a causal connective.",
+      "notes": "The hinge of the verse: it makes the title sādhu a consequence of the preceding qualities."
+    },
+    {
+      "token": "વુચ્ચંતિ",
+      "translit": "vuccanti",
+      "gloss": "are called",
+      "partOfSpeech": "verb",
+      "etymology": "Passive present, 3rd pl., from Skt. root vac ('to speak'); Prakrit vuccanti = Skt. ucyante, 'they are said/called.'",
+      "notes": "Definitional verb — the verse formally confers the name."
+    },
+    {
+      "token": "સાહૂણો",
+      "translit": "sāhūṇo",
+      "gloss": "sādhus (true mendicants)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāhū = Skt. sādhu, from root sādh ('to accomplish, perfect'); 'one who accomplishes the goal.' Nom. pl. with Prakrit -ṇo ending.",
+      "notes": "The book's verbatim sāhūṇo is preserved; the verse implicitly links sādhu to the bee-like, accomplished life."
+    }
+  ],
+  "literalTranslation": "Those who become like honey-bees — awakened, leaning on no one, devoted to varied gathered alms, self-controlled — for that very reason are called sādhus.",
+  "idiomaticTranslation": "The wise who live bee-like — depending on no single giver, content with the small varied morsels they gather from many doors, their senses fully mastered — it is precisely for this that they are called true sādhus.",
+  "elaboration": {
+    "verseByVerseCommentary": "This closing verse delivers the chapter's verdict. Having voiced the mendicants' own resolve in verse 4 ('we gain our livelihood and harm no being'), the verse now names the kind of person such conduct produces. Four qualifiers are stacked onto buddhā ('the wise'): mahugārasamā (bee-like), aṇissiyā (leaning on no one), ṇāṇā-piṇḍarayā (content with varied scattered alms), and dantā (sense-controlled). Read together they fuse outer behaviour and inner state — the bee-image is not mere poetry but a precise rule of livelihood (little from many, harming none), while dantā guards the heart so that gathering never becomes craving. The structural pivot is teṇaṁ, 'for that very reason': the title sādhu is presented not as a robe one wears but as something earned by these qualities. There is a quiet etymological resonance — one who is mahugāra-like (a 'honey-maker') and who sādh-ati, accomplishes the goal, is fittingly a sādhu. The relative-correlative frame (je… teṇaṁ) makes the definition conditional and testable: where these marks are absent, the name does not truly apply. Thus the verse converts the sustained simile of the chapter into a working criterion of authentic monkhood, sealing the arc from 'dharma is the highest blessing' to 'this is what a person grounded in that dharma actually looks like.'",
+    "doctrinalContext": "The verse compresses several core Jain commitments into a single definition. aṇissiyā expresses aparigraha and non-reliance — the renouncer must not become a fixture or burden on any one household. ṇāṇā-piṇḍarayā operationalises the eṣaṇā-samiti and the mādhukarī-vṛtti: alms taken in small portions from many homes, only what is already prepared (yathākṛta), so that no special cooking or harm is occasioned — a direct safeguard of ahiṁsā. dantā names indriya-nigraha (sense-restraint), the inner saṁyama without which outer alms-discipline is hollow. By making sādhu-hood the consequence (teṇaṁ vuccanti) of these, the verse teaches that monastic identity is functional, resting on conduct and inner mastery rather than on status.",
+    "practicalRelevance": "Even a lay reciter can carry this verse into daily life: take what you need lightly, from varied sources, without making yourself a burden on or a dependent of any one person; be content with little; and pair that outward simplicity with genuine self-restraint. The verse invites self-examination — do my habits of consumption leave others unharmed and unencumbered? It reframes 'holiness' as a quality proven by gentle, contented, disciplined living rather than by title.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra 1.1–1.4 (the preceding verses of this same chapter, establishing dharma and the bee-and-flower simile)",
+        "source": "Daśavaikālika, Ardhamāgadhī mūlasūtra"
+      },
+      {
+        "text": "Daśavaikālika ch. 5 (Piṇḍaiṣaṇā), on the rules of faultless alms-seeking that this verse presupposes",
+        "source": "Daśavaikālika-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra on the marks of the true śramaṇa",
+        "source": "Uttarādhyayana, Śvetāmbara mūlasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Daśavaikālika-sūtra (overview, authorship by Ācārya Śayyambhava, Chapter 1 Drumapuṣpikā)",
+      "url": "https://www.wisdomlib.org/jainism/book/dasavaikalika-sutra",
+      "type": "scholarship",
+      "consultedFor": "Chapter 1 context, the bee-and-flower simile, and the sense of the four qualifiers in verse 5"
+    },
+    {
+      "title": "Jain eLibrary — Dashavaikalika Sutra texts and commentaries",
+      "url": "https://www.jainelibrary.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim text of Drumapuṣpikā verse 5 and its standard meaning (aṇissiya, ṇāṇā-piṇḍa-rayā, danta, sāhūṇo)"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: madhukara, an-iśrita, nānā, piṇḍa, ratā, dānta, ucyante, sādhu"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse identified as Daśavaikālika 1.5. The book's Prakrit orthography (mahugārasamā, aṇissiyā, ṇāṇāpiṇḍarayā, dantā, teṇaṁ, vuccanti, sāhūṇo) is preserved verbatim and not normalized. -rayā in ṇāṇāpiṇḍarayā is read as Skt. ratā ('devoted/engaged in'); some editions read -ratā explicitly. buddhā here means 'the discerning/awakened' (an epithet of the wise mendicant), not the Buddhist title — flagged to avoid confusion. The etymological resonance between mahugāra/sādh- and sādhu is a traditional reading reinforced by the preface's note on the verse-5 wordplay; treated as interpretive, not a strict philological derivation."
+}

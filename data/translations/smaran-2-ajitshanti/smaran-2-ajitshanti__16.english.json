@@ -1,0 +1,184 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Ajitanātha could never be beaten by anyone — not in inner courage, not in bodily strength, not in austerity or self-control — and so I praise him.",
+  "recitation": "satte a sayā ajiaṁ, sārīre a bale ajiaṁ; tava saṁjame a ajiaṁ, esa ahaṁ thuṇāmi jiṇaṁ ajiaṁ.",
+  "wordByWord": [
+    {
+      "token": "સત્તે",
+      "translit": "satte",
+      "gloss": "in spirit / inner courage (sattva)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of satta < Sanskrit sattva ('being, essence, courage, spiritual energy').",
+      "notes": "Locative of domain: 'when it comes to sattva.' Renders the Jina's moral-spiritual fortitude, the first of four arenas of his invincibility."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < Sanskrit ca ('and'); the conjunctive particle reduced to a single vowel.",
+      "notes": "Connective linking the successive locatives; recurs three times in the verse."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā < Sanskrit sadā ('always').",
+      "notes": "Universalizes the claim: not occasionally but perpetually unconquered."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "unconquered, invincible (Ajita)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ajia < Sanskrit a-jita ('not conquered'), from negative a- + jita (past participle of √ji, 'to conquer').",
+      "notes": "First of five occurrences; here predicative adjective ('[he is] unconquered in sattva'), simultaneously evoking the proper name Ajita."
+    },
+    {
+      "token": "સારીરે",
+      "translit": "sārīre",
+      "gloss": "in the bodily (sphere)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit locative of sārīra < Sanskrit śārīra ('bodily, physical'), from śarīra ('body').",
+      "notes": "Qualifies the following bale; together 'in bodily strength.'"
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < Sanskrit ca ('and').",
+      "notes": "Second connective."
+    },
+    {
+      "token": "બલે",
+      "translit": "bale",
+      "gloss": "in strength / power",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of bala < Sanskrit bala ('strength, might').",
+      "notes": "Second arena: physical might — the strength of a Tīrthaṅkara's body, traditionally that of countless men."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "unconquered",
+      "partOfSpeech": "adj",
+      "etymology": "See above (a-jita).",
+      "notes": "Second occurrence; anaphora reinforcing the refrain."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "in austerity (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava < Sanskrit tapas ('austerity, ascetic heat').",
+      "notes": "Locative sense ('in tapas'), governed alongside saṁjame by the following particle. Not the pronoun 'tava' ('your'); the pairing with saṁyama fixes it as tapas — see notes."
+    },
+    {
+      "token": "સંજમે",
+      "translit": "saṁjame",
+      "gloss": "in self-restraint (saṁyama)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of saṁjama < Sanskrit saṁyama ('restraint, control'), from sam- + √yam ('to hold, curb').",
+      "notes": "Third and fourth arenas: tapas and saṁyama, the ascetic disciplines."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < Sanskrit ca ('and').",
+      "notes": "Third connective, joining tapas and saṁyama into one domain."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "unconquered",
+      "partOfSpeech": "adj",
+      "etymology": "See above (a-jita).",
+      "notes": "Third occurrence, closing the list of arenas."
+    },
+    {
+      "token": "એસ",
+      "translit": "esa",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit esa < Sanskrit eṣa ('this, this one [near at hand]').",
+      "notes": "Deictic pointing to the Jina just described, drawing him before the worshipper's eyes."
+    },
+    {
+      "token": "અહં",
+      "translit": "ahaṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit ahaṁ < Sanskrit aham ('I').",
+      "notes": "The poet's first person; the devotee personally enters the act of praise."
+    },
+    {
+      "token": "થુણામિ",
+      "translit": "thuṇāmi",
+      "gloss": "I praise",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇāmi (1 sg. pres.) < Sanskrit stunāmi / stauti, from √stu ('to praise, extol'); Sanskrit st- > Prakrit th-.",
+      "notes": "The verse's main verb; the whole stanza resolves into this act of stuti."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (the conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina ('victor, conqueror'), from √ji ('to conquer'); accusative object of thuṇāmi.",
+      "notes": "Pointed wordplay: he is a-jita ('unconquered') precisely because he is jina ('the conqueror' of passions)."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "Ajita (the unconquered one)",
+      "partOfSpeech": "invocation",
+      "etymology": "See above (a-jita); here functioning as the proper name Ajitanātha.",
+      "notes": "Fifth and climactic occurrence; the adjective resolves into the name — the praised Jina is Ajita."
+    }
+  ],
+  "literalTranslation": "Ever unconquered in spirit (sattva), and unconquered in bodily strength; unconquered in austerity and self-restraint — this unconquered Jina I praise.",
+  "idiomaticTranslation": "Forever undefeated in inner courage, undefeated in the strength of his body, undefeated in austerity and in self-mastery — this invincible Jina, Ajita, I now praise.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is one of the verses that hymns Ajita directly, and it does so by literally exhausting the meaning of his name. Five times the word ajiaṁ ('unconquered') tolls — once for each arena of excellence and once, finally, for the Jina himself — so the verse becomes a sustained anaphora that the ear cannot miss. The poet maps invincibility across four domains arranged from inner to outer: sattva (spirit, moral courage), sārīra-bala (bodily strength), tapas (austerity), and saṁyama (self-restraint). The movement is deliberate. A worldly hero might be unbeaten in body alone; this Jina is unbeaten first in the spirit that animates the body, and then equally in the two ascetic disciplines — austerity and restraint — by which the spirit is perfected. The adverb sayā ('always') guards against any sense of a victory that could lapse: his invincibility is not a record but a permanent state. The stanza then turns personal — esa ahaṁ thuṇāmi ('this one, I praise') — collapsing the catalogue of virtues into a single devotional act, the deictic esa ('this') bringing the Jina near as though present before the reciter. The capstone is the pun on which the whole verse pivots: thuṇāmi jiṇaṁ ajiaṁ — 'I praise the Jina, the unconquered.' Because he is jina, the conqueror, no force could ever make him a-jita's opposite; conqueror and unconquered are two faces of one perfection, and the name Ajita is thereby shown to be earned, not merely given.",
+    "doctrinalContext": "The verse rests on the core Jain meaning of jina: a 'conqueror' not of armies but of the kaṣāyas (passions) and karma. The fourfold list quietly traces the ascetic path itself — tapas (austerity) and saṁyama (restraint) are standard pillars of the mokṣa-mārga, while sattva names the inner vīrya (spiritual energy) that drives them and bala the bodily vessel that sustains them. To be 'unconquered' in all four is to have left nothing in oneself that passion could seize; invincibility here is the outward sign of total inward conquest. Thus the poet's logic is exact: one who is jina must be ajita, and praising the ajita Jina is praising the very victory that defines Tīrthaṅkarahood.",
+    "practicalRelevance": "Reciting this verse, a practitioner does more than flatter a hero; he holds up four mirrors — courage, bodily discipline, austerity, restraint — and measures his own day against each. The refrain 'ajiaṁ … ajiaṁ' becomes an aspiration: to remain unshaken in spirit under provocation, and steady in tapas and saṁyama when they are inconvenient, drawing on the Jina as the proof that such unbroken steadiness is possible.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.3 (tapas as a means of saṁvara/nirjarā) and 9.6 (the forms of saṁyama)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Refrain 'namo ajiya saṁtiṇaṁ' (Ajitaśānti Stava v.3), the name-play this verse elaborates",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava (Anchalgachchha/Vidhipaksha recension)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and meanings of √ji (jina, a-jita), √stu (stunāmi/stauti, 'praise'), sattva, bala, tapas, saṁyama, eṣa, sadā."
+    },
+    {
+      "title": "Jain eLibrary (JainQQ) — Ajitaśānti Stava anthologies and recensions",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Identification of the verse as direct praise of Ajitanātha and confirmation of the fivefold ajita refrain within the hymn."
+    },
+    {
+      "title": "Wisdom Library — Prakrit/Sanskrit lexical entries (ajita, saṁyama, tapas, sattva, jina)",
+      "url": "https://www.wisdomlib.org/",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking Ardhamagadhi/Prakrit glosses and Jain doctrinal senses of saṁyama, tapas, and jina."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse text is preserved verbatim from the book, including its orthography (single conjunct in અજિઅં, the particle અ for ca, anusvāra placement). 'તવ' (tava) is read as tapas ('austerity') in the locative series — the standard reading, since it is paired with saṁjame (saṁyama) as the two ascetic disciplines; a homographic reading as the pronoun tava ('your') is possible but does not fit the parallel structure of domain-locatives and is rejected here. The locative endings (satte, sārīre, bale, saṁjame) express the domain 'in/with respect to,' i.e. 'unconquered when it comes to ___.' Web searches returned several fabricated verse quotations for this hymn; those were disregarded, and only stable, verifiable lexical/scholarly resources are cited above. The reflex Skt st- > Prakrit th- (stunāmi > thuṇāmi) is regular and well attested."
+}

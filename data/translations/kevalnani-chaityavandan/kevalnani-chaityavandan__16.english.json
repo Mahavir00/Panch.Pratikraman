@@ -1,0 +1,160 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Now I bow to the sixty-four lakh ever-existing Jina-temples that stand in the lower world, the realm of the Asurakumāra gods.",
+  "recitation": "(ḍhāla-pāñcamī) have pāyāle loka majha, jihāṁ asurakumāra | lākha cosaṭha jinabhuvana achhe, tihāṁ karuṁ juhāra ||",
+  "wordByWord": [
+    {
+      "token": "(ઢાળ-પાંચમી)",
+      "translit": "(ḍhāla-pāñcamī)",
+      "gloss": "(the fifth ḍhāla / melodic section)",
+      "partOfSpeech": "noun",
+      "etymology": "ḍhāla (a sung tune/section of a Gujarati devotional poem) + pāñcamī 'fifth' (Skt. pañcamī).",
+      "notes": "A rubric marking the start of dhāla 5, not part of the chanted line; printed verbatim in the book."
+    },
+    {
+      "token": "હવે",
+      "translit": "have",
+      "gloss": "now",
+      "partOfSpeech": "adverb",
+      "etymology": "Old/Modern Gujarati have 'now', from Apabhraṁśa havaï/huṇa (cf. Skt. adhunā / bhavati).",
+      "notes": "Signals the turn from the named Jinas (dhāla 4) to the temple-census; 'now (next) …'."
+    },
+    {
+      "token": "પાયાલે",
+      "translit": "pāyāle",
+      "gloss": "in the netherworld (pātāla), the lower world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāyāla < Skt. pātāla 'subterranean realm'; here in the locative (-e).",
+      "notes": "Names the adho-loka, the first of the three worlds to be surveyed."
+    },
+    {
+      "token": "લોક",
+      "translit": "loka",
+      "gloss": "world, realm",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. loka 'world, inhabited realm'.",
+      "notes": "Stands in apposition to pāyāle: 'the pātāla-world'."
+    },
+    {
+      "token": "મઝ",
+      "translit": "majha",
+      "gloss": "within, amid",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati postposition majha < Pkt. majjha < Skt. madhya 'middle, within'.",
+      "notes": "Postposition governing loka: 'within the world'."
+    },
+    {
+      "token": "જિહાં",
+      "translit": "jihāṁ",
+      "gloss": "where",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati relative adverb < Pkt. jahiṁ (Skt. yatra).",
+      "notes": "Correlates with tihāṁ ('there') in the next line."
+    },
+    {
+      "token": "અસુરકુમાર",
+      "translit": "asurakumāra",
+      "gloss": "the Asurakumāra (first class of bhavanapati gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. asura 'a class of god' + kumāra 'youth, prince', for their ever-youthful princely form.",
+      "notes": "The first of the ten bhavanavāsin/bhavanapati classes; their abodes head the lower-world census."
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. lakkha < Skt. lakṣa.",
+      "notes": "Reads with cosaṭha as 'sixty-four lakh'."
+    },
+    {
+      "token": "ચોસઠ",
+      "translit": "cosaṭha",
+      "gloss": "sixty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati cosaṭh < Pkt. causaṭṭhi < Skt. catuḥṣaṣṭi '64'.",
+      "notes": "The traditional count of Asurakumāra bhavanas, each holding one eternal Jina-temple."
+    },
+    {
+      "token": "જિનભુવન",
+      "translit": "jinabhuvana",
+      "gloss": "Jina-temples (jina-houses)",
+      "partOfSpeech": "compound",
+      "etymology": "jina 'awakened conqueror' + bhuvana 'dwelling, mansion' (Skt.); = jinālaya/jina-caitya.",
+      "notes": "Here the śāśvata (eternal) caityas, not human-built shrines."
+    },
+    {
+      "token": "અછે",
+      "translit": "achhe",
+      "gloss": "there are, exist",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati achhaï 'is/exists' < Pkt. acchaï (cf. Skt. āste 'remains, abides'); ancestor of Modern Gujarati che.",
+      "notes": "The verb of existence asserts the temples' ever-present being."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati correlative < Pkt. tahiṁ (Skt. tatra).",
+      "notes": "Answers jihāṁ: 'where … there I salute'."
+    },
+    {
+      "token": "કરું",
+      "translit": "karuṁ",
+      "gloss": "I make, I do (offer)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati karuṁ, 1 sg. < Pkt. karemi/karuṁ < Skt. karomi (√kṛ).",
+      "notes": "First person: the worshipper himself performs the act, here-and-now."
+    },
+    {
+      "token": "જુહાર",
+      "translit": "juhāra",
+      "gloss": "salutation, reverent obeisance",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa/Old Gujarati juhāra 'respectful greeting' (cf. namaskāra); idiom karuṁ juhāra 'I make salutation'.",
+      "notes": "Mental bowing (mānasa-vandana) directed to temples no earthly pilgrim can reach."
+    }
+  ],
+  "literalTranslation": "Now, within the lower-world realm (pātāla), where the Asurakumāra (gods dwell) — there exist sixty-four lakh Jina-temples; there I offer my salutation.",
+  "idiomaticTranslation": "Now my reverence turns downward, to the pātāla-realm where the Asurakumāra gods abide: there stand sixty-four lakh eternal Jina-temples, and to all of them, there, I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having sealed the ninety-six Jinas in the preceding line with the poet's signature, the hymn now pivots from honouring persons to counting their houses, opening the lower-world (adho-loka) reckoning with the very first rank of its gods. The word have ('now') is the hinge of that pivot. The geography is laid out in two steps: pāyāle loka majha fixes the place — 'within the pātāla-world' — and jihāṁ asurakumāra peoples it: the realm of the Asurakumāra, the first of the ten bhavanapati classes. Against that backdrop the verse plants its single devotional fact: lākha cosaṭha jinabhuvana achhe, 'sixty-four lakh Jina-temples exist there.' The choice of the bare existential verb achhe ('they are') is deliberate and weighty: the poet does not say they were built or established but simply that they are — language fit for śāśvata caityas, eternal and uncreated. The couplet then closes the circuit with a tight jihāṁ … tihāṁ ('where … there') frame and the first-person act karuṁ juhāra, 'there I make salutation.' Note that the bow is performed in the present tense by the reciter himself, reaching a place no human foot can tread; the salutation is purely mental. The number is not arithmetic to be checked but the count of the Asurakumāra bhavanas, each said to enshrine one Jina-image, so that the figure is at once cosmographic and an instrument of awe. The following line will simply move the same gesture one rank down the list, to the Nāgakumāra and their eighty-four lakh shrines — this verse establishes the template the whole dhāla repeats.",
+    "doctrinalContext": "The verse rests on the doctrine of śāśvata caityas — Jina-temples and images that exist eternally, without maker or beginning, throughout the cosmos, including the palatial abodes (bhavana) of the bhavanapati gods in the Ratnaprabhā stratum of the lower world. That even celestial beings keep Jina-shrines underscores a core Jain claim: the Jina, though long liberated and beyond personal response, remains the supreme object of veneration for gods and humans alike, worshipped through his caitya. The reciter's juhāra is thus caitya-vandana extended to its cosmic limit — reverence offered by mental act to images one can never physically visit, which is itself a discipline that strengthens samyaktva (right faith) by enlarging the field of devotion beyond the visible.",
+    "practicalRelevance": "Reciting this line, a worshipper lets the morning bow travel past the local temple to the unseen shrines of the entire lower world. The practice is to dwell on achhe — 'they are there' — and on the staggering count not as data but as a prompt to wonder, deflating the self and steadying faith before the day begins.",
+    "crossReferences": [
+      {
+        "text": "Tattvārthasūtra 4.10 — Asurakumāra as the first of the ten bhavanavāsin classes",
+        "source": "Umāsvāti, Tattvārthasūtra (Śvetāmbara recension)"
+      },
+      {
+        "text": "Bṛhat-Saṅgrahaṇī / Saṅgrahaṇīratna — enumeration of bhavanapati abodes (64 lakh Asurakumāra)",
+        "source": "Śrīcandra, Saṅgrahaṇīratna (Śvetāmbara cosmography)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Asurakumāra — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/asurakumara",
+      "type": "dictionary",
+      "consultedFor": "Confirming Asurakumāra as the first of the ten bhavanavāsin/bhavanapati classes (Tattvārthasūtra 4.10), princely (kumāra) form, dwelling in bhavanas of the lower world."
+    },
+    {
+      "title": "Bhavanapati — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/bhavanapati",
+      "type": "dictionary",
+      "consultedFor": "The ten bhavanapati classes and their location in the Ratnaprabhā earth of the adho-loka (lower world)."
+    },
+    {
+      "title": "Pātāla — definition",
+      "url": "https://www.wisdomlib.org/definition/patala",
+      "type": "dictionary",
+      "consultedFor": "Sense of pātāla as the subterranean/lower realm, glossing the verse's pāyāle (pātāla)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Spellings kept verbatim per the book (પાયાલે, મઝ, અછે, જિનભુવન, જુહાર); the rubric (ઢાળ-પાંચમી) is a section heading, not part of the chanted couplet, but retained in recitation in parentheses. 'મઝ' is an Old Gujarati postposition 'within' (< madhya), not the noun 'middle'. The verb 'અછે' is the archaic existential ancestor of modern છે. The 'sixty-four lakh' is the traditional count of Asurakumāra bhavanas, each holding one śāśvata Jina-temple; it is a cosmographic/devotional figure preserved as printed, not independently audited. wisdomlib's introductory line loosely grouping Asurakumāra with Vyantaras was disregarded in favour of its own sourced statement (and Tattvārthasūtra 4.10) placing them as the first bhavanavāsin class, which the verse and preface confirm."
+}

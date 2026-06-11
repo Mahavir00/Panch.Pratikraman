@@ -1,0 +1,158 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/21",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Adding it all up, there are seven crore seventy-two lakh eternal Jina-temples here, and I bow to every one of them — just as the Jina himself declared.",
+  "recitation": "Evaṁkāre savi maḷī, bahuṁter tihāṁ lākh. Sāt koḍī jinhar namuṁ, śrī jinavar bhākh.",
+  "wordByWord": [
+    {
+      "token": "એવંકારે",
+      "translit": "evaṁkāre",
+      "gloss": "in this manner, thus (i.e. reckoned in this way)",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit evaṁ (‘thus, so’) + kāra (‘doing, manner’), instrumental/locative force; here a summing-up formula ‘adding it up thus’.",
+      "notes": "Signals that the preceding place-by-place figures are now being totalled."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, the whole",
+      "partOfSpeech": "adj",
+      "etymology": "Apabhraṁśa/old Gujarati savi from Sanskrit sarva (‘all’).",
+      "notes": ""
+    },
+    {
+      "token": "મળી",
+      "translit": "maḷī",
+      "gloss": "combined, taken together, totalled",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati gerund of maḷvuṁ (‘to meet, join, add up’), from Sanskrit milati (‘to unite’).",
+      "notes": "Absolutive: ‘all having been combined’ — the explicit act of summation."
+    },
+    {
+      "token": "બહુંતેર",
+      "translit": "bahuṁter",
+      "gloss": "seventy-two (72)",
+      "partOfSpeech": "noun",
+      "etymology": "Old Gujarati bahuṁter / bahoter ‘72’, from Prakrit bāhattari, Sanskrit dvāsaptati.",
+      "notes": "Qualifies lākh below: seventy-two lakh."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there, in that place (the lower world)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati/Apabhraṁśa tihāṁ from Sanskrit tatra (‘there’).",
+      "notes": "Refers to the adho-loka bhavanapati realms enumerated in the previous verse."
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākh",
+      "gloss": "lakh (one hundred thousand, 100,000)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati/Hindi lākh from Sanskrit lakṣa.",
+      "notes": "bahuṁter lākh = 72,00,000 (seventy-two lakh)."
+    },
+    {
+      "token": "સાત",
+      "translit": "sāt",
+      "gloss": "seven (7)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati sāt from Prakrit satta, Sanskrit sapta.",
+      "notes": ""
+    },
+    {
+      "token": "કોડી",
+      "translit": "koḍī",
+      "gloss": "crore (ten million, 10,000,000)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koḍi from Sanskrit koṭi (‘ten million; a vast number’).",
+      "notes": "sāt koḍī = 7,00,00,000; with the seventy-two lakh above this yields 7,72,00,000 in total."
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhar",
+      "gloss": "Jina-temples (jina-shrines)",
+      "partOfSpeech": "compound",
+      "etymology": "jina (‘Jina’) + har (gṛha, ‘house, temple’); Sanskrit jina-gṛha / jina-bhavana. Cf. jinhar/jinabhuvana glossed in the preface.",
+      "notes": "Temples (caitya), not images — the images (paḍimā) are tallied in the following verse."
+    },
+    {
+      "token": "નમું",
+      "translit": "namuṁ",
+      "gloss": "I bow, I make reverence",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati first-person of namvuṁ (‘to bow’), from Sanskrit √nam (namati, ‘to bow’).",
+      "notes": "The devotional pivot of the verse: the huge number exists to be bowed to, not merely counted."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "glorious, holy, blessed (honorific)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī (‘splendour, auspiciousness’), used as a reverential prefix.",
+      "notes": "Honorific qualifying jinavar."
+    },
+    {
+      "token": "જિનવર",
+      "translit": "jinavar",
+      "gloss": "the supreme Jina, the foremost Jina (Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "jina (‘conqueror’) + vara (‘best, foremost’); Sanskrit jina-vara.",
+      "notes": "The authority from whom this enumeration descends."
+    },
+    {
+      "token": "ભાંખ",
+      "translit": "bhākh",
+      "gloss": "(has) declared, spoken, proclaimed",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati bhākhvuṁ (‘to speak, declare’), from Sanskrit √bhāṣ (bhāṣate, ‘to speak’).",
+      "notes": "‘śrī jinavar bhākh’ = ‘as the glorious Jina declared’ — grounds the figure in āpta-vacana (authoritative scripture)."
+    }
+  ],
+  "literalTranslation": "Thus, all combined, seventy-two lakh there; seven crore Jina-temples I bow to — the glorious Jina declared (it).",
+  "idiomaticTranslation": "Reckoned all together, there in the lower world stand seventy-two lakh — and so, full seven crore Jina-temples in all, I bow to every one; for thus the blessed Jina himself proclaimed.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the tally-stroke of the lower-world survey. Where the previous verse distributed the count across the six dwelling-places of the bhavanapati gods ('in each a Jina-temple, seventy-six, seventy-six lakh there'), this verse gathers those partial figures into a single grand total: 'evaṁkāre savi maḷī' — 'reckoned all together thus.' The arithmetic resolves to seven crore seventy-two lakh (7,72,00,000) eternal Jina-temples filling the adho-loka. The poet's craft is to split that one number across the two lines — 'seventy-two lakh' lands at the end of line one, the larger 'seven crore' opens line two — so the listener feels the total mount. But the decisive word is the small one: 'namuṁ', 'I bow.' The whole vast census exists to bend at last into a single act of reverence; the numbers are scaffolding for a bow. The closing 'śrī jinavar bhākh' — 'so the glorious Jina declared' — is not filler but the verse's warrant: the worshipper is not totting up a guess but repeating a figure handed down in the Jina's own teaching, and bows on that authority. The verse thus completes the lower-world temple-count and sets up the next verse, which turns from temples (jinhar) to the images within them (paḍimā), counting thirteen hundred eighty-nine crore sixty lakh.",
+    "doctrinalContext": "The verse rests on two Jaina commitments. First, the reality of śāśvata caityas — eternal, unmade Jina-temples that exist perpetually in the bhavanapati realms of the lower world; bowing to them is full caitya-vandana even though no human built them and the worshipper will never see them. Second, pramāṇa: the figure is accepted as āpta-vacana, the word of the omniscient Jina ('śrī jinavar bhākh'), so that enumeration here is an act of faith in scripture (āgama) rather than empirical counting. The single first-person 'namuṁ' enacts dravya-and-bhāva vandana — a bodily-and-mental bow offered to temples beyond sight, strengthening samyaktva by trusting what the Jina revealed over what the eye can verify.",
+    "practicalRelevance": "Reciting this, a practitioner deliberately bows to temples he can never visit, training the mind to revere the Jina wherever he is honoured rather than only at the local shrine. The summation 'all combined' models the devotional move: gather the scattered, let the count overwhelm the small self, then resolve the whole immensity into one humble 'I bow.'",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-saṅgrahaṇī / Kṣetra-samāsa — enumeration of śāśvata jinālayas of the three worlds (adholoka 7,72,00,000; total 8,57,00,282)",
+        "source": "Śvetāmbara cosmographic tradition (Jinabhadra-gaṇi lineage)"
+      },
+      {
+        "text": "Following verse, kevalnani-chaityavandan/22 — 'lākh sāṭh nevyāsī koḍī ane terseṁ koḍī jina paḍimā' (the matching count of Jina-images of the lower world)",
+        "source": "Kevalnāṇī Bṛhat Caityavandana, Vācaka Mūlā (Anchalgaccha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain cosmology — lower world (adho-loka), bhavanapati, and eternal caityas",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "Structure of the adho-loka and the bhavanapati ('mansion-dwelling') gods whose realms hold the śāśvata Jina-temples totalled in this verse."
+    },
+    {
+      "title": "Jinālaya — definition",
+      "url": "https://www.wisdomlib.org/definition/jinalaya",
+      "type": "dictionary",
+      "consultedFor": "Confirming jinhar = jina-gṛha / jinālaya, an eternal Jina-temple (caitya), as distinct from the jina-image (pratimā)."
+    },
+    {
+      "title": "Bhavanapati — definition",
+      "url": "https://www.wisdomlib.org/definition/bhavanapati",
+      "type": "dictionary",
+      "consultedFor": "Identity of the bhavanapati devas of the lower world, the location ('tihāṁ', there) of the temples counted in this verse."
+    },
+    {
+      "title": "Koṭi — definition",
+      "url": "https://www.wisdomlib.org/definition/koti",
+      "type": "dictionary",
+      "consultedFor": "Value of koḍī/koṭi (ten million, a crore) for the 'sāt koḍī' figure."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The verse totals the lower-world (adho-loka, bhavanapati) census of eternal Jina-temples to 7,72,00,000 (seven crore + seventy-two lakh), continuous with the preceding verse's per-place figures and with the matching image-count in the following verse; this aligns with the traditional Śvetāmbara reckoning (adholoka 7,72,00,000 śāśvata jinālayas; three-world total 8,57,00,282). 'jinhar' is read as temple (caitya), not image, per the temple→image progression across these verses. 'evaṁkāre' is taken as a summation adverb ('reckoned thus'); 'bhākh' as the perfective 'declared.' Spelling 'બહુંતેર' (72) and 'કોડી/કોડ' (crore) are preserved verbatim per the book's orthography. Exact figures are traditional cosmographic data accepted as āpta-vacana, not independently audited."
+}

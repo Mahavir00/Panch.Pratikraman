@@ -1,0 +1,162 @@
+{
+  "shlokaId": "pakkhi-khamana/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We ask everyone's forgiveness on each day of repentance — the atham fast, the fortnightly, the four-monthly (three times a year) and the yearly Samvatsari — sincerely and again and again.",
+  "recitation": "āṭhama pākhī khamāvīe re, comāsī traṇa vāra | khamo bhavi[-khamaṇa re] | saṁvatsarī śuddha khamāvīe re, khamāvīe vāraṁvāra",
+  "wordByWord": [
+    {
+      "token": "આઠમ",
+      "translit": "āṭhama",
+      "gloss": "the atham (the three-day / eighth-day fast-and-repentance observance)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit aṣṭama / aṣṭamī ('eighth'); the Prakrit-Gujarati aṭṭhama names the aṣṭama-bhakta penance (three-day fast) and the observance tied to the eighth lunar tithi.",
+      "notes": "Here it heads the list of occasions on which forgiveness is sought; see notes for the atham-as-fast vs. atham-as-tithi reading."
+    },
+    {
+      "token": "પાખી",
+      "translit": "pākhī",
+      "gloss": "the fortnightly (observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular form of pakkhī (already glossed in the preface) < Sanskrit pākṣika, 'pertaining to the pakṣa (lunar fortnight)'.",
+      "notes": "The book's spelling here is પાખી, beside the પક્ખી of the prose."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "(we / let us) ask forgiveness",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of the Prakrit root kham- ('to forgive, endure') < Sanskrit kṣam-; khamāvavuṁ = 'to make-forgive', i.e. to seek another's pardon. First-person plural exhortative.",
+      "notes": "The verse's load-bearing verb, repeated thrice."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (emphatic vocative-interjection of devotional song)",
+      "partOfSpeech": "particle",
+      "etymology": "Common Indic vocative/emphatic particle re, marking the lilt of a vernacular geet.",
+      "notes": "Carries no lexical meaning; it paces the chant-line."
+    },
+    {
+      "token": "ચોમાસી",
+      "translit": "comāsī",
+      "gloss": "the four-monthly (Chaumasi observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular comāsī < Sanskrit cāturmāsika ('of four months'), from catur ('four') + māsa ('month').",
+      "notes": ""
+    },
+    {
+      "token": "ત્રણ",
+      "translit": "traṇa",
+      "gloss": "three",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati traṇ < Sanskrit tri / trīṇi ('three').",
+      "notes": "Counts the Chaumasi: the season-end four-monthly falls three times a year."
+    },
+    {
+      "token": "વાર",
+      "translit": "vāra",
+      "gloss": "times (occasions)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vāra ('turn, occasion, time').",
+      "notes": "With traṇa, 'three times'."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive! (imperative)",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of kham- ('to forgive') < Sanskrit kṣam-; second-person plural-honorific.",
+      "notes": "Opens the song's refrain, here abbreviated in the book ('ખમો ભવિ.')."
+    },
+    {
+      "token": "ભવિ",
+      "translit": "bhavi",
+      "gloss": "O fortunate (liberation-capable) soul",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhavi < Sanskrit bhavya ('fit to become', destined for liberation); vocative.",
+      "notes": "The period after it marks the elided remainder of the refrain 'khamo bhavi khamaṇa re'."
+    },
+    {
+      "token": "સંવત્સરી",
+      "translit": "saṁvatsarī",
+      "gloss": "the annual (Samvatsari observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sāṁvatsarika / saṁvatsara ('year'); the once-a-year Paryushana-end pratikramana.",
+      "notes": ""
+    },
+    {
+      "token": "શુદ્ધ",
+      "translit": "śuddha",
+      "gloss": "pure(ly); with a wholly cleansed heart",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śuddha ('pure, cleansed'), from śudh- ('to purify').",
+      "notes": "Qualifies the yearly khamana as the most thorough, sincere asking-of-pardon."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "(we) ask forgiveness",
+      "partOfSpeech": "verb",
+      "etymology": "Repetition of the causative khamāv- (see above).",
+      "notes": "Second occurrence, governing the Samvatsari."
+    },
+    {
+      "token": "વારંવાર",
+      "translit": "vāraṁvāra",
+      "gloss": "again and again, repeatedly",
+      "partOfSpeech": "adverb",
+      "etymology": "Reduplicative compound vāraṁ-vāra ('time upon time'), from vāra ('occasion').",
+      "notes": "Closes the verse on its keynote of unwearied repetition."
+    }
+  ],
+  "literalTranslation": "On the atham, on the fortnightly we ask forgiveness, O! — on the four-monthly, three times. [Forgive, O fortunate soul…] On the Samvatsari we ask forgiveness purely, O! — we ask forgiveness again and again.",
+  "idiomaticTranslation": "On the atham and the fortnightly day let us beg everyone's pardon; on each of the three four-monthly season-ends, the same. And on the yearly Samvatsari let us ask forgiveness with a wholly cleansed heart — asking, and asking, again and again.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having walked down the whole ladder of beings whose pardon is sought — Jinas, teachers, monks, lay-folk (vv.1–3) — the song now pivots from *whom* to ask to *when* to ask. Verse 4 is a small liturgical calendar set to melody: āṭhama, pākhī, comāsī (traṇa vāra — thrice a year, at each season's close), saṁvatsarī. The single verb khamāvīe, struck three times, makes the point that kṣamāpanā is not one annual gesture but a graded rhythm folded into the year's penances. Two words lift the verse above a mere list. First, śuddha attached to the Samvatsari khamana: the yearly asking is to be *pure* — exhaustive, holding nothing back — because it gathers up a whole year's unconfessed friction; the adjective quietly ranks the occasions by depth, the annual being the most searching. Second, the closing vāraṁvāra ('again and again') refuses any tidy completion: forgiveness is never 'done', only renewed. Placing āṭhama first is pointed — the three-day fast is the bodily austerity that, especially before Samvatsari, prepares and authenticates the asking, so penance of the body and pardon of the heart are named in one breath. The verse thus turns the abstract virtue of forgiveness into a lived, repeatable discipline, and sets up verse 5's move outward to appeasing the displeased Sangha 'again and again' — the same adverb carrying over.",
+    "doctrinalContext": "The verse teaches that kṣamāpanā is calendrically structured, not occasional: the four-fold scheme āṭhama–pākhī–comāsī–saṁvatsarī mirrors the graded periods the five pratikramaṇas review (fortnight, four months, year), so that the reach of forgiveness expands with the span of faults recalled. śuddha encodes the doctrine of *bhāva-śuddhi* — that confession's efficacy lies in inner purity of intention, not mere recitation; an impure or partial asking does not cleanse. The primacy of āṭhama reflects the Jain linkage of *tapa* (austerity) with *prāyaścitta* (atonement): bodily fasting loosens karma and makes the heart fit to ask and to grant pardon. vāraṁvāra expresses the impermanence of equanimity — resentment re-forms, so release must be repeated — aligning khamana with the sixth Āvaśyaka's spirit of perpetual renewal.",
+    "practicalRelevance": "A reciter today reads this verse as a personal rule of life: do not save apology for Samvatsari alone, but practise it at every atham, every chaudas, every season-end — and let the annual asking be śuddha, sparing no relationship and excusing no grudge. The takeaway is the cadence of vāraṁvāra: forgiveness is a habit to renew, not a box to tick.",
+    "crossReferences": [
+      {
+        "text": "The five pratikramaṇas and their periods (devasi, rāi, pakkhī, cāumāsī, saṁvatsarī)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.); cf. Āvaśyaka Niryukti g.1532"
+      },
+      {
+        "text": "Samvatsari as the year's culminating day of forgiveness ('Micchāmi Dukkaḍaṁ')",
+        "source": "Wikipedia, 'Samvatsari'"
+      },
+      {
+        "text": "Aṣṭama-bhakta (atham) three-day fast within Paryushana penance",
+        "source": "Wikipedia, 'Paryushana' / 'Pratikramana'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikramana (the five pratikramaṇas: devasi, rāi, pakkhī, cāumāsī, saṁvatsarī)",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "Confirming the graded calendar of pratikramaṇa underlying the verse's named occasions (pākhī, comāsī, saṁvatsarī)"
+    },
+    {
+      "title": "Samvatsari (annual day of forgiveness, Paryushana close)",
+      "url": "https://en.wikipedia.org/wiki/Samvatsari",
+      "type": "scholarship",
+      "consultedFor": "Sense of saṁvatsarī as the year's culminating kṣamāpanā and the 'śuddha' (whole-hearted) asking"
+    },
+    {
+      "title": "Paryushana (atham / three-day fast and seeking of forgiveness)",
+      "url": "https://en.wikipedia.org/wiki/Paryushana",
+      "type": "scholarship",
+      "consultedFor": "The āṭhama (aṣṭama-bhakta) fast as the austerity preceding Samvatsari forgiveness"
+    },
+    {
+      "title": "Caturmāsika / Chaumasi pratikramaṇa performed thrice yearly at each season-end",
+      "url": "https://www.herenow4u.net/index.php?id=73890",
+      "type": "scholarship",
+      "consultedFor": "Verifying 'comāsī traṇa vāra' — the four-monthly observance occurring three times a year"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verbatim text preserved (પાખી not પક્ખી; the abbreviated refrain 'ખમો ભવિ.' with its period; spaced bars). 'આઠમ/āṭhama' is read here as the atham penance-observance (aṣṭama-bhakta three-day fast, classically paired with Samvatsari) rather than merely the eighth lunar tithi; both readings exist and the verse does not disambiguate, so a tithi-reading ('on the eighth, on the fortnightly') is also defensible — flagged as a genuine ambiguity. 'śuddha' is taken adverbially with khamāvīe ('ask purely') though it could be read attributively with saṁvatsarī ('the pure Samvatsari'); sense is little affected. The refrain's elided portion ('khamaṇa re') is supplied per the preface and shown in brackets in the recitation. Per-token translit in IAST; verse-level recitation in Latin/IAST as the target script is Latin."
+}

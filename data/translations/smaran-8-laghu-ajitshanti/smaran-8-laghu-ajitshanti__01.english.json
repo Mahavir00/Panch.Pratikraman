@@ -1,0 +1,234 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "From the very moment their souls entered their mothers' wombs, Indra of the first heaven and their own mothers, hearts full of devotion, hymned the two future Jinas Ajita and Śānti—jewels of the Ikṣvāku and Kuru royal lines—so may these two givers of blessing be ever exalted.",
+  "recitation": "gabbha avayāra sohamma sura sāmīo, jaṇaṇī jeya saṁthuṇai bhatti bhara bhāvio. ti jiṇa ikkhāga kuru vaṁsa bhūsaṇa dharā, ajia saṁtīa naṁdaṁtu maṁgalakarā.",
+  "wordByWord": [
+    {
+      "token": "ગબ્ભ",
+      "translit": "gabbha",
+      "gloss": "womb; (here) conception",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. gabbha < Skt. garbha ('womb, embryo')",
+      "notes": "Forms the compound gabbha-avayāra with the next word."
+    },
+    {
+      "token": "અવયાર",
+      "translit": "avayāra",
+      "gloss": "descent, entering down",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. avayāra < Skt. avatāra ('descent') (ava + √tṛ)",
+      "notes": "gabbha-avayāra = garbhāvatāra, the soul's descent into the womb — the conception (cyavana/garbha) kalyāṇaka that opens the life-story."
+    },
+    {
+      "token": "સોહમ્મ",
+      "translit": "sohamma",
+      "gloss": "Saudharma (the first kalpa-heaven)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sohamma < Skt. saudharma, the lowest/first vaimānika heaven",
+      "notes": "Attributive within the compound naming the celestial lord below."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestials",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sura ('god, deva')",
+      "notes": ""
+    },
+    {
+      "token": "સામીઓ",
+      "translit": "sāmīo",
+      "gloss": "lord, master",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sāmī < Skt. svāmī ('lord'); -o nominative sg.",
+      "notes": "sohamma-sura-sāmīo = 'lord of the Saudharma gods' = Saudharmendra (Śakra), who venerates a Tīrthaṅkara from conception onward."
+    },
+    {
+      "token": "જણણી",
+      "translit": "jaṇaṇī",
+      "gloss": "mother",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jaṇaṇī < Skt. jananī ('she who gives birth', √jan)",
+      "notes": "The second praiser — the Jina's own mother."
+    },
+    {
+      "token": "જેય",
+      "translit": "jeya",
+      "gloss": "whom, and (those whom)",
+      "partOfSpeech": "pronoun",
+      "etymology": "je (rel. pron. < Skt. ye/yān) + ya (enclitic = Skt. ca, 'and')",
+      "notes": "Relative linking the two Jinas (object) to the praising of v.1; parsing of the sandhi-form is somewhat uncertain (see notes)."
+    },
+    {
+      "token": "સંથુણઇ",
+      "translit": "saṁthuṇai",
+      "gloss": "praises, sings in laud",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. saṁthuṇai < Skt. saṁstauti (sam + √stu), 'to praise fully'",
+      "notes": "3rd-person present; the joint subjects (Indra and mother) hymn the pair."
+    },
+    {
+      "token": "ભત્તિ",
+      "translit": "bhatti",
+      "gloss": "devotion",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhatti < Skt. bhakti (√bhaj, 'to share, adore')",
+      "notes": ""
+    },
+    {
+      "token": "ભર",
+      "translit": "bhara",
+      "gloss": "load, abundance, fullness",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhara ('weight, mass, abundance', √bhṛ)",
+      "notes": ""
+    },
+    {
+      "token": "ભાવિઓ",
+      "translit": "bhāvio",
+      "gloss": "imbued, suffused, filled",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. bhāvio < Skt. bhāvita ('pervaded, saturated', caus. of √bhū)",
+      "notes": "bhatti-bhara-bhāvio = 'suffused with a weight of devotion', describing the praisers' inner state."
+    },
+    {
+      "token": "તિ",
+      "translit": "ti",
+      "gloss": "those, they (the two)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. ti < Skt. te ('they/those')",
+      "notes": "Demonstrative resuming the two Jinas as subject of line B."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina(s) (the victorious ones)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jiṇa < Skt. jina ('conqueror', of the passions)",
+      "notes": ""
+    },
+    {
+      "token": "ઇક્ખાગ",
+      "translit": "ikkhāga",
+      "gloss": "Ikṣvāku (the solar royal dynasty)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ikkhāga < Skt. ikṣvāku",
+      "notes": "Ajita's lineage; he is born at Ayodhya into the Ikṣvāku line."
+    },
+    {
+      "token": "કુરુ",
+      "translit": "kuru",
+      "gloss": "Kuru (the lunar royal dynasty)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kuru",
+      "notes": "Associated with Śānti, born at Hastināpura, the Kuru capital."
+    },
+    {
+      "token": "વંસ",
+      "translit": "vaṁsa",
+      "gloss": "lineage, dynasty",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vaṁsa < Skt. vaṁśa ('bamboo; family line')",
+      "notes": "ikkhāga-kuru-vaṁsa = the Ikṣvāku and Kuru lineages together."
+    },
+    {
+      "token": "ભૂસણ",
+      "translit": "bhūsaṇa",
+      "gloss": "ornament, adornment",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhūsaṇa < Skt. bhūṣaṇa ('that which adorns', √bhūṣ)",
+      "notes": ""
+    },
+    {
+      "token": "ધરા",
+      "translit": "dharā",
+      "gloss": "bearing, being (the ornament)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dhara ('bearing, holding', √dhṛ)",
+      "notes": "Read as dhara ('bearers'): the two are 'ornament-bearers of the Ikṣvāku and Kuru lines'; not dharā ('earth')."
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita (the 2nd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ajia < Skt. ajita ('unconquered')",
+      "notes": ""
+    },
+    {
+      "token": "સંતીઅ",
+      "translit": "saṁtīa",
+      "gloss": "Śānti (the 16th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saṁtī < Skt. śānti ('peace, tranquillity')",
+      "notes": "ajia-saṁtīa names the twin subject of the whole hymn jointly."
+    },
+    {
+      "token": "નંદંતુ",
+      "translit": "naṁdaṁtu",
+      "gloss": "may they flourish / rejoice / be exalted",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. naṁdaṁtu < Skt. nandantu (√nand), 3rd-pl. imperative ('let them thrive')",
+      "notes": "The benedictive verb of the verse — a blessing-wish upon the pair."
+    },
+    {
+      "token": "મંગલકરા",
+      "translit": "maṁgalakarā",
+      "gloss": "makers of auspiciousness",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. maṅgala ('auspiciousness') + kara ('maker', √kṛ)",
+      "notes": "Predicate of nandantu: 'may they, the bringers of blessing, be exalted.'"
+    }
+  ],
+  "literalTranslation": "At the descent into the womb, the lord of the Saudharma gods, and the mother—suffused with a weight of devotion—hymn [them] in praise; those Jinas, bearing the ornament of the Ikṣvāku and Kuru lineages, Ajita and Śānti, makers of auspiciousness—may they flourish.",
+  "idiomaticTranslation": "From the very moment their radiant souls descended into the womb, Saudharma Indra, lord of the first heaven, and their own mothers—hearts brimming over with devotion—broke into hymns of praise for them. Those two Jinas, the very ornaments of the Ikṣvāku and Kuru royal houses, Ajita and Śānti, well-springs of all auspiciousness—may they ever flourish and reign in glory.",
+  "elaboration": {
+    "verseByVerseCommentary": "The opening verse begins the twin life-story not at birth but earlier still, at the gabbha-avayāra — the soul's descent into the womb. The poet's point is the precedence of veneration: even before the infant Jinas draw breath, two very different devotees already hymn them. The first is sohamma-sura-sāmī, the lord of the Saudharma gods (Saudharmendra) — the highest celestial authority bows to the unborn. The second is the jaṇaṇī, the mother — the nearest, most intimate human. High heaven and humble home are united by one quality: both are bhatti-bhara-bhāvio, 'soaked through with a load of devotion.' The verse thus sets the inner temperature of the whole hymn (heartfelt bhakti) before it narrates a single event. Line B fixes the identities through lineage. The pair are ikkhāga-kuru-vaṁsa-bhūsaṇa-dharā, 'ornament-bearers of the Ikṣvāku and Kuru dynasties' — a precisely chosen dvandva, for Ajita is the Ikṣvāku prince of Ayodhyā while Śānti is born at Hastināpura, the Kuru seat; one epithet honours each Jina's house at once. Note the direction of the metaphor: the Jinas are the ornament of the lineage, never the lineage the ornament of the Jinas — royal blood is dignified by them, not they by it. The verse closes on its only finite benediction, naṁdaṁtu — 'may they thrive, be exalted' — qualified by maṁgalakarā, 'makers of auspiciousness.' Beginning a protective smaraṇa with a maṅgala-wish is itself auspicious convention. From this pre-natal salutation the hymn will move, in the next verse, to the birth-bath on Meru.",
+    "doctrinalContext": "The verse rests on the doctrine of the garbha (cyavana) kalyāṇaka — the first of a Tīrthaṅkara's auspicious events — and on the principle that Tīrthaṅkarahood is not acquired in this life but determined by the tīrthaṅkara-nāma-karma bound in a prior birth; hence the soul is already worthy of an Indra's homage at the instant of conception. The joint adoration by deva-lord and mother dramatizes that a Jina's sanctity is recognised across the whole hierarchy of beings. The bhūsaṇa-dharā image carries a subtle teaching about renunciation: worldly royalty (Ikṣvāku, Kuru) has value only as something the Jinas adorn and then transcend, anticipating the dīkṣā to come.",
+    "practicalRelevance": "The reciter is taught to begin remembrance at the earliest possible point — before even birth — and, more importantly, to adopt the verse's prescribed inner posture: bhatti-bhara-bhāva, devotion so full it overflows. The line models that correct chanting is not mere recitation but heart-saturated feeling shared alike by the loftiest god and the simplest mother. Opening one's practice with the benediction naṁdaṁtu maṁgalakarā invokes auspiciousness at the threshold of the protective hymn.",
+    "crossReferences": [
+      {
+        "text": "Kalpasūtra — narration of the garbha-kalyāṇaka and the descent of the soul into the womb",
+        "source": "Bhadrabāhu, Kalpasūtra (Śvetāmbara)"
+      },
+      {
+        "text": "Ajitaśānti Stava (the longer 2nd Smaraṇa) — the model for joint Ajita-and-Śānti praise",
+        "source": "Nandiṣeṇasūri"
+      },
+      {
+        "text": "Pañca Kalyāṇaka — Cyavana/Garbha kalyāṇaka and the role of Saudharma Indra",
+        "source": "Jain universal-history tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panch Kalyanaka (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Panch_Kalyanaka",
+      "type": "scholarship",
+      "consultedFor": "The garbha/cyavana kalyāṇaka (soul's descent into the womb) and the role of Indra in venerating the Tīrthaṅkara"
+    },
+    {
+      "title": "Ajitanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Ajita as the 2nd Tīrthaṅkara, born into the Ikṣvāku dynasty at Ayodhyā"
+    },
+    {
+      "title": "Shantinatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Śānti as the 16th Tīrthaṅkara, born at Hastināpura (the Kuru capital) in the Ikṣvāku line — basis for the dual Ikṣvāku/Kuru lineage epithet"
+    },
+    {
+      "title": "Avatara — definitions (Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/avatara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of avayāra < avatāra ('descent') for the gabbha-avayāra compound"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The leading parenthetical '(આઠમું સ્મરણ)' is an editorial rubric ('the eighth smaraṇa'), not part of the metrical verse, and is not tokenized. The form 'jeya' (જેય) is parsed as relative je + enclitic ya (= Skt. ca), giving 'whom, and'; an alternative reading as a benedictive 'jaya' cannot be wholly excluded, so the syntactic subject-object linkage of line A carries mild uncertainty. 'dharā' is taken as dhara ('bearing/being'), agreeing with the Jinas, rather than dharā ('earth'). The Kuru-lineage reference is linked to Śāntinātha's traditional birthplace, Hastināpura (Kuru capital); Jain tradition also counts Śānti within the broader Ikṣvāku line, so 'ikkhāga kuru' is best read as honouring both houses jointly across the two Jinas. Spelling, anusvāras, and mātrās are preserved verbatim from the source book; transliterations follow that text."
+}

@@ -1,0 +1,302 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/23",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Crowds of gods and their old rivals the asuras forget their feuds and press in around the Jina, full of wonder — clad in glittering gold-and-jewel ornaments, they bow their bodies, fold their hands, and lower their heads in worship.",
+  "recitation": "jaṁ surasaṅghā sāsurasaṅghā, vera viuttā bhatti sujuttā | āyara bhūsia saṁbhama piṇḍia, suḍḍhu suvimhia savva baloghā | uttama kaṁcaṇa rayaṇa paruvia, bhāsura bhūsaṇa bhāsuri aṅgā | gāya samoṇaya bhattiva sāgaya, paṁjali pesia sīsa paṇāmā",
+  "wordByWord": [
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whom (the Jina) — relative pronoun anchoring the long sentence whose main clause completes in the next verse",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. jaṁ < Skt. yam (acc. of yad, the relative pronoun)",
+      "notes": "Correlative with the 'to' (= then) opening v.24; the whole worship-scene hangs on this 'whom'."
+    },
+    {
+      "token": "સુરસંઘા",
+      "translit": "surasaṅghā",
+      "gloss": "the hosts of gods (suras)",
+      "partOfSpeech": "compound",
+      "etymology": "sura ('god') + saṅgha ('host, assembly') < Skt. sura-saṅghāḥ, nom. pl.",
+      "notes": ""
+    },
+    {
+      "token": "સાસુરસંઘા",
+      "translit": "sāsurasaṅghā",
+      "gloss": "together with the hosts of asuras (demigod-adversaries)",
+      "partOfSpeech": "compound",
+      "etymology": "sa- ('with') + asura ('asura') + saṅgha < Skt. sa-asura-saṅghāḥ",
+      "notes": "Deliberately paired with surasaṅghā — the two cosmic rivals named in one breath."
+    },
+    {
+      "token": "વેર",
+      "translit": "vera",
+      "gloss": "enmity, feud",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vera < Skt. vaira ('hostility')",
+      "notes": ""
+    },
+    {
+      "token": "વિઉત્તા",
+      "translit": "viuttā",
+      "gloss": "freed from, having laid (it) aside",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. viutta < Skt. viyukta ('disjoined, separated, released from'); -ā nom. pl.",
+      "notes": "vera-viuttā = 'with their enmity set aside.'"
+    },
+    {
+      "token": "ભત્તિ",
+      "translit": "bhatti",
+      "gloss": "devotion",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhatti < Skt. bhakti",
+      "notes": ""
+    },
+    {
+      "token": "સુજુત્તા",
+      "translit": "sujuttā",
+      "gloss": "well-endowed, fully joined (with devotion)",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('well') + jutta < Skt. su-yukta ('well-joined, furnished'); nom. pl.",
+      "notes": "bhatti-sujuttā balances vera-viuttā: enmity off, devotion on."
+    },
+    {
+      "token": "આયર",
+      "translit": "āyara",
+      "gloss": "reverence, respectful care",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. āyara < Skt. ādara ('respect, regard')",
+      "notes": ""
+    },
+    {
+      "token": "ભૂસિઅ",
+      "translit": "bhūsia",
+      "gloss": "adorned, made beautiful",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. bhūsia < Skt. bhūṣita ('ornamented')",
+      "notes": "āyara-bhūsia = 'adorned with reverence' — their very respect becomes an ornament."
+    },
+    {
+      "token": "સંભમ",
+      "translit": "saṁbhama",
+      "gloss": "eager flurry, excited haste",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saṁbhama < Skt. sambhrama ('agitation, hurried excitement')",
+      "notes": ""
+    },
+    {
+      "token": "પિંડિઅ",
+      "translit": "piṇḍia",
+      "gloss": "massed together, thronged",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. piṇḍia < Skt. piṇḍita ('clustered, heaped, gathered')",
+      "notes": "saṁbhama-piṇḍia = 'packed close in their eager rush.'"
+    },
+    {
+      "token": "સુઢ્ઢુ",
+      "translit": "suḍḍhu",
+      "gloss": "thoroughly, utterly",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. suḍḍhu < Skt. suṣṭhu ('well, exceedingly')",
+      "notes": ""
+    },
+    {
+      "token": "સુવિમ્હિઅ",
+      "translit": "suvimhia",
+      "gloss": "filled with great wonder, astonished",
+      "partOfSpeech": "adj",
+      "etymology": "su- + Pkt. vimhia < Skt. vismita ('amazed'); cf. vismaya",
+      "notes": "suḍḍhu-suvimhia = 'utterly amazed.'"
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, the whole",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. savva < Skt. sarva",
+      "notes": ""
+    },
+    {
+      "token": "બલોઘા",
+      "translit": "baloghā",
+      "gloss": "the flood-like multitude of (their) hosts",
+      "partOfSpeech": "compound",
+      "etymology": "bala ('force, host') + ogha ('flood, stream') < Skt. bala-oghāḥ, nom. pl.",
+      "notes": "savva-baloghā = 'every last throng of them,' summing up the whole assembled crowd."
+    },
+    {
+      "token": "ઉત્તમ",
+      "translit": "uttama",
+      "gloss": "finest, supreme",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. uttama ('highest, best')",
+      "notes": ""
+    },
+    {
+      "token": "કંચણ",
+      "translit": "kaṁcaṇa",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kaṁcaṇa < Skt. kāñcana",
+      "notes": ""
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewels, gems",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. rayaṇa < Skt. ratna",
+      "notes": ""
+    },
+    {
+      "token": "પરુવિઅ",
+      "translit": "paruvia",
+      "gloss": "fashioned, set/inlaid (of the ornaments)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. paruvia, prob. < Skt. pra-rūpita ('formed, fashioned'); alt. 'set with'",
+      "notes": "Modifies the ornaments: 'wrought of finest gold and gems.' Reading mildly uncertain (see notes)."
+    },
+    {
+      "token": "ભાસુર",
+      "translit": "bhāsura",
+      "gloss": "blazing, radiant",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhāsura ('shining') < √bhās ('to shine')",
+      "notes": ""
+    },
+    {
+      "token": "ભૂસણ",
+      "translit": "bhūsaṇa",
+      "gloss": "ornaments",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhūsaṇa < Skt. bhūṣaṇa",
+      "notes": ""
+    },
+    {
+      "token": "ભાસુરિ",
+      "translit": "bhāsuri",
+      "gloss": "made radiant, gleaming",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhāsura ('shining'), here in derivative/echo form bhāsuri",
+      "notes": "Triple b-alliteration bhāsura-bhūsaṇa-bhāsuri paints the glitter sonically: 'radiant ornaments, radiant limbs.'"
+    },
+    {
+      "token": "અંગા",
+      "translit": "aṅgā",
+      "gloss": "limbs, bodies",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. aṅgā < Skt. aṅgāni ('limbs'); nom. pl.",
+      "notes": ""
+    },
+    {
+      "token": "ગાય",
+      "translit": "gāya",
+      "gloss": "body, frame",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. gāya < Skt. gātra ('body, limb')",
+      "notes": ""
+    },
+    {
+      "token": "સમોણય",
+      "translit": "samoṇaya",
+      "gloss": "bent low, bowed down",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. samoṇaya < Skt. sam-avanata ('bent down together')",
+      "notes": "gāya-samoṇaya = 'bodies bowed low.'"
+    },
+    {
+      "token": "ભત્તિવ",
+      "translit": "bhattiva",
+      "gloss": "as if (or filled) with devotion",
+      "partOfSpeech": "adverb",
+      "etymology": "bhatti (< Skt. bhakti) + -va (Pkt. iva, 'like, as if' / connective)",
+      "notes": "Either 'bowed as if from devotion' or simply 'bowed with devotion'; -va read as iva."
+    },
+    {
+      "token": "સાગય",
+      "translit": "sāgaya",
+      "gloss": "come forward, drawn near",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāgaya < Skt. samāgata ('arrived, come together'); cf. svāgata ('welcome')",
+      "notes": ""
+    },
+    {
+      "token": "પંજલિ",
+      "translit": "paṁjali",
+      "gloss": "with palms folded (in añjali)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. paṁjali < Skt. prāñjali / pra-añjali ('with joined palms')",
+      "notes": ""
+    },
+    {
+      "token": "પેસિઅ",
+      "translit": "pesia",
+      "gloss": "sent forth, directed, offered",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. pesia < Skt. preṣita ('sent, dispatched')",
+      "notes": "paṁjali-pesia = 'folded hands held out (in offering).'"
+    },
+    {
+      "token": "સીસ",
+      "translit": "sīsa",
+      "gloss": "head",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sīsa < Skt. śīrṣa ('head')",
+      "notes": ""
+    },
+    {
+      "token": "પણામા",
+      "translit": "paṇāmā",
+      "gloss": "obeisances, prostrations",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. paṇāma < Skt. praṇāma ('bow, salutation'); nom. pl.",
+      "notes": "sīsa-paṇāmā = 'salutations made with bowed heads,' completing the body→hands→head sequence."
+    }
+  ],
+  "literalTranslation": "[The Jina] whom the hosts of gods, together with the hosts of asuras — their enmity laid aside, well-furnished with devotion; adorned by their reverence, massed in eager haste, utterly amazed, that whole flood of throngs; their radiant limbs ablaze with ornaments fashioned of the finest gold and jewels; their bodies bowed low as if in devotion, come near with folded palms held out and salutations of bowed heads.",
+  "idiomaticTranslation": "Him the throngs of gods, and with them the throngs of asuras — old feuds forgotten, brimful of devotion — adore: pressing in close in their eager rush, every last host of them lost in wonder, decked in the very ornament of reverence. Their limbs blaze with the finest gold and jewelled adornments; their bodies stoop low in love, palms folded and held forth, heads bowed in salutation as they draw near.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is the choreographic heart of the assembly-tableau: it freezes the crowd in the very act of bowing. Its first stroke is the most striking — sura and asura, the cosmos's congenital enemies, are named in a single yoked compound (surasaṅghā sāsurasaṅghā) precisely so the poet can dissolve their hostility in the next two words: vera-viuttā, bhatti-sujuttā — 'enmity unstrung, devotion strung tight.' The two phrases are a deliberate mirror (vi-utta / su-jutta), the rivalry switched off and reverence switched on by the same act of standing before the Jina. From there the verse layers the crowd's state: adorned by their own reverence (āyara-bhūsia), packed close in eager haste (saṁbhama-piṇḍia), utterly amazed (suḍḍhu-suvimhia) — 'every last flood of their hosts' (savva-baloghā). The third line turns from emotion to glitter, with a triple b-alliteration — bhāsura bhūsaṇa bhāsuri aṅgā — so the sound itself shimmers: gold-and-gem ornaments and the gleaming limbs that wear them. The closing line then performs the bow in slow motion through the body's three stations: gāya (body bent low), paṁjali (palms folded and extended), sīsa-paṇāmā (head lowered). Note how this single long sentence stays grammatically open — its 'whom' (jaṁ) finds no main verb here, deliberately spilling into the following verse, where these same gods at last 'bow, praise, circumambulate thrice, and depart.' The verse is thus the in-breath of devotion held just before its release.",
+    "doctrinalContext": "The reconciliation of sura and asura is not mere ornament: it dramatizes the Jina's vītarāga (passion-free) field, in whose presence vaira — the root-poison that fuels saṁsāra — simply lapses. Jain cosmology pictures this literally in the samavasaraṇa, the divine preaching-hall where natural predators and enemies sit together without harm; this stanza compresses that doctrine into one image. The point for devotion is that bhakti and vaira are mutually exclusive states of mind: where one is 'unstrung,' the other is 'strung.' Outward splendour (gold, jewels, radiant limbs) is shown only to be subordinated — every adorned body ends bent, hands folded, head down — teaching that the finest ornament of a being is its self-lowering before the conqueror of passions.",
+    "practicalRelevance": "Recited within the Pakkhī rite of mutual forgiveness, this verse gives the reciter a concrete image to inhabit: to step, in imagination, into that crowd and let one's own vaira — grudges, rivalries — go 'unstrung' as a precondition of true worship. The body-hands-head sequence also models the physical bow the practitioner makes, turning the visualized gesture of gods into one's own posture of praṇāma.",
+    "crossReferences": [
+      {
+        "text": "smaran-2-ajitshanti/24 (the completing clause: gods bow, praise, circumambulate thrice, and depart)",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Samavasaraṇa accounts of natural enemies abiding peacefully before the Jina",
+        "source": "Āvaśyaka / Triṣaṣṭi-śalākā-puruṣa-caritra tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; for vaira, viyukta, su-yukta, sambhrama, piṇḍita, bhūṣaṇa, prāñjali, praṇāma roots)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymons underlying the Prakrit tokens (viutta<viyukta, saṁbhama<sambhrama, sāgaya<samāgata, paṁjali<prāñjali, paṇāma<praṇāma)."
+    },
+    {
+      "title": "Jain eLibrary — scanned Jain stotra/stavan editions incl. Ajitaśānti Stava",
+      "url": "https://jainelibrary.org/",
+      "type": "translation",
+      "consultedFor": "Verifying the verse's recension and placement within the 46-verse hymn; cosmic-assembly stanzas (vv.19–31)."
+    },
+    {
+      "title": "JainQQ digital library (jainqq.org)",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Attribution to Nandiṣeṇasūri and the samavasaraṇa / sura-asura reconciliation motif."
+    },
+    {
+      "title": "Jain eLibrary index (Jainpedia links)",
+      "url": "https://jainpedia.org/links/jain-elibrary/",
+      "type": "scholarship",
+      "consultedFor": "Locating primary Gujarati/Sanskrit editions of the stava for cross-checking the verbatim reading."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is a single grammatically incomplete sentence: its relative 'jaṁ' (v.23) is resolved only by the correlative 'to' ('then') opening v.24 — translations here keep that openness rather than supplying a false main verb. 'paruvia' (line 3) is the least certain token: read here as < pra-rūpita ('fashioned/set'), but some recensions point to 'set/inlaid with'; sense ('ornaments of finest gold and gems') is stable either way. 'bhattiva' is parsed as bhatti + iva ('as if with devotion'); a plainer 'with devotion' is equally defensible. 'samoṇaya' (< sam-avanata, 'bowed low') and 'baloghā' (bala+ogha, 'flood of hosts') follow the dictionary roots; the book's orthography (બલોઘા with ઘ, doubled ઢ્ઢ in સુઢ્ઢુ, anusvāras) is preserved verbatim and not normalized. Manuscript spellings of these alliterative Apabhraṁśa lines vary across editions; glosses follow Sheth's Pāia-sadda-mahaṇṇavo senses where the printed token is unambiguous."
+}

@@ -1,0 +1,170 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May the teaching-line of Ārya Nāgahastī long flourish — the master who was foremost in grammar and in the deep science of karma.",
+  "recitation": "vaḍhau vāyaga vaṁso, jasa vaṁso ajja nāga hatthīṇaṁ. vāgaraṇa karaṇa bhaṁgiya, kamma payaḍī pahāṇāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "વઢઉ",
+      "translit": "vaḍhau",
+      "gloss": "may it flourish / may it increase",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit optative/benedictive of vaḍḍh- < Skt √vṛdh, 'to grow'; = vardhatām, 'let it thrive'.",
+      "notes": "A benediction ('may it grow'), not the hymn's usual vande ('I bow'); the parallel next verse opens with vakkau in the same slot."
+    },
+    {
+      "token": "વાયગ",
+      "translit": "vāyaga",
+      "gloss": "of the vācaka (scripture-reciter)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt vāyaga < Skt vācaka, 'expounder'; first member of vāyaga-vaṁsa.",
+      "notes": "Glossary term; used here as the qualifier of vaṁso."
+    },
+    {
+      "token": "વંસો",
+      "translit": "vaṁso",
+      "gloss": "lineage / line of succession",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vaṁsa < Skt vaṁśa, 'bamboo, stock, lineage'; nom. sg. -o.",
+      "notes": "Subject of vaḍhau: the vācaka-vaṁśa."
+    },
+    {
+      "token": "જસ",
+      "translit": "jasa",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt jassa/jasa < Skt yasya, gen. sg. of the relative ya-.",
+      "notes": "Relative pronoun introducing the clause that identifies the lineage's head."
+    },
+    {
+      "token": "વંસો",
+      "translit": "vaṁso",
+      "gloss": "lineage (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "As above; restated for the relative clause, 'whose lineage (is)…'.",
+      "notes": "Deliberate repetition: jasa vaṁso = 'whose lineage'."
+    },
+    {
+      "token": "અજજ",
+      "translit": "ajja",
+      "gloss": "Ārya (noble; honorific prefix to the name)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt ajja < Skt ārya, 'noble'; standard honorific before ācārya names in this Sthavirāvalī.",
+      "notes": "Bound to the following name: Ajja Nāgahatthī = Ārya Nāgahastī."
+    },
+    {
+      "token": "નાગ",
+      "translit": "nāga",
+      "gloss": "Nāga- (first member of the name Nāgahastī)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt nāga, 'serpent/elephant'; here the proper-name element of Nāga-hastī.",
+      "notes": "Taken with the next token as the single name Nāgahastī."
+    },
+    {
+      "token": "હત્થીણં",
+      "translit": "hatthīṇaṁ",
+      "gloss": "of (Ārya Nāga-)hastī",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt hatthī < Skt hastin, 'elephant'; -ṇaṁ = gen. pl. honorific ending (Skt -inām).",
+      "notes": "Honorific (reverential) plural for the single revered teacher and, by extension, his line: 'of Ārya Nāgahastī (and his)'."
+    },
+    {
+      "token": "વાગરણ",
+      "translit": "vāgaraṇa",
+      "gloss": "grammar (vyākaraṇa)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt vāgaraṇa < Skt vyākaraṇa, 'analysis, grammar'; first member of the praise-compound.",
+      "notes": "Mastery of grammar = the competence to expound scripture exactly."
+    },
+    {
+      "token": "કરણ",
+      "translit": "karaṇa",
+      "gloss": "the karaṇas (operative processes of karma)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt karaṇa, 'instrument, operation'; in karma-science the processes (bandhana, saṅkramaṇa, etc.) by which karma is fixed and altered.",
+      "notes": "Read here within karma-doctrine; could secondarily echo grammatical 'operation'."
+    },
+    {
+      "token": "ભંગિય",
+      "translit": "bhaṁgiya",
+      "gloss": "the modal-permutations (bhaṅga / alternative-charts)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt bhaṅgika/bhaṅga, 'breaking, alternative-mode'; the permutation-analysis (bhaṅga-jāla) of karma-states.",
+      "notes": "The combinatorial 'mode-tables' that pervade karma-prakṛti exposition."
+    },
+    {
+      "token": "કમ્મ",
+      "translit": "kamma",
+      "gloss": "karma",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt kamma < Skt karman, 'action'; bound to payaḍī.",
+      "notes": "First member of kamma-payaḍī, 'karma-species'."
+    },
+    {
+      "token": "પયડી",
+      "translit": "payaḍī",
+      "gloss": "prakṛti — the natures/species (of karma)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt payaḍī < Skt prakṛti, 'basic nature, type'; the 8 root + 158 sub-species of karma (Kammapayaḍī).",
+      "notes": "Names the very discipline (Karma-prakṛti) in which Nāgahastī is remembered as authoritative."
+    },
+    {
+      "token": "પ્યહાણાણં",
+      "translit": "pahāṇāṇaṁ",
+      "gloss": "of those foremost / pre-eminent (in the above)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt pahāṇa < Skt pradhāna, 'chief, foremost'; -āṇaṁ = gen. pl. honorific.",
+      "notes": "Book spells the cluster પ્યહાણ verbatim; agrees with hatthīṇaṁ — 'foremost ones', i.e. Nāgahastī and his line."
+    }
+  ],
+  "literalTranslation": "May the vācaka-lineage flourish — the lineage whose head is Ārya Nāgahastī, of those foremost in grammar, the karaṇas, the modal-analyses, and the karma-species.",
+  "idiomaticTranslation": "May it ever flourish, the reciter-lineage whose crown is Ārya Nāgahastī — that master pre-eminent in grammar (vyākaraṇa), in the karaṇas and their permutations, and in the very science of the kinds of karma.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the homage to Nandī and the sādhvī Lakṣmaṇā, the hymn turns to the reciter-line itself and changes its key word: not 'I bow' (vande) but vaḍhau — 'may it flourish' — a benediction upon a living transmission. The line is identified by its head, Ārya Nāgahastī, named with the reverential plural (hatthīṇaṁ, pahāṇāṇaṁ) that honours both the man and the school descending from him. What singles Nāgahastī out is not a stock simile (ocean, Himālaya, lotus) but a précis of his scholarship: he was foremost in four exacting disciplines — vāgaraṇa (grammar), karaṇa (the operative processes of karma), bhaṅga (the permutation-analysis), and kamma-payaḍī (the species of karma). The first secures the power to expound scripture word-perfect; the last three are the technical core of Jain karma-theory. Tradition indeed remembers Nāgahastī as a guardian of the Kasāyapāhuḍa karma-curriculum, so the verse is praising a real specialism, not a generic virtue. The half-line thus advances the hymn from devotional roll-call to a recognition that the canon survived only because particular masters mastered particular sciences. The very next verse repeats the gesture (vakkau vāyaga vaṁso…) for the line of Revatī-nakṣatra, pairing the two reciter-houses that carried the difficult karma-anuyoga forward.",
+    "doctrinalContext": "The verse encodes the Jain conviction that liberation-knowledge is technically precise, not merely pious. Karaṇa points to the operations by which karma is bound and transformed — bandhana, saṅkramaṇa, udvartanā, apavartanā, udīraṇā, upaśamanā, nidhatti, nikācanā; bhaṅga to the combinatorial mode-tables that map every possible karmic state; kamma-payaḍī to the eight root and many sub-natures of karman. Pairing these with vyākaraṇa makes the point that exact language and exact karma-analysis are twin guardians of the śruta. Honouring a teacher by his śruta-specialism — rather than by miracle or asceticism — reflects the Sthavirāvalī's governing value: the canon is preserved by competence faithfully handed on.",
+    "practicalRelevance": "Chanting this, the worshipper blesses the survival of the hardest, least 'devotional' part of the tradition — its karma-science — and honours scholarship itself as a form of sanctity. It invites the modern reciter to value precise study (svādhyāya), not only feeling, and to pray that rigorous teachers continue to arise.",
+    "crossReferences": [
+      {
+        "text": "Kasāyapāhuḍa with Cūrṇi — Nāgahastī cited among the masters of the karma-/kaṣāya-anuyoga",
+        "source": "Guṇadhara; Jaina Karma tradition (jainqq romanized ed.)"
+      },
+      {
+        "text": "Kammapayaḍī (Karma-prakṛti) — the eight karaṇas and species of karma",
+        "source": "Śivaśarmasūri"
+      },
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī — the vācaka-vaṁśa gāthās",
+        "source": "Devardhigaṇi Kṣamāśramaṇa recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kasāyapāhuḍa, Part 1 (Romanized)",
+      "url": "https://jainqq.org/booktext/Kasaypahudam_Part_01_Romanized/001407",
+      "type": "scholarship",
+      "consultedFor": "Ārya Nāgahastī's standing in the Karma-prakṛti / kaṣāya-anuyoga transmission, confirming kamma-payaḍī pahāṇa."
+    },
+    {
+      "title": "Kasayapahuda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kasayapahuda",
+      "type": "scholarship",
+      "consultedFor": "The Karma-prakṛti/Kasāyapāhuḍa text-tradition and the technical place of karaṇa/bhaṅga analysis in Jain karma literature."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Nandīsūtra)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The Nandī Sūtra Sthavirāvalī and its vācaka-vaṁśa gāthās naming Nāgahastī and Revatī-nakṣatra."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Root glosses for vyākaraṇa, karaṇa, bhaṅga, prakṛti, pradhāna, vaṁśa underlying the per-token etymologies."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Identification of Ajja Nāga-hatthī = Ārya Nāgahastī, the karma-science authority, is well supported and fits 'kamma-payaḍī pahāṇa'. The precise scope of karaṇa and bhaṁgiya (read here as the karma-theory karaṇas and bhaṅga-permutations rather than grammatical 'operation/voice') is interpretive; both senses are defensible. The honorific genitive plurals (-hatthīṇaṁ, pahāṇāṇaṁ) are reverential plurals for one teacher and his line, not literal plurals. Verbatim book features preserved: opening vaḍhau (cf. variant vaḍḍhau; the next verse's parallel vakkau), and the spelling પ્યહાણ for pahāṇa (pradhāna)."
+}

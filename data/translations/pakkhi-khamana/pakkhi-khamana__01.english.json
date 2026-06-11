@@ -1,0 +1,204 @@
+{
+  "shlokaId": "pakkhi-khamana/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Let us beg pardon of the Arihants, who have twelve good qualities, and of the liberated Siddhas, whose eight qualities are utterly beautiful — so, fortunate soul, forgive!",
+  "recitation": "arihaṃtajīne khamāvīe re, jehanā guṇa che bāra; khamo bhavi khāmaṇā re. siddhajīne khamāvīe re, guṇa āṭhoe manohāra; khamo bhavi…",
+  "wordByWord": [
+    {
+      "token": "અરિહંતજીને",
+      "translit": "arihaṃtajīne",
+      "gloss": "to the revered Arihant(s)",
+      "partOfSpeech": "noun",
+      "etymology": "arihanta (Prakrit ari-hanta, 'slayer of inner foes') + honorific -jī + Gujarati dative -ne; cf. Sanskrit arhat.",
+      "notes": "-jī is a respect suffix; -ne marks the one whose pardon is sought."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us ask forgiveness / appease",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of √kṣam ('to forbear, pardon'): Prakrit khamāveï, Gujarati khamāvavũ, here 1st-person plural hortative.",
+      "notes": "Causative force: not merely 'forgive' but 'cause-to-forgive', i.e. seek pardon."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (devotional address-particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Old Indo-Aryan vocative/interjective particle re, ubiquitous in bhakti-geet.",
+      "notes": "Metrical and emotive; carries no lexical content."
+    },
+    {
+      "token": "જેહના",
+      "translit": "jehanā",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun, old Gujarati jeha (< Sanskrit yad) + genitive -nā.",
+      "notes": "Introduces the qualifying clause 'whose qualities are twelve'."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa, 'strand, merit, attribute'.",
+      "notes": "Here in the fixed sense of an Arihant's reckoned attributes."
+    },
+    {
+      "token": "છે",
+      "translit": "che",
+      "gloss": "are",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati present copula che (3rd person), from Old Gujarati achai < Sanskrit ṛcchati/asti stratum.",
+      "notes": "Vernacular copula, marking this as classical Gujarati, not Prakrit."
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "twelve",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati bāra < Prakrit bāraha < Sanskrit dvādaśa.",
+      "notes": "The standard count of the Arihant's gunas (4 ananta-catuṣṭaya + 8 prātihārya)."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of √kṣam, Gujarati khamavũ; 2nd-person plural/respectful.",
+      "notes": "Opens the refrain; addressed to the bhavya soul."
+    },
+    {
+      "token": "ભવિ",
+      "translit": "bhavi",
+      "gloss": "O fortunate (liberable) soul",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhavi < Sanskrit bhavya, 'one fit for liberation'.",
+      "notes": "Vocative; the addressee of the whole song's refrain."
+    },
+    {
+      "token": "ખામણા",
+      "translit": "khāmaṇā",
+      "gloss": "the asking-of-forgiveness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khāmaṇā, action-noun of the causative of √kṣam; cf. Sanskrit kṣamāpanā.",
+      "notes": "Names the act and the song itself."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (refrain-particle)",
+      "partOfSpeech": "particle",
+      "etymology": "As above; closes the refrain line.",
+      "notes": "Repetition sustains the chant's rhythm."
+    },
+    {
+      "token": "સિદ્ધજીને",
+      "translit": "siddhajīne",
+      "gloss": "to the revered Siddha(s)",
+      "partOfSpeech": "noun",
+      "etymology": "siddha ('perfected, liberated', Sanskrit siddha) + honorific -jī + dative -ne.",
+      "notes": "The second object of pardon, paralleling arihaṃtajīne."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us ask forgiveness / appease",
+      "partOfSpeech": "verb",
+      "etymology": "As above (causative of √kṣam), repeated for the Siddhas.",
+      "notes": "Anaphoric repetition binds the two couplets."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (address-particle)",
+      "partOfSpeech": "particle",
+      "etymology": "As above.",
+      "notes": "—"
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa.",
+      "notes": "Now reckoning the Siddha's attributes."
+    },
+    {
+      "token": "આઠોએ",
+      "translit": "āṭhoe",
+      "gloss": "all eight (together)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati āṭha 'eight' (< Prakrit aṭṭha < Sanskrit aṣṭa) + inclusive/emphatic -o-e ('the whole set of').",
+      "notes": "The -oe suffix totalizes: 'the eight, every one'."
+    },
+    {
+      "token": "મનોહાર",
+      "translit": "manohāra",
+      "gloss": "heart-captivating, beautiful",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit manas ('mind/heart') + √hṛ ('to seize') → manohara/manohāra, 'mind-stealing'.",
+      "notes": "Predicated of the Siddha's eight gunas — an aesthetic of the formless."
+    },
+    {
+      "token": "ખમો ભવિ૦",
+      "translit": "khamo bhavi…",
+      "gloss": "“Forgive, O fortunate soul…” (refrain, abbreviated)",
+      "partOfSpeech": "invocation",
+      "etymology": "Refrain khamo bhavi khāmaṇā re; the symbol ૦ marks the book's abbreviation of the repeated line.",
+      "notes": "Sung in full each time; printed short to save space."
+    }
+  ],
+  "literalTranslation": "Let us beg pardon of the revered Arihant, O!, whose qualities are twelve — forgive, O fortunate soul, the asking-of-pardon, O! Let us beg pardon of the revered Siddha, O!, whose eight qualities, every one, are heart-captivating — forgive, O fortunate soul…",
+  "idiomaticTranslation": "Come, fortunate soul, let us seek the pardon of the Arihants, adorned with their twelve glories — forgive, O blessed one, forgive! And let us seek the pardon of the Siddhas, whose eight perfections are beauty itself — forgive, O blessed one, forgive!",
+  "elaboration": {
+    "verseByVerseCommentary": "The song opens at the very summit, taking its first two objects of forgiveness in the same order the Navkar takes them: first the Arihant — the Jina still in the body, teaching — and then the Siddha — the soul wholly freed of body and karma. Each is identified not by description but by the count of its gunas: bāra (twelve) for the Arihant, āṭha (eight) for the Siddha. The poet does not list these qualities; he trusts the reciter to know them and instead does something subtler. To the Arihant's twelve he attaches the plain copula 'che' ('there are twelve'), a sober reckoning; but to the Siddha's eight he adds an adjective — 'manohāra', heart-stealing. The liberated soul has no form, no halo, no celestial canopy to delight the eye, yet its eight bare perfections are called more captivating than any splendour. That single epithet is the verse's devotional pivot: it teaches the heart to find beauty in the formless. The causative verb 'khamāvīe' ('let us cause-them-to-forgive', i.e. let us beg pardon) is striking precisely here, for neither Arihant nor Siddha harbours any resentment to release. One asks their pardon not to soothe them but to purify oneself — to acknowledge their worth (the very point of counting gunas) before descending, in the verses that follow, to the teachers, the monks, and the lay community who can indeed be wronged.",
+    "doctrinalContext": "The pairing of Arihant and Siddha is the doctrinal seed of the whole litany: these are the two deva-tattva of Jain reverence, the first two of the Pañca-Parameṣṭhin, and their guna-counts (12 + 8 = 20) begin the tally that the next verses complete to 108. Doctrinally the verse distinguishes the two: the Arihant retains the aghātī karmas and the audārika body, so four of his twelve gunas are the ananta-catuṣṭaya (infinite jñāna, darśana, cāritra, vīrya) and eight are the prātihārya that attend an embodied Tīrthaṅkara; the Siddha, having shed all eight karma-types, is left with the eight pure attributes (the four ananta plus arūpatva, aguruladhutva/avyābādha, akṣaya-sthiti, akṣaya-sukha) — bodiless, hence 'manohāra' in a strictly spiritual register. Asking pardon of beings incapable of anger frames kṣamāpanā not as transaction but as self-purifying recognition.",
+    "practicalRelevance": "Reciting this first stanza, the practitioner sets the posture for the entire khamana: before appeasing any fellow being one bows first to the ideal — the conqueror and the liberated — so that all subsequent forgiveness flows from that highest standard, not from mere social repair. Pausing on 'manohāra' is a practical meditation: train the mind to be drawn by inner perfection rather than outward splendour.",
+    "crossReferences": [
+      {
+        "text": "Namo arihaṃtāṇaṃ; namo siddhāṇaṃ (first two padas, naming the same two in the same order)",
+        "source": "Navkāra Mahāmantra, this edition (sutraId navkar)"
+      },
+      {
+        "text": "The twelve gunas of the Arihant and eight of the Siddha as standard Jain reckoning",
+        "source": "Tradition Knowledge Base §; Arihant/Siddha attribute lists"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Arihant (Jainism) — the twelve qualities (anantacatuṣṭaya + aṣṭa prātihārya)",
+      "url": "https://en.wikipedia.org/wiki/Arihant_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Verifying the count and content of the Arihant's twelve gunas"
+    },
+    {
+      "title": "Siddha (Jainism) — the eight qualities of the liberated soul",
+      "url": "https://en.wikipedia.org/wiki/Siddha_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Verifying the eight gunas of the Siddha and the karma-shedding doctrine"
+    },
+    {
+      "title": "Sanskrit Dictionary — manohara (manas + √hṛ, 'heart-captivating')",
+      "url": "https://www.sanskritdictionary.com/manohara/",
+      "type": "dictionary",
+      "consultedFor": "Etymology and gloss of manohāra"
+    },
+    {
+      "title": "Wiktionary — √kṣam (to forbear, pardon) and derivatives",
+      "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%AE%E0%A5%8D",
+      "type": "dictionary",
+      "consultedFor": "Root and causative sense of khamāvīe / khāmaṇā / kṣamāpanā"
+    },
+    {
+      "title": "Anchala Gachchha — Vidhipaksha Śvetāmbara lineage",
+      "url": "https://en.wikipedia.org/wiki/Anchala_Gachchha",
+      "type": "scholarship",
+      "consultedFor": "Tradition placement of this khamana within the Anchalgachchha"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse text and its spaced bars/abbreviation symbol (ખમો ભવિ૦) are preserved verbatim per the source book; ૦ marks the book's elision of the repeated refrain, here expanded as 'khamo bhavi khāmaṇā re'. 'આઠોએ' is read as 'all eight together' (numeral + inclusive -oe); a minority reading could take -e as a metrical filler, but the totalizing sense fits the litany. 'manohāra' (with long ā) is the book's form of manohara and is preserved. The verse does not enumerate the individual twelve/eight gunas, so the specific lists are supplied from standard Jain reckoning, not from the verse itself."
+}

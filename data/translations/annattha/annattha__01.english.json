@@ -1,0 +1,132 @@
+{
+  "shlokaId": "annattha/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Except for natural acts like breathing out and in, coughing, sneezing, yawning, belching, passing wind, feeling dizzy, or fainting from bile, I will keep my body still during this meditation.",
+  "recitation": "annattha ūsasieṇaṁ, nīsasieṇaṁ, khāsieṇaṁ, chhīeṇaṁ, jaṁbhāieṇaṁ, uḍḍueṇaṁ, vāyanisaggeṇaṁ, bhamalie, pittamucchāe",
+  "wordByWord": [
+    {
+      "token": "અન્નત્થ",
+      "translit": "annattha",
+      "gloss": "except for, otherwise than — introducing the list of permitted reflexes",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit annattha < Sanskrit anyatra ('elsewhere, otherwise, save for'); from anya ('other') + the adverbial suffix -tra.",
+      "notes": "Governs the whole list that follows: every item named is an exception to the stillness, not a part of it."
+    },
+    {
+      "token": "ઊસસિએણં",
+      "translit": "ūsasieṇaṁ",
+      "gloss": "by breathing out (the out-breath)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ūsasiya < Sanskrit ucchvasita (ud- 'up/out' + √śvas 'to breathe'), in the instrumental singular -eṇaṁ ('by means of').",
+      "notes": "Paired with the next word as the most basic, unavoidable reflex."
+    },
+    {
+      "token": "નિસસિએણં",
+      "translit": "nīsasieṇaṁ",
+      "gloss": "by breathing in (the in-breath)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nīsasiya < Sanskrit niḥśvasita (niḥ- + √śvas 'to breathe'), instrumental singular -eṇaṁ.",
+      "notes": "Read here per Jain liturgical convention as the in-breath, completing the breathing pair with ūsasieṇaṁ."
+    },
+    {
+      "token": "ખાસિએણં",
+      "translit": "khāsieṇaṁ",
+      "gloss": "by coughing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khāsiya < Sanskrit kāsita (√kās 'to cough'), instrumental singular -eṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "છીએણં",
+      "translit": "chhīeṇaṁ",
+      "gloss": "by sneezing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit chhīya / chhikkā < Sanskrit kṣuta (√kṣu 'to sneeze'), instrumental singular -eṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "જંભાઇએણં",
+      "translit": "jaṁbhāieṇaṁ",
+      "gloss": "by yawning",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṁbhāiya < Sanskrit jṛmbhita (√jṛmbh 'to gape, yawn, stretch'), instrumental singular -eṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "ઉડ્ડુએણં",
+      "translit": "uḍḍueṇaṁ",
+      "gloss": "by belching (eructation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uḍḍua < Sanskrit udgāra (ud- 'up' + √gṝ 'to emit'), instrumental singular -eṇaṁ.",
+      "notes": "Some translators render it 'hiccough'; the standard reading here is belch/eructation."
+    },
+    {
+      "token": "વાયનિસગ્ગેણં",
+      "translit": "vāyanisaggeṇaṁ",
+      "gloss": "by breaking wind (release of bodily gas)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vāya (< Sanskrit vāta 'wind, gas') + nisagga (< Sanskrit nisarga 'release, letting out', ni- + √sṛj), instrumental singular -eṇaṁ.",
+      "notes": "A tatpuruṣa compound: 'by the release of (bodily) wind'."
+    },
+    {
+      "token": "ભમલિએ",
+      "translit": "bhamalie",
+      "gloss": "in/by dizziness (giddiness)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhamali < Sanskrit bhrama ('whirling, reeling', √bhram 'to whirl').",
+      "notes": "Here the ending shifts from the instrumental -eṇaṁ to a locative/instrumental -e form, as also with the next word; both name involuntary states rather than discrete acts."
+    },
+    {
+      "token": "પિત્તમુચ્છાએ",
+      "translit": "pittamucchāe",
+      "gloss": "in/by a fainting-swoon caused by bile",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit pitta (< Sanskrit pitta 'bile') + mucchā (< Sanskrit mūrcchā 'fainting, swoon', √mūrch), in the -e (locative/instrumental) singular.",
+      "notes": "A tatpuruṣa: 'swoon due to (a disturbance of) bile' — an Āyurvedic register of involuntary collapse."
+    }
+  ],
+  "literalTranslation": "Except for the out-breath, the in-breath, by coughing, by sneezing, by yawning, by belching, by breaking wind, in dizziness, in a bile-caused swoon —",
+  "idiomaticTranslation": "Setting aside such unavoidable acts as breathing out and breathing in, coughing, sneezing, yawning, belching, the passing of wind, a spell of dizziness, or a faint brought on by bile —",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse does one precise thing: under the single governing word annattha ('except for'), it itemizes the gross, involuntary acts of a living body that the reciter pledges to overlook before standing motionless. The ordering is deliberate and graded. It begins with the two acts no living being can suspend even for an instant — the out-breath and the in-breath — then moves to the sudden reflexes (coughing, sneezing, yawning), then to the digestive escapes (belching, breaking wind), and ends with two states rather than acts: a wave of dizziness and an outright faint from bile. The progression runs from the constant (breath) to the occasional (a cough) to the rare and incapacitating (a swoon), so the list quietly spans the body's whole range of unbidden behaviour. A subtle grammatical signal reinforces this: the first seven items carry the instrumental ending -eṇaṁ ('by means of'), framing them as actions that merely happen through the body, while the last two — bhamalie and pittamucchāe — drop into the -e form, naming conditions one is overtaken by. The verse names nine such exceptions; it does not yet say what is being protected. That declaration (an 'unbroken and unviolated' kāyotsarga) is deferred to the verses that follow, so this verse functions as a careful, honest inventory laid down before the vow is sealed.",
+    "doctrinalContext": "The verse is the working face of the āgāra principle: a vow of ahiṁsā and stillness pressed to the limit would be unkeepable, since the body coughs, sneezes, and breathes of its own accord. Jain ethics resolves this by distinguishing willed action from involuntary reflex — only conduct backed by intention (bhāva) binds karma in the way a broken vow would. By naming these nine reflexes in advance, the practitioner removes the anxiety and false guilt that would themselves disturb meditation, so that an involuntary sneeze is no transgression. This is the same realism that lets a livable vow remain a true vow rather than an impossible ideal.",
+    "practicalRelevance": "Standing or sitting in kāyotsarga today, a reciter who coughs, yawns, or feels momentarily giddy should let it pass without breaking concentration or restarting — these are precisely the acts this verse pre-authorizes. The discipline being trained is not suppression of the body but non-reaction to it: noticing the reflex, not seizing on it.",
+    "crossReferences": [
+      {
+        "text": "Tassa Uttari (the immediately preceding sutra: the resolve to purify oneself through kāyotsarga, which this verse then qualifies)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Annattha vv. 2–3 (the three subtle saṁcāla and the closing 'evamāiehiṁ āgārehiṁ' that extend this same list of exceptions)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Āvaśyaka tradition on kāyotsarga and its permitted āgāras",
+        "source": "Āvaśyaka Niryukti / Cheda-sūtra tradition (as summarized in standard accounts of kāyotsarga)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kayotsarga",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "the standard English rendering of the Annattha exceptions ('inhaling and exhaling, coughing and sneezing, yawning and hiccoughing, breaking wind, giddiness, and swooning') and the meaning of annattha as 'with the exception of'"
+    },
+    {
+      "title": "Kāyotsarga — Meditation with Bodily Detachment (HereNow4U)",
+      "url": "https://www.herenow4u.net/index.php?id=99104",
+      "type": "commentary",
+      "consultedFor": "the list and sense of the permitted involuntary acts in the kāyotsarga formula and their function as exceptions that keep the practice unbroken"
+    },
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "the placement of kāyotsarga among the six Āvaśyakas and the role of the Tassa Uttari–Annattha pair"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Token glosses follow the verse's instrumental -eṇaṁ endings (acts performed 'by means of') for items 2–8, while bhamalie and pittamucchāe carry an -e (locative/instrumental) ending and are better read as involuntary states one is overtaken by — a grammatical shift preserved in the translation. uḍḍueṇaṁ is rendered 'belching/eructation' per the preface and standard usage; some translators give 'hiccough' (cf. Wikipedia's 'hiccoughing'). The pairing of ūsasieṇaṁ = out-breath and nīsasieṇaṁ = in-breath follows Jain liturgical convention; in classical Sanskrit niḥśvāsa can denote exhalation, so the directional assignment is tradition-bound, not lexically forced. Orthography (e.g. છીએણં, ઉડ્ડુએણં, ભમલિએ) is honored verbatim from the Anchalgachchha (Vidhipaksha) book and not normalized."
+}

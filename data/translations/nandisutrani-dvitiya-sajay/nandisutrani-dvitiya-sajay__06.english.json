@@ -1,0 +1,154 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the wise and steadfast teacher Ārya Maṅgu, who recited, practised, meditated upon and spread the qualities of knowledge and right-faith, and who mastered the whole vast ocean of scripture.",
+  "recitation": "bhaṇāgaṁ karagaṁ jhajharagaṁ, pabhāvagaṁ ṇāṇa-daṁsaṇa-guṇāṇaṁ; vandāmi ajja-maṅguṁ, suya-sāgara-pāragaṁ dhīraṁ.",
+  "wordByWord": [
+    {
+      "token": "ભણાગં",
+      "translit": "bhaṇāgaṁ",
+      "gloss": "the reciter — one who recites and expounds the scripture aloud",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaṇaga, agent-noun from √bhaṇ 'to recite, declare'; Sanskrit bhaṇaka",
+      "notes": "Accusative agreeing with ajja-maṅguṁ; first rung of a four-fold ladder of teacherly excellence."
+    },
+    {
+      "token": "કરગં",
+      "translit": "karagaṁ",
+      "gloss": "the doer — one who carries the teaching into conduct/practice",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit karaga from √kṛ 'to do, perform'; Sanskrit kāraka",
+      "notes": "Implies cāritra (conduct): he does not merely recite but enacts what he recites."
+    },
+    {
+      "token": "જઝરગં",
+      "translit": "jhajharagaṁ",
+      "gloss": "the meditator — one absorbed in dhyāna upon the scripture",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit form of jhāyaga, from jhāṇa/jhāya (Sanskrit dhyāna); Sanskrit dhyāyaka",
+      "notes": "Book reads જઝરગં verbatim; standard editions read jhāyaga(ṁ). Treated here as the same agent-noun 'meditator' (see notes)."
+    },
+    {
+      "token": "પભાવગં",
+      "translit": "pabhāvagaṁ",
+      "gloss": "the illuminator/propagator — one who magnifies and spreads the teaching (prabhāvaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pabhāvaga = Sanskrit prabhāvaka, from pra-√bhū 'to bring to power, make resplendent'",
+      "notes": "The culminating rung: from private mastery to public radiance of the śāsana."
+    },
+    {
+      "token": "ણાણ",
+      "translit": "ṇāṇa",
+      "gloss": "knowledge (jñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇa = Sanskrit jñāna, from √jñā 'to know'",
+      "notes": "First member of the compound ṇāṇa-daṁsaṇa-guṇāṇaṁ."
+    },
+    {
+      "token": "દંસણ",
+      "translit": "daṁsaṇa",
+      "gloss": "right faith/insight (darśana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit daṁsaṇa = Sanskrit darśana, from √dṛś 'to see'",
+      "notes": "Paired with ṇāṇa; two of the three jewels (ratnatraya)."
+    },
+    {
+      "token": "ગુણાણં",
+      "translit": "guṇāṇaṁ",
+      "gloss": "of the qualities/virtues (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇānām, genitive plural of guṇa 'quality, virtue'",
+      "notes": "Governs the four agent-epithets: he is reciter-doer-meditator-propagator OF the qualities of knowledge and faith."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit = Sanskrit vandāmi, 1st person singular present of √vand 'to salute reverently'",
+      "notes": "Note the shift from vande (v.5, Samudra) to vandāmi here — the same act of homage that structures the hymn."
+    },
+    {
+      "token": "અજ્જમંગું",
+      "translit": "ajjamaṅguṁ",
+      "gloss": "Ārya Maṅgu (accusative) — the noble teacher Maṅgu",
+      "partOfSpeech": "invocation",
+      "etymology": "ajja = Sanskrit ārya 'noble' + personal name Maṅgu; Sanskrit Ārya-Maṅgu",
+      "notes": "A celebrated vācaka of the early Śvetāmbara lineage, renowned for scriptural erudition."
+    },
+    {
+      "token": "સુયસાગર",
+      "translit": "suyasāgara",
+      "gloss": "ocean of scripture (śruta-sāgara)",
+      "partOfSpeech": "compound",
+      "etymology": "suya = Sanskrit śruta 'that which is heard, the canon' + sāgara 'ocean'",
+      "notes": "Forms a larger compound with pāragaṁ: 'one who has crossed the ocean of scripture'."
+    },
+    {
+      "token": "પારગં",
+      "translit": "pāragaṁ",
+      "gloss": "one who has reached the far shore — a complete master",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pāraga, from pāra 'far shore, limit' + √gam 'to go'",
+      "notes": "Accusative; predicated of Maṅgu — he has gone to the very end of scriptural learning."
+    },
+    {
+      "token": "ધીરં",
+      "translit": "dhīraṁ",
+      "gloss": "the steadfast, resolute, wise one",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit dhīra 'firm, composed, sagacious', from √dhṛ 'to hold firm'",
+      "notes": "Final epithet; pairs steadiness of mind with the depth implied by the ocean image."
+    }
+  ],
+  "literalTranslation": "The reciter, the doer, the meditator, the propagator of the qualities of knowledge and right-faith — I bow to Ārya Maṅgu, the steadfast one who has crossed to the far shore of the ocean of scripture.",
+  "idiomaticTranslation": "He recited the word, he lived it, he meditated upon it, and he made it shine abroad — master of every virtue of knowledge and right-faith. To Ārya Maṅgu I bow: the steadfast sage who has swum to the farthest shore of the boundless ocean of scripture.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse honours Ārya Maṅgu through a tightly built fourfold epithet that reads as a complete spiritual curriculum. The four agent-nouns — bhaṇāga (he recites), karaga (he practises), jhajharaga/jhāyaga (he meditates), pabhāvaga (he propagates) — form an ascending ladder: scripture is first spoken, then embodied in conduct, then internalised in dhyāna, and finally radiated outward to the community. All four are governed by the genitive ṇāṇa-daṁsaṇa-guṇāṇaṁ, 'of the qualities of knowledge and right-faith,' so the verse does not praise four separate talents but one integrated mastery of the first two jewels, with karaga quietly supplying the third (conduct). The closing line crowns him with two images of depth and stability: suya-sāgara-pāraga, one who has crossed to the far shore of the ocean of scripture, and dhīra, the steadfast. The ocean motif deliberately echoes the preceding verse's Ārya Samudra (praised as an 'unshaken, fathomless ocean'): there the teacher WAS the ocean; here the teacher has CROSSED it — a neat compositional turn that carries the lineage forward one link, from Samudra to Maṅgu, before the following verse moves on to Ārya Dharma and Ārya Vajra. The homage thus rewards the worshipper who notices that a single recurring image is being re-voiced for each successive master.",
+    "doctrinalContext": "The pairing ṇāṇa-daṁsaṇa names two of the ratnatraya (three jewels: samyag-jñāna, samyag-darśana, samyak-cāritra); right-faith and right-knowledge are inseparable in Jain epistemology, and Maṅgu is praised precisely as their living vessel, with karaga gesturing to the third jewel of conduct. The four roles also map onto the ideal of the prabhāvaka — the teacher whose realised learning becomes a force that sustains and advances the śāsana. pāraga ('gone to the far shore') is a soteriologically loaded term: mastery of śruta is not bookishness but a crossing, the same metaphor of liberation-as-fording that pervades the description of the Tīrthaṅkaras ('ford-makers') themselves.",
+    "practicalRelevance": "For today's reciter the verse offers a self-check: knowledge is meant to travel the full arc — heard, lived, meditated upon, and shared. To merely recite (bhaṇāga) without doing (karaga), meditating (jhāyaga) and giving back (pabhāvaga) is to stop short. Bowing to Maṅgu is a resolve to let one's own study mature through all four stages rather than rest at recitation.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī (succession-roll of teachers)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī recension)"
+      },
+      {
+        "text": "Tattvārtha Sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ (the three jewels)",
+        "source": "Umāsvāti"
+      },
+      {
+        "text": "Preceding gāthā v.5 — Ārya Samudra, 'akkhubhiya-samudda-gambhīra' (the unshaken fathomless ocean)",
+        "source": "Nandī-sūtra Dvitīya Sajjhāy, this corpus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "List of Jain monks (Sthaviras and early ācāryas)",
+      "url": "https://en.wikipedia.org/wiki/List_of_Jain_monks",
+      "type": "scholarship",
+      "consultedFor": "Placement of Ārya Maṅgu within the early Śvetāmbara teacher-lineage."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Nandīsūtra) and its Sthavirāvalī",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The Nandī Sūtra as a Mūla/Cūlikā sūtra and the wording/sense of the Sthavirāvalī gāthās."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses of pāraga, dhīra, prabhāvaka, dhyāyaka, vand-, śruta, sāgara, guṇa."
+    },
+    {
+      "title": "Jainpedia — Jain canonical literature and monastic lineages",
+      "url": "https://jainpedia.org/",
+      "type": "scholarship",
+      "consultedFor": "Context of the Sthavirāvalī as a device validating scriptural transmission."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verbatim book token જઝરગં (jhajharagaṁ) is an orthographic variant of the standard reading jhāyaga(ṁ) = Sanskrit dhyāyaka ('meditator'), preserved here verbatim per the corpus's fidelity rule and glossed accordingly; the four-fold epithet bhaṇaga–karaga–jhāyaga–pabhāvaga is well attested in the Nandī Sthavirāvalī. The identification of Ārya Maṅgu as a specific historical ācārya is traditional; precise dates are not firmly established and are flagged as uncertain. Glosses of ṇāṇa/daṁsaṇa as members of an unmarked compound, and the reading of suya-sāgara-pāragaṁ as a single compound, follow standard interpretation. The first preface source URL (data.book/...) is an internal corpus path, not a public link, and is therefore not cited here."
+}

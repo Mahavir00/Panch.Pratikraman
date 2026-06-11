@@ -1,0 +1,186 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/39",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever recites this Ajita-Śānti hymn — or even just listens to it — morning and evening is kept free of disease: old ailments fade and new ones never take hold.",
+  "recitation": "jo paḍhai jo a nisuṇai, ubhao kālaṁ pi ajia-saṁti-thayaṁ; na hu huṁti tassa rogā, puvvuppannā vi nāsaṁti.",
+  "wordByWord": [
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever; the one who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo ← Sanskrit yaḥ, the relative pronoun.",
+      "notes": "Opens a relative clause completed by tassa ('of him') in line 2."
+    },
+    {
+      "token": "પઢઇ",
+      "translit": "paḍhai",
+      "gloss": "recites; reads aloud",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paḍhai ← Sanskrit paṭhati, root √paṭh ('to recite, read').",
+      "notes": "3rd-sg. present; here in the gnomic/habitual sense, 'whoever recites.'"
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever (repeated)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo ← Sanskrit yaḥ.",
+      "notes": "The deliberate repetition pairs reciter and listener as equally entitled to the fruit."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a ← Sanskrit ca, the connective 'and.'",
+      "notes": "Conjoins paḍhai and nisuṇai."
+    },
+    {
+      "token": "નિસુણઇ",
+      "translit": "nisuṇai",
+      "gloss": "listens; hears",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit nisuṇai ← Sanskrit niśṛṇoti, ni-√śru ('to listen attentively').",
+      "notes": "The ni- prefix conveys careful, attentive hearing, not idle overhearing."
+    },
+    {
+      "token": "ઉભઓ",
+      "translit": "ubhao",
+      "gloss": "at both (times)",
+      "partOfSpeech": "adjective",
+      "etymology": "Prakrit ubhao ← Sanskrit ubhayoḥ / ubhau ('both').",
+      "notes": "Qualifies kāla; conventionally the two daily junctures (dawn and dusk)."
+    },
+    {
+      "token": "કાલંપિ",
+      "translit": "kālaṁ pi",
+      "gloss": "at the time(s), too",
+      "partOfSpeech": "compound",
+      "etymology": "kālaṁ (← Sanskrit kālam, accusative of kāla, 'time') + pi (← api, 'even/too').",
+      "notes": "Sandhi of kālaṁ + pi; the pi extends the promise to either occasion of recitation."
+    },
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "Ajita (the first half of the hymn's name)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajia ← Sanskrit Ajita.",
+      "notes": "First member of the compound title; see preface glossary."
+    },
+    {
+      "token": "સંતિથયં",
+      "translit": "saṁti-thayaṁ",
+      "gloss": "the Śānti-hymn — i.e. the Ajita-Śānti stava (stotra)",
+      "partOfSpeech": "compound",
+      "etymology": "saṁti (← Sanskrit Śānti) + thayaṁ (← stava, 'hymn of praise').",
+      "notes": "With the preceding ajia forms ajia-saṁti-thayaṁ, the hymn naming itself — the device by which a phala-stuti points back at the very text being recited."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit na ← Sanskrit na, negation.",
+      "notes": "Negates huṁti ('do not come to be')."
+    },
+    {
+      "token": "હુ",
+      "translit": "hu",
+      "gloss": "indeed; surely",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit hu ← Sanskrit khalu, an emphatic.",
+      "notes": "Strengthens the negation into a categorical assurance: 'surely not.'"
+    },
+    {
+      "token": "હુંતિ",
+      "translit": "huṁti",
+      "gloss": "arise; come to be",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit huṁti ← Sanskrit bhavanti, root √bhū ('to become').",
+      "notes": "3rd-pl., subject rogā; 'do not arise.'"
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "for him; of that person",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tassa ← Sanskrit tasya, genitive of tad.",
+      "notes": "Genitive of interest answering the opening jo — 'for whoever recites/listens.'"
+    },
+    {
+      "token": "રોગા",
+      "translit": "rogā",
+      "gloss": "diseases; ailments",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rogā ← Sanskrit rogāḥ, nominative plural of roga (√ruj, 'to break, afflict').",
+      "notes": "Subject of huṁti."
+    },
+    {
+      "token": "પુવ્વુપ્પન્ના",
+      "translit": "puvvuppannā",
+      "gloss": "previously arisen (diseases)",
+      "partOfSpeech": "adjective",
+      "etymology": "puvva (← Sanskrit pūrva, 'former') + uppanna (← utpanna, 'arisen,' ut-√pad); nominative plural agreeing with rogā.",
+      "notes": "The already-manifest ailments, set against the not-yet-arisen of the first clause."
+    },
+    {
+      "token": "વિનાસંતિ",
+      "translit": "vi nāsaṁti",
+      "gloss": "are destroyed as well",
+      "partOfSpeech": "verb",
+      "etymology": "vi (← api, 'even/also') + nāsaṁti (← naśyanti, root √naś, 'to perish/be destroyed').",
+      "notes": "Book prints the particle vi joined to the verb as વિનાસંતિ; standard recensions read 'puvvuppannā vi nāsanti.' The vi answers the pi of line 1, balancing prevention and cure."
+    }
+  ],
+  "literalTranslation": "Whoever recites, and whoever listens to, the Ajita-Śānti hymn at both times too — for him diseases surely do not arise; even those already arisen are destroyed.",
+  "idiomaticTranslation": "He who chants this Ajita-Śānti hymn, and he who only listens to it, at both the morning and the evening hour — for such a one no disease ever takes hold; and the ailments already lodged in the body are dissolved away.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the hymn's explicit phala-stuti: having just told us (in the preceding verse) when the stava is to be recited, the poet now states what it yields. Two craftsmanly balances govern the verse. First, the doubled jo — 'whoever recites, and whoever listens' — levels reciter and hearer: the fruit is not reserved for the literate chanter but extends to anyone present with an attentive ear (note the ni- of nisuṇai, attentive hearing). In a tradition where many devotees would hear rather than read the Prakrit, this is a deliberate act of inclusion. Second, the verse pairs a pi ('even at the time') with a vi ('even the arisen'), framing a two-fold pharmacological promise: prophylaxis — 'diseases do not arise' (na hu huṁti) — and cure — 'those already arisen are destroyed' (puvvuppannā vi nāsaṁti). The hymn thus presents itself as both shield and medicine. The emphatic hu ('surely') converts a hope into a guarantee, the rhetorical register proper to a closing benediction. Notably, the verse names itself — ajia-saṁti-thayaṁ — so that the text becomes self-referential: the cure is the recitation now underway. 'Ubhao kāla,' the two daily junctures, situates the remedy in steady, repeated practice rather than a single dramatic performance.",
+    "doctrinalContext": "The verse voices laukika phala (worldly benefit) — bodily health — as the visible reward of devotion, a standard feature of Jain stotra literature where protective recitation accrues puṇya that ripens as relief from affliction. Yet the Jain reading does not stop at the body: roga is read on two registers, the dravya-roga (physical illness) and, by extension, the bhāva-roga — the 'disease' of the passions (rāga-dveṣa) that the steadied, equanimous mind of recitation begins to dissolve. The parity of reciter and listener also encodes a doctrinal point: śravaṇa (hearing the sacred word) is itself efficacious, consonant with the value Jain practice places on samyak-śruta. The promise is offered not as magic but as the fruit of bhakti directed at the vītarāga Jinas, whose remembrance steadies and purifies the one who turns to them.",
+    "practicalRelevance": "The reciter should take the verse at its inclusive word: simply being present and listening with attention carries the same assurance as chanting. Practically it invites a twice-daily rhythm — keeping the hymn at the dawn and dusk junctures — and reframes recitation as a quiet therapeutic discipline: a settling of body and mind that the tradition holds to forestall new affliction and ease what is already present.",
+    "crossReferences": [
+      {
+        "text": "'Upasargāḥ kṣayaṁ yānti…' — the appended Sanskrit maṅgala verse (v.44) promising the dissolution of calamities, parallel to this verse's promise of disease destroyed.",
+        "source": "Ajitaśānti Stava, closing maṅgala stanzas (recitation tradition)"
+      },
+      {
+        "text": "Upasargahara Stotra (Smaraṇa #4), whose phala likewise pledges removal of affliction and disease through Pārśvanātha's remembrance.",
+        "source": "Bhadrabāhu (attrib.), Nava Smaraṇa corpus"
+      },
+      {
+        "text": "Phala-stuti convention of the Prakrit stotra genre, in which the hymn names itself and states the benefit of its recitation/hearing.",
+        "source": "Jain stotra-sāhitya (general)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitanatha — Wikipedia (notes the Ajitaśānti Stotra as a foundational devotional text to the 2nd Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identification of Ajitanātha and the standing of the Ajitaśānti Stotra in the devotional tradition."
+    },
+    {
+      "title": "Paḍha, Pāḍhā — Prakrit-English entry (Sheth, Pāia-sadda-mahaṇṇavo, via Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/padha",
+      "type": "dictionary",
+      "consultedFor": "Gloss of paḍhai (Prakrit paḍha ← Sanskrit √paṭh, 'to recite/read')."
+    },
+    {
+      "title": "Nāsa / Nāśa — Prakrit & Sanskrit entries (Wisdomlib aggregated lexica)",
+      "url": "https://www.wisdomlib.org/definition/nasa",
+      "type": "dictionary",
+      "consultedFor": "Root √naś underlying nāsaṁti ('are destroyed') and roga/affliction semantics."
+    },
+    {
+      "title": "Ajitaśānti — Jain glossary (Tessitori Collection, Saptasmaraṇa manuscript description)",
+      "url": "https://www.wisdomlib.org/definition/ajitashanti",
+      "type": "scholarship",
+      "consultedFor": "Attestation of the Ajitaśānti stava within the Saptasmaraṇa/Nava Smaraṇa manuscript tradition."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The book prints the closing particle joined to the verb as 'વિનાસંતિ' (vi+nāsaṁti); the standard recension separates 'પુવ્વુપ્પન્ના વિ નાસંતિ' (puvvuppannā vi nāsanti) — read here as vi ('even') + nāsaṁti, preserving the book's spelling verbatim per the orthography rule. 'Ubhao kāla' is conventionally taken as the two daily junctures (morning and evening), though the text states only 'both times'; this is interpretive, not lexically forced. 'hu' is taken as emphatic khalu. Token coverage is 100%; per-token translit is IAST while the recitation line is romanized for the English (Latin) target."
+}

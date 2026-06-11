@@ -1,0 +1,164 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse pictures the Jain community as a lotus that has risen clean above the floodwaters of karma — with sacred scripture for its long stalk, the five great vows for its firm seed-cup, and many good qualities for its golden filaments.",
+  "recitation": "kamma-raya-jaloha-vihiggayassa, suya-rayaṇa-dīha-nālassa | pañca-mahavvaya-thira-kaṇiyassa, guṇa-kesarālassa ||",
+  "wordByWord": [
+    {
+      "token": "કમ્મ",
+      "translit": "kamma",
+      "gloss": "karma; the subtle matter that clings to the soul",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kamma < Sanskrit karman, from √kṛ 'to do'",
+      "notes": "First member of the compound kamma-raya-jaloha- ('flood of karmic dust')."
+    },
+    {
+      "token": "રય",
+      "translit": "raya",
+      "gloss": "dust, fine particles",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raya < Sanskrit rajas 'dust, pollen, particles'",
+      "notes": "Karma is figured as raja — fine pudgala-matter; the floodwater carries this dust."
+    },
+    {
+      "token": "જલોહ",
+      "translit": "jaloha",
+      "gloss": "flood-torrent of water (jala + ogha)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jala 'water' + oha < Sanskrit ogha 'flood, torrent, mass'",
+      "notes": "The swirling water from which a lotus rises; here the deluge of karmic dust."
+    },
+    {
+      "token": "વિહિગ્ગયસ્સ",
+      "translit": "vihiggayassa",
+      "gloss": "of (the lotus) that has risen up and out",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vihiggaya < Sanskrit vi-nir-gata 'gone forth, emerged' (or vi + udgata 'risen up'); -ssa = genitive sing.",
+      "notes": "Genitive caps the whole first compound: 'of [the lotus] emerged from the karmic-dust flood'. The exact Sanskrit base is ambiguous (see notes)."
+    },
+    {
+      "token": "સુય",
+      "translit": "suya",
+      "gloss": "scripture, heard/transmitted sacred knowledge",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suya < Sanskrit śruta, from √śru 'to hear'",
+      "notes": "Stands for śruta-jñāna; with rayaṇa forms 'jewel of scripture'."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Sanskrit ratna 'jewel'",
+      "notes": "Note the play: raya (dust) above vs rayaṇa (jewel) here — worthless particle against precious gem."
+    },
+    {
+      "token": "દીહ",
+      "translit": "dīha",
+      "gloss": "long",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dīha < Sanskrit dīrgha 'long'",
+      "notes": "Qualifies nāla; the lotus's long stalk."
+    },
+    {
+      "token": "નાલસ્સ",
+      "translit": "nālassa",
+      "gloss": "of the stalk/stem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nāla < Sanskrit nāla 'hollow stalk of the lotus'; -ssa = genitive sing.",
+      "notes": "Second image-part: scripture is the long supporting stalk that lifts the bloom above the water."
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pañca < Sanskrit pañca 'five'",
+      "notes": "Numbers the mahāvratas."
+    },
+    {
+      "token": "મહવ્વય",
+      "translit": "mahavvaya",
+      "gloss": "great vows (of a mendicant)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahavvaya < Sanskrit mahā-vrata 'great vow'",
+      "notes": "Non-violence, truth, non-stealing, celibacy, non-possession — see preface glossary."
+    },
+    {
+      "token": "થિર",
+      "translit": "thira",
+      "gloss": "firm, steady",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit thira < Sanskrit sthira 'firm, immovable'",
+      "notes": "Qualifies kaṇiya; the pericarp is solid and unshaken."
+    },
+    {
+      "token": "કણિયસ્સ",
+      "translit": "kaṇiyassa",
+      "gloss": "of the pericarp (the central seed-cup of the lotus)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaṇiyā < Sanskrit karṇikā 'pericarp, seed-vessel of the lotus'; -ssa = genitive sing.",
+      "notes": "Third image-part: the five vows are the firm karṇikā at the flower's heart, holding the seeds."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtue, good quality",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit guṇa < Sanskrit guṇa 'strand, quality, virtue'",
+      "notes": "The many spiritual qualities of the Saṅgha."
+    },
+    {
+      "token": "કેસરાલસ્સ",
+      "translit": "kesarālassa",
+      "gloss": "of (the lotus) thick with filaments (full of stamens)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kesara < Sanskrit kesara 'filament, stamen' + taddhita suffix -āla 'abundant in, full of'; -ssa = genitive sing.",
+      "notes": "Fourth image-part: virtues are the crowding golden filaments. The -āla suffix marks profusion, not just presence."
+    }
+  ],
+  "literalTranslation": "Of [the lotus] risen up out of the flood-torrent of karmic dust; of the long stalk that is the jewel of scripture; of the firm pericarp that is the five great vows; of [the lotus] thick with the filaments that are its virtues —",
+  "idiomaticTranslation": "[To that Saṅgha-lotus] which has lifted itself pure above the swirling floodwaters of karmic dust; whose long stalk is the very jewel of sacred scripture; whose firm seed-cup is the five great vows; and whose crowding golden filaments are its virtues —",
+  "elaboration": {
+    "verseByVerseCommentary": "Here the hymn turns to its loveliest sustained image, the lotus, which it builds across this verse and the next. Grammatically the verse is a single suspended breath: four genitive (-ssa) descriptors with no head-noun, each naming one anatomical part of the bloom and the spiritual reality it stands for. The flower itself — the saṅgha-paüma — and the bees and sun that complete the picture wait until verse 8, so verse 7 deliberately leaves the listener leaning forward. The four mappings ascend from root to crown: (1) vihiggaya — the whole plant 'risen out' of the kamma-raya-jaloha, the muddy floodwater of karmic dust, the lotus's signature feat of being in the water yet untouched by it; (2) the long stalk (dīha-nāla) that does the lifting is suya-rayaṇa, the jewel of scripture — knowledge is what raises the community clear of the flood; (3) at the flower's centre the firm pericarp (thira-kaṇiya) is the five great vows, the generative seed-cup that holds and ripens everything; (4) the dense filaments (kesarāla) are the Saṅgha's guṇas, beauty crowding the bloom. Note the deliberate sonic and semantic contrast of raya (worthless dust) against rayaṇa (priceless jewel) within two feet of each other — the same floodborne particles that are karmic grit become, transmuted, the gem on the stalk. The taddhita -āla in kesarāla signals profusion: not a few virtues but a thick golden crowд of them.",
+    "doctrinalContext": "The verse compresses the three jewels and the mendicant discipline into one organism: śruta-jñāna (the stalk), cāritra in its highest form as the five mahāvratas (the pericarp), and the resultant guṇas (the filaments) — right knowledge bearing right conduct bearing virtue. The controlling image, rising unsoiled from water, is the classic Jain figure for the soul's relation to karma: karma is rendered as raja, fine particulate matter (pudgala) that clings, and the lotus's emergence (vihiggaya) dramatizes saṁvara and nirjarā — the stopping and shedding of that inflow — applied here not to a single soul but to the whole four-fold community, which collectively rises above the karmic flood while remaining within saṁsāra. The five vows as the karṇikā is doctrinally precise: the seed-cup is the part that holds the seeds and generates the next bloom, just as the mahāvratas are the reproductive heart of the ascetic life from which all guṇa-filaments radiate.",
+    "practicalRelevance": "Recited in the Pākṣika study-portion just after the fortnight's transgressions have been confessed, this verse hands the reciter an aspirational self-image: you too are meant to be a lotus rising out of your own karmic floodwater. It invites a concrete examination — is scripture genuinely the stalk lifting me, are the vows the firm centre I am rooted in, are virtues actually crowding my conduct? — turning praise of the Saṅgha into a measure for one's own renewal.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra, ch. 25 (the lotus unsoiled by water as figure of the true ascetic)",
+        "source": "Jacobi, Jaina Sūtras, SBE vol. 45"
+      },
+      {
+        "text": "Daśavaikālika-sūtra ch. 1 (Drumapuṣpikā) — the bee/flower simile of the mendicant",
+        "source": "Śvetāmbara Mūlasūtra; cf. drumapushpika-sajjhay in this corpus"
+      },
+      {
+        "text": "Sūtrakṛtāṅga 1.x — the soul/sage like a lotus untouched by the surrounding water",
+        "source": "Śvetāmbara Aṅga-Āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Etymology and botanical senses of karṇikā (pericarp), kesara (filament/stamen), nāla (lotus stalk), ratna (jewel) and rajas (dust)"
+    },
+    {
+      "title": "Āgama (Jainism) — Jain literature and the canon",
+      "url": "https://en.wikipedia.org/wiki/%C4%80gama_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Nandī-sūtra within the Śvetāmbara Āgama corpus from which this Saṅgha-praise is drawn"
+    },
+    {
+      "title": "Śvetāmbara — branch of Jainism",
+      "url": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara",
+      "type": "scholarship",
+      "consultedFor": "Tradition context for the four-fold Saṅgha and mendicant five great vows referenced in the verse"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The whole verse is a chain of genitive (-ssa) attributes with no head-noun; it grammatically resolves only in v.8, where the Saṅgha-lotus (saṅgha-paüma) and its bees and sun appear — so the verse is intentionally suspended. Chief lexical uncertainty: 'vihiggaya' — read here as vi-nir-gata ('risen out, emerged'), though a parse as vi + ud-gata ('risen up') gives nearly the same sense; both fit the lotus rising above the flood. 'kesarāla' is kesara + the taddhita suffix -āla denoting abundance ('thick with filaments'). Spelling, mātrās, anusvāras and conjuncts (e.g. કણિયસ્સ, કેસરાલસ્સ, વિહિગ્ગયસ્સ) are reproduced verbatim from the Anchalgachchha/Vidhipaksha book and not normalized. Cross-reference verse numbers in Sūtrakṛtāṅga/Uttarādhyayana are approximate and should be confirmed against a critical edition."
+}

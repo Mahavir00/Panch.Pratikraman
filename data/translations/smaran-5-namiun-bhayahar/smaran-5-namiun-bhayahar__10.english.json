@@ -1,0 +1,168 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a terrifying wilderness — swarming with Bhil hunters, robbers, wild Pulinda tribesmen and roaring tigers — where the faint-hearted, paralysed by fear, are hacked down and fall among the caravans; it is the danger from which (the next verse promises) remembering Pārśva delivers the devotee.",
+  "recitation": "aḍavīsu bhilla takkara pulinda saddūla sadda bhīmāsu | bhaya vihura vunna kāyara ullūriya paḍia satthāsu ||",
+  "wordByWord": [
+    {
+      "token": "અડવીસુ",
+      "translit": "aḍavīsu",
+      "gloss": "in the wild forests / wildernesses",
+      "partOfSpeech": "noun",
+      "etymology": "locative plural of aḍavī (Skt aṭavī, 'forest, trackless wilderness'); the whole line stands in this locative, 'in [forests that are]…'",
+      "notes": "sets the scene; the locative governs the string of frightful things that follow."
+    },
+    {
+      "token": "ભિલ્લ",
+      "translit": "bhilla",
+      "gloss": "Bhils (forest hunting-tribesmen)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt/Pkt bhilla, an aboriginal forest people of hunters and waylayers; here a stock figure of wilderness danger.",
+      "notes": "first member of a long descriptive compound qualifying 'forests'."
+    },
+    {
+      "token": "તક્કર",
+      "translit": "takkara",
+      "gloss": "robbers, thieves, brigands",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt takkara from Skt taskara, 'thief, robber' (cf. the Vāstu sense 'thief' for taskara).",
+      "notes": "the human predator of the road, paired with tribal raiders."
+    },
+    {
+      "token": "પુલિંદ",
+      "translit": "pulinda",
+      "gloss": "Pulindas (a wild hill / mleccha tribe)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt/Pkt pulinda, a forest-dwelling tribe classed among the mlecchas in epic-Purāṇic literature; emblem of the untamed frontier.",
+      "notes": "doubles the Bhilla motif — two named tribes intensifying the wildness."
+    },
+    {
+      "token": "સદ્દૂલ",
+      "translit": "saddūla",
+      "gloss": "tigers",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt saddūla from Skt śārdūla, 'tiger'; the apex animal-terror of the forest.",
+      "notes": "the only non-human peril in the list, capping the human raiders with a beast."
+    },
+    {
+      "token": "સદ્",
+      "translit": "sadda",
+      "gloss": "din, clamour, roar",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt sadda from Skt śabda, 'sound, cry, roar'; here the combined uproar of tribesmen, robbers and tigers that makes the forest dreadful.",
+      "notes": "the source prints this token as 'સદ્' (verbatim); read as sadda (śabda), forming the compound saddūla-sadda-bhīma, 'frightful with the din [of tigers and the rest]'. See notes for the variant."
+    },
+    {
+      "token": "ભીમાસુ",
+      "translit": "bhīmāsu",
+      "gloss": "frightful, terrible (in those forests)",
+      "partOfSpeech": "adj",
+      "etymology": "locative plural of bhīma (Skt bhīma, 'fearsome'), agreeing with aḍavīsu; closes the first line's compound.",
+      "notes": "grammatical hinge: the forests are 'frightful with' all the foregoing."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear, terror",
+      "partOfSpeech": "noun",
+      "etymology": "Skt/Pkt bhaya, 'fear'; first member of the compound describing the victims.",
+      "notes": "the keynote of the whole 'bhaya-hara' hymn surfaces literally here."
+    },
+    {
+      "token": "વિહુરવુન્ન",
+      "translit": "vihura-vunna",
+      "gloss": "distraught and panic-stricken",
+      "partOfSpeech": "compound",
+      "etymology": "vihura (Skt vidhura, 'distressed, helpless, undone') + vunna (Skt udvigna, 'agitated, alarmed'); a two-word descriptive compound, 'undone-and-agitated [by fear]'.",
+      "notes": "printed as one token; both members glossed. 'vunna' = udvigna is the standard Prakrit equivalence."
+    },
+    {
+      "token": "કાયર",
+      "translit": "kāyara",
+      "gloss": "the faint-hearted, cowards",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt kāyara from Skt kātara, 'timid, faint-hearted, cowardly'; the subject — those without inner refuge.",
+      "notes": "deliberately contrasted with the steadfast devotee implied in v.11."
+    },
+    {
+      "token": "ઉલ્લૂરિય",
+      "translit": "ullūriya",
+      "gloss": "hacked, torn to pieces, mangled",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt past participle of ullūr- ('to tear off, cut to pieces, mangle'); 'cut down'.",
+      "notes": "a vivid, almost brutal Prakrit verb, heightening the sensory terror typical of the danger-verses."
+    },
+    {
+      "token": "પડિઅ",
+      "translit": "paḍia",
+      "gloss": "fallen (dead/struck down)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt paḍia from Skt patita, 'fallen'; paired with ullūriya as 'hacked-and-fallen'.",
+      "notes": "completes the picture of slaughter on the road."
+    },
+    {
+      "token": "સત્થાસુ",
+      "translit": "satthāsu",
+      "gloss": "among the caravans (of travellers)",
+      "partOfSpeech": "noun",
+      "etymology": "locative plural of sattha (Skt sārtha, 'merchant caravan, travelling company'); 'in/among the caravans'.",
+      "notes": "read as sārtha (caravan), fitting the bandit-on-the-road scene and v.11's 'wealth unplundered'; an alternative parses sattha as Skt śastra ('weapon') = 'cut down by weapons'. See notes."
+    }
+  ],
+  "literalTranslation": "In wildernesses frightful with the din of Bhils, robbers, Pulindas and tigers — the faint-hearted, undone and panic-stricken with fear, are hacked down and fall among the caravans.",
+  "idiomaticTranslation": "Out in the trackless forests — hideous with the roar of tigers and the war-cries of Bhil hunters, brigands and wild Pulinda raiders — the timid, their nerve shattered by terror, are cut to pieces and drop where the caravans halt. (Yet, as the next breath of the hymn declares, those who bow to Pārśva pass through with their treasure and their lives untouched.)",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the opening half of the bandits-in-the-wilderness pair, and it does only one job: to make the danger unbearably real before the rescue arrives in the next breath. After v.9 had shrunk a cobra's deadly venom to the bite of an insect, the poet shifts peril from the lone serpent to the open road, and piles his terrors deliberately — two named tribes (bhilla, pulinda), the human brigand (takkara), and the beast (saddūla) — then fuses them into a single roar (sadda) so the whole forest itself becomes 'frightful' (bhīmāsu). The grammar is one long locative: everything hangs on 'in those forests…'. Against this backdrop he sets not the hero but the kāyara, the faint-hearted — pointedly, the person with no inner refuge. The verbs are merciless: vihura-vunna (nerve gone, mind reeling), then ullūriya-paḍia (hacked and dropped) among the satthāsu, the caravans. Note the craft: the verse withholds Pārśva entirely. The half-line ends on slaughter, and the sentence is left grammatically open — its only resolution is v.11, where the devotee's 'wealth-essence' goes unplundered and obstacles dissolve. The terror is thus structural, not gratuitous: the poet makes us feel the road's horror precisely so the turn to refuge lands with full force. The contrast is moral as much as physical — the coward who trusts nothing falls; the one whose 'sole occupation is bowing to you' walks through.",
+    "doctrinalContext": "The verse instantiates one item of the classical catalogue of great worldly perils (mahābhaya) — here cora-bhaya, the fear of robbers, extended to wild tribes and beasts. Its doctrinal pivot is the word kāyara: the Jain point is not that the brave survive and the timid die, but that fear itself is the affliction, and it is conquered not by weapons but by refuge (śaraṇa) in the Jina. The faint-hearted fall because they have nothing to hold; the unspoken antithesis, completed in v.11, is the one whose only act is praṇāma to Pārśva. Fear is thus reframed as an inner state answerable to smaraṇa, not to circumstance — the same logic that runs through the whole 'bhaya-hara' hymn.",
+    "practicalRelevance": "For the reciter, this verse is permission to name raw fear honestly — the modern 'wilderness' of hostile environments, threat, loss of security and the paralysis they bring. One chants the terror in full (it is not minimised) and then lets the very next verse supply the answer: steady the mind in remembrance rather than in panic, and walk through 'with treasure unplundered'. The verse teaches that the first casualty of danger is composure, and composure is exactly what refuge restores.",
+    "crossReferences": [
+      {
+        "text": "Bhaktāmara Stotra vv. 34–40 — the parallel litany of perils (lion, fire, serpent, war, ocean, captivity) delivered by devotion",
+        "source": "Ācārya Mānatuṅga (traditional), Bhaktāmara Stotra"
+      },
+      {
+        "text": "Uvasaggahara Stotra — companion Pārśva fear-removing stotra (4th Smaraṇa) on dispelling upasarga and viṣa",
+        "source": "Ācārya Bhadrabāhu (traditional)"
+      },
+      {
+        "text": "Classical set of seven/eight mahābhaya (disease, water, fire, poison/serpent, robbers, wild beasts, captivity/king, battle) gathered in v.18 of this same stotra",
+        "source": "Namiūṇa Bhayahara Stotra, v.18"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aṭavī — definition (Sanskrit/Prakrit/Jaina lexicon)",
+      "url": "https://www.wisdomlib.org/definition/atavi",
+      "type": "dictionary",
+      "consultedFor": "gloss of aḍavī/aṭavī as 'forest, trackless wilderness'"
+    },
+    {
+      "title": "Pulinda — definition (Sanskrit/Prakrit lexicon)",
+      "url": "https://www.wisdomlib.org/definition/pulinda",
+      "type": "dictionary",
+      "consultedFor": "identification of Pulinda as a wild forest / mleccha tribe"
+    },
+    {
+      "title": "Śārdūla — definition (Sanskrit/Prakrit lexicon)",
+      "url": "https://www.wisdomlib.org/definition/shardula",
+      "type": "dictionary",
+      "consultedFor": "gloss of saddūla/śārdūla as 'tiger'"
+    },
+    {
+      "title": "Taskara — definition (Sanskrit lexicon)",
+      "url": "https://www.wisdomlib.org/definition/taskara",
+      "type": "dictionary",
+      "consultedFor": "gloss of takkara/taskara as 'thief, robber'"
+    },
+    {
+      "title": "Kātara — definition (Sanskrit/Pali lexicon)",
+      "url": "https://www.wisdomlib.org/definition/katara",
+      "type": "dictionary",
+      "consultedFor": "gloss of kāyara/kātara as 'timid, faint-hearted, coward'"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Token readings follow the supplied source verbatim, including the bare 'સદ્' (sad), which is read here as sadda (Skt śabda, 'din/roar') forming the compound saddūla-sadda-bhīmāsu, 'frightful with the din of tigers [and the rest]'; some recensions print this as a single conjunct (saddūla-sadda-/-samad-) and the segmentation is editorial. 'સત્થાસુ' (satthāsu) is taken as the locative plural of sattha = sārtha ('caravan, travelling company'), which suits the road-ambush scene and v.11's 'avilutta-vihava-sārā' (wealth unplundered); a defensible alternative reads sattha = śastra ('weapon'), i.e. 'cut down by weapons'. 'vunna' is equated with Skt udvigna ('agitated/alarmed'). The verse is syntactically incomplete on its own — a danger-painting half whose main clause of deliverance is supplied by v.11 — so the idiomatic rendering flags the continuation in parentheses. Spellings (doubled conjuncts, long mātrās) are preserved as given and may differ from other editions. Word-by-word coverage is 100% of the 13 printed tokens."
+}

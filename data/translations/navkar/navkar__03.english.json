@@ -1,0 +1,74 @@
+{
+  "shlokaId": "navkar/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Ācāryas — the spiritual heads who lead the community of monks.",
+  "recitation": "namo āyariyāṇaṁ",
+  "wordByWord": [
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence to / I bow to",
+      "partOfSpeech": "invocation",
+      "etymology": "From Sanskrit namaḥ (√nam, 'to bend, bow'); the Prakrit sandhi-form namo opening each salutation-line.",
+      "notes": "Governs the dative that follows; homage offered to a class, not a named person."
+    },
+    {
+      "token": "આયરિયાણં",
+      "translit": "āyariyāṇaṁ",
+      "gloss": "to the ācāryas (heads/preceptors of the monastic order)",
+      "partOfSpeech": "noun",
+      "etymology": "Dative-genitive plural of Prakrit āyariya = Sanskrit ācārya, from ācāra ('conduct') + agent suffix -ya: 'one who embodies and imparts right conduct'. The characteristic Prakrit shift c → y gives ācārya → āyariya.",
+      "notes": "Stem āyariya + plural ending -āṇaṁ. After namo it functions as a dative of the object of homage ('reverence to the ācāryas'); the -āṇaṁ termination is the same dative-plural that recurs across all five bows."
+    }
+  ],
+  "literalTranslation": "Reverence to the ācāryas.",
+  "idiomaticTranslation": "I bow in reverence to the Ācāryas — the masters of conduct who head the order.",
+  "elaboration": {
+    "verseByVerseCommentary": "With this third bow the mantra crosses a quiet threshold: the first two salutations honoured those who have *arrived* — the still-teaching Arihant and the fully-freed Siddha — and now the reciter turns, for the first time, to a *guide still walking the path*. The single content-word carries the whole point. Āyariya is not merely 'teacher': built on ācāra ('conduct'), it names one who is himself made of right conduct before he transmits it. The bow is therefore offered less to an office than to lived discipline — the ācārya is venerated because, in the classical phrase, he 'takes up conduct and gives conduct' (ācāraṁ gṛhṇāti, ācāraṁ dadāti). Note too the economy: where the next two bows will specify a function (the upādhyāya who *teaches* texts, the sādhu glossed 'in the world'), here the verse rests on the name alone — the ācārya needs no qualifier because he is the standard against which the others are measured. The recurring namo + dative-plural gesture (homage to a quality-bearing class, never to an individual) keeps the salutation impersonal: one bows to ācārya-hood wherever it is found.",
+    "doctrinalContext": "The ācārya is defined by the pañcācāra — the fivefold conduct he both practises and safeguards in the saṅgha: jñānācāra (right knowledge), darśanācāra (right faith), cāritrācāra (right conduct), tapācāra (austerity) and vīryācāra (right spiritual energy). These extend the three jewels (ratnatraya) into the disciplinary life of the order, which is why the head who guarantees them is bowed to before the teaching-monk and the ordinary sādhu. The salutation thus venerates a *qualification*, not a person: any soul perfected in the pañcācāra and charged with leading others is its proper object.",
+    "practicalRelevance": "Reciting this line, the practitioner consciously honours living spiritual guidance — submitting personal opinion to tested conduct and lineage rather than to mere book-learning. It is a daily reminder that the path is transmitted person-to-person through example, and an invitation to measure one's own knowledge, faith and effort against the fivefold conduct the ācārya embodies.",
+    "crossReferences": [
+      {
+        "text": "Pañcācāra (jñāna-, darśana-, cāritra-, tapa-, vīrya-ācāra) as the ācārya's defining discipline",
+        "source": "Mūlācāra / Kundakunda tradition"
+      },
+      {
+        "text": "'ācāraṁ gṛhṇāti ācāraṁ dadāti iti' — the teacher of conduct",
+        "source": "classical Sanskrit definition of ācārya (Dharmaśāstra usage)"
+      },
+      {
+        "text": "Following bow: namo uvajjhāyāṇaṁ (navkar/04)",
+        "source": "Navkāra Mahāmantra, this book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, history and meaning of the five salutations",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "The standard sense of namo āyariyāṇaṁ as the third pañca-namaskāra bow and its place among the five Parameṣṭhins."
+    },
+    {
+      "title": "Acharya — etymology (ācāra + -ya) and 'teacher of conduct' definition",
+      "url": "https://en.wikipedia.org/wiki/Acharya",
+      "type": "scholarship",
+      "consultedFor": "Derivation of ācārya from ācāra and the formula ācāraṁ gṛhṇāti ācāraṁ dadāti."
+    },
+    {
+      "title": "Pañca-Parameṣṭhi — the fivefold hierarchy of venerable authorities",
+      "url": "https://en.wikipedia.org/wiki/Pa%C3%B1ca-Parame%E1%B9%A3%E1%B9%ADhi",
+      "type": "scholarship",
+      "consultedFor": "Placement of the ācārya as third of the five supreme beings, between the Siddha and the Upādhyāya."
+    },
+    {
+      "title": "Acharya (Jainism) — role as head of the order and the pañcācāra",
+      "url": "https://en.wikipedia.org/wiki/Acharya_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "The ācārya's function of practising and safeguarding the fivefold conduct (jñāna-, darśana-, cāritra-, tapa-, vīrya-ācāra)."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "The verse is two tokens plus the book's closing period (a punctuation daṇḍa, not a lexical token), so 100% token coverage is met. āyariyāṇaṁ is morphologically āyariya + the Prakrit plural termination -āṇaṁ, which can read as dative or genitive; after namo it is taken here as a dative of homage ('reverence to the ācāryas'), the standard parsing across vv.1–5. Verse text and orthography (નમો આયરિયાણં.) follow this Anchalgachchha/Vidhipakṣa book verbatim. The pañcācāra scheme is pan-Jain doctrine; its enumeration is well attested but exact sub-groupings vary by text, so it is cited at the level the sources support."
+}

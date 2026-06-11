@@ -1,0 +1,178 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/14",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a terrifying rutting elephant — moon-white tusks like great pestles, a long trunk lashing the air in mounting fury, honey-tawny eyes, and a trumpeting roar like a fresh thundercloud.",
+  "recitation": "sasi dhavala daṁta musalaṁ, dīha karullāla vuddhi ucchāhaṁ; mahu piṁga nayaṇa jualaṁ, sa-salila nava jalaharārāvaṁ.",
+  "wordByWord": [
+    {
+      "token": "સસિ",
+      "translit": "sasi",
+      "gloss": "the moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sasi < Sanskrit śaśi (śaśin), 'moon'; first member of the compound qualifying the tusks' whiteness.",
+      "notes": "Stands in compound as the standard of comparison for brilliant white."
+    },
+    {
+      "token": "ધવલ",
+      "translit": "dhavala",
+      "gloss": "white, dazzling",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit dhavala, 'white, bright'; sasi-dhavala = 'white as the moon'.",
+      "notes": ""
+    },
+    {
+      "token": "દંત",
+      "translit": "daṁta",
+      "gloss": "tusk (lit. tooth)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit daṁta < Sanskrit danta, 'tooth, tusk'; here the elephant's ivory tusks.",
+      "notes": ""
+    },
+    {
+      "token": "મુસલં",
+      "translit": "musalaṁ",
+      "gloss": "pestle / club (i.e. the tusks are pestle-like), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit musala < Sanskrit musala, 'pestle, mace'. The whole bahuvrīhi sasi-dhavala-daṁta-musala = '(the elephant) whose tusks are moon-white pestles'; accusative -aṁ agreeing with mahā-gaïndaṁ in v.15.",
+      "notes": "musala doubles as a weapon-word, so the tusks read as clubs."
+    },
+    {
+      "token": "દીહ",
+      "translit": "dīha",
+      "gloss": "long",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dīha < Sanskrit dīrgha, 'long'; modifies kara (the trunk).",
+      "notes": ""
+    },
+    {
+      "token": "કરુલ્લાલ",
+      "translit": "karullāla",
+      "gloss": "the swinging/lashing of the trunk",
+      "partOfSpeech": "compound",
+      "etymology": "kara ('elephant's trunk', also 'hand') + ullāla ('tossing, swinging, brandishing', < ud-√lal); dīha-kar-ullāla = 'the lashing of the long trunk'.",
+      "notes": "kara is here the elephant's trunk; daṁta/musala/kara together fix the subject as the tusker, not a lion."
+    },
+    {
+      "token": "વુદ્ધિ",
+      "translit": "vuddhi",
+      "gloss": "increase, swelling",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vuddhi < Sanskrit vṛddhi, 'growth, increase'.",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્છાહં",
+      "translit": "ucchāhaṁ",
+      "gloss": "ardour, aggressive zeal (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ucchāha < Sanskrit utsāha, 'energy, vehemence'. The bahuvrīhi dīha-kar-ullāla-vuddhi-ucchāha = '(the elephant) whose fury is swollen by the swinging of its long trunk'.",
+      "notes": "Conveys the elephant's mada (rut-frenzy) mounting visibly."
+    },
+    {
+      "token": "મહુ",
+      "translit": "mahu",
+      "gloss": "honey",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahu < Sanskrit madhu, 'honey'; gives the shade of the eyes.",
+      "notes": ""
+    },
+    {
+      "token": "પિંગ",
+      "translit": "piṁga",
+      "gloss": "tawny, reddish-brown",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit piṅga, 'tawny, yellow-brown'; mahu-piṅga = 'honey-tawny'.",
+      "notes": "Reddened eyes signal the elephant's rut and rage."
+    },
+    {
+      "token": "નયણ",
+      "translit": "nayaṇa",
+      "gloss": "eye",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayaṇa < Sanskrit nayana, 'eye'.",
+      "notes": ""
+    },
+    {
+      "token": "જુઅલં",
+      "translit": "jualaṁ",
+      "gloss": "pair (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit juala < Sanskrit yugala, 'pair'. mahu-piṅga-nayaṇa-juala = '(the elephant) with a pair of honey-tawny eyes'; same juala echoes calaṇa-juala, the feet of refuge.",
+      "notes": ""
+    },
+    {
+      "token": "સસલિલ",
+      "translit": "sa-salila",
+      "gloss": "water-laden (lit. with water)",
+      "partOfSpeech": "adj",
+      "etymology": "prefix sa- ('with') + salila ('water'); 'charged with water', describing the raincloud.",
+      "notes": ""
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "fresh, new",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit nava, 'new, fresh'; a 'fresh' (monsoon-season) cloud thunders loudest.",
+      "notes": ""
+    },
+    {
+      "token": "જલહરારાવં",
+      "translit": "jalaharārāvaṁ",
+      "gloss": "(whose) roar is like a raincloud's thunder (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "jalahara (< jala-dhara, 'water-bearer = cloud') + ārāva ('roar, loud sound', < ā-√ru). Full bahuvrīhi sa-salila-nava-jalahar-ārāva = '(the elephant) whose trumpeting is like the thunder of a fresh, water-laden cloud'.",
+      "notes": "Sandhi joins jalahara + ārāva → jalaharārāva."
+    }
+  ],
+  "literalTranslation": "(That elephant) whose tusks are pestles white as the moon; whose ardour is swollen by the lashing of its long trunk; whose pair of eyes is honey-tawny; whose roar is a fresh, water-laden thundercloud —",
+  "idiomaticTranslation": "Behold the maddened tusker: its tusks gleam moon-white like upraised pestles; its long trunk lashes the air as its fury mounts higher and higher; its honey-brown eyes smoulder; and its trumpeting rolls out like the thunder of a fresh, rain-swollen cloud —",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is pure description — a cascade of four accusative bahuvrīhi compounds that have no finite verb of their own; grammatically they hang unresolved, all governing the single object mahā-gaïndaṁ ('the great elephant') that arrives only in the next verse. The poet thus suspends the reader in dread before granting release. Each compound strikes one sense: sight (tusks moon-white, eyes honey-red), motion (the long trunk lashing, fury visibly swelling), and sound (a roar like monsoon thunder). The chosen words quietly arm the beast — musala ('pestle') is also a mace, so the very tusks become weapons, and the reddened (piṅga) eyes are the classic mark of mada, the rut-frenzy that makes an elephant uncontrollable. The cloud-simile (jalahar-ārāva) is doubly apt: a 'fresh, water-laden' cloud both thunders most loudly and recalls the storm-imagery that runs through this hymn's perils. Note the deliberate echo: the elephant's nayaṇa-juala ('pair of eyes') anticipates, by contrast, the calaṇa-juala ('pair of feet') of Pārśva in which the devotee takes refuge in v.15 — terror's pair set against safety's pair. The verse is the held breath before the turn; its whole rhetorical force depends on being read straight into the following gāthā, where those clinging to the Jina's feet 'do not so much as notice' this monster even at close range.",
+    "doctrinalContext": "The verse advances the hymn's method of deliverance-through-confrontation: bhaya (fear) is not minimized but rendered in maximal sensory terror, so that the steadiness of one who rests in the Jina's refuge is measured against a fully-felt danger. The rutting elephant belongs to the classical set of mahābhaya (great perils) and, read inwardly, the mada-maddened tusker mirrors the soul's own ungoverned passions (kaṣāya) — appetite swollen, senses inflamed, reason trumpeting like thunder. Detachment (the kāyotsarga-steadiness the hymn prizes) is precisely the capacity to stand unmoved before such a charge.",
+    "practicalRelevance": "When reciting, let the four images actually frighten you — picture the pestle-tusks, the lashing trunk, the burning eyes, the thunder-roar — because the verse only works when the peril is real; only then does handing it over to Pārśva's feet in the next breath carry weight. Practically, name your own 'mad elephant' (an addiction, a rage, a dread) in this charged-cloud form, then carry the recollection forward into v.15's release.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.15 (bhīmaṁ mahā-gaïndaṁ… je tumha calaṇa-jualaṁ… na vi gaṇanti) — completes this verse's syntax",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.18 — the summary catalogue listing the elephant (gaya) among the stilled perils",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.13 (preceding) — the enraged lion (sīhaṁ kuddhaṁ pi na gaṇanti) opening this danger-pair",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namiyun (Bhayahar) Stotra — Romanized Prakrit text",
+      "url": "https://jainqq.org/booktext/56_Namiyun_Stotra_Romanized/300580",
+      "type": "translation",
+      "consultedFor": "verbatim Prakrit text of vv.13–15 and confirmation that this verse's epithets are accusatives governed by mahā-gaïndaṁ in v.15"
+    },
+    {
+      "title": "Wiktionary: musala (Sanskrit)",
+      "url": "https://en.wiktionary.org/wiki/musala",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit musala = 'pestle; club (weapon)', underpinning the tusks-as-pestles/maces image"
+    },
+    {
+      "title": "Wiktionary: पिङ्ग / piṅga (Sanskrit)",
+      "url": "https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A4%BF%E0%A4%99%E0%A5%8D%E0%A4%97",
+      "type": "dictionary",
+      "consultedFor": "piṅga = 'yellow, reddish-brown, tawny' for the honey-tawny eyes (mahu-piṅga-nayaṇa)"
+    },
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the hymn's addressee and the place of the wild elephant among the great worldly perils"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This gāthā has no finite verb: its four bahuvrīhi compounds are accusative and depend on mahā-gaïndaṁ in v.15, so it must be read with the following verse. Source readings vary: the supplied Anchalgachchha text has મુસલં (musalaṁ, short u) and નયણ (nayaṇa), whereas the jainqq romanized recension shows 'mūsalaṁ' (long ū) and the variant 'jayaṇa'; spellings follow the golden book verbatim. કરુલ્લાલ = kara ('trunk') + ullāla ('swinging/lashing'); kara can also mean 'hand', but daṁta + musala + kara jointly fix the referent as the elephant rather than the lion of the preceding pair. The compound boundary in dīha-kar-ullāla-vuddhi-ucchāhaṁ is interpretive ('fury swollen by the long trunk's lashing'); the sense is secure even where the exact compound analysis is debatable."
+}

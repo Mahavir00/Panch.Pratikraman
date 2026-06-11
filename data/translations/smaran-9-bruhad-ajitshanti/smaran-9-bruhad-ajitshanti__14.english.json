@@ -1,0 +1,220 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/14",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After teaching the deepest truths to steadfast people, the two Lords Ajita and Śānti passed through spiritual discipline to the flawless, liberated state — and I worship them, long and lovingly.",
+  "recitation": "bodhayitvātha tattvāni dhīraṃ janaṃ, yogato yau gatau dhāma nīrañjanaṃ; tam aham ajitaṃ ca śāntiṃ ca cañcad-dyutiṃ, suciram arcāmi pañceṣu vijayodyatam.",
+  "wordByWord": [
+    {
+      "token": "બોધયિત્વા",
+      "translit": "bodhayitvā",
+      "gloss": "having awakened, having taught, having made (others) understand",
+      "partOfSpeech": "verb",
+      "etymology": "gerund (ktvā) of the causative bodhaya- from √budh 'to awaken, know'",
+      "notes": "printed sandhi-joined with the following particle as બોધયિત્વાથ (bodhayitvā + atha)"
+    },
+    {
+      "token": "અથ",
+      "translit": "atha",
+      "gloss": "then, thereupon, now",
+      "partOfSpeech": "particle",
+      "etymology": "Vedic/Skt connective atha; marks the temporal turn after the preaching scene",
+      "notes": "the hinge from the teaching of the prior verses to the liberation told here"
+    },
+    {
+      "token": "તત્ત્વાનિ",
+      "translit": "tattvāni",
+      "gloss": "the truths, the fundamental realities (tattvas)",
+      "partOfSpeech": "noun",
+      "etymology": "neuter acc. pl. of tattva, 'that-ness, essential principle'; from tat + -tva",
+      "notes": "object of bodhayitvā — the Jain tattvas taught to seekers"
+    },
+    {
+      "token": "ધીરં",
+      "translit": "dhīraṃ",
+      "gloss": "steadfast, firm-minded, wise",
+      "partOfSpeech": "adj",
+      "etymology": "acc. sg. of dhīra, from √dhī 'to think, be steady'",
+      "notes": "qualifies janaṃ; only the steadfast receive the tattvas"
+    },
+    {
+      "token": "જનં",
+      "translit": "janaṃ",
+      "gloss": "people, person, folk",
+      "partOfSpeech": "noun",
+      "etymology": "acc. sg. (collective) of jana, from √jan 'to be born'",
+      "notes": "the recipients awakened to the truths"
+    },
+    {
+      "token": "યોગતઃ",
+      "translit": "yogataḥ",
+      "gloss": "through yoga, by spiritual union/discipline",
+      "partOfSpeech": "adverb",
+      "etymology": "ablative-adverbial yoga + -taḥ; here the culminating meditative discipline (dhyāna)",
+      "notes": "printed યોગતો by visarga-sandhi before yau"
+    },
+    {
+      "token": "યૌ",
+      "translit": "yau",
+      "gloss": "which two, the two who",
+      "partOfSpeech": "pronoun",
+      "etymology": "nom. dual of the relative yad; the dual marks the Ajita–Śānti pair",
+      "notes": "antecedent of the dual gatau and of tam below"
+    },
+    {
+      "token": "ગતૌ",
+      "translit": "gatau",
+      "gloss": "the two went, the two reached",
+      "partOfSpeech": "verb",
+      "etymology": "nom. dual of the past participle gata, from √gam 'to go'",
+      "notes": "their passage to liberation — the nirvāṇa-kalyāṇaka"
+    },
+    {
+      "token": "ધામ",
+      "translit": "dhāma",
+      "gloss": "abode, dwelling-place (here, the liberated state)",
+      "partOfSpeech": "noun",
+      "etymology": "acc. sg. of dhāman, from √dhā 'to set, hold'",
+      "notes": "the goal reached; specified by nīrañjanaṃ"
+    },
+    {
+      "token": "નીરંજનં",
+      "translit": "nīrañjanaṃ",
+      "gloss": "stainless, spotless (the karmically unstained abode)",
+      "partOfSpeech": "adj",
+      "etymology": "nis + añjana ('stain, collyrium') → nir-añjana, 'free of all stain'; from √añj 'to smear'",
+      "notes": "names mokṣa as the state void of karmic añjana"
+    },
+    {
+      "token": "તમ્",
+      "translit": "tam",
+      "gloss": "him, that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "acc. sg. masc. of tad",
+      "notes": "singular for the dual pair — the yamala device of worshipping the two as one; printed sandhi-joined as તમહમ-"
+    },
+    {
+      "token": "અહમ્",
+      "translit": "aham",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "nom. sg. first-person asmad",
+      "notes": "the worshipper names himself — the personal vow of adoration"
+    },
+    {
+      "token": "અજિતં",
+      "translit": "ajitaṃ",
+      "gloss": "Ajita(nātha), 'the Unconquered'",
+      "partOfSpeech": "noun",
+      "etymology": "acc. sg.; a + jita ('conquered'), from √ji 'to conquer'",
+      "notes": "proper name, here resonating with vijayodyatam below"
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "enclitic conjunction ca",
+      "notes": "links Ajita and Śānti"
+    },
+    {
+      "token": "શાંતિં",
+      "translit": "śāntiṃ",
+      "gloss": "Śānti(nātha)",
+      "partOfSpeech": "noun",
+      "etymology": "acc. sg. of śānti 'peace', from √śam 'to be calm'",
+      "notes": "the second Jina of the worshipped pair"
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "enclitic conjunction ca",
+      "notes": "the second ca completes the 'both A and B' pairing"
+    },
+    {
+      "token": "ચંચદ્દ્યુતિં",
+      "translit": "cañcad-dyutiṃ",
+      "gloss": "of flashing, quivering radiance",
+      "partOfSpeech": "compound",
+      "etymology": "bahuvrīhi: cañcat (pres. part. of intensive √cañc 'to flicker') + dyuti ('lustre', from √dyut 'to shine'); acc. sg.",
+      "notes": "epithet of the worshipped pair; a yamaka-chime with udyatam"
+    },
+    {
+      "token": "સુચિરમ્",
+      "translit": "suciram",
+      "gloss": "for a very long time, long and lastingly",
+      "partOfSpeech": "adverb",
+      "etymology": "su- ('well, very') + cira ('long time'), adverbial acc.",
+      "notes": "printed સુચિર before the sandhi cluster મર્ચામિ; extends the vow of worship"
+    },
+    {
+      "token": "અર્ચામિ",
+      "translit": "arcāmi",
+      "gloss": "I worship, I adore",
+      "partOfSpeech": "verb",
+      "etymology": "1st sg. pres. of √arc 'to honour, praise'",
+      "notes": "the main verb; printed with the carried-over m of suciram as -મર્ચામિ"
+    },
+    {
+      "token": "પંચેષુ",
+      "translit": "pañceṣu",
+      "gloss": "over the five [arrows of Kāma / the five senses]",
+      "partOfSpeech": "noun",
+      "etymology": "pañca ('five') + iṣu ('arrow') → pañceṣu; the five floral arrows of Kāma, the god of desire",
+      "notes": "read as locative with vijaya ('victory over the five'); alternatively the bahuvrīhi pañca-iṣu = Kāmadeva himself, conquered"
+    },
+    {
+      "token": "વિજયોદ્યતમ્",
+      "translit": "vijayodyatam",
+      "gloss": "intent on victory, bent on conquest",
+      "partOfSpeech": "compound",
+      "etymology": "vijaya ('victory', vi + √ji) + udyata ('raised up, intent', ud + √yam); acc. sg.",
+      "notes": "with pañceṣu: 'intent on conquering the five arrows of desire' — glossing the very name Ajita"
+    }
+  ],
+  "literalTranslation": "Having then awakened the steadfast folk to the truths, the two who by yoga went to the stainless abode — him, both Ajita and Śānti, of quivering radiance, intent on victory over the five [arrows of Kāma] — long do I worship.",
+  "idiomaticTranslation": "Then, having awakened steadfast souls to the essential truths, the two Lords who through yoga passed to the flawless, liberated abode — Ajita and Śānti, ablaze with flashing splendour and ever bent on conquering the five arrows of desire — these I adore, and shall adore, for ages without end.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse carries the joint life-story to its close and turns it back upon the reciter. The opening 'atha' (then) is a quiet hinge: having just preached in the assembly, the two Jinas now complete the last of life's events. 'Bodhayitvā… dhīraṃ janaṃ' makes a pointed observation — the truths land only on the steadfast (dhīra); awakening presupposes a prepared mind. 'Yogato yau gatau dhāma nīrañjanaṃ' names liberation itself: it is by yoga — the culminating meditative absorption, not bodily striving — that they reach the 'stainless abode,' nirvāṇa described as nir-añjana, utterly free of karmic stain. The single 'tam' governing two Jinas is deliberate: the pair is adored as one. The closing epithet 'pañceṣu vijayodyatam' is the verse's sharpest stroke — these Lords are 'intent on victory over the five arrows' of Kāma, the god of desire; the line thereby unfolds the very name Ajita ('Unconquered'): they are unconquered precisely because they conquered desire. Against that, 'aham… suciram arcāmi' is the devotee's answering vow — 'I worship, and long shall worship' — the present tense stretched by 'suciram' into a lifelong act. The poet's sound-craft chimes throughout (janaṃ / nīrañjanaṃ; cañcad-dyutiṃ / vijayodyatam), so the line is felt as music while it states doctrine. The verse thus completes the arc — teaching, liberation, adoration — and sets up the protective promise that immediately follows.",
+    "doctrinalContext": "Two Jain points are concentrated here. First, mokṣa as nir-añjana: liberation is the soul stripped of all karmic 'stain' (añjana), the siddha-state reached when karma is exhausted — the standard account of the soul's final destination. Second, the means: 'yogataḥ' locates the cause of release in dhyāna-yoga, the meditative absorption that severs the last karmas, not in outward ritual. The epithet 'vijayodyata over the five arrows' frames conquest of kāma and the senses as the precondition of Jinahood — sense-victory (jitendriyatva) is what 'Jina' and 'Ajita' literally encode. The pairing with 'tattva-bodha' shows the Tīrthaṅkara's twofold work: to teach the realities (jīva, ajīva, and the rest) and then to demonstrate their fruit by attaining the stainless state himself.",
+    "practicalRelevance": "The reciter does not merely describe the Jinas but names himself ('aham') and binds himself by a continuing vow ('suciram arcāmi') — worship as a sustained, lifelong discipline rather than a single utterance. The verse holds up a practicable order: steadiness (dhīra) makes one fit to receive truth; inner conquest of the five sensual 'arrows,' not ceremony alone, opens the stainless state. A practitioner reads it as a map — cultivate steadfastness, study the tattvas, master desire — and as an invitation to make adoration habitual.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 10.2–4 — liberation (mokṣa) as the total destruction of karma and the soul's ascent",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra, on conquest of the senses (jitendriyatva) as the mark of the victor",
+        "source": "Uttarādhyayana-sūtra (Mūlasūtra)"
+      },
+      {
+        "text": "Companion Ajita-Śānti hymns of the same Smaraṇa set (Prakrit, 2nd; Laghu, 8th) that likewise yoke the two Jinas",
+        "source": "Nava Smaraṇa, Anchalgachchha/Vidhipaksha edition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nirañjana — 28 definitions (Sanskrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/niranjana",
+      "type": "dictionary",
+      "consultedFor": "Sense of nir-añjana ('stainless') and its Jain use for the liberated/unstained state (dhāma nīrañjanaṃ)"
+    },
+    {
+      "title": "Tattva — definitions (Sanskrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/tattva",
+      "type": "dictionary",
+      "consultedFor": "Meaning of tattva as 'fundamental reality/principle' for tattvāni bodhayitvā"
+    },
+    {
+      "title": "Pañceṣu / Pañcan-iṣu — 'five-arrowed' (Kāma)",
+      "url": "https://www.wisdomlib.org/definition/pancheshu",
+      "type": "dictionary",
+      "consultedFor": "Confirming pañca-iṣu = the five floral arrows of Kāma, behind pañceṣu vijayodyatam"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading choices for THIS verse: (1) 'pañceṣu' is taken as a locative governed by vijaya ('victory over the five [arrows of Kāma]'), the desire-conquest theme that glosses the name Ajita; an equally defensible reading takes it as the bahuvrīhi pañca-iṣu = Kāmadeva as the object conquered. (2) The singular 'tam' for the dual pair (antecedent yau/gatau) is the deliberate yamala device of worshipping the two Jinas as one, not a grammatical slip. (3) Book orthography is preserved verbatim, including anusvāra spellings and the printed sandhi that splits words across the visual word-break (બોધયિત્વાથ = bodhayitvā+atha; તમહમજિતં = tam+aham+ajitaṃ; સુચિર મર્ચામિ = suciram+arcāmi). (4) Per the tradition knowledge base the Bṛhad Ajitaśānti's authorship is unattributed, and open-web attributions/translations of this hymn proved unreliable; the glosses therefore rest on standard Sanskrit lexicon and grammar rather than on any single published translation of this verse. (5) The verse shows pervasive yamaka/anuprāsa (janaṃ/nīrañjanaṃ; dyutiṃ/udyatam); the specific chandas name is not asserted for want of verification."
+}

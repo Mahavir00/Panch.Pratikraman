@@ -1,0 +1,315 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/14",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Śāntinātha — adored by gods, demon-lords, the moon and the sun, his smile dazzlingly white and his virtues supreme — is begged to grant the reciter calm, settled inner peace.",
+  "recitation": "deva dāṇaviṁda caṁda sūravaṁda haṭṭha tuṭṭha jiṭṭha parama, laṭṭha ruva dhaṁta ruppa paṭṭaseya suddha niddha dhavala | daṁtapaṁti saṁti satti kitti mutti jutti gutti pavara, dittatea vaṁdadhea, savvaloa bhāvia ppabhāvaṇoa païsa me samāhiṁ",
+  "wordByWord": [
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "gods, celestial beings",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. deva (from √div, 'to shine'); here first member of the long compound naming those who venerate the Jina.",
+      "notes": "Subject of the implied veneration (vaṁda) governing the whole opening string."
+    },
+    {
+      "token": "દાણવિંદ",
+      "translit": "dāṇaviṁda",
+      "gloss": "lords of the dānavas (demon-chiefs)",
+      "partOfSpeech": "compound",
+      "etymology": "dānava ('demon, titan') + iṁda < Skt. indra ('chief, lord'); Prakrit -nd- retained, intervocalic v softened.",
+      "notes": "Even the asura-Indras bow to him; a stock pairing with deva to mean 'the whole of heaven and the netherworld'."
+    },
+    {
+      "token": "ચંદ",
+      "translit": "caṁda",
+      "gloss": "the moon",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. candra > Pkt. caṁda (conjunct -ndr- > -nd-).",
+      "notes": ""
+    },
+    {
+      "token": "સૂરવંદ",
+      "translit": "sūravaṁda",
+      "gloss": "venerated (also) by the sun",
+      "partOfSpeech": "compound",
+      "etymology": "sūra (Skt. sūrya, 'sun') + vaṁda (Skt. vandita / vandya, 'bowed to, worthy of homage').",
+      "notes": "vaṁda closes the list, so its sense ('revered, bowed to') governs the whole: revered by gods, demon-lords, moon and sun."
+    },
+    {
+      "token": "હઠ્ઠ",
+      "translit": "haṭṭha",
+      "gloss": "delighted, gladdened",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. hṛṣṭa > Pkt. haṭṭha (ṛ > a, -ṣṭ- > -ṭṭh-).",
+      "notes": "May describe the joyful venerators or the serenely joyful Jina; the syntax allows both (see notes)."
+    },
+    {
+      "token": "તુઠ્ઠ",
+      "translit": "tuṭṭha",
+      "gloss": "pleased, content",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. tuṣṭa > Pkt. tuṭṭha. Paired with haṭṭha as the common dvandva 'hṛṣṭa-tuṣṭa' (overjoyed).",
+      "notes": ""
+    },
+    {
+      "token": "જિઠ્ઠ",
+      "translit": "jiṭṭha",
+      "gloss": "foremost, most eminent",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. jyeṣṭha ('eldest, chief') > Pkt. jeṭṭha/jiṭṭha.",
+      "notes": "Epithet of the Jina: the senior-most, pre-eminent one."
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "supreme, highest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. parama, superlative of para.",
+      "notes": ""
+    },
+    {
+      "token": "લઠ્ઠ",
+      "translit": "laṭṭha",
+      "gloss": "lovely, beautiful",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. laṭṭha ('charming, fine'; Sheth glosses manohara/sundara), commonly derived from Skt. laṣṭa.",
+      "notes": "Begins the description of his radiant form."
+    },
+    {
+      "token": "રુવ",
+      "translit": "ruva",
+      "gloss": "form, figure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rūpa > Pkt. ruva (intervocalic p > v); laṭṭha-ruva = 'of beautiful form'.",
+      "notes": ""
+    },
+    {
+      "token": "ધંત",
+      "translit": "dhaṁta",
+      "gloss": "smelted, fire-refined",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. dhaṁta < Skt. dhmāta ('blown upon by fire, smelted'); per Cologne/Prakrit lexicon dhaṁta also = dhmāta.",
+      "notes": "Qualifies ruppa: silver purified in fire — flawlessly bright."
+    },
+    {
+      "token": "રુપ્પ",
+      "translit": "ruppa",
+      "gloss": "silver",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rūpya ('wrought silver') > Pkt. ruppa (Sheth: ruppa = cāndī).",
+      "notes": "dhaṁta-ruppa: 'refined silver', the standard of pure whiteness for his teeth/form."
+    },
+    {
+      "token": "પટ્ટસેય",
+      "translit": "paṭṭaseya",
+      "gloss": "white as fine silk-cloth",
+      "partOfSpeech": "compound",
+      "etymology": "paṭṭa ('silk, fine woven cloth') + seya (Skt. sveta, 'white').",
+      "notes": "Reading 'seya = sveta' (white) is adopted; a minority parse takes seya as sveda. Whiteness-imagery either way."
+    },
+    {
+      "token": "સુધ્ધ",
+      "translit": "suddha",
+      "gloss": "pure, spotless",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śuddha > Pkt. suddha (ś > s, -ddh- retained).",
+      "notes": ""
+    },
+    {
+      "token": "નિદ્ધ",
+      "translit": "niddha",
+      "gloss": "glossy, smooth, lustrous",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. snigdha ('smooth, oily-bright') > Pkt. niddha.",
+      "notes": ""
+    },
+    {
+      "token": "ધવલ",
+      "translit": "dhavala",
+      "gloss": "dazzling white",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dhavala ('white, bright'); same in Pkt.",
+      "notes": "Caps the run of whiteness epithets (silver, silk, pure, glossy, white)."
+    },
+    {
+      "token": "દંતપંતિ",
+      "translit": "daṁtapaṁti",
+      "gloss": "row of teeth (his smile)",
+      "partOfSpeech": "compound",
+      "etymology": "danta ('tooth') + paṁti < Skt. paṅkti ('row, line'); -ṅkt- > -ṁti.",
+      "notes": "The noun the whole white-imagery (silver, silk, pure, glossy, white) describes: his teeth gleam like refined silver."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti(nātha) / peace",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śānti ('peace') > Pkt. saṁti; here both the name Śāntinātha and the quality 'peace'.",
+      "notes": "Pivot of the verse's name-play; also heads the following virtue-garland as 'peace'."
+    },
+    {
+      "token": "સત્તિ",
+      "translit": "satti",
+      "gloss": "power, spiritual energy",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śakti > Pkt. satti (-kt- > -tt-).",
+      "notes": ""
+    },
+    {
+      "token": "કિત્તિ",
+      "translit": "kitti",
+      "gloss": "fame, glory",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kīrti > Pkt. kitti (-rt- > -tt-).",
+      "notes": ""
+    },
+    {
+      "token": "મુત્તિ",
+      "translit": "mutti",
+      "gloss": "liberation (mukti)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mukti ('release') > Pkt. mutti.",
+      "notes": "Some recensions read mutti = mūrti ('form'); 'liberation' best fits the abstract-virtue series."
+    },
+    {
+      "token": "જુત્તિ",
+      "translit": "jutti",
+      "gloss": "propriety, rightness (yukti)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. yukti ('fitness, method') > Pkt. jutti (y > j).",
+      "notes": ""
+    },
+    {
+      "token": "ગુત્તિ",
+      "translit": "gutti",
+      "gloss": "self-restraint, guarding (gupti)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gupti ('guarding of mind, speech, body') > Pkt. gutti.",
+      "notes": "Technical term: the three guptis of ascetic discipline."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "pre-eminent, foremost (in these)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pravara ('most excellent') > Pkt. pavara.",
+      "notes": "Closes the garland: foremost in peace, power, fame, liberation, propriety, restraint."
+    },
+    {
+      "token": "દિત્તતેઅ",
+      "translit": "dittatea",
+      "gloss": "of blazing splendour",
+      "partOfSpeech": "compound",
+      "etymology": "ditta < Skt. dīpta ('blazing') + tea < Skt. teja ('radiance, fiery glory').",
+      "notes": ""
+    },
+    {
+      "token": "વંદધેઅ",
+      "translit": "vaṁdadhea",
+      "gloss": "worthy of veneration and meditation",
+      "partOfSpeech": "compound",
+      "etymology": "vaṁda < Skt. vandya ('to be praised') + dhea < Skt. dhyeya ('to be meditated upon').",
+      "notes": "He is at once the object of outward worship and inward contemplation."
+    },
+    {
+      "token": "સવ્વલોઅ",
+      "translit": "savvaloa",
+      "gloss": "all the worlds / the whole world",
+      "partOfSpeech": "compound",
+      "etymology": "savva < Skt. sarva ('all') + loa < Skt. loka ('world'); intervocalic k elided.",
+      "notes": ""
+    },
+    {
+      "token": "ભાવિઅ",
+      "translit": "bhāvia",
+      "gloss": "contemplated, brought to mind",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhāvita ('meditated upon, made present') > Pkt. bhāvia (-t- elided).",
+      "notes": ""
+    },
+    {
+      "token": "પ્પભાવણોઅ",
+      "translit": "ppabhāvaṇoa",
+      "gloss": "O you whose majestic power (is contemplated)",
+      "partOfSpeech": "compound",
+      "etymology": "(p)pabhāvaṇa < Skt. prabhāvana / prabhāva ('majestic might, glory'); -oa is an Apabhraṁśa case/vocative ending; gemination ppa- by sandhi.",
+      "notes": "savvaloa-bhāvia-ppabhāvaṇa: 'whose glory is meditated upon throughout all the worlds'."
+    },
+    {
+      "token": "પઇસ",
+      "translit": "païsa",
+      "gloss": "bestow, grant",
+      "partOfSpeech": "verb",
+      "etymology": "imperative; from Skt. pradiśa ('grant, assign', √diś with pra-).",
+      "notes": "Many recensions read 'pasia/pasiya' (Skt. prasīda, 'be gracious'); the book's reading પઇસ = 'grant' is followed here."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "to me, my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt./Pkt. me, enclitic dat./gen. of the 1st person.",
+      "notes": ""
+    },
+    {
+      "token": "સમાહિં",
+      "translit": "samāhiṁ",
+      "gloss": "samādhi (equanimity, settled meditative calm)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. samādhi > Pkt. samāhi (Sheth's Pāia-sadda-mahaṇṇavo: samāhi = samādhi); accusative samāhiṁ, object of païsa.",
+      "notes": "The verse's culminating petition: 'grant me samādhi'."
+    }
+  ],
+  "literalTranslation": "Revered by gods, demon-lords, the moon and the sun; delighted, content, foremost, supreme — his row of teeth lovely in form, [white] as fire-refined silver and white silk, pure, glossy, dazzling white; pre-eminent in peace, power, fame, liberation, propriety, and self-restraint; of blazing splendour, worthy to be venerated and meditated upon; O you whose majesty is contemplated throughout all the worlds — grant me samādhi.",
+  "idiomaticTranslation": "Gods and the lords of demons, the moon and the sun bow before you, foremost and supreme, who fill them with joy. Your smile gleams like fire-purified silver, like white silk — pure, lustrous, dazzlingly white. Pre-eminent in peace, in power, fame, liberation, right conduct and self-restraint, blazing with splendour, worthy of both worship and inward meditation, your majesty is held in mind across all the worlds. O Śānti, grant me settled, unshakable inner calm.",
+  "elaboration": {
+    "verseByVerseCommentary": "Turning from Ajita (praised just before) to Śānti, this stanza builds a single shimmering image and ends in a plea. The first half stacks honorifics — gods, asura-Indras, moon and sun all 'bow' (vaṁda) to him — then four epithets (joyful, content, foremost, supreme) that read both ways: he is supreme, and he makes his venerators glad. The poet's real interest is colour: laṭṭha-ruva opens a cascade of whiteness — dhaṁta-ruppa (silver smelted in fire), paṭṭa-seya (white silk), suddha, niddha, dhavala — all resolving onto daṁta-paṁti, his gleaming row of teeth. The Jina's very smile becomes a meditation on flawless purity. The second half pivots on saṁti: the syllable names Śāntinātha and simultaneously heads a garland of qualities he is 'foremost' (pavara) in — satti, kitti, mutti, jutti, gutti (power, fame, liberation, propriety, self-restraint). He is then dittatea (blazing) yet vaṁdadhea — fit for outward homage and inner dhyāna alike — and savvaloa-bhāvia-ppabhāvaṇa, contemplated everywhere. After all this splendour the verse asks for one quiet thing: païsa me samāhiṁ, 'grant me samādhi.' The movement from cosmic adoration to a single inward request is the stanza's whole point: the dazzling Jina is praised so that the reciter may receive composure of mind.",
+    "doctrinalContext": "The closing petition frames the verse doctrinally. Samādhi — collected, equanimous absorption — is the practitioner's near-goal on the path to mukti, itself named here among his excellences. Gutti (gupti) is a precise ascetic term: the threefold guarding of mind, speech and body; pairing it with jutti (yukti, right method) and satti (śakti) sketches the disciplined energy that ripens into liberation. That the dazzling-white imagery culminates not in a boast but in a request for inner calm mirrors a core Jain conviction: contemplating the Jina's flawless purity (here, literally his radiant form) is a means of purifying one's own consciousness. vaṁdadhea makes this explicit — the Tīrthaṅkara is both vandya (to be worshipped) and dhyeya (to be meditated upon), and devotion matures into meditation.",
+    "practicalRelevance": "Recited within the protective smaraṇa, the verse models how to use an image as a doorstep to stillness: the reciter dwells on the Jina's serene, silver-white form until the agitated mind settles, then voices the actual prayer — not for wealth or rescue but for samādhi. It teaches that the fruit sought from worship is composure; the dazzling description is upāya (means), the calm mind is the aim.",
+    "crossReferences": [
+      {
+        "text": "Logassa: 'samāhi-vara-muttamaṁ diṁtu' — 'may they grant the most excellent samādhi'",
+        "source": "Caturviṁśati-stava (Logassa), Āvaśyaka sūtra"
+      },
+      {
+        "text": "The three guptis (mano-, vacana-, kāya-gupti) underlying 'gutti'",
+        "source": "Tattvārtha-sūtra 9.4 (Umāsvāti)"
+      },
+      {
+        "text": "Recurring refrain-petition 'pasiya/païsa me samāhiṁ' across the Ajitaśānti Stava",
+        "source": "Ajitaśānti Stava (Nandiṣeṇasūri), Prakrit recensions"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdomlib — 'Dhanta / Dhaṃta' (Prakrit↔Sanskrit: dhaṃta = dhmāta/dhvānta)",
+      "url": "https://www.wisdomlib.org/definition/dhanta",
+      "type": "dictionary",
+      "consultedFor": "Verifying dhaṁta = Skt. dhmāta ('fire-blown, smelted'), supporting 'refined silver'."
+    },
+    {
+      "title": "Wisdomlib — 'Ruppa' (rūpya, silver)",
+      "url": "https://www.wisdomlib.org/definition/ruppa",
+      "type": "dictionary",
+      "consultedFor": "Verifying ruppa < Skt. rūpya ('wrought silver') for dhaṁta-ruppa."
+    },
+    {
+      "title": "Wisdomlib — 'Samāhi' (Sheth, Pāia-sadda-mahaṇṇavo: samāhi = samādhi)",
+      "url": "https://www.wisdomlib.org/definition/samahi",
+      "type": "dictionary",
+      "consultedFor": "Verifying samāhi = Skt. samādhi for the closing petition 'païsa me samāhiṁ'."
+    },
+    {
+      "title": "Wisdomlib — 'Dhavala' (white, bright)",
+      "url": "https://www.wisdomlib.org/definition/dhavala",
+      "type": "dictionary",
+      "consultedFor": "Confirming dhavala = 'dazzling white', capping the whiteness imagery."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Book orthography preserved verbatim (doubled conjuncts haṭṭha/tuṭṭha/jiṭṭha, anusvāra in caṁda/saṁti). Key ambiguities: (1) haṭṭha-tuṭṭha may qualify the joyful venerators or the serene Jina — rendered to allow both. (2) મુત્તિ (mutti) is read as mukti ('liberation'), but some recensions read mūrti ('form'). (3) The final imperative is પઇસ (païsa, 'grant' < pradiśa); widely attested variants read pasia/pasiya (prasīda, 'be gracious') — the book's reading is followed and the variant flagged. (4) પટ્ટસેય seya is taken as sveta ('white'); a sveda parse exists but the whiteness sense is uncontested. Dictionary glosses verified via Cologne and Sheth's Pāia-sadda-mahaṇṇavo (through Wisdomlib); the full per-verse English translation of this specific stanza was reconstructed from the lexical evidence, not copied from a single edition.",
+  "targetLang_note": "english/latin"
+}

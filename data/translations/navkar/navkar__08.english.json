@@ -1,0 +1,72 @@
+{
+  "shlokaId": "navkar/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And of all the good and holy (auspicious) things there are, this is one — indeed, as the next line says, the very first.",
+  "recitation": "maṅgalāṇaṁ ca savvesiṁ",
+  "wordByWord": [
+    {
+      "token": "મંગલાણં",
+      "translit": "maṅgalāṇaṁ",
+      "gloss": "of the auspicious things / of blessings",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit maṅgala (the auspicious, a blessing); here the genitive plural in -āṇaṁ (Prakrit < Sanskrit -ānāṁ), 'of [all] the auspicious things'.",
+      "notes": "Same lexeme as the closing maṅgalaṁ of v.9, but inflected here as a partitive genitive plural — 'among the [class of] auspicious things' — which line 9 then completes with 'is the first'."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and / also",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit ca, the enclitic copulative conjunction, unchanged in Prakrit.",
+      "notes": "Links this second predicate of the cūlikā to the first (v.7, savva-pāva-ppaṇāsaṇo): the fivefold bow is not only sin-destroying but 'and' supremely auspicious."
+    },
+    {
+      "token": "સવ્વેસિં",
+      "translit": "savvesiṁ",
+      "gloss": "of all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva (Sanskrit sarva, 'all') declined pronominally; genitive plural -esiṁ corresponding to Sanskrit sarveṣāṁ, one form serving all genders.",
+      "notes": "Pronominal (sarvanāma) declension — note -esiṁ, not the nominal -āṇaṁ seen in maṅgalāṇaṁ; agrees with maṅgalāṇaṁ as 'of all [the] auspicious things'."
+    }
+  ],
+  "literalTranslation": "and of all the auspicious things,",
+  "idiomaticTranslation": "and of all the auspicious things that there are,",
+  "elaboration": {
+    "verseByVerseCommentary": "This eighth line is grammatically incomplete on its own — a hanging genitive phrase, 'and of all auspicious things' — and deliberately so: it is the hinge between the cūlikā's two claims. Line 7 stated the negative power (it destroys all sin); the small connective ca here pivots to the positive, and savvesiṁ maṅgalāṇaṁ sets up a partitive frame — 'out of the whole set of auspicious things' — that only line 9 (paḍhamaṁ hoi maṅgalaṁ, 'it is the first/foremost auspicious') resolves. The reciter should feel the suspension: the sentence leans forward, withholding the predicate. Two grammatical refinements reward attention. First, the two genitive plurals are differently formed — nominal maṅgalāṇaṁ (-āṇaṁ) beside pronominal savvesiṁ (-esiṁ, ~ Sanskrit sarveṣāṁ) — a clean textbook contrast of the two declension classes agreeing in one phrase. Second, maṅgala recurs at line-end in v.9, so the verse opens and the next closes on the same word: the auspicious is both the category surveyed here and the superlative awarded there. The movement is from totality to singularity — from 'of all blessings' to 'the one foremost blessing' — and this line supplies the 'all' against which that supremacy is measured.",
+    "doctrinalContext": "The cūlikā's logic is that veneration itself is maṅgala: homage to the five Parameṣṭhins is not merely an aid to auspiciousness but is reckoned within, and at the head of, the entire class of auspicious things. By casting it as a partitive genitive ('of all'), the verse makes a comparative, almost taxonomic claim — every other maṅgala (rite, omen, blessing) is admitted into the set, then surpassed. This guards against treating the mantra as one lucky formula among many: it is the source-blessing from which the value of others is measured.",
+    "practicalRelevance": "When chanting, do not pause as if the thought ends at 'savvesiṁ' — carry the breath and intention forward into paḍhamaṁ hoi maṅgalaṁ, so the salutation lands as a single completed declaration. Reciting this at the opening of pratikramaṇa, one mentally gathers 'all auspicious things' precisely in order to set this homage above them.",
+    "crossReferences": [
+      {
+        "text": "Cattāri-maṅgalaṁ (Arihantā maṅgalaṁ…): the four maṅgalas, the older liturgical frame for declaring beings 'auspicious'",
+        "source": "Āvaśyaka liturgy (Catuḥśaraṇa/Maṅgala formulae)"
+      },
+      {
+        "text": "Navkar v.7 savva-pāva-ppaṇāsaṇo and v.9 paḍhamaṁ hoi maṅgalaṁ, which this line syntactically joins",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, transliteration, meaning and the phala-praśasti (last four lines)",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Confirmation that 'maṅgalāṇaṁ ca savvesiṁ' belongs to the cūlikā and its standard rendering 'and of all auspicious things'."
+    },
+    {
+      "title": "Ardhamagadhi Prakrit",
+      "url": "https://en.wikipedia.org/wiki/Ardhamagadhi_Prakrit",
+      "type": "scholarship",
+      "consultedFor": "Language of the mantra and the Prakrit nominal/pronominal genitive-plural morphology underlying -āṇaṁ and -esiṁ."
+    },
+    {
+      "title": "Pañca-Parameṣṭhi",
+      "url": "https://en.wikipedia.org/wiki/Pa%C3%B1ca-Parame%E1%B9%A3%E1%B9%ADhi",
+      "type": "scholarship",
+      "consultedFor": "The 'fivefold salutation' that is the subject the cūlikā (incl. this line) predicates auspiciousness of."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse text follows this book verbatim: 'મંગલાણં ચ સવ્વેસિં,' (maṅgalāṇaṁ ca savvesiṁ). The line is syntactically dependent — a genitive phrase whose predicate is supplied by v.9 (paḍhamaṁ hoi maṅgalaṁ); this book reads 'paḍhamaṁ hoi', whereas some recensions read 'paramaṁ havai maṅgalaṁ', which slightly shifts the partitive sense from 'first/foremost' to 'supreme'. The pronominal genitive-plural savvesiṁ (~ Sanskrit sarveṣāṁ) is standard for sarva-type stems; one plural form serves all genders. No verse-specific textual ambiguity beyond the noted v.9 variant."
+}

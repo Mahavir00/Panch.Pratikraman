@@ -1,0 +1,236 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If you want to escape poverty and bad luck, wish for wealth and good fortune, fear being reborn, and long for the bliss of liberation — then become a devotee of these two Jinas.",
+  "recitation": "jai na ahilasaha dālida-dohaggayaṁ, tumha ahilasaha jai lacchi-sohaggayaṁ.\nbhavaha jai bhīa jai siva-suhā-sattayā, havaha eyassa jiṇa dugaï to bhattayā.",
+  "wordByWord": [
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "Apabhraṁśa jai from Sanskrit yadi (conditional 'if').",
+      "notes": "Opens the first of four parallel conditions; one popular gloss wrongly reads it as jaya ('victory') — here it is unambiguously yadi."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit na (negation), unchanged in Prakrit.",
+      "notes": "Negates the verb ahilasaha: 'if you do NOT desire'."
+    },
+    {
+      "token": "અહિલસહ",
+      "translit": "ahilasaha",
+      "gloss": "(you) desire / long for",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ahilasai (2nd pl. -aha) from Sanskrit abhi-√laṣ, abhilaṣatha ('you all long for'); abhi- > ahi- by intervocalic softening.",
+      "notes": "Present indicative, 2nd person plural, addressing the worshipper directly."
+    },
+    {
+      "token": "દાલિદ",
+      "translit": "dālida",
+      "gloss": "poverty",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dālidda/dālida from Sanskrit dāridrya ('destitution').",
+      "notes": "First member of the compound dālida-dohagga (poverty-and-misfortune)."
+    },
+    {
+      "token": "દોહગ્ગયં",
+      "translit": "dohaggayaṁ",
+      "gloss": "misfortune / ill-fate",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dohagga from Sanskrit daurbhāgya ('bad luck'); + -ya- + accusative -ṁ.",
+      "notes": "Accusative object of ahilasaha; deliberately mirrors sohaggayaṁ in the next line."
+    },
+    {
+      "token": "તુમ્હ",
+      "translit": "tumha",
+      "gloss": "you / your",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tumha from Sanskrit yuṣma- (2nd person stem).",
+      "notes": "Reinforces the direct second-person address; here roughly 'you (for your part)'."
+    },
+    {
+      "token": "અહિલસહ",
+      "translit": "ahilasaha",
+      "gloss": "(you) desire",
+      "partOfSpeech": "verb",
+      "etymology": "Repetition of abhilaṣatha (see above).",
+      "notes": "Now positive: 'if you DO desire' — the rhetorical turn from shunning to seeking."
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "= yadi (see token 1).",
+      "notes": "Second condition."
+    },
+    {
+      "token": "લચ્છિ",
+      "translit": "lacchi",
+      "gloss": "Lakṣmī / prosperity",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa lacchi from Sanskrit lakṣmī; the conjunct kṣ > cch.",
+      "notes": "Here the goddess's name stands by metonymy for wealth and worldly success."
+    },
+    {
+      "token": "સોહગ્ગયં",
+      "translit": "sohaggayaṁ",
+      "gloss": "good fortune / saubhāgya",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sohagga from Sanskrit saubhāgya ('felicity, charm'); + -ya- + accusative -ṁ.",
+      "notes": "Object of the second ahilasaha; the exact positive counter-weight to dohaggayaṁ."
+    },
+    {
+      "token": "ભવહ",
+      "translit": "bhavaha",
+      "gloss": "(if) you are / become",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit bhavaha from Sanskrit √bhū, bhavatha ('you become').",
+      "notes": "Links with bhīa: 'if you are/become afraid'; the implied object of fear is rebirth (saṁsāra/durgati)."
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "= yadi (see token 1).",
+      "notes": "Third condition."
+    },
+    {
+      "token": "ભીઅ",
+      "translit": "bhīa",
+      "gloss": "afraid / fearful",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bhīa from Sanskrit bhīta ('frightened'), past participle of √bhī.",
+      "notes": "Predicate of bhavaha; spiritually this 'fear of rebirth' is the qualification of saṁvega."
+    },
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "= yadi (see token 1).",
+      "notes": "Fourth and final condition; an implied verb of desiring ('you long for') is gapped here."
+    },
+    {
+      "token": "સિવ",
+      "translit": "siva",
+      "gloss": "liberation (the 'auspicious' state)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siva from Sanskrit śiva ('auspicious, blessed'); a standard Jain name for mokṣa.",
+      "notes": "First member of siva-suha; not the deity Śiva but the 'blessed' state of release."
+    },
+    {
+      "token": "સુહા",
+      "translit": "suhā",
+      "gloss": "bliss / happiness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suha from Sanskrit sukha ('ease, bliss'); -kh- > -h-.",
+      "notes": "Joined to siva: 'the bliss of liberation' (śiva-sukha)."
+    },
+    {
+      "token": "સત્તયા",
+      "translit": "sattayā",
+      "gloss": "state / abiding reality",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sattā / sat-tā from Sanskrit sattā ('being, existence'), from √as.",
+      "notes": "Read as siva-suha-sattayā, 'the (abiding) state of liberation's bliss'; the precise form is somewhat uncertain (see notes)."
+    },
+    {
+      "token": "હવહ",
+      "translit": "havaha",
+      "gloss": "become! / be!",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit havaha from Sanskrit √bhū, imperative bhavata ('become, you all'); ha- is the typical Prakrit reflex of bhava-.",
+      "notes": "The apodosis verb — an imperative answering all four 'if' clauses; distinct in force from conditional bhavaha (token 11)."
+    },
+    {
+      "token": "એયસ્સ",
+      "translit": "eyassa",
+      "gloss": "of this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit eyassa (genitive) from Sanskrit etasya ('of this').",
+      "notes": "Genitive governing jiṇa: 'of this Jina(-pair)' — 'this' points back to the twin Jinas the hymn keeps before us."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa from Sanskrit jina ('conqueror'), from √ji.",
+      "notes": "Singular in form but, per this twin hymn, addressed to Ajita and Śānti jointly."
+    },
+    {
+      "token": "દુગઇ",
+      "translit": "dugaï",
+      "gloss": "evil rebirth (durgati)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dugaï/duggaï from Sanskrit durgati ('bad destiny'), dur- + gati.",
+      "notes": "Taken as the danger the devotee escapes, contrasted with siva-suha; the single-g spelling leaves a minority reading open (see notes)."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then / therefore",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit to from Sanskrit tataḥ / tarhi ('then').",
+      "notes": "Marks the conclusion: given the four conditions, 'then' do this."
+    },
+    {
+      "token": "ભત્તયા",
+      "translit": "bhattayā",
+      "gloss": "devotees",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhattaya from Sanskrit bhakta ('devotee'), from √bhaj; -kt- > -tt-.",
+      "notes": "Predicate of havaha: '(then) become devotees'; rhymes with sattayā, sealing the verse."
+    }
+  ],
+  "literalTranslation": "If you do not desire poverty and misfortune; if, for your part, you desire prosperity (Lakṣmī) and good fortune; if you are afraid (of rebirth); if (you long for) the abiding state of liberation's bliss — then become the devotees of this Jina(-pair), [freed] from evil rebirth.",
+  "idiomaticTranslation": "Do you shrink from poverty and ill-fortune? Do you long for prosperity and good fortune? Do you dread being reborn, and yearn for the bliss of liberation? Then give your heart to this pair of Jinas and become their devotees — and evil destinies fall away.",
+  "elaboration": {
+    "verseByVerseCommentary": "After verse 6 has paraded its catalogue of terrors, verse 7 wheels round and speaks straight to the listener, turning a hymn of praise into a personal appeal. Its whole force lies in a four-fold conditional — four 'jai' (if) clauses — that the closing imperative 'havaha…bhattayā' ('then become devotees') resolves all at once. The four conditions are arranged as two matched pairs. The first pair is worldly and built on exact opposites: shun 'dālida-dohagga' (poverty and misfortune) on the one side, desire 'lacchi-sohagga' (Lakṣmī's wealth and good fortune) on the other — the very rhyme dohaggayaṁ / sohaggayaṁ stages the choice in sound. The second pair turns inward and upward: 'bhavaha jai bhīa', if you fear (rebirth), and 'jai siva-suhā', if you crave the bliss of release. The poet thus gathers the listener's whole horizon of wanting — from a roof over the head to final freedom — and points every strand of it at one object: devotion to this twin Jina. The art is its even-handedness. Far from scolding the beginner for wanting wealth, the verse takes that ordinary longing as a legitimate starting rung and lets the same act of bhakti answer it together with the highest aim. The repeated, almost coaxing 'jai…jai…' has the cadence of a teacher counting reasons on the fingers, while 'eyassa jiṇa' ('this Jina') keeps the dual Ajita-Śānti squarely in view. The verse ends where a protective stotra means to end — with 'dugaï' (durgati, evil rebirth) named as the thing that drops away the moment one becomes a devotee, the inner counterpart to verse 6's outward perils.",
+    "doctrinalContext": "The verse compactly states the Jain logic of devotion: the vītarāga Jina grants no boons, yet sincere bhakti purifies the devotee so that both 'abhyudaya' (worldly well-being) and 'niḥśreyasa' (liberation) follow as fruits — here named as Lakṣmī-saubhāgya and śiva-sukha respectively. Doctrinally the most pointed phrase is 'bhavaha jai bhīa': fear of rebirth is not weakness but 'saṁvega', the dread of saṁsāra that scripture counts a mark of right faith; paired with longing for liberation it becomes 'nirveda' (disenchantment). The closing contrast of 'dugaï' (durgati) against 'siva' frames the soul's two trajectories — downward into bad destinies through karma, upward into the blessed state — with devotion as the hinge between them. The verse therefore does not promise the Jina will hand over wealth; it teaches that orienting desire itself toward the Jina reorders one's karma so that misfortune and durgati cease to bind.",
+    "practicalRelevance": "Recited today, this verse asks the practitioner to audit their own wants honestly — security, prosperity, freedom from fear — and then to redirect all of them, high and low, into devotion rather than anxiety. A beginner need not pretend to want only mokṣa; the verse legitimizes ordinary hopes while gently bending them toward the Jina. Practically, dwelling on 'bhavaha jai bhīa' is an invitation to cultivate saṁvega: a calm, clear-eyed wariness of rebirth that steadies the mind during kāyotsarga and converts fear of life's perils (verse 6) into settled devotion.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava): 'ārugga-bohi-lābhaṁ samāhi-varam uttamaṁ diṁtu' — the same pairing of worldly weal (health) with the supreme spiritual boon",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Bhaktāmara Stotra, phala-śruti verses promising the devotee release from fear, bondage and misfortune — the same 'be devoted, and dangers fall away' logic",
+        "source": "Mānatuṅgasūri"
+      },
+      {
+        "text": "Tattvārtha-sūtra: saṁvega (dread of saṁsāra) and nirveda as marks attending samyag-darśana — the doctrinal sense of 'bhavaha jai bhīa'",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Hindi dictionary), H. T. Sheth — searchable edition",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit/Apabhraṁśa glosses: ahilasai (abhilaṣ), dohagga (daurbhāgya), sohagga (saubhāgya), lacchi (lakṣmī), dugaï (durgati), bhattaya (bhakta), havai (bhū)"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne digital scan",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma: yadi, daurbhāgya, saubhāgya, lakṣmī, durgati, jina, bhakta"
+    },
+    {
+      "title": "V. S. Apte, Practical Sanskrit-English Dictionary (1890), Cologne digital scan",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma and senses: abhi-√laṣ, śiva (auspicious/liberation), sukha, sattā, √bhū"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Word senses are well attested; the residual uncertainty is syntactic. (1) 'dugaï' (દુગઇ) is read as durgati ('evil rebirth'), strongly supported by its contrast with siva-suha; the single-g spelling (durgati usually duggaï) leaves open a minority reading 'jiṇa-dugaï' = 'this Jina-DVIKA (pair)', which would fit the twin-hymn theme but is not adopted here. (2) 'sattayā' is taken as sattā/sat-tā ('state, abiding being'); its exact morphology is uncertain and it may simply intensify siva-suha ('the very bliss of liberation'). (3) The fourth 'jai' clause has a gapped verb of desiring, supplied from the parallel ahilasaha. (4) bhavaha (conditional 'you be/become', token 11) and havaha (imperative 'become!', token 18) are both from √bhū but differ in function. (5) Verse text and orthography are preserved verbatim per the source book; one widely circulated web gloss misreads the opening 'jai' as jaya ('victory') — it is yadi ('if')."
+}

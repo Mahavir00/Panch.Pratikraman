@@ -1,0 +1,182 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Having bowed to and praised the Jina, then circling him three times and bowing again, the gods and demons joyfully returned to their own homes.",
+  "recitation": "vandiūṇa thoūṇa to jiṇaṁ, tiguṇam eva ya puṇo payāhiṇaṁ | paṇamiūṇa ya jiṇaṁ surāsurā, pamuiā sabhavaṇāiṁ to gayā ||",
+  "wordByWord": [
+    {
+      "token": "વંદિઊણ",
+      "translit": "vandiūṇa",
+      "gloss": "having bowed, having venerated",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive in -ūṇa from √vand (to salute); = Skt. vanditvā.",
+      "notes": "The -ūṇa gerund marks an action completed before the main verb 'went' (gayā)."
+    },
+    {
+      "token": "થોઊણ",
+      "translit": "thoūṇa",
+      "gloss": "having praised, having hymned",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive from √thu/√stu (to praise); = Skt. stutvā. Cf. the hymn's own 'thosāmi' (v.1).",
+      "notes": "Paired with vandiūṇa: first the bow, then the eulogy."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to; = Skt. tataḥ (from that, thereafter).",
+      "notes": "First of two occurrences; sequences the ritual stages."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt. jina, 'conqueror' (of the passions); accusative singular -aṁ.",
+      "notes": "Object of bowing and praising."
+    },
+    {
+      "token": "તિગુણમેવ",
+      "translit": "tiguṇam eva",
+      "gloss": "exactly three times over",
+      "partOfSpeech": "compound",
+      "etymology": "tiguṇaṁ (Skt. tri-guṇam, 'three-fold') + emphatic particle eva ('just, exactly'), joined by sandhi.",
+      "notes": "Qualifies the circumambulation as a threefold round; the emphatic eva fixes the precise count."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya = Skt. ca (and).",
+      "notes": "First of two connectives; links the praise-and-bow to the circling."
+    },
+    {
+      "token": "પુણો",
+      "translit": "puṇo",
+      "gloss": "again, moreover",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit puṇo = Skt. punaḥ (again, further).",
+      "notes": "Adds the circumambulation onto the preceding acts of homage."
+    },
+    {
+      "token": "પયાહિણં",
+      "translit": "payāhiṇaṁ",
+      "gloss": "circumambulation, clockwise circling (pradakṣiṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit payāhiṇa < Skt. pradakṣiṇā, lit. 'keeping (the venerated one) to one's right'; accusative -aṁ.",
+      "notes": "The reverent clockwise round, here performed thrice."
+    },
+    {
+      "token": "પણમિઊણ",
+      "translit": "paṇamiūṇa",
+      "gloss": "having bowed low, having made obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive in -ūṇa from pra+√nam (to bend down); = Skt. praṇamya.",
+      "notes": "A deeper prostration sealing the worship after the circling."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya = Skt. ca (and).",
+      "notes": "Second connective; ties the final bow to the subjects' departure."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "As above; jiṇa < Skt. jina, accusative -aṁ.",
+      "notes": "Repeated object of the closing prostration — homage thrice underscored in one verse."
+    },
+    {
+      "token": "સુરાસુરા",
+      "translit": "surāsurā",
+      "gloss": "gods and demons (suras and asuras)",
+      "partOfSpeech": "noun",
+      "etymology": "Dvandva compound sura + asura; Prakrit nominative plural -ā. = Skt. surāsurāḥ.",
+      "notes": "The grammatical subject of the whole verse — celestial and titanic beings, former rivals, united in devotion."
+    },
+    {
+      "token": "પમુઇઆ",
+      "translit": "pamuiā",
+      "gloss": "delighted, gladdened",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pamuia < Skt. pramudita (pra + √mud, 'to rejoice'); nominative plural -ā.",
+      "notes": "Describes the mood in which they leave — worship yields joy."
+    },
+    {
+      "token": "સભવણાઈં",
+      "translit": "sabhavaṇāiṁ",
+      "gloss": "to their own abodes",
+      "partOfSpeech": "noun",
+      "etymology": "sa- (Skt. sva-, 'own') + bhavaṇa (Skt. bhavana, 'dwelling'); accusative/goal plural -āiṁ.",
+      "notes": "Accusative of destination: the heavenly and nether realms they each inhabit."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to = Skt. tataḥ.",
+      "notes": "Second occurrence; marks the final turn — worship done, departure follows."
+    },
+    {
+      "token": "ગયા",
+      "translit": "gayā",
+      "gloss": "went, departed",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit gaya < Skt. gata (past participle of √gam, 'to go'); nominative plural -ā agreeing with surāsurā.",
+      "notes": "The main predicate of the sentence; the assembly disperses."
+    }
+  ],
+  "literalTranslation": "Having bowed to and praised the Jina, then making circumambulation exactly three times over, and again bowing low to the Jina, the gods and demons, delighted, then went to their own abodes.",
+  "idiomaticTranslation": "They bowed before the Jina and sang his praise; then, circling him reverently three full rounds, the gods and demons made their final obeisance — and, hearts filled with joy, they departed each to his own dwelling.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is the closing frame of the great assembly tableau: where the preceding verse marshalled the throngs of suras and asuras — 'free of enmity, joined in devotion, hands folded, heads bowed' — this verse releases them. Their worship is rendered as an ordered liturgy in four beats: bow (vandiūṇa), praise (thoūṇa), circle thrice (tiguṇam eva… payāhiṇaṁ), bow again (paṇamiūṇa). The poet stacks three Prakrit absolutives (vandiūṇa, thoūṇa, paṇamiūṇa) before the single finite verb gayā, so the whole sentence leans forward through act after act of homage until the gods at last turn for home. The detail tiguṇam eva — 'exactly three times' — is not decorative: the threefold pradakṣiṇā is the standard Jain rite of circling the venerated one clockwise, keeping the right shoulder toward him. The emphatic eva fixes the canonical count. Note too the loaded word surāsurā: gods and titans, cosmic adversaries, here move as one congregation — devotion levels even their ancient rivalry. The verse ends on pamuiā, 'delighted': they do not leave merely satisfied but transformed, carrying gladness back to their realms. The double to ('then… then…') sets the rhythm of arrival, worship, and dispersal, quietly drawing the curtain on the assembly scene before the hymn returns to direct praise of the Jina in the next stanza.",
+    "doctrinalContext": "The threefold circumambulation is read in Jain practice as honouring the ratna-traya — the Three Jewels of right faith (samyag-darśana), right knowledge (samyag-jñāna), and right conduct (samyag-cāritra) — each round dedicated to one jewel, so that the body's motion itself confesses the path to liberation. That gods AND asuras worship together illustrates a core conviction: the Tīrthaṅkara is beyond partisanship, and true reverence dissolves vaira (enmity). The closing pamuiā ('delighted') quietly states the fruit of darśana — the sight and worship of the Jina produces puṇya-laden joy and inner calm, not transactional reward. The beings withdraw to their own loka-stations, leaving the Jina untouched and serene at the centre, the still axis of a moving cosmos.",
+    "practicalRelevance": "A reciter today re-enacts this verse each time he circles a Jina image thrice in the temple: the stanza supplies the inner script — bow, praise, circle keeping the right toward the Lord, bow again — and asks that the act be done not mechanically but, like the suras, 'delighted.' It models worship that is complete yet unclinging: one venerates fully, then returns to one's own duties (sabhavaṇāiṁ) carrying that gladness into ordinary life.",
+    "crossReferences": [
+      {
+        "text": "Triple pradakṣiṇā as honouring the ratna-traya (right faith, knowledge, conduct)",
+        "source": "Standard Śvetāmbara caitya-vandana practice; cf. Tattvārtha-sūtra 1.1 on the Three Jewels"
+      },
+      {
+        "text": "Preceding v.23 — the assembly of suras and asuras 'free of enmity, joined in devotion, with folded hands and bowed heads'",
+        "source": "Ajitaśānti Stava (Nandiṣeṇasūri), Anchalgachchha/Vidhipaksha recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pradakshina (circumambulation) — clockwise veneration in Jainism and Indic religions",
+      "url": "https://en.wikipedia.org/wiki/Pradakshina",
+      "type": "scholarship",
+      "consultedFor": "Confirming payāhiṇaṁ < pradakṣiṇā as clockwise circumambulation keeping the venerated to one's right, performed after homage."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — pradakṣiṇā, pramudita, jina",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and senses of payāhiṇaṁ (pradakṣiṇā), pamuiā (pramudita), jiṇaṁ (jina) for the etymology fields."
+    },
+    {
+      "title": "Ajitaśānti Stava recensions and Jain stotra texts (digitized scans)",
+      "url": "https://archive.org/search?query=Ajitashanti+Stava",
+      "type": "translation",
+      "consultedFor": "Cross-checking verse wording (surāsurā, sabhavaṇāiṁ, tiguṇam) and its place at the close of the cosmic-assembly section."
+    },
+    {
+      "title": "Jain eLibrary — Prakrit stotra and grammar resources (gerund -ūṇa absolutives)",
+      "url": "https://jainelibrary.org/",
+      "type": "scholarship",
+      "consultedFor": "Verifying the Prakrit absolutive suffix -ūṇa in vandiūṇa, thoūṇa, paṇamiūṇa (= Skt. -tvā/-ya gerunds)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse text preserved verbatim from the book, including variant anusvāra/conjuncts (e.g. પમુઇઆ, સભવણાઈં). tiguṇam'eva' is the emphatic eva joined by sandhi to tiguṇaṁ; rendered 'exactly three times.' surāsurā is taken as a dvandva (suras + asuras) and the nominative-plural subject governing gayā; the agreeing forms pamuiā and gayā are read as plural -ā. sabhavaṇāiṁ is read as accusative/goal ('to their own abodes'). The threefold-pradakṣiṇā = ratna-traya correspondence reflects established practice-tradition rather than an explicit in-text gloss; treat that symbolic reading as interpretive. Verse numbering follows the book's count (24)."
+}

@@ -1,0 +1,80 @@
+{
+  "shlokaId": "navkar/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to all the true monks everywhere in the world.",
+  "recitation": "namo loe savva-sāhūṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence to / I bow to",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit namo, from Sanskrit namas (नमस्), 'bowing, homage'; the indeclinable opening every Parameṣṭhi salutation.",
+      "notes": "Fifth and final occurrence of the opening namaḥ across the pañca-namaskāra."
+    },
+    {
+      "token": "લોએ",
+      "translit": "loe",
+      "gloss": "in the world (loka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit loe, locative singular of loa, from Sanskrit loka (लोक); the locative ending -e gives 'in the world'.",
+      "notes": "Appears in no other line of the pañca-namaskāra; it widens this bow spatially rather than naming a rank."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva, from Sanskrit sarva (सर्व), 'all'; here the first member of the compound savva-sāhūṇaṁ.",
+      "notes": "Qualifies sāhū collectively — every monk without exception of sect, place or lineage."
+    },
+    {
+      "token": "સાહૂણં",
+      "translit": "sāhūṇaṁ",
+      "gloss": "to the monks (sādhus)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāhu, from Sanskrit sādhu (साधु), 'good/accomplished one, ascetic', in the dative-genitive plural -ūṇaṁ; with savva forms savva-sāhūṇaṁ, 'to all monks'.",
+      "notes": "The book reads સાહૂ with long ū; the inflected plural -ūṇaṁ matches the dative-plural pattern (-āṇaṁ) of the four preceding bows."
+    }
+  ],
+  "literalTranslation": "Reverence, in the world, to all the monks.",
+  "idiomaticTranslation": "I bow to all the true monks living anywhere in the world.",
+  "elaboration": {
+    "verseByVerseCommentary": "This fifth bow closes the salutation movement, and it alone carries the word loe ('in the world'). Where the bows to ācārya and uvajjhāya named offices held by comparatively few, here the reverence opens outward: savva-sāhūṇaṁ — to all monks, with no qualifier of gaccha, region, or fame. The single locative loe does the decisive work. It does not restrict the homage; it locates its object among the living and embodied. A Siddha has departed the world; a Sādhu is precisely the seeker still walking it under the great vows. So the verse honours not an attainment already perfected but a discipline in progress — every ascetic, anywhere, presently treading the path. Coming straight after the bow to the teaching-monk (uvajjhāya), it completes the descent from the most exalted to the most numerous: the homage that began with the enlightened teacher now embraces the entire body of practitioners. The grammar repeats the familiar gesture — namo plus a plural — but the added loe quietly universalises it, turning the last bow into the widest one. Nothing is named, because no name is needed: the reverence is owed to the state of monkhood itself, wherever it is found.",
+    "doctrinalContext": "The verse encodes the Jain conviction that veneration attaches to spiritual quality and vow, not to person or rank. By saying savva ('all') the reciter refuses every sectarian boundary — a monk of any lineage who keeps the mahāvratas is a fit object of homage. The word loe also marks an ontological distinction the mantra builds across its five bows: the Siddha is beyond loka, while the Sādhu remains within it, still subject to the body and the labour of practice. Bowing to the still-striving ascetic affirms that the path itself — not only its end — is worthy of reverence.",
+    "practicalRelevance": "Reciting this line, a practitioner cultivates non-sectarian respect for every genuine renunciant and, by extension, for the discipline of restraint they embody. It trains the mind to honour effort-in-progress, encouraging the layperson to support and emulate ascetic conduct in daily life.",
+    "crossReferences": [
+      {
+        "text": "Pañca-namaskāra, fifth pada — 'ṇamo loe savva-sāhūṇaṁ'",
+        "source": "Namokar Mantra (standard Śvetāmbara recension)"
+      },
+      {
+        "text": "Definition of sādhu as keeper of the five mahāvratas",
+        "source": "Tattvārtha-sūtra tradition (Umāsvāti), as summarised in standard Jain commentaries"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, transliteration and meaning",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "The fifth pada's standard reading 'namo loe savva-sāhūṇaṁ' and its meaning 'I bow to all monks in the world'."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: namas (homage), loka (world), sarva (all), sādhu (ascetic)."
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — Prakrit/Ardhamagadhi lexical resources",
+      "url": "https://www.jainqq.org/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms sāhu/savva and the dative-genitive plural -ūṇaṁ inflection."
+    }
+  ],
+  "translatorConfidence": 0.93,
+  "notes": "The book's orthography (સાહૂ with long ū, closing period) is preserved. Some recensions print 'savva-loe savva-sāhūṇaṁ' (repeating savva before loe); this book's reading has loe once, as transcribed. The dative-plural sense ('to all monks') is rendered; Prakrit -ūṇaṁ syncretises dative and genitive. The doctrinal point that loe marks the Sādhu as still within loka (vs. the world-transcending Siddha) is a widely held commentarial reading, attributed in tradition to ācāryas rather than to one fixed source; treat the specific attribution as interpretive."
+}

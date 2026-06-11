@@ -1,0 +1,214 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "When the two Jinas were born, the lords of the gods dressed in dazzling new robes and held a grand festival on Mount Meru — and the poet now keeps those two Jinas enshrined within his own heart.",
+  "recitation": "janana-samaye yato surāsura-nāyakāḥ, nava-navāneka-nepathya-paridhāyakāḥ; vidadhur utsavam atucchaṃ girau mandare, vāsaye tau jinau nija-mano-mandire.",
+  "wordByWord": [
+    {
+      "token": "જનન",
+      "translit": "janana",
+      "gloss": "birth, being born",
+      "partOfSpeech": "noun",
+      "etymology": "√jan ('to be born, beget') + -ana; 'the act of being born'",
+      "notes": "Heads the locative phrase janana-samaye, 'at birth-time' — the janma-kalyāṇaka."
+    },
+    {
+      "token": "સમયે",
+      "translit": "samaye",
+      "gloss": "at the time, at the moment",
+      "partOfSpeech": "noun",
+      "etymology": "sam + √i ('to come together') → samaya 'meeting-point, time'; locative singular",
+      "notes": ""
+    },
+    {
+      "token": "યથો",
+      "translit": "yatho",
+      "gloss": "when, whereupon (relative particle)",
+      "partOfSpeech": "particle",
+      "etymology": "relative base yad-; the book's reading for the temporal/relative particle (cf. standard yataḥ / yatra)",
+      "notes": "Spelling preserved verbatim; the pāda-initial sandhi here is textually uncertain (see notes)."
+    },
+    {
+      "token": "રસુર",
+      "translit": "rasura",
+      "gloss": "(with the next word) the asuras — celestial demigods",
+      "partOfSpeech": "compound",
+      "etymology": "a-sura ('not-sura,' a class of celestial); read here as the second member of surāsura, 'gods-and-asuras'",
+      "notes": "Read together with the following સુર as surāsura; in Jain cosmology this embraces the Asura-kumāra Indras (Camara, Bali) who attend the birth-anointing."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestials",
+      "partOfSpeech": "noun",
+      "etymology": "sura 'shining one, deity' (back-formed from a-sura)",
+      "notes": "With રસુર forms surāsura, embracing the Vaimānika Indras (Śakra, Īśāna)."
+    },
+    {
+      "token": "નાયકા:",
+      "translit": "nāyakāḥ",
+      "gloss": "leaders, chiefs (here the Indras)",
+      "partOfSpeech": "noun",
+      "etymology": "√nī ('to lead') + -aka; nominative plural",
+      "notes": "surāsura-nāyakāḥ = the Indra-lords of the celestial orders, the subject of vidadhuḥ ('performed')."
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "new, fresh",
+      "partOfSpeech": "adj",
+      "etymology": "nava 'new'; reduplicated with the next for intensity",
+      "notes": "nava nava = 'ever-new, fresh-upon-fresh.'"
+    },
+    {
+      "token": "નવાનેક",
+      "translit": "navāneka",
+      "gloss": "ever-new and manifold",
+      "partOfSpeech": "compound",
+      "etymology": "nava ('new') + an-eka ('not-one, many, manifold')",
+      "notes": "Qualifies nepathya — the gods' countless changing costumes."
+    },
+    {
+      "token": "નેપથ્ય",
+      "translit": "nepathya",
+      "gloss": "attire, festive costume and ornament",
+      "partOfSpeech": "noun",
+      "etymology": "nepathya 'dress, decoration, ornamental costume' (Monier-Williams)",
+      "notes": "First member of the compound nava-navāneka-nepathya-paridhāyakāḥ."
+    },
+    {
+      "token": "પરિધાયકા:",
+      "translit": "paridhāyakāḥ",
+      "gloss": "wearers, those donning [their garments]",
+      "partOfSpeech": "noun",
+      "etymology": "pari + √dhā ('to place around, put on') + -aka; nominative plural, agreeing with nāyakāḥ",
+      "notes": "'Donning ever-new manifold attire' — the gods bedeck themselves for the celebration."
+    },
+    {
+      "token": "વિદધુરુત્સવ",
+      "translit": "vidadhur-utsava",
+      "gloss": "they performed + a festival (vidadhuḥ + utsavam, sandhi-joined)",
+      "partOfSpeech": "verb",
+      "etymology": "vi + √dhā ('to make, perform'), perfect 3rd plural vidadhuḥ; ut + √sū → utsava 'festival, joyous celebration'",
+      "notes": "Two words fused by sandhi: the main verb vidadhuḥ governs the object utsavam (accusative)."
+    },
+    {
+      "token": "મતુચ્છં",
+      "translit": "m-atucchaṃ",
+      "gloss": "(connecting -m) + not-small, i.e. great, no trifling [festival]",
+      "partOfSpeech": "adj",
+      "etymology": "a- (negation) + tuccha ('small, trifling, paltry') → atuccha 'not small, great' (Monier-Williams); accusative singular, with euphonic -m",
+      "notes": "Litotes: 'a not-small festival' = a grand one. Modifies utsavam."
+    },
+    {
+      "token": "ગિરૌ",
+      "translit": "girau",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "giri 'mountain'; locative singular",
+      "notes": "In apposition with mandare."
+    },
+    {
+      "token": "મંદરે",
+      "translit": "mandare",
+      "gloss": "on Mandara (Mount Meru / Sumeru)",
+      "partOfSpeech": "noun",
+      "etymology": "mandara, a name of the cosmic central mountain identified with Meru; locative singular",
+      "notes": "The site of the gods' janmābhiṣeka; sonically paired with mandire in the next pāda."
+    },
+    {
+      "token": "વાસયે",
+      "translit": "vāsaye",
+      "gloss": "I cause to dwell, I enshrine",
+      "partOfSpeech": "verb",
+      "etymology": "√vas ('to dwell'), causative vāsayati 'makes to dwell'; 1st person singular",
+      "notes": "Turns the verse inward: the poet, as devotee, installs the Jinas in himself."
+    },
+    {
+      "token": "તૌ",
+      "translit": "tau",
+      "gloss": "those two",
+      "partOfSpeech": "pronoun",
+      "etymology": "tad ('that'), accusative dual",
+      "notes": "The dual sustains the hymn's twin-Jina device."
+    },
+    {
+      "token": "જિનૌ",
+      "translit": "jinau",
+      "gloss": "the two Jinas (Ajita and Śānti)",
+      "partOfSpeech": "noun",
+      "etymology": "√ji ('to conquer') → jina 'victor [over passions]'; accusative dual",
+      "notes": "Object of vāsaye."
+    },
+    {
+      "token": "નિજ",
+      "translit": "nija",
+      "gloss": "own, one's own",
+      "partOfSpeech": "adj",
+      "etymology": "nija 'innate, one's own'",
+      "notes": "Heads nija-mano-mandire, 'the temple of my own mind.'"
+    },
+    {
+      "token": "મનો",
+      "translit": "mano",
+      "gloss": "of the mind, of the heart",
+      "partOfSpeech": "noun",
+      "etymology": "manas 'mind'; compounding form mano-",
+      "notes": "Inner counterpart to the outer Mount Mandara."
+    },
+    {
+      "token": "મંદિરે",
+      "translit": "mandire",
+      "gloss": "in the temple, in the shrine",
+      "partOfSpeech": "noun",
+      "etymology": "mandira 'dwelling, temple'; locative singular",
+      "notes": "mano-mandire = 'the mind-temple'; deliberately chimes with mandare ('Meru') above."
+    }
+  ],
+  "literalTranslation": "At the time of [their] birth, when the lords of the gods and asuras, donning ever-new and manifold festive attire, performed a not-small (i.e. grand) festival upon Mount Mandara — those two Jinas I cause to dwell in the temple of my own mind.",
+  "idiomaticTranslation": "When the two Jinas came to birth, the Indra-lords of gods and demigods alike, robing themselves in fresh and countless splendid raiment, kept a festival of no small grandeur upon Mount Meru. Those two Jinas I now enshrine within the temple of my own heart.",
+  "elaboration": {
+    "verseByVerseCommentary": "If the previous verse lingered on the mothers' delight at the heralding dreams (the conception), this verse leaps to the next of the auspicious events — the birth itself, told entirely through the gods' response. The poet does not describe the infant Jinas at all; he describes heaven emptying itself in celebration. The 'lords of suras and asuras' (surāsura-nāyakāḥ) are the celestial Indras of every order, and their devotion is painted in a single vivid stroke: they keep changing into 'ever-new and manifold' raiment (nava-navāneka-nepathya), unable to dress grandly enough for the occasion. The litotes atuccha — a festival 'not small' — is a connoisseur's understatement for something overwhelming. The whole cosmic scene is then quietly collapsed in the final pāda. The festival happened 'on Mount Mandara' (girau mandare); the poet asks to seat the Jinas 'in the temple of his own mind' (nija-mano-mandire). The near-identity of mandare and mandire is no accident — it is the verse's pivot. The mountain where gods bathed the newborns and the heart-shrine of a single devotee are made to rhyme, and in rhyming are equated: the worshipper's mind becomes his own Meru. From spectacle the verse turns, in one breath, to interiority — the move from witnessing worship to becoming its sanctuary.",
+    "doctrinalContext": "The scene is the janma-kalyāṇaka and its janmābhiṣeka: at every Tīrthaṅkara's birth the sixty-four Indras descend and carry the infant to the summit of Meru (Mandara) for the ceremonial anointing — which is precisely why both suras and asuras are named, since Jain cosmology counts Indras among the Vaimānika gods (Śakra, Īśāna) and the Bhavanapati Asura-kumāras (Camara, Bali) alike. The verse's real doctrinal weight, though, lies in vāsaye: the shift from dravya-pūjā (the gods' external, material festival of robes and rites on a physical mountain) to bhāva-pūjā (the devotee's inward enshrinement). The grandest possible outer worship is invoked only to be surpassed by the simplest inner one — the heart that becomes a temple. That a Jina is a 'conqueror' (jina, from √ji) housed within points to the goal: not merely revering the victors but interiorizing their victory.",
+    "practicalRelevance": "The reciter is invited to do what the gods could not finish doing with their endless costumes — to offer worship that is inward and therefore complete. However modest one's outer means, the verse says the heart can be one's Mount Meru. As you chant the closing line, consciously 'seat' Ajita and Śānti in the mind, letting the recollection itself be the abhiṣeka.",
+    "crossReferences": [
+      {
+        "text": "Kalpa-sūtra — the Indras' descent and the janmābhiṣeka of the Tīrthaṅkara on Mount Meru",
+        "source": "Bhadrabāhu, Kalpa-sūtra (Śvetāmbara Āgama)"
+      },
+      {
+        "text": "Triṣaṣṭi-śalākā-puruṣa-caritra — the birth-anointing of Ajitanātha and Śāntinātha by the sixty-four Indras",
+        "source": "Hemacandra, trans. Helen M. Johnson (Gaekwad's Oriental Series)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899) — entries 'nepathya', 'atuccha', 'mandara'",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses of nepathya (costume/attire/ornament), atuccha (not-small/great), and mandara (= Meru)."
+    },
+    {
+      "title": "Wisdom Library — 'Nepathya' (definitions across Sanskrit/Nāṭyaśāstra)",
+      "url": "https://www.wisdomlib.org/definition/nepathya",
+      "type": "dictionary",
+      "consultedFor": "Confirming nepathya as 'costume, attire, ornamental dress' for the gods' festive raiment."
+    },
+    {
+      "title": "Wisdom Library — 'Mandara' (50 definitions, incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/mandara",
+      "type": "dictionary",
+      "consultedFor": "Identifying Mandara with the cosmic central mountain Meru, the site of the janmābhiṣeka."
+    },
+    {
+      "title": "Wisdom Library — 'Janma-kalyāṇaka' and the Meru birth-anointing (Indra/abhiṣeka)",
+      "url": "https://www.wisdomlib.org/definition/kalyanaka",
+      "type": "scholarship",
+      "consultedFor": "Jain framing of the birth-festival: the Indras of suras and asuras carrying the newborn Jina to Meru for the abhiṣeka."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Pādas b–d are syntactically secure: nava-navāneka-nepathya-paridhāyakāḥ (gods donning ever-new manifold attire), vidadhur utsavam atucchaṃ girau mandare (performing a grand festival on Mt. Meru), and vāsaye tau jinau nija-mano-mandire (enshrining the two Jinas in the mind-temple). The crux is pāda a: 'યથો રસુર સુર નાયકા:'. I read it as yataḥ/yatra + surāsura-nāyakāḥ = 'the Indra-lords of gods and asuras,' treating રસુર+સુર as the split compound surāsura — a reading strongly supported doctrinally by the sixty-four Indras (Vaimānika + Asura-kumāra) who attend the janmābhiṣeka. The verbatim spelling 'યથો' and the unusual word-split are preserved per the book's golden-source orthography rather than emended. The mandare ('Meru') / mandire ('mind-temple') pairing is a deliberate yamaka and is the verse's interpretive pivot. NOTE: an open web search returned a purported 'janana-samaye' verse for this hymn that did not match the book text and bore the hallmarks of fabrication (consistent with the preface's warning about an unverifiable attribution/sample); it was discarded and not relied upon."
+}

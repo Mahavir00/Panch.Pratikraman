@@ -1,0 +1,156 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints a terrifying lion — fire-eyed, huge, its jaws gaping wide, its claws striking like a thunderbolt that splits open a great elephant's skull — the very menace from which, in the next verse, those who hold to Pārśva are kept safe.",
+  "recitation": "pajjaliyā nala-nayaṇaṁ, dūra viyāriya muhaṁ mahākāyaṁ |\nnaha-kulisa-ghāya-viyalia, gaïnda-kumbhatthalābhoaṁ ||",
+  "wordByWord": [
+    {
+      "token": "પજ્જલિયા",
+      "translit": "pajjaliyā",
+      "gloss": "blazing, flaming",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pajjaliya < Skt. prajvalita ('kindled, ablaze'), from pra-√jval 'to flame up'; qualifies the eyes.",
+      "notes": "Compounds forward with nala-nayaṇaṁ: 'with eyes [like] blazing fire'."
+    },
+    {
+      "token": "નલ",
+      "translit": "nala",
+      "gloss": "fire",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nala = anala (Skt. anala, 'fire'), the initial a- elided in compound; here adjectival, 'fiery'.",
+      "notes": "Some editions read this as the single fire-word; combined with pajjaliyā it intensifies the blaze of the eyes."
+    },
+    {
+      "token": "નયણં",
+      "translit": "nayaṇaṁ",
+      "gloss": "eye(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayaṇa < Skt. nayana ('eye'), from √nī 'to lead/guide (the sight)'; accusative neuter -aṁ.",
+      "notes": "Accusative agreeing with the unspoken sīhaṁ ('lion') of v.13."
+    },
+    {
+      "token": "દૂર",
+      "translit": "dūra",
+      "gloss": "far, widely",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt./Prakrit dūra ('distant, far'); here adverbial, 'far apart, gapingly'.",
+      "notes": "Modifies viyāriya: the mouth split 'far' open."
+    },
+    {
+      "token": "વિયારિય",
+      "translit": "viyāriya",
+      "gloss": "torn open, gaping",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viyāriya < Skt. vidārita ('split, rent'), from vi-√dṛ 'to tear apart'.",
+      "notes": "Past participle used adjectivally with muhaṁ."
+    },
+    {
+      "token": "મુહં",
+      "translit": "muhaṁ",
+      "gloss": "mouth, jaws",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muha < Skt. mukha ('mouth, face'); accusative -aṁ.",
+      "notes": "dūra-viyāriya-muhaṁ = 'with mouth torn monstrously wide'."
+    },
+    {
+      "token": "મહાકાયં",
+      "translit": "mahākāyaṁ",
+      "gloss": "of huge body, massive",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mahā ('great') + kāya ('body') = bahuvrīhi 'huge-bodied'; accusative -aṁ.",
+      "notes": "Third epithet in the escalating chain of dread."
+    },
+    {
+      "token": "નહ",
+      "translit": "naha",
+      "gloss": "claw, nail",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit naha < Skt. nakha ('nail, claw'); first member of the instrumental-sense compound.",
+      "notes": "The lion's claws, likened next to a vajra."
+    },
+    {
+      "token": "કુલિસ",
+      "translit": "kulisa",
+      "gloss": "thunderbolt, vajra",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kulisa < Skt. kuliśa ('thunderbolt'), Indra's weapon, byword for irresistible force.",
+      "notes": "naha-kulisa = 'claws [hard/sharp as] the thunderbolt'."
+    },
+    {
+      "token": "ઘાય",
+      "translit": "ghāya",
+      "gloss": "blow, stroke",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ghāya < Skt. ghāta ('blow, striking'), from √han 'to strike'.",
+      "notes": "naha-kulisa-ghāya = 'by the thunderbolt-blows of the claws' (instrumental sense within the compound)."
+    },
+    {
+      "token": "વિયલિઅ",
+      "translit": "viyalia",
+      "gloss": "split apart, burst",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viyalia < Skt. vigalita / vidalita ('burst, shattered, made to fall apart'), from vi-√gal or vi-√dal.",
+      "notes": "Participle governing the following compound: that which is split is the elephant's temple-boss."
+    },
+    {
+      "token": "ગઇંદ",
+      "translit": "gaïnda",
+      "gloss": "lord of elephants, great elephant",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit gaïnda < Skt. gajendra (gaja 'elephant' + indra 'lord'); the mightiest elephant.",
+      "notes": "Genitive sense in compound: the temple-boss 'of the lordly elephant'."
+    },
+    {
+      "token": "કુંભત્થલાભોઅં",
+      "translit": "kumbhatthalābhoaṁ",
+      "gloss": "the broad temple-boss (the frontal globes of the elephant's head)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kumbha ('frontal globe of an elephant's brow') + sthala ('mound, plate') + ābhoga ('expanse, swelling surface'); Prakrit kumbha-tthala-ābhoa, accusative -aṁ.",
+      "notes": "Sandhi-fused single token in the source; the kumbhasthala is the proud, mada-oozing boss the lion's claws burst open."
+    }
+  ],
+  "literalTranslation": "[That lion] fire-eyed, with mouth torn wide open, of huge body — by the thunderbolt-blows of whose claws the broad temple-bosses of the lordly elephant are split asunder —",
+  "idiomaticTranslation": "Fear not even that lion: eyes ablaze like kindled fire, jaws gaping monstrously wide, body immense — the beast whose claws fall like Indra's thunderbolt to burst open the swelling temple-bosses on a great elephant's brow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is pure terror-painting: every word is an accusative epithet left grammatically suspended — the poet withholds both the verb and even the word 'lion' (siṁha) until the next verse, so dread accumulates with nothing yet to resolve it. The portrait escalates in four strokes: first the eyes (pajjaliya-nala-nayaṇaṁ, 'blazing with fire'), then the gaping jaws (dūra-viyāriya-muhaṁ), then sheer mass (mahākāyaṁ), and finally the climactic action — naha-kulisa-ghāya, claws that strike 'like the thunderbolt,' bursting (viyalia) the kumbhasthala of a gajendra. The choice of kuliśa, Indra's vajra, the very byword for unstoppable force, marks this lion as irresistible. The image is a stock convention of Sanskrit-Prakrit poetry (and Mānatuṅga uses it again in the Bhaktāmara's lion verse), but here it does specific structural work: the elephant was itself the preceding peril of this danger-segment, so showing the lion shattering an elephant's proud, mada-swollen brow ranks this beast above the last terror and pushes the dread to its peak. The reader is meant to feel utterly overmatched — precisely so that v.13's turn ('they heed not even the enraged lion, bearing your word as their weapon') lands with full force.",
+    "doctrinalContext": "The verse instances the 'wild beast' peril (siṁha-bhaya) of the mahābhaya catalogue. Its devotional logic rests on abhaya-dāna, the Jina's gift of fearlessness: the more overwhelming the threat is rendered here, the more complete the deliverance promised in the paired verse. There is a quieter reading too — the lion splitting the elephant's kumbhasthala, the seat of mada (rut, and by transference pride/intoxication), figures the conquest of pride by a higher power; the soul sheltered in the Jina stands unmoved even before a force that crushes the mightiest.",
+    "practicalRelevance": "While chanting, the reciter deliberately conjures the most overpowering image of menace the verse offers — and holds it without flinching, knowing the very next breath dissolves it in refuge at Pārśva's feet. The verse trains equanimity: face the terror squarely, then surrender it.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.13 — the deliverance: 'tuha vayaṇa paharaṇa dharā, sīhaṁ kuddhaṁ pi na gaṇanti' (bearing your word as a weapon, they heed not even the enraged lion)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.18 — the recapitulation naming the lion (sīha) among the great perils stilled by Pārśva's name",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Bhaktāmara Stotra (the lion verse) — Mānatuṅga's parallel image of a lion whose claws split an elephant's kumbha, the devotee passing unharmed",
+        "source": "Mānatuṅga, Bhaktāmara Stotra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara invoked here and the refuge-at-his-feet framing that the paired deliverance verse turns on"
+    },
+    {
+      "title": "Bhaktamara Stotra",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Mānatuṅga's authorship and his recurring lion-splits-elephant image, confirming the convention used in this verse"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the tokens — prajvalita, vidārita, kuliśa, ghāta, gajendra, kumbha, sthala, ābhoga"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The whole verse is a chain of accusative-singular epithets with no finite verb; it grammatically governs sīhaṁ ('lion') supplied only in the following verse (v.13), so it must be read as the 'danger-painting' half of a lion verse-pair, not as praise of Pārśva. 'નલ (nala)' is taken as anala ('fire') with the initial a- elided in compound — hence 'fire-eyed'; a minority reading treats it merely as an intensifier of the blaze. The token 'કુંભત્થલાભોઅં' is a sandhi-fused compound kumbha-tthala-ābhoga ('the expanse of the temple-boss'); other recensions spell/split it differently (e.g. kumbhatthalabbhoaṁ, kumbhatthala-ābhoga). All spellings, mātrās and conjuncts are preserved verbatim from the Anchalgachchha source book; web auto-glosses of this verse circulate in corrupt/normalized forms and were not relied upon for the readings."
+}

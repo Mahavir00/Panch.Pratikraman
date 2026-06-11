@@ -1,0 +1,162 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Just as the sun outshines the planets and floods the world with light, the Jain community blazes with the heat of austerity and the light of knowledge, eclipsing all rival teachings — so we cry: blessings on this 'Saṅgha-sun'!",
+  "recitation": "paratitthiya-gaha-paha-nāsagassa, tava-teya-ditta-lesassa,\nṇāṇujjoyassa jae, bhaddaṁ dama-saṅghasūrassa.",
+  "wordByWord": [
+    {
+      "token": "પરતિત્થિય",
+      "translit": "paratitthiya",
+      "gloss": "of the heterodox / rival-sect followers (lit. 'those of another ford')",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. para-tīrthika; para ('other') + tīrthika ('one belonging to a tīrtha/sect'); here the first member of a long genitive compound qualifying the sun.",
+      "notes": "Stands for the doctrinal 'planets' the Saṅgha-sun outshines."
+    },
+    {
+      "token": "ગહ",
+      "translit": "gaha",
+      "gloss": "planets (lit. 'seizers')",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. graha, from √grah 'to seize'; the lesser luminaries (planets) whose feeble light the sun overwhelms.",
+      "notes": "Compounded: para-titthiya-gaha = 'the planets that are the rival sects'."
+    },
+    {
+      "token": "પહ",
+      "translit": "paha",
+      "gloss": "radiance, light",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prabhā 'shining, lustre'; Prakrit loses the conjunct, prabhā → paha.",
+      "notes": ""
+    },
+    {
+      "token": "નાસગસ્સ",
+      "translit": "nāsagassa",
+      "gloss": "of the destroyer / annuller",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nāśaka 'destroyer' (√naś 'to perish' + causative-agent -aka); genitive -assa (Skt. -asya). The full unit: para-tīrthika-graha-prabhā-nāśaka = 'destroyer of the radiance of the planets of rival sects'.",
+      "notes": "Genitive agreeing with sūrassa below."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, ascetic penance",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tapas (preface glossary term); here the first member of tapas-tejas.",
+      "notes": ""
+    },
+    {
+      "token": "તેઅ",
+      "translit": "tea",
+      "gloss": "fiery heat, blazing splendour",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tejas 'heat, brilliance'; the hiatus form te-a is Prakrit for tejo/teya.",
+      "notes": "The sun's literal heat = the Saṅgha's fervour of penance."
+    },
+    {
+      "token": "દિત્ત",
+      "translit": "ditta",
+      "gloss": "blazing, kindled, ablaze",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dīpta (past participle of √dīp 'to blaze'); dīpta → ditta by assimilation.",
+      "notes": ""
+    },
+    {
+      "token": "લેસસ્સ",
+      "translit": "lesassa",
+      "gloss": "of (the sun) whose rays (blaze)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. leśyā here in the sense 'ray, beam of light'; genitive -assa. The unit tava-teya-ditta-lesa = 'whose rays blaze with the fire of austerity'.",
+      "notes": "Deliberate pun: leśyā is also the Jain 'soul-tint' (six leśyās), so the sun's 'rays' double as the Saṅgha's penance-purified aura."
+    },
+    {
+      "token": "નાણુજ્જોયસ્સ",
+      "translit": "ṇāṇujjoyassa",
+      "gloss": "of (the one) who illumines with knowledge",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. jñāna-uddyota; ṇāṇa (jñāna 'knowledge') + ujjoya (uddyota 'illumination, shining-forth'); sandhi ṇāṇa+ujjoya → ṇāṇujjoya; genitive -assa.",
+      "notes": "Maps the sun's daylight onto right-knowledge (jñāna)."
+    },
+    {
+      "token": "જએ",
+      "translit": "jae",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jagati, locative of jagat 'world'; Prakrit locative jae.",
+      "notes": "Some read jaĕ as 'may it conquer/triumph' (√ji); locative 'in the world' is preferred with ṇāṇujjoyassa."
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "auspiciousness! / hail!",
+      "partOfSpeech": "invocation",
+      "etymology": "Preface glossary term (bhadram, 'welfare'); the litany-refrain opening each Saṅgha-praise.",
+      "notes": ""
+    },
+    {
+      "token": "દમ",
+      "translit": "dama",
+      "gloss": "self-restraint, sense-subdual",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dama 'taming, self-control' (√dam 'to subdue'); first member of dama-saṅgha-sūra.",
+      "notes": "Read either 'the self-disciplined Saṅgha-sun' (dama qualifying saṅgha) or, by pun, 'the sun that subdues (darkness)'."
+    },
+    {
+      "token": "સંઘસૂરસ્સ",
+      "translit": "saṅghasūrassa",
+      "gloss": "of the Saṅgha-sun",
+      "partOfSpeech": "compound",
+      "etymology": "saṅgha (preface glossary term) + sūra (Skt. sūrya 'sun', Prakrit sūra); genitive -assa. The grammatical head of all preceding genitives.",
+      "notes": "The four-fold community imaged as the sun."
+    }
+  ],
+  "literalTranslation": "To the destroyer of the radiance of the planets of the rival sects, whose rays blaze with the fiery heat of austerity, whose illumination in the world is knowledge — auspiciousness to the self-disciplined Saṅgha-sun!",
+  "idiomaticTranslation": "Hail the Saṅgha, that radiant Sun! Its rays blaze with the fire of penance; its daylight is pure knowledge poured over the world; and before it the dim 'planets' of every rival creed lose their borrowed shine. Blessings, blessings on this self-mastered Sun of the Saṅgha!",
+  "elaboration": {
+    "verseByVerseCommentary": "The simile-chain turns from the cool MOON of v.9 to its blazing complement, the SUN. The shift is precise and intentional. The moon shone with reflected, borrowed light and its virtue was passive — spotless samyag-darśana as soft moonlight, threatened only by an external Rāhu. The sun owns its light: it is self-luminous, fierce, and active, and it does not merely escape eclipse but actively abolishes lesser glows. So the verse front-loads a single hard-working compound — para-titthiya-gaha-paha-nāsaga — 'destroyer of the radiance of the planets of rival sects.' Where v.9's Rāhu menaced the Saṅgha from without, here the Saṅgha-sun reduces the competing luminaries to invisibility, exactly as the risen sun blanks out the planets that ruled the night. Two rays then define this sun: tava-teya-ditta-lesa, rays 'ablaze with the heat of austerity' (tapas as literal solar fire), and ṇāṇujjoya, 'illumination that is knowledge' (jñāna as daylight). Heat and light — penance and wisdom — are the sun's twin emissions, mapping conduct and knowledge onto one orb. The poet exploits a bilingual pun: lesā renders Sanskrit leśyā in its optical sense 'ray,' while every Jain ear also hears leśyā, the soul's karmic tint — so the sun's rays simultaneously name the Saṅgha's aura, purified to brilliance by tapas. The closing dama ('self-restraint') keeps the image from mere triumphalism: this is a disciplined sun, its blaze governed by self-mastery, and the refrain bhaddaṁ blesses it. The verse thus advances the hymn from the inwardly pure moon to the outwardly conquering sun, preparing the still vaster OCEAN of v.11.",
+    "doctrinalContext": "The verse foregrounds two of the three jewels in their active modes: right-knowledge (jñāna-uddyota) as illuminating daylight, and right-conduct as the fire of tapas, capped by dama (sense-restraint). Its polemical edge — the sun eclipsing the 'planets' of para-tīrthikas — is the hymn's clearest statement that the Jina's dispensation does not merely coexist with rival doctrines but outshines and supersedes them, anticipating the explicit victory over kusamaya (false doctrine) at v.24. Doctrinally the leśyā pun is the gem: in Jain thought the leśyās are six soul-tints conditioning karmic influx; here tapas is said to make the leśyā 'blaze' — the ascetic's heat purifies the aura toward the luminous (śukla) end, so the sun's outer rays and the soul's inner colour are one figure.",
+    "practicalRelevance": "Recited, the verse asks the practitioner to become a small sun: let austerity (tapas) be inner heat and study (jñāna) be inner light, the two together burning off the dimmer 'planets' of rationalised wrong views inside one's own mind. The accent on dama warns that this radiance must be governed by self-restraint, not displayed as zeal — a disciplined, not a scorching, sun.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening Saṅgha-stuti (sūrya gāthā)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī)"
+      },
+      {
+        "text": "Logassa — the 24 Tīrthaṅkaras invoked as 'maker of light in the world' (loga-ujjoyagara)",
+        "source": "Āvaśyaka-sūtra, Caturviṁśati-stava"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra ch.34 (Leśyā-adhyayana) — the six leśyās",
+        "source": "Śvetāmbara Mūlasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tīrthika (definitions)",
+      "url": "https://www.wisdomlib.org/definition/tirthika",
+      "type": "dictionary",
+      "consultedFor": "Sense of para-tīrthika as a member/follower of a rival sect"
+    },
+    {
+      "title": "Leśyā (definitions, incl. Jain philosophy)",
+      "url": "https://www.wisdomlib.org/definition/leshya",
+      "type": "dictionary",
+      "consultedFor": "leśyā as both 'ray/light' and the Jain doctrine of soul-tints — basis of the verse's pun"
+    },
+    {
+      "title": "Tejas (definitions)",
+      "url": "https://www.wisdomlib.org/definition/tejas",
+      "type": "dictionary",
+      "consultedFor": "tejas as fiery heat/brilliance in tava-teya (tapas-tejas)"
+    },
+    {
+      "title": "Sūrya (definitions)",
+      "url": "https://www.wisdomlib.org/definition/surya",
+      "type": "dictionary",
+      "consultedFor": "sūrya/sūra 'sun' as the head of the simile (saṅgha-sūra)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Sanskrit chāyā reconstructed as para-tīrthika-graha-prabhā-nāśakasya, tapas-tejo-dīpta-leśyasya, jñānoddyotasya jagati, bhadraṁ dama-saṅgha-sūryasya. Two genuine ambiguities: (1) lesassa renders leśyā in its optical sense 'ray,' but the Jain doctrinal sense ('soul-tint') is surely intended as wordplay — both kept. (2) dama may compound with saṅgha-sūra ('the self-disciplined Saṅgha-sun') or be heard as the sun's taming/subduing of darkness; and jae may be locative 'in the world' or a verb 'may it triumph' (√ji) — the locative is adopted. Word order, mātrās and conjuncts follow the Anchalgachchha/Vidhipaksha book verbatim and are not normalized. The web-search tool returned unreliable AI-generated paraphrases that were NOT used; only the four verifiable dictionary URLs above were consulted."
+}

@@ -1,0 +1,422 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse pictures Śāntinātha in his earlier life as the world-emperor of Hastināpura, who once commanded a boundless realm — its fourteen jewels, nine treasures, thousands of kings, and vast armies — all the glory he would renounce.",
+  "recitation": "kurū jaṇavaya hatthiṇāura narīsaro, paḍhamaṁ tao mahā cakkavaṭṭi bhoe. mahappabhāvo, jo bāvattari puravara sahassa vara nagara nigama jaṇavaya vai, battīsā rāyavara sahassāṇuyāya-maggo. caudasa vararayaṇa nava mahānihi, causaḍhi sahassa pavara juvaiṇa sundaravai, culasī haya gaya raha saya sahassa sāmī, channavai gāmakoḍi sāmī āsi jo bhārahammi bhayavaṁ.",
+  "wordByWord": [
+    {
+      "token": "કુરૂ",
+      "translit": "kurū",
+      "gloss": "of the Kuru land / Kuru country",
+      "partOfSpeech": "noun",
+      "etymology": "From the proper name Kuru, the janapada whose capital was Hastināpura.",
+      "notes": "Genitive-relational sense, qualifying the realm of which he is lord."
+    },
+    {
+      "token": "જણવય",
+      "translit": "jaṇavaya",
+      "gloss": "country / inhabited region (janapada)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇavaya < Sanskrit janapada, 'a peopled territory'.",
+      "notes": "Recurs at token 19 within the compound 'lord of janapadas'."
+    },
+    {
+      "token": "હત્થિણા",
+      "translit": "hatthiṇā",
+      "gloss": "Hastina- (first half of Hastināpura)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit hatthi < Sanskrit hastin, 'elephant'; the city named for elephants.",
+      "notes": "Joins with the next token 'ura' to form the place-name Hastināpura."
+    },
+    {
+      "token": "ઉર",
+      "translit": "ura",
+      "gloss": "-pura (city); completes Hastina-pura",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit -ura < Sanskrit -pura, 'town, city'.",
+      "notes": "Printed separately by the book; reads continuously as hatthiṇāura = Hastināpura."
+    },
+    {
+      "token": "નરીસરો",
+      "translit": "narīsaro",
+      "gloss": "lord of men, sovereign",
+      "partOfSpeech": "noun",
+      "etymology": "nara ('man') + īsara (< Sanskrit īśvara, 'lord') = narendra/nareśvara.",
+      "notes": "Names Śāntinātha as the reigning king of Hastināpura."
+    },
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "first, at first",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍhama < Sanskrit prathama, 'first'.",
+      "notes": "Adverbial: 'first' he was king, then (tao) a cakravartin enjoying empire."
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "then, thereafter",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tao < Sanskrit tataḥ, 'then, from that'.",
+      "notes": "Marks the progression king → universal emperor."
+    },
+    {
+      "token": "મહા",
+      "translit": "mahā",
+      "gloss": "great",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit mahā- 'great', prefixed to cakkavaṭṭi.",
+      "notes": ""
+    },
+    {
+      "token": "ચક્કવટ્ટિ",
+      "translit": "cakkavaṭṭi",
+      "gloss": "universal emperor (cakravartin)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cakkavaṭṭi < Sanskrit cakravartin, 'he by whom the wheel (cakra) is turned'.",
+      "notes": "Defined in the preface glossary; used here without re-glossing."
+    },
+    {
+      "token": "ભોએ",
+      "translit": "bhoe",
+      "gloss": "enjoyments, imperial pleasures (bhoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhoa < Sanskrit bhoga, 'enjoyment, possession'.",
+      "notes": "'Enjoyed the bhogas of a great cakravartin.'"
+    },
+    {
+      "token": "મહપ્પભાવો",
+      "translit": "mahappabhāvo",
+      "gloss": "of great majesty / mighty power",
+      "partOfSpeech": "compound",
+      "etymology": "mahā + pabhāva (< Sanskrit prabhāva, 'power, glory') = mahā-prabhāva.",
+      "notes": "Epithet introducing the long relative clause that follows."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo < Sanskrit yaḥ, relative pronoun 'who'.",
+      "notes": "Opens the relative clause completed by 'āsi' (was) near the verse-end."
+    },
+    {
+      "token": "બાવત્તરિ",
+      "translit": "bāvattari",
+      "gloss": "seventy-two",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit bāvattari < Sanskrit dvāsaptati, 'seventy-two'.",
+      "notes": "72,000 great cities — a standard cakravartin figure."
+    },
+    {
+      "token": "પુરવર",
+      "translit": "puravara",
+      "gloss": "excellent cities",
+      "partOfSpeech": "compound",
+      "etymology": "pura ('city') + vara ('best') = pura-vara.",
+      "notes": ""
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra, 'thousand'.",
+      "notes": "With bāvattari = seventy-two thousand."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choice",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vara, 'best, choicest'.",
+      "notes": "Qualifies the following nagara/nigama."
+    },
+    {
+      "token": "નગર",
+      "translit": "nagara",
+      "gloss": "towns, walled cities",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit nagara, 'town'.",
+      "notes": ""
+    },
+    {
+      "token": "નિગમ",
+      "translit": "nigama",
+      "gloss": "market-towns, mercantile towns",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit nigama, 'market-town, trading station'.",
+      "notes": "Nagara and nigama together evoke the full spread of settlements."
+    },
+    {
+      "token": "જણવય",
+      "translit": "jaṇavaya",
+      "gloss": "countries, territories",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇavaya < Sanskrit janapada.",
+      "notes": "Object of vai ('lord') in the next token."
+    },
+    {
+      "token": "વઇ",
+      "translit": "vai",
+      "gloss": "lord, master (pati)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vai < Sanskrit pati, 'lord'.",
+      "notes": "'Lord of the best cities, towns, market-towns and countries.'"
+    },
+    {
+      "token": "બત્તીસા",
+      "translit": "battīsā",
+      "gloss": "thirty-two",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit battīsā < Sanskrit dvātriṁśat, 'thirty-two'.",
+      "notes": "32,000 vassal kings — a fixed cakravartin attribute."
+    },
+    {
+      "token": "રાયવર",
+      "translit": "rāyavara",
+      "gloss": "the best of kings",
+      "partOfSpeech": "compound",
+      "etymology": "rāya (< Sanskrit rājan, 'king') + vara ('best').",
+      "notes": ""
+    },
+    {
+      "token": "સહસ્સાણુ",
+      "translit": "sahassāṇu",
+      "gloss": "thousand, after / behind",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of sahassa ('thousand') + aṇu- (< Sanskrit anu-, 'following, behind').",
+      "notes": "battīsā rāyavara sahassa = thirty-two thousand kings; aṇu- carries into the next token."
+    },
+    {
+      "token": "યાયમગ્ગો",
+      "translit": "yāyamaggo",
+      "gloss": "following on (his) path / attended in his train",
+      "partOfSpeech": "compound",
+      "etymology": "(aṇu-)yāya (< anu-yāta, 'gone after') + magga (< Sanskrit mārga, 'path') = anuyāta-mārga.",
+      "notes": "The 32,000 kings walk behind him along his road — i.e. attend the emperor."
+    },
+    {
+      "token": "ચઉદસ",
+      "translit": "caudasa",
+      "gloss": "fourteen",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit caudasa < Sanskrit caturdaśa, 'fourteen'.",
+      "notes": "The fourteen ratnas of a cakravartin."
+    },
+    {
+      "token": "વરરયણ",
+      "translit": "vararayaṇa",
+      "gloss": "excellent jewels (ratna)",
+      "partOfSpeech": "compound",
+      "etymology": "vara ('best') + rayaṇa (< Sanskrit ratna, 'jewel').",
+      "notes": "The cakravartin's 14 ratnas (cakra, queen, minister, elephant, horse, gem, etc.)."
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "nine",
+      "partOfSpeech": "numeral",
+      "etymology": "Sanskrit nava, 'nine'.",
+      "notes": ""
+    },
+    {
+      "token": "મહાનિહિ",
+      "translit": "mahānihi",
+      "gloss": "great treasures (mahānidhi)",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + nihi (< Sanskrit nidhi, 'treasure').",
+      "notes": "The nava-nidhi, nine inexhaustible treasures that obey the emperor."
+    },
+    {
+      "token": "ચઉસઢિ",
+      "translit": "causaḍhi",
+      "gloss": "sixty-four",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit causaḍhi < Sanskrit catuḥṣaṣṭi, 'sixty-four'.",
+      "notes": "64,000 women of the imperial household."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra.",
+      "notes": "causaḍhi sahassa = sixty-four thousand."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "most excellent, foremost",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pavara < Sanskrit pravara, 'choicest'.",
+      "notes": ""
+    },
+    {
+      "token": "જુવઇણ",
+      "translit": "juvaiṇa",
+      "gloss": "of young women (yuvati)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit juvaï < Sanskrit yuvati, 'young woman'.",
+      "notes": "Genitive plural governed by sundaravai."
+    },
+    {
+      "token": "સુંદરવઇ",
+      "translit": "sundaravai",
+      "gloss": "lord of the beautiful (women)",
+      "partOfSpeech": "compound",
+      "etymology": "sundara ('beautiful') + vai (< pati, 'lord').",
+      "notes": "'Lord of the sixty-four thousand foremost beautiful young women.'"
+    },
+    {
+      "token": "ચુલસી",
+      "translit": "culasī",
+      "gloss": "eighty-four",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit culasī < Sanskrit caturaśīti, 'eighty-four'.",
+      "notes": "With saya-sahassa (lakh) below = 84 lakh each of horses, elephants, chariots."
+    },
+    {
+      "token": "હય",
+      "translit": "haya",
+      "gloss": "horses",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit haya, 'horse'.",
+      "notes": ""
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "elephants",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaya < Sanskrit gaja, 'elephant'.",
+      "notes": ""
+    },
+    {
+      "token": "રહ",
+      "translit": "raha",
+      "gloss": "chariots",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raha < Sanskrit ratha, 'chariot'.",
+      "notes": "haya-gaya-raha: the threefold force (with foot-soldiers, the caturaṅga army)."
+    },
+    {
+      "token": "સય",
+      "translit": "saya",
+      "gloss": "hundred",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit saya < Sanskrit śata, 'hundred'.",
+      "notes": "saya-sahassa = hundred-thousand = one lakh."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra.",
+      "notes": "culasī saya-sahassa = eighty-four lakh of each conveyance."
+    },
+    {
+      "token": "સામી",
+      "translit": "sāmī",
+      "gloss": "master, lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmī < Sanskrit svāmin, 'lord, owner'.",
+      "notes": "Lord of the 84-lakh horses, elephants and chariots."
+    },
+    {
+      "token": "છન્નવઇ",
+      "translit": "channavai",
+      "gloss": "ninety-six",
+      "partOfSpeech": "numeral",
+      "etymology": "Prakrit channavai < Sanskrit ṣaṇṇavati, 'ninety-six'.",
+      "notes": "96 crore villages — the canonical extent of a cakravartin's realm."
+    },
+    {
+      "token": "ગામકોડિ",
+      "translit": "gāmakoḍi",
+      "gloss": "crores of villages",
+      "partOfSpeech": "compound",
+      "etymology": "gāma (< Sanskrit grāma, 'village') + koḍi (< Sanskrit koṭi, 'ten million, crore').",
+      "notes": "channavai gāmakoḍi = ninety-six crore villages."
+    },
+    {
+      "token": "સામી",
+      "translit": "sāmī",
+      "gloss": "lord, master",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmī < Sanskrit svāmin.",
+      "notes": "Repeated to seal the litany: lord of all these dominions."
+    },
+    {
+      "token": "આસિજ્જો",
+      "translit": "āsi jo",
+      "gloss": "(he) was, who",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi of āsi (< Sanskrit āsīt, 'was', 3rd sg. past) + jo (relative 'who').",
+      "notes": "Closes the long relative clause opened by 'jo' (token 12): 'who was [all this]'."
+    },
+    {
+      "token": "ભારહમ્મિ",
+      "translit": "bhārahammi",
+      "gloss": "in Bharata (-kṣetra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhāraha (< Sanskrit bhārata) + locative -mmi, 'in Bhārata'.",
+      "notes": "The continent of Bharata, the human realm where cakravartins arise."
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Blessed One (bhagavān)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhayavaṁ < Sanskrit bhagavān, 'venerable, blessed'.",
+      "notes": "Caps the verse: this very emperor is the Blessed Jina Śāntinātha."
+    }
+  ],
+  "literalTranslation": "Lord of men of the Kuru land, of Hastināpura — first a king, then a great cakravartin enjoying empire; of mighty majesty, who was lord of seventy-two thousand choice cities, fine towns, market-towns and countries; behind whom thirty-two thousand of the best kings walked in his train; lord of the fourteen excellent jewels and nine great treasures; lord of sixty-four thousand foremost lovely young women; master of eighty-four lakh horses, elephants and chariots; lord of ninety-six crore villages — such, in Bhārata, was the Blessed One.",
+  "idiomaticTranslation": "Sovereign of the Kuru land and of Hastināpura, first a king and then a world-conquering emperor steeped in imperial splendour — of boundless majesty was He: master of seventy-two thousand glorious cities, towns and trading-marts and all their countries; in whose train walked thirty-two thousand vassal kings; bearer of the fourteen jewels and the nine great treasures; lord of sixty-four thousand peerless royal women; commander of eighty-four lakh horses, elephants and chariots; ruler of ninety-six crore villages. Such, here in Bhārata, was the Blessed Śāntinātha — before He laid it all down.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.9 opened the royal portrait with elephant-and-throne imagery and v.10 bowed to Ajita, v.11 now floods the page with the full inventory of Śāntinātha's imperial sovereignty as a cakravartin of Hastināpura. The poet does not merely call him an emperor; he counts the empire out, number by canonical number: seventy-two thousand cities, thirty-two thousand attendant kings, the fourteen jewels (ratna) and nine treasures (nidhi), sixty-four thousand women, eighty-four lakh each of horses, elephants and chariots, and ninety-six crore villages. These are the fixed, scripturally standardized attributes of every cakravartin, and reciting them is itself an act of devotional precision — the hymn proving its subject's greatness by the very completeness of the tally. The rhetorical engine is a single long relative clause: 'jo… āsi' — 'He who *was* all this' — held in suspension across the whole verse and snapped shut only at the end with 'āsi jo bhārahammi bhayavaṁ.' That delayed verb is the verse's hinge. Every glittering item hangs in the past tense, and the final word, 'bhayavaṁ' (the Blessed One), quietly reframes the entire catalogue: this overwhelming worldly fortune is named only to show whose it once was, and who walked away from it. The verse thus advances the alternating Ajita/Śānti design by giving Śāntinātha his defining biographical signature — the emperor-turned-Tīrthaṅkara — setting up v.12's prayer to him for peace (śānti).",
+    "doctrinalContext": "The verse rests on a distinctively Jain teaching: Śāntinātha is one of only three souls in this descending era to unite in a single lifetime the offices of Tīrthaṅkara, cakravartin, and kāmadeva (supreme bodily beauty). The cakravartin is counted among the sixty-three śalākāpuruṣas (illustrious beings), the summit of worldly attainment. By heaping every emblem of that summit upon Śāntinātha and then sealing it with the past tense and the title 'bhagavān,' the verse stages the cardinal Jain contrast between bhoga (enjoyment, possession) and tyāga/vairāgya (renunciation, dispassion). The fourteen jewels and nine treasures — the very apparatus of total material dominion — are recited not to glorify wealth but to measure the magnitude of what was surrendered for the path to liberation. Sovereignty over ninety-six crore villages is, in the Jain reckoning, still saṁsāra; the Blessed One's true greatness lies in renouncing it.",
+    "practicalRelevance": "For the reciter, this verse is a meditation on impermanence and detachment. One mentally tallies the largest fortune imaginable — empire, armies, treasures — and then watches it dissolve into the past tense of a Jina who let it go. The lesson is anitya-bhāvanā: even the supreme worldly prize is transient and worth renouncing. Invoking 'Śānti' the emperor who became 'Śānti' the peace-giver, the practitioner is steered from craving toward the inward, fearless peace the whole hymn seeks.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭi-śalākā-puruṣa-caritra, Parvan V (life of Śāntinātha as Tīrthaṅkara and cakravartin)",
+        "source": "Hemacandra; tr. Helen M. Johnson, Gaekwad's Oriental Series"
+      },
+      {
+        "text": "Standard enumeration of the cakravartin's 14 ratnas and 9 nidhis",
+        "source": "Jaina cosmological tradition (e.g. Tiloyapaṇṇattī / Jambūdvīpa-prajñapti)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Śāntinātha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shantinatha",
+      "type": "scholarship",
+      "consultedFor": "Śāntinātha as 16th Tīrthaṅkara who was simultaneously a cakravartin born in Hastināpura, possessing the 'fourteen jewels' (ratna) and 'nine treasures' (nidhi) before renunciation."
+    },
+    {
+      "title": "Chakravarti (Sanskrit term) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chakravarti_(Sanskrit_term)",
+      "type": "scholarship",
+      "consultedFor": "Definition and standard attributes of the Jain cakravartin (14 ratnas, 9 nidhis, vast retinue) underlying the verse's numerology."
+    },
+    {
+      "title": "Jain eLibrary (JainQQ) — Jaina stotra anthologies & Prakrit lexica",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Ajitaśānti Stava recensions and Prakrit word-forms (sahassa, koḍi, rayaṇa, nihi) for the per-token glosses."
+    },
+    {
+      "title": "Hastinapur — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hastinapur",
+      "type": "scholarship",
+      "consultedFor": "Identification of Hastināpura as the Kuru-land capital and birthplace associated with Śāntinātha."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is a compound-dense enumeration in Prakrit/Apabhraṁśa; book orthography (e.g. 'હત્થિણા ઉર' split across two printed tokens for Hastināpura, 'સહસ્સાણુ યાયમગ્ગો' splitting the sandhi anuyāta-mārga, and 'આસિજ્જો' fusing āsi + jo) is preserved verbatim and segmented as printed. The numbers (72,000 cities; 32,000 kings; 14 jewels; 9 treasures; 64,000 women; 84 lakh horses/elephants/chariots; 96 crore villages) are the canonical fixed attributes of a cakravartin and are consistent across Jain sources. 'āsijjo' is read as āsi ('was') closing the relative clause opened by 'jo' in line 2; an alternative parsing takes the doubled -jj- as merely emphatic. Web results for the exact Prakrit line were partly unreliable/AI-generated and were not relied upon beyond the doctrinally standard facts corroborated by the cited encyclopaedic sources."
+}

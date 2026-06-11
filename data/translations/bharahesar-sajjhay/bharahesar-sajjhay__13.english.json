@@ -1,0 +1,156 @@
+{
+  "shlokaId": "bharahesar-sajjhay/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "These and all such great, perfectly virtuous women live on in glory — the drum of their fame still sounds through the whole universe.",
+  "recitation": "iccāi mahāsaïō, jayanti akalaṅka-sīla-kaliāō; ajja vi vajjaï jāsiṁ, jasa-paḍaho tihuaṇe sayale.",
+  "wordByWord": [
+    {
+      "token": "ઇચ્ચાઇ",
+      "translit": "iccāi",
+      "gloss": "these and the like, and so forth, et cetera",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit for Skt ity-ādi (iti 'thus, these' + ādi 'beginning, and the rest'); the 'i' of iti is doubled in the conjunct iccā-.",
+      "notes": "A gathering word that closes an open-ended list: 'these (just-named satīs) and all others of their kind.' Not a proper name — some popular sources wrongly read it as a satī called 'Ichhāi.'"
+    },
+    {
+      "token": "મહાસઇઓ",
+      "translit": "mahāsaïō",
+      "gloss": "the great satīs (mahāsatī), women of spotless conduct (nom. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahāsaī (Skt mahāsatī = mahā 'great' + satī 'virtuous/chaste woman'), nom. pl. -aïō < -atyaḥ.",
+      "notes": "Subject of jayanti; resumes the whole roll-call of satīs from vv.8–12."
+    },
+    {
+      "token": "જયંતિ",
+      "translit": "jayanti",
+      "gloss": "they are victorious, they ever triumph, they prevail",
+      "partOfSpeech": "verb",
+      "etymology": "Skt √ji 'to conquer', jayanti (pres. 3rd pl., active); Prakrit retains the form.",
+      "notes": "Present tense, not past: the satīs 'are victorious' even now — the grammatical heart of the phala."
+    },
+    {
+      "token": "અકલંક",
+      "translit": "akalaṅka",
+      "gloss": "stainless, spotless, without blemish",
+      "partOfSpeech": "adj",
+      "etymology": "Skt a- (privative) + kalaṅka 'stain, spot, blot'; first member of the compound akalaṅka-sīla-kaliāō.",
+      "notes": "Qualifies sīla; the moral 'spotlessness' that defines a satī."
+    },
+    {
+      "token": "સીલ",
+      "translit": "sīla",
+      "gloss": "śīla — right conduct, moral discipline, chastity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt śīla 'character, conduct, virtue'; Prakrit sīla. Middle member of the compound.",
+      "notes": "The single virtue named for the whole panel; here the thing they are 'adorned with'."
+    },
+    {
+      "token": "કલિઆઓ",
+      "translit": "kaliāō",
+      "gloss": "adorned with, endowed with, furnished with (nom. pl. fem.)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt kalita 'possessed of, furnished with, accompanied by' (√kal); Prakrit p.p.p. kaliā, nom. pl. fem. -āō.",
+      "notes": "Attribute of mahāsaïō; the whole compound = 'endowed with stainless śīla.'"
+    },
+    {
+      "token": "અજ્જવિ",
+      "translit": "ajja vi",
+      "gloss": "even today, even now, to this very day",
+      "partOfSpeech": "adverb",
+      "etymology": "ajja (Skt adya 'today') + vi (Skt api 'even, also'), fused by sandhi.",
+      "notes": "Two tokens written together; 'vi' (api) carries the force 'even (after all this time).'"
+    },
+    {
+      "token": "વજ્જઇ",
+      "translit": "vajjaï",
+      "gloss": "is sounded, is beaten, resounds (of a drum)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt √vad caus./pass. vādyate 'is made to sound, is played'; Prakrit vajjaï (pres. 3rd sg.).",
+      "notes": "Passive present — the drum 'is (still) being struck,' i.e. their fame keeps resounding of itself."
+    },
+    {
+      "token": "જાસિં",
+      "translit": "jāsiṁ",
+      "gloss": "of whom, whose (gen. pl., referring to the satīs)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt relative yāsām (gen. pl. fem. of yad); Prakrit jāsiṁ.",
+      "notes": "Relative linking back to mahāsaïō: 'these satīs… whose drum of fame…'."
+    },
+    {
+      "token": "જસ",
+      "translit": "jasa",
+      "gloss": "fame, glory, renown (yaśas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt yaśas 'fame'; Prakrit jasa. First member of the compound jasa-paḍaho.",
+      "notes": "Joined with paḍaho as the standing image jasa-paḍaha, 'drum of fame.'"
+    },
+    {
+      "token": "પડહો",
+      "translit": "paḍaho",
+      "gloss": "drum, kettle-drum (of proclamation)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt paṭaha 'war-drum, herald's drum'; Prakrit paḍaha, nom. sg. -o.",
+      "notes": "The paṭaha was beaten to broadcast a royal proclamation — hence 'the drum that publishes their fame.'"
+    },
+    {
+      "token": "તિહુઅણે",
+      "translit": "tihuaṇe",
+      "gloss": "in the three worlds (tribhuvana)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt tribhuvana 'the three worlds' (tri 'three' + bhuvana 'world'); Prakrit tihuaṇa, loc. sg. -e.",
+      "notes": "Locative of extent: 'throughout the three worlds.'"
+    },
+    {
+      "token": "સયલે",
+      "translit": "sayale",
+      "gloss": "whole, entire, all of",
+      "partOfSpeech": "adj",
+      "etymology": "Skt sakala 'complete, whole'; Prakrit sayala, loc. sg. -e agreeing with tihuaṇe.",
+      "notes": "'…across the entire three worlds' — emphasizes the totality of their renown."
+    }
+  ],
+  "literalTranslation": "These and the like — the great satīs, adorned with stainless śīla — are victorious; whose drum of fame even today is sounded throughout the entire three worlds.",
+  "idiomaticTranslation": "And all such great satīs — women clothed in conduct without a single stain — stand ever victorious; to this very day the drum of their fame is beaten and resounds across the whole of the three worlds.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the phala-gāthā that seals the satī panel, answering the men's phala (v.7) as the litany's second great close. Its work is done by two small grammatical choices. First, 'iccāi' (ity-ādi) — 'these and the like' — quietly opens the just-finished roll-call (Sulasā… the seven sisters of v.12) into an unbounded set: every steadfast woman, named or unnamed, is folded in. Second, the verbs are present, not past. 'Jayanti' — 'they are victorious' — declares the satīs not as figures who were once admirable but as ones who triumph now; and 'ajja vi vajjaï' — 'even today it is (still) being sounded' — keeps the action live. Between subject and verb sits the verse's single moral claim: 'akalaṅka-sīla-kaliāō,' adorned with stainless śīla. Notice the economy: a whole panel of lives is summed in one virtue, and that virtue is enough to make them 'jaya,' victors. The closing image, the jasa-paḍaha, is precise. A paṭaha is a herald's drum beaten to publish a king's decree; here no herald beats it — it sounds of itself, 'vajjaï' (passive), because spotless conduct broadcasts its own proclamation. Where v.7 measured the men's worth by what their remembrance dissolves (pāva-pabandhā), v.13 measures the women's by what their virtue raises and sustains — a fame that outlives every age and fills the sayala tihuaṇa, the entire three worlds. Dissolution and endurance: the two panels thus close on complementary fruits of a remembered life.",
+    "doctrinalContext": "The verse rests the whole worth of the satīs on śīla alone, and on śīla qualified as akalaṅka. In Jain ethics śīla is not merely chastity but the unbroken integrity of conduct; calling it 'stainless' aligns it with the soul's own intrinsic, blemishless nature (śuddha-svabhāva), so that a life of perfect śīla is a life lived in accord with the self. The reward named is not heaven or liberation but jasa — fame across the three worlds. This must be read carefully against the Jain wariness of fame as a karmic snare: the point is not that the satīs sought renown, but that flawless conduct emits renown spontaneously, as a drum sounds when struck. That spontaneous, self-publishing fame is itself a mode of nāma-grahaṇa: because the worlds keep 'beating the drum' of these names, the very remembrance the sutra enjoins is shown to be cosmically self-sustaining. The present-tense 'jayanti' also encodes a doctrinal optimism — attained virtue is timeless; what was perfected is never undone.",
+    "practicalRelevance": "Having named individual satīs in the preceding gāthās, the reciter here lets 'iccāi' gather in every virtuous woman beyond the list — including, by implication, the unnamed steadfast women of one's own life and lineage. Chant it as a resolution rather than a report: the verb is present, so make the aspiration present — that one's own śīla, kept akalaṅka in small daily matters, join the same enduring 'drum.' It teaches that the fruit worth wanting is not to be famous but to be so unblemished in conduct that goodness speaks for itself.",
+    "crossReferences": [
+      {
+        "text": "Bharahesar Sajjhāy v.7 — the parallel phala-gāthā closing the mahāsattva panel ('…at the taking of whose names the bonds of sin dissolve')",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra, on śīla as the conduct that secures and proclaims a soul's worth",
+        "source": "Uttarādhyayana (Śvetāmbara Mūlasūtra)"
+      },
+      {
+        "text": "Paṭaha as proclamation-drum imagery for fame (yaśas-paṭaha)",
+        "source": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: √ji (jayanti), vādyate (vajjaï), yaśas, paṭaha, tribhuvana, sakala, kalita, ity-ādi."
+    },
+    {
+      "title": "Bharahesar Sajjhāya — Jain Sutras and Stotras (text with English meaning)",
+      "url": "https://jainknowledge.com/media-information/75/jain_sutras/BHARAHESAR-SAJJHAYA",
+      "type": "translation",
+      "consultedFor": "Verifying the verbatim final gāthā and a published English sense of the phala verse ('great satīs of impeccable conduct… fame across the three worlds')."
+    },
+    {
+      "title": "Bharahesar nī Sajjāy — full Gujarati/Hindi text (LokDayro)",
+      "url": "https://www.lokdayro.com/post/bharahesar-ni-sajjay/",
+      "type": "translation",
+      "consultedFor": "Cross-checking the Gujarati/Devanagari reading of the final gāthā and the running order of the satī roll-call it seals."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Reading is secure. Caution on two popular mis-parsings: (1) 'iccāi' is ity-ādi ('these and the like'), a list-closing particle, NOT a satī's proper name; (2) 'jayanti' here is the finite verb 'they are victorious' (√ji), not the proper name 'Jayantī' — though a satī Jayantī exists elsewhere, the syntax here is verbal. 'vajjaï' is taken as the passive of √vad/vādyate ('is sounded/beaten,' of the paḍaha-drum); some glosses loosely render it 'is proclaimed/heard,' with the same overall sense. Minor orthographic variants across recensions (e.g. mahāsaïō/mahāsaīō, jāsiṁ/jāsi) do not affect meaning; this commentary follows the book's verbatim Gujarati reading. The compound is parsed akalaṅka-sīla-kaliāō ('endowed with stainless śīla')."
+}

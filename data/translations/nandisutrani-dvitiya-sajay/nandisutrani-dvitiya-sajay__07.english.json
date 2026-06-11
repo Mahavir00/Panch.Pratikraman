@@ -1,0 +1,158 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the teacher Ārya Dharma, then to Bhadragupta, and then to Ārya Vajra, whose austerity and self-discipline made him as unbreakable as a diamond.",
+  "recitation": "vandāmi ajjadhammaṁ, vande tatto ya bhaddaguttaṁ ca; tatto ya ajjavaïraṁ, tava niyama guṇehiṁ vaïrasamaṁ.",
+  "wordByWord": [
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow / I reverently salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Sanskrit √vand (to praise, salute); 1st person singular present, vandāmi = 'I venerate'.",
+      "notes": "The hymn's governing act; here it opens the verse and is echoed by vande in the next clause."
+    },
+    {
+      "token": "અજ્જધમ્મં",
+      "translit": "ajja-dhammaṁ",
+      "gloss": "Ārya Dharma (the venerable teacher Dharma) — accusative object of 'I bow'",
+      "partOfSpeech": "compound",
+      "etymology": "ajja (Skt. ārya, 'noble, venerable') + dhamma (Skt. dharma) as a proper name; accusative singular -aṁ.",
+      "notes": "ajja- is the honorific borne by each ācārya named in this stretch of the lineage."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √vand, 1st person singular ātmanepada vande; metrically lighter variant of vandāmi.",
+      "notes": "The doubled verb (vandāmi … vande) is rhetorical insistence, not two different acts."
+    },
+    {
+      "token": "તત્તો",
+      "translit": "tatto",
+      "gloss": "thereafter, next (from him / from there)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit from Skt. tataḥ ('from that, thereupon'); ablative-derived adverb of sequence.",
+      "notes": "Marks succession in the paṭṭa-order: the next holder after the one just named."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit from Skt. ca ('and'), the y-form used after vowels for euphony.",
+      "notes": "Conjoins the second homage to the first."
+    },
+    {
+      "token": "ભદ્દગુત્તં",
+      "translit": "bhadda-guttaṁ",
+      "gloss": "Bhadragupta — accusative object of 'I bow'",
+      "partOfSpeech": "compound",
+      "etymology": "bhadda (Skt. bhadra, 'auspicious, good') + gutta (Skt. gupta, 'guarded'); proper name, accusative -aṁ.",
+      "notes": "Bhadragupta is named in the preface's vv.3–8 stretch of gotra-marked ācāryas."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and (too)",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca, 'and'; here the consonantal form closing the first half-line.",
+      "notes": "Reinforces ya; 'and Bhadragupta too'."
+    },
+    {
+      "token": "તત્તોય",
+      "translit": "tatto ya",
+      "gloss": "and thereafter (from him too)",
+      "partOfSpeech": "adverb",
+      "etymology": "sandhi-written tatto (Skt. tataḥ) + ya (Skt. ca); the two words printed as one token.",
+      "notes": "Repetition of tatto ya knits the chain tight: each teacher follows from the last."
+    },
+    {
+      "token": "અજ્જવઇરં",
+      "translit": "ajja-vaïraṁ",
+      "gloss": "Ārya Vajra (Vajrasvāmī) — accusative object of 'I bow'",
+      "partOfSpeech": "compound",
+      "etymology": "ajja (Skt. ārya) + vaïra (Skt. vajra, 'diamond/thunderbolt') as proper name; accusative -aṁ.",
+      "notes": "His name vaïra/vajra sets up the closing pun vaïra-samaṁ."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. tapas, 'penance, ascetic discipline'; stem in compound.",
+      "notes": "Read here as tapas, not the homophonous possessive 'your'; it pairs with niyama as the qualities praised."
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "vow, self-restraint",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. niyama, 'rule, restraint, binding observance'; stem in compound.",
+      "notes": "tapa-niyama together name the ascetic virtues that made Vajra adamantine."
+    },
+    {
+      "token": "ગુણેહિં",
+      "translit": "guṇehiṁ",
+      "gloss": "by/through (his) qualities",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. guṇa ('quality, virtue'), Prakrit instrumental plural -ehiṁ ('by means of').",
+      "notes": "Instrumental: it is by tapas-and-niyama qualities that he equals vajra."
+    },
+    {
+      "token": "વઇરસમં",
+      "translit": "vaïra-samaṁ",
+      "gloss": "equal to vajra — i.e. diamond-/thunderbolt-like (unbreakable)",
+      "partOfSpeech": "compound",
+      "etymology": "vaïra (Skt. vajra, 'diamond/adamant/thunderbolt') + sama ('equal to, like'); accusative -aṁ agreeing with Vajra.",
+      "notes": "Deliberate pun: Ārya Vaïra is vaïra-sama — the teacher named Vajra is himself as hard and pure as a diamond."
+    }
+  ],
+  "literalTranslation": "I bow to Ārya Dharma; I bow next, and to Bhadragupta too; and thereafter to Ārya Vajra — by the qualities of austerity and self-restraint, equal to vajra (a diamond).",
+  "idiomaticTranslation": "I bow to the venerable Ārya Dharma; next I bow to Bhadragupta as well; and after him to Ārya Vajra — who, by his austerity and unwavering discipline, was himself as adamantine as the diamond whose name he bore.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā advances the succession-roll by three steps — Ārya Dharma, Bhadragupta, Ārya Vajra — and is structured by the relentless adverb of sequence: tatto ya … tatto ya, 'and then … and then', so the listener feels each teacher rise from the seat of the one before. The verse spends only a clause on the first two names, then halts and lingers on the third, and the disproportion is the point: it is building toward Ārya Vajra, who is given the verse's one full epithet. That epithet is a pun the whole couplet has been preparing. His name, vaïra, is the Prakrit for vajra — diamond, the adamant, the thunderbolt — and the poet closes by calling him vaïra-samaṁ, 'equal to vajra'. The man named Diamond is declared diamond-hard. But the verse is careful to say why: not by birth or marvel but tava-niyama-guṇehiṁ, 'through the qualities of austerity and vow-discipline'. The instrumental is doctrinally exact — his adamantine nature is earned, the product of tapas and niyama, not innate. The doubling vandāmi … vande in the first line is devotional emphasis, the worshipper bowing twice over rather than once. Coming immediately after the homage to Ārya Maṅgu in the previous verse and just before Ārya Rakṣita in the next — Vajra's own celebrated pupil-in-tradition — this verse sits at the hinge where the early paṭṭāvalī passes into the great guardians of the Kālika-anuyoga. Tradition further remembers Ārya Vajra (Vajrasvāmī) as the last full master of the ten pūrvas; the verse does not state this, but its singling-out of him squares with that memory. (~285 words)",
+    "doctrinalContext": "The verse turns a proper name into a teaching on tapas and niyama. In Jain soteriology austerity (tapas) and binding observance (niyama) are not ornamental virtues but the very means of nirjarā — the shedding of karma — and of the steadiness that lets a teacher hold and transmit the canon uncorrupted. By grounding Vajra's diamond-likeness in guṇehiṁ (instrumental), the poet asserts the characteristically Jain principle that spiritual hardness is achieved conduct, not endowment: the same discipline open to any ascetic is what made this master unbreakable. The diamond simile itself — indestructible, flawless, cutting — figures the firmness of restraint that the whole lineage exists to safeguard.",
+    "practicalRelevance": "Reciting this verse, a practitioner is reminded that reverence for a teacher is reverence for what made him worthy — austerity and kept vows — and that these same disciplines, not any special gift, are what render a life steady and 'diamond-like'. One bows not to a name but to a model one can imitate.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, Sthavirāvalī (the succession-roll from which this gāthā is drawn)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction; Jain eLibrary edition"
+      },
+      {
+        "text": "Kalpa-sūtra Sthavirāvalī, naming Ārya Vajra (Vajrasvāmī) and his place in the teacher-lineage",
+        "source": "Bhadrabāhu, Kalpasūtra (Śvetāmbara tradition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-Sadda-Mahaṇṇavo (Prakrit–Hindi Dictionary), H. T. Sheth",
+      "url": "https://archive.org/details/PaiaSaddaMahannavoOCRPlusBookmarks",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for tava (= Skt. tapas), niyama, guṇa, vaïra (= Skt. vajra) and the instrumental -ehiṁ."
+    },
+    {
+      "title": "Prakrit Dictionary (ISJS English translation of Pāia-Sadda-Mahaṇṇavo)",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Confirmation of vandāmi/vande from √vand and the tatto (< tataḥ) adverb of sequence."
+    },
+    {
+      "title": "Tava, Tāva: definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/tava",
+      "type": "dictionary",
+      "consultedFor": "Reading tava as Prakrit tapas (austerity) rather than the possessive homophone in this monastic context."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra (Nandīsūtra)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The Sthavirāvalī succession Ārya Dharma → Bhadragupta → Ārya Vajra and Vajrasvāmī's place in the lineage."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "tava is read as tapas (austerity), parallel to niyama, which the metre and sense support; the identical Prakrit form can mean 'your', but that reading does not fit the eulogy and is rejected here. The closing vaïra-samaṁ is a deliberate pun on Ārya Vajra's name (vajra = diamond/thunderbolt) and is the interpretive crux of the verse. Token તત્તોય is the sandhi-spelled tatto + ya, glossed as two words. The identification of Ārya Vajra with Vajrasvāmī, last knower of the ten pūrvas, is traditional rather than independently historical. Spelling (વઇર with short i, anusvāras, conjuncts) is left verbatim per the book; no normalization applied."
+}

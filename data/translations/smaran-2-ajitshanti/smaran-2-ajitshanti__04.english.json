@@ -1,0 +1,198 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Chanting the name of Lord Ajita, the supreme being, brings true well-being, and praising Lord Śānti, the best of Jinas, awakens steadiness and wisdom and brings peace.",
+  "recitation": "ajia jiṇa suha-pavattaṇaṁ, tava purisuttama nāma kittaṇaṁ; taha ya dhii-mai-ppavattaṇaṁ, tava ya jiṇuttama saṁti kittaṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "અજિઅ",
+      "translit": "ajia",
+      "gloss": "O Ajita (the Unconquered — Ajitanātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit ajia < Sanskrit a-jita, 'not conquered, invincible'; here the vocative naming the 2nd Tīrthaṅkara.",
+      "notes": "Vocative; the name carries its literal sense 'invincible' alongside the proper name."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "O Jina (Conqueror, victor over passions)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'one who has conquered' (root ji, 'to win').",
+      "notes": "Vocative paired with ajia."
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "happiness, well-being, bliss",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suha < Sanskrit sukha, 'ease, happiness'; first member of the compound suha-pavattaṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "પવત્તણં",
+      "translit": "pavattaṇaṁ",
+      "gloss": "bringing-forth, setting in motion, that which promotes",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pavattaṇa < Sanskrit pravartana (pra + √vṛt), 'causing to proceed, promoting'; accusative/predicative -aṁ.",
+      "notes": "suha-pavattaṇaṁ = 'productive of happiness' — qualifies the recitation of the name."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "your",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit/Sanskrit tava, genitive of tvam, 'of you'.",
+      "notes": ""
+    },
+    {
+      "token": "પુરિસુત્તમ",
+      "translit": "purisuttama",
+      "gloss": "O Supreme Person (best among men)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit purisuttama < Sanskrit puruṣottama (puruṣa + uttama), 'highest of beings'; vocative.",
+      "notes": "An epithet of the Tīrthaṅkara, here addressed to Ajita."
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "name",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit nāma, 'name, appellation'.",
+      "notes": "Object of kittaṇaṁ: nāma-kittaṇaṁ, 'proclaiming of the name'."
+    },
+    {
+      "token": "કિત્તણં",
+      "translit": "kittaṇaṁ",
+      "gloss": "proclaiming, glorifying, recitation of praise",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kittaṇa < Sanskrit kīrtana (√kṝt, 'to mention, celebrate'); accusative -aṁ.",
+      "notes": "Same root as kittaïssaṁ in Logassa; the act of singing the Jina's name."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, so too",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Sanskrit tathā, 'thus, in that manner'.",
+      "notes": "Opens the parallel second half, mirroring the first."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca, 'and, also'.",
+      "notes": "Connective; taha ya = 'and likewise'."
+    },
+    {
+      "token": "ધિઇ",
+      "translit": "dhii",
+      "gloss": "fortitude, steadfastness, resolve",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhii < Sanskrit dhṛti (√dhṛ, 'to hold firm'), 'firmness, constancy'.",
+      "notes": "First member of dhii-mai-ppavattaṇaṁ."
+    },
+    {
+      "token": "મઇ",
+      "translit": "mai",
+      "gloss": "intellect, discernment, right understanding",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mai < Sanskrit mati (√man, 'to think'), 'mind, wisdom'.",
+      "notes": "Read as mati ('intellect'), not the homophone 'to me'; paired with dhṛti as a virtue-couplet."
+    },
+    {
+      "token": "પ્પવત્તણં",
+      "translit": "ppavattaṇaṁ",
+      "gloss": "bringing-forth, that which promotes",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pavattaṇa < Sanskrit pravartana; initial conjunct doubled (ppa-) by sandhi after the preceding vowel.",
+      "notes": "Doubled conjunct preserved verbatim per the book's orthography; dhii-mai-ppavattaṇaṁ = 'productive of fortitude and wisdom'."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "your",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit/Sanskrit tava, genitive of tvam.",
+      "notes": "Second occurrence, now addressed to Śānti."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca.",
+      "notes": "tava ya = 'and your'."
+    },
+    {
+      "token": "જિણુત્તમ",
+      "translit": "jiṇuttama",
+      "gloss": "O Best of Jinas",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit jiṇuttama < Sanskrit jinottama (jina + uttama), 'highest of the conquerors'; vocative.",
+      "notes": "Parallels purisuttama; here directed at Śānti."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti (Śāntinātha) / peace",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁti < Sanskrit śānti (√śam, 'to be calm'), 'peace, tranquillity'.",
+      "notes": "Bivalent: the proper name Śāntinātha and the abstract 'peace' simultaneously — object of kittaṇaṁ."
+    },
+    {
+      "token": "કિત્તણં",
+      "translit": "kittaṇaṁ",
+      "gloss": "proclaiming, glorifying, recitation of praise",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kittaṇa < Sanskrit kīrtana; accusative -aṁ.",
+      "notes": "saṁti-kittaṇaṁ = 'the proclaiming of Śānti/of peace', closing the couplet's parallel."
+    }
+  ],
+  "literalTranslation": "O Ajita Jina — productive of well-being [is] the proclaiming of your name, O Supreme Person; and likewise productive of fortitude and wisdom — the proclaiming of your peace (Śānti), O Best of Jinas.",
+  "idiomaticTranslation": "O unconquered Jina Ajita — to sing your name, O highest of beings, brings forth pure well-being; and so too, O finest of Jinas, to sing of you, O Śānti, brings forth steadfast resolve and clear wisdom, and the very peace your name proclaims.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding stanza only sounded the bare homage ('namo ajiya saṁtiṇaṁ'), this verse names what that homage accomplishes — it tells the reciter the fruit of the praise itself. The stanza is built as a tight chiastic parallel: each half pairs a 'bringing-forth' (pavattaṇaṁ) with a 'proclaiming' (kittaṇaṁ). For Ajita, the kīrtana of his name (nāma-kittaṇaṁ) is suha-pavattaṇaṁ — generative of well-being; for Śānti, the kīrtana of his name (saṁti-kittaṇaṁ) is dhii-mai-ppavattaṇaṁ — generative of fortitude and discernment. The two epithets answer each other across the couplet: purisuttama (supreme person) for Ajita, jiṇuttama (best of Jinas) for Śānti. Note the deliberate triple-play on saṁti in 'saṁti kittaṇaṁ': it is at once the name Śāntinātha, the abstract peace he embodies, and the peace the chanting itself confers — so that to proclaim his name is already to receive what is proclaimed. The pairing dhii (dhṛti, steadfast resolve) with mai (mati, right understanding) is pointed: the two faculties a practitioner most needs to hold a vow and to see the path clearly. The verse thus moves the hymn from declaring homage to promising its concrete inner harvest, setting up vv.5–6's call to take refuge.",
+    "doctrinalContext": "The stanza rests on the Jain understanding of nāma-kīrtana: the Jina, being vītarāga, bestows nothing materially; rather, dwelling on his name and qualities purifies the reciter's own bhāva, so the listed fruits — suha, dhṛti, mati, śānti — arise within the devotee, not as gifts handed down. Tellingly, every fruit named here is interior and soteriological (well-being, resolve, discernment, peace), never worldly gain. Dhṛti and mati form a classic Jain pairing of the conative and cognitive supports of right conduct: fortitude to sustain the vows, discernment to apply them — the very ground on which samyak-cāritra and samyak-jñāna stand.",
+    "practicalRelevance": "When reaching this stanza, the reciter can chant with explicit intent: let the saying of Ajita's name settle the mind into well-being, and the saying of Śānti's name strengthen perseverance (dhṛti) in one's vows and sharpen clear understanding (mati), so that the kīrtana itself becomes the peace it speaks of.",
+    "crossReferences": [
+      {
+        "text": "Logassa — 'kittaïssaṁ caüvīsaṁ pi kevalī' (I will proclaim the twenty-four), the same √kīrt act of naming the Jinas",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.), Logassa sūtra"
+      },
+      {
+        "text": "Ajitaśānti Stava v.3 refrain 'namo ajiya saṁtiṇaṁ', which this verse expands by naming the fruit of that homage",
+        "source": "Ajitaśānti Stava (Nandiṣeṇasūri)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Root-forms and senses of pravartana (pavattaṇa), kīrtana (kittaṇa), dhṛti (dhii), mati (mai), and puruṣottama / jinottama."
+    },
+    {
+      "title": "Ajitaśānti (Ajita-śānti) — definition and identification",
+      "url": "https://www.wisdomlib.org/definition/ajitashanti",
+      "type": "scholarship",
+      "consultedFor": "Identification of the Ajitaśānti Stava as a twin hymn to Ajitanātha and Śāntinātha and its place among Jain stotras."
+    },
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Ajitanātha as the 2nd Tīrthaṅkara, supporting the reading of 'ajia' as both name and 'invincible'."
+    },
+    {
+      "title": "Ajitshanti Stavanam (attributed to Nandiṣeṇa Sūri) — edition",
+      "url": "https://epustakalay.com/book/150537-ajitshanti-stavanam-by-nandishen-suri/",
+      "type": "translation",
+      "consultedFor": "Attribution to Nandiṣeṇasūri and corroboration of the hymn's verse text in print editions."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "મઇ (mai) is read as mati ('intellect/discernment'), paired with ધિઇ (dhii = dhṛti); the homophonous Prakrit 'mai' = 'to me' is rejected here on contextual grounds. સંતિ (saṁti) is intentionally bivalent — Śāntinātha and 'peace' — and the rendering preserves both. The doubled initial conjunct in પ્પવત્તણં (ppavattaṇaṁ), arising by sandhi, is kept verbatim per the book's orthography and not normalized to match the single-conjunct પવત્તણં earlier in the verse. Recensions of this hymn vary slightly in spelling/anusvāra; the book's reading is followed. Web searches returned one fabricated 'full text' that did not match the authoritative verse and was disregarded."
+}

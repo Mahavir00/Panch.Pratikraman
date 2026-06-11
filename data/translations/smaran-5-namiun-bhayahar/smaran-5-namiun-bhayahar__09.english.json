@@ -1,0 +1,156 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Eminent people in the world who have perfected the mantra of your name-syllables drive deadly snake-venom far away and treat it as harmlessly as a tiny worm.",
+  "recitation": "mannanti kīḍa-sarisaṁ, dūra paricchūḍha visama visavegā | tuha nāmakkhara phuḍasiddha, manta guruā narā loe ||",
+  "wordByWord": [
+    {
+      "token": "મન્નંતિ",
+      "translit": "mannanti",
+      "gloss": "they consider, they regard (it) as",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit mannanti < Skt. manyante, present 3rd pl. of √man 'to think, regard'",
+      "notes": "The unstated object is the venom of the previous verse's cobra; the subject is narā ('men') in line 2."
+    },
+    {
+      "token": "કીડસરિસં",
+      "translit": "kīḍa-sarisaṁ",
+      "gloss": "like a worm / on a par with an insect",
+      "partOfSpeech": "compound",
+      "etymology": "kīḍa (Skt. kīṭa, 'worm, insect') + sarisa (Skt. sadṛśa, 'similar to'); accusative singular agreeing with the implied venom",
+      "notes": "The hyperbole: the serpent's lethal venom is downgraded to something as negligible as a crawling grub."
+    },
+    {
+      "token": "દૂર",
+      "translit": "dūra",
+      "gloss": "far, to a distance",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. dūra, 'far'; here adverbial, modifying paricchūḍha",
+      "notes": "Reads as a unit with the following word: 'cast far off'."
+    },
+    {
+      "token": "પરિચ્છૂઢ",
+      "translit": "paricchūḍha",
+      "gloss": "driven off, expelled, cast away",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle, pari- (around/away) + a √kṣubh/√chṛd base ('to expel, eject'); Skt. sense parikṣipta / nirasta",
+      "notes": "Bahuvrīhi force: 'those by whom (the venom) has been driven far away,' qualifying narā."
+    },
+    {
+      "token": "વિસમ",
+      "translit": "visama",
+      "gloss": "terrible, treacherous, hard to face",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. viṣama, 'uneven, dire, dangerous'; modifies visavegā",
+      "notes": "Pun-adjacent to visa ('poison') one word later, sharpening the menace."
+    },
+    {
+      "token": "વિસવેગા",
+      "translit": "visa-vegā",
+      "gloss": "the rush / onset-force of the venom",
+      "partOfSpeech": "compound",
+      "etymology": "visa (Skt. viṣa, 'poison') + vega (Skt. vega, 'speed, violent force'); the surging spread of venom through the body",
+      "notes": "Object of paricchūḍha — it is this 'poison-rush' that is hurled away."
+    },
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive of the 2nd person, Skt. tava; addressed to Pārśvanātha",
+      "notes": "Governs nāmakkhara."
+    },
+    {
+      "token": "નામક્ખર",
+      "translit": "nāma-kkhara",
+      "gloss": "name-syllables (the very letters of your name)",
+      "partOfSpeech": "compound",
+      "etymology": "nāma (Skt. nāman, 'name') + akkhara (Skt. akṣara, 'syllable, imperishable letter')",
+      "notes": "The akṣaras themselves, not merely the name's sense, are treated as efficacious."
+    },
+    {
+      "token": "ફુડસિદ્ધ",
+      "translit": "phuḍa-siddha",
+      "gloss": "manifestly perfected, self-evidently efficacious",
+      "partOfSpeech": "compound",
+      "etymology": "phuḍa (Skt. sphuṭa, 'clear, manifest') + siddha (Skt. siddha, 'accomplished, proven, potent'); a 'demonstrably perfected' formula",
+      "notes": "Qualifies manta — a mantra whose power needs no external proof."
+    },
+    {
+      "token": "મંત",
+      "translit": "manta",
+      "gloss": "mantra (sacred efficacious formula)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit manta < Skt. mantra",
+      "notes": "Predicated of tuha nāmakkhara: 'your name-syllables ARE a manifestly-perfected mantra.'"
+    },
+    {
+      "token": "ગુરુઆ",
+      "translit": "guruā",
+      "gloss": "the weighty / eminent ones",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit guruā < Skt. gurukāḥ, 'great, weighty, venerable'; nominative plural qualifying narā",
+      "notes": "Not 'teachers' here but 'men of weight/stature' — those grounded in the perfected name-mantra."
+    },
+    {
+      "token": "નરા",
+      "translit": "narā",
+      "gloss": "men, people",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. narāḥ, nominative plural of nara, 'man'",
+      "notes": "The grammatical subject of mannanti."
+    },
+    {
+      "token": "લોએ",
+      "translit": "loe",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative loe < Skt. loke, from loka, 'world'",
+      "notes": "Locates the claim in lived human experience, not myth."
+    }
+  ],
+  "literalTranslation": "Those weighty men in the world for whom the syllables of your name are a manifestly-perfected mantra — having driven far off the terrible rush of venom — regard it as no more than a worm.",
+  "idiomaticTranslation": "In this world, the great souls for whom the very letters of your name have become a proven, living mantra hurl the deadly surge of venom far away — and reckon it as trifling as a crawling worm.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the 'deliverance' half of the serpent couplet whose terror was painted just before: the hooded, flame-eyed, flickering-tongued cobra of v.8 is here neutralised, and the snake's most lethal property — the racing spread of its venom (visa-vega) — is what gets 'cast far off' (dūra paricchūḍha). The poet's pivot is precise and devotional: deliverance is credited not to an antidote or a charmer's art but to tuha nāmakkhara — the syllables of Pārśva's name. Two compounds carry the theology. Phuḍa-siddha ('manifestly perfected') insists the name-mantra is not a formula awaiting validation; its potency is already self-evident, attested 'in the world' (loe) by those who wield it. And guruā ('the weighty ones') describes the reciters: people made spiritually substantial by that very mantra, so that venom which would fell ordinary flesh registers to them as kīḍa-sarisaṁ — on a par with a harmless grub. The comparison is deliberately bathetic: the most feared poison shrunk to the most ignorable creature. Notice the verse never narrates a snakebite cured; it states a settled disposition — such people simply 'regard' (mannanti) venom as trivial, because dread itself has already been dissolved at the root. That is the hymn's signature logic — fear, not merely its occasion, is what the name removes — applied here to its sharpest test-case, the serpent. The verse thus advances the litany from the cobra of v.8 toward the next peril, the bandits of the wilderness in v.10.",
+    "doctrinalContext": "The verse crystallises nāma-smaraṇa raised to mantra-status: the akṣaras of a Jina's name are themselves akṣara — 'imperishable' — and so function as a siddha-mantra, the doctrine that the Tīrthaṅkara's name participates in his fear-conquering power. There is also a quiet ethical register: viṣa is, across Jain devotional idiom, a standing figure for the venom of the passions (kaṣāya), so 'driving the poison-rush far off' reads simultaneously as immunity to literal snakebite and as the practitioner's inner equanimity, in which the agitations that poison the soul are reduced to insignificance.",
+    "practicalRelevance": "A reciter meets this verse as a training in proportion: whatever 'venom' looms — illness, threat, or the inner poison of anger and fear — the practice is to anchor in the name until the menace shrinks to 'worm-sized.' It teaches that steady remembrance reorders one's estimate of danger, so that composure, not panic, becomes the reflex.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggaharaṁ Stotra (4th Smaraṇa), on Pārśva and the neutralising of viṣa (visahara visa-nināsa)",
+        "source": "Bhadrabāhu (trad.); Anchalgachchha Nava Smaraṇa"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.18 (the summary verse listing serpent/poison among the dangers stilled by Pārśva's name)",
+        "source": "Mānatuṅgasūri (trad.), Panch Pratikraman Sutra — Vidhi Sahit (Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.23 (the hidden eighteen-syllable mantra), on the name-as-mantra theme this verse anticipates",
+        "source": "Mānatuṅgasūri (trad.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha — 23rd Tīrthaṅkara, serpent iconography and the Kamaṭha/Dharaṇendra legend",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "identity of the addressee and the snake/venom associations underpinning the serpent couplet (vv.8–9)"
+    },
+    {
+      "title": "Manatunga (Jain ācārya)",
+      "url": "https://en.wikipedia.org/wiki/Manatunga",
+      "type": "scholarship",
+      "consultedFor": "traditional authorship of the fear-removing Pārśva/Ṛṣabha stotras, corroborating the preface's attribution"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "root-glosses for viṣa, vega, kīṭa, sadṛśa, sphuṭa, siddha, mantra, akṣara, manyate underlying the per-token IAST etymologies"
+    }
+  ],
+  "translatorConfidence": 0.76,
+  "notes": "Verse text follows the supplied Gujarati-script reading verbatim (e.g. પરિચ્છૂઢ, ફુડસિદ્ધ, ગુરુઆ); other recensions print variants such as paricchūḍha/parichaḍiya and nāvakkhara, which shift nothing essential. Two parsings of paricchūḍha-visama-visavegā are viable: (a) read here as a bahuvrīhi describing narā ('men by whom the terrible venom-rush has been cast far off'), or (b) an absolutive-like 'having driven the venom far away'; the sense is identical. guruā is taken as 'weighty/eminent men' rather than 'gurus.' The implied object of mannanti ('venom') is supplied from v.8's serpent. The web-search engine paraphrased rather than quoting a critical edition; glosses for paricchūḍha and visa-vega were cross-checked against standard Skt. roots (Cologne), and should be treated as well-supported but not from a single verbatim Prakrit lexicon entry — flagged accordingly."
+}

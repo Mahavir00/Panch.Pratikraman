@@ -1,0 +1,188 @@
+{
+  "shlokaId": "iriyavahiyam/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In this closing line I admit every way I may have hurt a living being — from a mere knock all the way to taking its life — and I ask that the wrong be undone.",
+  "recitation": "abhihayā, vattiyā, lesiyā, saṅghāiyā, saṅghaṭṭiyā, pariyāviyā, kilāmiyā, uddaviyā, ṭhāṇāo ṭhāṇaṁ saṅkāmiyā, jīviyāo vavaroviyā, tassa micchā mi dukkaḍaṁ",
+  "wordByWord": [
+    {
+      "token": "અભિહયા",
+      "translit": "abhihayā",
+      "gloss": "struck, knocked, dashed against (with the foot)",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt abhihata, past participle of abhi- ('against, towards') + √han ('to strike, hit'); a past participle agreeing with the jīvā ('beings') named in verses 5–6.",
+      "notes": "The lightest of the ten modes; commonly glossed in this tradition as 'kicked by the feet'."
+    },
+    {
+      "token": "વત્તિયા",
+      "translit": "vattiyā",
+      "gloss": "covered over (with dust), enveloped",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt vartita, causative past participle of √vṛt ('to roll, turn, cover'); i.e. beings 'rolled over' or buried under dust raised in motion.",
+      "notes": "Standard gloss 'covered with dust'; a few commentaries read it as 'overturned'."
+    },
+    {
+      "token": "લેસિયા",
+      "translit": "lesiyā",
+      "gloss": "rubbed, ground against the earth, scraped",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt leśita / śliṣṭa, conn. with leśa ('a trace, slight contact') and √liś / √śliṣ ('to cling, press against'); here 'pressed and rubbed along the ground'.",
+      "notes": "Root is debated; rendered 'trampled on the ground' in jaintreasures, 'rubbed' elsewhere."
+    },
+    {
+      "token": "સંઘાઇયા",
+      "translit": "saṅghāiyā",
+      "gloss": "collided, brought together / made to strike one another",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt saṅghātita, causative of sam- ('together') + √han / √ghāt ('to bring together, mass'); beings driven into collision or heaped together.",
+      "notes": "Glossed 'collision with each other' — i.e. one creature knocked into another."
+    },
+    {
+      "token": "સંઘટ્ટિયા",
+      "translit": "saṅghaṭṭiyā",
+      "gloss": "grazed, lightly touched, brushed against",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt saṅghaṭṭita, causative of sam- + √ghaṭṭ ('to rub, touch, jostle'); contact slighter than a collision.",
+      "notes": "The pair saṅghāiyā/saṅghaṭṭiyā distinguishes a forceful clashing from a mere graze."
+    },
+    {
+      "token": "પરિયાવિયા",
+      "translit": "pariyāviyā",
+      "gloss": "tormented, afflicted, made to suffer",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt paritāpita, causative past participle of pari- ('all around') + √tap ('to heat, pain'); to torment thoroughly.",
+      "notes": "Marks the shift from physical contact (1–5) to inflicted suffering (6–8)."
+    },
+    {
+      "token": "કિલામિયા",
+      "translit": "kilāmiyā",
+      "gloss": "exhausted, wearied, worn down",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt klāmita, causative of √klam ('to be weary, languish'); to drive a being to fatigue.",
+      "notes": "Distress prolonged into exhaustion, a step graver than pariyāviyā."
+    },
+    {
+      "token": "ઉદ્દવિયા",
+      "translit": "uddaviyā",
+      "gloss": "terrified, frightened, driven to flee",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt apadrāvita / uddrāvita, causative of ud- ('up, away') + √dru ('to run, flee'); to make a creature bolt in fear.",
+      "notes": "Some glosses give 'harassed, disturbed'; the dominant reading is 'frightened'."
+    },
+    {
+      "token": "ઠાણાઓ",
+      "translit": "ṭhāṇāo",
+      "gloss": "from (its) place",
+      "partOfSpeech": "noun",
+      "etymology": "Ablative of Prakrit ṭhāṇa < Skt sthāna ('place, station'); the -āo ending = Skt -āt (ablative).",
+      "notes": "Pairs with ṭhāṇaṁ to frame the verb of displacement."
+    },
+    {
+      "token": "ઠાણં",
+      "translit": "ṭhāṇaṁ",
+      "gloss": "to (another) place",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of Prakrit ṭhāṇa < Skt sthānaṁ ('place'); accusative of goal/destination.",
+      "notes": "ṭhāṇāo…ṭhāṇaṁ = 'from one station to another'."
+    },
+    {
+      "token": "સંકામિયા",
+      "translit": "saṅkāmiyā",
+      "gloss": "displaced, shifted, transferred",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt saṅkrāmita, causative of sam- + √kram ('to step, move across'); to make (a being) move from one spot to another.",
+      "notes": "Uprooting a creature from its habitat — graver than mere injury, short of killing."
+    },
+    {
+      "token": "જીવિયાઓ",
+      "translit": "jīviyāo",
+      "gloss": "from life, of (its) life",
+      "partOfSpeech": "noun",
+      "etymology": "Ablative of Prakrit jīviya < Skt jīvita ('life, the living state'); -āo = ablative -āt.",
+      "notes": "Construes with vavaroviyā: 'deprived from life'."
+    },
+    {
+      "token": "વવરોવિયા",
+      "translit": "vavaroviyā",
+      "gloss": "deprived (of life), killed",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt vyaparopita, causative of vi-apa- + √ruh ('to remove, tear away'); jīviyāo vavaroviyā = 'robbed of life'.",
+      "notes": "The gravest mode, the summit of the ascending ladder (cf. preface glossary)."
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "of that (whole foregoing harm)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive singular of the demonstrative ta- < Skt tasya ('of that').",
+      "notes": "Gathers the entire tenfold litany into a single antecedent for the formula."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, void, in vain",
+      "partOfSpeech": "adverb",
+      "etymology": "From Skt mithyā ('falsely, vainly'); here 'may it be rendered null'.",
+      "notes": "Part of the sealed formula micchā mi dukkaḍaṁ (defined in the preface)."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "to me / by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Enclitic first-person form < Skt me ('to/by me'); marks the deed as one's own.",
+      "notes": "Often written joined as 'micchāmi'; segmented here for token coverage."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed, ill-done act",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt duṣkṛta (dur- 'ill' + kṛta 'done'); the wrongful act itself.",
+      "notes": "tassa micchā mi dukkaḍaṁ = 'may that misdeed of mine come to nothing'."
+    }
+  ],
+  "literalTranslation": "(Beings I have) struck, covered with dust, rubbed against the ground, made to collide, grazed, tormented, exhausted, terrified, shifted from one place to another, (and) deprived of life — of that, may my misdeed be void.",
+  "idiomaticTranslation": "Whatever creatures I have knocked, buried in dust, scraped along the earth, dashed against one another, brushed, tormented, worn out, frightened into flight, driven from their place, or robbed of life itself — for the whole of that wrong, may my misdeed be undone and bear no fruit.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 6 finished naming *who* was harmed — beings graded from one-sensed to five-sensed — this verse turns entirely to *how*. Grammatically that continuity is exact: every word here but the closing formula is a past participle in the same number and case as the jīvā of verses 5–6, so the litany reads as one unbroken sentence — 'the beings I harmed… (were) struck, dusted, rubbed…'. Nothing new is introduced as subject; only the verbs of violence accumulate. Their order is not random but a deliberately rising ladder. The first cluster (abhihayā, vattiyā, lesiyā, saṅghāiyā, saṅghaṭṭiyā) is bodily contact of increasing and decreasing force — a knock, a burial in dust, a scrape, a collision, a graze — the contact one cannot help while walking. The middle cluster (pariyāviyā, kilāmiyā, uddaviyā) crosses from contact into *inflicted suffering*: torment, then exhaustion, then terror — harm felt by the creature, not merely done to its body. The ninth, ṭhāṇāo ṭhāṇaṁ saṅkāmiyā, names a subtler violence the careless rarely notice: tearing a being from the place that sustains it. Only then comes the tenth and gravest, jīviyāo vavaroviyā — taking life outright. Confessing the whole scale 'in one breath' is the point: the reciter refuses to plead that the small knocks 'don't count', and refuses equally to despair at the killing. All ten are gathered by tassa ('of that') and dissolved together in micchā mi dukkaḍaṁ. The genius of the verse is this clamp — an open-ended inventory of how a moving body wounds the world, snapped shut by a single self-directed nullification.",
+    "doctrinalContext": "The verse rests on the Jain teaching that hiṁsā is graded yet continuous: harm is real at every rung, from a graze to a killing, because every jīva — even one-sensed — possesses life worth confessing. By listing displacement (saṅkāmiyā) one rung below killing, it encodes the principle that depriving a being of its sustaining place is itself grave violence, not a neutral act. Crucially, the confession covers harm regardless of intent: these participles describe outcomes a vigilant walker still cannot wholly avoid, which is why īryā-samiti and this pratikramaṇa are paired — care reduces harm, confession addresses the residue. The sealing micchā mi dukkaḍaṁ enacts the doctrine that a deed sincerely disowned is denied the soil in which fresh karma takes root.",
+    "practicalRelevance": "Recited today, the verse trains a graded conscience rather than a vague guilt. A practitioner running through the ten modes is invited to recall the actual day — dust kicked up, a creature shooed from its corner, an insect crushed underfoot — and to own each at its true weight, neither inflating the trivial nor excusing the serious. The rising order teaches proportion; the single closing formula teaches release without complacency, so one resolves to walk more watchfully tomorrow.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyā Sutta — the tenfold litany of injury (abhihayā … jīviyāo vavaroviyā)",
+        "source": "Āvaśyaka tradition; Anchalgachchha (Vidhipaksha) Panch Pratikraman Sutra — Vidhi Sahit"
+      },
+      {
+        "text": "Daśavaikālika-sūtra ch. 4 (Chajjīvaṇiyā) — the six classes of jīva and īryā-samiti",
+        "source": "Dashavaikālika, Ācārya Śayyaṁbhava"
+      },
+      {
+        "text": "Story of Aimuttā (Atimukta) Muni attaining kevala-jñāna through sincere recitation of this sutra",
+        "source": "Jain narrative tradition (Antakṛddaśā / Āvaśyaka commentaries)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Iriyāvahiyā Sutra",
+      "url": "https://jaintreasures.org.uk/iriyavahiya-sutra/",
+      "type": "translation",
+      "consultedFor": "the romanized verse text and the standard gloss of all ten modes of injury (abhihayā 'kicked' … vavaroviyā 'deprived of life')"
+    },
+    {
+      "title": "05 Iriyavahiya Sutra (Romanized) — Jain Quantum",
+      "url": "https://jainqq.org/booktext/05_Iriyavahiya_Sutra_Romanized/300050",
+      "type": "translation",
+      "consultedFor": "verse division, transliteration, and the rendering 'thānāo thānam sankāmiyā = by shifting from one place to another'"
+    },
+    {
+      "title": "Iriyavahiyan-Sutra / इरियावहियम्-सूत्र — Jainkart",
+      "url": "https://www.jainkart.in/iriyavahiyan-sutra",
+      "type": "translation",
+      "consultedFor": "cross-checking the wording of the tenfold list and the closing formula tassa micchā mi dukkaḍaṁ"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Several of the ten terms carry traditional variants: lesiyā is glossed 'rubbed/scraped' (root √liś/√śliṣ) or 'trampled on the ground'; the pair saṅghāiyā/saṅghaṭṭiyā is read as 'collided (with one another)' vs. 'grazed/lightly touched', though some editions reverse the nuance; uddaviyā is mostly 'frightened/driven to flee' (< apadrāvita) but occasionally 'harassed/disturbed'. The enclitic 'mi' is segmented from 'micchā…dukkaḍaṁ' only for 100% token coverage; in recitation it is chanted as the single inseparable formula 'micchā mi dukkaḍaṁ'. The source book's wording of this verse is identical across all five pratikramaṇas. Sanskrit reconstructions in the etymologies follow standard Prakrit→Sanskrit correspondences and are offered as derivations, not attested readings."
+}

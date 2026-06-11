@@ -1,0 +1,806 @@
+{
+  "shlokaId": "bruhad-atiyar/02",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "plainMeaning": "यह दूसरे व्रत—झूठ न बोलने—का भाग है, जिसमें पाँच बड़े झूठ छोड़ने का नियम लिया जाता है और फिर सच्चाई के व्रत को मलिन करने वाली पाँच भूलों (जैसे बिना सोचे आरोप लगाना, किसी का भेद खोलना, झूठी सलाह देना, झूठे कागज़ बनवाना) की आलोचना की जाती है।",
+  "recitation": "२. बीजुं स्थूल मृषावाद विरमण व्रत पंचविध, कन्नालीए, गोवालीए, भूमालीए, नासावहारे, कूडसक्खिज्जे। ए पांच मोटकां कूडां आपणने काजे, स्वजनने काजे, धर्मने काजे मूकी, परकाजे कूडुं बोलवा नियम। सूक्ष्म अलिकतणी जयणा। ए बीजा स्थूल मृषावाद विरमण व्रत तणा पांच अतियार शोधुं। सहस्साभक्खाणो, रहस्साभक्खाणो, सदारामंतभेए, मोसोवएसे, कूडलेहकरणे। सहसात्कारे—हारते, फीटते, कुणहप्रत्ये कूडुं आळ दीधुं होय। ए अमुकातणुं काम अमुकेज कीधुं, इस्युं भण्युं होय। रहस्साभक्खाणो—बेजण एकांत मंत्र मंत्रता देखी, में जाण्युं तुमे, अमुकुं अमुकुं राजविरुद्ध आलोच्यो छो, इस्युं बोल्युं होय। स्वकीय कलत्र मित्रतणो मंत्र अनेरा आगळे प्रकाश्यो होय। मृषा—कूडा सिद्धांततणो उपदेश परप्रत्ये दीधो होय, अथवा अनेरा पासे कूडुं बोलाव्युं होय। कूडा लेख लखाव्या होय, मशीभेद कीधो होय, कूडी हुंडी, कूडी मुद्रा संचारी होय, तथा कुणहशुं कूडो झगडो मांड्यो होय, हुं जाणुं छुं तुजने निधान लाध्युं छे, तुज कने अमुका अमुकातणुं द्रव्य रह्युं छे, इस्युं बोल्युं होय। अनेरुं ए बीजा स्थूल मृषावाद विरमण व्रत विषे।",
+  "wordByWord": [
+    {
+      "token": "૨.",
+      "translit": "2.",
+      "gloss": "(श्लोक संख्या) दो—यह दूसरे अणुव्रत का खंड है",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक 'बे' (बीजुं = दूसरा) से क्रमांक",
+      "notes": "मूल पुस्तक की अंक-वर्तनी यथावत्।"
+    },
+    {
+      "token": "બીજું",
+      "translit": "bījuṁ",
+      "gloss": "दूसरा",
+      "partOfSpeech": "adj",
+      "etymology": "सं. dvitīya > प्रा./गु. bīja",
+      "notes": "बारह व्रतों में दूसरा।"
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "स्थूल, बड़ा (गृहस्थ-स्तरीय, सूक्ष्म से भिन्न)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sthūla",
+      "notes": "अणुव्रत 'स्थूल' इसलिए कि साधु के महाव्रत-समान सर्वथा नहीं, केवल बड़े झूठ का त्याग।"
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "मृषावाद, झूठ बोलना, असत्य भाषण",
+      "partOfSpeech": "compound",
+      "etymology": "सं. mṛṣā (मिथ्या) + vāda (कथन)",
+      "notes": "दूसरा पाप-स्थानक भी यही।"
+    },
+    {
+      "token": "વિરમણ",
+      "translit": "viramaṇa",
+      "gloss": "विरमण, से विरत होना/रुकना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi + √ram",
+      "notes": "प्रस्तावना-शब्दावली में परिभाषित।"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "व्रत, नियम-संकल्प",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vrata"
+    },
+    {
+      "token": "પંચવિધ",
+      "translit": "paṁcavidha",
+      "gloss": "पाँच प्रकार का",
+      "partOfSpeech": "adj",
+      "etymology": "सं. pañca + vidha",
+      "notes": "यहाँ आगे गिनाए पाँच 'बड़े झूठ' की ओर संकेत।"
+    },
+    {
+      "token": "કન્નાલીએ",
+      "translit": "kannālīe",
+      "gloss": "कन्या-संबंधी झूठ (कन्यालीक)—विवाह/कन्या के विषय में असत्य",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. kannā (सं. kanyā) + alīka (झूठ)",
+      "notes": "पाँच महा-मृषावाद का प्रथम; द्विपद के विषय में झूठ का उपलक्षण।"
+    },
+    {
+      "token": "ગોવાલીએ",
+      "translit": "govālīe",
+      "gloss": "गौ/पशु-संबंधी झूठ (गवालीक)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. go (गाय) + alīka",
+      "notes": "चतुष्पद/पशुधन के विषय में असत्य।"
+    },
+    {
+      "token": "ભૂમાલીએ",
+      "translit": "bhūmālīe",
+      "gloss": "भूमि-संबंधी झूठ (भूम्यलीक)—ज़मीन की सीमा/स्वामित्व में असत्य",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bhūmi + alīka"
+    },
+    {
+      "token": "નાસાવહારે",
+      "translit": "nāsāvahāre",
+      "gloss": "न्यासापहार—धरोहर/अमानत हड़पना या उससे इनकार करना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. nyāsa (धरोहर) + apahāra (हरण); प्रा. रूप में विकृत",
+      "notes": "कुछ व्याख्याओं में 'सत्य छिपाना' भी; यहाँ शास्त्रीय न्यासापहार ही उपयुक्त। देखें notes।"
+    },
+    {
+      "token": "કૂડસક્ખિજ્જે",
+      "translit": "kūḍasakkhijje",
+      "gloss": "कूट-साक्ष्य—झूठी गवाही देना",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. kūḍa (कूट/झूठा) + sakkhi (साक्षी, सं. sākṣya)"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "ये",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. निदर्शक सर्वनाम"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "पाँच",
+      "partOfSpeech": "adj",
+      "etymology": "सं. pañca"
+    },
+    {
+      "token": "મોટકાં",
+      "translit": "moṭakāṁ",
+      "gloss": "बड़े, मोटे (स्थूल)",
+      "partOfSpeech": "adj",
+      "etymology": "गु. moṭuṁ (बड़ा)"
+    },
+    {
+      "token": "કૂડાં",
+      "translit": "kūḍāṁ",
+      "gloss": "झूठ (बहुवचन)",
+      "partOfSpeech": "noun",
+      "etymology": "गु./प्रा. kūḍuṁ (मिथ्या)"
+    },
+    {
+      "token": "આપણને",
+      "translit": "āpaṇane",
+      "gloss": "अपने लिए, स्वयं के निमित्त",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. āpaṇ (हम/अपना)"
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "के लिए, के निमित्त",
+      "partOfSpeech": "particle",
+      "etymology": "सं. kārya > गु. kāj",
+      "notes": "आगे 'स्वजनने काजे', 'धर्मने काजे' में पुनरावृत्त।"
+    },
+    {
+      "token": "સ્વજનને",
+      "translit": "svajanane",
+      "gloss": "स्वजन/कुटुम्बी के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. svajana"
+    },
+    {
+      "token": "ધર્મને",
+      "translit": "dharmane",
+      "gloss": "धर्म के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dharma"
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "छोड़कर, अपवादस्वरूप अलग रखकर",
+      "partOfSpeech": "verb",
+      "etymology": "गु. mūkavuṁ (छोड़ना)",
+      "notes": "गृहस्थ-व्रत की सीमितता: इन तीन निमित्तों की छूट रखकर।"
+    },
+    {
+      "token": "પરકાજે",
+      "translit": "parakāje",
+      "gloss": "दूसरों के (पराये) काम के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. para + kārya"
+    },
+    {
+      "token": "કૂડું",
+      "translit": "kūḍuṁ",
+      "gloss": "झूठ, असत्य",
+      "partOfSpeech": "noun",
+      "etymology": "गु./प्रा. kūḍuṁ",
+      "notes": "पाठ में बार-बार आता है।"
+    },
+    {
+      "token": "બોલવા",
+      "translit": "bolavā",
+      "gloss": "बोलने (का)",
+      "partOfSpeech": "verb",
+      "etymology": "गु. bolavuṁ"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "नियम—(पराये के लिए झूठ न बोलने का) प्रतिबंध",
+      "partOfSpeech": "noun",
+      "etymology": "सं. niyama"
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "सूक्ष्म, बहुत छोटा/अनजाना",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sūkṣma"
+    },
+    {
+      "token": "અલિકતણી",
+      "translit": "alikataṇī",
+      "gloss": "असत्य की (अलीक = झूठ)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. alīka + गु. सम्बन्धवाची 'तणी'",
+      "notes": "सूक्ष्म/अनजाने झूठ की जयणा (छूट) रखी जाती है।"
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "जयणा—विवेकपूर्ण छूट/सावधानी",
+      "partOfSpeech": "noun",
+      "etymology": "सं. yatanā > प्रा. jayaṇā",
+      "notes": "प्रस्तावना-शब्दावली में परिभाषित।"
+    },
+    {
+      "token": "બીજા",
+      "translit": "bījā",
+      "gloss": "दूसरे (व्रत के)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. dvitīya"
+    },
+    {
+      "token": "તણા",
+      "translit": "taṇā",
+      "gloss": "के (सम्बन्ध-सूचक)",
+      "partOfSpeech": "particle",
+      "etymology": "अप. tāṇaya > गु. taṇo/taṇā"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "अतियार (अतिचार)—व्रत को मलिन करने वाली भूल",
+      "partOfSpeech": "noun",
+      "etymology": "सं. aticāra (पुस्तक में 'अतियार' वर्तनी)",
+      "notes": "प्रस्तावना-शब्दावली में परिभाषित।"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "शोधता/निरीक्षण कर शुद्ध करता हूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √śudh (शोधन)",
+      "notes": "आलोचना-क्रिया: 'पाँच अतिचारों को शोधूँ'।"
+    },
+    {
+      "token": "સહસ્સાભક્ખાણો",
+      "translit": "sahassābhakkhāṇo",
+      "gloss": "सहसाभ्याख्यान—बिना सोचे-समझे (आवेश में) झूठा आरोप लगाना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. sahasā (अकस्मात्) + abhyākhyāna (आरोप, मिथ्या आक्षेप)",
+      "notes": "प्रथम अतिचार; तत्त्वार्थ ७.२१।"
+    },
+    {
+      "token": "રહસ્સાભક્ખાણો",
+      "translit": "rahassābhakkhāṇo",
+      "gloss": "रहस्याभ्याख्यान—किसी के गुप्त कार्य/मंत्रणा पर झूठा आक्षेप या भेद-प्रकाशन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rahasya (गुप्त) + abhyākhyāna",
+      "notes": "द्वितीय अतिचार।"
+    },
+    {
+      "token": "સદારામંતભેએ",
+      "translit": "sadārāmaṁtabhee",
+      "gloss": "स्वदार-मंत्र-भेद—अपनी पत्नी/मित्र की गुप्त बात दूसरों के आगे खोलना",
+      "partOfSpeech": "compound",
+      "etymology": "सं. sva-dāra (अपनी स्त्री) + mantra (गुप्त मंत्रणा) + bheda (भेद खोलना)",
+      "notes": "तृतीय अतिचार।"
+    },
+    {
+      "token": "મોસોવએસે",
+      "translit": "mosovaese",
+      "gloss": "मृषोपदेश—झूठी सलाह/मिथ्या सिद्धांत का उपदेश देना",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. mosa (सं. mṛṣā, झूठ) + upadeśa",
+      "notes": "चतुर्थ अतिचार।"
+    },
+    {
+      "token": "કૂડલેહકરણે",
+      "translit": "kūḍalehakaraṇe",
+      "gloss": "कूट-लेख-करण—झूठे लेख/दस्तावेज़ बनाना-बनवाना",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. kūḍa (कूट) + leha (सं. lekha) + karaṇa",
+      "notes": "पंचम अतिचार।"
+    },
+    {
+      "token": "સહસાત્કારે",
+      "translit": "sahasātkāre",
+      "gloss": "सहसा/अकस्मात्, बिना विचारे",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. sahasātkāra"
+    },
+    {
+      "token": "હારતે",
+      "translit": "hārate",
+      "gloss": "हारते समय (विवाद/लेन-देन में)",
+      "partOfSpeech": "verb",
+      "etymology": "गु. hāravuṁ (हारना)"
+    },
+    {
+      "token": "ફીટતે",
+      "translit": "phīṭate",
+      "gloss": "बात बिगड़ते/उलटते समय",
+      "partOfSpeech": "verb",
+      "etymology": "गु. phīṭavuṁ (टलना/बिगड़ना)"
+    },
+    {
+      "token": "કુણહપ્રત્યે",
+      "translit": "kuṇahapratye",
+      "gloss": "किसी के प्रति, किसी पर",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. kuṇah (कोई) + सं. prati",
+      "notes": "'कुणह/कुणहशुं/कुणहप्रत्ये' = कोई/किसी से।"
+    },
+    {
+      "token": "આળ",
+      "translit": "āḷa",
+      "gloss": "आरोप, झूठा कलंक/लांछन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. ālīka/āropa > गु. āḷ"
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "दिया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dā > गु. dīdhuṁ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (संभावना/आलोचना-सूचक)",
+      "partOfSpeech": "verb",
+      "etymology": "गु. hovuṁ (होना)",
+      "notes": "आवर्ती क्रिया—'...ऐसा हुआ हो तो' प्रत्येक उदाहरण के अंत में।"
+    },
+    {
+      "token": "અમુકાતણું",
+      "translit": "amukātaṇuṁ",
+      "gloss": "अमुक (फलाने) का",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. amuka + गु. taṇuṁ"
+    },
+    {
+      "token": "કામ",
+      "translit": "kāma",
+      "gloss": "काम, कार्य",
+      "partOfSpeech": "noun",
+      "etymology": "सं. karman > kāma"
+    },
+    {
+      "token": "અમુકેજ",
+      "translit": "amukeja",
+      "gloss": "उसी अमुक ने ही",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. amuka + 'ज' (एव/ही)"
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "किया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √kṛ > गु. kīdhuṁ"
+    },
+    {
+      "token": "ઇસ્યું",
+      "translit": "isyuṁ",
+      "gloss": "ऐसा, इस प्रकार",
+      "partOfSpeech": "adverb",
+      "etymology": "गु. प्राचीन isyuṁ (ऐसा)"
+    },
+    {
+      "token": "ભણ્યું",
+      "translit": "bhaṇyuṁ",
+      "gloss": "कहा, बोला",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √bhaṇ"
+    },
+    {
+      "token": "બેજણ",
+      "translit": "bejaṇa",
+      "gloss": "दो व्यक्ति",
+      "partOfSpeech": "noun",
+      "etymology": "गु. be (दो) + jaṇ (जन)"
+    },
+    {
+      "token": "એકાંત",
+      "translit": "ekāṁta",
+      "gloss": "एकांत में",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. ekānta"
+    },
+    {
+      "token": "મંત્ર",
+      "translit": "maṁtra",
+      "gloss": "गुप्त मंत्रणा, सलाह-मशविरा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mantra"
+    },
+    {
+      "token": "મંત્રતા",
+      "translit": "maṁtratā",
+      "gloss": "मंत्रणा/गुप्त वार्ता करते हुए",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √mantr"
+    },
+    {
+      "token": "દેખી",
+      "translit": "dekhī",
+      "gloss": "देखकर",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dṛś > गु. dekhavuṁ"
+    },
+    {
+      "token": "મેં",
+      "translit": "meṁ",
+      "gloss": "मैंने",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. me (मैं—कर्ता)"
+    },
+    {
+      "token": "જાણ્યું",
+      "translit": "jāṇyuṁ",
+      "gloss": "जान लिया/समझ लिया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √jñā > गु. jāṇavuṁ"
+    },
+    {
+      "token": "તુમે",
+      "translit": "tume",
+      "gloss": "तुम (लोग)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. yūyam > गु. tume"
+    },
+    {
+      "token": "અમુકું અમુકું",
+      "translit": "amukuṁ amukuṁ",
+      "gloss": "अमुक-अमुक, फलाँ-फलाँ",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. amuka (द्विरुक्ति)"
+    },
+    {
+      "token": "રાજવિરુદ્ધ",
+      "translit": "rājaviruddha",
+      "gloss": "राजविरुद्ध, राजद्रोही (बात)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. rāja + viruddha"
+    },
+    {
+      "token": "આલોચ્યો",
+      "translit": "ālocyo",
+      "gloss": "विचारा/षड्यंत्र किया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. ā + √loc"
+    },
+    {
+      "token": "છો",
+      "translit": "cho",
+      "gloss": "हो (वर्तमान)",
+      "partOfSpeech": "verb",
+      "etymology": "गु. chavuṁ (होना)"
+    },
+    {
+      "token": "બોલ્યું",
+      "translit": "bolyuṁ",
+      "gloss": "बोला",
+      "partOfSpeech": "verb",
+      "etymology": "गु. bolavuṁ"
+    },
+    {
+      "token": "સ્વકીય",
+      "translit": "svakīya",
+      "gloss": "अपना, निजी",
+      "partOfSpeech": "adj",
+      "etymology": "सं. svakīya"
+    },
+    {
+      "token": "કલત્ર",
+      "translit": "kalatra",
+      "gloss": "पत्नी, कलत्र",
+      "partOfSpeech": "noun",
+      "etymology": "सं. kalatra"
+    },
+    {
+      "token": "મિત્રતણો",
+      "translit": "mitrataṇo",
+      "gloss": "मित्र का",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mitra + गु. taṇo"
+    },
+    {
+      "token": "અનેરા",
+      "translit": "anerā",
+      "gloss": "दूसरे, अन्य (के)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. anya + तर > अप. anera"
+    },
+    {
+      "token": "આગળે",
+      "translit": "āgaḷe",
+      "gloss": "आगे, सामने",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. agra > गु. āgaḷ"
+    },
+    {
+      "token": "પ્રકાશ્યો",
+      "translit": "prakāśyo",
+      "gloss": "प्रकट किया, खोल दिया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pra + √kāś"
+    },
+    {
+      "token": "મૃષા",
+      "translit": "mṛṣā",
+      "gloss": "मिथ्या, झूठा",
+      "partOfSpeech": "adj",
+      "etymology": "सं. mṛṣā"
+    },
+    {
+      "token": "કૂડા",
+      "translit": "kūḍā",
+      "gloss": "झूठे",
+      "partOfSpeech": "adj",
+      "etymology": "गु. kūḍuṁ",
+      "notes": "'कूडा/कूडी/कूडो' = झूठा (लिंग-वचन भेद)।"
+    },
+    {
+      "token": "સિદ્ધાંતતણો",
+      "translit": "siddhāṁtataṇo",
+      "gloss": "सिद्धांत का",
+      "partOfSpeech": "noun",
+      "etymology": "सं. siddhānta + गु. taṇo"
+    },
+    {
+      "token": "ઉપદેશ",
+      "translit": "upadeśa",
+      "gloss": "उपदेश, सलाह",
+      "partOfSpeech": "noun",
+      "etymology": "सं. upadeśa"
+    },
+    {
+      "token": "પરપ્રત્યે",
+      "translit": "parapratye",
+      "gloss": "दूसरों के प्रति",
+      "partOfSpeech": "noun",
+      "etymology": "सं. para + prati"
+    },
+    {
+      "token": "દીધો",
+      "translit": "dīdho",
+      "gloss": "दिया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dā"
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "अथवा, या",
+      "partOfSpeech": "particle",
+      "etymology": "सं. athavā"
+    },
+    {
+      "token": "પાસે",
+      "translit": "pāse",
+      "gloss": "द्वारा, के पास से",
+      "partOfSpeech": "particle",
+      "etymology": "सं. pārśva > गु. pāse"
+    },
+    {
+      "token": "બોલાવ્યું",
+      "translit": "bolāvyuṁ",
+      "gloss": "बुलवाया, बोलवा दिया",
+      "partOfSpeech": "verb",
+      "etymology": "गु. bolāvavuṁ (प्रेरणार्थक)"
+    },
+    {
+      "token": "લેખ",
+      "translit": "lekha",
+      "gloss": "लेख, दस्तावेज़",
+      "partOfSpeech": "noun",
+      "etymology": "सं. lekha"
+    },
+    {
+      "token": "લખાવ્યા",
+      "translit": "lakhāvyā",
+      "gloss": "लिखवाए",
+      "partOfSpeech": "verb",
+      "etymology": "गु. lakhāvavuṁ (प्रेरणार्थक)"
+    },
+    {
+      "token": "મશીભેદ",
+      "translit": "maśībheda",
+      "gloss": "स्याही-भेद—लेख में स्याही से छल/फेरबदल करना",
+      "partOfSpeech": "compound",
+      "etymology": "सं. maṣī (स्याही) + bheda",
+      "notes": "लिखावट में मिलावट/जालसाज़ी।"
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "किया",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √kṛ"
+    },
+    {
+      "token": "કૂડી",
+      "translit": "kūḍī",
+      "gloss": "झूठी, जाली",
+      "partOfSpeech": "adj",
+      "etymology": "गु. kūḍuṁ"
+    },
+    {
+      "token": "હુંડી",
+      "translit": "huṁḍī",
+      "gloss": "हुंडी—विनिमय-पत्र/मुद्रा-आदेश",
+      "partOfSpeech": "noun",
+      "etymology": "गु./हिं. huṁḍī"
+    },
+    {
+      "token": "મુદ્રા",
+      "translit": "mudrā",
+      "gloss": "मुहर/सिक्का",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mudrā"
+    },
+    {
+      "token": "સંચારી",
+      "translit": "saṁcārī",
+      "gloss": "चलाई, प्रचलित की",
+      "partOfSpeech": "verb",
+      "etymology": "सं. saṁ + √car"
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "तथा, और",
+      "partOfSpeech": "particle",
+      "etymology": "सं. tathā"
+    },
+    {
+      "token": "કુણહશું",
+      "translit": "kuṇahaśuṁ",
+      "gloss": "किसी के साथ",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. kuṇah (कोई) + śuṁ (साथ)"
+    },
+    {
+      "token": "કૂડો",
+      "translit": "kūḍo",
+      "gloss": "झूठा",
+      "partOfSpeech": "adj",
+      "etymology": "गु. kūḍuṁ"
+    },
+    {
+      "token": "ઝગડો",
+      "translit": "jhagaḍo",
+      "gloss": "झगड़ा, विवाद",
+      "partOfSpeech": "noun",
+      "etymology": "गु. jhagaḍo"
+    },
+    {
+      "token": "માંડ્યો",
+      "translit": "māṁḍyo",
+      "gloss": "ठाना, खड़ा किया",
+      "partOfSpeech": "verb",
+      "etymology": "गु. māṁḍavuṁ"
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "मैं",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. aham > गु. huṁ"
+    },
+    {
+      "token": "જાણું",
+      "translit": "jāṇuṁ",
+      "gloss": "जानता हूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √jñā"
+    },
+    {
+      "token": "છું",
+      "translit": "chuṁ",
+      "gloss": "हूँ",
+      "partOfSpeech": "verb",
+      "etymology": "गु. chavuṁ"
+    },
+    {
+      "token": "તુજને",
+      "translit": "tujane",
+      "gloss": "तुझको/तेरे विषय में",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. tuj (तू)"
+    },
+    {
+      "token": "નિધાન",
+      "translit": "nidhāna",
+      "gloss": "निधि, गड़ा हुआ खज़ाना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. nidhāna"
+    },
+    {
+      "token": "લાધું",
+      "translit": "lādhuṁ",
+      "gloss": "मिल गया, हाथ लगा",
+      "partOfSpeech": "verb",
+      "etymology": "गु. lādhvuṁ (प्राप्त होना)"
+    },
+    {
+      "token": "છે",
+      "translit": "che",
+      "gloss": "है",
+      "partOfSpeech": "verb",
+      "etymology": "गु. chavuṁ"
+    },
+    {
+      "token": "તુજ કને",
+      "translit": "tuja kane",
+      "gloss": "तेरे पास",
+      "partOfSpeech": "pronoun",
+      "etymology": "गु. tuj + kane (समीप)"
+    },
+    {
+      "token": "દ્રવ્ય",
+      "translit": "dravya",
+      "gloss": "धन, द्रव्य",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dravya"
+    },
+    {
+      "token": "રહ્યું",
+      "translit": "rahyuṁ",
+      "gloss": "रखा/पड़ा है",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √rah > गु. rahevuṁ"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "और जो कुछ (अन्य भी)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. anya > अप. aneruṁ",
+      "notes": "समापन-सूचक: 'इसके अतिरिक्त जो भी अतिचार हुआ हो'।"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "विषय में, के बारे में",
+      "partOfSpeech": "particle",
+      "etymology": "सं. viṣaye",
+      "notes": "यहाँ अध्याहृत 'मिच्छा मि दुक्कडं' ध्रुवपंक्ति इसी से जुड़ती है (देखें notes)।"
+    }
+  ],
+  "literalTranslation": "दूसरा—स्थूल मृषावाद-विरमण व्रत, पाँच प्रकार का: कन्यालीक, गवालीक, भूम्यलीक, न्यासापहार, कूटसाक्ष्य। इन पाँच बड़े झूठों को अपने लिए, स्वजन के लिए, धर्म के लिए (इन निमित्तों की छूट) छोड़कर, पराये काम के लिए झूठ बोलने का नियम (त्याग)। सूक्ष्म असत्य की जयणा। इस दूसरे स्थूल मृषावाद-विरमण व्रत के पाँच अतिचार शोधता हूँ। सहसाभ्याख्यान, रहस्याभ्याख्यान, स्वदार-मंत्र-भेद, मृषोपदेश, कूटलेख-करण। सहसा—हारते या बात बिगड़ते किसी पर झूठा आरोप दिया हो; 'अमुक का काम अमुक ने ही किया' ऐसा कहा हो। रहस्याभ्याख्यान—दो जनों को एकांत में मंत्रणा करते देख 'मैंने जान लिया, तुम अमुक-अमुक राजविरुद्ध सोच रहे हो' ऐसा कहा हो। अपनी पत्नी या मित्र का भेद दूसरों के आगे खोल दिया हो। मिथ्या सिद्धांत का उपदेश दूसरों को दिया हो, या किसी और से झूठ बुलवाया हो। झूठे लेख लिखवाए हों, स्याही-भेद किया हो, जाली हुंडी या जाली मुहर चलाई हो, तथा किसी से झूठा झगड़ा ठाना हो; 'मैं जानता हूँ तुझे निधि मिली है, तेरे पास अमुक-अमुक का धन रखा है' ऐसा कहा हो। तथा इस दूसरे स्थूल मृषावाद-विरमण व्रत के विषय में और जो कुछ (हुआ हो)।",
+  "idiomaticTranslation": "अब दूसरा व्रत—स्थूल असत्य से विरति। पाँच बड़े झूठ हैं: कन्या के विषय में, पशु के विषय में, भूमि के विषय में झूठ, अमानत हड़पना, और झूठी गवाही। इन पाँचों को—अपने, अपने परिजनों और धर्म के निमित्त को छोड़कर—पराये के लिए न बोलूँ, ऐसा नियम लेता हूँ; सूक्ष्म असत्य की जयणा रखता हूँ। अब इस व्रत के पाँच अतिचार शोधता हूँ: बिना विचारे किसी पर झूठा आरोप मढ़ देना; किसी की गुप्त मंत्रणा देखकर उस पर राजद्रोह का मिथ्या लांछन लगाना; अपनी पत्नी या मित्र का भेद खोल देना; झूठा उपदेश देना या औरों से झूठ बुलवाना; और जाली दस्तावेज़, स्याही-भेद, झूठी हुंडी-मुहर तथा 'तुझे निधि मिली है, तेरे पास पराया धन है' जैसे झूठे झगड़े—इन सबसे जहाँ-जहाँ यह व्रत मलिन हुआ हो, उसका मैं पश्चात्तापपूर्वक निरीक्षण करता हूँ।",
+  "elaboration": {
+    "verseByVerseCommentary": "पहले श्लोक का प्राणातिपात-विरमण (काया से हिंसा-त्याग) पूरा कर अब साधक वाणी की ओर मुड़ता है—यही स्वाभाविक क्रम है: हाथ के बाद जीभ की शुद्धि। श्लोक की संरचना दो-स्तरीय है, और यही इसकी विशेषता है। पहले 'पंचविध' कहकर पाँच मोटा कूडा—कन्यालीक, गवालीक, भूम्यलीक, न्यासापहार, कूटसाक्ष्य—गिनाए जाते हैं; ये वे बड़े झूठ हैं जिनका स्थूल त्याग ही व्रत का शरीर है (तीन झूठ बहुमूल्य सम्पत्ति—कन्या, पशु, भूमि—के, और दो विश्वासघात—धरोहर तथा साक्ष्य—के)। फिर 'पाँच अतियार शोधूं' कहकर वे सूक्ष्मतर भूलें आती हैं जो व्रत को तोड़ती नहीं, पर मैला करती हैं: सहसाभ्याख्यान, रहस्याभ्याख्यान, स्वदार-मंत्र-भेद, मृषोपदेश, कूटलेख-करण। 'मोटा कूडा' और 'अतियार' का यह भेद ही श्लोक का हृदय है—पहला व्रत-भंग है, दूसरा व्रत-मालिन्य। उल्लेखनीय है गृहस्थ-व्रत की ईमानदार सीमा-घोषणा: 'आपणने, स्वजनने, धर्मने काजे मूकी, परकाजे कूडुं बोलवा नियम।' निषेध केवल पराये के स्वार्थ में बोले झूठ पर पूर्ण है; स्वयं, परिवार और धर्म-रक्षा के विवशता-प्रसंगों की छूट तथा 'सूक्ष्म अलिकतणी जयणा' इसे साधु के निरपवाद सत्य-महाव्रत से अलग करती है—यह यथार्थवादी संकल्प है, ढोंग नहीं। अतिचारों की व्याख्या में पुस्तक रोज़मर्रा के जीवंत दृश्य देती है: हारते-बिगड़ते आवेश में 'यह काम उसी ने किया' कह देना; दो लोगों की गुप्त बात देख 'तुम राजद्रोह सोच रहे हो' का लांछन; पत्नी-मित्र का भेद खोलना; जाली लेख, स्याही-भेद, झूठी हुंडी-मुहर; और 'तुझे खज़ाना मिला है, तेरे पास पराया धन है' जैसे लोभ-प्रेरित झूठे झगड़े। ये उदाहरण व्यापारी-गृहस्थ की वाणी के ठीक उन्हीं मोड़ों को पकड़ते हैं जहाँ असत्य चुपके से घुसता है।",
+    "doctrinalContext": "यहाँ का मूल बिंदु सत्याणुव्रत है और इसके पाँच अतिचार ठीक उसी शास्त्रीय सूची के हैं जो तत्त्वार्थसूत्र ७.२१ में मिलती है—सहसाभ्याख्यान, रहस्याभ्याख्यान, स्वदारमंत्रभेद, मृषोपदेश, कूटलेखकरण। जैन दृष्टि में मृषावाद केवल असत्य-कथन नहीं, अपितु प्रमाद और कषाय (क्रोध, लोभ, भय) से प्रेरित वचन-योग की मलिनता है; इसीलिए 'सहसा' (अविवेक) और 'लोभ' (निधान/द्रव्य वाले झूठे झगड़े) दोनों को उदाहरणों में पकड़ा गया है। ध्यातव्य है कि अतिचार वे ही दोष हैं जहाँ व्रती झूठ को झूठ न मानते हुए, या असावधानी से, व्रत की सीमा लाँघ जाता है—पूर्ण भंग नहीं, पर भाव-मालिन्य अवश्य; अतः इनका पृथक् शोधन आवश्यक है। मन-वचन-काया तीनों योगों से किए, कराए (बोलवा/लखावा/बोलाव्युं) और अनुमोदित—तीनों करण इन उदाहरणों में अंतर्निहित हैं।",
+    "practicalRelevance": "आज का साधक इसे सीधे अपने व्यवहार पर उतारे: क्रोध या बहस में हारते समय किसी पर बिना प्रमाण आरोप मढ़ना (सहसाभ्याख्यान); किसी की निजी या पारिवारिक बात—पति/पत्नी, मित्र का विश्वास—औरों को बता देना (स्वदार-मंत्र-भेद); अधूरी या मनगढ़ंत सलाह/अफ़वाह फैलाना (मृषोपदेश); तथा दस्तावेज़, हस्ताक्षर, चेक/बिल या डिजिटल रिकॉर्ड में फेरबदल (कूटलेख-करण, मशीभेद, कूडी हुंडी-मुद्रा)—'जाली मुहर/हुंडी' का आधुनिक रूप जालसाज़ी और झूठे लेन-देन ही हैं। श्लोक की छूट-घोषणा यह विवेक भी सिखाती है कि पूर्ण निरपवाद सत्य गृहस्थ के लिए कठिन है, पर पराये को ठगने वाला स्वार्थ-झूठ अक्षम्य है; जहाँ-जहाँ चूक हो वहाँ पश्चात्तापपूर्वक स्वीकार कर वाणी को निर्मल किया जाए।",
+    "crossReferences": [
+      {
+        "text": "तत्त्वार्थसूत्र ७.२१ — सत्याणुव्रत के पाँच अतिचार (सहसाभ्याख्यान, रहस्याभ्याख्यान, स्वदारमंत्रभेद, मृषोपदेश, कूटलेखकरण)",
+        "source": "उमास्वाति, तत्त्वार्थाधिगमसूत्र"
+      },
+      {
+        "text": "उपासकदशांग / श्रावक-व्रत-परम्परा — द्वितीय अणुव्रत व पाँच महा-मृषावाद का वर्गीकरण",
+        "source": "अंग-आगम परम्परा"
+      },
+      {
+        "text": "लघु अतियार — देवसि/राइ प्रतिक्रमण में इसी व्रत का संक्षिप्त रूप",
+        "source": "पंच प्रतिक्रमण सूत्र – विधि सहित (अंचलगच्छ)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.21 — aticāras of the second vow (satya-aṇuvrata)",
+      "url": "https://www.wisdomlib.org/definition/kutalekhakarana",
+      "type": "scholarship",
+      "consultedFor": "पाँच अतिचारों (सहसाभ्याख्यान आदि) का शास्त्रीय नाम-ढाँचा"
+    },
+    {
+      "title": "Anuvrata — the five minor vows of the Jain layperson",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "सत्याणुव्रत की स्थिति व पंच-अतिचार वर्गीकरण की पुष्टि"
+    },
+    {
+      "title": "Mṛṣāvāda — definition and Jain ethical sense",
+      "url": "https://www.wisdomlib.org/definition/mrishavada",
+      "type": "dictionary",
+      "consultedFor": "मृषावाद/मृषा शब्द का अर्थ व कषाय-प्रेरित असत्य की व्याख्या"
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "मूल पाठ, 'मोटा कूडा' की पाँच-सूची तथा गुजराती आलोचना-व्याख्या"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "(1) पाठ-संरचना दो-स्तरीय है: पहले 'पंचविध' पाँच मोटा कूडा (कन्यालीक, गवालीक, भूम्यलीक, न्यासापहार, कूटसाक्ष्य = व्रत का स्थूल त्याग-विषय), फिर 'पाँच अतियार' (सहसाभ्याख्यान आदि = व्रत-मालिन्य)। दोनों सूचियाँ भिन्न हैं—इन्हें न मिलाएँ। (2) 'नासावहारे' की दो व्याख्याएँ प्रचलित हैं—शास्त्रसम्मत 'न्यासापहार' (धरोहर हड़पना), तथा कुछ आधुनिक भाष्यों में 'सत्य छिपाना'; यहाँ शास्त्रीय न्यासापहार ही लिया गया, क्योंकि वही पंच-महा-मृषावाद की प्रामाणिक सूची से मेल खाता है। (3) 'अभक्खाणो' = सं. अभ्याख्यान (मिथ्या आक्षेप); इसे 'भक्षण/खाना' समझना भ्रामक है—पाठ का स्वयं का गुजराती गद्य ('कूडुं आळ दीधुं') इसे 'झूठा आरोप' स्पष्ट करता है। (4) श्लोक के अंत में पहले श्लोक जैसी पूर्ण ध्रुवपंक्ति 'पक्ष-दिवसमांहे... मिच्छा मि दुक्कडं' मुद्रित नहीं; पाठ 'व्रत विषे।' पर रुकता है और वही समापन-भाव साझा/अध्याहृत रूप में जुड़ा माना जाता है (प्रस्तावना में वर्णित आवर्ती साँचा)। (5) वर्तनी पुस्तकानुसार यथावत्—'अतियार' (य-सहित), 'कूडुं/कूडा' आदि सामान्यीकृत नहीं किए गए।"
+}

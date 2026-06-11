@@ -1,0 +1,144 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/45",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Wherever a Jina-image stands — in any village, town, or city, or in Pāṭaṇ — Vācaka Mūlā says that place is dear to him and worthy of his bow.",
+  "recitation": "gāma nagara pura pāṭaṇo, sā(–) ǁ jina-mūrati jihāṁ hoya. 'vācaka-mūlā' kahe muja, sā(–)",
+  "wordByWord": [
+    {
+      "token": "ગામ",
+      "translit": "gāma",
+      "gloss": "village",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit grāma (a rural settlement, hamlet), through Prakrit gāma.",
+      "notes": "First and smallest unit in an ascending scale of settlement sizes."
+    },
+    {
+      "token": "નગર",
+      "translit": "nagara",
+      "gloss": "town",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit nagara (town, city); retained almost unchanged in Old Gujarati.",
+      "notes": ""
+    },
+    {
+      "token": "પુર",
+      "translit": "pura",
+      "gloss": "city (a larger walled settlement)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit pura (fortified town, citadel); cognate with the suffix -pur in place-names.",
+      "notes": ""
+    },
+    {
+      "token": "પાટણો",
+      "translit": "pāṭaṇo",
+      "gloss": "Pāṭaṇ / a capital city (here with the Old-Gujarati nominative ending -o)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit pattana / paṭṭana (a city or trading-port capital); the proper name Pāṭaṇ (Aṇahilavāḍa-Pāṭaṇ) derives from it.",
+      "notes": "Doubles as the famous Gujarat capital Pāṭaṇ and as a generic 'metropolis', sealing the ascending list gāma → nagara → pura → pāṭaṇa."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā(–)",
+      "gloss": "[abbreviated refrain-syllable marking the recurring dhruva/ṭeka of this dhāla]",
+      "partOfSpeech": "particle",
+      "etymology": "Scribal abbreviation: the syllable sā- followed by the circle-sign (૦) standing for the omitted remainder of the refrain word.",
+      "notes": "Recurs identically in the preceding verse; the full refrain (likely a vocative such as sāhiba / sāheba, 'O Lord') is printed only once earlier and abbreviated thereafter. Full expansion not given in the source here — see notes."
+    },
+    {
+      "token": "જિનમૂરતિ",
+      "translit": "jina-mūrati",
+      "gloss": "Jina-image, icon of a Tīrthaṅkara",
+      "partOfSpeech": "compound",
+      "etymology": "jina (conqueror, Tīrthaṅkara) + mūrati, the Old-Gujarati/Prakrit form of Sanskrit mūrti (form, embodiment, image).",
+      "notes": "Synonym in this hymn for jina-pratimā / jina-bimba; spelled with the metrically lengthened mūra-ti."
+    },
+    {
+      "token": "જિહાં",
+      "translit": "jihāṁ",
+      "gloss": "where, wherever",
+      "partOfSpeech": "adverb",
+      "etymology": "Relative locative adverb from Sanskrit yatra through Prakrit jahaṁ / Apabhraṁśa jihaṁ.",
+      "notes": "Universalizing relative — 'in whatever place soever'."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "is, may be, exists",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati third-person subjunctive/optative of the root ho- (to be), from Sanskrit bhavati through Prakrit hoï.",
+      "notes": "Subjunctive nuance: 'wherever there may happen to be' — hence all-inclusive."
+    },
+    {
+      "token": "વાચકમૂલા",
+      "translit": "vācaka-mūlā",
+      "gloss": "Vācaka Mūlā (the poet's signature)",
+      "partOfSpeech": "invocation",
+      "etymology": "vācaka (the monastic rank of Upādhyāya/preceptor) + the proper name Mūlā; the author's bhaṇitā signature.",
+      "notes": "Set in quotation marks in the source, as is usual for the poet's self-naming refrain closing each dhāla."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says, declares",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati third-person present of kahe-, from Sanskrit kathayati through Prakrit kahaï.",
+      "notes": "Governs the poet's name: 'Vācaka Mūlā says.'"
+    },
+    {
+      "token": "મુજ",
+      "translit": "muja",
+      "gloss": "to me / mine",
+      "partOfSpeech": "pronoun",
+      "etymology": "Archaic/poetic first-person oblique from Sanskrit mama / mad- through Apabhraṁśa muja.",
+      "notes": "First-person stamp: the poet personally claims this all-embracing devotion as his own."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā(–)",
+      "gloss": "[the same abbreviated refrain, repeated to close the verse]",
+      "partOfSpeech": "particle",
+      "etymology": "As above: sā- + abbreviation circle (૦).",
+      "notes": "Second occurrence; each line-pair of the dhāla is punctuated by this ṭeka."
+    }
+  ],
+  "literalTranslation": "Village, town, city, Pāṭaṇ — [refrain] — wherever a Jina-image may be; 'Vācaka Mūlā' says: mine — [refrain].",
+  "idiomaticTranslation": "In every village, every town, every city, in great Pāṭaṇ — wherever an image of the Jina stands — there my heart bows: so says Vācaka Mūlā, claiming them all as his own.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the final verse of the earthly tīrthamālā, and it performs a deliberate widening of the lens. The previous verse named specific places — Vaḍnagar, Ḍungarpur, Iḍar, the land of Mālvā — sites hallowed by the kalyāṇakas of the Jinas. Having exhausted even a long list of named towns, the poet now refuses to let any place fall outside his reverence: he sweeps up gāma, nagara, pura and pāṭaṇa in a single ascending breath, from the smallest hamlet to the grandest capital. The hinge is jihāṁ hoya, 'wherever there may be' — the criterion of holiness is shifted from a place's fame to a single fact: the presence of a jina-mūrati. Any spot on earth that holds a Jina-image is, by that alone, a tīrtha. The closing muja ('mine') is striking: where most of the hymn counts cosmic multitudes impersonally, here the poet steps forward in the first person and personally embraces every such shrine, however obscure. The signature 'Vācaka Mūlā kahe' then seals not just this dhāla but the whole tīrthamālā, handing the listener over to the crowning kalaśa that follows."
+  },
+  "doctrinalContext": "The verse rests on the foundational Mūrtipūjaka conviction that the Jina is truly venerable through his image (caitya-vandana): the icon is not the criterion's afterthought but its very ground — 'wherever a Jina-image is, there is a place to bow.' By making the mere presence of a jina-mūrati sufficient to consecrate village, town or city alike, the verse democratizes tīrtha-devotion: sanctity is not the monopoly of famous śikhara-shrines but is wherever the Jina is iconically present. This both strengthens samyaktva (right faith) — the worshipper's reverence is total and undivided — and prepares the transition in the following kalaśa from earthly shrines to the ninety-six Jinas across the three worlds.",
+  "practicalRelevance": "A reciter is invited to extend reverence beyond celebrated pilgrimage temples to the modest gabhāra of any local derāsar: the image before you, however humble its town, is as worthy of a heartfelt bow as Śatruñjaya itself. Saying muja ('mine'), one personally owns this universal devotion rather than leaving it abstract.",
+  "crossReferences": [
+    {
+      "text": "Preceding verse (no. 10): 'વડનગર ને ડુંગરપુરે … કલ્યાણક જિહાં જિનતણાં' — the named towns this verse generalizes from.",
+      "source": "Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.), dhāla 8"
+    },
+    {
+      "text": "Following kalaśa: 'છન્નુએ જિનવર … સાસય અસાસય જિનપડિમા' — the move from earthly shrines to the ninety-six Jinas and śāśvata/aśāśvata images.",
+      "source": "Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgaccha/Vidhipaksha ed.), kalaśa"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Pattana, Paṭṭana — definitions",
+      "url": "https://www.wisdomlib.org/definition/pattana",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit pattana/paṭṭana ('town, port-city, capital') as the root of પાટણો / Pāṭaṇ."
+    },
+    {
+      "title": "Grama, Grāma — definitions",
+      "url": "https://www.wisdomlib.org/definition/grama",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit grāma ('village') underlying ગામ."
+    },
+    {
+      "title": "Murti, Mūrti — definitions",
+      "url": "https://www.wisdomlib.org/definition/murti",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit mūrti ('form, embodiment, image') underlying મૂરતિ in જિનમૂરતિ."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The token સા૦ is an abbreviated refrain (dhruva/ṭeka) marker: the syllable સા- plus the Gujarati abbreviation-circle (૦). Its full expansion is not printed in the verse here — it is most plausibly a vocative refrain (e.g. sāhiba/sāheba, 'O Lord'), but the source does not spell it out at this point, so the expansion is left uncertain rather than asserted. પાટણો carries a deliberate double sense — the proper city Pāṭaṇ and a generic 'capital/metropolis' — both retained in the gloss. મૂરતિ (for mūrti) and the metrical vowel-lengths are preserved verbatim per the book's orthography. The daṇḍa bars (॥, ।) and commas are book punctuation, not separate lexical tokens. Reading follows the Anchalgaccha (Vidhipaksha) edition; web references corroborate root-forms only, not this specific Old-Gujarati passage."
+}

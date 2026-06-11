@@ -1,0 +1,252 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Ajitanātha — born in the royal Ikṣvāku line, noblest of men and of sages, his face calm as the clear autumn moon, free of all inner darkness — who shatters the fear of rebirth and is the whole world's refuge; be my refuge too.",
+  "recitation": "ikkhāga videha narīsara, naravasahā muṇivasahā | navasāraya sasi sakalāṇaṇa, vigayatamā vihuyarayā | ajiuttama teaguṇehiṁ muhāmuṇi amia balā viula phulā | paṇāmāmi te bhava bhaya mūraṇa, jagasaraṇā mama saraṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ઇક્ખાગ",
+      "translit": "ikkhāga",
+      "gloss": "of the Ikṣvāku (dynasty) — the solar royal line into which Ajitanātha was born",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ikkhāga ← Skt. ikṣvāku, the founding king of the Sūryavaṁśa (solar dynasty).",
+      "notes": "Ajitanātha is traditionally born of the Ikṣvāku line at Ayodhyā."
+    },
+    {
+      "token": "વિદેહ",
+      "translit": "videha",
+      "gloss": "of Videha — the exalted kṣatriya realm/lineage",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. videha, the kingdom of Mithilā/Videha; paired here with Ikṣvāku to name the noble royal stock.",
+      "notes": "videha can also literally mean 'bodiless/liberated'; in this compound the lineage sense is primary."
+    },
+    {
+      "token": "નરીસર",
+      "translit": "narīsara",
+      "gloss": "lord of men, king",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit narīsara ← Skt. nara ('man') + īśvara ('lord'); = nareśvara.",
+      "notes": "Caps the first phrase: 'sovereign among the men of the Ikṣvāku–Videha line.'"
+    },
+    {
+      "token": "નરવસહા",
+      "translit": "naravasahā",
+      "gloss": "bull among men (the foremost of men)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit nara + vasaha ← Skt. nara-vṛṣabha; vṛṣabha ('bull') is the stock idiom for 'best of'.",
+      "notes": ""
+    },
+    {
+      "token": "મુણિવસહા",
+      "translit": "muṇivasahā",
+      "gloss": "bull among sages (the foremost of munis)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit muṇi ('sage') + vasaha ← Skt. muni-vṛṣabha.",
+      "notes": "The pair nara-/muni-vasahā compresses the king-to-renunciant arc into one breath."
+    },
+    {
+      "token": "નવસારય",
+      "translit": "navasāraya",
+      "gloss": "of the fresh autumn (season)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nava ('new, fresh') + sāraya ← Skt. śārada ('autumnal'); modifies the moon.",
+      "notes": "The autumn (śarat) moon is cloudless and luminous — the classic image of serene clarity."
+    },
+    {
+      "token": "સસિ",
+      "translit": "sasi",
+      "gloss": "moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sasi ← Skt. śaśin ('hare-marked one', the moon).",
+      "notes": ""
+    },
+    {
+      "token": "સકલાણણ",
+      "translit": "sakalāṇaṇa",
+      "gloss": "full-faced — face complete like the full moon-disc",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sakala ('whole, with all its digits/kalās') + ānana ('face'); via Prakrit ṇ for n.",
+      "notes": "Likens the Jina's countenance to the autumn moon in its full, undiminished orb."
+    },
+    {
+      "token": "વિગયતમા",
+      "translit": "vigayatamā",
+      "gloss": "with darkness gone (free of gloom/ignorance)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vigaya ← Skt. vigata ('departed') + tama ← tamas ('darkness').",
+      "notes": "Of the moon, dispeller of night's dark; of the Jina, ender of the darkness of ignorance (mithyātva)."
+    },
+    {
+      "token": "વિહુયરયા",
+      "translit": "vihuyarayā",
+      "gloss": "having shaken off the dust (of passion/karma)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vihuya ← Skt. vidhūta ('shaken off') + raya ← rajas ('dust', also passion).",
+      "notes": "rajas puns: cosmic dust dimming the moon, and the karmic/passional dust the Jina has cast off — i.e. vītarāga."
+    },
+    {
+      "token": "અજિઉત્તમ",
+      "translit": "ajiuttama",
+      "gloss": "O supreme Ajita (best of the unconquered)",
+      "partOfSpeech": "invocation",
+      "etymology": "Ajia ← Skt. Ajita ('unconquered') + uttama ('highest, best').",
+      "notes": "Names the hymned Jina explicitly: this stanza praises Ajitanātha."
+    },
+    {
+      "token": "તેઅગુણેહિં",
+      "translit": "teaguṇehiṁ",
+      "gloss": "by/through (his) qualities of radiance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tea ← Skt. teja ('splendour') + guṇa ('quality') + instr. pl. -ehiṁ.",
+      "notes": "Instrumental: it is by his radiant virtues that he is the great sage of boundless power."
+    },
+    {
+      "token": "મુહામુણિ",
+      "translit": "muhāmuṇi",
+      "gloss": "great sage",
+      "partOfSpeech": "noun",
+      "etymology": "Read as Skt. mahā-muni ('great sage') in Prakritized form.",
+      "notes": "Reading uncertain; the orthography is preserved verbatim and glossed as mahā-muni."
+    },
+    {
+      "token": "અમિઅ",
+      "translit": "amia",
+      "gloss": "immeasurable, boundless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit amia ← Skt. amita ('unmeasured'); qualifies 'strength'.",
+      "notes": ""
+    },
+    {
+      "token": "બલા",
+      "translit": "balā",
+      "gloss": "strength, power",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bala ('strength'); amia-balā = 'of immeasurable might'.",
+      "notes": "A Tīrthaṅkara's anantavīrya (infinite energy) on attaining omniscience."
+    },
+    {
+      "token": "વિઉલ",
+      "translit": "viula",
+      "gloss": "vast, abundant",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viula ← Skt. vipula ('extensive, great').",
+      "notes": ""
+    },
+    {
+      "token": "ફુલા",
+      "translit": "phulā",
+      "gloss": "full-blown, flourishing (fully blossomed)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit phula ← Skt. phulla ('blossomed, expanded'); viula-phulā = 'amply full-blown'.",
+      "notes": "Many recensions read viula-kulā (vipula-kula, 'of vast/noble lineage'); the book's phulā is preserved here."
+    },
+    {
+      "token": "પણામામિ",
+      "translit": "paṇāmāmi",
+      "gloss": "I bow, I make obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ← Skt. praṇamāmi (pra + √nam, 'to bow'), 1st sg.",
+      "notes": "Book reads paṇāmāmi (long ā); the commoner form is paṇamāmi — preserved verbatim."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "to you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit/Skt. te, dative/accusative of the 2nd person.",
+      "notes": "Marks the turn from third-person praise to direct second-person prayer."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, rebirth (saṁsāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhava ('becoming, existence').",
+      "notes": ""
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhaya ('fear, dread').",
+      "notes": ""
+    },
+    {
+      "token": "મૂરણ",
+      "translit": "mūraṇa",
+      "gloss": "O crusher/destroyer (of)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mūraṇa ← Skt. √mṛ/mūrṇ, 'to crush, shatter'; bhava-bhaya-mūraṇa = 'shatterer of the fear of rebirth'.",
+      "notes": "Vocative epithet — directly invokes the Jina's gift of fearlessness (abhaya)."
+    },
+    {
+      "token": "જગસરણા",
+      "translit": "jagasaraṇā",
+      "gloss": "refuge of the world",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jaga ← Skt. jagat ('world') + saraṇa ← śaraṇa ('refuge, shelter').",
+      "notes": ""
+    },
+    {
+      "token": "મમ",
+      "translit": "mama",
+      "gloss": "my, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt./Prakrit mama, genitive of the 1st person.",
+      "notes": ""
+    },
+    {
+      "token": "સરણં",
+      "translit": "saraṇaṁ",
+      "gloss": "(be my) refuge",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saraṇaṁ ← Skt. śaraṇam ('shelter, protection').",
+      "notes": "The verse seals on a single personal plea: 'mama saraṇaṁ' — be my refuge."
+    }
+  ],
+  "literalTranslation": "Ikṣvāku–Videha lord of men, bull among men, bull among sages; full-faced as the fresh autumn moon, with darkness gone and dust shaken off — O supreme Ajita, by your radiant virtues a great sage, of immeasurable strength, amply full-blown: I bow to you, crusher of the fear of existence, refuge of the world — (be) my refuge.",
+  "idiomaticTranslation": "Sovereign of men of the Ikṣvāku and Videha line, foremost among men and foremost among sages; your face as serene and complete as the clear autumn moon, all darkness banished, every speck of passion shaken away — O peerless Ajita, by your radiant virtues a great sage of boundless might and ample glory: I bow before you, shatterer of the fear of rebirth, shelter of all the world — be my refuge too.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just prayed to Śānti for peace, the hymn now swings back to Ajitanātha and opens the great sequence of 'surpassings' with its first crown — the moon. The stanza is built almost entirely of epithets, and they climb deliberately: first lineage and rank (Ikṣvāku-Videha sovereign), then the twin 'bull' titles that fuse worldly nobility with ascetic supremacy (naravasahā / muṇivasahā) — king and renunciant named in one breath. The central image is the autumn moon: navasāraya-sasi, full-faced (sakalāṇaṇa), with darkness dispelled (vigayatamā) and dust shaken off (vihuyarayā). Each lunar trait is bivalent — the cloudless śarat moon literally dispels night's dark and is freed of obscuring dust, while the Jina has dispelled the darkness of ignorance and shaken off the dust of passion. The third line names him outright — ajiuttama — and grounds his greatness in teaguṇehiṁ, his radiant virtues, crowning him mahā-muni of immeasurable power. Then the decisive turn: the whole edifice of praise collapses, gracefully, into a single act — paṇāmāmi te. Third-person eulogy becomes second-person surrender. The closing epithets bhava-bhaya-mūraṇa and jagasaraṇā widen to the cosmic ('shatterer of rebirth-fear,' 'refuge of the world'), only to narrow to the intimate last plea: mama saraṇaṁ, 'be my refuge.' The verse thus models the devotee's own movement — from admiring the Jina's qualities to taking shelter in them.",
+    "doctrinalContext": "The two lunar epithets encode the Jina's spiritual attainment. vigayatamā ('darkness gone') points to the destruction of jñānāvaraṇīya and the dawn of kevalajñāna — omniscience as light where ignorance was night. vihuyarayā ('dust shaken off') names the vītarāga state: rajas as the passions (rāga-dveṣa) and the subtle karmic dust now cast off, the mark of a kṣīṇa-kaṣāya soul. amia-balā affirms anantavīrya, the infinite energy that surfaces once the obscuring karmas fall. Finally, bhava-bhaya-mūraṇa and the doubled saraṇā make the verse an act of śaraṇa-gamana: the Jina, himself fearless, becomes the source of abhaya for the reciter who shelters in him.",
+    "practicalRelevance": "Recited, this verse trains the heart to move from contemplation to surrender. One first dwells on the Jina's serene, passion-free clarity — the autumn-moon face — as an image to steady a restless mind; then, at paṇāmāmi te... mama saraṇaṁ, one lets admiration become refuge, offering one's own fear of saṁsāra to the 'crusher of the fear of existence.' It is a compact exercise in calming dread by taking shelter.",
+    "crossReferences": [
+      {
+        "text": "Logassa: 'candesu nimmalayarā' — the Jinas purer than the moons",
+        "source": "Caturviṁśati-stava (Logassa), Āvaśyaka tradition"
+      },
+      {
+        "text": "'cattāri saraṇaṁ pavajjāmi — arahante saraṇaṁ pavajjāmi' (taking the Four Refuges)",
+        "source": "Catuḥśaraṇa Prakīrṇaka / daily Jain liturgy"
+      },
+      {
+        "text": "Ajitaśānti Stava v.6, 'saraṇaṁ pavajjaha' — take refuge in the Jinas",
+        "source": "Nandiṣeṇasūri, Ajitaśānti Stava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: vṛṣabha, śārada, śaśin, sakala/ānana, vidhūta/rajas, teja, amita/bala, vipula/phulla, praṇam, śaraṇa, jagat."
+    },
+    {
+      "title": "Ajitanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Ajitanātha as the 2nd Tīrthaṅkara, born of the Ikṣvāku dynasty at Ayodhyā; royal-to-ascetic arc and attainment of Kevalajñāna — anchoring the ikkhāga / naravasahā-muṇivasahā epithets to this Jina."
+    },
+    {
+      "title": "Ikshvaku dynasty (Solar dynasty / Sūryavaṁśa) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ikshvaku_dynasty",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Ikṣvāku/solar royal line and its association with Videha/Mithilā, clarifying 'ikkhāga videha narīsara' as a lineage-and-sovereignty epithet."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The printed asterisk before line 3 is the book's footnote/variant cue at v.13 (noted in the sutra preface), not part of the recited words, and is omitted from the token list. Verse assigned to Ajitanātha on the explicit 'ajiuttama'. Orthography preserved verbatim: 'paṇāmāmi' (long ā) for the commoner 'paṇamāmi'. 'ફુલા phulā' (= phulla, 'full-blown') is the book's reading; many recensions read 'viula-kulā' (vipula-kula, 'of vast/noble lineage') — a genuine and common variant. 'મુહામુણિ muhāmuṇi' is read as mahā-muni but the form is irregular and the reading is somewhat uncertain. 'videha' is taken as the royal realm/lineage paired with Ikṣvāku; a secondary literal sense 'bodiless/liberated' is possible but not adopted. The moon-epithets vigayatamā / vihuyarayā are deliberately bivalent (lunar and spiritual)."
+}

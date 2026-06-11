@@ -1,0 +1,158 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing to the two feet of the Sage Pārśva — feet aglow with light from the jewelled crowns of the gods who bow before him — the poet announces that he will now recite the hymn that destroys great fear.",
+  "recitation": "namiūṇa paṇaya-suragaṇa-cūḍāmaṇi-kiraṇa-raṁjiaṁ muṇiṇo | calaṇa-jualaṁ mahābhaya-paṇāsaṇaṁ saṁthavaṁ vucchaṁ ||",
+  "wordByWord": [
+    {
+      "token": "નમિઊણ",
+      "translit": "namiūṇa",
+      "gloss": "having bowed, having paid homage (to)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive (ktvā-gerund) of √nam 'to bow'; = Sanskrit natvā / praṇamya. This very opening word gives the hymn its alternate name, the Namiūṇa Stotra.",
+      "notes": "Governs the accusative calaṇa-jualaṁ in the second line: 'having bowed to the foot-pair…'."
+    },
+    {
+      "token": "પણય",
+      "translit": "paṇaya",
+      "gloss": "bowed down, prostrating, doing homage",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit praṇata (pra + √nam), 'bent low in salutation'; first member of the compound qualifying sura-gaṇa.",
+      "notes": "Describes the gods as themselves bowing — establishing the hierarchy in which even devas venerate the Jina."
+    },
+    {
+      "token": "સુરગણ",
+      "translit": "sura-gaṇa",
+      "gloss": "the host/assembly of gods",
+      "partOfSpeech": "compound",
+      "etymology": "sura ('god', Skt. sura) + gaṇa ('troop, multitude'); a tatpuruṣa, 'multitude of gods'.",
+      "notes": "Genitive sense within the compound: the crest-jewels belong to these bowing gods."
+    },
+    {
+      "token": "ચૂડામણિ",
+      "translit": "cūḍāmaṇi",
+      "gloss": "crest-jewel, the gem worn on the crown of the head",
+      "partOfSpeech": "compound",
+      "etymology": "cūḍā ('topknot, crest') + maṇi ('jewel'); classical 'head-ornament' (cf. Nāṭyaśāstra ch. 23, an ābharaṇa for the śiras).",
+      "notes": "As the gods bow, their head-jewels dip toward the Jina's feet."
+    },
+    {
+      "token": "કિરણ",
+      "translit": "kiraṇa",
+      "gloss": "ray(s) of light, radiance",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kiraṇa, 'a ray, beam'; here the light streaming from the crest-jewels.",
+      "notes": ""
+    },
+    {
+      "token": "રંજિઅં",
+      "translit": "raṁjiaṁ",
+      "gloss": "tinged, coloured, reddened (made lustrous)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle < Skt. rañjita (√rañj 'to colour, redden'); accusative neuter agreeing with calaṇa-jualaṁ.",
+      "notes": "The foot-pair is 'dyed' by the jewel-rays — the same conceit as the Jina's feet reddened by gods' crest-gems in Mānatuṅga's Bhaktāmara opening."
+    },
+    {
+      "token": "મુણિણો",
+      "translit": "muṇiṇo",
+      "gloss": "of the Sage (i.e. of Pārśva)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit genitive singular of muṇi < Skt. muni, 'silent sage, ascetic'; = muneḥ.",
+      "notes": "Here the Muni is Pārśvanātha, whose foot-pair is the object of homage; genitive linking him to calaṇa-jualaṁ."
+    },
+    {
+      "token": "ચલણ",
+      "translit": "calaṇa",
+      "gloss": "foot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. caraṇa, 'foot' (√car 'to move'); not to be confused with calana 'shaking/flame'.",
+      "notes": "First member of calaṇa-juala; the recurring refuge-motif of the hymn."
+    },
+    {
+      "token": "જુઅલં",
+      "translit": "jualaṁ",
+      "gloss": "the pair (the two together)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. yugala, 'couple, pair'; accusative neuter, object of namiūṇa.",
+      "notes": "calaṇa-jualaṁ = caraṇa-yugala, 'the pair of feet'."
+    },
+    {
+      "token": "મહાભય",
+      "translit": "mahābhaya",
+      "gloss": "great fear, mortal peril",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + bhaya ('fear'); first member of the compound qualifying saṁthavaṁ.",
+      "notes": "Names the hymn's whole subject — the catalogue of life-threatening dangers it dispels."
+    },
+    {
+      "token": "પણાસણં",
+      "translit": "paṇāsaṇaṁ",
+      "gloss": "destroying, annihilating",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. praṇāśana (pra + √naś, causative), 'causing to perish'; accusative agreeing with saṁthavaṁ.",
+      "notes": "mahābhaya-paṇāsaṇaṁ = 'destroyer of great fear', the epithet behind the title Bhayahara."
+    },
+    {
+      "token": "સંથવં",
+      "translit": "saṁthavaṁ",
+      "gloss": "the hymn of praise (saṁstava)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. saṁstava (sam + √stu), 'sustained eulogy, praise'; accusative, direct object of vucchaṁ.",
+      "notes": "The poem names itself a saṁstava in its very first verse."
+    },
+    {
+      "token": "વુચ્છં",
+      "translit": "vucchaṁ",
+      "gloss": "I shall speak / I shall recite",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit future 1st-person singular < Skt. vakṣye (√vac/√brū, 'to speak'); 'I will utter'.",
+      "notes": "The poet's pratijñā (declared intention) to compose — the rhetorical hinge of an invocation verse."
+    }
+  ],
+  "literalTranslation": "Having bowed to the pair of feet of the Sage [Pārśva] — [feet] reddened by the rays of the crest-jewels of the bowing host of gods — I shall recite the hymn of praise that is the destroyer of great fear.",
+  "idiomaticTranslation": "I bow at the twin feet of the Sage, Lord Pārśva — feet bathed in the glowing light of the crown-jewels of the gods who lower their heads before him — and now I shall sing the hymn of praise that shatters every great fear.",
+  "elaboration": {
+    "verseByVerseCommentary": "As the maṅgala-pratijñā of the hymn, this verse does three things at once. (1) With its first word, namiūṇa — 'having bowed' — it enacts the bow it describes, and that word, carried over the line-break to govern calaṇa-jualaṁ, makes the whole stanza a single act of prostration to Pārśva's feet. The 'pair of feet' (calaṇa-juala) introduced here is the hymn's master-image: the place of refuge to which every later danger-verse will return. (2) The central conceit raises the Jina above the gods themselves. It is not Pārśva who bows; it is the suragaṇa, and as they lower their heads the rays (kiraṇa) of their crest-jewels (cūḍāmaṇi) fall on his feet and 'redden' (raṁjiaṁ) them — so that the Lord's soles are lit, almost coloured, by the crowns of the divine. The worshipped feet outshine the worshippers' jewels. (3) The poet then states his thesis and makes his vow: he will 'recite' (vucchaṁ) a saṁthavaṁ that is mahābhaya-paṇāsaṇaṁ, 'a destroyer of great fear.' That compound is effectively the title in seed-form — it is precisely because the hymn promises this that it is called Bhayahara. Note the deliberate symmetry of the gāthā: the first line is pure image (radiant feet), the second pure purpose (fear destroyed), bridged by muṇiṇo / calaṇa-jualaṁ. Nothing here yet names a single danger; the verse simply fixes the object of refuge and the fruit of the recitation, so that the litany of perils to come already has its answer in place before the first peril is spoken.",
+    "doctrinalContext": "The verse encodes the Jain logic of devotion to a vītarāga. The Tīrthaṅkara grants nothing actively — he is dispassionate — yet he is supreme even over the devas who attend him; protection arises from the devotee's own bhāva of homage and remembrance directed at that supremacy. Opening with a bow (vandanā) is itself maṅgala, the auspicious threshold that makes recitation efficacious. The 'feet' (caraṇa) function as the classic object of śaraṇa (refuge), and the fruit named — destruction of mahābhaya — is abhaya, fearlessness, which in Jain thought follows from taking refuge in one who has himself crossed beyond all fear. That even the gods' crest-jewels serve only to illumine his feet expresses the hierarchy in which a liberated soul stands above all saṁsāric powers.",
+    "practicalRelevance": "Recite this verse as a literal bow: pause, bring the two feet of Pārśva to mind, and let namiūṇa shape an actual gesture of homage before continuing. Treat vucchaṁ as setting your intention — 'I now undertake this saṁstava' — and mahābhaya-paṇāsaṇaṁ as the reassurance you carry through the danger-verses that follow: the remedy has already been named before any fear is.",
+    "crossReferences": [
+      {
+        "text": "Bhaktāmara Stotra v.1 (the Jina's feet whose nail-lustre is heightened by the crest-jewel rays of bowing gods) — the same poet's parallel opening conceit",
+        "source": "Mānatuṅga; trans./ed. cf. Wikipedia, 'Bhaktamara Stotra'"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava), prayer for ārogga-bohi-lābha and serenity — the Jina as giver of fearless well-being",
+        "source": "Āvaśyaka tradition; Panch Pratikraman Sutra, Vidhipaksha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Saṃstava — definition (Sanskrit/Prakrit/Jain lexicon)",
+      "url": "https://www.wisdomlib.org/definition/samstava",
+      "type": "dictionary",
+      "consultedFor": "sense of saṁthava/saṁstava as 'sustained praise, eulogy', confirming the hymn's self-designation"
+    },
+    {
+      "title": "Cūḍāmaṇi — definition (incl. Nāṭyaśāstra ābharaṇa sense)",
+      "url": "https://www.wisdomlib.org/definition/cudamani",
+      "type": "dictionary",
+      "consultedFor": "cūḍāmaṇi as 'crest-jewel', a head-ornament whose rays redden the Jina's feet"
+    },
+    {
+      "title": "Bhaktamara Stotra",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Mānatuṅga's authorship and the parallel opening image of crest-jewel rays at the Jina's feet"
+    },
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "identification of the 'Muni' here as Pārśvanātha, the 23rd Tīrthaṅkara addressed by the hymn"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The bracketed heading '(પાંચમું સ્મરણ)' / '(pāñcamuṁ smaraṇa)' = '(Fifth Smaraṇa)' is an editorial section-rubric, not part of the gāthā, and is therefore not glossed as a verse token. Key disambiguation: 'calaṇa' here is caraṇa = 'foot' (the refuge-motif), NOT calana = 'shaking/flame'; some popular paraphrases misread it. 'muṇiṇo' (gen. of muni) denotes Pārśva, the Muni praised throughout. Syntax: namiūṇa (line 1) governs the accusative calaṇa-jualaṁ (line 2); raṁjiaṁ and paṇāsaṇaṁ are accusative modifiers agreeing with jualaṁ and saṁthavaṁ respectively. Spellings (raṁjiaṁ, jualaṁ, calaṇa, paṇāsaṇaṁ) follow the supplied source text verbatim; other recensions print minor variants (e.g. raṁjiyaṁ, juyalaṁ, paṇāsaṇaṁ/paṇāsiṇaṁ) which do not affect the sense. The precise nuance of raṁjiaṁ ('reddened' vs. merely 'tinged/made lustrous') is rendered conservatively."
+}

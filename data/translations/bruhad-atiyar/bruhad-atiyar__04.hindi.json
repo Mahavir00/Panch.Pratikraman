@@ -1,0 +1,721 @@
+{
+  "shlokaId": "bruhad-atiyar/04",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "plainMeaning": "इस चौथे श्लोक में श्रावक अपने ब्रह्मचर्य (शील) व्रत को मलिन करने वाली पाँच भूलों—पराई स्त्री से संसर्ग, अविवाहिता-वेश्या आदि से संसर्ग, अप्राकृतिक काम-क्रीड़ा, दूसरों के विवाह जुड़वाना और काम-भोग की तीव्र लालसा—को याद करके उनका पश्चात्ताप करता है।",
+  "recitation": "चोथुं शीलव्रत यथाशक्ते स्वदारासंतोष, परदारा विवर्जना रूप। ए चोथा शीलव्रततणा पांच अतियार शोधुं। इत्तर परिग्गहिया गमणे, अपर परिग्गहिया गमणे, अनंगकीडा, परविवाह करणे, कामभोग तिव्वाभिलासे। इत्वरे–थोडे काले द्रव्यादिक परिगृहीत परस्त्रीतणुं गमन कीधुं होय। अपरपरिगृहीत–विधवा कुमारिकातणुं गमन कीधुं होय। अनंगकीडा–अत्यासक्ते स्वदेह परदेह काम कुचेष्टा कीधी होय। पराया विवाहना जोडावाडा कीधा होय। कामभोगतणे विषे रात्रि दिवस, तच्चित्त थइ तीव्राभिलाष धर्यो होय। पर्वतिथिए विस्मृतलगे शीलभंग हुओ होय। परस्त्रीशुं अश्लील वचन हास्य कीधां होय, स्त्रीतणां अवयवभणी सरागदृष्टि कीधी होय। वेश्या वाहिगदर्शनी भणी दुष्ट मनसा कीधी होय, स्वखांतरे शीलभंग हुओ होय। अनेरुं ए चोथा शीलव्रत विषे॰",
+  "wordByWord": [
+    {
+      "token": "ચોથું",
+      "translit": "cothuṁ",
+      "gloss": "चौथा",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. cauttha < सं. caturtha",
+      "notes": "गिने जा रहे अणुव्रतों में चौथा"
+    },
+    {
+      "token": "શીલવ્રત",
+      "translit": "śīlavrata",
+      "gloss": "शीलव्रत (गृहस्थ का ब्रह्मचर्य अणुव्रत)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śīla (सदाचार) + vrata (व्रत)",
+      "notes": "श्रावक के लिए पूर्ण ब्रह्मचर्य नहीं, अपितु स्वदार-संतोष रूप"
+    },
+    {
+      "token": "યથાશક્તે",
+      "translit": "yathāśakte",
+      "gloss": "यथाशक्ति, अपनी सामर्थ्य के अनुसार",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. yathā + śakti",
+      "notes": "गृहस्थ की मर्यादित पालन-क्षमता को सूचित करता है"
+    },
+    {
+      "token": "સ્વદારાસંતોષ",
+      "translit": "svadārā-saṁtoṣa",
+      "gloss": "अपनी ही पत्नी (जीवनसाथी) में संतोष",
+      "partOfSpeech": "compound",
+      "etymology": "sva (अपना) + dārā (पत्नी) + saṁtoṣa (संतोष)"
+    },
+    {
+      "token": "પરદારા",
+      "translit": "paradārā",
+      "gloss": "पराई स्त्री/पराया जीवनसाथी",
+      "partOfSpeech": "noun",
+      "etymology": "para (पराया) + dārā (पत्नी)"
+    },
+    {
+      "token": "વિવર્જના",
+      "translit": "vivarjanā",
+      "gloss": "त्याग, परित्याग",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi-√vṛj (छोड़ना)"
+    },
+    {
+      "token": "રૂપ",
+      "translit": "rūpa",
+      "gloss": "स्वरूप वाला, रूप का",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rūpa",
+      "notes": "अर्थात् 'स्वदार-संतोष व परदार-त्याग रूप' व्रत"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "यह, इस",
+      "partOfSpeech": "pronoun",
+      "etymology": "प्रा./गुज. e < सं. etad"
+    },
+    {
+      "token": "ચોથા",
+      "translit": "cothā",
+      "gloss": "चौथे",
+      "partOfSpeech": "adj",
+      "etymology": "< caturtha"
+    },
+    {
+      "token": "શીલવ્રતતણા",
+      "translit": "śīlavrata-taṇā",
+      "gloss": "शीलव्रत के",
+      "partOfSpeech": "compound",
+      "etymology": "śīlavrata + taṇā (गुज. षष्ठी = 'का/के')"
+    },
+    {
+      "token": "પાંચઅતિયાર",
+      "translit": "pāṁca-atiyāra",
+      "gloss": "पाँच अतिचार",
+      "partOfSpeech": "compound",
+      "etymology": "pāṁca (पाँच) + atiyāra",
+      "notes": "पुस्तकानुसार 'अतियार' वर्तनी"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "शुद्ध करता हूँ, आलोचना करता हूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √śudh (शुद्ध करना)"
+    },
+    {
+      "token": "ઇત્તર",
+      "translit": "ittara",
+      "gloss": "इत्वर—थोड़े समय के लिए (अल्पकाल हेतु ग्रहण की गई)",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. ittara < सं. itvara (क्षणिक)",
+      "notes": "मूल शास्त्रीय नाम ittvarika-parigṛhīta-gamana"
+    },
+    {
+      "token": "પરિગ્ગહિયા",
+      "translit": "pariggahiyā",
+      "gloss": "परिगृहीत (किसी के द्वारा ग्रहण की गई, स्वामित्व-युक्त स्त्री)",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. < सं. parigṛhīta"
+    },
+    {
+      "token": "ગમણે",
+      "translit": "gamaṇe",
+      "gloss": "गमन में (संसर्ग करने में)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. gamaṇa < सं. gamana"
+    },
+    {
+      "token": "અપર",
+      "translit": "apara",
+      "gloss": "अपर/अन्य; यहाँ अ-परिगृहीत (बिना स्वामी की)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. apara",
+      "notes": "मूल नाम aparigṛhīta-gamana"
+    },
+    {
+      "token": "પરિગ્ગહિયા",
+      "translit": "pariggahiyā",
+      "gloss": "परिगृहीत (पुनरावृत्त)",
+      "partOfSpeech": "adj",
+      "etymology": "< parigṛhīta"
+    },
+    {
+      "token": "ગમણે",
+      "translit": "gamaṇe",
+      "gloss": "गमन में (पुनरावृत्त)",
+      "partOfSpeech": "noun",
+      "etymology": "< gamana"
+    },
+    {
+      "token": "અનંગકીડા",
+      "translit": "anaṅga-kīḍā",
+      "gloss": "अनंगक्रीड़ा—अंग-रहित/अप्राकृतिक काम-क्रीड़ा",
+      "partOfSpeech": "compound",
+      "etymology": "an-aṅga ('अंग-रहित', कामदेव का विशेषण) + प्रा. kīḍā < krīḍā (क्रीड़ा)",
+      "notes": "स्वाभाविक संसर्ग से इतर इन्द्रिय-कुचेष्टा"
+    },
+    {
+      "token": "પરવિવાહ",
+      "translit": "para-vivāha",
+      "gloss": "दूसरों का विवाह",
+      "partOfSpeech": "compound",
+      "etymology": "para + vivāha"
+    },
+    {
+      "token": "કરણે",
+      "translit": "karaṇe",
+      "gloss": "कराने में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. karaṇa (करना)",
+      "notes": "मूल नाम para-vivāha-karaṇa"
+    },
+    {
+      "token": "કામભોગ",
+      "translit": "kāma-bhoga",
+      "gloss": "काम-भोग, विषय-भोग",
+      "partOfSpeech": "compound",
+      "etymology": "kāma + bhoga"
+    },
+    {
+      "token": "તિવ્વાભિલાસે",
+      "translit": "tivvābhilāse",
+      "gloss": "तीव्र अभिलाषा में",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. tivva < सं. tīvra (तीव्र) + abhilāṣa (अभिलाषा)",
+      "notes": "मूल नाम kāma-tīvrābhiniveśa"
+    },
+    {
+      "token": "ઇત્વરે",
+      "translit": "itvare",
+      "gloss": "इत्वर—अर्थात् थोड़े (समय में)",
+      "partOfSpeech": "adj",
+      "etymology": "< itvara",
+      "notes": "यहाँ से प्रत्येक प्राकृत नाम की गुजराती व्याख्या आरम्भ होती है"
+    },
+    {
+      "token": "થોડે",
+      "translit": "thoḍe",
+      "gloss": "थोड़े",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. thoḍuṁ (अल्प)"
+    },
+    {
+      "token": "કાલે",
+      "translit": "kāle",
+      "gloss": "काल में, समय के लिए",
+      "partOfSpeech": "noun",
+      "etymology": "सं. kāla"
+    },
+    {
+      "token": "દ્રવ્યાદિક",
+      "translit": "dravyādika",
+      "gloss": "द्रव्य आदि (देकर/के बदले)",
+      "partOfSpeech": "compound",
+      "etymology": "dravya + ādika",
+      "notes": "धन आदि देकर अल्पकाल हेतु रखी गई स्त्री"
+    },
+    {
+      "token": "પરિગૃહીત",
+      "translit": "parigṛhīta",
+      "gloss": "परिगृहीत, ग्रहण की हुई",
+      "partOfSpeech": "adj",
+      "etymology": "सं. parigṛhīta"
+    },
+    {
+      "token": "પરસ્ત્રીતણું",
+      "translit": "parastrī-taṇuṁ",
+      "gloss": "पराई स्त्री का",
+      "partOfSpeech": "compound",
+      "etymology": "para-strī + taṇuṁ (गुज. षष्ठी)"
+    },
+    {
+      "token": "ગમન",
+      "translit": "gamana",
+      "gloss": "गमन, संसर्ग",
+      "partOfSpeech": "noun",
+      "etymology": "सं. gamana"
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "किया (हो)",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. kīdhuṁ < सं. kṛta"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. hovuṁ",
+      "notes": "'...होय' = आलोचना का आवर्ती 'हुआ हो' भाव"
+    },
+    {
+      "token": "અપરપરિગૃહીત",
+      "translit": "apara-parigṛhīta",
+      "gloss": "अ-परिगृहीत (किसी के स्वामित्व में नहीं)",
+      "partOfSpeech": "compound",
+      "etymology": "a- + para + parigṛhīta"
+    },
+    {
+      "token": "વિધવા",
+      "translit": "vidhavā",
+      "gloss": "विधवा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vidhavā"
+    },
+    {
+      "token": "કુમારિકાતણું",
+      "translit": "kumārikā-taṇuṁ",
+      "gloss": "कुमारी (कन्या) का",
+      "partOfSpeech": "compound",
+      "etymology": "kumārikā + taṇuṁ"
+    },
+    {
+      "token": "ગમન",
+      "translit": "gamana",
+      "gloss": "गमन (पुनरावृत्त)",
+      "partOfSpeech": "noun",
+      "etymology": "< gamana"
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "किया (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "અનંગકીડા",
+      "translit": "anaṅga-kīḍā",
+      "gloss": "अनंगक्रीड़ा (पुनरावृत्त, व्याख्या-शीर्ष)",
+      "partOfSpeech": "compound",
+      "etymology": "< an-aṅga + krīḍā"
+    },
+    {
+      "token": "અત્યાસક્તે",
+      "translit": "atyāsakte",
+      "gloss": "अत्यासक्ति से, अति-आसक्ति-वश",
+      "partOfSpeech": "adverb",
+      "etymology": "ati + ā-sakti"
+    },
+    {
+      "token": "સ્વદેહ",
+      "translit": "svadeha",
+      "gloss": "अपने शरीर (पर)",
+      "partOfSpeech": "compound",
+      "etymology": "sva + deha"
+    },
+    {
+      "token": "પરદેહ",
+      "translit": "paradeha",
+      "gloss": "पराये शरीर (पर)",
+      "partOfSpeech": "compound",
+      "etymology": "para + deha"
+    },
+    {
+      "token": "કામ",
+      "translit": "kāma",
+      "gloss": "काम-सम्बन्धी",
+      "partOfSpeech": "noun",
+      "etymology": "सं. kāma"
+    },
+    {
+      "token": "કુચેષ્ટા",
+      "translit": "kuceṣṭā",
+      "gloss": "कुचेष्टा, बुरी (कामुक) चेष्टा",
+      "partOfSpeech": "noun",
+      "etymology": "ku (बुरा) + ceṣṭā (चेष्टा)"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "की (हो)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta (स्त्रीलिंग)"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "પરાયા",
+      "translit": "parāyā",
+      "gloss": "पराये (दूसरों के)",
+      "partOfSpeech": "adj",
+      "etymology": "< para"
+    },
+    {
+      "token": "વિવાહના",
+      "translit": "vivāhanā",
+      "gloss": "विवाह के",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vivāha + गुज. षष्ठी"
+    },
+    {
+      "token": "જોડાવાડા",
+      "translit": "joḍāvāḍā",
+      "gloss": "जोड़-तोड़, संबंध जुड़वाना (दलाली)",
+      "partOfSpeech": "noun",
+      "etymology": "गुज. joḍvuṁ (जोड़ना) से"
+    },
+    {
+      "token": "કીધા",
+      "translit": "kīdhā",
+      "gloss": "किए (हों)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta (बहुवचन)"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "કામભોગતણે",
+      "translit": "kāmabhoga-taṇe",
+      "gloss": "काम-भोग के",
+      "partOfSpeech": "compound",
+      "etymology": "kāma-bhoga + taṇe (षष्ठी)"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "विषय में, बारे में",
+      "partOfSpeech": "particle",
+      "etymology": "सं. viṣaya"
+    },
+    {
+      "token": "રાત્રિ",
+      "translit": "rātri",
+      "gloss": "रात्रि",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rātri"
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "दिन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. divasa",
+      "notes": "'रात-दिन' = सतत"
+    },
+    {
+      "token": "તચ્ચિત્ત",
+      "translit": "taccitta",
+      "gloss": "तच्चित्त—उसी में चित्त लगाकर",
+      "partOfSpeech": "compound",
+      "etymology": "tat (उसमें) + citta (चित्त)"
+    },
+    {
+      "token": "થઇ",
+      "translit": "thai",
+      "gloss": "होकर",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. thavuṁ (होना)"
+    },
+    {
+      "token": "તીવ્રાભિલાષ",
+      "translit": "tīvrābhilāṣa",
+      "gloss": "तीव्र अभिलाषा",
+      "partOfSpeech": "compound",
+      "etymology": "tīvra + abhilāṣa"
+    },
+    {
+      "token": "ધર્યો",
+      "translit": "dharyo",
+      "gloss": "धारण किया (हो)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dhṛ (धारण करना)"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "પર્વતિથિએ",
+      "translit": "parva-tithie",
+      "gloss": "पर्व-तिथि (पर्व के दिन) को",
+      "partOfSpeech": "noun",
+      "etymology": "parva + tithi",
+      "notes": "पर्व-दिनों में विशेष ब्रह्मचर्य अपेक्षित"
+    },
+    {
+      "token": "વિસ્મૃતલગે",
+      "translit": "vismṛta-lage",
+      "gloss": "विस्मृति-वश, भूल से",
+      "partOfSpeech": "adverb",
+      "etymology": "vismṛta (भूला हुआ) + गुज. lage"
+    },
+    {
+      "token": "શીલભંગ",
+      "translit": "śīla-bhaṅga",
+      "gloss": "शील-भंग, ब्रह्मचर्य-भंग",
+      "partOfSpeech": "compound",
+      "etymology": "śīla + bhaṅga"
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "हुआ",
+      "partOfSpeech": "verb",
+      "etymology": "< bhū/hovuṁ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "પરસ્ત્રીશું",
+      "translit": "parastrī-śuṁ",
+      "gloss": "पराई स्त्री के साथ",
+      "partOfSpeech": "compound",
+      "etymology": "para-strī + śuṁ (गुज. 'के साथ')"
+    },
+    {
+      "token": "અશ્લીલ",
+      "translit": "aślīla",
+      "gloss": "अश्लील",
+      "partOfSpeech": "adj",
+      "etymology": "सं. aślīla"
+    },
+    {
+      "token": "વચન",
+      "translit": "vacana",
+      "gloss": "वचन, बात",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vacana"
+    },
+    {
+      "token": "હાસ્ય",
+      "translit": "hāsya",
+      "gloss": "हँसी-मज़ाक",
+      "partOfSpeech": "noun",
+      "etymology": "सं. hāsya"
+    },
+    {
+      "token": "કીધાં",
+      "translit": "kīdhāṁ",
+      "gloss": "किए (हों)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta (नपुं. बहु.)"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "સ્ત્રીતણાં",
+      "translit": "strī-taṇāṁ",
+      "gloss": "स्त्री के",
+      "partOfSpeech": "compound",
+      "etymology": "strī + taṇāṁ (षष्ठी बहु.)"
+    },
+    {
+      "token": "અવયવભણી",
+      "translit": "avayava-bhaṇī",
+      "gloss": "अंगों की ओर/अंगों के प्रति",
+      "partOfSpeech": "compound",
+      "etymology": "avayava (अंग) + भणी (गुज. 'की ओर')"
+    },
+    {
+      "token": "સરાગદૃષ્ટિ",
+      "translit": "sarāga-dṛṣṭi",
+      "gloss": "सराग दृष्टि, राग-युक्त (कामुक) नज़र",
+      "partOfSpeech": "compound",
+      "etymology": "sa-rāga + dṛṣṭi"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "की (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "વેશ્યા",
+      "translit": "veśyā",
+      "gloss": "वेश्या",
+      "partOfSpeech": "noun",
+      "etymology": "सं. veśyā"
+    },
+    {
+      "token": "વાહિગદર્શની",
+      "translit": "vāhigadarśanī",
+      "gloss": "(अनिश्चित पाठ) कामोद्दीपक/व्यभिचारिणी का दर्शन करने वाली ओर—संभवतः नर्तकी आदि देखने का संदर्भ",
+      "partOfSpeech": "noun",
+      "etymology": "darśanī (देखना/दृश्य) से; पूर्वांश अस्पष्ट",
+      "notes": "OCR/पाठ अनिश्चित; notes में चिह्नित"
+    },
+    {
+      "token": "ભણી",
+      "translit": "bhaṇī",
+      "gloss": "की ओर, के प्रति",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. भणी (अपादान/सम्बन्ध)"
+    },
+    {
+      "token": "દુષ્ટ",
+      "translit": "duṣṭa",
+      "gloss": "दुष्ट, बुरा",
+      "partOfSpeech": "adj",
+      "etymology": "सं. duṣṭa"
+    },
+    {
+      "token": "મનસા",
+      "translit": "manasā",
+      "gloss": "मन से (मानसिक भाव)",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. manas (तृतीया)"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "की (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< kṛta"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "સ્વખાંતરે",
+      "translit": "svakhāntare",
+      "gloss": "(अनिश्चित पाठ) संभवतः 'स्वप्नांतरे'—स्वप्न के भीतर",
+      "partOfSpeech": "adverb",
+      "etymology": "संभवतः svapna + antare",
+      "notes": "OCR/पाठ अनिश्चित; 'स्वप्न में शील-भंग' अर्थ संभाव्य—notes देखें"
+    },
+    {
+      "token": "શીલભંગ",
+      "translit": "śīla-bhaṅga",
+      "gloss": "शील-भंग (पुनरावृत्त)",
+      "partOfSpeech": "compound",
+      "etymology": "< śīla + bhaṅga"
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "हुआ (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (पुनरावृत्त)",
+      "partOfSpeech": "verb",
+      "etymology": "< hovuṁ"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "और भी (कोई अन्य अतिचार)",
+      "partOfSpeech": "pronoun",
+      "etymology": "गुज. aneruṁ (अन्य)",
+      "notes": "आवर्ती समापन-सूत्र की ओर संकेत"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "इस",
+      "partOfSpeech": "pronoun",
+      "etymology": "< etad"
+    },
+    {
+      "token": "ચોથા",
+      "translit": "cothā",
+      "gloss": "चौथे",
+      "partOfSpeech": "adj",
+      "etymology": "< caturtha"
+    },
+    {
+      "token": "શીલવ્રત",
+      "translit": "śīlavrata",
+      "gloss": "शीलव्रत",
+      "partOfSpeech": "noun",
+      "etymology": "< śīla + vrata"
+    },
+    {
+      "token": "વિષે૦",
+      "translit": "viṣe (०)",
+      "gloss": "विषय में (० = आगे की ध्रुवपंक्ति 'मिच्छा मि दुक्कडं' का संक्षेप-चिह्न)",
+      "partOfSpeech": "particle",
+      "etymology": "< viṣaya",
+      "notes": "वृत्ताकार चिह्न ० समापन-आवृत्ति के संक्षेप का सूचक है"
+    }
+  ],
+  "literalTranslation": "चौथा शीलव्रत—यथाशक्ति, स्वदार-संतोष एवं परदार-त्याग रूप। इस चौथे शीलव्रत के पाँच अतिचारों की मैं आलोचना करता हूँ: इत्वर-परिगृहीत-गमन, अ-परिगृहीत-गमन, अनंगक्रीड़ा, पर-विवाह-करण, और काम-भोग में तीव्राभिलाष। इत्वर—थोड़े समय के लिए द्रव्यादि देकर ग्रहण की गई पराई स्त्री से गमन किया हो; अ-परिगृहीत—विधवा या कुमारी से गमन किया हो; अनंगक्रीड़ा—अति-आसक्ति से अपने या पराये शरीर पर कामुक कुचेष्टा की हो; दूसरों के विवाह जुड़वाए हों; काम-भोग में रात-दिन तच्चित्त होकर तीव्र अभिलाषा धारण की हो; पर्व-तिथि को भूलवश शील-भंग हुआ हो; पराई स्त्री से अश्लील वचन व हँसी-मज़ाक किए हों; स्त्री के अंगों की ओर सराग दृष्टि की हो; वेश्या आदि की ओर दुष्ट मनोभाव किया हो; (स्वप्न में) शील-भंग हुआ हो—इस चौथे शीलव्रत में और भी जो कोई दोष हुआ हो।",
+  "idiomaticTranslation": "यह चौथा शीलव्रत है—अपनी शक्ति-भर अपने ही जीवनसाथी में संतुष्ट रहने और पराये साथी को सर्वथा त्यागने का संकल्प। इसी व्रत को मलिन करने वाले पाँच दोषों की मैं खुली आलोचना करता हूँ। यदि धन आदि देकर कुछ समय के लिए रखी गई किसी स्त्री से संसर्ग किया हो; यदि किसी विधवा या कुमारी—जो किसी के स्वामित्व में नहीं—से संबंध बनाया हो; यदि अति-आसक्ति में आकर अपने या दूसरे के शरीर से अप्राकृतिक काम-कुचेष्टा की हो; यदि दूसरों के विवाह-संबंध जुड़वाने की दलाली की हो; यदि रात-दिन उसी में चित्त डुबोकर भोग की तीव्र लालसा पाली हो; यदि पर्व के पवित्र दिनों में भी भूलवश ब्रह्मचर्य खंडित हुआ हो; यदि पराई स्त्री से अश्लील बातें या हँसी-ठट्ठा किया हो, उसके अंगों को कामुक दृष्टि से ताका हो, अथवा वेश्या आदि के प्रति दूषित मन रखा हो; और यदि स्वप्न तक में शील डगमगाया हो—तो इन सबका, तथा इस व्रत संबंधी और भी जो कुछ हुआ हो, उसका मुझे गहरा पश्चात्ताप है।",
+  "elaboration": {
+    "verseByVerseCommentary": "तीसरे श्लोक के अस्तेय (अदत्तादान) से आगे बढ़कर यह श्लोक चौथे अणुव्रत—शील (गृहस्थ-ब्रह्मचर्य)—पर केंद्रित है, और यहाँ संकल्प की दो-धारी परिभाषा विशेष रूप से ध्यान खींचती है: सकारात्मक 'स्वदार-संतोष' (अपने ही साथी में तृप्ति) और निषेधात्मक 'परदार-विवर्जन' (पराये का पूर्ण त्याग)। 'यथाशक्ते' शब्द गृहस्थ-व्रत की मर्यादा को रेखांकित करता है—यह साधु का सम्पूर्ण ब्रह्मचर्य नहीं, अपितु शक्ति-अनुसार संयम है। श्लोक की मूल प्राकृत पंचक-सूची (इत्तर-परिग्गहिया-गमणे आदि) तत्त्वार्थ-परम्परा के ब्रह्मचर्य-व्रत के पाँच अतिचारों का ही पाठ है, जिसे आगे गुजराती में ठोस उदाहरणों से खोला गया है। विशेष यह कि सूची 'गमन' (स्थूल संसर्ग) तक सीमित नहीं रहती—'अनंगक्रीड़ा', 'सरागदृष्टि', 'अश्लील वचन-हास्य' और 'दुष्ट मनसा' को जोड़कर वह काया से होते हुए वाणी और मन तक, क्रिया से होते हुए वासना तक उतर आती है। 'पर्वतिथिए विस्मृतलगे' और 'स्वप्न में शील-भंग' का समावेश आलोचना की वह सूक्ष्मता दिखाता है जहाँ अनजाने व अवचेतन दोष भी छूट नहीं जाते—यही 'सूक्ष्म–बादर' दोनों स्तरों को समेटने का तकनीकी उद्देश्य है। इस प्रकार श्लोक ब्रह्मचर्य को मात्र बाह्य आचरण नहीं, चित्त-शुद्धि का विषय बनाकर प्रस्तुत करता है, और आगे पाँचवें परिग्रह-परिमाण व्रत के लिए भूमि तैयार करता है—भोग-लालसा का संयम स्वतः संग्रह-लालसा के संयम की ओर ले जाता है।",
+    "doctrinalContext": "जैन आचार-मीमांसा में अब्रह्म (मैथुन) अठारह पापस्थानकों में एक है; गृहस्थ उसका पूर्ण नहीं, अंशतः (स्थूल) त्याग करता है—इसीलिए यह 'अणुव्रत' है। यहाँ गिनाए पाँच अतिचार दर्शाते हैं कि व्रत-भंग और निर्दोष पालन के बीच एक मध्य-क्षेत्र है जहाँ व्रत 'टूटता' नहीं पर 'मलिन' होता है: अनंगक्रीड़ा व तीव्राभिलाष में शारीरिक मर्यादा भले बनी रहे, कषाय-तीव्रता व्रत की आत्मा को आहत करती है। 'मन-वचन-काया' तीनों योगों से दोष-ग्रहण का सिद्धांत यहाँ मूर्त होता है—'सरागदृष्टि' (काया), 'अश्लील वचन-हास्य' (वचन), 'दुष्ट मनसा' (मन)। यही जैन कर्म-सिद्धांत की कुंजी है: बंध का मूल बाह्य क्रिया नहीं, राग-द्वेषमय भाव है।",
+    "practicalRelevance": "आज का साधक इस श्लोक को केवल वैवाहिक निष्ठा तक सीमित न माने। 'सरागदृष्टि', 'अश्लील वचन-हास्य' और 'दुष्ट मनसा' की त्रिपुटी समकालीन जीवन—दृश्य-माध्यम, अश्लील सामग्री, विचार-विलास—पर सीधे लागू होती है। आलोचना करते समय वह आत्म-निरीक्षण करे कि बीते पक्ष/चातुर्मास/वर्ष में कहाँ दृष्टि, वाणी या मन भोग की ओर फिसला; और पर्व-दिनों के विशेष संयम-संकल्प की स्मृति को सजग रखे।",
+    "crossReferences": [
+      {
+        "text": "तत्त्वार्थसूत्र ७.२८ — ब्रह्मचर्य-व्रत के पाँच अतिचार (परविवाहकरण, इत्वरिका/अपरिगृहीत-गमन, अनंगक्रीड़ा, कामतीव्राभिनिवेश)",
+        "source": "उमास्वाति; पूज्यपाद, सर्वार्थसिद्धि"
+      },
+      {
+        "text": "उपासकदशांग — श्रावक के बारह व्रत व पंच-अतिचार-वर्णन",
+        "source": "अंग-आगम परम्परा"
+      },
+      {
+        "text": "अठारह पापस्थानक (मैथुन/अब्रह्म) — adhar-papsthanak",
+        "source": "पंच प्रतिक्रमण सूत्र, अंचलगच्छ संस्करण"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra (Umāsvāti) ch. VII with Pūjyapāda's Sarvārthasiddhi — brahmacarya-vrata pañcāticāra",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "शीलव्रत के पाँच अतिचारों के शास्त्रीय नाम, क्रम व परिभाषा (इत्वरिका/अपरिगृहीत-गमन, अनंगक्रीड़ा, परविवाहकरण, कामतीव्राभिनिवेश)"
+    },
+    {
+      "title": "Anuvrata — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "पाँच अणुव्रतों में ब्रह्मचर्य/शील अणुव्रत की स्थिति एवं उसके पाँच अतिचारों की पुष्टि"
+    },
+    {
+      "title": "Brahmacharya — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brahmacharya",
+      "type": "scholarship",
+      "consultedFor": "गृहस्थ-ब्रह्मचर्य = स्वदार-संतोष / परदार-विवर्जन रूप संकल्प"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "अनंग, कुचेष्टा, विवर्जना, सराग आदि शब्दों की व्युत्पत्ति"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) मूल प्राकृत पंचक 'इत्तर परिग्गहिया गमणे... कामभोग तिव्वाभिलासे' तत्त्वार्थ-परम्परा के ब्रह्मचर्य-व्रत के पाँच अतिचारों का ही पाठ है—पुस्तकानुसार वर्तनी यथावत् रखी गई। (2) 'વાહિગદર્શની' का पाठ अनिश्चित (संभवतः OCR-जनित); इसे कामोद्दीपक दृश्य/व्यभिचारिणी-दर्शन के अर्थ में अनुमानित किया गया है—प्रामाणिक मुद्रित पुस्तक से सत्यापन अपेक्षित। (3) 'સ્વખાંતરે' संभवतः 'स्वप्नांतरे' (स्वप्न के भीतर) का पाठांतर/OCR-रूप है; तदनुसार 'स्वप्न में शील-भंग' अर्थ लिया गया, किंतु यह निश्चित नहीं। (4) 'કીધું/કીધી/કીધાં હોય' तथा '…હોય' आलोचना की आवर्ती '...हुआ हो' टेक है; पुनरावृत्त रूप संक्षेप में ही glossed हैं। (5) अंत का '૦' (वृत्त) समापन-ध्रुवपंक्ति 'मिच्छा मि दुक्कडं' के संक्षेप का सूचक है, जो प्रस्तावना में पहले से व्याख्यायित होने से यहाँ पुनः नहीं खोला गया।"
+}

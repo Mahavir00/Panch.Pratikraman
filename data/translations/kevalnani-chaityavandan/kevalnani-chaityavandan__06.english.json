@@ -1,0 +1,310 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With folded hands we praise the present Jinas from Vāsupūjya to Mahāvīra, and the poet Vācaka Mūlā says these Lords bring joy to those who serve them.",
+  "recitation": "truṭaka — vakhāṇīe śrī vāsupūjya, vimala ananta dharma śānti e | kuṁthu ara malli munisuvrata, nami nema dhyāuṁ citta e | śūra dhīra pārśva vīra, vartamāne jinavarā | kara joḍī vācaka bhaṇe mūlā, svāmī sevaka sukhakarā ||",
+  "wordByWord": [
+    {
+      "token": "ત્રુટક",
+      "translit": "truṭaka",
+      "gloss": "the 'trutak' — a short cadenced tail-section of the dhāla",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa/old-Gujarati prosodic label, from Sanskrit truṭ 'to break off'; a clipped, fast-moving closing strain appended to a dhāla.",
+      "notes": "A musical/metrical heading, not part of the sense; it marks the quick enumerative coda that lists the remaining Jinas."
+    },
+    {
+      "token": "વખાણીએ",
+      "translit": "vakhāṇīe",
+      "gloss": "let us extol, we praise",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vakhāṇvũ 'to praise/expound', from Prakrit vakkhāṇa < Sanskrit vyākhyāna 'exposition'; first-person plural hortative.",
+      "notes": "Continues the very same verb that closed the preceding stanza (…harakhe vakhāṇīe), stitching the two halves of the present caubīsī together."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "venerable, holy (honorific)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī 'auspiciousness, glory', used as a reverential prefix.",
+      "notes": ""
+    },
+    {
+      "token": "વાસુપૂજ્ય",
+      "translit": "vāsupūjya",
+      "gloss": "Vāsupūjya (12th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit vasu-pūjya 'worshipped by the Vasu-gods' (or 'son of king Vasupūjya').",
+      "notes": ""
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala(nātha) (13th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit vimala 'stainless, pure'.",
+      "notes": ""
+    },
+    {
+      "token": "અનંત",
+      "translit": "ananta",
+      "gloss": "Ananta(nātha) (14th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit an-anta 'endless, infinite'.",
+      "notes": ""
+    },
+    {
+      "token": "ધર્મ",
+      "translit": "dharma",
+      "gloss": "Dharma(nātha) (15th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit dharma 'right order, the teaching'.",
+      "notes": ""
+    },
+    {
+      "token": "શાંતિ",
+      "translit": "śānti",
+      "gloss": "Śānti(nātha) (16th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit śānti 'peace, quietude'.",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "(refrain particle) — these, indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati demonstrative/emphatic enclitic e, here a metrical line-end refrain marker recurrent in dhāla singing.",
+      "notes": "Carries no independent lexical weight; it rounds off the chant-line and gathers the foregoing names ('…these')."
+    },
+    {
+      "token": "કુંથુ",
+      "translit": "kuṁthu",
+      "gloss": "Kunthu(nātha) (17th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "From the name Kunthu; traditionally linked to kunthu 'a tiny insect', evoking his compassion for the smallest beings.",
+      "notes": ""
+    },
+    {
+      "token": "અર",
+      "translit": "ara",
+      "gloss": "Ara(nātha) (18th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit ara, 'spoke of a wheel' (also read with the cakra-symbolism of his emblem).",
+      "notes": ""
+    },
+    {
+      "token": "મલ્લિ",
+      "translit": "malli",
+      "gloss": "Malli(nātha) (19th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit malli 'jasmine'.",
+      "notes": "In the Śvetāmbara tradition Malli is born female — the one woman Tīrthaṅkara of this caubīsī."
+    },
+    {
+      "token": "મુનિસુવ્રત",
+      "translit": "munisuvrata",
+      "gloss": "Munisuvrata (20th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit muni-su-vrata 'the sage of excellent vows'.",
+      "notes": ""
+    },
+    {
+      "token": "નમિ",
+      "translit": "nami",
+      "gloss": "Nami(nātha) (21st Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit nami, from √nam 'to bow'.",
+      "notes": ""
+    },
+    {
+      "token": "નેમ",
+      "translit": "nema",
+      "gloss": "Nemi(nātha) / Ariṣṭanemi (22nd Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit nemi 'rim of a wheel'; short form nema in old Gujarati metre.",
+      "notes": ""
+    },
+    {
+      "token": "ધ્યાઉં",
+      "translit": "dhyāuṁ",
+      "gloss": "I meditate upon, I hold in contemplation",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit √dhyai 'to meditate' (dhyāna); old-Gujarati first-person singular present.",
+      "notes": "Marks a shift from communal praise (vakhāṇīe, 'we praise') to the singer's personal interior act."
+    },
+    {
+      "token": "ચિત્ત",
+      "translit": "citta",
+      "gloss": "in the mind, in the heart",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit citta 'mind, consciousness'.",
+      "notes": "Adverbial/locative force: 'I meditate (them) in my heart'."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "(refrain particle) — indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati emphatic/demonstrative enclitic; recurring dhāla line-end refrain.",
+      "notes": "Second occurrence of the same metrical refrain marker."
+    },
+    {
+      "token": "શૂર",
+      "translit": "śūra",
+      "gloss": "heroic, valiant (epithet)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śūra 'brave, hero'.",
+      "notes": "An epithet adorning the last two Jinas, especially Pārśva and Vīra, who are remembered for unshaken fortitude under affliction."
+    },
+    {
+      "token": "ધીર",
+      "translit": "dhīra",
+      "gloss": "steadfast, unshaken (epithet)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit dhīra 'firm, composed, wise'.",
+      "notes": ""
+    },
+    {
+      "token": "પાર્શ્વ",
+      "translit": "pārśva",
+      "gloss": "Pārśva(nātha) (23rd Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit pārśva 'side, flank'.",
+      "notes": ""
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra / Mahāvīra (24th Tīrthaṅkara)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit vīra 'hero'; the epithet by which Vardhamāna is universally praised.",
+      "notes": "The apaścima — last Jina of the present age — sealing the count of twenty-four."
+    },
+    {
+      "token": "વર્તમાને",
+      "translit": "vartamāne",
+      "gloss": "in the present (age)",
+      "partOfSpeech": "adjective",
+      "etymology": "Sanskrit vartamāna 'existing now, present', locative; from √vṛt 'to turn, occur'.",
+      "notes": "Names the set just enumerated as the vartamāna caubīsī, distinguishing it from the atīta and anāgata sets of the adjoining dhālas."
+    },
+    {
+      "token": "જિનવરા",
+      "translit": "jinavarā",
+      "gloss": "the most excellent Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jina-vara 'best among Jinas'; plural in old-Gujarati -ā.",
+      "notes": ""
+    },
+    {
+      "token": "કર",
+      "translit": "kara",
+      "gloss": "hands",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kara 'hand'.",
+      "notes": ""
+    },
+    {
+      "token": "જોડી",
+      "translit": "joḍī",
+      "gloss": "joining, folding together",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati joḍvũ 'to join', from Prakrit joḍa- < Sanskrit yotra/yuj; absolutive 'having joined'.",
+      "notes": "kara joḍī = añjali, the folded-palm gesture of the supplicant."
+    },
+    {
+      "token": "વાચક",
+      "translit": "vācaka",
+      "gloss": "the Vācaka (Upādhyāya-preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vācaka 'speaker, reader'; the monastic rank of the author.",
+      "notes": "Part of the poet's recurring signature."
+    },
+    {
+      "token": "ભણે",
+      "translit": "bhaṇe",
+      "gloss": "says, recites",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit √bhaṇ 'to speak'; old-Gujarati third-person singular.",
+      "notes": ""
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "Mūlā (the poet's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name of the author, Vācaka Mūlā.",
+      "notes": "vācaka bhaṇe mūlā = 'Vācaka Mūlā says' — the bhaṇita signature line."
+    },
+    {
+      "token": "સ્વામી",
+      "translit": "svāmī",
+      "gloss": "the Lords, masters",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit svāmin 'lord, owner'.",
+      "notes": "Refers to the Jinas just praised."
+    },
+    {
+      "token": "સેવક",
+      "translit": "sevaka",
+      "gloss": "to the servant / devotee",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sevaka 'one who serves', from √sev.",
+      "notes": ""
+    },
+    {
+      "token": "સુખકરા",
+      "translit": "sukhakarā",
+      "gloss": "bestowers of happiness",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit sukha 'happiness' + kara 'making'; bahuvrīhi/karmadhāraya 'happiness-making', plural -ā.",
+      "notes": "Predicated of svāmī: 'the Lords are joy-givers to their servant'."
+    }
+  ],
+  "literalTranslation": "(Trutak:) Let us praise venerable Vāsupūjya, Vimala, Ananta, Dharma, Śānti — these; Kunthu, Ara, Malli, Munisuvrata, Nami, Nema — I meditate them in my mind — these; the heroic, steadfast Pārśva and Vīra: the most excellent Jinas of the present age. Joining his hands, Vācaka Mūlā says — these Lords are givers of joy to their servant.",
+  "idiomaticTranslation": "Let us sing the praise of holy Vāsupūjya, of Vimala, Ananta, Dharma and Śānti; of Kunthu, Ara, Malli and Munisuvrata, of Nami and Nema — these I hold in my heart; and of the valiant, unshakable Pārśva and Vīra — the supreme Jinas living in the present age. With palms pressed together Vācaka Mūlā declares: these Lords are the joy of every soul that serves them.",
+  "elaboration": {
+    "verseByVerseCommentary": "This 'trutak' completes the present caubīsī begun in the previous stanza, which named Ṛṣabha through Śreyāṁsa (1–11). Here the poet sweeps up the remaining thirteen — Vāsupūjya (12) to Vīra (24) — in a single breathless garland, the clipped trutak metre matching the rush of names. Two small verbs quietly deepen the act of homage as it proceeds: the opening vakhāṇīe ('let us praise') is communal and outward, but at the midpoint the poet turns inward with dhyāuṁ citta — 'I meditate them in my heart' — so that recitation passes from spoken praise into silent contemplation before the list even ends. The pair śūra dhīra ('heroic, steadfast'), set just before Pārśva and Vīra, is not idle decoration: these two latest Jinas are the ones popular memory most associates with serene endurance of affliction — Pārśva unmoved beneath Kamaṭha's storm, Mahāvīra under every upasarga — so the epithet crowns the whole twenty-four on their note of fortitude. vartamāne jinavarā then names the set for what it is: the Jinas of the present age. The closing line is the poet's bhaṇita: kara joḍī ('hands folded') he signs himself Vācaka Mūlā and states the fruit of the whole praise — svāmī sevaka sukhakarā, 'these Lords give joy to the one who serves them.' Note that the Śvetāmbara reckoning makes Malli (19) a woman, quietly present in this list.",
+    "doctrinalContext": "The verse rests on the cauvīsattho (caturviṁśati-stava) impulse — that naming the twenty-four awakened ones is itself a purifying act of right faith (samyaktva). Its doctrinal hinge is the move from vakhāṇīe to dhyāuṁ: outward stuti ripens into inward dhyāna, the very transition the Āvaśyaka discipline aims at. The honorific jinavarā affirms that each, though distinct in name and emblem, shares the one attained state of jina-hood; the epithets śūra/dhīra locate Jina-greatness not in power over others but in immovable equanimity (samatā) under affliction — the same vīrya the reciter cultivates. Finally svāmī sevaka sukhakarā frames the Jina-devotee bond rightly: the liberated Jina seeks nothing, yet the act of service (sevā) returns joy to the server — merit and steadied faith — not a boon dispensed by the Lord.",
+    "practicalRelevance": "Recited at dawn, this stanza lets the worshipper run the whole present caubīsī through mind and folded hands in moments. Take the cue of dhyāuṁ citta literally: do not merely rattle the thirteen names but rest the mind a beat on each, and on śūra dhīra borrow a measure of that fortitude for the day's troubles. The closing line reframes devotion as joy-yielding service rather than transaction.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — praise of the twenty-four Tīrthaṅkaras by name",
+        "source": "Anchalgachchha Panch Pratikraman Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Jñātādharmakathā — the account of Mallī as a woman Tīrthaṅkara (Śvetāmbara)",
+        "source": "Aṅga Āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara — the twenty-four, with traditional order and emblems",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical order Vāsupūjya (12) through Mahāvīra (24) and the identification of each short name with its Tīrthaṅkara."
+    },
+    {
+      "title": "Vasupujya / Mallinatha — definitions and accounts",
+      "url": "https://www.wisdomlib.org/definition/vasupujya",
+      "type": "dictionary",
+      "consultedFor": "Etymology of the Jina-names and the Śvetāmbara tradition of Mallī's female birth."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Root forms and senses of dhyāna, citta, śūra, dhīra, jina-vara, sukha-kara, vyākhyāna."
+    },
+    {
+      "title": "Jain prabhsutra / stavan corpus — vartamāna caubīsī devotional usage",
+      "url": "https://www.jainqq.org/",
+      "type": "translation",
+      "consultedFor": "Idiomatic sense of devotional Gujarati phrasing (vakhāṇīe, kara joḍī, vartamāne jinavarā, svāmī sevaka sukhakarā)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a pure enumerative homage; near-certain token-by-token. 'ત્રુટક' is a prosodic heading (the quick coda of dhāla 2), not lexical content. The two occurrences of 'એ' are treated as a metrical/emphatic dhāla refrain particle with no independent lexical weight — a defensible reading, but some editions may point it as a demonstrative ('these'). Short forms નેમ (=Nemi) and the epithet pair શૂર ધીર are read as adorning Pārśva and Vīra; an alternative parse takes શૂર/ધીર as further generic epithets of all the named Jinas. Spelling kept verbatim per the book's orthography. Malli's reckoning as a woman follows the Śvetāmbara (hence Anchalgachchha) tradition."
+}

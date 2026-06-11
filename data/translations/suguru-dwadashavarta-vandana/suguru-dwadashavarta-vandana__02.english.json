@@ -1,0 +1,72 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Revered teacher, please permit me to step into the small sacred space right around you.",
+  "recitation": "aṇujāṇaha me miuggahaṁ",
+  "wordByWord": [
+    {
+      "token": "અણુજાણહ",
+      "translit": "aṇujāṇaha",
+      "gloss": "grant permission, allow, give leave (to me)",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit anu-√jñā 'to permit, sanction, consent'; honorific 2nd-person imperative (Skt anujānīta → Prakrit aṇujāṇaha), addressed respectfully to the guru.",
+      "notes": "Plural/honorific imperative — a request, not a command; the disciple petitions, the guru grants."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "to me, for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Enclitic dative/genitive of the 1st-person pronoun, Skt me (mahyam); unchanged in Prakrit.",
+      "notes": "Dative of the person on whose behalf permission is sought."
+    },
+    {
+      "token": "મિઉગ્ગહં",
+      "translit": "miuggahaṁ",
+      "gloss": "the avagraha — the limited, consecrated space immediately around the guru (here, leave to enter it)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt mita-avagraha → mit-avaggaha → Prakrit miuggaha; mita 'measured, limited' + avagraha 'allotted/withheld space, claimed ground'; accusative singular -aṁ as the object of an implied 'to enter'.",
+      "notes": "Not the grammatical avagraha (elision-sign); here the ritually regulated zone around the teacher into which one may not intrude unbidden."
+    }
+  ],
+  "literalTranslation": "Grant me permission [for entering] the limited consecrated space [around you].",
+  "idiomaticTranslation": "O revered one, grant me leave to enter the hallowed space close to you.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having in the previous unit asked only for leave to bow, the disciple now takes the next bodily step: permission to cross into the guru's immediate ground. The whole unit is three words — an imperative, a dative, and a single accusative object — yet it encodes an entire ethic of approach. 'Aṇujāṇaha' is framed as a petition in the honorific, so the movement forward is never the disciple's to take unilaterally; it is conferred. 'Me' keeps the request personal and humble — leave for this one supplicant, here and now. The hinge is 'miuggahaṁ' (mita-avagraha): the measured, withheld space ringing the teacher. The word mita ('limited') is doctrinally precise — the disciple does not ask to occupy the guru's seat or dignity, only to draw near to a permitted, bounded distance. The accusative, with no verb of motion spoken aloud, lets the gesture itself supply 'to enter': speech and the forward step coincide. The force of the verse is the inversion of ordinary closeness — nearness to the worthy is not seized by eagerness but received by consent. Where verse 1 secured the right to honor, verse 2 secures the right to be near enough to honor, preparing the well-being inquiry that follows. Its brevity is its discipline: a single asked-and-granted threshold, crossed without presumption.",
+    "doctrinalContext": "The avagraha is a regulated zone, and Jain monastic discipline treats space itself as something that may not be encroached upon without sammati (consent) — an extension of restraint (saṁyama) and non-harm into the geometry of approach. To enter unbidden would be a subtle āśātanā (slight) of the very kind the sūtra's closing unit later confesses; asking first forecloses it. The verse thus enacts vinaya (reverent humility) as conduct rather than sentiment: reverence proven by self-limitation. The qualifier mita teaches measure — devotion that knows its bounds honors the teacher more truly than devotion that overruns them.",
+    "practicalRelevance": "The reciter speaks this while making the small forward movement toward the sthāpanācārya or guru — word and step as one act. Beyond ritual, it trains a daily habit: seek consent before entering another's space or attention, and keep one's claim on a respected person's nearness measured, never presumptuous.",
+    "crossReferences": [
+      {
+        "text": "Vandanaka (Third Āvaśyaka) — the avagraha-praveśa among the 25 āvaśyaka-sthānas",
+        "source": "Āvaśyaka-sūtra with Niryukti/Bhāṣya tradition (Śvetāmbara Āgama)"
+      },
+      {
+        "text": "Entry 'avaggaha / miuggaha' (mita-avagraha) — the allotted/claimed space",
+        "source": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit Dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheh",
+      "type": "dictionary",
+      "consultedFor": "Prakrit gloss of aṇujāṇaha (anu-√jñā) and miuggaha as mita-avagraha, distinct from the grammatical avagraha sign"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the tokens: anu-√jñā 'to permit', and avagraha 'allotted/withheld space'; mita 'measured, limited'"
+    },
+    {
+      "title": "Āvaśyaka-sūtra and Niryukti tradition (Śvetāmbara Āgama), via Jain eLibrary",
+      "url": "https://jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "Identity of the avagraha-praveśa step within the dvādaśāvarta vandana and its place among the 25 āvaśyaka-sthānas"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is a single ritual unit of three words, not a metrical gāthā. 'miuggahaṁ' is read as mita-avagraha (the limited consecrated space around the guru), per the tradition knowledge base; it must not be confused with the homonymous grammatical avagraha (elision mark), a false lead returned by generic web sources. The verb of motion ('to enter') is unspoken and supplied by the accompanying gesture; some readings render it 'permit me [to use/occupy] your avagraha'. Spelling 'miuggahaṁ/miuggaham' and the anusvāra are preserved as printed in the Anchalgachchha edition. Web verification returned only generic material; doctrinal claims rest on the supplied tradition knowledge base and standard Āvaśyaka scholarship and are not independently page-verified."
+}

@@ -1,0 +1,166 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Ācārya Skandila — the teacher whose safeguarded exposition of the scripture is still alive across the land today, and whose fame spread from city to city.",
+  "recitation": "jesiṁ imo aṇuogo, payaraï ajjāvi addha-bharahaṁmi | bahu-nayara-niggaya-jase, taṁ vande khaṁdilāyarie ||",
+  "wordByWord": [
+    {
+      "token": "જેસિં",
+      "translit": "jesiṁ",
+      "gloss": "of whom, by whom (those through whom)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun, genitive/instrumental plural of ja- (Skt. yeṣām); honorific plural pointing to a single revered teacher.",
+      "notes": "The plural is respectful; it is resolved by the singular taṁ ('him') later in the verse."
+    },
+    {
+      "token": "ઇમો",
+      "translit": "imo",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit demonstrative, nominative singular masculine (Skt. ayam / imaḥ); 'this very' exposition that is being recited now.",
+      "notes": ""
+    },
+    {
+      "token": "અણુઓગો",
+      "translit": "aṇuogo",
+      "gloss": "anuyoga (systematic exposition of the scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇuoga, nominative singular (Skt. anuyoga, 'exposition of principles'); here the exposition of the Kālika-śruta.",
+      "notes": "Preface-glossary term; used as established."
+    },
+    {
+      "token": "પયરઇ",
+      "translit": "payaraï",
+      "gloss": "spreads, is current, still circulates",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit, 3rd person singular present of pa-yar- (Skt. pra-√car, pracarati); 'flows forth, prevails'.",
+      "notes": "Present tense is the verse's hinge: the transmission is living, not past."
+    },
+    {
+      "token": "અજજાવિ",
+      "translit": "ajjāvi",
+      "gloss": "even today, still now",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit ajja + vi (Skt. adya + api, 'today too').",
+      "notes": "Book reads અજજાવિ verbatim; preserved without normalization."
+    },
+    {
+      "token": "અદ્ધ",
+      "translit": "addha",
+      "gloss": "half",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit addha (Skt. ardha); qualifies Bharata to mean the southern half of Bharata-kṣetra.",
+      "notes": ""
+    },
+    {
+      "token": "ભરહંમિ",
+      "translit": "bharahaṁmi",
+      "gloss": "in Bharata(-kṣetra), in the land of Bharata",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Bharaha, locative singular -ṁmi (Skt. Bharate); with addha = 'in the half of Bharata', the inhabited karma-bhūmi region.",
+      "notes": "addha-bharahaṁmi together names the geography over which the anuyoga is current."
+    },
+    {
+      "token": "બહુ",
+      "translit": "bahu",
+      "gloss": "many",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bahu (Skt. bahu); first member of the compound qualifying 'cities'.",
+      "notes": ""
+    },
+    {
+      "token": "નયર",
+      "translit": "nayara",
+      "gloss": "city, cities",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayara (Skt. nagara); compounded as bahu-nayara, 'many cities'.",
+      "notes": ""
+    },
+    {
+      "token": "નિગ્ગય",
+      "translit": "niggaya",
+      "gloss": "gone forth, issued, spread out",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle (Skt. nirgata, niṣ-√gam); 'having gone out'.",
+      "notes": "Forms part of the bahuvrīhi describing Skandila."
+    },
+    {
+      "token": "જસે",
+      "translit": "jase",
+      "gloss": "fame, glory, renown",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jasa (Skt. yaśas); in the compound bahu-nayara-niggaya-jase = 'whose fame has gone forth through many cities'.",
+      "notes": "A possessive (bahuvrīhi) epithet of the teacher addressed."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him, that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit demonstrative, accusative singular (Skt. tam); the object of the homage.",
+      "notes": "Singular taṁ resolves the honorific plural jesiṁ."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Sanskrit 1st person singular of √vand (vande); the verse's act of vandanā.",
+      "notes": ""
+    },
+    {
+      "token": "ખંદિલાયરિએ",
+      "translit": "khaṁdilāyarie",
+      "gloss": "Skandila Ācārya (the venerable teacher Skandila)",
+      "partOfSpeech": "invocation",
+      "etymology": "Compound: khaṁdila (Prakrit for Skt. Skandila) + āyarie (Skt. ācārya); the -e ending here is an honorific accusative form.",
+      "notes": "Sheth's Pāia-sadda-mahaṇṇavo equates Prakrit Khaṁdila with Sanskrit Skandila."
+    }
+  ],
+  "literalTranslation": "He by whom this exposition (anuyoga) still spreads even today in the half of Bharata, whose fame has gone forth through many cities — him, Skandila Ācārya, I bow to.",
+  "idiomaticTranslation": "The teacher through whom this very exposition still courses, even now, across the half of Bhārata; whose renown has streamed out from city after city — to him, Ācārya Skandila, I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "The whole weight of this verse rests on one present-tense verb: payaraï, 'still spreads' — sharpened by ajjāvi, 'even today'. The homage is deliberately not antiquarian. What the reciter venerates in Skandila is not a closed past achievement but a transmission still operative 'in the half of Bharata' (addha-bharahaṁmi), the inhabited southern region of Bharata-kṣetra. The self-referential turn is the verse's art: 'this anuyoga' (imo aṇuogo) is the very exposition being chanted at this moment, so the worshipper bows to the teacher who is the reason the words on their own lips have survived. The epithet bahu-nayara-niggaya-jase — 'one whose fame has issued from many cities' — points beyond a generic compliment to Skandila's historical role: by tradition he convened the Māthurī Vācanā, the council at Mathura that re-collated the scattered Kālika-śruta after a long famine had thinned the ranks of its reciters. 'Fame gone forth from many cities' fits a recension gathered from dispersed centres and re-broadcast outward. Grammatically the verse pivots from the honorific plural jesiṁ ('those by whom') to the singular taṁ ('him'), a common Prakrit courtesy that magnifies a single ācārya into a plurality of reverence before resolving back to the one man named. Set between the vācaka Brahmadvīpaka-Siṁha just praised and Himavanta who follows, this gāthā marks the moment the lineage-hymn reaches the named guardians of the anuyoga's actual survival — the teacher to whom the listener owes the text itself.",
+    "doctrinalContext": "The verse turns on śruta-jñāna and its preservation: the authority of the Jain canon rests on an unbroken vācaka-paramparā, and ajjāvi ('still, today') is a claim that the chain remains intact down to the reciter. By crediting Skandila with an anuyoga that 'still spreads', the gāthā affirms the principle that scripture lives only as long as it is transmitted and expounded, not merely stored — the guardianship of the Kālika-śruta is an act of continuous knowledge-preservation, not antiquarian rescue.",
+    "practicalRelevance": "When the reciter says 'this anuyoga still spreads even today,' they place themselves as the living end of that chain. The verse converts gratitude into responsibility: to receive a transmission that survived famine and dispersal is to owe it onward study and faithful recitation.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī (Sthaviran-paṭṭāvalī gāthās honouring Skandila)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī recension)"
+      },
+      {
+        "text": "Māthurī Vācanā — the Mathura council recension of the Kālika-śruta under Skandila",
+        "source": "Jain canonical-history tradition (Nandī Sūtra cūrṇi/ṭīkā tradition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paia-sadda-mahannavo (Sheth's Prakrit–Hindi dictionary): Skandila / Khaṃdila",
+      "url": "https://www.wisdomlib.org/definition/skandila",
+      "type": "dictionary",
+      "consultedFor": "Equation of Prakrit Khaṁdila with Sanskrit Skandila, confirming khaṁdila in the verse names Ācārya Skandila."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams; Böhtlingk–Roth): Skandilācārya",
+      "url": "https://www.wisdomlib.org/definition/skandilacarya",
+      "type": "dictionary",
+      "consultedFor": "Skandilācārya attested as the proper name of a preceptor, supporting khaṁdila-āyarie = Skandila-ācārya."
+    },
+    {
+      "title": "Anuyoga ('exposition of principles') in the Jaina classification of scripture",
+      "url": "https://www.wisdomlib.org/definition/anuyoga",
+      "type": "dictionary",
+      "consultedFor": "Sense of aṇuoga as systematic scriptural exposition, one of the Jaina anuyoga branches."
+    },
+    {
+      "title": "Digital Dictionaries of South Asia — Sheth, Pāia-sadda-mahaṇṇavo",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Primary Prakrit lexicon for token glosses (payaraï/pracarati, niggaya/nirgata, jasa/yaśas, addha/ardha)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse text preserved verbatim from the book, including અજજાવિ (ajjāvi) and ભરહંમિ (bharahaṁmi); not normalized. Grammar: honorific plural jesiṁ ('those by whom') is resolved by singular taṁ ('him'), a standard Prakrit reverential device; the -e of khaṁdilāyarie is read as an honorific accusative. bahu-nayara-niggaya-jase is taken as a bahuvrīhi epithet of Skandila ('whose fame has gone forth from many cities'). The identification of Skandila with the convener of the Māthurī Vācanā (Mathura recension of the Kālika-śruta after famine) is the well-attested tradition; exact dating varies in the sources (commonly placed c. 300–380 CE) and is traditional rather than firmly fixed. Online 'second-line' variants of this gāthā circulating on the web are unreliable; the book reading (bahu nayara niggaya jase…khaṁdilāyarie) is followed here."
+}

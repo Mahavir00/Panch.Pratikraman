@@ -1,0 +1,72 @@
+{
+  "shlokaId": "navkar/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the fivefold bow of respect (to the five holy ones just named).",
+  "recitation": "eso pañca namukkāro,",
+  "wordByWord": [
+    {
+      "token": "એસો",
+      "translit": "eso",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "From Sanskrit demonstrative eṣa ('this', masc.); Prakrit regularly shifts ṣ > s and the nominative -a > -o, giving eso. Agrees in gender with the masculine namukkāro.",
+      "notes": "Deictic 'this' — it points back to the five bows of vv.1–5 and makes them the single subject the cūlikā now describes."
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit pañca ('five'); here qualifying namukkāro to mean the five-membered salutation, i.e. the bows to Arihant, Siddha, Ācārya, Upādhyāya and Sādhu.",
+      "notes": "Numeral functioning adjectivally; not 'five salutations' but 'the fivefold (one) salutation' taken as a single unit."
+    },
+    {
+      "token": "નમુક્કારો",
+      "translit": "namukkāro",
+      "gloss": "salutation, bow of homage",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (Ardhamāgadhī) from Sanskrit namaskāra (namas 'bowing' + kāra 'making'); the conjunct -sk- assimilates to -kk- and an epenthetic -u- develops, yielding namukkāra, nom. sg. namukkāro.",
+      "notes": "Masculine nominative singular — the grammatical subject of the whole four-line cūlikā sentence (vv.6–9), of which this verse supplies the subject phrase."
+    }
+  ],
+  "literalTranslation": "This fivefold salutation,",
+  "idiomaticTranslation": "This — the fivefold bow of homage —",
+  "elaboration": {
+    "verseByVerseCommentary": "After five lines each opening with namo + a dative plural ('reverence to…'), the mantra turns a corner. Verse 6 does not bow to anyone new; instead it gathers the five completed bows into a single hand and names them: 'this fivefold salutation.' The small word eso ('this') is the pivot of the whole mantra. Where vv.1–5 looked outward to five classes of venerable beings, eso looks back and bundles them, converting five acts of homage into one named object that the next three lines will praise. Grammatically the shift is decisive: namukkāro is a masculine nominative — a subject, not a verb of bowing — so from here the sentence stops performing homage and starts making a claim about it. The verse deliberately withholds the predicate. It hands the reciter only the subject ('this fivefold salutation…') and leaves the sentence open, so that the tongue must carry forward into v.7 ('…destroyer of all sin') to complete the thought. That suspension is the verse's devotional work: having just finished the fifth bow (namo loe savvasāhūṇaṁ), the reciter pauses, recognizes what has been done, and is poised to hear why it matters. pañca ('five') is doing quiet doctrinal labour too — it fixes the count, marking the salutation as complete and closed; no sixth object is sought, because the five together already span the entire path. Thus v.6 is the hinge between the mantra's two movements: the bowing is over, the praising begins, and 'this' is the bridge.",
+    "doctrinalContext": "The verse encodes the Jain principle that homage is offered to qualities and states gathered as a whole, not to a single deity. By naming the act 'pañca namukkāra' — the fivefold salutation — it treats reverence to the two who have arrived (Arihant, Siddha) and the three who guide (Ācārya, Upādhyāya, Sādhu) as one indivisible spiritual gesture; its merit is corporate, not the sum of five separate prayers. The masculine-singular namukkāro insists on this unity: it is one salutation with five members, which is precisely why the following lines can ascribe to 'it' a single sweeping power. The naming itself is also self-reflexive — the mantra here becomes aware of itself as a mantra, the precondition for declaring its own fruit.",
+    "practicalRelevance": "When you reach this line, let the bowing settle: the five salutations are complete. Pause on eso ('this') and mentally hold the whole fivefold homage you have just offered as one object before the mind. Do not stop the sentence here — feel it lean forward, unfinished, into 'destroyer of all sin', so that recognition flows naturally into confidence. It is the moment to shift from doing the bow to trusting the bow.",
+    "crossReferences": [
+      {
+        "text": "Pañca-namaskāra, vv.1–5 (namo arihantāṇaṁ … namo loe savvasāhūṇaṁ) — the five bows that 'eso' refers back to",
+        "source": "Navkar Mahāmantra, this Anchalgachchha/Vidhipakṣa book"
+      },
+      {
+        "text": "Cūlikā continuation: savva-pāva-ppaṇāsaṇo … paḍhamaṁ hoi maṅgalaṁ (vv.7–9), the predicate this verse leaves open",
+        "source": "Navkar Mahāmantra, this Anchalgachchha/Vidhipakṣa book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, transliteration, meaning, and the phala-praśasti (cūlikā) last four lines",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Confirming v.6 ('eso pañca namukkāro') as the opening of the cūlikā/phala-praśasti and the meaning 'this fivefold salutation'."
+    },
+    {
+      "title": "Pañca-Parameṣṭhi (the five supreme beings)",
+      "url": "https://en.wikipedia.org/wiki/Pa%C3%B1ca-Parame%E1%B9%A3%E1%B9%ADhi",
+      "type": "scholarship",
+      "consultedFor": "Identity of the five whom 'pañca' counts and the doctrine of homage to states/guides rather than a named god."
+    },
+    {
+      "title": "Prakrit (phonology: Sanskrit ṣ > s, eṣa > eso; conjunct assimilation namaskāra > namukkāra)",
+      "url": "https://en.wikipedia.org/wiki/Prakrit",
+      "type": "scholarship",
+      "consultedFor": "Etymology and sound-changes underlying eso (< eṣa) and namukkāro (< namaskāra)."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "The verse is a single short subject-phrase; its predicate falls in vv.7–9, so any standalone rendering is necessarily incomplete (rendered here as 'This fivefold salutation,'). Token glosses are uncontroversial and attested across standard treatments. The book's reading 'eso' (એસો) and the 9-line division are honored as the golden source; some recensions print 'esa' and divide the cūlikā differently, but that does not affect this token's sense. Historical note (per Dhaky, via the Wikipedia article): the cūlikā/phala-praśasti is generally held to be later than the five-bow core, but the book treats all nine as one mantra and this commentary follows the book."
+}

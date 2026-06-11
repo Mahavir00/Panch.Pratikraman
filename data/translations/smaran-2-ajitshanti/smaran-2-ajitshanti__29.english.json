@@ -1,0 +1,116 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/29",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With a pure, devoted heart I bow to Ajita — the moon among the Jinas — who has conquered delusion and shaken off every inner affliction.",
+  "recitation": "taṁ ahaṁ jiṇacaṁdaṁ, ajiaṁ jiamohaṁ, dhuya-savvakilesaṁ, payao paṇamāmi.",
+  "wordByWord": [
+    {
+      "token": "તમહં",
+      "translit": "tam-ahaṁ",
+      "gloss": "him I (i.e. 'to that one, I…')",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sandhi cluster of two words: taṁ (Skt. tam, the accusative 'that/him', resuming the Jina just described) + ahaṁ (Skt. aham, 'I'). The accusative taṁ is the object of paṇamāmi; ahaṁ is its nominative subject.",
+      "notes": "Two distinct tokens fused orthographically; both are glossed here for full coverage. taṁ points back across the stanza-break to the Jina extolled in the preceding lines."
+    },
+    {
+      "token": "જિણચંદં",
+      "translit": "jiṇacaṁdaṁ",
+      "gloss": "the moon among the Jinas (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa: jiṇa (Skt. jina, 'conqueror, Tīrthaṅkara') + caṁda (Skt. candra, 'moon'); accusative -aṁ. A 'moon of/among Jinas' — the loveliest, most cooling of conquerors.",
+      "notes": "Epithet-noun, the head object of the bow. Distinct from the surpasses-the-moon motif of vv.13–18: here the Jina is himself named candra."
+    },
+    {
+      "token": "અજિઅં",
+      "translit": "ajiaṁ",
+      "gloss": "Ajita, the Unconquered (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a-jita, 'not conquered' (a- privative + √ji, 'to conquer'); accusative -aṁ. Both the proper name of Ajitanātha and the literal quality 'invincible'.",
+      "notes": "Carries the hymn's signature pun (the name = the virtue), here set in pointed contrast with the very next word."
+    },
+    {
+      "token": "જિઅમોહં",
+      "translit": "jiamohaṁ",
+      "gloss": "conqueror of delusion (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "Bahuvrīhi/tatpuruṣa: jia (Skt. jita, 'conquered', √ji) + moha (Skt. moha, 'delusion, infatuation'); accusative -aṁ. 'By whom moha is conquered' / 'one who has vanquished delusion'.",
+      "notes": "Deliberate paradox beside a-jiaṁ: the Unconquered is precisely the conqueror — of moha."
+    },
+    {
+      "token": "ધુય",
+      "translit": "dhuya",
+      "gloss": "shaken off, cast away",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dhūta, past participle of √dhū ('to shake off'); the technical Jain verb for shedding karma (cf. the Ācārāṅga's dhuta-vāda). Forms the front of a compound with the next word.",
+      "notes": "Book reads ધુય (short u) here, though §7 notes the long-ū variant ધૂય elsewhere; preserved verbatim."
+    },
+    {
+      "token": "સવ્વકિલેસં",
+      "translit": "savvakilesaṁ",
+      "gloss": "all afflictions (acc.)",
+      "partOfSpeech": "compound",
+      "etymology": "savva (Skt. sarva, 'all') + kilesa (Skt. kleśa, 'affliction, defiling passion'); accusative -aṁ. With the preceding word forms the bahuvrīhi dhuya-savva-kilesaṁ, '(him) by whom all kleśas have been shaken off'.",
+      "notes": "kleśa here = the rāga–dveṣa–moha complex of binding passions."
+    },
+    {
+      "token": "પયઓ",
+      "translit": "payao",
+      "gloss": "reverently, with devout self-restraint",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. prayataḥ, 'composed, of pure intent, self-controlled' (pra + √yam). An adverb qualifying the act of bowing, not a noun for 'feet'.",
+      "notes": "Echoes the following verse's payao paṇamiassa; the reading 'devoutly/purely' is the scholarly consensus over a folk gloss as 'at the feet'."
+    },
+    {
+      "token": "પણમામિ",
+      "translit": "paṇamāmi",
+      "gloss": "I bow, I offer obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. praṇamāmi, 1st person sg. present of pra + √nam ('to bow'). Prakrit ṇ for intervocalic/initial cluster n.",
+      "notes": "The single finite verb of the stanza; its first-person voice makes this the devotee's own act."
+    }
+  ],
+  "literalTranslation": "That moon among the Jinas, the Unconquered (Ajita), the conqueror of delusion, by whom all afflictions have been shaken off — him I, with pure devotion, bow to.",
+  "idiomaticTranslation": "To Ajita, moon among all conquerors — invincible, yet the very vanquisher of delusion, who has shaken every affliction from himself — to him, with a still and purified heart, I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the long tableau of celestial women circling the Jina's feet, this stanza turns inward: the cumbersome third-person description gives way to a single first-person verb, paṇamāmi — 'I bow.' The reciter steps out of the watching crowd and makes the homage personally. The art of the verse is its piled-up accusative epithets, all governed by that one verb. First the tender image, jiṇa-caṁda, 'moon among Jinas' — the conqueror seen not as fierce but as cool, gentle, gladdening. Then the hymn's beloved paradox, set as two adjacent words: a-jiaṁ jia-mohaṁ — 'the Unconquered, conqueror-of-delusion.' He whom nothing can defeat is defined by the one thing he did defeat: moha. The third epithet, dhuya-savva-kilesaṁ, completes the spiritual portrait with the oldest Jain verb of liberation, √dhū, 'to shake off': he has shaken every kleśa from himself as a tree sheds its leaves. The closing payao is not decoration — it specifies the inner condition of a valid bow: prayata, composed, restrained, pure of intent. The verse thus models the whole posture of pratikramaṇa: not the body alone but a settled, purified mind doing the bowing.",
+    "doctrinalContext": "The verse compresses the Jain account of liberation into three epithets. moha — delusion, the mohanīya karma — is doctrinally the root passion: conquer it and the remaining ghātī karmas fall, so jia-mohaṁ names the decisive victory that yields kevala-jñāna. kleśa (savva-kilesaṁ) is the binding train of rāga, dveṣa and moha; to be dhuya-kilesa is to be one in whom they are shed, the mark of the vītarāga. The juxtaposition a-jita / jita-moha articulates the Jina's invincibility positively: he is unconquerable precisely because he has already conquered the only true enemy, the inner one — not an external foe but his own karmic bondage.",
+    "practicalRelevance": "The verse hands the reciter a template for every praṇāma: bow payao — composed and pure in intent — not mechanically. As you say paṇamāmi, let the three epithets become an aspiration: to face your own moha and kleśa as Ajita faced his. The homage is meant to be made in the first person, here and now, not merely recited about someone long ago.",
+    "crossReferences": [
+      {
+        "text": "Logassa — 'vande' / personal obeisance to the 24 Jinas (Cauvīsattho, Āv. 2)",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 8.1 & 10.1 — mohanīya as root karma; its destruction precedes omniscience and mokṣa",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Ācārāṅga-sūtra, dhuta / 'shaking off' karma (Book 1, Lesson on dhuta)",
+        "source": "Ācārāṅga-sūtra, Ardhamāgadhī"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of jita/a-jita (√ji), moha, kleśa, dhūta (√dhū), prayata (pra+√yam), praṇamāmi (pra+√nam)."
+    },
+    {
+      "title": "JainQQ digital library — Jain stotra anthologies and Ajitaśānti Stava recensions",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Verse text and reading of the Ajita/jita-moha word-play; placement of the homage within the assembly section."
+    },
+    {
+      "title": "Jain eLibrary — Ācārāṅga-sūtra (English) on dhuta / shaking off karma",
+      "url": "https://www.jainelibrary.org/",
+      "type": "translation",
+      "consultedFor": "Doctrinal sense of dhuya/dhūta as the technical verb for shedding karma and kleśa."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "payao is read as Skt. prayataḥ ('devoutly, with self-restraint'), matching the parallel payao paṇamiassa in the following verse; a folk gloss treating it as pada ('feet') is rejected. dhuya-savvakilesaṁ is taken as a bahuvrīhi qualifying the Jina ('by whom all kleśas are shaken off'). taṁ ('that/him') resumes the Jina described in the preceding stanza, so this verse functions as the devotee's punctuating first-person bow. Book reads ધુય (short u) here; some recensions show ધૂય (long ū) — preserved verbatim per the source's orthography. Exact metre/recension numbering of v.29 not independently fixed against manuscripts; treat as the book's reading."
+}

@@ -1,0 +1,158 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/23",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the very middle of this hymn lies a secret eighteen-syllable mantra, and whoever recognises it meditates on Pārśva, the supreme and self-revealing Lord.",
+  "recitation": "ea-ssa majjhayāre, aṭṭhārasa akkharehiṁ jo manto, jo jāṇai so jhāyai, pāsaṁ paramesaraṁ payaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "એઅસ્સ",
+      "translit": "eassa",
+      "gloss": "of this (hymn)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive sg. of the demonstrative *ea* (Skt. *etad* / *eta*), 'of this'; here pointing back to the stotra itself.",
+      "notes": "The referent is the present saṁstava — the antecedent for *majjhayāre* that follows."
+    },
+    {
+      "token": "મજ્ઝયારે",
+      "translit": "majjhayāre",
+      "gloss": "in the middle, in the interior",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit *majjhayāra* (< Skt. *madhya* + *-kāra*, 'middle-region/inside'), locative sg.; cognate with *madhya*, 'centre'.",
+      "notes": "Signals that the mantra is embedded inside the body of the hymn rather than stated openly."
+    },
+    {
+      "token": "અઠ્ઠારસ",
+      "translit": "aṭṭhārasa",
+      "gloss": "eighteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit *aṭṭhārasa* (Skt. *aṣṭādaśa*), the cardinal 'eighteen', qualifying *akkharehiṁ*.",
+      "notes": ""
+    },
+    {
+      "token": "અક્ખરેહિં",
+      "translit": "akkharehiṁ",
+      "gloss": "by syllables, with letters",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit *akkhara* (Skt. *akṣara*, 'imperishable; syllable/phoneme'), instrumental pl.; the mantra is constituted 'by eighteen syllables'.",
+      "notes": "*akṣara* carries the double sense of 'syllable' and 'imperishable', apt for a sacred sound-formula."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun *jo* (Skt. *yaḥ*), nominative sg.; here qualifying *manto* — 'the mantra which (consists) of eighteen syllables'.",
+      "notes": "First of two *jo* in the verse; this one is relative-adjectival to the mantra."
+    },
+    {
+      "token": "મંતો",
+      "translit": "manto",
+      "gloss": "mantra, sacred formula",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit *manta* (Skt. *mantra*, from √*man*, 'to think'), nominative sg.",
+      "notes": ""
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever, the one who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun *jo* (Skt. *yaḥ*), nominative sg., correlated with *so* below.",
+      "notes": "Opens the *jo…so* (yaḥ…saḥ, 'whoever…that one') correlative frame."
+    },
+    {
+      "token": "જાણઇ",
+      "translit": "jāṇai",
+      "gloss": "knows, recognises",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit *jāṇai* (Skt. √*jñā*, 'to know'), 3rd sg. present.",
+      "notes": "Knowing here implies initiated recognition of the concealed mantra, not mere reading."
+    },
+    {
+      "token": "સો",
+      "translit": "so",
+      "gloss": "he, that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit correlative pronoun *so* (Skt. *saḥ*), nominative sg.; resumes the *jo* of 'whoever'.",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઝાયઇ",
+      "translit": "jhāyai",
+      "gloss": "meditates upon",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit *jhāyai* (Skt. √*dhyai* / *dhyāyati*, 'to meditate'), 3rd sg. present.",
+      "notes": "The fruit of knowing the mantra is dhyāna — sustained meditation on Pārśva."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva (Pārśvanātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit *pāsa* (Skt. *Pārśva*), accusative sg.; the 23rd Tīrthaṅkara, object of *jhāyai*.",
+      "notes": ""
+    },
+    {
+      "token": "પરમેસરં",
+      "translit": "paramesaraṁ",
+      "gloss": "the supreme Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit *paramesara* (Skt. *parameśvara*, *parama* + *īśvara*, 'highest lord'), accusative sg.; in apposition to *pāsaṁ*.",
+      "notes": "An epithet of supremacy applied to Pārśva, not a separate deity."
+    },
+    {
+      "token": "પયડં",
+      "translit": "payaḍaṁ",
+      "gloss": "manifest, self-revealing, evident",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit *payaḍa* (Skt. *prakaṭa*, 'manifest, openly evident'), accusative sg.; qualifies *pāsaṁ paramesaraṁ*.",
+      "notes": "Paradox with *majjhayāre*: the mantra is hidden, yet the Lord it reveals becomes wholly 'manifest' to the one who knows."
+    }
+  ],
+  "literalTranslation": "In the middle of this (hymn) is the mantra that (consists) of eighteen syllables; whoever knows (it), he meditates upon Pārśva, the supreme Lord, made manifest.",
+  "idiomaticTranslation": "Set in the very heart of this hymn is a mantra of eighteen syllables; and the one who truly knows it meditates upon Pārśva — supreme Lord, made wholly manifest before him.",
+  "elaboration": {
+    "verseByVerseCommentary": "After verse 22 hailed the victorious Pārśva who stayed unmoved through Kamaṭha's onslaught, this verse turns from narrative to disclosure: the poet reveals that his hymn is not only praise but a vessel. *Eassa majjhayāre* — 'in the middle of this' — discloses that an eighteen-syllable mantra (*aṭṭhārasa akkharehiṁ jo manto*) lies concealed within the stotra's own verses. The verse withholds the syllables themselves; it only signposts them. This reticence is deliberate and structural — the formula is transmitted through guru-paramparā, not printed plainly, so the text names the treasure without unlocking it. The pivot of the verse is the *jo…so* correlative: *jo jāṇai so jhāyai* — 'whoever knows, he meditates.' Two grades of devotee are distinguished in a single breath. The ordinary reciter receives the hymn's protective power simply by chanting; but the one who *knows* (jāṇai) — who has been shown the embedded mantra — graduates from recitation to *dhyāna* (jhāyai), sustained meditative absorption. Knowing is thus not bookish information but initiated recognition that ripens into contemplation. The object of that meditation is given a triple designation: *pāsaṁ paramesaraṁ payaḍaṁ* — Pārśva, the supreme Lord, made manifest. The closing word *payaḍaṁ* ('manifest, self-revealing') answers *majjhayāre* ('hidden in the middle') with quiet paradox: what is concealed in the letters becomes, for the knower, the fully revealed Lord. The verse therefore reframes the whole stotra retrospectively — every danger-and-rescue pair the reader has passed through was also carrying, syllable by syllable, a secret mantra of which only the initiate is aware.",
+    "doctrinalContext": "The verse encapsulates the Jain understanding of *nāma* and *mantra* as efficacious sound: the Jina's name and the akṣaras built from it are not arbitrary labels but *akṣara* in the literal sense — 'imperishable' phonemes whose meditative use yields liberation-ward fruit. It also enacts the classical distinction between *dravya* (outer, formal) and *bhāva* (inner, realised) recitation: mere chanting is meritorious, but *jāṇai*-grade knowing that flowers into *jhāyai*-grade dhyāna is the higher mode, consonant with the fifth Āvaśyaka (kāyotsarga/meditation) toward which all this protective recitation ultimately points. The epithet *parameśvara* applied to a Tīrthaṅkara reflects Jain theology precisely: Pārśva is 'supreme Lord' not as a creator-god but as one who has perfected the soul's own sovereignty.",
+    "practicalRelevance": "For today's reciter the verse is an invitation to depth: do not stop at the syllables you can pronounce, but seek — through a teacher — the meaning and the embedded formula the hymn carries, so that protective chanting matures into genuine meditation on Pārśva. It models how to hold an esoteric element with reverence rather than treating the mantra as a curiosity to be extracted and broadcast.",
+    "crossReferences": [
+      {
+        "text": "Verse 25 — that even Pārśva's name equals a mantra (the hymn's closing self-reference)",
+        "source": "Namiūṇa Bhayahara Stotra, Anchalgachchha/Vidhipaksha Panch Pratikraman ed."
+      },
+      {
+        "text": "Upasargahara Stotra (4th Smaraṇa), also to Pārśva and traditionally treated as mantra-bearing",
+        "source": "Nava Smaraṇa, Panch Pratikraman Sutra — Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Bhaktamara Stotra (Wikipedia) — on Ācārya Mānatuṅga, author of the fear-removing stotras",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "traditional attribution of the Bhayahara/Namiūṇa stotra to Mānatuṅga and the stotra-as-mantra-vehicle tradition"
+    },
+    {
+      "title": "Parshvanatha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva as the 23rd Tīrthaṅkara, identity of the *pāsaṁ paramesaraṁ* addressed in the verse"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — entries akṣara, mantra, prakaṭa, parameśvara, madhya",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens (akkhara<akṣara, manta<mantra, payaḍa<prakaṭa, paramesara<parameśvara, majjha<madhya)"
+    },
+    {
+      "title": "Mantra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Mantra",
+      "type": "scholarship",
+      "consultedFor": "the meaning of *mantra* as an efficacious meditative sound-formula, framing *jhāyai* (dhyāna) as the fruit of knowing the mantra"
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "The lexical and grammatical reading (eassa=etad gen.; majjhayāre=madhya loc.; aṭṭhārasa akkhara=aṣṭādaśa akṣara; manto=mantra; jāṇai<jñā; jhāyai<dhyai; payaḍaṁ<prakaṭa) is secure. The verse deliberately does NOT spell out the eighteen-syllable mantra; popular reconstructions circulating online (e.g. 'oṁ hrīṁ śrīṁ arhaṁ … pārśvanāthāya namaḥ') are NOT in the verse and vary by transmission, so the actual syllabary is left to guru-paramparā and is treated here as uncertain rather than fixed. The reading *payaḍaṁ* could alternatively be construed adverbially ('manifestly meditates') but is taken here as an accusative adjective of *pāsaṁ paramesaraṁ*, matching the verse's hidden/manifest contrast. Spellings (doubled conjuncts in અઠ્ઠારસ, અક્ખરેહિં, જ્ઝાયઇ) follow the supplied source text verbatim; other recensions read *jo jāṇai so jhāyai* identically. Verse numbering (23) per the supplied corpus."
+}

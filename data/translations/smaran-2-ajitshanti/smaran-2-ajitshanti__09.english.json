@@ -1,0 +1,348 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse paints Lord Śāntinātha's majestic beauty — broad-chested and golden-skinned like a magnificent royal elephant, gentle and lovely in form, with a voice sweeter than the gods' kettledrums.",
+  "recitation": "sāvatthi puvva patthivaṁ ca, vara-hatthi matthaya pasattha vicchinna saṁthiaṁ | thira sariccha vacchaṁ mayagala līlāyamāṇa vara-gandhahatthi patthāṇa patthiyaṁ | saṁthavārihaṁ hatthi hattha-bāhuṁ dhaṁta kaṇaga ruaga niruvahaya piṁjaraṁ, pavara lakkhaṇovaciya soma cāru-ruvaṁ, sui suha maṇābhirāma parama ramaṇijja vara deva duṁduhi nināya mahurayara suha-giraṁ.",
+  "wordByWord": [
+    {
+      "token": "સાવત્થિ",
+      "translit": "sāvatthi",
+      "gloss": "Śrāvastī (the city); or, as an epithet, 'abounding in prosperity'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit for Skt. Śrāvastī; alternatively from sa- + artha (cf. sārthavat), 'possessed of wealth'",
+      "notes": "Its application to Śāntinātha — traditionally born in Hastināpura — is a textual crux; see verse notes."
+    },
+    {
+      "token": "પુવ્વ",
+      "translit": "puvva",
+      "gloss": "former, in a prior time",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. pūrva, 'prior, earlier'"
+    },
+    {
+      "token": "પત્થિવં",
+      "translit": "patthivaṁ",
+      "gloss": "king, earthly sovereign (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. pārthiva, 'lord of the earth (pṛthivī)'",
+      "notes": "Recalls Śāntinātha's cakravartin sovereignty, renounced for liberation."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca, copulative particle"
+    },
+    {
+      "token": "વરહત્થિ",
+      "translit": "vara-hatthi",
+      "gloss": "the excellent/noble elephant",
+      "partOfSpeech": "compound",
+      "etymology": "vara 'best' + Pkt. hatthi (Skt. hastin, 'the one with a hand/trunk')"
+    },
+    {
+      "token": "મત્થય",
+      "translit": "matthaya",
+      "gloss": "head, forehead (of the elephant)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. mastaka, 'head'"
+    },
+    {
+      "token": "પસત્થ",
+      "translit": "pasattha",
+      "gloss": "praised, excellent, auspicious",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. praśasta, 'commended'"
+    },
+    {
+      "token": "વિચ્છિન્ન",
+      "translit": "vicchinna",
+      "gloss": "broad, wide-spread, expansive",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. vistīrṇa / vicchinna, 'spread out, ample'"
+    },
+    {
+      "token": "સંથિઅં",
+      "translit": "saṁthiaṁ",
+      "gloss": "well-formed, well-set (accusative)",
+      "partOfSpeech": "participle",
+      "etymology": "Pkt. for Skt. saṁsthita, 'well-established, shaped'",
+      "notes": "Caps the simile: his frame broad and well-set like a noble elephant's praised forehead."
+    },
+    {
+      "token": "થિર",
+      "translit": "thira",
+      "gloss": "firm, steady",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. sthira"
+    },
+    {
+      "token": "સરિચ્છ",
+      "translit": "sariccha",
+      "gloss": "resembling, like",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. sadṛkṣa, 'similar'"
+    },
+    {
+      "token": "વચ્છં",
+      "translit": "vacchaṁ",
+      "gloss": "chest, breast (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. vakṣas, 'chest'",
+      "notes": "thira-sariccha-vacchaṁ: his chest firm and resembling [a rock-slab]."
+    },
+    {
+      "token": "મયગલ",
+      "translit": "mayagala",
+      "gloss": "a rutting elephant (with flowing temporal ichor)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. madakala/madagala, 'aroused with the fluid of rut'"
+    },
+    {
+      "token": "લીલાયમાણ",
+      "translit": "līlāyamāṇa",
+      "gloss": "sporting, moving with graceful play",
+      "partOfSpeech": "participle",
+      "etymology": "denominative present participle from līlā, 'play, grace'"
+    },
+    {
+      "token": "વરગંધહત્થિ",
+      "translit": "vara-gandhahatthi",
+      "gloss": "the supreme scent-elephant (whose rut-fragrance subdues lesser elephants)",
+      "partOfSpeech": "compound",
+      "etymology": "vara + gandha 'scent' + hatthi (hastin); cf. Skt. gandhahastin, the noblest war-elephant"
+    },
+    {
+      "token": "પત્થાણ",
+      "translit": "patthāṇa",
+      "gloss": "setting out, march, gait",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. prasthāna, 'departure, advance'"
+    },
+    {
+      "token": "પત્થિયં",
+      "translit": "patthiyaṁ",
+      "gloss": "advancing, set forth (accusative)",
+      "partOfSpeech": "participle",
+      "etymology": "Pkt. for Skt. prasthita, 'set out'",
+      "notes": "His advance majestic as the gait of a sporting supreme scent-elephant."
+    },
+    {
+      "token": "સંથવારિહં",
+      "translit": "saṁthavārihaṁ",
+      "gloss": "worthy of praise/eulogy (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "saṁthava (Skt. saṁstava, 'praise') + ariha (Skt. arha, 'worthy')"
+    },
+    {
+      "token": "હત્થિ",
+      "translit": "hatthi",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. hastin"
+    },
+    {
+      "token": "હત્થબાહું",
+      "translit": "hattha-bāhuṁ",
+      "gloss": "arms long like [an elephant's] trunk (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "hattha (hasta, 'trunk/hand') + bāhu, 'arm'",
+      "notes": "hatthi-hattha-bāhuṁ: arms like an elephant's pendant trunk — a mark of the great man."
+    },
+    {
+      "token": "ધંત",
+      "translit": "dhaṁta",
+      "gloss": "fire-blown, smelted, refined",
+      "partOfSpeech": "participle",
+      "etymology": "Pkt. for Skt. dhmāta, 'blown in fire, purified'"
+    },
+    {
+      "token": "કણગ",
+      "translit": "kaṇaga",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. kanaka, 'gold'"
+    },
+    {
+      "token": "રુઅગ",
+      "translit": "ruaga",
+      "gloss": "fine radiant gold",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. rucaka, 'bright; a pure kind of gold'"
+    },
+    {
+      "token": "નિરુવહય",
+      "translit": "niruvahaya",
+      "gloss": "unblemished, flawless, unhurt",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. nirupahata, 'uninjured, unspoiled'"
+    },
+    {
+      "token": "પિંજરં",
+      "translit": "piṁjaraṁ",
+      "gloss": "tawny-gold in hue (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. piñjara, 'golden-yellow, tawny'",
+      "notes": "Complexion tawny-golden like fire-refined, flawless gold."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "foremost, supreme",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. pravara"
+    },
+    {
+      "token": "લક્ખણોવચિય",
+      "translit": "lakkhaṇovaciya",
+      "gloss": "enriched/heaped with [auspicious] marks",
+      "partOfSpeech": "compound",
+      "etymology": "lakkhaṇa (lakṣaṇa, 'mark') + uvaciya (upacita, 'heaped, enriched')"
+    },
+    {
+      "token": "સોમ",
+      "translit": "soma",
+      "gloss": "gentle, serene, moon-like",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. saumya, 'mild, lunar'"
+    },
+    {
+      "token": "ચારુરુવં",
+      "translit": "cāru-ruvaṁ",
+      "gloss": "lovely of form (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "cāru, 'beautiful' + ruva (rūpa, 'form')"
+    },
+    {
+      "token": "સુઇ",
+      "translit": "sui",
+      "gloss": "the ear; hearing",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. śruti, 'hearing, ear'"
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "pleasant, comfortable",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. sukha, 'pleasant'",
+      "notes": "sui-suha: pleasing to the ear."
+    },
+    {
+      "token": "મણાભિરામ",
+      "translit": "maṇābhirāma",
+      "gloss": "delighting the mind",
+      "partOfSpeech": "compound",
+      "etymology": "maṇa (manas, 'mind') + abhirāma, 'delightful'"
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "supreme, highest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. parama"
+    },
+    {
+      "token": "રમણિજ્જ",
+      "translit": "ramaṇijja",
+      "gloss": "charming, delightful",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. ramaṇīya, 'pleasing'"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choicest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara, 'choice, best'"
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "divine, of the gods",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. deva, 'god'"
+    },
+    {
+      "token": "દુંદુહિ",
+      "translit": "duṁduhi",
+      "gloss": "kettledrum, the divine war-drum",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. dundubhi, 'large drum'",
+      "notes": "The dundubhi is one of a Tīrthaṅkara's eight prātihārya (divine attendant marvels)."
+    },
+    {
+      "token": "નિનાય",
+      "translit": "nināya",
+      "gloss": "sound, resonant peal",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. for Skt. nināda, 'resounding'"
+    },
+    {
+      "token": "મહુરયર",
+      "translit": "mahurayara",
+      "gloss": "sweeter, more melodious (comparative)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. for Skt. madhura-tara, 'sweeter'"
+    },
+    {
+      "token": "સુહગિરં",
+      "translit": "suha-giraṁ",
+      "gloss": "whose voice is auspicious and sweet (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "suha (śubha/sukha, 'auspicious/pleasant') + gira (gir, 'voice, speech')",
+      "notes": "Caps the stanza: a voice sweeter than the divine kettledrums' peal."
+    }
+  ],
+  "literalTranslation": "And [him who was] formerly a king [of Śrāvastī] — his broad frame well-set like the praised forehead of a noble elephant; his chest firm and rock-like; his advance majestic as the gait of a supreme rutting scent-elephant moving in sport; worthy of all praise; his arms long like an elephant's trunk; tawny-golden like fire-refined, flawless gold; serene and lovely of form, heaped with the foremost auspicious marks; pleasing to the ear, delighting the mind, supremely charming; whose auspicious voice is sweeter than the resonant peal of the excellent divine kettledrums.",
+  "idiomaticTranslation": "And him, once a sovereign king — broad and nobly set like the lordly elephant's brow, firm-chested, stepping with the majestic ease of a great rutting tusker at play; worthy of every praise, his arms long as an elephant's trunk, his body tawny-bright as flawless smelted gold; serene and beautiful, graced with all the foremost auspicious marks; a delight to ear and mind, surpassingly lovely, his voice more honeyed than the rolling thunder of the gods' own kettledrums — him I extol.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the line before praised Śānti's inner perfections, this stanza turns wholly outward, building a single sustained simile: the Jina as gajarāja, the elephant-king. Every clause borrows from elephantine majesty — the broad, well-set frame likened to the noble tusker's auspicious forehead (vara-hatthi matthaya); the firm rock-like chest; the unhurried, lordly stride compared to a rutting gandhahastin 'sporting' on the march (mayagala-līlāyamāṇa…patthiyaṁ); and arms hanging long and powerful like a trunk (hatthi-hattha-bāhuṁ). The imagery is doubly apt for Śāntinātha, the renounced cakravartin whose seat lay at Gajapura (Hastināpura), the 'elephant-city' — so the opening 'puvva patthivaṁ,' formerly a king, is not idle praise but a reminder of sovereignty laid down for the path. The portrait then refines upward: from bulk and gait to colour — skin tawny-bright as fire-smelted, unblemished gold (dhaṁta-kaṇaga…piṁjaraṁ) — to subtle grace, a serene (soma) form heaped with auspicious lakṣaṇas, and finally to sound: a voice sweeter than the gods' kettledrums. The movement from massive physique to honeyed voice mirrors the worshipper's own approach — first struck by grandeur, then drawn by gentleness. The alternation makes the next verse pivot back to Ajita.",
+    "doctrinalContext": "The catalogue of bodily splendour is not mere flattery: in Jain teaching a Tīrthaṅkara's frame is the visible ripening of tīrthaṅkara-nāma-karma and countless lifetimes of merit, marked by the auspicious lakṣaṇas of a mahāpuruṣa. Crucially, the verse frames this beauty through renunciation — 'formerly a king' — so the very magnificence celebrated is that which Śāntinātha surrendered; the gold-bright body points beyond itself to the soul's purity, not to sensual worth. The divine dundubhi whose peal his voice surpasses belongs to the prātihārya, the marvels attending an omniscient Jina's preaching — locating his sweetness in his role as teacher, not merely as a handsome form.",
+    "practicalRelevance": "The reciter is meant to see the Jina — to let a concrete, radiant image steady a wandering mind. One dwells on the serene (soma) face and the honeyed voice to draw the heart toward calm, while remembering that this glory was renounced: a quiet lesson that outward grandeur is to be admired only as a sign of inward virtue, and then let go.",
+    "crossReferences": [
+      {
+        "text": "The divine dundubhi as one of the eight mahāprātihārya of a Tīrthaṅkara",
+        "source": "Jain prātihārya tradition; cf. Hemacandra, Abhidhāna-cintāmaṇi (devādhideva-kāṇḍa)"
+      },
+      {
+        "text": "The auspicious bodily marks (lakṣaṇa) of a mahāpuruṣa",
+        "source": "Samavāyāṅga / Tiloyapaṇṇatti tradition (uncertain exact locus)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava), praise of the 24 Tīrthaṅkaras",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.), in-corpus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of pārthiva, hastin, kanaka, rucaka, piñjara, dundubhi, nināda, madhura, saumya for the per-token glosses."
+    },
+    {
+      "title": "Gandhahastin — definition (Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/gandhahastin",
+      "type": "dictionary",
+      "consultedFor": "Sense of gandhahastin as the noblest 'scent-elephant' whose rut-fragrance overpowers other elephants, grounding vara-gandhahatthi."
+    },
+    {
+      "title": "Parthiva — definition (Wisdomlib)",
+      "url": "https://www.wisdomlib.org/definition/parthiva",
+      "type": "dictionary",
+      "consultedFor": "Pārthiva = 'lord of the earth, king', supporting puvva-patthivaṁ ('formerly a king')."
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha ed.)",
+      "url": "",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati verse text, verse numbering (v.9), and its placement as Śāntinātha's royal portrait within the Ajitaśānti Stava."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is one continuous chain of accusative epithets governed by an implied verb of praise carried from the surrounding stanzas; orthography (single/double conjuncts, anusvāra) is preserved verbatim from the book and compounds were split only for glossing. Chief crux: 'sāvatthi' (સાવત્થિ). Read straightforwardly it is Sāvatthī = Śrāvastī, but Śāntinātha is traditionally of Hastināpura (Gajapura), so either (a) it is an honorific epithet ('abounding in prosperity', sa-artha-vat) rather than the city, or (b) a recensional variant; the city-reading is given first with this caveat. 'ruaga' (Skt. rucaka) is taken as a grade/quality of refined gold reinforcing kaṇaga. Online secondary 'translations' of this verse retrieved during research were unreliable and self-contradictory and were therefore disregarded in favour of primary lexica; cross-reference loci (Samavāyāṅga/Tiloyapaṇṇatti for the lakṣaṇas) are cited by tradition and not pinpointed to an exact gāthā here."
+}

@@ -1,0 +1,64 @@
+{
+  "shlokaId": "navkar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Upadhyayas — the learned monks who teach the scriptures to other ascetics.",
+  "recitation": "namo uvajjhāyāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence to / I bow to",
+      "partOfSpeech": "invocation",
+      "etymology": "From Sanskrit namas (नमस्), 'bowing, homage', from the root nam- 'to bend, bow'; before a voiced sound namas → namo by sandhi.",
+      "notes": "The same homage-particle opening each of the five bows; here it governs the dative-plural object."
+    },
+    {
+      "token": "ઉવજ્ઝાયાણં",
+      "translit": "uvajjhāyāṇaṁ",
+      "gloss": "to the upādhyāyas (the teaching-monks who instruct ascetics in scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uvajjhāya = Sanskrit upādhyāya, from upa- ('near') + adhyāya ('lesson, study', from adhi-√i 'to study'): 'one near whom one studies'. Prakrit softens upa- → uva- and assimilates -dhy- → -jjh-. The ending -āṇaṁ is the dative/genitive plural (Sanskrit -ānām).",
+      "notes": "Single sandhi-compacted word carrying both the noun and its case-ending; 100% of the verse's content sits here plus 'namo'."
+    }
+  ],
+  "literalTranslation": "Reverence to the upādhyāyas.",
+  "idiomaticTranslation": "I bow in homage to the Upādhyāyas — the scripture-teaching monks.",
+  "elaboration": {
+    "verseByVerseCommentary": "This fourth bow descends one rung from the previous line's Ācārya to the Upādhyāya, the teaching-monk whose office is instruction rather than governance. Where the Ācārya heads the order and embodies conduct, the Upādhyāya is the custodian and transmitter of śruta (scriptural knowledge): he reads the Aṅgas and Upāṅgas with the younger ascetics and keeps the canon alive on the tongue. The same dative-plural gesture — namo + '-āṇaṁ' — again offers homage to an office and its qualities, not to any named person; tradition enumerates the Upādhyāya's excellence as mastery of the twenty-five scriptural sections he is charged to teach. The placement is deliberate and pedagogical: the verse moves the reciter from the one who leads (Ācārya) to the one who teaches (Upādhyāya), and the very next line will widen to 'all sādhus in the world' — so this line is the hinge between the singular guiding offices and the whole body of monks. To bow here is to honour learning itself as a rung of the path: the soul advances not only by example and discipline but by hearing and study, and the Upādhyāya is reverenced as the living conduit of that hearing.",
+    "doctrinalContext": "The Upādhyāya occupies the fourth of the pañca-parameṣṭhi as the embodiment of right knowledge (samyag-jñāna) in its transmissive mode. Veneration falls on his function — guarding and teaching the Jina's śruta — rather than on liberation attained, distinguishing him from the Arihant and Siddha who are honoured for states reached. He is thus a 'guide along the way,' venerated alongside Ācārya and Sādhu as one who carries others forward.",
+    "practicalRelevance": "Reciting this line, a practitioner honours every teacher who has handed down the scriptures, and resolves to value disciplined study — to learn the texts accurately and to pass them on faithfully — as itself an act of reverence.",
+    "crossReferences": [
+      {
+        "text": "Pañca-namaskāra, line 4: 'Namo Uvajjhāyāṇaṁ'",
+        "source": "Vyākhyāprajñapti (Bhagavatī-sūtra) auspicious opening; Āvaśyaka-sūtra recension"
+      },
+      {
+        "text": "Upādhyāya as fourth Parameṣṭhin, custodian of śruta",
+        "source": "Tattvārtha-sūtra commentarial tradition; standard pañca-parameṣṭhi exposition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, transliteration, history and the five Parameṣṭhins",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Placement of 'Namo Uvajjhayanam' as the fourth bow, the dative-plural -anam/-āṇaṁ ending, and the identity of the Upādhyāya among the pañca-parameṣṭhi."
+    },
+    {
+      "title": "Upadhyaya (Jain teaching ascetic)",
+      "url": "https://en.wikipedia.org/wiki/Upadhyaya",
+      "type": "scholarship",
+      "consultedFor": "Role of the Upādhyāya as scripture-teaching monk ranked below the Ācārya and his function of instructing ascetics."
+    },
+    {
+      "title": "Monier-Williams / Cologne Digital Sanskrit Lexicon — upādhyāya (upa + adhyāya)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Etymology of upādhyāya from upa- + adhyāya (adhi-√i) and the Prakrit derivation uvajjhāya."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "Verse text and orthography follow the book verbatim, including 'ઉવજ્ઝાય' with the conjunct જ્ઝ. The closing period ('.') is the book's punctuation and is preserved. The grammatical ending '-āṇaṁ' is read as dative-plural ('reverence to…'), with genitive-plural an equivalent reading; both are standard for this formula. The traditional count of the Upādhyāya's twenty-five qualities (mastery of twenty-five scriptural sections) is the received understanding and varies slightly between Śvetāmbara and Digambara enumerations."
+}

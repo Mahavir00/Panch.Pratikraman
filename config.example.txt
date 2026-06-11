@@ -1,0 +1,8 @@
+# Panch Pratikraman config (key=value). All keys optional.
+copilotModel=claude-opus-4.8
+copilotModelLarge=claude-opus-4.8
+copilotReasoning=xhigh
+copilotContextTier=long_context
+copilotConcurrency=6
+dataDir=./data
+tradition=achhalgach

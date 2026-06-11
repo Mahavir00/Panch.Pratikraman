@@ -1,0 +1,218 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The two Jinas bravely bore terrible hardships and destroyed the soul-darkening karmas, thereby winning pure, all-seeing knowledge — these are the 2nd and the 16th Tīrthaṅkaras, to whom I bow.",
+  "recitation": "ghora tava caraṇa uvasaggu ahiyāsiuṁ, dujjaya ghāi kammāiṁ ninnāsiuṁ; jehiṁ nāṇaṁ samuppāḍiaṁ vimalayaṁ, duiya solasama jiṇa ti jaṇa maha suviṇayaṁ.",
+  "wordByWord": [
+    {
+      "token": "ઘોર",
+      "translit": "ghora",
+      "gloss": "fierce, terrible, dreadful",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ghora; qualifies the austerity that follows.",
+      "notes": "Modifies tava-caraṇa: the 'fierce' rigour of the penance."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, penance (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tapas > Pkt. tava; here 'austerity', not the homonym tava = 'your'.",
+      "notes": "Read as tapas per the preface arc (v.4 = fierce austerity). The deceptive look-alike 'your' is rejected by context."
+    },
+    {
+      "token": "ચરણ",
+      "translit": "caraṇa",
+      "gloss": "conduct, ascetic practice",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. caraṇa (√car, 'to move/practise'); 'conduct, observance'.",
+      "notes": "ghora-tava-caraṇa = the practice/discipline of severe austerity."
+    },
+    {
+      "token": "ઉવસગ્ગુ",
+      "translit": "uvasaggu",
+      "gloss": "affliction, attack (upasarga)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upasarga > Pkt. uvasagga; -u is an Apabhraṁśa nominative ending.",
+      "notes": "Object of ahiyāsiuṁ; glossed in the preface."
+    },
+    {
+      "token": "અહિયાસિઉં",
+      "translit": "ahiyāsiuṁ",
+      "gloss": "endured, bore patiently",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. ahiyāsa- 'to endure/bear' < Skt. adhi-ā-√sah (adhyās-, 'to bear up, withstand'); past-participial/perfect form.",
+      "notes": "Endurance, not retaliation — the ascetic ideal of titikṣā."
+    },
+    {
+      "token": "દુજ્જય",
+      "translit": "dujjaya",
+      "gloss": "hard to conquer, invincible",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. durjaya > Pkt. dujjaya (dur- + √ji); doubled -jj- by assimilation.",
+      "notes": "Qualifies the ghāti karmas as nearly unconquerable."
+    },
+    {
+      "token": "ઘાઇ",
+      "translit": "ghāi",
+      "gloss": "destructive (ghāti)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ghātin ('striking, harming', √han) > Pkt. ghāi.",
+      "notes": "The four soul-obscuring karmas; defined in the preface."
+    },
+    {
+      "token": "કમ્માઇં",
+      "translit": "kammāiṁ",
+      "gloss": "karmas (plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. karmāṇi > Pkt. kammāiṁ; neuter plural.",
+      "notes": "Together: dujjaya ghāi kammāiṁ = 'the hard-to-conquer destructive karmas'."
+    },
+    {
+      "token": "નિન્નાસિઉં",
+      "translit": "ninnāsiuṁ",
+      "gloss": "destroyed, annihilated",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. nirnāśita ('caused to perish', nir- + √naś) > Pkt. ninnāsiya; -nn- by assimilation.",
+      "notes": "Parallels ahiyāsiuṁ in the line's end-rhyme; the karmas are wiped out, not merely subdued."
+    },
+    {
+      "token": "જેહિં",
+      "translit": "jehiṁ",
+      "gloss": "by whom (the two Jinas)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. yaiḥ (instr. pl. of yad) > Pkt. jehiṁ.",
+      "notes": "Instrumental, governing samuppāḍiaṁ: 'by whom knowledge was generated'. The dual subject (Ajita + Śānti) sits behind the plural."
+    },
+    {
+      "token": "નાણં",
+      "translit": "nāṇaṁ",
+      "gloss": "knowledge — i.e. kevalajñāna",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jñāna > Pkt. ṇāṇa/nāṇa.",
+      "notes": "With vimalayaṁ, specifically the stainless omniscience; glossed in the preface."
+    },
+    {
+      "token": "સમુપ્પાડિઅં",
+      "translit": "samuppāḍiaṁ",
+      "gloss": "brought forth, generated, made to arise",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. samutpādita (sam- + ut- + √pad, causative) > Pkt. samuppāḍiya.",
+      "notes": "Causative force: the kevala-knowledge was actively 'caused to arise' once the karmas fell."
+    },
+    {
+      "token": "વિમલયં",
+      "translit": "vimalayaṁ",
+      "gloss": "stainless, spotless",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vimala ('without mala/taint') + -ya- extension > Pkt. vimalaya.",
+      "notes": "Attribute of nāṇaṁ: knowledge wholly free of karmic film."
+    },
+    {
+      "token": "દુઇય",
+      "translit": "duiya",
+      "gloss": "second (the 2nd)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dvitīya > Pkt. duiya/biiya.",
+      "notes": "Marks Ajitanātha, the 2nd Tīrthaṅkara."
+    },
+    {
+      "token": "સોલસમ",
+      "translit": "solasama",
+      "gloss": "sixteenth (the 16th)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ṣoḍaśama > Pkt. solasama.",
+      "notes": "Marks Śāntinātha, the 16th Tīrthaṅkara — the verse that fixes the pair's identity."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina ('conqueror', √ji) > Pkt. jiṇa.",
+      "notes": "Singular form covering both, per the hymn's twin-address."
+    },
+    {
+      "token": "તિ",
+      "translit": "ti",
+      "gloss": "thus, so",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. iti > Pkt. ti.",
+      "notes": "Quotative/demonstrative: 'thus [know them]'."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "know! (or: O people)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. jānīhi (imperative of √jñā) > Pkt. jāṇa/jaṇa; homophonous with jaṇa = jana 'people'.",
+      "notes": "Read as imperative 'know thus'; a vocative 'O people' is grammatically possible — see notes."
+    },
+    {
+      "token": "મહ",
+      "translit": "maha",
+      "gloss": "my, to me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa mahu/maha = Skt. mama (gen. of 'I').",
+      "notes": "Possessive governing suviṇayaṁ: 'my reverence'."
+    },
+    {
+      "token": "સુવિણયં",
+      "translit": "suviṇayaṁ",
+      "gloss": "deep / well-offered reverence (su-vinaya)",
+      "partOfSpeech": "noun",
+      "etymology": "su- ('good') + Skt. vinaya ('reverent discipline, homage') > Pkt. su-viṇaya.",
+      "notes": "Taken as 'profound reverence/homage'. A reading su-viṇa(-ya) = 'good dream/auspicious vision' is morphologically possible but devotionally weaker; flagged in notes."
+    }
+  ],
+  "literalTranslation": "The fierce austere conduct and the affliction (upasarga) they endured; the hard-to-conquer destructive (ghāti) karmas they annihilated — by whom stainless knowledge was made to arise. The second and the sixteenth Jina: know them thus — to them my deep reverence.",
+  "idiomaticTranslation": "They bore the dread rigours of penance and stood firm under every affliction; the four destructive karmas, so hard to vanquish, they wiped clean away — and from that victory rose their spotless omniscience. The second Jina and the sixteenth: know them so, and take this as my heartfelt homage.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the pivot of the hymn: the verse that both narrates the spiritual climax and discloses the identity of the pair being praised. Its first half is a tight cause; its second half, the effect. The two end-rhymed verbs — ahiyāsiuṁ ('endured') and ninnāsiuṁ ('annihilated') — set passive forbearance beside decisive conquest. The Jinas first *bear* what comes (ghora-tava-caraṇa, the fierce discipline, and uvasaggu, every affliction), and only then *break* what binds (dujjaya ghāi kammāiṁ, the near-invincible destructive karmas). The order is doctrinally exact: endurance under austerity is the very instrument by which the soul sheds karma, so titikṣā precedes and produces nirjarā. The causative samuppāḍiaṁ ('caused to arise') is precise — kevala-knowledge is not received from outside but *generated* from within the moment the obscuring film lifts; vimalayaṁ ('stainless') underscores that this knowing has no residue of taint left to cloud it. The closing line is the hymn's anchor-pin. Until now the praise could seem addressed to a single Lord; here 'the second and the sixteenth Jina' (duiya solasama jiṇa) names Ajitanātha and Śāntinātha unmistakably, retroactively fixing every singular-sounding epithet in the surrounding verses as a joint address. 'Ti jaṇa' — 'know it thus' — turns the listener from spectator to witness, and 'maha suviṇayaṁ' signs the verse with the reciter's own bowed homage. Where the preceding verse left the worshipper at the Jinas' lotus-feet, this verse lifts the gaze to the summit of their attainment — omniscience won — before the next verse carries them onward to final nirvāṇa.",
+    "doctrinalContext": "The verse compresses the Jain mechanics of liberation into one sentence. The four ghāti ('destructive') karmas — jñānāvaraṇīya (knowledge-obscuring), darśanāvaraṇīya (perception-obscuring), mohanīya (deluding), and antarāya (obstructing) — are precisely those that veil the soul's innate faculties; their total destruction (ninnāsiuṁ), and nothing else, yields kevalajñāna. The text's logic is causal and instrumental: jehiṁ ... samuppāḍiaṁ ('by whom it was made to arise') treats omniscience as the soul's own emergent property, uncovered rather than added — consistent with the Jain view that the kevalin's knowledge is the soul's natural, infinite light once de-obscured. 'Stainless' (vimalayaṁ) marks the qualitative leap from kṣāyopaśamika (partial, mixed) knowledge to kṣāyika (purely destruction-born) knowledge. Endurance of upasarga as the means situates this within the ascetic ethic of titikṣā driving nirjarā.",
+    "practicalRelevance": "For the reciter the verse models a sequence: first bear hardship without recoil, then let that very forbearance burn away what binds. Chanting it during the Pākṣika smaraṇas, one holds the two Jinas as proof that affliction patiently endured is not loss but the fuel of clarity — an encouragement to meet one's own upasargas (illness, insult, fear) with steadiness rather than reaction, trusting that equanimity itself purifies.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 10.1 — destruction of mohanīya then the remaining ghāti karmas yields kevala",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — joint praise of the 24 Jinas including Ajita (2nd) and Śānti (16th)",
+        "source": "Āvaśyaka-sūtra, Anchalgachchha Panch Pratikraman ed."
+      },
+      {
+        "text": "Ajitaśānti Stava (2nd Smaraṇa) — the longer model for dual Ajita–Śānti praise",
+        "source": "Nandiṣeṇasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paia-sadda-mahannavo (Pāia-sadda-mahaṇṇavo), Prakrit–Sanskrit dictionary, H. T. Sheth",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit roots of ahiyāsiu (adhi-ā-√sah), ninnāsiu (nir-√naś), samuppāḍiya (sam-ut-√pad), uvasagga, ghāi"
+    },
+    {
+      "title": "Dictionary of Prakrit for Jain Literature, Vol. 1 Fasc. 2 (Jain Quantum / jainqq.org)",
+      "url": "https://jainqq.org/booktext/Dictionary_of_Prakrit_for_Jain_Literature_Vol_01_Fasc_02/020317",
+      "type": "dictionary",
+      "consultedFor": "Jain-Prakrit usage of participial endurance/destruction forms and karma vocabulary"
+    },
+    {
+      "title": "Adhyas, Adhyās — definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/adhyas",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit root adhi-ā-√sah underlying Prakrit ahiyāsa- 'to endure/bear up'"
+    },
+    {
+      "title": "अध्यास / adhyās — meaning (Hindwi Dictionary)",
+      "url": "https://hindwidictionary.com/meaning-of-adhyaas",
+      "type": "dictionary",
+      "consultedFor": "Cross-check of the adhyās root sense ('placing/bearing upon, enduring') for ahiyāsiuṁ"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Spelling preserved verbatim from the book (e.g. doubled conjuncts dujjaya, ninnāsiuṁ; -uṁ end-rhyme). Three readings are flagged as uncertain: (1) 'tava' is taken as tapas ('austerity'), per the sutra's verse-4 arc, not the homonym 'your' that a casual gloss might suggest. (2) 'jaṇa' is read as the imperative jāṇa ('know thus'); a vocative jaṇa = jana ('O people') is grammatically possible and would not change the sense materially. (3) 'suviṇayaṁ' is taken as su-vinaya ('deep/well-offered reverence', governed by maha 'my'); a su-viṇa(-ya) = 'auspicious dream/vision' reading is morphologically conceivable but devotionally weaker. The dual subject (Ajita + Śānti) is carried by the instrumental plural jehiṁ and made explicit only in the final line. Dictionary URLs verified live; printed-edition citation for the hymn text remains the book itself (placeholder in preface)."
+}

@@ -1,0 +1,234 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever keeps the two Jinas in his heart is wholly freed from every danger — raging enemies, wild beasts, and malign spirits alike.",
+  "recitation": "kuvia riu vagga hari saraha gaya joyaṇī, bhūya veyāla adi rakkhasī ḍāyaṇī. tāsu uvasagga kīrei nāsesayaṁ, hiyai jo ehu samarei jiṇa jualayaṁ.",
+  "wordByWord": [
+    {
+      "token": "કુવિઅ",
+      "translit": "kuvia",
+      "gloss": "enraged, angered",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. kuvia < Skt. kupita (√kup, 'to be angry'); qualifies the enemy-host that follows.",
+      "notes": "Apabhraṁśa loss of the final -ta, leaving the vowel-stem kuvi-a."
+    },
+    {
+      "token": "રિઉ",
+      "translit": "riu",
+      "gloss": "enemy, foe",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. riu < Skt. ripu, 'enemy'.",
+      "notes": ""
+    },
+    {
+      "token": "વગ્ગ",
+      "translit": "vagga",
+      "gloss": "host, multitude, troop",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vagga < Skt. varga, 'group, class'; here a 'pack/host' of foes.",
+      "notes": "kuvia-riu-vagga reads as a loose compound: 'a host of enraged enemies'."
+    },
+    {
+      "token": "હરિ",
+      "translit": "hari",
+      "gloss": "lion",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hari, among whose senses is 'lion' (also horse, monkey); here the beast of prey heading the animal-terrors.",
+      "notes": "Not the deity Hari/Viṣṇu; the surrounding catalogue fixes the zoological sense."
+    },
+    {
+      "token": "સરહ",
+      "translit": "saraha",
+      "gloss": "śarabha (a fierce mythical eight-legged beast said to overpower the lion)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saraha < Skt. śarabha; the ferocious legendary animal of the siṁha–śarabha–gaja triad.",
+      "notes": "Standard middle member of the lion–śarabha–elephant sequence of beast-perils."
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. gaya < Skt. gaja, 'elephant'.",
+      "notes": ""
+    },
+    {
+      "token": "જોયણી",
+      "translit": "joyaṇī",
+      "gloss": "yoginī (a malign female spirit of occult power)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. joyaṇī / joiṇī < Skt. yoginī; in this protective idiom a witch-like supernatural female, not a yoga-adept.",
+      "notes": "Sheth's Prakrit dictionary glosses joiṇī as yoginī / ḍākinī, a woman of uncanny power."
+    },
+    {
+      "token": "ભૂય",
+      "translit": "bhūya",
+      "gloss": "bhūta, ghost-spirit",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhūya < Skt. bhūta, 'spirit, goblin'.",
+      "notes": ""
+    },
+    {
+      "token": "વેયાલ",
+      "translit": "veyāla",
+      "gloss": "vetāla (corpse-haunting demon)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. veyāla < Skt. vetāla.",
+      "notes": "Glossed in the sutra preface; cited here only as one item of the peril-list."
+    },
+    {
+      "token": "અદિ",
+      "translit": "adi",
+      "gloss": "and the rest, et cetera",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. adi < Skt. ādi, 'beginning (of a series)', i.e. 'and so forth'.",
+      "notes": "Marks the list as open-ended — all such terrors, not only those named."
+    },
+    {
+      "token": "રક્ખસી",
+      "translit": "rakkhasī",
+      "gloss": "rākṣasī, demoness, ogress",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. rakkhasī < Skt. rākṣasī; conjunct -kṣ- > -kkh- per Prakrit phonology.",
+      "notes": ""
+    },
+    {
+      "token": "ડાયણી",
+      "translit": "ḍāyaṇī",
+      "gloss": "ḍākinī, witch, sorceress",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ḍāyaṇī < Skt. ḍākinī (cf. Gujarati ḍākaṇa).",
+      "notes": "Glossed in the preface; closes the catalogue of malign females."
+    },
+    {
+      "token": "તાસુ",
+      "translit": "tāsu",
+      "gloss": "of those, their (i.e. of all the foregoing terrors)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa genitive/oblique tāsu < Skt. teṣāṁ / tāsāṁ, 'of those'.",
+      "notes": "Anaphoric: gathers up the whole preceding list as the source of the affliction."
+    },
+    {
+      "token": "ઉવસગ્ગ",
+      "translit": "uvasagga",
+      "gloss": "affliction, attack, calamity",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. uvasagga < Skt. upasarga.",
+      "notes": "Preface-glossed; the same term names the ascetics' ordeal in v.4 — here it is what the devotee is shielded from."
+    },
+    {
+      "token": "કીરેઇ",
+      "translit": "kīrei",
+      "gloss": "is wrought / is brought about",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. kīrei, passive of √kar (Skt. kriyate, 'is done/made').",
+      "notes": "Read with nāse: the affliction that is 'wrought' by those beings is brought to ruin."
+    },
+    {
+      "token": "નાસેસયં",
+      "translit": "nāsesayaṁ",
+      "gloss": "goes utterly to destruction; is wholly annihilated",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi-fused nāse (Skt. nāśam, 'to destruction', from √naś) + sayaṁ (Skt. svayaṁ, 'of itself, entirely').",
+      "notes": "Parsed as nāse + sayaṁ; the doubled sibilant carries the sense 'is destroyed of its own accord, completely'. A minor variant reads nāsei sayaṁ ('he destroys [it] wholly')."
+    },
+    {
+      "token": "હિયઇ",
+      "translit": "hiyai",
+      "gloss": "in the heart",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. locative hiyai < Skt. hṛdaye (hṛdaya, 'heart').",
+      "notes": "The decisive word: inward remembrance, not mere recitation."
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever, the one who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. jo < Skt. yaḥ, relative pronoun.",
+      "notes": "Opens the conditional clause answered by the protection promised."
+    },
+    {
+      "token": "એહુ",
+      "translit": "ehu",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa ehu < Skt. eṣaḥ / etat, 'this'.",
+      "notes": "Points to the Jina-pair as the single object of meditation."
+    },
+    {
+      "token": "સમરેઇ",
+      "translit": "samarei",
+      "gloss": "remembers, calls to mind, meditates upon",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. samarei < Skt. smarati (√smṛ, 'to remember'); smaraṇa is the act this whole stotra is named for.",
+      "notes": ""
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the conqueror-Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jiṇa < Skt. jina (√ji, 'to conquer').",
+      "notes": "Preface-glossed; in compound with jualayaṁ it denotes the two Jinas."
+    },
+    {
+      "token": "જુઅલયં",
+      "translit": "jualayaṁ",
+      "gloss": "the pair, the couple (the two Jinas together)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. juala(ya) < Skt. yugala(ka), 'pair'; diminutive -ka with accusative -ṁ.",
+      "notes": "jiṇa-jualayaṁ = 'the Jina-pair', i.e. Ajitanātha and Śāntinātha jointly — NOT 'abode of the Jina' (a common misreading of jualaya as ālaya)."
+    }
+  ],
+  "literalTranslation": "Enraged enemy-hosts, lions, śarabhas, elephants, yoginīs, bhūtas, vetālas and the like, rākṣasīs, ḍākinīs — the affliction wrought by these goes wholly to destruction for whoever remembers this Jina-pair in the heart.",
+  "idiomaticTranslation": "Hosts of furious foes; lion, śarabha, and elephant; yoginī, ghost, vetāla, and all their kind; ogress and witch — every affliction these can work is utterly undone for the one who, within the heart, holds fast the remembrance of this twin pair of Jinas.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having followed both Jinas to the city of nirvāṇa in the previous verse, the hymn now turns from their story to the reciter's life. The verse is built as a single sweeping condition-and-consequence: a heaped catalogue of perils in the first line and a half, then one slender remedy. The dangers are deliberately graded — first the human (kuvia-riu-vagga, packs of enraged foes), then the bestial (hari, saraha, gaya), then the supernatural-female and spectral (joyaṇī, bhūya, veyāla… rakkhasī, ḍāyaṇī) — so that no register of fear is left uncovered, and adi ('and the rest') throws the list open to every terror unnamed. Against this massed threat stands a single counterweight: tāsu uvasagga… nāsesayaṁ — 'their affliction is wholly undone.' The force of the verse lies in three small words. tāsu sweeps the entire list into one genitive, so that one remedy answers all of it at once. nāsesayaṁ (nāse + sayaṁ) insists the destruction is total and self-acting, not partial. And hiyai — 'in the heart' — relocates the whole transaction inward: the protection is promised not to lip-recitation but to remembrance held in the heart. Note too jiṇa-jualayaṁ: faithful to this 'twin' hymn, the object of meditation is the pair, and ehu ('this') presents them as immediately present to the meditating mind. The asymmetry is the point — a long roll of horrors dissolved by one act of inward devotion.",
+    "doctrinalContext": "The verse must be read against a Jain difficulty it quietly resolves: the two Jinas are, by the previous verse, liberated and utterly passionless (vītarāga), and therefore grant no boons and intervene in no one's affairs. So the 'protection' here is not a deity's favour but the fruit of the devotee's own transformed citta. Heart-remembrance (hiyai… samarei) of the passionless conquerors steadies the mind in auspicious meditation and away from the fear-born ārta and raudra dhyāna; a mind so anchored neither generates fresh inauspicious karma nor remains gripped by terror, and the upasarga loses its hold 'of itself' (sayaṁ) — hence nāsesayaṁ rather than 'the Jina destroys it.' The catalogue of beings is thus also a catalogue of mental afflictions externalised: what is truly dispelled is the bhaya (fear) that the threats provoke. This is the same logic that makes the Jina 'jia-savva-bhayaṁ', conqueror of all fear, in the parallel Ajitaśānti hymn.",
+    "practicalRelevance": "Recited at any moment of dread — danger, illness, hostility, or night-fear — the verse prescribes its own method: not anxious repetition but turning inward (hiyai) to hold the two Jinas steadily in mind. The practitioner is taught to meet fear by substituting for it a single composed object of remembrance, trusting that a heart fixed on the passionless conquerors leaves no room for the affliction to take root.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggaharaṁ Stotra (4th Smaraṇa), v.1–2 — affliction (upasarga) dispelled by remembrance of the Jina",
+        "source": "Bhadrabāhu (attrib.), Nava Smaraṇa collection"
+      },
+      {
+        "text": "Ajitaśānti Stava (2nd Smaraṇa), op. 'ajiaṁ jia-savva-bhayaṁ' — the Jina as conqueror of all fear",
+        "source": "Nandiṣeṇasūri"
+      },
+      {
+        "text": "Logassa (Cauvīsattho), 'kittiya-vandiya-mahiyā… ārugga-bohi-lābhaṁ' — merit of calling the Tīrthaṅkaras to mind",
+        "source": "Āvaśyaka-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams, A Sanskrit-English Dictionary (1899)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Skt. etyma underlying the tokens: ripu, varga, hari (lion), śarabha, gaja, yoginī, bhūta, vetāla, ādi, rākṣasī, upasarga, √kṛ (kriyate), √naś (nāśa), svayam, hṛdaya, √smṛ, jina, yugala"
+    },
+    {
+      "title": "V. S. Apte, The Practical Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=ap90&page=0001",
+      "type": "dictionary",
+      "consultedFor": "Confirmation of hari = 'lion', śarabha = fierce mythical beast, and yugala = 'pair' for the jiṇa-jualayaṁ reading"
+    },
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo: A Comprehensive Prakrit-Hindi Dictionary",
+      "url": "https://archive.org/details/paia-sadda-mahannavo-ocr-plus-bookmarks-text",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms and senses of joiṇī/joyaṇī (yoginī/ḍākinī), veyāla, rakkhasī, ḍāyaṇī, uvasagga, samarei, and the Apabhraṁśa oblique tāsu"
+    },
+    {
+      "title": "Ajitaśānti Stava (longer hymn) — full Prakrit text",
+      "url": "https://www.jainstutistavan.com/2020/03/ajit-santi-stotra-stavan-with-lyrics.html",
+      "type": "translation",
+      "consultedFor": "The parallel dual Ajita-and-Śānti genre and the fear-conquering epithet 'jia-savva-bhayaṁ', to corroborate the protective theme of this verse"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Spelling is preserved verbatim from the source book. Two phrases carry genuine ambiguity in this Prakrit/Apabhraṁśa idiom: (1) 'kīrei nāsesayaṁ' is read as a passive 'is wrought… [and] goes wholly to destruction' (nāse + sayaṁ = nāśam + svayam); a defensible variant reads 'nāsei sayaṁ' as active causative, 'he destroys [it] wholly' — the devotional sense (all afflictions are entirely undone) is the same either way. (2) 'jualayaṁ' is taken as yugala(ka), 'pair', giving jiṇa-jualayaṁ = 'the two Jinas', consistent with this hymn's twin address and with verse 4's identification of the 2nd and 16th Jinas; it should NOT be read as jina-ālaya ('Jina's abode/temple'), a misparse seen in some popular glosses. 'hari' is the lion (not the deity), and 'saraha' the śarabha, per the conventional lion–śarabha–elephant beast-triad. No independent edition of the Laghu Ajitaśānti was located online to collate this exact verse; glosses rest on lexical analysis plus the authoritative tradition knowledge base."
+}

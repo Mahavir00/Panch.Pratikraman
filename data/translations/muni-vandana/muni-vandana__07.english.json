@@ -1,0 +1,144 @@
+{
+  "shlokaId": "muni-vandana/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After the venerable Dharmamūrti-sūri came Kalyāṇasāgara, lord of monks, and then the guru Amarasāgara — may he bring about the welfare of the whole Jain community.",
+  "recitation": "siri dhammamutti sūri, tappaya kallāṇasāyara muṇiṁdo ॥ siri amarasāyara guru, kallāṇaṁ kuṇau saṁghassa",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "venerable, holy (the honorific 'Śrī' prefixed to a name)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī ('glory, auspiciousness'); used as a reverential prefix.",
+      "notes": "Recurs before each ācārya's name in this litany; here it opens both half-lines."
+    },
+    {
+      "token": "ધમ્મમુત્તિ",
+      "translit": "dhammamutti",
+      "gloss": "Dharmamūrti (proper name of the ācārya — 'embodiment of dharma')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhammamutti < Sanskrit dharma-mūrti ('dharma' + 'mūrti', form/embodiment).",
+      "notes": "The preceptor (16th–17th c.) under whom Kalyāṇasāgara was initiated."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "ācārya, preceptor (the title sūri)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sūri ('learned one, sage'); standard suffix for an ācārya.",
+      "notes": ""
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "after him on the seat, his successor (tat-paṭṭe)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tappaya < Sanskrit tat-paṭṭa ('his seat/throne'), locative sense 'on the seat following him'.",
+      "notes": "The threading refrain of the paṭṭāvalī; links each ācārya to the next seat."
+    },
+    {
+      "token": "કલ્લાણસાયર",
+      "translit": "kallāṇasāyara",
+      "gloss": "Kalyāṇasāgara (proper name — 'ocean of weal')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kallāṇa-sāyara < Sanskrit kalyāṇa ('welfare, auspicious') + sāgara ('ocean'); the 'Sāgara'-suffix marks this branch's ācāryas.",
+      "notes": "The celebrated reformer-ācārya (c.1577–1661), disciple and successor of Dharmamūrti."
+    },
+    {
+      "token": "મુણિંદો",
+      "translit": "muṇiṁdo",
+      "gloss": "lord of munis, chief among ascetics (munīndra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇinda < Sanskrit muni-indra ('muni' + 'indra', lord); an exalting epithet.",
+      "notes": "Applied here to Kalyāṇasāgara, the litany's most eminent figure."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "venerable, holy (Śrī)",
+      "partOfSpeech": "invocation",
+      "etymology": "As above; Prakrit siri < Sanskrit śrī.",
+      "notes": "Second occurrence, opening the homage to Amarasāgara."
+    },
+    {
+      "token": "અમરસાયર",
+      "translit": "amarasāyara",
+      "gloss": "Amarasāgara (proper name — 'deathless ocean')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit amara-sāyara < Sanskrit amara ('immortal, deva') + sāgara ('ocean').",
+      "notes": "Successor to Kalyāṇasāgara; the guru on whom the verse's benediction falls."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "guru, teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guru ('weighty, venerable; spiritual teacher').",
+      "notes": "Marks Amarasāgara as the (then) living head-teacher addressed by the blessing."
+    },
+    {
+      "token": "કલ્લાણં",
+      "translit": "kallāṇaṁ",
+      "gloss": "welfare, well-being, the good (the benediction's object)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kallāṇa < Sanskrit kalyāṇa ('welfare, auspiciousness'), neuter accusative.",
+      "notes": "Echoes the name Kalyāṇa-sāgara two lines above — a deliberate verbal resonance."
+    },
+    {
+      "token": "કુણઉ",
+      "translit": "kuṇau",
+      "gloss": "may he do / bring about (optative)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit kuṇau < Sanskrit karotu, 3rd-person sg. imperative/optative of √kṛ ('to do, make').",
+      "notes": "The grammatical pivot from recitation to active prayer."
+    },
+    {
+      "token": "સંઘસ્સ",
+      "translit": "saṁghassa",
+      "gloss": "of the saṅgha (the fourfold Jain community)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁghassa < Sanskrit saṁghasya, genitive of saṅgha ('assembly, community').",
+      "notes": "Genitive of benefit: 'the welfare belonging to / for the saṅgha'."
+    }
+  ],
+  "literalTranslation": "Venerable Dharmamūrti-sūri; on his seat after him, Kalyāṇasāgara, lord of munis; venerable Amarasāgara, the guru — may he do the welfare of the saṅgha.",
+  "idiomaticTranslation": "Homage to holy Dharmamūrti-sūri; succeeding him on the seat, Kalyāṇasāgara, lord among ascetics; and the venerable guru Amarasāgara — may he work the well-being of the whole community of the faith.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā carries the succession one stage deeper into history and, crucially, changes its grammatical key. The preceding verse closed the older roll (Jayakesarī, Siddhāntasāgara, Bhāvasāgara, Guṇanidhāna); here the chain reaches its best-remembered ācārya. Dharmamūrti-sūri is named first, then — held by the familiar refrain tappaya, 'next on his seat' — Kalyāṇasāgara, singled out with the honorific muṇiṁdo, 'lord of munis,' the strongest epithet granted to any name in the whole litany. That distinction is earned: tradition remembers Kalyāṇasāgara (c.1577–1661) as the great reforming preceptor of the gaccha, ordained by Dharmamūrti himself, and the elevation of his title above the plain sūri/guru of his neighbours is the verse's first deliberate gesture. The second half then names Amarasāgara as guru and pivots, on the single optative verb kuṇau ('may he do'), from cataloguing the dead to petitioning the living. Up to this point the sūtra has only recited; now, for the first time, it prays — kallāṇaṁ kuṇau saṁghassa, 'may he bring about the welfare of the saṅgha.' Note the poet's chime: the welfare invoked (kallāṇaṁ) repeats the very name Kalyāṇa-sāgara, so the benediction seems to flow out of the lineage's own meaning. This is the climactic line of the paṭṭāvalī's body: the long backward gaze finally turns forward, asking the present head-teacher to discharge toward the community the protective grace that the whole succession exists to transmit.",
+    "doctrinalContext": "The verse enacts the Jain conviction that a guru's authority is not personal charisma but a trust held for the fourfold saṅgha (sādhu, sādhvī, śrāvaka, śrāvikā). The optative kuṇau frames the ācārya not as an object of worship but as an agent of communal welfare — leadership as service. The genitive saṁghassa ('for the saṅgha') locates the fruit of right lineage precisely in the well-being of the community, not the prestige of the office. Thus reverence (vandanā) and benefit (kalyāṇa) are bound together: honouring the line is meaningful only insofar as the line works the good of all who follow the Jina's path.",
+    "practicalRelevance": "For the reciter, this is the line where remembrance becomes intention. Having named the gurus, one stops merely listing and actively wishes good upon the entire community — a daily training in turning gratitude outward, from 'I revere my teachers' to 'may their work prosper the whole saṅgha, including those I will never meet.'",
+    "crossReferences": [
+      {
+        "text": "Closing benediction kallāṇaṁ kuṇau saṁghassa parallels the saṅgha-welfare wishes of the Pakkhī Khāmaṇā, which likewise invokes Kalyāṇasāgarasūri by name",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Kalyāṇasāgarasūri's discipleship under Dharmamūrtisūri and succession by the Sāgara-line ācāryas",
+        "source": "Kalyansagarsuri, Wikipedia"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha)",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Gaccha identity and the unbroken paṭṭa-succession from Sudharmāsvāmī; the Sāgara-named line of ācāryas continuing the lineage."
+    },
+    {
+      "title": "Kalyansagarsuri",
+      "url": "https://en.wikipedia.org/wiki/Kalyansagarsuri",
+      "type": "scholarship",
+      "consultedFor": "Kalyāṇasāgara's dates (c.1577–1661), his initiation and training under Dharmamūrtisūri, and his standing as the gaccha's great reformer — grounding the epithet muṇiṁdo."
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: kalyāṇa ('welfare'), √kṛ → karotu ('may he do'), saṅgha ('community'), muni-indra ('lord of munis'), śrī ('glory/honorific')."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Verse = paṭṭāvalī gāthā (5). Names are transliterated from the book's verbatim Prakrit forms (dhammamutti, kallāṇasāyara, amarasāyara) with IAST equivalents (Dharmamūrti, Kalyāṇasāgara, Amarasāgara) supplied for clarity. 'tappaya' is read as tat-paṭṭa ('on his seat/after him'), the litany's linking refrain, glossed at sutra level. The benediction kuṇau is taken as a 3rd-sg. optative (Skt. karotu); some recensions punctuate the welfare-wish as applying to the whole closing pair rather than to Amarasāgara alone — the referent of 'he' is contextually the just-named living guru. Mātrās, anusvāras and the daṇḍa (॥) follow the source book verbatim and are not normalised."
+}

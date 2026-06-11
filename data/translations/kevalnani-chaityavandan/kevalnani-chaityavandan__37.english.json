@@ -1,0 +1,150 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/37",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the Jinas enshrined at one holy town after another — Sorīpur, Hastināpur, Alvar, Irāvaṇ's Pārśvanātha, Pīrojpur, and the fine shrine at Bhūaḍ.",
+  "recitation": "sorīpur hatthiṇāure, sā(...) || alavar irāvaṇ pās | pīrojpure bhūaḍ bhalo, sā(...)",
+  "wordByWord": [
+    {
+      "token": "સોરિપુર",
+      "translit": "sorīpur",
+      "gloss": "Sorīpur (Śaurīpura), the town honoured as Lord Neminātha's birthplace",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Apabhraṁśa of Sanskrit Śaurīpura ('the city of Śauri', i.e. of the Yādava/Hari lineage)",
+      "notes": "A pilgrimage town near the Yamunā (Bateśvar region); revered as the janma-bhūmi of the 22nd Tīrthaṅkara Neminātha."
+    },
+    {
+      "token": "હત્થિણાઉરે",
+      "translit": "hatthiṇāure",
+      "gloss": "at Hastināpur",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit hatthiṇāura = Sanskrit Hastināpura ('elephant-city'); the locative ending -e marks 'at/in'",
+      "notes": "Birthplace of the 16th–18th Tīrthaṅkaras (Śānti, Kunthu, Ara) and site of Ṛṣabha's first fast-breaking (ikṣu-rasa pāraṇā)."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā(...)",
+      "gloss": "[abbreviated chant-refrain]",
+      "partOfSpeech": "particle",
+      "etymology": "An abbreviation mark (the circle ૦ signals an elided word) repeating the dhāla's recurring dhruva-refrain after each pada",
+      "notes": "The book prints only 'sā' + the abbreviation circle, expecting the reciter to supply the full refrain word; its expansion is not spelled out in this verse, so the exact word is uncertain here."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "[double bar / pause]",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa punctuation marking a metrical pause within the line",
+      "notes": "Structural mark, preserved verbatim per the book's orthography."
+    },
+    {
+      "token": "અલવર",
+      "translit": "alavar",
+      "gloss": "Alvar (Alwar, in present-day Rajasthan)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular place-name, retained as in the source",
+      "notes": "Named as a shrine-town in the earthly tīrtha garland."
+    },
+    {
+      "token": "ઇરાવણ",
+      "translit": "irāvaṇ",
+      "gloss": "Irāvaṇ (the place whose Pārśvanātha is venerated)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular toponym; precise identification uncertain",
+      "notes": "Read with the next word as 'the Pārśva(nātha) of Irāvaṇ'; the exact locale is not firmly identifiable from accessible sources and is flagged as uncertain."
+    },
+    {
+      "token": "પાસ",
+      "translit": "pās",
+      "gloss": "Pārśva(nātha), the 23rd Tīrthaṅkara (his image at that shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Apabhraṁśa Pāsa = Sanskrit Pārśva",
+      "notes": "Stands by metonymy for the Pārśvanātha icon enshrined at the named place."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "[single bar / pause]",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa punctuation marking a line-pause",
+      "notes": "Preserved verbatim per the book's orthography."
+    },
+    {
+      "token": "પીરોજપુરે",
+      "translit": "pīrojpure",
+      "gloss": "at Pīrojpur (Firozpur)",
+      "partOfSpeech": "noun",
+      "etymology": "Persian-derived Fīroz + pura ('city'); locative ending -e = 'at/in'",
+      "notes": "A shrine-town in the garland; one of several towns of medieval-Islamic-era name retained as a Jina-site."
+    },
+    {
+      "token": "ભૂઅડ",
+      "translit": "bhūaḍ",
+      "gloss": "Bhūaḍ (Bhuvad, in Kutch)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular Kacchī toponym Bhuvaḍ/Bhuvad",
+      "notes": "An ancient Pārśvanātha tīrtha in Kutch closely tied to the Anchalgaccha (Vidhipakṣa) tradition — hence its prominence to this hymn's own gaccha."
+    },
+    {
+      "token": "ભલો",
+      "translit": "bhalo",
+      "gloss": "fine, excellent, good",
+      "partOfSpeech": "adj",
+      "etymology": "Old Gujarati bhalo (Sanskrit bhadra, 'good/auspicious')",
+      "notes": "Praises Bhūaḍ's shrine as splendid; a small note of devotional warmth amid the bare list."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā(...)",
+      "gloss": "[abbreviated chant-refrain, repeated]",
+      "partOfSpeech": "particle",
+      "etymology": "Same elided dhruva-refrain mark closing the couplet as at the first pada",
+      "notes": "Recurs to seal the second line; expansion left to the reciter."
+    }
+  ],
+  "literalTranslation": "Sorīpur, at Hastināpur — [refrain] — Alvar, the Pārśvanātha of Irāvaṇ; at Pīrojpur, Bhūaḍ is excellent — [refrain].",
+  "idiomaticTranslation": "I bow at Sorīpur and at Hastināpur; at Alvar, and to the Pārśvanātha of Irāvaṇ; at Pīrojpur — and how fine is the shrine of Bhūaḍ!",
+  "elaboration": {
+    "verseByVerseCommentary": "This couplet is one bead in the eighth dhāla's garland of earthly shrines, and it is built almost entirely of place-names, each standing in for the Jina enshrined there. The reciter's mind travels from Sorīpur — hallowed as Neminātha's birth-town — to Hastināpur, where three Tīrthaṅkaras (Śānti, Kunthu, Ara) were born and where Ṛṣabha first broke his year-long fast; then westward to Alvar, to the Pārśvanātha venerated at Irāvaṇ, and to Pīrojpur. The verse then arrives, pointedly, at Bhūaḍ (Bhuvad in Kutch) — and breaks its terse list-rhythm with a single adjective, bhalo, 'excellent.' That small flourish is not accidental: Bhūaḍ is an ancient Pārśvanātha tīrtha bound up with the Anchalgaccha's own homeland of Kutch, so the poet of the Vidhipakṣa gaccha lingers on it with affection where the other towns receive only their names. The repeated sā૦ refrain after each line keeps the couplet anchored to the dhāla's chanted melody, so that even a bare itinerary is sung, not merely read. The movement is geographic and devotional at once: by naming the towns the worshipper mentally circumambulates them, gathering the merit of pilgrimage without leaving the posture of recitation.",
+    "doctrinalContext": "The verse enacts tīrtha-bhakti: a tīrtha is a 'crossing-place', and reverencing the Jina through his image (caitya-vandana) at each named site is held to purify and to strengthen samyaktva (right faith). Naming Sorīpur (Nemi), Hastināpur (Śānti–Kunthu–Ara, and Ṛṣabha's pāraṇā) and the several Pārśvanātha shrines quietly threads the Tīrthaṅkara-lineage through this-worldly geography, so that the cosmos-spanning reverence of the earlier dhālas is brought home to walkable soil. Calling Bhūaḍ bhalo affirms that built, non-eternal (aśāśvata) shrines of our own era and region are worthy objects of the same veneration as the eternal ones.",
+    "practicalRelevance": "A reciter today can let each name surface a real image or temple — picturing the Jina there and bowing inwardly — turning a list into a guided pilgrimage of the heart. For an Anchalgaccha śrāvaka especially, the loving pause on Bhūaḍ invites a moment of connection to the gaccha's own Kutch tīrthas.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā (108 tīrthas) — a parallel pilgrimage-garland recited in the Pakkhī pratikramaṇa",
+        "source": "Mahendrasiṁhasūri; Anchalgaccha (Vidhipaksha) Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "Hastināpura as birthplace of Śānti, Kunthu and Ara and site of Ṛṣabha's ikṣu-rasa pāraṇā",
+        "source": "Jain tīrtha tradition (Hastinapur Śvetāmbara Tīrth)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Bhadreshwar (Bhuvad/Vasai) Jain Teerth",
+      "url": "https://jainsite.com/jain-tirth/bhadreshwar-teerth/",
+      "type": "scholarship",
+      "consultedFor": "Identity of Bhūaḍ/Bhuvad as an ancient Kutch Pārśvanātha tīrtha tied to the Anchalgaccha tradition."
+    },
+    {
+      "title": "Hastinapur",
+      "url": "https://en.wikipedia.org/wiki/Hastinapur",
+      "type": "scholarship",
+      "consultedFor": "Hastināpur as Jain tīrtha and birthplace of Śānti, Kunthu and Ara."
+    },
+    {
+      "title": "Shree Hastinapur Shwetamber Jain Tirth",
+      "url": "https://www.jaintirth.in/india-shwetamber/uttar-pradesh/shree-hastinapur-shwetamber",
+      "type": "scholarship",
+      "consultedFor": "Hastināpur's association with three Tīrthaṅkaras and Ṛṣabha's fast-breaking (pāraṇā)."
+    },
+    {
+      "title": "JBMT01 – The Sacred Hastinapur Jain Tirth (Shauripur/Neminātha)",
+      "url": "https://jainbliss.com/blogs/jain-maha-tirth/the-sacred-hastinapur-jain-tirth",
+      "type": "scholarship",
+      "consultedFor": "Distinguishing Sorīpur/Śaurīpura as Neminātha's birthplace from Hastināpur."
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "Verse is a place-name list from the tīrthamālā (dhāla 8); glosses identify each toponym with its enshrined Jina. The repeated 'સા૦' is an abbreviation mark for the dhāla's recurring chant-refrain; the book does not spell out its expansion in this verse, so the refrain word is left untranslated and flagged uncertain. 'ઇરાવણ' could not be securely matched to a known tīrtha from accessible sources and is treated as a toponym governing the following 'પાસ' (Pārśvanātha); identification is tentative. 'અલવર/ઇરાવણ/પાસ' could alternatively parse as two or three separate sites; the reading 'Pārśvanātha of Irāvaṇ' is adopted but not certain. Spellings (e.g. હત્થિણાઉરે, પીરોજપુરે, ભૂઅડ) are preserved verbatim per the source book's orthography and not normalized."
+}

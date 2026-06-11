@@ -1,0 +1,63 @@
+{
+  "vidhiId": "pakshik-nav-smaran",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "Reciting the Nine Smaraṇas (Nava Smaraṇa)",
+  "summary": "In this step of the Pākṣika (Pakkhī) pratikramaṇa, the disciple asks the guru's leave, receives it, accepts it, and then — seated and beginning with the Navkar — recites the nine protective stotras (Nava Smaraṇa).",
+  "segments": [
+    {
+      "segmentId": "pakshik-nav-smaran/01",
+      "recitation": "Bhaṇuṁ jī?",
+      "plainMeaning": "The disciple asks the guru, \"Shall I recite, revered one?\"",
+      "idiomaticTranslation": "May I begin the recitation now, revered one?",
+      "explanation": "A brief ādeśa (request for permission): the disciple seeks the guru's leave before reciting the Nine Smaraṇas. 'jī' is a respectful term of address.",
+      "ritualTerms": [
+        {
+          "term": "ādeśa",
+          "gloss": "a spoken request for the guru's permission, answered by the guru"
+        }
+      ]
+    },
+    {
+      "segmentId": "pakshik-nav-smaran/02",
+      "recitation": "Bhaṇeha",
+      "plainMeaning": "The guru replies, \"Recite.\"",
+      "idiomaticTranslation": "Yes, recite (you have my leave).",
+      "explanation": "The guru's response (pratyādeśa) granting permission to proceed.",
+      "ritualTerms": []
+    },
+    {
+      "segmentId": "pakshik-nav-smaran/03",
+      "recitation": "Icchaṁ",
+      "plainMeaning": "The disciple accepts, saying \"Icchaṁ\" — \"As you wish.\"",
+      "idiomaticTranslation": "So be it; I gladly accept your leave.",
+      "explanation": "A fixed assent-formula by which the disciple accepts the guru's command before acting on it.",
+      "ritualTerms": [
+        {
+          "term": "Icchaṁ",
+          "gloss": "fixed formula of glad acceptance — 'as you wish / I accept'"
+        }
+      ]
+    },
+    {
+      "segmentId": "pakshik-nav-smaran/04",
+      "recitation": "Heṭhā besī, navakāra-pūrvaka nava smaraṇa kahevāṁ.",
+      "plainMeaning": "Sitting down, recite the nine Smaraṇas, beginning with the Navkar.",
+      "idiomaticTranslation": "Be seated, and — first reciting the Navkar mahāmantra — recite the nine protective stotras (Nava Smaraṇa).",
+      "explanation": "A procedural direction: the posture is seated, and the Navkar is recited first as the auspicious opening before the nine Smaraṇas. This segment leads into the Navkar.",
+      "ritualTerms": [
+        {
+          "term": "Navkāra",
+          "gloss": "the Navkar mahāmantra, the universal salutation to the five Parameṣṭhins"
+        },
+        {
+          "term": "Nava Smaraṇa",
+          "gloss": "the nine protective stotras recited within the Pākṣika pratikramaṇa"
+        }
+      ]
+    }
+  ],
+  "sources": [],
+  "translatorConfidence": 0.9,
+  "notes": "The four segments are short ādeśa/assent lines plus one seating direction; all are rendered idiomatically per the vidhi policy (no word-by-word/etymology). 'Bhaṇuṁ jī?' and 'Bhaṇeha' are read as the disciple's request to recite and the guru's grant of leave; 'Icchaṁ' is the standard assent-formula. The direction's posture (seated) and Navkar-first order are taken verbatim from the native text; nothing is added. Per the KB (§3.5), the Nine Smaraṇas belong to the Pakkhī pratikramaṇa."
+}

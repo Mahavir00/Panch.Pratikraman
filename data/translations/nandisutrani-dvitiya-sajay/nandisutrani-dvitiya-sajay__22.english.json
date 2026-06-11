@@ -1,0 +1,134 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/22",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the teacher Lohitya, who fully grasped how reality is at once changeless and changing, who always held the scriptures and their meaning, and who revealed the truth of things.",
+  "recitation": "sumuṇiya niccāniccaṁ, sumuṇiya suttattha dhārae niccaṁ | vandehaṁ lohiccaṁ, sabbhāvubbhāvaṇā taccaṁ ||",
+  "wordByWord": [
+    {
+      "token": "સુમુણિય",
+      "translit": "sumuṇiya",
+      "gloss": "having well understood; well-discerned",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('well') + muṇiya, past participle of √muṇ (Skt. √man, 'to know, cognize'); = Skt. su-mata / su-jñāta.",
+      "notes": "Functions as a perfect participle qualifying Lohitya: 'he who has thoroughly understood'."
+    },
+    {
+      "token": "નિચ્ચાનિચ્ચં",
+      "translit": "niccāniccaṁ",
+      "gloss": "the eternal-and-non-eternal (permanence-in-change)",
+      "partOfSpeech": "compound",
+      "etymology": "nicca (Skt. nitya, 'eternal') + anicca (Skt. anitya, 'impermanent'), dvandva/co-ordinate compound; = Skt. nitya-anityam.",
+      "notes": "Technical term for the Jain view that every dravya is eternal in substance (nitya) yet impermanent in its modes (paryāya); object of sumuṇiya."
+    },
+    {
+      "token": "સુમુણિય",
+      "translit": "sumuṇiya",
+      "gloss": "having well understood (repeated)",
+      "partOfSpeech": "adj",
+      "etymology": "su- + muṇiya, as above.",
+      "notes": "Anaphoric repetition (yamaka) reinforcing the praise; now governs suttattha."
+    },
+    {
+      "token": "સુત્તત્થ",
+      "translit": "suttattha",
+      "gloss": "the sūtra and its meaning (text-and-sense)",
+      "partOfSpeech": "compound",
+      "etymology": "sutta (Skt. sūtra, 'aphoristic text') + attha (Skt. artha, 'meaning'); = Skt. sūtra-artha.",
+      "notes": "Standard pairing in Jain pedagogy: command of both the wording (sūtra) and its import (artha)."
+    },
+    {
+      "token": "ધારએ",
+      "translit": "dhārae",
+      "gloss": "who retains/holds (in memory)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dhāraka, agentive of √dhṛ ('to hold, retain'); Prakrit -ae for the agent/locative ending.",
+      "notes": "Epithet 'a retainer (dhāraka)' — one who guards the canon in memory; takes suttattha as its object."
+    },
+    {
+      "token": "નિચ્ચં",
+      "translit": "niccaṁ",
+      "gloss": "always, constantly",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. nityam, adverbial accusative of nitya.",
+      "notes": "Stresses unbroken, lifelong retention of the scriptures."
+    },
+    {
+      "token": "વંદેહં",
+      "translit": "vandehaṁ",
+      "gloss": "I bow",
+      "partOfSpeech": "invocation",
+      "etymology": "vande (Skt. vande, 1st sg. of √vand, 'to salute') + ahaṁ ('I'), sandhi vande+ahaṁ → vandehaṁ.",
+      "notes": "The hymn's governing act of homage, here carrying the explicit pronoun 'I'."
+    },
+    {
+      "token": "લોહિચ્ચં",
+      "translit": "lohiccaṁ",
+      "gloss": "Lohitya (the ācārya, accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Lohicca = Skt. Lohitya, proper name; -aṁ accusative.",
+      "notes": "Ārya Lohitya, a guardian of the Kālika-śruta anuyoga in the lineage; identification is traditional."
+    },
+    {
+      "token": "સબ્ભાવુબ્ભાવણા",
+      "translit": "sabbhāvubbhāvaṇā",
+      "gloss": "through the revealing of the true nature of things",
+      "partOfSpeech": "compound",
+      "etymology": "sabbhāva (Skt. sad-bhāva, 'true/real being') + ubbhāvaṇā (Skt. udbhāvanā, 'manifestation, bringing forth'); sandhi -bhāva + udbhāvaṇā.",
+      "notes": "Instrumental-sense compound: the act by which Lohitya makes the real nature of substances manifest."
+    },
+    {
+      "token": "તચ્ચં",
+      "translit": "taccaṁ",
+      "gloss": "the truth/essence (tattva)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tacca = Skt. tattva ('reality, essential truth'); -aṁ accusative.",
+      "notes": "Epithet of Lohitya in apposition: he is 'the very tattva', i.e. the embodiment of revealed truth."
+    }
+  ],
+  "literalTranslation": "Having well understood the eternal-and-non-eternal, ever a retainer who has well understood sūtra-and-meaning — I bow to Lohitya, the truth (tattva) [made known] by the manifesting of the real nature of things.",
+  "idiomaticTranslation": "He fathomed how reality is at once changeless and changing; ceaselessly he held the scriptures together with their meaning. To Lohitya I bow — the very embodiment of truth, who lays bare the real nature of all things.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse turns from naming a guardian of the canon to praising the precise quality of his insight. Its first foot, sumuṇiya niccāniccaṁ, is the doctrinal heart: Lohitya is honoured not merely for memorizing texts but for having 'well discerned' (sumuṇiya) the niccānicca — that a substance is permanent in its substratum yet impermanent in its passing modes. The yamaka (twice-repeated sumuṇiya) then yokes this metaphysical insight to scriptural mastery: he is a dhāraka who 'always' (niccaṁ) holds both sutta and attha, word and sense — the twin competence Jain teaching demands of a true vācaka, lest the wording survive while the meaning is lost, or vice versa. The closing foot completes the portrait of a teacher: sabbhāvubbhāvaṇā taccaṁ — through 'manifesting the real nature' he is himself taccaṁ, the embodiment of truth. The pivot from niccāniccaṁ (the content known) to sad-bhāva-udbhāvanā (that content made manifest to others) marks the move from private realization to public exposition — precisely the office of a lineage-teacher who must hand the canon on. Relative to the preceding bow to Bhūtadinna (and the following homage to Dūṣyagaṇi), this verse singles out Lohitya's distinctive gift: not depth of meditation or steadfastness, but doctrinal lucidity — the power to state reality rightly. The simile-pattern of the hymn here yields to abstract praise, fitting for a teacher whose monument is clear teaching rather than a remembered deed.",
+    "doctrinalContext": "Niccāniccaṁ compresses the core of anekāntavāda as applied to dravya: by utpāda-vyaya-dhrauvya (origination, cessation, persistence), every existent is simultaneously eternal-in-substance (nitya/dravya) and non-eternal-in-mode (anitya/paryāya). To 'well understand' this is to escape the one-sided extremes of pure permanence (eternalism) and pure flux. Pairing this with sad-bhāva-udbhāvanā — the bringing-forth of things' true nature — frames Lohitya as a master of samyag-jñāna who teaches tattva without ekānta distortion; he is praised as taccaṁ itself, the living measure of right knowledge.",
+    "practicalRelevance": "For the reciter, the verse models the difference between rote and realization: bow to the teacher by aspiring to hold not just words (sutta) but their meaning (attha), and to see every situation as the niccānicca teaches — stable in essence, changing in form. This anekānta poise steadies the mind against both clinging (as if things were only permanent) and despair (as if only fleeting).",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 5.29–31 (sat = utpāda-vyaya-dhrauvya-yuktam; nitya is that whose essence is not lost)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Nandī-sūtra, Sthavirāvalī (succession-roll naming the Kālika-śruta guardians)",
+        "source": "Devavācaka (Devardhigaṇi Kṣamāśramaṇa), Valabhī recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sthaviravali, Sthavira-avali, Sthavirāvalī: definitions",
+      "url": "https://www.wisdomlib.org/definition/sthaviravali",
+      "type": "dictionary",
+      "consultedFor": "Confirming Sthavirāvalī as the lineage-roll of elders within which Lohitya/Lohicca is named."
+    },
+    {
+      "title": "Tattva, Tattvā: definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/tattva",
+      "type": "dictionary",
+      "consultedFor": "Sense of taccaṁ/tattva as 'reality/essential truth' and the dravya–paryāya, nitya–anitya analysis."
+    },
+    {
+      "title": "Nandi Sutra (Umaravkunwar) — scanned Prakrit/Hindi edition",
+      "url": "https://archive.org/details/in.ernet.dli.2015.341239",
+      "type": "translation",
+      "consultedFor": "Verifying the Nandī-sūtra text and its Sthavirāvalī (āvalikā) section as source of these gāthās."
+    },
+    {
+      "title": "Nandi Sutra — Book Summary (JainGPT)",
+      "url": "https://jaingpt.org/knowledge/nandi_sutra_004198_004198",
+      "type": "commentary",
+      "consultedFor": "Corroborating the Nandī-sūtra's structure (lineage section preceding the five-jñāna exposition)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Word-division of the second foot follows sabbhāvu+bbhāvaṇā = sad-bhāva + udbhāvanā (manifestation of the real nature); a minority reading could parse sabbhāva-ubbhāvaṇā as 'arousing of right disposition (samyaktva)', but the niccāniccaṁ/suttattha context favours the metaphysical 'true nature' sense. taccaṁ is read as tattva (truth/essence) in apposition to lohiccaṁ; it is not a separate substance-term here. dhārae is taken as the agent-noun dhāraka ('retainer'); a verbal reading 'he holds' yields the same import. The identification of Lohicca with the ācārya Ārya Lohitya is traditional per the Sthavirāvalī, not independently dated. Spellings follow the source script verbatim (e.g. નિચ્ચાનિચ્ચં, સબ્ભાવુબ્ભાવણા); no normalization applied."
+}

@@ -1,0 +1,184 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/17",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May this pair of Jinas, Ajita and Śānti — glowing with virtues, victorious over every foe, worshipped by the pure-minded, and brimming with marvels — fill the whole community with joy.",
+  "recitation": "guṇa-rāji-virājitam aripu-parājitam, ajita-śānti jina-yugalam idam |\nmati-śubhra-sabhājanam atiśaya-bhājanam, upajanayatu saṅghasya mudam ||",
+  "wordByWord": [
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "virtue(s), good quality",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa, from √grah/gun- 'strand, quality'; here the moral excellences of the two Jinas.",
+      "notes": "First member of the compound guṇa-rāji-virājita."
+    },
+    {
+      "token": "રાજિ",
+      "translit": "rāji",
+      "gloss": "a row, line, continuous series",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rāji 'streak, row' (Monier-Williams); 'guṇa-rāji' = an unbroken array of virtues.",
+      "notes": ""
+    },
+    {
+      "token": "વિરાજિત",
+      "translit": "virājitam",
+      "gloss": "resplendent, made radiant (with)",
+      "partOfSpeech": "adj",
+      "etymology": "vi- + √rāj 'to shine'; past participle virājita 'shining forth'. Accusative neuter -m agreeing with yugalam.",
+      "notes": "Its final accusative -m is written onto the next token (→ 'maripu'), producing the yamaka chime."
+    },
+    {
+      "token": "મરિપુ",
+      "translit": "m-aripu",
+      "gloss": "(and) the foe, enemy",
+      "partOfSpeech": "noun",
+      "etymology": "aripu = ari 'enemy' (a-ri); the leading m is the carried accusative ending of virājita(m).",
+      "notes": "First member of aripu-parājita; 'foe' here points to the inner enemies (kaṣāyas, ghāti-karman)."
+    },
+    {
+      "token": "પરાજિત",
+      "translit": "parājitam",
+      "gloss": "vanquished, defeated",
+      "partOfSpeech": "adj",
+      "etymology": "parā- + √ji 'to conquer'; participle parājita. Accusative neuter agreeing with yugalam.",
+      "notes": "aripu-parājita = 'one by whom the foe has been conquered'."
+    },
+    {
+      "token": "મજિત",
+      "translit": "m-ajita",
+      "gloss": "Ajita(nātha), the 2nd Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "a- 'not' + jita 'conquered' = 'the unconquered'; the leading m is the carried -m of parājita(m).",
+      "notes": "A deliberate pun: he who conquers all foes is himself a-jita, 'unconquered'."
+    },
+    {
+      "token": "શાંતિ",
+      "translit": "śānti",
+      "gloss": "Śānti(nātha), the 16th Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "śānti 'peace, tranquillity', from √śam; here the proper name Śāntinātha.",
+      "notes": "Forms the dvandva ajita-śānti, the inseparable pair."
+    },
+    {
+      "token": "જિન",
+      "translit": "jina",
+      "gloss": "Jina, spiritual victor",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jina, from √ji 'to conquer' — one who has conquered the passions.",
+      "notes": ""
+    },
+    {
+      "token": "યુગલમિદમ્",
+      "translit": "yugalam idam",
+      "gloss": "this pair / couple",
+      "partOfSpeech": "compound",
+      "etymology": "yugala 'pair, twin' (from yuga 'yoke') + idam 'this' (demonstrative pronoun, neuter). Sandhi joins yugalam + idam.",
+      "notes": "Grammatical subject of upajanayatu; treats the two Jinas as one neuter unit (yamala)."
+    },
+    {
+      "token": "મતિ",
+      "translit": "mati",
+      "gloss": "intellect, mind",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mati, from √man 'to think'.",
+      "notes": "First member of mati-śubhra-sabhājana."
+    },
+    {
+      "token": "શુભ્ર",
+      "translit": "śubhra",
+      "gloss": "bright, pure, spotless white",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śubhra 'radiant, pure', from √śubh 'to shine'.",
+      "notes": "mati-śubhra = 'of bright/pure intellect'."
+    },
+    {
+      "token": "સભાજન",
+      "translit": "sabhājanam",
+      "gloss": "honoring, reverent worship",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhaj caus. sabhājayati 'to honor, pay homage'; sabhājana 'act of honoring'. Accusative neuter agreeing with yugalam.",
+      "notes": "mati-śubhra-sabhājanam ≈ '[the pair] honored by / with pure bright minds'. Note the sabhājana / bhājana echo."
+    },
+    {
+      "token": "મતિશય",
+      "translit": "m-atiśaya",
+      "gloss": "(and) supernatural excellence, marvel",
+      "partOfSpeech": "noun",
+      "etymology": "ati- + √śī 'to surpass'; atiśaya 'pre-eminence'. The leading m is the carried -m of sabhājana(m).",
+      "notes": "atiśaya here = the wondrous excellences (atiśayas) manifest in an Arhat."
+    },
+    {
+      "token": "ભાજન",
+      "translit": "bhājanam",
+      "gloss": "vessel, receptacle (of)",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhaj 'to partake'; bhājana 'a worthy vessel'. Accusative neuter agreeing with yugalam.",
+      "notes": "atiśaya-bhājanam = 'the vessel/receptacle of all excellences'."
+    },
+    {
+      "token": "મુપજનયતુ",
+      "translit": "m-upajanayatu",
+      "gloss": "may it generate, may it bring forth",
+      "partOfSpeech": "verb",
+      "etymology": "upa- + causative of √jan 'to be born/produce' → upajanayati; 3rd-sg. imperative/benedictive upajanayatu. Leading m carried from bhājana(m).",
+      "notes": "The operative wish-verb of the verse; subject = idam yugalam."
+    },
+    {
+      "token": "સંઘસ્ય",
+      "translit": "saṅghasya",
+      "gloss": "of / for the Saṅgha (community)",
+      "partOfSpeech": "noun",
+      "etymology": "saṅgha 'assembly', from sam- + √han/ghan 'to come together'; genitive singular -sya.",
+      "notes": "The four-fold Saṅgha — the beneficiary of the benediction."
+    },
+    {
+      "token": "મુદમ્",
+      "translit": "mudam",
+      "gloss": "joy, gladness, delight",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mud 'to rejoice'; mudā/mud 'joy'. Accusative singular mudam, the thing to be produced.",
+      "notes": "Object of upajanayatu."
+    }
+  ],
+  "literalTranslation": "Resplendent with a row of virtues, by whom the foe has been vanquished, honored by the pure-bright of intellect, the vessel of [all] excellences — may this pair of Jinas, Ajita and Śānti, generate joy for the Saṅgha.",
+  "idiomaticTranslation": "Radiant with their unbroken array of virtues, victors over every foe, adored by all the pure of heart, and brimming with every divine excellence — may this twin glory of Jinas, Ajita and Śānti, awaken gladness throughout the whole community.",
+  "elaboration": {
+    "verseByVerseCommentary": "The hymn signs off not with a request for the self but with a benediction for everyone. Four accusative epithets — guṇa-rāji-virājita (radiant with rows of virtue), aripu-parājita (foe-conquering), mati-śubhra-sabhājana (worshipped by the pure-minded), and atiśaya-bhājana (vessel of marvels) — all pile onto the single neuter subject 'idam yugalam,' the pair held as one. Each compactly recalls a phase already sung: the virtues of their reign, the conquest that earns the very name Ajita ('unconquered'), the reverent assembly, and the Arhat's wonders. The whole sentence then turns on one benedictive verb, upajanayatu — 'may it bring forth' — whose object is mudam, joy, and whose recipient is saṅghasya, the Saṅgha. Where the immediately preceding phala-śruti promised the individual reciter freedom from misfortune, this final verse widens the lens: the merit is redirected outward, from 'me' to the entire four-fold community. The poet also keeps his music to the last breath — the accusative -m of each epithet is written onto the following word (virājita-m-aripu, parājita-m-ajita, sabhājana-m-atiśaya, bhājana-m-upajanayatu), so the verse chimes m…m…m… right up to mudam. Sound and sense close together: a hymn built on a 'pair' ends by wishing shared joy on the gathered whole.",
+    "doctrinalContext": "Two doctrinal notes are verse-specific. First, aripu-parājita reads the 'enemy' inwardly: the Jina's victory is over the internal foes — rāga, dveṣa, the kaṣāyas, and the ghāti-karmans — which is precisely what makes one a Jina and lends the pun on a-jita ('unconquered'). Second, the closing gesture models pramoda-bhāvanā, gladness at the virtuous, one of the four cultivated attitudes (maitrī, pramoda, kāruṇya, mādhyasthya). By dedicating the fruit of recitation to saṅghasya mudam rather than personal gain, the verse enacts the śubha-bhāva and communal orientation of Jain devotion: praise of the perfected is meant to ripen as collective spiritual joy.",
+    "practicalRelevance": "Recited as the seal of the hymn, this verse trains the reciter to end in generosity: having just heard the personal benefits promised, one offers the whole merit back to the community. Chant it slowly as a benediction — letting the chiming m-sounds carry to 'mudam' — and consciously wish well-being and gladness on the entire Saṅgha, cultivating pramoda-bhāvanā rather than self-interest.",
+    "crossReferences": [
+      {
+        "text": "v.16 (immediately preceding) — the phala-śruti promising the individual reciter well-being, which this verse universalizes to the Saṅgha",
+        "source": "Bṛhad Ajitaśānti Stava, Anchalgachchha/Vidhipaksha Panch Pratikraman"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.11 — maitrī-pramoda-kāruṇya-mādhyasthāni: the four bhāvanās, of which pramoda (joy in the virtuous) underlies 'saṅghasya mudam'",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for upajanayatu (upa-+caus. √jan), rāji, virājita, sabhājana, atiśaya, bhājana, mud, yugala."
+    },
+    {
+      "title": "Apte, The Practical Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Confirming senses of parājita (parā-+√ji), śubhra, sabhājana 'to honor', and yugala 'pair'."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and its placement as the closing benediction of the ninth Smaraṇa."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Orthography: the verse's recurring word-initial 'm' (maripu, majita, matiśaya, mupajanayatu) is the carried accusative -m of the preceding epithet (virājitam, parājitam, sabhājanam, bhājanam), written onto the next word to produce the yamaka chime; it is preserved verbatim per the source book, not normalized. mati-śubhra-sabhājanam admits two readings — '[the pair] honored by those of pure-bright intellect' (taken here) or '[the pair] of pure-bright intellect, worthy of honor'; both leave the overall sense intact. A web search returned a fabricated alternate seventeenth verse ('jina yugalam bhaje sada…') and an unreliable authorship attribution; these were rejected, consistent with the preface's warning, and only the book text was followed. The Cologne dictionary scans were used for philology since no verified word-by-word edition of this specific Bṛhad version was located online."
+}

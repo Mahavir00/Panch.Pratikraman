@@ -1,0 +1,148 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/40",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing on, the worshipper names more holy towns and their Jina-temples — Sāchor, Jālor, Rāḍ, the Pārśvanātha of Goḍī, and also Pāṭaṇ and Ahmedabad.",
+  "recitation": "sācor jālor rāḍrai, sā0 ॥ goḍī puravara pās. pāṭaṇ amadāvād vaḷī, sā0",
+  "wordByWord": [
+    {
+      "token": "સાચોર",
+      "translit": "sācor",
+      "gloss": "Sāchor (ancient Satyapura, modern Sanchore in Marwar), seat of the famed Mahāvīra shrine",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa/Old-Gujarati place-name from Sanskrit satya-pura (\"city of truth\")",
+      "notes": "A locative force (\"at Sāchor\") is understood; the dhāla is bowing to each named tīrtha in turn."
+    },
+    {
+      "token": "જાલોર",
+      "translit": "jālor",
+      "gloss": "Jālor (Jālandhara / Svarṇagiri, the \"golden hill\" fort-tīrtha of Marwar)",
+      "partOfSpeech": "noun",
+      "etymology": "Old-Gujarati place-name; the hill is called Suvarṇagiri / Svarṇagiri in Jaina texts",
+      "notes": "Houses an ancient Śvetāmbara Mahāvīra temple within the fort."
+    },
+    {
+      "token": "રાડ્રે",
+      "translit": "rāḍrai",
+      "gloss": "at Rāḍ (a tīrtha town; locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name + Old-Gujarati locative ending -rai/-dre, exactly parallel to થરાદ્રે (\"at Thārād\") in the next verse",
+      "notes": "Identity uncertain; likely Rāḍadhrā/Rata in the Marwar–Gujarat border belt. Flagged in notes."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā0",
+      "gloss": "[refrain, abbreviated] — the dhāla's recurring refrain-word beginning sā-, left contracted by the book",
+      "partOfSpeech": "particle",
+      "etymology": "Scribal contraction (the ૦ is the book's abbreviation mark) of the dhruva-pada (burden) repeated after each hemistich",
+      "notes": "The full refrain is not spelled out in this verse; preserved verbatim as printed."
+    },
+    {
+      "token": "ગોડી",
+      "translit": "goḍī",
+      "gloss": "Goḍī (Goḍīpur), the renowned seat of Goḍī-Pārśvanātha",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name; the original tīrtha lay at Gorī/Goḍīpur in the Nagarparkar (Thar) region",
+      "notes": "Its image-name Goḍī-Pārśva spread to many later temples across Gujarat and beyond."
+    },
+    {
+      "token": "પુરવર",
+      "translit": "puravara",
+      "gloss": "the excellent town, best of cities",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit pura (\"town\") + vara (\"best, excellent\"); here qualifying Goḍī",
+      "notes": "Honours Goḍī as a pre-eminent shrine-town: \"Goḍī, the noble town.\""
+    },
+    {
+      "token": "પાસ",
+      "translit": "pās",
+      "gloss": "Pārśva(nātha), the 23rd Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsa from Sanskrit pārśva; the standard vernacular form of the Jina's name",
+      "notes": "\"goḍī puravara pās\" = the Pārśvanātha of the great town of Goḍī."
+    },
+    {
+      "token": "પાટણ",
+      "translit": "pāṭaṇ",
+      "gloss": "Pāṭaṇ (Aṇahilapura Pāṭaṇ), old Chaulukya capital, seat of Pañcāsara-Pārśvanātha",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit pattana (\"city, market-town\"); the great Jaina manuscript-and-temple city of Gujarat",
+      "notes": ""
+    },
+    {
+      "token": "અમદાવાદ",
+      "translit": "amadāvād",
+      "gloss": "Ahmedabad, a major Gujarati city rich in Jina-temples",
+      "partOfSpeech": "noun",
+      "etymology": "Indo-Persian Aḥmadābād, the city's standard name; here in Gujarati form",
+      "notes": ""
+    },
+    {
+      "token": "વળી",
+      "translit": "vaḷī",
+      "gloss": "again, moreover, also",
+      "partOfSpeech": "adverb",
+      "etymology": "Old/Modern Gujarati vaḷī from Prakrit valī (\"and further, once more\")",
+      "notes": "A connective that keeps the list open — \"and Pāṭaṇ, Ahmedabad too.\""
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā0",
+      "gloss": "[refrain, abbreviated] — second occurrence of the same contracted refrain",
+      "partOfSpeech": "particle",
+      "etymology": "Repetition of the dhruva-pada closing the second hemistich",
+      "notes": "Marks the chant-burden after \"vaḷī.\""
+    }
+  ],
+  "literalTranslation": "Sāchor, Jālor, at Rāḍ — [refrain] — Goḍī the excellent town, Pārśva(nātha); Pāṭaṇ, Ahmedabad, moreover too — [refrain].",
+  "idiomaticTranslation": "I bow on to Sāchor and Jālor and to Rāḍ — and to Goḍī, that noble town, with its Pārśvanātha — and again to Pāṭaṇ and to Ahmedabad as well.",
+  "elaboration": {
+    "verseByVerseCommentary": "The garland of holy places keeps unrolling. The previous verse had set the worshipper among the Marwar shrines (Bhinnamāl, Bāhaḍmer, Rāyaṇpur); this one carries the same Marwar–Gujarat thread onward and then crosses the old frontier into Gujarat proper. Sāchor (Satyapura) and Jālor (Svarṇagiri) are two of the most storied Mahāvīra fort-tīrthas of Marwar, sites the Jaina tradition celebrated for centuries; Rāḍ is named beside them with a locative '-re' exactly like 'Thārād-re' in the following verse, marking it as one more shrine-town to be honoured. The single jewel singled out for its Jina is Goḍī: 'goḍī puravara pās' — Pārśvanātha of Goḍī, 'the excellent town' — the one image-name in this verse, given the epithet puravara to lift it above a bare list. Then the sweep reaches the great Gujarati capitals, Pāṭaṇ (Aṇahilapura) and Ahmedabad, with vaḷī ('and again') deliberately leaving the catalogue open-ended, so the recitation feels like a journey that never quite finishes. The contracted refrain 'sā0' falls twice, stitching the hemistichs into the dhāla's chant-pattern. The art of the verse is compression: six tīrthas and a Jina in two short lines, each name trusted to summon a whole temple in the reciter's mind.",
+    "doctrinalContext": "The verse enacts tīrtha-vandanā as bhāva-pūjā — mental, spirit-borne homage to Jina-images one cannot physically reach. Where the earlier dhālas counted the uncountable śāśvata and aśāśvata shrines of the three worlds, here that immensity is brought down to named, walkable earth: specific aśāśvata (built-in-time) temples whose bimbas living devotees actually circumambulate. Naming Goḍī-Pārśva in particular anchors the abstract veneration of 'the Jina' to a concrete, historically venerated icon, which is precisely how an image-worshipping (mūrtipūjaka) tradition trains and steadies samyaktva (right faith): reverence flows through the pratimā to the qualities of the Jina it represents.",
+    "practicalRelevance": "Reciting these lines at dawn, a practitioner makes an interior pilgrimage — folding hands toward Sāchor, Jālor, Goḍī, Pāṭaṇ and Ahmedabad in turn — and so 'visits' tīrthas distant in space without leaving the posaha-seat, gathering the merit and faith of darśana through memory and intention.",
+    "crossReferences": [
+      {
+        "text": "Satyapura-kalpa (the Sāchor Mahāvīra chapter)",
+        "source": "Jinaprabhasūri, Vividha-tīrtha-kalpa (14th c. CE)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā (108 tīrthas), the parallel pilgrimage-litany of the same corpus",
+        "source": "Mahendrasinhasūri; Anchalgaccha Panch Pratikraman Sūtra – Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Satyapura, Satya-pura: definitions",
+      "url": "https://www.wisdomlib.org/definition/satyapura",
+      "type": "dictionary",
+      "consultedFor": "Identifying Sāchor as ancient Satyapura, a great Śvetāmbara Mahāvīra tīrtha cited in the Vividha-tīrtha-kalpa."
+    },
+    {
+      "title": "Jalore Fort (Svarṇagiri / Suvarṇagiri) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jalore_Fort",
+      "type": "scholarship",
+      "consultedFor": "Jālor as the Svarṇagiri 'golden hill' fort with its ancient Śvetāmbara Mahāvīra (Swarṇagiri) tīrtha."
+    },
+    {
+      "title": "Godiji — DBpedia",
+      "url": "https://dbpedia.org/page/Godiji",
+      "type": "scholarship",
+      "consultedFor": "Goḍī(pur) / Goḍī-Pārśvanātha: the original Gorī/Goḍīpur shrine in the Thar/Nagarparkar region and its image-name."
+    },
+    {
+      "title": "Pārśvanātha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/P%C4%81r%C5%9Bvan%C4%81tha",
+      "type": "scholarship",
+      "consultedFor": "Confirming 'pās' as Pārśvanātha, the 23rd Tīrthaṅkara, named at Goḍī."
+    },
+    {
+      "title": "Sanchore (Satyapura) — Jatland Wiki",
+      "url": "https://www.jatland.com/home/Sanchore",
+      "type": "scholarship",
+      "consultedFor": "Corroborating Sāchor/Sanchore's long Jaina temple history and Mahāvīra dedication."
+    }
+  ],
+  "translatorConfidence": 0.74,
+  "notes": "Tīrtha identifications: સાચોર = Sāchor/Satyapura (Sanchore), જાલોર = Jālor/Svarṇagiri, ગોડી = Goḍī(pur) of Goḍī-Pārśvanātha, પાટણ = Aṇahilapura Pāṭaṇ, અમદાવાદ = Ahmedabad — all well attested. રાડ્રે is the least certain: it is a place-name in the Old-Gujarati locative (parallel to થરાદ્રે 'at Thārād' in the following verse), most plausibly Rāḍadhrā/Rata in the Marwar–Gujarat belt, but no firm online source fixes it, so it is left as 'Rāḍ' and flagged uncertain. 'સા૦' (with the book's ૦ abbreviation mark) is the dhāla's repeated refrain-burden contracted by the editor; its full wording is not given in this verse and is preserved verbatim rather than reconstructed. Spelling and punctuation (॥, ।, the comma) follow the Anchalgaccha (Vidhipaksha) edition verbatim."
+}

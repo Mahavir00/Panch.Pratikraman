@@ -1,0 +1,156 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/42",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If you want the highest goal — liberation — or even just lasting fame in the world, then honour and follow the teaching of the Jina.",
+  "recitation": "jai icchaha parama-payaṁ, ahavā kittiṁ suvitthaḍaṁ bhuvaṇe | tā tia log-uddharaṇo jiṇa-vayaṇo āyaraṁ kuṇaha ||",
+  "wordByWord": [
+    {
+      "token": "જઇ",
+      "translit": "jai",
+      "gloss": "if",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jai < Sanskrit yadi, the conditional particle 'if'.",
+      "notes": "Opens the protasis; paired with ahavā ('or') to frame a twofold condition."
+    },
+    {
+      "token": "ઇચ્છહ",
+      "translit": "icchaha",
+      "gloss": "you (all) desire, you wish",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit icchai < Sanskrit root iṣ (icchati, 'to wish'); -ha is the 2nd-person plural ending.",
+      "notes": "Addressed directly to the body of reciters/listeners."
+    },
+    {
+      "token": "પરમપયં",
+      "translit": "parama-payaṁ",
+      "gloss": "the supreme state (i.e. mokṣa, liberation)",
+      "partOfSpeech": "compound",
+      "etymology": "parama ('highest') + paya < Sanskrit pada ('state, station'); parama-pada is a standard epithet of liberation. Accusative object of icchaha.",
+      "notes": "The loftiest, otherworldly aim."
+    },
+    {
+      "token": "અહવા",
+      "translit": "ahavā",
+      "gloss": "or, or else",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ahavā < Sanskrit athavā, disjunctive 'or'.",
+      "notes": "Pivots from the spiritual aim to the worldly one."
+    },
+    {
+      "token": "કિત્તિં",
+      "translit": "kittiṁ",
+      "gloss": "fame, renown",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kitti < Sanskrit kīrti ('fame'). Accusative, second object of icchaha.",
+      "notes": "The worldly aim, deliberately set beside parama-pada."
+    },
+    {
+      "token": "સુવિત્થડં",
+      "translit": "suvitthaḍaṁ",
+      "gloss": "wide-spread, far-extended",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('well') + vitthaḍa < Sanskrit vistṛta ('spread out'); from root stṛ. Accusative, qualifying kittiṁ.",
+      "notes": "Book spelling preserved verbatim."
+    },
+    {
+      "token": "ભુવણે",
+      "translit": "bhuvaṇe",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhuvaṇa < Sanskrit bhuvana ('world, realm of beings'). Locative singular.",
+      "notes": "Locates the desired fame 'in the world'."
+    },
+    {
+      "token": "તા",
+      "translit": "tā",
+      "gloss": "then, therefore",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tā < Sanskrit tataḥ / tadā ('then'); opens the apodosis answering jai.",
+      "notes": "Marks the conclusion: 'in that case, do this.'"
+    },
+    {
+      "token": "તિઅ",
+      "translit": "tia",
+      "gloss": "three (the three worlds)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tia < Sanskrit tri ('three'); here tia-loga = tri-loka, the three realms (heaven, the middle world, the lower world).",
+      "notes": "Bound to loga in the following compound."
+    },
+    {
+      "token": "લોગુદ્ધરણો",
+      "translit": "log-uddharaṇo",
+      "gloss": "uplifter of the world(s)",
+      "partOfSpeech": "compound",
+      "etymology": "loga < Sanskrit loka ('world') + uddharaṇa < ud-√hṛ ('to lift up, rescue'). With tia: 'lifter-up of the three worlds.'",
+      "notes": "An epithet of jiṇa-vayaṇa, the Jina's word; the nominative -o stands for the qualified object in this Apabhraṁśa-tinged idiom."
+    },
+    {
+      "token": "જિણવયણો",
+      "translit": "jiṇa-vayaṇo",
+      "gloss": "the word/teaching of the Jina",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa < Sanskrit jina ('victor, Tīrthaṅkara') + vayaṇa < vacana ('speech, word'). jina-vacana = the authoritative Jina-teaching (pravacana / āgama).",
+      "notes": "The object toward which reverence is to be directed."
+    },
+    {
+      "token": "આયરં",
+      "translit": "āyaraṁ",
+      "gloss": "reverence, reverent effort, esteem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit āyara < Sanskrit ādara ('regard, earnest effort'); also resonant with ācāra ('right conduct'). Accusative, object of kuṇaha.",
+      "notes": "Idiom āyaraṁ kuṇaha = 'hold in esteem / make earnest effort.' Both 'reverence' (ādara) and 'practice' (ācāra) are intended overtones."
+    },
+    {
+      "token": "કુણહ",
+      "translit": "kuṇaha",
+      "gloss": "do! make! (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit kuṇai < Sanskrit root kṛ (karoti, 'to do'); -ha is the 2nd-person plural imperative.",
+      "notes": "Turns the hymn from praise to direct command."
+    }
+  ],
+  "literalTranslation": "If you desire the supreme state, or fame far-spread in the world — then, toward the three-world-uplifting word of the Jina, make reverence.",
+  "idiomaticTranslation": "If you long for the supreme state of liberation, or even for renown that spreads wide across the world — then give your reverent devotion to the word of the Jina, which lifts up all three worlds.",
+  "elaboration": {
+    "verseByVerseCommentary": "Here the hymn pivots from adoration to instruction. Having declared in the previous verse that sin is stilled and merit grows for the one who bows, the poet now presses the listener to act, framing a deliberate 'either…or' (jai…ahavā): one aim is parama-pada, the supreme spiritual station of liberation; the other is kitti suvitthaḍaṁ bhuvaṇe, wide-flung worldly fame. These are usually opposed — the renouncer's goal versus the householder's — yet the verse refuses to choose between the listeners. Whatever you crave, lofty or worldly, the single prescribed means is the same: āyaraṁ kuṇaha, 'show reverence / make earnest effort' toward jiṇa-vayaṇa, the Jina's word. The genius of the verse is this collapse of two aims into one path. The teaching is glorified as tia-log-uddharaṇa, the lifter-up of the three worlds — a cosmic claim that the same word which carries a soul to mokṣa also dignifies a life within the world. The imperatives icchaha and kuṇaha bracket the verse, binding desire to action: the desiring is yours, but it must issue in reverent practice. Coming just before the appended Sanskrit maṅgala stanzas, this stands as the hymn's last word of counsel in Prakrit — a hinge from devotion to discipline.",
+    "doctrinalContext": "The verse rests on the Jain conviction that jina-vacana (jina-pravacana / āgama) is the one trustworthy authority and the sole authentic ford to liberation; reverence for it is itself an expression of samyag-darśana (right faith), from which right knowledge and conduct follow. By naming the teaching tri-loka-uddhāraṇa, the verse asserts its universal efficacy across all realms of beings, not merely the human. Pairing mokṣa with worldly kīrti voices the broader dharmic principle that righteous conduct yields both abhyudaya (worldly flourishing) and niḥśreyasa (final liberation): dharma does not abandon the worldly seeker but redirects even ordinary aspiration toward the Jina's word.",
+    "practicalRelevance": "At the hymn's close the reciter is handed the takeaway: admiration is not enough — act. Whatever moves you to recite, let the recitation end in āyara, reverent and diligent engagement with the Jina's teaching. The verse invites each practitioner to test their own motive and, high or humble, to channel it into study and practice of jina-vacana rather than mere sentiment.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra 1.1 — 'dhammo maṅgalam ukkiṭṭhaṁ' (dharma as the supreme auspiciousness)",
+        "source": "Dashavaikālika, Mūlasūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra 23/29 — on jina-vacana as the path to liberation",
+        "source": "Uttarādhyayana, Mūlasūtra"
+      },
+      {
+        "text": "Ajitaśānti Stava v.41 (preceding) — sin pacified, merit increased for the one who bows",
+        "source": "Nandiṣeṇasūri (book recension)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain stotra / Stuti-Kāvya anthologies (Ajitaśānti Stava recensions)",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Verse text and traditional sense of the closing exhortation; confirmation of jina-vacana as object of reverence."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; cognate Sanskrit roots)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit cognates: parama-pada, kīrti, vistṛta, ud-√hṛ (uddharaṇa), ādara/ācāra, jina-vacana."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit Dictionary), H. T. Sheth",
+      "url": "https://archive.org/details/paiasaddamahannavo",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses: jai, icchaha, ahavā, kitti, suvitthaḍa, āyara, kuṇaha, and the tia-loga reading."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Book orthography preserved verbatim (e.g. suvitthaḍaṁ, jiṇavayaṇo). 'āyara' is ambiguous between ādara ('reverence, earnest effort') and ācāra ('right conduct'); the idiom 'āyaraṁ kuṇaha' carries both, rendered here as 'reverent effort/devotion.' 'tia loga' is read as tri-loka ('three worlds'); the nominative endings in '(tia-)log-uddharaṇo jiṇavayaṇo' function as the object of reverence in this Prakrit/Apabhraṁśa idiom rather than as a grammatical nominative. This is the final Prakrit verse of counsel; the following 'sarva-maṅgala-māṅgalyaṁ' belongs to the appended Sanskrit maṅgala stanzas (vv.43–46)."
+}

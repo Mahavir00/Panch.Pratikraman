@@ -1,0 +1,166 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to those great teachers who are living treasure-houses of austerity, truth, self-control, humility, patience and gentleness, perfect in conduct, and the foremost masters of scripture in their age.",
+  "recitation": "tava niyama sacca saṁyama, viṇaya jajava khaṁti maddava rayāṇaṁ. sīla guṇa gadiyāṇaṁ, aṇuoga jugappahāṇāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, penance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava < Sanskrit tapas (to heat, burn — hence ascetic 'heat' that burns karma).",
+      "notes": "First member of the compound tava-niyama-sacca-saṁyama…rayāṇaṁ ('jewels of austerity, restraint…')."
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "vowed restraint, observance",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ni-yama (ni + √yam, 'to hold/bind'); a fixed self-imposed rule or limitation.",
+      "notes": ""
+    },
+    {
+      "token": "સચ્ચ",
+      "translit": "sacca",
+      "gloss": "truth, truthfulness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sacca < Sanskrit satya (from sat, 'that which is'); doubled -cc- is the regular Prakrit assimilation of -ty-.",
+      "notes": ""
+    },
+    {
+      "token": "સંયમ",
+      "translit": "saṁyama",
+      "gloss": "self-control, restraint of the senses",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit saṁ-yama (saṁ + √yam, 'to restrain together'); the seventeen-fold saṁyama of Jain monastic discipline.",
+      "notes": ""
+    },
+    {
+      "token": "વિણય",
+      "translit": "viṇaya",
+      "gloss": "humility, reverent discipline",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit viṇaya < Sanskrit vinaya (vi + √nī, 'to lead away [pride]'); intervocalic -n- > -ṇ- is regular in Prakrit.",
+      "notes": "Vinaya is itself a recognized internal austerity (abhyantara-tapa) in Jain doctrine."
+    },
+    {
+      "token": "જજવ",
+      "translit": "jajava",
+      "gloss": "straightforwardness, uprightness (ārjava)",
+      "partOfSpeech": "noun",
+      "etymology": "Stands for Prakrit ajjava < Sanskrit ārjava (from ṛju, 'straight'); here the initial a- has merged in sandhi after viṇaya (viṇaya-(a)jjava).",
+      "notes": "The book's reading જજવ is a sandhi/orthographic form of ajjava; treated verbatim, not normalized to અજ્જવ."
+    },
+    {
+      "token": "ખંતિ",
+      "translit": "khaṁti",
+      "gloss": "forbearance, patient endurance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khaṁti < Sanskrit kṣānti (√kṣam, 'to endure/forgive'); kṣ- > kh- is a standard Prakrit shift.",
+      "notes": "Heads the daśavidha yati-dharma (ten-fold mendicant virtue), several members of which are listed in this verse."
+    },
+    {
+      "token": "મદ્દવ",
+      "translit": "maddava",
+      "gloss": "gentleness, freedom from pride",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maddava < Sanskrit mārdava (from mṛdu, 'soft'); -rd- > -dd- assimilation.",
+      "notes": ""
+    },
+    {
+      "token": "રયાણં",
+      "translit": "rayāṇaṁ",
+      "gloss": "of [those who are] jewels",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive plural of Prakrit rayaṇa < Sanskrit ratna ('jewel'); -tn- > -y(a)ṇ-. Ending -āṇaṁ = Sanskrit genitive plural -ānām.",
+      "notes": "Closes the long compound: the teachers are 'jewels' (ratnāni) of all the preceding virtues — a metaphor of inestimable worth. Genitive depends on the homage in the following verse."
+    },
+    {
+      "token": "સીલ",
+      "translit": "sīla",
+      "gloss": "moral conduct, character",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit śīla ('habit, virtuous conduct'); ś- > s- in Prakrit.",
+      "notes": "First member of the compound sīla-guṇa-gadiyāṇaṁ."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "good qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa ('strand, quality, merit').",
+      "notes": ""
+    },
+    {
+      "token": "ગદિયાણં",
+      "translit": "gadiyāṇaṁ",
+      "gloss": "of those endowed with / firmly established in",
+      "partOfSpeech": "adj",
+      "etymology": "Genitive plural participle; from Prakrit gaḍiya/gahiya (Sanskrit gata 'gone to, attained', or gṛhīta 'grasped, taken up'). Ending -āṇaṁ = gen. pl. -ānām.",
+      "notes": "Many editions read sīla-guṇa-gahiyāṇaṁ ('endowed with the qualities of conduct'); the sense is the same — teachers who have wholly internalized śīla and guṇa. Variant flagged."
+    },
+    {
+      "token": "અણુઓગ",
+      "translit": "aṇuoga",
+      "gloss": "scriptural exposition (anuyoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇuoga < Sanskrit anuyoga (anu + √yuj, 'application/exposition'); -y- elided intervocalically.",
+      "notes": "Glossary term (anuyoga) defined in the preface; here forming the compound aṇuoga-jugappahāṇāṇaṁ, 'foremost of the age in exposition.'"
+    },
+    {
+      "token": "જુગપ્પહાણાણં",
+      "translit": "jugappahāṇāṇaṁ",
+      "gloss": "of the foremost-of-the-age (masters)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive plural of Prakrit juga-ppahāṇa < Sanskrit yuga-pradhāna ('chief of the era'); pr- > pp- after the compound boundary. Ending -āṇaṁ = gen. pl. -ānām.",
+      "notes": "Glossary term (yuga-pradhāna) defined in the preface. Closing word; the three genitive plurals (rayāṇaṁ, gadiyāṇaṁ, jugappahāṇāṇaṁ) all await the verb of homage supplied in v.25."
+    }
+  ],
+  "literalTranslation": "[To those who are] jewels of austerity, restraint, truth, self-control, humility, uprightness, forbearance and gentleness; who are endowed with the qualities of [good] conduct; the foremost of the age in scriptural exposition —",
+  "idiomaticTranslation": "[I bow] to those revered teachers who shine as very jewels of penance and vowed restraint, of truth and self-mastery, of humility, uprightness, patience and gentleness — perfected in character and virtue, and supreme in their age as expounders of the sacred canon.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is one long breath of praise with no finite verb of its own: every word is a genitive epithet (note the threefold -āṇaṁ: rayāṇaṁ, gadiyāṇaṁ, jugappahāṇāṇaṁ) that hangs, suspended, until the next gāthā releases it with 'to them I bow at their feet.' The poet thus makes the reciter dwell on the teachers' qualities before naming the act of homage. Two compounds carry the weight. The first heaps eight virtues — tava, niyama, sacca, saṁyama, viṇaya, ajjava, khaṁti, maddava — and crowns them with rayāṇaṁ, 'jewels': the ācāryas are not merely virtuous but are the virtues themselves, embodied and priceless. Six of these eight (khaṁti, maddava, ajjava, sacca, saṁyama, tava) belong to the classical daśavidha yati-dharma, so a learned ear hears the whole ten-fold mendicant code compressed into a single string. The second compound, sīla-guṇa-gadiyāṇaṁ, turns from listed virtues to settled character — teachers who have 'gone into' (or 'grasped': the gahiyāṇaṁ variant) conduct itself. The verse then pivots on its final word: after moral excellence comes intellectual custodianship, aṇuoga-jugappahāṇa, 'foremost of the age in exposition.' Conduct and canon are joined deliberately — only one perfected in śīla is fit to guard and expound the kālika-śruta. After the long roll of individually named masters in the preceding verses, this collective epithet gathers them all under one shared splendour, preparing the bow of v.25.",
+    "doctrinalContext": "The verse quietly enacts the Jain conviction that knowledge is validated by conduct: jñāna without cāritra is barren. By naming the yati-dharma virtues and only then the title aṇuoga-jugappahāṇa, the gāthā insists that the right to expound scripture rests on lived asceticism, not learning alone. The 'jewel' (ratna) image also echoes the wider Jain trope of the three jewels (ratnatraya) — right faith, knowledge and conduct — here distributed across the teachers who unite all three.",
+    "practicalRelevance": "When chanting this verse, the reciter is invited to measure veneration by character, not status: one honours a teacher for forbearance, humility and uprightness — virtues any householder can cultivate today — before honouring scholarship. It turns recitation into a checklist of the qualities one aspires to embody.",
+    "crossReferences": [
+      {
+        "text": "Daśavidha yati-dharma: khanti, maddava, ajjava, mutti, tava, saṁjama, sacca, soya, akiṁcaṇa, baṁbhacera",
+        "source": "Tattvārtha-sūtra 9.6 (Umāsvāti) and the Jain Agamic dharma-lists"
+      },
+      {
+        "text": "Nandī-sūtra Sthavirāvalī, collective homage to the yuga-pradhāna ācāryas (vv. 24–25)",
+        "source": "Nandī-sūtra, Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Illustrated Shri Nandi Sutra",
+      "url": "https://jainpedia.org/reading/illustrated-shri-nandi-sutra/",
+      "type": "translation",
+      "consultedFor": "The Sthavirāvalī section of the Nandī Sūtra and its homage to the lineage of teachers."
+    },
+    {
+      "title": "Nandi Sutra (with commentary), ed. Ghasilal Maharaj — Internet Archive",
+      "url": "https://archive.org/details/in.ernet.dli.2015.322264",
+      "type": "commentary",
+      "consultedFor": "Prakrit text and gloss of the sthaviravali gāthās, including the virtue-compounds and gen.-pl. epithets."
+    },
+    {
+      "title": "Chulikā-sūtras — Jainworld",
+      "url": "https://jainworld.com/literature/jain-agams/jain-agam-literature/chulikasutras/",
+      "type": "scholarship",
+      "consultedFor": "Classification of the Nandī Sūtra as a Cūlikā/Mūla-sūtra and its five-jñāna content."
+    },
+    {
+      "title": "Jain eLibrary — Nandī Sūtra resources",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Cross-checking Prakrit readings (gadiyāṇaṁ / gahiyāṇaṁ variant) and the yuga-pradhāna terminology."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse has no finite verb; all three -āṇaṁ words are genitive plurals governed by the homage (pranamāmi) supplied in the following verse (v.25), so the translation is rendered as an introductory dependent clause. જજવ (jajava) is the book's sandhi-form of ajjava/ārjava (after viṇaya); preserved verbatim, not normalized. ગદિયાણં (gadiyāṇaṁ) appears in several editions as gahiyāṇaṁ ('endowed with/grasped'); both yield 'teachers established in the qualities of conduct' — variant flagged. Six of the eight virtues map onto the daśavidha yati-dharma; the identification of the full ten-fold set here is interpretive, not stated by the gāthā. Confidence is moderate-high on the virtue-glosses (well-attested terms) and slightly lower on the exact participial sense of gadiyāṇaṁ."
+}

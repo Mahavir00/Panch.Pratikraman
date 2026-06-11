@@ -1,0 +1,206 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "So many gods came rushing down from heaven to worship the Jina's lotus-feet that the vast sky grew as cramped as the palm of a hand.",
+  "recitation": "yat-padāmbhoja bhajanāya jāta-tvaraiḥ, saṅgha-saṅghaṭṭa-ghana-ghṛṣṭa-bhūṣaṇa-bharaiḥ | vyūḍham api rucira-cira-rūḍha-rasa-nirbharaiḥ, pāṇi-tala-mānam abhavan nabho nirjharaiḥ ||",
+  "wordByWord": [
+    {
+      "token": "યત્પદાંભોજ",
+      "translit": "yat-padāmbhoja",
+      "gloss": "at whose lotus-feet",
+      "partOfSpeech": "compound",
+      "etymology": "Relative yad ('whose,' i.e. the Jina's) + pada ('foot') + ambhoja ('water-born,' lotus; from ambhas 'water' + -ja 'born'); a stock honorific for a Tīrthaṅkara's feet.",
+      "notes": "Locative-sense head of the relative clause completed by 'pāṇitala-mānam abhavat' below."
+    },
+    {
+      "token": "ભજનાય",
+      "translit": "bhajanāya",
+      "gloss": "for the sake of worshipping/serving",
+      "partOfSpeech": "noun",
+      "etymology": "Dative singular of bhajana ('worship, devout service'), from the root √bhaj 'to share in, revere, worship.'",
+      "notes": "Dative of purpose: the throngs hasten 'in order to worship.'"
+    },
+    {
+      "token": "જાત",
+      "translit": "jāta",
+      "gloss": "arisen, sprung up",
+      "partOfSpeech": "adj",
+      "etymology": "Past participle of √jan 'to be born, arise.'",
+      "notes": "First member of jāta-tvaraiḥ: 'in whom haste has arisen.'"
+    },
+    {
+      "token": "ત્વરૈઃ",
+      "translit": "tvaraiḥ",
+      "gloss": "with [their] haste/eagerness",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental plural of tvarā ('speed, hurry'), from √tvar 'to hasten.'",
+      "notes": "Instrumental plural; the implied agents are the crowding celestial hosts, described across all the instrumental-plural epithets of the verse."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "throng, assembled multitude",
+      "partOfSpeech": "noun",
+      "etymology": "saṅgha 'a coming-together, crowd' (sam- 'together' + √han/√gam).",
+      "notes": "Here the massed crowd of worshippers, not the four-fold Saṅgha as a technical term; feeds the saṅgha-saṅghaṭṭa sound-play."
+    },
+    {
+      "token": "સંઘટ્ટ",
+      "translit": "saṅghaṭṭa",
+      "gloss": "jostling, dashing together, press",
+      "partOfSpeech": "noun",
+      "etymology": "saṅghaṭṭa 'striking/crowding together' (sam- + √ghaṭṭ 'to rub, strike'), per Monier-Williams.",
+      "notes": "saṅgha-saṅghaṭṭa is deliberate yamaka/anuprāsa: 'the crush of the crowding throng.'"
+    },
+    {
+      "token": "ઘન",
+      "translit": "ghana",
+      "gloss": "dense, thick, compact",
+      "partOfSpeech": "adj",
+      "etymology": "ghana 'compact mass,' from √han 'to strike/compress.'",
+      "notes": "Chimes with the following ghṛṣṭa (gh-alliteration)."
+    },
+    {
+      "token": "ઘૃષ્ટ",
+      "translit": "ghṛṣṭa",
+      "gloss": "rubbed, ground against one another",
+      "partOfSpeech": "adj",
+      "etymology": "Past participle of √ghṛṣ 'to rub, grind.'",
+      "notes": "The ornaments are so closely packed they grind together."
+    },
+    {
+      "token": "ભૂષણ",
+      "translit": "bhūṣaṇa",
+      "gloss": "ornaments, jewellery",
+      "partOfSpeech": "noun",
+      "etymology": "bhūṣaṇa 'adornment,' from √bhūṣ 'to decorate.'",
+      "notes": "The gods' heaped finery."
+    },
+    {
+      "token": "ભરૈઃ",
+      "translit": "bharaiḥ",
+      "gloss": "by [their] heaped masses/loads",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental plural of bhara ('burden, abundance, mass'), from √bhṛ 'to bear.'",
+      "notes": "Closes the second compound epithet: '...with masses of ornaments densely ground in the crush of the throng.'"
+    },
+    {
+      "token": "વ્યૂઢમપિ",
+      "translit": "vyūḍham api",
+      "gloss": "though [it was] vast/expansive",
+      "partOfSpeech": "adj",
+      "etymology": "vyūḍha (past participle of vi-√vah, 'spread out, expanded, arrayed') + concessive particle api ('even, though').",
+      "notes": "Qualifies nabhas: 'the sky, broad though it is.' api signals the paradox driving the verse."
+    },
+    {
+      "token": "રુચિર",
+      "translit": "rucira",
+      "gloss": "lovely, radiant, pleasing",
+      "partOfSpeech": "adj",
+      "etymology": "rucira 'shining, beautiful,' from √ruc 'to shine, please.'",
+      "notes": "First of three adjectives qualifying the devotional 'relish' (rasa)."
+    },
+    {
+      "token": "ચિર",
+      "translit": "cira",
+      "gloss": "long-standing, of long duration",
+      "partOfSpeech": "adj",
+      "etymology": "cira 'long (of time).'",
+      "notes": "rucira-cira is internal rhyme; the devotion is both lovely and long-cherished."
+    },
+    {
+      "token": "રુઢરસ",
+      "translit": "rūḍha-rasa",
+      "gloss": "deep-rooted devotional relish",
+      "partOfSpeech": "compound",
+      "etymology": "rūḍha (past participle of √ruh 'to grow, take root') + rasa ('savour, emotional flavour, devotion').",
+      "notes": "Book orthography રુઢ for rūḍha is preserved verbatim; 'matured, ingrained delight in worship.'"
+    },
+    {
+      "token": "નિર્ભરૈઃ",
+      "translit": "nirbharaiḥ",
+      "gloss": "brimming, utterly full [of it]",
+      "partOfSpeech": "adj",
+      "etymology": "nirbhara 'full to overflowing, intense' (nis- intensive + bhara 'mass').",
+      "notes": "Instrumental plural agreeing with the unnamed celestial throngs: 'brimming with lovely, long-grown, deep-rooted devotion.' Note the bhara/nirbhara echo with bharaiḥ above."
+    },
+    {
+      "token": "પાણિતલ",
+      "translit": "pāṇitala",
+      "gloss": "the palm of the hand",
+      "partOfSpeech": "noun",
+      "etymology": "pāṇi ('hand') + tala ('flat surface, palm').",
+      "notes": "First member of pāṇitala-māna, the famous hyperbole of smallness."
+    },
+    {
+      "token": "માન",
+      "translit": "māna",
+      "gloss": "the measure/size",
+      "partOfSpeech": "noun",
+      "etymology": "māna 'measure, dimension,' from √mā 'to measure.'",
+      "notes": "'pāṇitala-mānam' = 'the size of a palm' — predicate of nabhas."
+    },
+    {
+      "token": "મભવન્નભો",
+      "translit": "(mānam) abhavan-nabho",
+      "gloss": "the sky became",
+      "partOfSpeech": "verb",
+      "etymology": "Sandhi cluster: final -m of mānam + abhavat (3rd sg. imperfect of √bhū 'to become,' here abhavan before n-) + nabhaḥ → nabho ('sky, firmament').",
+      "notes": "The book writes the sandhi solid; resolves as 'mānam abhavat nabhaḥ' — 'the sky became the measure (of a palm).'"
+    },
+    {
+      "token": "નિર્ઝરૈઃ",
+      "translit": "nirjharaiḥ",
+      "gloss": "by the cascading torrents [of descending gods]",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental plural of nirjhara ('waterfall, torrent, gushing stream'; nis- 'down/out' + √jhar 'to flow'), per Monier-Williams.",
+      "notes": "The streams of gods pouring down from heaven are figured as nirjharas (cascades) that 'fill' and so shrink the sky — the instrumental of cause."
+    }
+  ],
+  "literalTranslation": "By those in whom haste arose to worship at whose lotus-feet — by [those] whose heaped ornaments were densely ground together in the crush of the throng, brimming with lovely, long-grown, deep-rooted devotion — the sky, vast though it was, became the measure of a palm, [filled] with [their] cascading torrents.",
+  "idiomaticTranslation": "Hastening to adore the Jina's lotus-feet, the celestial hosts came down in such torrents — brimming with a radiant devotion long cherished and deeply rooted, their heaped ornaments grinding together in the press of the crowd — that the sky itself, vast as it is, shrank to the size of a single palm.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse let omniscience dawn so brilliantly that the very sun became a firefly, this verse turns the camera from the light to the crowd it draws: the gods themselves stampede heavenward-downward to reach the Jina's feet. The whole stanza is one long instrumental clause whose grammatical subject — nabhas, 'the sky' — waits until the very last line, so the listener is swept along in the rush before learning what it does to the heavens: vyūḍham api, 'broad though it is,' the firmament becomes pāṇitala-māna, 'palm-sized.' This is the hymn's signature hyperbole of smallness, the mirror-image of v.10's hyperbole of brightness. The craftsmanship is meant to be heard: saṅgha-saṅghaṭṭa and ghana-ghṛṣṭa pile up chiming gh- and -aṅgha syllables that mimic the very jostling they describe, while bhūṣaṇa-bharaiḥ / rasa-nirbharaiḥ / nabho nirjharaiḥ rhyme the line-ends. Two sensory details ground the cosmic scale: the gods' massed ornaments literally grinding together (ghṛṣṭa) in the crush, and their devotion characterized not as sudden but rucira-cira-rūḍha — lovely, long-standing, matured. The closing nirjhara ('torrent') is the key image: the descending divine hosts are a cascade, and a cascade fills a vessel — here the vessel is the sky, which the flood crowds down to nothing.",
+    "doctrinalContext": "The verse depicts the gathering of the samavasaraṇa, the divine assembly that forms once a Jina attains omniscience and begins to preach. That gods, demigods, and beings of every realm converge to hear an Arhat is a fixed element of Tīrthaṅkara hagiography; here the poet conveys its scale not by counting but by its effect on space itself. Note the implicit teaching in rūḍha-rasa: the worship that draws these hosts is not impulse but a long-ripened devotional disposition — bhakti as cultivated rasa. The object of all this motion is deliberately minimal — only the pada-ambhoja, the lotus-feet — the standard Jain synecdoche by which the worshipper approaches the Jina through humble foot-reverence rather than presuming on his person.",
+    "practicalRelevance": "For the reciter, the verse models the inner posture worship should have: jāta-tvarā, an eagerness that 'springs up' on its own, fed by a rasa that is cira-rūḍha — patiently grown over time rather than borrowed for the occasion. If even the gods drop everything and crowd the sky to reach the Jina's feet, the cāturmāsika or pākṣika worshipper is invited to bring the same un-grudging haste to the half-hour of pratikramaṇa.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse (v.10): kevala-jñāna so bright the day's sun becomes a firefly — the light that draws this crowd",
+        "source": "Bṛhad Ajitaśānti Stava, 9th Smaraṇa (Anchalgachchha/Vidhipaksha Panch Pratikraman)"
+      },
+      {
+        "text": "The aṣṭa-prātihārya and samavasaraṇa described in the following verses (vv.12–13)",
+        "source": "Tradition knowledge base §6; standard Jain Tīrthaṅkara hagiography"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "saṅghaṭṭa ('striking/crowding together'), nirjhara ('waterfall, torrent'), bhara, māna, vyūḍha, and the √bhū imperfect abhavat."
+    },
+    {
+      "title": "Wiktionary: भज् (bhaj) — Sanskrit verbal root",
+      "url": "https://en.wiktionary.org/wiki/भज्",
+      "type": "dictionary",
+      "consultedFor": "Root √bhaj 'to share in, revere, worship,' underlying bhajana ('worship/service')."
+    },
+    {
+      "title": "Wiktionary: nirjhara — Sanskrit",
+      "url": "https://en.wiktionary.org/wiki/nirjhara",
+      "type": "dictionary",
+      "consultedFor": "nirjhara as 'cascade/torrent/stream' (nis- + √jhar), confirming the cascade image of the final pāda."
+    },
+    {
+      "title": "Wiktionary: पद्म (padma) — Sanskrit",
+      "url": "https://en.wiktionary.org/wiki/पद्म",
+      "type": "dictionary",
+      "consultedFor": "padma/ambhoja semantics ('lotus'), supporting the gloss of pada-ambhoja as 'lotus-feet.'"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The whole stanza is a single instrumental-plural construction whose subject (nabhas) and finite verb (abhavat) arrive only in the last pāda; the implied agents of the instrumentals are the celestial throngs of the samavasaraṇa, not stated as a noun. Two readings of vyūḍham are possible: (a) 'broad/expanded' qualifying the sky (adopted here, as it sharpens the palm-sized paradox), or (b) an allusion to the vyūha-array of the samavasaraṇa; the sense is close either way. nirjharaiḥ ('torrents') is taken figuratively for the streams of descending gods, consistent with the v.10→v.13 samavasaraṇa arc. Book orthography (e.g. રુઢ for rūḍha, the solid sandhi મભવન્નભો) is preserved verbatim and not normalized. Authorship of this Bṛhad recension is uncertain per the tradition knowledge base; the AI/web summaries returned an unverifiable, likely-fabricated 'sample verse' for this hymn, which was disregarded. Confidence is moderate given the dense yamaka and the absence of a verified critical edition with this exact pāṭha."
+}

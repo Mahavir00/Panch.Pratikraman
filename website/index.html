@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="A reverent three-language (English, Gujarati, Hindi) edition with acharya-grade commentary of the Pancha Pratikramana sutras of the Achhalgach (Anchalgachchha / Vidhipaksha) Svetambara Jain tradition."
+    />
+    <meta name="theme-color" content="#7B1E22" />
+    <title>Pañca Pratikramaṇa · Achhalgach (Vidhipaksha) Jain Sūtras</title>
+    <script>
+      // Apply persisted theme before paint to avoid a flash.
+      (function () {
+        try {
+          var t = localStorage.getItem('ppt.theme')
+          var mql = window.matchMedia('(prefers-color-scheme: dark)')
+          if (t === 'dark' || (!t && mql.matches)) document.documentElement.classList.add('dark')
+        } catch (e) {}
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

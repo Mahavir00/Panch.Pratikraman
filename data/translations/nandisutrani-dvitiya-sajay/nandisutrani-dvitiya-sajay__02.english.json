@@ -1,0 +1,150 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to four more great teachers of our line — Yaśobhadra, Sambhūta(vijaya), Bhadrabāhu and Sthūlabhadra — each named together with his family-clan.",
+  "recitation": "jasabhaddaṁ tuṁgīyaṁ vande, saṁbhūyaṁ ceva māḍharaṁ; bhaddabāhuṁ ca pāinnaṁ, thūlabhaddaṁ ca goyamaṁ.",
+  "wordByWord": [
+    {
+      "token": "જસભદ્દં",
+      "translit": "jasabhaddaṁ",
+      "gloss": "Yaśobhadra (the teacher, in the accusative as object of 'I bow')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jasabhadda < Sanskrit yaśobhadra, 'auspicious-in-fame' (yaśas 'fame' + bhadra 'good, auspicious'); accusative -aṁ.",
+      "notes": "Successor of Śayyambhava (named in the preceding verse); the line now passes to him."
+    },
+    {
+      "token": "તુંગીયં",
+      "translit": "tuṁgīyaṁ",
+      "gloss": "of the Tuṅgika (Tuṅgikāyana) clan — the gotra-epithet qualifying Yaśobhadra",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tuṁgīya < Sanskrit tuṅgikāyana, the gotra-name; accusative agreeing with jasabhaddaṁ.",
+      "notes": "The Kalpasūtra Sthavirāvalī assigns Yaśobhadra to the Tuṅgikāyana gotra; reading varies (tuṁgiyāyaṇa)."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit vand 'to praise, salute', 1st person singular present ātmanepada vande.",
+      "notes": "The single governing verb of the verse; it carries over to every name listed."
+    },
+    {
+      "token": "સંભૂયં",
+      "translit": "saṁbhūyaṁ",
+      "gloss": "Sambhūta (Sambhūtavijaya), the teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁbhūya < Sanskrit sambhūta(vijaya), 'arisen/become together' (sam + √bhū); accusative -aṁ.",
+      "notes": "Co-successor of Yaśobhadra alongside Bhadrabāhu; the fuller name is Sambhūtavijaya."
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed / and likewise (emphatic 'and')",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ceva < Sanskrit ca eva, the conjunction ca 'and' reinforced by the emphatic eva 'just, indeed'.",
+      "notes": "Metrical filler that also stresses the continuity of the homage."
+    },
+    {
+      "token": "માઢરં",
+      "translit": "māḍharaṁ",
+      "gloss": "of the Māṭhara clan — gotra-epithet qualifying Sambhūta(vijaya)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit māḍhara < Sanskrit māṭhara, the gotra-name; accusative agreeing with saṁbhūyaṁ.",
+      "notes": "Sambhūtavijaya is of the Māṭhara gotra in the Sthavirāvalī."
+    },
+    {
+      "token": "ભદ્દબાહું",
+      "translit": "bhaddabāhuṁ",
+      "gloss": "Bhadrabāhu, the teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaddabāhu < Sanskrit bhadrabāhu, 'auspicious-armed' (bhadra 'good' + bāhu 'arm'); accusative -uṁ.",
+      "notes": "Traditionally the last śrutakevalin and reputed author of the Kalpasūtra and the Niryuktis."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit/Prakrit ca, the coordinating conjunction 'and'.",
+      "notes": "Links Bhadrabāhu into the running list of those bowed to."
+    },
+    {
+      "token": "પાઇન્નં",
+      "translit": "pāinnaṁ",
+      "gloss": "of the Prācīna clan — gotra-epithet qualifying Bhadrabāhu",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pāinna / pāīṇa < Sanskrit prācīna, 'eastern, ancient'; here the gotra-name, accusative.",
+      "notes": "Bhadrabāhu is assigned the Prācīna (pāīṇa) gotra; the doubled -nn- is the book's reading."
+    },
+    {
+      "token": "થૂલભદ્દં",
+      "translit": "thūlabhaddaṁ",
+      "gloss": "Sthūlabhadra, the teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit thūlabhadda < Sanskrit sthūlabhadra, 'greatly auspicious / stout-good' (sthūla 'great, stout' + bhadra); accusative -aṁ.",
+      "notes": "Pupil of Sambhūtavijaya; famed for preserving the canon in the famine-time recension at Pāṭaliputra."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit/Prakrit ca, 'and'.",
+      "notes": "Joins Sthūlabhadra and his gotra to the salutation."
+    },
+    {
+      "token": "ગોયમં",
+      "translit": "goyamaṁ",
+      "gloss": "of the Gautama clan — gotra-epithet qualifying Sthūlabhadra",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit goyama < Sanskrit gautama, the gotra-name; accusative agreeing with thūlabhaddaṁ.",
+      "notes": "Here 'Gautama' is Sthūlabhadra's clan, not a personal name; do not confuse with Gautama-svāmī, Mahāvīra's gaṇadhara."
+    }
+  ],
+  "literalTranslation": "Yaśobhadra of the Tuṅgika (clan) I bow to, and Sambhūta(vijaya) of the Māṭhara (clan); and Bhadrabāhu of the Prācīna (clan), and Sthūlabhadra of the Gautama (clan).",
+  "idiomaticTranslation": "I bow to Yaśobhadra of the Tuṅgikāyana clan, and to Sambhūtavijaya of the Māṭhara clan; to Bhadrabāhu of the Prācīna clan, and to Sthūlabhadra of the Gautama clan.",
+  "elaboration": {
+    "verseByVerseCommentary": "Carrying the single verb vande forward from the opening, this verse advances the succession-roll exactly one generation past v.1's Śayyambhava: Yaśobhadra inherits the seat, and the line then branches. The pairing of saṁbhūyaṁ ceva ... bhaddabāhuṁ records the well-known fork in which Yaśobhadra's two pupils, Sambhūtavijaya and Bhadrabāhu, both held the teaching — the verse names them in one breath, then closes with Sthūlabhadra, Sambhūtavijaya's disciple. Each teacher is tagged with his gotra in strict apposition (Yaśobhadra–Tuṅgika, Sambhūta–Māṭhara, Bhadrabāhu–Prācīna, Sthūlabhadra–Gautama), the metre leaning on ceva and the repeated ca purely to thread the names. A reciter should hear the gotra not as biography but as a fixity-marker: the canon passed through identifiable, accountable hands. One caution the verse itself invites: goyamaṁ here is Sthūlabhadra's clan-name, not the gaṇadhara Gautama — the homage is to the lineage's stout guardian of the śruta, whose famine-time vācanā is the very reason this canon survives to be chanted now. Thus the gāthā moves the listener from the founders (v.1) to the generation in which transmission was tested and held firm.",
+    "doctrinalContext": "The verse embodies guru-paramparā as the guarantee of scriptural authenticity: in Jain epistemology, śruta-jñāna is valid only as received through an unbroken chain of competent ācāryas, so naming teacher-plus-gotra certifies the pedigree of the teaching the Nandī will go on to classify. Sthūlabhadra's inclusion silently invokes the tradition that the aṅgas were on the brink of loss and were secured by his recitation — making this not mere genealogy but a confession of dependence on the lineage for one's own samyag-jñāna.",
+    "practicalRelevance": "When chanting these four names, the reciter consciously receives the canon as a gift held in trust, not as private property — cultivating gratitude (vandanā) and the humility that one's knowledge is borrowed from guarded hands. It is a moment to renew one's own duty to learn accurately and transmit faithfully.",
+    "crossReferences": [
+      {
+        "text": "Kalpasūtra, Sthavirāvalī — Yaśobhadra (Tuṅgikāyana), Sambhūtavijaya (Māṭhara), Bhadrabāhu (Prācīna), Sthūlabhadra (Gautama)",
+        "source": "H. Jacobi, tr., Jaina Sūtras, SBE vol. 22"
+      },
+      {
+        "text": "Sthūlabhadra and the famine-time recension preserving the aṅgas",
+        "source": "Jain tradition as summarized in Wikipedia, 'Bhadrabāhu' / 'Pattavali'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "List of the Sthaviras (Kalpa Sūtra, Sthavirāvalī, Jacobi tr.)",
+      "url": "https://www.wisdomlib.org/jainism/book/kalpa-sutra/d/doc424489.html",
+      "type": "translation",
+      "consultedFor": "Confirming the four teacher–gotra equations: Yaśobhadra–Tuṅgikāyana, Sambhūtavijaya–Māṭhara, Bhadrabāhu–Prācīna, Sthūlabhadra–Gautama, and the branching of the succession."
+    },
+    {
+      "title": "Bhadrabāhu — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhadrab%C4%81hu",
+      "type": "scholarship",
+      "consultedFor": "Bhadrabāhu's Prācīna gotra, his status as last śrutakevalin, and his relation to Sthūlabhadra in the Śvetāmbara succession."
+    },
+    {
+      "title": "Pattavali — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pattavali",
+      "type": "scholarship",
+      "consultedFor": "Gotra associations attached to early ācāryas in paṭṭāvalī/Sthavirāvalī records and the structure of the succession-roll."
+    },
+    {
+      "title": "The Sthaviravali of the Kalpa Sutra — Jainworld",
+      "url": "https://jainworld.jainworld.com/jainbooks/images/18/The_Sthaviravali_of_the_Kal.htm",
+      "type": "translation",
+      "consultedFor": "Cross-checking the ordered list of sthaviras and gotra labels for Yaśobhadra, Sambhūtavijaya, Bhadrabāhu and Sthūlabhadra."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is an epithet/gotra list, so each name pairs with a clan-term in apposition; coverage is 100% of 12 tokens. Key disambiguation: ગોયમં (goyamaṁ) is Sthūlabhadra's GOTRA (Gautama clan), not the gaṇadhara Gautama-svāmī. saṁbhūyaṁ is the short Prakrit form of Sambhūtavijaya. Gotra forms vary across editions (e.g. tuṁgīyaṁ ~ tuṁgiyāyaṇa; pāinnaṁ ~ pāīṇa); the readings here follow the book verbatim, including the doubled -nn- in pāinnaṁ. Individual teacher–gotra identifications are the tradition's (Kalpasūtra Sthavirāvalī) rather than independently documented history. The earlier generic web result that glossed the line as 'those by whom the saṅgha was established' is a misreading and was rejected in favor of the attested personal-name reading."
+}

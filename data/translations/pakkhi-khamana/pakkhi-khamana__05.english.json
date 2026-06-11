@@ -1,0 +1,238 @@
+{
+  "shlokaId": "pakkhi-khamana/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If the community is ever displeased with us, let us win it back again and again, and humbly beg forgiveness of our two great teachers, Aryarakshitasuri and Kalyanasagarasuri, the glory of our order.",
+  "recitation": "rūṭhaḍo saṅgha manāvīe re, manāvīe vāraṁvāra. khamo bhavi. āryarakṣitasūrine khamāvīe re, vidhi-pakṣagaccha śaṇagāra. khamo bhavi. kalyāṇāsāgarasūrine khamāvīe re, aṁcalagaccha śaṇagāra. khamo bhavi.",
+  "wordByWord": [
+    {
+      "token": "રૂઠડો",
+      "translit": "rūṭhaḍo",
+      "gloss": "displeased, sulking, offended (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Classical Gujarati rūṭhavũ 'to be angry/sulk', from Sanskrit ruṣ- 'to be vexed' (ruṣṭa-); -ḍo is a vernacular diminutive/adjectival suffix giving an affectionate, song-like tone.",
+      "notes": "Modifies saṅgha: 'the Sangha that has grown displeased.' The tender -ḍo softens it: not condemnation but coaxing."
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the four-fold community (saṅgha)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit saṁ-√han 'to come together'; the assembled body of sādhu, sādhvī, śrāvaka, śrāvikā.",
+      "notes": "Subject of the appeasing; here the Sangha as a single body, not the individual ranks enumerated in vv.1–3."
+    },
+    {
+      "token": "મનાવીએ",
+      "translit": "manāvīe",
+      "gloss": "let us appease, let us win over (its goodwill)",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of Gujarati mānavũ 'to accept/agree', from Sanskrit man- 'to think/regard'; manāvavũ = 'to make (someone) agree, to pacify a sulking person'.",
+      "notes": "First-person plural hortative ('let us…'). Distinct from khamāvīe below: manāvīe is to mollify and restore goodwill, khamāvīe is to formally beg pardon."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (devotional song-vocative)",
+      "partOfSpeech": "particle",
+      "etymology": "Common Gujarati/Hindi-Braj exclamatory and metrical filler particle of folk and bhakti song.",
+      "notes": "Carries no lexical meaning; marks the geet's lilting refrain-rhythm and addresses the listening soul."
+    },
+    {
+      "token": "મનાવીએ",
+      "translit": "manāvīe",
+      "gloss": "let us appease (repeated)",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": "Immediate repetition that sets up vāraṁvāra; the doubling enacts the persistence it names."
+    },
+    {
+      "token": "વારંવાર",
+      "translit": "vāraṁvāra",
+      "gloss": "again and again, repeatedly",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit vāraṁ-vāram, reduplication of vāra 'a time/turn'.",
+      "notes": "Echoes verse 4's khamāvīe vāraṁvāra, binding this verse to the litany of occasions just named."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of Prakrit khamai (Sanskrit kṣam- 'to endure, to pardon'); the same root as khāmaṇā/kṣamāpanā.",
+      "notes": "Opens the refrain khamo bhavi…; an imperative to the fellow soul to grant pardon."
+    },
+    {
+      "token": "ભવિ",
+      "translit": "bhavi",
+      "gloss": "O fortunate soul (capable of liberation)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit bhavi from Sanskrit bhavya 'fit to become (liberated)'.",
+      "notes": "Vocative refrain-partner of khamo. The 'khamo bhavi' refrain recurs three times in this verse (and throughout the geet); glossed once here."
+    },
+    {
+      "token": "આર્યરક્ષિતસૂરિને",
+      "translit": "āryarakṣitasūrine",
+      "gloss": "to Aryarakshitasuri",
+      "partOfSpeech": "noun",
+      "etymology": "Ārya-rakṣita ('protected by the noble [dharma]') + sūri ('preceptor/ācārya'); Gujarati dative/accusative suffix -ne 'to'.",
+      "notes": "The codifier of this gaccha's śuddha vidhi, counted 47th paṭṭa from Sudharmasvami; here the object of khamāvīe."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us beg forgiveness of",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of khamavũ (Prakrit khamāvei, Sanskrit kṣam-) 'to cause to forgive, to ask pardon'; first-person plural hortative.",
+      "notes": "The verse's pivotal verb: not appeasing (manāvīe) but the formal khāmaṇā — soliciting another's pardon."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (song-vocative)",
+      "partOfSpeech": "particle",
+      "etymology": "See above.",
+      "notes": "Refrain particle."
+    },
+    {
+      "token": "વિધિ",
+      "translit": "vidhi",
+      "gloss": "[right] procedure (vidhi)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vidhi 'rule, prescribed procedure', from vi-√dhā.",
+      "notes": "Here in compound vidhi-pakṣa: the 'party of correct procedure', the gaccha's own self-designation."
+    },
+    {
+      "token": "પક્ષગચ્છ",
+      "translit": "pakṣagaccha",
+      "gloss": "the Paksha-gaccha (order)",
+      "partOfSpeech": "compound",
+      "etymology": "pakṣa 'party/side' + gaccha 'monastic lineage'; with preceding vidhi = Vidhipakṣa-gaccha.",
+      "notes": "Split across two tokens (vidhi · pakṣagaccha) by the book; together they name the Vidhipaksha (Anchalgachchha)."
+    },
+    {
+      "token": "શણગાર",
+      "translit": "śaṇagāra",
+      "gloss": "ornament, adornment",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati śaṇagāra 'decoration/finery', from Sanskrit śṛṅgāra.",
+      "notes": "Epithet: Aryarakshitasuri is the 'ornament of the Vidhipaksha-gaccha'. The recurring śaṇagāra motif (see preface) here fuses lineage-pride with forgiveness."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive! (refrain)",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": "Second occurrence of the refrain."
+    },
+    {
+      "token": "ભવિ",
+      "translit": "bhavi",
+      "gloss": "O fortunate soul (refrain)",
+      "partOfSpeech": "invocation",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "કલ્યાણાસાગરસૂરિને",
+      "translit": "kalyāṇāsāgarasūrine",
+      "gloss": "to Kalyanasagarasuri",
+      "partOfSpeech": "noun",
+      "etymology": "Kalyāṇa ('welfare/auspiciousness') + sāgara ('ocean') + sūri; dative/accusative -ne. (Book spells the medial long ā: kalyāṇā-.)",
+      "notes": "The other founder-figure named in this khamana; object of khamāvīe."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us beg forgiveness of",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": "Parallel structure to the Aryarakshitasuri line."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (song-vocative)",
+      "partOfSpeech": "particle",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "અંચલગચ્છ",
+      "translit": "aṁcalagaccha",
+      "gloss": "the Anchalgaccha (order)",
+      "partOfSpeech": "compound",
+      "etymology": "aṁcala 'hem/edge of a garment' + gaccha; the name (per tradition) from using the garment-hem in place of a muhpatti during a vandana.",
+      "notes": "Names the same order by its popular title, paired with Kalyanasagarasuri exactly as Vidhipaksha was paired with Aryarakshitasuri."
+    },
+    {
+      "token": "શણગાર",
+      "translit": "śaṇagāra",
+      "gloss": "ornament, adornment",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": "Kalyanasagarasuri as 'ornament of the Anchalgaccha'."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive! (refrain)",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": "Third occurrence."
+    },
+    {
+      "token": "ભવિ",
+      "translit": "bhavi",
+      "gloss": "O fortunate soul (refrain)",
+      "partOfSpeech": "invocation",
+      "etymology": "See above.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "The displeased Sangha let us appease, O — let us appease it again and again. Forgive, O fortunate soul! To Aryarakshitasuri let us beg forgiveness, O — [he the] ornament of the Vidhipaksha-gaccha. Forgive, O fortunate soul! To Kalyanasagarasuri let us beg forgiveness, O — [he the] ornament of the Anchalgaccha. Forgive, O fortunate soul!",
+  "idiomaticTranslation": "Should the Sangha ever turn away displeased, let us win it back — and win it back again and yet again. Forgive, O fortunate soul! Let us bow and beg the pardon of Aryarakshitasuri, ornament of the Vidhipaksha order; forgive, O fortunate soul! Let us beg the pardon of Kalyanasagarasuri, ornament of the Anchalgaccha; forgive, O fortunate soul!",
+  "elaboration": {
+    "verseByVerseCommentary": "Having descended in vv.1–3 from the Jinas to the layfolk and named the occasions of forgiveness in v.4, the song now turns to the body it most fears to wound — the living Sangha itself — and then to the two teachers who embody it. The verse hinges on two carefully distinguished verbs. 'Manāvīe' (let us appease) is the work of restoring a soured relationship: the tender diminutive in 'rūṭhaḍo' frames the displeased Sangha not as a judge to be feared but as a beloved to be coaxed, and 'vāraṁvāra' insists that genuine reconciliation does not stop at one apology — one returns again and again until goodwill is truly restored. 'Khamāvīe' (let us beg pardon) is the sharper, formal act of soliciting another's forgiveness, here directed not at a class of beings but at two named individuals. The parallelism is exact and deliberate: Aryarakshitasuri is hailed as 'ornament of the Vidhipaksha-gaccha', Kalyanasagarasuri as 'ornament of the Anchalgaccha' — two titles of one order, two pillars of one lineage. By singing the gaccha's own names ('vidhi-pakṣa', 'aṁcala') the reciter locates a universal act of kṣamāpanā within a particular spiritual family, so that begging forgiveness becomes simultaneously an act of belonging. The thrice-struck refrain 'khamo bhavi' turns each clause back outward, reminding the singer that forgiveness is mutual: even as we beg pardon, we call on the other soul to grant it.",
+    "doctrinalContext": "The verse dramatizes kṣamāpanā as the indispensable seal of pratikramana — reflection is incomplete until resentment is mutually released. Doctrinally significant is its distinction between mollifying the collective (saṅgha) and seeking the pardon of named gurus: forgiveness in Jainism is owed not in the abstract but to specific beings one may have wronged, and saṅgha-bhakti (devotion to the community) is itself a path-supporting virtue, the Sangha being the vessel of the tīrtha. Honouring the lineage-teachers as 'śaṇagāra' expresses guru-vandana fused with kṣamā: one cannot tread the codified vidhi without humility toward those who preserved it. That the appeasing is 'vāraṁvāra' reflects the Jain insistence that uprooting kaṣāya (anger, pride) is gradual, requiring repeated, sincere effort rather than a single formulaic utterance.",
+    "practicalRelevance": "Reciting this verse, a practitioner is asked to do two distinct things: first, to mend any rift with the community — not with a token apology but with patient, repeated reconciliation until goodwill returns; and second, to bow inwardly to the teachers who carry the tradition, releasing any pride or grievance toward them. It invites the modern reciter to name, in the heart, the specific people and group they may have offended, rather than rest in vague regret.",
+    "crossReferences": [
+      {
+        "text": "Khāmemi savva-jīve, savve jīvā khamantu me — 'I forgive all beings, may all beings forgive me' (the universal kṣamāpanā formula)",
+        "source": "Pratikramana Sutra, standard Śvetāmbara recension"
+      },
+      {
+        "text": "Pakkhī Khāmaṇā vv.1–4 (forgiveness asked of Arihant/Siddha, Acharya/Upadhyaya, Sadhu/Shravaka, and on atham/pakkhi/chaumasi/samvatsari)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aryarakshitasuri, Āryarakṣitasūri — definition",
+      "url": "https://www.wisdomlib.org/definition/aryarakshitasuri",
+      "type": "scholarship",
+      "consultedFor": "Identity of Aryarakshitasuri as the founder-acharya of the Vidhipaksha/Anchalgachchha and his place in the paṭṭāvalī"
+    },
+    {
+      "title": "Kalyanasagara-suri, Kalyāṇasāgarasūri — definition",
+      "url": "https://www.wisdomlib.org/definition/kalyanasagara-suri",
+      "type": "scholarship",
+      "consultedFor": "Identity of Kalyanasagarasuri as a prominent Anchalgachchha acharya invoked in the lineage"
+    },
+    {
+      "title": "Vikram Samvat — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vikram_Samvat",
+      "type": "scholarship",
+      "consultedFor": "Dating convention for the gaccha's founding era (VS to CE conversion context)"
+    },
+    {
+      "title": "Anchalgacchiya Lekh Sangraha — book summary (inscriptional history of the Anchalgachchha)",
+      "url": "https://jaingpt.org/knowledge/anchalgacchiya_lekh_sangraha_032059_032059",
+      "type": "scholarship",
+      "consultedFor": "Historical attestation of Anchalgachchha acharyas, temples and patronage in Kutch/Jamnagar"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The book spells the medial vowel long in 'કલ્યાણાસાગરસૂરિ' (kalyāṇā-, not the more usual kalyāṇa-); preserved verbatim. 'રૂઠડો' is classical Gujarati with an affectionate diminutive -ḍo; some recensions read 'રૂઠડા' (plural). 'રે' is treated as a non-lexical song-vocative throughout. The 'khamo bhavi' refrain is abbreviated in the book ('ખમો ભવિ.') and recurs as a fixed burden; reconstructed in full for the recitation line. The manāvīe (appease) vs khamāvīe (beg pardon) distinction is the verse's interpretive crux and is rendered consistently. Precise dates/biographies of the two acharyas are not attested in the source book and are left unstated rather than invented."
+}

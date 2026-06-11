@@ -1,0 +1,170 @@
+{
+  "shlokaId": "pakkhi-khamana/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Let us ask forgiveness of every monk, shining with their twenty-seven good qualities, and of every layman and laywoman, who hold twenty-one — forgive, O fortunate soul!",
+  "recitation": "sādhu sarvane khamāvīe re, śobhe guṇa sattāvīśa. khamo bhavi khamaṇa re. śrāvaka śrāvikāne khamāvīe re, jehanā guṇa ekavīśa. khamo bhavi khamaṇa re.",
+  "wordByWord": [
+    {
+      "token": "સાધુ",
+      "translit": "sādhu",
+      "gloss": "monk, ascetic",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sādhu, from root √sādh 'to accomplish, perfect' — one who accomplishes the path.",
+      "notes": "Here standing for the whole order of munis; honoured with 27 guṇas, named in the very next clause."
+    },
+    {
+      "token": "સર્વને",
+      "translit": "sarvane",
+      "gloss": "to all, to every one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit sarva 'all' + Gujarati dative suffix -ne.",
+      "notes": "Universalises the request — no monk is left out of the asking."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us ask forgiveness (of), let us appease",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of Prakrit khama- (Sanskrit √kṣam 'to forbear, forgive'); khamāva- = 'cause to forgive', i.e. seek pardon.",
+      "notes": "First-person plural hortative; the causative is precise — the reciter does not 'forgive' the monk but moves the monk to forgive."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (call/exclamation)",
+      "partOfSpeech": "particle",
+      "etymology": "Vernacular vocative-exclamatory particle, ubiquitous in Gujarati devotional geet.",
+      "notes": "Metrical and emotive; marks the line as sung address."
+    },
+    {
+      "token": "શોભે",
+      "translit": "śobhe",
+      "gloss": "shines, is adorned, looks resplendent",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit √śubh 'to shine, beautify'; Gujarati present śobhe 'is beautiful with'.",
+      "notes": "The monk is 'made beautiful' by his qualities — virtue as ornament, the song's count-as-recognition motif applied to the sādhu."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guṇa 'strand, virtue, merit'.",
+      "notes": "Glossary term; the litany's measuring-unit of worth."
+    },
+    {
+      "token": "સત્તાવીશ",
+      "translit": "sattāvīśa",
+      "gloss": "twenty-seven (27)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sattāvīsa < Sanskrit saptaviṁśati 'twenty-seven'.",
+      "notes": "The fixed reckoning of a sādhu's guṇas: 5 mahāvrata + 5 samiti + 3 gupti + the rest (e.g. control of the five senses, six-fold restraint, kṣamā, vairāgya, mind-speech-body purity)."
+    },
+    {
+      "token": "ખમો",
+      "translit": "khamo",
+      "gloss": "forgive!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative of khama- (Sanskrit √kṣam); 2nd-person plural request.",
+      "notes": "Opens the refrain 'khamo bhavi khamaṇa re'."
+    },
+    {
+      "token": "ભવિ૦",
+      "translit": "bhavi[khamaṇa re]",
+      "gloss": "O fortunate soul, [forgive]! (refrain, abbreviated)",
+      "partOfSpeech": "invocation",
+      "etymology": "bhavi = bhavya 'liberation-worthy soul' (glossary); the ૦ is the book's abbreviation-mark for the recurring refrain.",
+      "notes": "The trailing ૦ signals the full refrain 'khamo bhavi khamaṇa re' is to be sung in full; preserved verbatim from the book."
+    },
+    {
+      "token": "શ્રાવક",
+      "translit": "śrāvaka",
+      "gloss": "layman, lay devotee",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śrāvaka, from √śru 'to hear' — 'one who listens (to the teaching)'.",
+      "notes": "Glossary term; with śrāvikā completes the four-fold Saṅgha below the ascetics."
+    },
+    {
+      "token": "શ્રાવિકાને",
+      "translit": "śrāvikāne",
+      "gloss": "to the laywoman / laywomen",
+      "partOfSpeech": "noun",
+      "etymology": "Feminine śrāvikā + Gujarati dative -ne.",
+      "notes": "The dative governs both śrāvaka and śrāvikā — forgiveness is asked of lay men and women together."
+    },
+    {
+      "token": "જેહના",
+      "translit": "jehanā",
+      "gloss": "whose, of whom",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old/Middle Gujarati relative jeha (< Sanskrit yad) + genitive -nā.",
+      "notes": "Relative linking the lay devotees to their guṇa-count."
+    },
+    {
+      "token": "ગુણ",
+      "translit": "guṇa",
+      "gloss": "qualities, virtues",
+      "partOfSpeech": "noun",
+      "etymology": "As above, Sanskrit guṇa.",
+      "notes": "Repeated to set up the lay count, parallel to śobhe guṇa above."
+    },
+    {
+      "token": "એકવીશ",
+      "translit": "ekavīśa",
+      "gloss": "twenty-one (21)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ekkavīsa < Sanskrit ekaviṁśati 'twenty-one'.",
+      "notes": "The traditional 21 guṇas of a model śrāvaka (e.g. akṣudra, generous, fair-featured/well-disposed, gentle, popular, merciful, free of anger, sincere, modest, compassionate, etc.)."
+    }
+  ],
+  "literalTranslation": "Let us ask forgiveness of all monks — adorned, they shine with twenty-seven qualities. Forgive, O fortunate soul! Let us ask forgiveness of layman and laywoman, whose qualities are twenty-one. Forgive, O fortunate soul!",
+  "idiomaticTranslation": "Let us seek the pardon of every monk, resplendent in his twenty-seven virtues — forgive us, O fortunate soul! And let us seek the pardon of every layman and laywoman, graced with their twenty-one virtues — forgive us, O fortunate soul!",
+  "elaboration": {
+    "verseByVerseCommentary": "Having appeased the Ācārya (36) and Upādhyāya (25) in the verse just before, the song now reaches the last two rungs of the four-fold Saṅgha and so closes the descent through all five Parameṣṭhins. The ordinary sādhu, holder of 27 guṇas, completes the ascetic side; the śrāvaka and śrāvikā, holders of 21, bring in the laity — and with them the singer's own kind. The shift is quietly profound: forgiveness is no longer asked only of those one looks up to but of fellow householders, peers and equals, where real-life friction actually occurs. Note the deliberate verb choice — khamāvīe, the causative 'let us make-them-forgive,' not 'let us forgive': the reciter takes the lower seat, the one who has given offence. The pairing of śobhe ('he shines') for the monk with the plain jehanā guṇa ('whose qualities are') for the layfolk preserves rank without withholding honour — even the householder is named by worth before pardon is sought, for to ask someone's forgiveness one must first acknowledge their goodness. With this verse the guṇa-litany's first five ranks (12+8+36+25+27) reach their sum of 108, and the 21 of the laity are added as the community's own crown.",
+    "doctrinalContext": "The verse rests on kṣamāpanā as the living core of the fourth and sixth Āvaśyakas — reflection-atonement and renewal are hollow without the mutual release of resentment. Its theology is the completeness of the caturvidha saṅgha: liberation-culture is sustained not by monks alone but by sādhu, sādhvī, śrāvaka and śrāvikā together, so pardon owed within it must reach the laity too. The 27/21 counts encode the two grades of vrata — the monk's five mahāvratas (absolute) versus the householder's aṇuvratas (limited) — yet both are honoured as guṇa-bearers, affirming that the layperson's partial discipline is a genuine, countable virtue and not a mere lack of the monk's. Asking even one's equals' forgiveness enacts uttama-kṣamā, supreme forbearance, the first of the daśa-dharma.",
+    "practicalRelevance": "Recited at the close of Pakkhī pratikramaṇa, this is the verse where the worshipper stops appeasing only superiors and turns to peers — fellow Saṅgha members with whom one actually quarrels. Sung sincerely it asks: have I, this fortnight, given offence to ordinary monks or to the lay men and women around me, and have I the humility to take the lower seat and seek their pardon rather than wait for mine? It trains the reciter to see worth (the guṇa-count) in those they have wronged before asking release.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.6 (samiti–gupti–dharma as the constituents of saṁvara, underlying the 27 guṇas)",
+        "source": "Umāsvāti, trans. Nathmal Tatia, That Which Is"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra (the model śrāvaka's qualities)",
+        "source": "Samantabhadra"
+      },
+      {
+        "text": "Mūlācāra 1.2–3 (the 5 mahāvrata + 5 samiti + 3 gupti enumeration of the muni)",
+        "source": "Vaṭṭakera, JainQQ digital text"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jainworld — Jain Sadhu/Muni: the 27 attributes (gunas)",
+      "url": "https://www.jainworld.com/literature/jainpedia/jainpedia-libraries/jaina-dharma-shiksha/03-jain-sadhu-or-muni/",
+      "type": "scholarship",
+      "consultedFor": "Standard enumeration of the 27 guṇas of a sādhu (5 mahāvrata + 5 samiti + 3 gupti + remaining restraints)"
+    },
+    {
+      "title": "Jainworld — Jain Shravak/Layman: vows and qualities",
+      "url": "https://www.jainworld.com/literature/jainpedia/jainpedia-libraries/jaina-dharma-shiksha/04-jain-shravak-or-layman/",
+      "type": "scholarship",
+      "consultedFor": "The śrāvaka's grade of vows and the framing of the 21 lay virtues"
+    },
+    {
+      "title": "Mūlācāra (Vaṭṭakera) — digital text",
+      "url": "http://www.jainqq.org/book/352/",
+      "type": "scholarship",
+      "consultedFor": "Classical source for the 27-guṇa reckoning of the muni"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for sādhu, guṇa, √kṣam (khamāvīe), śobh, śrāvaka, saptaviṁśati/ekaviṁśati"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse text, spaced bars and the abbreviation-mark in 'ખમો ભવિ૦' are preserved verbatim from the book; the ૦ marks the recurring refrain 'khamo bhavi khamaṇa re' to be sung in full. The 27/21 counts are the fixed traditional reckonings the verse names but does not itemise; the precise membership of the 21 śrāvaka-guṇas (and the post-13 portion of the 27 sādhu-guṇas) varies slightly across texts, so the lists in the notes are representative, not the book's own. 'jehanā' is read as the Old-Gujarati relative 'whose'; 'khamāvīe' is taken as the causative hortative 'let us seek (their) forgiveness', consistent with the whole song's stance of the offender asking pardon."
+}

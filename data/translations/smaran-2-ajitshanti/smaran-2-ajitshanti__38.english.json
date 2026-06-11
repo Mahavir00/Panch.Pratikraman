@@ -1,0 +1,146 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/38",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At the fortnightly, four-monthly, and yearly atonement rites this hymn must always be recited, and everyone present should listen to it, for it drives away troubles.",
+  "recitation": "pakkhiya cāumāse, saṁvacchariye avassa bhaṇiyavvo; soyavvo savvehiṁ, uvasagga-nivāraṇo eso.",
+  "wordByWord": [
+    {
+      "token": "પક્ખિઅ",
+      "translit": "pakkhiya",
+      "gloss": "at the fortnightly (Pākṣika / Pakkhī) rite",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pakkhiya < Sanskrit pākṣika, 'pertaining to a pakṣa (fortnight)'; here a temporal/locative sense, 'on the fortnightly occasion'.",
+      "notes": "Names the first of the three observances at which the hymn is enjoined."
+    },
+    {
+      "token": "*",
+      "translit": "—",
+      "gloss": "(printed asterisk: footnote / variant-reading cue in the book)",
+      "partOfSpeech": "particle",
+      "etymology": "Not a lexical word; an editorial marker carried over verbatim from the printed text.",
+      "notes": "The book prints an asterisk here (also at v.13); preserved, not part of the recitation."
+    },
+    {
+      "token": "ચાઉમાસે",
+      "translit": "cāumāse",
+      "gloss": "at the four-monthly (Cāturmāsika / Cāumāsī) rite",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cāumāsa < Sanskrit cāturmāsa ('four-month period'); locative singular -e, 'on the cāumāsī occasion'.",
+      "notes": ""
+    },
+    {
+      "token": "સંવચ્છરિએ",
+      "translit": "saṁvacchariye",
+      "gloss": "at the annual (Sāṁvatsarika / Sāṁvatsarī) rite",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁvacchara < Sanskrit saṁvatsara ('year'); locative singular, 'on the yearly occasion'.",
+      "notes": "The three loccatives together name precisely the three pratikramaṇas in which this smaraṇa is recited."
+    },
+    {
+      "token": "અવસ્સ",
+      "translit": "avassa",
+      "gloss": "necessarily, without fail, certainly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit avassa < Sanskrit avaśya, 'inevitable, obligatory'.",
+      "notes": "Marks the recitation as a binding duty (vidhi), not optional."
+    },
+    {
+      "token": "ભણિઅવ્વો",
+      "translit": "bhaṇiyavvo",
+      "gloss": "is to be recited / ought to be spoken aloud",
+      "partOfSpeech": "verb",
+      "etymology": "Gerundive (potential passive participle) of root bhaṇ ('to speak, recite'); Prakrit suffix -iyavva < Sanskrit -tavya (cf. bhaṇitavya). Masculine nominative singular agreeing with eso.",
+      "notes": "Gerundive of obligation: 'must be recited'."
+    },
+    {
+      "token": "સોઅવ્વો",
+      "translit": "soyavvo",
+      "gloss": "is to be heard / ought to be listened to",
+      "partOfSpeech": "verb",
+      "etymology": "Gerundive of root su/śru ('to hear'); Prakrit -avva < Sanskrit śrotavya. Masculine nominative singular agreeing with eso.",
+      "notes": "Spelled સોઅવ્વો (soyavvo/soavvo); the paired gerundive deliberately couples reciter and listener."
+    },
+    {
+      "token": "સવ્વેહિં",
+      "translit": "savvehiṁ",
+      "gloss": "by all (people)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all'); instrumental plural -ehiṁ (Skt sarvaiḥ), agent of the passive gerundive.",
+      "notes": "Instrumental of agent: 'it is to be heard by all'."
+    },
+    {
+      "token": "ઉવસગ્ગ",
+      "translit": "uvasagga",
+      "gloss": "of affliction / calamity (upasarga)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit uvasagga < Sanskrit upasarga ('attack, affliction, hostile obstacle'); first member of the compound uvasagga-nivāraṇo.",
+      "notes": "Glossed in the preface; here forms a tatpuruṣa with nivāraṇo."
+    },
+    {
+      "token": "નિવારણો",
+      "translit": "nivāraṇo",
+      "gloss": "remover, averter, warder-off",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nivāraṇa < Sanskrit nivāraṇa, from ni + √vṛ ('to ward off, prevent'); masculine nominative singular.",
+      "notes": "uvasagga-nivāraṇo = 'the averter of afflictions', predicated of eso."
+    },
+    {
+      "token": "એસો",
+      "translit": "eso",
+      "gloss": "this (hymn)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit eso < Sanskrit eṣaḥ, masculine nominative singular demonstrative.",
+      "notes": "Self-referential: 'this' is the Ajitaśānti Stava itself, which the verse describes."
+    }
+  ],
+  "literalTranslation": "At the fortnightly, at the four-monthly, at the annual (rite) it must without fail be recited; it is to be heard by all — this (hymn) is the averter of affliction.",
+  "idiomaticTranslation": "At every fortnightly, four-monthly, and yearly atonement this hymn must without fail be chanted, and all who are gathered should listen — for this very hymn is the warder-off of every affliction.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having signed his prayer for joy in the preceding stanza, the poet now turns outward to the reader and lays down the rule for using the hymn — this is the opening of the phala-stuti (declaration of fruits). The verse is striking for being self-referential: the hymn pauses to describe its own liturgical life. Three locatives — pakkhiya, cāumāse, saṁvacchariye — fix the three occasions of recitation, and the single adverb avassa ('without fail') converts a custom into a binding injunction. The craftsmanship lies in the paired gerundives bhaṇiyavvo ('to be recited') and soyavvo ('to be heard'): the first binds the one who chants, the second — reinforced by savvehiṁ, 'by all' — binds the whole assembly. Devotion here is not the soloist's alone; merit accrues equally to the attentive listener, and the verse makes congregational hearing a duty, not a courtesy. The second half delivers the reason that makes the duty worth keeping: eso uvasagga-nivāraṇo — 'this is the averter of affliction.' The demonstrative eso loops back upon the hymn we are reciting, so that the text certifies its own potency. Note how the poet fulfils the promise of the title's name-play (ajiya/saṁti, the unconquered peace): a prayer for invincible calm now declares itself, concretely, an undoer of upasarga. The grammar of obligation (avassa + double gerundive) and the grammar of efficacy (eso… nivāraṇo) are set side by side — you must recite it, and here is what it does. The asterisk printed after pakkhiya is the book's own footnote cue, not a word of the verse.",
+    "doctrinalContext": "The verse rests on two Jain ideas. First, śravaṇa (hearing) is itself meritorious karmic action: by coupling soyavvo with savvehiṁ, the poet extends the protective fruit beyond the reciter to every listener, so that passive attentive presence is a valid devotional act. Second, the stotra is treated as kriyā with effect — the recited word is itself the uvasagga-nivāraṇa, an instrument that wards off hostile affliction. This places the Ajitaśānti squarely within the protective-recitation stream of Jain practice, where sound and intention, not petition to an intervening deity, carry the efficacy: the Jinas being praised are vītarāga and grant no favours, so the 'removal' is understood as the calming, fear-dissolving power generated in the devotee through invincible-peace (ajiya-saṁti) meditation.",
+    "practicalRelevance": "A practitioner honours this verse literally: the hymn is chanted at all three of the periodic pratikramaṇas — never skipped 'because it is long' — and those not leading still listen attentively, for the verse makes hearing a shared obligation that carries the same protective fruit. When facing fear or trouble, one recalls eso uvasagga-nivāraṇo and recites with the confident intention that the chant itself steadies the mind.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava v.39 (the continuation of the phala-stuti: diseases already arisen are destroyed and none arise)",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.), Nandiṣeṇasūri"
+      },
+      {
+        "text": "Uvasaggahara Stotra (Smaraṇa #4, to Pārśvanātha) — parallel declaration of a stotra as remover of upasarga",
+        "source": "Nava Smaraṇa corpus"
+      },
+      {
+        "text": "Āvaśyaka Niryukti g.1532 (kāyotsarga breath-counts distinguishing pakkhī/cāumāsī/saṁvatsarī) — for the three named rites",
+        "source": "Āvaśyaka Niryukti, cited in the book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Avassa: definitions (Prakrit, < Sanskrit avaśya)",
+      "url": "https://www.wisdomlib.org/definition/avassa",
+      "type": "dictionary",
+      "consultedFor": "Gloss of અવસ્સ avassa as 'necessarily, inevitably' and its derivation from avaśya."
+    },
+    {
+      "title": "Upasarga: definitions (Jainism — affliction, calamity)",
+      "url": "https://www.wisdomlib.org/definition/upasarga",
+      "type": "dictionary",
+      "consultedFor": "Meaning of ઉવસગ્ગ uvasagga (upasarga) as hostile affliction/calamity in Jain usage."
+    },
+    {
+      "title": "Pāia-Sadda-Mahaṇṇavo: A Comprehensive Prakrit-Hindi Dictionary (Hargovind Das T. Sheth)",
+      "url": "https://archive.org/details/PaiaSaddaMahannavoOCRPlusBookmarks",
+      "type": "dictionary",
+      "consultedFor": "Prakrit lexical forms and gerundive (-avva < -tavya) morphology for bhaṇiyavvo / soyavvo; instrumental savvehiṁ."
+    },
+    {
+      "title": "Avashya / Avaśya: 17 definitions",
+      "url": "https://www.wisdomlib.org/definition/avashya",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit avaśya 'obligatory, certain' underpinning the obligation sense of avassa in this verse."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse-specific caveats: (1) The asterisk after પક્ખિઅ is the book's printed footnote/variant cue (also at v.13), retained verbatim and excluded from the chanting line. (2) સોઅવ્વો is an orthographic variant of soavvo/soyavvo ('to be heard'); the y-glide spelling is the book's. (3) bhaṇiyavvo and soyavvo are gerundives of obligation (Skt -tavya), here masc. nom. sg. agreeing with eso; rendered as 'must be recited / heard'. (4) The three locatives pakkhiya–cāumāse–saṁvacchariye are read as 'on the occasion of', naming the three periodic rites; the pakkhī→cāumāsī→saṁvatsarī substitution itself is treated in the preface and not re-expounded here. (5) Confidence is high on lexis and syntax; lower only on whether avassa modifies both gerundives (taken here as governing the recitation as a whole)."
+}

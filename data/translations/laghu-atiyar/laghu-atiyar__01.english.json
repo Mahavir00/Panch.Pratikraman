@@ -1,0 +1,1246 @@
+{
+  "shlokaId": "laghu-atiyar/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Holding the Arhat as my god, true monks as my teachers, and the Jina-taught path as my religion, I here check my right faith and my first two householder vows — non-violence and truthfulness — naming the five small slips that can stain each and begging pardon for whatever I slipped into today.",
+  "recitation": "(icchaṁ) arihanta deva, susādhu guru, jina-praṇīta dharma, bhāvataḥ samakita pratipāluṁ, dravyato laukika, lokottara, devagata, gurugata, parvagata mithyātva viṣe jayaṇā karuṁ. e śrī samakita-taṇā pāṁca atiyāra śodhuṁ. śaṅkā, kaṅkhā, vitigicchā, para-pākhaṇḍī praśaṁsā, para-pākhaṇḍī saṁthuo. e pāṁca atiyāra-māṁhe divasa (rātri hoya to \"rātri sambandhī\" kahevuṁ) sambandhī jiko koi atiyāra huo hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ. 1. bāra vrata māṁhe paheluṁ prāṇātipāta viramaṇa-vrata. sthūla be indriyādika trasa jīva niraparādha upetakaraṇa saṅkalpī karī haṇavā niyama, ārambhe jayaṇā. e pahelā prāṇātipāta viramaṇa-vrata-taṇā pāṁca atiyāra śodhuṁ. bandhe, vahe, chavicchee, aibhāre, bhatta-pāṇa-vucchee. e pāṁca atiyāra-māṁhe divasa sambandhī. ityādi pāṭha dareka atiyāre kahevuṁ. 2. bījuṁ sthūla mṛṣāvāda viramaṇa-vrata. pañcavidha kannālīe, govālīe, bhamālīe, nāsāvahāre, kūḍasakkhijje. e pāṁca moṭakāṁ kūḍāṁ āpaṇane kāje, svajanane kāje, dharmane kāje mūkī, parakāje kūḍuṁ bolavā niyama, sūkṣma alīka-taṇī jayaṇā karuṁ. e bījā sthūla mṛṣāvāda viramaṇa-vrata-taṇā pāṁca atiyāra śodhuṁ. sahassābhakkhāṇo, rahassābhakkhāṇo, sadārā-manta-bhee, mosovaese, kūḍalehakaraṇe. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "(ઇચ્છં)",
+      "translit": "icchaṁ",
+      "gloss": "\"I assent / I am willing\" — the assent-word answering the guru's command",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit icchaṁ from Sanskrit icchā (wish, assent), root iṣ 'to desire'",
+      "notes": "Bracketed in the book as the ādeśa-response carried over from the preceding vidhi."
+    },
+    {
+      "token": "અરિહંત",
+      "translit": "arihanta",
+      "gloss": "the Arhat (the Conqueror-of-foes, the worshipful Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit arihanta from Sanskrit arhat 'worthy'; popularly etymologised ari-hanta 'slayer of inner enemies'",
+      "notes": "Subject of the credal affirmation: the Arhat alone is 'deva'."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "(is my) god",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit deva from div 'to shine'",
+      "notes": "Predicate: defines true devatā against the false 'devagata mithyātva' below."
+    },
+    {
+      "token": "સુસાધુ",
+      "translit": "susādhu",
+      "gloss": "the true / good sādhu",
+      "partOfSpeech": "noun",
+      "etymology": "su- 'good' + sādhu 'ascetic, accomplished one' (root sādh 'to accomplish')",
+      "notes": ""
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "(is my) guru",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guru 'weighty, venerable teacher'",
+      "notes": ""
+    },
+    {
+      "token": "જિનપ્રણીત",
+      "translit": "jina-praṇīta",
+      "gloss": "taught/expounded by the Jina",
+      "partOfSpeech": "adj",
+      "etymology": "jina 'Conqueror' + praṇīta 'set forth' (pra-√nī 'to lead forth')",
+      "notes": "Qualifies dharma."
+    },
+    {
+      "token": "ધર્મ",
+      "translit": "dharma",
+      "gloss": "(is my) dharma / religion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dharma from √dhṛ 'to uphold'",
+      "notes": "The triad deva–guru–dharma is the content of samyaktva."
+    },
+    {
+      "token": "ભાવતઃ",
+      "translit": "bhāvataḥ",
+      "gloss": "from the standpoint of inner disposition (bhāva)",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit bhāva 'inner state' + ablative suffix -taḥ",
+      "notes": "Paired with dravyato below — the dravya/bhāva (outer/inner) analysis."
+    },
+    {
+      "token": "સમકિત",
+      "translit": "samakita",
+      "gloss": "right faith (samyaktva)",
+      "partOfSpeech": "noun",
+      "etymology": "vernacular form of Sanskrit samyaktva via Prakrit sammatta",
+      "notes": ""
+    },
+    {
+      "token": "પ્રતિપાલું",
+      "translit": "pratipāluṁ",
+      "gloss": "I uphold / I will maintain",
+      "partOfSpeech": "verb",
+      "etymology": "prati-√pāl 'to guard, keep'; 1st-person vernacular -uṁ",
+      "notes": "Inwardly (bhāvataḥ) the reciter resolves to keep right faith."
+    },
+    {
+      "token": "દ્રવ્યતો",
+      "translit": "dravyato",
+      "gloss": "from the standpoint of outward substance/conduct (dravya)",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit dravya 'substance, external matter' + ablative -taḥ",
+      "notes": "Outwardly the reciter must still exercise jayaṇā toward the four false-belief contacts."
+    },
+    {
+      "token": "લૌકિક",
+      "translit": "laukika",
+      "gloss": "worldly (popular, this-worldly false belief)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit loka 'world' + -ika",
+      "notes": "First of the four spheres of contact with mithyātva."
+    },
+    {
+      "token": "લોકોત્તર",
+      "translit": "lokottara",
+      "gloss": "trans-worldly (false belief dressed as 'higher' religion)",
+      "partOfSpeech": "adj",
+      "etymology": "loka 'world' + uttara 'beyond'",
+      "notes": ""
+    },
+    {
+      "token": "દેવગત",
+      "translit": "devagata",
+      "gloss": "pertaining to (false) gods",
+      "partOfSpeech": "adj",
+      "etymology": "deva + gata 'gone to, residing in'",
+      "notes": ""
+    },
+    {
+      "token": "ગુરુગત",
+      "translit": "gurugata",
+      "gloss": "pertaining to (false) gurus",
+      "partOfSpeech": "adj",
+      "etymology": "guru + gata",
+      "notes": ""
+    },
+    {
+      "token": "પર્વગત",
+      "translit": "parvagata",
+      "gloss": "pertaining to (false) festivals / holy days",
+      "partOfSpeech": "adj",
+      "etymology": "parva 'sacred day' + gata",
+      "notes": "These four qualify mithyātva: worldly, trans-worldly, god-, guru- and festival-related false belief."
+    },
+    {
+      "token": "મિથ્યાત્વ",
+      "translit": "mithyātva",
+      "gloss": "false belief / wrong worldview",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mithyā 'false' + abstract -tva",
+      "notes": "The direct opposite of samakita; the thing toward which only jayaṇā, not free participation, is allowed."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "with regard to / in the matter of",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit viṣaya 'sphere, object' (locative sense)",
+      "notes": "Postposition governing mithyātva."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "prudent caution (yatanā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā from Sanskrit yatanā 'careful effort' (√yat)",
+      "notes": "Defined in the preface; here it means careful avoidance of unavoidable contact with false belief."
+    },
+    {
+      "token": "કરું",
+      "translit": "karuṁ",
+      "gloss": "I exercise / I do",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ 'to do'; 1st-person vernacular -uṁ",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / these (aforesaid)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e from Prakrit eya/eta",
+      "notes": "Recurs as the template-opener 'e … atiyāra śodhuṁ'."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "holy / revered (honorific)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī 'splendour, auspiciousness'",
+      "notes": "Reverential prefix to samakita."
+    },
+    {
+      "token": "સમકિતતણા",
+      "translit": "samakita-taṇā",
+      "gloss": "of right faith ('s)",
+      "partOfSpeech": "noun",
+      "etymology": "samakita + genitive marker -taṇā (old Gujarati possessive)",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "book's spelling of atichāra; ati- 'beyond' + cāra 'conduct' (√car)",
+      "notes": "Glossary term; book retains the ય spelling."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / examine and purify",
+      "partOfSpeech": "verb",
+      "etymology": "√śudh / śodh 'to cleanse, examine'; 1st-person -uṁ",
+      "notes": "The refrain-verb of self-examination repeated at each vow."
+    },
+    {
+      "token": "શંકા",
+      "translit": "śaṅkā",
+      "gloss": "doubt (in the Jina's teaching)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śaṅkā 'doubt' (√śaṅk)",
+      "notes": "1st atichāra of samyaktva (Tattvārtha-sūtra 7.18)."
+    },
+    {
+      "token": "કંખા",
+      "translit": "kaṅkhā",
+      "gloss": "craving (kāṅkṣā — hankering after other creeds/their rewards)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaṅkhā from Sanskrit kāṅkṣā 'longing' (√kāṅkṣ)",
+      "notes": "2nd atichāra of samyaktva."
+    },
+    {
+      "token": "વિતિગિચ્છા",
+      "translit": "vitigicchā",
+      "gloss": "doubting disgust (vicikitsā — wavering / squeamishness about the fruit of dharma)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vitigicchā from Sanskrit vicikitsā 'doubt, repugnance'",
+      "notes": "3rd atichāra of samyaktva."
+    },
+    {
+      "token": "પરપાખંડી",
+      "translit": "para-pākhaṇḍī",
+      "gloss": "followers of other (heterodox) sects",
+      "partOfSpeech": "noun",
+      "etymology": "para 'other' + pākhaṇḍin 'sectarian, heretic'",
+      "notes": "Modifies the next two atichāras."
+    },
+    {
+      "token": "પરશંસા",
+      "translit": "praśaṁsā",
+      "gloss": "praise (of those other-sectarians)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit praśaṁsā 'praise' (pra-√śaṁs)",
+      "notes": "4th atichāra: para-pākhaṇḍī-praśaṁsā."
+    },
+    {
+      "token": "પરપાખંડી",
+      "translit": "para-pākhaṇḍī",
+      "gloss": "followers of other sects (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "para + pākhaṇḍin",
+      "notes": "Repeated to introduce the fifth atichāra."
+    },
+    {
+      "token": "સંથુઓ",
+      "translit": "saṁthuo",
+      "gloss": "intimate familiarity / lauding acquaintance (saṁstava)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁthuo from Sanskrit saṁstava 'praise, close acquaintance' (sam-√stu)",
+      "notes": "5th atichāra: para-pākhaṇḍī-saṁstava."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these (aforesaid five)",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયારમાંહે",
+      "translit": "atiyāra-māṁhe",
+      "gloss": "among the transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra + māṁhe (locative postposition 'within', from Prakrit majjhe/madhye)",
+      "notes": ""
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "day (by day)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit divasa 'day'",
+      "notes": "The Devasi (evening) form; the bracket below gives the Rāi substitution."
+    },
+    {
+      "token": "(રાત્રિ",
+      "translit": "rātri",
+      "gloss": "night",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rātri 'night'",
+      "notes": "Opens the bracketed substitution cue."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "if it be (night)",
+      "partOfSpeech": "verb",
+      "etymology": "vernacular hoya from Prakrit hoi (√bhū 'to be')",
+      "notes": ""
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Gujarati conditional to",
+      "notes": ""
+    },
+    {
+      "token": "\"રાત્રિ",
+      "translit": "rātri",
+      "gloss": "night-(related)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rātri",
+      "notes": "Quoted substitute wording."
+    },
+    {
+      "token": "સંબંધી\"",
+      "translit": "sambandhī",
+      "gloss": "relating to",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sambandhin 'connected with' (sam-√bandh)",
+      "notes": "i.e. say 'rātri sambandhī' (night-related) instead of 'divasa'."
+    },
+    {
+      "token": "કહેવું",
+      "translit": "kahevuṁ",
+      "gloss": "is to be said",
+      "partOfSpeech": "verb",
+      "etymology": "vernacular kahevuṁ from Prakrit kaha- (√kath 'to tell'); gerundive",
+      "notes": "Closes the bracketed vidhi-cue."
+    },
+    {
+      "token": "સંબંધી",
+      "translit": "sambandhī",
+      "gloss": "relating to (i.e. of the day)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sambandhin",
+      "notes": "Resumes the main sentence: 'whatever day-related transgression…'."
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "whatever",
+      "partOfSpeech": "pronoun",
+      "etymology": "old Gujarati relative jiko 'whichever' (from Prakrit jo)",
+      "notes": ""
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any (at all)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit koi from Sanskrit ko'pi",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgression",
+      "partOfSpeech": "noun",
+      "etymology": "= atichāra (see above)",
+      "notes": ""
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "has occurred",
+      "partOfSpeech": "verb",
+      "etymology": "vernacular past of √bhū 'to be/become'",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been",
+      "partOfSpeech": "verb",
+      "etymology": "hoya (√bhū)",
+      "notes": "huo hoya = 'should have happened' (potential)."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit tad 'that'",
+      "notes": ""
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all (of it)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva from Sanskrit sarva 'all'",
+      "notes": ""
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati huṁ from Prakrit ahaṁ (Sanskrit aham)",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit manas 'mind', instrumental sense",
+      "notes": "First of the three-fold instrument (mind, speech, body)."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vacana 'speech' (√vac), instrumental",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kāya 'body', instrumental -e",
+      "notes": "Mind–speech–body = the threefold yoga by which fault is incurred."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ 'to do', absolutive (Prakrit kari)",
+      "notes": "i.e. committed through mind, speech and body."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false / in vain (mithyā)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā from Sanskrit mithyā 'wrongly, vainly'",
+      "notes": "Part of the sealing formula; glossary term."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "(be) to me / my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi (= Sanskrit me/mama 'my')",
+      "notes": ""
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed (duṣkṛta) — 'may my wrongdoing be undone'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa from Sanskrit duṣkṛta 'ill-done' (dur + √kṛ)",
+      "notes": "Completes 'micchā mi dukkaḍaṁ', the confession-seal of the samyaktva unit."
+    },
+    {
+      "token": "૧.",
+      "translit": "1.",
+      "gloss": "(vow) one",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati numeral ૧",
+      "notes": "Ordinal marking the first of the twelve vows."
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "twelve",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bāraha from Sanskrit dvādaśa",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vows",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vrata (glossary term)",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among",
+      "partOfSpeech": "particle",
+      "etymology": "locative postposition (Prakrit majjhe / Sanskrit madhye)",
+      "notes": ""
+    },
+    {
+      "token": "પહેલું",
+      "translit": "paheluṁ",
+      "gloss": "the first",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pahelo from Prakrit paḍhama (Sanskrit prathama)",
+      "notes": ""
+    },
+    {
+      "token": "પ્રાણાતિપાત",
+      "translit": "prāṇātipāta",
+      "gloss": "destruction of life (killing/injury)",
+      "partOfSpeech": "compound",
+      "etymology": "prāṇa 'life-breath' + atipāta 'striking down' (ati-√pat)",
+      "notes": ""
+    },
+    {
+      "token": "વિરમણવ્રત",
+      "translit": "viramaṇa-vrata",
+      "gloss": "the vow of abstaining (from it)",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇa 'desistance' (vi-√ram) + vrata 'vow'",
+      "notes": "First aṇuvrata: abstaining from harm to life."
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross (i.e. the layperson's coarse-level vow)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sthūla 'gross, coarse'",
+      "notes": "Marks the aṇuvrata as 'gross' as opposed to the monk's total (sūkṣma) abstention."
+    },
+    {
+      "token": "બે",
+      "translit": "be",
+      "gloss": "two",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati be from Prakrit be/duve (Sanskrit dvi)",
+      "notes": ""
+    },
+    {
+      "token": "ઇંદ્રિયાદિક",
+      "translit": "indriyādika",
+      "gloss": "two-sensed and upward (beings)",
+      "partOfSpeech": "compound",
+      "etymology": "indriya 'sense' + ādika 'and the rest'",
+      "notes": "i.e. beings from two-sensed up to five-sensed — the mobile (trasa) jīvas the householder vows not to kill."
+    },
+    {
+      "token": "ત્રસ",
+      "translit": "trasa",
+      "gloss": "mobile (beings)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit trasa 'moving' (√tras 'to tremble/flee')",
+      "notes": "Opposed to sthāvara (immobile, one-sensed); only trasa-jīvas are protected by the lay vow."
+    },
+    {
+      "token": "જીવ",
+      "translit": "jīva",
+      "gloss": "living beings",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jīva 'soul, living being' (√jīv 'to live')",
+      "notes": ""
+    },
+    {
+      "token": "નિરપરાધ",
+      "translit": "niraparādha",
+      "gloss": "innocent / not offending",
+      "partOfSpeech": "adj",
+      "etymology": "nir- 'without' + aparādha 'offence'",
+      "notes": "Defines the scope: the vow covers innocent mobile beings."
+    },
+    {
+      "token": "ઉપેતકરણ",
+      "translit": "upetakaraṇa",
+      "gloss": "with intent / by deliberate engagement",
+      "partOfSpeech": "compound",
+      "etymology": "upeta 'approached, undertaken' (upa-√i) + karaṇa 'doing'",
+      "notes": "Reinforces saṅkalpī: only purposeful killing is renounced (variant readings exist; see notes)."
+    },
+    {
+      "token": "સંકલ્પી",
+      "translit": "saṅkalpī",
+      "gloss": "deliberately resolved / premeditated",
+      "partOfSpeech": "adj",
+      "etymology": "saṅkalpa 'resolve, intention' (sam-√kḷp)",
+      "notes": "The lay vow forbids saṅkalpa-jā hiṁsā (intentional killing), not unavoidable household harm."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done / doing",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ, absolutive",
+      "notes": ""
+    },
+    {
+      "token": "હણવા",
+      "translit": "haṇavā",
+      "gloss": "to kill",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit haṇ- from Sanskrit √han 'to strike, kill'; infinitive -vā",
+      "notes": ""
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "(I take the) rule (not to)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit niyama 'restraint' (ni-√yam); glossary term",
+      "notes": "The firm restriction: not to kill innocent mobile beings deliberately."
+    },
+    {
+      "token": "આરંભે",
+      "translit": "ārambhe",
+      "gloss": "in (necessary household) undertakings",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ārambha 'beginning, activity' (ā-√rabh), locative",
+      "notes": "Unavoidable occupational harm; here only jayaṇā (care), not total abstention, applies."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "prudent caution",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā = yatanā",
+      "notes": "The niyama/jayaṇā balance of the householder's vow."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this (vow's)",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પહેલા",
+      "translit": "pahelā",
+      "gloss": "first",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pahelo (oblique)",
+      "notes": ""
+    },
+    {
+      "token": "પ્રાણાતિપાત",
+      "translit": "prāṇātipāta",
+      "gloss": "of killing/injury",
+      "partOfSpeech": "compound",
+      "etymology": "prāṇa + atipāta",
+      "notes": ""
+    },
+    {
+      "token": "વિરમણવ્રતતણા",
+      "translit": "viramaṇa-vrata-taṇā",
+      "gloss": "of the abstaining-vow ('s)",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇa-vrata + genitive -taṇā",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "= atichāra",
+      "notes": ""
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise",
+      "partOfSpeech": "verb",
+      "etymology": "√śodh",
+      "notes": ""
+    },
+    {
+      "token": "બંધે",
+      "translit": "bandhe",
+      "gloss": "binding / tethering (a being)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bandha 'binding' (√bandh), locative -e",
+      "notes": "1st atichāra of vow 1 (bandha) — Tattvārtha-sūtra 7.20."
+    },
+    {
+      "token": "વહે",
+      "translit": "vahe",
+      "gloss": "beating / striking (vadha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaha from Sanskrit vadha 'slaying, beating' (√vadh)",
+      "notes": "2nd atichāra (vadha)."
+    },
+    {
+      "token": "છવિચ્છેએ",
+      "translit": "chavicchee",
+      "gloss": "mutilation / cutting the skin (chavi-ccheda)",
+      "partOfSpeech": "compound",
+      "etymology": "chavi 'skin' + ccheda 'cutting' (√chid)",
+      "notes": "3rd atichāra (chaviccheda)."
+    },
+    {
+      "token": "અઇભારે",
+      "translit": "aibhāre",
+      "gloss": "overloading (a beast/servant)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ai- (Sanskrit ati 'excessive') + bhāra 'load'",
+      "notes": "4th atichāra (atibhāra)."
+    },
+    {
+      "token": "ભત્તપાણવુચ્છેએ",
+      "translit": "bhatta-pāṇa-vucchee",
+      "gloss": "withholding food and drink (bhakta-pāna-vyavaccheda)",
+      "partOfSpeech": "compound",
+      "etymology": "bhatta 'food' (bhakta) + pāṇa 'drink' (pāna) + vucchea 'cutting off' (vyavaccheda)",
+      "notes": "5th atichāra (annapāna-nirodha)."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these (five)",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયારમાંહે",
+      "translit": "atiyāra-māṁhe",
+      "gloss": "among the transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra + māṁhe",
+      "notes": "Refrain abbreviated; the day/night confession is understood."
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "day(-related)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit divasa",
+      "notes": ""
+    },
+    {
+      "token": "સંબંધી",
+      "translit": "sambandhī",
+      "gloss": "relating to",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sambandhin",
+      "notes": ""
+    },
+    {
+      "token": "ઇત્યાદિ",
+      "translit": "ityādi",
+      "gloss": "and so forth (et cetera)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit iti 'thus' + ādi 'beginning/etc.'",
+      "notes": "Opens a vidhi-instruction, not verse content."
+    },
+    {
+      "token": "પાઠ",
+      "translit": "pāṭha",
+      "gloss": "the (full) passage",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pāṭha 'recitation, text' (√paṭh)",
+      "notes": ""
+    },
+    {
+      "token": "દરેક",
+      "translit": "dareka",
+      "gloss": "at each",
+      "partOfSpeech": "adj",
+      "etymology": "Persian/Gujarati dar-ek 'each one'",
+      "notes": ""
+    },
+    {
+      "token": "અતિયારે",
+      "translit": "atiyāre",
+      "gloss": "at (every) vow's transgression-set",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra, locative -e",
+      "notes": ""
+    },
+    {
+      "token": "કહેવું",
+      "translit": "kahevuṁ",
+      "gloss": "is to be recited",
+      "partOfSpeech": "verb",
+      "etymology": "kahevuṁ (√kath), gerundive",
+      "notes": "Vidhi-cue: repeat the full day/night confession at every vow."
+    },
+    {
+      "token": "૨.",
+      "translit": "2.",
+      "gloss": "(vow) two",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati numeral ૨",
+      "notes": ""
+    },
+    {
+      "token": "બીજું",
+      "translit": "bījuṁ",
+      "gloss": "the second",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati bījuṁ from Prakrit bīa (Sanskrit dvitīya)",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross (lay-level)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sthūla",
+      "notes": ""
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "false speech / lying",
+      "partOfSpeech": "compound",
+      "etymology": "mṛṣā 'falsely' + vāda 'speaking' (√vad)",
+      "notes": ""
+    },
+    {
+      "token": "વિરમણવ્રત",
+      "translit": "viramaṇa-vrata",
+      "gloss": "the vow of abstaining (from it)",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇa + vrata",
+      "notes": "Second aṇuvrata: truthfulness."
+    },
+    {
+      "token": "પંચવિધ",
+      "translit": "pañcavidha",
+      "gloss": "five-fold (the five gross lies)",
+      "partOfSpeech": "adj",
+      "etymology": "pañca 'five' + vidha 'kind'",
+      "notes": "Introduces the five classical 'great lies' renounced under this vow."
+    },
+    {
+      "token": "કન્નાલીએ",
+      "translit": "kannālīe",
+      "gloss": "false speech about a maiden/girl (kanyā-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "kannā 'girl' (kanyā) + alīa 'falsehood' (alīka)",
+      "notes": "1st of the five gross lies — false testimony in marriage/bipeds."
+    },
+    {
+      "token": "ગોવાલીએ",
+      "translit": "govālīe",
+      "gloss": "false speech about cattle (go-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "go 'cow/cattle' + alīa 'falsehood'",
+      "notes": "2nd gross lie — false testimony about quadrupeds."
+    },
+    {
+      "token": "ભમાલીએ",
+      "translit": "bhamālīe",
+      "gloss": "false speech about land (bhūmi-alīka)",
+      "partOfSpeech": "compound",
+      "etymology": "bhūmi 'land' (Prakrit bhama-) + alīa 'falsehood'",
+      "notes": "3rd gross lie — false testimony about land/property."
+    },
+    {
+      "token": "નાસાવહારે",
+      "translit": "nāsāvahāre",
+      "gloss": "misappropriation of a deposit (nyāsa-apahāra)",
+      "partOfSpeech": "compound",
+      "etymology": "nyāsa 'entrusted deposit' + apahāra 'taking away'",
+      "notes": "4th gross lie — denying goods left in trust."
+    },
+    {
+      "token": "કૂડસક્ખિજ્જે",
+      "translit": "kūḍasakkhijje",
+      "gloss": "false witness (kūṭa-sākṣya)",
+      "partOfSpeech": "compound",
+      "etymology": "kūḍa 'false' (kūṭa) + sakkhijja 'witnessing' (sākṣya)",
+      "notes": "5th gross lie — perjury / bearing false witness."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "pañca",
+      "notes": ""
+    },
+    {
+      "token": "મોટકાં",
+      "translit": "moṭakāṁ",
+      "gloss": "great / gross",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati moṭuṁ 'big' (Prakrit mahanta)",
+      "notes": "Qualifies the 'great lies'."
+    },
+    {
+      "token": "કૂડાં",
+      "translit": "kūḍāṁ",
+      "gloss": "falsehoods / lies",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kūḍuṁ 'lie' from Sanskrit kūṭa 'false'",
+      "notes": ""
+    },
+    {
+      "token": "આપણને",
+      "translit": "āpaṇane",
+      "gloss": "for ourselves",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati āpaṇ 'we/oneself' + dative -ne",
+      "notes": "First of three motives the reciter forswears as grounds for the great lies."
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "for the sake of",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati kāj 'sake, purpose' (Sanskrit kārya)",
+      "notes": ""
+    },
+    {
+      "token": "સ્વજનને",
+      "translit": "svajanane",
+      "gloss": "for kinsfolk",
+      "partOfSpeech": "noun",
+      "etymology": "sva 'own' + jana 'people' + dative -ne",
+      "notes": ""
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "for the sake of",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati kāj",
+      "notes": ""
+    },
+    {
+      "token": "ધર્મને",
+      "translit": "dharmane",
+      "gloss": "for religion's sake",
+      "partOfSpeech": "noun",
+      "etymology": "dharma + dative -ne",
+      "notes": "Even pious motive does not license a great lie."
+    },
+    {
+      "token": "કાજે",
+      "translit": "kāje",
+      "gloss": "for the sake of",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati kāj",
+      "notes": ""
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "setting aside / forgoing",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati mūkvuṁ 'to put/leave' (Prakrit mukk-), absolutive",
+      "notes": "i.e. renouncing the great lies even on these three pretexts."
+    },
+    {
+      "token": "પરકાજે",
+      "translit": "parakāje",
+      "gloss": "for the sake of others / for any other purpose",
+      "partOfSpeech": "noun",
+      "etymology": "para 'other' + kāj 'sake'",
+      "notes": ""
+    },
+    {
+      "token": "કૂડું",
+      "translit": "kūḍuṁ",
+      "gloss": "a lie / falsehood",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kūḍuṁ (Sanskrit kūṭa)",
+      "notes": ""
+    },
+    {
+      "token": "બોલવા",
+      "translit": "bolavā",
+      "gloss": "to speak",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati bolvuṁ 'to speak' (Prakrit boll-), infinitive -vā",
+      "notes": ""
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "(I take the) rule (not to)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit niyama",
+      "notes": "Firm rule against gross lying."
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "subtle (minor untruth)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sūkṣma 'fine, subtle'",
+      "notes": "Opposed to the gross (sthūla) lie; toward subtle untruth only jayaṇā applies."
+    },
+    {
+      "token": "અલીકતણી",
+      "translit": "alīka-taṇī",
+      "gloss": "of falsehood ('s)",
+      "partOfSpeech": "noun",
+      "etymology": "alīka 'false' + genitive -taṇī",
+      "notes": ""
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "prudent caution",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā = yatanā",
+      "notes": ""
+    },
+    {
+      "token": "કરું",
+      "translit": "karuṁ",
+      "gloss": "I exercise",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this (vow's)",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "બીજા",
+      "translit": "bījā",
+      "gloss": "second",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati bījo (oblique)",
+      "notes": ""
+    },
+    {
+      "token": "સ્થૂલ",
+      "translit": "sthūla",
+      "gloss": "gross",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sthūla",
+      "notes": ""
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "false speech",
+      "partOfSpeech": "compound",
+      "etymology": "mṛṣā + vāda",
+      "notes": ""
+    },
+    {
+      "token": "વિરમણવ્રતતણા",
+      "translit": "viramaṇa-vrata-taṇā",
+      "gloss": "of the abstaining-vow ('s)",
+      "partOfSpeech": "compound",
+      "etymology": "viramaṇa-vrata + -taṇā",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "= atichāra",
+      "notes": ""
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise",
+      "partOfSpeech": "verb",
+      "etymology": "√śodh",
+      "notes": ""
+    },
+    {
+      "token": "સહસ્સાભક્ખાણો",
+      "translit": "sahassābhakkhāṇo",
+      "gloss": "rash/baseless accusation (sahasā-abhyākhyāna)",
+      "partOfSpeech": "compound",
+      "etymology": "sahasā 'rashly' + abhakkhāṇa 'accusation' (abhyākhyāna, abhi-ā-√khyā)",
+      "notes": "1st atichāra of vow 2 — Tattvārtha-sūtra 7.21."
+    },
+    {
+      "token": "રહસ્સાભક્ખાણો",
+      "translit": "rahassābhakkhāṇo",
+      "gloss": "betraying / accusing on secrets (rahasya-abhyākhyāna)",
+      "partOfSpeech": "compound",
+      "etymology": "rahassa 'secret' (rahasya) + abhakkhāṇa 'accusation'",
+      "notes": "2nd atichāra — disclosing or fabricating on confidential matters."
+    },
+    {
+      "token": "સદારામંતભેએ",
+      "translit": "sadārā-manta-bhee",
+      "gloss": "betraying one's own wife's counsel (svadāra-mantra-bheda)",
+      "partOfSpeech": "compound",
+      "etymology": "sva-dārā 'own wife' + mantra 'private counsel' + bheda 'breaking' (√bhid)",
+      "notes": "3rd atichāra — divulging a spouse's/partner's confidences."
+    },
+    {
+      "token": "મોસોવએસે",
+      "translit": "mosovaese",
+      "gloss": "false instruction / misleading advice (mṛṣā-upadeśa)",
+      "partOfSpeech": "compound",
+      "etymology": "mosa 'false' (mṛṣā) + uvaesa 'instruction' (upadeśa, upa-√diś)",
+      "notes": "4th atichāra."
+    },
+    {
+      "token": "કૂડલેહકરણે",
+      "translit": "kūḍalehakaraṇe",
+      "gloss": "forging a false document (kūṭa-lekha-karaṇa)",
+      "partOfSpeech": "compound",
+      "etymology": "kūḍa 'false' (kūṭa) + leha 'writing' (lekha) + karaṇa 'making'",
+      "notes": "5th atichāra — forgery/false records."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these (five)",
+      "partOfSpeech": "pronoun",
+      "etymology": "demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "= atichāra",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among (— the day/night confession follows)",
+      "partOfSpeech": "particle",
+      "etymology": "locative postposition (madhye)",
+      "notes": "Verse closes mid-template; the 'divasa sambandhī … micchā mi dukkaḍaṁ' refrain is supplied as before."
+    }
+  ],
+  "literalTranslation": "(I assent.) The Arhat is (my) god, the true sādhu (my) guru, the Jina-taught path (my) dharma — inwardly (bhāvataḥ) I will uphold right faith; outwardly (dravyato) I exercise prudent caution regarding worldly, trans-worldly, god-related, guru-related and festival-related false belief. I scrutinise the five transgressions of this holy right faith: doubt, craving, sceptical disgust, praise of other-sectarians, intimate lauding of other-sectarians. Among these five, whatever day-related (if night, say 'night-related') transgression of mine has occurred — all of it, done by mind, speech and body — may my misdeed be undone. 1. Among the twelve vows, the first is the vow of abstaining from killing. I take the rule not to deliberately, with intent, kill innocent mobile beings (two-sensed and upward); in (unavoidable) household activity I keep (only) prudent caution. I scrutinise the five transgressions of this first abstaining-from-killing vow: binding, beating, mutilating, overloading, withholding food and drink. Among these five, day-related… (recite the same passage at each transgression). 2. The second is the gross vow of abstaining from false speech. The five-fold (great lies are): false witness about a maiden, about cattle, about land, misappropriation of a deposit, and perjury. Setting aside (the temptation to tell) these five great lies for our own sake, for kin's sake, or for religion's sake, I take the rule not to speak falsehood for any (other) purpose; toward subtle untruth I keep prudent caution. I scrutinise the five transgressions of this second gross vow of abstaining from false speech: rash accusation, betrayal of secrets, betraying a spouse's counsel, false instruction, forging a false document. Among these five…",
+  "idiomaticTranslation": "I take the Arhat as my only God, true monks as my only teachers, and the path the Jina taught as my only religion — and inwardly I vow to keep that faith whole. Outwardly I will guard myself with care wherever false belief meets me: in worldly custom, in counterfeit 'higher' religion, in false gods, false gurus, false holy-days. Let me now search my faith for its five stains — doubt, hankering after other creeds, squeamish wavering, praising the heterodox, courting their company — and for any such slip made today by thought, word or deed, may my wrongdoing be undone. First vow: not to kill. I bind myself never to slay, of set purpose, any innocent moving creature; in the unavoidable work of a household I will at least move with care. Its five stains I search out: tethering, beating, maiming, overloading, starving a creature of food and water. Second vow: not to lie. I will not utter, for my own gain, my family's, or even religion's, any of the five great falsehoods — false oaths over a bride, over cattle, over land, denying a trust, bearing false witness — and toward smaller untruths I keep watchful care. Its five stains I search out: rash slander, betraying confidences, exposing a spouse's secrets, false counsel, and forgery.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse does something the rest of the sūtra never repeats: before touching conduct (cāritra) it audits faith (darśana). The reciter first makes the threefold creed explicit — Arhat as deva, susādhu as guru, jina-praṇīta as dharma — the classic Jain definition of samyaktva as confidence in true god, true teacher, true teaching. The verse then splits the self along the dravya/bhāva axis the preface flagged: 'bhāvataḥ samakita pratipāluṁ' (inwardly I keep faith whole) but 'dravyato … jayaṇā karuṁ' (outwardly I merely exercise care). This is realistic, not lax: a householder cannot avoid all contact with laukika custom, 'higher'-sounding rival creeds, or popular god-, guru- and festival-cults, so the vow asks for inner purity plus outward vigilance. Five faith-stains follow — śaṅkā, kāṅkṣā, vicikitsā, para-pākhaṇḍī-praśaṁsā, para-pākhaṇḍī-saṁstava — exactly the samyaktva-aticāras of Tattvārtha-sūtra 7.18, here in the book's Prākrit dress. Only then does the count of vows begin. Vows 1 and 2 immediately display the verse's governing logic: each pairs a niyama (firm rule) with a jayaṇā (leeway). For non-violence the rule is narrow and precise — no saṅkalpī (premeditated) killing of niraparādha trasa (innocent mobile) beings — while ārambha-jā (occupational) harm is met only with care; its five aticāras (bandha, vadha, chaviccheda, atibhāra, anna-pāna-nirodha) are crimes of cruelty to captive creatures, not of outright slaughter, which is the point: even one who does not kill can still abuse. Truthfulness mirrors this: the gross lie (kanyā-, go-, bhūmi-alīka, deposit-theft, perjury) is renounced absolutely — even 'for religion's sake' — while subtle untruth gets jayaṇā, and its five aticāras (rash accusation, betrayed secrets, a spouse's exposed counsel, false counsel, forgery) are sins of the tongue that fall short of formal perjury yet corrode trust. The verse thus teaches the whole book's method in miniature: name the ideal, fix the rule, admit the leeway, then hunt the small betrayals.",
+    "doctrinalContext": "The verse encodes the Jain axiom that right faith (samyag-darśana) precedes and grounds right conduct (samyak-cāritra): faith is examined first because vows kept without it bear no liberative fruit (cf. Tattvārtha-sūtra 1.1, the ratna-traya). Two structural doctrines surface. First, the dravya/bhāva (substance/disposition) analysis: the same act is judged by outer form and inner intent, and it is bhāva-hiṁsā/bhāva-mṛṣā — the inner lapse — that truly binds karma. Second, the aṇuvrata principle that a layperson's vow is partial (deśa-virati): the rule bites only on saṅkalpī (intentional) and sthūla (gross) violation, leaving ārambhī and sūkṣma to jayaṇā. The aticāra concept itself — a stain that weakens but does not break a vow — presupposes that a vow is a living gradient, not a binary, so that confession (ālocanā) can mend it. The five-plus-five lists are not random: they catalogue the indirect ways a vow leaks even when its headline prohibition is kept — one may not kill yet still tether and starve; one may not perjure yet still slander in haste.",
+    "practicalRelevance": "Recited daily, this verse asks the practitioner to begin self-examination at the root — 'Did I this day let doubt, envy of other paths, or fashionable scorn quietly erode my conviction?' — before auditing actions. Its enduring lesson is that the vows fail not by dramatic breach but by small cruelties and small untruths: overloading a worker, withholding due food, a rash accusation, a betrayed confidence, a forged figure. The dravya/bhāva and niyama/jayaṇā framing also models honest ethics for a layperson who cannot withdraw from commerce or family — hold the inner standard absolute, meet unavoidable compromise with conscientious care, and confess the gap nightly rather than pretend it away.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.18 — śaṅkā-kāṅkṣā-vicikitsānyadṛṣṭipraśaṁsā-saṁstavāḥ samyagdṛṣṭeratīcārāḥ (five aticāras of right faith)",
+        "source": "Umāsvāti; trans. Vijay K. Jain, Vikalp Printers 2018"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.20 — bandha-vadha-cchaviccheda-atibhārāropaṇa-annapānanirodhāḥ (five aticāras of ahiṁsā-aṇuvrata)",
+        "source": "Umāsvāti; trans. Vijay K. Jain"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.21 — mithyopadeśa-rahasyābhyākhyāna-kūṭalekhakriyā-nyāsāpahāra-sākāramantrabhedāḥ (five aticāras of satya-aṇuvrata)",
+        "source": "Umāsvāti; trans. Vijay K. Jain"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — Ānanda's adoption of the twelve śrāvaka vows and their aticāras",
+        "source": "Aṅga 7, Śvetāmbara canon"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati verse text, the book's 'atiyāra' orthography, and the divasa/rātri substitution cue."
+    },
+    {
+      "title": "Tattvārtha-sūtra of Umāsvāti, ch. 7, with translation by Vijay K. Jain (2018)",
+      "url": "https://jainqq.org/explore/034448/1",
+      "type": "scholarship",
+      "consultedFor": "Canonical lists of the five aticāras of samyaktva, ahiṁsā-aṇuvrata and satya-aṇuvrata (7.18, 7.20, 7.21)."
+    },
+    {
+      "title": "Anuvrata — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "The five aṇuvratas of the householder, the partial-abstinence (deśa-virati) principle, and the six āvaśyakas."
+    },
+    {
+      "title": "Samyaktva (Right Faith) — Jain doctrine overview",
+      "url": "https://en.wikipedia.org/wiki/Samyaktva",
+      "type": "scholarship",
+      "consultedFor": "Definition of right faith as confidence in true deva, guru and dharma, and its place before conduct."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse spans the samyaktva preamble plus vows 1–2; the book numbers it '2' as a page-marker, not a vow-number (the operative count is the Gujarati ordinals ૧, ૨). 'upetakaraṇa' (ઉપેતકરણ) is read here as reinforcing saṅkalpī ('with intent'); the form is unusual and other recensions read 'uddiṣṭa' or omit it — flagged as a variant. The Prākrit aticāra-spellings (sahassābhakkhāṇo, sadārā-manta-bhee, kūḍasakkhijje, bhatta-pāṇa-vucchee) follow the book verbatim and differ slightly from Tattvārtha's Sanskrit (e.g. sākāra-mantra-bheda vs svadāra-mantra-bheda; the book's 'sadārā' supports the 'one's own wife' reading). Repeated template tokens (e, pāṁca, atiyāra, śodhuṁ, etc.) are glossed at each occurrence per the 100%-coverage rule. micchā mi dukkaḍaṁ is treated as three tokens (micchā / mi / dukkaḍaṁ) following the book's word-spacing. anchalgachchh.org is the tradition portal standing in for the scanned golden book; the verse text itself is the single golden source."
+}

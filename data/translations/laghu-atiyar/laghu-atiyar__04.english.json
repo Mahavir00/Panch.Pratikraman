@@ -1,0 +1,337 @@
+{
+  "shlokaId": "laghu-atiyar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the fifth vow I set a personal ceiling on the nine kinds of property I will own, and now I confess the five ways I may have quietly stretched those limits today.",
+  "recitation": "5. pāṁcamuṁ parigraha parimāṇa-vrata. navavidha — khitta, ghara, haṭṭa, vāḍiya, kuviya, dhaṇa-dhanna, hiraṇṇa-suvaṇṇa, aï-parimāṇa duppaya, chauppaya-miya, navaviha pariggaha-vayanto. e pāṁcamā parigraha-parimāṇa-vrata-taṇā pāṁca atiyāra śodhuṁ. khitta-vatthu ppamāṇāikkame, hiraṇṇa-suvaṇṇa ppamāṇāikkame, dhaṇa-dhanna ppamāṇāikkame, duppaya chauppaya ppamāṇāikkame, kuviya ppamāṇāikkame. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૫.",
+      "translit": "5.",
+      "gloss": "Five — the verse and vow number marking the fifth aṇuvrata",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati numeral pāṁca, from Skt. pañca.",
+      "notes": "Per the preface's numbering caveat, these ordinals ૧–૧૨ mark the twelve vows."
+    },
+    {
+      "token": "પાંચમું",
+      "translit": "pāṁcamuṁ",
+      "gloss": "the fifth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from pāṁca (Skt. pañcama)."
+    },
+    {
+      "token": "પરિગ્રહ",
+      "translit": "parigraha",
+      "gloss": "possession, acquisitiveness, property",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pari- ('around') + √grah ('to grasp') — 'grasping all around'."
+    },
+    {
+      "token": "પરિમાણવ્રત",
+      "translit": "parimāṇa-vrata",
+      "gloss": "the vow of setting a measure (limit)",
+      "partOfSpeech": "compound",
+      "etymology": "parimāṇa ('measure, limit', pari + √mā 'to measure') + vrata.",
+      "notes": "Together: parigraha-parimāṇa, the fifth aṇuvrata — capping, not renouncing, property."
+    },
+    {
+      "token": "નવવિધ",
+      "translit": "navavidha",
+      "gloss": "nine-fold, of nine kinds",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. nava ('nine') + vidha ('kind'); announces the nine property-categories that follow."
+    },
+    {
+      "token": "ખિત્ત",
+      "translit": "khitta",
+      "gloss": "field, farmland (kṣetra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit khitta < Skt. kṣetra."
+    },
+    {
+      "token": "ઘર",
+      "translit": "ghara",
+      "gloss": "house, dwelling (vāstu)",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit/Gujarati ghara < Skt. gṛha."
+    },
+    {
+      "token": "હટ્ટ",
+      "translit": "haṭṭa",
+      "gloss": "shop, market-stall",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit haṭṭa < Skt. haṭṭa ('market'); Gujarati hāṭ."
+    },
+    {
+      "token": "વાડિય",
+      "translit": "vāḍiya",
+      "gloss": "garden, orchard, enclosed plantation",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit vāḍiyā < Skt. vāṭikā; Gujarati vāḍī."
+    },
+    {
+      "token": "કુવિય",
+      "translit": "kuviya",
+      "gloss": "kupya — miscellaneous household goods/utensils (copper, brass, cloth, furniture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit kuviya < Skt. kupya ('base metal ware; movable household stuff').",
+      "notes": "In the canonical scheme kupya is the residual movables category, distinct from coined gold/silver; not 'wells', as some popular glosses say."
+    },
+    {
+      "token": "ધણ-ધન્ન",
+      "translit": "dhaṇa-dhanna",
+      "gloss": "wealth and grain (cash-money and stored corn)",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit dhaṇa (Skt. dhana, 'wealth') + dhanna (Skt. dhānya, 'grain')."
+    },
+    {
+      "token": "હિરણ્ણ-સુવણ્ણ",
+      "translit": "hiraṇṇa-suvaṇṇa",
+      "gloss": "silver and gold",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit hiraṇṇa (Skt. hiraṇya, here 'silver/coined money') + suvaṇṇa (Skt. suvarṇa, 'gold')."
+    },
+    {
+      "token": "અઇપરિમાણ",
+      "translit": "aï-parimāṇa",
+      "gloss": "the fixed measure / [keeping within] the limit",
+      "partOfSpeech": "compound",
+      "etymology": "aï (Prākrit, here likely from ati or a sandhi linker) + parimāṇa ('measure').",
+      "notes": "Reading uncertain in this verbatim recension; taken as 'the set measure' governing the bipeds/quadrupeds that follow. Flagged in notes."
+    },
+    {
+      "token": "દુપ્પય",
+      "translit": "duppaya",
+      "gloss": "bipeds — two-footed dependents (servants, maidservants, birds)",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit duppaya < Skt. dvipada ('two-footed')."
+    },
+    {
+      "token": "ચઉપ્પયમિય",
+      "translit": "chauppaya-miya",
+      "gloss": "quadrupeds — four-footed livestock (cattle, horses), [duly] measured",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit chauppaya < Skt. catuṣpada ('four-footed') + -miya, likely mita ('measured').",
+      "notes": "-miya read as mita ('counted/limited'); could alternatively be a metrical filler. Uncertain — see notes."
+    },
+    {
+      "token": "નવવિહ",
+      "translit": "navaviha",
+      "gloss": "nine-fold (resumptive)",
+      "partOfSpeech": "adj",
+      "etymology": "Prākrit variant of navavidha; restates the nine categories before the participle."
+    },
+    {
+      "token": "પરિગ્ગહવયંતો",
+      "translit": "pariggaha-vayanto",
+      "gloss": "one who undertakes/declares the possession-vow",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit pariggaha (Skt. parigraha) + vaya (Skt. vrata) + present-participle -anto ('declaring/holding').",
+      "notes": "Caps the Prākrit gāthā-fragment: the householder 'holding the nine-fold parigraha-vrata'. Participle form per recension; uncertain, flagged."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these / this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e ('this, these')."
+    },
+    {
+      "token": "પાંચમા",
+      "translit": "pāṁcamā",
+      "gloss": "of the fifth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati oblique of pāṁcamuṁ ('fifth')."
+    },
+    {
+      "token": "પરિગ્રહપરિમાણવ્રતતણા",
+      "translit": "parigraha-parimāṇa-vrata-taṇā",
+      "gloss": "belonging to the parigraha-parimāṇa vow",
+      "partOfSpeech": "compound",
+      "etymology": "parigraha-parimāṇa-vrata + Gujarati genitive suffix -taṇā ('of, belonging to')."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati pāṁca < Skt. pañca."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Book's verbatim spelling of atichāra (with ય).",
+      "notes": "Glossary term — used as established in the preface."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse / examine",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ ('to search out, to cleanse'), 1st-person; cf. Skt. √śudh ('to purify').",
+      "notes": "Double sense — 'search out and so purify' — fits the confessional act."
+    },
+    {
+      "token": "ખિત્તવત્થુ",
+      "translit": "khitta-vatthu",
+      "gloss": "field and homestead (kṣetra-vāstu)",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit khitta (kṣetra) + vatthu (Skt. vāstu, 'building-site/house')."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the [set] measure",
+      "partOfSpeech": "compound",
+      "etymology": "Prākrit pamāṇa (Skt. pramāṇa, 'measure/limit') + aïkkama (Skt. atikrama, 'transgressing'), locative; initial doubling from sandhi.",
+      "notes": "Not 'inadvertence' — the technical sense is overstepping one's self-fixed ceiling. Repeats identically for each of the five atichāras."
+    },
+    {
+      "token": "હિરણ્ણસુવણ્ણ",
+      "translit": "hiraṇṇa-suvaṇṇa",
+      "gloss": "silver and gold",
+      "partOfSpeech": "compound",
+      "etymology": "As above (hiraṇya + suvarṇa)."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the measure",
+      "partOfSpeech": "compound",
+      "etymology": "See first occurrence.",
+      "notes": "Second atichāra: gold/silver."
+    },
+    {
+      "token": "ધણધન્ન",
+      "translit": "dhaṇa-dhanna",
+      "gloss": "wealth and grain",
+      "partOfSpeech": "compound",
+      "etymology": "As above (dhana + dhānya)."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the measure",
+      "partOfSpeech": "compound",
+      "etymology": "See first occurrence.",
+      "notes": "Third atichāra: wealth/grain."
+    },
+    {
+      "token": "દુપ્પય",
+      "translit": "duppaya",
+      "gloss": "bipeds (servants, etc.)",
+      "partOfSpeech": "noun",
+      "etymology": "dvipada (see above)."
+    },
+    {
+      "token": "ચઉપ્પય",
+      "translit": "chauppaya",
+      "gloss": "quadrupeds (livestock)",
+      "partOfSpeech": "noun",
+      "etymology": "catuṣpada (see above)."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the measure",
+      "partOfSpeech": "compound",
+      "etymology": "See first occurrence.",
+      "notes": "Fourth atichāra: bipeds/quadrupeds."
+    },
+    {
+      "token": "કુવિય",
+      "translit": "kuviya",
+      "gloss": "kupya — household movables/utensils",
+      "partOfSpeech": "noun",
+      "etymology": "kupya (see above)."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "in exceeding the measure",
+      "partOfSpeech": "compound",
+      "etymology": "See first occurrence.",
+      "notes": "Fifth atichāra: kupya."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "See above."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "See above."
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (i.e. 'whatever I have committed among these')",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati māṁhe ('inside, among'), cf. Skt. madhye."
+    }
+  ],
+  "literalTranslation": "The fifth, the possession-limiting vow. Nine-fold: field, house, shop, orchard, household-goods, wealth-and-grain, silver-and-gold; within the set measure of bipeds and quadrupeds (counted) — being one who holds the nine-fold possession-vow. I scrutinise the five transgressions of this fifth possession-limiting vow: in exceeding the measure of field and homestead, in exceeding the measure of silver and gold, in exceeding the measure of wealth and grain, in exceeding the measure of bipeds and quadrupeds, in exceeding the measure of household-goods. Among these five transgressions [whatever I have done].",
+  "idiomaticTranslation": "Fifth comes the vow that puts a ceiling on what I may own. My property falls into nine kinds — land, house, shop, orchard, household goods, money and grain, silver and gold, and my two- and four-footed dependents — and over each I have fixed a measure I will not cross, holding firm to this nine-fold vow of restraint. Now I search my conscience for its five slips: have I quietly stretched my limit on land and home? On silver and gold? On cash and grain? On servants and cattle? On the goods that fill my house? For any such overstepping among these five, I seek pardon.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the five aṇuvratas, turning from the inward discipline of chastity-and-contentment (vow four) to the outward discipline of property. Its distinctive move is the navavidha grid: rather than leaving 'possession' as a vague mass, it itemises wealth into nine concrete heads — immovables (field, house, shop, orchard), movable goods (kupya), the staples of cash and grain, the precious metals, and living dependents (two- and four-footed). The vow is not aparigraha in the monastic sense; it is parimāṇa — a self-fixed ceiling. That single word reframes the spiritual task: holiness for the householder lies not in owning nothing but in deciding, in advance and in writing, exactly how much is enough, and then refusing the endless creep of 'a little more.' The five atichāras then collapse the nine categories into five confession-heads (field-and-homestead, gold-and-silver, wealth-and-grain, bipeds-and-quadrupeds, household-goods), each sealed with the identical refrain ppamāṇāikkame — 'in overstepping the measure.' The repetition is deliberate liturgy: the reciter does not ask merely whether he acquired too much, but whether he found clever ways to honour the letter of his limit while defeating its spirit — the classic commentarial cases of gifting surplus land to a son to keep one's own count low, or merging two fields so the 'number' stays one. Coming just before the diś-vrata (vow six), which will limit the directions of one's movement, this verse limits the substance of one's holdings; together they fence in the householder's expansion in goods and in space.",
+    "doctrinalContext": "The verse rests on the Jain analysis of parigraha as itself a form of hiṁsā and a fuel of karmic influx: every acquisition multiplies attachment (mūrcchā), the inner essence the tradition identifies as the real possession. By converting limitation into a numbered, measurable vow, it makes aparigraha auditable — the atichāra is defined precisely as crossing pramāṇa, the measure. The fivefold list maps directly onto the canonical śrāvakācāra scheme of kṣetra-vāstu, hiraṇya-suvarṇa, dhana-dhānya, dvipada-catuṣpada and kupya transgressions, showing the Anchalgachchha recension preserving the classical fivefold atichāra of the fifth vow intact under its Prākrit dress.",
+    "practicalRelevance": "Recited at dusk, it asks the modern householder to treat aparigraha as a budget, not a sentiment: have I respected the caps I set on property, savings, gadgets, even staff and vehicles — or did I rationalise an exception today? Its sharpest contemporary edge is the warning against loophole-piety: keeping the number while breaking the intent (transferring assets, re-labelling categories). The remedy it implies is to re-fix an honest limit and confess the overstep rather than disguise it.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.24 — the five atichāras of parigraha-parimāṇa (kṣetra-vāstu, hiraṇya-suvarṇa, dhana-dhānya, dvipada-catuṣpada, kupya pramāṇātikrama)",
+        "source": "Umāsvāti, Tattvārtha-sūtra ch. 7"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — Ānanda's enumeration and capping of the householder's property categories",
+        "source": "Upāsakadaśāḥ (Aṅga 7)"
+      },
+      {
+        "text": "Bṛhad Atiyār — the extended Pakkhī parallel of this same fifth-vow confession",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha-sūtra of Umāsvāti, chapter 7 (vows and their atichāras)",
+      "url": "https://www.jainworld.com/scriptures/tattvartha-sutra/",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical fivefold atichāra of the parigraha-parimāṇa vow and the kṣetra-vāstu / hiraṇya-suvarṇa / dhana-dhānya / dvipada-catuṣpada / kupya scheme."
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — śrāvakācāra and parigraha-parimāṇa materials",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the navavidha (nine-fold) parigraha enumeration and the meaning of duppaya/chauppaya as bipeds/quadrupeds among lay possessions."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Root-forms and glosses for kṣetra, vāstu, kupya ('base-metal/movable household ware'), hiraṇya, suvarṇa, dhānya, pramāṇa and atikrama."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and the book's atiyāra orthography and Prākrit atichāra-list wording."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The opening Prākrit gāthā-fragment ('aïparimāṇa duppaya, chauppayamiya, navaviha pariggaha-vayanto') is compressed and reads slightly irregularly in this verbatim recension; 'aï' is taken as ati/linker before parimāṇa, '-miya' as mita ('measured'), and 'pariggaha-vayanto' as a present participle 'holding the possession-vow' — all rendered conservatively and flagged here rather than emended. The five atichāra-heads themselves are unambiguous and match Tattvārtha 7.24. A popular gloss treating kuviya as 'wells' is rejected in favour of the canonical kupya = miscellaneous household movables. 'ppamāṇāikkame' is the technical pramāṇātikrama ('overstepping the set measure'), not 'inadvertence'; one online paraphrase to the contrary was set aside. Per the preface, atiyāra spelling (with ય) is retained, not normalised to atichāra."
+}

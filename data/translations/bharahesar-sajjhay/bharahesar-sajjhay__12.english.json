@@ -1,0 +1,158 @@
+{
+  "shlokaId": "bharahesar-sajjhay/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse simply names the seven sisters of the great monk Sthūlibhadra — Yakṣā, Yakṣadinnā, Bhūtā, Bhūtadinnā, Seṇā, Veṇā and Reṇā — remembering them as exemplary holy women.",
+  "recitation": "jakkhā ya jakkhadinnā, bhūā taha ceva bhūadinnā ya | seṇā veṇā reṇā, bhayaṇīo thūlibhaddassa ||",
+  "wordByWord": [
+    {
+      "token": "જખ્ખા",
+      "translit": "jakkhā",
+      "gloss": "Yakṣā (the first sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jakkhā < Skt yakṣā, feminine of yakṣa ('luminous spirit'), here used purely as a proper name.",
+      "notes": "Tradition: the eldest, who could retain a text after hearing it once."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Skt ca, the connective conjunction.",
+      "notes": "Links the first two names of the pair."
+    },
+    {
+      "token": "જખ્ખદિન્ના",
+      "translit": "jakkhadinnā",
+      "gloss": "Yakṣadinnā (the second sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jakkha-dinnā < Skt yakṣa-dattā, 'given by the Yakṣa'; dinnā < Skt datta ('given').",
+      "notes": "Variant Yakṣadattā. Tradition: retained after hearing twice."
+    },
+    {
+      "token": "ભૂઆ",
+      "translit": "bhūā",
+      "gloss": "Bhūtā (the third sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhūā < Skt bhūtā, feminine of bhūta ('being, spirit'); proper name.",
+      "notes": "Tradition: retained after hearing thrice."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "so, likewise",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt tathā ('thus, in that manner').",
+      "notes": "Metrical connective continuing the list."
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed (emphatic 'just so')",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ceva < Skt caiva (ca + eva), an emphatic conjunction.",
+      "notes": "taha ceva together = 'and in the very same way'."
+    },
+    {
+      "token": "ભૂઅદિન્ના",
+      "translit": "bhūadinnā",
+      "gloss": "Bhūtadinnā (the fourth sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhūa-dinnā < Skt bhūta-dattā, 'given by the bhūta (spirit)'.",
+      "notes": "Variant Bhūtadattā. Tradition: retained after hearing four times."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Skt ca.",
+      "notes": "Closes the first half-line's pairing."
+    },
+    {
+      "token": "સેણા",
+      "translit": "seṇā",
+      "gloss": "Seṇā (the fifth sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit seṇā; a proper name, sometimes connected with Skt senā ('host'). Some recensions read Eṇā.",
+      "notes": "Tradition: retained after hearing five times."
+    },
+    {
+      "token": "વેણા",
+      "translit": "veṇā",
+      "gloss": "Veṇā (the sixth sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit veṇā; proper name (cf. Skt veṇā, a river-name / 'flute').",
+      "notes": "Tradition: retained after hearing six times."
+    },
+    {
+      "token": "રેણા",
+      "translit": "reṇā",
+      "gloss": "Reṇā (the seventh sister; a personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit reṇā; proper name (cf. Skt reṇu, 'fine dust').",
+      "notes": "Tradition: the youngest, who retained after hearing seven times."
+    },
+    {
+      "token": "ભયણીઓ",
+      "translit": "bhayaṇīo",
+      "gloss": "(the) sisters",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhayaṇī (nom. pl. bhayaṇīo) < Skt bhaginī ('sister').",
+      "notes": "The grammatical head that gathers the seven names into apposition."
+    },
+    {
+      "token": "થૂલિભદ્દસ્સ",
+      "translit": "thūlibhaddassa",
+      "gloss": "of Sthūlibhadra (genitive)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit thūli-bhadda + genitive -ssa < Skt sthūlibhadrasya, 'of Sthūlabhadra' (sthūla 'great/stout' + bhadra 'blessed').",
+      "notes": "The same Sthūlibhadra honoured among the great monks earlier in the litany."
+    }
+  ],
+  "literalTranslation": "Yakṣā and Yakṣadinnā, Bhūtā and just so Bhūtadinnā, Seṇā, Veṇā, Reṇā — (these are) the sisters of Sthūlibhadra.",
+  "idiomaticTranslation": "Yakṣā and Yakṣadinnā, Bhūtā and likewise Bhūtadinnā, then Seṇā, Veṇā and Reṇā — the seven sisters of Sthūlibhadra, holy nuns ever to be remembered.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the chief queens of Kṛṣṇa close the preceding gāthā, the litany turns from royal consorts to a single renunciant household, naming the seven sisters of Sthūlibhadra in one unbroken breath. The artistry is in the pairing: Yakṣā/Yakṣadinnā and Bhūtā/Bhūtadinnā fall as matched couplets (a 'name' and its '-dinnā / given' echo), and the half-line is then capped by the rapid triad Seṇā-Veṇā-Reṇā, so that seven names ride a single light metre. Only the last word, thūlibhaddassa, anchors them — they are remembered not for thrones or marriages but as bhayaṇīo, the sisters of a great monk. The verse is deliberately answered across the two panels of the sutra: Sthūlibhadra himself stands among the mahāsattvas in the men's roll, and here his seven sisters stand among the mahāsatīs — one family supplying exemplars to both halves of the recitation. Tradition remembers these seven as nuns of prodigious śruta-retention, graded by memory — the eldest holding a passage after a single hearing and each younger sister needing one hearing more, down to Reṇā at seven. The verse itself voices none of this; it trusts the bare names, true to the sutra's method of nāma-grahaṇa, to summon the whole remembered life. To 'take' these names is thus to honour an entire lineage of women who carried the canon in living memory.",
+    "doctrinalContext": "The gāthā quietly asserts that great śīla and śruta are not the preserve of queens or wives but of ordained women — sādhvīs of the four-fold saṅgha. By placing seven nun-sisters beside the famous satīs, the verse affirms women as bearers and guardians of scripture in an age of purely oral transmission, and models renunciation that runs through a whole family (brother and seven sisters alike entering the path). It is remembrance, not petition: the reciter binds the day's resolve to women whose discipline preserved the teaching.",
+    "practicalRelevance": "A reciter pauses on these seven plain names and resolves that learning and steadfast conduct are open to all, women and men, lay and ordained; remembering nuns who held the canon by heart, one renews one's own commitment to svādhyāya (study) and to guarding what one has learned.",
+    "crossReferences": [
+      {
+        "text": "Kalpa Sūtra, Sthavirāvalī (list of elders; the family of Śakaḍāla and Sthūlabhadra)",
+        "source": "Jacobi, Jaina Sūtras Part I, SBE vol. 22"
+      },
+      {
+        "text": "Pariśiṣṭaparvan IX (life of Sthūlabhadra and his sisters)",
+        "source": "Hemacandra, ed. H. Jacobi 1891; trans. R. Fynes, 'The Lives of the Jain Elders', OUP 1998"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sthulabhadra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "type": "scholarship",
+      "consultedFor": "Identity of Sthūlibhadra, his father Śakaḍāla/Sakatala, ascetic life, and his place in the Śvetāmbara Sthaviravali."
+    },
+    {
+      "title": "Jaina Sutras, Part I (SBE 22): Kalpa Sūtra — List of the Sthaviras",
+      "url": "https://sacred-texts.com/jai/sbe22/sbe2290.htm",
+      "type": "translation",
+      "consultedFor": "The Sthaviravali context naming Sthūlabhadra's lineage and family, confirming the historicity of his household."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Etymological glosses of bhaginī (> bhayaṇī), yakṣa/yakṣā, bhūta/bhūtā, datta (> dinnā), and sthūla-bhadra."
+    },
+    {
+      "title": "Hemacandra, The Lives of the Jain Elders (Pariśiṣṭaparvan), trans. R. Fynes",
+      "url": "https://books.google.com/books?id=quNpKVqABGMC",
+      "type": "translation",
+      "consultedFor": "Narrative of Sthūlibhadra and his seven sisters as renunciants in the kathā tradition."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Names are rendered verbatim from the book's Gujarati; common recension variants exist: Yakṣadinnā ≈ Yakṣadattā, Bhūtadinnā ≈ Bhūtadattā, and Seṇā is sometimes read Eṇā. The graded-memory tradition (eldest retains after one hearing, each younger sister one more, down to Reṇā at seven) is well attested in the Āvaśyaka/Pariśiṣṭaparvan cycle but is NOT stated in the verse itself, which gives only the names; it is offered as background, not as the gāthā's wording. The pairing of '-dinnā' names and the bare triad reflect the metre. No web source could be confirmed for an independent Anchalgachchha gloss of this specific gāthā; identifications rest on the standard Śvetāmbara kathā literature."
+}

@@ -1,0 +1,164 @@
+{
+  "shlokaId": "muni-vandana/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With my head, my mind, and my bowed forehead I salute all those true monks who keep the five great vows and the full code of pure monastic conduct.",
+  "recitation": "pañca-mahavvaya dhārā, aḍhāra sahassa sīlaṅga dhārā. akkhayāyāra carittā, te savve sirasā maṇasā matthaeṇa vandāmi.",
+  "wordByWord": [
+    {
+      "token": "પંચમહવ્વય",
+      "translit": "pañca-mahavvaya",
+      "gloss": "the five great vows (of the ascetic)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit pañca ('five') + mahavvaya (Skt. mahāvrata, 'great vow'); the vows of ahiṁsā, satya, asteya, brahmacarya, aparigraha.",
+      "notes": "Here the stem of a bahuvrīhi 'bearer of the five great vows,' completed by the following dhārā."
+    },
+    {
+      "token": "ધારા",
+      "translit": "dhārā",
+      "gloss": "bearers / those who hold (them)",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. root dhṛ ('to hold, bear, sustain'); dhāra = 'one who upholds.' Plural agreeing with the munis.",
+      "notes": "Joins with pañca-mahavvaya: 'upholders of the five great vows.'"
+    },
+    {
+      "token": "અઢાર",
+      "translit": "aḍhāra",
+      "gloss": "eighteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aḍhāra / aṭṭhārasa, from Skt. aṣṭādaśa ('eighteen').",
+      "notes": "Numeral qualifying sahassa."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahassa, from Skt. sahasra ('thousand'); aḍhāra sahassa = 18,000.",
+      "notes": ""
+    },
+    {
+      "token": "સીલંગ",
+      "translit": "sīlaṅga",
+      "gloss": "limbs/components of (pure) conduct",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. śīla ('moral conduct, virtue') + aṅga ('limb, component'); śīlāṅga = a constituent unit of perfect conduct.",
+      "notes": "The 18,000 sīlaṅga are the traditionally enumerated components of flawless monastic conduct (see doctrinalContext)."
+    },
+    {
+      "token": "ધારા",
+      "translit": "dhārā",
+      "gloss": "bearers / those who hold (them)",
+      "partOfSpeech": "noun",
+      "etymology": "As above, from Skt. dhṛ; repeated to form 'bearers of the eighteen-thousand-fold conduct.'",
+      "notes": "Anaphoric repetition of dhārā binds the second epithet in parallel with the first."
+    },
+    {
+      "token": "અખ્ખયાયાર",
+      "translit": "akkhayāyāra",
+      "gloss": "of imperishable / unbroken conduct",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit akkhaya (Skt. akṣaya, 'undecaying, indestructible') + āyāra (Skt. ācāra, 'conduct, observance'); 'whose ācāra never lapses.'",
+      "notes": "Reading akkhaya-āyāra; some recensions divide/spell the akkhaya- element slightly differently (see notes)."
+    },
+    {
+      "token": "ચરિત્તા",
+      "translit": "carittā",
+      "gloss": "of (pure) character / firm in conduct (cāritra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit caritta, from Skt. cāritra ('right conduct') — the third jewel of the ratnatraya.",
+      "notes": "With akkhayāyāra it forms a doubled epithet: monks of imperishable observance and steadfast cāritra."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "them, those",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit te, from Skt. te (masc. pl. of tad, 'that'); resumes all the munis described.",
+      "notes": "Demonstrative gathering up every monk named by the preceding epithets and those of verse 1."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva, from Skt. sarva ('all, every'); masc. pl. savve.",
+      "notes": "te savve = 'all of them,' making the homage exhaustive and universal."
+    },
+    {
+      "token": "સિરસા",
+      "translit": "sirasā",
+      "gloss": "with the head",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of Prakrit sira (Skt. śiras, 'head'); sirasā = 'by/with the head.'",
+      "notes": "First member of the triad of bodily, mental and gestural homage."
+    },
+    {
+      "token": "મણસા",
+      "translit": "maṇasā",
+      "gloss": "with the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of Prakrit maṇa (Skt. manas, 'mind'); maṇasā = 'with the mind.'",
+      "notes": "Marks inward, heartfelt reverence as distinct from outward gesture."
+    },
+    {
+      "token": "મત્થએણ",
+      "translit": "matthaeṇa",
+      "gloss": "with the (bowed) forehead",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of Prakrit matthaya (Skt. mastaka, 'forehead, crown of the head'); matthaeṇa = 'with the forehead.'",
+      "notes": "The lowered brow that physically touches or inclines in pranāma; completes the sirasā–maṇasā–matthaeṇa triad."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "First person sg. present of Prakrit vand- (Skt. vand, 'to praise, salute reverentially'); vandāmi = 'I make vandanā.'",
+      "notes": "The single finite verb of the gāthā; everything else is its object or instrument."
+    }
+  ],
+  "literalTranslation": "Bearers of the five great vows, bearers of the eighteen-thousand-fold conduct, (monks) of imperishable observance and (firm) character — all of them I salute with head, with mind, and with bowed forehead.",
+  "idiomaticTranslation": "To all who carry the five great vows and the eighteen thousand limbs of pure conduct, whose observance never decays and whose character stands unshaken — to all of them, with bowed head, with devoted mind, and with lowered brow, I offer my reverent salutation.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the first gāthā located the munis — everywhere in the inhabited world — and recognised them by their outward emblems, this verse turns from the outward to the inward and then performs the bow itself. A muni is no longer identified by broom, cloth-tuft and bowl, but by what those emblems serve: the pañca-mahāvrata held without exception, the full eighteen-thousand-fold body of śīlāṅga, an ācāra that does not erode (akkhaya) and a cāritra that does not waver. The doubled dhārā ('bearers… bearers…') hammers the point that sanctity is something carried and sustained, not merely received. Only after this fourfold qualification does the reciter reach the verse's single verb, vandāmi. The salutation is deliberately threefold — sirasā, maṇasā, matthaeṇa — head, mind and bowed brow, so that body and inner intention act as one; a bow of the neck without the mind, or of the mind without the body, would be incomplete. te savve, 'all of them,' seals the universal scope before the sūtra narrows, in the lines that follow, from every monk everywhere to the named teachers of one's own seat-succession. This gāthā is thus the hinge: the last and fullest stroke of the universal homage, the bow actually made, just before homage becomes lineage.",
+    "doctrinalContext": "The verse compresses the whole ascetic ideal into two measures. The pañca-mahāvrata are the root; the 18,000 śīlāṅga are their exhaustive elaboration — traditionally derived as 3 (yoga: mind, speech, body) × 3 (karaṇa: doing, causing, approving) × 4 (saṁjñā: food, fear, sex, possessiveness) × 5 (indriya) × 10 (the objects/jīva-classes) × 10 (yati-dharma, the ten monastic virtues) = 18,000, so that the figure encodes conduct guarded along every axis at once. cāritra named here is the third of the three jewels (samyag-darśana, jñāna, cāritra), and akkhaya marks it as conduct that, rightly held, is undecaying. The threefold bow mirrors the Jain insistence on purity of the three yogas — mind, speech and body — so that even the act of vandanā is itself disciplined conduct.",
+    "practicalRelevance": "Recited daily, the verse trains the reciter to revere monks for their vows and conduct rather than for status or personality, and to make every salutation whole — uniting posture, attention and humility instead of bowing absent-mindedly. The 18,000 figure is a reminder that conduct is to be guarded in countless small particulars, not in a few grand resolutions.",
+    "crossReferences": [
+      {
+        "text": "Five great vows (pañca-mahāvrata): ahiṁsā, satya, asteya, brahmacarya, aparigraha",
+        "source": "Tattvārtha-sūtra 7.1 (Umāsvāti)"
+      },
+      {
+        "text": "Three jewels — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (cāritra as right conduct)",
+        "source": "Tattvārtha-sūtra 1.1 (Umāsvāti)"
+      },
+      {
+        "text": "18,000 śīlāṅga as the enumerated components of monastic conduct",
+        "source": "Traditional śīlāṅga-ratha derivation (Śvetāmbara prakaraṇa literature)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Vidhipakṣa / Anchal Gaccha)",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Gaccha identity and the universal-homage framing of the muni-vandanā; lineage back to Sudharmāsvāmī."
+    },
+    {
+      "title": "Aryarakshitsuri",
+      "url": "https://en.wikipedia.org/wiki/Aryarakshitsuri",
+      "type": "scholarship",
+      "consultedFor": "Founder-reformer context for the Vidhipakṣa code of conduct that this salutation honours."
+    },
+    {
+      "title": "Jain monasticism",
+      "url": "https://en.wikipedia.org/wiki/Jain_monasticism",
+      "type": "scholarship",
+      "consultedFor": "The mahāvrata and the marks/conduct that define a true muni, supporting the glosses of dhārā and cāritra."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) The asterisk '*' printed within 'અઢાર સહસ્સ * સીલંગ' is a book mark (recitation-pause / footnote pointer), not a lexical token, and is therefore not glossed; the bars ॥ are likewise punctuation. (2) The compound akkhayāyāra is read as akkhaya (akṣaya, 'imperishable') + āyāra (ācāra, 'conduct'); a minority of recensions vary the spelling/segmentation of the akkhaya- element, but the sense 'of unbroken conduct' is stable. (3) The 3×3×4×5×10×10 = 18,000 derivation of the śīlāṅga is the standard traditional computation (the 'śīlāṅga-ratha'); the verse invokes the total without itemising it, and the exact factor-list varies slightly across commentaries, so the breakdown is given as traditional rather than as this book's own statement. (4) Per the source book, the original Prakrit spellings (doubled conjuncts, mātrās, anusvāras) are preserved verbatim and may differ from the IAST glosses, which are normalised for clarity."
+}

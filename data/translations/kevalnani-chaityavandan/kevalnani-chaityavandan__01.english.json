@@ -1,0 +1,182 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "O soul, bow to these awakened Jinas of the bygone age — Kevalanāṇī, Nirvāṇī, Sāgara, Mahājasa, Vimala, Sarvānubhūti, Śrīdhara, Datta and Dāmodara — each of them a treasure-mine of virtues.",
+  "recitation": "(ḍhāla pahelī) Kevalanāṇī Śrī Niravāṇī, Sāgara Mahājasa Vimala te jāṇī | Sarvānubhūti Śrīdhara guṇakhāṇī, Datta Dāmodara vando prāṇī ||",
+  "wordByWord": [
+    {
+      "token": "(ઢાળ-પહેલી)",
+      "translit": "ḍhāla-pahelī",
+      "gloss": "(melody — the first); a rubric naming the opening sung section",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ḍhāla 'tune, melodic mode' + pahelī 'first' (from Skt. prathama via Apabhraṁśa pahila)",
+      "notes": "Editorial heading, not a recited word; flags the start of dhāla 1, which honours the past caubīsī."
+    },
+    {
+      "token": "કેવલનાણી",
+      "translit": "kevalanāṇī",
+      "gloss": "Kevalanāṇī (proper name of the 1st Jina of the past age, lit. 'the omniscient one')",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit kevala-nāṇī < Skt. kevala-jñānin 'possessor of kevala-jñāna (omniscience)'; the Prakrit ṇa for Skt. na",
+      "notes": "Doubles as the hymn's title-word; here functions as the first proper name in the atīta-caubīsī roll-call."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "Śrī (auspicious honorific 'venerable, glorious')",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. śrī 'splendour, fortune, glory'",
+      "notes": "Honorific prefixed to the following name Niravāṇī (and tonally to the whole list)."
+    },
+    {
+      "token": "નિરવાણી",
+      "translit": "niravāṇī",
+      "gloss": "Nirvāṇī (proper name of the 2nd Jina of the past age)",
+      "partOfSpeech": "invocation",
+      "etymology": "from Skt. nirvāṇa 'extinction, liberation' + possessive -in; vernacular niravāṇī keeps the epenthetic vowel",
+      "notes": "Name evokes final emancipation; second of the twenty-four past Tīrthaṅkaras."
+    },
+    {
+      "token": "સાગર",
+      "translit": "sāgara",
+      "gloss": "Sāgara (proper name of the 3rd Jina of the past age, lit. 'ocean')",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. sāgara 'ocean'",
+      "notes": "Third in the roll-call; the ocean-name suggests fathomless depth of qualities."
+    },
+    {
+      "token": "મહાજસ",
+      "translit": "mahājasa",
+      "gloss": "Mahājasa / Mahāyaśa (proper name of the 4th Jina, lit. 'of great glory')",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit mahā-jasa < Skt. mahā-yaśas 'great fame'; Skt. ya/śa → Prakrit ja/sa",
+      "notes": "Fourth past Jina; Sanskrit form Mahāyaśa."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala (proper name of the 5th Jina, lit. 'the stainless, pure')",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. vimala 'free from mala (impurity), spotless'",
+      "notes": "Fifth past Jina; not to be confused with Vimalanātha, the 13th of the present caubīsī."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those, them",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati/Apabhraṁśa te < Skt. te 'they/those'",
+      "notes": "Demonstrative gathering the five just-named Jinas as the object of 'jāṇī'."
+    },
+    {
+      "token": "જાણી",
+      "translit": "jāṇī",
+      "gloss": "having known / recognising (them)",
+      "partOfSpeech": "verb",
+      "etymology": "absolutive of Old Gujarati jāṇavũ 'to know' < Prakrit jāṇai < Skt. jānāti (√jñā)",
+      "notes": "Conjunctive participle: 'recognising those Jinas (revere them)'; also rhymes the pāda-endings (-āṇī)."
+    },
+    {
+      "token": "સર્વાનુભૂતિ",
+      "translit": "sarvānubhūti",
+      "gloss": "Sarvānubhūti (proper name of the 6th Jina, lit. 'all-perceiving')",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. sarva 'all' + anubhūti 'experience, perception'",
+      "notes": "Lexicons (Hemacandra, Abhidhānacintāmaṇi 51) name Sarvānubhūti as the 6th Arhat of the past utsarpiṇī — confirming this verse's set as the atīta caubīsī."
+    },
+    {
+      "token": "શ્રીધર",
+      "translit": "śrīdhara",
+      "gloss": "Śrīdhara (proper name of the 7th Jina, lit. 'bearer of splendour')",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. śrī 'glory, fortune' + dhara 'holder' (√dhṛ)",
+      "notes": "Seventh past Jina."
+    },
+    {
+      "token": "ગુણખાણી",
+      "translit": "guṇakhāṇī",
+      "gloss": "mine/quarry of virtues (a treasury of good qualities)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt./Prakrit guṇa 'virtue, quality' + khāṇi 'mine, pit' (√khan 'to dig'); cf. guṇa-khani 'mine of virtues'",
+      "notes": "Epithet applied collectively to the named Jinas; metrically also seals the third pāda's -āṇī rhyme."
+    },
+    {
+      "token": "દત્ત",
+      "translit": "datta",
+      "gloss": "Datta (proper name of the 8th Jina, lit. 'the given/granted')",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. datta 'given', past participle of √dā 'to give'",
+      "notes": "Eighth past Jina; the name is shared with non-Jain figures but here denotes a Tīrthaṅkara of the bygone caubīsī."
+    },
+    {
+      "token": "દામોદર",
+      "translit": "dāmodara",
+      "gloss": "Dāmodara (proper name of the 9th Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. dāman 'cord, garland' + udara 'belly'; here purely a Jina-name, not the Vaiṣṇava epithet",
+      "notes": "Ninth past Jina; closes the names given in this verse before the imperative."
+    },
+    {
+      "token": "વંદો",
+      "translit": "vando",
+      "gloss": "bow! / venerate! (do reverence)",
+      "partOfSpeech": "verb",
+      "etymology": "imperative of Old Gujarati vandavũ < Prakrit vandai < Skt. vandate (√vand 'to salute, worship')",
+      "notes": "Second-person imperative addressed to the soul; the operative command of the whole verse."
+    },
+    {
+      "token": "પ્રાણી",
+      "translit": "prāṇī",
+      "gloss": "O living being / O soul (one possessed of prāṇa, life-breath)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prāṇin (nom. prāṇī) 'breathing one, living creature', from prāṇa 'vital breath'",
+      "notes": "Vocative; the poet addresses the worshipper directly, turning a name-list into a summons to devotion."
+    }
+  ],
+  "literalTranslation": "Kevalanāṇī, venerable Nirvāṇī, Sāgara, Mahājasa, Vimala — recognising those; Sarvānubhūti, Śrīdhara — mines of virtue; Datta, Dāmodara: bow to them, O soul!",
+  "idiomaticTranslation": "Kevalanāṇī and glorious Nirvāṇī, Sāgara, Mahājasa, Vimala — know them well; Sarvānubhūti and Śrīdhara, very mines of virtue, with Datta and Dāmodara: bow to them, O living soul!",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening stanza of dhāla 1 begins the roll-call of the atīta caubīsī by naming its first nine Jinas in sequence — Kevalanāṇī, Nirvāṇī, Sāgara, Mahājasa, Vimala, Sarvānubhūti, Śrīdhara, Datta and Dāmodara. The verse has almost no syntax beyond the litany itself: nine proper names, two binding words ('te jāṇī', recognise those), one collective epithet ('guṇakhāṇī', mines of virtue), and a single closing command ('vando prāṇī', O soul, bow). That bareness is the point — the worshipper is meant to let the names themselves do the devotional work, voicing each Jina rather than parsing a sentence. Notice how the poet frames the list pedagogically: 'te jāṇī' first asks the reciter to *recognise* who these Jinas are, and only at the very end does 'vando' turn recognition into the act of bowing — knowledge ripening into reverence. The vocative 'prāṇī' is striking: instead of the poet praising the Jinas on his own behalf, he wheels round and commands the listener's own soul to bow, so the verse is simultaneously a hymn and an instruction. The two -āṇī end-rhymes (niravāṇī / jāṇī / guṇakhāṇī / prāṇī) lock the four pādas into a chantable lattice that carries the names easily in memory. The following verse continues the same set (Sutejasvāmī, Munisuvrata, Sumati…), so this stanza simply opens a door the next ones walk further through.",
+    "doctrinalContext": "The verse rests on a core Jain conviction about time: Tīrthaṅkaras are not unique to our era but arise twenty-four to an age, age after age, as the half-cycles of time turn. By opening with the *past* caubīsī — names a worshipper will never meet in scripture-narrative the way they meet Ṛṣabha or Mahāvīra — the hymn enacts the doctrine that liberation is perennial and the Jina-ideal beginningless. Each name is also a quality held up for emulation (Nirvāṇī = liberation, Vimala = stainlessness, Sarvānubhūti = all-perceiving omniscience), so reciting them rehearses the very guṇas the soul aspires to; 'guṇakhāṇī' names them collectively as inexhaustible reservoirs of such virtue. The move from 'jāṇī' (knowing) to 'vando' (bowing) mirrors the path's own order — right knowledge maturing into right conduct.",
+    "practicalRelevance": "Recited at dawn, this verse trains the reciter to begin the day by recollecting awakened beings beyond the familiar twenty-four, widening reverence past one's own age. Practically, take 'te jāṇī … vando prāṇī' as a personal instruction: don't merely chant the syllables — recognise each Jina as a living model of a virtue, then bow inwardly. Even unable to place every past name, one can rest in the closing summons to the soul and let the bow be sincere.",
+    "crossReferences": [
+      {
+        "text": "Abhidhānacintāmaṇi 1.51 (Sarvānubhūti as 6th Arhat of the past era)",
+        "source": "Hemacandra, ed. cited in Cologne Digital Sanskrit Lexicon / Böhtlingk-Roth"
+      },
+      {
+        "text": "Atīta-caubīsī name-lists (Kevaljñānī, Nirvāṇī, Sāgara, Mahāyaśa, Vimala, Sarvānubhūti, Śrīdhara, Datta, Dāmodara …)",
+        "source": "Śvetāmbara cosmographic tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sarvānubhūti — definitions (Monier-Williams, Shabda-Sagara, Böhtlingk-Roth citing Hemacandra Abhidhānacintāmaṇi 51)",
+      "url": "https://www.wisdomlib.org/definition/sarvanubhuti",
+      "type": "dictionary",
+      "consultedFor": "Confirming Sarvānubhūti as the 6th Arhat of the past (atīta) era, anchoring the verse's name-set as the past caubīsī."
+    },
+    {
+      "title": "Khani / guṇa-khani — Sanskrit definition ('mine of virtues')",
+      "url": "https://www.wisdomlib.org/definition/khani",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of 'guṇakhāṇī' (khāṇi < khan, 'mine'; guṇa-khani 'mine of virtues')."
+    },
+    {
+      "title": "Prāṇin — Sanskrit definition ('living being')",
+      "url": "https://www.wisdomlib.org/definition/pranin",
+      "type": "dictionary",
+      "consultedFor": "Gloss/etymology of the vocative 'prāṇī' as 'one endowed with prāṇa, a living being'."
+    },
+    {
+      "title": "Monier-Williams & Cologne Digital Sanskrit Dictionaries (sarva-anubhūti, vand, datta, dāmodara)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Root verifications for vand (√vand, 'to bow/worship'), datta (√dā), and the lexical status of sarvānubhūti as a Jaina Arhat-name."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is a pure epithet/name litany, so commentary is kept tight per the verse's density. Names are read as the first nine of the atīta caubīsī (past twenty-four), corroborated by the dictionary entry placing Sarvānubhūti as the 6th past Arhat and by the following verse continuing the same set (Sutejasvāmī, Munisuvrata, Sumati…). Spellings are kept verbatim from the Anchalgaccha edition: 'નિરવાણી' (niravāṇī, with epenthetic vowel) for Skt. Nirvāṇī, and 'મહાજસ' (mahājasa) for Skt. Mahāyaśa. 'te jāṇī' is taken as demonstrative + absolutive ('recognising those'); a minority reading could take 'jāṇī' adjectivally ('those known [Jinas]'), but the imperative 'vando' favours the participial reading. Exact ordinal numbering of Datta/Dāmodara within the past list can vary slightly by manuscript; the sequence here follows the hymn's own order."
+}

@@ -1,0 +1,150 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/23",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow with all my heart to the teacher Dūṣyagaṇi, a treasure-house of meaning whose sweet teaching leads good monks to liberation.",
+  "recitation": "attha mahattha khāṇiṁ, susamaṇa vakkhāṇa kahaṇa nivvāṇiṁ; payaiya mahura-vāṇiṁ, payao paṇāmāmi dūsagaṇiṁ.",
+  "wordByWord": [
+    {
+      "token": "અત્થ",
+      "translit": "attha",
+      "gloss": "meaning, sense (of scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit attha < Sanskrit artha ('meaning, object, purpose'); first member of the compound attha-mahattha-khāṇiṁ.",
+      "notes": "Here 'meaning' (artha), NOT aṣṭa ('eight'); the pairing with mahattha confirms the sense-of-scripture reading."
+    },
+    {
+      "token": "મહત્થ",
+      "translit": "mahattha",
+      "gloss": "great meaning, the profound/deeper sense",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahattha < Sanskrit mahā-artha ('great meaning'); mahā ('great') + artha ('sense').",
+      "notes": "attha + mahattha together = the plain sense and the profound sense of the canon."
+    },
+    {
+      "token": "ખાણિં",
+      "translit": "khāṇiṁ",
+      "gloss": "a mine, source, treasure-house (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khāṇi < Sanskrit khani ('mine, quarry, abundant source'); accusative singular agreeing with dūsagaṇiṁ.",
+      "notes": "Stock epithet: the teacher is an inexhaustible 'mine' of scriptural meaning."
+    },
+    {
+      "token": "સુસમણ",
+      "translit": "susamaṇa",
+      "gloss": "good/true ascetics, worthy monks",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit su-samaṇa < Sanskrit su-śramaṇa; su ('good, true') + śramaṇa ('ascetic, monk').",
+      "notes": "First member of the long compound qualifying the teacher's exposition."
+    },
+    {
+      "token": "વક્ખાણ",
+      "translit": "vakkhāṇa",
+      "gloss": "exposition, explanation, commentary",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vakkhāṇa < Sanskrit vyākhyāna ('detailed explanation, exposition'); vi + ā + √khyā.",
+      "notes": ""
+    },
+    {
+      "token": "કહણ",
+      "translit": "kahaṇa",
+      "gloss": "telling, narration, discourse",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kahaṇa < Sanskrit kathana ('telling, narrating'); √kath ('to relate').",
+      "notes": "vakkhāṇa-kahaṇa = exposition-and-narration, the twin act of the teaching guru."
+    },
+    {
+      "token": "નિવ્વાણિં",
+      "translit": "nivvāṇiṁ",
+      "gloss": "leading to nirvāṇa / liberation (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit nivvāṇa < Sanskrit nirvāṇa ('extinction, final liberation'); nir + √vā. Closes the compound susamaṇa-vakkhāṇa-kahaṇa-nivvāṇiṁ.",
+      "notes": "Read as 'whose exposition-and-telling for good ascetics is liberation-giving'; a secondary nuance 'consummate, perfectly finished' (nirvāṇa as 'fully accomplished') is possible — flagged in notes."
+    },
+    {
+      "token": "પયઇય",
+      "translit": "payaiya",
+      "gloss": "natural, innate, unforced",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit payaiya < Sanskrit prākṛta / prakṛti ('natural, original, by nature'); √kṛ with pra.",
+      "notes": "Modifies mahura-vāṇiṁ: speech sweet by its very nature, not contrived."
+    },
+    {
+      "token": "મહુરવાણિં",
+      "translit": "mahura-vāṇiṁ",
+      "gloss": "of sweet speech / sweet voice (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahura < Sanskrit madhura ('sweet') + vāṇī < Sanskrit vāṇī ('speech, voice'); madhura-vāṇī.",
+      "notes": "payaiya-mahura-vāṇiṁ = 'of naturally sweet speech', a third epithet of the teacher."
+    },
+    {
+      "token": "પયઓ",
+      "translit": "payao",
+      "gloss": "devoutly, attentively, with earnest effort",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit payao < Sanskrit prayatas / prayata ('devout, intent, zealous, ritually pure'); pra + √yam.",
+      "notes": "Adverbial qualifier of paṇāmāmi: the bow is offered with concentrated devotion."
+    },
+    {
+      "token": "પણામામિ",
+      "translit": "paṇāmāmi",
+      "gloss": "I bow, I salute reverently",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paṇāmāmi < Sanskrit praṇamāmi ('I bow down'); pra + √nam ('to bend'), first person singular present.",
+      "notes": "A variant of the hymn's governing vande/vandāmi act of homage."
+    },
+    {
+      "token": "દુસગણિં",
+      "translit": "dūsagaṇiṁ",
+      "gloss": "Dūṣyagaṇi (the teacher's name, accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Dūsa-gaṇi < Sanskrit Dūṣya-gaṇin; the name Dūṣya + gaṇin ('leader of a gaṇa / monastic group'). Accusative, object of paṇāmāmi.",
+      "notes": "Dūṣyagaṇi is the immediate guru of Devavācaka (Devarddhigaṇi), the redactor-author of the Nandī Sūtra; thus the last individually named teacher of this lineage-roll."
+    }
+  ],
+  "literalTranslation": "A mine of meaning and great meaning; whose exposition-and-telling to good ascetics is liberation-giving; of naturally sweet speech — devoutly I bow to Dūṣyagaṇi.",
+  "idiomaticTranslation": "With heartfelt devotion I bow to Dūṣyagaṇi — an inexhaustible mine of the scripture's plain and profound meaning, whose discourse and exposition lead worthy monks to liberation, and whose speech is sweet by its very nature.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse names the final individual teacher of the roll, Dūṣyagaṇi (Dūsagaṇi) — and that placement is the whole point. He is the immediate guru of the redactor who composed this very hymn, so the lineage that began generations back with Sudharmā now arrives at the threshold of the author's own teacher; the bow lands, as it were, one step from the poet himself. The verse stacks three epithets before releasing the verb. First, attha-mahattha-khāṇiṁ: a 'mine' (khani) of meaning — both the surface artha and the great, deeper mahā-artha of the canon — picturing a teacher as an inexhaustible quarry of sense. Second, susamaṇa-vakkhāṇa-kahaṇa-nivvāṇiṁ: his twin teaching-acts, formal exposition (vakkhāṇa = vyākhyāna) and living discourse (kahaṇa = kathana), are 'liberation-giving' for worthy monks — teaching framed not as information but as a vehicle to nirvāṇa. Third, payaiya-mahura-vāṇiṁ: his speech is sweet 'by nature' (prakṛti), unforced — the mark of a guru whose kindness is constitutional, not performed. Only then comes payao paṇāmāmi: 'devoutly I bow', the adverb payao (prayatas) intensifying the standard vande into a concentrated, purified act of reverence. The compounding is deliberately tight, four qualities pressed into two short lines, so the homage feels dense with gratitude rather than ceremonial.",
+    "doctrinalContext": "The verse encodes the Jain ideal of the teaching-guru along three axes that map onto right knowledge and its transmission: mastery of meaning (the artha/mahā-artha pair points to both śabda and the deeper anuyoga sense), efficacy toward liberation (exposition that is nivvāṇa-giving, i.e. samyag-jñāna ripening into mokṣa-mārga), and the compassionate vāk-guṇa of sweet, accessible speech — a teacher's wholesome use of language consonant with ahiṁsā of word. Honouring Dūṣyagaṇi just before the author's own voice dramatizes the doctrine that the canon is guru-mukha — received mouth-to-mouth through an authorized vācaka-vaṁśa — so that bowing to the transmitter is inseparable from receiving the transmission.",
+    "practicalRelevance": "Reciting this, the practitioner turns gratitude toward his or her own immediate teacher, not only the distant founders: the chain reaches you through someone close. It also models what to revere in a guru — accuracy of meaning, teaching aimed at liberation rather than display, and naturally gentle speech — and quietly asks the reciter to cultivate the same sweet, truthful vāṇī in daily life.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī (succession-roll); v.27 half-line 'therāvalīyā sammattā' marking the lineage's close just after this teacher",
+        "source": "Nandī Sūtra (Mūla/Cūlikā-sūtra), Devarddhigaṇi Kṣamāśramaṇa (Valabhī) redaction"
+      },
+      {
+        "text": "Pakkhī pratikramaṇa study-portion, Nandī-sūtra Dvitīya Sajjhāy",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Khani — Prakrit/Sanskrit dictionary entry ('mine, source')",
+      "url": "https://www.wisdomlib.org/definition/khani",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of khāṇiṁ < khani ('mine, abundant source')."
+    },
+    {
+      "title": "Madhura — dictionary entry ('sweet')",
+      "url": "https://www.wisdomlib.org/definition/madhura",
+      "type": "dictionary",
+      "consultedFor": "Gloss of mahura < madhura ('sweet') in mahura-vāṇiṁ."
+    },
+    {
+      "title": "Prayata — Sanskrit dictionary entry ('devout, intent, zealous')",
+      "url": "https://www.wisdomlib.org/definition/prayata",
+      "type": "dictionary",
+      "consultedFor": "Adverbial gloss of payao < prayatas ('devoutly, attentively')."
+    },
+    {
+      "title": "Prakriti / Prākṛta — dictionary entry ('natural, innate')",
+      "url": "https://www.wisdomlib.org/definition/prakriti",
+      "type": "dictionary",
+      "consultedFor": "Gloss of payaiya < prākṛta/prakṛti ('natural, by nature')."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Name identification is firm: dūsagaṇiṁ = Dūṣyagaṇi (Dūsagaṇi), the guru of Devavācaka/Devarddhigaṇi and the last individually named teacher of this lineage-roll (cf. preface structureArc vv.12–23). Main interpretive variable is nivvāṇiṁ in the compound susamaṇa-vakkhāṇa-kahaṇa-nivvāṇiṁ: rendered here as 'liberation(nirvāṇa)-giving', the most natural Jain reading; a secondary nuance 'consummate / perfectly accomplished' (nirvāṇa as 'fully finished') is grammatically possible and would yield 'whose exposition for good monks is consummate'. The genitive/dative force of susamaṇa ('to/for good ascetics' vs. 'of good ascetics') is ambiguous; both leave the homage intact. attha here is artha ('meaning'), not aṣṭa ('eight') — a common misreading. Per the source book's fidelity rule, the recited Prakrit (દુસગણિં, મહુરવાણિં, etc.) is preserved verbatim and not normalized; only the per-token translit is IAST."
+}

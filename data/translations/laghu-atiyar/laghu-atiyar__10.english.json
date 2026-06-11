@@ -1,0 +1,282 @@
+{
+  "shlokaId": "laghu-atiyar/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the tenth vow, in which a householder each day shrinks the wider area he is normally allowed to move in, and then asks pardon for the five small ways he may have reached across that day's narrower boundary.",
+  "recitation": "daśamuṁ deśāvagāsika-vrata. disivaya gahiyassa, disā parimāṇassa, païdiṇaṁ parimāṇa karaṇaṁ. e daśamā deśāvagāsika-vrata-taṇā pāṁca atiyāra śodhuṁ. āṇavaṇa-ppaoge, pesavaṇa-ppaoge, saddāṇuvāi, ruvāṇuvāi, bahiyā puggala pakkheve. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૧૦.",
+      "translit": "10.",
+      "gloss": "verse ten (the tenth of the twelve vows)",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati numeral daśa (Skt. daśan, 'ten')",
+      "notes": "Marks the tenth vow, the first of the four śikṣāvrata to follow sāmāyika (vow 9)."
+    },
+    {
+      "token": "દશમું",
+      "translit": "daśamuṁ",
+      "gloss": "the tenth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from Skt. daśama ('tenth')",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાસિકવ્રત",
+      "translit": "deśāvagāsika-vrata",
+      "gloss": "the deśāvagāsika vow — the vow of daily 'local contraction' of one's permitted area (vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. deśa ('place, region') + avakāśa ('scope, room, leeway') + -ika; literally 'pertaining to a [reduced] regional scope'",
+      "notes": "The name itself encodes the practice: narrowing the lifelong limits down to a small daily 'place-scope'."
+    },
+    {
+      "token": "દિસિવય",
+      "translit": "disivaya",
+      "gloss": "of the direction-vow (the sixth vow, diś-vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit disi (Skt. diś, 'direction') + vaya (Skt. vrata, 'vow')",
+      "notes": "Refers back to vow 6, which fixes lifelong outer limits in the ten directions; vow 10 presupposes it."
+    },
+    {
+      "token": "ગહિયસ્સ",
+      "translit": "gahiyassa",
+      "gloss": "of [that which has been] taken on / already accepted",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit gahiya (Skt. gṛhīta, 'grasped, taken'), past participle of grah; genitive -ssa",
+      "notes": "Grammatically pairs with disivaya: 'of the direction-vow already undertaken.'"
+    },
+    {
+      "token": "દિસા",
+      "translit": "disā",
+      "gloss": "of the directions / of the spatial bounds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit disā (Skt. diśā, 'direction, quarter')",
+      "notes": ""
+    },
+    {
+      "token": "પરિમાણસ્સ",
+      "translit": "parimāṇassa",
+      "gloss": "of the limit / fixed measure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. parimāṇa ('measure, limit', from pari + √mā); genitive -ssa",
+      "notes": "'Of the directional limit' — the boundary already set under the sixth vow."
+    },
+    {
+      "token": "પઇદિણં",
+      "translit": "païdiṇaṁ",
+      "gloss": "each day / day by day",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit from Skt. prati-dinam ('every day')",
+      "notes": "The defining word of this vow: the contraction is renewed daily, not once for life."
+    },
+    {
+      "token": "પરિમાણ",
+      "translit": "parimāṇa",
+      "gloss": "a [further] limit / measure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. parimāṇa ('measure, limit')",
+      "notes": ""
+    },
+    {
+      "token": "કરણં",
+      "translit": "karaṇaṁ",
+      "gloss": "the making / the act of fixing",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. karaṇa ('doing, making', from √kṛ)",
+      "notes": "The whole clause: 'the daily making of a [tighter] limit upon the already-taken directional limit.'"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these / this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative",
+      "notes": "Opens the fixed liturgical formula 'these five transgressions I scrutinise.'"
+    },
+    {
+      "token": "દશમા",
+      "translit": "daśamā",
+      "gloss": "of the tenth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from Skt. daśama",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાસિકવ્રતતણા",
+      "translit": "deśāvagāsika-vrata-taṇā",
+      "gloss": "belonging to the deśāvagāsika vow",
+      "partOfSpeech": "compound",
+      "etymology": "deśāvagāsika-vrata + Gujarati genitive suffix -taṇā ('of, belonging to')",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati pāṁca (Skt. pañca, 'five')",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "book's spelling of Skt. atichāra (ati + √car, 'overstepping')",
+      "notes": "Pre-glossed in the preface; the book consistently spells it atiyāra."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / examine and cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ, from Skt. √śudh / śodhayati ('to purify, examine')",
+      "notes": "Double sense of 'search out' and 'purify' — the act of self-examination is itself purifying."
+    },
+    {
+      "token": "આણવણપ્પઓગે",
+      "translit": "āṇavaṇa-ppaoge",
+      "gloss": "in 'sending for' — having something fetched in from beyond one's day-limit (ānayana-prayoga)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit āṇavaṇa (Skt. ānayana, 'bringing/fetching', ā + √nī) + ppaoga (Skt. prayoga, 'employing, applying'); locative -e",
+      "notes": "First atichāra: you keep your body inside the line but reach across it by ordering an item brought in."
+    },
+    {
+      "token": "પેસવણ",
+      "translit": "pesavaṇa",
+      "gloss": "sending out / dispatching (a person)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pesavaṇa (Skt. preṣaṇa / preṣya, 'sending', pra + √iṣ)",
+      "notes": ""
+    },
+    {
+      "token": "પ્પઓગે",
+      "translit": "ppaoge",
+      "gloss": "in employing / applying (prayoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. prayoga; locative -e",
+      "notes": "Second atichāra (preṣya-prayoga): dispatching someone beyond the boundary to act on your behalf."
+    },
+    {
+      "token": "સદ્દાણુવાઇ",
+      "translit": "saddāṇuvāi",
+      "gloss": "making a sound to draw someone across — coughing, calling, signalling by noise (śabdānupāta)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sadda (Skt. śabda, 'sound') + āṇuvāi (Skt. anupāta, 'letting fall, directing toward')",
+      "notes": "Third atichāra: not crossing yourself, but using sound so that another crosses to you."
+    },
+    {
+      "token": "રુવાણુવાઇ",
+      "translit": "ruvāṇuvāi",
+      "gloss": "making oneself visible to summon someone across — showing one's form/figure (rūpānupāta)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ruva (Skt. rūpa, 'form, appearance') + āṇuvāi (anupāta)",
+      "notes": "Fourth atichāra: the silent counterpart of the third — gesturing or showing yourself to draw another over the line."
+    },
+    {
+      "token": "બહિયા",
+      "translit": "bahiyā",
+      "gloss": "outside / beyond [the limit]",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit bahiyā (Skt. bahis, 'outside')",
+      "notes": ""
+    },
+    {
+      "token": "પુગ્ગલ",
+      "translit": "puggala",
+      "gloss": "matter / a material object (pudgala)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit puggala (Skt. pudgala, 'matter, physical substance')",
+      "notes": ""
+    },
+    {
+      "token": "પક્ખેવે",
+      "translit": "pakkheve",
+      "gloss": "in throwing/casting [it] — flinging an object beyond the line to reach across (bahis-pudgala-prakṣepa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pakkheva (Skt. prakṣepa, 'throwing, casting', pra + √kṣip); locative -e",
+      "notes": "Fifth atichāra: tossing a thing (e.g. a stone or token) outside to draw a response, evading the boundary by proxy."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative",
+      "notes": "Repetition that closes the formula (the template's step 'e … pāṁca atiyāra māṁhe')."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati pāṁca (Skt. pañca)",
+      "notes": "Repetition (closing tally)."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "book's spelling of atichāra",
+      "notes": "Repetition (closing tally)."
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within [these, whatever I have committed — micchā mi dukkaḍaṁ]",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati māṁhe ('within, amid'), from Skt. madhye",
+      "notes": "Elliptical close: 'among these five, whatever lapse occurred — may it be void.' It cues the confession-refrain shared across every vow."
+    }
+  ],
+  "literalTranslation": "Tenth, the deśāvagāsika vow. Of the directional limit already taken (under the sixth vow), the daily making of a [tighter] measure. I scrutinise the five transgressions of this tenth deśāvagāsika vow: sending for [things from outside], dispatching [a person outside], summoning by sound, summoning by showing one's form, throwing matter beyond [the limit] — among these five [transgressions, whatever I have done, may it be undone].",
+  "idiomaticTranslation": "The tenth is the vow of daily contraction. Upon the lifelong directional bounds I already accepted, I now set a tighter limit for this single day — and I examine the five ways I may have slipped: by sending for something from beyond my line, by dispatching another past it, by calling out so someone crosses to me, by showing myself to beckon them over, or by flinging an object across. Of these five, whatever I transgressed — may my wrongdoing be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse turns on a single insight stated in its opening clause — 'disivaya gahiyassa … païdiṇaṁ parimāṇa karaṇaṁ': the deśāvagāsika is not a fresh, independent restraint but a *daily re-tightening* of limits already accepted, above all the lifelong directional bounds of the sixth vow (diś-vrata). Where vow 6 draws a wide outer perimeter once and for all, vow 10 redraws a much smaller perimeter every single day. The word païdiṇaṁ ('day by day') is therefore the heart of the verse, and it is what makes this a śikṣāvrata — a rehearsal-discipline that trains the householder, dawn by dawn, toward the total spatial confinement of an ascetic.\n\nThe genius of the five atichāras listed here is that none of them involves the reciter physically stepping over the line. Having shrunk his world to, say, a single room or street for the day, he is tempted to keep the *letter* of the vow while breaching its *spirit*: he stays put but reaches outward. He has an object fetched in (āṇavaṇa-ppaoge); he sends a servant out (pesavaṇa-ppaoge); he coughs or calls so someone comes to him (saddāṇuvāi); he makes himself visible to beckon another over (ruvāṇuvāi); or he throws a pebble or token across to signal (bahiyā puggala pakkheve). Each is a loophole — the boundary technically unbroken, yet the intention that the boundary was meant to curb has leaked straight through it. The verse thus catalogues five species of self-deception, and the close 'e pāṁca atiyāra māṁhe' gathers them under the day/night confession the whole sutra repeats.",
+    "doctrinalContext": "The verse encodes the Jain principle that a vow is measured by *intention (bhāva)*, not merely by outward act. The five atichāras here are the canonical set of Tattvārtha-sūtra 7.31 — ānayana-prayoga, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-prakṣepa — and each is a 'transgression' precisely because it preserves bodily compliance while violating the vow's purpose. Doctrinally this illustrates atichāra as a *partial* lapse (a stain, not a rupture): the householder has not abandoned the deśāvagāsika, so it is not bhaṅga (breaking); he has merely thinned it, which is why confession suffices to mend it. The verse also displays the layered architecture of śrāvaka conduct — vow 10 standing *upon* vow 6 — showing how the guṇavratas furnish the standing limits that the śikṣāvratas then contract for practice.",
+    "practicalRelevance": "A modern reciter can read this as a caution against 'remote-control' living: I keep my pledge to stay in, yet I have things delivered, send others on errands I vowed to suspend, and summon people by phone or signal to cross the line for me. The verse asks whether my self-imposed limits are real restraint or mere technicalities outsourced to others — a pointed examination in an age of instant fetching and messaging.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.31 — the five atichāras of deśāvakāśika (ānayana-prayoga, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-kṣepa)",
+        "source": "Umāsvāti, Tattvārtha-sūtra ch. 7 (Sarvārthasiddhi / standard commentaries)"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — the householder's śikṣāvrata and their transgressions",
+        "source": "Upāsakadaśāḥ (Aṅga 7), Jain canon"
+      },
+      {
+        "text": "Diś-vrata (vow 6) as the lifelong directional limit presupposed here",
+        "source": "laghu-atiyar/6, this sutra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha-sūtra of Umāsvāti, chapter 7 (vows and their atichāras)",
+      "url": "https://www.jainworld.com/scriptures/tattvartha-sutra/",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical five atichāras of the deśāvakāśika vow (sūtra 7.31) and their Sanskrit technical names."
+    },
+    {
+      "title": "Jain eLibrary — śrāvaka vrata and atichāra commentaries",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the meaning of ānayana-prayoga, preṣya-prayoga, śabdānupāta, rūpānupāta and pudgala-prakṣepa against the lay-vow literature."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Root-glosses for prayoga, anupāta, prakṣepa, parimāṇa, avakāśa and karaṇa underlying the Prakrit forms."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and the book's orthography (atiyāra spelling, païdiṇaṁ, the disivaya–gahiyassa opening clause)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The five atichāras match Tattvārtha-sūtra 7.31 exactly; their Prakrit spellings here (āṇavaṇa-ppaoge, pesavaṇa-ppaoge, saddāṇuvāi, ruvāṇuvāi, pakkheve) are the book's verbatim forms and are preserved, not normalised. 'Pesavaṇa-ppaoge' is read as preṣya/preṣaṇa-prayoga ('dispatching a person'), distinct from ānayana-prayoga ('fetching a thing'); some recensions invert the emphasis but the canonical pairing (bringing-in vs sending-out) is standard. Two web summaries consulted conflated this vow's atichāras with a different transgression-set (atyuddharaṇa etc.); those were rejected in favour of the Tattvārtha 7.31 list, which alone matches the verse's wording. The trailing 'māṁhe' is elliptical, cueing the unstated micchā mi dukkaḍaṁ refrain shared across the sutra. The repeated tokens (e, pāṁca, atiyāra) are glossed as part of the fixed closing tally rather than new content."
+}

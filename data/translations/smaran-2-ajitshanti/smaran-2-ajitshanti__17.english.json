@@ -1,0 +1,264 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/17",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Even at their very best, the autumn moon, the autumn sun, Indra, and the king of mountains each fall short of the Jina in the one quality they are most famous for.",
+  "recitation": "soma-guṇehiṁ pāvaï na taṁ, nava saraya sasī, teya-guṇehiṁ pāvaï na taṁ, nava saraya ravī. ruva-guṇehiṁ pāvaï na taṁ tiasa-gaṇa-vaï, sāra-guṇehiṁ pāvaï na taṁ, dharaṇidhara-vaï.",
+  "wordByWord": [
+    {
+      "token": "સોમગુણેહિં",
+      "translit": "soma-guṇehiṁ",
+      "gloss": "by/in qualities of gentle coolness (moon-like calm)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit instrumental plural of soma-guṇa < Skt. saumya 'gentle, cool, moonlike' + guṇa 'quality'; -ehiṁ is the Prakrit instr. pl. ending.",
+      "notes": "Instrumental of respect: 'with regard to qualities of coolness/serenity.'"
+    },
+    {
+      "token": "પાવઇ",
+      "translit": "pāvaï",
+      "gloss": "reaches, attains, equals",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit 3rd sg. present of pāva- < Skt. √āp / prāp 'to attain, reach'.",
+      "notes": "With the following na, 'does not reach/equal.'"
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit negative particle na.",
+      "notes": ""
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him (the Jina)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit accusative sg. of ta- < Skt. tad 'that/he'.",
+      "notes": "Object of pāvaï; refers to the Jina praised in the preceding verse (Ajita)."
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "new, freshly risen",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Prakrit nava 'new, fresh'.",
+      "notes": "Qualifies the moon at its freshest, hence most flawless, brilliance."
+    },
+    {
+      "token": "સરય",
+      "translit": "saraya",
+      "gloss": "of autumn (śarad)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saraya < Skt. śarad 'autumn'; used adjectivally, 'autumnal'.",
+      "notes": "The autumn moon is proverbially clearest and most beautiful."
+    },
+    {
+      "token": "સસી",
+      "translit": "sasī",
+      "gloss": "the moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sasī < Skt. śaśin 'hare-marked one, moon'.",
+      "notes": "Subject of the first quarter: nava-saraya-sasī, 'the fresh autumn moon.'"
+    },
+    {
+      "token": "તેયગુણેહિં",
+      "translit": "teya-guṇehiṁ",
+      "gloss": "by/in qualities of radiance (heat, brilliance)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit instr. pl. of teya-guṇa < Skt. tejas 'fiery splendour' + guṇa.",
+      "notes": "Pairs the sun's defining excellence against the Jina."
+    },
+    {
+      "token": "પાવઇ",
+      "translit": "pāvaï",
+      "gloss": "reaches, equals",
+      "partOfSpeech": "verb",
+      "etymology": "See above (√prāp).",
+      "notes": "Refrain verb, second occurrence."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Negative particle na.",
+      "notes": ""
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him (the Jina)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Acc. sg. ta- < Skt. tad.",
+      "notes": ""
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "new, freshly risen",
+      "partOfSpeech": "adj",
+      "etymology": "nava 'new'.",
+      "notes": "Now qualifying the sun."
+    },
+    {
+      "token": "સરય",
+      "translit": "saraya",
+      "gloss": "of autumn",
+      "partOfSpeech": "noun",
+      "etymology": "saraya < Skt. śarad.",
+      "notes": "The autumn sun, mild yet bright, at its finest."
+    },
+    {
+      "token": "રવી",
+      "translit": "ravī",
+      "gloss": "the sun",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ravī < Skt. ravi 'sun'.",
+      "notes": "Subject of the second quarter: nava-saraya-ravī."
+    },
+    {
+      "token": "રુવગુણેહિં",
+      "translit": "ruva-guṇehiṁ",
+      "gloss": "by/in qualities of beauty (form)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit instr. pl. of ruva-guṇa < Skt. rūpa 'form, beauty' + guṇa.",
+      "notes": "Beauty is Indra's hallmark, set up to be surpassed."
+    },
+    {
+      "token": "પાવઇ",
+      "translit": "pāvaï",
+      "gloss": "reaches, equals",
+      "partOfSpeech": "verb",
+      "etymology": "√prāp.",
+      "notes": "Third occurrence of the refrain."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "na.",
+      "notes": ""
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him (the Jina)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Acc. sg. ta-.",
+      "notes": ""
+    },
+    {
+      "token": "તિઅસ",
+      "translit": "tiasa",
+      "gloss": "of the gods (the 'thrice-ten')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiasa < Skt. tridaśa 'the thirty (gods)', i.e. the deities.",
+      "notes": "First member of the compound tiasa-gaṇa-vaï."
+    },
+    {
+      "token": "ગણ",
+      "translit": "gaṇa",
+      "gloss": "host, multitude",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit gaṇa 'troop, assembly'.",
+      "notes": "Middle member: 'host of gods.'"
+    },
+    {
+      "token": "વઇ",
+      "translit": "vaï",
+      "gloss": "lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaï < Skt. pati 'lord, master'.",
+      "notes": "tiasa-gaṇa-vaï = 'lord of the host of gods' = Indra."
+    },
+    {
+      "token": "સારગુણેહિં",
+      "translit": "sāra-guṇehiṁ",
+      "gloss": "by/in qualities of solid essence (firmness)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit instr. pl. of sāra-guṇa < Skt. sāra 'essence, strength, solidity' + guṇa.",
+      "notes": "Steadfast solidity is the mountain's defining virtue."
+    },
+    {
+      "token": "પાવઇ",
+      "translit": "pāvaï",
+      "gloss": "reaches, equals",
+      "partOfSpeech": "verb",
+      "etymology": "√prāp.",
+      "notes": "Fourth and final occurrence of the refrain."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "na.",
+      "notes": ""
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him (the Jina)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Acc. sg. ta-.",
+      "notes": ""
+    },
+    {
+      "token": "ધરણિધર",
+      "translit": "dharaṇidhara",
+      "gloss": "earth-bearer, mountain",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dharaṇī 'earth' + dhara 'bearer' = 'mountain' (one that holds the earth steady).",
+      "notes": "First member of dharaṇidhara-vaï."
+    },
+    {
+      "token": "વઇ",
+      "translit": "vaï",
+      "gloss": "lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaï < Skt. pati.",
+      "notes": "dharaṇidhara-vaï = 'lord of mountains' (Meru / the mountain-king)."
+    }
+  ],
+  "literalTranslation": "By qualities of coolness, the fresh autumn moon does not reach Him; by qualities of radiance, the fresh autumn sun does not reach Him; by qualities of beauty, the lord of the host of gods does not reach Him; by qualities of solid essence, the lord of mountains does not reach Him.",
+  "idiomaticTranslation": "In serene coolness the freshly risen autumn moon cannot match Him; in blazing radiance the autumn sun cannot match Him; in sheer beauty even Indra, lord of the gods, cannot match Him; in unshakable solidity even the king of mountains cannot match Him.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the immediately preceding stanza declared the intent to praise the 'unconquered' Jina (esa ahaṁ thuṇāmi jiṇaṁ ajiaṁ), this verse delivers the proof in a single, rigorously symmetrical quatrain. Each of the four quarters is built on the identical frame —— X-guṇehiṁ pāvaï na taṁ —— 'in respect of X's qualities, [it] does not reach Him.' The instrumental ending -ehiṁ is the rhetorical hinge: the rival is defeated not on some foreign ground but precisely in the excellence it is named for. The moon is challenged in coolness, the sun in radiance, Indra in beauty, the mountain in solidity —— each loses its home contest. The doubled epithet nava saraya ('new, autumnal') sharpens the point: the poet does not compare the Jina to a hazy or waning luminary but to the autumn moon and sun at their flawless, freshly risen peak, when no clearer light exists in the sky —— and even then they fall short. The two divine-and-cosmic comparanda, tiasa-gaṇa-vaï (Indra, sovereign of the gods) and dharaṇidhara-vaï (lord of mountains, Meru), are each rendered by the same -vaï ('lord') tag, so that the whole verse chimes on parallel sovereigns of beauty and strength. The fourfold anaphora is also aural: pāvaï na taṁ tolls four times like a refrain, making the stanza as much a chant as an argument. The cumulative force is total —— sky, heavens, and earth are canvassed, and nothing in any realm equals Him.",
+    "doctrinalContext": "The verse encodes the Jain conviction that a Tīrthaṅkara's perfections are not differences of degree from worldly or celestial excellence but of kind. Moon, sun, Indra, and Meru represent the summits of saumya (gentleness), tejas (radiance), rūpa (beauty), and sāra (steadfast strength) available in saṁsāra; yet the Jina's corresponding guṇas spring from a soul purified of karma, so no saṁsāric paragon —— however luminous or mighty —— can reach (pāvaï na) Him. The negation is doctrinally exact: the gods themselves, bound by the realm of rebirth, rank below the liberated teacher, a recurring Jain inversion of the popular celestial hierarchy.",
+    "practicalRelevance": "For the reciter, the verse retrains aspiration: it relocates the highest beauty, brilliance, calm, and strength away from celestial or worldly icons and onto the Jina's purified virtues. Chanting its fourfold 'cannot reach Him,' one is invited to measure one's own restless craving for radiance or power against a standard that even the moon, sun, and Indra cannot meet —— and so to seek those qualities inwardly, through conduct, rather than outwardly.",
+    "crossReferences": [
+      {
+        "text": "The 'four surpassings' (moon/sun/Indra/mountain) developed across vv.13–18 of this same hymn",
+        "source": "Ajitaśānti Stava, Nandiṣeṇasūri (as framed in the sutra preface)"
+      },
+      {
+        "text": "Logassa: praise of the Tīrthaṅkaras as 'candesu nimmalayarā, āiccesu ahiyaṁ payāsayarā' (clearer than the moons, more illuminating than the suns)",
+        "source": "Logassa Sūtra (Caturviṁśati-stava), Pañca Pratikramaṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ajitanatha — Wikipedia (etymology 'invincible'; Ajitaśānti Stotra as foundational devotional text)",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Confirmation of Ajitanātha as the 2nd Tīrthaṅkara and the standing of the Ajitaśānti Stotra; corroborating the verse's subject."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Skt. roots underlying the Prakrit tokens: saumya, tejas, rūpa, sāra, śaśin, ravi, tridaśa, gaṇa, pati, dharaṇī-dhara, √prāp."
+    },
+    {
+      "title": "JainQQ digital library (Jain stotra anthologies / Ajitaśānti Stava recensions)",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Attribution to Nandiṣeṇasūri and the comparative (moon/sun/Indra/mountain) structure of the hymn's praise."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Token segmentation treats તિઅસ ગણ વઇ (tiasa-gaṇa-vaï) and ધરણિધર વઇ (dharaṇidhara-vaï) as compounds printed with internal spaces in the book; they are glossed as units ('lord of the host of gods' = Indra; 'lord of mountains' = Meru). 'taṁ' is taken as the Jina praised in the preceding stanza (Ajita); some recensions vary the comparanda order and spelling (e.g. sasi/sasaṅka, ravi/dinayara) — the book's reading is followed verbatim. The instrumental -ehiṁ is read as 'in respect of / by means of [their] qualities,' i.e. the rival fails in its own defining excellence; this is interpretive but standard. Online search results for this verse were largely unreliable/AI-generated and were not relied upon for the gloss; the meaning rests on the Prakrit morphology and the dictionary-verified roots."
+}

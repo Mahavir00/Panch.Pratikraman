@@ -1,0 +1,110 @@
+{
+  "shlokaId": "pakkhi-khamana/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We ask the forgiveness of the present head of our order, who is the glory of the Anchalgaccha.",
+  "recitation": "vartamāna gacchādhipati-śrīne khamāvīe re, acalagaccha śaṇagāra",
+  "wordByWord": [
+    {
+      "token": "*",
+      "translit": "(asterisk)",
+      "gloss": "editorial marker: this line is occasion-specific, sung with the reigning head's own name inserted",
+      "partOfSpeech": "particle",
+      "etymology": "Printer's mark in the book, paired with the asterisk on the following verse (chaumāsī guru).",
+      "notes": "Not chanted; it signals that 'vartamāna gacchādhipati' is to be replaced by the living incumbent's name."
+    },
+    {
+      "token": "વર્તમાન",
+      "translit": "vartamāna",
+      "gloss": "present, current, now-living",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit present participle of √vṛt 'to turn, to be, to exist' → vartamāna 'existing now'.",
+      "notes": "The key word of the verse: it shifts the khamāṇā from the past founders (v5) to the teacher alive today."
+    },
+    {
+      "token": "ગચ્છાધિપતિશ્રીને",
+      "translit": "gacchādhipati-śrī-ne",
+      "gloss": "to the revered head of the gaccha",
+      "partOfSpeech": "compound",
+      "etymology": "gaccha (monastic lineage) + adhipati (lord, master, from adhi + √pā 'to protect/rule') + honorific śrī + Gujarati dative postposition -ne.",
+      "notes": "gacchādhipati is a preface-glossary term; here it carries the dative -ne ('to') and the honorific śrī, marking the recipient of forgiveness."
+    },
+    {
+      "token": "ખમાવીએ",
+      "translit": "khamāvīe",
+      "gloss": "let us beg forgiveness of / appease",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati causative-hortative khamāvavũ 'to make peace with, to ask pardon of', from Prakrit khama- < Sanskrit √kṣam 'to forbear, forgive'.",
+      "notes": "First-person plural hortative ('we ask forgiveness'); the causative stem means specifically to seek another's pardon, not merely to forgive."
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! (a devotional vocative/song particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Common Indic vocative interjection re, pervasive in vernacular bhakti-geet.",
+      "notes": "Metrical refrain-marker carrying the song's calling tone; untranslatable beyond the exclamatory 'O'."
+    },
+    {
+      "token": "અચલગચ્છ",
+      "translit": "acalagaccha",
+      "gloss": "the Anchalgaccha (the 'Achala' lineage)",
+      "partOfSpeech": "noun",
+      "etymology": "acala 'immovable, steadfast' (a 'not' + √cal 'to move') + gaccha 'lineage'; a by-name of the Vidhipaksha-gaccha.",
+      "notes": "Functions here as the first member of the epithet 'ornament of the Anchalgaccha'; the spelling acala- varies in the book with añcala-/vidhipakṣa."
+    },
+    {
+      "token": "શણગાર",
+      "translit": "śaṇagāra",
+      "gloss": "ornament, adornment, glory",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati śaṇagāra < Sanskrit śṛṅgāra 'adornment, beauty'.",
+      "notes": "A preface-glossary motif-word; predicated of the gacchādhipati ('[who is] the ornament of the Anchalgaccha')."
+    }
+  ],
+  "literalTranslation": "The present head-of-the-gaccha, revered sir, let us ask forgiveness of — O! — [he who is] the ornament of the Anchalgaccha.",
+  "idiomaticTranslation": "Let us beg the forgiveness, too, of the head of our order living today — O fortunate soul — for he is the very ornament of the Anchalgaccha.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having bowed in v5 to the two great teachers of the past — Āryarakṣitasūri and Kalyāṇasāgarasūri — the song now does something pointedly different: it turns to whoever holds the seat today. The hinge is the single word vartamāna, 'present/now-living'. Forgiveness is owed not only to the venerated dead, whose offence one can no longer give or take, but to the teacher under whose authority the reciter actually stands — the one most likely to have been, in daily life, both wronged and a source of correction. The asterisk in the book makes this concrete: the line is sung with the incumbent gacchādhipati's own name spoken aloud, so the abstract office becomes a living person on each occasion of recitation. The closing epithet acalagaccha śaṇagāra ('ornament of the Anchalgaccha') reuses the song's adornment-motif, but now to dignify the present holder of the lineage exactly as the founders were dignified — quietly asserting that the line is unbroken and that today's head shares the founders' glory. Thus khamāvīe ('let us appease') completes the descent from Jinas, through ranks of teachers and the four-fold Sangha, down to the one immediate human authority each reciter answers to here and now.",
+    "doctrinalContext": "The verse embodies kṣamāpanā as a living, not merely commemorative, act: pratikramaṇa is incomplete until resentment is released with the people one is actually entangled with — above all one's own ācārya-in-charge. By naming the office (gacchādhipati) rather than a fixed person, the verse keeps the obligation perpetual: every generation's reciter must seek the pardon of its own head. The śaṇagāra epithet ties forgiveness to lineage-reverence (vinaya toward the guru), making humility before present authority a doctrinal sibling of reverence for the Parameṣṭhins praised earlier.",
+    "practicalRelevance": "When chanting this line, the reciter inserts the name of the current Anchalgaccha gacchādhipati and genuinely intends pardon from that living teacher — extending fortnightly forgiveness beyond the historic founders to the authority one is answerable to today, and renewing one's vinaya (respectful submission) toward present spiritual leadership.",
+    "crossReferences": [
+      {
+        "text": "Pakkhī Khāmaṇā v5 (Āryarakṣitasūri & Kalyāṇasāgarasūri 'śaṇagāra')",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Muni Vandanā / Anchalgachchha paṭṭāvalī (lineage-devotion)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit, Devasi pratikramaṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anchalgaccha (Vidhipaksha) — overview of the gaccha and its gacchādhipati succession",
+      "url": "https://en.wikipedia.org/wiki/Anchalgaccha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Anchalgaccha/Vidhipaksha lineage and the role of the reigning gacchādhipati"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots √kṣam (forbearance/forgiveness) behind khamāvīe and śṛṅgāra > śaṇagāra ('ornament'); vṛt for vartamāna"
+    },
+    {
+      "title": "JainGPT — 'Are gacchādhipati greater or ācārya?'",
+      "url": "https://jainknowledge.com/question/144/are-gacchadhipati-greater-or-acharya",
+      "type": "commentary",
+      "consultedFor": "Definition of gacchādhipati as the supreme head of a gaccha versus an ordinary ācārya"
+    },
+    {
+      "title": "Natubhai Shah, Jainism: The World of Conquerors",
+      "url": "https://www.worldcat.org/oclc/39362830",
+      "type": "scholarship",
+      "consultedFor": "History of the Anchalgachchha Vidhipaksha gaccha and its founder-acharyas"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Single-hemistich verse in classical Gujarati (not Prakrit). The leading '*' is the book's marker that the line is occasion-specific and sung with the living incumbent's name; preserved verbatim, not chanted. Spelling 'acalagaccha' (અચલગચ્છ) is the book's variant of añcala-/vidhipakṣa-gaccha and is kept unnormalized. The verse as printed omits the recurring refrain 'khamo bhavi… re' that the preface notes for the song; only the given text is glossed. The name of the present gacchādhipati is intentionally not supplied, as it changes with the incumbent and is not attested in the verbatim text."
+}

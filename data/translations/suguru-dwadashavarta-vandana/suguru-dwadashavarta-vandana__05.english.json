@@ -1,0 +1,82 @@
+{
+  "shlokaId": "suguru-dwadashavarta-vandana/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And is your body keeping well — are you able to carry on without strain or affliction?",
+  "recitation": "Javaṇijjaṁ ca bhe?",
+  "wordByWord": [
+    {
+      "token": "જવણિજ્જં",
+      "translit": "javaṇijjaṁ",
+      "gloss": "your sustainable maintenance (of body and senses) — i.e. is your physical frame holding up, bearing affliction-free?",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit yāpanīya, a gerundive of the causative yā-pay ('to cause to keep going, to sustain, to make last'); hence 'that which is to be sustained / the keeping-going (of the body)'. The source prints it syllabified as જ-વ-ણિ, જ્જં to mark where the āvarta hand-turnings fall.",
+      "notes": "Same root as jāvaṇijjāe ('to the limit of my sustaining capacity') in the opening unit of this sūtra; here it denotes the guru's bodily faculties being kept functional without harm."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Sanskrit ca, the connective enclitic.",
+      "notes": "Binds this question to the preceding 'jattā bhe?'; the two inquiries form one continuous courtesy, not two separate topics."
+    },
+    {
+      "token": "ભે",
+      "translit": "bhe",
+      "gloss": "of you / to you (honorific)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit enclitic bhe < Sanskrit vaḥ/te (genitive–dative of the 2nd person), used as a respectful 'your'.",
+      "notes": "An enclitic of deference addressed to the guru; the implied verb 'is' is unexpressed, as is normal in these clipped inquiry-formulas."
+    }
+  ],
+  "literalTranslation": "And your sustaining (of body and senses) — [is it well]?",
+  "idiomaticTranslation": "And is your body sustaining itself — are your senses and health holding up, free of affliction?",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding unit ('jattā bhe?') inquired after the guru's spiritual journey — the unbroken progress of restraint and ascetic endeavour — this unit pivots from that inner journey to its outer vehicle: the body. 'Javaṇijjaṁ ca bhe?' asks whether the physical frame and the senses are being kept going (yāpana) without affliction. The single word javaṇijjaṁ carries an āvarta turning of the joined hands, which is why the source breaks it into beats (જ-વ-ણિ, જ્જં): speech and gesture coincide on this very syllable-cluster. The connective ca is doing real work — it deliberately couples the bodily question to the spiritual one just asked, so that the disciple inquires after teacher's whole well-being in one breath: 'Is your practice going well, and is your body sustaining it?' The vocabulary is precise and unsentimental. The disciple does not wish the guru comfort or pleasure; he asks only after yāpanīya — bare sustainability, the body merely 'kept going' as the instrument of sādhanā. After this courtesy is complete, the dialogue turns (next unit) from inquiry to apology: 'khāmemi khamāsamaṇo!' — begging forgiveness for the day's transgression.",
+    "doctrinalContext": "The word yāpanīya encodes the Jain attitude to the body as instrument: neither indulged nor mortified to ruin, but sustained on the middle path so that ascetic discipline can continue. To ask after a guru's yāpanīya is therefore not idle health-talk but a doctrinally exact courtesy — concern for the upakaraṇa (instrument) of liberation, not for sensual comfort. The inquiry itself is an exercise of vinaya (reverential humility), which is the very root-virtue the Vandanaka āvaśyaka cultivates; solicitous attention to the teacher's sustenance is a form of seva that purifies the inquirer.",
+    "practicalRelevance": "Reciting this, a practitioner trains genuine, non-flattering care for the teacher's bodily welfare — and, by extension, for the fragile bodies of all who carry a spiritual burden. It is a reminder that even revered ascetics inhabit bodies that must be 'kept going', and that attending to another's plain sustenance is itself a devotional act.",
+    "crossReferences": [
+      {
+        "text": "Vandanaka of the Āvaśyaka-sūtra (the well-being inquiry sequence: jattā bhe / javaṇijjaṁ ca bhe)",
+        "source": "Śvetāmbara Āvaśyaka corpus with Niryukti/Bhāṣya"
+      },
+      {
+        "text": "Preceding unit of this same sūtra — 'jattā bhe?' (yātrā, spiritual endeavour) — to which this verse is joined by 'ca'",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "s.v. javaṇijja / yāpanīya (sustaining capacity)",
+        "source": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit dictionary)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "Placement of Vandana among the six āvaśyakas and the five pratikramaṇas — context for the guru-salutation inquiry"
+    },
+    {
+      "title": "Sāmāyika",
+      "url": "https://en.wikipedia.org/wiki/Samayika",
+      "type": "scholarship",
+      "consultedFor": "The six-āvaśyaka framework and the place of reverential ritual within Śvetāmbara daily observance"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Root yā-pay / yāpanīya ('to cause to sustain, keep going'), underlying Prakrit javaṇijja"
+    },
+    {
+      "title": "Kayotsarga",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "Jain conception of the body as instrument of practice — backdrop to the yāpanīya inquiry"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a single clipped inquiry-formula, 'javaṇijjaṁ ca bhe?', with the copula unexpressed. Variant spellings of the headword occur in the tradition (javaṇijja / jāvaṇijja); the enclitic bhe is the honorific 'your' (Skt vaḥ/te). The source prints the headword syllabified (જ-વ-ણિ, જ્જં) to mark the āvarta gesture, not as separate lexemes; it is glossed here as one word. Web verification returned mostly generic material, so the doctrinal reading rests on the supplied tradition knowledge base and standard Āvaśyaka scholarship rather than page-level external citation."
+}

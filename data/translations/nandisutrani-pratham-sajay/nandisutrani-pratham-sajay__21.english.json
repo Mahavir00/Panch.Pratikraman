@@ -1,0 +1,190 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/21",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse bows to the next twelve of the twenty-four great Jain teachers, naming them one after another from Vimala down to Vardhamāna (Mahāvīra).",
+  "recitation": "vimala maṇanta ya dhammaṁ, santi kunthuṁ araṁ ca malliṁ ca; muṇisuvvaya nami nemiṁ, pāsaṁ taha vaddhamāṇaṁ ca.",
+  "wordByWord": [
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala(-nātha), the 13th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. vimala 'stainless, pure'; from vi- + mala 'impurity'",
+      "notes": "Object of the verb vande ('I bow') carried over from v.20; the whole verse is one continuous accusative list."
+    },
+    {
+      "token": "મણંત",
+      "translit": "maṇanta",
+      "gloss": "(and) Ananta(-nātha), the 14th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit aṇanta < Skt. ananta 'endless, infinite'; from a- + anta 'end'",
+      "notes": "The initial m- is a euphonic hiatus-breaker (āgama) joining the preceding -a to aṇanta, exactly as in v.20's 'sambhava m-abhiṇandaṇa'; read as ma + aṇanta."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Skt. ca 'and'",
+      "notes": "Connective linking the names in the list."
+    },
+    {
+      "token": "ધમ્મં",
+      "translit": "dhammaṁ",
+      "gloss": "Dharma(-nātha), the 15th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit dhamma < Skt. dharma 'righteous order'; accusative -aṁ",
+      "notes": "Accusative form governed by the carried-over vande."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "santi",
+      "gloss": "Śānti(-nātha), the 16th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit santi < Skt. śānti 'peace, tranquillity'",
+      "notes": "Also the 16th Tīrthaṅkara who, with Kunthu and Ara, was additionally a cakravartin."
+    },
+    {
+      "token": "કુંથું",
+      "translit": "kunthuṁ",
+      "gloss": "Kunthu(-nātha), the 17th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit/Skt. kunthu; accusative -uṁ",
+      "notes": ""
+    },
+    {
+      "token": "અરં",
+      "translit": "araṁ",
+      "gloss": "Ara(-nātha), the 18th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. ara 'spoke of a wheel'; accusative -aṁ",
+      "notes": ""
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca 'and'",
+      "notes": ""
+    },
+    {
+      "token": "મલ્લિં",
+      "translit": "malliṁ",
+      "gloss": "Malli(-nātha), the 19th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. malli 'jasmine'; accusative -iṁ",
+      "notes": "In the Śvetāmbara tradition Malli is held to have been a woman Tīrthaṅkara."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca 'and'",
+      "notes": "Repeated ca emphasises the additive roll-call rhythm."
+    },
+    {
+      "token": "મુણિસુવ્વય",
+      "translit": "muṇisuvvaya",
+      "gloss": "Munisuvrata, the 20th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit muṇi-suvvaya < Skt. muni-suvrata 'the sage of good vows'; muni + su- + vrata",
+      "notes": ""
+    },
+    {
+      "token": "નમિ",
+      "translit": "nami",
+      "gloss": "Nami(-nātha), the 21st Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. nami, from root nam 'to bow'",
+      "notes": ""
+    },
+    {
+      "token": "નેમિં",
+      "translit": "nemiṁ",
+      "gloss": "Nemi (Ariṣṭanemi), the 22nd Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. nemi 'rim of a wheel'; accusative -iṁ",
+      "notes": "The cousin of Kṛṣṇa in Jain narrative tradition."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva(-nātha), the 23rd Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit pāsa < Skt. pārśva 'side, flank'; accusative -aṁ",
+      "notes": ""
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus / likewise",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt. tathā 'so, likewise'",
+      "notes": "Marks the climactic last item, setting Vardhamāna apart as the seal of the series."
+    },
+    {
+      "token": "વદ્ધમાણં",
+      "translit": "vaddhamāṇaṁ",
+      "gloss": "Vardhamāna (Mahāvīra), the 24th Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit vaddhamāṇa < Skt. vardhamāna 'ever-increasing, growing'; pres. participle of vṛdh; accusative -aṁ",
+      "notes": "His birth-name; the hymn's opening verses already hailed him as the source of scripture."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca 'and'",
+      "notes": "Closes the enumeration."
+    }
+  ],
+  "literalTranslation": "(I bow to) Vimala and Ananta and Dharma, Śānti, Kunthu, and Ara, and Malli, and Munisuvrata, Nami, Nemi, Pārśva, and likewise Vardhamāna.",
+  "idiomaticTranslation": "I bow, too, to Vimala and Ananta, to Dharma, to Śānti, Kunthu and Ara, to Malli and to Munisuvrata, to Nami, Nemi and Pārśva — and so to Vardhamāna, last of them all.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā completes the canonical roll-call that the previous verse began: where v.20 saluted the first twelve Tīrthaṅkaras from Ṛṣabha to Vāsupūjya, v.21 names the remaining twelve, Vimala (13th) through Vardhamāna (24th). Grammatically the two verses are a single sentence — every name here is an accusative still governed by the verb 'vande' ('I bow') spoken in v.20; this verse simply continues pouring names into that one act of homage. The diction is deliberately bare: no epithets, no similes, just the names in their fixed scriptural order, strung together by the additive particles 'ya' and 'ca'. That austerity is the point — after the long chain of Saṅgha-similes earlier in the hymn, the reciter now returns to the foundation, the Tīrthaṅkaras themselves, and honours them by the plainest and most reliable means: naming each correctly, in sequence, leaving none out. Three small touches reward attention. First, 'maṇanta' shows the euphonic m- that the sajjhāy also used in v.20 ('m-abhiṇandaṇa'), a metrical glue typical of these Prakrit lists. Second, the cluster Śānti–Kunthu–Ara quietly gathers the three Tīrthaṅkaras who were also universal monarchs (cakravartins). Third, the final 'taha' ('likewise') lifts Vardhamāna slightly above the list's monotone, marking him as its seal — fitting, since the hymn opened by hailing him as the source of all scripture. The verse thus closes the Tīrthaṅkara-vandanā and hands the hymn forward to vv.22–23, which will name Mahāvīra's eleven Gaṇadharas.",
+    "doctrinalContext": "Reciting all twenty-four names in order enacts the second Āvaśyaka, cauvīsattho (caturviṁśati-stava, praise of the twenty-four) — the same devotional move as Logassa, here folded into a study-recitation. The completeness of the list matters doctrinally: each Tīrthaṅkara independently 'forded' saṁsāra and re-opened the same path, so to honour the series whole is to affirm that the Dharma is not the property of one founder but a recurring, self-renewing revelation. Naming Malli among them also carries the Śvetāmbara position that a soul of any gender may attain the Tīrthaṅkara state.",
+    "practicalRelevance": "When chanting, the reciter should aim for exactness — the right names in the right order — treating accurate remembrance as itself an act of reverence and mental discipline. Pausing on each name invites a moment of recollection of that Jina's example, turning a list into twenty-four small bows.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — the parallel naming-praise of the 24 Tīrthaṅkaras",
+        "source": "Āvaśyaka-sūtra; this book, sutra 'logassa'"
+      },
+      {
+        "text": "Preceding gāthā v.20 ('Vande Usabhaṁ Ajiyaṁ…') naming Tīrthaṅkaras 1–12",
+        "source": "Nandī-sūtra Pratham Sajjhāy, Anchalgachchha/Vidhipaksha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara — list and canonical numbering of the 24 Tīrthaṅkaras",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the standard order and numbers 13–24 (Vimala…Mahāvīra) matched to the verse's names"
+    },
+    {
+      "title": "Mallinatha",
+      "url": "https://en.wikipedia.org/wiki/Mallinatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Malli as the 19th Tīrthaṅkara and the Śvetāmbara woman-Tīrthaṅkara tradition"
+    },
+    {
+      "title": "Naminatha",
+      "url": "https://en.wikipedia.org/wiki/Naminatha",
+      "type": "scholarship",
+      "consultedFor": "Identity and Sanskrit etymology of Nami (21st Tīrthaṅkara, root nam 'to bow')"
+    },
+    {
+      "title": "Nandī-sūtra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Source identity of the sajjhāy as an extract from the Nandī-sūtra maṅgala"
+    }
+  ],
+  "translatorConfidence": 0.93,
+  "notes": "The verse is a fixed-order enumeration; all names are accusatives continuing the verb 'vande' from v.20, so this gāthā has no independent finite verb. 'maṇanta' = euphonic m- + aṇanta (Ananta, 14th), paralleling 'm-abhiṇandaṇa' in v.20. Name-order matches the standard avasarpiṇī sequence (Vimala 13 … Vardhamāna 24). Mātrās, anusvāras and conjuncts (e.g. 'કુંથું', 'મુણિસુવ્વય', 'વદ્ધમાણં') follow the book verbatim and are not normalised. No critical-edition collation of this specific recension was available online, so per-token spellings rest on the printed book as the golden source."
+}

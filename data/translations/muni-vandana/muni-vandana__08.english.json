@@ -1,0 +1,152 @@
+{
+  "shlokaId": "muni-vandana/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After the previous teacher, Vidyāsāgarasūri took the seat — radiant like the sunrise — and after him came the venerable Udayasāgarasūri, a treasure-mountain of good qualities.",
+  "recitation": "tappaṭṭe puvva-pavvaya-bhāṇu vijjāsāyaraṁ sūri ॥ siri udaya-sāyara sūri, tappaya guṇā-maṇi-ruhāṇaṁ",
+  "wordByWord": [
+    {
+      "token": "તપ્પટ્ટે",
+      "translit": "tappaṭṭe",
+      "gloss": "on his seat (i.e. on the paṭṭa after the foregoing ācārya, Amarasāgara)",
+      "partOfSpeech": "compound",
+      "etymology": "tat ('his') + paṭṭe, locative of paṭṭa ('seat'); Skt. tat-paṭṭe",
+      "notes": "The lineage-refrain that hands the seat from one ācārya to the next; here it points back to Amarasāgarasūri of the preceding gāthā."
+    },
+    {
+      "token": "પુવ્વ",
+      "translit": "puvva",
+      "gloss": "eastern",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. puvva < Skt. pūrva ('east, former')",
+      "notes": "First member of the image-compound puvva-pavvaya ('eastern mountain', the udayācala over which the sun rises)."
+    },
+    {
+      "token": "પવ્વય",
+      "translit": "pavvaya",
+      "gloss": "mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. pavvaya < Skt. parvata ('mountain')",
+      "notes": ""
+    },
+    {
+      "token": "ભાણુ",
+      "translit": "bhāṇu",
+      "gloss": "sun",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhāṇu < Skt. bhānu ('sun, light')",
+      "notes": "puvva-pavvaya-bhāṇu = 'the sun upon the eastern mountain', i.e. the rising sun — an epithet of Vidyāsāgarasūri, who dawns light on the seat."
+    },
+    {
+      "token": "વિજજાસાયરં",
+      "translit": "vijjāsāyaraṁ",
+      "gloss": "Vidyāsāgara ('ocean of knowledge')",
+      "partOfSpeech": "invocation",
+      "etymology": "vijjā < Skt. vidyā ('knowledge') + sāyara < Skt. sāgara ('ocean'); accusative -aṁ",
+      "notes": "Proper name of the ācārya; the book's doubled conjunct (વિજજા) is preserved verbatim."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "sūri (preceptor; honorific of an ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sūri ('learned one, preceptor')",
+      "notes": ""
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "(daṇḍa — verse-line divider)",
+      "partOfSpeech": "particle",
+      "etymology": "metrical/structural mark",
+      "notes": "Punctuation of the source, not a lexical word; retained as part of the verbatim text."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "the venerable / illustrious (śrī)",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. siri < Skt. śrī ('auspiciousness, glory'), honorific prefix",
+      "notes": ""
+    },
+    {
+      "token": "ઉદયસાયર",
+      "translit": "udayasāyara",
+      "gloss": "Udayasāgara ('ocean of rising/ascent')",
+      "partOfSpeech": "invocation",
+      "etymology": "udaya < Skt. udaya ('rising, prosperity') + sāyara < Skt. sāgara ('ocean')",
+      "notes": "Proper name of the next ācārya in succession."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "sūri (preceptor)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sūri",
+      "notes": "Second occurrence, suffixed to Udayasāgara."
+    },
+    {
+      "token": "તપ્પય",
+      "translit": "tappaya",
+      "gloss": "after him on the seat (on his paṭṭa)",
+      "partOfSpeech": "compound",
+      "etymology": "tat ('his') + paya < Skt. paṭṭa ('seat'); cf. tappaṭṭe above",
+      "notes": "The same succession-refrain, now linking Udayasāgara onto Vidyāsāgara's seat."
+    },
+    {
+      "token": "ગુણામણિ",
+      "translit": "guṇāmaṇi",
+      "gloss": "the gems of virtue (jewel-like good qualities)",
+      "partOfSpeech": "compound",
+      "etymology": "guṇa ('virtue, quality') + maṇi ('gem, jewel'); guṇa-maṇi",
+      "notes": "First member of guṇa-maṇi-ruhāṇaṁ."
+    },
+    {
+      "token": "રુહાણં",
+      "translit": "ruhāṇaṁ",
+      "gloss": "a Rohaṇa-mountain (the famed jewel-bearing mountain that yields gems)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ruhāṇa < Skt. rohaṇa, name of the mountain 'celebrated as a mine of jewels' (Apte)",
+      "notes": "guṇa-maṇi-ruhāṇaṁ = 'a Rohaṇa-mine for the jewels of virtue' — Udayasāgarasūri produces good qualities as Rohaṇa produces gems."
+    }
+  ],
+  "literalTranslation": "On his seat (after Amarasāgara), like the sun on the eastern mountain, is Vidyāsāgarasūri; the venerable Udayasāgarasūri, on his seat after him, is a Rohaṇa-mountain for the gems of virtue.",
+  "idiomaticTranslation": "Upon that same seat there dawned Vidyāsāgarasūri, radiant as the sun cresting the eastern peak; and after him, on his seat, the illustrious Udayasāgarasūri — a very Rohaṇa-mountain, yielding up the jewels of every virtue.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the closing pair of the succession-litany, carrying the chain one further step. Where the preceding gāthā ended on Amarasāgarasūri, the refrain tappaṭṭe ('on his seat') sets Vidyāsāgarasūri there, and tappaya ('after him on the seat') sets Udayasāgarasūri on Vidyāsāgara's. Each ācārya is fixed not as an isolated saint but as the next link, the seat itself doing the threading. The two names are wrapped in two complementary similes drawn from nature. Vidyāsāgara — already 'ocean of knowledge' by name — is puvva-pavvaya-bhāṇu, 'the sun upon the eastern mountain': as the rising sun crowns the udayācala and floods the world with light, so his accession lights up the seat, dispelling the dark of ignorance. Udayasāgara, whose name carries 'rising' (udaya), is then guṇa-maṇi-ruhāṇaṁ, 'a Rohaṇa-mountain for the gems of virtue' — Rohaṇa being the mountain proverbially mined for jewels; from him good qualities issue as gems issue from that peak. The pairing is deliberate: light (knowledge) and jewels (conduct) are the two riches a true preceptor confers. With these two names the roll reaches its present terminus, after which the litany turns to closing homage.",
+    "doctrinalContext": "The verse enacts guru-bhakti as a structural principle: legitimacy flows through the paṭṭa, so reverence is owed to the unbroken transmission, not merely to a charismatic individual. The twin images encode the guru's gift in the terms of the ratnatraya — the sun stands for samyag-jñāna (right knowledge that ends the darkness of mithyātva), the gem-mountain for the guṇas of samyag-cāritra (right conduct), 'mined' and handed on to disciples. Naming knowledge-ocean and virtue-mountain together quietly affirms that authentic ācārya-hood unites learning with lived character.",
+    "practicalRelevance": "Reciting this, a practitioner brings the living lineage right up to the recent past and lets gratitude settle on named, near teachers — not only the distant Gaṇadharas. The two similes give the mind something concrete to hold: ask of any guru, and of oneself, whether one both illumines (like the sun) and yields jewels of conduct (like Rohaṇa). It trains humility — one stands at the end of a long seat-after-seat chain — and the resolve to emulate the qualities just praised.",
+    "crossReferences": [
+      {
+        "text": "Anchalgachchha (Vidhipaksha-gaccha) paṭṭāvalī — Sāgara-line ācāryas, Vidyāsāgara and Udayasāgara",
+        "source": "Achal Gaccha tradition / Wikipedia, Achal Gaccha"
+      },
+      {
+        "text": "rohaṇa — 'mountain celebrated as a mine of jewels'",
+        "source": "V. S. Apte, The Practical Sanskrit-English Dictionary, s.v. रोहण"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha) — order, founder and lineage",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipaksha-gaccha identity, the Sudharmāsvāmī→Āryarakṣitasūri succession frame, and the place of the later Sāgara-named ācāryas (Vidyāsāgara, Udayasāgara) in the paṭṭāvalī."
+    },
+    {
+      "title": "The Practical Sanskrit-English Dictionary (V. S. Apte) — Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses of rohaṇa ('mountain famed as a mine of jewels'), maṇi ('gem'), bhānu ('sun'), parvata ('mountain'), pūrva ('east'), sāgara, vidyā, udaya."
+    },
+    {
+      "title": "Āryarakṣitasūri and the Anchalgachchha succession (JainGPT knowledge summary)",
+      "url": "https://jaingpt.org/knowledge/aryarakshitsuri_249086_249086",
+      "type": "scholarship",
+      "consultedFor": "Corroboration of the paṭṭāvalī framing (47th paṭṭa Āryarakṣitasūri) within which Vidyāsāgara and Udayasāgara stand as later seats."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The proper names Vidyāsāgarasūri and Udayasāgarasūri and their succession order are securely attested as the late seats of this gāthā. The two epithets are read as image-compounds: puvva-pavvaya-bhāṇu = 'sun on the eastern (rising) mountain', and guṇa-maṇi-ruhāṇaṁ = 'a Rohaṇa-mountain for the jewels of virtue' (Rohaṇa being the classical jewel-mine mountain). These readings are well grounded but interpretive; the precise word-breaks of the saṁdhi-joined epithets, and whether ruhāṇaṁ also carries a secondary sense of rohaṇa- 'arising/growth', could vary across commentaries. Book orthography is preserved verbatim (e.g. વિજજા with doubled conjunct, the spaced daṇḍa ॥); IAST glosses are normalized for clarity and may differ from the source spellings. The following verse is empty in the corpus, so this pair closes the named succession before the litany's concluding homage."
+}

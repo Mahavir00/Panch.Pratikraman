@@ -1,0 +1,270 @@
+{
+  "shlokaId": "laghu-atiyar/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the sixth vow I promise to keep my travel within fixed limits in every direction, and now I search my conscience for the five ways I may have slipped past those limits today.",
+  "recitation": "chaṭṭhuṁ disivrata trividhe jāṇavuṁ. uḍḍhadisivae, ahodisivae, tiriyadisivae. e chaṭṭhā disivratataṇāṁ pāṁca atiyāra śodhuṁ. uḍḍhadisi ppamāṇāikkame, ahodisi ppamāṇāikkame, tiriyadisi ppamāṇāikkame, khittavuḍḍhi, sayaṁtaraddhā. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૬.",
+      "translit": "6.",
+      "gloss": "(the) sixth (vow) — book ordinal marker",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral ૬ = ṣaṣ (Skt. ṣaṣṭha, 'sixth'); here marks the sixth of the twelve lay vows.",
+      "notes": "The ordinal counts the vow, not the book-page; cf. preface note on numbering."
+    },
+    {
+      "token": "છઠ્ઠું",
+      "translit": "chaṭṭhuṁ",
+      "gloss": "sixth",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit chaṭṭha < Skt. ṣaṣṭha; neuter agreeing with vrata.",
+      "notes": ""
+    },
+    {
+      "token": "દિશિવ્રત",
+      "translit": "disivrata",
+      "gloss": "diś-vrata — the vow of (limiting) directions",
+      "partOfSpeech": "compound",
+      "etymology": "diś ('direction') + vrata ('vow'); Prakrit disi < Skt. diś.",
+      "notes": "First of the three guṇavratas; restricts how far one travels in each direction."
+    },
+    {
+      "token": "ત્રિવિધે",
+      "translit": "trividhe",
+      "gloss": "in three kinds / threefold",
+      "partOfSpeech": "adj",
+      "etymology": "tri ('three') + vidhā ('manner'); locative, 'as threefold'.",
+      "notes": "The threefold scope is itemised next as up, down, and across."
+    },
+    {
+      "token": "જાણવું",
+      "translit": "jāṇavuṁ",
+      "gloss": "is to be known / understand it",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati jāṇavuṁ, infinitive/gerundive < Skt. √jñā ('to know').",
+      "notes": ""
+    },
+    {
+      "token": "ઉઢ્ઢદિસિવએ",
+      "translit": "uḍḍhadisivae",
+      "gloss": "the upward-direction vow (ūrdhva-diś-vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "uḍḍha < Skt. ūrdhva ('upward') + disi (diś) + vae (Prakrit vae < vrata, locative/instrumental).",
+      "notes": "Limit set for climbing, ascending, upper storeys, hills."
+    },
+    {
+      "token": "અહોદિસિવએ",
+      "translit": "ahodisivae",
+      "gloss": "the downward-direction vow (adho-diś-vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "aho < Skt. adhas ('below') + disi + vae.",
+      "notes": "Limit for descending — wells, mines, lower regions."
+    },
+    {
+      "token": "તિરિયદિસિવએ",
+      "translit": "tiriyadisivae",
+      "gloss": "the horizontal-direction vow (tiryag-diś-vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "tiriya < Skt. tiryak ('transverse, horizontal') + disi + vae.",
+      "notes": "Limit for the four/ten compass directions on the level plane."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this / these (the aforesaid)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e < Skt. eta-.",
+      "notes": ""
+    },
+    {
+      "token": "છઠ્ઠા",
+      "translit": "chaṭṭhā",
+      "gloss": "of the sixth",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit chaṭṭha < Skt. ṣaṣṭha; oblique/genitive form.",
+      "notes": ""
+    },
+    {
+      "token": "દિશિવ્રતતણાં",
+      "translit": "disivratataṇāṁ",
+      "gloss": "belonging to the diś-vrata / of the direction-vow",
+      "partOfSpeech": "compound",
+      "etymology": "disivrata + taṇāṁ, Old-Gujarati genitive particle taṇuṁ ('of, belonging to').",
+      "notes": "taṇāṁ is the recurring possessive that frames every vow's atichāra list."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pāṁca < Skt. pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "book-spelling atiyāra (with ય) for atichāra; ati ('over') + √car ('to move, go').",
+      "notes": "Partial lapses that stain but do not break the vow."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine / scrutinise (and purify)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati śodhvuṁ < Skt. √śudh / śodhayati ('to cleanse, search out').",
+      "notes": "Carries both senses: 'search out' the slip and 'cleanse' it by confession."
+    },
+    {
+      "token": "ઉઢ્ઢદિસિ",
+      "translit": "uḍḍhadisi",
+      "gloss": "(in the) upward direction",
+      "partOfSpeech": "compound",
+      "etymology": "uḍḍha (ūrdhva) + disi (diś).",
+      "notes": "Binds with the following ppamāṇāikkame."
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "exceeding the fixed measure (pramāṇa-atikrama)",
+      "partOfSpeech": "compound",
+      "etymology": "pamāṇa (Skt. pramāṇa, 'measure, limit') + aikkama (Skt. atikrama, 'overstepping'); initial doubling pp- per book orthography.",
+      "notes": "First atichāra: crossing the upward limit."
+    },
+    {
+      "token": "અહોદિસિ",
+      "translit": "ahodisi",
+      "gloss": "(in the) downward direction",
+      "partOfSpeech": "compound",
+      "etymology": "aho (adhas) + disi (diś).",
+      "notes": ""
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "exceeding the fixed measure (pramāṇa-atikrama)",
+      "partOfSpeech": "compound",
+      "etymology": "pamāṇa + aikkama, as above.",
+      "notes": "Second atichāra: crossing the downward limit."
+    },
+    {
+      "token": "તિરિયદિસિ",
+      "translit": "tiriyadisi",
+      "gloss": "(in the) horizontal direction",
+      "partOfSpeech": "compound",
+      "etymology": "tiriya (tiryak) + disi (diś).",
+      "notes": ""
+    },
+    {
+      "token": "પ્પમાણાઇક્કમે",
+      "translit": "ppamāṇāikkame",
+      "gloss": "exceeding the fixed measure (pramāṇa-atikrama)",
+      "partOfSpeech": "compound",
+      "etymology": "pamāṇa + aikkama, as above.",
+      "notes": "Third atichāra: crossing the sideways limit."
+    },
+    {
+      "token": "ખિત્તવુઢ્ઢિ",
+      "translit": "khittavuḍḍhi",
+      "gloss": "enlarging the (allotted) area (kṣetra-vṛddhi)",
+      "partOfSpeech": "compound",
+      "etymology": "khitta (Skt. kṣetra, 'field, area') + vuḍḍhi (Skt. vṛddhi, 'increase').",
+      "notes": "Fourth atichāra: borrowing from one direction's quota to extend another."
+    },
+    {
+      "token": "સયંતરદ્ધા",
+      "translit": "sayaṁtaraddhā",
+      "gloss": "forgetting the set limit (smṛty-antardhāna)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sai/saya (Skt. smṛti, 'memory') + antaraddhā (Skt. antardhāna, 'disappearance'); = lapse of remembrance.",
+      "notes": "Fifth atichāra: losing track of one's own boundary; book form sayaṁtaraddhā for the usual sai-antaraddhā."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e < Skt. eta-.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pāṁca < Skt. pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāra)",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra (book spelling) = atichāra.",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (these I confess whatever I incurred)",
+      "partOfSpeech": "adverb",
+      "etymology": "Old-Gujarati māṁhe ('inside, among') < Skt. madhye.",
+      "notes": "Closing formula that hands the list into the day/night confession-refrain."
+    }
+  ],
+  "literalTranslation": "Sixth, the direction-vow is to be understood as threefold: the upward-direction vow, the downward-direction vow, the horizontal-direction vow. Of this sixth direction-vow I now examine the five transgressions — exceeding the measure upward, exceeding the measure downward, exceeding the measure horizontally, enlarging the (allotted) area, and forgetting the limit. Among these five transgressions (I confess whatever I have incurred).",
+  "idiomaticTranslation": "Sixth comes the vow that fences in my directions, and it has three faces — a ceiling above, a floor below, and a horizon all around. Today I hold the lamp to my conscience over its five familiar slips: did I climb past my upward limit, sink past my downward one, or stray past my sideways bound? Did I quietly stretch my allotted ground by lending one direction's distance to another? Or did I simply forget how far I had vowed to go? Whatever of these five I let happen, here, within them, I lay it bare.",
+  "elaboration": {
+    "verseByVerseCommentary": "After vow 5 capped what the householder may *own*, vow 6 caps where he may *go* — the pivot from the last aṇuvrata into the first guṇavrata, the 'enhancing' vows that fortify non-violence by shrinking its field. The verse first fixes the vow's geometry: not the eight or ten compass-points of common usage, but a stricter three-axis cube — ūrdhva (up), adhas (down), tiryak (across). Why limit space at all? Because, in the image the Āvaśyaka-cūrṇī attaches to this very vow, the layman is a heated iron sphere: wherever he rolls he scorches living beings underfoot, whether walking, eating or sleeping. He cannot stop being hot, but he *can* shrink the ground he rolls over — every direction renounced is a whole zone of trasa- and sthāvara-jīvas spared his unavoidable harm. The five atichāras then map the precise ways the cube leaks. Three are simple overshoots, one per axis (pramāṇātikrama up, down, across). The fourth, kṣetra-vṛddhi, is subtler self-deception: keeping the *total* distance but robbing the north quota to overrun the east — honouring the letter while breaking the spirit. The fifth, smṛty-antardhāna, needs no bad intent at all: merely forgetting one's own boundary and drifting past it. Listing forgetfulness as a confessable slip is the verse's quiet teaching — a vow is kept not only by will but by *vigilant memory*, and lapsed attention is itself a fault to be cleansed.",
+    "doctrinalContext": "The diś-vrata operationalises ahiṁsā spatially: it presupposes the Jain map of a soul-saturated cosmos where every region teems with jīvas, so that bounding one's movement is literally bounding one's daṇḍa (the soul's harmful outflow). Doctrinally the five atichāras illustrate the standard distinction the whole sutra turns on — atichāra (a stain that weakens) versus bhaṅga (an outright break): overstepping a limit slightly, or through forgetfulness, blemishes the vow without annulling it, hence it is *confessed* rather than re-taken. The fourth and fifth slips are especially instructive: kṣetra-vṛddhi targets the rationalising mind that games its own rule, and smṛty-antardhāna names pramāda (heedlessness) — the root cause Jain ethics treats as the seed of all hiṁsā — as a transgression in its own right.",
+    "practicalRelevance": "A modern reciter sets the limit in present terms — a city, a state, a flight radius — and reviews it nightly along all three axes (high-rise/aircraft = up, basement/diving/mining = down, ordinary travel = across). The fourth slip warns against the convenient swap ('I skipped that trip, so this longer one is fine'); the fifth warns that simply losing track of one's own resolution is already a fault. The verse trains a daily habit: keep the boundary *and* keep remembering it.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.21 (digvirati as guṇavrata) and 7.25 (the five atichāras: ūrdhva-/adhas-/tiryag-vyatikrama, kṣetra-vṛddhi, smṛty-antardhāna)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Āvaśyaka-sūtra with Cūrṇī, pt. 2, p. 294 — the heated-iron-sphere simile applied to the diś-vrata",
+        "source": "Āvaśyaka-cūrṇī (cited in R. Williams, Jaina Yoga)"
+      },
+      {
+        "text": "Upāsakadaśā-sūtra — the householder's guṇavratas in the Ānanda narrative",
+        "source": "Upāsakadaśāḥ (Aṅga 7)"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra vv. on digvrata",
+        "source": "Samantabhadra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Digvrata, Dik-vrata — definition (Jaina Yoga, R. Williams; Āvaśyaka-cūrṇī simile)",
+      "url": "https://www.wisdomlib.org/definition/digvrata",
+      "type": "scholarship",
+      "consultedFor": "The five atichāras in IAST (ūrdhva-/adho-/tiryag-dik-pramāṇātikrama, kṣetra-vṛddhi, smṛtyantardhāna), Śvetāmbara–Digambara agreement, and the heated-iron-sphere simile."
+    },
+    {
+      "title": "Śrāvaka / Anuvrata — the twelve lay vows (5 aṇuvrata + 3 guṇavrata + 4 śikṣāvrata)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Placement of digvrata among the supplementary guṇavratas and the structure of the householder's vow-set."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries — Monier-Williams, s.v. digvrata / diś",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots diś, ūrdhva, adhas, tiryak, pramāṇa, atikrama, kṣetra, vṛddhi, smṛti, antardhāna for the per-token etymologies."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchh.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati/Prakrit verse text and the book's atiyāra spelling and orthography (uḍḍha-, ppamāṇāikkame, sayaṁtaraddhā)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The five atichāras are textbook-stable and match Tattvārtha 7.25 exactly; confidence is high on doctrine. Token forms follow the book verbatim: the initial doubling in 'ppamāṇāikkame' is orthographic (sandhi-doubled pamāṇa-aikkama), not lexical. 'sayaṁtaraddhā' is the book's contracted form of the usual Prakrit sai-antaraddhā = Skt. smṛty-antardhāna ('vanishing of memory'); some recensions read 'saiantaraddhā'/'sahasāntaraddhā' — preserved here, not normalised. 'taṇāṁ' is the Old-Gujarati genitive particle, not a Prakrit case-ending. The Āvaśyaka-cūrṇī page reference is as cited in Williams' Jaina Yoga via wisdomlib; the primary cūrṇī was not independently paginated here."
+}

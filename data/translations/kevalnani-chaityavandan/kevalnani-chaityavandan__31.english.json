@@ -1,0 +1,158 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/31",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the middle world there are five hundred and eleven eternal Jina-temples holding sixty-one thousand four hundred Jina-images, and this verse simply adds them all up.",
+  "recitation": "pañca-sayā igyāre adhikā, jinhar tīrcche loke-jī | paḍimā ekasaṭha sahasa cārseṁ, bolī saghaḷe thoke-jī ||",
+  "wordByWord": [
+    {
+      "token": "પંચસયા",
+      "translit": "pañca-sayā",
+      "gloss": "five hundred",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit pañca ('five') + saya ('hundred', from Sanskrit śata); cf. Gujarati pāṁcso.",
+      "notes": "Forms the base of the number 511 with the next two tokens."
+    },
+    {
+      "token": "ઇગ્યારે",
+      "translit": "igyāre",
+      "gloss": "eleven",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati igyāra/agyāra 'eleven', from Sanskrit ekādaśa; the final -e is a metrical/oblique lengthening.",
+      "notes": "Read together with adhikā: 'eleven more'."
+    },
+    {
+      "token": "અધિકા",
+      "translit": "adhikā",
+      "gloss": "more, in excess, added",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit adhika 'additional, exceeding'.",
+      "notes": "pañcasayā igyāre adhikā = '500 plus 11 more' = 511."
+    },
+    {
+      "token": "જિનહર",
+      "translit": "jinhar",
+      "gloss": "Jina-temples (jina-caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa-ghara > Apabhraṁśa/old Gujarati jinhar; jina + ghara ('house'). See glossary jina-caitya.",
+      "notes": "Subject of the count: the 511 are temples, not images."
+    },
+    {
+      "token": "તીર્ચ્છે",
+      "translit": "tīrcche",
+      "gloss": "in the oblique (middle) world",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tiriccha/tiriya from Sanskrit tiryak ('transverse, horizontal'); qualifies loka as the tiryag-loka.",
+      "notes": "Specifies the middle of the three worlds (triloka)."
+    },
+    {
+      "token": "લોકેજી",
+      "translit": "loke-jī",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit loka ('world') in locative loke; the appended -jī is the hymn's recurring melodic/reverential refrain syllable, not a lexical word.",
+      "notes": "tīrcche loke = 'in the oblique/middle world'. The -jī recurs as the dhāla's chant cadence."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "images, icons (jina-pratimā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā from Sanskrit pratimā ('image, likeness'). See glossary jina-pratimā/bimba.",
+      "notes": "Switches the count from temples to the images they enshrine."
+    },
+    {
+      "token": "એકસઠ",
+      "translit": "ekasaṭha",
+      "gloss": "sixty-one",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ekasaṭha 'sixty-one', from Sanskrit ekaṣaṣṭi.",
+      "notes": "Multiplied by sahasa: 61 thousand."
+    },
+    {
+      "token": "સહસ",
+      "translit": "sahasa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahasa from Sanskrit sahasra ('thousand').",
+      "notes": "ekasaṭha sahasa = 61,000."
+    },
+    {
+      "token": "ચારસેં",
+      "translit": "cārseṁ",
+      "gloss": "four hundred",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati cār ('four', Skt. catur) + seṁ (variant of so/sau 'hundred', Skt. śata); a regional/metrical form of cārso.",
+      "notes": "Total image count: 61,000 + 400 = 61,400."
+    },
+    {
+      "token": "બોલી",
+      "translit": "bolī",
+      "gloss": "spoken, declared, reckoned",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati bolī (past/absolutive of bolvuṁ 'to speak'), ultimately from Prakrit bolla-.",
+      "notes": "i.e. these figures are 'as declared/told' in the tradition."
+    },
+    {
+      "token": "સઘળે",
+      "translit": "saghaḷe",
+      "gloss": "all, entire, altogether",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati saghaḷuṁ 'all, whole', from Prakrit sayala/sagala (Skt. sakala).",
+      "notes": "Stresses that the figure is the complete tally."
+    },
+    {
+      "token": "થોકેજી",
+      "translit": "thoke-jī",
+      "gloss": "in the aggregate, as a total sum",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati thok ('bulk, aggregate, lot') in locative thoke; -jī is the refrain syllable. Prakrit thokka.",
+      "notes": "saghaḷe thoke = 'all in the aggregate', i.e. the grand running total for this realm."
+    }
+  ],
+  "literalTranslation": "Five hundred and eleven — the Jina-temples in the oblique (middle) world; the images, sixty-one thousand four hundred — so reckoned, all in the aggregate.",
+  "idiomaticTranslation": "In the middle world stand five hundred and eleven Jina-temples; the sacred images within them number sixty-one thousand four hundred — so the tradition declares the total, all gathered into one sum.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse named the great island-platforms of the middle world one by one — Mānuṣottara, Nandīśvara, Kuṇḍala and Rucaka, each with its quota of shrines — this verse stops naming and starts totalling. It gives two round, memorable figures: 511 jinhar (temples) and 61,400 paḍimā (images) for the enumerable śāśvata sites of the tiryak (middle) world. The two-part structure is deliberate: line one counts the buildings, line two the icons they house, so the worshipper grasps both the vessels of veneration and their living contents. The closing words bolī saghaḷe thoke — 'so it is declared, all in the aggregate' — are a technical flourish of the enumerator: they mark this as a settled, traditional total, not the poet's invention, and they set up the very next verse, which folds this middle-world subtotal into the grand triloka census of crores. The disproportion between 511 temples and 61,400 images is itself instructive: a single eternal shrine enshrines many Jina-images (the great śāśvata caityas hold rows of icons), so the image-count vastly outruns the temple-count. Notice too the precision: after dhālas that piled up lakhs and crores to evoke sheer awe, this verse hands the reciter exact, almost auditable figures — a reminder that Jaina cosmography means its numbers, even where they are too vast to verify. The reciter, having just toured the middle world in imagination, now mentally bows to every one of these 61,400 icons housed in 511 shrines he can never physically reach.",
+    "doctrinalContext": "The verse rests on the doctrine of śāśvata caityas and pratimās — Jina-temples and images that are not built and consecrated in time but exist eternally at fixed cosmic locations, untouched by the rise and fall of world-ages. Bowing to them is an act of pure samyaktva (right faith): the devotee venerates Jina-presence that no human hand made and no human pilgrim can visit, affirming that reverence for the Jina is woven into the very structure of the loka. The temple/image split also encodes a fine point of Jaina image-theology: the caitya (jinhar) is the sanctified locus, the pratimā (paḍimā) the focus of darśana, and merit accrues from honouring both. By reckoning the middle world separately before the next verse sums all three worlds, the hymn enacts the triloka frame doctrinally — each realm is counted on its own terms, then gathered into the whole.",
+    "practicalRelevance": "Reciting this verse, a practitioner performs a mānasika (mental) caitya-vandana: with the words alone the worshipper offers homage to 511 shrines and 61,400 images at once, extending daily devotion far beyond any temple one could ever walk into. Let the two crisp numbers steady the wandering mind on the immensity of the Jina's presence rather than on the count itself.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-saṅgrahaṇī, gāthās on śāśvata-caitya and bimba counts of the tiryag-loka",
+        "source": "Śrī Candrasūri (Jinabhadragaṇi tradition), Jaina cosmographic prakaraṇa"
+      },
+      {
+        "text": "Following verse (kevalnani-chaityavandan/32): the triloka grand total of temples",
+        "source": "Vācaka Mūlā, Kevalnāṇī Bṛhat Caityavandana (Anchalgaccha/Vidhipakṣa ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratimā — definition",
+      "url": "https://www.wisdomlib.org/definition/pratima",
+      "type": "dictionary",
+      "consultedFor": "Confirming paḍimā < Sanskrit pratimā ('image/icon') and its Jaina sense of a Jina-image."
+    },
+    {
+      "title": "Caitya — definition",
+      "url": "https://www.wisdomlib.org/definition/caitya",
+      "type": "dictionary",
+      "consultedFor": "Confirming jinhar (jiṇa-ghara) as jina-caitya, a Jina-temple/shrine, in the Jaina sense."
+    },
+    {
+      "title": "Jain cosmology (Madhyaloka / tiryag-loka and śāśvata caityas)",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "The structure of the tiryag-loka/madhya-loka and the doctrine of eternal Jina-temples and images located there (Nandīśvara, Kuṇḍala, Rucaka)."
+    },
+    {
+      "title": "Sahasra / saya — Prakrit numerals",
+      "url": "https://www.wisdomlib.org/definition/sahasra",
+      "type": "dictionary",
+      "consultedFor": "Verifying saya ('hundred', Skt. śata) and sahasa ('thousand', Skt. sahasra) to read pañcasayā…cārseṁ as 511 and 61,400."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The numerals are read as pañcasayā + igyāre + adhikā = 511 temples, and ekasaṭha-sahasa + cārseṁ = 61,400 images — a self-contained middle-world (tiryag-loka) subtotal that the next verse folds into the triloka grand total. These figures match the enumerable (saṅkhyāta) śāśvata-caitya reckoning of the human/middle region rather than the much larger crore-level totals of the lower world; the precise correspondence to any one printed Bṛhat-saṅgrahaṇī column is traditional and is preserved as given rather than independently audited. Spelling is verbatim per the book's orthography: તીર્ચ્છે (tīrcche, for tiryak) and ચારસેં (cārseṁ, for cārso) are dialectal/metrical forms; the refrain syllable -jī in લોકેજી and થોકેજી is the dhāla's melodic cadence, not a lexical word. No daṇḍa/verse-number tokens were present to gloss."
+}

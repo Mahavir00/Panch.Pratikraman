@@ -1,0 +1,55 @@
+{
+  "vidhiId": "devasi-logassa-kausagga",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "The Logassa Kāyotsarga and Aloud Logassa",
+  "summary": "After the preceding ādeśa, the devotee stands in one Logassa-length kāyotsarga (standing meditation), silently recollecting the Logassa only up to the words 'chandesu nimmalayarā'. The kāyotsarga is released with 'Namo Arihantāṇaṁ', and then the full Logassa is recited aloud.",
+  "segments": [
+    {
+      "segmentId": "devasi-logassa-kausagga/01",
+      "recitation": "Logassa ... chandesu nimmalayarā (kāyotsarga up to this line)",
+      "plainMeaning": "After the previous words, stand still in meditation for the length of one Logassa, only up to 'chandesu nimmalayarā'.",
+      "idiomaticTranslation": "Having spoken as above, perform one Logassa kāyotsarga (standing bodily stillness), carrying the silent recollection only as far as 'chandesu nimmalayarā'. Wherever a Logassa kāyotsarga is called for, take it only up to that same passage; and wherever the measure differs, that change will be pointed out at its place.",
+      "explanation": "The kāyotsarga is measured by one Logassa but is truncated at 'chandesu nimmalayarā' rather than carried to the end; this truncation is the default for every Logassa kāyotsarga unless a variation is announced.",
+      "ritualTerms": [
+        {
+          "term": "kāyotsarga",
+          "gloss": "standing meditation in which one abandons attachment to the body, held motionless for a fixed measure"
+        },
+        {
+          "term": "Logassa",
+          "gloss": "the hymn praising the 24 Tīrthaṅkaras, here used as the unit measuring the kāyotsarga"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-logassa-kausagga/02",
+      "recitation": "Namo Arihantāṇaṁ",
+      "plainMeaning": "End the standing meditation by saying 'Namo Arihantāṇaṁ', and do this to close every kāyotsarga.",
+      "idiomaticTranslation": "Then release the kāyotsarga (standing meditation) by uttering the words 'Namo Arihantāṇaṁ'; observe this same manner of completion in every kāyotsarga throughout the rite.",
+      "explanation": "'Namo Arihantāṇaṁ' is the fixed releasing-phrase (pārvuṁ) that marks the end of the standing stillness; the instruction generalizes it to all kāyotsargas in the ritual.",
+      "ritualTerms": [
+        {
+          "term": "kāyotsarga",
+          "gloss": "standing meditation of bodily abandonment, here being released"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-logassa-kausagga/03",
+      "recitation": "Logassa (recite aloud, as set out below)",
+      "plainMeaning": "Now recite the Logassa hymn aloud as given below.",
+      "idiomaticTranslation": "Then recite the Logassa openly and aloud, exactly as set out below.",
+      "explanation": "This cue moves from the silent kāyotsarga to the audible recitation; 'pragaṭ' marks that the Logassa is now spoken aloud rather than recollected silently. It introduces the Logassa sūtra.",
+      "ritualTerms": [
+        {
+          "term": "Logassa",
+          "gloss": "the Caturviṁśati-stava hymn praising the 24 Tīrthaṅkaras, now recited aloud"
+        }
+      ]
+    }
+  ],
+  "sources": [],
+  "translatorConfidence": 0.9,
+  "notes": "All three segments are procedural directions with no speaker. Renderings stay faithful to the native Gujarati; no counts or steps were added. 'chandesu nimmalayarā' and 'Namo Arihantāṇaṁ' are given in IAST as chant cues. The truncation of the Logassa at 'chandesu nimmalayarā' for the kāyotsarga measure is stated verbatim in the native text and is consistent with the KB's description of Logassa as the kāyotsarga unit."
+}

@@ -1,0 +1,166 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/17",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Because of your power, O Pārśva, soldiers in a king's army defeat their proud enemies and win pure, shining fame.",
+  "recitation": "nijjiya-dappuddhara-riu, narinda-nivahā bhaḍā jasaṁ dhavalaṁ | pāvanti pāva-pasamiṇa, pāsajiṇa tuha (p)pabhāveṇa ||",
+  "wordByWord": [
+    {
+      "token": "નિજ્જિય",
+      "translit": "nijjiya",
+      "gloss": "having vanquished / conquered",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nijjiya < Skt. nirjita (ni + √ji, 'to conquer'); past passive participle used here in compound, 'whose enemies are vanquished'.",
+      "notes": "Forms the first member of the bahuvrīhi compound nijjiya-dappuddhara-riu qualifying the warriors."
+    },
+    {
+      "token": "દપ્પુદ્ધર",
+      "translit": "dappuddhara",
+      "gloss": "swollen with pride, arrogant",
+      "partOfSpeech": "compound",
+      "etymology": "darpa ('pride') + uddhura ('lifted high, swollen, unruly') → Skt. darpoddhura; Prakrit dappa + uddhara.",
+      "notes": "Qualifies riu — the enemies are 'proud-and-arrogant'."
+    },
+    {
+      "token": "રિઉ",
+      "translit": "riu",
+      "gloss": "enemy, foe",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit riu < Skt. ripu, 'enemy'.",
+      "notes": "Closes the compound: nijjiya-dappuddhara-riu = 'having vanquished proud, arrogant foes'."
+    },
+    {
+      "token": "નરિંદ",
+      "translit": "narinda",
+      "gloss": "king, lord of men",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit narinda < Skt. narendra (nara 'man' + indra 'lord').",
+      "notes": "Genitive/possessive sense in the compound narinda-nivahā: belonging to the host of the king(s)."
+    },
+    {
+      "token": "નિવહા",
+      "translit": "nivahā",
+      "gloss": "hosts, multitudes",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nivaha < Skt. nivaha, 'a mass, multitude, troop'.",
+      "notes": "narinda-nivahā = 'the hosts/armies of kings'; in apposition with bhaḍā."
+    },
+    {
+      "token": "ભડા",
+      "translit": "bhaḍā",
+      "gloss": "warriors, soldiers (nom. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaḍa < Skt. bhaṭa, 'mercenary, fighting man'; cf. Gujarati bhaṭ.",
+      "notes": "The grammatical subject of pāvanti — 'the warriors obtain'."
+    },
+    {
+      "token": "જસં",
+      "translit": "jasaṁ",
+      "gloss": "fame, renown (acc. sg.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jasa < Skt. yaśas, 'glory, fame'.",
+      "notes": "Object of pāvanti, qualified by dhavalaṁ."
+    },
+    {
+      "token": "ધવલં",
+      "translit": "dhavalaṁ",
+      "gloss": "white, bright, spotless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dhavala < Skt. dhavala, 'white, pure'.",
+      "notes": "dhavala yaśa — 'white fame' — is a fixed kāvya image for unblemished, radiant renown."
+    },
+    {
+      "token": "પાવંતિ",
+      "translit": "pāvanti",
+      "gloss": "they obtain, attain (3rd pl. pres.)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pāvanti < Skt. prāpnuvanti (pra + √āp, 'to reach, obtain'); Prakrit pāva- 'to get'.",
+      "notes": "Main verb; do not confuse with the homophone pāva ('sin') in the next epithet."
+    },
+    {
+      "token": "પાવ",
+      "translit": "pāva",
+      "gloss": "sin (here: of sins)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva < Skt. pāpa, 'evil, sin'.",
+      "notes": "First member of the vocative epithet pāva-pasamiṇa, 'O queller of sins'; a deliberate echo of pāvanti just before."
+    },
+    {
+      "token": "પસમિણ",
+      "translit": "pasamiṇa",
+      "gloss": "O queller, pacifier (voc.)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit pasamaṇa < Skt. praśamana (pra + √śam, 'to quiet, extinguish').",
+      "notes": "pāva-pasamiṇa = vocative address to Pārśva, 'O stiller of sins'."
+    },
+    {
+      "token": "પાસજિણ",
+      "translit": "pāsajiṇa",
+      "gloss": "O Pārśva-Jina (voc.)",
+      "partOfSpeech": "invocation",
+      "etymology": "pāsa (< Skt. pārśva) + jiṇa (< Skt. jina).",
+      "notes": "The direct addressee; the whole result is attributed to him."
+    },
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your (gen.)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tuha < Skt. tava, 2nd-person sg. genitive.",
+      "notes": "Modifies (p)pabhāveṇa: 'by your power'."
+    },
+    {
+      "token": "ધ્પભાવેણ",
+      "translit": "(p)pabhāveṇa",
+      "gloss": "by the power / majestic influence (instr.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pabhāva < Skt. prabhāva (pra + √bhū), 'splendour, efficacious power'; instrumental -eṇa.",
+      "notes": "The book prints ધ્પભાવેણ; this is an orthographic/OCR form of પ્પભાવેણ (ppabhāveṇa = prabhāveṇa). The instrumental is the causal hinge of the verse — the victory is 'through your power'."
+    }
+  ],
+  "literalTranslation": "Having vanquished proud, arrogant foes, the warriors of the hosts of kings attain white (spotless) fame, O sin-quelling Pārśva-Jina, through your power.",
+  "idiomaticTranslation": "By your power alone, O Pārśva-Jina, queller of all sins, the soldiers in the armies of kings strike down their swaggering foes and rise up clothed in spotless, shining glory.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the resolving half of the battle-pair: the preceding verse left us amid flashing swords, headless trunks and lance-pierced war-elephants, all terror and no outcome; here the danger turns to deliverance. The grammar is taut — one subject (bhaḍā, 'the warriors'), one verb (pāvanti, 'they obtain'), one object (jasaṁ dhavalaṁ, 'white fame') — with everything else hung on it: a bahuvrīhi describing the men (nijjiya-dappuddhara-riu, 'their proud foes already beaten'), and the decisive instrumental tuha (p)pabhāveṇa, 'by your power'. The poet's craft shows in the near-pun: warriors pāvanti ('attain') addressed to the pāva-pasamiṇa ('queller of pāva/sin') — the same sound carrying both the reward and the Lord who grants it. Note too the chosen reward. The earlier danger-verses promise mere survival (the devotee 'passes through unharmed'); the battle-verse promises more — not just life but dhavala yaśa, 'spotless fame', the soldier's highest worldly good. The epithet pāva-pasamiṇa quietly doubles the meaning: the One who stills sins is also the One who stills the foe, so that the outer victory is shadowed by an inner one. This sets up the following verse, which will sweep battle together with disease, fire, water, serpent, thief and beast and declare that the mere naming of Pārśva quiets them all.",
+    "doctrinalContext": "The verse states the Jain logic of grace within a non-theistic frame: a Tīrthaṅkara, being vītarāga, neither fights nor fixes outcomes, yet his prabhāva — the objective potency of devotion to a perfected being — is held to bear fruit for the devotee. The result is deliberately worldly (martial victory, fame), reflecting the protective-stotra register, where laukika boons are admitted as legitimate fruits of bhakti and as a doorway to deeper refuge. The epithet pāva-pasamiṇa keeps the higher aim in view: the true 'enemy' a Jina quells is pāpa, karmic evil, so the heroic battlefield reading is overlaid with the ascetic reading in which the real dappuddhara-riu are the swollen passions (kaṣāya).",
+    "practicalRelevance": "Recited before any contest — literal or figurative — the verse reframes courage as refuge: the practitioner acts with full effort yet credits the outcome to tuha pabhāveṇa, not to ego, and so fights without the pride (darpa) the verse names as the enemy's downfall. For the modern reciter the 'proud foe' is most usefully read inwardly — arrogance, anger, fear — and 'white fame' as the clean conscience won by meeting them without cruelty.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.16 (samaraṁmi tikkha-khaggā…), the battlefield-danger verse this one resolves",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.18 (roga-jala-jalaṇa…), which sums battle with the other great fears",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-Sadda-Mahaṇṇavo (Prakrit Dictionary, Hargovind Das T. Sheth), ISJS English-translation portal",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit equivalents for nijjiya/nirjita, riu/ripu, nivaha, bhaḍa/bhaṭa, jasa/yaśas, dhavala, pabhāva/prabhāva, pasamaṇa/praśamana"
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "identity of Pārśva (pāsajiṇa) as the 23rd Tīrthaṅkara addressed throughout the hymn"
+    },
+    {
+      "title": "Manatunga — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manatunga",
+      "type": "scholarship",
+      "consultedFor": "traditional authorship of the fear-removing stotras ascribed to Ācārya Mānatuṅga"
+    },
+    {
+      "title": "Bhaktamara Stotra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "the protective-stotra genre and Mānatuṅga's association with fear-removing hymns"
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "Sense is secure; the verse is a straightforward subject–verb–object deliverance statement. (1) The book prints the final word as ધ્પભાવેણ; this is read as પ્પભાવેણ = (p)pabhāveṇa = Skt. prabhāveṇa ('by your power'), the only sense that fits the instrumental and the syntax — flagged as a verbatim orthographic anomaly rather than silently corrected. (2) પાવ પસમિણ is parsed as the vocative epithet pāva-pasamiṇa ('O queller of sins'); some recensions read/print it together (pāva-pasamaṇa). (3) narinda-nivahā / bhaḍā are taken in apposition ('the warrior-hosts of kings'); a reading 'kings and their warrior-hosts' is also possible without changing the import. (4) Spellings (nijjiya, dappuddhara, riu, etc.) follow the supplied Gujarati text and may differ from other editions."
+}

@@ -1,0 +1,80 @@
+{
+  "shlokaId": "iriyavahiyam/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whatever living beings I may have hurt as I moved about —",
+  "recitation": "je me jīvā virāhiyā",
+  "wordByWord": [
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "whatever, whichever (ones) — relative pronoun, masc./nom. pl.",
+      "partOfSpeech": "pronoun",
+      "etymology": "From Sanskrit relative yad (pl. ye); Prakrit nominative plural je.",
+      "notes": "Antecedent-less here; it reaches forward to jīvā and is answered by the sense-class enumeration that opens the next verse (egindiyā…pañcindiyā)."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "by me, of me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Enclitic first-person form; Sanskrit me (instrumental/genitive of asmad), retained unchanged in Prakrit.",
+      "notes": "Read instrumentally with the participle: 'injured by me'. Its enclitic lightness keeps the confession personal yet unemphatic — the 'I' is present but not asserted."
+    },
+    {
+      "token": "જીવા",
+      "translit": "jīvā",
+      "gloss": "living beings, souls (nom. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "From √jīv, 'to live'; Sanskrit jīvāḥ → Prakrit jīvā.",
+      "notes": "Subject of the passive participle. Deliberately unqualified here so that verse 6 can grade it by indriya-count."
+    },
+    {
+      "token": "વિરાહિયા",
+      "translit": "virāhiyā",
+      "gloss": "(have been) injured, harmed, violated (past passive participle, nom. pl.)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past passive participle of vi-√rādh/virādh, 'to injure, transgress against'; Sanskrit virādhita → Prakrit virāhiya. Cognate with the preface term virāhaṇā.",
+      "notes": "Passive voice, not active: the focus rests on the beings as recipients of harm rather than on the agent's deed — fitting the verse's turn toward the victim."
+    }
+  ],
+  "literalTranslation": "Whatever living beings (have been) injured by me —",
+  "idiomaticTranslation": "And whatever living beings I have, through my movement, brought to harm —",
+  "elaboration": {
+    "verseByVerseCommentary": "This short line is the hinge of the whole confession. Up to here the reciter has named the path (iriyāvahiyā), the act (gamaṇāgamaṇe), and the ten things one may tread upon (verse 4). Now the grammar turns: from things-trodden to beings-injured, from object to subject of harm. The relative pronoun je opens a clause that this verse deliberately leaves unfinished — it names that living beings were harmed but withholds which kinds, letting verse 6 complete the thought with the fivefold sense-class litany (egindiyā…pañcindiyā). Two word-choices carry the weight. First, the passive virāhiyā: the line does not say 'I injured' but 'beings were injured by me', shifting the gaze onto the harmed, which is the moral posture pratikramaṇa cultivates — to see the other before excusing the self. Second, jīvā stands bare and unqualified, every sentient being without distinction, so that the enumeration to follow reads as a widening, not a narrowing, of accountability. The enclitic me keeps ownership of the fault squarely on the reciter even as the syntax foregrounds the victims. In one breath the sūtra pivots from cataloguing the terrain to confronting the casualties.",
+    "doctrinalContext": "The verse rests on the Jain conviction that virāhaṇā — injury — is measured by the life it touches, not by the doer's intent alone; even unintended harm to a jīva incurs accountability, which is why the reciter must name it. By leaving jīvā unqualified, the line affirms the universality of the soul across all life and sets up the indriya-graded hierarchy that follows, where culpability rises with the victim's sensory capacity. The passive construction embodies ahiṁsā's other-centred logic: the soul harmed, not the ego harming, is what confession must first behold.",
+    "practicalRelevance": "Recited honestly, this line asks the practitioner to pause on the actual casualties of an ordinary day's movement — the unseen insect underfoot, the crushed sprout — rather than abstractly regretting 'mistakes'. It trains the eye to register harm as something done to a living other, the seed of genuine carefulness (īryā-samiti) the next time one walks.",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra 4 (Chajjīvaṇiyā) — the six classes of jīva one must guard against harming",
+        "source": "Mūlasūtra tradition; Schubring, Doctrine of the Jainas"
+      },
+      {
+        "text": "Āvaśyaka-sūtra, Iryāpathika-pratikramaṇa formula",
+        "source": "Ṣaḍ-āvaśyaka canonical tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikraman / Āvaśyaka Sūtra texts (Iriyāvahiyaṁ) — digital scripture library",
+      "url": "https://jainqq.org",
+      "type": "translation",
+      "consultedFor": "verse text and standard English rendering of je me jīvā virāhiyā within the Iryāpathika confession"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "roots √jīv (jīva) and vi-√rādh (virādhita → Prakrit virāhiya) for the etymologies of jīvā and virāhiyā"
+    },
+    {
+      "title": "Jainworld — Scriptures and Pratikraman resources",
+      "url": "https://jainworld.com/scripture/",
+      "type": "scholarship",
+      "consultedFor": "contextual meaning of virāhaṇā/virāhiya and the structure of the Iriyāvahiyaṁ confession of harm to jīvas"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a syntactically incomplete clause: je…virāhiyā opens a relative construction completed only by verse 6's sense-class enumeration, so any standalone translation must end open-ended (rendered here with a dash). virāhiyā is the past passive participle cognate with the preface's virāhaṇā; some editions transliterate the source જીવા as jīvā (long final), others as jīva — the book's reading is honored. me is read instrumentally ('by me'); a genitive sense ('my') is grammatically possible but the confessional context favors the instrumental. Source URLs are stable repository/lexicon landing pages; a specific edition's page anchor should be substituted before publication."
+}

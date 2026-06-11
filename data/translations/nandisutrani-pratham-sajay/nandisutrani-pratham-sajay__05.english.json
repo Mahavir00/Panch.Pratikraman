@@ -1,0 +1,168 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the Jain community pictured as a mighty wheel — its hub restraint and austerity, its rim right-faith — and pray it stay forever victorious.",
+  "recitation": "saṁjama tava tuṁbāragassa, namo sammatta pāriyallassa | appaḍi cakkassa jao, hoi sayā saṅgha cakkassa ||",
+  "wordByWord": [
+    {
+      "token": "સંજમ",
+      "translit": "saṁjama",
+      "gloss": "self-restraint, monastic discipline",
+      "partOfSpeech": "noun",
+      "etymology": "Skt saṁyama, from saṁ- + √yam 'to hold/restrain'; first member of the hub-compound.",
+      "notes": "Glossary term; here it forms the wheel's central nave together with tapa."
+    },
+    {
+      "token": "તવ",
+      "translit": "tava",
+      "gloss": "austerity, ascetic practice",
+      "partOfSpeech": "noun",
+      "etymology": "Skt tapas, from √tap 'to heat, to burn away (karma)'.",
+      "notes": "Glossary term; paired with saṁyama as the driving core of the wheel."
+    },
+    {
+      "token": "તુંબારગસ્સ",
+      "translit": "tuṁbāragassa",
+      "gloss": "of the nave-and-spokes (the wheel's hub)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit tuṁba (Skt tumba, the gourd-shaped nave/boss of a wheel) + āra/āraga (Skt ara 'spoke'); genitive sg -assa = Skt -asya.",
+      "notes": "tumba literally 'gourd' (so the rounded nave); the compound saṁyama-tapa-tuṁbāraga makes restraint and austerity the hub and spokes."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "salutation, homage",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt namaḥ, from √nam 'to bow'; governs the following genitives.",
+      "notes": "namo + genitive ('homage to …') frames the whole wheel-description."
+    },
+    {
+      "token": "સમ્મત્ત",
+      "translit": "sammatta",
+      "gloss": "right-faith (samyag-darśana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sammatta = Skt samyaktva, from samyañc 'right, correct'.",
+      "notes": "Glossary term; here imaged as the wheel's encircling rim."
+    },
+    {
+      "token": "પારિયલ્લસ્સ",
+      "translit": "pāriyallassa",
+      "gloss": "of the felly / rim (the encircling band of the wheel)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāriyalla, with pari- 'around, encircling'; genitive sg -assa.",
+      "notes": "Lexically rare; read here per the wheel-imagery as the nemi (rim) that binds and rolls — see notes."
+    },
+    {
+      "token": "અપ્પડિ",
+      "translit": "appaḍi",
+      "gloss": "irresistible, meeting no counter (un-opposable)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt a-prati, privative a- + prati 'against, counter'; bound to cakka.",
+      "notes": "appaḍi-cakka = Skt apraticakra, 'a wheel against which no rival wheel can stand' — echoing a cakravartin's invincible discus."
+    },
+    {
+      "token": "ચક્કસ્સ",
+      "translit": "cakkassa",
+      "gloss": "of the wheel / discus",
+      "partOfSpeech": "noun",
+      "etymology": "Skt cakra 'wheel'; genitive sg -assa.",
+      "notes": "First occurrence, qualified by appaḍi: 'the irresistible wheel'."
+    },
+    {
+      "token": "જઓ",
+      "translit": "jao",
+      "gloss": "victory, triumph",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jao = Skt jaya, from √ji 'to conquer'.",
+      "notes": "Subject of hoi; 'victory be …'."
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "is / becomes (may there be)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hoi = Skt bhavati, 3rd sg present of √bhū 'to be'.",
+      "notes": "Benedictive force with sayā: 'may there always be'."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, forever",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā = Skt sadā 'always'.",
+      "notes": ""
+    },
+    {
+      "token": "સંઘ",
+      "translit": "saṅgha",
+      "gloss": "the four-fold community",
+      "partOfSpeech": "noun",
+      "etymology": "Skt saṅgha 'assembly'; forms the tatpuruṣa saṅgha-cakka.",
+      "notes": "Glossary term; the object praised throughout the hymn."
+    },
+    {
+      "token": "ચક્કસ્સ",
+      "translit": "cakkassa",
+      "gloss": "of the wheel (here: the Saṅgha-wheel)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt cakra; genitive sg -assa; in compound saṅgha-cakkassa = 'of the Saṅgha-wheel'.",
+      "notes": "Repeated to close the verse, naming the image outright."
+    }
+  ],
+  "literalTranslation": "To [the wheel] whose nave-and-spokes are restraint and austerity, homage — to [the wheel] whose rim is right-faith; victory be always to the irresistible wheel, to the Saṅgha-wheel.",
+  "idiomaticTranslation": "Homage to the wheel whose hub and spokes are restraint and austerity, whose encircling rim is pure right-faith! May victory be forever to that unopposable wheel — the wheel that is the Saṅgha.",
+  "elaboration": {
+    "verseByVerseCommentary": "Moving from the static fortified city of the previous verse to a thing that turns and conquers, the poet now casts the community as a wheel (cakka). The image is engineered with care. A wheel transmits force only when three parts cohere: a solid nave, sound spokes, and a rim that grips the ground. Here the nave-and-spokes (tuṁbāraga) are saṁyama and tapa — restraint and austerity, the inner discipline that bears the load and drives motion; the encircling rim (pāriyalla) is sammatta, right-faith, the band that holds the whole together and alone touches the world. Faith on the circumference, conduct at the centre: the wheel rolls forward only when both are intact. The poet then names it appaḍi-cakka, the 'irresistible wheel' — Sanskrit apraticakra, a wheel that meets no answering wheel. The resonance is the cakravartin's divine discus (cakra-ratna), the world-conqueror's weapon no rival can withstand; the Saṅgha is the spiritual sovereign's invincible wheel, and behind it glints the dharma-cakra, the turning of the teaching. The verse is not description but benediction: namo (homage) opens it and jao hoi sayā — 'may victory be always' — closes it. The advance to the next verse's war-chariot is already prepared: this is the second of the martial similes, the community imagined not merely as a stronghold but as a power in motion, ever-rolling, ever-winning. The whole gāthā hangs on a single grammatical hinge — namo governing a chain of genitives (tuṁbāragassa … pāriyallassa … cakkassa … saṅgha-cakkassa), so that every clause bows to one and the same wheel.",
+    "doctrinalContext": "The verse quietly stages the ratna-traya (three jewels). Right-faith (samyag-darśana) is placed not alongside but around restraint and austerity — as the rim encircles the hub. This is precise Jain doctrine: without samyaktva, ascetic practice is mere bodily affliction (akāma-nirjarā) that spins without conquering; faith is what makes tapa and saṁyama soteriologically effective, binding conduct into a wheel that actually rolls toward liberation. The epithet apraticakra asserts the invincibility of that disciplined, faith-girt community over rival doctrine — victory not by force but by the integrity of restraint, austerity, and correct insight working as one mechanism.",
+    "practicalRelevance": "Reciting this within the Pākṣika svādhyāya, the practitioner is invited to check that their own austerity and restraint are 'rimmed' by right-faith rather than spinning on ego or mere habit; only then does practice carry one forward. The closing 'jao hoi sayā saṅgha-cakkassa' is chanted as an active blessing of victory upon the whole four-fold community to which the reciter belongs.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (the three jewels as the path)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Cakravartin's cakra-ratna as the invincible discus, source of the apraticakra epithet",
+        "source": "Śvetāmbara cosmographical tradition"
+      },
+      {
+        "text": "Nandī-sūtra opening Saṅgha-stuti (the chain of Saṅgha similes)",
+        "source": "Nandī-sūtra, Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tumba (Sanskrit/Prakrit dictionary entry — 'gourd', incl. the rounded nave of a wheel)",
+      "url": "https://www.wisdomlib.org/definition/tumba",
+      "type": "dictionary",
+      "consultedFor": "Sense of tumba underlying tuṁbāraga (the gourd-shaped nave/hub of a wheel)"
+    },
+    {
+      "title": "Cakra (multi-tradition dictionary entry — wheel/discus)",
+      "url": "https://www.wisdomlib.org/definition/cakra",
+      "type": "dictionary",
+      "consultedFor": "Meaning of cakka/cakra and the discus/wheel imagery of appaḍi-cakka and saṅgha-cakka"
+    },
+    {
+      "title": "Samyaktva (Jain dictionary entry — right-faith)",
+      "url": "https://www.wisdomlib.org/definition/samyaktva",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sammatta = samyaktva, the wheel's rim"
+    },
+    {
+      "title": "Saṃyama (Jain/Sanskrit dictionary entry — self-restraint)",
+      "url": "https://www.wisdomlib.org/definition/samyama",
+      "type": "dictionary",
+      "consultedFor": "Gloss of saṁjama = saṁyama as monastic restraint"
+    },
+    {
+      "title": "Jaya (dictionary entry — victory)",
+      "url": "https://www.wisdomlib.org/definition/jaya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of jao = jaya and the benedictive 'victory be always'"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The wheel-reading (hub = saṁyama+tapa, rim = right-faith, an irresistible Saṅgha-wheel) follows the authoritative structure tradition and the verse's own grammar (namo governing genitives ending -assa). 'pāriyalla' is lexically rare; it is taken here as the felly/rim (nemi) of the wheel on the strength of the encircling pari- and the established hub-rim imagery — a commentarial, not strictly dictionary-attested, gloss, so flagged as somewhat uncertain. 'tuṁbāraga' is parsed as tumba (gourd-shaped nave) + āra (spoke); some recensions may read the second member differently. Note: several open-web AI 'translations' of this gāthā invert its sense (reading appaḍi as 'just as' or treating the verse as condemning those fallen from the Saṅgha); these are spurious and were not followed. Verse text, anusvāras and conjuncts are kept verbatim per the Anchalgachchha/Vidhipaksha book; minor mātrā/spelling variants across Nandī recensions are possible."
+}

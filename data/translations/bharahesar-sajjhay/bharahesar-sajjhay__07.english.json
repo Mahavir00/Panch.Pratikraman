@@ -1,0 +1,136 @@
+{
+  "shlokaId": "bharahesar-sajjhay/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May all these great souls, full of every virtue, grant us well-being — for merely speaking their names melts away the heaped-up bonds of our wrongdoing.",
+  "recitation": "emāi mahāsattā, diṁtu suhaṁ guṇāgaṇehiṁ saṁjuttā | jesiṁ nāmaggahaṇe, pāvapabaṁdhā vilayaṁ jaṁti ||",
+  "wordByWord": [
+    {
+      "token": "એમાઇ",
+      "translit": "emāi",
+      "gloss": "these and others like them; all such (souls named above)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit ema (= Skt. ete, 'these') + āi (= Skt. ādi, 'and the rest, et cetera'); a gathering-word that sweeps up every exemplar listed in the preceding verses.",
+      "notes": "Functions as the grammatical subject, collecting the whole roll-call of vv.1–6 into a single referent."
+    },
+    {
+      "token": "મહાસત્તા",
+      "translit": "mahāsattā",
+      "gloss": "great beings, mighty souls (mahā-sattvas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mahā-sattva ('great being / one of great courage and spirit') → Prakrit mahāsatta; nominative plural mahāsattā.",
+      "notes": "Predicate noun describing emāi — 'these (are) great souls.'"
+    },
+    {
+      "token": "દિંતુ",
+      "translit": "diṁtu",
+      "gloss": "may (they) give, may (they) grant",
+      "partOfSpeech": "verb",
+      "etymology": "From √dā ('to give'); Skt. imperative dadatu → Prakrit diṁtu, 3rd person plural imperative.",
+      "notes": "The benedictive heart of the half-verse; an optative of blessing rather than a request for a favour."
+    },
+    {
+      "token": "સુહં",
+      "translit": "suhaṁ",
+      "gloss": "well-being, happiness, weal (sukha)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sukha → Prakrit suha; accusative singular suhaṁ, the object of diṁtu.",
+      "notes": ""
+    },
+    {
+      "token": "ગુણાગણેહિં",
+      "translit": "guṇāgaṇehiṁ",
+      "gloss": "with hosts (multitudes) of virtues",
+      "partOfSpeech": "compound",
+      "etymology": "guṇa ('virtue') + gaṇa ('host, multitude') → guṇa-gaṇa; instrumental plural guṇāgaṇehiṁ (= Skt. guṇa-gaṇaiḥ), the long ā by compound-sandhi.",
+      "notes": "Instrument of saṁjuttā — that with which the souls are equipped."
+    },
+    {
+      "token": "સંજુત્તા",
+      "translit": "saṁjuttā",
+      "gloss": "joined to, endowed with, fully furnished (with)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saṁyukta (sam + √yuj, 'to join') → Prakrit saṁjutta; nominative plural saṁjuttā, qualifying mahāsattā.",
+      "notes": ""
+    },
+    {
+      "token": "જેસિં",
+      "translit": "jesiṁ",
+      "gloss": "of whom, whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun ya- (Skt. yad); genitive plural yeṣāṁ → Prakrit jesiṁ.",
+      "notes": "Opens the relative clause that states the fruit of remembrance."
+    },
+    {
+      "token": "નામગ્ગહણે",
+      "translit": "nāmaggahaṇe",
+      "gloss": "at the taking/uttering of the name(s)",
+      "partOfSpeech": "compound",
+      "etymology": "nāma ('name') + gahaṇa (Skt. grahaṇa, 'taking, seizing'; the conjunct doubles to -ggahaṇa) → nāma-ggahaṇa; locative singular -e, 'on the occasion of name-taking.'",
+      "notes": "The locative carries a conditional-temporal force: 'as soon as / whenever the name is uttered.'"
+    },
+    {
+      "token": "પાવપબંધા",
+      "translit": "pāvapabaṁdhā",
+      "gloss": "the bonds / accumulated chains of sin",
+      "partOfSpeech": "compound",
+      "etymology": "pāva (Skt. pāpa, 'sin, demerit') + pabaṁdha (Skt. prabandha, 'continuous binding, unbroken series') → pāpa-prabandha; nominative plural pāvapabaṁdhā.",
+      "notes": "prabandha implies not isolated faults but the continuous, compounding chain of accumulated wrong-doing."
+    },
+    {
+      "token": "વિલયં",
+      "translit": "vilayaṁ",
+      "gloss": "dissolution, melting away, destruction",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vilaya (vi + √lī, 'to dissolve, melt, vanish') → Prakrit vilaya; accusative singular vilayaṁ, governed by jaṁti.",
+      "notes": "vilayaṁ jaṁti = idiomatically 'go to dissolution,' i.e. 'are dissolved.'"
+    },
+    {
+      "token": "જંતિ",
+      "translit": "jaṁti",
+      "gloss": "(they) go, come to, reach",
+      "partOfSpeech": "verb",
+      "etymology": "From √yā / √i ('to go'); Skt. yānti → Prakrit jaṁti, 3rd person plural present.",
+      "notes": "With vilayaṁ forms the phrasal verb 'pass into dissolution.'"
+    }
+  ],
+  "literalTranslation": "These and the like — great souls, endowed with hosts of virtues — may they grant well-being; at the utterance of whose names the bonds of sin pass into dissolution.",
+  "idiomaticTranslation": "All these great souls, arrayed in every virtue — may they bestow upon us well-being and grace; for at the mere speaking of their names, the gathered chains of our sin melt away into nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "After six verses of unbroken naming, this gāthā stops listing and turns to gather and to bless. The single word emāi ('these and all such') sweeps Bharata, Bāhubali, Abhayakumāra, Megha-kumāra and the rest into one collective subject, signalling that Panel I is complete. Two verbs now carry the verse where before there were only names: diṁtu ('may they grant') in the first line, jaṁti ('they pass') in the second — a deliberate movement from petition to declaration. The first half asks; the second half states why the asking is sound. Notice the precise reason the souls are praised as guṇāgaṇehiṁ saṁjuttā — 'endowed with hosts of virtues' — and not by their deeds: the litany honours character, not biography, because it is virtue (guṇa) that the reciter is meant to draw toward himself. The relative clause then gives the mechanism in its tightest form: nāma-ggahaṇe, 'at the very taking of the name,' the pāva-pabandhā — not stray faults but the continuous, compounding chain of accumulated wrong — go to vilaya, dissolution. The grammar is almost instantaneous: locative of occasion ('on name-uttering') answered at once by the present jaṁti ('they dissolve'). This is the verse that converts the preceding catalogue from a memory-exercise into a spiritual instrument, and it is answered, panel-for-panel, by the satīs' own closing verse later in the sutra.",
+    "doctrinalContext": "The claim that uttering names dissolves the 'bonds of sin' must be read through Jain karma-theory, not as magic. What the recitation changes is the reciter's adhyavasāya (mental disposition): holding the virtuous in mind generates śubha-bhāva (auspicious feeling) and praśasta-rāga (laudable attachment to the good), which produce saṁvara (stoppage of fresh inflow) and nirjarā (shedding) of demerit — so the pāva-pabandhā loosen from within. The optative diṁtu ('may they grant') is therefore a conventional benediction: the liberated and exemplary souls petition for nothing and dispense nothing by fiat; the 'well-being' arises in the one who remembers. guṇa-gaṇa-anusmaraṇa — the calling-to-mind of a multitude of virtues — is itself the meritorious act, consistent with the tradition's teaching that praise of the worthy (thui-maṅgala) yields knowledge, faith and conduct in the praiser.",
+    "practicalRelevance": "Recite this verse not as a wish addressed outward but as a hinge turned inward: let emāi gather every name you have just spoken, and as you reach nāma-ggahaṇe, consciously intend that remembering their virtue is meant to reshape your own conduct today. The dissolving of 'sin's bonds' is felt as a softening of the heart that has just dwelt on the good.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 29 (thava-thui-maṅgala — praise-hymns yield knowledge, faith and conduct, and bodhi-lābha to the praiser)",
+        "source": "Hermann Jacobi (tr.), Jaina Sūtras Part II, Sacred Books of the East 45"
+      },
+      {
+        "text": "Bharahesar Sajjhāy v.13 — the answering phala-gāthā that seals the satī panel ('akalaṅka-sīla… jasa-paḍaha vajjai tihuaṇe')",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vilaya, Vilāya: 24 definitions (vi + √lī, 'to dissolve, melt away')",
+      "url": "https://www.wisdomlib.org/definition/vilaya",
+      "type": "dictionary",
+      "consultedFor": "Confirming the root sense of vilaya as 'dissolution/melting away' for vilayaṁ jaṁti."
+    },
+    {
+      "title": "Mahasattva, Mahāsattva: 14 definitions ('great being, soul of great courage/spirit')",
+      "url": "https://www.wisdomlib.org/definition/mahasattva",
+      "type": "dictionary",
+      "consultedFor": "Glossing mahāsattā / mahā-sattva in the sense of 'great soul.'"
+    },
+    {
+      "title": "Prabandha, Prabaṃdha: 23 definitions ('continuous connection, unbroken series')",
+      "url": "https://www.wisdomlib.org/definition/prabandha",
+      "type": "dictionary",
+      "consultedFor": "Establishing prabandha as 'continuous binding/series' to justify pāva-pabandhā as the compounding chain of sin rather than isolated faults."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The book's verbatim second line reads 'પાવપબંધા * વિલયં જંતિ' (pāvapabaṁdhā vilayaṁ jaṁti); the asterisk is the book's own pāṭhāntara (variant-reading) footnote marker, not part of the recited text. A widely transmitted alternate recension reads 'પાવપ્પબંધા વિલિજ્જંતિ' (pāvappabandhā vilijjanti, 'the bonds of sin dissolve'), with a doubled conjunct and a passive verb; the sense is equivalent, so the variant does not affect the translation. The opening word also appears as emāia / emāie in some recensions. diṁtu is here taken as the imperative/benedictive 'may they grant'; the agency, on Jain principles, lies in the reciter's transformed disposition (noted in doctrinalContext). Verse and meaning are secure; only the orthographic/recensional variants above are flagged."
+}

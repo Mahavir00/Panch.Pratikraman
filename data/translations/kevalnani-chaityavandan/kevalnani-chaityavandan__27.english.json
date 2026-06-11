@@ -1,0 +1,354 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/27",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Adding up the numbers — one hundred and fifty-two crore, ninety-four lakh, sixty-four thousand, one hundred forty — the poet bows to all the shining Jina-images of the upper heavens, reckoning each celestial Jina-temple at one hundred eighty images.",
+  "recitation": "cāla — eksokoḍī re, bāvankoḍī e. lākhacorāṇuṁ re, saṅkhyā joḍīe. truṭaka — joḍīe cosaṭhasahasa, ekso cālīse tihāṁ āgalī. jinaprāsāda ekso asia lekhe, vandũ pratimā ujalī. caityasaṅkhyā ūrdhvaloke, vīra vacana vikhyāta e. 'vācaka mūlā' kahe bhaṇajo, stavana e prabhāta e.",
+  "wordByWord": [
+    {
+      "token": "ચાલ",
+      "translit": "cāla",
+      "gloss": "the 'cāl' — the flowing opening melodic movement of the dhāla",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati cāl, from Sanskrit cala/calana 'moving, gait'; here the running tune of a two-part dhāla",
+      "notes": "A metrical-musical label, not a content word; kept verbatim per book orthography."
+    },
+    {
+      "token": "એકસોકોડી",
+      "translit": "eksokoḍī",
+      "gloss": "one hundred crore (1,00,00,00,000)",
+      "partOfSpeech": "compound",
+      "etymology": "ek 'one' + so (śata) 'hundred' + koḍī, from Sanskrit koṭi 'crore, ten million'",
+      "notes": ""
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! — a chanting/exclamatory filler particle",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati/Apabhraṁśa vocative-exclamatory re",
+      "notes": "Metrical refrain-filler with no countable value."
+    },
+    {
+      "token": "બાવનકોડી",
+      "translit": "bāvankoḍī",
+      "gloss": "fifty-two crore (52,00,00,000)",
+      "partOfSpeech": "compound",
+      "etymology": "bāvan, from Sanskrit dvāpañcāśat 'fifty-two' + koḍī (koṭi)",
+      "notes": "100 crore + 52 crore = 152 crore, the leading figure of the total."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "— (a metrical end-particle/emphatic)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati deictic/emphatic e",
+      "notes": "Line-closing filler, common in dhāla refrains."
+    },
+    {
+      "token": "લાખચોરાણું",
+      "translit": "lākhacorāṇuṁ",
+      "gloss": "ninety-four lakh (94,00,000)",
+      "partOfSpeech": "compound",
+      "etymology": "lākh, from Sanskrit lakṣa 'hundred thousand' + corāṇuṁ, from Sanskrit caturnavati 'ninety-four'",
+      "notes": ""
+    },
+    {
+      "token": "રે",
+      "translit": "re",
+      "gloss": "O! — exclamatory filler particle",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સંખ્યા",
+      "translit": "saṅkhyā",
+      "gloss": "the number, the sum/tally",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit saṅkhyā 'enumeration, count', from sam + √khyā 'to reckon'",
+      "notes": ""
+    },
+    {
+      "token": "જોડીએ",
+      "translit": "joḍīe",
+      "gloss": "let us join (it) on / add it together",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati joḍvuṁ 'to join, add', from Sanskrit yojayati (√yuj 'to yoke, unite'); hortative-optative",
+      "notes": "Invites the reciter to keep adding the running totals."
+    },
+    {
+      "token": "ત્રુટક",
+      "translit": "truṭaka",
+      "gloss": "the 'truṭak' — the quick, broken second movement of the dhāla",
+      "partOfSpeech": "noun",
+      "etymology": "from Sanskrit truṭ/truṭita 'broken, snapped'; the clipped coda-metre that answers the cāl",
+      "notes": "Structural label; the next word repeats its last word (joḍīe), the typical 'truṭak' interlocking device."
+    },
+    {
+      "token": "જોડીએ",
+      "translit": "joḍīe",
+      "gloss": "joining on / adding (we continue)",
+      "partOfSpeech": "verb",
+      "etymology": "see joḍīe above",
+      "notes": "Echo-repetition picking up the cāl's last word to open the truṭak — a recurring chain-link of this hymn's metre."
+    },
+    {
+      "token": "ચોસઠસહસ",
+      "translit": "cosaṭhasahas",
+      "gloss": "sixty-four thousand (64,000)",
+      "partOfSpeech": "compound",
+      "etymology": "cosaṭha, from Sanskrit catuḥṣaṣṭi 'sixty-four' + sahas, from Sanskrit sahasra 'thousand'",
+      "notes": ""
+    },
+    {
+      "token": "એકસો",
+      "translit": "ekso",
+      "gloss": "one hundred (100)",
+      "partOfSpeech": "compound",
+      "etymology": "ek 'one' + so, from Sanskrit śata 'hundred'",
+      "notes": ""
+    },
+    {
+      "token": "ચાલીસે",
+      "translit": "cālīse",
+      "gloss": "forty (40) [+ hundred = one hundred forty]",
+      "partOfSpeech": "compound",
+      "etymology": "cālīs, from Sanskrit catvāriṁśat 'forty'; locative/adverbial -e",
+      "notes": "ekso + cālīse = 140, the final trailing figure of the grand total."
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there / thereto",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati tihāṁ 'there', from Prakrit tahiṁ (Sanskrit tatra)",
+      "notes": ""
+    },
+    {
+      "token": "આગલી",
+      "translit": "āgalī",
+      "gloss": "further, in addition (added on top)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati āgaḷ 'ahead, beyond', from Sanskrit agra 'front, further'",
+      "notes": "Marks the 140 as the last increment appended to the running sum."
+    },
+    {
+      "token": "જિનપ્રાસાદ",
+      "translit": "jinaprāsāda",
+      "gloss": "Jina-temple(s), Jina-mansion(s)",
+      "partOfSpeech": "compound",
+      "etymology": "jina + Sanskrit prāsāda 'palace, lofty temple', from pra + √sad",
+      "notes": "A synonym of jinhar/jinabhavana used here for the heavenly shrines."
+    },
+    {
+      "token": "એકસો",
+      "translit": "ekso",
+      "gloss": "one hundred (100)",
+      "partOfSpeech": "compound",
+      "etymology": "see ekso above",
+      "notes": ""
+    },
+    {
+      "token": "અસિઅ",
+      "translit": "asia",
+      "gloss": "eighty (80) [+ hundred = one hundred eighty]",
+      "partOfSpeech": "compound",
+      "etymology": "from Prakrit asī / Sanskrit aśīti 'eighty'",
+      "notes": "ekso + asia = 180, the canonical number of images enshrined in each eternal Jina-temple."
+    },
+    {
+      "token": "લેખે",
+      "translit": "lekhe",
+      "gloss": "at the reckoning of / by the count of",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit lekha 'reckoning, account', from √likh; locative-instrumental -e",
+      "notes": "i.e. 'figuring 180 images per temple', which yields the multiplied total above."
+    },
+    {
+      "token": "વંદું",
+      "translit": "vandũ",
+      "gloss": "I bow to, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit vande, √vand 'to salute, praise'; first-person present",
+      "notes": "The devotional pivot of the verse — the count culminates in an act of homage."
+    },
+    {
+      "token": "પ્રતિમા",
+      "translit": "pratimā",
+      "gloss": "the image(s), icon(s) of the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pratimā 'image, likeness', from prati + √mā 'to measure against'",
+      "notes": ""
+    },
+    {
+      "token": "ઉજલી",
+      "translit": "ujalī",
+      "gloss": "bright, white-luminous, radiant",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ujaḷuṁ 'bright, white', from Sanskrit ujjvala 'shining', ud + √jval 'to blaze'",
+      "notes": "Evokes the gleaming crystal/precious-stone images of the heavenly temples."
+    },
+    {
+      "token": "ચૈત્યસંખ્યા",
+      "translit": "caityasaṅkhyā",
+      "gloss": "the count of the shrines/sacred images",
+      "partOfSpeech": "compound",
+      "etymology": "caitya 'shrine, sacred image' (from citā/cit) + saṅkhyā 'number'",
+      "notes": ""
+    },
+    {
+      "token": "ઊર્ધ્વલોકે",
+      "translit": "ūrdhvaloke",
+      "gloss": "in the upper world (the heavens)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ūrdhva 'upper, high' + loka 'world'; locative -e",
+      "notes": "Locates this census in dhāla 6's domain, the heavenly kalpas/graiveyakas/anuttaras."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra (Mahāvīra), the last Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vīra 'hero'; the epithet of Vardhamāna Mahāvīra",
+      "notes": ""
+    },
+    {
+      "token": "વચન",
+      "translit": "vacana",
+      "gloss": "word, utterance, teaching",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vacana 'speech', from √vac 'to speak'",
+      "notes": "'Vīra-vacana' = the authority for these figures is the Jina's own pronouncement (āgama)."
+    },
+    {
+      "token": "વિખ્યાત",
+      "translit": "vikhyāta",
+      "gloss": "renowned, well-attested, famous",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vikhyāta 'celebrated', vi + √khyā 'to make known'",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "— (emphatic end-particle: 'indeed, this')",
+      "partOfSpeech": "particle",
+      "etymology": "see e above",
+      "notes": ""
+    },
+    {
+      "token": "વાચક",
+      "translit": "vācaka",
+      "gloss": "Vācaka (the Upādhyāya/preceptor rank)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vācaka 'reader, expounder', from √vac",
+      "notes": "Part of the poet's recurring signature."
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "Mūlā (the poet's name)",
+      "partOfSpeech": "noun",
+      "etymology": "proper name; cf. Sanskrit mūla 'root, foundation'",
+      "notes": "'Vācaka Mūlā kahe' is the dhāla-sealing chhāpa (poetic signature)."
+    },
+    {
+      "token": "કહે",
+      "translit": "kahe",
+      "gloss": "says, declares",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati kahevuṁ, from Sanskrit kathayati (√kath 'to tell')",
+      "notes": ""
+    },
+    {
+      "token": "ભણજો",
+      "translit": "bhaṇajo",
+      "gloss": "do recite/study (it)! — polite imperative",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati bhaṇvuṁ 'to recite, learn', from Sanskrit/Prakrit bhaṇati (√bhaṇ 'to speak, recite')",
+      "notes": "Addressed to the worshipper: a direct injunction to chant this stavana."
+    },
+    {
+      "token": "સ્તવન",
+      "translit": "stavana",
+      "gloss": "this hymn of praise",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit stavana 'praising', from √stu 'to praise'",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e 'this, that'",
+      "notes": ""
+    },
+    {
+      "token": "પ્રભાત",
+      "translit": "prabhāta",
+      "gloss": "at dawn, in the (early) morning",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit prabhāta 'daybreak', pra + √bhā 'to shine forth'",
+      "notes": "Ties the recitation to the pre-dawn Rāi service in which this caityavandana is sung."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "— (emphatic end-particle)",
+      "partOfSpeech": "particle",
+      "etymology": "see e above",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "One hundred crore — O! — fifty-two crore; ninety-four lakh — O! — join the number. Joining on sixty-four thousand, one hundred forty more thereto: reckoning each Jina-temple at one hundred eighty, I bow to the shining images. This is the count of shrines in the upper world, renowned by Vīra's word. Vācaka Mūlā says: recite this hymn at dawn.",
+  "idiomaticTranslation": "Count it up: a hundred crore and fifty-two crore, ninety-four lakh — add them on; add sixty-four thousand, and a hundred-and-forty more on top. Figuring each heavenly Jina-temple at one hundred eighty images, I bow before all those radiant icons. Such is the tally of the upper-world shrines, famed in the very word of Lord Vīra. 'Vācaka Mūlā says: chant this hymn at the break of dawn.'",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the upper-world (ūrdhva-loka) entry in the hymn's three-world census, and it is built as a single running sum that the chanter literally assembles aloud: 152 crore + 94 lakh + 64 thousand + 140 = 1,52,94,64,140. The repeated joḍīe ('add it on') turns arithmetic into liturgy — the cāl states the crores and lakhs, and the truṭak, hooking back on its own last word, completes the thousands and the trailing hundred-forty. The key that unlocks the figure is jinaprāsāda ekso asia lekhe: 'reckoning each Jina-temple at one hundred eighty (images)'. Tradition fixes the upper-world śāśvata Jina-temples at 84,97,023, and each eternal shrine houses exactly 180 images; 84,97,023 × 180 gives precisely the verse's grand total. So the headline number is not a temple-count but an image-count, which is why the action-word is vandũ pratimā ujalī — 'I bow to the gleaming images', not merely to the buildings. Where the immediately preceding verse summed the temples (jinhar) of the worlds, this one zooms in on the heavens and converts shrines into icons of homage. The poet then guards against any charge of invention: caityasaṅkhyā ūrdhvaloke, vīra vacana vikhyāta — the count is 'renowned by the word of Vīra', i.e. it rests on the Jina's own omniscient pronouncement preserved in the āgamas, not on the poet's reckoning. The closing chhāpa, 'Vācaka Mūlā says: recite this hymn at dawn (prabhāta)', both signs the section and roots it in its devotional moment — the pre-sunrise recitation — making the numerical sweep an act of morning worship rather than a cosmographic exercise.",
+    "doctrinalContext": "The verse rests on the Jaina doctrine of śāśvata caityas and bimbas — Jina-temples and images that are uncreated and eternal, existing in fixed numbers throughout the loka independent of any age or human agency. Bowing to them is not idolatry of made objects but veneration of the Jina-quality (vītarāga, omniscient) they everlastingly represent; the worshipper's homage reaches a presence that never lapses. The 180-images-per-temple norm is standard saṅgrahaṇī cosmography, and the appeal to vīra-vacana enshrines the principle of āpta-vacana: cosmological figures beyond sense-perception are accepted on the authority of the omniscient Jina's teaching. Reciting the immense total is a deliberate devotional technology — it dilates the small self before the boundlessness of Jina-presence and thereby strengthens samyaktva (right faith).",
+    "practicalRelevance": "Chant it as the poet directs — joḍīe — actually building the sum in the mind, so that each added figure widens your inner gaze from a single temple-image to a billion-and-a-half radiant icons filling the heavens. Let the number produce awe, not accountancy: you are not auditing a ledger but mentally circumambulating the upper world at dawn, offering one act of vandanā that embraces every eternal image at once, and steadying your faith for the day ahead.",
+    "crossReferences": [
+      {
+        "text": "Saṅgrahaṇī-ratna / Bṛhat-saṅgrahaṇī — count of śāśvata caityas and the 180-bimba-per-temple reckoning across the three lokas",
+        "source": "Śrīcandra-sūri, Bṛhat-saṅgrahaṇī (Śvetāmbara cosmographic tradition)"
+      },
+      {
+        "text": "Tiloyapaṇṇattī — enumeration of eternal Jina-images of the heavens (akṛtrima caityālayas)",
+        "source": "Yativṛṣabha, Tiloyapaṇṇattī (Prakrit cosmology)"
+      },
+      {
+        "text": "Preceding verse (kevalnani-chaityavandan, dhāla 6) summing the jinhar of the worlds (lākh corāsī), to which this verse adds the upper-world image total",
+        "source": "Vācaka Mūlā, Kevalnāṇī Bṛhat Caityavandana (Anchalgaccha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratimā — 40 definitions (Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/pratima",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of pratimā (Jina-image) and its Jaina usage."
+    },
+    {
+      "title": "Śāśvata — 24 definitions (Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Sense of śāśvata 'eternal' as applied to caityas/bimbas underlying the verse's count."
+    },
+    {
+      "title": "Ūrdhvaloka — 11 definitions (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/urdhvaloka",
+      "type": "dictionary",
+      "consultedFor": "Definition and cosmographic placement of ūrdhva-loka (upper world) located in the verse."
+    },
+    {
+      "title": "Achal Gaccha (Anchalgachchha / Vidhipaksha)",
+      "url": "https://en.wikipedia.org/wiki/Achal_Gaccha",
+      "type": "scholarship",
+      "consultedFor": "Lineage identity confirming Vācaka Mūlā's Anchalgaccha (Vidhipakṣa) signature context."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The four addends are read directly from the verse: eksokoḍī (100 cr) + bāvankoḍī (52 cr) = 152 cr; lākhacorāṇuṁ = 94 lakh; cosaṭhasahas = 64 thousand; ekso cālīse = 140 — total 1,52,94,64,140. This equals the traditional upper-world śāśvata Jina-image figure derived as 84,97,023 heavenly Jina-temples × 180 images each, the per-temple reckoning the verse states explicitly (ekso asia lekhe = 180). The temple-count 84,97,023 is supplied from the standard Śvetāmbara saṅgrahaṇī tradition, not from this verse's wording, and minor variant totals (e.g. 44,760 vs 64,140 trailing figures) circulate in secondary summaries; the verse's own arithmetic, followed here, yields 64,140. 'asia' is read as aśīti (80); 'caitya-saṅkhyā' here denotes the count of the venerated images/shrines collectively. cāl and truṭak are retained verbatim as the two metrical movements of the dhāla. Spellings kept per the Anchalgaccha (Vidhipaksha) edition; the precise śāśvata sub-totals per heaven were not independently audited."
+}

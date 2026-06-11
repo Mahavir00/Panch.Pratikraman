@@ -1,0 +1,242 @@
+{
+  "shlokaId": "laghu-atiyar/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the seventh vow, in which a Jain householder sets a daily limit on what they enjoy — and here it lists fourteen everyday things (such as food, footwear, clothes, flowers, travel and bathing) to keep within bounds.",
+  "recitation": "7. sātamuṁ bhogopabhoga-vrata. dvividha, bhojanataḥ karmataś ca. tatra bhojanataḥ —\nsacitta davva viggaï, uvāṇa taṁbola cīra kusumesu |\nvāhaṇa sayaṇa vilevaṇa, baṁbha disi nhāṇa bhattesu",
+  "wordByWord": [
+    {
+      "token": "૭.",
+      "translit": "7.",
+      "gloss": "Seventh — the numeral marking this as the seventh of the twelve householder vows.",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati digit for 'seven'; cf. Skt sapta.",
+      "notes": "Per the preface's caveat, the operative count is the Gujarati ordinal of the vow, not a page-marker."
+    },
+    {
+      "token": "સાતમું",
+      "translit": "sātamuṁ",
+      "gloss": "the seventh",
+      "partOfSpeech": "adj",
+      "etymology": "Guj sātamũ < Skt saptama, 'seventh'.",
+      "notes": ""
+    },
+    {
+      "token": "ભોગોપભોગવ્રત",
+      "translit": "bhogopabhoga-vrata",
+      "gloss": "the vow limiting enjoyment and repeated-enjoyment",
+      "partOfSpeech": "compound",
+      "etymology": "bhoga ('one-time consumable' — food, drink, flowers) + upabhoga ('repeatedly usable' — clothes, vehicles, dwelling) + vrata. The first of these two members names things used once, the second things used again and again.",
+      "notes": "The vow is the second of the three guṇavrata."
+    },
+    {
+      "token": "દ્વિવિધ",
+      "translit": "dvividha",
+      "gloss": "two-fold, of two kinds",
+      "partOfSpeech": "adj",
+      "etymology": "dvi ('two') + vidha ('kind, mode').",
+      "notes": "Announces the structural split that organises the whole vow."
+    },
+    {
+      "token": "ભોજનતઃ",
+      "translit": "bhojanataḥ",
+      "gloss": "by way of food / on the side of eating",
+      "partOfSpeech": "adverb",
+      "etymology": "bhojana ('food, eating') + ablative suffix -taḥ ('from, by way of').",
+      "notes": "First of the two divisions."
+    },
+    {
+      "token": "કર્મતશ્ચ",
+      "translit": "karmataś ca",
+      "gloss": "and by way of occupation (livelihood-action)",
+      "partOfSpeech": "compound",
+      "etymology": "karman ('action, trade') + -taḥ ('by way of') + ca ('and'); -taḥ ca → -taś ca by sandhi.",
+      "notes": "Second division; its content (the fifteen karmādāna) is elaborated in the following verse, not here."
+    },
+    {
+      "token": "તત્ર",
+      "translit": "tatra",
+      "gloss": "therein, of these (two)",
+      "partOfSpeech": "adverb",
+      "etymology": "tad ('that') + locative suffix -tra ('there').",
+      "notes": "Pivots to expound the first division."
+    },
+    {
+      "token": "ભોજનતઃ–",
+      "translit": "bhojanataḥ —",
+      "gloss": "as for the food-side (namely):",
+      "partOfSpeech": "adverb",
+      "etymology": "Repetition of bhojana + -taḥ; the dash introduces the enumerating gāthā that follows.",
+      "notes": "The repetition resumes the topic before listing its items."
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "animate (living) food",
+      "partOfSpeech": "noun",
+      "etymology": "sa- ('with') + citta ('consciousness, life'); Pkt sacitta = Skt sacitta, 'possessing life'.",
+      "notes": "Restraint here means limiting or renouncing un-rendered, still-living foodstuffs (sacitta-tyāga)."
+    },
+    {
+      "token": "દવ્વ",
+      "translit": "davva",
+      "gloss": "substances — i.e. the number of distinct food-items allowed",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt davva = Skt dravya, 'substance, material thing'.",
+      "notes": "In the niyama practice this fixes how many separate items (dravya) one will eat in a day."
+    },
+    {
+      "token": "વિગ્ગઇ",
+      "translit": "viggaï",
+      "gloss": "rich/processed foods (the vikṛtis — ghee, oil, milk, curds, sugar/jaggery, fried things)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vigaï/viggaï < Skt vigati / vikṛti, 'altered, transformed (product)'.",
+      "notes": "Doubled -gg- is the book's spelling; the term denotes the dietary vikṛtis a layperson caps for the day."
+    },
+    {
+      "token": "ઉવાણ",
+      "translit": "uvāṇa",
+      "gloss": "footwear (sandals)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt uvāṇaha < Skt upānah / upānaha, 'shoe'.",
+      "notes": "Shortened from uvāṇaha to fit the metre."
+    },
+    {
+      "token": "તંબોલ",
+      "translit": "taṁbola",
+      "gloss": "betel (pān)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt taṁbola < Skt tāmbūla, 'betel quid'.",
+      "notes": ""
+    },
+    {
+      "token": "ચીર",
+      "translit": "cīra",
+      "gloss": "cloth, garments",
+      "partOfSpeech": "noun",
+      "etymology": "Skt cīra, 'strip of cloth, garment'.",
+      "notes": "Caps the number of garments worn/changed."
+    },
+    {
+      "token": "કુસુમેસુ",
+      "translit": "kusumesu",
+      "gloss": "in [the matter of] flowers",
+      "partOfSpeech": "noun",
+      "etymology": "kusuma ('flower') + Pkt locative plural -esu ('in, among').",
+      "notes": "The locative plural closes line one and grammatically binds the whole preceding list as 'in these things [I fix my measure].'"
+    },
+    {
+      "token": "વાહણ",
+      "translit": "vāhaṇa",
+      "gloss": "vehicles, conveyances",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vāhaṇa < Skt vāhana, 'that which carries'.",
+      "notes": ""
+    },
+    {
+      "token": "સયણ",
+      "translit": "sayaṇa",
+      "gloss": "bed, couch (seating/sleeping)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt sayaṇa < Skt śayana, 'bed, lying-place'.",
+      "notes": ""
+    },
+    {
+      "token": "વિલેવણ",
+      "translit": "vilevaṇa",
+      "gloss": "anointing — unguents, cosmetics, perfumes",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt vilevaṇa < Skt vilepana, 'smearing, ointment'.",
+      "notes": "Not 'beating'; the root is vi-lip, 'to anoint/smear'."
+    },
+    {
+      "token": "બંભ",
+      "translit": "baṁbha",
+      "gloss": "continence (brahmacarya — restraint of sexual activity)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt baṁbha < Skt brahma(-carya), 'chaste conduct'.",
+      "notes": "Here a daily restraint within the consumption-vow, distinct from the fourth aṇuvrata of chastity."
+    },
+    {
+      "token": "દિસિ",
+      "translit": "disi",
+      "gloss": "directions (the day's limit of travel)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt disi < Skt diś, 'direction, quarter'.",
+      "notes": "A daily tightening that echoes, on a one-day scale, the sixth (diś-) vow."
+    },
+    {
+      "token": "ન્હાણ",
+      "translit": "nhāṇa",
+      "gloss": "bathing",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt nhāṇa < Skt snāna, 'bath, ablution'.",
+      "notes": ""
+    },
+    {
+      "token": "ભત્તેસુ",
+      "translit": "bhattesu",
+      "gloss": "in [the matter of] meals/food (the number of times one eats)",
+      "partOfSpeech": "noun",
+      "etymology": "bhatta (Pkt < Skt bhakta, 'cooked food, meal') + locative plural -esu.",
+      "notes": "This locative plural seals line two exactly as kusumesu sealed line one, binding the second list under 'in these I set my measure.'"
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "verse-pause (daṇḍa) dividing the two lines of the gāthā",
+      "partOfSpeech": "particle",
+      "etymology": "Single daṇḍa, the standard half-verse stop.",
+      "notes": "Part of the book's punctuation; preserved verbatim."
+    }
+  ],
+  "literalTranslation": "Seventh, the bhogopabhoga vow. (It is) two-fold — by way of food and by way of occupation. Therein, by way of food: in (the matters of) animate food, (the number of) food-substances, rich foods (vikṛti), footwear, betel, garments and flowers; (and in) vehicles, bedding, unguents, continence, directions, bathing and meals.",
+  "idiomaticTranslation": "The seventh is the vow that limits what I enjoy — both once-used pleasures and things I use again and again. It runs two ways: through my food, and through my livelihood. On the food side I bind myself each day in these: living foodstuffs and the count of my dishes, the rich delicacies I permit, my footwear and betel, my clothes and flowers, my conveyances, my bed and my cosmetics, my continence, the directions I travel, my bathing, and my meals.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having finished the sixth vow, the text opens the seventh by first defining its shape: the bhogopabhoga vow has two faces — bhojanataḥ (what I consume) and karmataḥ (how I earn). This verse develops only the first; the trade-side (the fifteen karmādāna) is taken up in the verse that follows, so the reciter should read this as the food-half alone. The Prākrit gāthā that follows is the well-known mnemonic of the fourteen daily restraints (the caudah niyam) a layperson resolves upon each morning: sacitta (still-living food), davva (the number of dishes), vigaï (the rich vikṛti foods), uvāṇa (footwear), taṁbola (betel), cīra (clothes), kusuma (flowers), vāhaṇa (vehicles), sayaṇa (bed), vilevaṇa (unguents), baṁbha (continence), disi (travel), nhāṇa (bathing) and bhatta (meals). The grammar is worth noticing: the two locative plurals that end each line — kusumesu and bhattesu — are not extra items but the case that governs every noun before them, so the whole list reads 'in these matters I fix my measure for the day.' The genius of the verse is its compression: a single rhythmic couplet hands the householder a complete checklist for shrinking the field of desire from dawn, item by ordinary item — the kitchen, the wardrobe, the road, the bath — rather than as a vague ideal.",
+    "doctrinalContext": "The point peculiar to this verse is parimāṇa — measure — applied to enjoyment itself. By naming a number for each of fourteen ordinary categories, the householder converts open-ended craving into a bounded resolve (saṅkalpa), and an unbounded resolve is precisely what draws fresh karmic influx. Capping sacitta foods directly serves ahiṁsā toward one-sensed beings; capping dishes, vikṛtis, vehicles, baths and unguents trims ārambha (the violence latent in procuring and preparing things) and reinforces aparigraha. Thus the guṇavrata 'enhances' the aṇuvratas: each daily cap is a small, repeatable act of renunciation that keeps the five basic vows from going slack.",
+    "practicalRelevance": "A modern reciter can use this couplet exactly as written: each morning 'take the caudah niyam' by silently fixing a number or a yes/no for all fourteen — how many food-items, which vikṛtis, whether betel, how many garments, which vehicles, how far one will travel, how many times one will bathe or eat. Whatever falls outside the day's cap is, for that day, voluntarily given up, turning routine habits into conscious restraint and giving the evening pratikramaṇa a concrete measure against which to confess slips.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.21 — bhogopabhoga-parimāṇa and its transgressions",
+        "source": "Umāsvāti (tr. Vijay K. Jain / S.A. Jain)"
+      },
+      {
+        "text": "Yoga-śāstra 3.96–98 — the caudah niyama of the bhogopabhoga vrata",
+        "source": "Hemacandra"
+      },
+      {
+        "text": "Upāsakadaśāḥ-sūtra — Ānanda's householder vows including bhogopabhoga",
+        "source": "Aṅga 7"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anuvrata (Śrāvaka vows; bhogopabhogaparimana as the vow limiting consumable and non-consumable things)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Placement of bhogopabhoga among the three guṇavrata and the bhoga/upabhoga distinction."
+    },
+    {
+      "title": "Upabhoga — definition (Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/upabhoga",
+      "type": "dictionary",
+      "consultedFor": "Sense of upabhoga ('repeated enjoyment/use') versus bhoga in the compound."
+    },
+    {
+      "title": "Sacitta — definition (Jainism; 'animate/living matter')",
+      "url": "https://www.wisdomlib.org/definition/sacitta",
+      "type": "dictionary",
+      "consultedFor": "Gloss of sacitta as living/animate substance for the first of the fourteen restraints."
+    },
+    {
+      "title": "Vigai — Prakrit-to-Sanskrit equivalence (vigaï → vigati/vikṛti)",
+      "url": "https://www.wisdomlib.org/definition/vigai",
+      "type": "dictionary",
+      "consultedFor": "Etymology of viggaï/vigaï as the dietary vikṛti."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The fourteen items here are the widely-recited caudah niyam (variant counts/orderings exist across recensions; e.g. some lists merge or rename items, and 'asi-masi-kasi' livelihood appears on the karma-side rather than here). Book orthography is preserved verbatim: 'viggaï' (doubled -gg-) for the more usual vigaï, and 'uvāṇa' shortened from uvāṇaha. The two line-final locative plurals (kusumesu, bhattesu) govern their respective half-lists rather than naming separate items — read accordingly. 'baṁbha' here is a one-day continence-restraint inside this vow, not a re-statement of the fourth aṇuvrata. 'vilevaṇa' = anointing/unguents (Skt vilepana), not 'striking' — an error found in some loose web glosses. The karma-side (fifteen karmādāna) and this vow's five atichāras belong to the following verse and are deliberately not expounded here. Where a gloss could not be independently confirmed, the canonical Tattvārtha/Yogaśāstra framework was followed rather than inventing detail."
+}

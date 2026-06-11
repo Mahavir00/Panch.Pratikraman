@@ -1,0 +1,166 @@
+{
+  "shlokaId": "smaran-5-namiun-bhayahar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Picture people whose hands, feet, nails, face and nose have been eaten away and whose whole body is scorched, as if by sparks of fire, by the terrible disease of leprosy.",
+  "recitation": "saḍia kara caraṇa naha muha, nivuḍḍa nāsā vivanna lāyannā | kuṭṭha mahārogānala phuliṅga niddaḍha savvaṅgā ||",
+  "wordByWord": [
+    {
+      "token": "સડિઅ",
+      "translit": "saḍia",
+      "gloss": "rotted away, decayed, fallen off",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit saḍia, past participle from √saḍ / Skt. śaṭ 'to decay, rot, fall away'; cf. Skt. śaṭita.",
+      "notes": "Heads the long descriptive compound; governs the four body-parts that follow."
+    },
+    {
+      "token": "કર",
+      "translit": "kara",
+      "gloss": "hands",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kara 'hand', from √kṛ 'to do, act'.",
+      "notes": ""
+    },
+    {
+      "token": "ચરણ",
+      "translit": "caraṇa",
+      "gloss": "feet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. caraṇa 'foot', from √car 'to move, walk'.",
+      "notes": "Here a literal body-part, distinct from the devotional calaṇa-juala (Pārśva's feet) of the surrounding verses."
+    },
+    {
+      "token": "નહ",
+      "translit": "naha",
+      "gloss": "nails",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit naha for Skt. nakha 'nail' (with loss of the conjunct -kh-).",
+      "notes": ""
+    },
+    {
+      "token": "મુહ",
+      "translit": "muha",
+      "gloss": "face (and mouth)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muha for Skt. mukha 'face, mouth'.",
+      "notes": "saḍia-kara-caraṇa-naha-muha = 'whose hands, feet, nails and face are rotted'."
+    },
+    {
+      "token": "નિવુડ્ડ",
+      "translit": "nivuḍḍa",
+      "gloss": "sunken, collapsed, fallen in",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nivuḍḍa (cf. nibuḍ / Skt. ni-√mṛd, ni-vṛt) 'sunk down, caved in'; describes the leprous collapse of the nose-bridge.",
+      "notes": "Variant readings nivvuḍa / nibuḍ occur in other recensions; book form retained."
+    },
+    {
+      "token": "નાસા",
+      "translit": "nāsā",
+      "gloss": "nose",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nāsā 'nose'.",
+      "notes": "nivuḍḍa-nāsā = 'whose nose has caved in' — a classic clinical sign of advanced leprosy."
+    },
+    {
+      "token": "વિવન્ન",
+      "translit": "vivanna",
+      "gloss": "discoloured, faded, having lost its hue",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vivanna for Skt. vivarṇa (vi- + varṇa 'colour, complexion') 'colourless, disfigured'.",
+      "notes": ""
+    },
+    {
+      "token": "લાયન્ના",
+      "translit": "lāyannā",
+      "gloss": "(facial/bodily) loveliness, charm",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lāyaṇṇa for Skt. lāvaṇya 'beauty, grace' (lit. 'saltiness', from lavaṇa).",
+      "notes": "vivanna-lāyannā = 'whose loveliness is faded'; bahuvrīhi describing the sufferers."
+    },
+    {
+      "token": "કુટ્ઠ",
+      "translit": "kuṭṭha",
+      "gloss": "leprosy",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kuṣṭha 'leprosy and severe skin disease', counted as eighteen-fold in Ayurveda (Caraka, Suśruta).",
+      "notes": ""
+    },
+    {
+      "token": "મહારોગાનલ",
+      "translit": "mahārogānala",
+      "gloss": "the fire of the great disease",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mahā-roga ('great disease') + anala ('fire'), joined by sandhi (-a + a- → -ā-).",
+      "notes": "kuṭṭha-mahāroga-anala = 'the fire that is the great disease, leprosy'; the disease itself is figured as a blaze."
+    },
+    {
+      "token": "ફુલિંગ",
+      "translit": "phuliṅga",
+      "gloss": "sparks (of fire)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phuliṅga for Skt. sphuliṅga 'spark of fire' (with simplification of the initial conjunct sph-).",
+      "notes": "anala-phuliṅga = 'sparks of (that) fire'."
+    },
+    {
+      "token": "નિદ્દઢ",
+      "translit": "niddaḍha",
+      "gloss": "burnt up, scorched",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit niddaḍha for Skt. nirdagdha (nir- + dagdha, past participle of √dah 'to burn').",
+      "notes": "Other recensions read niddaḍḍha (doubled); book form kept."
+    },
+    {
+      "token": "સવ્વંગા",
+      "translit": "savvaṅgā",
+      "gloss": "all whose limbs / whose whole body",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit savvaṅga for Skt. sarvāṅga (sarva 'all' + aṅga 'limb, body'); bahuvrīhi.",
+      "notes": "kuṭṭha-mahārogānala-phuliṅga-niddaḍha-savvaṅgā = 'those whose whole body is scorched by the fire-sparks of the great disease, leprosy'."
+    }
+  ],
+  "literalTranslation": "[Those people] whose hands, feet, nails and face have rotted away, whose nose has caved in, whose loveliness has faded, the whole of whose body is scorched by the fire-sparks of that great disease, leprosy —",
+  "idiomaticTranslation": "Their hands and feet, their nails and face eaten away, the bridge of the nose caved in, every trace of beauty gone — men whose whole bodies are charred, as though by flying sparks, in the fire of that worst of diseases, leprosy:",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the first danger-pair of the litany — disease, embodied in its most dreaded form, leprosy (kuṣṭha). Note that the verse is, by design, a single suspended subject: it offers no main verb and no rescue. It is one long bahuvrīhi compound stacking image upon image of ruin — rotted hands, feet, nails and face; a collapsed nose; vanished beauty; a body charred all over — and then simply stops. The relief is deliberately withheld until the following gāthā, where 'they' (te), watered by the worship of Pārśva's feet, grow green again like fire-scorched mountain trees. Verse 2 is thus pure portraiture of affliction, calibrated to make the turn in verse 3 land with force. The poet's master-stroke is the controlling metaphor: leprosy is not merely named but rendered as fire (anala) whose sparks (phuliṅga) sear (niddaḍha) the whole body (savvaṅgā). This fire-image does double work — it conveys the burning, eating quality of the disease, and it pre-tunes the ear for the literal forest-fire and flame perils later in the hymn, and especially for verse 3's answering image of the burnt mountain restored. The clinical precision (the caved-in nose, the lost extremities) is not gratuitous: it forces the reciter to look squarely at bodily horror before being shown that even this is reversible through devotion.",
+    "doctrinalContext": "The graphic catalogue of decay enacts the Jain meditations on the body's impurity (aśuci) and impermanence (anitya): the very limbs we prize rot, the face's lāvaṇya is a borrowed, perishable thing. Yet the verse is not nihilistic — set within a bhaya-hara stotra, it stages the body's collapse precisely so that refuge in the Jina becomes the answer. The fire-of-disease figure also resonates with the wider Jain trope of affliction as a consuming blaze from which the Tīrthaṅkara's remembrance is the cooling water (made explicit in v.3's salilañjali, the 'cupped-handfuls of water' of worship).",
+    "practicalRelevance": "Chanting this verse, the reciter is asked to face bodily vulnerability without flinching — to feel both compassion for the gravely ill and a sober detachment from one's own fragile beauty. Held together with the next verse, it trains a movement from dread to confidence: however total the ruin, sincere remembrance of Pārśva is presented as the turning-point, so the meditation ends in reassurance rather than fear.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra v.3 (te tuha calaṇārāhaṇa… vaṇa-dava-daḍḍha giri-pāyava vva pattā puṇo vi lacchiṁ) — the completing clause and burnt-mountain simile",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Kuṣṭha as an eighteen-fold class of skin disease in Ayurveda (Carakasaṃhitā, Suśrutasaṃhitā)",
+        "source": "Caraka/Suśruta, as summarized in wisdomlib.org"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kuṣṭha (leprosy) — definition and Ayurvedic classification",
+      "url": "https://www.wisdomlib.org/definition/kushtha",
+      "type": "dictionary",
+      "consultedFor": "confirming kuṭṭha = kuṣṭha 'leprosy' and its eighteen-fold scope"
+    },
+    {
+      "title": "Lāvaṇya — definition ('beauty, grace')",
+      "url": "https://www.wisdomlib.org/definition/lavanya",
+      "type": "dictionary",
+      "consultedFor": "gloss of lāyannā = lāvaṇya 'loveliness'"
+    },
+    {
+      "title": "Sphuliṅga — definition ('sparks of fire')",
+      "url": "https://www.wisdomlib.org/definition/sphulinga",
+      "type": "dictionary",
+      "consultedFor": "gloss of phuliṅga = sphuliṅga 'fire-sparks'"
+    },
+    {
+      "title": "Nirdagdha — definition ('burnt')",
+      "url": "https://www.wisdomlib.org/definition/nirdagdha",
+      "type": "dictionary",
+      "consultedFor": "gloss of niddaḍha = nirdagdha 'scorched, burnt up'"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This gāthā is syntactically incomplete: it is the subject ('those whose bodies are ruined…') whose main clause and resolution fall in the following verse (v.3), so it is best read and recited as a pair. The compound is parsed as one extended bahuvrīhi. Variant readings exist in other recensions — nivuḍḍa/nivvuḍa for the nose, niddaḍha/niddaḍḍha for 'burnt', and lāyannā/lāvaṇṇā — but the spellings here follow the Anchalgachchha book verbatim. mahārogānala reflects mahāroga + anala joined by sandhi; some editions print mahāroga-anala uncompounded. The dictionary forms underlying the Prakrit (kuṣṭha, lāvaṇya, sphuliṅga, nirdagdha) are verified above; the precise Prakrit phonology follows the source text rather than a normalized lexicon."
+}

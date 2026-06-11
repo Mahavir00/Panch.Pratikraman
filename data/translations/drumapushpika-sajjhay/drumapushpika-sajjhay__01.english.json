@@ -1,0 +1,180 @@
+{
+  "shlokaId": "drumapushpika-sajjhay/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "True religion — living without harming, with self-control and self-discipline — is the greatest good fortune there is, and even the gods bow to anyone whose heart is always fixed on it.",
+  "recitation": "prathamādhyayana sajjhāya ||\ndhammo maṅgalam ukkiṭṭhaṁ, ahiṁsā saṁjamo tavo |\ndevā vi taṁ namaṁsanti, jassa dhamme sayā maṇo ||",
+  "wordByWord": [
+    {
+      "token": "પ્રથમાધ્યયન",
+      "translit": "prathamādhyayana",
+      "gloss": "first chapter / first study-lesson",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit prathama (first) + adhyayana (a lesson, chapter, 'thing to be studied,' from √adhī-i, to study).",
+      "notes": "Rubric/heading naming this as chapter one of the Daśavaikālika; not part of the metrical gāthā."
+    },
+    {
+      "token": "સજ્ઝાય",
+      "translit": "sajjhāya",
+      "gloss": "study-recitation (sajjhāy)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sajjhāya < Sanskrit svādhyāya.",
+      "notes": "Heading term, defined in the preface; flags the recitation-genre of this chapter."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "(verse/heading divider)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa — scribal punctuation mark closing the heading line.",
+      "notes": "Orthographic, not lexical."
+    },
+    {
+      "token": "ધમ્મો",
+      "translit": "dhammo",
+      "gloss": "dharma (righteous religion / moral law)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamma (nom. sg. dhammo) < Sanskrit dharma, from √dhṛ, 'to uphold, sustain.'",
+      "notes": "Subject of the first clause; its content is unpacked in the very next words."
+    },
+    {
+      "token": "મંગલમુક્કિઠં",
+      "translit": "maṅgalam ukkiṭṭhaṁ",
+      "gloss": "the highest auspiciousness / supreme blessing",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of maṅgalaṁ (auspiciousness) + ukkiṭṭhaṁ; ukkiṭṭha is Prakrit < Sanskrit utkṛṣṭa, 'drawn up, eminent, supreme' (ut- + √kṛṣ, 'to draw').",
+      "notes": "Predicate of dhammo: dharma IS the supreme maṅgala. Book spelling મુક્કિઠં preserved verbatim (cf. normalized mukkiṭṭhaṁ)."
+    },
+    {
+      "token": "અહિંસા",
+      "translit": "ahiṁsā",
+      "gloss": "non-violence (harming no living being)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit a- (not) + hiṁsā (injury, from desiderative of √han, 'to strike').",
+      "notes": "First of the three terms appositively defining what dharma is."
+    },
+    {
+      "token": "સંજમો",
+      "translit": "saṁjamo",
+      "gloss": "self-restraint",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁjama (nom. saṁjamo) < Sanskrit saṁyama, from sam- + √yam, 'to hold together, control.'",
+      "notes": "Second defining term."
+    },
+    {
+      "token": "તવો",
+      "translit": "tavo",
+      "gloss": "austerity / ascetic discipline (tapas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava (nom. tavo) < Sanskrit tapas, from √tap, 'to heat, to burn (off impurity).'",
+      "notes": "Third defining term; the book spelling 'tava' is retained per the preface's orthography note."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "(half-verse pause)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa marking the end of the first pāda-pair.",
+      "notes": "Orthographic."
+    },
+    {
+      "token": "દેવાવિ",
+      "translit": "devā vi",
+      "gloss": "even the gods",
+      "partOfSpeech": "compound",
+      "etymology": "devā (nom. pl. of deva, 'god,' from √div, 'to shine') + vi, Prakrit emphatic particle < Sanskrit api, 'even, also.'",
+      "notes": "The 'vi/api' is the rhetorical fulcrum: not merely humans but even celestial beings bow."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "to him / to that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ (acc. sg.) < Sanskrit tam, demonstrative ta-.",
+      "notes": "Object of namaṁsanti; correlative answered by relative jassa."
+    },
+    {
+      "token": "નમંસંતિ",
+      "translit": "namaṁsanti",
+      "gloss": "they bow / pay homage",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namaṁsanti (3rd pl.) < Sanskrit namasyanti, denominative of namas ('bow') from √nam, 'to bend.'",
+      "notes": "Present indicative — a standing, habitual reverence."
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jassa (gen. sg.) < Sanskrit yasya, relative ya-.",
+      "notes": "Opens the relative clause specifying who is so honored."
+    },
+    {
+      "token": "ધમ્મે",
+      "translit": "dhamme",
+      "gloss": "in (the) dharma",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamme (loc. sg.) < Sanskrit dharme.",
+      "notes": "Locative: the resting-place of the mind. The verse opens and closes on dharma, framing it."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, ever",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā < Sanskrit sadā, 'always.'",
+      "notes": "Stresses constancy, not occasional piety."
+    },
+    {
+      "token": "મણો",
+      "translit": "maṇo",
+      "gloss": "the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇa (nom. maṇo) < Sanskrit manas, from √man, 'to think.'",
+      "notes": "Subject of the relative clause: 'whose mind is ever set in dharma.'"
+    }
+  ],
+  "literalTranslation": "Dharma is the highest auspiciousness — (namely) non-violence, self-restraint, and austerity. Even the gods bow to that one whose mind is ever (fixed) in dharma.",
+  "idiomaticTranslation": "Religion is the supreme blessing — and its very substance is harmlessness, self-mastery, and disciplined austerity. To the one whose heart rests unbrokenly in this dharma, even the gods bow down.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening gāthā is the chapter's thesis, stated before any imagery is offered. Two moves make it work. First, it does not merely praise dharma — it defines it. The single word 'dhammo' is immediately cashed out by three appositive nouns: ahiṁsā, saṁjamo, tavo. Dharma here is not belief, ritual, or sect; it is a way of acting (harm nothing), a way of holding oneself (restrain the senses), and a way of refining oneself (burn off karma through tapas). The superlative 'ukkiṭṭhaṁ' (utkṛṣṭa, 'drawn up to the top') ranks this dharma above every other maṅgala a person might invoke for protection or good fortune. Second, the verse measures that dharma's worth by an unexpected witness: 'devā vi' — 'even the gods.' In the Jain cosmos gods are powerful and long-lived yet still bound in saṁsāra; that they bow to a dharma-fixed soul inverts ordinary hierarchy and tells the reciter where true greatness lies. The honored one is defined wholly by an inner fact — 'jassa dhamme sayā maṇo,' whose mind is ALWAYS in dharma. 'Sayā' (always) rules out part-time virtue; the homage follows the steady mind, not outward show. Note the deliberate ring-composition: the verse begins with dhammo and ends with dhamme, enclosing ahiṁsā–saṁjama–tava and the bowing gods within dharma on both sides. Having fixed the ideal, the text can now turn (in the following verse) to the bee at the blossom to show what such a life looks like in practice.",
+    "doctrinalContext": "The verse compresses Jain soteriology into a triad. Ahiṁsā is the cardinal vow (the root of the five mahā/aṇu-vratas); saṁyama names the guarding of conduct through the samitis and guptis; tapas is the active means by which accumulated karma is shed (nirjarā). Together they are not three separate goods but three faces of one dharma — restraint and austerity are how ahiṁsā is actually lived, inwardly as well as outwardly. The claim that gods bow encodes the Jain conviction that liberation is won by the disciplined soul, not conferred by deities: celestial status is itself karmically conditioned and therefore lower than a mind settled in dharma. 'Maṅgala' is thus redefined — auspiciousness is not luck or divine favor but one's own ethical interiority.",
+    "practicalRelevance": "Recited at the close of the day's pratikramaṇa, this verse resets the reciter's measure of success: not wealth, status, or even divine favor, but a mind that returns, again and again, to harmlessness, restraint, and self-discipline. 'Sayā' (always) is the practical challenge — to make dharma the mind's default resting-place rather than an occasional visitor. One carries away a simple self-audit: was today's conduct harmless, restrained, and self-refining?",
+    "crossReferences": [
+      {
+        "text": "Daśavaikālika-sūtra 1.1 (Drumapuṣpikā, opening gāthā)",
+        "source": "Mūlasūtra, Ardhamāgadhī; ed. attrib. Ācārya Śayyambhava"
+      },
+      {
+        "text": "Tattvārtha-sūtra 9.2–9.6 (saṁyama via gupti/samiti) and 9.3, 9.19–20 (tapas as nirjarā)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Daśavaikālika 6.9 'ahiṁsā... saṁjamo' as the substance of monastic dharma",
+        "source": "Daśavaikālika-sūtra, ch. 6"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dashvaikalik Sutra (Romanized) — full text, ch.1 v.1",
+      "url": "https://jainqq.org/booktext/Dashvaikalik_Sutra_Romanized/005712",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit reading 'dhammo maṅgalam ukkiṭṭhaṁ...' and verse placement as the opening gāthā"
+    },
+    {
+      "title": "Agam 29 Mool 02 Dasvaikalik Sutra (Sthānakavāsī edition)",
+      "url": "https://jainqq.org/booktext/Agam_29_Mool_02_Dasvaikalik_Sutra_Sthanakvasi/007649",
+      "type": "translation",
+      "consultedFor": "Cross-check of word forms (namaṁsanti, jassa, sayā maṇo) and standard gloss of the triad ahiṁsā–saṁyama–tapas"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymologies: utkṛṣṭa (ut+√kṛṣ), namas/√nam, tapas/√tap, saṁyama (sam+√yam), sadā"
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "Original Gujarati-script Prakrit retained verbatim from the Anchalgachchha book, including 'મુક્કિઠં' (standardized editions usually read 'mukkiṭṭhaṁ'/'ukkiṭṭhaṁ') and 'તવો' (tava). 'maṅgalamukkiṭhaṁ' is here glossed as the sandhi-compound maṅgalam+ukkiṭṭhaṁ; some printings split it as two words. 'devāvi' = devā + vi (api). The heading line 'prathamādhyayana sajjhāya ॥' is a rubric, glossed for completeness but not part of the gāthā's metre. This is among the most widely cited Jain verses, so the core reading and meaning are secure; only minor orthographic variants differ across editions."
+}

@@ -1,0 +1,194 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/25",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With my palms joined I too bow to Śāntinātha, the great sage free of attachment, hatred, fear and delusion, whom gods, demons and kings all revere.",
+  "recitation": "taṁ mahāmuṇi mahaṁ pi paṁjalī, rāga dosa bhaya moha vajjiaṁ; deva dāṇava nariṁda vaṁdiaṁ, saṁti muttamaṁ mahātavaṁ name.",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "him, that one (the object of worship)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ < Sanskrit tam, accusative of tad ('that').",
+      "notes": "Accusative; its object is mahāmuṇi … saṁti, the one bowed to by 'name' at the verse's end."
+    },
+    {
+      "token": "મહામુણિ",
+      "translit": "mahāmuṇi",
+      "gloss": "the great sage",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + muṇi (< Sanskrit muni, 'sage, silent ascetic'); Sanskrit mahāmuni.",
+      "notes": "Accusative in sense, agreeing with taṁ; an epithet of Śāntinātha."
+    },
+    {
+      "token": "મહંપિ",
+      "translit": "mahaṁ pi",
+      "gloss": "I too, I also",
+      "partOfSpeech": "pronoun",
+      "etymology": "mahaṁ (Prakrit/Apabhraṁśa first-person form < Sanskrit aham, 'I') + pi (< api, 'also, even').",
+      "notes": "The worshipper inserts himself among the venerators: where gods and kings bow, 'I too' bow. Could be read 'even I (a mere mortal)'."
+    },
+    {
+      "token": "પંજલી",
+      "translit": "paṁjalī",
+      "gloss": "with palms folded in homage",
+      "partOfSpeech": "adj",
+      "etymology": "< Sanskrit prāñjali (pra- 'forward' + añjali 'cupped/joined palms'), the reverential gesture.",
+      "notes": "Predicative of the speaker — 'I, with folded hands'."
+    },
+    {
+      "token": "રાગ",
+      "translit": "rāga",
+      "gloss": "attachment, passion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit rāga, from √rañj ('to be colored, attached').",
+      "notes": "First member of a four-fold compound of inner foes."
+    },
+    {
+      "token": "દોસ",
+      "translit": "dosa",
+      "gloss": "aversion, hatred",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dosa < Sanskrit dveṣa ('aversion'); homophonous with doṣa ('fault').",
+      "notes": "Here the doctrinal pair rāga–dveṣa, not doṣa 'blemish'."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhaya, from √bhī ('to fear').",
+      "notes": "Resonates with the hymn's abhaya (fearlessness) motif."
+    },
+    {
+      "token": "મોહ",
+      "translit": "moha",
+      "gloss": "delusion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit moha, from √muh ('to be deluded').",
+      "notes": "Names the mohanīya karma, deluding-passion at the root of bondage."
+    },
+    {
+      "token": "વજ્જિઅં",
+      "translit": "vajjiaṁ",
+      "gloss": "free of, devoid of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle vajjia < Sanskrit varjita (√vṛj, 'to exclude, leave off').",
+      "notes": "Governs the preceding four: 'free of rāga, dosa, bhaya, moha'. Accusative, qualifying taṁ/saṁti."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "gods",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit deva, from √div ('to shine'); the celestial beings.",
+      "notes": "First of the deva–dāṇava–nariṁda triad spanning the three realms."
+    },
+    {
+      "token": "દાણવ",
+      "translit": "dāṇava",
+      "gloss": "demons, dānavas",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dāṇava < Sanskrit dānava, the asura-progeny of Danu.",
+      "notes": "The nether/anti-divine host; even they venerate the Jina."
+    },
+    {
+      "token": "નરિંદ",
+      "translit": "nariṁda",
+      "gloss": "kings, lords of men",
+      "partOfSpeech": "compound",
+      "etymology": "nara ('man') + iṁda (< indra, 'lord'); Sanskrit narendra.",
+      "notes": "The human realm; completes the cosmic span of worshippers."
+    },
+    {
+      "token": "વંદિઅં",
+      "translit": "vaṁdiaṁ",
+      "gloss": "venerated, bowed to",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle vaṁdia < Sanskrit vandita (√vand, 'to praise, salute').",
+      "notes": "Accusative, qualifying the object: 'him, venerated by gods, demons and kings'."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti(nātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "< Sanskrit Śānti, the 16th Tīrthaṅkara; lit. 'peace'.",
+      "notes": "The verse names its object — the alternation lands on Śānti here. Accusative sense (saṁtiṁ), its anusvāra carrying into the next word."
+    },
+    {
+      "token": "મુત્તમં",
+      "translit": "muttamaṁ",
+      "gloss": "the supreme, most excellent",
+      "partOfSpeech": "adj",
+      "etymology": "sandhi of saṁti(ṁ) + uttamaṁ < Sanskrit uttama ('highest'); the m- is the carried anusvāra of the accusative.",
+      "notes": "Read 'saṁtiṁ uttamaṁ' — 'Śānti the supreme'."
+    },
+    {
+      "token": "મહાતવં",
+      "translit": "mahātavaṁ",
+      "gloss": "of great austerity",
+      "partOfSpeech": "compound",
+      "etymology": "mahā ('great') + tava (< Sanskrit tapas, 'austerity'); Sanskrit mahātapas.",
+      "notes": "Accusative epithet: the Jina purified and exalted by supreme tapas."
+    },
+    {
+      "token": "નમે",
+      "translit": "name",
+      "gloss": "I bow, I do homage",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit name < Sanskrit namāmi / name (√nam, 'to bow').",
+      "notes": "The finite verb resolving the whole accusative chain; the speaker's own act of reverence."
+    }
+  ],
+  "literalTranslation": "Him, the great sage — I too, with folded palms — free of attachment, aversion, fear and delusion; venerated by gods, demons and lords of men — Śānti the supreme, of great austerity: I bow.",
+  "idiomaticTranslation": "That great sage — I, too, palms pressed together, bow to him: the one purged of passion, hatred, fear and delusion, before whom gods, demons and the lords of men all bend in homage — Śānti, the most exalted, hallowed by supreme austerity.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the surrounding stanzas crowd the Jina's feet with the whole heavenly host, this verse turns that public adoration into a single, first-person act. The hinge is the small word mahaṁ pi — 'I too.' Gods (deva), demons (dāṇava) and kings (nariṁda) have just been named as venerators; the reciter steps into their ranks and folds his own palms (paṁjalī). The praise itself is built on two balanced quartets. The first is negative — what the Jina has shed: rāga (attachment), dosa (aversion), bhaya (fear), moha (delusion). The second is the triad of worshippers plus the crowning epithets: saṁti muttamaṁ mahātavaṁ — 'Śānti, supreme, of great austerity.' The verse thus defines holiness twice over: as emptiness of the passions and as fullness of tapas, the two faces of the same purity. Note how dosa here is dveṣa (aversion), not doṣa (fault): the famous rāga–dveṣa pair is intended, and the poet expands it to four by adding the fear and delusion that the hymn elsewhere promises to dispel. The grammar is one long accusative chain — taṁ … vajjiaṁ … vaṁdiaṁ … saṁti muttamaṁ mahātavaṁ — held in suspense until the final verb name ('I bow') lands. Everything described is the object of that one bow.",
+    "doctrinalContext": "The verse encapsulates the vītarāga ideal. In Jain analysis rāga and dveṣa are the twin springs of karmic influx; moha (the mohanīya karma) is the most dangerous of the eight karmas, the deluding force that sustains them. To call the Jina rāga-dosa-moha-vajjia is to name him as one in whom the passion-karmas are annihilated — the very definition of an Arihant/vītarāga. The added bhaya ties the praise to the stava's signature gift of abhaya (fearlessness): the fearless one makes the devotee fearless. Conversely, mahātava grounds his perfection in conduct — tapas as the austerity that burns off karma and ripens kevalajñāna. That gods, demons and kings alike bow expresses the Jina's worthiness across all three realms, a worth independent of any worshipper's rank.",
+    "practicalRelevance": "Said with the hands actually joined, this is a verse to be embodied, not merely read: the reciter performs the paṁjalī it describes. Its 'I too' invites you to place your own bow alongside that of gods and kings — devotion as participation, not spectatorship. And the four-fold list offers a mirror: in saluting one free of rāga, dveṣa, fear and moha, the practitioner names the four bonds to loosen in their own day.",
+    "crossReferences": [
+      {
+        "text": "Logassa — homage to the rāga-dveṣa-free Tīrthaṅkaras (vīyarāya)",
+        "source": "Caturviṁśati-stava, Āvaśyaka tradition"
+      },
+      {
+        "text": "Tattvārtha-sūtra 6.5–6 on rāga–dveṣa and the kaṣāyas as causes of karmic influx",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Verse 3 refrain 'namo ajiya saṁtiṇaṁ' — the homage this verse personalizes for Śānti",
+        "source": "Ajitaśānti Stava, Nandiṣeṇasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of varjita (√vṛj), prāñjali/añjali, uttama, mahātapas, dveṣa, moha, and namas (√nam)."
+    },
+    {
+      "title": "Wisdom Library — Sanskrit/Prakrit definition: varjita",
+      "url": "https://www.wisdomlib.org/definition/varjita",
+      "type": "dictionary",
+      "consultedFor": "Confirming vajjiaṁ < varjita = 'devoid of, free from' in the negating-compound sense."
+    },
+    {
+      "title": "Wisdom Library — Sanskrit/Prakrit definition: anjali",
+      "url": "https://www.wisdomlib.org/definition/anjali",
+      "type": "dictionary",
+      "consultedFor": "Confirming paṁjalī/prāñjali as the joined-palms gesture of reverence."
+    },
+    {
+      "title": "JainQQ digital library — Ajitaśānti Stava recensions and stotra anthologies",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Śāntinātha (16th Tīrthaṅkara) and the Ajita/Śānti alternation as the verse's devotional setting."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "mahaṁ pi is read as ahaṁ + api ('I too'), making the speaker the bowing subject; a minority reading could take mahaṁ adjectivally ('even the great'), but the gesture paṁjalī and verb name favor the first-person sense. dosa is taken as dveṣa (aversion), the standard rāga–dveṣa pairing, not doṣa ('fault'). muttamaṁ reflects sandhi of accusative saṁtiṁ + uttamaṁ; the verse's syntax is one accusative chain resolved by the final verb name. Orthography (single/double conjuncts, anusvāra) is preserved verbatim from the book and not normalized."
+}

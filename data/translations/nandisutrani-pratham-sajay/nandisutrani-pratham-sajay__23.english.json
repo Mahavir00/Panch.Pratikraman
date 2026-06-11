@@ -1,0 +1,148 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/23",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Maṇḍita, Mauryaputra, Akampita, Acalabhrāta, Metārya and Prabhāsa — these are (the rest of) Mahāvīra's chief disciples.",
+  "recitation": "maṇḍiya moriyaputte akaṁpie ceva ayalabhāyā ya, meajje ya pahāse, gaṇaharā huṁti vīrassa",
+  "wordByWord": [
+    {
+      "token": "મંડિય",
+      "translit": "maṇḍiya",
+      "gloss": "Maṇḍita (also Maṇḍitaputra) — the 6th gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit for Skt. maṇḍita 'adorned, decorated' (√maṇḍ, 'to adorn'); a proper name.",
+      "notes": "Continues the roll-call begun in v.22; he is the sixth of the eleven."
+    },
+    {
+      "token": "મોરિયપુત્તે",
+      "translit": "moriyaputte",
+      "gloss": "Mauryaputra — the 7th gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Compound: moriya (= Skt. maurya) + putta (= Skt. putra, 'son'), 'son of the Maurya lady/clan'.",
+      "notes": "The locative-style -e ending is the Ardhamāgadhī listing form for names in such enumerations; here functionally nominative."
+    },
+    {
+      "token": "અકંપિએ",
+      "translit": "akaṁpie",
+      "gloss": "Akampita — the 8th gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a-kampita 'unshaken, unwavering' (a- privative + √kamp, 'to tremble'); a proper name.",
+      "notes": "Again the -e enumerative ending."
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed / and even",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca-eva (= Skt. ca + eva), a conjunction strengthened by the emphatic eva.",
+      "notes": "Purely connective/metrical; binds Akampita to the names that follow."
+    },
+    {
+      "token": "અયલભાયા",
+      "translit": "ayalabhāyā",
+      "gloss": "Acalabhrāta — the 9th gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. acala-bhrātṛ, 'the immovable brother': acala 'unmoving, steadfast' + bhrātṛ 'brother'.",
+      "notes": "Prakrit bhāyā = Skt. bhrātā 'brother'."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya = Skt. ca, 'and'.",
+      "notes": "Coordinating conjunction within the name-list."
+    },
+    {
+      "token": "મેઅજજે",
+      "translit": "meajje",
+      "gloss": "Metārya (Metārja) — the 10th gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit form of Skt. Metārya / Maitreya-related proper name; a personal name, not a doctrinal term.",
+      "notes": "Spelt with conjunct જ્જ verbatim; -e enumerative ending as above."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya = Skt. ca, 'and'.",
+      "notes": "Second coordinating 'and', joining Metārya to Prabhāsa."
+    },
+    {
+      "token": "પહાસે",
+      "translit": "pahāse",
+      "gloss": "Prabhāsa — the 11th and last gaṇadhara",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prabhāsa 'radiance, splendour' (pra- + √bhās, 'to shine'); Prakrit pahāsa with h for intervocalic bh.",
+      "notes": "Closes the list of names before the predicate."
+    },
+    {
+      "token": "ગણહરા",
+      "translit": "gaṇaharā",
+      "gloss": "(are the) gaṇadharas",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaṇa-hara = Skt. gaṇa-dhara: gaṇa 'monastic group/order' + dhara 'bearer, holder' — 'those who uphold the order'. Nominative plural.",
+      "notes": "Subject-complement of the sentence; the glossary term gaṇadhara is used as-is."
+    },
+    {
+      "token": "હુંતિ",
+      "translit": "huṁti",
+      "gloss": "are / become",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit huṁti = Skt. bhavanti (√bhū, 'to be/become'), 3rd person plural present.",
+      "notes": "Copula governing the eleven names across vv.22–23."
+    },
+    {
+      "token": "વીરસ્સ",
+      "translit": "vīrassa",
+      "gloss": "of Vīra (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive singular of Vīra (= Mahāvīra); Prakrit -assa = Skt. -asya.",
+      "notes": "Possessive: 'the gaṇadharas belonging to Vīra'."
+    }
+  ],
+  "literalTranslation": "Maṇḍita, Mauryaputra, and indeed Akampita, and Acalabhrāta, and Metārya and Prabhāsa — these are the gaṇadharas of Vīra.",
+  "idiomaticTranslation": "Maṇḍita and Mauryaputra, Akampita too, and Acalabhrāta, with Metārya and Prabhāsa — these are the gaṇadharas, the chief disciples, of Lord Vīra.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse completes the roll-call of Mahāvīra's eleven chief disciples that v.22 began (Indrabhūti, Agnibhūti, Vāyubhūti, Vyakta, Sudharma). It supplies the remaining six — Maṇḍita, Mauryaputra, Akampita, Acalabhrāta, Metārya, Prabhāsa — and then, in a single sweeping predicate (gaṇaharā huṁti vīrassa), gathers all eleven under one statement: 'these are the gaṇadharas of Vīra.' The grammar is deliberately plain — a string of names knotted by ceva and the repeated ya, closed by the copula huṁti — because the verse's whole force is the naming itself, the reverent recitation of a lineage by its members' own names. Note that the names wear the Ardhamāgadhī enumerative -e ending (moriyaputte, akampie, pahāse), a feature of canonical list-verses rather than separate case-meaning. Each name still carries its sense: Akampita 'the unshaken', Acalabhrāta 'the steadfast brother', Prabhāsa 'radiance' — quietly fitting epithets for men who, once their doubts were resolved, never again wavered. After the eight grand Saṅgha-similes and the salute to the twenty-four Tīrthaṅkaras (vv.20–21), the hymn now bows to the human channel through whom Vīra's word reached the Saṅgha at all — moving from the teaching's source to its first carriers, and setting up the closing 'jaya' to the śāsana in v.24.",
+    "doctrinalContext": "The gaṇadharas are not merely senior monks but the formative authors of the canon: having heard the tripadī (uppanneī vā, vigameī vā, dhuveī vā — 'it arises, it perishes, it persists') from Mahāvīra, each independently composed the Dvādaśāṅgī (twelve Aṅgas). All eleven were learned Brahmins whose unspoken doubts Mahāvīra named and dispelled, after which they took dīkṣā. Though eleven in number they headed only nine gaṇas, since two pairs shared an identical scriptural redaction (commonly given as Akampita with Acalabhrāta, and Metārya with Prabhāsa) — a detail this very verse foreshadows by pairing those names with ceva and ya. Of the eleven only Indrabhūti Gautama and Sudharma outlived Mahāvīra; the rest attained nirvāṇa in his lifetime. The line of transmission therefore runs through Sudharmasvāmī, which is why every paṭṭāvalī of this gaccha counts its succession 'from Gaṇadhara Sudharmasvāmī.'",
+    "practicalRelevance": "Reciting the gaṇadhara names is an act of lineage-gratitude: it reminds the practitioner that the sūtras now on their lips descend in an unbroken chain from these eleven, through Sudharmasvāmī, down to the present gacchādhipati. To name them is to renew one's place at the far end of that living transmission.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, opening maṅgala (Sthavirāvalī / gaṇadhara-vandanā gāthās)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī)"
+      },
+      {
+        "text": "Āvaśyaka Niryukti — gaṇadhara-vāda and the tripadī (uppanneī vā vigameī vā dhuveī vā)",
+        "source": "Bhadrabāhu (trad.), Āvaśyaka tradition"
+      },
+      {
+        "text": "Kalpasūtra, Sthavirāvalī — the eleven gaṇadharas and nine gaṇas of Mahāvīra",
+        "source": "Bhadrabāhu (trad.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ganadhara",
+      "url": "https://en.wikipedia.org/wiki/Ganadhara",
+      "type": "scholarship",
+      "consultedFor": "Definition of gaṇadhara, the eleven chief disciples of Mahāvīra, and the nine gaṇas"
+    },
+    {
+      "title": "Eleven Ganadharas: Significance and symbolism — Wisdom Library",
+      "url": "https://www.wisdomlib.org/concept/eleven-ganadharas",
+      "type": "scholarship",
+      "consultedFor": "Names and ordering of the eleven gaṇadharas; pairing into nine gaṇas"
+    },
+    {
+      "title": "Gautama Swami (Indrabhūti Gautama)",
+      "url": "https://en.wikipedia.org/wiki/Gautama_Swami",
+      "type": "scholarship",
+      "consultedFor": "Indrabhūti as chief gaṇadhara and Sudharma as the survivor through whom the lineage continued"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a name-list; the principal interpretive choices are (a) reading the -e endings (moriyaputte, akampie, pahāse) as the Ardhamāgadhī enumerative form rather than true locatives, and (b) identifying મંડિય (Maṇḍiya) as Maṇḍita/Maṇḍitaputra — NOT the Buddhist Maudgalyāyana, a conflation found in some non-specialist sources. Name spellings (મેઅજજે with conjunct જ્જ; અયલભાયા) follow the Anchalgachchha book verbatim and are not normalized. The exact two-pairings that reduce eleven gaṇadharas to nine gaṇas vary slightly across recensions; the commentary gives the most common assignment and flags it as such. Mahāvīra's age at nirvāṇa (72) and the survival of Gautama and Sudharma are well attested across Śvetāmbara and Digambara tradition."
+}

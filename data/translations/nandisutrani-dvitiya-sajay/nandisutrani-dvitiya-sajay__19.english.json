@@ -1,0 +1,168 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/19",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This teacher shines like refined gold and a spotless lotus, is dear to the hearts of all seekers, and is steadfast and skilled in compassion.",
+  "recitation": "vara kaṇaga taviya caṁpaga, vimala vara kamala gabbha sirivaṇṇo. bhaviya-jaṇa hiyaya daïe, dayā-guṇa visārae dhīre.",
+  "wordByWord": [
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, finest, choicest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara, from √vṛ 'to choose'; the chosen/best.",
+      "notes": "Qualifies kaṇaga (gold) here; vara recurs a second time in this line before kamala."
+    },
+    {
+      "token": "કણગ",
+      "translit": "kaṇaga",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kaṇaga < Skt. kanaka, 'gold'.",
+      "notes": "Stock simile of moral and physical purity."
+    },
+    {
+      "token": "તવિય",
+      "translit": "taviya",
+      "gloss": "heated, fire-refined (assayed gold)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. taviya < Skt. tāpita, past part. of √tap 'to heat'; gold purified in fire.",
+      "notes": "kaṇaga-taviya = 'refined/tested gold', i.e. gold proven flawless in the crucible."
+    },
+    {
+      "token": "ચંપગ",
+      "translit": "caṁpaga",
+      "gloss": "the champaka flower (golden-yellow, fragrant)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. caṁpaga < Skt. campaka (Michelia champaca).",
+      "notes": "Reinforces the golden hue; its fragrance adds an implied note of moral sweetness."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "spotless, stainless, pure",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vi- (without) + mala (stain) = 'free of stain'.",
+      "notes": "Qualifies the lotus's interior; doubles as a moral epithet."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, finest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara (see above); second occurrence, here qualifying kamala (lotus).",
+      "notes": "Repetition mirrors the parallel gold/lotus images."
+    },
+    {
+      "token": "કમલ",
+      "translit": "kamala",
+      "gloss": "lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kamala, 'lotus'.",
+      "notes": "Classic emblem of purity untouched by the surrounding water."
+    },
+    {
+      "token": "ગબ્ભ",
+      "translit": "gabbha",
+      "gloss": "womb, inner core, heart (of the lotus)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. gabbha < Skt. garbha, 'womb, interior'.",
+      "notes": "kamala-gabbha = the lotus's inmost cup, the tenderest and most radiant part."
+    },
+    {
+      "token": "સિરિવણ્ણો",
+      "translit": "sirivaṇṇo",
+      "gloss": "of glorious, lustrous complexion",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. siri (< Skt. śrī, 'splendour') + vaṇṇa (< Skt. varṇa, 'colour, complexion'); bahuvrīhi 'whose complexion has splendour'.",
+      "notes": "Maharāṣṭrī nom. sg. in -o; the head-word the whole gold-champaka-lotus compound resolves into: 'he whose complexion shines with that splendour'."
+    },
+    {
+      "token": "ભવિયજણ",
+      "translit": "bhaviyajaṇa",
+      "gloss": "the bhavya folk (souls capable of liberation)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. bhaviya (< Skt. bhavya, 'fit to become [liberated]') + jaṇa (< Skt. jana, 'people').",
+      "notes": "In Jain doctrine bhavya = a soul possessing the capacity for mokṣa, as opposed to abhavya."
+    },
+    {
+      "token": "હિયય",
+      "translit": "hiyaya",
+      "gloss": "heart",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. hiyaya < Skt. hṛdaya, 'heart'.",
+      "notes": "Locus of the affection in which the teacher dwells."
+    },
+    {
+      "token": "દઇએ",
+      "translit": "daïe",
+      "gloss": "dear, beloved",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. daïa < Skt. dayita, 'cherished, beloved' (past part. of √day).",
+      "notes": "Ardhamāgadhī nom. sg. in -e; bhaviyajaṇa-hiyaya-daïe = 'beloved to the hearts of the bhavya folk'."
+    },
+    {
+      "token": "દયાગુણ",
+      "translit": "dayāguṇa",
+      "gloss": "the virtue of compassion",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dayā ('compassion') + guṇa ('quality, virtue').",
+      "notes": "Compassion/ahiṁsā is the cardinal Jain virtue; here the teacher's defining mastery."
+    },
+    {
+      "token": "વિસારએ",
+      "translit": "visārae",
+      "gloss": "adept, expert, deeply learned",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. visāraa < Skt. viśārada, 'skilled, proficient'.",
+      "notes": "Ardhamāgadhī nom. sg. -e; governs dayāguṇa: 'an adept in the virtue of compassion'."
+    },
+    {
+      "token": "ધીરે",
+      "translit": "dhīre",
+      "gloss": "steadfast, composed, resolute",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dhīra, 'firm, wise, self-possessed'.",
+      "notes": "Ardhamāgadhī nom. sg. -e; the closing epithet, sealing the portrait with unshakable composure."
+    }
+  ],
+  "literalTranslation": "[He is] of glorious complexion — like excellent fire-refined gold and the champaka flower, like the spotless inner cup of a fine lotus; beloved to the hearts of the liberation-worthy folk, an adept in the virtue of compassion, [and] steadfast.",
+  "idiomaticTranslation": "His radiance is that of assayed gold and the golden champaka, his purity that of a flawless lotus's inmost heart; cherished in the hearts of every seeker bound for freedom, he is a master of compassion and unshakably serene.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous gāthā closed the homage to Bhūyadinna (Bhūtadinna) with 'vandāmi… saṁyama-vihinnū', this verse opens a fresh, unusually tender portrait — and pointedly carries no name and no 'vande' of its own, because it is the first half of a two-gāthā praise completed in the next verse (which names the Nāila/Nāgila lineage). Tradition identifies the figure so adorned as Dūṣyagaṇi, the very guru of Devavācaka who compiled the sūtra; the warmth of the imagery befits the author honouring his own teacher last in the roll. The poet stacks four likenesses in a single bahuvrīhi resolving on 'sirivaṇṇo': fire-tested gold (kaṇaga-taviya — purity proven, not merely claimed), the golden champaka (radiance with fragrance), and the 'vimala vara kamala gabbha' — the spotless inmost cup of a lotus (inner purity untouched by its surroundings). The portrait then turns from looks to love and learning: 'bhaviya-jaṇa hiyaya daïe' — he lives in the hearts of all liberation-bound souls; 'dayāguṇa visārae' — he is no mere practitioner but an adept of compassion; and 'dhīre' — steadfast. The movement is deliberate: outer lustre → universal endearment → mastery of the supreme virtue → inner steadiness, so that physical beauty is finally read as the visible sign of dayā and dhairya.",
+    "doctrinalContext": "Two doctrinal anchors stand out. First, 'bhaviya-jaṇa' invokes the bhavya/abhavya distinction: only souls inherently capable of liberation respond to such a teacher, so being 'dear to bhavya hearts' is itself a mark of his spiritual authenticity. Second, 'dayāguṇa' foregrounds compassion (dayā), the experiential face of ahiṁsā and the root of the entire Jain ethical edifice; naming him an adept (visāraya) in it ranks dayā above scholarship as the teacher's crowning attainment, paired with dhairya (steadfastness) as the inner ground that makes compassion reliable rather than sentimental.",
+    "practicalRelevance": "Recited today, the verse trains the eye to read radiance correctly: a worthy guide is recognised not by charisma but by proven purity (gold from the fire), by being treasured in sincere hearts, and above all by skilled, steady compassion. The reciter is invited to make dayā a cultivated competence — practised until expert — and to anchor it in dhairya, so kindness holds firm under provocation.",
+    "crossReferences": [
+      {
+        "text": "Nandī-sūtra, Sthavirāvalī — following gāthā ('…aṇuogiya vara vasahe, nāila kula vaṁsa nandi kare'), which completes this teacher's praise and fixes the Nāila/Nāgila lineage",
+        "source": "Devavācaka (Devarddhigaṇi Kṣamāśramaṇa), Valabhī recension"
+      },
+      {
+        "text": "Stock similes of gold and the spotless lotus for ācārya purity, recurrent across the Sthavirāvalī (cf. 'akkhubhiya-samudda-gambhīra', Ārya Samudra)",
+        "source": "Nandī-sūtra with Malayagiri's vṛtti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kanaka — definition and Jain/Prakrit usage",
+      "url": "https://www.wisdomlib.org/definition/kanaka",
+      "type": "dictionary",
+      "consultedFor": "Glossing kaṇaga (< kanaka, 'gold') and the refined-gold simile."
+    },
+    {
+      "title": "Daya — definition (including Jain ethical sense)",
+      "url": "https://www.wisdomlib.org/definition/daya",
+      "type": "dictionary",
+      "consultedFor": "Confirming dayā as compassion, the cardinal virtue underpinning dayāguṇa."
+    },
+    {
+      "title": "Bhavya — definition (Jainism: soul capable of liberation)",
+      "url": "https://www.wisdomlib.org/definition/bhavya",
+      "type": "dictionary",
+      "consultedFor": "Glossing bhaviya-jaṇa via the bhavya/abhavya doctrine."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse carries no proper name and no finite 'vande'; the epithets (Ardhamāgadhī nom. sg. in -e: daïe, visārae, dhīre; Māhārāṣṭrī -o: sirivaṇṇo) form the first half of a description completed in the following gāthā, which names the Nāila/Nāgila lineage. Tradition identifies the praised teacher as Dūṣyagaṇi, guru of the redactor Devavācaka; this individual name-equation is the tradition's and is treated as probable rather than firmly historical. Compound parsed as a single bahuvrīhi (vara-kaṇaga-taviya-caṁpaga-vimala-vara-kamala-gabbha-siri-vaṇṇo) resolving on sirivaṇṇo. 'daïe' read as Skt. dayita ('beloved'), giving 'dear to the hearts of bhavya folk'; an alternative reading taking daie as a form of dayā ('compassion arises in the heart') is grammatically weaker and not adopted. Verse text followed verbatim from the book; mātrā/anusvāra/conjunct readings (e.g. ગબ્ભ, સિરિવણ્ણો, ધીરે) not normalized."
+}

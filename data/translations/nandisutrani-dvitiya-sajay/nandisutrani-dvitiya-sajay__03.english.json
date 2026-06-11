@@ -1,0 +1,154 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the worshipper bows on to the next teachers in the chain — Mahāgiri and Suhastī, and after them Śrīvata of Bahula's house — each remembered by the family-clan he came from.",
+  "recitation": "elāvaccasa guttaṁ, vandāmi mahāgiriṁ suhatthiṁ ca | tatto kosiya guttaṁ, bahulassa sirivayaṁ vande ||",
+  "wordByWord": [
+    {
+      "token": "એલાવચ્ચસ",
+      "translit": "elāvaccasa",
+      "gloss": "of the Elāpatya (clan-lineage)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit elāvacca = Sanskrit elāpatya, a gotra-name; here in compound with the following guttaṁ.",
+      "notes": "Identifies Mahāgiri and Suhastī by their shared gotra; genitive sense fused into the compound."
+    },
+    {
+      "token": "ગુત્તં",
+      "translit": "guttaṁ",
+      "gloss": "(of the) gotra / clan-lineage (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gutta = Sanskrit gotra.",
+      "notes": "First of two gotra-tags in the verse; pairs with elāvaccasa."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow to / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "√vand 'to praise, salute', present 1st sg. parasmaipada.",
+      "notes": "One of the two homage-verbs framing the verse (cf. vande at the close)."
+    },
+    {
+      "token": "મહાગિરિં",
+      "translit": "mahāgiriṁ",
+      "gloss": "Mahāgiri (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "mahā ('great') + giri ('mountain'); proper name of the ācārya.",
+      "notes": "A chief disciple of Sthūlabhadra (named in the preceding verse)."
+    },
+    {
+      "token": "સુહત્થિં",
+      "translit": "suhatthiṁ",
+      "gloss": "Suhastī (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suhatthi = Sanskrit suhastin, 'fair-/auspicious-handed'; proper name.",
+      "notes": "Sthūlabhadra's other chief disciple; the teacher who converted King Samprati."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Sanskrit ca, coordinating conjunction.",
+      "notes": "Links Mahāgiri and Suhastī as the paired objects of vandāmi."
+    },
+    {
+      "token": "તત્તો",
+      "translit": "tatto",
+      "gloss": "thereafter / from there / then",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tatto = Sanskrit tataḥ, ablative-adverbial 'from that (point)'.",
+      "notes": "The hinge of the verse: it pivots the homage from the Elāpatya cluster to the Kauśika cluster."
+    },
+    {
+      "token": "કોસિય",
+      "translit": "kosiya",
+      "gloss": "Kauśika (clan-lineage)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kosiya = Sanskrit kauśika, a gotra-name; in compound with the following guttaṁ.",
+      "notes": "The Kauśika gotra recurs in the following verse (Śāṇḍilya), marking a sustained branch of the line."
+    },
+    {
+      "token": "ગુત્તં",
+      "translit": "guttaṁ",
+      "gloss": "(of the) gotra / clan-lineage (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gutta = Sanskrit gotra.",
+      "notes": "Second occurrence; pairs with kosiya to tag the next teacher(s)."
+    },
+    {
+      "token": "બહુલસ્સ",
+      "translit": "bahulassa",
+      "gloss": "of Bahula (gen.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bahula = Sanskrit bahula, proper name; genitive sg. -assa.",
+      "notes": "Construed as a relational marker — Śrīvata identified through his kinship/association with Bahula, a stock device of the succession-roll."
+    },
+    {
+      "token": "સિરિવયં",
+      "translit": "sirivayaṁ",
+      "gloss": "Śrīvata (acc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siri = Sanskrit śrī ('glory, fortune') + -vaya; read as the proper name Śrīvata.",
+      "notes": "Object of vande; reading flagged in notes (alt. sarivvaya, 'of equal age', possibly pointing to Bahula's brother)."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow to / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "√vand, present 1st sg. ātmanepada.",
+      "notes": "Closing homage-verb; its echo of vandāmi seals the verse as a single sustained act of bowing."
+    }
+  ],
+  "literalTranslation": "Of the Elāpatya gotra — I bow to Mahāgiri and Suhastī; thereafter, of the Kauśika gotra, I bow to Śrīvata of Bahula.",
+  "idiomaticTranslation": "I bow to Mahāgiri and Suhastī, both of the Elāpatya clan-lineage; and then, of the Kauśika clan-lineage, I venerate Śrīvata of Bahula's house.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā takes the next two strides of the lineage straight on from Sthūlabhadra, named at the close of the preceding verse: his two foremost disciples, Mahāgiri and Suhastī, are bowed to together, bound by the single tag elāvaccasa-guttaṁ — both of the Elāpatya clan. The pairing is deliberate. Tradition remembers Mahāgiri for reviving the stricter, jina-kalpa-leaning austerity and Suhastī for the active leadership of the order — most famously the conversion of the Mauryan king Samprati, the 'Jain Aśoka.' One gotra, two complementary temperaments: rigour and outreach held in the same bow. The verse's quiet engine is the adverb tatto, 'thereafter.' It is the chronological hinge that turns the homage from the Elāpatya pair to a new clan-cluster, the Kauśika gotra, opening the long Kauśika strand that the very next verse will resume with Śāṇḍilya. There the line is given as bahulassa sirivayaṁ — Śrīvata named through Bahula, the genitive working not as mere possession but as the succession-roll's habitual way of fixing a teacher by his nearest kin or predecessor. Notice, too, the frame: the verse opens with vandāmi and closes with vande, the same act of bowing in two grammatical voices. The names change; the bowing does not. That repetition is the point — the worshipper is not reciting a genealogy but performing an unbroken salutation that the whole sajjhāy sustains, link after link.",
+    "doctrinalContext": "The verse enacts the Jain conviction that right knowledge is preserved only person-to-person, through an authenticated chain of living teachers (the vācaka-vaṁśa). Each ācārya is anchored by gotra — elāvaccasa, then kosiya — because clan-identification is how the tradition vouches for a teacher's place in the verified succession and guards the kālika-śruta against rupture. By pairing two disciples of one master and then pivoting to a fresh gotra, the gāthā makes visible how the single seat (paṭṭa) branches yet stays continuous. The doubled homage-verb (vandāmi… vande) frames lineage-remembrance itself as a meritorious devotional act, not antiquarian record-keeping.",
+    "practicalRelevance": "Reciting this verse, the worshipper practises gratitude as a discipline: each name is a debt acknowledged, and the reciter, by chanting, becomes the present link extending the same chain. It invites one to honour rigour (Mahāgiri) and compassionate engagement with the world (Suhastī) as equally valid expressions of the path.",
+    "crossReferences": [
+      {
+        "text": "Kalpa Sūtra, Sthaviravali (succession-roll of elders, with gotra-identifications)",
+        "source": "Hermann Jacobi, Jaina Sūtras Part I, SBE vol. 22"
+      },
+      {
+        "text": "Pariśiṣṭaparvan / Sthavirāvalīcarita (lives of Mahāgiri and Suhastī; Suhastī's conversion of Samprati)",
+        "source": "Hemacandra; trans. R.C.C. Fynes, The Lives of the Jain Elders (1998)"
+      },
+      {
+        "text": "Nandī Sūtra, opening Sthavirāvalī gāthās",
+        "source": "Devardhigaṇi Kṣamāśramaṇa recension (Valabhī)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Samprati (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Samprati",
+      "type": "scholarship",
+      "consultedFor": "Suhastī (Suhastisuri) as the eighth leader of Mahāvīra's congregation and converter of King Samprati, and his place in the Sthaviravali."
+    },
+    {
+      "title": "Parishishtaparvan / Sthaviravalicharitra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sthaviravali",
+      "type": "scholarship",
+      "consultedFor": "Hemacandra's narrative of the elders' succession after Sthūlabhadra, including Mahāgiri and Suhastī."
+    },
+    {
+      "title": "Jaina Sutras Part I (Kalpa Sūtra, incl. Sthaviravali) — H. Jacobi, SBE 22",
+      "url": "https://archive.org/details/jainasutrasparti029233mbp",
+      "type": "translation",
+      "consultedFor": "The Sthaviravali genre and its gotra-identification of elders (Elāpatya, Kauśika), and Prakrit succession-roll conventions."
+    },
+    {
+      "title": "Sthulabhadra (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "type": "scholarship",
+      "consultedFor": "Sthūlabhadra as the master of Mahāgiri and Suhastī, situating this verse immediately after the preceding gāthā."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Book spelling is preserved verbatim (બહુલસ્સ સિરિવયં). 'sirivayaṁ' is read as the proper name Śrīvata, following the sutra preface, which lists Śrīvata among the teachers of vv.3–8; the genitive bahulassa is then a relational tag ('Śrīvata of Bahula'). An alternative manuscript reading sarivvaya/sariccha-vaya ('of equal age / peer') would instead make the phrase describe Bahula's same-age brother (traditionally Balissaha) rather than a separate Śrīvata — the identification is the tradition's and is not firmly historical. Name-equations (Suhastī = Suhastin/Suhastisuri; gotra forms Elāpatya, Kauśika) follow standard IAST normalization while the recited gāthā keeps its Prakrit forms. Web-search summaries were not treated as citable; only the four verifiable sources above were used."
+}

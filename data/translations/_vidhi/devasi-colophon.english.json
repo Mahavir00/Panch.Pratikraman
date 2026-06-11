@@ -1,0 +1,75 @@
+{
+  "vidhiId": "devasi-colophon",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "Closing of the Daivasika Pratikramaṇa (Utthāpanā & Colophon)",
+  "summary": "This closing step dismisses the temporary guru-installation (sthāpanā) made for the rite — if one was set up on a book or the like — with one Navkāra, and then declares that the daily (Daivasika) pratikramaṇa of the Vidhipaksha (Anchala) Gaccha śrāvaka is complete.",
+  "segments": [
+    {
+      "segmentId": "devasi-colophon/01",
+      "recitation": "Eka Navakāra gaṇī, utthāpanā vidhi karavī",
+      "plainMeaning": "If you set up a stand-in for the guru (on a book or the like) at the start, face it, recite one Navkāra, and formally take it down.",
+      "idiomaticTranslation": "If you had established a sthāpanā (a symbolic seating of the guru's presence) using a book or some similar object, then turn to face it, hold your right hand turned outward in the raising posture (mudrā), recite one Navkāra, and perform the utthāpanā — the rite of respectfully dismissing that installed presence.",
+      "explanation": "A procedural cue performed only when an improvised sthāpanā was used; the single Navkāra accompanies the closing hand-gesture as the symbolic presence is withdrawn.",
+      "ritualTerms": [
+        {
+          "term": "sthāpanā",
+          "gloss": "the symbolic installation of the guru's presence for the rite"
+        },
+        {
+          "term": "Navakāra (Navkār)",
+          "gloss": "the universal Namaskāra mantra to the five Parameṣṭhins"
+        },
+        {
+          "term": "utthāpanā",
+          "gloss": "the closing rite of withdrawing/dismissing the installed sthāpanā"
+        },
+        {
+          "term": "mudrā",
+          "gloss": "a fixed devotional hand-posture"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-colophon/02",
+      "recitation": "Sthāpanācāryajī hoya to utthāpanā karavānī jarūra nathī",
+      "plainMeaning": "If the guru's proper sthāpanācārya is present, you do not need to do the dismissal.",
+      "idiomaticTranslation": "If the guru-reverend's own sthāpanācārya (the permanent consecrated stand representing the ācārya) is present, then there is no need to perform the utthāpanā at all.",
+      "explanation": "An exception to the previous segment: the dismissal applies only to an improvised installation, not to a permanent sthāpanācārya.",
+      "ritualTerms": [
+        {
+          "term": "sthāpanācārya",
+          "gloss": "the permanent consecrated object representing the ācārya/guru"
+        },
+        {
+          "term": "utthāpanā",
+          "gloss": "the closing rite of withdrawing the installed sthāpanā"
+        }
+      ]
+    },
+    {
+      "segmentId": "devasi-colophon/03",
+      "recitation": "Iti śrī vidhipakṣa (acala) gacchīya śrāvakasya daivasika pratikramaṇaṁ samāptaṁ ॥",
+      "plainMeaning": "Thus the lay devotee's daily pratikramaṇa of the Vidhipaksha (Anchala) Gaccha is finished.",
+      "idiomaticTranslation": "Thus concludes the Daivasika (daily, at-sunset) pratikramaṇa of the śrāvaka of the illustrious Vidhipaksha (Achala) Gaccha. Herewith it is complete.",
+      "explanation": "The Sanskrit colophon that formally seals the Devasi rite; 'acala' is given as the gaccha's alternate name.",
+      "ritualTerms": [
+        {
+          "term": "Vidhipakṣa (Acala) Gaccha",
+          "gloss": "this tradition's self-name; also called Anchalgachchha"
+        },
+        {
+          "term": "daivasika pratikramaṇa",
+          "gloss": "the daily sunset rite of reflection and atonement"
+        },
+        {
+          "term": "śrāvaka",
+          "gloss": "a Jain lay devotee"
+        }
+      ]
+    }
+  ],
+  "sources": [],
+  "translatorConfidence": 0.9,
+  "notes": "All three segments are procedural directions; none is a chanted verse, so the 'recitation' fields transliterate the key spoken cue (segment 01 references reciting one Navkāra; segment 03 is itself the spoken Sanskrit colophon). The right-hand-reversed raising mudrā in segment 01 is rendered descriptively from the native parenthetical (ઉઠાવવાની મુદ્રામાં); the precise technical name of this mudrā is not given in the KB and is left undescribed beyond the text. The utthāpanā/sthāpanā distinction follows the native wording and the KB's treatment of guru-sthāpanā (panchindiya); not independently re-verified against an external source."
+}

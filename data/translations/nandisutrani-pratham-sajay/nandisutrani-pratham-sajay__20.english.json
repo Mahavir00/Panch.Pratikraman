@@ -1,0 +1,160 @@
+{
+  "shlokaId": "nandisutrani-pratham-sajay/20",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow in reverence to the first twelve Tīrthaṅkaras, naming each one from Ṛṣabha and Ajita down to Vāsupūjya.",
+  "recitation": "vande usabhaṁ ajiyaṁ, saṁbhava-m-abhinandaṇa sumai paümappaha supāsaṁ; sasi pupphadaṁta sīyala, sijjhaṁsaṁ vāsupujjaṁ ca.",
+  "wordByWord": [
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "From √vand (Skt. vandate, 'to salute, praise'); first-person singular. A single 'vande' governs every name that follows.",
+      "notes": "The lone main verb of the verse; all twelve names are its objects."
+    },
+    {
+      "token": "ઉસભં",
+      "translit": "usabhaṁ",
+      "gloss": "Ṛṣabha (the 1st Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit usabha < Skt. ṛṣabha, 'bull'; accusative -ṁ as object of vande.",
+      "notes": "The first ford-maker, Ādinātha."
+    },
+    {
+      "token": "અજિયં",
+      "translit": "ajiyaṁ",
+      "gloss": "Ajita (the 2nd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajiya < Skt. ajita, 'unconquered'; accusative.",
+      "notes": ""
+    },
+    {
+      "token": "સંભવ",
+      "translit": "saṁbhava",
+      "gloss": "Sambhava (the 3rd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sambhava, 'origin, arising'; the final -ṁ is elided into the euphonic liaison with the next word.",
+      "notes": "Read with the following m-sandhi."
+    },
+    {
+      "token": "મભિણંદણ",
+      "translit": "m-abhiṇaṁdaṇa",
+      "gloss": "(and) Abhinandana (the 4th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. abhinandana, 'rejoicing, gladdening'; the leading m- is a euphonic hiatus-breaker (sandhi) joining saṁbhava + abhinandaṇa.",
+      "notes": "The prefixed m is not part of the name; it is a metrical glide typical of Prakrit gāthā."
+    },
+    {
+      "token": "સુમઇ",
+      "translit": "sumai",
+      "gloss": "Sumati (the 5th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sumai < Skt. sumati, 'good-minded, of right intellect'.",
+      "notes": ""
+    },
+    {
+      "token": "પઉમપ્પહ",
+      "translit": "paümappaha",
+      "gloss": "Padmaprabha (the 6th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paüma (< Skt. padma, 'lotus') + ppaha (< prabhā, 'radiance'): 'lotus-radiant'.",
+      "notes": "Uses the same paüma element glossed in the preface."
+    },
+    {
+      "token": "સુપાસં",
+      "translit": "supāsaṁ",
+      "gloss": "Supārśva (the 7th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit supāsa < Skt. supārśva, 'fair-sided'; accusative.",
+      "notes": ""
+    },
+    {
+      "token": "સસિ",
+      "translit": "sasi",
+      "gloss": "Candraprabha (the 8th Tīrthaṅkara), lit. 'the Moon'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sasi < Skt. śaśin, 'moon' (lit. 'hare-marked'); here a metonym for Candraprabha, 'moon-radiant'.",
+      "notes": "The only name in the verse given by lunar epithet rather than its formal title — a deliberate poetic metonymy."
+    },
+    {
+      "token": "પુફ્ફદંત",
+      "translit": "pupphadaṁta",
+      "gloss": "Puṣpadanta / Suvidhinātha (the 9th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit puppha (< Skt. puṣpa, 'flower') + daṁta (< danta, 'tooth'): 'flower-toothed'.",
+      "notes": "Also called Suvidhi; the book's spelling પુફ્ફદંત is kept verbatim."
+    },
+    {
+      "token": "સીયલ",
+      "translit": "sīyala",
+      "gloss": "Śītala (the 10th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīyala < Skt. śītala, 'cool, soothing'.",
+      "notes": ""
+    },
+    {
+      "token": "સિજઝંસં",
+      "translit": "sijjhaṁsaṁ",
+      "gloss": "Śreyāṁsa (the 11th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sijjhaṁsa < Skt. śreyāṁsa, 'most auspicious, more excellent'; accusative.",
+      "notes": "Book spelling સિજઝંસં retained verbatim; some recensions read sejjaṁsa/seyaṁsa."
+    },
+    {
+      "token": "વાસુપુજજં",
+      "translit": "vāsupujjaṁ",
+      "gloss": "Vāsupūjya (the 12th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāsupujja < Skt. vāsupūjya, 'worthy of worship by Vasus / by the worthy'; accusative.",
+      "notes": "The twelfth and last name of this verse; the roll-call continues in v.21."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit ca, the conjunctive enclitic 'and'.",
+      "notes": "Caps the list of twelve and links it forward into v.21, which completes the twenty-four."
+    }
+  ],
+  "literalTranslation": "I bow to Ṛṣabha, Ajita, Sambhava, and Abhinandana, to Sumati, Padmaprabha, and Supārśva; to the Moon-lord (Candraprabha), Puṣpadanta, Śītala, Śreyāṁsa, and Vāsupūjya.",
+  "idiomaticTranslation": "In reverence I bow: to Ṛṣabha and Ajita, to Sambhava and Abhinandana, to Sumati, lotus-bright Padmaprabha, and Supārśva; to moon-radiant Candraprabha, to Puṣpadanta, cool Śītala, auspicious Śreyāṁsa, and Vāsupūjya too.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having gathered all eight Saṅgha-similes in the preceding verse and bowed to the community as the 'mine of virtues,' the hymn now pivots from simile to roll-call: it begins naming the twenty-four ford-makers one by one. This verse delivers the first twelve, from Ṛṣabha to Vāsupūjya, and the closing 'ca' deliberately leaves the count open — v.21 will name the remaining twelve and complete the twenty-four. A single 'vande' at the head governs the whole chain; the names are simply heaped in the accusative, the verse becoming a continuous act of bowing rather than a sequence of separate sentences. Two details reward attention. First, 'saṁbhava-m-abhiṇaṁdaṇa' shows the characteristic Prakrit m-glide that breaks the vowel-hiatus between two names without altering either — a metrical seam, not a syllable of the name. Second, the eighth Jina is invoked not by his title but by the bare word 'sasi,' 'the Moon': a compact metonymy for Candraprabha ('moon-radiant'), letting the poet name him by his very emblem. The verse thus moves with a chant-like momentum, each name a footfall of devotion, the cool and luminous epithets (Padmaprabha 'lotus-bright,' Sasi 'moon,' Śītala 'cool') quietly extending the hymn's recurring imagery of pure, calming radiance onto the persons of the Jinas themselves.",
+    "doctrinalContext": "Naming each Tīrthaṅkara is guṇa-smaraṇa — recollection of the qualities of those who have crossed saṁsāra and built the ford for others. The bow is not petition to a deity who intervenes; the liberated Jina is a perfected ideal, and veneration purifies the reciter's own disposition (the dṛṣṭi cleansed by reverence). By rehearsing the lineage of twenty-four across vv.20–21, the verse affirms the cyclical certainty of the path: ford-makers arise in succession, and the present community stands in unbroken continuity with the very first, Ṛṣabha.",
+    "practicalRelevance": "As the reciter speaks each name, the practice is to let the name call up the Jina — recollecting that twelve perfected beings, however cool and luminous their epithets, were once embodied seekers who completed the path. The verse trains attentive, unhurried devotion: not skimming a list, but bowing twelve distinct times in a single breath of reverence.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava): 'usabham-ajiaṁ ca vande… vāsu-pujjaṁ ca' — the parallel naming of the same twelve",
+        "source": "Āvaśyaka liturgy; Caturviṁśati-stava, 2nd Āvaśyaka"
+      },
+      {
+        "text": "Nandī-sūtra opening maṅgala — source of this sajjhāy",
+        "source": "Nandī-sūtra (Śvetāmbara Āgama), Devardhigaṇi Kṣamāśramaṇa redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Caturviṁśati-stava (Logassa Sūtra) — Prakrit text with translation",
+      "url": "https://www.cs.colostate.edu/~malaiya/logassa.html",
+      "type": "translation",
+      "consultedFor": "Parallel Prakrit naming of the same twelve Tīrthaṅkaras (usabha…vāsupujja) and confirmation of the accusative roll-call form"
+    },
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Canonical identity and order of the twenty-four Tīrthaṅkaras and the Sanskrit equivalents of the Prakrit names (Ṛṣabha…Vāsupūjya)"
+    },
+    {
+      "title": "Nandi Sutra (Śvetāmbara Āgama)",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Sutra",
+      "type": "translation",
+      "consultedFor": "Identity of the Nandī-sūtra and its opening praise from which this sajjhāy is extracted"
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "This verse names Tīrthaṅkaras 1–12; the trailing 'ca' opens into v.21, which names 13–24 to complete the twenty-four. 'Sasi' (lit. 'moon') is read as Candraprabha (8th) by lunar metonymy — standard in this litany — rather than as a separate epithet. 'saṁbhava-m-abhiṇaṁdaṇa' is parsed with a euphonic m-sandhi joining two distinct names (Sambhava + Abhinandana). Book orthography is preserved verbatim (e.g. પુફ્ફદંત, સિજઝંસં); some recensions read seyaṁsa/sejjaṁsa for the 11th and Suvihi for the 9th. IAST transliterations follow the Gujarati source readings."
+}

@@ -1,0 +1,227 @@
+{
+  "shlokaId": "smaran-9-bruhad-ajitshanti/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I take up a never-ending wish to bow before Lord Śānti, who has stilled the world's great fears, who showers blessing like a rain-cloud, and who is an ocean of incomparable greatness.",
+  "recitation": "śāntim upaśānta-bhava-bhūri-bhaya-paribhavaṁ, bhuvana-vana-sudhana-ghana-vāri-vara-vaibhavam | parama-śamam ihu sama-m-asama-mahimodadher natum īhām anantām ahaṁ sandadhe ||",
+  "wordByWord": [
+    {
+      "token": "શાંતિમ્",
+      "translit": "śāntim",
+      "gloss": "Śānti (Śāntinātha, the 16th Tīrthaṅkara) — the accusative object of 'to bow'; the name simultaneously carries its plain sense 'peace'",
+      "partOfSpeech": "noun",
+      "etymology": "from √śam 'to grow calm' + suffix -ti; the very name puns on the quietude (upaśama) the verse goes on to describe",
+      "notes": "accusative singular; the punning of the name against upaśānta and parama-śama is deliberate yamaka"
+    },
+    {
+      "token": "ઉપશાંત",
+      "translit": "upaśānta",
+      "gloss": "wholly stilled, fully pacified",
+      "partOfSpeech": "adj",
+      "etymology": "upa- (intensive) + śānta, past participle of √śam; heads the bahuvrīhi describing Śānti",
+      "notes": "first member of the compound upaśānta-bhava-bhūri-bhaya-paribhavaṁ"
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, the round of saṁsāra",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhū 'to become'; the cycle of becoming"
+    },
+    {
+      "token": "ભૂરિ",
+      "translit": "bhūri",
+      "gloss": "abundant, manifold, vast",
+      "partOfSpeech": "adj"
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear, dread",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhī 'to fear'"
+    },
+    {
+      "token": "પરિભવં",
+      "translit": "paribhavaṁ",
+      "gloss": "humiliation, indignity, defeat",
+      "partOfSpeech": "noun",
+      "etymology": "pari- (around, thoroughly) + √bhū; lit. 'being overcome'",
+      "notes": "accusative singular closing the compound: 'by whom the world's abundant fear and humiliation is stilled'"
+    },
+    {
+      "token": "ભુવન",
+      "translit": "bhuvana",
+      "gloss": "the world, the living cosmos",
+      "partOfSpeech": "noun",
+      "etymology": "from √bhū; 'that which has come into being'"
+    },
+    {
+      "token": "વન",
+      "translit": "vana",
+      "gloss": "forest, grove",
+      "partOfSpeech": "noun",
+      "notes": "bhuvana-vana = 'the forest that is the world' — the parched thicket the rain-cloud nourishes"
+    },
+    {
+      "token": "સુધન",
+      "translit": "sudhana",
+      "gloss": "richly laden, abundantly endowed",
+      "partOfSpeech": "compound",
+      "etymology": "su- 'good, abundant' + dhana 'wealth, store'; here the cloud's rich store of water"
+    },
+    {
+      "token": "ઘન",
+      "translit": "ghana",
+      "gloss": "rain-cloud (also 'dense, thick')",
+      "partOfSpeech": "noun",
+      "notes": "classical poetic word for the monsoon cloud; with vāri forms the rain-imagery"
+    },
+    {
+      "token": "વારિ",
+      "translit": "vāri",
+      "gloss": "water, rain",
+      "partOfSpeech": "noun"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choicest, noble",
+      "partOfSpeech": "adj"
+    },
+    {
+      "token": "વૈભવમ્",
+      "translit": "vaibhavam",
+      "gloss": "majesty, splendour, glory",
+      "partOfSpeech": "noun",
+      "etymology": "vṛddhi derivative of vibhava (vi- + √bhū) 'power, magnificence'",
+      "notes": "accusative singular; closes the second bahuvrīhi — Śānti 'whose splendour is that of a noble, water-rich rain-cloud over the world-forest'"
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "supreme, highest",
+      "partOfSpeech": "adj"
+    },
+    {
+      "token": "શમમ્",
+      "translit": "śamam",
+      "gloss": "tranquillity, inner calm",
+      "partOfSpeech": "noun",
+      "etymology": "from √śam; parama-śamam = 'supreme quietude itself', re-echoing the name Śānti",
+      "notes": "accusative in apposition to śāntim"
+    },
+    {
+      "token": "ઇહુ",
+      "translit": "ihu",
+      "gloss": "here, here indeed",
+      "partOfSpeech": "particle",
+      "etymology": "metrical/euphonic form of iha 'here' (with emphatic -u); preserved verbatim per the book's reading",
+      "notes": "the book's spelling is honoured rather than normalized to 'iha'"
+    },
+    {
+      "token": "સમ",
+      "translit": "sama",
+      "gloss": "equal, comparable",
+      "partOfSpeech": "adj"
+    },
+    {
+      "token": "મસમ",
+      "translit": "(m-)asama",
+      "gloss": "incomparable, matchless",
+      "partOfSpeech": "adj",
+      "etymology": "a- (negation) + sama 'equal', joined to the preceding sama by a euphonic -m-; the chime sama-m-asama is pure yamaka",
+      "notes": "the paradox 'equal-yet-unequalled' qualifies mahiman: equal to other Jinas in liberated nature, yet beyond compare in glory"
+    },
+    {
+      "token": "મહિમોદધેઃ",
+      "translit": "mahimodadheḥ",
+      "gloss": "of the ocean of greatness/glory",
+      "partOfSpeech": "compound",
+      "etymology": "mahiman 'greatness' + udadhi 'ocean' → mahima-udadhi, genitive singular; the visarga sandhis to -r before natum",
+      "notes": "genitive governed by natum — 'to bow to [him,] the ocean of glory'"
+    },
+    {
+      "token": "નતું",
+      "translit": "natum",
+      "gloss": "to bow, to make obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "infinitive of √nam 'to bend, bow'",
+      "notes": "the act that the endless longing (īhā) is directed toward"
+    },
+    {
+      "token": "ઈહામ્",
+      "translit": "īhām",
+      "gloss": "longing, earnest endeavour, yearning",
+      "partOfSpeech": "noun",
+      "etymology": "from √īh 'to strive, desire'; feminine noun īhā, here accusative",
+      "notes": "object of sandadhe; 'an unending longing to bow'"
+    },
+    {
+      "token": "અનંતામ્",
+      "translit": "anantām",
+      "gloss": "endless, infinite",
+      "partOfSpeech": "adj",
+      "etymology": "an- (negation) + anta 'end'; accusative feminine agreeing with īhām"
+    },
+    {
+      "token": "અહં",
+      "translit": "ahaṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun"
+    },
+    {
+      "token": "સંદધે",
+      "translit": "sandadhe",
+      "gloss": "I take up, fix firmly, set as my resolve",
+      "partOfSpeech": "verb",
+      "etymology": "1st person singular ātmanepada of sam + √dhā 'to put/join together'; here 'I conceive/undertake (a resolve)'",
+      "notes": "the verse's main verb; the worshipper makes a standing, never-ending vow of homage"
+    }
+  ],
+  "literalTranslation": "Śānti — by whom the abundant fear and humiliation of worldly existence is wholly stilled; whose splendour is that of a noble, water-laden rain-cloud over the forest of the world; supreme tranquillity itself here; the ocean of a greatness at once equalled and unequalled — to bow to him, an endless longing I take up.",
+  "idiomaticTranslation": "To bow before Śānti — he who has quelled the world's vast fears and indignities, who pours down blessing like a rich monsoon-cloud upon the forest of all beings, who is supreme peace itself, an ocean of glory both equalled and beyond compare — for this I conceive a longing that knows no end.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the opening verse saluted Ajita ('naumi jinam ajitam'), this second verse turns wholly to Śānti, completing the individual homage before verse 3 weds the two as one Jina-pair. The poet builds the verse as a single sweep toward one verb, sandadhe ('I undertake'): everything before it qualifies the Lord, and the worshipper's act is reserved for the last breath of the stanza. Three portraits of Śānti are stacked. First, the moral: he is upaśānta-bhava-bhūri-bhaya-paribhava — one in whom the world's swarming fears and humiliations are extinguished; the name 'Śānti' is thus unpacked as actual peace, a pun sealed again by parama-śamam, 'supreme calm itself.' Second, the lyrical: bhuvana-vana-sudhana-ghana-vāri-vara-vaibhava paints him as a great monsoon-cloud whose noble waters revive the parched forest of the world — the compassionate teacher who cools beings scorched by saṁsāra. Third, the metaphysical: sama-m-asama-mahimodadhi, 'ocean of a greatness equal-yet-unequalled.' The chiming sama / m-asama is the verse's signature sound-play, and its paradox is doctrinal, not merely ornamental. The closing movement is the most tender: the worshipper does not merely bow, but 'takes up an endless longing (anantām īhām) to bow.' Devotion here is not a single act but a standing, inexhaustible orientation of the heart.",
+    "doctrinalContext": "The 'equal-yet-unequalled' paradox (sama-m-asama) captures a precise Jain teaching: every liberated soul is identical in its intrinsic, fully-realized nature — so a Jina is sama, 'equal' — yet as a Tīrthaṅkara, a fordmaker who reveals the path, his glory is asama, 'without match' in the world of bound beings. The rain-cloud (ghana-vāri) is the standard figure for the Jina's compassion: like rain it falls without partiality, reviving the 'forest' of all life — anticipating the hymn's later image of teaching as nectar that cools souls burning in saṁsāra. Finally, fixing an 'endless longing to bow' (anantām īhām...sandadhe) frames namaskāra not as a momentary courtesy but as a sustained inner vow — bhakti as a permanent disposition of vinaya (reverent humility), itself a limb of right conduct.",
+    "practicalRelevance": "Reciting this verse, the devotee is invited to do two things: to take refuge in the one who has 'stilled abundant fear' — turning to Śānti precisely when the world's anxieties press — and to resolve, like the poet, not to a one-time bow but to an unending posture of reverence. The takeaway is that homage is a stance to be renewed, not a box to be ticked.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — homage to the 24 Tīrthaṅkaras, of whom Śānti is the 16th",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Laghu Ajitaśānti Stava (8th Smaraṇa, by Vīragaṇin) — the companion shorter hymn jointly praising Ajita and Śānti",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for natum (√nam), sandadhe (sam-√dhā), ghana, vāri, vaibhava, śam/śānti."
+    },
+    {
+      "title": "Wisdom Library — 'Iha, Īhā' (Sanskrit/Prakrit/Jain definitions)",
+      "url": "https://www.wisdomlib.org/definition/iha",
+      "type": "dictionary",
+      "consultedFor": "Confirming īhā as 'endeavour, longing, desire, striving' (√īh), distinct from the adverb iha 'here'."
+    },
+    {
+      "title": "Wisdom Library — 'Paribhava, Paribhāva'",
+      "url": "https://www.wisdomlib.org/definition/paribhava",
+      "type": "dictionary",
+      "consultedFor": "Confirming paribhava as 'humiliation, insult, defeat, disregard' (pari-√bhū)."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and orthography (incl. the reading 'ihu'); placement of the Bṛhad Ajitaśānti as the 9th Smaraṇa."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Token-level caveats: (1) the book reads 'ihu', a metrical/euphonic form of iha ('here') with emphatic -u, preserved verbatim rather than normalized. (2) 'masama' is a-sama 'unequalled' joined to the preceding 'sama' by a euphonic -m-; the deliberate chime sama-m-asama is yamaka and could alternatively be read as a single dvandva 'equal-and-unequalled' — the sense is the same paradox. (3) mahimodadheḥ is genitive (mahiman + udadhi) governed by natum, its visarga sandhied to -r before natum. (4) The main verb sandadhe (1st sg. ātmanepada, sam-√dhā) is read as 'I undertake/fix (a resolve)'; an alternate shade is 'I direct/apply (my longing)'. (5) Per the preface, authorship of this Bṛhad version is unattributed in the tradition source and is not guessed here."
+}

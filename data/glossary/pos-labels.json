@@ -1,0 +1,21 @@
+{
+  "_note": "Localized display labels for the closed `partOfSpeech` enum. partOfSpeech is stored as a stable English key in every translation JSON (good for the website to filter/colour by); render it through this map to show the reader a label in their own language. Used by src/render/shloka-renderer.js and intended for the client-side website too.",
+  "labels": {
+    "noun":          { "english": "Noun",          "gujarati": "નામ",            "hindi": "संज्ञा" },
+    "verb":          { "english": "Verb",          "gujarati": "ક્રિયાપદ",        "hindi": "क्रिया" },
+    "adjective":     { "english": "Adjective",     "gujarati": "વિશેષણ",          "hindi": "विशेषण" },
+    "adj":           { "english": "Adjective",     "gujarati": "વિશેષણ",          "hindi": "विशेषण" },
+    "adverb":        { "english": "Adverb",        "gujarati": "ક્રિયાવિશેષણ",     "hindi": "क्रियाविशेषण" },
+    "pronoun":       { "english": "Pronoun",       "gujarati": "સર્વનામ",         "hindi": "सर्वनाम" },
+    "particle":      { "english": "Particle",      "gujarati": "નિપાત (અવ્યય)",    "hindi": "निपात (अव्यय)" },
+    "compound":      { "english": "Compound",      "gujarati": "સમાસ",            "hindi": "समास" },
+    "invocation":    { "english": "Invocation",    "gujarati": "સ્તુતિ-પદ",        "hindi": "स्तुति-पद" },
+    "indeclinable":  { "english": "Indeclinable",  "gujarati": "અવ્યય",           "hindi": "अव्यय" },
+    "numeral":       { "english": "Numeral",       "gujarati": "સંખ્યાવાચક",      "hindi": "संख्यावाचक" },
+    "conjunction":   { "english": "Conjunction",   "gujarati": "સંયોજક",          "hindi": "समुच्चयबोधक" },
+    "interjection":  { "english": "Interjection",  "gujarati": "ઉદ્ગાર",          "hindi": "विस्मयादिबोधक" },
+    "prefix":        { "english": "Prefix",        "gujarati": "ઉપસર્ગ",          "hindi": "उपसर्ग" },
+    "suffix":        { "english": "Suffix",        "gujarati": "પ્રત્યય",         "hindi": "प्रत्यय" },
+    "postposition":  { "english": "Postposition",  "gujarati": "નામયોગી",         "hindi": "परसर्ग" }
+  }
+}

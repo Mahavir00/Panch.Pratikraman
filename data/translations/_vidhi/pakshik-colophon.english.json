@@ -1,0 +1,37 @@
+{
+  "vidhiId": "pakshik-colophon",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "title": "Colophon: the Pākṣika Pratikramaṇa is complete",
+  "summary": "This closing line is the colophon (concluding declaration) of the fortnightly rite. It announces that the Pākṣika pratikramaṇa, as performed by a lay follower (śrāvaka) of the Vidhipakṣa (Anchalgachchha) tradition, has now been fully and properly completed.",
+  "segments": [
+    {
+      "segmentId": "pakshik-colophon/01",
+      "recitation": "|| iti śrī-vidhipakṣa-gacchīya-śrāvakasya pākṣika pratikramaṇaṁ saṁpūrṇam ||",
+      "plainMeaning": "And so the fortnightly pratikramaṇa of the Vidhipakṣa-gaccha lay devotee is finished.",
+      "idiomaticTranslation": "Thus is completed the Pākṣika (fortnightly) Pratikramaṇa of the śrāvaka (lay follower) of the illustrious Vidhipakṣa Gaccha.",
+      "explanation": "A colophon, not a chanted prayer: it formally seals the rite, confirming the whole fortnightly observance has been carried out in full. The double daṇḍa (||) marks it as a closing benedictory line.",
+      "ritualTerms": [
+        {
+          "term": "pākṣika",
+          "gloss": "the fortnightly pratikramaṇa, done on the chaudas (14th)"
+        },
+        {
+          "term": "pratikramaṇa",
+          "gloss": "the rite of 'turning back' — reflection, confession, and atonement"
+        },
+        {
+          "term": "śrāvaka",
+          "gloss": "a lay follower (householder devotee)"
+        },
+        {
+          "term": "vidhipakṣa gaccha",
+          "gloss": "the tradition's self-name; the Anchalgachchha (Achhalgach) branch"
+        }
+      ]
+    }
+  ],
+  "sources": [],
+  "translatorConfidence": 0.95,
+  "notes": "The native line is Sanskrit in Gujarati script; rendered into IAST. 'iti ... saṁpūrṇam' is a standard concluding colophon formula and is treated as a procedural closing declaration, not a chant. 'śrīvidhipakṣagacchīyaśrāvakasya' is read as a compound: 'of the śrāvaka belonging to the illustrious Vidhipakṣa-gaccha', consistent with the KB's identification of Vidhipakṣa Gaccha = Anchalgachchha. No content invented beyond the native text."
+}

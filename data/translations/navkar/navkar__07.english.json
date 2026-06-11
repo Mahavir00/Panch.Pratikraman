@@ -1,0 +1,80 @@
+{
+  "shlokaId": "navkar/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This bow to the five holy ones wipes out every kind of sin.",
+  "recitation": "savva-pāva-ppaṇāsaṇo.",
+  "wordByWord": [
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, every (without exception)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all'); here the first member of the compound qualifying pāva.",
+      "notes": "Stressed totality — not 'most' sin but every sin."
+    },
+    {
+      "token": "પાવ",
+      "translit": "pāva",
+      "gloss": "sin, demerit, harmful karma",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva < Sanskrit pāpa; the soul-staining karmic matter accrued through wrong action.",
+      "notes": "savva-pāva = 'all sin', a tatpuruṣa knot inside the larger compound."
+    },
+    {
+      "token": "પ્પણાસણો",
+      "translit": "ppaṇāsaṇo",
+      "gloss": "destroyer, annihilator (the one that utterly removes)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (p)paṇāsaṇa < Sanskrit praṇāśana, from pra- ('forth, completely') + √naś ('to perish'); the doubled pp- is the Prakrit assimilation of the prefix pra-. Nominative singular masculine -o, agreeing with namukkāro of the preceding line.",
+      "notes": "Not merely 'reducer' but praṇāśana — total eradication; the intensive pra- marks completeness."
+    },
+    {
+      "token": ".",
+      "translit": "—",
+      "gloss": "verse-final stop (book's punctuation closing the pāda)",
+      "partOfSpeech": "particle",
+      "etymology": "Editorial daṇḍa-equivalent printed in the source book; part of the verbatim orthography, not a recited element.",
+      "notes": "Preserved verbatim per the book's readings."
+    }
+  ],
+  "literalTranslation": "[It is] the destroyer of all sin.",
+  "idiomaticTranslation": "[This fivefold homage] is the annihilator of every sin.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single word is the cūlikā's first predicate: the subject just named in the preceding line — 'this fivefold salutation' (eso pañca namukkāro) — is now told what it *does*. It is savva-pāva-ppaṇāsaṇo, the destroyer of all sin. The whole verse is one densely packed compound, and its force lies in three deliberate choices. First, savva ('all') refuses any limit: no sin is exempted, however old or grave. Second, pāva names the target precisely as karmic demerit — the verse is not about vague guilt but about the very matter that binds the soul. Third, and most pointedly, the act is praṇāśana, not mere lessening: the intensifying prefix pra- (audible in the doubled pp-) carries the sense of complete annihilation. The grammatical hinge is the nominative ending -o, which makes this compound an attribute of namukkāro from v.6 — the salutation itself is the destroyer. Thus the verse advances the cūlikā from naming the mantra (v.6) to declaring its first and most striking fruit (v.7), before the next line widens the praise to maṅgala. The reciter who has just bowed five times now hears the result of those bows stated as accomplished fact.",
+    "doctrinalContext": "The claim rests on the Jain understanding of karma as substantive: pāpa is inauspicious karma clinging to the soul, and bhāva-namaskāra — homage offered with sincere feeling — generates saṁvara (stoppage) and nirjarā (shedding) of that karma. The verse therefore does not credit a deity with forgiving sin; it credits the act of veneration of the Parameṣṭhins' qualities with the power to dissolve karmic bondage. 'All sin' aligns with the tradition's view that wholehearted reverence to the supreme venerables is among the most potent causes of nirjarā.",
+    "practicalRelevance": "Recited at the threshold of pratikramaṇa, this line frames the entire ritual of reflection that follows: before confessing the day's faults, the practitioner affirms that sincere homage already begins to undo them. Chant it not as a boast but as confidence — the bow you just made is doing real work on the soul.",
+    "crossReferences": [
+      {
+        "text": "Eso pañca namukkāro (Navkar v.6) — the subject this verse predicates",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "savva-pāva-ppaṇāsaṇo / maṅgalāṇaṁ ca savvesiṁ — the cūlikā couplet on the mantra's fruit",
+        "source": "Ṇamōkāra Mantra, standard Śvetāmbara recension"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text, transliteration and meaning",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Standard wording and meaning of the cūlikā line 'savva-pāva-ppaṇāsaṇo' and its placement among the last four phala-prashashti lines."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Sanskrit dictionary), H. T. Sheth",
+      "url": "https://archive.org/details/paia-sadda-mahannavo",
+      "type": "dictionary",
+      "consultedFor": "Prakrit paṇāsaṇa = Sanskrit praṇāśana ('destruction, annihilation'), and the prefix-assimilation yielding the doubled pp-."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots: sarva ('all'), pāpa ('sin/demerit'), and praṇāśana < pra- + √naś ('to destroy utterly')."
+    }
+  ],
+  "translatorConfidence": 0.96,
+  "notes": "The verse is a single sandhi-joined compound; its components savva, pāva and ppaṇāsaṇo are glossed individually plus the book's verse-final period. The nominative -o ties the compound to namukkāro of v.6, so the line is read as a predicate, not a standalone clause. The doubled pp- (પ્પ) is the regular Prakrit assimilation of pra-; the source book's reading 'સવ્વપાવપ્પણાસણો' is preserved verbatim. Whether the compound is best parsed as a tatpuruṣa ('destroyer of all sin') or a bahuvrīhi describing the salutation ('that whose nature is the destruction of all sin') is a fine point that does not change the sense."
+}

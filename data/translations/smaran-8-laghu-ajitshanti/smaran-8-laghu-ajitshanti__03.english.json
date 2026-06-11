@@ -1,0 +1,212 @@
+{
+  "shlokaId": "smaran-8-laghu-ajitshanti/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "After vanquishing their foes and enjoying royal happiness, these two Jinas gave away their wealth in great charity and then renounced the world out of longing for liberation — so bow to their lotus-feet.",
+  "recitation": "khaviya riu vagga vara rajja suha māṇiuṁ, pavara dāṇeṇa jaga sayala sammāṇiuṁ; jehiṁ mukkhaṁkarī dikkha kaṁkhīkayā, tāhi thuṇi ajiasaṁtī ya paya paṁkayā.",
+  "wordByWord": [
+    {
+      "token": "ખવિય",
+      "translit": "khaviya",
+      "gloss": "having destroyed / having vanquished",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. kṣapita (past pass. part. of √kṣap, 'to destroy, make an end of'); Prakritized kha(v)iya.",
+      "notes": "A secondary reading 'kṣamita' = 'having forgiven/forborne' is possible; the reign-and-conquest context favours 'destroyed (the enemy host).'"
+    },
+    {
+      "token": "રિઉ",
+      "translit": "riu",
+      "gloss": "enemy, foe",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ripu > Pkt. riu."
+    },
+    {
+      "token": "વગ્ગ",
+      "translit": "vagga",
+      "gloss": "host, group, throng",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. varga ('group, class') > Pkt. vagga; here riu-vagga = 'the host of enemies.'"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choicest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara ('best, choicest'), unchanged in Pkt."
+    },
+    {
+      "token": "રજ્જ",
+      "translit": "rajja",
+      "gloss": "kingdom, kingship",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rājya > Pkt. rajja (assimilation jy > jj)."
+    },
+    {
+      "token": "સુહ",
+      "translit": "suha",
+      "gloss": "happiness, bliss",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sukha > Pkt. suha (loss of intervocalic k/aspirate shift); vara-rajja-suha = 'the bliss of excellent kingship.'"
+    },
+    {
+      "token": "માણિઉં",
+      "translit": "māṇiuṁ",
+      "gloss": "[they] enjoyed, relished",
+      "partOfSpeech": "verb",
+      "etymology": "Apabhraṁśa past form from √man / māṇa- ('to enjoy, take pleasure in'); -iuṁ is the Apabhraṁśa absolutive/past suffix.",
+      "notes": "Subject is the dual Jinas (read as plural of respect)."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "superlative, most excellent",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pravara ('foremost') > Pkt. pavara."
+    },
+    {
+      "token": "દાણેણ",
+      "translit": "dāṇeṇa",
+      "gloss": "by giving, through charity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dāna ('gift, charity'), instrumental dānena > Pkt. dāṇeṇa (n > ṇ)."
+    },
+    {
+      "token": "જગ",
+      "translit": "jaga",
+      "gloss": "world",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jagat > Pkt. jaga."
+    },
+    {
+      "token": "સયલ",
+      "translit": "sayala",
+      "gloss": "entire, whole",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sakala > Pkt. sayala (k > y softening); jaga sayala = 'the whole world.'"
+    },
+    {
+      "token": "સમ્માણિઉં",
+      "translit": "sammāṇiuṁ",
+      "gloss": "[they] honoured, gratified",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. sammānita ('honoured') / saṁ-√man; Apabhraṁśa past in -iuṁ, paralleling māṇiuṁ above.",
+      "notes": "Object is jaga sayala — 'honoured the whole world (by their bounty).'"
+    },
+    {
+      "token": "જેહિં",
+      "translit": "jehiṁ",
+      "gloss": "by whom (relative)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. yaiḥ (instr. pl. of relative ya-) > Pkt. jehiṁ; correlates with tāhi below."
+    },
+    {
+      "token": "મુક્ખંકરી",
+      "translit": "mukkhaṁkarī",
+      "gloss": "liberation-making, leading to mokṣa",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. mokṣaṅkarī (mokṣa + -kara/-karī, 'that which brings about') > Pkt. mukkhaṁkarī (kṣ > kkh); qualifies dikkha."
+    },
+    {
+      "token": "દિક્ખ",
+      "translit": "dikkha",
+      "gloss": "renunciation (dīkṣā)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dīkṣā > Pkt. dikkha (kṣ > kkh)."
+    },
+    {
+      "token": "કંખીકયા",
+      "translit": "kaṁkhīkayā",
+      "gloss": "was longed for / made an object of yearning",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kāṅkṣī-kṛtā (from √kāṅkṣ 'to desire' + kṛta) > Pkt. kaṁkhī-kayā; 'taken up out of longing.'",
+      "notes": "jehiṁ … kaṁkhīkayā = 'by whom the liberation-making dīkṣā was embraced in longing.'"
+    },
+    {
+      "token": "તાહિ",
+      "translit": "tāhi",
+      "gloss": "those, their (correlative)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tān / teṣām > Pkt. tāhi; correlates with jehiṁ, pointing to the two Jinas."
+    },
+    {
+      "token": "થુણિ",
+      "translit": "thuṇi",
+      "gloss": "praise! extol!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative from Skt. √stu ('to praise'); Pkt. thuṇa-/thuṇi (st > th, with nasal stem). Address to the worshipper."
+    },
+    {
+      "token": "અજિઅસંતી",
+      "translit": "ajiasaṁtī",
+      "gloss": "Ajita-and-Śānti (the two Jinas)",
+      "partOfSpeech": "invocation",
+      "etymology": "Dvandva of Ajia (Ajitanātha) + Saṁtī (Śāntinātha); the hymn's recurring twin subject."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca > Pkt. ya; here couples the genitival sense 'of Ajita and Śānti.'"
+    },
+    {
+      "token": "પય",
+      "translit": "paya",
+      "gloss": "foot, feet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pada > Pkt. paya (d > y)."
+    },
+    {
+      "token": "પંકયા",
+      "translit": "paṁkayā",
+      "gloss": "lotus (in 'lotus-feet')",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. paṅkaja ('mud-born,' i.e. lotus) > Pkt. paṁkaya; paya-paṁkayā = pada-paṅkaja, 'lotus-feet.'"
+    }
+  ],
+  "literalTranslation": "Having destroyed the host of enemies, [they] enjoyed the bliss of choicest kingship; by superlative giving [they] gratified the whole world. They by whom the liberation-making renunciation was embraced in longing — praise, [O reciter,] their lotus-feet, the feet of Ajita and Śānti.",
+  "idiomaticTranslation": "They subdued every foe and savoured the joys of a glorious reign, then gladdened the whole world with the most magnificent of gifts; and they by whom liberation-bestowing renunciation was taken up in pure longing for release — extol now their lotus-feet, the feet of Ajita and Śānti both.",
+  "elaboration": {
+    "verseByVerseCommentary": "From the infant birth-bath of the previous verse the hymn now sweeps through the whole householder-to-ascetic arc of the two Jinas in a single breath. The first foot, 'khaviya riu-vagga … vara-rajja-suha māṇiuṁ,' shows them as sovereigns who first vanquish their foes and rightly enjoy royal felicity — a line that resonates with Śāntinātha's tradition as both Tīrthaṅkara and Cakravartin, master of the six-part realm. The second foot, 'pavara dāṇeṇa jaga sayala sammāṇiuṁ,' marks the turn: at the height of fortune they pour out the supreme gift, honouring the entire world — the vārṣika-dāna, the year-long outpouring of wealth that, in the Jina-life template, immediately precedes renunciation. The third foot supplies the inner cause: 'jehiṁ mukkhaṁkarī dikkha kaṁkhīkayā' — the dīkṣā they take is itself 'mokṣa-making,' and it is embraced not from disgust or defeat but from kāṅkṣā, a positive longing for liberation. The closing foot collapses narration into worship: 'tāhi thuṇi … paya paṁkayā' — the poet commands the reciter to praise their lotus-feet. Note the deliberate movement from third-person story (māṇiuṁ, sammāṇiuṁ, kaṁkhīkayā) to second-person imperative (thuṇi): the verse does not merely report a sacred biography, it conscripts the worshipper into devotion at its very end. The dual subject is held throughout and sealed by the dvandva 'ajia-saṁtī.'",
+    "doctrinalContext": "The verse compresses two doctrinal motifs. First, dāna-dharma: the pre-renunciatory vārṣika-dāna exemplifies aparigraha-in-action — wealth is not clung to but released for the welfare of all, 'honouring the whole world.' Second, and more pointed, is the psychology of renunciation. 'Mukkhaṁkarī dikkha kaṁkhīkayā' frames vairāgya as aspiration, not aversion: liberation is desired (kāṅkṣā) and the renunciation that conduces to it is freely chosen at the summit of worldly success, not in its ruin. This is the Jain ideal of detachment born of insight rather than failure. The final 'pada-paṅkaja' veneration enacts pada-vandanā — bowing to the feet as the disciple's posture before one who has crossed where the worshipper still stands.",
+    "practicalRelevance": "The reciter is given a template for right relationship to prosperity: meet success without grasping, let abundance flow outward in generosity, and keep the heart turned toward liberation even amid plenty. The verse closes by placing the worshipper at the Jinas' feet — a cue to let the chant become an act of bowing, not merely recollection.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava (longer, 2nd Smaraṇa) — the model dual-Jina hymn on the same shared life-arc",
+        "source": "Nandiṣeṇasūri; Nava-smaraṇa collection"
+      },
+      {
+        "text": "The vārṣika-dāna (saṁvatsarika-dāna) preceding a Tīrthaṅkara's dīkṣā",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacarita; Kalpasūtra biographies"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdomlib — 'Kṣapita' (Sanskrit dictionary entry)",
+      "url": "https://www.wisdomlib.org/definition/kshapita",
+      "type": "dictionary",
+      "consultedFor": "Root sense of khaviya < kṣapita ('destroyed, made an end of') and the alternative kṣamita reading"
+    },
+    {
+      "title": "Wisdomlib — 'Paṅkaja' (lotus; Sanskrit/Pali dictionary entry)",
+      "url": "https://www.wisdomlib.org/definition/pankaja",
+      "type": "dictionary",
+      "consultedFor": "Etymology of paṁkayā < paṅkaja ('mud-born,' lotus) for the pada-paṅkaja 'lotus-feet' image"
+    },
+    {
+      "title": "Wisdomlib — 'Dīkṣā' (Sanskrit dictionary entry)",
+      "url": "https://www.wisdomlib.org/definition/diksa",
+      "type": "dictionary",
+      "consultedFor": "Sense of dikkha < dīkṣā ('consecration, renunciation') in the renunciation clause"
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)",
+      "url": "https://example.org/panch-pratikraman",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text and its placement as verse 3 of the 8th Smaraṇa (placeholder URL pending a stable citation)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "khaviya is read here as Skt. kṣapita ('having destroyed [the enemy host]'), fitting the reign/conquest sense and the cakravartin association of Śāntinātha; a minority reading kṣamita ('having forgiven') is grammatically possible and is noted at the token level. māṇiuṁ and sammāṇiuṁ are Apabhraṁśa past forms taken as plural-of-respect for the two Jinas. The line 'pavara dāṇeṇa … sammāṇiuṁ' is read as the pre-dīkṣā vārṣika-dāna by the standard Jina-life template, though this verse does not name it explicitly. The source-book URL is the preface placeholder and should be replaced with a verified printed-edition citation; transliterations follow the book's verbatim Gujarati spelling."
+}

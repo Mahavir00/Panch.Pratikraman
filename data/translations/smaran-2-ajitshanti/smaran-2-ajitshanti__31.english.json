@@ -1,0 +1,466 @@
+{
+  "shlokaId": "smaran-2-ajitshanti/31",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Heavenly dancing-women sing and dance with melodious music and jingling ornaments at his feet — and to him, Śāntinātha, the supreme Jina who brings peace to every being in all three worlds, I bow.",
+  "recitation": "vaṁsa-sadda-taṁti-tāla-melie, tiukkharā-bhirāma-sadda-mīsae kae a, suisamāṇaṇo a suddha-sajja-gīya, pāya-jāla-ghaṁṭiāhiṁ, valaya-mehalā-kalāva-neurā-bhirāma-sadda-mīsae kae a, deva-naṭṭiāhiṁ hāva-bhāva-vibbhama-ppagāraehiṁ nacciūṇa aṁgahāraehiṁ, vaṁdiā ya jassa te suvikkamā kamā; tayaṁ tiloya-savva-satta-saṁti-kārayaṁ, pasaṁta-savva-pāva-dosa-m-es-ahaṁ, namāmi saṁtim uttamaṁ jiṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "વંસ",
+      "translit": "vaṁsa",
+      "gloss": "flute (lit. bamboo)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vaṁśa, 'bamboo,' hence the bamboo flute",
+      "notes": ""
+    },
+    {
+      "token": "સદ્દ",
+      "translit": "sadda",
+      "gloss": "sound, tone",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śabda",
+      "notes": ""
+    },
+    {
+      "token": "તંતિ",
+      "translit": "taṁti",
+      "gloss": "lute-strings, the stringed instrument (vīṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tantrī, 'string'",
+      "notes": ""
+    },
+    {
+      "token": "તાલ",
+      "translit": "tāla",
+      "gloss": "cymbals; rhythmic beat",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tāla",
+      "notes": ""
+    },
+    {
+      "token": "મેલિએ",
+      "translit": "melie",
+      "gloss": "when blended together",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. melita, p.p. of mil, 'to join/mingle'; locative absolute",
+      "notes": ""
+    },
+    {
+      "token": "તિઉક્ખરા",
+      "translit": "tiukkharā",
+      "gloss": "the three-syllabled (drum-strokes), i.e., the mnemonic drum-bols",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. tri-akṣara, 'three syllables'",
+      "notes": "OCR/metrical variant of tiakkharā; reading flagged in notes"
+    },
+    {
+      "token": "ભિરામ",
+      "translit": "bhirāma",
+      "gloss": "delightful, charming",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. abhirāma with initial a- elided",
+      "notes": ""
+    },
+    {
+      "token": "સદ્દ",
+      "translit": "sadda",
+      "gloss": "sound",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śabda",
+      "notes": ""
+    },
+    {
+      "token": "મીસએ",
+      "translit": "mīsae",
+      "gloss": "being mingled, mixed in",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. miśrita; locative absolute with kae",
+      "notes": ""
+    },
+    {
+      "token": "કએ",
+      "translit": "kae",
+      "gloss": "being made/produced",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kṛte, p.p. loc. of kṛ",
+      "notes": "forms the recurring locative-absolute refrain 'mīsae kae a'"
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca",
+      "notes": ""
+    },
+    {
+      "token": "સુઇસમાણણો",
+      "translit": "suisamāṇaṇo",
+      "gloss": "agreeable to the ear, pleasing to hear",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śruti-samānana, 'honoring/matching the (faculty of) hearing'",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca",
+      "notes": ""
+    },
+    {
+      "token": "સુદ્ધ",
+      "translit": "suddha",
+      "gloss": "pure, faultless",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śuddha",
+      "notes": ""
+    },
+    {
+      "token": "સજ્જ",
+      "translit": "sajja",
+      "gloss": "well-tuned (the ṣaḍja note / properly pitched)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sajja, 'made ready, tuned'; cf. ṣaḍja, the tonic note",
+      "notes": ""
+    },
+    {
+      "token": "ગીય",
+      "translit": "gīya",
+      "gloss": "song, vocal music",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gīta",
+      "notes": ""
+    },
+    {
+      "token": "પાય",
+      "translit": "pāya",
+      "gloss": "foot",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāda",
+      "notes": ""
+    },
+    {
+      "token": "જાલ",
+      "translit": "jāla",
+      "gloss": "net, cluster (of bells)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jāla",
+      "notes": ""
+    },
+    {
+      "token": "ઘંટિઆહિં",
+      "translit": "ghaṁṭiāhiṁ",
+      "gloss": "with little (tinkling) bells",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ghaṇṭikā, 'small bell'; instr. pl.",
+      "notes": ""
+    },
+    {
+      "token": "વલય",
+      "translit": "valaya",
+      "gloss": "bracelets, armlets",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. valaya",
+      "notes": ""
+    },
+    {
+      "token": "મેહલા",
+      "translit": "mehalā",
+      "gloss": "girdle (waist-ornament)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mekhalā",
+      "notes": ""
+    },
+    {
+      "token": "કલાવ",
+      "translit": "kalāva",
+      "gloss": "cluster, set (of ornaments)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kalāpa, 'bundle, collection'",
+      "notes": ""
+    },
+    {
+      "token": "નેઉરા",
+      "translit": "neurā",
+      "gloss": "anklets",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nūpura",
+      "notes": ""
+    },
+    {
+      "token": "ભિરામ",
+      "translit": "bhirāma",
+      "gloss": "delightful",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. abhirāma",
+      "notes": ""
+    },
+    {
+      "token": "સદ્મીસએ",
+      "translit": "sad-mīsae",
+      "gloss": "(their) sound being mingled",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śabda-miśrita; locative absolute",
+      "notes": "book contracts sadda→sad here (vs. full 'સદ્દ મીસએ' earlier); preserved verbatim"
+    },
+    {
+      "token": "કએ",
+      "translit": "kae",
+      "gloss": "being made",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kṛte",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca",
+      "notes": ""
+    },
+    {
+      "token": "દેવનટ્ટિઆહિં",
+      "translit": "deva-naṭṭiāhiṁ",
+      "gloss": "by the celestial dancing-women",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. deva-nartakī, 'goddess-dancer'; instr. pl.",
+      "notes": "the devasundarī of the assembly tableau"
+    },
+    {
+      "token": "હાવભાવ",
+      "translit": "hāva-bhāva",
+      "gloss": "amorous gestures and emotive expressions",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. hāva ('coquettish gesture') + bhāva ('emotive state'); Nāṭyaśāstra terms",
+      "notes": ""
+    },
+    {
+      "token": "વિબ્ભમ",
+      "translit": "vibbhama",
+      "gloss": "graceful coquetry, playful flourish",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vibhrama",
+      "notes": ""
+    },
+    {
+      "token": "પ્પગારએહિં",
+      "translit": "ppagāraehiṁ",
+      "gloss": "of various kinds, in many modes",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. prakāra, 'manner, type'; instr. pl.",
+      "notes": ""
+    },
+    {
+      "token": "નચ્ચિઊણ",
+      "translit": "nacciūṇa",
+      "gloss": "having danced",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. nartitvā, absolutive of nṛt 'to dance'",
+      "notes": ""
+    },
+    {
+      "token": "અંગહારએહિં",
+      "translit": "aṁgahāraehiṁ",
+      "gloss": "with (sequences of) body-movements, dance-poses",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aṅgahāra, a Nāṭyaśāstra sequence of coordinated limb-movements; instr. pl.",
+      "notes": ""
+    },
+    {
+      "token": "વંદિઆ",
+      "translit": "vaṁdiā",
+      "gloss": "venerated, worshipped",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. vanditāḥ, p.p. of vand",
+      "notes": ""
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca/eva",
+      "notes": ""
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. yasya, gen. of yad",
+      "notes": ""
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "those (two)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. te",
+      "notes": "dual/plural agreeing with kamā (feet)"
+    },
+    {
+      "token": "સુવિક્કમા",
+      "translit": "suvikkamā",
+      "gloss": "of mighty stride; invincible",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. su-vikrama, 'of fine valor/stride'",
+      "notes": "echoes the Ajita/abhaya motif of 'invincible feet'"
+    },
+    {
+      "token": "કમા",
+      "translit": "kamā",
+      "gloss": "the (two) feet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. krama, 'step, foot'",
+      "notes": ""
+    },
+    {
+      "token": "તયં",
+      "translit": "tayaṁ",
+      "gloss": "him, that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. taṁ, acc. of tad",
+      "notes": "object of namāmi"
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. triloka",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વસત્ત",
+      "translit": "savva-satta",
+      "gloss": "all living beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sarva-sattva",
+      "notes": ""
+    },
+    {
+      "token": "સંતિકારયં",
+      "translit": "saṁti-kārayaṁ",
+      "gloss": "the maker/bestower of peace",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. śānti-kāraka; acc.",
+      "notes": "bivalent: 'the one who effects peace' and Śāntinātha by name"
+    },
+    {
+      "token": "પસંત",
+      "translit": "pasaṁta",
+      "gloss": "stilled, wholly calmed",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. praśānta",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva",
+      "notes": ""
+    },
+    {
+      "token": "પાવ",
+      "translit": "pāva",
+      "gloss": "sin, demerit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāpa",
+      "notes": ""
+    },
+    {
+      "token": "દોસ",
+      "translit": "dosa",
+      "gloss": "fault, blemish (of passion)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. doṣa",
+      "notes": ""
+    },
+    {
+      "token": "મેસહં",
+      "translit": "m-es-ahaṁ",
+      "gloss": "[in whom all sin and fault is stilled] — this very one; I [bow]",
+      "partOfSpeech": "pronoun",
+      "etymology": "euphonic -m- bridging dosaṁ + esa (Skt. eṣa, 'this') + ahaṁ (Skt. aham, 'I'), the humble self-reference reinforcing namāmi",
+      "notes": "parsing uncertain; sa→ha softening typical of Apabhraṁśa; see notes"
+    },
+    {
+      "token": "નમામિ",
+      "translit": "namāmi",
+      "gloss": "I bow, I pay homage",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. namāmi, 1sg. of nam",
+      "notes": ""
+    },
+    {
+      "token": "સંતિમુત્તમં",
+      "translit": "saṁtim-uttamaṁ",
+      "gloss": "the supreme Śānti (most excellent Śāntinātha)",
+      "partOfSpeech": "compound",
+      "etymology": "saṁtiṁ (Skt. śāntim, acc.) + uttamaṁ (Skt. uttama, 'highest')",
+      "notes": "sandhi of two accusatives"
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina, acc.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "When the sound of flute, lute-strings, and cymbals is blended — with the delightful three-syllabled drum-strokes mixed in, made pleasing to the ear, and with pure well-tuned song; while the bell-clusters on the feet and the charming jingling of bracelets, girdle, and anklets are mingled together — by the celestial dancing-women, with their manifold amorous gestures, moods, and coquetry, having danced through (sequences of) body-poses, those well-striding (invincible) feet of whom are venerated: that maker of peace for all beings of the three worlds, in whom every sin and fault is wholly stilled — this very one (do I, humbly), I bow to the supreme Jina Śānti.",
+  "idiomaticTranslation": "Flute, lute, and cymbal blend into one melody, the bright triple drum-strokes woven sweetly through it, and over it a pure, well-pitched song rises to delight the ear; the bell-nets on their feet, the chiming of bracelets, girdle, and anklets ring together — as the goddess-dancers, with every grace of gesture, mood, and coquetry, move through their measured poses and lay their whole art at his feet, worshipping those invincible feet. To that bringer of peace to all beings of the three worlds, in whom all sin and every blemish lies utterly quenched, I bow — to Śāntinātha, the supreme Jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "This stanza is the crescendo of the celestial-women tableau and its hinge into homage. Two parallel sound-catalogues are built and then dissolved: first the *instrumental* — vaṁsa, taṁti, tāla, the triple drum-bols, and pure tuned song, all 'blended' and 'made pleasing to the ear'; then the *ornamental* — the bell-nets, bracelets, girdle, and anklets of the dancers, whose chiming is folded into the same music by the deliberately repeated refrain 'bhirāma-sadda-mīsae kae a.' The verse thus fuses art and adornment, melody and motion, into a single offering. Onto this the poet sets the goddess-dancers (deva-naṭṭiā) wielding the full technical vocabulary of classical performance — hāva, bhāva, vibbhama, aṅgahāra — the very lexicon of worldly allure. The point is the destination: all this consummate sensuous virtuosity converges, bows, at 'jassa te suvikkamā kamā,' his invincible feet. Then the stanza pivots hard. The object of all that motion is described by *stillness*: 'pasaṁta-savva-pāva-dosa' — one in whom every sin and passion-blemish is extinguished — and as 'tiloya-savva-satta-saṁti-kārayaṁ,' peacemaker for all beings of the three worlds. The closing 'namāmi saṁtim uttamaṁ jiṇaṁ' fixes this as a Śānti stanza, the bivalent name once more meaning both 'Śāntinātha' and 'the peace I seek.' The implicit contrast — restless celestial dance circling a perfectly motionless, passionless center — is the whole devotional argument in miniature.",
+    "doctrinalContext": "The verse dramatizes the vītarāga ideal: the Jina's greatness lies not in action but in the total quenching (praśānta) of pāpa and doṣa — rāga and dveṣa. Peace (śānti) is therefore not produced by exertion but radiates from the absence of passion, which is why beings of all three loka-s find it in him. That the highest sensory beauty of saṁsāra — the goddesses' hāva-bhāva — finds its meaning only in prostration encodes the hierarchy of values: art and beauty are not condemned but sublimated, fulfilled in bhakti toward the passionless.",
+    "practicalRelevance": "The reciter is invited to do what the dancers do — offer their own faculties (voice in chant, body in vandana, attention in dhyāna) at the Jina's feet rather than for display. Bowing the 'I' (es-ahaṁ) at this still center is a deliberate stilling of one's own pāva-dosa, drawing the verse's promised śānti inward.",
+    "crossReferences": [
+      {
+        "text": "Bharata, Nāṭyaśāstra (chs. on hāva, bhāva, and aṅgahāra)",
+        "source": "Bharata-muni, GOS critical edition"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava), praise of Śānti as the 16th of the 24 Tīrthaṅkaras",
+        "source": "Āvaśyaka-sūtra; Panch Pratikraman, Anchalgachchha ed."
+      },
+      {
+        "text": "Ajitaśānti Stava vv.26–30 (the devasundarī worship preceding this stanza)",
+        "source": "Nandiṣeṇasūri; Jain stotra anthologies"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "JainQQ digital library — Jain stotra anthologies and Ajitaśānti Stava recensions",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Verse identification as a Śānti stanza in the devasundarī sequence; confirmation of the closing homage formula"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams etc.)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying Prakrit tokens: vaṁśa, tantrī, mekhalā, nūpura, vibhrama, aṅgahāra, praśānta, śānti-kāraka"
+    },
+    {
+      "title": "Jain eLibrary (jainelibrary.org) — Pancha Pratikramana and Nava-smaraṇa texts",
+      "url": "https://jainelibrary.org/",
+      "type": "translation",
+      "consultedFor": "Prakrit verse text of the Ajitaśānti Stava and traditional Gujarati/Hindi rendering of the devasundarī verses"
+    },
+    {
+      "title": "Internet Archive — Nāṭyaśāstra of Bharata (text and translation)",
+      "url": "https://archive.org/details/NatyaShastra",
+      "type": "scholarship",
+      "consultedFor": "Technical sense of hāva, bhāva, vibhrama, and aṅgahāra as classical dance terms"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Token 'મેસહં' (mes-ahaṁ) is the chief uncertainty: it is read here as a euphonic -m- bridging 'dosaṁ' to 'esa' (eṣa, 'this') + 'ahaṁ' (aham, 'I'), a humble self-reference reinforcing namāmi; the sa→ha softening is characteristic of Apabhraṁśa, but some recensions instead read the cluster as a continuation of the compound qualifying the Jina ('in whom all sin and fault is [stilled], wholly'). Meaning is unaffected, syntax is. 'તિઉક્ખરા' (tiukkharā) is taken as tri-akṣara, the three mnemonic drum-syllables/bols; the doubled-u form is a metrical/OCR variant of tiakkharā. 'ભિરામ' = abhirāma with initial a- elided. The book's two parallel refrains differ orthographically — 'સદ્દ મીસએ' (full) for the instruments vs. contracted 'સદ્મીસએ' (sad-mīsae) for the ornaments — and both are preserved verbatim per the source's orthography. 'તે ... કમા' (te ... kamā) is dual in sense ('the two feet') though Prakrit form is plural."
+}

@@ -1,0 +1,345 @@
+{
+  "shlokaId": "laghu-atiyar/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The twelfth vow is to share righteously-earned, proper food and necessities with ascetic guests at the right time and with a glad, respectful heart — and here the reciter confesses the five ways that giving can go wrong.",
+  "recitation": "12. bāramuṁ atithi saṁvibhāga-vrata. atithi saṁvibhāgo nāma — nāyāgayāṇaṁ, kappaṇijjāṇaṁ, annapāṇāiṇaṁ, davvāṇaṁ, desa-kāla-saddhā-sakkāra-kammajoe, parāibhattīe, āyāṇuggaha-buddhie saṁjayāṇaṁ dāṇaṁ. e bāramā atithi saṁvibhāga vratataṇā pāṁca atiyāra śodhuṁ: sacitta nikkhevaṇayā, sacitta pihaṇayā, kālāikkamadāṇe, parovaese, macchrayā. e pāṁca atiyāra māṁhe.",
+  "wordByWord": [
+    {
+      "token": "૧૨",
+      "translit": "12",
+      "gloss": "twelve (the twelfth in sequence)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati numeral; Skt. dvādaśa.",
+      "notes": "Marks the last of the twelve lay vows."
+    },
+    {
+      "token": "બારમું",
+      "translit": "bāramuṁ",
+      "gloss": "twelfth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from bāra ‘twelve’ (Skt. dvādaśa)."
+    },
+    {
+      "token": "અતિથિ",
+      "translit": "atithi",
+      "gloss": "guest — here the wandering ascetic who arrives unannounced",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a-tithi, lit. ‘one without a fixed date (tithi)’, i.e. an unscheduled visitor; in Jain usage the self-restrained mendicant."
+    },
+    {
+      "token": "સંવિભાગવ્રત",
+      "translit": "saṁvibhāga-vrata",
+      "gloss": "the vow (vrata) of right sharing (saṁvibhāga)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sam ‘well’ + vibhāga ‘portioning out’ + vrata ‘vow’: setting apart a fair share before one eats oneself."
+    },
+    {
+      "token": "અતિથિ",
+      "translit": "atithi",
+      "gloss": "guest (ascetic)",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": "Repeated to open the formal definition that follows."
+    },
+    {
+      "token": "સંવિભાગો",
+      "translit": "saṁvibhāgo",
+      "gloss": "the right sharing/apportioning",
+      "partOfSpeech": "noun",
+      "etymology": "Prākrit nominative sg. of saṁvibhāga (Skt. saṁvibhāgaḥ)."
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "namely / is so called",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Pkt. nāma, a defining particle introducing a technical definition."
+    },
+    {
+      "token": "નાયાગયાણં",
+      "translit": "nāyāgayāṇaṁ",
+      "gloss": "of (things) righteously obtained",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. genitive pl.; from nyāya-gata ‘come by just/lawful means’ (nyāya ‘justice, propriety’ + gata ‘arrived at’). Qualifies the substances given."
+    },
+    {
+      "token": "કપ્પણિજજાણં",
+      "translit": "kappaṇijjāṇaṁ",
+      "gloss": "of (things) permissible (to offer an ascetic)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. genitive pl. of kappaṇijja = Skt. kalpanīya ‘fit, allowable’ (√kḷp ‘to be proper’); i.e. faultless, acceptant-of-monastic-rules food."
+    },
+    {
+      "token": "અન્નપાણાઇણં",
+      "translit": "annapāṇāiṇaṁ",
+      "gloss": "of food, drink and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. genitive pl.; anna ‘food’ + pāṇa (Skt. pāna) ‘drink’ + āi (Skt. ādi) ‘etcetera’ — the four-fold dāna: food, drink, sweets/savouries and relish; by extension shelter, clothing, medicine, scripture."
+    },
+    {
+      "token": "દવ્વાણં",
+      "translit": "davvāṇaṁ",
+      "gloss": "of the substances/articles",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. genitive pl. of davva = Skt. dravya ‘material thing’; sums up the offerable items."
+    },
+    {
+      "token": "દેસ",
+      "translit": "desa",
+      "gloss": "(suitable) place",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. desa = Skt. deśa ‘place, region’ — first of the conditions of worthy giving."
+    },
+    {
+      "token": "કાલ",
+      "translit": "kāla",
+      "gloss": "(suitable) time",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. kāla ‘time’ — the proper moment of the alms-round."
+    },
+    {
+      "token": "સદ્ધા",
+      "translit": "saddhā",
+      "gloss": "faith / glad sincerity",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saddhā = Skt. śraddhā ‘faith, devout earnestness’ — giving with an inwardly believing heart."
+    },
+    {
+      "token": "સક્કાર",
+      "translit": "sakkāra",
+      "gloss": "honour / respectful welcome",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sakkāra = Skt. satkāra ‘honouring’ (sat ‘good’ + kāra ‘doing’) — receiving the ascetic with reverence."
+    },
+    {
+      "token": "કમ્મજોએ",
+      "translit": "kammajoe",
+      "gloss": "with right procedure/application in the act",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. instrumental; commonly read as krama-yoga ‘due sequence/method’ or karma-yoga ‘engaged right action’ of giving.",
+      "notes": "Recensions vary between krama-yoga (proper order) and karma-yoga (the act itself); both yield ‘giving done in the correct manner’."
+    },
+    {
+      "token": "પરાઇભત્તીએ",
+      "translit": "parāibhattīe",
+      "gloss": "with supreme devotion",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. instrumental; parā ‘highest’ + bhatti (Skt. bhakti) ‘devotion’ — giving with heartfelt reverence toward the recipient.",
+      "notes": "Some readings parse para-ādi-bhakti ‘devotion to others first’; sense of selfless reverence is constant."
+    },
+    {
+      "token": "આયાણુગ્ગહ",
+      "translit": "āyāṇuggaha",
+      "gloss": "self-benefit-as-grace",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. āya (Skt. ātma ‘self’) + aṇuggaha (Skt. anugraha ‘grace, favour’): the conviction that the ascetic, by accepting, graces and benefits the giver."
+    },
+    {
+      "token": "બુદ્ધિએ",
+      "translit": "buddhie",
+      "gloss": "with the mindset/intention",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. instrumental of buddhi (Skt. buddhi) ‘understanding, attitude’ — qualifies āyāṇuggaha: giving in the spirit that one is the one favoured."
+    },
+    {
+      "token": "સંજયાણં",
+      "translit": "saṁjayāṇaṁ",
+      "gloss": "to the self-restrained ones (ascetics)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. genitive/dative pl. of saṁjaya = Skt. saṁyata ‘one who has reined in (the senses)’; the qualified monastic recipients."
+    },
+    {
+      "token": "દાણં",
+      "translit": "dāṇaṁ",
+      "gloss": "the giving",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. dāṇa = Skt. dāna (√dā ‘to give’); the predicate of the whole definition — ‘[saṁvibhāga is] the giving … to the restrained ones.’"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative."
+    },
+    {
+      "token": "બારમા",
+      "translit": "bāramā",
+      "gloss": "twelfth",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal (oblique form before the noun)."
+    },
+    {
+      "token": "અતિથિ",
+      "translit": "atithi",
+      "gloss": "guest (ascetic)",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": "Re-named as the vow whose transgressions are now reviewed."
+    },
+    {
+      "token": "સંવિભાગ",
+      "translit": "saṁvibhāga",
+      "gloss": "right-sharing",
+      "partOfSpeech": "noun",
+      "etymology": "See above (stem form within the vow-name)."
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vratataṇā",
+      "gloss": "of the vow",
+      "partOfSpeech": "noun",
+      "etymology": "vrata + Gujarati possessive suffix -taṇā ‘belonging to’."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati pāṁca, Skt. pañca."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial lapses)",
+      "partOfSpeech": "noun",
+      "etymology": "Book’s spelling of atichāra (with ય), as fixed in the preface."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinize / cleanse away",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati 1st-sg. from √śudh/śodh ‘to purify, examine’; ‘I review and clear (them).’"
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "living / animate (matter)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sa- ‘with’ + citta/cit ‘consciousness, life’: substances still inhabited by life (green produce, raw water, soil)."
+    },
+    {
+      "token": "નિક્ખેવણયા",
+      "translit": "nikkhevaṇayā",
+      "gloss": "placing (alms) upon living matter — 1st transgression",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. = Skt. nikṣepaṇa ‘setting down’ (ni + √kṣip); resting food on a leaf, fruit or wet surface so the monk must refuse it."
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "living / animate (matter)",
+      "partOfSpeech": "adj",
+      "etymology": "See above.",
+      "notes": "Repeated for the second transgression."
+    },
+    {
+      "token": "પિહણયા",
+      "translit": "pihaṇayā",
+      "gloss": "covering (alms) with living matter — 2nd transgression",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. = Skt. pidhāna ‘covering, lid’ (api + √dhā); capping the food with a green leaf or raw item so it becomes inadmissible."
+    },
+    {
+      "token": "કાલાઇક્કમદાણે",
+      "translit": "kālāikkamadāṇe",
+      "gloss": "giving after the proper time has passed — 3rd transgression",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt.; kāla ‘time’ + atikrama ‘over-stepping’ + dāna ‘giving’: offering when the ascetic’s alms-hour is over (or before/after it), evading the duty under cover of form."
+    },
+    {
+      "token": "પરોવએસે",
+      "translit": "parovaese",
+      "gloss": "deflecting by pointing to another’s (food) — 4th transgression",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt.; para ‘another’ + uvaesa = Skt. upadeśa/vyapadeśa ‘directing, ascribing’: saying ‘this is so-and-so’s, ask there’ to avoid giving from one’s own store."
+    },
+    {
+      "token": "મચ્છરયા",
+      "translit": "macchrayā",
+      "gloss": "envious stinginess — 5th transgression",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. = Skt. mātsarya ‘grudging envy, miserliness’ (from matsara); giving resentfully, or begrudging another donor’s merit."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative.",
+      "notes": "Closes the list."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "See above."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "See above."
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within (any of these)",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati postposition ‘in, amongst’; with the elided refrain, ‘whatever lapse arose among these, may it be undone.’"
+    }
+  ],
+  "literalTranslation": "Twelfth, the atithi-saṁvibhāga vow. 'Atithi-saṁvibhāga' means: the giving — to the self-restrained ones — of righteously-obtained, permissible food, drink and the like substances, [made] with [due] place, time, faith and honour, with right procedure in the act, with supreme devotion, and with the mind that it is a grace to oneself. I scrutinize the five transgressions of this twelfth atithi-saṁvibhāga vow: placing [alms] on living matter, covering [alms] with living matter, giving past the proper time, deflecting by pointing to another's [food], and envious stinginess. Among these five transgressions [whatever I lapsed in — may it be undone].",
+  "idiomaticTranslation": "The twelfth vow is the sharing of right portions with the ascetic guest. What does 'right sharing' mean? It is the giving — to those who have reined in their senses — of food, drink and other articles that are honestly come by and fit to offer, made at the right place and time, with faith and honour, in the proper manner, with deep reverence, and in the awareness that it is I, the giver, who am graced by their accepting. I now examine the five lapses of this twelfth vow: setting the alms down upon living matter; capping it with living matter; offering it when the proper hour has slipped by; turning the monk away with 'go ask another'; and giving with a grudging, envious heart. For whatever I have slipped into among these five — may it be as though undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "This final vow crowns the householder's path: having limited harm, speech, possessions, space and consumption, the layperson now turns possession into gift. The verse is built as a tight definition (lakṣaṇa) followed by its five lapses. Note the chain of qualifiers on the gift itself — nāyāgayāṇaṁ (honestly earned), kappaṇijjāṇaṁ (ritually admissible): generosity is worthless if the very substance is tainted by theft or by faulty preparation. The conditions desa-kāla-saddhā-sakkāra-kammajoe-parāibhattī then govern the manner: right place, right hour, inner faith, outward honour, correct procedure, sincere devotion. The crowning phrase is āyāṇuggaha-buddhie — the giver must hold that the ascetic, by accepting, confers grace on him, not the reverse. This inverts ordinary patronage: in Jain dāna the receiver is the benefactor. The five atiyāras are subtle precisely because the outward act looks pious. The first two — sacitta nikkhevaṇayā and pihaṇayā — weaponise the monk's own scruple: by resting alms on, or covering it with, living green matter or raw water, the layman 'offers' while ensuring a rule-bound monk must refuse, so the duty is dodged without open refusal. Kālāikkama-dāne does the same through timing — giving when the alms-round cannot accept. Parovaese deflects: 'it is not mine to give, ask elsewhere.' And macchrayā exposes the heart — giving resentfully, or begrudging a rival donor's merit. Together the five trace a single disease: the form of charity emptied of its spirit. The verse thus closes the twelve vows not with an outward act but with an examination of motive.",
+    "doctrinalContext": "The vow rests on the reciprocal economy of saṁsāra-crossing: the muni's acceptance lets the śrāvaka shed attachment to the dearest possession (nourishment) and earn puṇya, while the śrāvaka sustains the ascetic order — hence anugraha flows to the giver. The two sacitta lapses encode the principle that ahiṁsā is not suspended by piety: alms touching one-sensed life (vanaspati, ap-kāya) become inadmissible, and contriving such contact to evade giving compounds the fault with deceit (māyā). The whole list shows atichāra as the corrosion of intention behind an intact outward act — the recurring lesson of the Laghu Atiyāra.",
+    "practicalRelevance": "A modern reciter applies this beyond literal alms: it asks whether one's giving (to ascetics, to the needy, to any worthy cause) is honestly sourced, well-timed, wholehearted, and free of the quiet evasions — the technicality that lets us say no while seeming to say yes, the deflection ('let someone else handle it'), and above all the grudging or competitive heart. The verse trains the giver to watch motive, not merely the deed.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.21 (definition) and 7.34 (the five atichāras of atithisaṁvibhāga: sacitta-nikṣepa, sacitta-pidhāna, kālātikrama, paravyapadeśa, mātsarya)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra, ch. 7"
+      },
+      {
+        "text": "Upāsakadaśāḥ — the householder's twelfth vow and the fourfold dāna (food, drink, sweets, relish; extended to shelter, clothing, medicine, scripture)",
+        "source": "Upāsakadaśāṅga-sūtra"
+      },
+      {
+        "text": "Atithisaṁvibhāga as 'giving fourfold food, utensils, clothes and shelter to guests'",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra 1.3 (Ṛṣabha's sermon)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Atithisaṃvibhāga — definition (Tattvārthasūtra 7.21; Triṣaṣṭiśalākāpuruṣacaritra)",
+      "url": "https://www.wisdomlib.org/definition/atithisamvibhaga",
+      "type": "dictionary",
+      "consultedFor": "Definition of the vow as right-sharing of fourfold food, shelter, clothing and scripture with the self-restrained guest; Tattvārtha 7.21 framing."
+    },
+    {
+      "title": "Mātsarya — definition (Jainism / Sanskrit)",
+      "url": "https://www.wisdomlib.org/definition/matsarya",
+      "type": "dictionary",
+      "consultedFor": "Sense of mātsarya as grudging envy/miserliness, the fifth atichāra of this vow."
+    },
+    {
+      "title": "Śikṣāvrata — the four disciplinary vows including atithisaṁvibhāga",
+      "url": "https://www.wisdomlib.org/definition/shikshavrata",
+      "type": "scholarship",
+      "consultedFor": "Placement of atithisaṁvibhāga as the fourth śikṣāvrata and its conditions of worthy giving (deśa, kāla, śraddhā, satkāra)."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Johnson tr.), archive.org",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "Ṛṣabha's sermon defining atithisaṁvibhāga as fourfold giving of food, utensils, clothes and shelter to guests."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The five atichāras and the core definition are securely attested (Tattvārtha 7.21/7.34; Upāsakadaśāḥ) and match the book's reading. Two tokens carry recension-level ambiguity, flagged inline: (1) kammajoe is read variously as krama-yoga (‘due sequence/method’) or karma-yoga (‘the engaged act’) — both converge on ‘giving performed in the correct manner’; (2) parāibhattīe is parsed as parā-bhakti (‘supreme devotion’) or para-ādi-bhakti (‘devotion placing others first’). The fourth atichāra appears in the book as parovaese (para-upadeśa, ‘directing to another’); the canonical Tattvārtha term is paravyapadeśa (‘ascribing to another / deflection’) — same import, preserved verbatim rather than normalised. The verse's atiyāra spellings (nikkhevaṇayā, pihaṇayā, kālāikkamadāṇe, macchrayā) follow the book's Prākrit orthography and are not normalised. Gujarati procedural words (śodhuṁ, vratataṇā, māṁhe, e) are the connective matrix around the Prākrit definition-list, consistent with the sutra's template."
+}

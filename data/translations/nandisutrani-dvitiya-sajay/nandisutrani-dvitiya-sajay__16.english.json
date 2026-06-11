@@ -1,0 +1,148 @@
+{
+  "shlokaId": "nandisutrani-dvitiya-sajay/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Gentle and humble, he rose in proper order to become a master-reciter of scripture and monastic conduct — so I bow to the teacher Nāgārjuna.",
+  "recitation": "miu madava sampanne, aṇupuvviṁ vāyagattaṇaṁ patte | oha suya samāyāre, nāgajjuṇa vāyae vande ||",
+  "wordByWord": [
+    {
+      "token": "મિઉ",
+      "translit": "miu",
+      "gloss": "soft, gentle, pliant",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit miu < Sanskrit mṛdu, 'soft, tender'.",
+      "notes": "Forms a near-synonym pair with the next word, stressing inner gentleness of character."
+    },
+    {
+      "token": "મદવ",
+      "translit": "madava",
+      "gloss": "gentleness, mildness, humility (the virtue of mārdava)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maddava/madava < Sanskrit mārdava, 'softness, mildness'; here the ethical virtue of humility opposed to māna (pride).",
+      "notes": "The book reads મદવ (single-da) rather than the more usual maddava; preserved verbatim."
+    },
+    {
+      "token": "સંપન્ને",
+      "translit": "sampanne",
+      "gloss": "endowed with, fully possessed of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sampanna < Sanskrit sampanna (saṁ + √pad), 'attained, furnished with'.",
+      "notes": "Agrees with the (implied) teacher; 'endowed with miu-madava', i.e. with softness-and-humility."
+    },
+    {
+      "token": "અણુપુવ્વિં",
+      "translit": "aṇupuvviṁ",
+      "gloss": "in due succession, in proper order",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit aṇupuvvi < Sanskrit ānupūrvī / anupūrva, 'sequence, regular order'.",
+      "notes": "Marks that the rank was received legitimately through the lineage, not seized — a key paṭṭāvalī value."
+    },
+    {
+      "token": "વાયગત્તણં",
+      "translit": "vāyagattaṇaṁ",
+      "gloss": "the office/status of a vācaka (authorized scripture-reciter)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāyaga (= vācaka) + abstract suffix -ttaṇa (= Sanskrit -tva), hence vācaka-tva, 'vācaka-hood'.",
+      "notes": "Abstract -ttaṇa nominal; here the accusative object of 'attained'. Uses the preface term vācaka, so not re-glossed."
+    },
+    {
+      "token": "પત્તે",
+      "translit": "patte",
+      "gloss": "having attained, reached",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patta < Sanskrit prāpta, past participle of pra + √āp, 'to obtain'.",
+      "notes": "Participle agreeing with the teacher: '(he who) attained vācaka-hood in due order'."
+    },
+    {
+      "token": "ઓહ",
+      "translit": "oha",
+      "gloss": "comprehensive / general (as in ogha-śruta, the whole body of scripture)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit oha < Sanskrit ogha, 'flood, aggregate, the general (as opposed to the particular)'.",
+      "notes": "Compounded with suya; ogha-suya = scripture taken comprehensively, the general exposition (cf. ogha-sāmācārī of the Oghaniryukti)."
+    },
+    {
+      "token": "સુય",
+      "translit": "suya",
+      "gloss": "scripture, heard/transmitted knowledge",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suya < Sanskrit śruta, 'that which is heard', the canonical śruta-jñāna.",
+      "notes": "Second member of oha-suya; one of the five jñānas the Nandī will enumerate."
+    },
+    {
+      "token": "સમાયારે",
+      "translit": "samāyāre",
+      "gloss": "in (the code of) right conduct / monastic observance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samāyāra < Sanskrit samācāra, 'proper conduct, observance' (saṁ + ā + √car).",
+      "notes": "Locative: 'established in ogha-śruta and samācāra', i.e. master of both scripture and the conduct-code (sāmācārī)."
+    },
+    {
+      "token": "નાગજજુણ",
+      "translit": "nāgajjuṇa",
+      "gloss": "Nāgārjuna (the teacher's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Nāgajjuṇa < Sanskrit Nāgārjuna; the Jain Sthavira Nāgārjunasūri (not the Buddhist Mādhyamika philosopher of the same name).",
+      "notes": "In compound with vāyae as the object of homage; also named in the preceding gāthā as 'Nāgajjuṇāyarie'."
+    },
+    {
+      "token": "વાયએ",
+      "translit": "vāyae",
+      "gloss": "the vācaka (master-reciter), [to whom]",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāyaa < Sanskrit vācaka, 'reciter, expounder'; here in the object case governed by vande.",
+      "notes": "Echoes vāyagattaṇaṁ above, sealing the verse: the office named at the start is the title given at the close."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Sanskrit vande, 1st person singular of √vand, 'to praise, salute reverently'.",
+      "notes": "The recurring refrain-verb of the whole sajjhāy; here applied to Nāgārjuna."
+    }
+  ],
+  "literalTranslation": "Endowed with softness and humility, having in due succession attained vācaka-hood, (established) in the comprehensive scripture and in (right) conduct — I bow to Nāgārjuna the vācaka.",
+  "idiomaticTranslation": "Gentle of temper and steeped in humility, he rose step by step through the lineage to the rank of master-reciter; a master of scripture entire and of the discipline of conduct alike — to Nāgārjuna, the vācaka, I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā completes the homage to Nāgārjuna begun in the previous verse, where he was saluted as ācārya and guardian of the Kālika-śruta anuyoga. Here the poet turns from his office to his person and his competence. First the character: miu-madava — 'softness-and-humility' — the antidote to māna (pride), naming the very virtue a teacher must embody before he is fit to transmit. Then the legitimacy: aṇupuvviṁ vāyagattaṇaṁ patte — he 'attained vācaka-hood in due succession'. The single word aṇupuvviṁ does heavy work: the rank was not self-claimed but received in order through the paṭṭa-paramparā, which is precisely what authorizes his recitation. Finally the scope: oha-suya-samāyāre — he was established 'in the comprehensive scripture and in conduct', pairing knowledge (śruta) with observance (samācāra/sāmācārī), exposition with discipline. The verse is artfully sealed: it opens with vāyagattaṇaṁ (the office) and closes with vāyae vande (the bow to its holder), so the title earned at the start becomes the title honoured at the end. The movement from v.15 to v.16 is thus from rank-and-role to virtue-and-mastery; the next verse will pass on to Govinda, continuing the chain.",
+    "doctrinalContext": "The verse encodes the Jain criterion for legitimate scriptural authority: an expounder is qualified by character (mārdava, humility — one of the ten yati-dharmas), by lawful succession (anupūrvī through the lineage), and by twofold mastery of śruta (the heard canon) and samācāra (the code of monastic conduct). This guards against the danger the Nandī itself addresses — that knowledge divorced from conduct, or transmission divorced from lineage, corrupts the teaching. Nāgārjuna here is the Jain Sthavira Nāgārjunasūri, remembered as a redactor whose 'Nāgārjunīya' recitation parallels the Māthurī line; the homage to him affirms that the canon survived because such qualified vācakas held it. (Distinct from the Buddhist philosopher of the same name.)",
+    "practicalRelevance": "For the reciter, the verse is a self-examination as much as a salutation: before honouring Nāgārjuna's learning, one is reminded that gentleness and humility (miu-madava) come first, and that knowledge (suya) is incomplete without conduct (samāyāra). One bows not merely to a scholar but to the union of character, lawful learning, and disciplined practice — the standard to aspire to in one's own study.",
+    "crossReferences": [
+      {
+        "text": "Nandī Sūtra, Sthavirāvalī gāthās (Nāgārjuna in the vācaka-vaṁśa)",
+        "source": "Devardhigaṇi Kṣamāśramaṇa redaction (Valabhī)"
+      },
+      {
+        "text": "Oghaniryukti — on ogha-sāmācārī (general conduct), illuminating oha-suya-samāyāre",
+        "source": "Bhadrabāhu (niryukti tradition)"
+      },
+      {
+        "text": "Daśavaikālika, on mārdava as a yati-dharma",
+        "source": "Śayyambhava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandi Sutra (Romanized) — full text",
+      "url": "https://jainqq.org/booktext/Nandi_Sutra_Romanized/650009",
+      "type": "translation",
+      "consultedFor": "The Sthavirāvalī gāthās and the placement of Nāgārjuna in the vācaka-lineage of the Nandī Sūtra."
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: mṛdu, mārdava, sampanna, ānupūrvī, vācaka, prāpta, ogha, śruta, samācāra, √vand."
+    },
+    {
+      "title": "Nandi Sutra (Hindi ed.) — Digital Library of India / archive.org",
+      "url": "https://archive.org/details/in.ernet.dli.2015.341239",
+      "type": "translation",
+      "consultedFor": "Cross-checking the Sthavirāvalī verse sequence and the sense of oha-suya-samāyāre and vāyagattaṇaṁ."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The book reads મદવ (madava, single-da) where the standard Prakrit is maddava (< mārdava); preserved verbatim. oha-suya-samāyāre is read as a locative dvandva ('in ogha-śruta and in samācāra'); some editions parse oha-suya as one unit (comprehensive scripture) with samāyāra a separate locative — both yield the same overall sense, but the exact compound boundary is mildly uncertain. વાયએ is taken as vācaka in the object case governed by vande. The Sthavira Nāgārjunasūri's exact dates are traditional rather than firmly historical; he is not the Buddhist Mādhyamika Nāgārjuna. Translation/commentary follows the verbatim source for every mātrā, anusvāra and conjunct."
+}

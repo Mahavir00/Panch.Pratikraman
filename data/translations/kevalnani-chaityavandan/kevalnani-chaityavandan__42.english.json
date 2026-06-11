@@ -1,0 +1,152 @@
+{
+  "shlokaId": "kevalnani-chaityavandan/42",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the worshipper bows to the Jina-shrines of the towns of Khambhāt, Tārāpur, Mātar and Gandhār, and venerates the two famous Pārśvanātha images named Lodhaṇ and Cintāmaṇi.",
+  "recitation": "khaṁbhāyata ne tārāpure, sā° || mātara ne gandhāra | lodhaṇa cintāmaṇi varu, sā°",
+  "wordByWord": [
+    {
+      "token": "ખંભાયત",
+      "translit": "khaṁbhāyata",
+      "gloss": "Khambhāt (Cambay), the port-town shrine; Sanskrit Stambhatīrtha / Stambhapura, a Pārśvanātha tīrtha",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. stambha-tīrtha 'pillar-ford' → Prakrit/Apabhraṁśa khaṁbhāïta → Guj. khaṁbhāyat; the old harbour-city on the Gulf of Khambhāt.",
+      "notes": "Named in the dhāla's tīrthamālā; tradition links it to Ācārya Abhayadeva and to Pārśvanātha."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Old/Middle Gujarati copulative conjunction ne, 'and', joining the listed place-names.",
+      "notes": "Recurs as the list-connector throughout the verse."
+    },
+    {
+      "token": "તારાપુરે",
+      "translit": "tārāpure",
+      "gloss": "at Tārāpur (the Tārāpur shrine, sacred to Śaṅkheśvara Pārśvanātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Tārā + pura 'town of Tārā'; locative -e ('at/in'), a town in central Gujarat.",
+      "notes": "Locative case marks it as a place where one bows."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā°",
+      "gloss": "[the dhāla's refrain, abbreviated] — the recurring chant-word beginning sā‑, marked here by the circle ૦ rather than written out",
+      "partOfSpeech": "particle",
+      "etymology": "Scribal abbreviation: the trailing ૦ (vartula) signals the dhāla's fixed refrain-word (dhruva/ṭeka) that the singer supplies in full.",
+      "notes": "The verse gives only the cue sā°; the full refrain-word is established at the dhāla's opening, not within this verse (see notes)."
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "[double bar — metrical pause/punctuation]",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa pair marking a caesura within the line, part of the book's printed orthography.",
+      "notes": "Preserved verbatim."
+    },
+    {
+      "token": "માતર",
+      "translit": "mātara",
+      "gloss": "Mātar (the Mātar shrine of Sumatinātha / Pārśvanātha, in Kheḍā district)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. place-name mātar; a pilgrimage town near Nadiad in central Gujarat.",
+      "notes": "Renowned as a 'Saccā Dev' tīrtha in Gujarat tradition."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Same copulative ne as above.",
+      "notes": ""
+    },
+    {
+      "token": "ગંધાર",
+      "translit": "gandhāra",
+      "gloss": "Gandhār (the Gandhār shrine near Bharuch, sacred to Amīzarā Pārśvanātha / Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. gandhāra; an old port-village on the Narmadā estuary in Bharuch district.",
+      "notes": "An ancient coastal tīrtha of the Gujarat belt."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "[single bar — line punctuation]",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa closing the hemistich, part of the printed text.",
+      "notes": "Preserved verbatim."
+    },
+    {
+      "token": "લોઢણ",
+      "translit": "lodhaṇa",
+      "gloss": "Lodhaṇ (Lodhaṇ Pārśvanātha — a celebrated, ancient black-stone Pārśva image)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. proper name lodhaṇ, the epithet of a particular Pārśvanātha icon counted among the renowned Pārśva images.",
+      "notes": "Here a named image (pratimā), shifting the list from towns to famous icons."
+    },
+    {
+      "token": "ચિંતામણિ",
+      "translit": "cintāmaṇi",
+      "gloss": "Cintāmaṇi (Cintāmaṇi Pārśvanātha — the 'wish-granting jewel' Pārśva image, esp. of Khambhāt)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. cintā 'thought, worry' + maṇi 'jewel' = the gem that fulfils every desire; an epithet of a Pārśvanātha icon.",
+      "notes": "A wish-fulfilling-gem epithet applied to a Pārśva image."
+    },
+    {
+      "token": "વરુ",
+      "translit": "varu",
+      "gloss": "I venerate / I choose (as the most excellent)",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt. √vṛ (vṛṇoti/vṛṇute) 'to choose, select as a boon, adore'; 1st-person reverential 'I choose/venerate'; cf. vara 'excellent, chosen'.",
+      "notes": "Reads as the worshipper's first-person act of choosing-in-reverence; can also be felt adjectivally ('the excellent') qualifying the images."
+    },
+    {
+      "token": "સા૦",
+      "translit": "sā°",
+      "gloss": "[the dhāla's refrain again, abbreviated]",
+      "partOfSpeech": "particle",
+      "etymology": "Repeated refrain-cue closing the second line, as at the first.",
+      "notes": "Marks the sung return to the dhāla's fixed refrain."
+    }
+  ],
+  "literalTranslation": "Khambhāt and at Tārāpur — [refrain] — Mātar and Gandhār; Lodhaṇ [and] Cintāmaṇi I venerate — [refrain].",
+  "idiomaticTranslation": "I bow at Khambhāt and Tārāpur — and at Mātar and Gandhār too; and to Lodhaṇ Pārśva and Cintāmaṇi Pārśva, most excellent, I give my reverence.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the previous line's sweep through Amīzarā, Navapallava, Navakhaṇḍa-Thārād, Tāraṅgā and Burhānpur, this couplet draws the garland inward to the Pārśvanātha heartland of central and coastal Gujarat. Four living pilgrim-towns are named in a single breath — Khambhāt, Tārāpur, Mātar, Gandhār — each a working shrine on the medieval trade-and-pilgrimage road of the Gulf of Khambhāt, and each strongly tied to the twenty-third Jina, Pārśvanātha. The line then performs a small but deliberate turn: from places to icons. Lodhaṇ and Cintāmaṇi are not towns but the proper names of two renowned Pārśva images, so the worshipper's bow narrows from temple-towns (caitya) to the very pratimās enshrined in them — exactly the image-veneration that gives the caitya-vandana its name. 'Cintāmaṇi', the wish-granting jewel, is the most charged word here: by naming an image so, the poet quietly claims that gazing on the Jina fulfils every longing — while the verb varu ('I choose, I venerate') makes the act personal and present-tense, the reciter selecting these holy forms here and now. The verse then hands on to the next line, which carries the gaze westward to Devapattan, Devagiri, Navānagar and the seaports — Gujarat's coast and Saurashtra. So this couplet is the central-Gujarat 'station' of the tīrthamālā, dense with Pārśvanātha precisely because that Jina dominated the region's living devotion. The doubled sā° refrain keeps the whole as song, each name dropped onto the same returning melodic peg.",
+    "doctrinalContext": "The verse enacts the core logic of caitya-vandana: reverence reaches the formless, liberated Jina through located form — named towns and named images. Naming an icon 'Cintāmaṇi' encodes a teaching about bhakti: the Jina grants no worldly boons by intervention (a siddha is utterly detached), yet sincere darśana of his image purifies the seer's own karma, so the 'wish-fulfilling' power is the devotee's transformed mind, not the stone. The first-person varu (√vṛ, 'to choose') frames pilgrimage as an act of will — samyaktva expressed as deliberate selection of the right objects of reverence — consonant with the hymn's aim of strengthening right faith through universe-wide bowing.",
+    "practicalRelevance": "Reciting this line each dawn, a worshipper who may never travel to Khambhāt or Gandhār still makes the pilgrimage in spirit, mentally bowing to each shrine and image. Practically, let varu register as a present choice: name each place, picture the Pārśva image, and re-choose reverence today — turning a list of towns into a brief, attentive interior darśana rather than a recited inventory.",
+    "crossReferences": [
+      {
+        "text": "Stambhatīrtha (Khambhāt) as an ancient Pārśvanātha tīrtha founded in Abhayadeva's circle",
+        "source": "Jinaprabhasūri, Vividhatīrthakalpa"
+      },
+      {
+        "text": "Parallel garland of 108 tīrthas recited in the Pakkhī service",
+        "source": "Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā (Anchalgaccha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Stambhapura / Stambhatīrtha (Khambhāt) — definition and history",
+      "url": "https://www.wisdomlib.org/definition/stambhapura",
+      "type": "dictionary",
+      "consultedFor": "Identifying ખંભાયત as Stambhatīrtha/Khambhāt, a medieval Pārśvanātha tīrtha associated with Abhayadeva and the Vividhatīrthakalpa."
+    },
+    {
+      "title": "Cintāmaṇi — definition (the wish-granting jewel)",
+      "url": "https://www.wisdomlib.org/definition/chintamani",
+      "type": "dictionary",
+      "consultedFor": "Sense of ચિંતામણિ as the desire-fulfilling gem, grounding the epithet of the Cintāmaṇi Pārśvanātha image."
+    },
+    {
+      "title": "Vṛ (√vṛ) — Sanskrit verbal root 'to choose, select as a boon, adore'",
+      "url": "https://www.wisdomlib.org/definition/vri",
+      "type": "dictionary",
+      "consultedFor": "Etymology and reverential sense of વરુ (varu) as 1st-person 'I choose/venerate', and the related noun vara 'excellent/chosen'."
+    }
+  ],
+  "translatorConfidence": 0.77,
+  "notes": "Place identifications are secure: ખંભાયત = Khambhāt/Stambhatīrtha, તારાપુરે = Tārāpur, માતર = Mātar, ગંધાર = Gandhār — all central/coastal-Gujarat Pārśvanātha tīrthas. લોઢણ and ચિંતામણિ are read as proper names of two renowned Pārśvanātha images (the line shifting from towns to icons); this image-reading, rather than two further towns, is the most coherent but is interpretive. વરુ is taken as a 1st-person reverential of √vṛ ('I choose/venerate'); an adjectival reading (vara, 'the excellent') qualifying the images is also possible and the rendering reflects both. The cue 'સા૦' is the dhāla's refrain abbreviated by the circle (૦); its full expansion is fixed at the dhāla's opening (the dhruva/ṭeka) and cannot be recovered from this verse alone, so it is left as a refrain-cue. Khambhāt also appears among the dhāla-8 places noted in the preface, so a degree of repetition across the tīrthamālā is expected. Spelling kept verbatim per the Anchalgaccha (Vidhipaksha) edition."
+}

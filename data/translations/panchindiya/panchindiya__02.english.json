@@ -1,0 +1,170 @@
+{
+  "shlokaId": "panchindiya/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "My true guru is one who keeps the five great vows, practises the five kinds of right conduct, observes the five carefulnesses and the three restraints — thirty-six virtues in all.",
+  "recitation": "pañca mahavvaya jutto, pañca vihāyāra pālaṇa samattho; pañca samio tigutto, chattīsa guṇehiṁ guru majjha.",
+  "wordByWord": [
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pañca < Sanskrit pañcan, 'five'.",
+      "notes": "First of three numeral 'pañca' openings in the verse, each heading a counted virtue-set."
+    },
+    {
+      "token": "મહવ્વય",
+      "translit": "mahavvaya",
+      "gloss": "great vows (mahāvrata)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahavvaya < Sanskrit mahā-vrata; mahā ('great') + vrata ('vow'); -vv- is the Prakrit assimilation of -hāvr-.",
+      "notes": "The five ascetic vows: ahiṁsā, satya, asteya, brahmacarya, aparigraha."
+    },
+    {
+      "token": "જુત્તો",
+      "translit": "jutto",
+      "gloss": "endowed with, joined to",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit jutto < Sanskrit yukta, past participle of √yuj ('to join, yoke').",
+      "notes": "Masculine nominative singular qualifying guru; governs 'pañca mahavvaya'."
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "As above; Prakrit pañca < Sanskrit pañcan.",
+      "notes": "Heads the second set, the fivefold ācāra."
+    },
+    {
+      "token": "વિહાયાર",
+      "translit": "vihāyāra",
+      "gloss": "the fivefold conduct (pañcavidha-ācāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vihāyāra < Sanskrit vidhi-ācāra / vividha-ācāra; vihā- ('kind, mode') + āyāra (ācāra, 'conduct'). The book spells ācāra-forms with ય (āyāra).",
+      "notes": "The five ācāras: jñāna, darśana, cāritra, tapa, vīrya — conduct in knowledge, faith, character, austerity and energy."
+    },
+    {
+      "token": "પાલણ",
+      "translit": "pālaṇa",
+      "gloss": "observing, maintaining",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pālaṇa < Sanskrit pālana, 'protecting, upholding', from √pāl ('to guard').",
+      "notes": "Object of samattho; 'capable in the upholding of...'."
+    },
+    {
+      "token": "સમત્થો",
+      "translit": "samattho",
+      "gloss": "capable, competent",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit samattho < Sanskrit samartha; sam- + artha, 'fully able'.",
+      "notes": "Stronger than mere 'joined': he is competent actually to practise, not just to hold, the five ācāras."
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "As above; Prakrit pañca < Sanskrit pañcan.",
+      "notes": "Heads the third set, the five samitis."
+    },
+    {
+      "token": "સમિઓ",
+      "translit": "samio",
+      "gloss": "careful (in the five samitis)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit samio < Sanskrit samita ('attentive, careful'), related to samiti, from sam-√i ('to move rightly').",
+      "notes": "Here 'pañca samio' = endowed with the five carefulnesses: īryā, bhāṣā, eṣaṇā, ādāna-nikṣepa, utsarga."
+    },
+    {
+      "token": "તિગુત્તો",
+      "translit": "tigutto",
+      "gloss": "guarded by the three restraints (tri-gupta)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ti-gutto < Sanskrit tri-gupta; ti (tri, 'three') + gutta (gupta, 'guarded').",
+      "notes": "The three guptis: control of mind (mano-gupti), speech (vāg-gupti) and body (kāya-gupti)."
+    },
+    {
+      "token": "છત્તીસ",
+      "translit": "chattīsa",
+      "gloss": "thirty-six",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit chattīsa < Sanskrit ṣaṭ-triṁśat, 'thirty-six'.",
+      "notes": "The running total: this verse's 5+5+5+3 = 18 added to the previous verse's 18."
+    },
+    {
+      "token": "ગુણેહિં",
+      "translit": "guṇehiṁ",
+      "gloss": "with virtues",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit guṇehiṁ, instrumental plural of guṇa < Sanskrit guṇa ('quality, virtue'); the -ehiṁ ending = Sanskrit -ais/-ebhiḥ.",
+      "notes": "Instrumental of accompaniment: '[endowed] with thirty-six virtues'."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "guru, spiritual teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit guru, 'weighty, venerable; teacher', from a root sense of 'heavy'.",
+      "notes": "Predicate noun: such a one '[is] my guru'."
+    },
+    {
+      "token": "મજ્ઝ",
+      "translit": "majjha",
+      "gloss": "my, of me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit majjha < Sanskrit mama / mahyam, genitive-dative of the first person; -jjh- is the Prakrit assimilation.",
+      "notes": "Closes the sutra on a personal note — not 'a' guru but 'my' guru, the one I install and bow to."
+    }
+  ],
+  "literalTranslation": "Joined with the five great vows; capable in the upholding of the fivefold conduct; careful in the five [samitis], guarded by the three [guptis] — with [these] thirty-six virtues [is] my guru.",
+  "idiomaticTranslation": "He who is yoked to the five great vows, competent to uphold the fivefold path of right conduct, watchful in the five carefulnesses and sealed by the threefold restraint of mind, speech and body — adorned with all thirty-six virtues, such a one is my guru.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse supplies the second eighteen virtues and thus completes the count the sutra has been building toward. Notice the deliberate verbs: the guru is not merely 'joined' (jutto) to the five mahāvratas as a status, he is 'capable' (samattho) of actually upholding the fivefold ācāra — knowledge, faith, character, austerity and energy. The hymn distinguishes holding a vow from being competent to live it; a true preceptor is defined by practised capacity, not nominal initiation. The closing couplet tightens from broad vows to fine, moment-to-moment discipline: the five samitis govern outward acts (walking, speaking, alms-seeking, handling objects, disposal), while the three guptis (tigutto) seal the inner instruments of mind, speech and body. Samiti and gupti together form the eightfold 'mother-disciplines' (aṣṭa-pravacana-mātā) that nurse all conduct, so the verse moves outward-to-inward and ends on total self-containment. The arithmetic then resolves — chattīsa, thirty-six — and only here does the speaker name the object: guru majjha, 'my guru.' The whole portrait has been a checklist; the final two words convert the checklist into a personal act of recognition and veneration, the very purpose for which the verse is recited.",
+    "doctrinalContext": "The verse compresses the core of Jain monastic ethics into one frame. The five mahāvratas are the ascetic intensification of the lay aṇuvratas; the fivefold ācāra is the practical face of the ratnatraya (right knowledge, faith and conduct) expanded by tapa and vīrya; and the samiti–gupti pair is the canonical aṣṭa-pravacana-mātā, the safeguards that translate non-violence from intention into every step and word. Defining the guru by these — rather than by charisma or lineage alone — encodes a doctrinal claim: spiritual authority is exactly co-extensive with realized self-restraint (saṁyama). The thirty-six count is therefore not decorative numerology but a complete audit of saṁvara (the stopping of karmic inflow) embodied in a person.",
+    "practicalRelevance": "As the reciter installs the guru-seat, this verse gives the mind a concrete measure for 'true teacher': look for lived restraint, not reputation. A practitioner can also turn the same thirty-six inward as a self-checklist — am I careful in speech and movement (samiti), guarded in mind (gupti)? — making the veneration also a quiet aspiration.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.4–9.5 (samiti and gupti as means of saṁvara)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra 24 (Pravacana-mātā: the five samitis and three guptis)",
+        "source": "Uttarādhyayana-sūtra, Śvetāmbara Āgama"
+      },
+      {
+        "text": "Daśavaikālika-sūtra (the five mahāvratas of the ascetic)",
+        "source": "Daśavaikālika-sūtra ch. 4"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mahavrata",
+      "url": "https://en.wikipedia.org/wiki/Mahavrata",
+      "type": "scholarship",
+      "consultedFor": "Identification and enumeration of the five great vows (ahiṁsā, satya, asteya, brahmacarya, aparigraha) glossing 'mahavvaya'."
+    },
+    {
+      "title": "Gupti",
+      "url": "https://en.wikipedia.org/wiki/Gupti",
+      "type": "scholarship",
+      "consultedFor": "The three guptis (restraint of mind, speech, body) underlying 'tigutto'."
+    },
+    {
+      "title": "Jain monasticism",
+      "url": "https://en.wikipedia.org/wiki/Jain_monasticism",
+      "type": "scholarship",
+      "consultedFor": "The five samitis and the aṣṭa-pravacana-mātā framework for samiti+gupti, and monastic conduct (ācāra)."
+    },
+    {
+      "title": "JAINpedia — Jain scriptures and sutra texts",
+      "url": "https://www.jainpedia.org",
+      "type": "scholarship",
+      "consultedFor": "Corroboration of the fivefold ācāra (jñāna, darśana, cāritra, tapa, vīrya) and standard Śvetāmbara reading of the Panchindiya guru-attributes."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Reading 'વિહાયાર' (vihāyāra) as pañcavidha-ācāra, the fivefold conduct, per the preface's 5+5+5+3 decomposition; some glosses render it loosely as 'observances/abstinences', but the standard Śvetāmbara count requires the five ācāras (jñāna, darśana, cāritra, tapa, vīrya) to reach eighteen here. 'સમિઓ' is taken adjectivally ('pañca samio' = endowed with the five samitis). Book orthography (ય in āyāra-forms, doubled conjuncts in mahavvaya/majjha/tigutto) is preserved verbatim in the 'token' field; IAST forms are reader normalizations. The verse carries no variant of doctrinal consequence in the consulted sources."
+}
