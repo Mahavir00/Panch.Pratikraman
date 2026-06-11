@@ -134,7 +134,10 @@ function buildCmd(prompt, opts) {
     const chosenModel = model || _defaults.model;
     if (chosenModel) parts.push(`--model`, chosenModel);
     const r = reasoning ?? _defaults.reasoning;
-    if (r) parts.push(`--reasoning-effort`, String(r).toLowerCase());
+    // Some models (e.g. claude-sonnet-4.5) reject reasoning-effort config entirely.
+    // PPT_NO_REASONING=1 (or reasoning "off"/"none") suppresses the flag.
+    const suppressReasoning = process.env.PPT_NO_REASONING === "1" || r === "off" || r === "none";
+    if (r && !suppressReasoning) parts.push(`--reasoning-effort`, String(r).toLowerCase());
     const ctx = opts.contextTier ?? _defaults.contextTier;
     if (ctx) parts.push(`--context`, ctx);
     // Web access is via the built-in fetch tool (covered by --allow-all).

@@ -28,7 +28,11 @@ for ($i = 1; $i -le $MaxCycles; $i++) {
   $r = if ($Reasoning) { $Reasoning } elseif ($i -le 4) { "high" } elseif ($i -le 8) { "medium" } else { "low" }
   $env:PPT_DUMP_RAW = "$repo\data\logs\rawdump-$Scope-c$i-$ts.txt"
   Log "cycle $i/${MaxCycles}: reasoning=$r launching translate ..."
-  & node index.js translate --scope $Scope --lang $Lang --model $Model --reasoning $r --context long_context -v *>> $wlog
+  if ($r -eq "off") {
+    & node index.js translate --scope $Scope --lang $Lang --model $Model --context long_context -v *>> $wlog
+  } else {
+    & node index.js translate --scope $Scope --lang $Lang --model $Model --reasoning $r --context long_context -v *>> $wlog
+  }
   if (Test-Path $target) {
     Log "SUCCESS: cycle $i produced target ($([math]::Round((Get-Item $target).Length/1KB,1)) KB)"
     break
