@@ -16,7 +16,7 @@ The repository has two halves that share one dataset:
 2. **The website** (`website/`) — a client-side React + TypeScript + Vite app that renders that JSON
    in three languages, deployed to **GitHub Pages**.
 
-The corpus is **complete** — 38 sūtras / 285 shlokas + 10 vidhi steps (72 segments), all translated
+The corpus is **complete** — 38 sūtras / 474 shlokas + 10 vidhi steps (72 segments), all translated
 in three languages — and **committed** under `data/`, so both the website and CI build with **zero
 pipeline runs**.
 

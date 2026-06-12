@@ -1,0 +1,290 @@
+{
+  "shlokaId": "samayik-parvani/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I declare that I have properly taken, performed, and kept my sāmāyika vow, and I sincerely ask forgiveness — by mind, speech, and body — for any mistake or disrespect I made while doing it.",
+  "recitation": "sāmāyikavrata phāsiyaṁ, pāliyaṁ, pūriyaṁ, tīriyaṁ, kittiyaṁ, ārāhiyaṁ; vidhie līdhuṁ, vidhie kīdhuṁ, vidhie pālyuṁ; vidhie karatāṁ kisī avidhi, āśātanā hui hoya; te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "સામાયિકવ્રત",
+      "translit": "sāmāyikavrata",
+      "gloss": "the vow of equanimity (here, the sāmāyika just performed)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa compound: sāmāyika ('equanimity', from sama + aya) + vrata ('vow, observance').",
+      "notes": "The object of every following past-participle; the whole line predicates these qualities of this one vow."
+    },
+    {
+      "token": "ફાસિયં",
+      "translit": "phāsiyaṁ",
+      "gloss": "touched, taken up (the vow was duly assumed)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit phāsiya < Sanskrit spṛś / sparśita ('touched, contacted'); first of the inherited six-fold pratyākhyāna terms.",
+      "notes": "Traditionally: the vow 'touched' = taken at the proper moment with right resolve."
+    },
+    {
+      "token": "પાલિયં",
+      "translit": "pāliyaṁ",
+      "gloss": "kept, guarded (it was protected throughout)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pāliya < Sanskrit pālita ('protected, maintained'), from √pāl.",
+      "notes": "The vow held in mind and unbroken during the sitting."
+    },
+    {
+      "token": "પૂરિયં",
+      "translit": "pūriyaṁ",
+      "gloss": "completed, fulfilled (brought to fullness)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pūriya < Sanskrit pūrita ('filled, completed'), from √pṝ.",
+      "notes": "Where the standard pratyākhyāna formula reads sohiyaṁ (śodhita, 'purified'), this book reads pūriyaṁ — see notes."
+    },
+    {
+      "token": "તીરિયં",
+      "translit": "tīriyaṁ",
+      "gloss": "carried through to the end (sustained to its term)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tīriya < Sanskrit tīrita ('crossed over, brought to completion'), from √tṝ ('to cross').",
+      "notes": "Endured fully, even past the prescribed measure of time."
+    },
+    {
+      "token": "કિત્તિયં",
+      "translit": "kittiyaṁ",
+      "gloss": "proclaimed, expressly affirmed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kittiya < Sanskrit kīrtita ('declared, recited'), from √kīrt.",
+      "notes": "The vow openly avowed and recalled at its conclusion."
+    },
+    {
+      "token": "આરાહિયં",
+      "translit": "ārāhiyaṁ",
+      "gloss": "well-observed, fully accomplished",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ārāhiya < Sanskrit ārādhita ('propitiated, perfectly accomplished'), from ā + √rādh.",
+      "notes": "The capstone term: the vow successfully realized through all the foregoing."
+    },
+    {
+      "token": "વિધિએ",
+      "translit": "vidhie",
+      "gloss": "by the proper procedure",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati instrumental of vidhi < Sanskrit vidhi ('prescribed rite, method'), from vi + √dhā.",
+      "notes": "First of three anaphoric repetitions driving home that each act followed the rule."
+    },
+    {
+      "token": "લીધું",
+      "translit": "līdhuṁ",
+      "gloss": "(it was) taken / assumed",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati past participle of levuṁ ('to take') < Sanskrit √lā / labh.",
+      "notes": "Marks the shift from inherited Prakrit terms to vernacular Gujarati narration."
+    },
+    {
+      "token": "વિધિએ",
+      "translit": "vidhie",
+      "gloss": "by the proper procedure",
+      "partOfSpeech": "adverb",
+      "etymology": "Repetition of vidhi (instrumental); see above.",
+      "notes": "Anaphora; pairs with kīdhuṁ."
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "(it was) done / performed",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati past participle of karvuṁ ('to do') < Sanskrit √kṛ.",
+      "notes": ""
+    },
+    {
+      "token": "વિધિએ",
+      "translit": "vidhie",
+      "gloss": "by the proper procedure",
+      "partOfSpeech": "adverb",
+      "etymology": "Repetition of vidhi (instrumental); see above.",
+      "notes": "Third anaphora; pairs with pālyuṁ."
+    },
+    {
+      "token": "પાલ્યું",
+      "translit": "pālyuṁ",
+      "gloss": "(it was) kept / observed",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati past participle of pāḷvuṁ ('to keep, maintain') < Sanskrit pālita, √pāl.",
+      "notes": "Vernacular echo of the earlier Prakrit pāliyaṁ, closing the triple vidhie clause."
+    },
+    {
+      "token": "કરતાં",
+      "translit": "karatāṁ",
+      "gloss": "while doing",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati present (conjunctive) participle of karvuṁ ('to do') < Sanskrit √kṛ.",
+      "notes": "Pivots from declaration of merit to confession of lapses."
+    },
+    {
+      "token": "કિસી",
+      "translit": "kisī",
+      "gloss": "whatever, any",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati / Apabhraṁśa interrogative-indefinite kisī ('what kind of, any'); cf. modern kaī / koī.",
+      "notes": "Indefinite scope so the confession leaves no fault unnamed."
+    },
+    {
+      "token": "અવિધિ",
+      "translit": "avidhi",
+      "gloss": "improper procedure, lapse from the rule",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit a- (privative) + vidhi; the negation of the vidhi just thrice affirmed.",
+      "notes": "Deliberately set against the threefold vidhie above."
+    },
+    {
+      "token": "આશાતના",
+      "translit": "āśātanā",
+      "gloss": "disrespect, irreverence",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit āśātanā ('violation of decorum'), ā + √śat.",
+      "notes": "Glossed in the preface; here it pairs with avidhi as the two heads of fault."
+    },
+    {
+      "token": "હુઇ",
+      "translit": "hui",
+      "gloss": "occurred, happened",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati past of thavuṁ / huvuṁ ('to be, become') < Sanskrit √bhū.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been (if any)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati subjunctive of hovuṁ ('to be') < Sanskrit √bhū.",
+      "notes": "The conditional 'hui hoya' = 'should any have occurred', covering even unknown faults."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that, those (faults)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative te < Sanskrit tad.",
+      "notes": "Gathers up every avidhi and āśātanā as the object of retraction."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, the whole of it",
+      "partOfSpeech": "adj",
+      "etymology": "Old Gujarati / Apabhraṁśa savi < Sanskrit sarva ('all').",
+      "notes": "Totalizing — no fault excepted."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person pronoun huṁ < Apabhraṁśa hauṁ < Sanskrit aham.",
+      "notes": "The personal owning of the confession."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of mana < Sanskrit manas ('mind').",
+      "notes": "First of the threefold instruments (mind-speech-body)."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of vacana < Sanskrit vacana ('speech'), √vac.",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of kāyā < Sanskrit kāya ('body').",
+      "notes": "Completes the triad of mana-vacana-kāya through which all karma is bound."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati absolutive of karvuṁ ('to do') < Sanskrit kṛtvā, √kṛ.",
+      "notes": "Binds the three instruments to the act of retraction that follows."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, void, in vain",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā < Sanskrit mithyā ('falsely, vainly').",
+      "notes": "Glossed in preface; rendered null so the misdeed bears no fruit."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my, of me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi / me < Sanskrit me ('my').",
+      "notes": ""
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed, ill-done act",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa < Sanskrit duṣkṛta ('bad deed'), dus + √kṛ.",
+      "notes": "Completes the formula micchā mi dukkaḍaṁ = 'may my misdeed be undone'."
+    }
+  ],
+  "literalTranslation": "The sāmāyika vow — touched, kept, fulfilled, carried to its end, proclaimed, fully accomplished; taken by the proper procedure, done by the proper procedure, kept by the proper procedure; whatever improper procedure or disrespect may have occurred while doing it by the procedure — all that I, by mind, speech, and body, declare a misdeed to be undone (micchā mi dukkaḍaṁ).",
+  "idiomaticTranslation": "My vow of equanimity I have touched, upheld, brought to fullness, carried through to its term, openly affirmed, and rightly accomplished. I took it by the proper rite, performed it by the proper rite, kept it by the proper rite; yet if, in doing so, any lapse from the rite or any irreverence crept in, for all of that — through mind, through speech, through body — may my misdeed be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the first numbered item of the prose Sūtra, and it does the central work of any pāraṇā: it formally certifies the vow and then immediately confesses its imperfections. The line opens with the six inherited terms — phāsiyaṁ, pāliyaṁ, pūriyaṁ, tīriyaṁ, kittiyaṁ, ārāhiyaṁ — the classical pratyākhyāna-ārādhanā sequence borrowed from the Āvaśyaka tradition and here predicated of sāmāyikavrata. They trace the vow's whole life-arc in one breath: it was touched (begun), kept (sustained), brought to fullness, carried to its term, proclaimed, and so wholly accomplished. The verse then drops from Prakrit into plain Gujarati and hammers a single word three times — vidhie ... vidhie ... vidhie ('by the procedure') against līdhuṁ, kīdhuṁ, pālyuṁ ('taken, done, kept'). This triple anaphora is the verse's rhetorical engine: having claimed the vow was done strictly by the book, the reciter cannot then pretend it was flawless, so the next clause turns the very word against itself — vidhie karatāṁ kisī avidhi, 'while acting by the rite, whatever un-rite (avidhi) or āśātanā may have occurred.' The conditional hui hoya leaves room for faults the reciter never even noticed. The resolution is the threefold retraction by mind, speech, and body sealed with micchā mi dukkaḍaṁ. So the verse moves from confident completion to humble self-correction without a seam — the equanimity practiced inwardly is now turned upon the practitioner's own performance.",
+    "doctrinalContext": "The verse rests on the Jain conviction that karma binds through the three yogas — manas, vacana, kāya — so a confession is incomplete unless it covers all three, which is exactly why mane-vacane-kāyāe is named before micchā mi dukkaḍaṁ. Equally pointed is the avidhi / vidhi pairing: in Jain ritual theory mere completion of an act is not its perfection; an act done with even unintended procedural lapse carries residual fault, and only sincere retraction renders that fault nirjarā-ready ('micchā', made void). The six ārādhanā terms encode a doctrine of graded vow-fulfilment rather than a single binary of 'done / not done', mirroring how pratyākhyāna is evaluated in the Āvaśyaka literature.",
+    "practicalRelevance": "For a reciter today this is the moment to honestly review the 48 minutes just spent: Did the mind wander? Was a word spoken carelessly? Did the body fidget or disturb a fellow practitioner? Rather than either glossing over slips or sinking into guilt, the verse models the middle path — affirm what was done well, name what was not, release it. The conditional 'if any occurred' is a gentle discipline: one retracts even faults one cannot recall, leaving the heart clean to return to ordinary life.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyaṁ (Airyāpathikī) Sutra — the mobility-confession ending in 'tassa micchāmi dukkaḍaṁ', the structural model for this retraction",
+        "source": "Śvetāmbara Āvaśyaka tradition; cf. Wikipedia, 'Micchami Dukkadam' (quoting R. Williams)"
+      },
+      {
+        "text": "Yogaśāstra 3.124 (Hemacandra) — the symbolic syllable-by-syllable etymology of micchā mi dukkaḍaṁ",
+        "source": "Hemacandra, Yogaśāstra, as cited in Wikipedia, 'Micchami Dukkadam'"
+      },
+      {
+        "text": "Pratyākhyāna Āvaśyaka — the six-fold ārādhanā terms (phāsiya–pāliya–...–ārāhiya) applied to vows",
+        "source": "Āvaśyaka Niryukti / Sāmāyika-Āvaśyaka tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati wording of the verse and its place as Sūtra item (1) of the sāmāyika pāraṇā."
+    },
+    {
+      "title": "Micchami Dukkadam — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "Etymology and meaning of micchā mi dukkaḍaṁ (mithyā me duṣkṛtam) and the Iriyāvahiyaṁ confession model."
+    },
+    {
+      "title": "Pratikramana — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "The six Āvaśyakas, the place of Pratyākhyāna, and the begin/end procedure of a sāmāyika."
+    },
+    {
+      "title": "Samayika — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samayika",
+      "type": "scholarship",
+      "consultedFor": "Doctrine of sāmāyika as the equanimity vow ('assuming temporary ascetic status') concluded by a fixed procedure."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is bilingual in texture: it opens with six inherited Prakrit pratyākhyāna-ārādhanā terms and then narrates in vernacular Old/Middle Gujarati (līdhuṁ, kīdhuṁ, pālyuṁ, kisī, savi, hui). The standard Āvaśyaka six-fold formula reads 'phāsiyaṁ pāliyaṁ sohiyaṁ tīriyaṁ kittiyaṁ ārāhiyaṁ' (with sohiyaṁ = śodhita, 'purified'); this book's third term is પૂરિયં (pūriyaṁ = pūrita, 'fulfilled/completed'), preserved verbatim per the source-book fidelity rule — treat as a tradition/edition variant, not an error. 'kisī' is an archaic indefinite (modern kaī/koī); 'hui hoya' is a conditional past ('should any have occurred'). Per-token Sanskrit etymons of the six terms are well attested; the precise gāthā-source attribution within the Āvaśyaka corpus is given at tradition level only and not pinned to a critical edition. The cited jainelibrary.org URL points to the general repository rather than a verified page image."
+}

@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/32",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Continuing the count of the heavens' undying Jina images from the verse before, this one adds five million five hundred twenty-five thousand five hundred and forty more, and says that among the Vyantara and Jyotiṣka gods such images are so many they cannot be counted.",
+  "recitation": "paṇāpanna lakkha paṇāvīsa, sahassa pañca-sayā-u cālīsā; taha vaṇa-jois-suresu, sāsaya paḍimā puṇa asaṁkhā.",
+  "wordByWord": [
+    {
+      "token": "પણાપન્ન",
+      "translit": "paṇāpanna",
+      "gloss": "fifty-five (55)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇāpanna < Sanskrit pañcāpañcāśat / pañca-pañcāśat ('five-and-fifty'); the initial pañca- worn down to paṇā- by Prakrit phonology.",
+      "notes": "Qualifies the following lakkha: 'fifty-five lakh'."
+    },
+    {
+      "token": "લક્ખ",
+      "translit": "lakkha",
+      "gloss": "lakh, one hundred thousand (100,000)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lakkha < Sanskrit lakṣa, 'a hundred thousand; a mark/target'.",
+      "notes": "55 × 100,000 = 5,500,000."
+    },
+    {
+      "token": "પણાવીસ",
+      "translit": "paṇāvīsa",
+      "gloss": "twenty-five (25)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇāvīsa < Sanskrit pañcaviṁśati ('five-and-twenty'); -viṁśati > -vīsa, pañca- > paṇā-.",
+      "notes": "Qualifies sahassa: 'twenty-five thousand'."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand (1,000)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra; intervocalic -sr- assimilated to -ss-.",
+      "notes": "25 × 1,000 = 25,000."
+    },
+    {
+      "token": "પંચસયાઉ",
+      "translit": "pañca-sayā-u",
+      "gloss": "and five hundred (500, with the connective 'and')",
+      "partOfSpeech": "compound",
+      "etymology": "pañca ('five') + saya < Sanskrit śata ('hundred') + enclitic -u (= Sanskrit ca/tu, 'and'), sandhi-joined to the numeral.",
+      "notes": "Printed as one token; the trailing -u is the conjunctive particle linking this number to the next, cālīsā."
+    },
+    {
+      "token": "ચાલીસા",
+      "translit": "cālīsā",
+      "gloss": "forty (40)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cālīsā < Sanskrit catvāriṁśat ('forty').",
+      "notes": "500 + 40 = 540; the line totals 5,500,000 + 25,000 + 540 = 5,525,540."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus, likewise, and",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Sanskrit tathā, 'so, in that way, likewise'.",
+      "notes": "Pivots from the finite count of the first line to the 'innumerable' realms of the second."
+    },
+    {
+      "token": "વણ",
+      "translit": "vaṇa",
+      "gloss": "the Vyantara gods (the 'interstitial' deities)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaṇa, clipped form of vāṇa-vyantara (< Sanskrit vāna-vyantara), the second of the four classes of devas.",
+      "notes": "First member of the locative compound vaṇa-jois-suresu; the vāṇavyantara are conventionally counted within the Vyantara class."
+    },
+    {
+      "token": "જોઇસુરેસુ",
+      "translit": "jois-suresu",
+      "gloss": "among the Jyotiṣka gods (the astral/luminary deities)",
+      "partOfSpeech": "compound",
+      "etymology": "joisa < Sanskrit jyotiṣka ('luminary') + suresu, locative plural of sura ('god') < Sanskrit sura; the whole = 'among the Vyantara-and-Jyotiṣka gods'.",
+      "notes": "Locative plural governing both vaṇa and jois: 'in (the abodes of) the Vyantara and Jyotiṣka deities'."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal, beginningless (śāśvata)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya < Sanskrit śāśvata, 'perpetual, everlasting'.",
+      "notes": "With paḍimā forms the established term śāśvata-pratimā."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "image, icon (of a Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā < Sanskrit pratimā, 'image, likeness'; pra- > paḍi-.",
+      "notes": "Singular form used collectively for the whole class of such images."
+    },
+    {
+      "token": "પુણ",
+      "translit": "puṇa",
+      "gloss": "moreover, again, but",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit puṇa < Sanskrit punaḥ, 'again, further'.",
+      "notes": "Marks the contrast: those (countable) versus these (innumerable)."
+    },
+    {
+      "token": "અસંખા",
+      "translit": "asaṁkhā",
+      "gloss": "innumerable, beyond counting (asaṅkhya)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asaṁkhā < Sanskrit asaṅkhya(-ta), 'numberless' (a- 'not' + saṅkhyā 'enumeration').",
+      "notes": "A precise Jain cardinality-grade (asaṅkhyāta), not loose 'many' — see doctrinal note."
+    }
+  ],
+  "literalTranslation": "Fifty-five lakh, twenty-five thousand, and five hundred forty; likewise among the Vyantara and Jyotiṣka gods the eternal images are, moreover, innumerable.",
+  "idiomaticTranslation": "Five million five hundred twenty-five thousand five hundred and forty more — and beyond even these, in the dwellings of the Vyantara and Jyotiṣka gods, the everlasting Jina-images are past all counting.",
+  "elaboration": {
+    "verseByVerseCommentary": "Reading straight on from the preceding verse — which tallied the eternal images of the bhavanapati halls, the kalpa vimānas and the earth-disc in crores — this verse closes the arithmetic and then deliberately breaks it. The first line is pure enumeration: paṇāpanna lakkha, paṇāvīsa sahassa, pañca-sayā-u cālīsā — 55,25,540, a figure carried over and added to the great crore-counts just given, so that the two verses together fix the saṅkhyāta (countable) portion of the cosmos's undying Jina-icons. The poet's craft is to make even cold numbers an act of homage: each digit is one more shrine the reciter mentally circumambulates. Then taha ('likewise') swings the verse from the countable to the uncountable. Among the vaṇa (Vyantara) and jois (Jyotiṣka) gods — the interstitial spirits and the wheeling sun-moon-star deities, whose abodes are themselves beyond tally — the sāsaya paḍimā are puṇa asaṁkhā, 'moreover innumerable.' The single word asaṁkhā is the hinge of the whole couplet: where the upper and lower heavens yield a fixed sum, the Vyantara and Jyotiṣka worlds yield only the verdict 'numberless,' because their vimānas are themselves asaṅkhyāta. The devotional point lands precisely here — the worshipper has just bowed to a countable host and is now told the true total exceeds any reckoning, so the act of veneration must finally surrender the calculator and rest in awe.",
+    "doctrinalContext": "The verse turns on a technical distinction in Jain enumeration-theory: saṅkhyāta (numerable), asaṅkhyāta (innumerable but finite), and ananta (infinite). 'Asaṅkhā' here is the middle grade — not a vague 'lots,' but a precise category meaning the count is real yet uncountable by ordinary number, exactly as the Vyantara and Jyotiṣka vimānas are themselves asaṅkhyāta. Doctrinally this affirms the Śvetāmbara teaching of śāśvata (beginningless, authorless) Jina-images permanently enshrined throughout the loka and eternally worshipped by the gods — image-veneration is thus not a human invention but woven into the structure of the universe. The contrast countable-versus-innumerable also quietly enacts the limit of the saṁsārī intellect before cosmic reality.",
+    "practicalRelevance": "Recited in the Pakkhī (and, by carry-over, Cāumāsī and Sāṁvatsarī) confession, this couplet lets a layperson who may never reach a single distant tīrtha bow, in one breath, to millions of shrines and then to a host beyond counting — dissolving the ego's appetite to measure and possess, and replacing it with sheer reverence.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-Saṅgrahaṇī (Saṅgrahaṇī-ratna), verses enumerating the śāśvata-jina-bimbas of the four nikāyas",
+        "source": "Śrīcandrasūri / Devabhadrasūri recension, Śvetāmbara cosmographic tradition"
+      },
+      {
+        "text": "Sakalatīrtha-vandanā / Caityavandana, the recited total of eternal Jina-images of the three worlds",
+        "source": "Standard Śvetāmbara pratikramaṇa anthologies"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma behind the Prakrit forms: lakṣa, sahasra, śata, catvāriṁśat, pañcaviṁśati, jyotiṣka, sura, śāśvata, pratimā, asaṅkhya, tathā, punaḥ"
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — Bṛhat-Saṅgrahaṇī and śāśvata-bimba cosmography",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "The Śvetāmbara accounting of eternal Jina-images across bhavanapati, vyantara, jyotiṣka and vaimānika nikāyas, and the saṅkhyāta/asaṅkhyāta classification"
+    },
+    {
+      "title": "Jain cosmology — Wikipedia (four deva-nikāyas; asaṃkhyāta)",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "Identification of Vyantara and Jyotiṣka classes and the doctrine that their abodes are innumerable (asaṃkhyāta)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Numeral readings are secure: paṇāpanna=55, paṇāvīsa=25, pañca-sayā=500, cālīsā=40, giving 5,525,540 for line 1, which combines with the crore-counts of v.31. The exact realm-assignment of this 5,525,540 figure (and how it sums with v.31) varies across cosmographic recensions of the Bṛhat-Saṅgrahaṇī, and the widely-recited grand total (commonly cited as 15,42,58,36,080) differs in its lower digits from this edition's reading; the book's text is followed verbatim and not normalised to that total. 'vaṇa' is read as vāṇavyantara (the Vyantara class); 'asaṁkhā' is taken as the technical grade asaṅkhyāta (innumerable-yet-finite), not ananta (infinite). No verified colophon-level gloss for this specific gāthā was located online, hence confidence held below 0.9."
+}

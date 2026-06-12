@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/22",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the last six of the twenty-four Jinas who are still to be born — Yaśodhara, Vijaya, Malla, Deva, Anantavīrya and the auspicious Bhadra.",
+  "recitation": "jasahara vijayaṁ malliṁ, devuvvāyaṁ aṇaṁtaviriyaṁ ca | caüvīsa imaṁ bhaddaṁ, iya bhāvi jiṇe namaṁsāmi ||",
+  "wordByWord": [
+    {
+      "token": "જસહર",
+      "translit": "jasahara",
+      "gloss": "Yaśodhara (the 19th of the future Jinas)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. Yaśodhara, 'bearer of glory' — yaśas ('fame, glory') + dhara ('holder'); Prakrit drops the medial sibilant and shortens, giving jasahara.",
+      "notes": "Stem form standing for the accusative; the case is carried by the governing verb namaṁsāmi at the end."
+    },
+    {
+      "token": "વિજયં",
+      "translit": "vijayaṁ",
+      "gloss": "Vijaya (the 20th future Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. Vijaya, 'victory, the victorious one' — vi- + √ji ('to conquer'); accusative -aṁ.",
+      "notes": ""
+    },
+    {
+      "token": "મલ્લિં",
+      "translit": "malliṁ",
+      "gloss": "Malla (the 21st future Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. Malla, 'wrestler, champion'; accusative -iṁ in the Prakrit declension.",
+      "notes": "Not to be confused with Mallinātha, the 19th Jina of the present cycle; here Malla is a distinct future Tīrthaṅkara. The -i- vowel reflects the Prakrit accusative, not a separate name 'Malli'."
+    },
+    {
+      "token": "દેવુવ્વાયં",
+      "translit": "devuvvāyaṁ",
+      "gloss": "Deva (the 22nd future Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. Deva ('the divine one'); the extended Prakrit form likely encloses a second element uvvāya (< Skt. upapāta / utpāta, 'arising, manifestation'), i.e. 'Deva who has arisen', or is a metrically padded form of the bare name Deva.",
+      "notes": "Standard enumerations give the 22nd future Jina simply as 'Deva'; the exact decomposition of -uvvāya is not certain (see notes)."
+    },
+    {
+      "token": "અણંતવિરિયં",
+      "translit": "aṇaṁtaviriyaṁ",
+      "gloss": "Anantavīrya (the 23rd future Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. Ananta-vīrya, 'infinite valour/energy' — an-anta ('endless') + vīrya ('spiritual power, valour'); Prakrit aṇaṁta- + viriya-, accusative -aṁ.",
+      "notes": ""
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca, the connective conjunction; here closing the list of names in the first line.",
+      "notes": ""
+    },
+    {
+      "token": "ચઉવીસ",
+      "translit": "caüvīsa",
+      "gloss": "twenty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. caturviṁśati ('24'); Prakrit caüvīsa, the standard count of Tīrthaṅkaras in any one half-cycle.",
+      "notes": ""
+    },
+    {
+      "token": "ઇમં",
+      "translit": "imaṁ",
+      "gloss": "these (this set of)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. imam, accusative of the demonstrative idam ('this'); collectively pointing back to the whole list just named.",
+      "notes": ""
+    },
+    {
+      "token": "ભદ્દં",
+      "translit": "bhaddaṁ",
+      "gloss": "Bhadra (the 24th future Jina) / 'the auspicious'",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. bhadra, 'auspicious, good, blessed'; Prakrit bhadda, accusative -aṁ. Also given in fuller lists as Bhadrakṛt ('doer of good').",
+      "notes": "Deliberate double sense: bhaddaṁ names the 24th future Jina Bhadra and simultaneously qualifies the whole set as 'auspicious' — 'these auspicious twenty-four'."
+    },
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. iti, the quotative/summative particle; Prakrit iya, here sealing the enumeration ('having thus named them').",
+      "notes": ""
+    },
+    {
+      "token": "ભાવિ",
+      "translit": "bhāvi",
+      "gloss": "future, yet-to-come",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhāvin ('about to be, future'), from √bhū ('to become'); a synonym of anāgata, qualifying jiṇe.",
+      "notes": ""
+    },
+    {
+      "token": "જિણે",
+      "translit": "jiṇe",
+      "gloss": "the Jinas (object of the bow)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina ('conqueror', of attachment and aversion); Prakrit jiṇa, accusative plural -e.",
+      "notes": ""
+    },
+    {
+      "token": "નમંસામિ",
+      "translit": "namaṁsāmi",
+      "gloss": "I bow to, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. namasyāmi, 1st-person singular of the denominative namasya- ('to pay homage'), from namas ('obeisance'); Prakrit namaṁsāmi.",
+      "notes": "The single finite verb of the verse; it governs all the accusative names and jiṇe."
+    }
+  ],
+  "literalTranslation": "Yaśodhara, Vijaya, Malla, Deva(-upapāta) and Anantavīrya — these auspicious twenty-four, with Bhadra — thus I salute the future Jinas.",
+  "idiomaticTranslation": "Yaśodhara and Vijaya, Malla and Deva, and Anantavīrya too — these twenty-four blessed ones, Bhadra last of all: so do I bow to the Jinas who are yet to come.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the sealing verse of the future cohort. Where the preceding gāthā named Niṣkaṣāya, Niṣpulāka, Nirmama, Citragupta, Samādhi and Saṁvara (the 13th–18th), this one supplies the final six — Yaśodhara (19), Vijaya (20), Malla (21), Deva (22), Anantavīrya (23) and Bhadra (24) — and then, with caüvīsa imaṁ … iya bhāvi jiṇe namaṁsāmi, gathers the entire list into a single act of homage. The structure is deliberately cumulative: the first line is pure naming, strung together by the lone connective ca; the second line snaps the beads shut with the numeral caüvīsa ('these twenty-four') and the summative iya ('thus'). The pivot word is bhaddaṁ. It is at once the proper name of the 24th future Jina (Bhadra / Bhadrakṛt) and the adjective 'auspicious', so the line reads simultaneously as 'and Bhadra' and 'these auspicious twenty-four' — a small but characteristic Prakrit pun that lets the catalogue end on a note of blessing rather than a bare name. Note too that the names are not arbitrary: each carries meaning a reciter is meant to feel — Yaśodhara, the 'bearer of glory'; Anantavīrya, 'infinite spiritual energy'; Bhadra, 'the good'. The single verb namaṁsāmi, held back to the very last word, governs the whole sweep, so the verse is grammatically one long bow.",
+    "doctrinalContext": "The verse rests on the Jain teaching that the dharma-tīrtha is beginningless and endless: in every ascending half-cycle (utsarpiṇī) a fresh set of twenty-four Tīrthaṅkaras will arise, just as twenty-four have in the present descending one. To bow to Jinas not yet born is therefore not fanciful but doctrinally exact — homage is directed to the guṇas (the perfected qualities of vītarāgatā and omniscience) that each of these souls is destined to realise, not to a presently embodied teacher. This is why veneration of the anāgata Jinas stands on equal footing with the present and past sets: the object of worship is the state of Jinahood itself, which is the same across all time. The named virtues (ananta-vīrya, etc.) double as a quiet reminder of the soul's own latent infinite capacities.",
+    "practicalRelevance": "Reciting this verse, a worshipper extends devotion past the visible and the historical to what is purely a matter of faith — the Jinas of an age none of us will see. It trains śraddhā that is unconditioned by time, and invites the reciter to read each name as a quality to cultivate now: glory through virtue (Yaśodhara), boundless inner energy (Anantavīrya), and the auspicious goodness (Bhadra) that the verse's pun blesses the whole set with.",
+    "crossReferences": [
+      {
+        "text": "Samavāyāṅga Sūtra, enumeration of the twenty-four anāgata (future) Tīrthaṅkaras of the coming utsarpiṇī",
+        "source": "Śvetāmbara Āgama; Devardhigaṇi Kṣamāśramaṇa redaction"
+      },
+      {
+        "text": "Pravacanasāroddhāra, dvāra on the Tīrthaṅkaras of the three time-frames (atīta/vartamāna/anāgata)",
+        "source": "Nemicandrasūri, with Siddhasenasūri's vṛtti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "The doctrine of 24 Tīrthaṅkaras per half-cycle and the existence of a future (anāgata) set of 24 Jinas of the coming utsarpiṇī"
+    },
+    {
+      "title": "Anagata, Anāgata (definitions) — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/anagata",
+      "type": "dictionary",
+      "consultedFor": "Sense of bhāvi/anāgata as 'future, not yet come', glossing the verse's bhāvi jiṇe"
+    },
+    {
+      "title": "Namasya (definition) — Wisdom Library / Apte & Cologne lexicons",
+      "url": "https://www.wisdomlib.org/definition/namasya",
+      "type": "dictionary",
+      "consultedFor": "Root of namaṁsāmi — namasya ('to be bowed to, to pay homage'), from namas"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The six names confidently match the standard Śvetāmbara list of future Tīrthaṅkaras at positions 19–24 (Yaśodhara, Vijaya, Malla, Deva, Anantavīrya, Bhadra/Bhadrakṛt), and the preceding verse supplies #13–18 (Niṣkaṣāya … Saṁvara), confirming this verse closes the anāgata set. Two minor uncertainties: (1) devuvvāyaṁ — the bare name is 'Deva'; the element -uvvāya (Skt. upapāta/utpāta, 'arising') may be part of the name or a metrical padding, and is not securely attested. (2) malliṁ is the future Jina Malla (accusative), not the present-cycle Mallinātha. The pun on bhaddaṁ (name Bhadra / adjective 'auspicious') is intentional and preserved in translation. Orthography reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; mātrās and conjuncts not normalised."
+}

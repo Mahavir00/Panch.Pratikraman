@@ -1,0 +1,136 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "An unbroken chain of suffering keeps hurting a person badly only until this supreme mantra comes alive, fully present, within the heart.",
+  "recitation": "puruṣaṁ bādhate bāḍhaṁ, tāvat kleśa-paramparā | yāvan na mantrarājo'yaṁ, hṛdi jāgarti mūrtimān ||",
+  "wordByWord": [
+    {
+      "token": "પુરુષં",
+      "translit": "puruṣaṁ",
+      "gloss": "a person, a human being (the one afflicted)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit puruṣa (m.), accusative singular puruṣam; object of bādhate.",
+      "notes": "Accusative case marks the person as the one acted upon — the victim of the affliction."
+    },
+    {
+      "token": "બાધતે",
+      "translit": "bādhate",
+      "gloss": "torments, afflicts, presses upon, harasses",
+      "partOfSpeech": "verb",
+      "etymology": "√bādh 'to press, oppress, afflict'; ātmanepada present 3rd-person singular, bādhate.",
+      "notes": "Main verb of the first half-line; its subject is paramparā ('the succession ... afflicts')."
+    },
+    {
+      "token": "બાઢં",
+      "translit": "bāḍhaṁ",
+      "gloss": "intensely, severely, exceedingly",
+      "partOfSpeech": "adverb",
+      "etymology": "From bāḍha (firm, strong), past participle of √bandh/√bāh; used adverbially as 'strongly, very much'.",
+      "notes": "Intensifier of bādhate — the affliction is not mild but acute."
+    },
+    {
+      "token": "તાવત્",
+      "translit": "tāvat",
+      "gloss": "for so long, until that point, all the while",
+      "partOfSpeech": "adverb",
+      "etymology": "Correlative adverb tāvat, paired with yāvat ('as long as ... so long').",
+      "notes": "The tāvat ... yāvat (na) frame defines a strict temporal condition: the suffering lasts exactly as long as the awakening has not occurred."
+    },
+    {
+      "token": "ક્લેશ",
+      "translit": "kleśa",
+      "gloss": "affliction, suffering, distress, torment",
+      "partOfSpeech": "compound",
+      "etymology": "From √kliś 'to torment, be afflicted'; here the prior member of the compound kleśa-paramparā.",
+      "notes": "Bound with paramparā into a tatpuruṣa: 'a succession of afflictions'."
+    },
+    {
+      "token": "પરંપરા",
+      "translit": "paramparā",
+      "gloss": "an unbroken succession, a continuous chain, one-after-another series",
+      "partOfSpeech": "noun",
+      "etymology": "Reduplicative formation from para ('the next, the further'): para-am-para, 'each beyond the next'; feminine nominative singular.",
+      "notes": "Grammatical subject of bādhate: it is the chain of afflictions that does the tormenting."
+    },
+    {
+      "token": "યાવન્ન",
+      "translit": "yāvan na",
+      "gloss": "as long as ... not, until",
+      "partOfSpeech": "particle",
+      "etymology": "Sandhi of yāvat ('as long as') + na ('not'); the final -t of yāvat assimilates to -n before na.",
+      "notes": "Two tokens written as one through sandhi. With tāvat it completes the 'so long as X has not happened' construction."
+    },
+    {
+      "token": "મંત્રરાજોઽયં",
+      "translit": "mantrarājo'yaṁ",
+      "gloss": "this king of mantras (the supreme seed-mantra of Pārśva)",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of mantrarājaḥ (mantra-rāja, 'king among mantras', nominative) + ayam ('this'); visarga ḥ + a → o, with elided initial a marked by avagraha (ઽ).",
+      "notes": "Two tokens fused by sandhi: mantrarājaḥ + ayam. Subject of jāgarti. (The mantrarāja image is established in the preface; here it is the awaited awakener.)"
+    },
+    {
+      "token": "હૃદિ",
+      "translit": "hṛdi",
+      "gloss": "in the heart",
+      "partOfSpeech": "noun",
+      "etymology": "From hṛd ('heart'), locative singular hṛdi.",
+      "notes": "Locative of place — the interior site where the mantra must come alive, not merely the recited tongue."
+    },
+    {
+      "token": "જાગર્તિ",
+      "translit": "jāgarti",
+      "gloss": "awakens, is awake, stays vigilant, comes alive",
+      "partOfSpeech": "verb",
+      "etymology": "√jāgṛ 'to be awake, keep watch'; parasmaipada present 3rd-person singular, jāgarti.",
+      "notes": "The hinge verb: suffering ends precisely when the mantra 'wakes up' within. Implies a living, vigilant presence, not passive memorization."
+    },
+    {
+      "token": "મૂર્તિમાન્",
+      "translit": "mūrtimān",
+      "gloss": "embodied, having taken visible form, fully present",
+      "partOfSpeech": "adj",
+      "etymology": "From mūrti ('form, embodiment') + possessive suffix -mat (mūrti-mat), nominative singular masculine mūrtimān.",
+      "notes": "Predicative adjective qualifying mantrarāja: the mantra awakens not as abstract sound but as an embodied, personified sovereign within the heart."
+    }
+  ],
+  "literalTranslation": "The succession of afflictions torments a person severely for just so long, as long as this king of mantras does not awaken, embodied, in the heart.",
+  "idiomaticTranslation": "An endless chain of suffering grips a person hard — but only until this sovereign mantra stirs awake, taking living form within the heart; the moment it does, the torment loses its hold.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding verses laid out the technique — the seed-syllables, the navel-to-crown channel, the eight-petalled lotus, the pañcāṅga placement — this verse states the underlying law that makes the whole method intelligible. It is built on a single correlative hinge: tāvat ... yāvan na, 'so long ... as long as not.' The duration of suffering is bound exactly to the absence of one event. The grammatical subject is striking: it is not the world or karma in the abstract that afflicts, but kleśa-paramparā, a self-perpetuating *chain* — each affliction breeding the next without break. The intensifier bāḍhaṁ ('severely') refuses to soften the diagnosis. The release, equally precise, turns on jāgarti, 'awakens': the mantra-king must not merely be recited but come *awake* — vigilant, active — and mūrtimān, 'embodied,' not as bare sound but as a living, ruling presence. The locative hṛdi ('in the heart') relocates the entire contest from the outer world of dangers to the interior: the chain is cut not by removing external threats one by one, but by the interior awakening of the Name. Thus v.8 supplies the principle that v.9's litany of specific fears (disease, bondage, fire, water) will then illustrate as consequences.",
+    "doctrinalContext": "The verse encodes a characteristically Jain causal logic of liberation: suffering is not arbitrary but a continuous succession (paramparā) sustained by a cause, and it ceases when the counter-cause is present. Mapped onto Jain soteriology, the 'awakening' of the mantra-king in the heart corresponds to the inward turn from external dependence to one's own purified awareness — the mantra functioning as the focal seed of right-faith concentration. Notably the verse makes the decisive change *internal* (hṛdi, mūrtimān): protective grace is not transactional intervention from outside but a transformation of the practitioner's own inner state, consistent with the tradition's emphasis on self-effort and meditative absorption over petitionary magic.",
+    "practicalRelevance": "For the reciter, this verse reframes the smaraṇa: chanting is not a fee paid for protection but a means of letting the Name 'wake up' and take living residence in the heart. The practical test it offers is interior — has the mantra become a vigilant, embodied presence, or merely words on the tongue? It invites the practitioner to recite with the heart's attention until the recitation feels alive, treating persistent distress as a sign that the awakening is not yet complete rather than that the prayer has failed.",
+    "crossReferences": [
+      {
+        "text": "Upasargahara Stotra (Smaraṇa 4) and Namiūṇa Bhayahara Stotra (Smaraṇa 5) — the shared bhayahara theme of the Name dissolving affliction",
+        "source": "Nava Smaraṇa, as printed in Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Jīrāpallī Pārśva Stava v.9 (following verse) — the litany of great fears that this verse's principle governs",
+        "source": "Attributed to Merutuṅgasūri, same edition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Monier-Williams, s.v. √bādh (bādhate)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0189-bAdha.pdf",
+      "type": "dictionary",
+      "consultedFor": "Verbal root √bādh 'to press, oppress, afflict, torment' and the ātmanepada present form bādhate."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Monier-Williams, s.v. √jāgṛ (jāgarti)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0415-jAg.r.pdf",
+      "type": "dictionary",
+      "consultedFor": "Verbal root √jāgṛ 'to be awake, keep watch' and the parasmaipada present form jāgarti."
+    },
+    {
+      "title": "Parshvanatha — the 23rd Tīrthaṅkara and his śāsana-devatās",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Pārśvanātha and the devotional context of his mantra (mantrarāja) and protective stotras."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is in classical Sanskrit (anuṣṭubh), not Prakrit. Subject of bādhate is kleśa-paramparā (the affliction-chain afflicts the person), not the reverse. Two tokens are sandhi-fused: યાવન્ન = yāvat + na, and મંત્રરાજોઽયં = mantrarājaḥ + ayam (visarga sandhi with avagraha). jāgarti is here read intransitively, 'awakens / is awake / comes alive,' rather than as a causative; the simplex carries 'be wakeful, be vigilant,' which suits the embodied (mūrtimān) presence in the heart. mūrtimān is taken as a predicative adjective of mantrarāja ('the mantra-king, embodied'). The verse states the general principle that the following verse (v.9) illustrates through the named great fears; per the preface the mantrarāja-in-the-heart imagery is established sutra-level framing and is not re-expounded here. Reading follows the verbatim text as printed in the source book."
+}

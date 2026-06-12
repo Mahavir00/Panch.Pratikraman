@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/92",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On the peak of the great mountain Ābu, the minister Vimala built a spotless Jina temple, made glorious by figures of his ten forefathers riding lordly elephants.",
+  "recitation": "abbua girivara sihare, jiṇa bhavaṇaṁ vimala ṭhāviyaṁ vimalaṁ. vimala piyarehiṁ dasahiṁ, gayaṁda rūḍhehiṁ kaya mahimaṁ.",
+  "wordByWord": [
+    {
+      "token": "અબ્બુઅ",
+      "translit": "abbua",
+      "gloss": "Arbuda — Mount Ābu (the holy mountain in present-day Sirohi, Rajasthan)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit abbua < Sanskrit arbuda (अर्बुद), the proper name of the mountain; the doubled -bb- is the regular Prakrit assimilation of the conjunct -rb-.",
+      "notes": "The classical Jain name Arbuda-giri; modern Gujarati/Hindi Ābu."
+    },
+    {
+      "token": "ગિરિવર",
+      "translit": "girivara",
+      "gloss": "best of mountains, the excellent mountain",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit giri (mountain) + vara (best, excellent); a tatpuruṣa/karmadhāraya praising Arbuda as foremost among peaks."
+    },
+    {
+      "token": "સિહરે",
+      "translit": "sihare",
+      "gloss": "on the peak, on the summit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sihara < Sanskrit śikhara (शिखर, peak); locative singular ‘on the peak’.",
+      "notes": "Locates the shrine on the mountain’s crest — the Dilwara plateau of Ābu."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "of the Jina (the conqueror, Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina (जिन), ‘conqueror’ (of passions); here the first member of the compound ‘jiṇa-bhavaṇaṁ’."
+    },
+    {
+      "token": "ભવણં",
+      "translit": "bhavaṇaṁ",
+      "gloss": "temple, abode, dwelling",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa < Sanskrit bhavana (भवन, dwelling, mansion); accusative singular, object of ‘ṭhāviyaṁ’. ‘Jiṇa-bhavaṇaṁ’ = the house of the Jina, a Jina-shrine.",
+      "notes": "Synonym in this hymn for caitya/derāsar (the temple housing the Jina image)."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala — the minister and temple-founder",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name, Sanskrit Vimala (विमल, ‘spotless’); the historical Vimala-mantrī (Vimala Shah), minister of the Caulukya king Bhīma I.",
+      "notes": "Here the agent who ‘established’ the shrine; the poet immediately puns on the adjective ‘vimalaṁ’."
+    },
+    {
+      "token": "ઠાવિયં",
+      "translit": "ṭhāviyaṁ",
+      "gloss": "(was) established, set up, founded",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past participle ṭhāvia < Sanskrit sthāpita (स्थापित), causative of √sthā ‘to stand’; agreeing with bhavaṇaṁ (acc./predicate)."
+    },
+    {
+      "token": "વિમલં",
+      "translit": "vimalaṁ",
+      "gloss": "spotless, stainless, pure (describing the temple)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vimala (विमल) = vi- (free from) + mala (stain); accusative qualifying bhavaṇaṁ.",
+      "notes": "A deliberate yamaka (pun): the temple founded by Vimala is itself vimala — both ‘Vimala’s’ and ‘spotless’, evoking the white-marble shrine."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "of Vimala (the founder’s name, repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "Same proper name Vimala; here in genitive sense within the compound, ‘Vimala’s (forefathers)’.",
+      "notes": "The third occurrence of the syllable-cluster vimala in two lines drives the verse’s sound-play."
+    },
+    {
+      "token": "પિયરેહિં",
+      "translit": "piyarehiṁ",
+      "gloss": "by the forefathers / elders / kinsmen",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit piyara < Sanskrit pitṛ (पितृ, father/ancestor); instrumental plural piyarehiṁ = ‘by the fathers/ancestors’.",
+      "notes": "Refers to the ancestral/family figures memorialised in the temple’s elephant hall (hastiśālā)."
+    },
+    {
+      "token": "દસહિં",
+      "translit": "dasahiṁ",
+      "gloss": "by ten",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dasa < Sanskrit daśa (दश, ten); instrumental plural agreeing with piyarehiṁ — ‘by ten forefathers’.",
+      "notes": "Matches the ten carved marble elephants of the Vimala-vasahī hastiśālā, each bearing a family figure."
+    },
+    {
+      "token": "ગયંદ",
+      "translit": "gayaṁda",
+      "gloss": "lordly elephants, king-elephants",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit gayaṁda < Sanskrit gajendra (गजेन्द्र) = gaja (elephant) + indra (lord/chief); first member of ‘gayaṁda-rūḍhehiṁ’."
+    },
+    {
+      "token": "રુઢેહિં",
+      "translit": "rūḍhehiṁ",
+      "gloss": "mounted (upon), seated (on the elephants)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit rūḍha < Sanskrit rūḍha (रूढ), past participle of √ruh ‘to mount, ascend’; instrumental plural agreeing with piyarehiṁ — ‘by [the forefathers] mounted [on elephants]’."
+    },
+    {
+      "token": "કય",
+      "translit": "kaya",
+      "gloss": "made, rendered, brought about",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit kaya < Sanskrit kṛta (कृत), past participle of √kṛ ‘to do/make’; here ‘by whom the majesty was made’."
+    },
+    {
+      "token": "મહિમં",
+      "translit": "mahimaṁ",
+      "gloss": "glory, grandeur, majestic splendour",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahima < Sanskrit mahiman (महिमन्, greatness); accusative ‘the glory/majesty (of the shrine)’.",
+      "notes": "‘Kaya-mahimaṁ’ = ‘whose magnificence was created’ — the visual splendour the elephant-figures lend the temple."
+    }
+  ],
+  "literalTranslation": "On the peak of Arbuda, the best of mountains, a spotless Jina-temple was established by Vimala; its majesty was made by ten forefathers of Vimala, mounted upon lordly elephants.",
+  "idiomaticTranslation": "High on the crest of glorious Mount Ābu, the minister Vimala raised a stainless temple of the Jina — and ten of his forefathers, carved astride mighty elephants, lend it all its splendour.",
+  "elaboration": {
+    "verseByVerseCommentary": "The garland now reaches Mount Ābu, and the poet greets its most celebrated shrine — the Vimala-vasahī, the white-marble temple to Ṛṣabhanātha raised by the Caulukya minister Vimala (Vimala Shah, c. 1031 CE). The whole verse turns on a single sound: vimala. Vimala the man founds a bhavaṇa that is vimalaṁ — ‘spotless’ — so that founder and foundation share one name; the pun quietly insists that a pure-hearted patron yields a pure shrine, an image perfectly fitted to Dilwara’s flawless white stone. The second line is documentary as much as devotional: ‘ten forefathers of Vimala, mounted on lordly elephants (gayaṁda-rūḍha), made its majesty.’ This is the hymn pointing at a thing one can still see — the hastiśālā (elephant hall), a row of carved marble elephants each bearing a figure of Vimala’s lineage. Where most verses of this stavan offer a legend (Ṛṣabha at Aṣṭāpada, Nemi at Girnar), here Mahendrasiṁhasūri records the temple’s actual sculpture, so that the recited word and the pilgrim’s eye meet. Note too the placement on the sihara, the ‘peak’: the shrine crowns the mountain as the Jina crowns the worshipper’s aspiration. The verse opens the Ābu sub-sequence; the next gāthā will turn to the second great temple there, the Lūṇa-vasahī of Vastupāla, so verse 92 deliberately establishes Vimala’s as the elder, founding glory of the site.",
+    "doctrinalContext": "The verse celebrates jina-bhavana-nirmāṇa — the building and adorning of a temple — as an act of supreme lay merit (puṇya) and an expression of devotion (bhakti). In Jain ethics the householder’s wealth finds its highest use in the seven kṣetras (fields of giving), of which Jina-image and Jina-temple are foremost; Vimala’s shrine is the model of such dāna. The memorial elephant-figures of his ‘forefathers’ also voice the doctrine that meritorious building extends its fruit to one’s lineage and that gratitude to ancestors is itself wholesome. The pun vimala/vimalaṁ carries a subtle teaching: outward splendour (the marble, the elephants, the mahima) is praiseworthy only as the visible sign of inner vimalatā — the stainlessness of right faith — toward which all pilgrimage points.",
+    "practicalRelevance": "For today’s reciter the verse is a verbal visit to Dilwara: chanting it, one bows to Ṛṣabha at Ābu and recalls that wealth devoted to the Jina’s house outlasts its donor. It invites the householder to ask what ‘spotless’ thing their own resources might raise, and to honour those who came before — turning a tourist’s marble marvel back into an object of reverence.",
+    "crossReferences": [
+      {
+        "text": "Following verse (ashtottari-tirthmala/93): the second Ābu temple, the Lūṇa-vasahī founded by Vastupāla",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava): praise of Ṛṣabha as first of the 24 Tīrthaṅkaras, to whom the Vimala-vasahī is dedicated",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dilwara Temples — Vimal Vasahi (founded by Vimal Shah, by 1031; Hastishala/elephant hall)",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples",
+      "type": "scholarship",
+      "consultedFor": "Identification of the shrine, its founder Vimala, date c.1031, dedication to Ṛṣabha (Adinath), and the ten marble elephants of the hastiśālā bearing family figures."
+    },
+    {
+      "title": "Mount Abu (Arbuda) — sacred geography and the Dilwara Jain temples",
+      "url": "https://en.wikipedia.org/wiki/Mount_Abu",
+      "type": "scholarship",
+      "consultedFor": "Equation of Prakrit Abbua / Sanskrit Arbuda with Mount Ābu and its standing as a Jain tīrtha."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams) — arbuda, śikhara, sthāpita, gajendra, rūḍha, mahiman",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymons underlying the Prakrit tokens abbua, sihare, ṭhāviyaṁ, gayaṁda, rūḍhehiṁ, mahimaṁ."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is securely identifiable as the Vimala-vasahī of Mount Ābu (Dilwara), founded by the minister Vimala (Vimala Shah) c.1031 CE and dedicated to Ṛṣabhanātha. 'piyarehiṁ' (Skt. pitṛ) is rendered 'forefathers/elders/kinsmen'; the ten figures are traditionally read as Vimala's ancestors/family on the carved elephants of the hastiśālā — historically the elephant hall is dated to a later embellishment (mid-12th c. CE, attributed to Pṛthvīpāla, a descendant), so the 13th-century hymn describes the temple as it then stood, with the elephant-figures already in place. The wordplay vimala (proper name) / vimalaṁ ('spotless') is intentional and is preserved in translation. Minor orthographic variants (e.g. gayaṁda for gayinda, rūḍha spellings) may occur across editions; the Anchalgachchha/Vidhipaksha book reading is followed verbatim. 'mahimaṁ' is taken as 'glory/majesty (created for the shrine)'."
+}

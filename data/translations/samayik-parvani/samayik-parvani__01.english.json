@@ -1,0 +1,174 @@
+{
+  "shlokaId": "samayik-parvani/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whatever wrong I have bound in my mind, spoken with my words, or done with my body — may all of it be undone.",
+  "recitation": "Jaṁ jaṁ maṇeṇa baddhaṁ, jaṁ jaṁ vāyāe bhāsiyaṁ pāvaṁ; kāeṇa vi dukkayaṁ, micchā mi dukkaḍaṁ tassa.",
+  "wordByWord": [
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever, whichever (sin)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun jaṁ < Sanskrit yad (neuter), correlated with tassa (tad) later in the line.",
+      "notes": "Neuter singular agreeing with pāvaṁ / dukkayaṁ."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever (repeated for emphasis: 'each and every')",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reduplication of jaṁ < yad; the doubling is distributive, sweeping in every instance without exception.",
+      "notes": "The repetition is intentional, not scribal — it stresses totality."
+    },
+    {
+      "token": "મણેણ",
+      "translit": "maṇeṇa",
+      "gloss": "by the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental singular of maṇa < Sanskrit manas ('mind'); Prakrit -eṇa = Sanskrit instrumental -ena.",
+      "notes": "First of the three instruments (trikaraṇa): mind, speech, body."
+    },
+    {
+      "token": "બદ્ધં",
+      "translit": "baddhaṁ",
+      "gloss": "bound, contracted (i.e. karma bound)",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle baddha < √bandh ('to bind'); cognate with Sanskrit baddha.",
+      "notes": "The verb chosen for the mind is 'bound' — fault begun in thought is literally karma fastened to the soul."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun jaṁ < Sanskrit yad, opening the second (speech) clause.",
+      "notes": ""
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever (repeated for emphasis)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reduplication of jaṁ < yad; parallels the doubling in the first clause.",
+      "notes": ""
+    },
+    {
+      "token": "વાયાએ",
+      "translit": "vāyāe",
+      "gloss": "by speech, with words",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental singular of vāyā < Sanskrit vāc / vākyā ('speech'); Prakrit -āe = feminine instrumental.",
+      "notes": "Second instrument of the trikaraṇa."
+    },
+    {
+      "token": "ભાસિયં",
+      "translit": "bhāsiyaṁ",
+      "gloss": "spoken, uttered",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle bhāsiya < √bhāṣ ('to speak'); = Sanskrit bhāṣita.",
+      "notes": "Verb matched to speech: sin 'spoken'."
+    },
+    {
+      "token": "પાવં",
+      "translit": "pāvaṁ",
+      "gloss": "sin, evil, demerit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāva < Sanskrit pāpa ('sin, evil'); neuter singular, the object governing both jaṁ clauses.",
+      "notes": "Stated once but understood across the mind- and speech-clauses alike."
+    },
+    {
+      "token": "કાએણવિ",
+      "translit": "kāeṇa vi",
+      "gloss": "by the body as well",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of kāeṇa + vi. kāeṇa = instrumental of kāya ('body') < Sanskrit kāya; vi = Prakrit emphatic particle < Sanskrit api ('also, even, too').",
+      "notes": "Two tokens written together: the third instrument (body) plus 'too', drawing the triad to a close."
+    },
+    {
+      "token": "દુક્કયં",
+      "translit": "dukkayaṁ",
+      "gloss": "ill-done, wrongly committed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dukkaya < Sanskrit duṣkṛta ('badly done, misdeed'), from dus- ('ill') + kṛta ('done'). Distinct from duḥkha ('pain').",
+      "notes": "Verb matched to the body: sin 'done'. Note the deliberate verb-gradation baddhaṁ → bhāsiyaṁ → dukkayaṁ."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, void, in vain",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit micchā < Sanskrit mithyā ('falsely, vainly'); here adverbial — 'may it be made null'.",
+      "notes": ""
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "by me, mine",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit enclitic mi < Sanskrit me ('my, by me'), first-person genitive/instrumental.",
+      "notes": "Personalizes the retraction: the misdeed is owned as the speaker's own."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed, wrong-doing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa < Sanskrit duṣkṛta ('misdeed'); the same root as dukkayaṁ above, here as the noun in the fixed formula.",
+      "notes": "micchā + mi + dukkaḍaṁ = the standard retraction-formula = Sanskrit mithyā me duṣkṛtam."
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "of that, regarding that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive singular of the demonstrative ta < Sanskrit tasya ('of that'); correlative to the opening jaṁ.",
+      "notes": "Singular 'of that' gathers every fault of mind, speech and body into one object of renunciation."
+    }
+  ],
+  "literalTranslation": "Whatever sin has been bound by the mind, whatever sin has been spoken by speech, and whatever has been ill-done by the body too — of that, my misdeed, may it be void.",
+  "idiomaticTranslation": "Whatever evil I have fastened in my mind, whatever evil my tongue has uttered, and whatever my body has wrongly done — for all of it I withdraw my deed: may my misdeed come to nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse opens the recitation by funnelling every conceivable fault through the three instruments of action — mind, speech, body (trikaraṇa) — and then disowning all of them in a single breath. Its artistry lies in the verb chosen for each instrument. The mind's sin is baddhaṁ, 'bound': a fault conceived in thought is already karma fastened to the soul, even before a word or gesture follows. Speech's sin is bhāsiyaṁ, 'spoken': it escapes into the world as utterance. The body's sin is dukkayaṁ, 'ill-done': it is enacted, completed. Reading the three verbs in order — bound, spoken, done — traces a fault's whole career from inner intention to outward act, so that nothing in the chain escapes confession. The doubled jaṁ jaṁ ('whatever, whatever') refuses every loophole; pāvaṁ ('sin') is named only once but governs both the mind- and speech-clauses, while vi ('too') in kāeṇa vi pointedly adds the body so the triad is sealed. The line then resolves into the tradition's retraction-formula, micchā mi dukkaḍaṁ — 'may my misdeed be void' — with the singular tassa ('of that') collecting the scattered faults into one object that is set aside at once. The first-person mi keeps the act personal: this is not a general lament but the reciter owning and annulling his own deeds.",
+    "doctrinalContext": "The verse rests on the Jain teaching that karmic bondage (bandha) arises through yoga — the activity of mind, speech and body — driven by the passions. By confessing along exactly these three channels the reciter performs ālocanā (disclosure) and then nindā/garhā (self-censure and renunciation): the heart of the fourth Āvaśyaka. The formula micchā mi dukkaḍaṁ (Sanskrit mithyā me duṣkṛtam, 'may my misdeed become null') does not magically erase karma; it expresses saṁvara — the resolve that the fault, disowned, will bear no further fruit and will not be repeated. The pairing of baddhaṁ with the mind is doctrinally precise: Jainism holds that even unexpressed mental wrong binds karma, so the confession must begin there.",
+    "practicalRelevance": "As the reciter winds up the equanimity-vow, this verse is a quick, total self-audit: pause and ask 'what did I think, say, and do wrongly?' — then let each go with micchā mi dukkaḍaṁ. Said sincerely rather than by rote, it carries the balance just practised out into daily speech and conduct.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyaṁ — the movement-confession that also closes on micchā mi dukkaḍaṁ",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      },
+      {
+        "text": "Tassa-uttari (purification of self through self-censure, nindā and garhā by kāyotsarga)",
+        "source": "Āvaśyaka tradition (fourth/fifth Āvaśyaka)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Micchami Dukkadam",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "Prakrit→Sanskrit equivalence micchā mi dukkaḍaṁ = mithyā me duṣkṛtam and its 'may my misdeed be void' sense."
+    },
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "The threefold (mind/speech/body) confession framework and the role of retraction within pratikramaṇa."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Hargovind Das T. Sheth), Prakrit-Hindi dictionary (scan)",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "Prakrit roots baddha (√bandh), bhāsiya (bhāṣita), dukkaya/dukkaḍa (duṣkṛta), and instrumental forms maṇeṇa/vāyāe/kāeṇa."
+    },
+    {
+      "title": "ISJS Online Prakrit Dictionary",
+      "url": "https://prakritdictionary.isjs.in",
+      "type": "dictionary",
+      "consultedFor": "Cross-check of pāva (pāpa), vi (api), and the relative/demonstrative jaṁ…tassa (yad…tasya) correlation."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "This is a widely transmitted Prakrit gāthā; the Anchalgachchha book's verbatim reading writes કાએણવિ (kāeṇa + vi) as a single sandhi-unit and pāvaṁ once though it governs both relative clauses — both preserved here, not normalized. dukkayaṁ here is duṣkṛta ('ill-done'), NOT duḥkha ('pain'); some online glossaries conflate them. Variant recensions read 'kāeṇa kammuṇaṁ' or add 'tassa micchā mi dukkaḍaṁ' differently; this gloss follows the book's wording. Cited URLs are general/encyclopedic and dictionary-level rather than a critical edition of this exact gāthā; treat fine points of recension as approximate."
+}

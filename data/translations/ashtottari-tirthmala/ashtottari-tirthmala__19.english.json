@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/19",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the first four Tīrthaṅkaras of the age to come — Lord Padmanābha, Sūradeva, the third one named Supārśva, and the fourth, Svayaṁprabha.",
+  "recitation": "siri paümanāha nāhaṁ, vandāmi sūradeva titthayaraṁ. taïyaṁ supāsa nāmaṁ, sayaṁpaha jiṇaṁ tahā turīyaṁ.",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, blessed (honorific prefix to the holy name)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Sanskrit śrī ('splendour, auspiciousness'); a standard reverential title before a Jina's name.",
+      "notes": "Functions here as the auspicious honorific opening the salutation."
+    },
+    {
+      "token": "પઉમનાહ",
+      "translit": "paümanāha",
+      "gloss": "Padmanābha (the first Tīrthaṅkara of the coming cycle)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paüma (< padma, 'lotus') + nāha (< nātha, 'lord') = 'lotus-lord'; the name of the first anāgata Jina.",
+      "notes": "Tradition identifies Padmanābha as the future rebirth of King Śreṇika (Bimbisāra), Mahāvīra's devotee."
+    },
+    {
+      "token": "નાહં",
+      "translit": "nāhaṁ",
+      "gloss": "the Lord (accusative, object of 'I salute')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nāha < Sanskrit nātha ('protector, lord'); accusative singular -aṁ.",
+      "notes": "Stands in apposition, restating Padmanābha as 'the Lord' whom the reciter bows to."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow to, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit/Sanskrit √vand ('to praise, venerate'); first-person singular present, vandāmi.",
+      "notes": "The single finite verb governing every name in the verse — the recurring gesture of homage."
+    },
+    {
+      "token": "સૂરદેવ",
+      "translit": "sūradeva",
+      "gloss": "Sūradeva (the second future Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "sūra ('sun; hero') + deva ('god, shining one') = 'sun-god'; name of the second anāgata Jina.",
+      "notes": ""
+    },
+    {
+      "token": "તિત્થયરં",
+      "translit": "titthayaraṁ",
+      "gloss": "Tīrthaṅkara (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit titthayara < tīrthaṅkara ('ford-maker'); accusative singular.",
+      "notes": "Glossed in the preface; applied here to Sūradeva to mark him as a future ford-maker."
+    },
+    {
+      "token": "તઇયં",
+      "translit": "taïyaṁ",
+      "gloss": "the third (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit taïya < Sanskrit tṛtīya ('third'); accusative singular, agreeing with the implied 'Jina'.",
+      "notes": "An ordinal used to thread the names like beads — counting off the future Jinas."
+    },
+    {
+      "token": "સુપાસ",
+      "translit": "supāsa",
+      "gloss": "Supārśva (the third future Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "su- ('good, fair') + pāsa (< pārśva, 'side, flank') = 'fair-sided'; name of the third anāgata Jina.",
+      "notes": "Shares its name with the 7th Jina of the present cycle, but is a distinct future Tīrthaṅkara."
+    },
+    {
+      "token": "નામં",
+      "translit": "nāmaṁ",
+      "gloss": "by name, named",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nāma < Sanskrit nāman ('name'); used adverbially, 'named, called'.",
+      "notes": "Marks 'Supārśva' explicitly as the proper name of the third."
+    },
+    {
+      "token": "સયંપહ",
+      "translit": "sayaṁpaha",
+      "gloss": "Svayaṁprabha (the fourth future Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "sayaṁ ('self', < svayam) + paha ('radiance', < prabhā) = 'self-luminous'; name of the fourth anāgata Jina.",
+      "notes": ""
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina ('conqueror', from √ji, 'to conquer'); accusative singular.",
+      "notes": "Epithet attached to Svayaṁprabha — conqueror of attachment, aversion and delusion."
+    },
+    {
+      "token": "તહા",
+      "translit": "tahā",
+      "gloss": "and likewise, and so too",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tahā < Sanskrit tathā ('thus, likewise'); connective adverb.",
+      "notes": "Links the fourth name into the same act of bowing."
+    },
+    {
+      "token": "તુરીયં",
+      "translit": "turīyaṁ",
+      "gloss": "the fourth (one)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit turīya < Sanskrit turīya/turya ('fourth'); accusative singular, agreeing with 'jiṇaṁ'.",
+      "notes": "Completes the ordinal counting begun with 'third' (taïyaṁ)."
+    }
+  ],
+  "literalTranslation": "The glorious Lord Padmanābha I salute, (and) the Tīrthaṅkara Sūradeva; the third, named Supārśva, and likewise the fourth, the Jina Svayaṁprabha.",
+  "idiomaticTranslation": "I bow to the glorious Lord Padmanābha and to the Tīrthaṅkara Sūradeva; to the third, named Supārśva, and likewise to the fourth, the Jina Svayaṁprabha.",
+  "elaboration": {
+    "verseByVerseCommentary": "With this verse the garland turns from the present age to the age yet to come: having just sealed the present twenty-four with Vīra at the close of the previous verse, the poet now opens the roll of the anāgata (future) Tīrthaṅkaras and will continue through to verse 22. He names them strictly in order, using the ordinals 'third' (taïyaṁ) and 'fourth' (turīyaṁ) like knots that tie each new bead onto the thread — a counting device the next verse keeps up as it reaches the fifth onward. The four named are Padmanābha, Sūradeva, Supārśva and Svayaṁprabha, the opening quartet of the coming twenty-four. The single verb vandāmi ('I bow') carries the whole line, so each name is folded into one continuous act of homage. Note the layered honour given to the first: siri… nāhaṁ frames Padmanābha as 'the glorious Lord', while Sūradeva is dignified as titthayaraṁ and Svayaṁprabha as jiṇaṁ — the poet rotates the three great titles (Lord, Tīrthaṅkara, Jina) across the four so the verse does not merely list but venerates. Most striking to a devotee is Padmanābha himself: tradition holds him to be the future birth of King Śreṇika (Bimbisāra), Mahāvīra's foremost royal devotee, who through the working of karma must first pass through a hell-life before rising as the first ford-maker of the next ascending cycle. To bow to him is thus to bow across the whole sweep of time, and to a soul who was once a listener at Mahāvīra's feet.",
+    "doctrinalContext": "The verse rests on the Jain cosmological doctrine that Tīrthaṅkaras are not unique historical accidents but a recurring cosmic institution: just as twenty-four arose in the present descending half-cycle (avasarpiṇī), twenty-four more will arise in the coming ascending half-cycle (utsarpiṇī). Right faith (samyag-darśana) therefore embraces the Jinas of all three times — past, present and to-come — and bowing to Jinas not yet born is itself an act of reverence and aspiration, not anticipation of reward. The Padmanābha–Śreṇika identification carries a sharp doctrinal lesson: even a soul still bound to ripen old karma in hell is destined for ford-making and liberation, illustrating both the inexorability of karmic fruit and the certainty that accumulated merit and right faith culminate in Jina-hood.",
+    "practicalRelevance": "For the reciter, this verse stretches devotion beyond the familiar twenty-four to the Jinas of the future, training the mind to venerate the path itself rather than only its present figures. Dwelling on Padmanābha-as-Śreṇika offers concrete hope: an ordinary devout layperson, for all his karmic burden, becomes a Tīrthaṅkara — so one's own faltering practice is never wasted.",
+    "crossReferences": [
+      {
+        "text": "Lists of the anāgata (future) twenty-four Tīrthaṅkaras of the coming utsarpiṇī",
+        "source": "Samavāyāṅga / Sthānāṅga Sūtra traditions; cf. Tiloya-paṇṇatti"
+      },
+      {
+        "text": "Prophecy of King Śreṇika's (Bimbisāra's) rebirth as the future Tīrthaṅkara Padmanābha",
+        "source": "Śvetāmbara narrative tradition; Kalpa-sūtra commentaries"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Definition of Tīrthaṅkara/Jina and the utsarpiṇī/avasarpiṇī cycle of twenty-four ford-makers per half time-cycle"
+    },
+    {
+      "title": "What is the full list of the future 24 Tirthankaras",
+      "url": "https://jainknowledge.com/question/25634/what-is-the-full-list-of-the-future-24-tirthankaras",
+      "type": "scholarship",
+      "consultedFor": "Śvetāmbara ordering of the future twenty-four, confirming Padmanābha, Sūradeva, Supārśva and Svayaṁprabha as the first four"
+    },
+    {
+      "title": "Jain Rūp Maṇḍan (booktext) — future Tīrthaṅkara name-lists",
+      "url": "https://jainqq.org/booktext/Jain_Rup_Mandan/001961",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking Śvetāmbara vs Digambara variants of the future twenty-four and verifying the verse's sequence against the following verse (Sarvānubhūti, Devaśruta, Udaya, Pedhāla…)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The names of the first four future (anāgata) Tīrthaṅkaras are securely confirmed both by external Śvetāmbara lists and internally by the following verse, which continues with Sarvānubhūti, Devaśruta, Udaya and Pedhāla (positions 5–8). 'નાહં' (nāhaṁ) is read as an appositional 'lord' restating Padmanābha; because the name પઉમનાહ already ends in -nāha ('-nātha'), some editions may instead parse the line so that 'siri paümanāha-nāhaṁ' is a single epithet ('the glorious Lord Padmanābha') — the devotional sense is unaffected. The Padmanābha–Śreṇika identification follows the authoritative Śvetāmbara narrative tradition; no verse-internal evidence states it, so it is given as tradition. Orthography (e.g. તઇયં, સયંપહ, anusvāras and short/long mātrās) is retained verbatim from the source book and not normalised."
+}

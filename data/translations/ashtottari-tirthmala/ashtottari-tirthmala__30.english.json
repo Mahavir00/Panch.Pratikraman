@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/30",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse counts the everlasting Jina images enshrined across the cosmos — one hundred eighty in each heavenly shrine, one hundred twenty-four in each shrine on the holy isle of Nandīśvara, and one hundred twenty in every other shrine of the middle world.",
+  "recitation": "miliyaṁ sayaṁ asīyaṁ, cauvīsa sayaṁ tu nandīsara dīve | pai ceiya sesesu, vīsa sayaṁ paḍima tiriyaloe ||",
+  "wordByWord": [
+    {
+      "token": "મિલિયં",
+      "translit": "miliyaṁ",
+      "gloss": "added together, combined, in sum (i.e. the running total)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle of mil ('to join, unite, add up'); Skt. milita.",
+      "notes": "Signals that the foregoing partial counts are now being totalled."
+    },
+    {
+      "token": "સયં",
+      "translit": "sayaṁ",
+      "gloss": "one hundred (100)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śata ('hundred'); here the base on which the unit-numbers below are stacked.",
+      "notes": "With asīyaṁ it yields 180."
+    },
+    {
+      "token": "અસીયં",
+      "translit": "asīyaṁ",
+      "gloss": "eighty (80)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aśīti ('eighty'); Prakrit asīi/asīya.",
+      "notes": "sayaṁ asīyaṁ = one hundred and eighty (180)."
+    },
+    {
+      "token": "ચઉવીસ",
+      "translit": "cauvīsa",
+      "gloss": "twenty-four (24)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. caturviṁśati ('twenty-four'); Prakrit cauvīsa.",
+      "notes": "With the following sayaṁ it yields 124."
+    },
+    {
+      "token": "સયં",
+      "translit": "sayaṁ",
+      "gloss": "one hundred (100)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śata ('hundred').",
+      "notes": "cauvīsa sayaṁ = one hundred twenty-four (124)."
+    },
+    {
+      "token": "તુ",
+      "translit": "tu",
+      "gloss": "but, however (contrastive); and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit tu, an emphatic-contrastive particle.",
+      "notes": "Marks the shift from the heavenly count to the Nandīśvara count."
+    },
+    {
+      "token": "નંદીસર",
+      "translit": "nandīsara",
+      "gloss": "Nandīśvara (the eighth continent of the middle world)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Nandīśvara ('lord of joy'); Prakrit nandīsara.",
+      "notes": "A śāśvata pilgrimage-isle famed for its 52 eternal shrines, accessible only to the gods."
+    },
+    {
+      "token": "દીવે",
+      "translit": "dīve",
+      "gloss": "on/in the island-continent (dvīpa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dvīpe (locative of dvīpa, 'island, continent'); Prakrit dīva.",
+      "notes": "nandīsara dīve = 'on Nandīśvara dvīpa'."
+    },
+    {
+      "token": "પઇ",
+      "translit": "pai",
+      "gloss": "per, for each, in every",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. prati ('each, every; with respect to'); Prakrit pai/paï.",
+      "notes": "Distributive: pai ceiya = 'per shrine'."
+    },
+    {
+      "token": "ચેઇય",
+      "translit": "ceiya",
+      "gloss": "shrine, temple (caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. caitya; Prakrit ceiya.",
+      "notes": "Glossary term; here distributed by pai as 'each shrine'."
+    },
+    {
+      "token": "સેસેસુ",
+      "translit": "sesesu",
+      "gloss": "among the remaining ones (the other shrines)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śeṣeṣu (locative plural of śeṣa, 'remainder, rest'); Prakrit sesa.",
+      "notes": "i.e. the shrines of the middle world other than those of Nandīśvara."
+    },
+    {
+      "token": "વીસ",
+      "translit": "vīsa",
+      "gloss": "twenty (20)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. viṁśati ('twenty'); Prakrit vīsa.",
+      "notes": "With the following sayaṁ it yields 120."
+    },
+    {
+      "token": "સયં",
+      "translit": "sayaṁ",
+      "gloss": "one hundred (100)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śata ('hundred').",
+      "notes": "vīsa sayaṁ = one hundred twenty (120)."
+    },
+    {
+      "token": "પડિમ",
+      "translit": "paḍima",
+      "gloss": "images, Jina-idols",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pratimā ('image, likeness'); Prakrit paḍimā.",
+      "notes": "The eternal (śāśvata) Jina images being enumerated."
+    },
+    {
+      "token": "તિરિયલોએ",
+      "translit": "tiriyaloe",
+      "gloss": "in the middle world (tiryag-loka)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tiryag-loke (locative of tiryag-loka, the 'transverse/middle world'); Prakrit tiriya-loa.",
+      "notes": "The cosmic band of islands and oceans, the only realm where humans are born; it contains Nandīśvara and the 'remaining' shrines alike."
+    }
+  ],
+  "literalTranslation": "Added together, one hundred and eighty; but one hundred twenty-four on Nandīśvara dvīpa. Per shrine, among the remaining ones, one hundred and twenty images in the middle world.",
+  "idiomaticTranslation": "Summed up, each (heavenly) shrine holds one hundred and eighty images; on the isle of Nandīśvara, though, there are one hundred twenty-four to a shrine; and in every one of the other shrines throughout the middle world, one hundred and twenty images stand enshrined.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is a reckoning verse: the hymn pauses its bowing to tally the eternal images shrine by shrine, world by world. Three counts are given. (1) 'miliyaṁ sayaṁ asīyaṁ' — 'added together, one hundred eighty' — closes the heavenly account opened in the preceding verse, where the images of the assembly-halls, the shrine's centre and its doorways were listed separately; gathered up, each celestial caitya holds 180. (2) 'cauvīsa sayaṁ tu nandīsara dīve' — the contrastive 'tu' turns to the famed isle of Nandīśvara, where each of its renowned eternal shrines holds 124. (3) 'pai ceiya sesesu… vīsa sayaṁ… tiriyaloe' — for every one of the remaining shrines across the middle world, 120 images apiece. The verse thus moves from the upper heavens down into the tiryag-loka, distributing a fixed image-count to each class of shrine. Reading it as arithmetic is the point: the figures here are line-items that the very next verse rolls up into the grand cosmic total of eternal images. The composer is not describing one temple but auditing the entire furniture of devotion in the universe, so that the reciter's salutation, when it resumes, lands on a precisely known multitude rather than a vague 'everywhere'.",
+    "doctrinalContext": "The verse rests on the doctrine of śāśvata-pratimā — Jina images that are beginningless and endless, neither made nor consecrated by anyone, standing eternally in the shrines of the cosmos. For the Mūrtipūjaka, this is the scriptural warrant for image-veneration itself: if the universe is natively furnished with self-existent Jina images that the very gods worship, then bowing to an image is bowing to an everlasting feature of reality, not to a human artefact. The fixed, countable numbers (180 / 124 / 120) also display the karaṇānuyoga temper of Jain cosmography, where merit and reality alike are mapped with exact enumeration; precision here is itself a form of reverence.",
+    "practicalRelevance": "As the reciter passes through this verse, the act of caitya-vandana is silently multiplied: one is no longer bowing to a single hall's idol but consciously to 180 images in each heaven, 124 on every Nandīśvara shrine, 120 in every other middle-world shrine — venerating the whole cosmos of eternal images in one breath. Holding the numbers in mind turns a quick line of counting into a deliberate, far-reaching obeisance and a reminder that one's devotion has cosmic reach far beyond the visible temple.",
+    "crossReferences": [
+      {
+        "text": "Saṃgrahaṇī-ratna (Bṛhat Saṃgrahaṇī) — enumeration of śāśvata caityas and per-shrine image counts",
+        "source": "Śvetāmbara cosmological tradition (Śrīcandra/Devabhadra recension)"
+      },
+      {
+        "text": "Jīvābhigama-sūtra & Sthānāṅga — the 52 eternal shrines of Nandīśvara dvīpa",
+        "source": "Śvetāmbara Āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandīśvara (Jainism) — definition",
+      "url": "https://www.wisdomlib.org/definition/nandishvara",
+      "type": "dictionary",
+      "consultedFor": "Confirming Nandīśvara-dvīpa as a continent of the middle-world (madhyaloka/tiryag-loka) and its treatment in the Śvetāmbara Saṃgrahaṇīratna cosmological literature."
+    },
+    {
+      "title": "Caitya, Chaitya — definition",
+      "url": "https://www.wisdomlib.org/definition/caitya",
+      "type": "dictionary",
+      "consultedFor": "Sense of caitya (ceiya) as a Jain shrine/temple housing images."
+    },
+    {
+      "title": "Tiryagloka — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/tiryagloka",
+      "type": "dictionary",
+      "consultedFor": "Sense and placement of tiryag-loka (tiriyaloe) as the middle world, the only realm of human birth."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The numerals are read in the standard Prakrit idiom unit+sayaṁ ('hundred'): asīyaṁ sayaṁ = 180, cauvīsa sayaṁ = 124, vīsa sayaṁ = 120. The figure 'miliyaṁ 180' is taken to total the heavenly per-shrine count begun in the preceding verse; note that the explicitly named components there (60 + 100 + 12) sum to 172, so either further images are implied or 180 follows the traditional per-caitya reckoning — a known point on which cosmographic editions vary (pāṭhāntara). The per-shrine counts for Nandīśvara (124) and for other middle-world shrines (120), and the 180 of the heavens, differ in some recensions and between the Śvetāmbara Saṃgrahaṇī and Digambara Tiloyapaṇṇatti traditions; they are recorded here as the verse states them. These three counts are line-items that the following verse aggregates into the grand total of eternal images. Word division and the daṇḍa after 'dīve' follow the source text."
+}

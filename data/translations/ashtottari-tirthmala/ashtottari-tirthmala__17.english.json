@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/17",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the next nine Jinas in turn — Candraprabha, Suvidhi, Śītala, Śreyāṁsa, Vāsupūjya, Vimala, Ananta, Dharma and Śānti.",
+  "recitation": "Candappahaṁ ca Suvihiṁ, Sīyala nāmaṁ jiṇaṁ ca Siṁjjaṁsaṁ | Vāsupujjaṁ Vimalaṁ taha, aṇaṁta Dhammaṁ jiṇaṁ Saṁti.",
+  "wordByWord": [
+    {
+      "token": "ચંદપ્પહં",
+      "translit": "candappahaṁ",
+      "gloss": "Candraprabha (the 8th Tīrthaṅkara), accusative 'to Candraprabha'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit candappaha < Skt. candra-prabha, 'moon-radiance', from candra (moon) + prabhā (luster); his emblem is the moon.",
+      "notes": "Continues the present-cycle roll-call from the previous verse, which closed at Supārśva (7th)."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit ca, the standard copulative conjunction stringing the names together.",
+      "notes": ""
+    },
+    {
+      "token": "સુવિહિં",
+      "translit": "suvihiṁ",
+      "gloss": "Suvidhi (the 9th Tīrthaṅkara, also Puṣpadanta), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suvihi < Skt. su-vidhi, 'good rule/right observance', from su- (good) + vidhi (rule, rite).",
+      "notes": "Same Jina is widely known as Puṣpadanta; here the Suvidhi name is used."
+    },
+    {
+      "token": "સીયલ",
+      "translit": "sīyala",
+      "gloss": "Śītala (the 10th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīyala < Skt. śītala, 'cool, soothing', from śīta (cold); evokes the calming coolness of his teaching.",
+      "notes": "Stem form, made specific by the following nāmaṁ ('by name'); the generic Prakrit sense 'cool' is not intended — it is a proper name."
+    },
+    {
+      "token": "નામં",
+      "translit": "nāmaṁ",
+      "gloss": "by name, named",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit nāman, 'name'; here adverbial-appositional, 'the Jina named (Śītala)'.",
+      "notes": "Binds with sīyala and jiṇaṁ: 'the Jina named Śītala'."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (conqueror), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt. jina, 'conqueror' (of passions), from √ji 'to conquer'.",
+      "notes": "First of two occurrences; here qualifying Śītala."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit ca, conjunction.",
+      "notes": "Second ca, linking to the next name."
+    },
+    {
+      "token": "સિંજજંસં",
+      "translit": "siṁjajaṁsaṁ",
+      "gloss": "Śreyāṁsa (the 11th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (verbatim) siṁjajaṁsa, standardly sijjaṁsa < Skt. śreyāṁsa, 'most auspicious/blessed', comparative of śreyas (good, welfare).",
+      "notes": "Book orthography retained verbatim; the common Prakrit form is sijjaṁsa."
+    },
+    {
+      "token": "વાસુપુજ્જં",
+      "translit": "vāsupujjaṁ",
+      "gloss": "Vāsupūjya (the 12th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāsupujja < Skt. vāsu-pūjya, 'worthy of worship', or after the name of his father Vasupūjya.",
+      "notes": ""
+    },
+    {
+      "token": "વિમલં",
+      "translit": "vimalaṁ",
+      "gloss": "Vimala (the 13th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. vimala, 'stainless, pure', from vi- (away) + mala (impurity).",
+      "notes": ""
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus, likewise, and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt. tathā, 'thus, in like manner'; here a connective 'and likewise'.",
+      "notes": "Carries the enumeration forward to the closing four names."
+    },
+    {
+      "token": "અણંત",
+      "translit": "aṇaṁta",
+      "gloss": "Ananta (the 14th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇaṁta < Skt. ananta, 'endless, infinite', from a- (not) + anta (end).",
+      "notes": "Stem form within the compacted final list."
+    },
+    {
+      "token": "ધમ્મં",
+      "translit": "dhammaṁ",
+      "gloss": "Dharma (the 15th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamma < Skt. dharma, 'righteous law', from √dhṛ 'to uphold'.",
+      "notes": ""
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (conqueror), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt. jina; see above.",
+      "notes": "Second occurrence; here qualifying Śānti."
+    },
+    {
+      "token": "સંતિ",
+      "translit": "saṁti",
+      "gloss": "Śānti (the 16th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁti < Skt. śānti, 'peace, tranquillity', from √śam 'to be calm'.",
+      "notes": "Closes this verse's span; the list resumes at Kunthu in the following verse."
+    }
+  ],
+  "literalTranslation": "And Candraprabha and Suvidhi, the Jina named Śītala, and Śreyāṁsa; Vāsupūjya, Vimala, and likewise Ananta, Dharma, and the Jina Śānti.",
+  "idiomaticTranslation": "I bow to Candraprabha and to Suvidhi, to the Jina named Śītala and to Śreyāṁsa; to Vāsupūjya and Vimala, and likewise to Ananta, to Dharma, and to the Jina Śānti.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the central panel of the present-cycle salute, picking up exactly where the previous verse left off (it ended at Supārśva, the 7th) and naming the next nine Jinas in unbroken sequence: Candraprabha (8), Suvidhi (9), Śītala (10), Śreyāṁsa (11), Vāsupūjya (12), Vimala (13), Ananta (14), Dharma (15) and Śānti (16). The poetry is deliberately spare — almost a litany of bare names linked by ca…ca…taha — so the worshipper's attention rests on the procession itself rather than on description. Two small touches lift it above a mere list. The word jiṇaṁ ('the Jina') is placed twice, attached to Śītala in the first line and to Śānti in the second, framing the nine names between two explicit reminders that each is a conqueror of passion. And nāmaṁ ('named') beside Śītala individuates that name from its ordinary Prakrit sense of 'cool', signalling that every word here is a proper name to be honoured, not a description. The verse ends on Śānti, 'Peace' — a fitting hinge before the final stretch (Kunthu through Mahāvīra) opens in the next verse.",
+    "doctrinalContext": "Naming the Tīrthaṅkaras in strict succession enacts the Jain conviction that the path is re-revealed in an unbroken lineage of ford-makers across the descending half-cycle (avasarpiṇī), each independently winning omniscience and re-founding the fourfold community. Calling each a jiṇa keeps the doctrinal point in view: veneration is directed not to a creator-god but to a perfected soul who 'conquered' attachment, aversion and delusion. The closing name Śānti quietly states the goal of all such conquest — the peace of liberation.",
+    "practicalRelevance": "Recited as one breath in a longer garland, this verse trains steady, name-by-name mindfulness: the practitioner fixes each Jina in turn, letting the meanings beneath the names — coolness (Śītala), purity (Vimala), endlessness (Ananta), the upheld law (Dharma), peace (Śānti) — settle as qualities to cultivate in oneself.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava), salutation to the 24 Tīrthaṅkaras",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Standard enumeration of the 24 Tīrthaṅkaras of the present avasarpiṇī (8th–16th: Candraprabha–Śānti)",
+        "source": "Jain universal history; cf. Wikipedia, 'Tirthankara'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical order of the 24 Tīrthaṅkaras and the meaning of jina/tīrthaṅkara"
+    },
+    {
+      "title": "Suvidhinatha (Pushpadanta), 9th Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Suvidhinatha",
+      "type": "scholarship",
+      "consultedFor": "Verifying Suvidhi = Puṣpadanta as the 9th Tīrthaṅkara and the name's sense"
+    },
+    {
+      "title": "Shreyansanatha, 11th Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Shreyanasanatha",
+      "type": "scholarship",
+      "consultedFor": "Confirming Śreyāṁsa (Prakrit sijjaṁsa) as the 11th Tīrthaṅkara and the 'most auspicious' sense"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a near-bare name-list of the present-cycle Tīrthaṅkaras 8–16 (Candraprabha through Śānti); identifications are secure from the fixed traditional sequence and the names' obvious correspondences. The token સિંજજંસં is reproduced verbatim from the book's orthography; the standard Prakrit form is sijjaṁsa (Skt. śreyāṁsa). સીયલ (sīyala) here is the proper name Śītala, not the homophonous Prakrit adjective 'cool'; નામં ('named') marks this. Mātrās, anusvāras and conjuncts follow the source edition and have not been normalised."
+}

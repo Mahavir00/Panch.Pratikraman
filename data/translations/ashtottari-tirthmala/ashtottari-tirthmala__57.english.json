@@ -1,0 +1,180 @@
+{
+  "shlokaId": "ashtottari-tirthmala/57",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On the very spot where Lord Ṛṣabha's feet had rested at Takṣaśilā, Bāhubali has a jewelled platform built, and upon it a jewel-fashioned pillar a yojana tall.",
+  "recitation": "to tahiyaṁ so kāraï, jiṇapaya ṭhāṇaṁmi rayaṇamaya pīḍhaṁ | tadduvari joyaṇa-māṇaṁ, mahi-rayaṇa viṇimmiyaṁ daṇḍaṁ ||",
+  "wordByWord": [
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to from Sanskrit tataḥ / tadā ('then, after that'); a narrative connective carrying the action on from the preceding verse.",
+      "notes": "Marks the sequel to Ṛṣabha's departure described in v.56."
+    },
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṁ",
+      "gloss": "there, in that very place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahiṁ / tahiyaṁ from Sanskrit tatra ('there'); the locative-adverbial of the demonstrative ta-.",
+      "notes": "Points to Takṣaśilā, named in v.56 (takkhasilāe)."
+    },
+    {
+      "token": "સો",
+      "translit": "so",
+      "gloss": "he (Bāhubali)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit so from Sanskrit saḥ, nominative singular of the demonstrative tad-.",
+      "notes": "The unnamed subject is Bāhubali, son of Ṛṣabha and lord of Takṣaśilā, supplied from the legend."
+    },
+    {
+      "token": "કારઇ",
+      "translit": "kāraï",
+      "gloss": "has (it) made, causes to be built",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit kāraï, causative present 3rd sg. of the root kar- (Sanskrit kārayati, causative of √kṛ 'to do, make'); 'has someone build'.",
+      "notes": "The causative is exact: a king does not lay stones himself but commissions the monument."
+    },
+    {
+      "token": "જિણપય",
+      "translit": "jiṇapaya",
+      "gloss": "of the Jina's feet",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiṇa (Sanskrit jina, 'the conqueror, Tīrthaṅkara') + paya (Sanskrit pada, 'foot'); a genitive tatpuruṣa qualifying the following 'place'.",
+      "notes": "Here the Jina is Ṛṣabha, who had stood in meditation on this ground."
+    },
+    {
+      "token": "ઠાણંમિ",
+      "translit": "ṭhāṇaṁmi",
+      "gloss": "at the place / on the spot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṭhāṇa (Sanskrit sthāna, 'place, station') with the Apabhraṁśa-coloured locative singular ending -ṁmi (= Sanskrit sthāne).",
+      "notes": "jiṇapaya-ṭhāṇaṁmi = 'at the spot of the Jina's feet', i.e. the footprint-site itself."
+    },
+    {
+      "token": "રયણમય",
+      "translit": "rayaṇamaya",
+      "gloss": "made of jewels, jewelled",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit rayaṇa (Sanskrit ratna, 'gem') + -maya (Sanskrit -maya, 'consisting of'); a possessive-material adjective.",
+      "notes": "Qualifies pīḍhaṁ; the same word opens v.58 for the wheel."
+    },
+    {
+      "token": "પીઢં",
+      "translit": "pīḍhaṁ",
+      "gloss": "a pedestal, base-platform",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pīḍha (Sanskrit pīṭha, 'seat, stool, pedestal, base'); accusative singular, object of kāraï.",
+      "notes": "The foundation slab on which the staff and, above it, the wheel will stand."
+    },
+    {
+      "token": "તદ્દુવરિ",
+      "translit": "tadduvari",
+      "gloss": "above that, upon it",
+      "partOfSpeech": "adverb",
+      "etymology": "Sandhi of Prakrit tad (Sanskrit tad, 'that') + uvari (Sanskrit upari, 'above'), with doubling tad+u > taddu.",
+      "notes": "'That' = the jewelled pedestal just mentioned; sets the vertical stacking of the monument."
+    },
+    {
+      "token": "જોયણ",
+      "translit": "joyaṇa",
+      "gloss": "a yojana (in height)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit joyaṇa from Sanskrit yojana, an ancient unit of distance; in compound with the next word.",
+      "notes": "Conveys a vast, superhuman scale, fitting a marvel built by a cakravartin's brother."
+    },
+    {
+      "token": "માણં",
+      "translit": "māṇaṁ",
+      "gloss": "in measure, measuring",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit māṇa (Sanskrit māna, 'measure, dimension') from √mā ('to measure'); accusative of extent.",
+      "notes": "joyaṇa-māṇaṁ = 'a yojana in measure', giving the daṇḍa's height."
+    },
+    {
+      "token": "મહિ",
+      "translit": "mahi",
+      "gloss": "of the earth / earthly (gems)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahi (Sanskrit mahī, 'earth'); first member of the compound mahi-rayaṇa, 'earth-gems, the precious stones of the earth'.",
+      "notes": "Ambiguous: may instead represent mahā ('great') → 'great gems'; reading as mahī ('earth-born jewels') is taken here. Flagged in notes."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa from Sanskrit ratna ('gem'); compounded with mahi and governed by viṇimmiyaṁ.",
+      "notes": "mahi-rayaṇa = the choicest gems, the material of the staff."
+    },
+    {
+      "token": "વિણિમ્મિયં",
+      "translit": "viṇimmiyaṁ",
+      "gloss": "fashioned, wrought, constructed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle viṇimmiya from Sanskrit vinirmita (vi-nis-√mā / √mi, 'to construct, fashion completely'); accusative agreeing with daṇḍaṁ.",
+      "notes": "The intensive vi-nir- prefix stresses finished, perfected craftsmanship."
+    },
+    {
+      "token": "દંડં",
+      "translit": "daṇḍaṁ",
+      "gloss": "a staff, pillar, column",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit daṇḍa from Sanskrit daṇḍa ('rod, staff, pillar'); accusative singular, second object of kāraï.",
+      "notes": "Here an architectural shaft, not a weapon — the column bearing the dharma-wheel of v.58."
+    }
+  ],
+  "literalTranslation": "Then there he has (it) made — at the place of the Jina's feet — a pedestal made of jewels; above that, a yojana in measure, a staff fashioned of earth's gems.",
+  "idiomaticTranslation": "Then, on that very ground where the Jina's feet had rested, he raises a pedestal of gems; and upon it, towering a full yojana high, a column wrought of the earth's finest jewels.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse builds the Takṣaśilā monument course by course. In the preceding gāthā Ṛṣabha had halted at Takṣaśilā in the evening and, by dawn, had already moved on — so Bāhubali, hastening for his father's darśana, arrived to find only the spot the Jina's feet had touched. This verse is his response: rather than mourn the missed meeting, 'then there he has it made (to tahiyaṁ so kāraï)'. The structure is read from the ground up. First, exactly at jiṇapaya-ṭhāṇaṁmi — 'on the place of the Jina's feet' — he sets a jewelled pedestal (rayaṇamaya pīḍhaṁ); the foot-spot itself becomes the sanctum. Upon it (tadduvari) rises a yojana-high staff of gems (joyaṇa-māṇaṁ … daṇḍaṁ), and the next verse will crown that staff with the jewel wheel a yojana in circumference — the Dharma-cakra that gives this tīrtha its name. The poet's restraint is deliberate: no verb of bowing here, only verbs of building, because the act of homage in this episode is the construction itself. The causative kāraï quietly marks Bāhubali's royal agency — he commissions, the marvel is raised — and the rising tally 'pedestal → staff → (wheel)' creates a vertical crescendo the listener feels climb toward v.58's climax.",
+    "doctrinalContext": "The verse is the charter-legend for venerating a site sanctified by a Jina's mere presence — the worship of the absent Jina through the place of his feet. In Jain terms this enacts the sthāpanā-nikṣepa: the holy is made present by installation, so a footprint-spot, a pādukā, or an image carries the Jina's sanctity when the living Jina is gone. That the worshipper missed personal darśana yet earns equal merit by honouring the spot teaches that bhāva (devotional intent) consecrates place; the jewelled, yojana-scaled materials signal that no offering is too great for that intent. It also seeds the cult of the dharma-cakra as object of pilgrimage, completed in v.58.",
+    "practicalRelevance": "When the reciter reaches this verse, the lesson is immediate: you need not have met the teacher in the flesh to honour him wholly. Bowing today before a pādukā, a caraṇa-shrine, or simply the place made holy by a saint's presence is, like Bāhubali's wheel, full devotion — and the grandeur of the gesture should match the sincerity behind it.",
+    "crossReferences": [
+      {
+        "text": "Ṛṣabha-carita: Bāhubali raises the jewelled Dharma-cakra at Takṣaśilā on the spot of Ṛṣabha's feet",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra (Parvan I)"
+      },
+      {
+        "text": "Following verse vv.58: the yojana-circumference jewel wheel named Dharma-cakra tīrtha, a ship across the ocean of rebirth",
+        "source": "Aṣṭottarī Tīrthamālā v.58 (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pīṭha (pīḍha): pedestal, seat, base — definitions across Sanskrit/Prakrit",
+      "url": "https://www.wisdomlib.org/definition/pitha",
+      "type": "dictionary",
+      "consultedFor": "Sense of pīḍha/pīṭha as architectural pedestal/base under an image or shrine"
+    },
+    {
+      "title": "Yojana: a measure of distance — Jain and general usage",
+      "url": "https://www.wisdomlib.org/definition/yojana",
+      "type": "dictionary",
+      "consultedFor": "Confirming joyaṇa = yojana as a unit of measure for the staff's height"
+    },
+    {
+      "title": "Daṇḍa: staff, rod, pillar/column — definitions",
+      "url": "https://www.wisdomlib.org/definition/danda",
+      "type": "dictionary",
+      "consultedFor": "Architectural sense of daṇḍa as a shaft/column rather than a weapon"
+    },
+    {
+      "title": "Ratnamaya: 'made of jewels' (ratna + -maya)",
+      "url": "https://www.wisdomlib.org/definition/ratnamaya",
+      "type": "dictionary",
+      "consultedFor": "Material adjective rayaṇamaya/ratnamaya glossing pīḍhaṁ"
+    },
+    {
+      "title": "Takṣaśilā (Takshashila): the ancient city Taxila",
+      "url": "https://www.wisdomlib.org/definition/takshashila",
+      "type": "dictionary",
+      "consultedFor": "Identifying the site of the episode named in the preceding verse"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is grammatically clear; the chief ambiguity is મહિ (mahi). Read here as mahī ('earth') → mahi-rayaṇa 'earth-born/earthly gems'; an alternative reading takes it as mahā ('great') → 'great jewels'. Either way the staff is gem-wrought, so the doctrinal sense is unaffected. The subject 'he' (so) is unnamed in the verse and supplied as Bāhubali from the Takṣaśilā Dharma-cakra legend (vv.56–58) and the parallel narrative in Hemacandra's Triṣaṣṭiśalākāpuruṣacaritra. joyaṇa-māṇaṁ is taken as the height of the daṇḍa; the next verse separately gives the wheel a yojana circumference. Prakrit/Apabhraṁśa orthography (e.g. locative -ṁmi in ṭhāṇaṁmi, sandhi-doubling in tadduvari) is preserved verbatim per the source edition and not normalised."
+}

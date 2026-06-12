@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/105",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And so, across every village, mountain town and city in all the inhabited lands of the Jain universe, the worshipper now turns to bow.",
+  "recitation": "taha jaṁbūdīva dhāyaï, pukkhara-divaḍḍha vijaya sattari-sae | je keï gāmāgara, naga nagarāïya tahiyaṁ tuṁ.",
+  "wordByWord": [
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus, likewise, in the same way",
+      "partOfSpeech": "adverb",
+      "etymology": "From Sanskrit tathā ('thus'); Prakrit taha. A connective adverb carrying the act of homage forward from the preceding regional roll-call.",
+      "notes": "Signals that what follows continues the same gesture of salutation rather than opening a new theme."
+    },
+    {
+      "token": "જંબૂદીવ",
+      "translit": "jaṁbūdīva",
+      "gloss": "Jambūdvīpa (the central continent of the human world)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Jambū-dvīpa, 'the continent of the rose-apple (jambū) tree'; Prakrit jaṁbū-dīva. The innermost, first continent of the middle world.",
+      "notes": ""
+    },
+    {
+      "token": "ધાયઇ",
+      "translit": "dhāyaï",
+      "gloss": "Dhātakī[khaṇḍa] (the second continent)",
+      "partOfSpeech": "noun",
+      "etymology": "Abbreviated Prakrit form of Dhātakī-khaṇḍa (Sanskrit Dhātakī-khaṇḍa), the ring-continent encircling the Lavaṇa ocean, named for its dhātakī (Grislea) trees.",
+      "notes": "The metre clips the full name Dhātakīkhaṇḍa to dhāyaï."
+    },
+    {
+      "token": "પુક્ખરદિવડ્ઢ",
+      "translit": "pukkhara-divaḍḍha",
+      "gloss": "the half of Puṣkara(vara) continent (Puṣkarārdha)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit pukkhara (Sanskrit puṣkara, 'lotus') + divaḍḍha, here read as dvīpa-ardha, 'half-continent'. Only the inner half of Puṣkaravaradvīpa, up to the Mānuṣottara mountain, is inhabited.",
+      "notes": "These three terms together name the aḍhāī-dvīpa, the 'two-and-a-half continents' that make up the entire human realm. divaḍḍha can elsewhere mean 'one-and-a-half'; here, per the established Puṣkarārdha reading, it denotes the half-continent."
+    },
+    {
+      "token": "વિજય",
+      "translit": "vijaya",
+      "gloss": "vijayas (the karmabhūmi provinces where Jinas arise)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vijaya, 'province, conquered region'; in cosmography the named sub-regions of Mahāvideha (and, by extension here, the lands of action across the 2.5 continents).",
+      "notes": "Functions with the following numeral as 'the 170 vijayas'."
+    },
+    {
+      "token": "સત્તરિસએ",
+      "translit": "sattari-sae",
+      "gloss": "in the one hundred and seventy",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sattari (Sanskrit saptati, 'seventy') + saya (Sanskrit śata, 'hundred') → 'a hundred-and-seventy'; locative -e, 'in/among the 170'.",
+      "notes": "The 170 karmabhūmis = 5 Bharata + 5 Airāvata + 160 Mahāvideha vijayas across the 2.5 continents — the totality of lands where Tīrthaṅkaras and Jina-shrines can exist."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "whatever, whichever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je, relative pronoun (Sanskrit ye); opens a relative clause whose correlative ('therein, the images... I salute') completes in the next verse.",
+      "notes": ""
+    },
+    {
+      "token": "કેઇ",
+      "translit": "keï",
+      "gloss": "any, some at all",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit keï (Sanskrit kecit / ke'pi), indefinite pronoun, 'any whatsoever'. With je it forms 'whatever there may be'.",
+      "notes": "The je…keï pairing makes the scope exhaustive: not one settlement is excluded."
+    },
+    {
+      "token": "ગામાગર",
+      "translit": "gāmāgara",
+      "gloss": "villages and mines (market-settlements)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit dvandva gāma (Sanskrit grāma, 'village') + āgara (Sanskrit ākara, 'mine, source, mart'). A stock pairing in canonical lists of inhabited places.",
+      "notes": "gāma–āgara is a fixed legal-geographic dyad (village + mining/trading settlement)."
+    },
+    {
+      "token": "નગ",
+      "translit": "naga",
+      "gloss": "mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit naga, 'that which does not move', a mountain. Here, hill-set or mountain habitations and shrines.",
+      "notes": ""
+    },
+    {
+      "token": "નગરાઇય",
+      "translit": "nagarāïya",
+      "gloss": "cities and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit nagara (Sanskrit nagara, 'city') + āïya (Sanskrit ādika, 'and so forth'). 'Cities et cetera', closing the open-ended list of habitations.",
+      "notes": "The -āïya ('etc.') makes the enumeration deliberately non-exhaustive, sweeping in every other kind of settlement."
+    },
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṁ",
+      "gloss": "there, therein, in those places",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahiṁ / tahiyaṁ (Sanskrit tatra), 'in that place'. Refers back to all the villages, mountains and cities just named.",
+      "notes": ""
+    },
+    {
+      "token": "તું",
+      "translit": "tuṁ",
+      "gloss": "indeed (emphatic connective)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit emphatic/expletive particle tu / tuṁ (cf. Sanskrit tu), here serving emphasis and metre; effectively 'whatever there is therein, indeed —'.",
+      "notes": "Largely a metrical and emphatic filler; it leaves the sentence syntactically open, to be completed by verse 106."
+    }
+  ],
+  "literalTranslation": "Likewise, in Jambūdvīpa, Dhātakī[khaṇḍa] and the half of Puṣkara — in the one hundred and seventy vijayas — whatever villages and mines, mountains, cities and the like there are therein, indeed —",
+  "idiomaticTranslation": "And so too, throughout Jambūdvīpa, Dhātakīkhaṇḍa and the half-continent of Puṣkara — across all their one hundred and seventy provinces — in whatever villages and market-towns, upon whatever mountains, in whatever cities and every other kind of place that stands therein:",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just closed the long, named roll-call of particular holy sites (the towns and regions of vv.102–104), the poet now performs a deliberate turn from the particular to the total. Verse 105 deletes every place-name and instead draws the outermost frame of the inhabited universe: the aḍhāī-dvīpa, the two-and-a-half continents — Jambūdvīpa, Dhātakīkhaṇḍa and half of Puṣkaravara — and within them the 'one hundred and seventy vijayas' (sattari-sae vijaya), the complete set of lands where human life, and therefore Jinas and Jina-temples, can exist. The doubled indefinite je keï ('whatever, any at all') with the open-ended list gāmāgara (villages-and-mines), naga (mountains), nagarāïya (cities-and-so-forth) is engineered to leave nothing out: every grade of settlement, from a mining hamlet to a great city, is gathered in. Crucially, the verse is grammatically incomplete: it is one half of a relative–correlative sentence. Verse 105 supplies the where ('in whatever places therein…'); verse 106 supplies the what and the act ('the images there… I salute'). So this gāthā is the great hinge on which the hymn swings from a finite pilgrimage of named tīrthas to an infinite, exhaustive homage. The reciter, who a moment ago was 'standing' at Ābu or Mathurā, is now lifted to a cosmographer's vantage from which the entire human world lies spread out, every corner of it about to be honoured.",
+    "doctrinalContext": "The verse rests on Jain sacred geography. Of the innumerable continents, only the inner 2.5 — Jambūdvīpa, Dhātakīkhaṇḍa and the inner half of Puṣkaravara (bounded by Mānuṣottara) — are the human realm. Within them lie exactly 170 karmabhūmis or 'lands of action': 5 Bharata + 5 Airāvata + 160 Mahāvideha vijayas. These are the only regions where the soul can undertake the conduct that leads to liberation, and the only regions where Tīrthaṅkaras are born and Jina-shrines arise. By naming the 170 vijayas, the hymn quietly asserts that its homage is not provincial: it reaches every place where a Jina or his image could possibly be, exhausting the doctrinal map of liberation-capable space.",
+    "practicalRelevance": "When chanting this verse, the practitioner consciously widens the heart beyond the shrines actually visited or remembered. The pilgrimage that began with familiar names becomes an act of imagination that embraces every village, hill and city of the whole inhabited cosmos — training the mind toward the impartial, all-inclusive reverence that the next two verses will direct at every image, seen or unseen.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 3.15 (the lands of action, karmabhūmi)",
+        "source": "Umāsvāti, trans. N. Tatia, That Which Is"
+      },
+      {
+        "text": "Bṛhat-Saṅgrahaṇī / Kṣetra-samāsa (the 2.5 continents and the 170 karmabhūmis)",
+        "source": "Śvetāmbara cosmographic prakaraṇa tradition"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.106–107 (the correlative completion: salutation of all images therein)",
+        "source": "Mahendrasiṁhasūri, Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain cosmology — Structure of the universe and the inhabited continents",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "The middle world, the 2.5 inhabited continents (Jambūdvīpa, Dhātakīkhaṇḍa, Puṣkarārdha) and the placement of karmabhūmi regions"
+    },
+    {
+      "title": "Karmabhūmi — definitions (Jainism section)",
+      "url": "https://www.wisdomlib.org/definition/karmabhumi",
+      "type": "dictionary",
+      "consultedFor": "Meaning of karmabhūmi ('land of action') and its identification with the Jina-bearing regions of the human realm"
+    },
+    {
+      "title": "Ākara — Sanskrit/Prakrit definitions",
+      "url": "https://www.wisdomlib.org/definition/akara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of ākara ('mine, source, mart') underlying the compound gāma-āgara (villages-and-mines)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is syntactically open: it is the locative/relative half of a sentence completed in v.106 ('the images therein... I salute'), so the rendering ends mid-thought by design. 'sattari-sae vijaya' is read as the standard 170 karmabhūmis (5 Bharata + 5 Airāvata + 160 Mahāvideha vijayas); the preface independently confirms '170 vijayas'. 'pukkhara-divaḍḍha' is parsed as Puṣkara + dvīpa-ardha (half-continent), per the established Puṣkarārdha reading; note that divaḍḍha can elsewhere denote 'one-and-a-half', and other editions may vary the orthography. 'tuṁ' is taken as an emphatic/metrical particle rather than a contentful word. Word glosses for gāma/āgara/nagara/naga follow standard Prakrit–Sanskrit equivalences; per-site cosmographic counts follow Śvetāmbara kṣetra-samāsa tradition."
+}

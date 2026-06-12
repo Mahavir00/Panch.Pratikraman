@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/108",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow with our whole heart to every Tīrthaṅkara there has ever been, ever will be, or is alive right now.",
+  "recitation": "je aïyā titthayarā, je a bhavissā aṇāgae kāle | je āvi vaṭṭamāṇā, te savve bhāvao namimo ||",
+  "wordByWord": [
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "those who (relative pronoun, nom. pl.)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun je < Sanskrit ye (nom. pl. of yad).",
+      "notes": "Opens the first of three parallel relative clauses (past / future / present)."
+    },
+    {
+      "token": "અઇયા",
+      "translit": "aïyā",
+      "gloss": "past, gone-by (nom. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aïya < Sanskrit atīta ('passed beyond, bygone'), from ati + √i.",
+      "notes": "Qualifies the Tīrthaṅkaras of the elapsed time-cycle."
+    },
+    {
+      "token": "તિત્થયરા",
+      "translit": "titthayarā",
+      "gloss": "Tīrthaṅkaras, ford-makers (nom. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit titthayara < Sanskrit tīrthaṅkara (tīrtha 'crossing' + √kṛ 'make').",
+      "notes": "The single noun governed by all three time-clauses."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "and those who (relative pronoun, nom. pl.)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je < Sanskrit ye; repetition marks the second clause.",
+      "notes": "Resumes the relative for the future set."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a < Sanskrit ca ('and').",
+      "notes": "Conjunction linking the past clause to the future clause."
+    },
+    {
+      "token": "ભવિસ્સા",
+      "translit": "bhavissā",
+      "gloss": "will be, those yet to arise (nom. pl., future sense)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit future stem bhavissa- < Sanskrit bhaviṣyat (future participle of √bhū 'to be/become').",
+      "notes": "Functions adjectivally: the Tīrthaṅkaras of the coming cycle."
+    },
+    {
+      "token": "અણાગએ",
+      "translit": "aṇāgae",
+      "gloss": "in the not-yet-come, future (loc. sg.)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṇāgaya < Sanskrit anāgata ('not arrived'), an- + ā + √gam.",
+      "notes": "Locative agreeing with kāle."
+    },
+    {
+      "token": "કાલે",
+      "translit": "kāle",
+      "gloss": "in time (loc. sg.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāla < Sanskrit kāla ('time').",
+      "notes": "aṇāgae kāle = 'in the future time'."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "those who (relative pronoun, nom. pl.)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je < Sanskrit ye; third clause.",
+      "notes": "Introduces the present-time set."
+    },
+    {
+      "token": "આવિ",
+      "translit": "āvi",
+      "gloss": "and also, even",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit āvi = a + vi < Sanskrit ca + api ('and even / also').",
+      "notes": "Sandhi-joined double particle; adds the present set to the past and future."
+    },
+    {
+      "token": "વટ્ટમાણા",
+      "translit": "vaṭṭamāṇā",
+      "gloss": "present, existing now (nom. pl., pres. participle)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vaṭṭamāṇa < Sanskrit vartamāna (pres. middle participle of √vṛt 'to turn, exist').",
+      "notes": "The living, presently-existing Tīrthaṅkaras (cf. the viharamāṇa Jinas)."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "them, those (acc./demonstrative, pl.)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit te < Sanskrit tān/te (demonstrative tad).",
+      "notes": "Gathers all three relative clauses into one object of the bow."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all (acc./nom. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all, every').",
+      "notes": "Emphatic totalising: every Jina of every age."
+    },
+    {
+      "token": "ભાવઓ",
+      "translit": "bhāvao",
+      "gloss": "wholeheartedly, with inner feeling, in essence (adverb)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit bhāvao < Sanskrit bhāvataḥ (ablative-adverb of bhāva 'inner disposition'); the -tas adverbial suffix.",
+      "notes": "Implies bhāva (inner) worship as opposed to merely dravya (outer); 'truly, from the heart'."
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we salute (1st pers. pl.)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namimo < Sanskrit namāmaḥ (1st pl. pres. of √nam 'to bow').",
+      "notes": "The single finite verb; the whole verse is one act of homage."
+    }
+  ],
+  "literalTranslation": "Those Tīrthaṅkaras who are past, and those who will be in the time to come, and those who also are present now — to all of them we bow wholeheartedly.",
+  "idiomaticTranslation": "To the ford-makers of every age — those who walked the path in ages gone, those yet to rise in the time to come, and those living and teaching even now — to all of them, with our whole heart, we bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the preceding verses sweep across every Jina-image — of every material, size, seen and unseen — this verse lifts the gaze from the images back to their living originals, the Tīrthaṅkaras themselves, and frames them in the one dimension an image cannot capture: time. Three parallel relative clauses (je… je a… je āvi…), each headed by the same relative je, lay out the past (aïyā), the future (bhavissā aṇāgae kāle) and the present (vaṭṭamāṇā), and then a single demonstrative te savve ('all of them') sweeps the three together so that one verb, namimo, can bow to the entire triple-time host at once. The poetic economy is the point: an unbounded object honoured by a single, undivided act of reverence. The hinge-word is bhāvao — 'wholeheartedly, in essence'. The bow is not the body's gesture toward a present figure within reach; it is an act of bhāva (inner disposition) that can reach Jinas long liberated and Jinas not yet born, for whom no statue, place or contemporaneity exists. This is why the verse can stand near the hymn's close: having pilgrimaged in words to 108 namable places, the reciter now venerates that which is beyond place and beyond the present moment, held only by interior devotion. It quietly answers a worry a careful reciter might feel — that bowing to so many specific shrines still leaves out Jinas no shrine commemorates. Here none is left out.",
+    "doctrinalContext": "The verse enacts the classic Jain salutation to the Jinas of the three times (tri-kāla), the same logic as the widely-recited formula 'je a aïyā siddhā, je a bhavissanti… sampaï a vaṭṭamāṇā'. Doctrinally it rests on the principle that veneration is directed to the qualities of Jina-hood (the perfected vītarāga state), not to a particular historical person; since those qualities are identical in every ford-maker, a past, a future and a present Jina are equally worthy of the identical bow. Saluting the anāgata (not-yet-arisen) Tīrthaṅkaras is especially pointed: one bows to beings who do not yet exist as Jinas, which makes sense only if the homage targets the guṇa rather than the vyakti. The adverb bhāvao foregrounds the Jain distinction between bhāva (inner) and dravya (outer) worship, privileging the former: a bow whose entire reach is interior is necessarily a bhāva-namaskāra.",
+    "practicalRelevance": "Reciting this, a worshipper widens devotion past the familiar twenty-four and past Mahāvīra of our own age: the homage is owed equally to liberated Jinas of vanished cycles and to those who will arise long after us. The practical instruction is in bhāvao — bow with genuine inner feeling, not mechanical motion; one real bow of the heart reaches all of them at once.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho / Caturviṁśati-stava) — homage to the twenty-four Tīrthaṅkaras",
+        "source": "Āvaśyaka-sūtra; printed in this book, sutraId 'logassa'"
+      },
+      {
+        "text": "'je a aïyā siddhā, je a bhavissanti aṇāgae kāle, saṁpaï a vaṭṭamāṇā…' — the standard three-times salutation",
+        "source": "Jain Caityavandana / Pratikramaṇa liturgy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Hindi dictionary), H. D. Sheth — entries aïya (atīta), titthayara, vaṭṭamāṇa, bhāvao, namira/nam-",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit-to-Sanskrit glosses for aïyā, titthayarā, vaṭṭamāṇā, bhāvao and the 1st-pl. form namimo"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — atīta, anāgata, vartamāna, bhāvataḥ, √nam",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit root-forms behind the Prakrit tokens (atīta, anāgata, vartamāna, bhāvataḥ, namāmaḥ)"
+    },
+    {
+      "title": "JainGPT knowledge base — Anchalgachchha (Vidhipaksha) tradition and the Aṣṭottarī Tīrthamālā",
+      "url": "https://jaingpt.org/knowledge/anchalgacchna_aetihasik_lekho_230019_230019",
+      "type": "scholarship",
+      "consultedFor": "Placement of v.108 within the hymn's universalising close (homage to the three-time Tīrthaṅkaras)"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The token આવિ (āvi) is read as the sandhi of a + vi (Sanskrit ca + api), 'and also/even'; some editions print it spaced as 'આ વિ'. bhāvao (bhāvataḥ) is taken as 'wholeheartedly / with inner feeling'; it can equally be rendered 'in essence / truly', and in the bhāva–dravya contrast it marks an interior (bhāva) bow. The verse closely mirrors the widely-attested three-times salutation formula 'je a aïyā siddhā… vaṭṭamāṇā', here applied to titthayarā rather than siddhā. Per the sutra preface, this is verse 108, part of the universalising sequence (vv.105–111) honouring all Tīrthaṅkaras of the three times; that framing is not repeated here. Original orthography preserved verbatim, including ભવિસ્સા and the spaced daṇḍa."
+}

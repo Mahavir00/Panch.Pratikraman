@@ -1,0 +1,110 @@
+{
+  "shlokaId": "rai-mangalacharan/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The teaching of the Jinas is the most blessed of all blessings, the source of every good, the highest of all paths — and it stands ever victorious.",
+  "recitation": "sarvamaṅgalamāṅgalyaṁ, sarvakalyāṇakāraṇaṁ. pradhānaṁ sarvadharmāṇāṁ, jainaṁ jayati śāsanaṁ.",
+  "wordByWord": [
+    {
+      "token": "સર્વમંગલમાંગલ્યં",
+      "translit": "sarvamaṅgalamāṅgalyaṁ",
+      "gloss": "the auspiciousness of all that is auspicious; the most blessed of all blessings",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa/karmadhāraya compound: sarva (all) + maṅgala (auspicious thing) + māṅgalya (the quality of auspiciousness, a vṛddhi-derivative of maṅgala). A superlative-by-genitive idiom: 'the māṅgalya of [all] sarva-maṅgalas'.",
+      "notes": "Neuter nominative singular, predicated of śāsanaṁ. Echoes a pan-Indian 'sarvamaṅgalamāṅgalyam' verse-frame; here turned to the Jaina close."
+    },
+    {
+      "token": "સર્વકલ્યાણકારણં",
+      "translit": "sarvakalyāṇakāraṇaṁ",
+      "gloss": "the cause of all welfare / of every good and blessing",
+      "partOfSpeech": "compound",
+      "etymology": "sarva (all) + kalyāṇa (welfare, good fortune, the good) + kāraṇa (cause, from √kṛ 'to do/make'). 'The cause of all kalyāṇa.'",
+      "notes": "Neuter nominative singular, a second predicate of śāsanaṁ."
+    },
+    {
+      "token": "પ્રધાનં",
+      "translit": "pradhānaṁ",
+      "gloss": "foremost, chief, the highest",
+      "partOfSpeech": "adj",
+      "etymology": "pra- (forth, pre-eminently) + √dhā ('to place'); literally 'placed in front', hence 'principal'.",
+      "notes": "Neuter nominative singular agreeing with śāsanaṁ; governs the genitive sarvadharmāṇāṁ."
+    },
+    {
+      "token": "સર્વધર્માણાં",
+      "translit": "sarvadharmāṇāṁ",
+      "gloss": "of all dharmas / of all paths and teachings",
+      "partOfSpeech": "compound",
+      "etymology": "sarva (all) + dharma (the right path, teaching, moral order; √dhṛ 'to uphold'). Genitive plural -āṇāṁ.",
+      "notes": "Genitive plural completing pradhānaṁ: 'foremost of all dharmas'. dharma is glossed in the preface."
+    },
+    {
+      "token": "જૈનં",
+      "translit": "jainaṁ",
+      "gloss": "Jaina; pertaining to the Jinas",
+      "partOfSpeech": "adj",
+      "etymology": "vṛddhi-derivative of Jina ('victor', one who has conquered the passions; √ji 'to conquer'): jaina = 'of/belonging to the Jina'.",
+      "notes": "Neuter nominative singular, the attributive that specifies which śāsana — the teaching of the Jinas. Note the play with the cognate verb jayati below."
+    },
+    {
+      "token": "જયતિ",
+      "translit": "jayati",
+      "gloss": "is victorious; conquers, prevails",
+      "partOfSpeech": "verb",
+      "etymology": "√ji ('to conquer, win'), present indicative 3rd person singular, parasmaipada.",
+      "notes": "Singular, agreeing with the singular subject śāsanaṁ. Some recensions read jayanti (plural); the book's reading is the singular jayati. Cognate with Jina/jaina — 'the teaching of the Victor is victorious'."
+    },
+    {
+      "token": "શાસનં",
+      "translit": "śāsanaṁ",
+      "gloss": "the teaching, order, and discipline (śāsana)",
+      "partOfSpeech": "noun",
+      "etymology": "√śās ('to instruct, govern') + -ana; 'that which instructs/governs' — teaching, ordinance, the living institution of the faith.",
+      "notes": "Neuter nominative singular — the grammatical subject of jayati and the thing all four praises describe. Glossed in the preface."
+    }
+  ],
+  "literalTranslation": "The auspiciousness of all auspicious things, the cause of all welfare, foremost of all dharmas — the Jaina teaching is victorious.",
+  "idiomaticTranslation": "Most blessed of all that is blessed, the wellspring of every good, supreme among all paths — victorious stands the teaching of the Jinas!",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 4 narrowed devotion to a single face — Gautama, whose smaraṇa secures food, household, and Lakṣmī — this closing śloka widens the lens all the way out: the boons of any one exemplar are now traced to their source, the śāsana itself. The verse is built as three rising predicates resolved by a verb. First the superlative māṅgalya: not merely auspicious but 'the auspiciousness of all auspicious things' — the blessing that makes other blessings blessed. Then the causal claim, sarvakalyāṇakāraṇaṁ: the teaching is not just good but the cause of all good, shifting from quality to origin. Third, pradhānaṁ sarvadharmāṇāṁ ranks it foremost among all paths. Each of the three is grammatically left hanging until the final pāda supplies subject and verb together: jainaṁ … śāsanaṁ jayati. The deliberate cognate pairing jaina/jayati ('of the Victor … is victorious') seals the thought — the teaching of those who conquered the passions itself conquers. After a long night-rite of confessing one's own defeats, the practitioner ends not on personal failure but on the undefeated standing of the path that makes return possible. The fourfold maṅgala that opened the garland returns here intensified into a single superlative, so the five verses close on the exact note they began — blessing — but raised from invocation to triumphant proclamation.",
+    "doctrinalContext": "The four predicates are not loose praise but a compact theology of the śāsana. 'Foremost of all dharmas' rests on the Jina as the passionless omniscient (vītarāga, kevalin): a teaching is authoritative because its source is one freed of attachment and aversion, hence incapable of the distortion that would compromise the path to liberation (mokṣa). Calling the śāsana the 'cause of all welfare' frames true kalyāṇa not as worldly comfort but as progress toward liberation through right faith, knowledge, and conduct (samyag-darśana-jñāna-cāritra). The Jina/jayati cognate quietly restates the core Jain insight: 'victory' is inward conquest of the kaṣāyas, and the teaching that springs from that conquest carries the same victorious nature.",
+    "practicalRelevance": "Recited as the very last words of the dawn rite, the verse re-orients the practitioner from inward accounting to outward confidence: having confessed the night's faults, one steps into the day affirming the path, not one's own shortcomings. Chant it slowly, letting each predicate land — blessing, cause, foremost — before the final jayati, so the morning opens on assurance that the way back to right conduct is itself unfailing.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (the threefold path that defines true kalyāṇa)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of the 24 Jinas as 'jiṇā' / victors, the cognate sense of jaina/jayati",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams Sanskrit-English Dictionary)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Definitions and roots of māṅgalya, kalyāṇa, kāraṇa, pradhāna, dharma, śāsana, and the verb √ji (jayati)."
+    },
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Gujarati dictionary)",
+      "url": "https://archive.org/details/PaiaSaddaMahannavo",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking maṅgala / jaina senses and the Prakrit-coloured liturgical usage of the surrounding garland."
+    },
+    {
+      "title": "The Wisdom Library — Sanskrit dictionary entries (śāsana, pradhāna, kalyāṇa, māṅgalya)",
+      "url": "https://www.wisdomlib.org/definition/shasana",
+      "type": "scholarship",
+      "consultedFor": "Corroborating glosses for śāsana ('teaching, order, governance') and pradhāna ('foremost, principal') across lexical sources."
+    },
+    {
+      "title": "JainQQ Jain eLibrary",
+      "url": "https://www.jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Confirming the wide Śvetāmbara liturgical circulation of the 'sarvamaṅgalamāṅgalyaṁ … jainaṁ jayati śāsanam' praśasti and its standard rendering."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "The verse is well-attested Sanskrit and grammatically transparent; confidence is high. Variant reading: some recensions print jayanti (3rd person plural); this book reads the singular jayati, which agrees correctly with the neuter singular subject śāsanaṁ and is followed here. The first hemistich ('sarvamaṅgalamāṅgalyaṁ sarvakalyāṇakāraṇaṁ') reproduces a verse-frame reused across several Indian traditions; only the distinctively Jaina close ('pradhānaṁ sarvadharmāṇāṁ jainaṁ jayati śāsanaṁ') is specific here, so no single originating scripture is asserted. Anusvāra rendered -ṁ throughout per the book's orthography; readings follow the book verbatim and are not normalized."
+}

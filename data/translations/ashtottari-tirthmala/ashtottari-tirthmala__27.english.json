@@ -1,0 +1,148 @@
+{
+  "shlokaId": "ashtottari-tirthmala/27",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse bows to the eternal Jina temples in the gods' realms — seven crore seventy-two lakh of them among the Bhavanapati gods, and countless more in the cities of the Vyantara gods.",
+  "recitation": "bāvattari lakkhāhiya, koḍī satteva bhavaṇa bhavaṇesu | jiṇabhavaṇo u asaṅkhe, vaṇtara nayaresu paṇamāmi ||",
+  "wordByWord": [
+    {
+      "token": "બાવત્તરિ",
+      "translit": "bāvattari",
+      "gloss": "seventy-two",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Apabhraṁśa numeral from Sanskrit dvāsaptati (dvā 'two' + saptati 'seventy').",
+      "notes": "Qualifies the lakh-count: 72 lakh."
+    },
+    {
+      "token": "લક્ખાહિય",
+      "translit": "lakkhāhiya",
+      "gloss": "increased by lakh(s) / lakhs-more",
+      "partOfSpeech": "compound",
+      "etymology": "lakkha (Sanskrit lakṣa, 'a hundred thousand') + āhiya (Sanskrit adhika, 'more, added').",
+      "notes": "Sandhi lakkha + ahiya → lakkhāhiya; here 'seventy-two lakh added (to the crore-count)'."
+    },
+    {
+      "token": "કોડી",
+      "translit": "koḍī",
+      "gloss": "crore (ten million)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koḍī from Sanskrit koṭi, 'ten million; a point/summit'.",
+      "notes": "With satta below: 'seven crore'."
+    },
+    {
+      "token": "સત્તેવ",
+      "translit": "satteva",
+      "gloss": "seven indeed / fully seven",
+      "partOfSpeech": "compound",
+      "etymology": "satta (Sanskrit sapta, 'seven') + eva (emphatic particle, 'just, indeed').",
+      "notes": "satta + eva → satteva; emphatic 'exactly seven [crore]', giving the total 7,72,00,000."
+    },
+    {
+      "token": "ભવણ",
+      "translit": "bhavaṇa",
+      "gloss": "mansion-dwelling / the Bhavana(pati) realm",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa from Sanskrit bhavana, 'abode, mansion'; here the class Bhavanapati ('lords of the bhavanas').",
+      "notes": "Forms the compound with the next word; names the first nikāya of gods."
+    },
+    {
+      "token": "ભવણેસુ",
+      "translit": "bhavaṇesu",
+      "gloss": "in the mansion-abodes",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural of bhavaṇa (Sanskrit bhavaneṣu).",
+      "notes": "bhavaṇa-bhavaṇesu = 'in the abodes of the Bhavanapati gods', the site of the 7,72,00,000 shrines."
+    },
+    {
+      "token": "જિણભવણો",
+      "translit": "jiṇabhavaṇo",
+      "gloss": "Jina shrine(s) / Jina temple(s)",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Sanskrit jina) + bhavaṇa (bhavana, here 'temple, house of the Jina'); nominative jiṇabhavaṇo.",
+      "notes": "Deliberate re-use of bhavaṇa: the gods' bhavanas now house the Jina's bhavana (temple)."
+    },
+    {
+      "token": "ઉ",
+      "translit": "u",
+      "gloss": "and / moreover",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit u from Sanskrit tu, a mild connective/contrastive particle.",
+      "notes": "Marks the turn from the finite Bhavanapati count to the innumerable Vyantara count."
+    },
+    {
+      "token": "અસંખે",
+      "translit": "asaṅkhe",
+      "gloss": "innumerable (asaṅkhyāta)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asaṅkha from Sanskrit a- (negation) + saṁkhyā ('counting, number') = 'beyond counting'.",
+      "notes": "A defined Jain magnitude (between saṅkhyāta and ananta), not loose hyperbole — predicate of jiṇabhavaṇo."
+    },
+    {
+      "token": "વંતર",
+      "translit": "vaṇtara",
+      "gloss": "Vyantara (the wandering gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaṇtara/vaṁtara from Sanskrit vyantara, the second nikāya of devas dwelling among forests, mountains and intermediate spaces.",
+      "notes": "Qualifies nayaresu: 'in the Vyantara cities'."
+    },
+    {
+      "token": "નયરેસુ",
+      "translit": "nayaresu",
+      "gloss": "in the cities / towns",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural of nayara (Prakrit) from Sanskrit nagara, 'city'.",
+      "notes": "The Vyantara gods' cities, holding innumerable Jina shrines."
+    },
+    {
+      "token": "પણમામિ",
+      "translit": "paṇamāmi",
+      "gloss": "I bow / I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paṇamāmi from Sanskrit praṇamāmi (pra + √nam, 'to bend, bow'), 1st person singular present.",
+      "notes": "Verse-sealing act of homage gathering both counts into one bow."
+    }
+  ],
+  "literalTranslation": "Seven crore, increased by seventy-two lakh, [Jina shrines stand] in the mansion-abodes [of the Bhavanapati gods]; and the Jina shrines in the Vyantara cities are innumerable — [to them all] I bow.",
+  "idiomaticTranslation": "Seven crore and seventy-two lakh eternal Jina shrines grace the palace-realm of the Bhavanapati gods; and in the cities of the Vyantara gods the Jina shrines are beyond all counting — to every one of them I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having tallied the eternal shrines of the middle world in the previous verse (the 511 among cosmic peaks and trees), the census now climbs into the divine realms. This is the well-known cosmographic count: among the Bhavanapati gods stand exactly 7,72,00,000 eternal Jina shrines — the poet builds the figure additively, 'satta koḍī' (seven crore) 'bāvattari lakkhāhiya' (increased by seventy-two lakh) — while among the Vyantara gods the shrines are 'asaṅkhe', innumerable. The verse turns on a studied contrast: a precise finite number for the Bhavanapatis answered by an uncountable one for the Vyantaras, the little particle 'u' (tu) marking the pivot. Notice the poet's economy of sound and sense: 'bhavaṇa bhavaṇesu' plays the dwelling-word against the god-class name (Bhavanapati = 'lords of the bhavanas'), and then 'jiṇabhavaṇo' recycles the same bhavaṇa a third time, now as the Jina's own house, the temple — so the gods' mansions are themselves filled with the Jina's mansions. The single finite verb, the verse-final 'paṇamāmi', folds both the countable and the uncountable into one continuous bow, and the very next verse will press higher still into the Jyotiṣka and Vaimānika heavens (closing at 84,97,023), so this gāthā is the first rung of a deliberate numerical crescendo that finally overwhelms arithmetic and resolves only in reverence.",
+    "doctrinalContext": "The verse rests on the śāśvata-caitya / śāśvata-pratimā doctrine: beginningless, uncreated Jina images fixed in the structure of the cosmos, present in each of the four nikāyas of gods. The Bhavanapati figure (7,72,00,000) and the Vyantara designation 'asaṅkhya' are canonical, attested in the Jīvābhigama and Sthānāṅga/Samavāyāṅga cosmographic traditions. Doctrinally the point is that Jina-veneration is not a human institution but woven into the fabric of the universe — the gods themselves house and honour the Jina — so the reciter joins a worship that is universe-wide and without beginning. 'asaṅkhyāta' is a technically defined Jain magnitude (greater than saṅkhyāta, less than ananta); 'innumerable' here is exact cosmology, not poetic exaggeration.",
+    "practicalRelevance": "By chanting this gāthā the worshipper performs caitya-vandana to every eternal shrine of the lower and intermediate heavens at once — a mānasika (mental) pilgrimage requiring no travel. It cultivates humility (one's own temple is a single bead on a cosmos-spanning garland) and stretches the devotee's scope of reverence from the visible to the unseen.",
+    "crossReferences": [
+      {
+        "text": "Jīvābhigama-sūtra — enumeration of śāśvata-caityas across the deva realms",
+        "source": "Jaina Āgama (Śvetāmbara canon)"
+      },
+      {
+        "text": "Sthānāṅga / Samavāyāṅga-sūtra — classification and counts of the four deva-nikāyas",
+        "source": "Jaina Āgama (Śvetāmbara canon)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.28 (following) — Jyotiṣka and Vaimānika shrines, closing at 84,97,023",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain cosmology — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "Structure of the loka and the four classes of gods (Bhavanapati, Vyantara, Jyotiṣka, Vaimānika) framing the śāśvata-caitya counts"
+    },
+    {
+      "title": "Bhavanapati — definition, Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/bhavanapati",
+      "type": "dictionary",
+      "consultedFor": "Identity and abode of the Bhavanapati gods (the first nikāya) named in 'bhavaṇa bhavaṇesu'"
+    },
+    {
+      "title": "Vyantara — definition, Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/vyantara",
+      "type": "dictionary",
+      "consultedFor": "Meaning of vyantara as the wandering/peripatetic god-class for 'vaṇtara nayaresu', and Sanskrit etymology vyantara"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The Prakrit/Apabhraṁśa numeral idiom reads as 'seven crore + seventy-two lakh' = 7,72,00,000 eternal Jina shrines in the Bhavanapati realm, the canonical figure; 'asaṅkhe' (asaṅkhyāta) for the Vyantara shrines is the technical Jain magnitude 'innumerable', not infinite (ananta). Reading of 'satteva' as satta + eva (emphatic 'just seven [crore]'); some editions point it identically. 'bhavaṇa bhavaṇesu' is taken as god-class + locative of abode; the threefold play on bhavaṇa is intentional. The composite count across all four deva-nikāyas plus the middle world is given over vv.26–28; exact totals vary slightly across cosmographic recensions (Jīvābhigama vs. Tiloya-paṇṇatti), but the Bhavanapati 7,72,00,000 and Vyantara asaṅkhya are stable. Precise mātrās/anusvāras follow the book's verbatim Anchalgachchha orthography and were not normalised."
+}

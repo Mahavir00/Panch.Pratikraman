@@ -1,0 +1,178 @@
+{
+  "shlokaId": "ashtottari-tirthmala/59",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the Kuśāgra forest by the city of Śivā, Lord Pārśva stood absorbed in motionless standing meditation, while the nāga-king Dharaṇendra held a canopy over him for three nights and honoured him greatly.",
+  "recitation": "siva nayari kusagga vaṇe, pāso paḍimaṁ ṭhio a dharaṇiṁdo | uvari tirattaṁ chattaṁ, dharisu kāsīa varamahimaṁ ||",
+  "wordByWord": [
+    {
+      "token": "સિવ",
+      "translit": "siva",
+      "gloss": "(of the city) Śivā / Śivapurī",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siva ← Skt. śivā, the proper name of the town (later, per v.60, renamed Ahicchatra); qualifies nayari.",
+      "notes": "Place-name, not the deity Śiva."
+    },
+    {
+      "token": "નયરિ",
+      "translit": "nayari",
+      "gloss": "in the city",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayarī ← Skt. nagarī ('city'); locative sense 'in the city of Śivā'.",
+      "notes": ""
+    },
+    {
+      "token": "કુસગ્ગ",
+      "translit": "kusagga",
+      "gloss": "(of) Kuśāgra (forest) / the kuśa-grass tips",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kusagga ← Skt. kuśa-agra ('tip of kuśa-grass'); here the proper name of the forest (Kuśāgra-vana / Kuśasthala).",
+      "notes": "Forms the compound kusagga-vaṇa, 'the Kuśāgra forest'."
+    },
+    {
+      "token": "વણે",
+      "translit": "vaṇe",
+      "gloss": "in the forest",
+      "partOfSpeech": "noun",
+      "etymology": "Locative sg. of Prakrit vaṇa ← Skt. vana ('forest').",
+      "notes": ""
+    },
+    {
+      "token": "પાસો",
+      "translit": "pāso",
+      "gloss": "Pārśva (the 23rd Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative sg. of Prakrit pāsa ← Skt. Pārśva, the Tīrthaṅkara of the serpent-canopy.",
+      "notes": "Subject of ṭhio."
+    },
+    {
+      "token": "પડિમં",
+      "translit": "paḍimaṁ",
+      "gloss": "in the pratimā / kāyotsarga posture (motionless, image-still)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of Prakrit paḍimā ← Skt. pratimā ('image'; also the standing meditation-vow); used adverbially, 'standing image-still'.",
+      "notes": "Here the kāyotsarga stance of total bodily abandonment, not a carved image."
+    },
+    {
+      "token": "ઠિઓ",
+      "translit": "ṭhio",
+      "gloss": "stood / remained standing",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle, Prakrit ṭhia ← Skt. sthita (√sthā, 'to stand'); masc. nom. sg. agreeing with pāso.",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a ← Skt. ca ('and'), connective.",
+      "notes": "Joins the Pārśva-clause to the Dharaṇendra-clause."
+    },
+    {
+      "token": "ધરણિંદો",
+      "translit": "dharaṇiṁdo",
+      "gloss": "Dharaṇendra, the nāga-king",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative sg. of Dharaṇinda ← Skt. Dharaṇa-indra / Dharaṇī-indra ('lord of the serpents'); Pārśva's serpent-protector.",
+      "notes": ""
+    },
+    {
+      "token": "ઉવરિ",
+      "translit": "uvari",
+      "gloss": "above / overhead",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit uvari ← Skt. upari ('above'); i.e. above the meditating Pārśva.",
+      "notes": ""
+    },
+    {
+      "token": "તિરત્તં",
+      "translit": "tirattaṁ",
+      "gloss": "for three nights",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ti-ratta ← Skt. tri-rātra ('three nights'); accusative of duration.",
+      "notes": "The classical span of the storm-affliction (upasarga)."
+    },
+    {
+      "token": "છત્તં",
+      "translit": "chattaṁ",
+      "gloss": "a canopy / umbrella (of serpent-hoods)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of Prakrit chatta ← Skt. chatra ('parasol, canopy'); the spread serpent-hoods as a sheltering canopy.",
+      "notes": "This serpent-chatra gives the site its later name Ahicchatra (ahi + chatra), explained in v.60."
+    },
+    {
+      "token": "ધરિસુ",
+      "translit": "dharisu",
+      "gloss": "held / bore",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past form of √dhṛ (Skt. dhārayati, 'to hold, bear'); subject Dharaṇendra.",
+      "notes": "Morphology of the Apabhraṁśa-coloured ending -isu is irregular; read as a past 'he held'."
+    },
+    {
+      "token": "કાસીઅ",
+      "translit": "kāsīa",
+      "gloss": "(and) performed / made",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit aorist kāsī ← Skt. akārṣīt (√kṛ, 'to do, make'); the final -a likely euphonic or the connective a (ca).",
+      "notes": "Governs varamahimaṁ: 'performed a supreme veneration'."
+    },
+    {
+      "token": "વરમહિમં",
+      "translit": "varamahimaṁ",
+      "gloss": "supreme glorification / great honour",
+      "partOfSpeech": "compound",
+      "etymology": "Accusative sg. of vara-mahima ← Skt. vara ('best, excellent') + mahiman ('greatness, majesty, glory'); 'an excellent act of homage'.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "In the city of Śivā, in the Kuśāgra forest, Pārśva stood in the pratimā (kāyotsarga) posture; and the nāga-king Dharaṇendra, holding a canopy overhead for three nights, performed a supreme veneration.",
+  "idiomaticTranslation": "By the city of Śivā, deep in the Kuśāgra forest, Lord Pārśva took his stand in unmoving kāyotsarga; and there the serpent-king Dharaṇendra, spreading his hoods as a canopy above the Jina for three whole nights, paid him the most exalted homage.",
+  "elaboration": {
+    "verseByVerseCommentary": "Coming straight from the Takṣaśilā Dharma-cakra tīrtha of vv.56–58, the hymn now opens the Ahicchatra sequence (vv.59–63) by setting its scene with great economy. The first half-line fixes the geography — siva nayari, kusagga vaṇe — the town of Śivā and the kuśa-grass forest beside it. The second half stages the two figures who define this tīrtha: the Jina who endures and the deva who serves. Pārśva 'stands in the pratimā' (paḍimaṁ ṭhio): paḍimā here is not a carved icon but the kāyotsarga vow itself — the body abandoned, fixed and image-still — a deliberate play on the word, since the Jina becomes, in his immobility, a living pratimā. Against this stillness the verse sets motion and service: Dharaṇendra holds the chatta 'overhead, for three nights' (uvari tirattaṁ). The poet withholds the storm and its sender (Kamaṭha/Meghamālī); only the canopy and the three-night vigil hint at the affliction being weathered. The two verbs of the nāga — dharisu ('held') and kāsīa varamahimaṁ ('performed supreme homage') — make Dharaṇendra's hoods at once a shelter and an act of worship. Crucially, the single word chatta is the seed of the whole episode's payoff: it is precisely this serpent-canopy (ahi-chatra) that, in the very next verse, renames the city Ahicchatra. So v.59 functions as the premise of a small narrative syllogism, deliberately leaving its conclusion — the naming and the closing bow to Pārśva 'destroyer of obstacles' — for vv.60–63.",
+    "doctrinalContext": "The verse crystallises the Jain ideal of equanimity under upasarga (affliction). Pārśva neither flinches at torment nor stirs at rescue; the kāyotsarga is the bodily form of vītarāgatā — freedom from both rāga toward the protector and dveṣa toward the tormentor. Dharaṇendra's homage illustrates a second principle: even the lords of the lower heavens and the nāga realm revere a Jina, yet their service neither aids nor flatters him — merit accrues to the devotee, not to the desireless Jina. The serpent-canopy is also the doctrinal root of Pārśva's universal iconography (the seven- or many-hooded snake), here given its narrative origin.",
+    "practicalRelevance": "Recited inside the Pakkhī confession — itself framed by kāyotsarga measured in Logassa-breaths — this verse hands the reciter a living model: stand, like Pārśva, unmoved by what disturbs from without (the 'storm') and unmoved by what comforts (the 'canopy'), holding the body still and the mind in samatā for the duration of the vow.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.60 (the city is thereby named Ahicchattā, 'serpent-canopy', and Pārśva is saluted as obstacle-destroyer)",
+        "source": "Mahendrasiṁhasūri; Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra (Smaraṇa 4, to Pārśvanātha) — the 'remover of afflictions', recited later in this same Pakkhī sequence",
+        "source": "Nine Smaraṇas, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Kalpasūtra, Pārśva-carita — the Kamaṭha/Meghamālī upasarga and Dharaṇendra–Padmāvatī protection",
+        "source": "Bhadrabāhu (trad.), Kalpasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "The Dharaṇendra–Kamaṭha/Meghamālī upasarga legend, the three-night storm, and the serpent-canopy kāyotsarga iconography of the 23rd Jina."
+    },
+    {
+      "title": "Ahichhatra",
+      "url": "https://en.wikipedia.org/wiki/Ahichhatra",
+      "type": "scholarship",
+      "consultedFor": "The site and the ahi ('serpent') + chatra ('canopy') etymology underlying the verse's chatta and the v.60 renaming."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/cognates of the tokens: chatra, pratimā, mahiman, nagarī, vana, dharaṇī-indra, √dhṛ, √kṛ (aorist akārṣīt)."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit–Hindi Dictionary), H. D. T. Sheth — digitized",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for paḍimā, ṭhia, uvari, ti-ratta, chatta and the Apabhraṁśa-coloured verb forms dharisu / kāsī."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) 'siva nayari' is read as the town Śivā/Śivapurī, which v.60 states was subsequently renamed Ahicchatā/Ahicchatra after the serpent-canopy; some editions gloss the locale as Kuśasthala. (2) 'paḍimaṁ ṭhio' is taken as 'stood in the kāyotsarga (pratimā) vow', exploiting paḍimā's double sense of 'image' and 'standing meditation'. (3) The Apabhraṁśa-coloured forms 'dharisu' (past of √dhṛ) and 'kāsīa' (aorist kāsī of √kṛ) are morphologically irregular; the final -a of kāsīa may be euphonic or a residual connective 'a' (ca), and other editions may read slightly different endings. (4) 'ṭhio' (masc. sg.) is construed with Pārśva, with the Dharaṇendra clause beginning at 'a'. Orthography is preserved verbatim per the source book; mātrās/anusvāras not normalised."
+}

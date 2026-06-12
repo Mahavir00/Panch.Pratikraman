@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/21",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to six of the Jinas who will be born in the coming age — Niṣkaṣāya, Niṣpulāka, Nirmama, Lord Citragupta, Samādhi, and the Jina Saṁvara.",
+  "recitation": "paṇamāmi nikkasāyaṁ, nippulāyaṁ ca nimmamataṁ ca | siri cittagutta sāmiṁ, samāhi jiṇa saṁvara jiṇiṁdaṁ.",
+  "wordByWord": [
+    {
+      "token": "પણમામિ",
+      "translit": "paṇamāmi",
+      "gloss": "I bow / I make obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit praṇamāmi, 1st person singular present of pra-√nam ('to bend, bow down')",
+      "notes": "The single governing verb of the verse; every following name stands in the accusative as its object."
+    },
+    {
+      "token": "નિક્કસાયં",
+      "translit": "nikkasāyaṁ",
+      "gloss": "Niṣkaṣāya (the passion-free one) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit niṣkaṣāya, from niṣ- ('without') + kaṣāya ('passion'); the four kaṣāyas are anger, pride, deceit, greed",
+      "notes": "13th Tīrthaṅkara of the future (anāgata) cycle; the name itself names the conquest of the passions."
+    },
+    {
+      "token": "નિપ્પુલાયં",
+      "translit": "nippulāyaṁ",
+      "gloss": "Niṣpulāka (the flawless one) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit niṣpulāka, from niṣ- ('without') + pulāka ('chaff, sterile/empty grain; blemish')",
+      "notes": "14th future Tīrthaṅkara; literally 'free of chaff', i.e. without inner blemish."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit < Sanskrit ca, copulative conjunction",
+      "notes": "Links the preceding two names."
+    },
+    {
+      "token": "નિમ્મમતં",
+      "translit": "nimmamataṁ",
+      "gloss": "Nirmama (the one free of 'mine-ness') — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit nirmamatva / nirmama, from nir- ('without') + mamatva ('possessiveness, the sense of \"mine\"')",
+      "notes": "15th future Tīrthaṅkara; the form nimmamataṁ carries the abstract -tā, 'free of all mineness'."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit < Sanskrit ca, copulative conjunction",
+      "notes": "Closes the first hemistich's list of three."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "Śrī (glorious, venerable)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit śrī ('splendour, auspiciousness'); used as an honorific prefix",
+      "notes": "Honorific qualifying Citragupta."
+    },
+    {
+      "token": "ચિત્તગુત્ત",
+      "translit": "cittagutta",
+      "gloss": "Citragupta (the one guarded in thought)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit citta-gupta, 'whose mind (citta) is well-guarded (gupta)'",
+      "notes": "16th future Tīrthaṅkara; not the Hindu scribe-deity of the same name. In the accusative through the following sāmiṁ."
+    },
+    {
+      "token": "સામિં",
+      "translit": "sāmiṁ",
+      "gloss": "Lord (svāmin) — accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit svāmin ('master, lord')",
+      "notes": "Reverential title; here joined to Citragupta ('Lord Citragupta')."
+    },
+    {
+      "token": "સમાહિ",
+      "translit": "samāhi",
+      "gloss": "Samādhi (meditative absorption personified)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit samādhi, from sam-ā-√dhā ('to collect, concentrate the mind')",
+      "notes": "17th future Tīrthaṅkara; the following jiṇa may attach here as 'Samādhi the Jina'."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the victorious one)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit jina, from √ji ('to conquer'); one who has conquered the inner foes",
+      "notes": "Title applied within the salutation to Samādhi and/or Saṁvara."
+    },
+    {
+      "token": "સંવર",
+      "translit": "saṁvara",
+      "gloss": "Saṁvara (the stoppage of karmic influx, personified)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit saṁvara, from sam-√vṛ ('to cover, dam, restrain'); the blocking of āsrava",
+      "notes": "18th future Tīrthaṅkara; doctrinally one of the tattvas — the damming of fresh karma."
+    },
+    {
+      "token": "જિણંદં",
+      "translit": "jiṇiṁdaṁ",
+      "gloss": "Jinendra (lord among Jinas) — accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit < Sanskrit jina + indra ('chief, lord'), 'foremost of Jinas'",
+      "notes": "Accusative sealing the second line; venerates Saṁvara as supreme Jina."
+    }
+  ],
+  "literalTranslation": "I bow to Niṣkaṣāya, and to Niṣpulāka, and to Nirmama; to glorious Lord Citragupta, to Samādhi the Jina, [and] to the Jina-lord Saṁvara.",
+  "idiomaticTranslation": "I bow low to Niṣkaṣāya the passion-free, to Niṣpulāka the flawless, and to Nirmama who has shed all sense of 'mine'; I salute glorious Lord Citragupta, Samādhi the Jina, and Saṁvara, foremost among Jinas.",
+  "elaboration": {
+    "verseByVerseCommentary": "Continuing the salutation to the twenty-four Jinas yet to come, this verse names the thirteenth through eighteenth of them — Niṣkaṣāya, Niṣpulāka, Nirmama, Citragupta, Samādhi and Saṁvara — picking up exactly where the previous verse left off (which ended at Amama) and handing on to the next, which opens with Yaśodhara. What makes the verse remarkable is not the roll-call but the names themselves: each is a transparent Sanskrit/Prakrit word for an inner attainment, so the line reads at once as a list of persons and as a ladder of practice. Niṣkaṣāya = 'free of the passions' (anger, pride, deceit, greed); Niṣpulāka = 'free of chaff', i.e. without blemish; Nirmama = 'free of mine-ness'; Citragupta = 'guarded in thought'; Samādhi = 'meditative absorption'; Saṁvara = 'the damming of karmic inflow'. Read in sequence they trace a coherent arc — first the passions are quelled, then the residual flaws fall away, then attachment to 'mine' dissolves, the mind is set under guard, deep absorption follows, and finally the influx of new karma is stopped. The poet thus turns a memorised name-list into a contemplative summary of the path to Jinahood: the very titles by which these future Jinas will be known are the qualities by which one becomes a Jina at all. The doubled ca and the honorifics siri and sāmiṁ keep the cadence of unhurried, bead-by-bead reverence appropriate to a tīrthamālā.",
+    "doctrinalContext": "Four of the six names are technical terms of Jain soteriology. Kaṣāya — the four corrupting passions — is the proximate cause of karmic bondage; its negation (niṣkaṣāya) is the precondition of release. Mamatva, the appropriating 'this is mine', is the affective core of parigraha (possessiveness), so nirmama is the inner face of aparigraha. Samādhi is the concentrated, equanimous mind in which insight matures. Most pointedly, saṁvara is one of the tattvas (reals): it is the stoppage of āsrava, the inflow of fresh karma — the indispensable counterpart to nirjarā (shedding of accrued karma) on the road to mokṣa. That a future Jina should bear the name Saṁvara underscores the Jain conviction that a Tīrthaṅkara's title encodes the very victory that constitutes his Jinahood.",
+    "practicalRelevance": "Recited within the Pākṣika reflection, the verse lets the worshipper read each name as a personal aspiration rather than mere nomenclature: to bow to Niṣkaṣāya is to resolve against anger and greed, and to bow to Saṁvara is to bow to the goal of pratikramaṇa itself — halting the fresh karma that confession and restraint are meant to stop. The six names supply a compact, ordered checklist for self-examination.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 9.1–9.6 (saṁvara as the stoppage of āsrava)",
+        "source": "Umāsvāti, trans. Nathmal Tatia, That Which Is"
+      },
+      {
+        "text": "Sthānāṅga-sūtra 4 (the four kaṣāyas: krodha, māna, māyā, lobha)",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Samavāyāṅga-sūtra (enumeration of the twenty-four anāgata Tīrthaṅkaras)",
+        "source": "Śvetāmbara Āgama"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara — Wikipedia (concept of jina, tīrtha, kaṣāya-freedom; ascending/descending cycles and future Tīrthaṅkaras)",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming jina/jinendra and tīrtha sense and the future-cycle (utsarpiṇī anāgata) framework"
+    },
+    {
+      "title": "Samvara — Wisdomlib (Jain philosophy and Prakrit-English dictionary entries)",
+      "url": "https://www.wisdomlib.org/definition/samvara",
+      "type": "dictionary",
+      "consultedFor": "Doctrinal gloss of saṁvara as the stoppage of karmic influx (a tattva)"
+    },
+    {
+      "title": "Kashaya — Wisdomlib (Jain philosophy and Prakrit-English dictionary entries)",
+      "url": "https://www.wisdomlib.org/definition/kashaya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of kaṣāya (the four passions) underlying the name Niṣkaṣāya"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The six tokens nikkasāyaṁ, nippulāyaṁ, nimmamataṁ, cittagutta, samāhi and saṁvara are the 13th–18th Tīrthaṅkaras of the future (anāgata) cycle in the standard Śvetāmbara list; the identification is corroborated internally, since the preceding verse ends at Amama (#12) and the following verse begins with Yaśodhara (#19). The names are simultaneously proper nouns and meaningful epithets; the translation foregrounds both. Syntax of 'samāhi jiṇa ... jiṇiṁdaṁ' is mildly ambiguous: jiṇa may attach to Samādhi ('Samādhi the Jina') or function as a shared title leading to jiṇiṁdaṁ for Saṁvara; both readings are devotionally equivalent. nimmamataṁ reflects the abstract form nirmamatā; some editions read the bare nirmama. Orthography is preserved verbatim from the Anchalgachchha/Vidhipaksha edition and not normalised. No verified independent gloss of the rare name-form 'pulāka = chaff/blemish' beyond standard lexica was needed; reading follows niṣ-pulāka."
+}

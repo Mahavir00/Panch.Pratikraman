@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/91",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the holy monk Sukosala on the sacred peak of Mount Mudgala, and to the many very ancient Jain shrines now standing at Chittor.",
+  "recitation": "sukkosala muṇi sucariya, pavitta siharaṁmi muggala girimmi. saṁpaï cittaüḍakkhe, ciratara bahu ceie thuṇimo.",
+  "wordByWord": [
+    {
+      "token": "સુક્કોસલ",
+      "translit": "sukkosala",
+      "gloss": "Sukosala (the muni)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit for Skt. Sukośala — su- ('good, noble') + kośala; the son of Kīrtidhara and Sahadevī of the Ikṣvāku line.",
+      "notes": "Proper name; the celebrated equanimity-hero devoured by a tigress while in meditation."
+    },
+    {
+      "token": "મુણિ",
+      "translit": "muṇi",
+      "gloss": "monk, sage",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇi < Skt. muni, 'silent sage, ascetic' (√man, 'to think').",
+      "notes": ""
+    },
+    {
+      "token": "સુચરિય",
+      "translit": "sucariya",
+      "gloss": "of noble conduct / of holy life-story",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sucarita — su- ('good') + carita ('conduct, life-deeds', √car, 'to move, behave'); qualifies the muni.",
+      "notes": "Can be read as 'whose conduct was pure' or 'whose life-story is sacred.'"
+    },
+    {
+      "token": "પવિત્ત",
+      "translit": "pavitta",
+      "gloss": "holy, sanctified",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pavitta < Skt. pavitra, 'purifying, sacred'; qualifies the peak.",
+      "notes": ""
+    },
+    {
+      "token": "સિહરંમિ",
+      "translit": "siharaṁmi",
+      "gloss": "on the peak / summit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śikhara, 'peak, crest'; Prakrit/Apabhraṁśa locative singular in -aṁmi.",
+      "notes": "Locative: 'on the holy peak.'"
+    },
+    {
+      "token": "મુગ્ગલ",
+      "translit": "muggala",
+      "gloss": "Mudgala (the mountain's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muggala < Skt. mudgala (doubled -gg- by Prakrit assimilation of -dg-); name of the mountain.",
+      "notes": "Proper name modifying girimmi; identification follows this hymn — see notes."
+    },
+    {
+      "token": "ગિરિમ્મિ",
+      "translit": "girimmi",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. giri, 'mountain'; Prakrit locative singular in -mmi.",
+      "notes": "Locative paired with siharaṁmi: 'on the peak, on Mudgala mountain.'"
+    },
+    {
+      "token": "સંપઇ",
+      "translit": "saṁpaï",
+      "gloss": "now, at present",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit saṁpaï < Skt. samprati, 'now, at this time.'",
+      "notes": "Marks a shift to a presently-standing tīrtha (Chittor)."
+    },
+    {
+      "token": "ચિત્તઉડક્ખે",
+      "translit": "cittaüḍakkhe",
+      "gloss": "at Chittauḍa (Chittor)",
+      "partOfSpeech": "noun",
+      "etymology": "Cittaüḍa = Chittor (Skt. Citrakūṭa), capital of Mewar; here in a locative ('at Chittauḍa').",
+      "notes": "The terminal -akkhe is read as a locative; morphology slightly uncertain — see notes."
+    },
+    {
+      "token": "ચિરતર",
+      "translit": "ciratara",
+      "gloss": "very ancient, very long-standing",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. cira ('long, old') + comparative suffix -tara ('more, very'); qualifies the shrines.",
+      "notes": ""
+    },
+    {
+      "token": "બહુ",
+      "translit": "bahu",
+      "gloss": "many, numerous",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bahu, 'much, many'; qualifies ceie.",
+      "notes": ""
+    },
+    {
+      "token": "ચેઇએ",
+      "translit": "ceie",
+      "gloss": "the shrines / Jina-temples (caityas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceia < Skt. caitya, 'shrine, temple housing a Jina image'; here object (plural) of thuṇimo.",
+      "notes": "Glossed in the preface; object of the praise-verb."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise / we extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇimo < Skt. √stu (stunmaḥ / stuvanti), 'to praise, laud'; 1st person plural present.",
+      "notes": "Single governing verb covering both the muni's peak and Chittor's shrines."
+    }
+  ],
+  "literalTranslation": "Sukosala muni of noble conduct — on the holy peak, on Mudgala mountain; now at Chittauḍa (Chittor), the very ancient, many shrines — we praise.",
+  "idiomaticTranslation": "We praise the noble-lived monk Sukosala upon the sacred summit of Mount Mudgala; and now, at Chittauḍa (Chittor), we extol its many time-honoured shrines.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse yokes two very different objects of homage under a single verb, thuṇimo ('we praise'): a saint-relic site and a living temple-city. First it bows to Sukosala muni 'of noble conduct' on the holy peak of Mount Mudgala — invoking, by his name alone, one of Jainism's great icons of equanimity. Sukosala, son of Kīrtidhara, was devoured by a tigress (his own mother Sahadevī, reborn in beastly rebirth through attachment and rage) while he stood unmoved in meditative kāyotsarga; holding perfect samatā as his body was torn, he won liberation. Naming him 'sucariya' is therefore not a generic epithet but a pointer to that supreme test passed. The hymn marks his peak as 'pavitta' (sanctified) precisely because such a death consecrated it. The pivot 'saṁpaï' ('now') then swings from a legendary martyrdom-site to the poet's own present: at Chittor, capital of the Mewar named in the previous verse, stand 'ciratara bahu ceie' — very ancient and very many Jina-shrines. The juxtaposition is deliberate: a single peak hallowed by one ascetic's heroic end, and a fortress-city crowded with image-temples — both equally worthy of the same act of praise. The verse thus advances the pilgrimage from the Mewar shrine of the foregoing verse toward the Ābu temples of the next, threading the regional roll-call of western-Indian holy places one bead at a time.",
+    "doctrinalContext": "The verse rests on two pillars of Jain practice. First, samatā (equanimity) under upasarga (affliction): Sukosala's unbroken kāyotsarga while being eaten dramatizes that liberation turns on the mind's steadiness, not the body's fate — the body is to be 'abandoned' (kāyotsarga) even literally. Second, caitya-bhakti: bowing to 'bahu ceie' affirms that veneration of Jina-images and shrines is itself a meritorious limb of devotion, and that a place sanctified by either a saint's heroic end or a multitude of consecrated images becomes a tīrtha worthy of homage.",
+    "practicalRelevance": "A reciter uses this verse to renew two resolves at once: to meet bodily pain, fear and loss with Sukosala-like equanimity rather than agitation, and to cherish and protect the ancient temple-heritage that living tīrthas like Chittor preserve. It turns a moment of chanting into both an inward vow and an outward act of reverence.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 7.4 (Rāma and Lakṣmaṇa) — Kīrtidhara, Sahadevī and the birth of Sukośala",
+        "source": "Hemacandra (12th c.), tr. Helen M. Johnson"
+      },
+      {
+        "text": "Samatārasa (VS 1861), praising Sukosala among Mahāvīra's equanimity-heroes alongside Gajasukumāla, Metārya and Khandhaka-muni",
+        "source": "Tessitori manuscript collection, 'Vincenzo Joppi' Library"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sukosala / Sukośala — definition (Jainism, Prakrit & Sanskrit)",
+      "url": "https://www.wisdomlib.org/definition/sukosala",
+      "type": "scholarship",
+      "consultedFor": "Sukosala's lineage (son of Kīrtidhara and Sahadevī) and his standing as a celebrated equanimity-hero unshaken under torture"
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Hemacandra), tr. Helen M. Johnson",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "The narrative frame of Kīrtidhara and Sukośala in the Jain Rāmāyaṇa material"
+    },
+    {
+      "title": "Chittorgarh Fort — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chittorgarh_Fort",
+      "type": "scholarship",
+      "consultedFor": "Chittor as the capital of Mewar, its hilltop setting and its many (19 large) historic temples, supporting 'ciratara bahu ceie'"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for caitya, śikhara, giri, pavitra and √stu (thuṇimo)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Token segmentation is secure, but two identifications are tradition-internal and not independently fixed: (1) 'muggala girimmi' (Mount Mudgala) as Sukosala muni's liberation-peak follows this hymn's own pairing — other sources variously locate Sukosala's death, and no verified colophon ties the name to a single modern site. (2) 'cittaüḍakkhe' is read as a locative 'at Chittauḍa (Chittor)'; the terminal -akkhe is taken as an Apabhraṁśa-coloured locative, but its exact morphology is uncertain and may carry a variant reading in other editions. The single verb 'thuṇimo' is taken to govern both the muni's peak and Chittor's shrines. Geography is consistent with the preceding verse, which names the Mewar (Mevāḍ) region, of which Chittor is the historic capital. Orthography (e.g. doubled -gg- in muggala, -mmi/-aṁmi locatives) is preserved verbatim per the source edition."
+}

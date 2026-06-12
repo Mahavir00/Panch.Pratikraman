@@ -1,0 +1,906 @@
+{
+  "shlokaId": "padilehana/01",
+  "targetLang": "hindi",
+  "targetScript": "devanagari",
+  "plainMeaning": "मुँहपत्ति और देह को निरखते हुए साधक पचास संकल्प दोहराता है — सूत्र, अर्थ और तत्त्व को हृदय में धारूँ, अच्छे गुण (ज्ञान-दर्शन-चारित्र, तीन गुप्ति, सुदेव-सुगुरु-सुधर्म) अपनाऊँ, बुरे दोष (राग, कषाय, हिंसा आदि) छोड़ूँ, और जो भी भूल हुई हो उसके लिए मन-वचन-काया से 'मिच्छा मि दुक्कडं'।",
+  "recitation": "सुत्तत्थ तत्त दिट्ठि हृदयमां धरुं। १\nसमकितमोहनी, मिश्रमोहनी, मिथ्यात्वमोहनी परिहरुं। ३\nकामराग, स्नेहराग, दृष्टिराग परिहरुं। ३\nसुदेव, सुगुरु, सुधर्म आदरुं। ३\nकुदेव, कुगुरु, कुधर्म परिहरुं। ३\nज्ञान, दर्शन, चारित्र आदरुं। ३\nज्ञानविराधना, दर्शनविराधना, चारित्रविराधना परिहरुं। ३\nमनोगुप्ति, वचनगुप्ति, कायगुप्ति आदरुं। ३\nमनोदंड, वचनदंड, कायदंड परिहरुं। ३ —— २५\nहास्य, रति, अरति परिहरुं। ३\nशोक, भय, दुगंछा परिहरुं। ३\nकृष्णलेश्या, नीललेश्या, कापोतलेश्या परिहरुं। ३\nऋद्धिगारव, रसगारव, सातागारव परिहरुं। ३\nमायासल्ल, नियाणसल्ल, मिच्छादंसणसल्ल परिहरुं। ३\nक्रोध, मान परिहरुं, २\nमाया, लोभ परिहरुं। २\nपृथ्वीकाय विराधना, अपूकाय विराधना, तेउकाय विराधना, वाउकाय विराधना, वनस्पतिकाय विराधना, त्रसकाय विराधना, ६ —— २५\nहुइ होय, ते सवि हुं मने, वचने, कायाए करी मिच्छा मि दुक्कडं।",
+  "wordByWord": [
+    {
+      "token": "સુત્તત્થ",
+      "translit": "sutta-ttha",
+      "gloss": "सूत्र-अर्थ (शास्त्र-पाठ और उसका अभिप्राय)",
+      "partOfSpeech": "compound",
+      "etymology": "प्राकृत sutta (सं. sūtra) + attha (सं. artha); सन्धि से 'सुत्तत्थ'",
+      "notes": "पहले दो स्तर — मूल पाठ और उसका अर्थ"
+    },
+    {
+      "token": "તત્ત",
+      "translit": "tatta",
+      "gloss": "तत्त्व (मूल यथार्थ/सार)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. tattva > प्राकृत tatta; द्वित्व-ह्रास",
+      "notes": "तीसरा स्तर — अर्थ के पीछे का यथार्थ"
+    },
+    {
+      "token": "દિટ્ઠિ",
+      "translit": "diṭṭhi",
+      "gloss": "दृष्टि (सम्यक् दर्शन/श्रद्धा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dṛṣṭi > प्राकृत diṭṭhi",
+      "notes": "यहाँ सम्यग्दृष्टि का बोधक"
+    },
+    {
+      "token": "હૃદયમાં",
+      "translit": "hṛdayamāṁ",
+      "gloss": "हृदय में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. hṛdaya + गुजराती अधिकरण-प्रत्यय '-मां' (में)",
+      "notes": "गुजराती विभक्ति-रूप"
+    },
+    {
+      "token": "ધરું",
+      "translit": "dharuṁ",
+      "gloss": "धारण करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dhṛ (धारण) > गुजराती उत्तमपुरुष एकवचन इच्छार्थ 'धरुं'",
+      "notes": "पहले बोल का ग्रहणार्थक क्रियापद"
+    },
+    {
+      "token": "૧",
+      "translit": "1",
+      "gloss": "(एक — इस पंक्ति का बोल-गणना अंक)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक १",
+      "notes": "ग्रन्थ का गणना-संकेत"
+    },
+    {
+      "token": "સમકિતમોહની",
+      "translit": "samakita-mohanī",
+      "gloss": "समकित-मोहनीय (सम्यक्त्व-मोहनीय कर्म)",
+      "partOfSpeech": "compound",
+      "etymology": "samakita (सं. samyaktva, प्राकृतीकृत) + mohanī (सं. mohanīya)",
+      "notes": "दर्शन-मोहनीय का पहला भेद"
+    },
+    {
+      "token": "મિશ્રમોહની",
+      "translit": "miśra-mohanī",
+      "gloss": "मिश्र-मोहनीय (श्रद्धा-अश्रद्धा का मिश्रित दर्शन-मोह)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. miśra + mohanīya",
+      "notes": "दर्शन-मोहनीय का दूसरा भेद"
+    },
+    {
+      "token": "મિથ્યાત્વમોહની",
+      "translit": "mithyātva-mohanī",
+      "gloss": "मिथ्यात्व-मोहनीय (मिथ्या श्रद्धा उत्पन्न करने वाला कर्म)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. mithyātva + mohanīya",
+      "notes": "तीनों दर्शन-मोहनीय भेदों का यहाँ परिहार"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ / परिहार करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ (परिहरण) > गुजराती 'परिहरुं'",
+      "notes": "त्यागार्थक ध्रुवपद — सूत्र में बारह बार आवृत्त"
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन — इस त्रिक के बोलों की संख्या)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": "त्रिक-गणना संकेत; आगे प्रायः प्रत्येक त्रिक पर पुनरावृत्त"
+    },
+    {
+      "token": "કામરાગ",
+      "translit": "kāma-rāga",
+      "gloss": "काम-राग (विषय-वासनाजन्य आसक्ति)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kāma + rāga",
+      "notes": ""
+    },
+    {
+      "token": "સ્નેહરાગ",
+      "translit": "sneha-rāga",
+      "gloss": "स्नेह-राग (मोहजन्य प्रीति/लगाव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. sneha + rāga",
+      "notes": ""
+    },
+    {
+      "token": "દૃષ્ટિરાગ",
+      "translit": "dṛṣṭi-rāga",
+      "gloss": "दृष्टि-राग (मत/आग्रह के प्रति आसक्ति)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. dṛṣṭi + rāga",
+      "notes": "तीनों रागों में सूक्ष्मतम; मतांध आग्रह"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (पूर्ववत् ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "સુદેવ",
+      "translit": "su-deva",
+      "gloss": "सुदेव (वीतराग, सच्चे आराध्य देव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. su (शुभ) + deva",
+      "notes": "ग्रहणीय त्रिक का प्रथम"
+    },
+    {
+      "token": "સુગુરુ",
+      "translit": "su-guru",
+      "gloss": "सुगुरु (निर्ग्रन्थ सच्चे गुरु)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. su + guru",
+      "notes": ""
+    },
+    {
+      "token": "સુધર્મ",
+      "translit": "su-dharma",
+      "gloss": "सुधर्म (अहिंसामय सच्चा धर्म)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. su + dharma",
+      "notes": "सम्यक्त्व का व्यावहारिक त्रिक — देव-गुरु-धर्म"
+    },
+    {
+      "token": "આદરું",
+      "translit": "ādaruṁ",
+      "gloss": "आदर करूँ / ग्रहण करूँ",
+      "partOfSpeech": "verb",
+      "etymology": "सं. ā√dṛ (आदर) > गुजराती 'आदरुं'",
+      "notes": "ग्रहणार्थक ध्रुवपद — 'परिहरुं' का प्रतिपक्षी"
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "કુદેવ",
+      "translit": "ku-deva",
+      "gloss": "कुदेव (रागद्वेषयुक्त मिथ्या आराध्य)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. ku (कुत्सित) + deva",
+      "notes": "सुदेव का प्रतिपक्षी — त्याज्य"
+    },
+    {
+      "token": "કુગુરુ",
+      "translit": "ku-guru",
+      "gloss": "कुगुरु (परिग्रही/मिथ्या गुरु)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. ku + guru",
+      "notes": ""
+    },
+    {
+      "token": "કુધર્મ",
+      "translit": "ku-dharma",
+      "gloss": "कुधर्म (हिंसामूलक मिथ्या धर्म)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. ku + dharma",
+      "notes": ""
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઞાન",
+      "translit": "jñāna",
+      "gloss": "ज्ञान (सम्यग्-ज्ञान)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. jñāna < √jñā",
+      "notes": "रत्नत्रय का प्रथम रत्न"
+    },
+    {
+      "token": "દર્શન",
+      "translit": "darśana",
+      "gloss": "दर्शन (सम्यग्-दर्शन/श्रद्धा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. darśana < √dṛś",
+      "notes": ""
+    },
+    {
+      "token": "ચારિત્ર",
+      "translit": "cāritra",
+      "gloss": "चारित्र (सम्यग्-चारित्र/आचरण)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. cāritra < √car",
+      "notes": "तीनों मिलकर मोक्षमार्ग-रत्नत्रय"
+    },
+    {
+      "token": "આદરું",
+      "translit": "ādaruṁ",
+      "gloss": "ग्रहण करूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. ā√dṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઞાનવિરાધના",
+      "translit": "jñāna-virādhanā",
+      "gloss": "ज्ञान-विराधना (ज्ञान का अनादर/खंडन)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. jñāna + virādhanā (vi√rādh)",
+      "notes": "रत्नत्रय की विराधना का प्रतिपक्षी परिहार"
+    },
+    {
+      "token": "દર્શનવિરાધના",
+      "translit": "darśana-virādhanā",
+      "gloss": "दर्शन-विराधना (श्रद्धा का खंडन)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. darśana + virādhanā",
+      "notes": ""
+    },
+    {
+      "token": "ચારિત્રવિરાધના",
+      "translit": "cāritra-virādhanā",
+      "gloss": "चारित्र-विराधना (आचरण का भंग)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. cāritra + virādhanā",
+      "notes": ""
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "મનોગુપ્તિ",
+      "translit": "mano-gupti",
+      "gloss": "मनोगुप्ति (मन का संयमपूर्ण नियंत्रण)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. manas + gupti (√gup)",
+      "notes": "तीन गुप्ति-त्रिक का प्रथम"
+    },
+    {
+      "token": "વચનગુપ્તિ",
+      "translit": "vacana-gupti",
+      "gloss": "वचनगुप्ति (वाणी का संयम)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. vacana + gupti",
+      "notes": ""
+    },
+    {
+      "token": "કાયગુપ્તિ",
+      "translit": "kāya-gupti",
+      "gloss": "कायगुप्ति (शरीर का संयम)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kāya + gupti",
+      "notes": ""
+    },
+    {
+      "token": "આદરું",
+      "translit": "ādaruṁ",
+      "gloss": "ग्रहण करूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. ā√dṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "મનોદંડ",
+      "translit": "mano-daṇḍa",
+      "gloss": "मनोदंड (मन का अशुभ व्यापार)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. manas + daṇḍa",
+      "notes": "गुप्ति का प्रतिपक्षी — त्याज्य त्रिक"
+    },
+    {
+      "token": "વચનદંડ",
+      "translit": "vacana-daṇḍa",
+      "gloss": "वचनदंड (वाणी का अशुभ व्यापार)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. vacana + daṇḍa",
+      "notes": ""
+    },
+    {
+      "token": "કાયદંડ",
+      "translit": "kāya-daṇḍa",
+      "gloss": "कायदंड (शरीर का अशुभ व्यापार)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kāya + daṇḍa",
+      "notes": ""
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": "यहाँ प्रथम २५ बोल पूर्ण"
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "૨૫",
+      "translit": "25",
+      "gloss": "(पच्चीस — मुँहपत्ति-पडिलेहणा के प्रथम भाग का योग)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक २५",
+      "notes": "रेखा (———) के बाद उप-योग"
+    },
+    {
+      "token": "હાસ્ય",
+      "translit": "hāsya",
+      "gloss": "हास्य (हँसी/उपहास की वृत्ति)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. hāsya < √has",
+      "notes": "नोकषाय; देह-पडिलेहणा का प्रथम बोल"
+    },
+    {
+      "token": "રતિ",
+      "translit": "rati",
+      "gloss": "रति (अनुकूल में प्रीति)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rati < √ram",
+      "notes": "नोकषाय"
+    },
+    {
+      "token": "અરતિ",
+      "translit": "arati",
+      "gloss": "अरति (प्रतिकूल में अप्रीति/उद्वेग)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. a + rati",
+      "notes": "नोकषाय"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "શોક",
+      "translit": "śoka",
+      "gloss": "शोक (खेद/संताप)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śoka < √śuc",
+      "notes": "नोकषाय"
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "भय (डर)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bhaya < √bhī",
+      "notes": "नोकषाय"
+    },
+    {
+      "token": "દુગંછા",
+      "translit": "dugaṁchā",
+      "gloss": "दुगंछा/जुगुप्सा (घृणा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. jugupsā > प्राकृत dugaṁchā",
+      "notes": "ग्रन्थ की वर्तनी 'दुगंछा' यथावत् रखी गई; छह नोकषाय पूर्ण"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "કૃષ્ણલેશ્યા",
+      "translit": "kṛṣṇa-leśyā",
+      "gloss": "कृष्ण-लेश्या (सर्वाधिक अशुभ कृष्ण-वर्ण परिणाम)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kṛṣṇa + leśyā",
+      "notes": "तीन अशुभ लेश्या का प्रथम"
+    },
+    {
+      "token": "નીલલેશ્યા",
+      "translit": "nīla-leśyā",
+      "gloss": "नील-लेश्या (नील-वर्ण अशुभ परिणाम)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. nīla + leśyā",
+      "notes": ""
+    },
+    {
+      "token": "કાપોતલેશ્યા",
+      "translit": "kāpota-leśyā",
+      "gloss": "कापोत-लेश्या (कबूतर-वर्ण अशुभ परिणाम)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. kāpota + leśyā",
+      "notes": "तीन अशुभ लेश्याओं का परिहार"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "ઋદ્ધિગારવ",
+      "translit": "ṛddhi-gārava",
+      "gloss": "ऋद्धि-गारव (वैभव/लब्धि का गर्व)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. ṛddhi + gārava",
+      "notes": "तीन गारव का प्रथम"
+    },
+    {
+      "token": "રસગારવ",
+      "translit": "rasa-gārava",
+      "gloss": "रस-गारव (स्वाद/रसास्वादन का गर्व)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. rasa + gārava",
+      "notes": ""
+    },
+    {
+      "token": "સાતાગારવ",
+      "translit": "sātā-gārava",
+      "gloss": "साता-गारव (सुख-सुविधा का गर्व)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. sāta + gārava",
+      "notes": "तीनों गारवों का परिहार"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "માયાસલ્લ",
+      "translit": "māyā-salla",
+      "gloss": "माया-शल्य (कपट रूपी काँटा)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. māyā + śalya > प्राकृत salla",
+      "notes": "तीन शल्य का प्रथम"
+    },
+    {
+      "token": "નિયાણસલ્લ",
+      "translit": "niyāṇa-salla",
+      "gloss": "निदान-शल्य (फलाकांक्षा रूपी काँटा)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. nidāna + śalya > प्राकृत niyāṇa-salla",
+      "notes": "तप के बदले सांसारिक फल की वाञ्छा"
+    },
+    {
+      "token": "મિચ્છાદંસણસલ્લ",
+      "translit": "micchā-daṁsaṇa-salla",
+      "gloss": "मिथ्यादर्शन-शल्य (मिथ्या श्रद्धा रूपी काँटा)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. mithyādarśana + śalya > प्राकृत micchā-daṁsaṇa-salla",
+      "notes": "तीनों शल्यों का परिहार"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": ""
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "(तीन)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ३",
+      "notes": ""
+    },
+    {
+      "token": "ક્રોધ",
+      "translit": "krodha",
+      "gloss": "क्रोध (कोप)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. krodha < √krudh",
+      "notes": "चार कषाय का प्रथम"
+    },
+    {
+      "token": "માન",
+      "translit": "māna",
+      "gloss": "मान (अहंकार)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. māna < √man",
+      "notes": "कषाय"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": "यहाँ केवल दो बोल — इसलिए अंक '२'"
+    },
+    {
+      "token": "૨",
+      "translit": "2",
+      "gloss": "(दो — क्रोध व मान, इस अर्ध-त्रिक की संख्या)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक २",
+      "notes": "चार कषाय यहाँ २+२ में विभक्त"
+    },
+    {
+      "token": "માયા",
+      "translit": "māyā",
+      "gloss": "माया (कपट/छल)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. māyā",
+      "notes": "कषाय"
+    },
+    {
+      "token": "લોભ",
+      "translit": "lobha",
+      "gloss": "लोभ (तृष्णा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. lobha < √lubh",
+      "notes": "मूल पाठ में 'लोभपरिहरुं' संयुक्त लिखा है"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "त्यागूँ (ध्रुवपद)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pari√hṛ",
+      "notes": "'लोभ' से सन्धि-रूप में जुड़ा"
+    },
+    {
+      "token": "૨",
+      "translit": "2",
+      "gloss": "(दो — माया व लोभ की संख्या)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक २",
+      "notes": "चार कषाय पूर्ण"
+    },
+    {
+      "token": "પૃથ્વીકાય",
+      "translit": "pṛthvī-kāya",
+      "gloss": "पृथ्वीकाय (पृथ्वी-शरीरी जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. pṛthvī + kāya",
+      "notes": "षट्काय का प्रथम"
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (जीव-घात/हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. virādhanā < vi√rādh",
+      "notes": "प्रत्येक काय के साथ आवृत्त"
+    },
+    {
+      "token": "અપૂકાય",
+      "translit": "apū-kāya",
+      "gloss": "अप्काय (जल-शरीरी जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. ap (जल) + kāya; ग्रन्थ-वर्तनी 'अपूकाय'",
+      "notes": "वर्तनी यथावत् रखी गई"
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi√rādh",
+      "notes": ""
+    },
+    {
+      "token": "તેઉકાય",
+      "translit": "teu-kāya",
+      "gloss": "तेजस्काय (अग्नि-शरीरी जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. tejas > प्राकृत teu + kāya",
+      "notes": ""
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi√rādh",
+      "notes": ""
+    },
+    {
+      "token": "વાઉકાય",
+      "translit": "vāu-kāya",
+      "gloss": "वायुकाय (वायु-शरीरी जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. vāyu > प्राकृत vāu + kāya",
+      "notes": ""
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi√rādh",
+      "notes": ""
+    },
+    {
+      "token": "વનસ્પતિકાય",
+      "translit": "vanaspati-kāya",
+      "gloss": "वनस्पतिकाय (वनस्पति-शरीरी जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. vanaspati + kāya",
+      "notes": ""
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi√rādh",
+      "notes": ""
+    },
+    {
+      "token": "ત્રસકાય",
+      "translit": "trasa-kāya",
+      "gloss": "त्रसकाय (गतिशील/त्रस जीव)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. trasa + kāya",
+      "notes": "षट्काय का छठा व अंतिम"
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "विराधना (हिंसा)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vi√rādh",
+      "notes": "छहों कायों की विराधना का परिहार अध्याहृत"
+    },
+    {
+      "token": "૬",
+      "translit": "6",
+      "gloss": "(छह — षट्जीवनिकाय की संख्या)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक ६",
+      "notes": ""
+    },
+    {
+      "token": "૨૫",
+      "translit": "25",
+      "gloss": "(पच्चीस — देह-पडिलेहणा के दूसरे भाग का योग)",
+      "partOfSpeech": "particle",
+      "etymology": "गुजराती अंक २५",
+      "notes": "रेखा के बाद उप-योग; २५+२५=५० बोल"
+    },
+    {
+      "token": "હુઇ",
+      "translit": "hui",
+      "gloss": "हुई (जो घटित हुई)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √bhū > प्राकृत/गुजराती भूतकृदन्त 'हुइ'",
+      "notes": "समापन-वाक्य का आरम्भ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हो (जो भी हो)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √bhū > गुजराती संभावनार्थ 'होय'",
+      "notes": "'हुइ होय' = जो भी (विराधना) हुई हो"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "वे (वे सब दोष)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. tad > गुजराती 'ते'",
+      "notes": ""
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "सब (समस्त)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sarva > प्राकृत savva > अपभ्रंश savi",
+      "notes": ""
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "मैं",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. aham > गुजराती 'हुं'",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "मन से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. manas > गुजराती करण-रूप 'मने'",
+      "notes": "मन-वचन-काया त्रिविध योग का प्रथम"
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "वचन से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vacana > करण-रूप 'वचने'",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "काया से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. kāya > गुजराती करण-रूप 'कायाए'",
+      "notes": "त्रिविध योग पूर्ण"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "करके (के द्वारा)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √kṛ > गुजराती संबंधक भूतकृदन्त 'करी'",
+      "notes": "'मन-वचन-काया से करके' — करणार्थक"
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "मिथ्या (निष्फल हो)",
+      "partOfSpeech": "adj",
+      "etymology": "सं. mithyā > प्राकृत micchā",
+      "notes": "प्राकृत क्षमायाचना-सूत्र का अंश"
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "मेरा (हो)",
+      "partOfSpeech": "pronoun",
+      "etymology": "सं. me/mama > प्राकृत mi",
+      "notes": "'मेरा' — सम्बन्ध-सूचक"
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "दुष्कृत (पाप-कर्म)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. duṣkṛta > प्राकृत dukkaḍa",
+      "notes": "'मिच्छा मि दुक्कडं' = मेरा दुष्कृत मिथ्या (निष्फल) हो"
+    }
+  ],
+  "literalTranslation": "सूत्र, अर्थ और तत्त्व को हृदय में धारूँ (१)। समकित-मोहनीय, मिश्र-मोहनीय, मिथ्यात्व-मोहनीय का त्याग करूँ (३)। काम-राग, स्नेह-राग, दृष्टि-राग का त्याग करूँ (३)। सुदेव, सुगुरु, सुधर्म का आदर करूँ (३)। कुदेव, कुगुरु, कुधर्म का त्याग करूँ (३)। ज्ञान, दर्शन, चारित्र का आदर करूँ (३)। ज्ञान-विराधना, दर्शन-विराधना, चारित्र-विराधना का त्याग करूँ (३)। मनोगुप्ति, वचनगुप्ति, कायगुप्ति का आदर करूँ (३)। मनोदंड, वचनदंड, कायदंड का त्याग करूँ (३) — योग २५। हास्य, रति, अरति का त्याग करूँ (३)। शोक, भय, दुगंछा का त्याग करूँ (३)। कृष्ण-, नील-, कापोत-लेश्या का त्याग करूँ (३)। ऋद्धि-, रस-, साता-गारव का त्याग करूँ (३)। माया-शल्य, निदान-शल्य, मिथ्यादर्शन-शल्य का त्याग करूँ (३)। क्रोध, मान का त्याग करूँ (२); माया, लोभ का त्याग करूँ (२)। पृथ्वी-, अप्-, तेज-, वायु-, वनस्पति- और त्रस-काय की विराधना का त्याग करूँ (६) — योग २५। जो भी (विराधना/दोष) हुई हो, वह सब मैं मन, वचन और काया से किया — 'मिच्छा मि दुक्कडं' (मेरा वह दुष्कृत मिथ्या हो)।",
+  "idiomaticTranslation": "सूत्र को, उसके अर्थ को और उसके भीतर छिपे तत्त्व को मैं अपने हृदय में बसाऊँ। दर्शन को मलिन करने वाले तीनों मोहनीय कर्मों को, तीनों रागों को त्यागूँ; सच्चे देव-गुरु-धर्म को आदर से अपनाऊँ और झूठे देव-गुरु-धर्म को छोड़ दूँ। ज्ञान-दर्शन-चारित्र — इन तीन रत्नों को अंगीकार करूँ, इनकी विराधना से दूर रहूँ; मन-वचन-काया की तीन गुप्तियों को साधूँ और इन्हीं के तीन दंडों को तजूँ। हँसी-रति-अरति, शोक-भय-घृणा — ये छह नोकषाय, तीन अशुभ लेश्याएँ, तीन गारव, तीन शल्य, और क्रोध-मान-माया-लोभ — सब छोड़ूँ। पृथ्वी, जल, अग्नि, वायु, वनस्पति और त्रस — इन छह प्रकार के जीवों की विराधना से विरत होऊँ। और इन सबमें जो भी भूल हुई हो, उसे मन, वचन व काया से स्वीकार करके मैं कहता हूँ — 'मिच्छा मि दुक्कडं'।",
+  "elaboration": {
+    "verseByVerseCommentary": "यह एकमात्र पद ही सम्पूर्ण पडिलेहणा है, अतः इसकी टीका इसके भीतरी क्रम-तर्क पर केन्द्रित है। आरम्भिक पंक्ति — 'सुत्तत्थ तत्त दिट्ठि हृदयमां धरुं' — समस्त बोलों की आधारशिला है: साधक पहले 'सूत्र' (पाठ), 'अर्थ' (अभिप्राय) और 'तत्त्व' (यथार्थ) — इन तीन ज्ञान-स्तरों — को हृदय में स्थापित करता है, ताकि आगे की प्रत्येक 'आदरुं/परिहरुं' घोषणा अंध-अभ्यास नहीं, अपितु सम्यग्दृष्टि-मूलक संकल्प बने। ध्यान देने योग्य है कि सूत्र केवल त्रिक नहीं गिनाता, बल्कि प्रत्येक ग्राह्य गुण को उसके ठीक प्रतिपक्षी त्याज्य दोष के साथ युग्म में रखता है: सुदेव-सुगुरु-सुधर्म ⇄ कुदेव-कुगुरु-कुधर्म; ज्ञान-दर्शन-चारित्र ⇄ उनकी विराधना; तीन गुप्ति ⇄ तीन दंड। यह द्वन्द्व-रचना ही चिंतन को द्विपक्षी बनाती है — एक ओर गुण को अपनाना, दूसरी ओर उसके विपर्यय को झाड़ देना। बोलों का प्रवाह भी सोद्देश्य है: प्रथम पच्चीस दर्शन-शुद्धि (मोहनीय, राग) से चलकर चारित्र (रत्नत्रय, गुप्ति) तक पहुँचते हैं; दूसरे पच्चीस सूक्ष्म भाव-दोषों (नोकषाय, लेश्या, गारव, शल्य, कषाय) से उतरकर अंत में स्थूलतम बहिर्-हिंसा — षट्जीवनिकाय की विराधना — पर आते हैं। अर्थात् चिंतन भीतर के सूक्ष्म परिणामों से बाहर की दृश्य क्रिया की ओर क्रमशः फैलता है। दृष्टि-राग और मिथ्यादर्शन-शल्य का पृथक् उल्लेख इस सूत्र की सूक्ष्मता दर्शाता है — ये सबसे छिपे, इसीलिए सबसे घातक दोष माने गए हैं। समापन 'हुइ होय, ते सवि... मिच्छा मि दुक्कडं' में साधक स्वीकार करता है कि इन पचास संकल्पों के पालन में भी जो त्रुटि रह जाए, वह मन-वचन-काया तीनों योगों से मिथ्या हो — यही पडिलेहणा को आलोचना (आत्म-निवेदन) के साथ पूर्ण करता है।",
+    "doctrinalContext": "सूत्र का आधार-वाक्य जैन ज्ञानमीमांसा का त्रि-स्तर — सूत्र-अर्थ-तत्त्व — स्थापित करता है, जो 'सम्यग्दर्शन-ज्ञान-चारित्र' रूपी मोक्षमार्ग (तत्त्वार्थसूत्र १.१) का व्यावहारिक प्रवेश-द्वार है। पहले दर्शन-मोहनीय के तीन भेद और तीन राग का परिहार रखकर यह स्पष्ट करता है कि चारित्र से पूर्व दर्शन-शुद्धि अनिवार्य है। दूसरे भाग में नोकषाय, लेश्या, गारव और तीन शल्य की गणना दर्शाती है कि बंध का मूल केवल स्थूल कषाय नहीं, अपितु उनके सहायक सूक्ष्म परिणाम भी हैं — विशेषतः 'शल्य' सिद्धांत, जिसके अनुसार माया-, निदान- व मिथ्यादर्शन-शल्य आत्मा में चुभे काँटे की भाँति समाधि-मरण व व्रत-पालन में बाधक बने रहते हैं। अंत की षट्जीवनिकाय-विराधना अहिंसा महाव्रत का केन्द्र है — यही पडिलेहणा-क्रिया (वस्त्र-निरीक्षण) का मूल प्रयोजन भी है, अतः बोल और क्रिया परस्पर समस्वर हो जाते हैं।",
+    "practicalRelevance": "साधक प्रत्येक 'आदरुं/परिहरुं' को मुँहपत्ति या देह के एक-एक अंग के निरीक्षण के साथ जोड़े — जैसे हाथ वस्त्र से सूक्ष्म जीव को हटाते हैं, वैसे ही मन एक गुण को अपनाने और एक दोष को झाड़ने का संकल्प करे। नए साधक इसे जाँच-सूची की तरह, अनुभवी इसे भाव-ध्यान की तरह बरतें, जिससे क्रिया यांत्रिक न रहकर अंतःशुद्धि बने। अंतिम 'मिच्छा मि दुक्कडं' को केवल शब्द नहीं, हार्दिक क्षमायाचना-भाव के साथ बोलें।",
+    "crossReferences": [
+      {
+        "text": "तत्त्वार्थसूत्र १.१ — 'सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः'",
+        "source": "उमास्वाति, तत्त्वार्थाधिगमसूत्र"
+      },
+      {
+        "text": "षट्जीवनिकाय व अहिंसा — दशवैकालिकसूत्र, अध्याय ४ (छज्जीवणिया)",
+        "source": "दशवैकालिकसूत्र (मूलसूत्र)"
+      },
+      {
+        "text": "तीन शल्य (माया-निदान-मिथ्यादर्शन) — आवश्यक/प्रतिक्रमण परम्परा",
+        "source": "पंच प्रतिक्रमण सूत्र – विधि सहित (अंचलगच्छ/विधिपक्ष संस्करण)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Muhapattina 50 Bolnu Varnan (मुहपत्ति के ५० बोल का वर्णन)",
+      "url": "https://jainqq.org/booktext/Muhapattina_50_Bolnu_Varnan/009180",
+      "type": "commentary",
+      "consultedFor": "५० बोल की क्रम-गणना, प्रत्येक बोल का अर्थ व २५+२५ विभाजन का सत्यापन"
+    },
+    {
+      "title": "Guide to Padilehana of the Muhapati – 50 Bols of Muhapati (Kishor B. Shah)",
+      "url": "https://oshwal.org.uk/wp-content/uploads/2024/08/Guide%20to%20Padilehana%20of%20the%20Muhapati%20-%2050%20Bols%20of%20Muhapati%20-%20By%20Kishor%20B%20shah.pdf",
+      "type": "translation",
+      "consultedFor": "बोलों का अंग्रेज़ी अर्थ, क्रिया के साथ समस्वरता तथा 'आदरुं/परिहरुं' युग्म-रचना"
+    },
+    {
+      "title": "Fifty Bol of Muhpatti Padilehan – An Insight Into Jain Religious Philosophy (Dr. Chhaya Shaparia Sheth)",
+      "url": "https://www.hoopladigital.com/ebook/Fifty-Bol-of-Muhpatti-Padilehan-An-Insight-Into-Jain-Religious-Philosophy-Dr-Chhaya-Shaparia-Sheth/17453863",
+      "type": "scholarship",
+      "consultedFor": "बोलों का दार्शनिक/सैद्धांतिक पक्ष — शल्य, गारव, लेश्या व नोकषाय की व्याख्या"
+    },
+    {
+      "title": "Muhapatti 50 Bol (Gujarati–English)",
+      "url": "https://jainebooks.org/books/17175",
+      "type": "translation",
+      "consultedFor": "गुजराती मूल पाठ व उसके सरल अंग्रेज़ी अर्थ का सत्यापन"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "पाठ ग्रन्थ की वर्तनी के अनुसार रखा गया है — 'अपूकाय' (न कि अप्काय/अपकाय), 'दुगंछा' (जुगुप्सा), 'मायासल्ल/नियाणसल्ल/मिच्छादंसणसल्ल' (प्राकृत शल्य-रूप) — इन्हें मानकीकृत नहीं किया गया। पहली पंक्ति की गणना ग्रन्थ में '१' अंकित है, जबकि शेष बोल त्रिक (३) में गिने गए हैं; '१' को प्रथम बोल मानें या आधार-वाक्य — संस्करण-भेद सम्भव है। चार कषाय यहाँ '२+२' (क्रोध-मान, माया-लोभ) में विभक्त हैं तथा 'लोभपरिहरुं' मूल में संयुक्त लिखा है — टोकनीकरण में 'लोभ' व 'परिहरुं' पृथक् दर्शाये गए हैं। अंतिम षट्काय-पंक्ति में 'परिहरुं' अध्याहृत (समापन-वाक्य में समाहित) है। 'मिच्छा मि दुक्कडं' गुजराती पाठ के भीतर अर्धमागधी/प्राकृत सूत्र-खंड है। ध्रुवपद 'परिहरुं' (×१२) व 'आदरुं' (×३) की प्रत्येक आवृत्ति को टोकन-स्तर पर गिना गया है; पुनरावृत्त रूपों की व्युत्पत्ति प्रथम स्थान पर पूर्ण दी गई है। रचयिता परम्परा में अनाम; पाठ-स्थान अंचलगच्छ/विधिपक्ष संस्करण के अनुसार। उद्धृत वेब-स्रोत बोल-गणना व अर्थ हेतु सहायक हैं, किन्तु अंतिम प्रामाणिकता मूल ग्रन्थ की ही है।"
+}

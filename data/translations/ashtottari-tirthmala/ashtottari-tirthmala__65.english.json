@@ -1,0 +1,176 @@
+{
+  "shlokaId": "ashtottari-tirthmala/65",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Gods riding in chariots circled the young monk here in reverence and held a festival in his honour, and because of that this holy place came to be called 'Rathāvarta' — and we bow to it.",
+  "recitation": "raharūḍhā pāyāhiṇa, kāuṁ mahimaṁ kariṁsu khuḍḍasa | taṁ heuṁ tayaṁ titthaṁ, rahaāvattaṁ ti taṁ namimo ||",
+  "wordByWord": [
+    {
+      "token": "રહરૂઢા",
+      "translit": "raharūḍhā",
+      "gloss": "mounted upon chariots; (the gods) seated in their chariots",
+      "partOfSpeech": "compound",
+      "etymology": "From raha (Skt. ratha, 'chariot') + rūḍha (√ruh, 'mounted, ascended'); nominative plural describing the chariot-borne deities who are the subject.",
+      "notes": "The grammatical subject 'gods/devas' is carried over from the surrounding Vajrasvāmī narrative (vv.64, 66) and is implied, not stated, in this verse."
+    },
+    {
+      "token": "પાયાહિણ",
+      "translit": "pāyāhiṇa",
+      "gloss": "circumambulation (keeping the right side toward the venerated one)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāyāhiṇa = Skt. prādakṣiṇya / pradakṣiṇā; the rightward reverential circling. Used adverbially/as object of kāuṁ.",
+      "notes": ""
+    },
+    {
+      "token": "કાઉં",
+      "translit": "kāuṁ",
+      "gloss": "having done, having made",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive (gerund) of √kṛ; Prakrit kāuṁ = Skt. kṛtvā.",
+      "notes": "Governs pāyāhiṇa: 'having performed the circumambulation'."
+    },
+    {
+      "token": "મહિમં",
+      "translit": "mahimaṁ",
+      "gloss": "a glorification, an honour-festival (mahimā / mahotsava of veneration)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mahiman / mahimā, 'greatness, majesty'; in Jain usage the celebratory honouring (mahotsava) rendered to a saint, here at his samādhi.",
+      "notes": "Accusative object of kariṁsu."
+    },
+    {
+      "token": "કરિંસુ",
+      "translit": "kariṁsu",
+      "gloss": "they did, they performed",
+      "partOfSpeech": "verb",
+      "etymology": "Third-person plural past of √kṛ; Prakrit kariṁsu = Skt. cakruḥ / akārṣuḥ.",
+      "notes": ""
+    },
+    {
+      "token": "ખુડ્ડસ",
+      "translit": "khuḍḍasa",
+      "gloss": "of the young one / of the junior monk (kṣullaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive of khuḍḍa = Skt. kṣudra / kṣullaka, 'small, junior'; in monastic usage a kṣullaka, a young/minor ascetic.",
+      "notes": "Reads as the recipient of the honouring. Whether khuḍḍa designates the boy-prodigy Vajra himself (famed as a child ascetic) or a young disciple-kṣullaka linked to the Rathāvarta episode is a genuine ambiguity — see notes."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that, for that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tat/tad; here paired with heuṁ as 'for that reason'.",
+      "notes": ""
+    },
+    {
+      "token": "હેઉં",
+      "translit": "heuṁ",
+      "gloss": "reason, cause",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hetu, 'cause, ground'; taṁ heuṁ = 'on that account, for that reason'.",
+      "notes": ""
+    },
+    {
+      "token": "તયં",
+      "translit": "tayaṁ",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tad/tat; demonstrative qualifying titthaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṁ",
+      "gloss": "tīrtha (sacred crossing-place / pilgrimage site)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tittha = Skt. tīrtha (glossary term; used as established).",
+      "notes": ""
+    },
+    {
+      "token": "રહઆવત્તં",
+      "translit": "rahaāvattaṁ",
+      "gloss": "'Rathāvarta' (the Chariot-Turning)",
+      "partOfSpeech": "compound",
+      "etymology": "raha (Skt. ratha, 'chariot') + āvatta (Skt. āvarta, 'turning, circling, whirling'); the proper name of the mountain-tīrtha.",
+      "notes": "The name is here given its folk-etymology directly from the chariot (raha) circumambulation (āvatta) of the previous line."
+    },
+    {
+      "token": "તિ",
+      "translit": "ti",
+      "gloss": "thus, so-called ('named')",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ti = Skt. iti, the quotative/naming particle marking the preceding word as a name.",
+      "notes": ""
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "it, that (one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tat/tad; accusative object of namimo, referring to the tīrtha.",
+      "notes": ""
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we salute",
+      "partOfSpeech": "verb",
+      "etymology": "First-person plural present of √nam, 'to bow'; Prakrit namimo = Skt. namāmaḥ.",
+      "notes": "The hymn's recurring gesture of homage that strings each tīrtha-bead."
+    }
+  ],
+  "literalTranslation": "Mounted on chariots, having made circumambulation, they performed the honour-festival of the young one (kṣullaka); for that reason that tīrtha [is named] 'Rathāvarta' thus — and to it we bow.",
+  "idiomaticTranslation": "Borne in their celestial chariots, the gods circled him in reverence and held a great festival of homage for the young ascetic. From that very deed the holy place won its name — Rathāvarta, the Chariot-Turning; and to that tīrtha we bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse supplies the naming-charter (nāma-nirvacana) of the Rathāvarta tīrtha and is the hinge of the three-verse Vajrasvāmī sequence. The preceding verse set the scene — Vajrasvāmī's worship (ārādhana) upon the mountain — and the following verse will resolve the two names together: Śakra circling first by chariot (raha) and then by elephant (kariṇā) yields Rathāvarta and Kuñjarāvarta. Here the poet isolates the first half of that etymology. The deities, 'mounted on chariots' (raharūḍhā), perform pradakṣiṇā (pāyāhiṇa) and a celebratory honouring (mahimaṁ kariṁsu) of the khuḍḍa — the young/junior ascetic. The verse then draws the explicit inference with taṁ heuṁ ('for that very reason'): because the homage was rendered from circling chariots, the site is called Rathāvarta, 'Chariot-Turning' (raha + āvatta). The closing taṁ namimo folds the place back into the hymn's unbroken act of bowing. Note the deliberate verbal echo across the triad — pāyāhiṇa and the raha-/āvatta- elements recur in v.66 — so that v.65 and v.66 together perform the naming twice, once for each vehicle. The word khuḍḍa is the verse's one real crux: it may affectionately mark Vajra, celebrated since infancy as a prodigy ascetic, or point to a young kṣullaka of the episode; the genitive ('the honouring of the khuḍḍa') makes him the honoured party either way.",
+    "doctrinalContext": "The verse encodes the high Jain valuation of samādhi-maraṇa (death-in-equanimity through anaśana / sallekhanā): the response of the gods is not a rescue but a mahimā — a festival of homage — confirming that a saint's composed death is itself the supreme auspicious event, drawing even the devas down from the heavens. It also illustrates how Jain sacred geography is consecrated: a place becomes a tīrtha not by a deity's residence but by a soul's spiritual feat and the devotion (pradakṣiṇā, the rightward circling that is the body's grammar of reverence) it elicits. The aetiological 'taṁ heuṁ' models the tradition's habit of reading holy place-names as compressed hagiography.",
+    "practicalRelevance": "For the reciter, the verse turns a place-name into a meditation: even celestial beings interrupt their splendour to circle and honour one who dies in equanimity, so the worshipper's own bow (namimo) joins that timeless procession. It invites cultivating the same reverence for samādhi and the resolve that one's end, too, be met with composure.",
+    "crossReferences": [
+      {
+        "text": "Sthavirāvalī, the life and Rathāvarta-mountain anaśana of Ārya Vajrasvāmī",
+        "source": "Hemacandra, Pariśiṣṭaparvan (Sthavirāvalī)"
+      },
+      {
+        "text": "Rathāvarta named as a mountain of pilgrimage",
+        "source": "Monier-Williams Sanskrit-English Dictionary (Cologne), s.v. rathāvarta, citing Pariśiṣṭaparvan"
+      },
+      {
+        "text": "Adjacent verses naming Rathāvarta and Kuñjarāvarta (chariot then elephant)",
+        "source": "Aṣṭottarī Tīrthamālā vv.64, 66 (Mahendrasiṁhasūri)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rathāvarta (Jain mountain; Sanskrit dictionary entries)",
+      "url": "https://www.wisdomlib.org/definition/rathavarta",
+      "type": "scholarship",
+      "consultedFor": "Rathāvarta as a mountain-tīrtha; corroboration via Hemacandra's Pariśiṣṭaparvan and the Cologne Monier-Williams entry"
+    },
+    {
+      "title": "Pāyāhiṇa (Prakrit) — Sheth, Pāia-sadda-mahaṇṇavo",
+      "url": "https://www.wisdomlib.org/definition/payahina",
+      "type": "dictionary",
+      "consultedFor": "Gloss of pāyāhiṇa = Skt. prādakṣiṇya / pradakṣiṇā (circumambulation)"
+    },
+    {
+      "title": "Khuḍḍa (Prakrit) — Sheth, Pāia-sadda-mahaṇṇavo",
+      "url": "https://www.wisdomlib.org/definition/khudda",
+      "type": "dictionary",
+      "consultedFor": "Gloss of khuḍḍa = Skt. kṣudra / kṣullaka ('small; junior monk')"
+    },
+    {
+      "title": "Paia-sadda-mahannavo, a comprehensive Prakrit-Hindi dictionary (Sheth)",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Primary Prakrit lexicon underlying the pāyāhiṇa and khuḍḍa equivalences"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "rathāvarta as a place/mountain name (Mahābhārata; Pariśiṣṭaparvan); ratha, āvarta, hetu, mahiman roots"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The subject of raharūḍhā…kariṁsu ('the gods/devas') is unstated in this verse and supplied from the surrounding narrative (vv.64, 66), where Śakra/Indra performs the chariot and elephant circumambulations. The chief ambiguity is khuḍḍa (genitive khuḍḍasa = Skt. kṣudra/kṣullaka, 'small one / junior monk'): it may honorifically denote Vajrasvāmī, famed from childhood as a prodigy ascetic, or a young kṣullaka disciple associated with the Rathāvarta episode; the present rendering keeps the literal 'young one / junior monk' and flags the open identification. raha- is the regular Prakrit reflex of Skt. ratha-, and āvatta of āvarta, so 'Rathāvarta' = 'chariot-turning'; the verse offers this as a folk-etymology grounded in the chariot circumambulation, consistent with v.66 pairing it with Kuñjarāvarta. Spelling is reproduced verbatim from the Anchalgachchha/Vidhipaksha edition (e.g. પાયાહિણ, રહઆવત્તં) and not normalised. No verified standalone published translation of this specific gāthā was located; the legend itself is well attested in the Pariśiṣṭaparvan / Āvaśyaka tradition."
+}

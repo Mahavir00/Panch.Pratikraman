@@ -1,0 +1,493 @@
+{
+  "shlokaId": "adhar-papsthanak/01",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "આ સૂત્રમાં અઢાર પ્રકારનાં પાપ ક્રમવાર ગણાવી, એમાંથી જે કોઈ પાપ મેં જાતે કર્યું, કરાવ્યું કે કરનારને સારું માન્યું હોય, તે બધાં માટે મન-વચન-કાયાથી 'મિચ્છા મિ દુક્કડં' કહીને ક્ષમા માગું છું.",
+  "recitation": "પહેલે પ્રાણાતિપાત, બીજે મૃષાવાદ, ત્રીજે અદત્તાદાન, ચોથે મૈથુન, પાંચમે પરિગ્રહ, છઠ્ઠે ક્રોધ, સાતમે માન, આઠમે માયા, નવમે લોભ, દશમે રાગ, અગિયારમે દ્વેષ, બારમે કલહ, તેરમે અભ્યાખ્યાન, ચૌદમે ચાડી, પંદરમે રતિ-અરતિ, સોળમે પરપરિવાદ, સત્તરમે માયા-મૃષાવાદ, અઢારમે મિથ્યાત્વ-શલ્ય — એ અઢારે પાપસ્થાનકમાંહે જિકો કોઇ પાપસ્થાનક મારે જીવે સેવ્યું હોય, સેવરાવ્યું હોય, સેવતાં પ્રત્યે અનુમોદ્યું હોય, તે સવિ હું મને, વચને, કાયાએ કરી મિચ્છા મિ દુક્કડં.",
+  "wordByWord": [
+    {
+      "token": "પહેલે",
+      "translit": "pahele",
+      "gloss": "પહેલા (પ્રથમ) સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. paḍhama < સં. prathama; અંત્ય -e એ સપ્તમી (સ્થાનવાચક) વિભક્તિ.",
+      "notes": "આગળના સત્તર ક્રમવાચક શબ્દો પણ આ જ -e (સ્થાનવાચક) ઢાંચાના છે."
+    },
+    {
+      "token": "પ્રાણાતિપાત",
+      "translit": "prāṇātipāta",
+      "gloss": "જીવહિંસા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. prāṇa (પ્રાણ) + atipāta (ઘાત)."
+    },
+    {
+      "token": "બીજે",
+      "translit": "bīje",
+      "gloss": "બીજા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "અપ. bīa < સં. dvitīya; સપ્તમી -e."
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "અસત્ય, જૂઠ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. mṛṣā (ખોટું) + vāda (બોલવું)."
+    },
+    {
+      "token": "ત્રીજે",
+      "translit": "trīje",
+      "gloss": "ત્રીજા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. tṛtīya; સપ્તમી -e."
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "ન આપેલું લેવું—ચોરી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. a-datta (ન અપાયેલું) + ādāna (ગ્રહણ)."
+    },
+    {
+      "token": "ચોથે",
+      "translit": "cothe",
+      "gloss": "ચોથા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. caturtha; સપ્તમી -e."
+    },
+    {
+      "token": "મૈથુન",
+      "translit": "maithuna",
+      "gloss": "અબ્રહ્મચર્ય",
+      "partOfSpeech": "noun",
+      "etymology": "સં. mithuna (યુગ્મ) પરથી."
+    },
+    {
+      "token": "પાંચમે",
+      "translit": "pāṁcame",
+      "gloss": "પાંચમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. pañcama; સપ્તમી -e."
+    },
+    {
+      "token": "પરિગ્રહ",
+      "translit": "parigraha",
+      "gloss": "સંગ્રહ અને આસક્તિ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pari + √grah (ગ્રહણ કરવું)."
+    },
+    {
+      "token": "છઠ્ઠે",
+      "translit": "chaṭṭhe",
+      "gloss": "છઠ્ઠા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. chaṭṭha < સં. ṣaṣṭha; સપ્તમી -e."
+    },
+    {
+      "token": "ક્રોધ",
+      "translit": "krodha",
+      "gloss": "ગુસ્સો (પ્રથમ કષાય)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √krudh (કોપવું)."
+    },
+    {
+      "token": "સાતમે",
+      "translit": "sātame",
+      "gloss": "સાતમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. saptama; સપ્તમી -e."
+    },
+    {
+      "token": "માન",
+      "translit": "māna",
+      "gloss": "અહંકાર (કષાય)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √man (માનવું/ગર્વ કરવો)."
+    },
+    {
+      "token": "આઠમે",
+      "translit": "āṭhame",
+      "gloss": "આઠમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. aṣṭama; સપ્તમી -e."
+    },
+    {
+      "token": "માયા",
+      "translit": "māyā",
+      "gloss": "કપટ (કષાય)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. māyā (છળ, ભ્રમ)."
+    },
+    {
+      "token": "નવમે",
+      "translit": "navame",
+      "gloss": "નવમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. navama; સપ્તમી -e."
+    },
+    {
+      "token": "લોભ",
+      "translit": "lobha",
+      "gloss": "લાલચ (કષાય)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √lubh (લલચાવું)."
+    },
+    {
+      "token": "દશમે",
+      "translit": "daśame",
+      "gloss": "દશમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "સં. daśama; સપ્તમી -e."
+    },
+    {
+      "token": "રાગ",
+      "translit": "rāga",
+      "gloss": "આસક્તિ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √rañj (રંગાવું, આસક્ત થવું)."
+    },
+    {
+      "token": "અગિયારમે",
+      "translit": "agiyārame",
+      "gloss": "અગિયારમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. egāraha < સં. ekādaśa; સપ્તમી -e."
+    },
+    {
+      "token": "દ્વેષ",
+      "translit": "dveṣa",
+      "gloss": "અણગમો, વેર",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √dviṣ (દ્વેષ કરવો)."
+    },
+    {
+      "token": "બારમે",
+      "translit": "bārame",
+      "gloss": "બારમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. bāraha < સં. dvādaśa; સપ્તમી -e."
+    },
+    {
+      "token": "કલહ",
+      "translit": "kalaha",
+      "gloss": "ઝઘડો, કંકાસ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kalaha (વિવાદ)."
+    },
+    {
+      "token": "તેરમે",
+      "translit": "terame",
+      "gloss": "તેરમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. teraha < સં. trayodaśa; સપ્તમી -e."
+    },
+    {
+      "token": "અભ્યાખ્યાન",
+      "translit": "abhyākhyāna",
+      "gloss": "ખોટું આળ, મિથ્યા આરોપ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. abhi + ā + √khyā (કહેવું—ખોટું આરોપવું)."
+    },
+    {
+      "token": "ચૌદમે",
+      "translit": "caudame",
+      "gloss": "ચૌદમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. cauddaha < સં. caturdaśa; સપ્તમી -e."
+    },
+    {
+      "token": "ચાડી",
+      "translit": "cāḍī",
+      "gloss": "ચુગલી, પૈશુન્ય",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય/પ્રાકૃત મૂળ; પૈશુન્ય માટેનો ગુજ. શબ્દ."
+    },
+    {
+      "token": "પંદરમે",
+      "translit": "paṁdarame",
+      "gloss": "પંદરમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. paṇṇaraha < સં. pañcadaśa; સપ્તમી -e."
+    },
+    {
+      "token": "રતિઅરતિ",
+      "translit": "rati-arati",
+      "gloss": "હર્ષ-ખેદની વિકૃતિ (અસંયમમાં રતિ, સંયમમાં અરતિ)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. rati (પ્રીતિ) + a-rati (અપ્રીતિ)—દ્વંદ્વ સમાસ."
+    },
+    {
+      "token": "સોળમે",
+      "translit": "soḷame",
+      "gloss": "સોળમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. soḷaha < સં. ṣoḍaśa; સપ્તમી -e."
+    },
+    {
+      "token": "પરપરિવાદ",
+      "translit": "paraparivāda",
+      "gloss": "પારકાની નિંદા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. para (બીજો) + parivāda (નિંદા)."
+    },
+    {
+      "token": "સત્તરમે",
+      "translit": "sattarame",
+      "gloss": "સત્તરમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. sattaraha < સં. saptadaśa; સપ્તમી -e."
+    },
+    {
+      "token": "માયા–મૃષાવાદ",
+      "translit": "māyā-mṛṣāvāda",
+      "gloss": "કપટપૂર્વકનું જૂઠ",
+      "partOfSpeech": "compound",
+      "etymology": "સં. māyā (કપટ) + mṛṣāvāda (અસત્ય)—છળ સહિતનું જૂઠ."
+    },
+    {
+      "token": "અઢારમે",
+      "translit": "aḍhārame",
+      "gloss": "અઢારમા સ્થાને",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. aṭṭhāraha < સં. aṣṭādaśa; સપ્તમી -e."
+    },
+    {
+      "token": "મિથ્યાત્વશલ્ય",
+      "translit": "mithyātva-śalya",
+      "gloss": "મિથ્યા શ્રદ્ધારૂપી શલ્ય (કાંટો)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. mithyātva (વિપરીત દૃષ્ટિ) + śalya (કાંટો, શૂળ)."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "આ, ઉપર ગણાવેલાં",
+      "partOfSpeech": "pronoun",
+      "etymology": "ગુજ. દર્શક સર્વનામ (< સં. eta)."
+    },
+    {
+      "token": "અઢારે",
+      "translit": "aḍhāre",
+      "gloss": "અઢારેય (બધાં અઢાર)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. aṣṭādaśa; અંત્ય -e સમાવેશક ('બધાં')."
+    },
+    {
+      "token": "પાપસ્થાનકમાંહે",
+      "translit": "pāpasthānakamāṁhe",
+      "gloss": "પાપસ્થાનકોમાં",
+      "partOfSpeech": "noun",
+      "etymology": "પાપસ્થાનક + માંહે (જૂની ગુજ. 'માં', સપ્તમી પ્રત્યય)."
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "જે કોઈ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુજરાતી સંબંધવાચક 'જે' (< સં. ya); 'કો' = કોઈ."
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "કોઈ (અનિશ્ચિત)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. koi < સં. ko'pi."
+    },
+    {
+      "token": "પાપસ્થાનક",
+      "translit": "pāpasthānaka",
+      "gloss": "પાપનું મૂળ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pāpa + sthānaka (સ્થાન)."
+    },
+    {
+      "token": "મારે",
+      "translit": "māre",
+      "gloss": "મારા (વડે)",
+      "partOfSpeech": "pronoun",
+      "etymology": "ગુજ. પ્રથમ-પુરુષ સંબંધક; 'મારે જીવે' = મારા જીવ વડે."
+    },
+    {
+      "token": "જીવે",
+      "translit": "jīve",
+      "gloss": "જીવ (આત્મા) વડે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. jīva; અંત્ય -e કરણ/સ્થાનવાચક."
+    },
+    {
+      "token": "સેવ્યું",
+      "translit": "sevyuṁ",
+      "gloss": "જાતે આચર્યું (કૃત)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √sev (સેવવું) નું ભૂતકૃદંત."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (સંભાવનાર્થ)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √bhū > પ્રા. ho; સંભાવનાર્થ રૂપ. (પાઠમાં ૩ વાર)."
+    },
+    {
+      "token": "સેવરાવ્યું",
+      "translit": "sevarāvyuṁ",
+      "gloss": "બીજા પાસે કરાવ્યું (કારિત)",
+      "partOfSpeech": "verb",
+      "etymology": "√sev નું પ્રેરક (-rāv-) ભૂતકૃદંત."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (સંભાવનાર્થ)",
+      "partOfSpeech": "verb",
+      "etymology": "ઉપર મુજબ."
+    },
+    {
+      "token": "સેવતાં",
+      "translit": "sevatāṁ",
+      "gloss": "સેવન કરનારને / કરતી વખતે",
+      "partOfSpeech": "verb",
+      "etymology": "√sev નું વર્તમાન કૃદંત."
+    },
+    {
+      "token": "પ્રત્યે",
+      "translit": "pratye",
+      "gloss": "પ્રત્યે, તરફ",
+      "partOfSpeech": "particle",
+      "etymology": "સં. prati (તરફ) પરથી."
+    },
+    {
+      "token": "અનુમોદ્યું",
+      "translit": "anumodyuṁ",
+      "gloss": "અનુમોદન-સંમતિ આપી (અનુમોદિત)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. anu + √mud (પ્રસન્ન થવું) નું ભૂતકૃદંત."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (સંભાવનાર્થ)",
+      "partOfSpeech": "verb",
+      "etymology": "ઉપર મુજબ."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "તે (સર્વ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "ગુજ. દર્શક (< સં. tad)."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "સર્વ, બધું",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. savva < સં. sarva; જૂની ગુજ. 'સવિ'."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "હું (કર્તા)",
+      "partOfSpeech": "pronoun",
+      "etymology": "ગુજ. પ્રથમ-પુરુષ સર્વનામ (< સં. aham)."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "મન વડે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. manas; અહીં કરણ વિભક્તિ (મનથી)—'મને' એટલે 'મન વડે', નહિ કે 'મારે'."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "વચન (વાણી) વડે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vacana; કરણ -e."
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "કાયા (શરીર) વડે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāya; કરણ -e."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "કરીને",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √kṛ; સંબંધક ભૂતકૃદંત—'મન-વચન-કાયાએ કરી' = ત્રિવિધ યોગથી."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "મિથ્યા, ફોગટ",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. micchā < સં. mithyā."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "મારું (મારાથી)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. mi/me < સં. me (મારું)."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "દુષ્કૃત, ખરાબ કર્મ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. dukkaḍa < સં. duṣkṛta (દુ + કૃત)."
+    }
+  ],
+  "literalTranslation": "પહેલા (સ્થાને) પ્રાણાતિપાત, બીજા મૃષાવાદ, ત્રીજા અદત્તાદાન, ચોથા મૈથુન, પાંચમા પરિગ્રહ, છઠ્ઠા ક્રોધ, સાતમા માન, આઠમા માયા, નવમા લોભ, દશમા રાગ, અગિયારમા દ્વેષ, બારમા કલહ, તેરમા અભ્યાખ્યાન, ચૌદમા ચાડી, પંદરમા રતિ-અરતિ, સોળમા પરપરિવાદ, સત્તરમા માયા-મૃષાવાદ, અઢારમા મિથ્યાત્વ-શલ્ય—એ અઢારે પાપસ્થાનકોમાં જે કોઈ પાપસ્થાનક મારા જીવે આચર્યું હોય, કરાવ્યું હોય, કે કરનાર પ્રત્યે અનુમોદ્યું હોય, તે સર્વ હું મન-વચન-કાયાથી કરીને (કહું છું) મિચ્છા મિ દુક્કડં.",
+  "idiomaticTranslation": "પહેલું પ્રાણાતિપાત, બીજું મૃષાવાદ, ત્રીજું અદત્તાદાન, ચોથું મૈથુન, પાંચમું પરિગ્રહ; છઠ્ઠું ક્રોધ, સાતમું માન, આઠમું માયા, નવમું લોભ; દશમું રાગ, અગિયારમું દ્વેષ; બારમું કલહ, તેરમું અભ્યાખ્યાન, ચૌદમું ચાડી, પંદરમું રતિ-અરતિ, સોળમું પરપરિવાદ, સત્તરમું માયા-મૃષાવાદ, અને અઢારમું મિથ્યાત્વ-શલ્ય. આ અઢારે પાપસ્થાનકોમાંથી જે કોઈ પાપ મેં જાતે સેવ્યું હોય, બીજા પાસે સેવરાવ્યું હોય, કે સેવનારને રાજી થઈ અનુમોદ્યું હોય—તે સઘળું, મન-વચન-કાયા ત્રણેથી, મિથ્યા થાઓ: મિચ્છા મિ દુક્કડં.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ એક જ ગદ્ય-વાક્ય બે સ્પષ્ટ ભાગમાં વહેંચાય છે, અને એ વળાંક જ આ verseનું હાર્દ છે. પ્રથમ ભાગ 'પહેલે…અઢારમે' એ ગણના છે—પ્રત્યેક પાપસ્થાનક સપ્તમી (-e) વિભક્તિના ક્રમવાચક સાથે મુકાયું છે, જાણે કોઈ સૂચિ-પત્ર પર એક-એક ખાનું ભરાતું હોય. આ સ્થાનવાચક રચના સાધકને દરેક નામ આગળ ઘડીભર થોભવા પ્રેરે છે, ઉતાવળે યાદી ગણી જવા નહિ. 'એ અઢારે' શબ્દે યાદી બંધ થઈ આલોચના ખૂલે છે. અહીંની જૂની ગુજરાતી-અપભ્રંશ ભાષાછટા ધ્યાન ખેંચે છે: 'જિકો કોઇ' (=જે કોઈ પણ) સર્વસમાવેશક છે—એક પણ પાપસ્થાનક બાકાત ન રહે; 'સવિ' (=સર્વ), 'મિ' (=મારું) અને 'દુક્કડં' (=દુષ્કૃત) એ પ્રાકૃત-મૂળ રૂપો સૂત્રને આગમ-પરંપરા સાથે જોડે છે. બીજો ભાગ બે ત્રિપુટી પર ઊભો છે: ક્રિયાપદ-ત્રિક 'સેવ્યું–સેવરાવ્યું–અનુમોદ્યું' (કૃત-કારિત-અનુમોદિત), અને કરણ-ત્રિક 'મને–વચને–કાયાએ' (મન-વચન-કાયા). નોંધવા જેવું: 'મને' એ 'મારે' નહિ પણ 'મન વડે' છે—તેથી ૩ × ૩ = નવ ભંગે આલોચના સધાય છે. 'કરી' (કરીને) એ બંને ત્રિકને 'મિચ્છા મિ દુક્કડં' સાથે સાંધે છે: માત્ર ગણતરી નહિ, પણ સક્રિય પશ્ચાત્તાપ. આમ verse ગણના(jñāna)થી શરૂ થઈ આલોચના(kriyā) સુધી લઈ જાય છે—જાણવું અને એકરાર કરવું, બંને એક શ્વાસમાં.",
+    "doctrinalContext": "અઢારની યાદી અકારણ ક્રમમાં નથી: પ્રથમ પાંચ (પ્રાણાતિપાતથી પરિગ્રહ) એ પાંચ આસ્રવ/વ્રત-વિરોધી પાપ, પછી ચાર કષાય, પછી તેમનું મૂળ-યુગ્મ રાગ-દ્વેષ, પછી વાણી-સામાજિક દોષ, અને છેલ્લે મિથ્યાત્વ-શલ્ય. મિથ્યાત્વ અંતે મુકાયું છે કારણ કે જૈન દર્શનમાં વિપરીત શ્રદ્ધા જ બાકીના સત્તર પાપોને પોષનારું મૂળ છે—'શલ્ય' (કાંટો) રૂપક સૂચવે છે કે જ્યાં સુધી એ ખૂંચતો કાંટો ન નીકળે ત્યાં સુધી ઘા રુઝાય નહિ. નવ-ભંગ આલોચના (કૃત-કારિત-અનુમોદિત × મન-વચન-કાયા) એ દર્શાવે છે કે કર્મબંધ માત્ર સ્થૂળ કૃત્યથી નહિ, પ્રેરણા અને અનુમોદનથી પણ થાય; તેથી શુદ્ધિ પણ ત્રિવિધ-ત્રિવિધ હોવી ઘટે.",
+    "practicalRelevance": "પાઠ કરતી વખતે અઢારે નામ ઝડપથી ગણી ન જાઓ; દરેક આગળ ક્ષણભર થોભી પૂછો—'આજે મેં આ ક્યાં, કેવી રીતે સ્પર્શ્યું? જાતે કર્યું, કોઈ પાસે કરાવ્યું, કે કોઈના કરેલા પર રાજી થયો?' મન-વચન-કાયા ત્રણેને અલગ-અલગ તપાસો, અને અંતે હૃદયપૂર્વક 'મિચ્છા મિ દુક્કડં' બોલો—શબ્દ ઉચ્ચારથી નહિ, ભાવપૂર્વક.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 6.5–6 (પાંચ આસ્રવ) અને 8.1 (મિથ્યાત્વ આદિ બંધ-હેતુ)",
+        "source": "Umāsvāti, Tattvārtha Sūtra with commentaries"
+      },
+      {
+        "text": "Sthānāṅga / Samavāyāṅga—અઢાર પાપસ્થાનકની આગમિક ગણના",
+        "source": "Śvetāmbara Aṅga-āgama"
+      },
+      {
+        "text": "કષાય ચતુષ્ક (ક્રોધ-માન-માયા-લોભ)",
+        "source": "Kashaya (Jainism), Wikipedia / Sarvārthasiddhi"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "પ્રતિક્રમણ, છ આવશ્યક અને દેવસિ/પક્ખી/સંવત્સરિ માળખાની ખાતરી."
+    },
+    {
+      "title": "Micchami Dukkadam",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "'મિચ્છા મિ દુક્કડં' (પ્રા.) = સં. 'mithyā me duṣkṛtam'—'મારું દુષ્કૃત મિથ્યા થાઓ' અર્થ અને કૃત-કારિત-અનુમોદિત × મન-વચન-કાયા ભંગ."
+    },
+    {
+      "title": "Kashaya (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Kashaya_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "ચાર કષાય (ક્રોધ-માન-માયા-લોભ) અને બંધ-હેતુ તરીકે તેમની ભૂમિકા."
+    },
+    {
+      "title": "Tattvartha Sutra",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "પાંચ આસ્રવ, કષાય તથા મિથ્યાત્વ સંબંધી સૈદ્ધાંતિક માળખું."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "પાઠ પુસ્તકના વર્બેટિમ ગુજરાતી રૂપ પ્રમાણે; recitationમાં ૧૫મા/૧૭મા/૧૮મા પદે વાચન-સ્પષ્ટતા માટે હાઈફન ('રતિ-અરતિ', 'માયા-મૃષાવાદ', 'મિથ્યાત્વ-શલ્ય') ઉમેર્યા છે—મૂળ સંયુક્ત રૂપ યથાવત્. ભાષાગત નોંધ: 'જિકો', 'સવિ', 'મિ', 'માંહે' જૂની ગુજરાતી-અપભ્રંશ રૂપો છે. અર્થ-સ્પષ્ટતા: 'મારે જીવે' = 'મારા જીવ(આત્મા) વડે', અને 'મને' અહીં 'મારે' નહિ પણ 'મન વડે' (કરણ) છે—બંને સહેલાઈથી ગૂંચવાય તેવાં. variant: કેટલીક આધુનિક યાદીઓ ૧૭-૧૮ને 'મિથ્યાત્વ' તથા 'શલ્ય' એમ અલગ આપે છે, પણ આ પુસ્તકના સંયુક્ત પાઠને જ પ્રમાણ માન્યો છે. આગમ-સ્થાન (Sthānāṅga/Samavāyāṅga) માટે સ્થિર ઑનલાઇન URL ચકાસી ન શકાયાથી તેને sources બદલે crossReferencesમાં રાખ્યું છે."
+}

@@ -1,0 +1,150 @@
+{
+  "shlokaId": "smaran-7-shakrastava/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whatever Jina-images there are anywhere — up in the heavens, down in the nether worlds, or here in the middle world — I bow to every one of them.",
+  "recitation": "Jaṁ kiñci nāma titthaṁ, sagge pāyāli tiriya loe-mmi; jāiṁ jiṇa-biṁbāiṁ, tāiṁ savvāiṁ vaṁdāmi.",
+  "wordByWord": [
+    {
+      "token": "જંકિંચિ",
+      "translit": "jaṁ kiñci",
+      "gloss": "whatever (there may be), of any kind at all",
+      "partOfSpeech": "compound",
+      "etymology": "Relative pronoun jaṁ (Skt. yat, 'which') + the indefinite kiñci (Skt. kiṁ-cit, 'anything whatever'); together a universalizing 'whatsoever'.",
+      "notes": "Printed joined in the book; lexically two particles. The pair launches the sutra's all-inclusive sweep — nothing is left out."
+    },
+    {
+      "token": "નામતિત્થં",
+      "translit": "nāma titthaṁ",
+      "gloss": "a tīrtha (holy ford / pilgrimage seat), by name / so called",
+      "partOfSpeech": "compound",
+      "etymology": "Emphatic particle nāma (Skt. nāma, 'by name, indeed') + titthaṁ (Skt. tīrtha-, neut. nom./acc. sg.), a 'crossing-place' or sacred site enshrining a Jina.",
+      "notes": "Here tīrtha is concretely the temple/shrine and its enshrined image, the focus of caityavandana."
+    },
+    {
+      "token": "સગ્ગે",
+      "translit": "sagge",
+      "gloss": "in the heavens (the upper world)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. svarga-, locative sg. sagge; the ūrdhva-loka, abode of the celestials (devas).",
+      "notes": ""
+    },
+    {
+      "token": "પાયાલિ",
+      "translit": "pāyāli",
+      "gloss": "in the nether world (the lower world / pātāla)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pātāla-, locative pāyāli; the adho-loka beneath the middle world.",
+      "notes": ""
+    },
+    {
+      "token": "તિરિય",
+      "translit": "tiriya",
+      "gloss": "oblique / middle (the horizontal world)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. tiryak / tiryañc, 'transverse, oblique'; qualifies the following loe to name the tiryag-loka, the madhya-loka of humans and animals.",
+      "notes": "Where many printed recensions read māṇuse ('in the human world'), this book reads tiriya — the cosmologically precise term for the middle, horizontal world. See notes."
+    },
+    {
+      "token": "લોએમિ",
+      "translit": "loe-mmi",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. loka-, Prakrit locative loya-mmi / loe-mmi (the extended -mmi locative ending).",
+      "notes": "With tiriya: 'in the oblique (middle) world.' Completes the three-world enumeration — heaven, nether, middle."
+    },
+    {
+      "token": "જાઇં",
+      "translit": "jāiṁ",
+      "gloss": "whichever (ones), that exist",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun, Skt. yāni (neut. nom./acc. pl.), Prakrit jāiṁ; correlate of tāiṁ below.",
+      "notes": ""
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "of the Jina(s) (the victorious ones)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina-, 'conqueror' (of the inner passions); here the prior member of the compound jiṇa-biṁba.",
+      "notes": ""
+    },
+    {
+      "token": "બિંબાઇં",
+      "translit": "biṁbāiṁ",
+      "gloss": "images, icons (of the Jinas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bimba-, 'image, likeness, disk', neut. nom./acc. pl. biṁbāiṁ; jiṇa-biṁba = 'Jina-image', the consecrated mūrti.",
+      "notes": ""
+    },
+    {
+      "token": "તાઇં",
+      "translit": "tāiṁ",
+      "gloss": "those (very ones)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative, Skt. tāni (neut. nom./acc. pl.), Prakrit tāiṁ; resumes the relative jāiṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વાઇં",
+      "translit": "savvāiṁ",
+      "gloss": "all, every one",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva-, neut. nom./acc. pl. savvāiṁ; totalizing qualifier of tāiṁ biṁbāiṁ.",
+      "notes": ""
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vaṁdāmi",
+      "gloss": "I venerate, I bow (to them)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. root vand- 'to praise, salute reverently'; present indicative 1st sg. vandāmi.",
+      "notes": "The single finite verb of the verse; the whole catalogue of images is its object."
+    }
+  ],
+  "literalTranslation": "Whatever tīrtha there is by name — in the heaven, in the nether world, in the oblique (middle) world — whichever Jina-images exist, all those I venerate.",
+  "idiomaticTranslation": "Whatever sacred shrine there may be anywhere — high in the heavens, deep in the nether worlds, or here in the middle world — every Jina-image enshrined in them, all of them, I bow to in reverence.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening gāthā is the eye's salutation before the voice begins its praise: standing in one place, the reciter mentally embraces every consecrated Jina-image across the whole cosmos and bows to them as a single act. The grammar drives the meaning. A pair of universalizing words — jaṁ kiñci ('whatsoever') at the head and savvāiṁ ('all') near the close — brackets a three-fold locative sweep, sagge / pāyāli / tiriya loe-mmi, the upper, lower, and middle worlds of Jain cosmology, so that no shrine in any region is omitted. The relative jāiṁ ('whichever exist') is answered by the demonstrative tāiṁ ('those very ones'), a relative-correlative clasp that gathers the unbounded multitude back into the reach of one verb, vandāmi, 'I venerate.' That the object is jiṇa-biṁba — the Jina-image, not the living Jina — is the point: physical icons everywhere become, for the devotee, true seats of the Tīrthaṅkara, worthy of the same homage. Having thus bowed to the form (biṁba) of the Jina wherever it stands, the reciter is poised to turn, in the very next breath, to the formless praise of the living Arihanta with 'Namotthuṇaṁ arihantāṇaṁ' — the gesture moving from enshrined image to the awakened being it represents.",
+    "doctrinalContext": "The verse rests on the Mūrtipūjaka conviction that veneration of the jiṇa-biṁba is veneration of the Jina's qualities — the consecrated image is a legitimate ālambana (support) for devotion, not the inert stone. Its cosmology is the standard tri-loka: ūrdhva (sagge), adho (pāyāli), and the madhya/tiryag-loka (tiriya loe), affirming that Jina-images and eternal shrines (śāśvata-caitya) exist in all three regions, including the heavens and nether worlds, not the human realm alone. The boundless object set against a single act of homage expresses bhāva-pūjā — a mental, all-encompassing worship transcending the limits of any one temple one can physically reach.",
+    "practicalRelevance": "Recited at the threshold of caityavandana, this verse trains the reciter to widen the heart beyond the shrine before them: with one inner bow they honour every Jina-image in existence. It is a ready model of bhāva-pūjā for anyone who cannot reach a temple — the salutation is complete in intention, performed from wherever one stands.",
+    "crossReferences": [
+      {
+        "text": "Standard caityavandana recension: 'Jaṁ kiñci nāma titthaṁ, sagge pāyāli māṇuse loe…' (māṇuse for tiriya)",
+        "source": "Jankinchi Sūtra, common Śvetāmbara pratikramaṇa/caityavandana texts"
+      },
+      {
+        "text": "Tri-loka (ūrdhva/madhya/adho) and śāśvata-caitya doctrine",
+        "source": "Tattvārtha-sūtra, ch. 3 (loka structure); Jaina cosmological tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jan Kin Chi Sutra (Jankinchi) — lyrics with word-by-word meaning in English, Hindi, Gujarati",
+      "url": "https://jinavachan.blogspot.com/2019/07/jan-kin-chi-sutra-jankichi-sutra-lyrics.html",
+      "type": "translation",
+      "consultedFor": "Verse text, transliteration, and the gloss that homage is paid to pilgrimage-sites and Jina-images in heaven, nether, and middle worlds."
+    },
+    {
+      "title": "Jankinchi Sutra — Jain Sutras and Stotras",
+      "url": "https://jainknowledge.com/media-information/46/jain_sutras/JANKINCHI-SUTRA",
+      "type": "translation",
+      "consultedFor": "Confirmation of the verse text and the meaning that reverence is paid to the tīrthas and images of the Tīrthaṅkaras across the three realms."
+    },
+    {
+      "title": "Jain Sutra collection — The Jainsite",
+      "url": "https://jainsite.com/jainism/jain-sutra/",
+      "type": "translation",
+      "consultedFor": "Cross-checking the standard recension and placement of the Jankinchi gāthā among caityavandana sūtras."
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Etymologies of tīrtha, bimba, tiryañc/tiryak, loka, sarva, and the root vand-."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Variant reading: this book prints 'tiriya loe-mmi' (the oblique/tiryag = middle world) where the widely circulated recension reads 'māṇuse loe' (the human world); both denote the same madhya-loka, so the meaning is unaffected. The book's verbatim orthography joins several words (જંકિંચિ, નામતિત્થં, લોએમિ); these have been segmented lexically for glossing without altering the readings. The locative 'loe-mmi' (-mmi ending) is a regular Prakrit form for 'in the world.' The web references are devotional/lyric compilations rather than critical editions; the etymologies are cross-checked against a standard lexicon. The Tattvārtha-sūtra cross-reference is offered for the tri-loka framework, not as a source of this gāthā's wording."
+}

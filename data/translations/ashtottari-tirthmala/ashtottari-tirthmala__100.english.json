@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/100",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse hails the wondrous, spotless temple and the beautiful image of the second Jina, Ajitanātha, on Tāraṇa (Taranga) hill, raised by King Kumārapāla — may it ever stand victorious.",
+  "recitation": "mahaï mahālaya aïsaya nimmala acchera-bhūya vara-muttī | ajiya jiṇo tāraṇa giri, kumāra niva-ṭhāvio jayau ||",
+  "wordByWord": [
+    {
+      "token": "મહઇ",
+      "translit": "mahaï",
+      "gloss": "lofty, great",
+      "partOfSpeech": "adj",
+      "etymology": "Apabhraṁśa/Prakrit from Skt. mahatī / mahā- ('great'); reduplicated with the following mahālaya for emphasis ('great, lofty')",
+      "notes": "Read here as an intensifying adjective doubling mahālaya. It could alternatively be the Prakrit verb mahaï (Skt. mahayati, 'honours, exalts'); the descriptive reading fits the surrounding string of attributes better."
+    },
+    {
+      "token": "મહાલય",
+      "translit": "mahālaya",
+      "gloss": "great temple, lofty abode",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mahā ('great') + ālaya ('abode, dwelling, shrine')",
+      "notes": "The temple-building itself; the verse praises the structure before naming the image inside."
+    },
+    {
+      "token": "અઇસય",
+      "translit": "aïsaya",
+      "gloss": "surpassing, extraordinary",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Skt. atiśaya ('excellence, surpassing degree')",
+      "notes": "Here adverbial/adjectival, intensifying nimmala — 'extraordinarily spotless'. (The technical sense of the 34 atiśayas is glossed in the preface and not re-invoked here.)"
+    },
+    {
+      "token": "નિમ્મલ",
+      "translit": "nimmala",
+      "gloss": "spotless, pure",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Skt. nirmala ('free of stain'); nir- ('without') + mala ('dirt, taint')",
+      "notes": "Describes the gleaming white-stone shrine/image; doubles as spiritual purity."
+    },
+    {
+      "token": "અચ્છેર",
+      "translit": "acchera",
+      "gloss": "marvel, wonder",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Skt. āścarya ('astonishment, marvel'); cf. Pali acchera",
+      "notes": "Compounded with the next word as acchera-bhūya, 'become a very wonder'."
+    },
+    {
+      "token": "ભૂય",
+      "translit": "bhūya",
+      "gloss": "become, turned into",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit from Skt. bhūta (past participle of bhū, 'to become')",
+      "notes": "acchera-bhūya = 'become a marvel' — the shrine is so fine it is itself a thing of wonder."
+    },
+    {
+      "token": "વરમુત્તી",
+      "translit": "vara-muttī",
+      "gloss": "supreme image, excellent idol",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vara ('best, excellent') + mūrti ('image, idol') → Prakrit muttī",
+      "notes": "The enshrined Jina-image of Ajitanātha."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita (Ajitanātha)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit from Skt. ajita ('unconquered, invincible'); a- ('not') + jita ('conquered')",
+      "notes": "The second Tīrthaṅkara of the present cycle; emblem the elephant. The name resonates with the Jina's conquest of attachment, aversion and delusion."
+    },
+    {
+      "token": "જિણો",
+      "translit": "jiṇo",
+      "gloss": "the Jina (conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa from Skt. jina ('victor'), √ji ('to conquer'); nominative -o",
+      "notes": "Apposed to ajiya: 'Ajita the Jina'."
+    },
+    {
+      "token": "તારણ",
+      "translit": "tāraṇa",
+      "gloss": "Tāraṇa (Taranga)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name; the hill of Tāraṇa/Tāraṅgā in Mehsana, Gujarat. The form echoes Skt. tāraṇa ('that which carries across'), apt for a tīrtha.",
+      "notes": "Tradition derives the place-name from the goddess Tārā; the verse-form Tāraṇa-giri also evokes 'the hill that ferries one across'."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "hill, mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit giri ('mountain')",
+      "notes": "tāraṇa-giri = Taranga hill, the temple's site."
+    },
+    {
+      "token": "કુમાર",
+      "translit": "kumāra",
+      "gloss": "Kumāra (King Kumārapāla)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. kumāra ('prince'); here short for Kumārapāla, the Chaulukya/Solanki king (r. c. 1143–1174 CE)",
+      "notes": "The royal patron who built the shrine under the guidance of Ācārya Hemacandra."
+    },
+    {
+      "token": "નિવઠાવિઓ",
+      "translit": "niva-ṭhāvio",
+      "gloss": "established by the king, set up by the ruler",
+      "partOfSpeech": "compound",
+      "etymology": "niva (Skt. nṛpa, 'king') + ṭhāvio (Skt. sthāpita, 'caused to be set up'), past participle of √sthā via causative",
+      "notes": "Written conjoined; parses as kumāra-niva ṭhāvio = '(the shrine) founded by King Kumāra(pāla)'. niva is the agentive 'king'."
+    },
+    {
+      "token": "જયઉ",
+      "translit": "jayau",
+      "gloss": "may it be victorious! hail!",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Skt. jayatu (imperative 3rd sg. of √ji, 'to conquer'): 'let it triumph'",
+      "notes": "The single verb of homage in this verse — a benedictory variant of the hymn's bowing refrain, wishing the tīrtha perpetual triumph."
+    }
+  ],
+  "literalTranslation": "The lofty, great temple — extraordinarily spotless, become a very marvel, [with its] supreme image — Ajita the Jina on Tāraṇa hill, set up by King Kumāra(pāla): may it be victorious!",
+  "idiomaticTranslation": "Hail the towering, surpassingly pure shrine that is itself a wonder, and its peerless image — Lord Ajita the Jina upon Tāraṇa hill, raised there by King Kumārapāla: may it stand victorious for ever!",
+  "elaboration": {
+    "verseByVerseCommentary": "Among the geographic roll-call of the hymn's later sweep, this is a tight, donor-named salute rather than a legend-laden episode. The poet stacks four praise-words on the monument — mahaï mahālaya (lofty great hall), aïsaya nimmala (surpassingly spotless), acchera-bhūya (become a very marvel), vara-muttī (its supreme image) — before naming the deity and patron in the second line. The object of devotion is Ajitanātha, the second Tīrthaṅkara, enshrined at Tāraṇa-giri, the Taranga hill in present-day Mehsana, Gujarat. The closing names a near-contemporary royal foundation: the Chaulukya (Solanki) king Kumārapāla built the Ajitanātha temple there (c. 1161 CE) under his teacher Ācārya Hemacandra. Note that the verse's only verb is jayau, 'may it triumph' — the benedictory cousin of the hymn's recurring 'I bow / I praise' refrain, here turned outward to wish the shrine and its image perpetual victory. That a thirteenth-century Anchalgachchha author records a then-recent royal shrine shows the tīrthamālā functioning as living documentation of western-Indian sacred geography, not merely myth; the dated, patron-attested foundation anchors the verse historically against the more ancient sites celebrated elsewhere.",
+    "doctrinalContext": "The verse exemplifies mūrti-pūjā — veneration of the Jina-image — central to the Mūrtipūjaka tradition. It honours a historically founded (non-eternal) shrine, a deliberate counterpoint to the eternal images saluted earlier in the hymn; both are equally tīrthas worthy of homage. The epithet acchera-bhūya frames physical splendour as a legitimate spur to inner devotion (bhāva): the marvel of the building draws the worshipper toward the marvel of the liberated soul. The deity's very name, Ajita ('unconquered'), embodies the Jina's defining victory over rāga, dveṣa and moha.",
+    "practicalRelevance": "Reciting this line, the worshipper makes a mental pilgrimage to Taranga and bows before Ajitanātha without leaving the prayer hall. The jayau is both a blessing on the tīrtha's endurance and a quiet petition for one's own 'crossing' — that the shrine which ferries devotion may also help ferry the reciter across the ocean of rebirth.",
+    "crossReferences": [
+      {
+        "text": "Ajitaśānti Stava (second of the Nine Smaraṇas), invoking Ajitanātha",
+        "source": "Nandiṣeṇasūri; Anchalgachchha/Vidhipaksha Pañca Pratikramaṇa ed."
+      },
+      {
+        "text": "Kumārapāla-pratibodha (account of Kumārapāla's Jain patronage and foundations)",
+        "source": "Somaprabhācārya, V.S. 1241"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Taranga Jain temple",
+      "url": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+      "type": "scholarship",
+      "consultedFor": "Identification of Tāraṇa-giri as Taranga hill (Mehsana, Gujarat), the Ajitanātha temple's foundation c. 1161 CE by Chaulukya/Solanki king Kumārapāla under Ācārya Hemacandra, and Māru-Gurjara white-stone architecture"
+    },
+    {
+      "title": "Ajitanatha",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Ajitanātha as the second Tīrthaṅkara, the meaning 'invincible/unconquered', the elephant emblem, and his association with the 12th-century Taranga temple"
+    },
+    {
+      "title": "Āścarya (Ashcarya) — 22 definitions, incl. Jainism and Prakrit",
+      "url": "https://www.wisdomlib.org/definition/ashcarya",
+      "type": "dictionary",
+      "consultedFor": "Sense of acchera / āścarya ('marvel, wonder') and its Prakrit form"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Root-forms and meanings of nirmala, mūrti, sthāpita, jayatu and ajita underlying the Prakrit tokens"
+    }
+  ],
+  "translatorConfidence": 0.8,
+  "notes": "The verse maps to Tāraṇagiri = Taranga hill (Mehsana, Gujarat); kumāra is taken as King Kumārapāla, consistent with the well-attested c. 1161 CE Ajitanātha foundation, though the verse gives only 'Kumāra'. મહઇ (mahaï) is read as an intensifying adjective doubling mahālaya ('lofty great hall'); it could alternatively be the Prakrit verb mahaï ('honours/exalts'), which would shift the syntax slightly — flagged as a minor ambiguity. નિવઠાવિઓ is written conjoined and parsed as niva ('king', Skt. nṛpa) + ṭhāvio (Skt. sthāpita, 'established'). Orthography is preserved verbatim per the book's Prakrit/Apabhraṁśa spelling; no normalisation applied."
+}

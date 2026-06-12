@@ -1,0 +1,196 @@
+{
+  "shlokaId": "ashtottari-tirthmala/106",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whatever Jina images stand in every home-shrine and temple — from giant ones hundreds of bow-lengths tall down to ones no bigger than a thumb-joint — this verse gathers them all up for worship.",
+  "recitation": "jāṇi giha-ceiyāhi ya, jāhi ya jiṇabhavaṇa tesu jā paḍimā | guruā jā paṇa ghaṇusaya, lahuā aṅguṭṭha-pavva-samā ||",
+  "wordByWord": [
+    {
+      "token": "જાણી",
+      "translit": "jāṇi",
+      "gloss": "whichever (ones), those which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jāṇi < Sanskrit yāni, neuter plural of the relative pronoun yad ('which').",
+      "notes": "Opens the relative construction 'whichever … whichever … in those, whatever images', completed only in verse 107."
+    },
+    {
+      "token": "ગિહ",
+      "translit": "giha",
+      "gloss": "house, home (here: domestic, household-)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit giha < Sanskrit gṛha ('house'); first member of giha-ceiya, 'home-shrine'.",
+      "notes": ""
+    },
+    {
+      "token": "ચેઇયાહિ",
+      "translit": "ceiyāhi",
+      "gloss": "shrines, household chapels",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceiya < Sanskrit caitya ('shrine'), with the -hi plural ending; giha-ceiya = gṛha-caitya, a private domestic shrine.",
+      "notes": "caitya is glossed in the preface; here paired with giha to denote home shrines as distinct from public temples."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca ('and').",
+      "notes": ""
+    },
+    {
+      "token": "જાહિ",
+      "translit": "jāhi",
+      "gloss": "whichever (ones)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jāhi < Sanskrit yāni/yāḥ, relative pronoun ('which'), here governing jiṇabhavaṇa.",
+      "notes": "Reinforces the sweeping 'whichever … there may be' over the temples."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca ('and').",
+      "notes": ""
+    },
+    {
+      "token": "જિણભવણ",
+      "translit": "jiṇabhavaṇa",
+      "gloss": "Jina-temples, Jina-abodes",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiṇa (< Sanskrit jina) + bhavaṇa (< bhavana, 'dwelling, edifice'): a built temple of the Jina.",
+      "notes": "Contrasts with giha-ceiya: the public temple beside the home shrine."
+    },
+    {
+      "token": "તેસુ",
+      "translit": "tesu",
+      "gloss": "in those, in them",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tesu < Sanskrit teṣu, locative plural of tad ('that').",
+      "notes": "Refers back to the shrines and temples just named."
+    },
+    {
+      "token": "જા",
+      "translit": "jā",
+      "gloss": "whatever (images)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jā < Sanskrit yāḥ, feminine plural relative ('which'), agreeing with paḍimā.",
+      "notes": ""
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "images, icons (of the Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā < Sanskrit pratimā ('image'); feminine plural.",
+      "notes": "The grammatical pivot of vv.106–107: the object of the homage delivered in v.107."
+    },
+    {
+      "token": "ગુરુઆ",
+      "translit": "guruā",
+      "gloss": "large, great (in size)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit guruā < Sanskrit gurukāḥ/guravaḥ ('heavy, great, large'); feminine plural agreeing with paḍimā.",
+      "notes": "Paired antithetically with lahuā below; brackets the whole spectrum of image-sizes."
+    },
+    {
+      "token": "જા",
+      "translit": "jā",
+      "gloss": "which (ones)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jā < Sanskrit yāḥ, relative pronoun resuming paḍimā.",
+      "notes": ""
+    },
+    {
+      "token": "પણ",
+      "translit": "paṇa",
+      "gloss": "moreover, indeed (even up to)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit paṇa < Sanskrit punaḥ ('again, moreover'); here emphatic, extending the measure.",
+      "notes": "Could also be read with the Gujarati sense 'even'; the force is intensive, marking the upper extreme of size."
+    },
+    {
+      "token": "ઘણુસય",
+      "translit": "ghaṇusaya",
+      "gloss": "hundreds of bow-lengths (in height)",
+      "partOfSpeech": "compound",
+      "etymology": "dhaṇu (< Sanskrit dhanus, 'bow', a length-measure of ~4 cubits) + saya (< śata, 'hundred'): dhanuḥ-śata, 'a hundred bows'.",
+      "notes": "Written verbatim with ઘ (gha-) where the sense requires ધણુ (dhaṇu, 'bow'); a spelling variant of the book, not normalised. Evokes the colossal eternal (śāśvata) images, traditionally reckoned up to 500 dhanus tall."
+    },
+    {
+      "token": "લહુઆ",
+      "translit": "lahuā",
+      "gloss": "small, slight (in size)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit lahuā < Sanskrit laghukāḥ ('light, small'); feminine plural agreeing with paḍimā.",
+      "notes": "The lower pole answering guruā."
+    },
+    {
+      "token": "અંગુઠ્ઠ",
+      "translit": "aṅguṭṭha",
+      "gloss": "thumb",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit aṅguṭṭha < Sanskrit aṅguṣṭha ('thumb'); first member of aṅguṭṭha-pavva.",
+      "notes": ""
+    },
+    {
+      "token": "પવ્વ",
+      "translit": "pavva",
+      "gloss": "joint, knuckle",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pavva < Sanskrit parva ('joint, knot, segment'); aṅguṭṭha-pavva = the joint of the thumb.",
+      "notes": "The thumb-joint is the traditional minimum size of a Jina image fit for worship."
+    },
+    {
+      "token": "સમા",
+      "translit": "samā",
+      "gloss": "equal to, of the same (size as)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit samā < Sanskrit samāḥ ('equal, like'); feminine plural completing 'equal to a thumb-joint'.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "And whichever home-shrines there are, and whichever Jina-temples — whatever images are in them: those large ones which moreover [rise to] hundreds of bow-lengths, [and] the small ones equal to a thumb-joint…",
+  "idiomaticTranslation": "And in every household shrine and every Jina temple there may be, whatever images they enshrine — the towering ones, soaring up to hundreds of bow-lengths, and the tiny ones no larger than the joint of a thumb…",
+  "elaboration": {
+    "verseByVerseCommentary": "Having swept across the inhabited lands in v.105 (villages, mines, mountains, cities), the hymn now zooms inward to where worship actually happens: the giha-ceiya, the family's home shrine, set beside the public jiṇa-bhavaṇa, the temple. The verse is deliberately left grammatically unfinished — 'whatever images are in them…' — its main verb of homage withheld until v.107, so that vv.106–107 form one long, unbroken bow. Its single poetic device is a measured antithesis of scale: guruā … ghaṇusaya (great, up to hundreds of bow-lengths) set against lahuā aṅguṭṭha-pavva-samā (small, the size of a thumb-joint). The pairing is not casual hyperbole; it traces the recognised canonical span of Jina images. At the upper pole stand the colossal eternal (śāśvata) images of cosmic shrines, reckoned in the cosmographies at hundreds of dhanus; at the lower pole stands the smallest icon the tradition still honours — a Jina no bigger than a knuckle. Between these two limits the verse means to leave nothing out. Whether an image is monumental or pocket-sized, public or private, the worshipper's reverence is identical, because what is venerated is not the stone or its dimensions but the Jina it embodies. Thus the verse quietly democratises devotion: the humble thumb-joint image in a poor household receives the very same bow as a towering temple colossus.",
+    "doctrinalContext": "The verse rests on the Mūrtipūjaka conviction that a properly made and consecrated pratimā is a worthy object of veneration regardless of size or setting — the icon is honoured as a sthāpanā-nikṣepa (representational installation) of the Jina, so reverence attaches to the Jina-quality it carries, not to its material magnitude. Naming the thumb-joint specifically invokes the iconographic norm that a thumb-joint is the smallest dimension at which an image remains fit for worship, while the 'hundreds of bows' gestures at the śāśvata images of the cosmic shrines. By bracketing both extremes the verse enacts the principle of comprehensive, non-discriminating homage that governs the closing stretch of the hymn.",
+    "practicalRelevance": "It teaches the reciter to bow with equal devotion before the small image on a home altar and the great image in a temple — and, by extension, to honour the Jina present in any shrine one will never physically visit. Reciting it converts the prayer hall into a vantage point from which every image everywhere, of every size, is reverenced at once.",
+    "crossReferences": [
+      {
+        "text": "Following verse (v.107): 'made by gods and men, of clay, gold, brass, silver…, uncounted by the non-omniscient — to all of them I bow' (completes this verse's homage)",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Śāśvata Jina images and their cosmic dimensions (caityas of Jambūdvīpa, Nandīśvara, etc.)",
+        "source": "Jain cosmographic tradition (cf. Tiloya-paṇṇatti / Jīvājīvābhigama)"
+      },
+      {
+        "text": "Thumb-joint (aṅguṣṭha-parva) as the minimum worship-worthy image size",
+        "source": "Jaina iconography (Jaina Pratimā Vijñāna)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Verifying the Sanskrit etyma pratimā, parva, aṅguṣṭha, dhanus, gṛha, caitya, guru and laghu underlying the Prakrit tokens."
+    },
+    {
+      "title": "Image of a Jina — JAINpedia",
+      "url": "https://jainpedia.org/manuscript/image-of-a-jina/",
+      "type": "scholarship",
+      "consultedFor": "Conventions of Jina images (mūrti/pratimā) as consecrated objects of veneration in temple and household worship."
+    },
+    {
+      "title": "Jain Pratima Vigyan (book summary), JainGPT",
+      "url": "https://jaingpt.org/knowledge/jain_pratima_vigyan_010288_010288",
+      "type": "scholarship",
+      "consultedFor": "The iconographic norm that the thumb-joint (aṅguṣṭha-parva) is the smallest size at which a Jina image remains fit for ritual worship, and the range of image sizes."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is grammatically open-ended (a relative clause with no finite verb) and is completed only by v.107, whose verb 'namāmi' ('I bow') governs the images enumerated here; vv.106–107 should be read as one sentence. ઘણુસય is rendered verbatim with initial ઘ (gha-); the sense plainly requires ધણુ (dhaṇu, 'bow' as a length-measure), so ghaṇu-saya = dhanuḥ-śata, 'hundreds of bow-lengths' — a book orthographic variant left unnormalised per fidelity rules. 'paṇa' is taken as Prakrit puṇa (Skt. punaḥ, 'moreover/even'); a Gujarati-coloured emphatic reading ('even') yields the same force. Case endings -hi/-su reflect Apabhraṁśa-coloured gāthā morphology and are read functionally (giha-ceiya and jiṇabhavaṇa as the loci, paḍimā as the enumerated object). The specific upper figure (e.g. 500 dhanus for śāśvata images) is supplied from cosmographic tradition, not stated in this verse, and is flagged as contextual."
+}

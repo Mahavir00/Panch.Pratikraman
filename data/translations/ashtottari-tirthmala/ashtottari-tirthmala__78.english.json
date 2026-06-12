@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/78",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This holy place at Bharuch first became famous as the 'Horse-Awakening' shrine of Lord Munisuvrata, and later gained a second name — the glorious Samalikā (Śakunikā) temple — after a Sinhala king's daughter had it restored.",
+  "recitation": "assāvaboha titthaṁ, jāyaṁ taṁ nāma puṇavi bīyam iṇaṁ; siri samaliyā vihāro, siṁhala dhūya kāri uddhāro.",
+  "wordByWord": [
+    {
+      "token": "અસ્સાવબોહ",
+      "translit": "assāvaboha",
+      "gloss": "Aśvāvabodha ('the awakening of the horse'), the name of the Bharukaccha shrine",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit aśva ('horse') + avabodha ('awakening, enlightening'); Prakrit assa for aśva, with -boha for -bodha",
+      "notes": "Names the tīrtha after Munisuvrata's awakening of the horse recounted in the preceding verse."
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṁ",
+      "gloss": "the tīrtha (sacred crossing-place / shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tittha < Sanskrit tīrtha; nom./acc. sg. neuter",
+      "notes": ""
+    },
+    {
+      "token": "જાયં",
+      "translit": "jāyaṁ",
+      "gloss": "came to be, arose, became (so named)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jāya < Sanskrit jāta, past participle of √jan ('to be born, arise')",
+      "notes": "Marks the founding/naming of the tīrtha as an accomplished event."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (is its name)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ < Sanskrit tat; neuter sg.",
+      "notes": ""
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "by name; indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit nāma, adverbial/emphatic 'by name, namely'",
+      "notes": "Read here as the naming particle: 'that, by name [Aśvāvabodha]'."
+    },
+    {
+      "token": "પુણવિ",
+      "translit": "puṇavi",
+      "gloss": "again, moreover, furthermore",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit puṇa-vi < Sanskrit punar-api ('again, also')",
+      "notes": "Introduces the shrine's second name."
+    },
+    {
+      "token": "બીયમિણં",
+      "translit": "bīyam iṇaṁ",
+      "gloss": "this [is its] second [name]",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sandhi of bīya (< Sanskrit dvitīya, 'second') + iṇaṁ (< Sanskrit idam, 'this')",
+      "notes": "Two words joined by sandhi; supply 'name'."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, sacred (Śrī-)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Sanskrit śrī; honorific prefix",
+      "notes": "Honorific qualifying the vihāra."
+    },
+    {
+      "token": "સમલિયા",
+      "translit": "samaliyā",
+      "gloss": "Samalikā / Śakunikā — the she-kite (the bird of the legend), here the shrine's name",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Gujarati samalī ('female kite/hawk') = Sanskrit śakunikā ('she-bird'); -yā fem.",
+      "notes": "samalī is the vernacular equivalent of śakunikā; hence the shrine is also called Śakunikā-vihāra."
+    },
+    {
+      "token": "વિહારો",
+      "translit": "vihāro",
+      "gloss": "the vihāra (temple / shrine complex)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vihāra, from vi- + √hṛ; nom. sg. masc.",
+      "notes": ""
+    },
+    {
+      "token": "સિંહલ",
+      "translit": "siṁhala",
+      "gloss": "Siṁhala (Ceylon / Sri Lanka), i.e. its king",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Siṁhala, the island-land of Siṁhala",
+      "notes": "In the compound 'siṁhala-dhūya' it stands for the Siṁhala king."
+    },
+    {
+      "token": "ધૂય",
+      "translit": "dhūya",
+      "gloss": "daughter",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhūyā < Sanskrit duhitṛ ('daughter')",
+      "notes": "Long ū preserved per the book's orthography; the princess in whom the she-kite was reborn (Sudarśanā in the prabandha)."
+    },
+    {
+      "token": "કારિ",
+      "translit": "kāri",
+      "gloss": "caused (it) to be done, had (it) made",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit kāri < Sanskrit kārita, causative past participle of √kṛ ('to do, make')",
+      "notes": "Causative: she had the restoration carried out."
+    },
+    {
+      "token": "ઉદ્ધારો",
+      "translit": "uddhāro",
+      "gloss": "the restoration / renovation (jīrṇoddhāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit uddhāra, from ud- + √hṛ ('to raise up, restore'); nom. sg. masc.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "The Aśvāvabodha tīrtha came to be — that, by name; and again, this [is its] second [name]: the glorious Samalikā-vihāra, whose restoration the daughter of Siṁhala had made.",
+  "idiomaticTranslation": "And so arose the Aśvāvabodha — the 'Horse-Awakening' — tīrtha; that was its name. It bears, moreover, a second name too: the glorious Samalikā- (Śakunikā-) vihāra, whose renovation was accomplished by the daughter of the king of Siṁhala.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 77 narrated the founding event — Munisuvrata coming to the Korantaka forest at Bharukaccha to enlighten King Jitaśatru through the horse, the horse's recollection of past births, its fast unto death and rebirth as a god — this verse records the two names the shrine thereby earned. First, jāyaṁ … taṁ nāma: from that 'awakening of the horse' the place came to be called the Aśvāvabodha-tīrtha. Then puṇavi bīyam iṇaṁ — 'and this, again, is its second [name]' — the glorious Samalikā- (Śakunikā-) vihāra. The poet packs a whole second legend into the closing line: the she-kite (samalī = śakunikā) of the tradition was reborn as the daughter of the Siṁhala (Ceylon) king, and she — through her own awakened memory — had the temple restored (siṁhala dhūya kāri uddhāro). The gāthā thus turns on two verbs: jāyaṁ ('it came to be') for the first naming and uddhāro ('restoration') for the second. Notice the unbroken chain of rebirth-and-devotion the verse implies: horse → god, bird → princess → restorer. The very creatures the Jina once awakened return, life after life, to renew his shrine. The following verse keeps these figures on stage — Jitaśatru, the horse (āsa), Samalī, and the guardian deities — so verse 78 is the hinge that fixes the place's double identity before the cast is named again. The doubling of names also makes a quiet point: a tīrtha is not a single founding but a sanctity reaffirmed by successive renovations.",
+    "doctrinalContext": "Two Jain principles anchor the verse. First, jātismaraṇa-jñāna — the recollection of former births — which here is the spring of all the devotion described: it awakens the horse (now a god) and the she-kite (now the princess), demonstrating the soul's unbroken karmic continuity across animal, divine and human births and the capacity of every jīva, even an animal, for samyaktva. Second, jīrṇoddhāra — the restoration of a decayed shrine — presented as a high meritorious act (puṇya) worthy of being memorialised in the hymn; the princess's uddhāra is itself an expression of awakened faith, not mere patronage. Together they show devotion as something that ripens across lifetimes and renews sacred ground.",
+    "practicalRelevance": "In naming this twice-named shrine, the reciter is reminded that genuine devotion can ignite from a single moment of right awakening, and that maintaining and restoring sacred places is itself an act of worship. The verse quietly enjoins support for jīrṇoddhāra — keeping living tīrthas alive — and models gratitude that outlasts a single birth.",
+    "crossReferences": [
+      {
+        "text": "Aśvāvabodha / Śakunikāvihāra prabandha (Bhṛgukaccha)",
+        "source": "Jinaprabhasūri, Vividhatīrthakalpa"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 6.7, Śrī-Munisuvratanātha-caritra (the horse-awakening and naming of Bhṛgukaccha as Aśvāvabodha)",
+        "source": "Hemacandra (11th–12th c.), trans. H. M. Johnson"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aśvāvabodha (Jainism) — definition citing Vividhatīrthakalpa and Triṣaṣṭiśalākāpuruṣacaritra",
+      "url": "https://www.wisdomlib.org/definition/ashvavabodha",
+      "type": "dictionary",
+      "consultedFor": "Confirming the Aśvāvabodha-tīrtha legend (Jitaśatru, Koriṇṭa forest, Bharukaccha, the horse's jātismaraṇa, the jewelled caitya, and its later name Śakuṇikā-vihāra)"
+    },
+    {
+      "title": "Munisuvrata — 20th Tīrthaṅkara",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Identity of Munisuvrata, the Jina venerated at this Bharukaccha tīrtha"
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Lives of Sixty-three Illustrious Persons), Hemacandra",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "The naming of Bhṛgukaccha/Bharukaccha as Aśvāvabodha after the horse was freed and the city became a sacred place"
+    },
+    {
+      "title": "Śakunikā / Śakunikā (she-bird) — lexical definition",
+      "url": "https://www.wisdomlib.org/definition/shakunika",
+      "type": "dictionary",
+      "consultedFor": "Sense of śakunikā ('she-bird, female kite'), the equivalent of vernacular samalī behind the name Samalikā-vihāra"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The shrine's two names are well attested: Aśvāvabodha ('horse-awakening', from Munisuvrata enlightening the horse, verse 77) and Śakunikā/Samalikā-vihāra (samalī is the Prakrit/Gujarati word for a she-kite, = Sanskrit śakunikā). The verse's last line — siṁhala dhūya kāri uddhāro — follows the Vividhatīrthakalpa Śakunikāvihāra prabandha, in which the she-kite is reborn as Sudarśanā, daughter of the Siṁhala (Ceylon) king, who restores the temple; the wisdomlib/Triṣaṣṭi excerpts confirm the horse-awakening naming but do not detail the princess's restoration, so that element rests on the prabandha tradition. 'dhūya' (long ū) and the spellings are kept verbatim per the book's orthography. 'nāma' is read as the naming particle ('by name'); 'bīyam iṇaṁ' is bīya + iṇaṁ joined by sandhi ('this second [name]')."
+}

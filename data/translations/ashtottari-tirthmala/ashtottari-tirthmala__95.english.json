@@ -1,0 +1,174 @@
+{
+  "shlokaId": "ashtottari-tirthmala/95",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At Mount Ābu, praise Lord Ṛṣabha enshrined in the first temple as a wish-granting jewel, and Lord Nemi in the second temple as a heavenly wish-granting tree.",
+  "recitation": "paḍhama jiṇa-bhavaṇa jalanihi-gabbhe cintāmaṇiṁ thuṇo usabhaṁ | avara vara-bhavaṇa suragiri-taḍi amara-tarū vva nemijiṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "પઢમ",
+      "translit": "paḍhama",
+      "gloss": "first",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍhama < Sanskrit prathama, 'first'.",
+      "notes": "Qualifies the first of the two Ābu shrines (the Vimala-vasahī of Ṛṣabha)."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina, the conqueror (here in compound: Jina-temple)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'conqueror', from √ji, 'to conquer'.",
+      "notes": "Forms the compound jiṇa-bhavaṇa, 'Jina's temple'."
+    },
+    {
+      "token": "ભવણ",
+      "translit": "bhavaṇa",
+      "gloss": "temple, abode, shrine",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa < Sanskrit bhavana, 'dwelling, edifice', from √bhū.",
+      "notes": "Locative sense ('in the temple') carried over from gabbhe."
+    },
+    {
+      "token": "જલનિહિ",
+      "translit": "jalanihi",
+      "gloss": "ocean (lit. treasure-store of waters)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jala-nihi < Sanskrit jala-nidhi (jala 'water' + nidhi 'repository, treasure').",
+      "notes": "Sets up the simile: the cintāmaṇi is born from the ocean's depths."
+    },
+    {
+      "token": "ગબ્ભે",
+      "translit": "gabbhe",
+      "gloss": "in the womb / in the inner sanctum",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of Prakrit gabbha < Sanskrit garbha, 'womb, inner chamber'.",
+      "notes": "Deliberate double sense (śleṣa): the garbhagṛha ('womb-house', temple sanctum) and the 'womb of the ocean' (jalanihi-gabbhe) from which the wish-gem comes."
+    },
+    {
+      "token": "ચિંતામણિં",
+      "translit": "cintāmaṇiṁ",
+      "gloss": "the wish-fulfilling gem (cintāmaṇi)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of cintāmaṇi (cintā 'thought, wish' + maṇi 'jewel').",
+      "notes": "Predicative: Ṛṣabha is praised as a cintāmaṇi. Glossary term — used, not re-defined."
+    },
+    {
+      "token": "થુણો",
+      "translit": "thuṇo",
+      "gloss": "praise! (you, praise)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit imperative of thuṇa- < Sanskrit √stu, 'to praise, extol'.",
+      "notes": "Governs both objects, usabhaṁ in line 1 and nemijiṇaṁ in line 2."
+    },
+    {
+      "token": "ઉસભં",
+      "translit": "usabhaṁ",
+      "gloss": "Ṛṣabha (the first Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit usabha < Sanskrit ṛṣabha, 'bull'; the first Jina, Ādinātha.",
+      "notes": "The mūlanāyaka of the Vimala-vasahī at Ābu."
+    },
+    {
+      "token": "અવર",
+      "translit": "avara",
+      "gloss": "the other, the second",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit avara < Sanskrit apara, 'other, latter'.",
+      "notes": "Marks the second Ābu shrine, set against paḍhama in line 1."
+    },
+    {
+      "token": "વરભવણ",
+      "translit": "vara-bhavaṇa",
+      "gloss": "the excellent / glorious temple",
+      "partOfSpeech": "compound",
+      "etymology": "vara 'choice, excellent' (Skt vara) + bhavaṇa 'temple' (Skt bhavana).",
+      "notes": "The Lūṇa-vasahī (Neminātha temple) founded later by Vastupāla–Tejapāla."
+    },
+    {
+      "token": "સુરગિરિ",
+      "translit": "suragiri",
+      "gloss": "Meru, the mountain of the gods",
+      "partOfSpeech": "compound",
+      "etymology": "sura 'god' (Skt sura) + giri 'mountain' (Skt giri); a stock epithet of Mount Meru.",
+      "notes": "Locus of the divine wish-tree in the simile."
+    },
+    {
+      "token": "તડિ",
+      "translit": "taḍi",
+      "gloss": "on the slope / flank (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit taḍi < Sanskrit taṭa, 'slope, bank, ridge'.",
+      "notes": "suragiri-taḍi = 'on Meru's slope', where the kalpavṛkṣa is imagined to grow."
+    },
+    {
+      "token": "અમર",
+      "translit": "amara",
+      "gloss": "immortal, divine (of the gods)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit a-mara 'deathless' (a- + √mṛ); also 'a god'.",
+      "notes": "amara-taru = 'tree of the immortals', i.e. the wish-tree (suratarū / kalpavṛkṣa)."
+    },
+    {
+      "token": "તરૂવ્વ",
+      "translit": "tarū vva",
+      "gloss": "like a tree",
+      "partOfSpeech": "particle",
+      "etymology": "Sandhi of taru 'tree' (Skt taru) + vva, the Prakrit particle of comparison = Sanskrit iva, 'like'.",
+      "notes": "With amara: 'like the immortal (wish-)tree'. The simile-marker vva governs Nemi as the upamāna."
+    },
+    {
+      "token": "નેમિજિણં",
+      "translit": "nemijiṇaṁ",
+      "gloss": "Nemi-Jina (Neminātha, the 22nd Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "nemi (Skt nemi, 'rim of a wheel') + jiṇa (Skt jina); Ariṣṭanemi/Neminātha.",
+      "notes": "The mūlanāyaka of the second (Lūṇa-vasahī) temple at Ābu."
+    }
+  ],
+  "literalTranslation": "In the first Jina-temple, in the womb [of the ocean], praise Ṛṣabha as the wish-gem (cintāmaṇi); in the other excellent temple, [praise] Nemi-Jina, like the immortal (wish-)tree on the slope of the gods' mountain (Meru).",
+  "idiomaticTranslation": "In the first shrine praise Lord Ṛṣabha — a wish-granting cintāmaṇi set in its sanctum as the gem lies cradled in the ocean's womb; and in the second, glorious shrine praise Lord Nemi, radiant as the deathless wish-tree upon the slopes of Meru.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having dwelt on the splendour of the two Ābu temples in the foregoing verse, the poet now names the Jina enshrined in each and crowns each with a single wish-granting image. The 'first temple' is the Vimala-vasahī, whose mūlanāyaka is Ṛṣabha; the 'other excellent temple' is the later Lūṇa-vasahī, whose mūlanāyaka is Nemi. The structure is a tidy pair: paḍhama … usabhaṁ / avara … nemijiṇaṁ, with the single imperative thuṇo ('praise!') doing duty for both. The artistry lies in two matched similes. Ṛṣabha in his garbha-gṛha is a cintāmaṇi 'in the womb' — and gabbhe carries a quiet śleṣa, for the wish-gem of legend is born in the womb of the ocean (jalanihi-gabbhe) just as the image rests in the sanctum's womb. Nemi, in turn, is amara-taru vva — 'like the deathless wish-tree' rooted on Meru's slope. Thus the two enshrined Jinas are figured as the two supreme wish-granters of myth, gem and tree, gathered onto one mountain. The verse advances the Ābu sequence by fixing identities (which Jina in which shrine) before the next verse frames the pair together as the 'two eyes' of the mountain-king Arbuda.",
+    "doctrinalContext": "The cintāmaṇi-and-suratarū pairing is more than ornament. In Jain devotion these worldly wish-granters are the conventional measure of the highest boon, and the Jina is invoked as surpassing them: the gem and tree yield perishable desires, whereas darśana of the Jina's image yields the one wish worth asking — release from saṁsāra. Naming Ṛṣabha (first of the twenty-four) and Nemi (the twenty-second) also quietly spans the Tīrthaṅkara line, so that bowing at these two Ābu shrines stands for veneration of the whole order praised in the Logassa. The verse rests on pratimā-bhakti: the consecrated image in the garbha-gṛha is a true locus of the Jina's presence and merit.",
+    "practicalRelevance": "Reciting this verse, the worshipper makes the 'armchair pilgrimage' to Dilwara concrete: bow once to Ṛṣabha in the first shrine, once to Nemi in the second. Let the gem-and-tree images recall that what one truly seeks before the Jina is not a granted wish but liberation — the cintāmaṇi worth holding.",
+    "crossReferences": [
+      {
+        "text": "Logassa — praise of the twenty-four Tīrthaṅkaras, including Ṛṣabha and Ariṣṭanemi",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā, Mount Ābu sequence (vv. 92–96): the Vimala-vasahī and the temple of Vastupāla",
+        "source": "Ācārya Mahendrasiṁhasūri, same edition (sutra preface)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dilwara Temples (Vimal Vasahi of Ṛṣabhanātha; Luna Vasahi of Neminātha) — Mount Abu",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples",
+      "type": "scholarship",
+      "consultedFor": "Identifying the 'first temple' as the Vimala-vasahī (mūlanāyaka Ṛṣabha) and the 'other temple' as the Lūṇa-vasahī (mūlanāyaka Nemi) at Mount Ābu, and their founders."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Sanskrit dictionary), Jain e-library",
+      "url": "https://jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and forms: thuṇa- (√stu, imperative thuṇo), gabbha (garbha), taḍi (taṭa), and the comparative particle vva (= iva)."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams, Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots behind the tokens: jala-nidhi, garbha, sura-giri (Meru), amara, taru, prathama, apara, vara."
+    },
+    {
+      "title": "Cintāmaṇi (the wish-fulfilling gem and its ocean origin)",
+      "url": "https://en.wikipedia.org/wiki/Cintamani",
+      "type": "scholarship",
+      "consultedFor": "The cintāmaṇi imagery and its traditional association with the depths/womb of the ocean, underpinning the jalanihi-gabbhe simile."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse names the two Mount Ābu (Arbuda) shrines without using the place-name, which the following verse supplies (abbua / Arbuda = Ābu); the identification of 'first' = Vimala-vasahī (Ṛṣabha) and 'other excellent' = the later Lūṇa-vasahī (Nemi, founded by Vastupāla–Tejapāla) follows the sutra preface and standard temple history. 'તરૂવ્વ' is read as sandhi of taru + vva (= iva), 'like a tree', with amara — i.e. the kalpavṛkṣa/suratarū; an alternative parsing as a single word is not supported. The double sense of gabbhe (temple sanctum / womb of the ocean) is an interpretive śleṣa, plausible but not certain. Orthography (anusvāras, conjuncts) is preserved verbatim from the Anchalgachchha edition; other editions may show minor pāṭhāntara variants."
+}

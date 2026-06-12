@@ -1,0 +1,160 @@
+{
+  "shlokaId": "smaran-4-upasargahar/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Pārśva, who frees us from troubles, is released from the burden of karma, destroys snake-poison, and is the home of all blessing and good.",
+  "recitation": "uvasagga-haraṁ pāsaṁ, pāsaṁ vandāmi kammaghaṇa-mukkaṁ | visahara-visa-ninnāsaṁ, maṅgala-kallāṇa-āvāsaṁ ||",
+  "wordByWord": [
+    {
+      "token": "(૪થું સ્મરણ)",
+      "translit": "(cauthuṁ smaraṇa)",
+      "gloss": "(Fourth Smaraṇa) — editorial heading, not part of the verse",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati editorial label: cauthuṁ 'fourth' + smaraṇa 'remembrance'.",
+      "notes": "A printed section-label in the book numbering this stotra as the 4th Smaraṇa; it is not chanted as part of the gāthā."
+    },
+    {
+      "token": "ઉવસગ્ગ",
+      "translit": "uvasagga",
+      "gloss": "affliction, calamity, hostile disturbance",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit < Sanskrit upasarga; first member of the compound uvasagga-haraṁ.",
+      "notes": "Joins with haraṁ below."
+    },
+    {
+      "token": "હરં",
+      "translit": "haraṁ",
+      "gloss": "remover, one who takes away (accusative singular)",
+      "partOfSpeech": "adj",
+      "etymology": "< Sanskrit hara, agent-noun from √hṛ 'to take/carry away'; here -haraṁ closes uvasagga-haraṁ, 'remover of afflictions'.",
+      "notes": "Accusative agreeing with pāsaṁ, the object of vandāmi."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva (here, by traditional reading, the attendant Pārśva-yakṣa/deity), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit Pārśva.",
+      "notes": "The first of two pāsaṁ. Traditional commentary takes this first occurrence as the Pārśva-yakṣa (the attendant serpent-deity) who removes upasargas, and the second pāsaṁ as Pārśvanātha the Jina himself; some readers take both as the Tīrthaṅkara, the repetition being emphatic."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva(nātha), the 23rd Tīrthaṅkara (accusative — object of 'I bow to')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit Pārśva.",
+      "notes": "The direct object of vandāmi."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow to, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit vande, 1st person singular present of √vand 'to praise, salute, revere'.",
+      "notes": "The single finite verb of the verse; everything else qualifies its object pāsaṁ."
+    },
+    {
+      "token": "કમ્મઘણ",
+      "translit": "kammaghaṇa",
+      "gloss": "the cloud/dense mass of karma",
+      "partOfSpeech": "compound",
+      "etymology": "kamma (< Sanskrit karman) + ghaṇa (< Sanskrit ghana 'cloud; dense mass').",
+      "notes": "First member of kammaghaṇa-mukkaṁ; ghaṇa is read as 'cloud' (karma veiling the soul like cloud veiling the sun) or as 'thick heap'."
+    },
+    {
+      "token": "મુક્કં",
+      "translit": "mukkaṁ",
+      "gloss": "freed, released (from), accusative",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit past participle < Sanskrit mukta, from √muc 'to release'.",
+      "notes": "kammaghaṇa-mukkaṁ = 'freed from the cloud of karma'; an epithet of pāsaṁ."
+    },
+    {
+      "token": "વિસહર",
+      "translit": "visahara",
+      "gloss": "snake (lit. 'poison-bearer'); also the poison itself / the serpent's venom",
+      "partOfSpeech": "compound",
+      "etymology": "visa (< Sanskrit viṣa 'poison') + hara/dhara 'bearer' → 'poison-bearer', i.e. serpent; cf. the homonymous Visahara mantra named later in the hymn.",
+      "notes": "First member of visahara-visa-ninnāsaṁ; resonates with the name of the Visahara mantra in v.2."
+    },
+    {
+      "token": "વિસ",
+      "translit": "visa",
+      "gloss": "poison, venom",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit viṣa 'poison'.",
+      "notes": "The thing destroyed; middle member of the compound."
+    },
+    {
+      "token": "નિન્નાસં",
+      "translit": "ninnāsaṁ",
+      "gloss": "destroyer, annihilator (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit nirnāśa / nirṇāśa 'utter destruction', from nir- + √naś 'to perish'; here used agentively, 'one who utterly destroys'.",
+      "notes": "visahara-visa-ninnāsaṁ = 'destroyer of the snake's poison'; epithet of pāsaṁ."
+    },
+    {
+      "token": "મંગલ",
+      "translit": "maṅgala",
+      "gloss": "auspiciousness, blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit maṅgala 'auspicious, that which brings good'.",
+      "notes": "First member of maṅgala-kallāṇa-āvāsaṁ."
+    },
+    {
+      "token": "કલ્લાણ",
+      "translit": "kallāṇa",
+      "gloss": "welfare, well-being, good",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit kalyāṇa 'welfare, blessing'.",
+      "notes": "Paired with maṅgala."
+    },
+    {
+      "token": "આવાસં",
+      "translit": "āvāsaṁ",
+      "gloss": "abode, dwelling-place (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit āvāsa 'residence, abode', from ā- + √vas 'to dwell'.",
+      "notes": "maṅgala-kallāṇa-āvāsaṁ = 'the abode of auspiciousness and welfare'; final epithet of pāsaṁ."
+    }
+  ],
+  "literalTranslation": "I bow to Pārśva, the remover of afflictions — to Pārśva, freed from the cloud of karma, the destroyer of the snake's poison, the abode of auspiciousness and welfare.",
+  "idiomaticTranslation": "I bow to Pārśva, who lifts away every affliction; to Pārśva, unburdened of the dense cloud of karma, who annihilates the serpent's venom and is himself the dwelling-place of all blessing and well-being.",
+  "elaboration": {
+    "verseByVerseCommentary": "The whole gāthā is a single act of homage — one verb, vandāmi ('I bow'), wrapped in four accusative epithets that define who Pārśva is before any boon is asked. Most striking is the doubled pāsaṁ. The standard commentarial reading hears two referents: the first pāsaṁ, joined to uvasagga-haraṁ, is the Pārśva-yakṣa — the attendant serpent-deity who wards off afflictions; the second pāsaṁ is Pārśvanātha the Jina, to whom the bow is actually directed. Thus the line salutes both the protector and the Liberator in one breath, while never confusing devotion to a deity with refuge in the Tīrthaṅkara. The remaining three epithets are a deliberate ascent. kammaghaṇa-mukkaṁ — 'freed from the cloud of karma' — locates Pārśva's power in his own perfected state: he can lift others' afflictions because he is himself unveiled, the sun behind the dispersed cloud. visahara-visa-ninnāsaṁ — 'destroyer of the snake's poison' — drops to the concrete, plays on Pārśva's serpent-lore, and quietly seeds the Visahara mantra that v.2 will take up. maṅgala-kallāṇa-āvāsaṁ then widens the lens to the universal: he is not merely a remover of one harm but the very abode in which auspiciousness and welfare reside. The movement within this one verse — from a named affliction (upasarga), to the root cause (karma), to a vivid particular (poison), to the all-encompassing good — is the hymn in miniature, and it readies the listener for v.2's turn to the protective formula.",
+    "doctrinalContext": "The verse encodes the Jain logic of refuge: protection flows from purity, not from power over nature. Pārśva relieves affliction precisely because he is kammaghaṇa-mukkaṁ — one whose karmic veil is gone; the soul freed of karma is, by its nature, the locus of maṅgala and kalyāṇa. The two pāsaṁ also preserve an orthodox distinction Jain devotion is careful about: a yakṣa-deity may grant worldly safety, but veneration (vandanā) in the strict sense is owed to the vītarāga Jina, the only true object of refuge.",
+    "practicalRelevance": "A reciter is taught to open not with a request but with a bow. Before naming any fear — poison, disease, calamity — one first contemplates Pārśva's freedom from karma, reframing the prayer so that the asking flows from reverence rather than fear. Holding the four epithets in mind makes the opening of the stotra a brief meditation on what one is actually taking refuge in.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the same posture of vandanā to the Tīrthaṅkaras",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      },
+      {
+        "text": "Upasargahara Stotra v.2 (visahara-phuliṅga mantra) — develops the visahara/poison motif introduced here",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uvasaggaharam Stotra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra",
+      "type": "translation",
+      "consultedFor": "English rendering of v.1 ('I bow to Lord Pārśvanātha, who is attended by the distress-removing Pārśva deity, who is free from all types of karma, destroyer of the poisonous defilements, and the abode of bliss and well-being'), confirming the four epithets and the two-Pārśva reading."
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśvanātha as the 23rd Tīrthaṅkara and his iconographic serpent-hood with Dharaṇendra/Padmāvatī, grounding the visahara/poison imagery of the verse."
+    },
+    {
+      "title": "Dharaṇendra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhara%E1%B9%87endra",
+      "type": "scholarship",
+      "consultedFor": "Identity of the nāga/serpent deity associated with Pārśva, supporting the reading of the first pāsaṁ as the protective Pārśva-yakṣa and the snake-poison register."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Text is reproduced verbatim from the book, including its spaced compounds (ઉવસગ્ગ હરં, કમ્મઘણ મુક્કં, વિસહર વિસ નિન્નાસં, મંગલ કલ્લાણ આવાસં); these are single semantic compounds in the original gāthā and are joined with hyphens in the recitation. The bracketed (૪થું સ્મરણ) is an editorial section-heading, not part of the chanted verse. The doubled પાસં is genuinely ambiguous: the traditional commentary reads first = Pārśva-yakṣa, second = Pārśvanātha the Jina, while other recensions treat both as the Tīrthaṅkara with emphatic repetition — both are noted. ઘણ (ghaṇa) admits 'cloud' or 'dense heap'; 'cloud' is followed here as the more common and image-coherent reading. નિન્નાસં (< nirnāśa) is taken agentively ('destroyer'), consistent with the accusative epithet chain governed by vandāmi. The closing daṇḍa/verse-number of the book's punctuation is preserved in spirit but normalized to a double bar in the romanized recitation."
+}

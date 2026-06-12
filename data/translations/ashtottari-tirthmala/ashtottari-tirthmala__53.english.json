@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/53",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On every one of his countless mirrored lion-thrones the god-king Indra sits with his chief queens, and they all honour Lord Mahāvīra at once with circling reverence, in the sky and on the earth alike.",
+  "recitation": "pai siṁhāsaṇa bhiṁdo, pai bhaddāsaṇāga magga mahisīo ।\niya ti-payāhiṇa puvvaṁ, gaya agga payāhiṇa bhuvi-do-vi ॥",
+  "wordByWord": [
+    {
+      "token": "પઇ",
+      "translit": "pai",
+      "gloss": "on each, per every (distributive)",
+      "partOfSpeech": "particle",
+      "etymology": "Sk. prati (प्रति), the distributive 'each/per'; Pkt. pai",
+      "notes": "Sets up the recursive 'on each … on each …' that runs through this stretch of the Daśārṇabhadra passage."
+    },
+    {
+      "token": "સિંહાસણ",
+      "translit": "siṁhāsaṇa",
+      "gloss": "lion-throne",
+      "partOfSpeech": "noun",
+      "etymology": "Sk. siṁhāsana (siṁha 'lion' + āsana 'seat'); Pkt. sīhāsaṇa/siṁhāsaṇa",
+      "notes": "The single jewel-throne placed in each mirrored palace described in the previous verse."
+    },
+    {
+      "token": "ભિંદો",
+      "translit": "bhiṁdo",
+      "gloss": "Indra (seated on them)",
+      "partOfSpeech": "compound",
+      "etymology": "Read as -bhi (old loc./instr. plural ending) + iṁdo (Sk. indra), sandhi 'bhi-iṁdo' → 'bhiṁdo': 'Indra upon the (lion-thrones)'",
+      "notes": "Identified with Śakra, named explicitly as 'sakko' in the following verse. The segmentation is the most coherent reading; see notes."
+    },
+    {
+      "token": "પઇ",
+      "translit": "pai",
+      "gloss": "on each (repeated)",
+      "partOfSpeech": "particle",
+      "etymology": "Sk. prati (प्रति); distributive, here governing the bhadra-seats",
+      "notes": "Repetition reinforces that the entire arrangement is replicated identically everywhere."
+    },
+    {
+      "token": "ભદ્દાસણાગ",
+      "translit": "bhaddāsaṇāga",
+      "gloss": "before the auspicious seats (fore of the bhadra-seats)",
+      "partOfSpeech": "compound",
+      "etymology": "bhaddāsaṇa (Sk. bhadrāsana 'auspicious seat') + agga (Sk. agra 'fore, front')",
+      "notes": "The eight bhadrāsanas of the previous verse; the queens are stationed at their front."
+    },
+    {
+      "token": "મગ્ગ",
+      "translit": "magga",
+      "gloss": "path, aisle, passage",
+      "partOfSpeech": "noun",
+      "etymology": "Sk. mārga (मार्ग); Pkt. magga",
+      "notes": "The aisle/row running in front of the seats where the queens are placed."
+    },
+    {
+      "token": "મહિસીઓ",
+      "translit": "mahisīo",
+      "gloss": "the chief queens (Indra's consorts)",
+      "partOfSpeech": "noun",
+      "etymology": "Sk. mahiṣī (महिषी) 'chief queen, principal consort'; nom. pl. mahiṣyaḥ → Pkt. mahisīo",
+      "notes": "Śakra's principal queens, traditionally performing the thirty-two dramatic shows (nāṭya) in this episode."
+    },
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this manner",
+      "partOfSpeech": "particle",
+      "etymology": "Sk. itthaṁ/iti (इति) 'thus'; Pkt. iya",
+      "notes": "Sums up the arrangement just listed and turns to the act of worship."
+    },
+    {
+      "token": "તિપયાહિણ",
+      "translit": "ti-payāhiṇa",
+      "gloss": "the three circumambulations (pradakṣiṇā)",
+      "partOfSpeech": "compound",
+      "etymology": "ti (Sk. tri 'three') + payāhiṇa (Sk. pradakṣiṇā 'rightward circling, reverent circumambulation')",
+      "notes": "The standard threefold pradakṣiṇā of Jina-worship."
+    },
+    {
+      "token": "પુવ્વં",
+      "translit": "puvvaṁ",
+      "gloss": "first, beforehand, preceded by",
+      "partOfSpeech": "adverb",
+      "etymology": "Sk. pūrvaṁ (पूर्वम्) 'before, first'; Pkt. puvvaṁ",
+      "notes": "The worship begins with the three circlings aloft."
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "having proceeded (or: the elephant)",
+      "partOfSpeech": "adj",
+      "etymology": "Sk. gata (गत) 'gone, proceeded'; or Sk. gaja (गज) 'elephant' (Airāvata)",
+      "notes": "Genuinely ambiguous: 'gata' (the procession having moved down) or 'gaja' (the elephant). See notes."
+    },
+    {
+      "token": "અગ્ગ",
+      "translit": "agga",
+      "gloss": "fore, front, foremost",
+      "partOfSpeech": "noun",
+      "etymology": "Sk. agra (अग्र) 'tip, front, foremost'; Pkt. agga",
+      "notes": "'At the fore' — either the head of the procession/elephant or 'in front'."
+    },
+    {
+      "token": "પયાહિણ",
+      "translit": "payāhiṇa",
+      "gloss": "circumambulation (pradakṣiṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Sk. pradakṣiṇā (प्रदक्षिणा) 'rightward reverent circling'; Pkt. payāhiṇa",
+      "notes": "The reverent circling repeated below as well."
+    },
+    {
+      "token": "ભુવિદોવિ",
+      "translit": "bhuvi-do-vi",
+      "gloss": "on the earth too, in both alike",
+      "partOfSpeech": "compound",
+      "etymology": "bhuvi (Sk. loc. of bhū, भुवि 'on the earth') + do (Sk. dve 'two/both') + vi (Sk. api 'also, even')",
+      "notes": "The veneration done aloft on the mirrored thrones is matched on the ground — 'in both' realms."
+    }
+  ],
+  "literalTranslation": "On each lion-throne, Indra; on each, along the aisle before the auspicious seats, the chief queens. Thus, preceded by the three circumambulations [aloft], the foremost circling [is made] on the earth too — in both alike.",
+  "idiomaticTranslation": "Upon every one of his mirrored lion-thrones sits Indra himself, and ranged along the aisle before each row of auspicious seats stand his chief queens. So, having first circled the Lord thrice in reverence above, he circles Him again at the procession's head upon the earth below — venerating Vīra in both worlds at once.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding verse furnished the scene — eight jewelled bhadra-seats and a single footstooled lion-throne set in each of the mirrored palaces — this verse peoples it. On every replicated throne Indra is seated, and along the aisle before every set of auspicious seats stand his chief queens (mahiṣīs), who in this legend perform the thirty-two dramatic shows. The distributive 'pai … pai' ('on each … on each') is doing the real work: the magnificence is not one grand throne but the same grandeur multiplied without limit, the visual echo of the elephant's eight tusks, eight ponds per tusk, eight lotuses per pond and eight leaves per lotus. The second half turns from furniture to act: 'thus, the threefold circumambulation first' — the worship proper begins with the canonical three pradakṣiṇās performed aloft — and then the circling is made 'on the earth too, in both alike,' so that Śakra venerates the Jina simultaneously in the sky and on the ground. This sets the hinge for the next verse, where the reflected Śakra is seen bowing to Vīra and King Daśārṇabhadra — who had vowed to out-worship everyone — watches his pride dissolve and takes initiation. The verse is thus the crescendo of the display whose whole purpose is not spectacle but the puncturing of conceit.",
+    "doctrinalContext": "The verse-specific point is the subordination of māna (pride, here abhimāna of royal power) to bhakti. Even Śakra, sovereign of the gods, does not display his glory for its own sake but bends every mirrored self into pradakṣiṇā before the Jina — physical devotion enacted with the body, the threefold circling traditionally read as homage to right faith, right knowledge and right conduct. That the worship is doubled 'in both' the celestial and earthly spheres dramatises that no rank, divine or royal, stands above the Tīrthaṅkara; grandeur is meaningful only as an offering laid at his feet. The mahiṣīs' performance frames worship as joyful art, not mere ritual.",
+    "practicalRelevance": "A reciter meets this verse as a mirror for his own conceit: whatever wealth, status or even piety he might parade, the king of gods first lays his whole magnificence down in circling reverence. The three pradakṣiṇās named here are the very circlings the worshipper still walks around the image in the temple today — a cue to enter worship by surrendering pride before offering anything else.",
+    "crossReferences": [
+      {
+        "text": "Daśārṇabhadra episode — Śakra on Airāvaṇa with eight tusks, eight ponds, eight lotuses, eight leaves and the thirty-two nāṭya; the king abandons pride and takes religious conduct",
+        "source": "Daśārṇabhadrarṣi-sajjhāya of Lālavijaya (Tessitori Collection, Biblioteca Civica 'Vincenzo Joppi', Udine), summarised in Wisdomlib"
+      },
+      {
+        "text": "Pradakṣiṇā as threefold reverent circumambulation in Jina worship",
+        "source": "Wisdomlib, 'Pradakṣiṇā' (Sanskrit/Prakrit dictionary entries)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dasharnabhadra (Daśārṇabhadra) — definition",
+      "url": "https://www.wisdomlib.org/definition/dasharnabhadra",
+      "type": "scholarship",
+      "consultedFor": "The recursive Airāvata structure (8 tusks → 8 ponds → 8 lotuses → 8 leaves → 32 dramatic shows) and the narrative outcome — Daśārṇabhadra abandoning pride and adopting religious conduct"
+    },
+    {
+      "title": "Pradakshina (Pradakṣiṇā) — definition",
+      "url": "https://www.wisdomlib.org/definition/pradakshina",
+      "type": "dictionary",
+      "consultedFor": "Gloss of payāhiṇa = pradakṣiṇā, the rite of reverent rightward circumambulation"
+    },
+    {
+      "title": "Mahishi (Mahiṣī) — definition (incl. Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/mahishi",
+      "type": "dictionary",
+      "consultedFor": "Gloss of mahisīo = mahiṣī, 'chief queen / principal consort'"
+    },
+    {
+      "title": "Tessitori Collection: I manoscritti indiani della Biblioteca Civica 'Vincenzo Joppi' di Udine",
+      "url": "https://www.academia.edu/45016098/TESSITORI_COLLECTION_I_MANOSCRITTI_INDIANI_DELLA_BIBLIOTECA_CIVICA_VINCENZO_JOPPI_DI_UDINE",
+      "type": "scholarship",
+      "consultedFor": "Primary manuscript basis for the Daśārṇabhadra legend referenced above (Lālavijaya's sajjhāya)"
+    }
+  ],
+  "translatorConfidence": 0.6,
+  "notes": "The first half is secure: 'pai siṁhāsaṇa(-bhi) iṁdo' = Indra on each lion-throne, and 'pai bhaddāsaṇāga-magge mahisīo' = the chief queens before the auspicious seats — both fitting the well-attested Daśārṇabhadra episode (Śakra multiplying his magnificence to humble the king's pride). 'ભિંદો' is read as a sandhi of an archaic locative-plural -bhi with iṁdo (Indra), consistent with 'sakko' (Śakra) in the next verse; an alternative reading takes it as a lord-epithet. The second half is genuinely difficult: 'ગય' may be gata ('having proceeded/descended') or gaja ('the elephant', Airāvata), and 'ભુવિદોવિ' is parsed bhuvi ('on earth') + do (dve, 'both/two') + vi (api, 'also'). The reading adopted — three circumambulations performed aloft and repeated on the ground, 'in both' realms — is coherent with the multiplied-veneration motif but other editions/parsings of line 2 are possible; the orthography is preserved verbatim from the Anchalgachchha/Vidhipaksha book and not normalised. Verse number 53 places it within the Daśārṇakūṭa sequence (vv.49–55)."
+}

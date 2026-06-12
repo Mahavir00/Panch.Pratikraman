@@ -1,0 +1,494 @@
+{
+  "shlokaId": "adhar-papsthanak/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Naming all eighteen kinds of wrongdoing one by one, the reciter admits to any he may have done, had done, or approved of, and asks that every such fault be wiped away.",
+  "recitation": "pahele prāṇātipāta, bīje mṛṣāvāda, trīje adattādāna, cothe maithuna, pāṁcame parigraha, chaṭṭhe krodha, sātame māna, āṭhame māyā, navame lobha, daśame rāga, agiyārame dveṣa, bārame kalaha, terame abhyākhyāna, caudame cāḍī, paṁdarame rati-arati, soḷame para-parivāda, sattarame māyā-mṛṣāvāda, aḍhārame mithyātva-śalya, e aḍhāre pāpasthānaka-māṁhe jiko koi pāpasthānaka māre jīve sevyuṁ hoya, sevarāvyuṁ hoya, sevatāṁ pratye anumodyuṁ hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ",
+  "wordByWord": [
+    {
+      "token": "પહેલે",
+      "translit": "pahele",
+      "gloss": "at the first (place); firstly",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati ordinal locative of pahelo 'first', from Skt. prathama via Prakrit paḍhama.",
+      "notes": "Sets the counting frame: each item is fixed by its serial number."
+    },
+    {
+      "token": "પ્રાણાતિપાત",
+      "translit": "prāṇātipāta",
+      "gloss": "injury to life; violence (item 1)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prāṇa 'life-breath' + atipāta 'striking down'."
+    },
+    {
+      "token": "બીજે",
+      "translit": "bīje",
+      "gloss": "at the second",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of bījo 'second', from Skt. dvitīya."
+    },
+    {
+      "token": "મૃષાવાદ",
+      "translit": "mṛṣāvāda",
+      "gloss": "false speech; lying (item 2)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mṛṣā 'falsely' + vāda 'speech'."
+    },
+    {
+      "token": "ત્રીજે",
+      "translit": "trīje",
+      "gloss": "at the third",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of trījo, from Skt. tṛtīya."
+    },
+    {
+      "token": "અદત્તાદાન",
+      "translit": "adattādāna",
+      "gloss": "taking what is not given; theft (item 3)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a- 'not' + datta 'given' + ādāna 'taking'."
+    },
+    {
+      "token": "ચોથે",
+      "translit": "cothe",
+      "gloss": "at the fourth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of cotho, from Skt. caturtha."
+    },
+    {
+      "token": "મૈથુન",
+      "translit": "maithuna",
+      "gloss": "unchastity (item 4)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maithuna, from mithuna 'a pair'."
+    },
+    {
+      "token": "પાંચમે",
+      "translit": "pāṁcame",
+      "gloss": "at the fifth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of pāṁcamo, from Skt. pañcama."
+    },
+    {
+      "token": "પરિગ્રહ",
+      "translit": "parigraha",
+      "gloss": "possessiveness; attachment to possessions (item 5)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pari 'around' + graha 'grasping'."
+    },
+    {
+      "token": "છઠ્ઠે",
+      "translit": "chaṭṭhe",
+      "gloss": "at the sixth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of chaṭṭho, from Skt. ṣaṣṭha."
+    },
+    {
+      "token": "ક્રોધ",
+      "translit": "krodha",
+      "gloss": "anger (item 6; first of the four kaṣāyas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √krudh 'to be angry'."
+    },
+    {
+      "token": "સાતમે",
+      "translit": "sātame",
+      "gloss": "at the seventh",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of sātamo, from Skt. saptama."
+    },
+    {
+      "token": "માન",
+      "translit": "māna",
+      "gloss": "pride; arrogance (item 7)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √man 'to think/esteem'."
+    },
+    {
+      "token": "આઠમે",
+      "translit": "āṭhame",
+      "gloss": "at the eighth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of āṭhamo, from Skt. aṣṭama."
+    },
+    {
+      "token": "માયા",
+      "translit": "māyā",
+      "gloss": "deceit; guile (item 8)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. māyā 'illusion, trickery'."
+    },
+    {
+      "token": "નવમે",
+      "translit": "navame",
+      "gloss": "at the ninth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of navamo, from Skt. navama."
+    },
+    {
+      "token": "લોભ",
+      "translit": "lobha",
+      "gloss": "greed (item 9; last of the four kaṣāyas)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √lubh 'to covet'."
+    },
+    {
+      "token": "દશમે",
+      "translit": "daśame",
+      "gloss": "at the tenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of daśamo, from Skt. daśama."
+    },
+    {
+      "token": "રાગ",
+      "translit": "rāga",
+      "gloss": "attachment; liking (item 10)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √rañj 'to be coloured/attached'."
+    },
+    {
+      "token": "અગિયારમે",
+      "translit": "agiyārame",
+      "gloss": "at the eleventh",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of agiyāramo, from Skt. ekādaśa."
+    },
+    {
+      "token": "દ્વેષ",
+      "translit": "dveṣa",
+      "gloss": "aversion; hatred (item 11)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √dviṣ 'to hate'."
+    },
+    {
+      "token": "બારમે",
+      "translit": "bārame",
+      "gloss": "at the twelfth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of bāramo, from Skt. dvādaśa."
+    },
+    {
+      "token": "કલહ",
+      "translit": "kalaha",
+      "gloss": "quarrelling; strife (item 12)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kalaha 'contention, dispute'."
+    },
+    {
+      "token": "તેરમે",
+      "translit": "terame",
+      "gloss": "at the thirteenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of teramo, from Skt. trayodaśa."
+    },
+    {
+      "token": "અભ્યાખ્યાન",
+      "translit": "abhyākhyāna",
+      "gloss": "false accusation (item 13)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. abhi + ā + √khyā 'to declare against'."
+    },
+    {
+      "token": "ચૌદમે",
+      "translit": "caudame",
+      "gloss": "at the fourteenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of caudamo, from Skt. caturdaśa."
+    },
+    {
+      "token": "ચાડી",
+      "translit": "cāḍī",
+      "gloss": "tale-bearing; backbiting (item 14; = paiśunya)",
+      "partOfSpeech": "noun",
+      "etymology": "Deśya/Guj. cāḍī 'informing, slander'; classical equivalent paiśunya."
+    },
+    {
+      "token": "પંદરમે",
+      "translit": "paṁdarame",
+      "gloss": "at the fifteenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of paṁdaramo, from Skt. pañcadaśa."
+    },
+    {
+      "token": "રતિઅરતિ",
+      "translit": "rati-arati",
+      "gloss": "delight (in the wrong) and discontent (with the right) (item 15)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. rati 'pleasure' + a-rati 'displeasure'."
+    },
+    {
+      "token": "સોળમે",
+      "translit": "soḷame",
+      "gloss": "at the sixteenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of soḷamo, from Skt. ṣoḍaśa."
+    },
+    {
+      "token": "પરપરિવાદ",
+      "translit": "para-parivāda",
+      "gloss": "slandering others; fault-finding behind backs (item 16)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. para 'other' + parivāda 'censure, blame'."
+    },
+    {
+      "token": "સત્તરમે",
+      "translit": "sattarame",
+      "gloss": "at the seventeenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of sattaramo, from Skt. saptadaśa."
+    },
+    {
+      "token": "માયા–મૃષાવાદ",
+      "translit": "māyā-mṛṣāvāda",
+      "gloss": "deceitful falsehood (item 17)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. māyā 'guile' + mṛṣāvāda 'lying'."
+    },
+    {
+      "token": "અઢારમે",
+      "translit": "aḍhārame",
+      "gloss": "at the eighteenth",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. ordinal of aḍhāramo, from Skt. aṣṭādaśa."
+    },
+    {
+      "token": "મિથ્યાત્વશલ્ય",
+      "translit": "mithyātva-śalya",
+      "gloss": "the thorn of wrong belief (item 18)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mithyātva 'wrongness of view' + śalya 'thorn, dart'."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative e 'this/these', from Skt. eta-."
+    },
+    {
+      "token": "અઢારે",
+      "translit": "aḍhāre",
+      "gloss": "all eighteen (together)",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. aḍhāra 'eighteen' + inclusive -e 'all of the'."
+    },
+    {
+      "token": "પાપસ્થાનકમાંહે",
+      "translit": "pāpasthānaka-māṁhe",
+      "gloss": "among the sources of sin",
+      "partOfSpeech": "noun",
+      "etymology": "pāpasthānaka + Guj. postposition māṁhe 'within, among' (from Skt. madhye)."
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "whichever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. relative jiko 'whoever/whichever', from Skt. ya-."
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any (one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. koi 'any', from Skt. ko'pi."
+    },
+    {
+      "token": "પાપસ્થાનક",
+      "translit": "pāpasthānaka",
+      "gloss": "source/seat of sin",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāpa 'sin' + sthānaka 'station, seat'."
+    },
+    {
+      "token": "મારે",
+      "translit": "māre",
+      "gloss": "by my / by me (with jīve: 'by my soul')",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. instrumental-possessive of huṁ 'I'."
+    },
+    {
+      "token": "જીવે",
+      "translit": "jīve",
+      "gloss": "by the soul (instrumental)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jīva 'living soul', instrumental case.",
+      "notes": "māre jīve = 'by my own soul' — the reciter's soul is the locus of confession."
+    },
+    {
+      "token": "સેવ્યું",
+      "translit": "sevyuṁ",
+      "gloss": "has been committed (by oneself; kṛta)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. past participle of sevvuṁ, from Skt. √sev 'to serve, practise'."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be (the case); if it has been",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. subjunctive of thavuṁ/hovuṁ 'to be', from Skt. √bhū.",
+      "notes": "First of three occurrences — pairs with sevyuṁ (doing oneself)."
+    },
+    {
+      "token": "સેવરાવ્યું",
+      "translit": "sevarāvyuṁ",
+      "gloss": "has been caused to be committed (by another; kārita)",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of sevvuṁ + Guj. past participle ending."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "as above.",
+      "notes": "Second occurrence — pairs with sevarāvyuṁ (causing another)."
+    },
+    {
+      "token": "સેવતાં",
+      "translit": "sevatāṁ",
+      "gloss": "while (others were) committing",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. present participle of sevvuṁ 'committing'."
+    },
+    {
+      "token": "પ્રત્યે",
+      "translit": "pratye",
+      "gloss": "toward; with regard to",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. prati 'toward', locative form.",
+      "notes": "sevatāṁ pratye = 'toward those committing it' — sets up approval of another's act."
+    },
+    {
+      "token": "અનુમોદ્યું",
+      "translit": "anumodyuṁ",
+      "gloss": "has been approved/applauded (anumodita)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. anumodana 'approval' + Guj. past participle ending; √mud 'to rejoice'."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "as above.",
+      "notes": "Third occurrence — pairs with anumodyuṁ (approving another), completing the triple agency."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that; those (faults)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tad, Guj. te."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all; every (one of them)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva / Skt. sarva 'all'."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. first-person pronoun, from Skt. aham via Prakrit huṁ."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind (instrument: mana)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. manas 'mind', instrumental.",
+      "notes": "First of the three yogas (instruments)."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech (vacana)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vacana 'speech', instrumental."
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body (kāya)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kāya 'body', Guj. instrumental kāyāe."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done (it by these means)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. absolutive of karvuṁ 'to do', from Skt. √kṛ."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false; in vain (Prakrit)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā, from Skt. mithyā 'falsely, fruitlessly'."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my / by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi/me, from Skt. me 'my'."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed; bad deed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa, from Skt. duṣkṛta 'ill-done'.",
+      "notes": "micchā mi dukkaḍaṁ = 'may my misdeed come to nothing' — the sealing retraction."
+    }
+  ],
+  "literalTranslation": "At the first, injury to life; at the second, false speech; at the third, taking what is not given; at the fourth, unchastity; at the fifth, possessiveness; at the sixth, anger; at the seventh, pride; at the eighth, deceit; at the ninth, greed; at the tenth, attachment; at the eleventh, aversion; at the twelfth, quarrelling; at the thirteenth, false accusation; at the fourteenth, tale-bearing; at the fifteenth, delight-and-discontent; at the sixteenth, slander of others; at the seventeenth, deceitful falsehood; at the eighteenth, the thorn of wrong belief — among all these eighteen sources of sin, whichever source of sin my soul has committed, has had committed, or has approved while another committed it, all that, by me, by mind, by speech, by body — may my misdeed come to nothing.",
+  "idiomaticTranslation": "First, violence; second, lying; third, theft; fourth, unchastity; fifth, possessiveness; sixth, anger; seventh, pride; eighth, deceit; ninth, greed; tenth, attachment; eleventh, aversion; twelfth, strife; thirteenth, false accusation; fourteenth, backbiting; fifteenth, craving-and-loathing; sixteenth, slander; seventeenth, cunning falsehood; and eighteenth, the thorn of wrong belief. Of all these eighteen seats of sin, whatever fault my soul has done itself, prompted in another, or applauded in another's doing — every bit of it, with my mind, my speech and my body, I now disown: may my misdeed come to nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "Read closely, the eighteen are not a random heap but a descent inward and then a return outward. The verse opens with the five great restraints in their canonical order — prāṇātipāta, mṛṣāvāda, adattādāna, maithuna, parigraha — gross acts of body and word. It then turns to the four kaṣāyas (krodha, māna, māyā, lobha, items 6–9), the inner passions that drive those acts, before naming their very engine, rāga and dveṣa (10–11). Items 12–17 are the social and verbal harms that rāga–dveṣa breed: quarrelling (kalaha), false accusation (abhyākhyāna), tale-bearing (cāḍī), the restless rati-arati, slander (para-parivāda), and cunning falsehood (māyā-mṛṣāvāda). The list culminates not in another act but in mithyātva-śalya — wrong belief named as a *śalya*, an embedded thorn: the deepest source, since a distorted view of reality silently feeds all seventeen above it. A deliberate hinge follows the enumeration: 'e aḍhāre… jiko koi… māre jīve' — 'of all eighteen, whichever my own soul has touched.' The confession is not abstract; it is pinned to the reciter's own jīva. The triad sevyuṁ–sevarāvyuṁ–anumodyuṁ then closes every escape: one is implicated whether one acted, set another to act, or merely smiled on the act. 'Sevatāṁ pratye anumodyuṁ' is the subtle clause — quiet approval of another's wrongdoing is itself confessed. Finally 'huṁ mane, vacane, kāyāe karī' binds the three instruments, and 'micchā mi dukkaḍaṁ' seals it. The grammar of the verse thus enacts its doctrine: name exhaustively, locate honestly, retract completely.",
+    "doctrinalContext": "The verse's distinctive teaching is its ranking of sin by depth, not merely by gravity. By placing mithyātva-śalya last and calling it a thorn, it asserts the Jain conviction that wrong darśana (view) is the taproot of karmic influx — the five gross sins and four passions are its branches. This mirrors the Tattvārtha framing in which mithyādarśana heads the causes of bandha and right faith (samyag-darśana) is the first step of the path. Equally doctrinal is the pairing rāga–dveṣa as the twin axle of saṁsāra: every kaṣāya resolves into one or the other. The verse therefore offers a compact map of āsrava — from view, through passion, to deed and word.",
+    "practicalRelevance": "A reciter today can use the eighteen as a graded conscience-scan: run down the list, pause where it stings, and apply the sevyuṁ / sevarāvyuṁ / anumodyuṁ test honestly — especially the third, since approving harmful talk, sharp business, or another's slander is the fault most easily overlooked. Reaching mithyātva-śalya last is a reminder to examine not only what one did but how one sees, before letting 'micchā mi dukkaḍaṁ' genuinely loosen the thorn.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 8.1 — mithyādarśana, avirati, pramāda, kaṣāya and yoga as the causes of karmic bondage",
+        "source": "Umāsvāti, tr. Nathmal Tatia, That Which Is"
+      },
+      {
+        "text": "Sthānāṅga / Samavāyāṅga — canonical enumeration of the eighteen pāpasthānaka",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Āvaśyaka tradition — the Pratikramaṇa confession formula sevita-kārita-anumodita",
+        "source": "Āvaśyaka Sūtra / Niryukti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Micchami Dukkadam",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "Meaning and Prakrit/Sanskrit etymology of micchā mi dukkaḍaṁ and its role in the pratikramaṇa confession."
+    },
+    {
+      "title": "Karma in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Karma_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal framing of āsrava and bandha, kaṣāya and rāga–dveṣa as causes of karmic influx."
+    },
+    {
+      "title": "Tattvartha Sutra",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "translation",
+      "consultedFor": "Placement of mithyādarśana as the foremost cause of bondage, grounding the verse's culmination in mithyātva-śalya."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Item 14 is recited as the Gujarati 'cāḍī' (tale-bearing), corresponding to classical paiśunya; rendered accordingly. The ordinal locatives (pahele, bīje…) are Old/medieval Gujarati liturgical forms meaning 'at the Nth (place)'; transliterated as pronounced. 'jiko' is an archaic relative pronoun ('whichever'). 'māre jīve' read as instrumental 'by my soul'. The triad sevyuṁ/sevarāvyuṁ/anumodyuṁ maps to kṛta/kārita/anumodita and mane/vacane/kāyāe to the three yogas — explained per-token rather than re-glossing the preface's grid. Source spelling preserved verbatim (e.g. અતિયાર-style readings not at issue in this verse). Variant enumerations exist for items 16–18 across sects, but the eighteen-fold total and content are stable; the recited order here is followed exactly."
+}

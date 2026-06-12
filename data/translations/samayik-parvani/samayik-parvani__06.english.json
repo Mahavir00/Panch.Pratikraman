@@ -1,0 +1,162 @@
+{
+  "shlokaId": "samayik-parvani/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "For as long as your mind stays held to the vow's discipline during sāmāyika, you cut away bad karma — and the more often you do sāmāyika, the more it is cut.",
+  "recitation": "sāmāia vaya jutto, jāva maṇo hoi niyama-saṁjutto; chinnai asuhaṁ kammaṁ, sāmāiya jattiā vārā.",
+  "wordByWord": [
+    {
+      "token": "સામાઇઅ",
+      "translit": "sāmāia",
+      "gloss": "of/in sāmāyika, the vow of equanimity",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. sāmāyika, from sama-aya ('attainment of equanimity / sameness'); here functioning as the qualifier of vaya.",
+      "notes": "Same stem repeated in pāda 4 as sāmāiya; the verse opens and closes on this word, framing the whole gāthā."
+    },
+    {
+      "token": "વય",
+      "translit": "vaya",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaya < Skt. vrata ('vow, observance'); the intervocalic -r- and the conjunct are lost in the Prakrit, giving vaya.",
+      "notes": "sāmāia vaya = 'the sāmāyika-vow' taken together."
+    },
+    {
+      "token": "જુત્તો",
+      "translit": "jutto",
+      "gloss": "joined, yoked (to)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit jutta < Skt. yukta (past participle of √yuj, 'to join, yoke'); nom. sg. masc. -o agreeing with the implied practitioner.",
+      "notes": "The reciter is yoked to the vow; this 'yoking' is then mirrored in niyama-saṁjutto, the mind's parallel yoking."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "as long as",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jāva < Skt. yāvat ('so long as, until'); correlative, here without an explicit tāva.",
+      "notes": "Introduces the temporal condition on which the karma-severing depends."
+    },
+    {
+      "token": "મણો",
+      "translit": "maṇo",
+      "gloss": "the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇa < Skt. manas; nom. sg. maṇo.",
+      "notes": "Subject of hoi; the verse pivots on the mind, not the body, as the locus of efficacy."
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "is, remains",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hoi < Skt. bhavati (√bhū, 'to be, become'); 3rd sg. pres.",
+      "notes": "Present tense expressing an ongoing state — 'keeps being / remains'."
+    },
+    {
+      "token": "નિયમસંજુત્તો",
+      "translit": "niyama-saṁjutto",
+      "gloss": "joined with restraint (with the disciplined rule)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. niyama ('restraint, voluntary rule') + saṁyukta ('fully joined', sam-√yuj) → Prakrit niyama-saṁjutta; nom. sg. masc. predicate of maṇo.",
+      "notes": "Intensive sam- strengthens jutto of pāda 1: the mind must be wholly bound to discipline, not loosely associated."
+    },
+    {
+      "token": "છિન્નઇ",
+      "translit": "chinnai",
+      "gloss": "cuts off, severs",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit chindai/chinnai < Skt. chinatti (√chid, 'to cut'); 3rd sg. pres.",
+      "notes": "The principal verb; its subject is the act of sāmāyika itself / the practitioner so yoked."
+    },
+    {
+      "token": "અસુહં",
+      "translit": "asuhaṁ",
+      "gloss": "inauspicious, sin-bearing",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asuha < Skt. aśubha ('inauspicious, unwholesome'); a- privative + śubha; acc. sg. neut. qualifying kammaṁ.",
+      "notes": "Specifies which karma is severed — the demerit-bearing (pāpa) kind."
+    },
+    {
+      "token": "કમ્મં",
+      "translit": "kammaṁ",
+      "gloss": "karma",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kamma < Skt. karman (√kṛ, 'to do'); acc. sg., object of chinnai.",
+      "notes": "Here the karmic matter (pudgala) accreted to the soul, whose bond is cut."
+    },
+    {
+      "token": "સામાઇય",
+      "translit": "sāmāiya",
+      "gloss": "sāmāyika (the equanimity practice)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. sāmāyika; nominative/stem, the implicit subject counted by jattiā vārā.",
+      "notes": "Recurs from pāda 1, now as the thing whose repetitions are tallied."
+    },
+    {
+      "token": "જત્તિઆ",
+      "translit": "jattiā",
+      "gloss": "as many (times) as",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit jattiya < Skt. yāvant ('as many as'); correlative quantifier, fem. pl. agreeing with vārā.",
+      "notes": "Forms the correlative 'as many times … (so many times the karma is cut)'. Not 'with effort' (yatna) — a common mis-gloss; here it is the relative of quantity."
+    },
+    {
+      "token": "વારા",
+      "translit": "vārā",
+      "gloss": "times, occasions",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāra < Skt. vāra ('turn, occasion, time'); fem./masc. pl. vārā.",
+      "notes": "jattiā vārā = 'however many times' — making the karma-severing cumulative with each session."
+    }
+  ],
+  "literalTranslation": "One yoked to the sāmāyika-vow — as long as the mind stays fully joined to restraint — cuts off inauspicious karma; as many times as sāmāyika (is done), so many times (it is cut).",
+  "idiomaticTranslation": "Bound to the vow of equanimity, the practitioner whose mind stays wedded to restraint severs sin-laden karma — and is cleansed afresh with every single sitting of sāmāyika that is undertaken.",
+  "elaboration": {
+    "verseByVerseCommentary": "After v.5 wipes away words misspoken in negligence, this gāthā turns from confession to reward: it states, in one tight conditional, why the sāmāyika just sat was worth sitting. Two yokings are stacked — the outer 'vaya jutto' (yoked to the vow) and the inner 'niyama-saṁjutto' (mind yoked to restraint) — and the second is the real hinge. The clause 'jāva maṇo hoi niyama-saṁjutto' makes efficacy strictly conditional and durational: the cutting of karma lasts exactly as long as, and no longer than, the mind holds to discipline. Bodily stillness on the āsana earns nothing once the mind wanders off niyama; this is the verse's quiet warning against mechanical observance, and it answers directly to the thirty-two doṣas the Sūtra will later confess. The main verb 'chinnai' (√chid, 'to cut') is deliberately surgical rather than 'burns' or 'dissolves': the karmic bond is severed at the join. The closing correlative 'jattiā vārā' — 'as many times as' — converts a single benefit into an arithmetic of repetition: each fresh, mindful sitting performs the cut again, so merit accrues session upon session. That last clause is the springboard into v.7, whose 'bahuso sāmāiyaṁ kujjā' ('do it often') is simply the imperative drawn from this verse's promise. A frequent popular rendering reads 'jattiā' as 'with effort' (yatna); the correlative-with-vārā grammar shows it means 'as many times', which the surrounding tradition and the preface's own gloss confirm.",
+    "doctrinalContext": "The verse compresses two of the seven tattvas into eight Prakrit feet: saṁvara (the stoppage of inflowing karma) and nirjarā (the shedding of karma already bound). 'niyama-saṁjutto' is the saṁvara condition — the disciplined mind blocks fresh āsrava; 'chinnai asuhaṁ kammaṁ' is the nirjarā result — bound aśubha (pāpa) karma is actively cut, not merely halted. Crucially the object is asuha karma specifically: sāmāyika in equanimity does not bind new demerit and pares away the old, which is precisely why the tradition can elsewhere weigh one sāmāyika above lavish gold-giving. The mind-centred condition also encodes the Jain priority of bhāva (inner intention) over dravya (outward act): the same posture yields liberation-ward fruit or none at all according to the mind's yoking. 'jattiā vārā' embeds the doctrine of cumulative nirjarā — karma is shed quantitatively, occasion by occasion — grounding the whole liturgy's call to repeated practice.",
+    "practicalRelevance": "Sit only as long as you can actually keep the mind on its restraint — the verse promises results for the mindful minutes, not the clock-minutes. Treat a wandering mind as the moment the 'cutting' pauses, and gently re-yoke rather than merely waiting out the 48 minutes. And take the closing clause as encouragement: there is no ceiling — each additional sincere sāmāyika does the work again, so frequency, done attentively, compounds.",
+    "crossReferences": [
+      {
+        "text": "Sāmāiyammi u kae, samaṇo iva sāvao havai jamhā… bahuso sāmāiyaṁ kujjā (v.7, the immediately following gāthā)",
+        "source": "Āvaśyaka Niryukti / Sāmāyika-Āvaśyaka tradition"
+      },
+      {
+        "text": "Six Āvaśyakas and the karma-severing role of sāmāyika (saṁvara–nirjarā)",
+        "source": "Āvaśyaka Sūtra with Niryukti (Bhadrabāhu)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 9 (saṁvara) and 9.3 ff. (nirjarā) — doctrinal frame for cutting bound karma",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sri Avasyaka Sutra, Part I (with Niryukti)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.406853",
+      "type": "scholarship",
+      "consultedFor": "Tradition-source of the equanimity-praise gāthās and the six-Āvaśyaka karma-severing framework behind 'chinnai asuhaṁ kammaṁ'."
+    },
+    {
+      "title": "Five Vows and Six Āvaśyakas — The Fundamentals of Jaina Ethics",
+      "url": "https://www.herenow4u.net/index.php?id=3011",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal placement of sāmāyika within the six Āvaśyakas and its function of stopping/severing inauspicious karma."
+    },
+    {
+      "title": "Jainworld — Jain Books Online (Sāmāyika Sūtra with meanings)",
+      "url": "https://jainworld.com/library/jain-books/books-on-line/",
+      "type": "translation",
+      "consultedFor": "Liturgical reading of the equanimity-praise verses and the 'layman becomes like a monk' theme that v.7 develops from this verse."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens — yukta (√yuj), chinatti (√chid), aśubha, vāra, yāvant."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "This gāthā ('sāmāia vaya jutto…') is widely transmitted in the Āvaśyaka Niryukti / Sāmāyika-Āvaśyaka stock and is paired in this sutra with v.7 ('sāmāiyammi u kae… samaṇo iva sāvao havai'); the source book does not itself assign a single author, so the attribution is tradition-level only. Orthography is preserved verbatim per the book's fidelity rules (e.g. છિન્નઇ, જત્તિઆ). Key interpretive choice: 'જત્તિઆ વારા / jattiā vārā' is read as the correlative 'as many times as (sāmāyika is performed)' — quantity, agreeing with vārā 'times' — not 'best/with effort' (yatna), a gloss that appears in some popular renderings but is unsupported by the grammar and contradicts the preface's own reading. The cited URLs point to general repositories rather than a single critical-edition page; external gāthā numbering for this verse should be treated as approximate."
+}

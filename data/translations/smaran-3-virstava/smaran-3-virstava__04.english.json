@@ -1,0 +1,150 @@
+{
+  "shlokaId": "smaran-3-virstava/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The lotus, the elephant and the moon — soft, steady and gentle; red, dark and pale; each a home of beauty yet each afraid of one thing — are the three ornaments of water, land and sky.",
+  "recitation": "sukumāla dhīra somā, ratta-kisanna paṇḍurā siri-nikeyā | sīyaṅkusa gaha-bhīru, jala-thala naha maṇḍaṇā tinnī ||",
+  "wordByWord": [
+    {
+      "token": "સુકુમાલ",
+      "translit": "sukumāla",
+      "gloss": "soft, tender, delicate — the lotus's quality",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. su-kumāra → Pkt. sukumāla ('very tender'); su- (well/very) + kumāra (young, delicate).",
+      "notes": "First of the three qualities; maps to the paṅkaja (lotus)."
+    },
+    {
+      "token": "ધીર",
+      "translit": "dhīra",
+      "gloss": "steady, firm, grave — the elephant's quality",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Pkt. dhīra, from √dhṛ ('to hold, be steadfast').",
+      "notes": "Second quality; maps to the gajendra (elephant), whose gait is grave and unhurried."
+    },
+    {
+      "token": "સોમા",
+      "translit": "somā",
+      "gloss": "gentle, cool, moon-like — the moon's quality",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saumya / soma ('moon; mild, pleasant') → Pkt. soma; here 'cool and gentle as the moon'.",
+      "notes": "Third quality; maps to the candra (moon). The three adjectives soft–steady–gentle are keyed in order to lotus, elephant, moon."
+    },
+    {
+      "token": "રત્તકિસન્ન",
+      "translit": "ratta-kisanna",
+      "gloss": "red-and-dark (the lotus red, the elephant dark)",
+      "partOfSpeech": "compound",
+      "etymology": "ratta (Skt. rakta, 'red') + kisanna (Skt. kṛṣṇa, 'dark/black') — dvandva.",
+      "notes": "First two of three colours: red (the red lotus) and dark (the elephant)."
+    },
+    {
+      "token": "પંડુરા",
+      "translit": "paṇḍurā",
+      "gloss": "pale, white (the moon)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pāṇḍura ('pale, whitish') → Pkt. paṇḍura.",
+      "notes": "Third colour, completing red–dark–pale for lotus–elephant–moon."
+    },
+    {
+      "token": "સિરિનિકેયા",
+      "translit": "siri-nikeyā",
+      "gloss": "abodes of beauty / homes of śrī (splendour)",
+      "partOfSpeech": "compound",
+      "etymology": "siri (Skt. śrī, 'beauty, splendour, fortune') + nikeya (Skt. niketa, 'abode, dwelling'); plural agreeing with the three.",
+      "notes": "Each of the three emblems is itself a dwelling-place of loveliness — said of all three together."
+    },
+    {
+      "token": "સીયંકુસ",
+      "translit": "sīyaṅkusa",
+      "gloss": "[fearing] cold and the goad (sīta + aṅkuśa)",
+      "partOfSpeech": "compound",
+      "etymology": "sīya (Skt. śīta/sīta, 'cold') + aṅkusa (Skt. aṅkuśa, 'elephant-goad'); first two terms of the 'fears' compound completed by gaha.",
+      "notes": "The lotus fears cold (it shuts/withers); the elephant fears the goad."
+    },
+    {
+      "token": "ગહભીરુ",
+      "translit": "gaha-bhīru",
+      "gloss": "fearful of the seizer (Rāhu) — and, taken with sīyaṅkusa, fearful of cold, goad and Rāhu respectively",
+      "partOfSpeech": "compound",
+      "etymology": "gaha (Skt. graha, 'the seizer' = Rāhu; also 'seizing') + bhīru (Skt. bhīru, 'timid, afraid'), from √bhī.",
+      "notes": "Completes the chain of fears: moon fears Rāhu (graha) who 'devours' it in eclipse. Read sīya–aṅkusa–gaha as a triad governed by bhīru — each emblem timid before its own bane."
+    },
+    {
+      "token": "જલથલ",
+      "translit": "jala-thala",
+      "gloss": "water and land",
+      "partOfSpeech": "compound",
+      "etymology": "jala (Skt. jala, 'water') + thala (Skt. sthala, 'dry land, ground') — dvandva.",
+      "notes": "First two of the three realms adorned."
+    },
+    {
+      "token": "નહ",
+      "translit": "naha",
+      "gloss": "sky",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nabhas ('sky, firmament') → Pkt. naha.",
+      "notes": "Third realm; water–land–sky are the home-spheres of lotus, elephant, moon respectively."
+    },
+    {
+      "token": "મંડણા",
+      "translit": "maṇḍaṇā",
+      "gloss": "ornaments, adornments",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maṇḍana ('decoration, adorning'), from √maṇḍ ('to adorn') → Pkt. maṇḍaṇa.",
+      "notes": "Predicate noun: these three are the 'ornaments' of their three realms."
+    },
+    {
+      "token": "તિન્ની",
+      "translit": "tinnī",
+      "gloss": "three",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. trīṇi ('three', neuter) → Pkt. tiṇṇi/tinnī.",
+      "notes": "Names the count: the three emblems — lotus, elephant, moon."
+    }
+  ],
+  "literalTranslation": "Soft, steady, gentle; red, dark, pale; homes of beauty; fearful of cold, the goad, and the seizer (Rāhu) — the three ornaments of water, land and sky.",
+  "idiomaticTranslation": "Tender as the lotus, grave as the elephant, gentle as the moon; red, dark, and pale by turn; each one a very dwelling of loveliness — yet the lotus dreads the cold, the elephant the goad, the moon the eclipsing Rāhu: these are the three jewels that adorn the water, the land and the sky.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having declared in the previous gāthā his resolve to praise the detached Mahāvīra, the poet now lays out — with extraordinary compression — the raw materials of his portrait, to be applied to Vīra's body in the verse that follows. Three emblems are presented through three parallel triads, each adjective falling in the fixed order lotus–elephant–moon. By quality they are sukumāla (soft), dhīra (steady) and somā (gentle/cool); by colour ratta, kisanna and paṇḍurā (red, dark, pale); and all alike are siri-nikeyā, very dwellings of loveliness. The fourth triad is the poet's master-stroke: sīya-aṅkusa-gaha-bhīru — each emblem is timid before its own bane. The lotus shrinks from cold (sīta); the elephant cowers at the goad (aṅkuśa); the moon trembles before Rāhu, the 'seizer' (graha) who devours it in eclipse. This 'chain of fears' is a celebrated alaṅkāra of Sanskrit–Prakrit kāvya, and here it carries a quiet doctrinal charge: the loveliest things of the three realms — jala, thala, naha — are flawed by fear, each ruled by something it cannot resist. The unspoken turn, completed in the next gāthā (na cayanti vīra-līlaṁ…), is that these very ornaments cannot bear to surrender their grace to Vīra — whose serene radiance is subject to no cold, no goad, no eclipse. Thus the verse is not yet praise of Vīra at all; it is the assembling of the palette. Its tinnī ('three') deliberately gathers water, land and sky into a single set, so that the next verse may concentrate all three beauties — flawless — in the one body of the Jina.",
+    "doctrinalContext": "The verse-specific point is the contrast between fearful, dependent natural beauty and the fearless serenity of the Jina. Each emblem's loveliness is conditional — bound to a cause (sunlight, freedom from the goad, an unclouded sky) and threatened by its opposite. This mirrors the Jain reading of all saṁsāric perfection as parā-dhīna (dependent) and impermanent. Vīra, the nissaṅga and jiya-kasāya one praised just above, embodies a beauty that is svādhīna and abhaya — fearless because nothing external can diminish a soul freed of attachment and passion. The 'three ornaments of three realms' also quietly enacts the Jina's all-pervading pre-eminence: what the cosmos scatters across water, land and sky is concentrated, undimmed, in him.",
+    "practicalRelevance": "The reciter is invited to see that even the world's most beautiful things live under a shadow of fear, and to redirect that recognition into vairāgya: lasting refuge lies not in conditioned beauty but in the fearless, detached state the Jina exemplifies. Chanting the four crisp triads (soft–steady–gentle, red–dark–pale, the three abodes, the three fears) is also a memory-aid that fixes the lotus–elephant–moon imagery firmly before the heart.",
+    "crossReferences": [
+      {
+        "text": "Following gāthā (v.5): 'na cayanti vīra-līlaṁ hāuṁ… paṅkaya gayanda candā' — the lotus, elephant and moon cannot bear to relinquish Vīra's grace",
+        "source": "Vīrastava, Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "The 'chain of fears' alaṅkāra: 'śītena kamalaṃ bādhyate, aṅkuśena gajaḥ, rāhuṇā śaśī…' — a stock conceit of Sanskrit/Prakrit kāvya",
+        "source": "Subhāṣita tradition (classical Sanskrit anthologies)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati-script Prakrit text of Vīrastava gāthā 4 and its placement among the six gāthās."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit-Sanskrit dictionary), H. D. T. Sheth — Jain Quantum digital text",
+      "url": "https://jainqq.org/booktext/Paia_Sadda_Mahannavo/016080",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit equivalents: kisanna=kṛṣṇa, paṇḍura, naha=nabhas, thala=sthala, maṇḍaṇa=maṇḍana, ratta=rakta."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying siri-nikeya (śrī-niketa), sīta/śīta, aṅkuśa, graha (Rāhu), bhīru, sukumāra, dhīra, saumya/soma."
+    },
+    {
+      "title": "Subhāṣita / kāvya tradition of the 'chain of fears' conceit (śīta–aṅkuśa–rāhu)",
+      "url": "https://sanskritdocuments.org/",
+      "type": "scholarship",
+      "consultedFor": "The stock poetic conceit pairing lotus↔cold, elephant↔goad, moon↔Rāhu, used here to set up the contrast with the fearless Jina."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The four triads are all keyed in the fixed order lotus–elephant–moon (matching the realms water–land–sky of pāda 2). 'sīya-aṅkusa-gaha-bhīru' is read as a single dvandva of three banes governed by bhīru ('fearful of cold, goad and Rāhu respectively'), the standard 'chain of fears' alaṅkāra; an alternative parsing would take only gaha-bhīru as 'fearful of the seizer' with sīya/aṅkusa as separate attributes, but the distributive reading best fits the triadic structure and the sense completed in v.5. 'gaha' = graha is taken as Rāhu (eclipse), the conventional fear of the moon. 'somā' carries a double sense ('gentle/cool' and 'moon-like'), exploited deliberately. Per the source book's orthography policy the Gujarati-script Prakrit mātrās/anusvāras/conjuncts are authoritative as printed; transliterations here follow IAST and are approximate to the book's readings."
+}

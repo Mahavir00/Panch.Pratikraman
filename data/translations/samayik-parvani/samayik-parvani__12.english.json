@@ -1,0 +1,134 @@
+{
+  "shlokaId": "samayik-parvani/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow with all-time reverence to the twenty-four Jinas of the past age, the twenty-four who are yet to come, and the twenty-four of the present age.",
+  "recitation": "atīta covīśī, anāgata covīśī, vartamāna covīśīne mārī trikāla vandanā hojo.",
+  "wordByWord": [
+    {
+      "token": "અતીત",
+      "translit": "atīta",
+      "gloss": "past, bygone (the elapsed time-cycle)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit atīta, from ati ('beyond') + the root i ('to go') — 'gone beyond, passed by'.",
+      "notes": "Qualifies the following covīśī: the cauvīsī of the previous era."
+    },
+    {
+      "token": "ચોવીશી",
+      "translit": "covīśī",
+      "gloss": "a set of twenty-four (the twenty-four Tīrthaṅkaras of one era)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit caturviṁśati ('twenty-four'); Gujarati covīśī denotes one full set of 24 Jinas.",
+      "notes": "Glossary term; here the past cauvīsī."
+    },
+    {
+      "token": "અનાગત",
+      "translit": "anāgata",
+      "gloss": "future, not-yet-arrived",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit anāgata, from an- ('not') + āgata ('come, arrived') — 'that which has not yet come'.",
+      "notes": "Qualifies covīśī: the cauvīsī of the coming era."
+    },
+    {
+      "token": "ચોવીશી",
+      "translit": "covīśī",
+      "gloss": "the set of twenty-four (Tīrthaṅkaras)",
+      "partOfSpeech": "noun",
+      "etymology": "From caturviṁśati; see above.",
+      "notes": "Here the future cauvīsī."
+    },
+    {
+      "token": "વર્તમાન",
+      "translit": "vartamāna",
+      "gloss": "present, currently existing",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vartamāna, present participle of the root vṛt ('to turn, to occur, to be present').",
+      "notes": "Qualifies covīśī: the cauvīsī of our own era, ending with Mahāvīra."
+    },
+    {
+      "token": "ચોવીશીને",
+      "translit": "covīśīne",
+      "gloss": "to the set of twenty-four (Tīrthaṅkaras)",
+      "partOfSpeech": "noun",
+      "etymology": "covīśī (from caturviṁśati) + Gujarati dative-accusative postposition -ne ('to').",
+      "notes": "The -ne marks the recipient of the homage; grammatically it governs all three cauvīsīs named above."
+    },
+    {
+      "token": "મારી",
+      "translit": "mārī",
+      "gloss": "my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person possessive (feminine, agreeing with vandanā), from Old Gujarati māhārī; cf. Sanskrit mama.",
+      "notes": "Feminine to agree with the feminine noun vandanā."
+    },
+    {
+      "token": "ત્રિકાલ",
+      "translit": "trikāla",
+      "gloss": "of the three times (past, present, future)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit tri ('three') + kāla ('time'): 'the threefold time'.",
+      "notes": "Glossary term (trikāla-vandanā); here adjectival to vandanā."
+    },
+    {
+      "token": "વંદના",
+      "translit": "vandanā",
+      "gloss": "homage, reverential salutation",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vandanā, from the root vand ('to praise, salute, bow to').",
+      "notes": "Feminine noun; the object offered."
+    },
+    {
+      "token": "હોજો",
+      "translit": "hojo",
+      "gloss": "may it be / let it be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati benedictive (precative) of the verb hovuṁ ('to be'), from Sanskrit bhū / Prakrit ho-.",
+      "notes": "Optative-benedictive: expresses a heartfelt wish, 'may my homage be (offered/accepted)'."
+    }
+  ],
+  "literalTranslation": "To the past twenty-four, to the future twenty-four, to the present twenty-four — may my threefold-time homage be.",
+  "idiomaticTranslation": "To the twenty-four Jinas of the age gone by, to the twenty-four yet to arise, and to the twenty-four of this present age — may my homage reach them across all three times.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding salutation reaches outward in space — to the twenty living Jinas headed by Sīmandhara teaching in other regions — this verse reaches outward in time. The three cauvīsīs (atīta, anāgata, vartamāna) gather the Tīrthaṅkaras of the bygone, the coming, and the current era into a single bow, so that no enlightened teacher of any age is left unsaluted. Grammatically the verse is spare and deliberate: three adjectives (atīta, anāgata, vartamāna) modify one noun, covīśī, the third of which alone carries the dative -ne; the single 'mārī trikāla vandanā hojo' then discharges the homage to all three at once. The pairing of the temporal sweep (atīta–anāgata–vartamāna) with the trikāla of trikāla-vandanā is intentional: the worshipper's threefold homage answers, time for time, the threefold span of Jinas. The benedictive hojo keeps the act humble — not 'I bow' as an accomplished deed but 'may my homage be', a wish offered rather than a merit claimed. Placed here, near the close of the sāmāyika, the verse widens devotion from the spatial (previous verse) toward the timeless, preparing the next verse's leap to the four eternal (śāśvata) Jinas who stand beyond era altogether.",
+    "doctrinalContext": "The verse rests on the Jain cosmology of endless time-cycles (utsarpiṇī / avasarpiṇī), each producing its own set of twenty-four Tīrthaṅkaras. Because liberation and the teaching it issues are not confined to one era, reverence cannot be either: saluting the past and future cauvīsīs affirms that the dharma is beginningless and endless, and that the qualities one venerates — vītarāga omniscience — are the same in every Jina of every age. Bowing to Jinas not yet born expresses śraddhā in the perpetuity of the path rather than attachment to a single historical founder.",
+    "practicalRelevance": "As the sāmāyika is released, the reciter lifts devotion above the here-and-now: by bowing equally to teachers long gone and teachers yet to come, one practices a reverence freed from time and personality, carrying the equanimity just cultivated into a wider, steadier faith.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of the twenty-four Tīrthaṅkaras of the present cauvīsī",
+        "source": "Āvaśyaka tradition; Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Standard trikāla-vandanā / caityavandana formulae offering homage across past, present, and future",
+        "source": "Śvetāmbara Āvaśyaka liturgy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anāgata — definition and Sanskrit etymology (an- + āgata)",
+      "url": "https://www.wisdomlib.org/definition/anagata",
+      "type": "dictionary",
+      "consultedFor": "Etymology and gloss of anāgata ('not yet arrived / future')."
+    },
+    {
+      "title": "Caturviṃśati / Chaturvimshati — 'twenty-four'",
+      "url": "https://www.wisdomlib.org/definition/chaturvimshati",
+      "type": "dictionary",
+      "consultedFor": "Confirming covīśī derives from Sanskrit caturviṁśati ('twenty-four')."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams) — atīta, vartamāna, vand, kāla",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots of atīta (ati+i), vartamāna (√vṛt), vandanā (√vand), and trikāla (tri+kāla)."
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim wording and placement of the trikāla-vandanā salutations within the Sāmāyika Pārvānī."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is plain Gujarati devotional liturgy, not Prakrit; meaning is secure. The dative-accusative -ne on covīśīne governs all three preceding cauvīsīs, though only the third is overtly marked — a normal Gujarati listing economy. mārī is feminine to agree with vandanā. hojo is the Gujarati benedictive ('may it be'), softer than a finite present. Spelling (covīśī vs cauvīsī) follows the source book; per the tradition's fidelity rules it is preserved verbatim. The jainelibrary.org URL is the general repository, not a specific verified page."
+}

@@ -1,0 +1,164 @@
+{
+  "shlokaId": "ashtottari-tirthmala/73",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We praise that holy 'Mountain of Purity' (Vimalagiri, i.e. Śatruñjaya), where the Pāṇḍavas, Pradyumna, Sāmba and many of Krishna's Yādava kinsmen won liberation, so that we too may reach that utterly pure, freed state.",
+  "recitation": "jatya ya siddhā paṇḍava, pajjunna saṁbāi jāyavā bahave | taṁ vimalaṁ vimalagiriṁ, thuṇimo ai vimalapayaheuṁ ||",
+  "wordByWord": [
+    {
+      "token": "જત્ય",
+      "translit": "jatya",
+      "gloss": "where, at which place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jattha < Sanskrit yatra ('where'); the book's reading jatya is a variant of jattha.",
+      "notes": "The immediately preceding verse opens with the fuller spelling jattha (જત્થ); honoured verbatim here as jatya."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca, the conjunctive 'and'.",
+      "notes": "Links this site-clause to the running garland of tīrtha-clauses."
+    },
+    {
+      "token": "સિદ્ધા",
+      "translit": "siddhā",
+      "gloss": "became perfected, attained liberation (siddhi)",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle of Sanskrit √sidh, 'to be accomplished/perfected'; Prakrit siddha-, nom. pl. siddhā.",
+      "notes": "Here 'attained the siddha state' — final mokṣa from this very mountain; governs all the named subjects."
+    },
+    {
+      "token": "પંડવ",
+      "translit": "paṇḍava",
+      "gloss": "the Pāṇḍavas (the five sons of Pāṇḍu)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paṇḍava < Sanskrit pāṇḍava, patronymic of Pāṇḍu.",
+      "notes": "In Jain tradition the Pāṇḍavas end their lives as ascetics and reach mokṣa on Śatruñjaya."
+    },
+    {
+      "token": "પજ્જુન્ન",
+      "translit": "pajjunna",
+      "gloss": "Pradyumna (son of Kṛṣṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pajjunna < Sanskrit pradyumna ('the eminently mighty'); the conjunct -dy- assimilates to -jj- in Prakrit.",
+      "notes": "Eldest son of Kṛṣṇa and Rukmiṇī in the broader epic tradition; here a Yādava who renounced and was liberated."
+    },
+    {
+      "token": "સંબાઇ",
+      "translit": "saṁbāi",
+      "gloss": "Sāmba and others (Sāmba-ādi)",
+      "partOfSpeech": "compound",
+      "etymology": "saṁba (Sanskrit sāmba, a son of Kṛṣṇa) + āi (Prakrit āi < Sanskrit ādi, 'and the rest').",
+      "notes": "The -āi is the abbreviating 'and others' suffix, opening the list out to the wider body of Yādavas."
+    },
+    {
+      "token": "જાયવા",
+      "translit": "jāyavā",
+      "gloss": "Yādavas (the clan of Yadu)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jāyava < Sanskrit yādava, patronymic of Yadu; nom. pl. jāyavā.",
+      "notes": "Kṛṣṇa's kinsmen, collectively named after the named princes."
+    },
+    {
+      "token": "બહવે",
+      "translit": "bahave",
+      "gloss": "many, numerous",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bahave/bahavo < Sanskrit bahavaḥ, nom. pl. of bahu ('much, many').",
+      "notes": "Qualifies jāyavā: a great host, stressing Śatruñjaya as a siddhakṣetra of countless liberations."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ < Sanskrit tam, accusative singular of the demonstrative tad.",
+      "notes": "Accusative object of thuṇimo, pointing back to the mountain just glorified."
+    },
+    {
+      "token": "વિમલં",
+      "translit": "vimalaṁ",
+      "gloss": "spotless, pure",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vimala ('stainless'), vi- ('away from') + mala ('stain'); accusative agreeing with vimalagiriṁ.",
+      "notes": "First of three vimala-echoes that knit the verse together."
+    },
+    {
+      "token": "વિમલગિરિં",
+      "translit": "vimalagiriṁ",
+      "gloss": "Vimalagiri, the 'Mountain of Purity' (a name of Śatruñjaya)",
+      "partOfSpeech": "noun",
+      "etymology": "vimala ('pure') + giri ('mountain'), Sanskrit; accusative -giriṁ.",
+      "notes": "One of Śatruñjaya's 108 names; here both literally 'the pure mountain' and the proper name."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise, we extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇimo (1st pl. present) from √thuṇa- < Sanskrit √stu ('to praise'); cf. Sanskrit stumaḥ.",
+      "notes": "The hymn's recurring homage-verb, here in the collective 'we'."
+    },
+    {
+      "token": "અઇ",
+      "translit": "ai",
+      "gloss": "exceedingly, supremely",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit ai < Sanskrit ati ('very, beyond'); intensifying prefix used adverbially.",
+      "notes": "Intensifies the following 'pure state' — the supremely pure goal."
+    },
+    {
+      "token": "વિમલપયહેઉં",
+      "translit": "vimalapayaheuṁ",
+      "gloss": "for the sake of the (most) pure state — i.e. for liberation",
+      "partOfSpeech": "compound",
+      "etymology": "vimala ('pure') + paya (Prakrit paya < Sanskrit pada, 'state, station') + heuṁ (Prakrit heu < Sanskrit hetu, 'cause, motive'); 'having the pure pada as its motive'.",
+      "notes": "Third vimala-echo; pada = the liberated state (mokṣa). Frames praise of the tīrtha as instrumental cause toward that goal."
+    }
+  ],
+  "literalTranslation": "Where the Pāṇḍavas became perfected (liberated), and Pradyumna, Sāmba and the many Yādavas (likewise) — that pure Vimalagiri we praise, for the sake of the supremely pure state.",
+  "idiomaticTranslation": "There, where the Pāṇḍavas reached perfection, and Pradyumna, Sāmba and a whole host of Yādavas won release — that spotless Mountain of Purity, Vimalagiri, we extol, that we too may attain the supremely pure state of liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having named Puṇḍarīka as the first soul liberated on this hill, the poet now multiplies the witnesses: the Pāṇḍavas, then Pradyumna and Sāmba 'and the rest' (saṁba-āi) leading 'many Yādavas'. The grammar is a single relative-correlative arc — 'where (jatya) so many were perfected … that (taṁ) mountain we praise (thuṇimo)' — with all the named heroes as joint subjects of siddhā. The verse's craft is a triple pun on vimala that the translation can only partly carry: the mountain is vimalaṁ ('spotless'), it bears the name Vimalagiriṁ ('Mountain of Purity'), and it is praised vimala-paya-heuṁ ('for the cause of the pure state'). Thus name, nature and purpose all converge on a single word, 'purity'. Doctrinally the choice of subjects is pointed: figures the wider Indian epic remembers as warriors and princes — the sons of Pāṇḍu, the sons of Kṛṣṇa — are here reframed as Jain renunciants who ended their careers in mokṣa on Śatruñjaya, in line with the Śatruñjaya Māhātmya and Hemacandra's narration of the Pāṇḍavas' final asceticism. The accumulation (five Pāṇḍavas, two named Yādava princes, then 'many') dramatises why Śatruñjaya is the siddhakṣetra par excellence: not one but a host of souls were freed from this very ground, so that bowing to the place is bowing to a proven instrument of liberation.",
+    "doctrinalContext": "The verse rests on the Jain notion of a siddhakṣetra — a site whose sanctity is constituted by the souls who attained mokṣa there. Liberation is shown as open to all who tread the path irrespective of epic origin or royal birth: kṣatriya heroes attain the same siddha-state as any ascetic. The closing vimala-paya-heuṁ makes a subtler point — devotional praise (stuti) of the tīrtha is itself framed as a hetu (instrumental cause) oriented toward the pure pada, so bhakti to a holy place is valued not for the place as such but as a means to inner purification and final release.",
+    "practicalRelevance": "Reciting this, a worshipper makes a mental pilgrimage to Śatruñjaya and aligns his own aspiration with the host who were freed there: the place is honoured as a 'cause' (hetu) of the pure state, reminding the reciter that veneration is a step toward purifying the soul, not an end in itself.",
+    "crossReferences": [
+      {
+        "text": "Śatruñjaya Māhātmya (glorification of the hill; Pāṇḍavas and Yādavas attaining mokṣa)",
+        "source": "attrib. Dhaneśvarasūri, Śvetāmbara tradition"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacarita (Pāṇḍava and Yādava narratives)",
+        "source": "Ācārya Hemacandra"
+      },
+      {
+        "text": "Logassa (siddhā — those who have reached the perfected state)",
+        "source": "Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shatrunjaya",
+      "url": "https://en.wikipedia.org/wiki/Shatrunjaya",
+      "type": "scholarship",
+      "consultedFor": "Identity of Vimalagiri/Pundarikagiri as Śatruñjaya, its 108 names, siddhakṣetra status, and the Puṇḍarīka/Pāṇḍava liberation tradition"
+    },
+    {
+      "title": "Pradyumna",
+      "url": "https://en.wikipedia.org/wiki/Pradyumna",
+      "type": "scholarship",
+      "consultedFor": "Identifying Pradyumna (Skt pradyumna; Prakrit pajjunna) as a son of Kṛṣṇa within the Yādava clan"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots/glosses behind the Prakrit tokens: √stu (thuṇimo), vimala, pada (paya), hetu (heuṁ), yatra (jatya), bahu, yādava"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The opening word is printed જત્ય (jatya) here, a variant of જત્થ/jattha (< Skt yatra) seen in the adjacent verses; preserved verbatim. સંબાઇ is parsed saṁba + āi (Sāmba-ādi, 'Sāmba and others'), opening the list to the wider Yādavas. 'paya' is taken as pada ('state/station', = liberation), the standard reading; a secondary literal sense 'foot/place' is possible but the vimala-pada = mokṣa reading fits the verse's threefold vimala wordplay. The identification of the Pāṇḍavas/Pradyumna/Sāmba as liberated on Śatruñjaya follows the Śvetāmbara Māhātmya/carita tradition (devotional-narrative, not Āgamic-historical). Author/date and ritual-placement caveats are as given in the sutra preface and are not repeated here."
+}

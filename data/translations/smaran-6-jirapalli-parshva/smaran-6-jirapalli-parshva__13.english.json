@@ -1,0 +1,146 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I meditate, in the lotus of my heart, on Pārśvanātha who contains every mantra, grants success in all things, and drives away ghosts and evil spirits.",
+  "recitation": "sarva-mantra-mayaṁ sarva-kārya-siddhi-karaṁ paraṁ | dhyāyāmi hṛdayāmbhoje bhūta-preta-praṇāśakam ||",
+  "wordByWord": [
+    {
+      "token": "સર્વમંત્રમયં",
+      "translit": "sarva-mantra-mayaṁ",
+      "gloss": "made of / consisting of all mantras (accusative, qualifying the meditated Lord)",
+      "partOfSpeech": "compound",
+      "etymology": "sarva ('all') + mantra ('sacred formula') + -maya (taddhita suffix 'consisting of, full of'); accusative singular -aṁ agreeing with the object of dhyāyāmi.",
+      "notes": "Bahuvrīhi/tatpuruṣa describing the Lord as the totality of all bīja-mantras — the source-title of the whole hymn's claim that it is 'made of all mantras'."
+    },
+    {
+      "token": "સર્વ",
+      "translit": "sarva",
+      "gloss": "all, every",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva ('whole, all'); here the first member of the compound sarva-kārya-siddhi-kara.",
+      "notes": "Printed as a separate word in the source but syntactically bound to kārya-siddhi-karaṁ."
+    },
+    {
+      "token": "કાર્ય",
+      "translit": "kārya",
+      "gloss": "task, work, undertaking",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. gerundive of √kṛ ('to do'), 'that which is to be done'; second member of the compound.",
+      "notes": ""
+    },
+    {
+      "token": "સિદ્ધિ",
+      "translit": "siddhi",
+      "gloss": "success, accomplishment, attainment",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. √sidh ('to succeed') + -ti; third member of the compound.",
+      "notes": "Glossed at sutra level; here bound into sarva-kārya-siddhi-kara, 'maker of success in all undertakings'."
+    },
+    {
+      "token": "કરં",
+      "translit": "karaṁ",
+      "gloss": "doer, maker, one who causes (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. agent-form of √kṛ, '-kara' ('making, causing'); accusative singular -aṁ, head of the compound sarva-kārya-siddhi-karaṁ.",
+      "notes": "Closes the compound: 'the maker of success in every task.'"
+    },
+    {
+      "token": "પરં",
+      "translit": "paraṁ",
+      "gloss": "supreme, highest (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. para ('beyond, highest, supreme'); accusative singular agreeing with the meditated object.",
+      "notes": "Stands alone as an epithet of the Lord/mantra, not part of the preceding compound."
+    },
+    {
+      "token": "ધ્યાયામિ",
+      "translit": "dhyāyāmi",
+      "gloss": "I meditate (upon)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √dhyai ('to meditate, contemplate'), present indicative 1st person singular.",
+      "notes": "The single finite verb of the verse; all the accusatives are its objects."
+    },
+    {
+      "token": "હૃદયાંભોજે",
+      "translit": "hṛdayāmbhoje",
+      "gloss": "in the lotus of the heart (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hṛdaya ('heart') + ambhoja ('lotus', lit. 'water-born': ambhas 'water' + -ja 'born'); locative singular -e ('in').",
+      "notes": "Printed with anusvāra (hṛdayāṁbhoje); the locative names where the meditation is fixed — the heart-lotus seat of the mantra-king."
+    },
+    {
+      "token": "ભૂત",
+      "translit": "bhūta",
+      "gloss": "elemental spirit, ghost",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. past participle of √bhū ('to be, become'), 'a being'; here a class of malevolent spirit; first member of the compound.",
+      "notes": "Defined at sutra level (preta / piśāca / bhūta)."
+    },
+    {
+      "token": "પ્રેત",
+      "translit": "preta",
+      "gloss": "departed spirit, hungry ghost",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pra + ita, past participle of √i ('to go'), 'one gone forth / deceased'; second member of the compound.",
+      "notes": ""
+    },
+    {
+      "token": "પ્રણાશકમ્",
+      "translit": "praṇāśakam",
+      "gloss": "destroyer, annihilator (accusative)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pra- (intensive prefix 'forth, away') + √naś ('to perish') + causative-agent -aka ('one who destroys'); accusative singular -am, head of bhūta-preta-praṇāśakam.",
+      "notes": "Closes the verse: 'the destroyer of ghosts and pretas.' Final m is the closing accusative-anusvāra reading of the source."
+    }
+  ],
+  "literalTranslation": "Made of all mantras, the maker of success in every task, supreme, the destroyer of ghosts and pretas — [Him] I meditate upon in the lotus of the heart.",
+  "idiomaticTranslation": "In the lotus of my heart I meditate on the supreme Lord, who is woven of every mantra, who brings every undertaking to success, and who annihilates ghosts and wandering spirits.",
+  "elaboration": {
+    "verseByVerseCommentary": "This colophon verse gathers the whole hymn into a single act of meditation: four accusative epithets all hang on one verb, dhyāyāmi, 'I meditate.' Where v.12 stationed the Lord externally — served by the Pārśva-yakṣa, worshipped by his guardian deities — v.13 internalizes him: the object of worship now sits hṛdayāmbhoje, 'in the heart-lotus,' the very seat the meditation-method (vv.5–8) prepared. The phrase sarva-mantra-mayaṁ is the verse's boldest claim: the Lord is not merely invoked by mantras but is the substance of all of them — a fitting summation of a stotra that has deployed bīja after bīja. Two complementary fruits are then named, one worldly and one protective: sarva-kārya-siddhi-karaṁ, the giver of success in every task, and bhūta-preta-praṇāśakam, the destroyer of ghosts and departed spirits. paraṁ, 'supreme,' set apart from the compounds, lifts these powers above the merely magical: he is the highest object of contemplation. The verse thus restates, in compressed devotional shorthand, the hymn's twin promise — mundane accomplishment and freedom from spirit-affliction — and binds both to a single inner practice. It sets up the closing v.14, where the poet, meditating on this same heart-borne Lord, attains 'all siddhi' for certain. The structure is deliberately frame-like: the all-mantra Lord enters at the start of the line and the spirit-destroyer closes it, enclosing the meditator's heart between sovereignty and protection.",
+    "doctrinalContext": "The verse expresses the Jain understanding of dhyāna directed not at an intervening god but at the Tīrthaṅkara as the perfected object of contemplation: meditative remembrance (smaraṇa) of Pārśva is itself the efficacious act. 'Sarva-mantra-maya' encodes the mantraśāstra premise that the Arhat's name/form is the source of all seed-syllables, so that meditating on him subsumes every individual mantra. The pairing of worldly siddhi with spirit-removal reflects the bhayahara (fear-dissolving) function of the protective Smaraṇas, while paraṁ keeps the orientation soteriological — the supreme object, not a transaction.",
+    "practicalRelevance": "A reciter uses this verse as the gathering-point of the whole stava: having chanted the bīja-mantras and the body-meditation, here one simply fixes attention in the heart-lotus and holds Pārśva there as supreme, success-giving, and protective — a single sustained image to carry the protective intent of the recitation into daily fear or undertaking.",
+    "crossReferences": [
+      {
+        "text": "v.12 (Pārśva served by the Pārśva-yakṣa, worshipped by Dharaṇendra and Padmāvatī) and v.14 (meditating on the Lord in the heart to attain all siddhi)",
+        "source": "Śrī Jīrāpallī Pārśva Stava, this edition"
+      },
+      {
+        "text": "v.5–v.8 (the navel-to-crown channel, eight-petalled lotus, and the mantra-king awakening 'embodied in the heart')",
+        "source": "Śrī Jīrāpallī Pārśva Stava, this edition"
+      },
+      {
+        "text": "Upasargahara Stotra and Namiūṇa Bhayahara Stotra (the shared bhayahara / spirit-removing theme among the Pārśva Smaraṇas)",
+        "source": "Nava Smaraṇa nos. 4–5, Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of dhyai (dhyāyāmi), ambhoja, kāryasiddhikara, sarva-...-maya, and pra+naś (praṇāśaka)."
+    },
+    {
+      "title": "Jirawala Tirth — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jirawala_Tirth",
+      "type": "scholarship",
+      "consultedFor": "Identification of Jīrāpallī / Jīrāvalā as the Pārśvanātha tīrtha and its alternate names (Jiravalli, Jirikavalli)."
+    },
+    {
+      "title": "Parshvanatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśvanātha as the 23rd Tīrthaṅkara, the object of meditation in this hymn."
+    },
+    {
+      "title": "Jirawala Tirth — The Jainsite",
+      "url": "https://jainsite.com/jain-tirth/jirawala-tirth/",
+      "type": "commentary",
+      "consultedFor": "Devotional/ritual remembrance (smaraṇa) tradition of Jīrāvalā Pārśvanātha and the 'Oṁ Hrīṁ Śrī Jīrāvalā Pārśvanāthāya namaḥ' invocation."
+    }
+  ],
+  "translatorConfidence": 0.87,
+  "notes": "The verse is grammatically transparent classical Sanskrit (one finite verb dhyāyāmi governing four accusative epithets), so the rendering is secure. Ambiguity of reference: the accusatives may be read as qualifying Pārśva himself or, equally validly, the personified mantra-rāja meditated in the heart — the two are deliberately fused in this hymn, so 'the Lord in his mantra-form' is given. Source orthography preserved verbatim: 'સર્વ' and 'કાર્ય સિદ્ધિ' are printed as separated words though compounded in sense; 'હૃદયાંભોજે' carries anusvāra (hṛdayāṁbhoje) for hṛdayāmbhoje; the daṇḍa '।' and the closing period '.' are the book's own punctuation. The enumeration here is two spirit-classes (bhūta, preta); the broader bhūta/preta/piśāca set noted in the preface is not all present in this verse."
+}

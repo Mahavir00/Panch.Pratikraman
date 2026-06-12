@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/70",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the summit of Mount Sammeta (Sammeta Śikhara), the holy hill where twenty Jinas, after a month-long motionless fast unto death with their arms hanging at their sides, reached final liberation.",
+  "recitation": "māsaṁ pāovagayā, vagghāriya-pāṇiṇo jiṇā vīsaṁ | siddhiṁ gayā jattha tayaṁ, namimo sameya-giri-siharaṁ ||",
+  "wordByWord": [
+    {
+      "token": "માસં",
+      "translit": "māsaṁ",
+      "gloss": "for a month",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. māsa 'month'; accusative of temporal extent (māsam), 'for the duration of a month'.",
+      "notes": "Marks how long the terminal fast was sustained."
+    },
+    {
+      "token": "પાઓવગયા",
+      "translit": "pāovagayā",
+      "gloss": "having undertaken pādapopagamana (the tree-still fast unto death)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pādapa-upagata / pādapopagamana, lit. 'gone to / resting like a tree' (pādapa 'tree' + upagamana 'approaching'); the most rigorous of the three forms of terminal fasting, in which the body is held utterly motionless like a felled tree.",
+      "notes": "Past-participle adjective qualifying the twenty Jinas; nominative plural masculine."
+    },
+    {
+      "token": "વગ્ઘારિય",
+      "translit": "vagghāriya",
+      "gloss": "hanging / let to dangle (arms)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. vagghar- 'to hang down, dangle loosely' (Pāiya-sadda-mahaṇṇavo); here the first member of the compound vagghāriya-pāṇi, describing pendant, unsupported arms.",
+      "notes": "Forms a bahuvrīhi with the next word: 'those whose arms hang down'."
+    },
+    {
+      "token": "પાણિણો",
+      "translit": "pāṇiṇo",
+      "gloss": "-armed / -handed (whose hands hang)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāṇi 'hand, arm', nom. pl. -pāṇayaḥ closing the bahuvrīhi vagghāriya-pāṇi 'with hands hanging down'.",
+      "notes": "Could alternatively be read as prāṇinaḥ 'living beings'; the posture sense (vyāghārita-pāṇi, arms let to hang) fits pādapopagamana best — see notes."
+    },
+    {
+      "token": "જિણાવીસં",
+      "translit": "jiṇā-vīsaṁ",
+      "gloss": "twenty Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇā (Skt. jināḥ 'the Jinas, Tīrthaṅkaras') + vīsaṁ (Skt. viṁśati 'twenty'); 'the twenty Jinas'.",
+      "notes": "Twenty of the twenty-four Tīrthaṅkaras — all but Ṛṣabha, Vāsupūjya, Nemi and Mahāvīra — attained liberation here."
+    },
+    {
+      "token": "સિદ્ધિ",
+      "translit": "siddhi(ṁ)",
+      "gloss": "to perfection / liberation (siddhi, mokṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. siddhi 'accomplishment, final liberation'; the soul's release into the liberated state, dwelling atop the siddha-śilā.",
+      "notes": "Object of the verb of motion gayā ('went to siddhi')."
+    },
+    {
+      "token": "ગયા",
+      "translit": "gayā",
+      "gloss": "went, attained",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. gatāḥ, past participle of √gam 'to go'; nom. pl. masc. agreeing with the twenty Jinas.",
+      "notes": "siddhiṁ gayā = 'went to / reached liberation'."
+    },
+    {
+      "token": "જત્થ",
+      "translit": "jattha",
+      "gloss": "where",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. yatra 'where'; relative adverb of place.",
+      "notes": "Correlative with tayaṁ ('that [very peak]')."
+    },
+    {
+      "token": "તયં",
+      "translit": "tayaṁ",
+      "gloss": "that (very peak), there",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tam / tat, correlative demonstrative answering jattha; points back to the summit that is the object of homage.",
+      "notes": "Read as the correlative 'that [peak]' bowed to in namimo."
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we salute",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. namāmaḥ, 1st pers. pl. of √nam 'to bow'; the recurring homage-verb of the hymn.",
+      "notes": "First-person plural: the assembled reciters bow together."
+    },
+    {
+      "token": "સમેય",
+      "translit": "sameya",
+      "gloss": "Sammeta (the sacred mountain's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Sammeta, the proper name of the hill (modern Sammeta/Sammed Śikharjī, Parasnath Hill, Jharkhand).",
+      "notes": "First member of the place-compound Sammeta-giri-śikhara."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "mountain, hill",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. giri 'mountain'.",
+      "notes": "Middle member of the compound 'peak of Mount Sammeta'."
+    },
+    {
+      "token": "સિહરં",
+      "translit": "siharaṁ",
+      "gloss": "peak, summit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śikharaṁ 'summit, crest'; accusative, the thing bowed to. The site's very name Śikharjī derives from this word.",
+      "notes": "Sammeta-giri-siharaṁ = 'the summit of Mount Sammeta' = Sammeta Śikhara."
+    }
+  ],
+  "literalTranslation": "For a month, having undertaken the tree-still fast unto death, their arms hanging down, twenty Jinas went to liberation — that very peak of Mount Sammeta, where (this happened), we bow to.",
+  "idiomaticTranslation": "Twenty Jinas, holding for a whole month the tree-motionless fast unto death, arms left to hang at their sides, passed into final liberation upon this hill — and to that summit of Mount Sammeta we bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the long roll-call of named tīrthas by naming the holiest deathbed of all — Sammeta Śikhara, where twenty of the twenty-four Tīrthaṅkaras reached siddhi. Where the surrounding verses bow to the Jinas as living teachers, here the homage is to the very ground of their final release. Two precise technical words carry the weight. Pāovagayā (pādapopagamana) names not ordinary fasting but the supreme, third grade of terminal fasting: the aspirant lies utterly immobile, like a tree fallen to the ground, neither stirring of his own accord nor accepting any tending from others. Vagghāriya-pāṇiṇo sharpens the picture — the arms are simply let to hang, not folded, not arranged, the last gesture of a body wholly relinquished. Māsaṁ — 'for a month' — fixes the heroic duration of that stillness. The poet then states the result baldly: siddhiṁ gayā, 'they went to liberation.' The correlative jattha … tayaṁ ('where … that very [peak]') turns the geography into the object of devotion: it is not merely the mountain but the spot of twenty liberations that the reciter salutes. By choosing the rarest form of holy death and the most populous site of liberation, the verse compresses the whole hymn's logic — that a tīrtha is sacred because souls crossed over there — into a single bow.",
+    "doctrinalContext": "The verse turns on the Jain doctrine of saṁlekhanā-maraṇa, holy death by fasting, and specifically its three recognised modes — bhakta-pratyākhyāna, iṅginī, and pādapopagamana — of which pādapopagamana is the most exacting: total bodily abandonment in which the practitioner neither moves himself nor is served by another. It is, in effect, kāyotsarga (the fifth Āvaśyaka, 'casting off the body') carried to its final term, the body surrendered while the soul, having shed the remaining karmas, rises to siddhi atop the siddha-śilā. The number twenty is doctrinally exact: of the twenty-four, Ṛṣabha attained nirvāṇa at Aṣṭāpada, Vāsupūjya at Campāpurī, Nemi at Girnar and Mahāvīra at Pāvāpurī, leaving twenty whose liberation hallowed Sammeta — which is why it ranks among the supreme pilgrimage-places.",
+    "practicalRelevance": "Recited within the fortnightly confession, the verse invites the worshipper to contemplate a death met in perfect equanimity and detachment from the body — the ideal toward which every kāyotsarga in the ritual is a rehearsal. Bowing to Sammeta, the reciter renews the longing for liberation and resolves to loosen attachment now, while living, rather than only at the end.",
+    "crossReferences": [
+      {
+        "text": "Three modes of terminal fasting (bhatta-paccakkhāṇa, iṅginī, pāovagamana); Uttarajjhayaṇa 30 / Bhagavatī-ārādhanā",
+        "source": "Śvetāmbara Āgama tradition"
+      },
+      {
+        "text": "Pādapopagamana glossed 'das Weilen unter einem Baume (in Erwartung des Todes)', citing Hemacandra, Pariśiṣṭaparvan 2.386",
+        "source": "Monier-Williams / PW, Cologne Digital Sanskrit Lexicon"
+      },
+      {
+        "text": "Twenty of twenty-four Tīrthaṅkaras attaining mokṣa at Sammeta Śikhara",
+        "source": "Dundas, The Jains; Cort, Framing the Jina"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shikharji (Sammeta / Sammed Śikharjī)",
+      "url": "https://en.wikipedia.org/wiki/Shikharji",
+      "type": "scholarship",
+      "consultedFor": "Confirming that twenty of the twenty-four Tīrthaṅkaras attained mokṣa here and the site's rank among the principal Jain tīrthas; the name Śikhara/Śikharjī."
+    },
+    {
+      "title": "Sallekhana (saṁlekhanā / terminal fasting)",
+      "url": "https://en.wikipedia.org/wiki/Sallekhana",
+      "type": "scholarship",
+      "consultedFor": "The Jain vow of equanimous fasting to death as the doctrinal frame for pāovagayā / pādapopagamana and its relation to non-attachment and karma-shedding."
+    },
+    {
+      "title": "Pādapopagamana — Monier-Williams & Sanskrit-Wörterbuch (with Paia-sadda-mahaṇṇavo Prakrit link)",
+      "url": "https://www.wisdomlib.org/definition/padapopagamana",
+      "type": "dictionary",
+      "consultedFor": "Verifying pādapopagamana = 'abiding/resting like a tree in expectation of death' and the Sanskrit↔Prakrit (pāa/vagamaṇa) correspondence for the token pāovagayā."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Text reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; orthography (e.g. પાઓવગયા, વગ્ઘારિય) not normalised. Chief ambiguity: પાણિણો (pāṇiṇo) is taken here as the bahuvrīhi ending -pāṇayaḥ ('whose arms hang'), describing the posture of pādapopagamana; it can also be parsed as prāṇinaḥ ('living beings'), but the posture reading better suits the immobile-fast context and the descriptor vagghāriya. The exact Sanskrit cognate of Prakrit vagghar- ('to hang/dangle') is given descriptively (≈ vyā-/ava-√ghṛ, 'let hang'); treated as uncertain. The count 'twenty' is the settled tradition (all but Ṛṣabha, Vāsupūjya, Nemi and Mahāvīra); some lists differ over Vāsupūjya (Campāpurī), which does not change the total of twenty for Sammeta. તયં (tayaṁ) read as the correlative tam answering jattha."
+}

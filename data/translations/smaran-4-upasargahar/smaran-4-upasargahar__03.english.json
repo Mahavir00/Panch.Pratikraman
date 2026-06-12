@@ -1,0 +1,180 @@
+{
+  "shlokaId": "smaran-4-upasargahar/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Forget even the special protective chant — simply bowing to you, Lord Pārśva, brings such great reward that beings, whether reborn as humans or as animals, are spared suffering and ill-fortune.",
+  "recitation": "ciṭṭhau dūre manto, tujjha paṇāmo vi bahu phalo hoi | nara tiriesu vi jīvā, pāvanti na dukkha dohaggaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ચિટ્ઠઉ",
+      "translit": "ciṭṭhau",
+      "gloss": "let it stand aside, let it remain (at a distance)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ciṭṭhai (to stand, remain) < Sanskrit √sthā, tiṣṭhati; here a 3rd-person singular imperative, 'let (it) stand'.",
+      "notes": "Read with dūre ('let it remain far off') it is an idiom of dismissal — 'set it aside', not a literal command to keep the mantra away."
+    },
+    {
+      "token": "દૂરે",
+      "translit": "dūre",
+      "gloss": "far off, at a distance; (idiomatically) aside",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit dūre, locative of dūra ('distant'), carried into Prakrit unchanged.",
+      "notes": "ciṭṭhau dūre = 'let it stand aside' — the rhetorical gesture of provisionally setting the mantra aside."
+    },
+    {
+      "token": "મંતો",
+      "translit": "manto",
+      "gloss": "the mantra (the Visahara spell of the previous verse)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit manto < Sanskrit mantra; -o is the Prakrit masculine nominative singular ending (Skt -aḥ).",
+      "notes": "Refers back to the Visahara-mantra praised in v.2; the verse now ranks a mere bow above it."
+    },
+    {
+      "token": "તુજ્જ",
+      "translit": "tujjha",
+      "gloss": "your, to you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tujjha, genitive of the 2nd-person pronoun tuṁ < Sanskrit tava / tubhyam.",
+      "notes": "Addressed to Pārśvanātha; governs paṇāmo ('a bow to you')."
+    },
+    {
+      "token": "પણામોવિ",
+      "translit": "paṇāmo vi",
+      "gloss": "even a bow, even an obeisance",
+      "partOfSpeech": "compound",
+      "etymology": "paṇāmo (Prakrit < Sanskrit praṇāma, 'reverential bow', masc. nom. sg.) + enclitic vi (< Sanskrit api, 'even, also').",
+      "notes": "Sandhi-joined paṇāmo + vi. The vi is the load-bearing word: 'even' a mere bow — let alone the mantra — already bears great fruit."
+    },
+    {
+      "token": "બહુ",
+      "translit": "bahu",
+      "gloss": "much, abundant, great",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit bahu ('much, many'), unchanged in Prakrit; qualifies phalo.",
+      "notes": ""
+    },
+    {
+      "token": "ફલો",
+      "translit": "phalo",
+      "gloss": "fruit, result, reward",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phalo < Sanskrit phala; masc. nom. sg. -o. bahu-phalo = 'greatly fruitful'.",
+      "notes": ""
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "is, becomes, proves to be",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hoi < Sanskrit bhavati (√bhū); 3rd-person singular present.",
+      "notes": "Predicate of the first line: even a bow 'becomes' (is) greatly fruitful."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "humans, men",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit nara ('man, human'), unchanged in Prakrit; here the human destiny (manuṣya-gati).",
+      "notes": "Forms a dvandva sense with tiriesu — '(among) humans and animals'."
+    },
+    {
+      "token": "તિરિએસુ",
+      "translit": "tiriesu",
+      "gloss": "among animals (the tiryañca realm)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiriya < Sanskrit tiryañc ('one moving horizontally', i.e. an animal); -esu is the locative plural ('among the tiryañcas').",
+      "notes": "Tiryañca-gati is one of the four destinies (gatis); it spans every non-human, non-celestial, non-infernal birth, from insects to elephants."
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "even, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vi < Sanskrit api ('even, too').",
+      "notes": "'even among (humans and) animals' — extending the boon to the lowliest births, who cannot themselves recite."
+    },
+    {
+      "token": "જીવા",
+      "translit": "jīvā",
+      "gloss": "living beings, souls",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit jīva ('living being, soul'); -ā is the Prakrit masc. nom. plural ending.",
+      "notes": "Grammatical subject of pāvanti."
+    },
+    {
+      "token": "પાવંતિ",
+      "translit": "pāvanti",
+      "gloss": "they meet with, they obtain",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pāvai < Sanskrit prāpnoti (pra + √āp, 'to reach, attain'); 3rd-person plural present.",
+      "notes": "Negated by na — beings do NOT meet with what follows."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit na, unchanged in Prakrit; negates pāvanti.",
+      "notes": ""
+    },
+    {
+      "token": "દુક્ખ",
+      "translit": "dukkha",
+      "gloss": "suffering, misery",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkha < Sanskrit duḥkha ('pain, sorrow'); in compound with dohaggaṁ.",
+      "notes": "First member of the dvandva dukkha-dohaggaṁ."
+    },
+    {
+      "token": "દોહગ્ગં",
+      "translit": "dohaggaṁ",
+      "gloss": "misfortune, ill-fate, the state of being unloved/unlucky",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dohagga < Sanskrit daurbhāgya (dur- 'ill' + bhaga 'fortune'); acc. sg. -aṁ, object of pāvanti.",
+      "notes": "Connotes both worldly bad luck and the karmically-rooted condition of being unfavoured (cf. daurbhāgya-nāma-karma)."
+    }
+  ],
+  "literalTranslation": "Let the mantra stand aside; even a bow to you becomes greatly fruitful. Beings — even among humans and animals (tiryañcas) — do not meet with suffering and misfortune.",
+  "idiomaticTranslation": "Set the spell aside, Lord — even a single bow offered to you bears abundant fruit; so that beings, born though they be as humans or as mere animals, never fall prey to suffering or ill-fortune.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just exalted the Visahara-mantra, the poet now performs a striking reversal: ciṭṭhau dūre manto — 'let the mantra stand aside'. This is not a dismissal of the spell's power but a rhetorical lifting of the bar: if the formula itself is set down for a moment, even a bare bow (paṇāmo vi) to Pārśva already proves bahu-phalo, 'greatly fruitful'. The whole weight of the line rests on the enclitic vi (api): even the smallest act of homage outdoes the elaborate technique. The verse thus quietly relocates the source of protection — from the recited syllables to the devotee's act of reverence, and behind it, to Pārśva himself. The second line measures that fruit concretely. The boon reaches jīvā 'beings' not only in the human destiny (nara) but vi — even — among the tiryañcas (tiriesu), the animal-births that cannot read, recite, or comprehend any mantra. What such beings do not meet with is the pairing dukkha-dohaggaṁ: 'suffering' and 'misfortune'. The choice of dohagga (daurbhāgya) is pointed — it names not a passing pain but the karmically-grounded condition of being unfavoured, ill-starred, unloved. The logic is a fortiori: if even an animal touched by a bow to Pārśva escapes ill-fate, how much more the human who bows knowingly. Read against the verse before it, the movement is deliberate — from holding the mantra 'in the throat' (v.2) to needing only to incline the head (v.3) — and it sets up the next ascent, where right faith will outshine every wish-granting marvel.",
+    "doctrinalContext": "The verse turns on the Jain primacy of bhāva (inner intent) over external vidhi: a mantra's syllables are instrumental, but it is the reverential disposition behind a praṇāma that ripens karma favourably. By extending the benefit explicitly into the tiryañca-gati, the poet leans on the doctrine of the four destinies (gatis) and on the universality of the jīva — animals too are souls bound by karma and capable of receiving grace through proximity to the Jina, even without cognition. dohagga points to the aśubha (inauspicious) nāma-karma cluster, of which daurbhāgya is one species; its non-arising is presented as a natural fruit of bhakti, not a magical exemption from the law of karma.",
+    "practicalRelevance": "The reciter is taught not to fetishise correct mantra-technique: when memory or pronunciation fails, a sincere bow still bears fruit. It also widens compassion — if a bow benefits even animals, the devotee is moved to extend protective goodwill to all beings, not merely to recite for personal safety.",
+    "crossReferences": [
+      {
+        "text": "Upasarga-hara Stotra v.2 (visahara-mantra 'kept in the throat')",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit, Anchalgachchha ed."
+      },
+      {
+        "text": "Upasarga-hara Stotra v.4 (samyaktva surpassing cintāmaṇi and kalpa-tree)",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit, Anchalgachchha ed."
+      },
+      {
+        "text": "Doctrine of the four gatis and daurbhāgya-nāma-karma",
+        "source": "Tattvārtha-sūtra (Umāsvāti), ch. 2 & 8"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uvasaggaharam Stotra — verse-by-verse English rendering",
+      "url": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra",
+      "type": "translation",
+      "consultedFor": "Confirming the authoritative reading of v.3 ('Let aside that charm, obeisance to you also would be highly fruitful; humans and animals too would not get misery or evil state')."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens: praṇāma, daurbhāgya (dur+bhaga), tiryañc, prāpnoti (√āp), bhavati."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — scanned lexicon (SHS)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=SHS",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking the senses of duḥkha and daurbhāgya and the horizontal-motion sense of tiryañc ('animal')."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The pivotal phrase ciṭṭhau dūre manto is idiomatic ('let the mantra stand aside') rather than a literal instruction to keep the mantra at a distance; the published Anchalgachchha translation and the standard English renderings agree on this sense. Token પણામોવિ is the sandhi of paṇāmo + the enclitic vi (api), split in the gloss for clarity. દોહગ્ગં = Prakrit dohagga < Sanskrit daurbhāgya; some editions read 'duhha-dohagga' / 'dukkha-dohaggaṁ' with no change of meaning. tiriesu (loc. pl. of tiriya/tiryañc) is taken with nara as '(among) humans and animals'; a few recensions show minor orthographic variants (e.g. tiriyesu). Verse readings follow the source book's Gujarati-script orthography verbatim."
+}

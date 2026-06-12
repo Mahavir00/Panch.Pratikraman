@@ -1,0 +1,566 @@
+{
+  "shlokaId": "dravya-kshetra-kaal-bhav/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Before starting my vow of equanimity I state its limits — what I may keep with me, where I must stay, how long it lasts, and the calm, attachment-free spirit in which I hold it — and then stand up and recite one Navkar to begin.",
+  "recitation": "dravyathakī lūgaḍāṁ, latāṁ, gharēṇāṁ, gāṇṭhā, pātharaṇuṁ, navkāravālī, dhāryā pramāṇē mokaḷāṁ chhe. kṣetrathakī upāsarānā (ā jagyānā) bāraṇānī māṁhelī korē, kāraṇē jayaṇā chhe. kālathakī sāmāyika nipajē tihāṁ sudhī, bhāvathakī yathāśaktiē rāgadveṣē rahita vratī saṁghātē tathā gurvādika saṁghātē bolavāno āgāra chhe. * avratī saṁghātē bolavānuṁ pacchakkhāṇa chhe, athavā jayaṇā* chhe. ē rītē chha koṭīē karī sāmāyika karuṁ, sāmāyika vrata uccāra karavā ubhā thaīne ēka navkāra gaṇuṁjī.",
+  "wordByWord": [
+    {
+      "token": "દ્રવ્યથકી",
+      "translit": "dravyathakī",
+      "gloss": "as regards substance; by way of dravya",
+      "partOfSpeech": "adverb",
+      "etymology": "dravya (substance) + Gujarati ablative-instrumental postposition thakī ('by way of, from')",
+      "notes": "Opens the first scope-factor; sets the topic 'as for things one may keep'."
+    },
+    {
+      "token": "લૂગડાં",
+      "translit": "lūgaḍāṁ",
+      "gloss": "clothes, garments",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati lūgaḍuṁ (cloth/garment), neuter plural; ult. from Prakrit/deśya for woven cloth",
+      "notes": ""
+    },
+    {
+      "token": "લતાં",
+      "translit": "latāṁ",
+      "gloss": "cloth-pieces / wraps (worn items)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati colloquial plural denoting garment-pieces, paired idiomatically with lūgaḍāṁ",
+      "notes": "Reading uncertain; treated as a second clothing term in the permitted-items list — flagged in notes."
+    },
+    {
+      "token": "ઘરેણાં",
+      "translit": "gharēṇāṁ",
+      "gloss": "ornaments, jewellery",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati gharēṇuṁ (ornament), neuter plural",
+      "notes": ""
+    },
+    {
+      "token": "ગાંઠા",
+      "translit": "gāṇṭhā",
+      "gloss": "a (tied) bundle, knotted pack",
+      "partOfSpeech": "noun",
+      "etymology": "from granthi (knot) > Gujarati gāṇṭha/gāṇṭhā (knot, bundle)",
+      "notes": ""
+    },
+    {
+      "token": "પાથરણું",
+      "translit": "pātharaṇuṁ",
+      "gloss": "a mat / spread to sit on",
+      "partOfSpeech": "noun",
+      "etymology": "from prastaraṇa (a spreading) > Gujarati pātharaṇuṁ, the sitting-cloth",
+      "notes": ""
+    },
+    {
+      "token": "નવકારવાલી",
+      "translit": "navkāravālī",
+      "gloss": "the Navkar rosary",
+      "partOfSpeech": "noun",
+      "etymology": "navkār (the Namaskāra mantra) + vālī (beaded string)",
+      "notes": "Glossary term; closes the list of permitted dravya."
+    },
+    {
+      "token": "ધાર્યા",
+      "translit": "dhāryā",
+      "gloss": "(as) resolved, intended beforehand",
+      "partOfSpeech": "adj",
+      "etymology": "past participle of Gujarati dhāravuṁ < Skt. dhṛ ('to hold, resolve')",
+      "notes": ""
+    },
+    {
+      "token": "પ્રમાણે",
+      "translit": "pramāṇē",
+      "gloss": "according to, as per",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. pramāṇa ('measure, standard'), locative as postposition",
+      "notes": "dhāryā pramāṇē = 'only as previously resolved' — the key qualifier limiting dravya."
+    },
+    {
+      "token": "મોકળાં",
+      "translit": "mokaḷāṁ",
+      "gloss": "permitted, at liberty, allowed (to keep)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati mokaḷuṁ ('free, unrestricted'), neuter plural agreeing with the items",
+      "notes": ""
+    },
+    {
+      "token": "છે",
+      "translit": "chhe",
+      "gloss": "are / is",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati copula chhe (3rd person present of 'to be')",
+      "notes": "Closes the dravya clause."
+    },
+    {
+      "token": "ક્ષેત્રથકી",
+      "translit": "kṣetrathakī",
+      "gloss": "as regards place; by way of kṣetra",
+      "partOfSpeech": "adverb",
+      "etymology": "kṣetra (place) + ablative-instrumental thakī",
+      "notes": "Opens the second scope-factor."
+    },
+    {
+      "token": "ઉપાસરાના",
+      "translit": "upāsarānā",
+      "gloss": "of the upāśraya (hall of observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati upāsaro < upāśraya, genitive plural/oblique -nā",
+      "notes": "Glossary term; defines the spatial boundary."
+    },
+    {
+      "token": "આ",
+      "translit": "ā",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative ā ('this')",
+      "notes": "Begins the parenthetical clarification '(of this place)'."
+    },
+    {
+      "token": "જગ્યાના",
+      "translit": "jagyānā",
+      "gloss": "of the place / spot",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati jagyā ('place') < Skt. jagat-related vernacular, genitive -nā",
+      "notes": "In-text gloss equating the upāśraya with 'this present place'."
+    },
+    {
+      "token": "બારણાની",
+      "translit": "bāraṇānī",
+      "gloss": "of the door / doorway",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati bāraṇuṁ ('door') < Skt. dvāra-related, genitive -nī",
+      "notes": ""
+    },
+    {
+      "token": "માંહેલી",
+      "translit": "māṁhelī",
+      "gloss": "inner, inside",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati māṁhe ('within') + adjectival -lī",
+      "notes": ""
+    },
+    {
+      "token": "કોરે",
+      "translit": "korē",
+      "gloss": "side, edge → 'on the inner side'",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kor ('edge, border'), locative -e",
+      "notes": "māṁhelī korē = 'within the doorway', i.e. staying inside the threshold."
+    },
+    {
+      "token": "કારણે",
+      "translit": "kāraṇē",
+      "gloss": "for (necessary) reason / cause",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. kāraṇa ('cause'), locative as 'in case of need'",
+      "notes": "Marks the contingency under which crossing the boundary invokes jayaṇā."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "careful restraint (jayaṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā < Skt. yatanā ('vigilant effort')",
+      "notes": "Glossary term; here applied to the spatial limit."
+    },
+    {
+      "token": "છે",
+      "translit": "chhe",
+      "gloss": "is",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati copula chhe",
+      "notes": "Closes the kṣetra clause."
+    },
+    {
+      "token": "કાલથકી",
+      "translit": "kālathakī",
+      "gloss": "as regards time; by way of kāla",
+      "partOfSpeech": "adverb",
+      "etymology": "kāla (time) + ablative-instrumental thakī",
+      "notes": "Opens the third scope-factor."
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyika",
+      "gloss": "the equanimity vow (sāmāyika)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sāmāyika < sama ('equanimity') + -ika",
+      "notes": "Glossary term."
+    },
+    {
+      "token": "નિપજે",
+      "translit": "nipajē",
+      "gloss": "is completed / accomplished",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati nīpajavuṁ ('to be produced, completed') < Prakrit nipphajja-",
+      "notes": ""
+    },
+    {
+      "token": "તિહાં",
+      "translit": "tihāṁ",
+      "gloss": "there / that point",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati/Apabhraṁśa tihāṁ ('there')",
+      "notes": "tihāṁ sudhī = 'up to that point'."
+    },
+    {
+      "token": "સુધી",
+      "translit": "sudhī",
+      "gloss": "until, up to",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati postposition sudhī ('until')",
+      "notes": "Fixes the temporal limit: until the sāmāyika is fulfilled."
+    },
+    {
+      "token": "ભાવથકી",
+      "translit": "bhāvathakī",
+      "gloss": "as regards inner state; by way of bhāva",
+      "partOfSpeech": "adverb",
+      "etymology": "bhāva (inner state) + ablative-instrumental thakī",
+      "notes": "Opens the fourth and densest scope-factor."
+    },
+    {
+      "token": "યથાશક્તિએ",
+      "translit": "yathāśaktiē",
+      "gloss": "according to one's capacity (yathāśakti)",
+      "partOfSpeech": "adverb",
+      "etymology": "yathā ('according to') + śakti ('ability'), Gujarati instrumental -ē",
+      "notes": "Glossary term; honest, capacity-bound vowing."
+    },
+    {
+      "token": "રાગદ્વેષે",
+      "translit": "rāgadveṣē",
+      "gloss": "of/by attachment and aversion",
+      "partOfSpeech": "noun",
+      "etymology": "rāga ('attachment') + dveṣa ('aversion'), instrumental -ē",
+      "notes": "Glossary term rāga-dveṣa; construed with rahita ('free from')."
+    },
+    {
+      "token": "રહિત",
+      "translit": "rahita",
+      "gloss": "free from, devoid of",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. rahita ('lacking') from rah ('to leave')",
+      "notes": "rāgadveṣē rahita = 'free of attachment and aversion' — the inner aim."
+    },
+    {
+      "token": "વ્રતી",
+      "translit": "vratī",
+      "gloss": "a vow-keeper (one observing vows)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vratin ('one who holds a vrata')",
+      "notes": ""
+    },
+    {
+      "token": "સંઘાતે",
+      "translit": "saṁghātē",
+      "gloss": "together with, in the company of",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. saṁghāta ('union, company'), locative/instrumental -ē",
+      "notes": ""
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "and, as well as",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tathā ('likewise')",
+      "notes": ""
+    },
+    {
+      "token": "ગુર્વાદિક",
+      "translit": "gurvādika",
+      "gloss": "gurus and the like (elders)",
+      "partOfSpeech": "compound",
+      "etymology": "guru ('teacher') + ādika ('et cetera')",
+      "notes": ""
+    },
+    {
+      "token": "સંઘાતે",
+      "translit": "saṁghātē",
+      "gloss": "together with, in the company of",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. saṁghāta, locative/instrumental -ē",
+      "notes": "Repeated to govern 'gurus and elders'."
+    },
+    {
+      "token": "બોલવાનો",
+      "translit": "bolavāno",
+      "gloss": "of speaking (the act of speaking)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati verbal noun bolavuṁ ('to speak') + genitive -no",
+      "notes": ""
+    },
+    {
+      "token": "આગાર",
+      "translit": "āgāra",
+      "gloss": "permitted exception (āgāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. āgāra/ākāra ('reservation, exception') in pratyākhyāna usage",
+      "notes": "Glossary term; speaking with vow-keepers and gurus is the declared exception."
+    },
+    {
+      "token": "છે",
+      "translit": "chhe",
+      "gloss": "is",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati copula chhe",
+      "notes": ""
+    },
+    {
+      "token": "*",
+      "translit": "*",
+      "gloss": "(footnote/variant marker)",
+      "partOfSpeech": "particle",
+      "etymology": "editorial asterisk in the source book",
+      "notes": "Brackets an in-book variant clause; preserved verbatim, not normalized."
+    },
+    {
+      "token": "અવ્રતી",
+      "translit": "avratī",
+      "gloss": "a non-vow-keeper",
+      "partOfSpeech": "noun",
+      "etymology": "a- (negative) + vratin ('vow-holder')",
+      "notes": ""
+    },
+    {
+      "token": "સંઘાતે",
+      "translit": "saṁghātē",
+      "gloss": "together with, in the company of",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. saṁghāta, locative/instrumental -ē",
+      "notes": ""
+    },
+    {
+      "token": "બોલવાનું",
+      "translit": "bolavānuṁ",
+      "gloss": "of speaking (the act of speaking)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati verbal noun bolavuṁ + neuter genitive -nuṁ",
+      "notes": ""
+    },
+    {
+      "token": "પચ્ચખ્ખાણ",
+      "translit": "pacchakkhāṇa",
+      "gloss": "renunciation / formal abstention (pratyākhyāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paccakkhāṇa < Skt. pratyākhyāna ('renunciation')",
+      "notes": "Glossary term; spelt with the doubled conjunct ખ્ખ verbatim per the book."
+    },
+    {
+      "token": "છે",
+      "translit": "chhe",
+      "gloss": "is",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati copula chhe",
+      "notes": ""
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. athavā ('or else')",
+      "notes": "Introduces the alternative reading (renunciation OR jayaṇā)."
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "careful restraint (jayaṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā < Skt. yatanā",
+      "notes": "Glossary term; the alternative to outright renunciation."
+    },
+    {
+      "token": "*",
+      "translit": "*",
+      "gloss": "(footnote/variant marker, closing)",
+      "partOfSpeech": "particle",
+      "etymology": "editorial asterisk in the source book",
+      "notes": "Closes the bracketed variant clause."
+    },
+    {
+      "token": "છે",
+      "translit": "chhe",
+      "gloss": "is",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati copula chhe",
+      "notes": "Closes the bhāva clause."
+    },
+    {
+      "token": "એ",
+      "translit": "ē",
+      "gloss": "that, this (the foregoing)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative ē",
+      "notes": "ē rītē = 'in this manner'."
+    },
+    {
+      "token": "રીતે",
+      "translit": "rītē",
+      "gloss": "in the manner / way",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. rīti ('manner'), Gujarati locative -ē",
+      "notes": ""
+    },
+    {
+      "token": "છ",
+      "translit": "chha",
+      "gloss": "six",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ṣaṣ > Gujarati chha ('six')",
+      "notes": ""
+    },
+    {
+      "token": "કોટીએ",
+      "translit": "koṭīē",
+      "gloss": "by/in the koṭis (ways, sides)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. koṭi ('point, division'), Gujarati instrumental -ē",
+      "notes": "chha koṭīē = 'in six ways'; glossary term chha koṭi."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done / by way of",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati conjunctive participle of karavuṁ ('to do')",
+      "notes": "chha koṭīē karī = 'doing it in the six ways'."
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyika",
+      "gloss": "the equanimity vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sāmāyika",
+      "notes": ""
+    },
+    {
+      "token": "કરું",
+      "translit": "karuṁ",
+      "gloss": "I undertake / I do",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati 1st-person present of karavuṁ ('to do')",
+      "notes": "The performative resolve."
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyika",
+      "gloss": "the equanimity vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sāmāyika",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata ('religious vow')",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "utterance, declaration",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. uccāra ('pronouncing') from ud + car",
+      "notes": "uccāra karavā = 'to declare/recite the vow'."
+    },
+    {
+      "token": "કરવા",
+      "translit": "karavā",
+      "gloss": "to do / to make",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati infinitive-of-purpose of karavuṁ",
+      "notes": ""
+    },
+    {
+      "token": "ઉભા",
+      "translit": "ubhā",
+      "gloss": "standing, upright",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ubho < Prakrit ubbha- ('erect')",
+      "notes": ""
+    },
+    {
+      "token": "થઇને",
+      "translit": "thaīne",
+      "gloss": "having become → 'standing up'",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati conjunctive participle of thavuṁ ('to become')",
+      "notes": "ubhā thaīne = 'rising to stand'."
+    },
+    {
+      "token": "એક",
+      "translit": "ēka",
+      "gloss": "one",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. eka ('one')",
+      "notes": ""
+    },
+    {
+      "token": "નવકાર",
+      "translit": "navkāra",
+      "gloss": "the Navkar (Namaskāra mantra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇamokkāra/navkāra < Skt. namaskāra",
+      "notes": ""
+    },
+    {
+      "token": "ગણુંજી",
+      "translit": "gaṇuṁjī",
+      "gloss": "I recite/count (respectfully)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati gaṇavuṁ ('to count/recite') 1st-person + honorific particle -jī",
+      "notes": "The honorific -jī gives the closing rubric a reverent register."
+    }
+  ],
+  "literalTranslation": "As regards substance: clothes, garments, ornaments, a bundle, a sitting-mat, the Navkar rosary are permitted only as previously resolved. As regards place: within the inner side of the doorway of the upāśraya (this place); for need there is jayaṇā. As regards time: until the sāmāyika is completed. As regards inner state: according to capacity, free of attachment and aversion, there is the exception (āgāra) of speaking in the company of a vow-keeper and of gurus and elders. *Speaking in the company of a non-vow-keeper is renounced (pratyākhyāna), or there is jayaṇā.* In this manner, performing it in the six ways (chha koṭi), I undertake the sāmāyika; rising to stand to declare the sāmāyika vow, I recite one Navkar.",
+  "idiomaticTranslation": "By way of substance, I may keep only what I have resolved upon — my clothes and garments, ornaments, my bundle, my mat, my Navkar rosary. By way of place, I keep within the threshold of this hall of observance, exercising careful restraint should need take me beyond it. By way of time, the vow holds until the sāmāyika is complete. By way of inner state, to the full of my capacity and free of all liking and loathing, I reserve the single liberty of speaking with a fellow vow-keeper and with my gurus and elders; *speech with one who keeps no vow I renounce, or else hold under careful restraint.* Thus, undertaking it in all six ways, I take the sāmāyika — and rising to my feet to declare the vow, I recite one Navkar.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single prose unit does the precise work of turning a pious wish into an enforceable promise: it draws the four boundary-lines of the vow before the vow itself (Karemi Bhante) is spoken. Notice the recurring grammatical hinge — the four ...thakī forms (dravyathakī, kṣetrathakī, kālathakī, bhāvathakī) — each opening a clause and each answered by the flat copula chhe ('it is so'). The effect is a checklist spoken under oath. Two qualifiers carry the verse's whole ethical weight. First, dhāryā pramāṇē ('only as resolved') quietly forbids smuggling extra possessions in under cover of the listed categories: the rosary and mat are allowed, but only the ones already decided upon. Second, the doorway-clause (māṁhelī korē) fixes a literal, visible line on the floor — and immediately softens it with kāraṇē jayaṇā, conceding that genuine need may carry the reciter across the threshold, but only under vigilant restraint, never carelessly. The bhāva clause is the densest: yathāśakti makes the vow honest (one promises only what one can keep), rāgadveṣē rahita names its true target (not silence as such, but the inner passions silence is meant to starve), and the āgāra/pratyākhyāna pair calibrates speech itself — permitted with vow-keepers and gurus, renounced with others. The bracketed, asterisked variant (athavā jayaṇā, 'or careful restraint') is preserved as an attested in-book footnote, not smoothed away: tradition itself hesitated between outright renunciation and graded vigilance here. The closing chha koṭīē karī then gathers all four boundaries into the six-fold undertaking and discharges into action — stand, and chant one Navkar.",
+    "doctrinalContext": "The verse is a working instance of the classical Jain principle that every vow (vrata) is scoped along four axes — dravya, kṣetra, kāla, bhāva — the same fourfold analysis used across Jain ethics to give a vow definite extension rather than vague aspiration. Its inner aim, rāgadveṣē rahita, locates sāmāyika squarely within the doctrine of equanimity (samatā): the silence and stillness are instrumental; the real renunciation is of attachment and aversion, the two passions that drive karmic influx. The chha koṭi formula expresses the standard yoga × karaṇa matrix — the three channels of mind, speech and body crossed with not-doing and not-causing — by which a lay vow is comprehensively bounded; per the tradition note, this enumeration is the received reading rather than spelled out in the text itself. Finally, the jayaṇā concession embodies the characteristically Jain refusal to let an unkeepable absolute breed dishonesty: where total abstention is impractical, graded vigilance preserves both the vow and the truthfulness of the one who takes it.",
+    "practicalRelevance": "A reciter today uses this verse as a pre-flight checklist: before sitting for sāmāyika, actually decide your items, your space, your duration, and your inner intention — and mean them. Its enduring lesson is the pairing of a firm line with honest jayaṇā: set a real boundary, but build in vigilant, declared exceptions rather than pretending to a perfection you cannot keep. Vow only yathāśakti — what you can truly sustain — and keep the aim fixed not on outward stillness but on freedom from liking and loathing.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.1–7.16 (the lay vows, their scoping and transgressions)",
+        "source": "Ācārya Umāsvāmi; trans. Vijay K. Jain / wisdomlib edition"
+      },
+      {
+        "text": "Doctrine of the sāmāyika vow and dravya/kṣetra/kāla/bhāva scoping",
+        "source": "Padmanabh S. Jaini, The Jaina Path of Purification"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra, Chapter 7 (The Five Vows) — with commentary",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084825.html",
+      "type": "translation",
+      "consultedFor": "Classical fourfold (dravya/kṣetra/kāla/bhāva) scoping of vows and the place of sāmāyika among the śikṣāvratas."
+    },
+    {
+      "title": "Tattvārtha Sūtra, Chapter 7 — Jainworld",
+      "url": "https://jainworld.com/scripture/tattvarth-sutra/chapter-7/",
+      "type": "scholarship",
+      "consultedFor": "Cross-check of the vow taxonomy (aṇuvrata / guṇavrata / śikṣāvrata) and transgressions framing the declaration."
+    },
+    {
+      "title": "Ācārya Umāsvāmī's Tattvārthasūtra — With Explanation in English (archive.org)",
+      "url": "https://archive.org/details/Tattvartha18CompleteWeb",
+      "type": "scholarship",
+      "consultedFor": "Verifying the doctrinal vocabulary of vow-scope and equanimity (samatā / rāga-dveṣa) used in the commentary."
+    },
+    {
+      "title": "Padmanabh S. Jaini, The Jaina Path of Purification",
+      "url": "https://www.worldcat.org/title/jaina-path-of-purification/oclc/4498827",
+      "type": "scholarship",
+      "consultedFor": "Doctrine of the sāmāyika vow, jayaṇā, and the āgāra/pratyākhyāna distinction in lay practice."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "This is a vernacular classical-Gujarati vidhi (procedural) declaration, not a Prakrit/Sanskrit gāthā; the word-by-word treatment glosses Gujarati prose tokens and is therefore more idiomatic than etymological in places. The token લતાં (latāṁ) is the least certain item: it is read as a second clothing/wraps term paired with લૂગડાં, but no fully verified dictionary attestation was located — treat the gloss as probable, not definitive. The chha koṭi enumeration (three yoga × not-doing/not-causing) follows the tradition knowledge base as the received reading; the verse text does not itself spell out the six divisions. The asterisked clause (avratī... pacchakkhāṇa... athavā jayaṇā) is an in-book footnote/variant preserved verbatim, including the doubled conjunct in પચ્ચખ્ખાણ; it is attested, not an error to normalize. Source-book URL omitted as no stable verified link exists."
+}

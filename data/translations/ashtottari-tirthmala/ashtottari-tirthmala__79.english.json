@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/79",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At the Bharuch shrine of Munisuvrata, carved images of the king, the horse, the she-bird, the Jinas Pārśva and Supārśva, and the goddess Sudarśanā are shown still worshipping him to this very day.",
+  "recitation": "jiyasattu āsa samalī, pāsa supāsā sudaṁsaṇā devī | niya niya muttihiṁ ajjavi, sevaṁte suvvayaṁ tahiyaṁ ||",
+  "wordByWord": [
+    {
+      "token": "જિયસત્તુ",
+      "translit": "jiyasattu",
+      "gloss": "Jitaśatru (the king of the legend)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. < Skt. jita-śatru, 'one by whom enemies (śatru) have been conquered (jita)'; the king who freed the sacrificial horse and built the shrine.",
+      "notes": "Proper name; here the founder-figure of the Aśvāvabodha caitya."
+    },
+    {
+      "token": "આસ",
+      "translit": "āsa",
+      "gloss": "the horse",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. āsa < Skt. aśva, 'horse' (aś- 'to reach/pervade'). The very horse for whose awakening (aśvāvabodha) the Jina came.",
+      "notes": "The being enlightened by Munisuvrata, reborn as a god."
+    },
+    {
+      "token": "સમલી",
+      "translit": "samalī",
+      "gloss": "the Samalī she-bird (= Śakunikā)",
+      "partOfSpeech": "noun",
+      "etymology": "Vernacular/Pkt. name of the female bird, equated in tradition with Skt. śakunikā ('hen-bird, she-kite'); hence the tīrtha's alternate name Śakunikā-vihāra (Guj. Samalī-/Samalikā-vihāra).",
+      "notes": "Sudarśanā of Siṁhala reborn as a bird, restorer of the temple (see preceding verse)."
+    },
+    {
+      "token": "પાસ",
+      "translit": "pāsa",
+      "gloss": "Pārśva(nātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. pāsa < Skt. Pārśva, the 23rd Tīrthaṅkara; here a flanking image at the shrine.",
+      "notes": "Proper name."
+    },
+    {
+      "token": "સુપાસા",
+      "translit": "supāsā",
+      "gloss": "Supārśva(nātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. supāsa < Skt. Supārśva, the 7th Tīrthaṅkara; paired here with Pārśva as a subsidiary image.",
+      "notes": "Proper name; the final -ā is metrical/enumerative."
+    },
+    {
+      "token": "સુદંસણા",
+      "translit": "sudaṁsaṇā",
+      "gloss": "Sudarśanā",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. su-daṁsaṇā < Skt. su-darśanā, 'fair to behold' (su- 'good' + darśana 'sight'); here the tutelary goddess.",
+      "notes": "Proper name of the presiding devī; tradition links it to the same Sudarśanā of the Samalī legend."
+    },
+    {
+      "token": "દેવી",
+      "translit": "devī",
+      "gloss": "goddess",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. devī (fem. of deva, < div- 'to shine'), 'goddess'; qualifies Sudarśanā.",
+      "notes": ""
+    },
+    {
+      "token": "નિય",
+      "translit": "niya",
+      "gloss": "own",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. niya < Skt. nija, 'one's own'.",
+      "notes": "First of the doubled niya niya."
+    },
+    {
+      "token": "નિય",
+      "translit": "niya",
+      "gloss": "own (each their respective)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. niya < Skt. nija; the reduplication niya niya gives a distributive sense, 'each by his/her own (image)'.",
+      "notes": "Reduplicated for distributive force."
+    },
+    {
+      "token": "મુત્તિહિં",
+      "translit": "muttihiṁ",
+      "gloss": "by/with (their) images",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. instrumental plural of mutti < Skt. mūrti, 'image, sculpted form, embodiment' (mūrch- 'to take solid shape').",
+      "notes": "Instrumental: the figures act 'through' their carved images."
+    },
+    {
+      "token": "અજ્જવિ",
+      "translit": "ajjavi",
+      "gloss": "even today, still",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. ajja (< Skt. adya, 'today') + vi (< Skt. api, 'even'); 'even now, to this day'.",
+      "notes": "Key word turning the static images into perpetual worship."
+    },
+    {
+      "token": "સેવંતે",
+      "translit": "sevaṁte",
+      "gloss": "(they) serve / attend upon / worship",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. present participle/3rd pl. of sev- < Skt. √sev 'to serve, attend, honour' (sevante, 'they serve').",
+      "notes": "Subject is the enumerated figures; present tense + ajjavi = ongoing service."
+    },
+    {
+      "token": "સુવ્વયં",
+      "translit": "suvvayaṁ",
+      "gloss": "Suvrata (= Munisuvrata, the 20th Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. accusative su-vvaya < Skt. Su-vrata, 'of noble vows'; short form of Munisuvrata, the enshrined Tīrthaṅkara.",
+      "notes": "Accusative — the object served."
+    },
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṁ",
+      "gloss": "there (at Bharukaccha)",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. tahiṁ/tahiyaṁ < Skt. tatra, 'there, in that place'.",
+      "notes": "Refers back to the Bharukaccha tīrtha of the preceding verse."
+    }
+  ],
+  "literalTranslation": "Jitaśatru, the horse, the Samalī(-bird), Pārśva, Supārśva, and the goddess Sudarśanā — each by his or her own image, even today serve Suvrata (Munisuvrata) there (at Bharukaccha).",
+  "idiomaticTranslation": "There at Bharukaccha, King Jitaśatru, the horse, the she-bird Samalī, Lords Pārśva and Supārśva, and the goddess Sudarśanā — every one of them, carved each in his or her own image — still wait in attendance upon Munisuvrata to this very day.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having named the Aśvāvabodha and Samalikā shrine in the verse before, the poet now takes a 'census' of its sculpture: the secondary images ranged around the central Munisuvrata. Each is a character from the tīrtha's own story. Jitaśatru is the king who, hearing the Jina recount their shared previous birth, repented, released the horse from his sacrifice and raised the jewelled caitya. Āsa is that very horse — the being for whose awakening (aśvāvabodha) Munisuvrata travelled overnight from Pratiṣṭhānapura, and who, instructed, died in calm and rose to heaven. Samalī, the she-bird, is the restorer of the ruined shrine (Sudarśanā of Siṁhala reborn), after whom the place is also called Śakunikā-vihāra. Sudarśanā devī presides as guardian, and the Jinas Pārśva and Supārśva flank the sanctum. The verse's craft lies in niya niya muttihiṁ ajjavi sevaṁte — 'each, through their own image, even today serve him.' The present tense yoked to 'even today' animates the stone: the carved figures are not memorial portraits but worshippers frozen mid-homage, perpetuating the devotion their living originals began. The whole legend thus stands gathered at the Jina's feet in unbroken adoration, and the reciter, naming them, is folded into that same timeless congregation. Tight by design, the verse 'peoples' the tīrtha that verse 78 merely located.",
+    "doctrinalContext": "The verse quietly affirms two Jain principles. First, the universality of the path: a horse and a bird, not only humans, attain spiritual fruit through darśana of the Jina — the latent capacity for samyaktva is awakened (often, as here, by jāti-smaraṇa, recollection of a former birth) regardless of the body one wears. Second, it embodies the Mūrtipūjaka conviction that the installed image (mūrti) is a living locus of devotion: the figures 'serve through their own images,' so that pratimā-bhakti carries the original act of reverence forward across ages.",
+    "practicalRelevance": "Reciting this verse, the worshipper mentally joins a company that has never stopped bowing — king, animal, bird, goddess and Jinas alike — and is reminded that sincere devotion bears fruit whatever one's station or form, and that honouring the image is honouring the living example it preserves.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 6.7 (Śrī-Munisuvratanātha-caritra) — the horse freed, Bhṛgukaccha becomes Aśvāvabodha",
+        "source": "Hemacandra; tr. H. M. Johnson, Gaekwad's Oriental Series"
+      },
+      {
+        "text": "Vividhatīrthakalpa — Aśvāvabodha / Śakunikā-vihāra kalpa",
+        "source": "Jinaprabhasūri (13th c.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aśvāvabodha — definition (Vividhatīrthakalpa & Triṣaṣṭi 6.7 excerpts)",
+      "url": "https://www.wisdomlib.org/definition/ashvavabodha",
+      "type": "scholarship",
+      "consultedFor": "The Aśvāvabodha legend: Jina Suvrata at Bharukaccha, King Jitaśatru's horse-sacrifice, the jewelled caitya and Suvrata image, and the shrine's later name Śakunikā-vihāra (= Samalī)."
+    },
+    {
+      "title": "Munisuvrata — definition (incl. Triṣaṣṭi 6.7 and Jaina Iconography)",
+      "url": "https://www.wisdomlib.org/definition/munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Identity of Munisuvrata/Suvrata as 20th Tīrthaṅkara, and Hemacandra's account of the horse being praised and set free."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (English translation, H. M. Johnson)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "Full narrative of the Munisuvrata horse-awakening episode underlying the figures named in this verse."
+    },
+    {
+      "title": "Mūrti — definition (Sanskrit/Prakrit lexical entry)",
+      "url": "https://www.wisdomlib.org/definition/murti",
+      "type": "dictionary",
+      "consultedFor": "Gloss of mutti < mūrti ('image, embodiment, definite form') for the token muttihiṁ."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse text is clear and the figures are securely identified from the Aśvāvabodha/Śakunikā-vihāra legend. 'Samalī' (Guj. she-bird) is the tradition's equivalent of Skt. Śakunikā — hence the shrine's twin name; some readings instead connect it to śālmalī, a minor variant. Tradition may conflate the goddess Sudarśanā with the Sudarśanā of Siṁhala who was reborn as the bird; the verse lists 'Sudarśanā devī' as a presiding deity. The seven names may denote seven distinct subsidiary images or a poetic enumeration of the legend's cast; this is interpretive. Orthography (mātrās, anusvāras, conjuncts of જિયસત્તુ, સુવ્વયં, અજ્જવિ) preserved verbatim per the source book."
+}

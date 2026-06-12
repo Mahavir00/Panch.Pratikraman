@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/16",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the first seven Jinas of our present age — Ṛṣabha, Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha and Supārśva.",
+  "recitation": "namimo risaha jiṇaṁdaṁ, ajiya jiṇaṁ saṁbhavaṁ ca titthayaraṁ; abhinaṁdaṇa jiṇacaṁdaṁ, sumaiṁ paümappahaṁ supāsaṁ.",
+  "wordByWord": [
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow / let us bow",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit present 1st-person plural from the root nam- (Skt. √nam, namas 'to bend, do homage'); the ending -mo marks 'we'.",
+      "notes": "Plural 'we bow' — the verse speaks for the whole assembly of reciters, not a single 'I'."
+    },
+    {
+      "token": "રિસહ",
+      "translit": "risaha",
+      "gloss": "Ṛṣabha (the first Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit risaha < Skt. Ṛṣabha, lit. 'bull', emblem of strength and primacy; the first Jina of this descending cycle.",
+      "notes": "Stem form serving as the object of namimo together with the following epithet."
+    },
+    {
+      "token": "જિણંદં",
+      "translit": "jiṇaṁdaṁ",
+      "gloss": "the Lord of Jinas (Jinendra), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Skt. jina 'conqueror') + iṁda (Skt. indra 'lord, chief') = jinendra, 'foremost among the Jinas'; accusative -aṁ.",
+      "notes": "Honorific attached to Ṛṣabha."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita (the second Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajiya < Skt. a-jita 'unconquered, invincible' (a- privative + √ji 'conquer').",
+      "notes": "The name itself means 'the unvanquished one'."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (conqueror), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt. jina, 'one who has conquered the passions'; accusative -aṁ.",
+      "notes": "Epithet attached to Ajita; the poet pairs each name with a different word for the awakened one."
+    },
+    {
+      "token": "સંભવં",
+      "translit": "saṁbhavaṁ",
+      "gloss": "Sambhava (the third Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁbhava < Skt. sambhava 'arising, coming-to-be' (sam- + √bhū); accusative -aṁ.",
+      "notes": ""
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt. ca, the connective conjunction 'and'.",
+      "notes": "Links Sambhava to the preceding two names within the same act of homage."
+    },
+    {
+      "token": "તિત્થયરં",
+      "translit": "titthayaraṁ",
+      "gloss": "the tīrthaṅkara (ford-maker), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit titthayara < Skt. tīrtha-kara 'maker of the crossing'; accusative -aṁ.",
+      "notes": "Third varied honorific, here applied to Sambhava."
+    },
+    {
+      "token": "અભિનંદણ",
+      "translit": "abhinaṁdaṇa",
+      "gloss": "Abhinandana (the fourth Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit abhinaṁdaṇa < Skt. abhinandana 'rejoicing, glad welcome' (abhi- + √nand 'rejoice').",
+      "notes": "The name connotes joy and acclamation."
+    },
+    {
+      "token": "જિણચંદં",
+      "translit": "jiṇacaṁdaṁ",
+      "gloss": "the moon among Jinas (Jina-candra), accusative",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Skt. jina) + caṁda (Skt. candra 'moon') = 'moon of the Jinas'; accusative -aṁ.",
+      "notes": "Fourth varied honorific, attached to Abhinandana — likening the Jina to the cooling, radiant moon."
+    },
+    {
+      "token": "સુમઇં",
+      "translit": "sumaiṁ",
+      "gloss": "Sumati (the fifth Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sumai < Skt. su-mati 'of good/wise mind' (su- 'good' + mati 'intellect'); accusative -ṁ.",
+      "notes": "The name means 'the wise-minded one'."
+    },
+    {
+      "token": "પઉમપ્પહં",
+      "translit": "paümappahaṁ",
+      "gloss": "Padmaprabha (the sixth Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paüma-ppaha < Skt. padma-prabha 'lotus-radiance, bright as the red lotus' (padma 'lotus' + prabhā 'radiance'); accusative -aṁ.",
+      "notes": "Geminated -pp- is the regular Prakrit assimilation of -dmapr-."
+    },
+    {
+      "token": "સુપાસં",
+      "translit": "supāsaṁ",
+      "gloss": "Supārśva (the seventh Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit supāsa < Skt. su-pārśva 'fair-sided, having auspicious sides' (su- 'good' + pārśva 'side'); accusative -aṁ.",
+      "notes": "Closes the verse on the seventh Jina."
+    }
+  ],
+  "literalTranslation": "We bow to Ṛṣabha the Lord of Jinas, to Ajita the Jina and to Sambhava the Tīrthaṅkara; to Abhinandana the moon among the Jinas, to Sumati, to Padmaprabha and to Supārśva.",
+  "idiomaticTranslation": "We bow low to Ṛṣabha, foremost Lord of the Jinas; to Ajita, the unconquered Conqueror; to Sambhava, the Ford-maker; to Abhinandana, moon among the Jinas; and to Sumati, Padmaprabha and Supārśva — the first seven Awakened Ones of our age.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having closed the salutation to the bygone (atīta) cycle, the hymn now turns to the Jinas of our own present age and bows to the first seven in their canonical order: Ṛṣabha, Ajita, Sambhava, Abhinandana, Sumati, Padmaprabha and Supārśva. The artistry of the verse lies in its refusal to repeat itself: rather than tag every name with the same word, the poet rotates four distinct honorifics across the opening four — Ṛṣabha is jiṇaṁdaṁ (Lord of Jinas), Ajita is jiṇaṁ (the Conqueror), Sambhava is titthayaraṁ (the Ford-maker), and Abhinandana is jiṇacaṁdaṁ (moon among the Jinas) — so that the same reverence sounds new at each bead of the garland. The remaining three (Sumati, Padmaprabha, Supārśva) are named bare, the momentum of namimo still carrying over them, like a single breath of homage sweeping across seven figures. Several names also speak their own meaning aloud: Ajita is literally 'the unvanquished', Sumati 'the wise-minded', Padmaprabha 'radiant as the red lotus', Supārśva 'the fair-sided' — so to recite the line is already to recall a quality of the soul one venerates. The verse is deliberately a list, and its devotional power is cumulative: it asks the reciter simply to keep bowing, name after name, until the whole company of the present Jinas has been gathered in (continued and completed in the verses that follow).",
+    "doctrinalContext": "The verse enacts the Cauvīsattho impulse — homage to the twenty-four — but localized to the vartamāna set. Each title used (jina, jinendra, tīrthaṅkara, jina-candra) names a facet of the same attained state: jina, the conqueror of rāga, dveṣa and moha; tīrthaṅkara, the one who re-founds the ford across rebirth. Bowing to all seven without distinction affirms the Jain teaching that every Tīrthaṅkara, whatever his era or emblem, has reached an identical, complete liberation; the differences are of name and story, not of spiritual rank.",
+    "practicalRelevance": "Recited as a single sustained namimo, the line trains the worshipper in unhurried, repeated bowing — letting each name land before moving to the next, so that veneration becomes attentive rather than mechanical. A reciter may pause on the meaning-bearing names (Ajita 'unconquered', Sumati 'wise-minded') and take them as aspirations for the day's own conduct.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical salutation to the 24 Tīrthaṅkaras, opening with Ṛṣabha and Ajita",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.), sutra 'logassa'"
+      },
+      {
+        "text": "List of the 24 Tīrthaṅkaras of the present avasarpiṇī, Ṛṣabha through Mahāvīra",
+        "source": "Wikipedia, 'Tirthankara'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara (the 24 of the present cycle, names and order)",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical order Ṛṣabha–Ajita–Sambhava–Abhinandana–Sumati–Padmaprabha–Supārśva and the name-meanings"
+    },
+    {
+      "title": "Padmaprabha",
+      "url": "https://en.wikipedia.org/wiki/Padmaprabha",
+      "type": "scholarship",
+      "consultedFor": "Etymology of Padmaprabha ('bright as the red lotus') and his place as 6th Tīrthaṅkara"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying namas (√nam), jina, indra, tīrtha-kara, candra, su-mati, su-pārśva"
+    },
+    {
+      "title": "Jain Quantum (Jain eLibrary) — searchable corpus of stavan/vandana texts",
+      "url": "https://jainqq.org/",
+      "type": "translation",
+      "consultedFor": "Cross-checking Prakrit forms (paümappaha, jiṇinda) and devotional usage in tīrtha-vandana hymns"
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "The names map unambiguously onto the first seven Tīrthaṅkaras of the present cycle, so the identification is secure. namimo is read as a 1st-person plural ('we bow'); the preface renders such verbs loosely as 'I bow', but the Prakrit -mo ending is plural. The four rotating honorifics (jiṇaṁdaṁ, jiṇaṁ, titthayaraṁ, jiṇacaṁdaṁ) are taken as appositional epithets distributed one per name; an alternative reading could attach them more loosely, but the distributive reading best fits the metre and the poet's evident variatio. Orthography (e.g. geminate paümappahaṁ, anusvāra placements) is preserved verbatim from the Anchalgachchha/Vidhipaksha edition and not normalised."
+}

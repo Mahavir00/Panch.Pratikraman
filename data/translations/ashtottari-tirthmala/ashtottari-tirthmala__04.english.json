@@ -1,0 +1,210 @@
+{
+  "shlokaId": "ashtottari-tirthmala/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Glory, glory to the Jina, who carries souls to liberation, gives shelter to the helpless, lifts up the lowly, destroys the fear of rebirth, gladdens everyone, and has put an end to old age and death.",
+  "recitation": "jaya jaya sivapaha saṁdaṇa, asaraṇa jaṇa saraṇa dīna uddharaṇa | jaya jaya bhava bhaya bhaṁjaṇa, jaṇa raṁjaṇa chinna jara maraṇa ||",
+  "wordByWord": [
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! / glory! (a shout of acclamation, addressed to the Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "from the Sanskrit root ji 'to conquer'; jaya = 'may (you) be victorious, hail!'",
+      "notes": "The doxological refrain of the hymn's opening verses; repeated for emphasis."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! / glory! (repeated)",
+      "partOfSpeech": "invocation",
+      "etymology": "reduplication of jaya for intensity ('all glory, all glory')",
+      "notes": "Paired repetition is a fixed feature of this stavan's salutations."
+    },
+    {
+      "token": "સિવપહ",
+      "translit": "sivapaha",
+      "gloss": "of the path to liberation (śiva = the auspicious final state, mokṣa; paha = path)",
+      "partOfSpeech": "compound",
+      "etymology": "Apabhraṁśa < Skt. śiva-patha; paha < patha 'road, way'; śiva here = liberation, not the deity",
+      "notes": "First member of the compound sivapaha-saṁdaṇa."
+    },
+    {
+      "token": "સંદણ",
+      "translit": "saṁdaṇa",
+      "gloss": "chariot — hence 'the chariot (that conveys beings) along the path to liberation'",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa/Prakrit < Skt. syandana 'chariot', lit. 'that which glides/flows on', from root syand 'to flow, run'",
+      "notes": "A vocative epithet of the Jina; the vehicle-of-crossing image is the verse's variation on the hymn's saṁsāra-crossing motif."
+    },
+    {
+      "token": "અસરણ",
+      "translit": "asaraṇa",
+      "gloss": "of the refugeless / those without protection",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. a-śaraṇa; privative a- + śaraṇa 'refuge'",
+      "notes": "First member of asaraṇa-jaṇa-saraṇa; deliberately set against saraṇa below."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. jana 'person, people'; intervocalic n → ṇa per Prakrit phonology",
+      "notes": "Genitive force here: 'of (such) people'."
+    },
+    {
+      "token": "સરણ",
+      "translit": "saraṇa",
+      "gloss": "refuge, shelter — '(you who are) the refuge of refugeless people'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. śaraṇa 'protection, shelter', from root śri/śaraṇ",
+      "notes": "Completes the antithetical compound: a-śaraṇa folk find their śaraṇa in the Jina."
+    },
+    {
+      "token": "દીન",
+      "translit": "dīna",
+      "gloss": "the wretched, the lowly, the destitute",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Prakrit dīna 'poor, miserable, helpless', from root dī 'to perish, waste away'",
+      "notes": "Spelled with dental n in the source (દીન); first member of dīna-uddharaṇa."
+    },
+    {
+      "token": "ઉદ્ધરણ",
+      "translit": "uddharaṇa",
+      "gloss": "uplifter, rescuer — '(you who are) the upraiser of the wretched'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. uddharaṇa 'lifting up, deliverance', ud- 'up' + root hṛ 'to carry'; cf. saṁsāra-uddharaṇa 'rescue from transmigration'",
+      "notes": "Agentive epithet of the Jina."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! / glory!",
+      "partOfSpeech": "invocation",
+      "etymology": "from Skt. root ji 'to conquer'",
+      "notes": "Opens the second line, mirroring the first."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! / glory! (repeated)",
+      "partOfSpeech": "invocation",
+      "etymology": "reduplication for intensity",
+      "notes": ""
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, the cycle of rebirth (saṁsāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt./Prakrit bhava 'becoming, existence', from root bhū 'to be'",
+      "notes": "First member of bhava-bhaya-bhaṁjaṇa."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear, dread",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit bhaya 'fear', from root bhī 'to fear'",
+      "notes": "Middle member: bhava-bhaya = 'the fear (born) of worldly existence'."
+    },
+    {
+      "token": "ભંજણ",
+      "translit": "bhaṁjaṇa",
+      "gloss": "breaker, destroyer — '(you who are) the shatterer of the fear of rebirth'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. bhañjana 'breaking, shattering', from root bhañj 'to break'",
+      "notes": "Agentive epithet of the Jina."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. jana 'people'",
+      "notes": "Object of raṁjaṇa: 'delighter of people'."
+    },
+    {
+      "token": "રંજણ",
+      "translit": "raṁjaṇa",
+      "gloss": "delighter, gladdener — '(you who) bring joy to people'",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. rañjana 'pleasing, colouring (the heart with joy)', from root rañj 'to be delighted/coloured'",
+      "notes": "Agentive epithet; jaṇa-raṁjaṇa balances jaṇa-saraṇa in line 1."
+    },
+    {
+      "token": "છિન્ન",
+      "translit": "chinna",
+      "gloss": "cut off, severed",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Prakrit chinna, past participle of root chid 'to cut, sever'",
+      "notes": "First member of chinna-jara-maraṇa; may read either as a bahuvrīhi epithet of the Jina ('one whose old-age-and-death are cut') or transitively ('who severs old age and death' for the devotee)."
+    },
+    {
+      "token": "જર",
+      "translit": "jara",
+      "gloss": "old age",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt. jarā 'old age, decay', from root jṝ 'to grow old'",
+      "notes": "Paired with maraṇa as the standard saṁsāric duo jarā-maraṇa."
+    },
+    {
+      "token": "મરણ",
+      "translit": "maraṇa",
+      "gloss": "death — '(you who have) cut off old age and death'",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit maraṇa 'dying, death', from root mṛ 'to die'",
+      "notes": "Closes the verse on the soteriological note of release from jarā-maraṇa."
+    }
+  ],
+  "literalTranslation": "Glory, glory — [O] chariot (that conveys beings) to the path of liberation; refuge of the refugeless folk, upraiser of the wretched! Glory, glory — shatterer of the fear of worldly existence; delighter of people, [O you] whose old age and death are cut off!",
+  "idiomaticTranslation": "All glory, all glory to you — the very chariot that bears us along the road to liberation, the shelter of all who have no shelter, the lifter-up of the lowly! All glory, all glory — you who shatter the dread of birth and rebirth, who gladden every heart, and who have severed old age and death itself!",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is a single unbroken garland of vocative epithets, continuing the 'jaya jaya' acclamation of the omniscient Jina that runs through the hymn's opening doxology. Each line is built on the same rhythm: a 'jaya jaya' followed by three titles. Its artistry lies in pointed antithesis and pairing. The opening sivapaha-saṁdaṇa pictures the Jina as the chariot that actually conveys the soul up the road to mokṣa — the verse's own turn on the hymn's vehicle-of-crossing imagery. Then comes the deliberate contrast asaraṇa-jaṇa-saraṇa: precisely those who have no refuge (a-śaraṇa) find their refuge (śaraṇa) here — the privative and its positive set side by side in three short words. Dīna-uddharaṇa adds the note of downward-reaching compassion: he raises up the destitute who cannot raise themselves. The second line shifts from rescue to result. Bhava-bhaya-bhaṁjaṇa names what the Jina destroys — not an external enemy but the very fear bred by saṁsāra; jaṇa-raṁjaṇa (echoing jaṇa-saraṇa above) names the joy he gives; and chinna-jara-maraṇa names the final fruit, old age and death cut clean away. The closing compound works on two levels at once: the Jina is one in whom jarā and maraṇa are already severed (he is liberated), and precisely because of that he severs them for those who take refuge in him. The verse thus moves in miniature from means (chariot, refuge) through compassion (uplift) to end (fearlessness, joy, deathlessness).",
+    "doctrinalContext": "The verse compresses the Jain analysis of bondage and release. Jarā-maraṇa — old age and death — is the standing shorthand for the suffering of saṁsāra, the very condition the practitioner contemplates in the asaraṇa- and saṁsāra-bhāvanās among the twelve anuprekṣās: that amid birth, ageing and death no worldly protector can shelter the soul, and the Jina-dharma alone is true refuge. Calling the Jina asaraṇa-jaṇa-saraṇa therefore restates the first of the four refuges (arihantā saraṇaṁ) in devotional form. 'Chinna-jara-maraṇa' marks the Jina as one who has destroyed the karmas that drive rebirth and so stands beyond ageing and death — the warrant for his power to be bhava-bhaya-bhaṁjaṇa for others. The pairing of compassionate rescue (uddharaṇa) with attained liberation reflects the Jina's dual standing as both perfected (the example) and benefactor (the refuge worshipped).",
+    "practicalRelevance": "Recited in sequence, the epithets train the worshipper's attitude: first to own one's helplessness (asaraṇa) honestly, then to take the Jina as refuge rather than clinging to worldly protectors, and finally to fix the mind on fearlessness and release from jarā-maraṇa as the goal of practice. Chanting 'jaya jaya' turns the reflection into glad surrender, replacing dread of rebirth with the joy (raṁjaṇa) of devotion.",
+    "crossReferences": [
+      {
+        "text": "Cattāri saraṇaṁ pavajjāmi — arihantā saraṇaṁ (the four refuges; the Jina as refuge)",
+        "source": "Catuḥśaraṇa-prakīrṇaka / traditional Caukkasaraṇa"
+      },
+      {
+        "text": "Aśaraṇa- and saṁsāra-anuprekṣā among the twelve bhāvanās (the soul's helplessness before jarā-maraṇa)",
+        "source": "Tattvārtha-sūtra 9.7, Umāsvāti"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava): doxological praise of the Jinas as those who have crossed beyond rebirth",
+        "source": "Āvaśyaka tradition; this Anchalgachchha edition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (2020 web ed.), entry 'syandana'",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=syandana",
+      "type": "dictionary",
+      "consultedFor": "Verifying saṁdaṇa < syandana 'chariot' (root syand 'to flow/glide on') for sivapaha-saṁdaṇa"
+    },
+    {
+      "title": "Wisdomlib, 'Uddharana, Uddharaṇa' (incl. Sanskrit/Prakrit/Jaina senses)",
+      "url": "https://www.wisdomlib.org/definition/uddharana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of uddharaṇa 'lifting up, deliverance (from saṁsāra)' for dīna-uddharaṇa"
+    },
+    {
+      "title": "Wisdomlib, 'Ranjana, Rañjana' (incl. Prakrit/Jaina senses)",
+      "url": "https://www.wisdomlib.org/definition/ranjana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of raṁjaṇa 'pleasing, gladdening' (root rañj) for jaṇa-raṁjaṇa"
+    },
+    {
+      "title": "Wisdomlib, 'Syandana, Syamdana' (Sanskrit/Kavya/Jaina senses, 19 definitions)",
+      "url": "https://www.wisdomlib.org/definition/syandana",
+      "type": "dictionary",
+      "consultedFor": "Corroborating syandana 'chariot/that which flows' and its devotional/poetic use"
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "Text reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; the verse is Apabhraṁśa-coloured (intervocalic n→ṇa: jaṇa, saraṇa, uddharaṇa, bhaṁjaṇa, raṁjaṇa, maraṇa), so glosses are given via the underlying Sanskrit. 'દીન' is written with a dental n in the source and is kept as dīna. The compound chinna-jara-maraṇa is genuinely two-valued: as a bahuvrīhi epithet of the Jina ('one whose old-age-and-death are severed' = liberated) or transitively ('who cuts off old age and death' for devotees); both readings are theologically intended and are reflected in the translations. sivapaha-saṁdaṇa is read as a tatpuruṣa 'chariot of/to the śiva-path'; some reciters parse sivapaha as a separate epithet ('[hail] the liberation-path'), a minor variant that does not change the sense. No 'pakkhī' word occurs, so the verse carries over unchanged into Cāumāsī/Sāṁvatsarī."
+}

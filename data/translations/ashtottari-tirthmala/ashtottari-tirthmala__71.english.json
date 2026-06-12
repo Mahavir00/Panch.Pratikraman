@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/71",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Because Lord Ajita and the other Jinas, and holy assemblies and many more besides, came to Sammeta Shikhara, it is a great holy place able to save the beings of all three worlds.",
+  "recitation": "jaṁ saṁmee saṅghā, ajiya jiṇaṁdā paraṁ pi āyaṁsu | teṇa ya so mahatitthaṁ, tiloya-jaṇa-tāraṇa-samatthaṁ ||",
+  "wordByWord": [
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "since, because (the relative 'in that / for which reason')",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun from Sanskrit yat; neuter relative used adverbially as a correlative, answered by teṇa ('therefore') in the second line.",
+      "notes": "Opens a relative–correlative (jaṁ … teṇa) frame: 'because X … therefore Y'."
+    },
+    {
+      "token": "સંમેએ",
+      "translit": "saṁmee",
+      "gloss": "at Sammeta (Sammeta Śikhara, the peak of Pārśvanātha hill)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of Prakrit Saṁmeya (Sanskrit Sammeta / Saṁmeta), the pilgrimage hill in present-day Jharkhand; locative -e marks place 'at/on'.",
+      "notes": "The proper name continued from the preceding verse's 'sameya-giri-sihara'."
+    },
+    {
+      "token": "સંઘા",
+      "translit": "saṅghā",
+      "gloss": "the holy assemblies / congregations (of monks and devotees)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative plural of Prakrit saṅgha (Sanskrit saṅgha), 'community, assembly'; here the pilgrim communities and the fourfold Saṅgha.",
+      "notes": "One of the plural subjects of the verb āyaṁsu."
+    },
+    {
+      "token": "અજિય",
+      "translit": "ajiya",
+      "gloss": "Ajita (Ajitanātha, the second Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajiya from Sanskrit ajita, 'unconquered, invincible'; the name of the 2nd Jina, here standing first in the list of those liberated at Sammeta.",
+      "notes": "Forms the phrase ajiya-jiṇaṁdā, 'Ajita (and the other) Jinendras'."
+    },
+    {
+      "token": "જિણંદા",
+      "translit": "jiṇaṁdā",
+      "gloss": "the supreme Jinas (Jina-lords)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative plural of Prakrit jiṇiṁda / jiṇaṁda from Sanskrit jina-indra ('Indra among Jinas', i.e. eminent Jina); -indra is an intensifier of pre-eminence.",
+      "notes": "Names Ajita together with the other Tīrthaṅkaras (twenty of the twenty-four) liberated here."
+    },
+    {
+      "token": "પરંપિ",
+      "translit": "paraṁ pi",
+      "gloss": "and others too / still more besides",
+      "partOfSpeech": "particle",
+      "etymology": "Sandhi of para (Sanskrit para, 'other, further') + pi (Sanskrit api, 'also, even'); together 'others as well'.",
+      "notes": "Extends the subject to the many additional monks who also attained liberation at the site."
+    },
+    {
+      "token": "આયંસુ",
+      "translit": "āyaṁsu",
+      "gloss": "came / arrived (here, to attain liberation)",
+      "partOfSpeech": "verb",
+      "etymology": "Third-person plural past (aorist-type) of Prakrit ā-yā (Sanskrit ā-√yā, 'to come, reach'), corresponding to Sanskrit āyayuḥ; the -ṁsu ending marks the 3rd-plural past.",
+      "notes": "Main verb governing saṅghā, jiṇaṁdā and paraṁ pi; 'reached' here carries the sense of reaching the site / reaching liberation there."
+    },
+    {
+      "token": "તેણ",
+      "translit": "teṇa",
+      "gloss": "for that reason, therefore",
+      "partOfSpeech": "pronoun",
+      "etymology": "Instrumental singular of Prakrit ta (Sanskrit tad), 'by that'; the correlative answering jaṁ — 'because … by that very fact …'.",
+      "notes": "Closes the jaṁ … teṇa logical frame."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya from Sanskrit ca, connective/emphatic particle; here reinforcing teṇa ('and so, indeed therefore').",
+      "notes": "Lightly emphatic; need not be separately rendered in idiomatic English."
+    },
+    {
+      "token": "સો",
+      "translit": "so",
+      "gloss": "it, that (place)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Nominative singular masculine of Prakrit ta (Sanskrit saḥ), 'that one'; here pointing back to Sammeta (treated as masc. giri, 'hill').",
+      "notes": "Subject of the implied verb 'is' in the predicate mahatitthaṁ."
+    },
+    {
+      "token": "મહતિત્થં",
+      "translit": "mahatitthaṁ",
+      "gloss": "a great tīrtha (great pilgrimage-crossing)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahā + tittha (Sanskrit mahā-tīrtha), 'great crossing-place'; nominative/accusative neuter as predicate of so.",
+      "notes": "Predicate nominal: 'that [Sammeta] is a great tīrtha'. (tīrtha defined in the preface.)"
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "the three worlds (upper, middle, lower)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ti + loya (Sanskrit tri-loka), 'three realms'; first member of the long predicate compound.",
+      "notes": "Qualifies jaṇa: the beings of all three cosmic realms."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, beings",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jaṇa from Sanskrit jana, 'folk, living beings'; the object-member of the tāraṇa compound.",
+      "notes": "tiloya-jaṇa = 'the beings of the three worlds'."
+    },
+    {
+      "token": "તારણ",
+      "translit": "tāraṇa",
+      "gloss": "carrying across, ferrying to deliverance",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit tāraṇa from Sanskrit √tṝ causative tāraṇa, 'causing to cross over' (the ocean of rebirth); the action-member of the compound.",
+      "notes": "Echoes the tīrtha = crossing imagery established in the preface."
+    },
+    {
+      "token": "સમત્થં",
+      "translit": "samatthaṁ",
+      "gloss": "capable, fully able",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit samattha from Sanskrit samartha, 'competent, powerful'; neuter agreeing with mahatitthaṁ.",
+      "notes": "Completes the predicate: '[a great tīrtha] capable of delivering the beings of the three worlds'."
+    }
+  ],
+  "literalTranslation": "Since at Sammeta the holy assemblies, Ajita and the (other) Jinendras, and others too came [to liberation] — therefore that [place] is a great tīrtha, capable of carrying across the beings of the three worlds.",
+  "idiomaticTranslation": "Because Lord Ajita and the other Jina-lords, the holy congregations, and countless more besides all came to Sammeta and won release there, that hill is a great tīrtha — mighty enough to ferry the beings of all three worlds safely across the ocean of rebirth.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse named Sammeta-giri as the peak on which twenty Jinas, in the standing pādapopagamana fast, attained siddhi, this verse supplies the reason the hill ranks as a mahātīrtha. The grammar is a tight relative–correlative: jaṁ … āyaṁsu ('because … they came') is answered by teṇa ya so ('therefore it [is]'). The three plural subjects rise in scope — saṅghā (the pilgrim communities), ajiya-jiṇaṁdā (Ajita heading the long line of Tīrthaṅkaras liberated here), and paraṁ pi (the 'others too', the many monks who also reached release on the same hill). The single verb āyaṁsu, 'they came/reached', does double duty: the Jinas came to their final liberation here, and ever-after the saṅghas come on pilgrimage. The conclusion, tiloya-jaṇa-tāraṇa-samatthaṁ, states the hill's power in the idiom of crossing: a place sanctified by so many liberations is itself 'able to carry across the beings of the three worlds'. The logic is characteristic of the tīrthamālā genre — sanctity is conferred not by the rock but by the events of deliverance that occurred upon it, and that accumulated holiness becomes itself a means of deliverance for later devotees. Naming Ajita specifically (the second Jina) rather than a count both anchors the list historically and lets a single revered name stand for the whole company.",
+    "doctrinalContext": "The verse rests on the Jain understanding that a kalyāṇaka-bhūmi — a ground hallowed by an auspicious event, here repeated mokṣa/nirvāṇa — acquires a derived sanctity that supports others' spiritual effort. The phrase tiloya-jaṇa-tāraṇa frames Sammeta within the standard soteriology of saṁsāra as an ocean to be crossed: a tīrtha is literally a 'ford', and its capacity to 'ferry across' (tāraṇa) the beings of all three loka-s (heavenly, human, infernal) expresses that pilgrimage and devotion conduce to liberation. The plurality of those liberated — Ajita and the Jinendras together — also affirms the shared, repeatable nature of the mokṣa-mārga: many have crossed by this very ford.",
+    "practicalRelevance": "For a reciter, this verse turns a far-off hill in Jharkhand into an object of immediate veneration in the prayer hall. Pausing on āyaṁsu, one recalls that liberation is not theoretical but historically attested — Ajita and a host of others actually reached it here — which renews the longing (and the confidence) that the same path is open. It invites a quiet resolve to 'come' too, in intention if not in body.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse 70 (māsaṁ pāovagayā … namimo sameya-giri-siharaṁ): the twenty Jinas attaining siddhi on Sammeta",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra and traditional nirvāṇa-bhūmi lists placing twenty of the twenty-four Tīrthaṅkaras' mokṣa at Sammeta Śikhara",
+        "source": "Śvetāmbara universal-history tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shikharji (Sammeta Śikhara)",
+      "url": "https://en.wikipedia.org/wiki/Shikharji",
+      "type": "scholarship",
+      "consultedFor": "Identification of Sammeta Śikhara as the site where twenty of the twenty-four Tīrthaṅkaras, with many other monks, attained mokṣa"
+    },
+    {
+      "title": "Ajitanatha",
+      "url": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "type": "scholarship",
+      "consultedFor": "Identification of 'ajiya' as Ajitanātha, the second Tīrthaṅkara, and the meaning 'unconquered'"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying samartha (samatthaṁ), tri-loka (tiloya), tāraṇa (√tṝ caus.), jina-indra (jiṇaṁdā) and ā-√yā (āyaṁsu)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The reading and word-division follow the Anchalgachchha/Vidhipaksha edition verbatim (Prakrit/Apabhraṁśa orthography). 'āyaṁsu' is taken as the 3rd-plural past of ā-√yā ('they came/reached'); some editions/readers gloss it loosely as 'attained (liberation)', which fits the context since both the Jinas' coming-to-mokṣa and devotees' coming-on-pilgrimage are intended. 'so' (masc.) agrees with the hill (giri) rather than the neuter tittha. 'paraṁ pi' is read as para+api ('others too'); a minority reading could parse 'paraṁ' adverbially ('moreover'). The specific count of Jinas is not stated in this verse; the figure of twenty is supplied from the preceding verse and tradition, not from v.71 itself."
+}

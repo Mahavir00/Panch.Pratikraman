@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/23",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the everlasting Jina-shrines that stand forever on the great cosmic mountains — one hundred and seventy on the Vaitāḍhya ranges, thirty on the boundary mountains, and twenty on the tusk-shaped mountains.",
+  "recitation": "vande veyakkesu, sāsaya jiṇa ceiyāṇi sittari-sayaṁ. tīsaṁ vāsaharesu, vīsaṁ gayadanta selesu.",
+  "wordByWord": [
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I salute, I pay homage",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt √vand 'to praise, venerate'; first-person singular present, identical in Prakrit (vande).",
+      "notes": "The single governing verb of the verse; every counted shrine below is its object, so the whole gāthā is one continuous act of homage."
+    },
+    {
+      "token": "વેયક્કેસુ",
+      "translit": "veyakkesu",
+      "gloss": "on the Vaitāḍhya mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Apabhraṁśa veyakka = veyaḍḍha, Skt vaitāḍhya (also called Vijayārdha); locative plural ending -esu.",
+      "notes": "The dīrgha-vaitāḍhya ranges that bisect Bharata, Airāvata and every Mahāvideha vijaya; the first peak of each (siddhāyatana-kūṭa) bears an eternal Jina shrine."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal, everlasting",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya < Skt śāśvata 'perpetual, beginningless and endless'.",
+      "notes": "Marks the caityas as uncreated and indestructible, distinct from the historically founded (a-śāśvata) shrines named later in the hymn."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "of the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt jina 'conqueror'; here in compound (jiṇa-ceiyāṇi, 'Jina-shrines').",
+      "notes": "The eternal images enshrined are of the four eternal-name Jinas (Ṛṣabha, Candrānana, Vārisheṇa, Vardhamāna), established later at v.33."
+    },
+    {
+      "token": "ચેઇયાણિ",
+      "translit": "ceiyāṇi",
+      "gloss": "shrines, temple-images (caityas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceiya < Skt caitya; neuter accusative plural in -āṇi.",
+      "notes": "Direct object of vande; the units being tallied across the cosmic mountains."
+    },
+    {
+      "token": "સિત્તરિસયં",
+      "translit": "sittarisayaṁ",
+      "gloss": "one hundred and seventy (170)",
+      "partOfSpeech": "noun",
+      "etymology": "Compound numeral: sittari (Skt saptati '70') + sayaṁ (Skt śata '100') = 'a hundred plus seventy'.",
+      "notes": "Counts 170 Vaitāḍhya shrines — one for each of the 160 Mahāvideha vijayas plus the 10 Bharata/Airāvata regions of the two-and-a-half continents."
+    },
+    {
+      "token": "તીસં",
+      "translit": "tīsaṁ",
+      "gloss": "thirty (30)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tīsaṁ < Skt triṁśat '30'.",
+      "notes": "Governs vāsaharesu."
+    },
+    {
+      "token": "વાસહરેસુ",
+      "translit": "vāsaharesu",
+      "gloss": "on the varṣadhara (region-bounding) mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāsahara < Skt varṣadhara 'region-bearer / boundary-mountain'; locative plural -esu.",
+      "notes": "The boundary ranges (Himavanta, Mahāhimavanta, Niṣadha, Nīla, Rukmī, Śikharī): 6 in a Jambū-type continent, so 6 + 12 + 12 = 30 across the 2.5 continents."
+    },
+    {
+      "token": "વીસં",
+      "translit": "vīsaṁ",
+      "gloss": "twenty (20)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vīsaṁ < Skt viṁśati '20'.",
+      "notes": "Governs the following gayadanta selesu."
+    },
+    {
+      "token": "ગયદંત",
+      "translit": "gayadanta",
+      "gloss": "Gajadanta (the 'elephant-tusk' mountains)",
+      "partOfSpeech": "compound",
+      "etymology": "gaya (Skt gaja 'elephant') + danta (Skt danta 'tusk'); the tusk-shaped spurs that flank Mount Meru in each Mahāvideha.",
+      "notes": "Four per Mahāvideha (Saumanasa, Vidyutprabha, Gandhamādana, Mālyavanta) × 5 Mahāvidehas = 20."
+    },
+    {
+      "token": "સેલેસુ",
+      "translit": "selesu",
+      "gloss": "on the mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sela < Skt śaila 'mountain, crag'; locative plural -esu.",
+      "notes": "Construed with gayadanta — 'on the Gajadanta mountains'."
+    }
+  ],
+  "literalTranslation": "I bow — on the Vaitāḍhya mountains — to the eternal Jina-shrines, one hundred and seventy; thirty on the varṣadhara mountains, twenty on the Gajadanta mountains.",
+  "idiomaticTranslation": "I bow to the eternal shrines of the Jina: one hundred and seventy upon the Vaitāḍhya ranges, thirty upon the Varṣadhara boundary-mountains, and twenty upon the tusk-shaped Gajadanta peaks.",
+  "elaboration": {
+    "verseByVerseCommentary": "With this verse the hymn pivots from the Tīrthaṅkaras of the three times — the future twenty-four were saluted just before — to the eternal shrines woven permanently into the body of the universe, and it does so by counting. The reciter's bow now lands not on a single famous site but on whole classes of cosmic mountains at once. Each figure is exact and verifiable against the standard cosmography: 170 on the Vaitāḍhya (Vijayārdha) ranges, because a dīrgha-vaitāḍhya cuts across every one of the 170 inhabited regions of the two-and-a-half continents (160 Mahāvideha vijayas + the 10 Bharata and Airāvata lands), each crowned by a siddhāyatana shrine; 30 on the varṣadhara boundary-mountains (6 + 12 + 12); and 20 on the four tusk-shaped Gajadanta spurs that flank Meru in each of the five Mahāvidehas. The counting is not yet finished — the very next verse continues it (10 on the kuru-trees, 80 in their encircling forests, 80 on the Vakṣaskāra mountains, 85 on the five Merus), building toward the traditional middle-world total of 3,259 eternal shrines. The poet's art here is restraint: a single verb, vande, holds a vast inventory together, so that one breath of recitation reverences hundreds of shrines no pilgrim could ever physically reach.",
+    "doctrinalContext": "The key term is sāsaya (śāśvata). Unlike the earthly temples celebrated later in the hymn, these caityas are beginningless, endless and uncreated — they were never founded and will never be destroyed, and they house the eternally recurring Jinas of fixed name (Ṛṣabha, Candrānana, Vārisheṇa, Vardhamāna). Their mere existence is a doctrinal statement: Jina-veneration is not a human invention bound to one time-cycle but a permanent feature of the cosmos itself, present on the structural mountains of every continent regardless of any Tīrthaṅkara's presence. By bowing to them the lay reciter performs bhāva-pūjā (mental worship) toward shrines forever beyond bodily reach, affirming that right reverence is co-extensive with the loka.",
+    "practicalRelevance": "Recited in the Pakkhī (and, unchanged, the Cāumāsī and Sāṁvatsarī) pratikramaṇa, this verse lets a worshipper standing in the prayer-hall make a complete caitya-vandana to shrines on mountains they can never visit — a pure act of bhāva-devotion needing no material offering. Dwelling on the precise numbers also steadies the mind, turning a confession-ritual into an expansive meditation on how far reverence reaches.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-saṅgrahaṇī / Kṣetrasamāsa — enumeration of the 3,259 śāśvata caityas of the middle world",
+        "source": "Śvetāmbara cosmographic prakaraṇa tradition"
+      },
+      {
+        "text": "Jambūdvīpa-prajñapti & Triṣaṣṭiśalākāpuruṣacaritra 1.3 — Vaitāḍhya/Vijayārdha and its siddhāyatana-kūṭa",
+        "source": "Hemacandra, trans. Helen M. Johnson (GOS)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.24 — continuation of the same count (kuru-trees, forests, Vakṣaskāra, Meru) and v.33 (the four eternal Jinas)",
+        "source": "Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vaitāḍhya: 6 definitions (Jaina Iconography; Triṣaṣṭiśalākāpuruṣacaritra) — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/vaitadhya",
+      "type": "dictionary",
+      "consultedFor": "Identifying વેયક્ક / veyaḍḍha as Vaitāḍhya (Vijayārdha) and confirming its siddhāyatana-kūṭa bears śāśvata Jina shrines"
+    },
+    {
+      "title": "Graiveyaka: 15 definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/graiveyaka",
+      "type": "scholarship",
+      "consultedFor": "Ruling out a 'graiveyaka' reading — graiveyaka is an ūrdhva-loka heaven with 318 vimanas, inconsistent with this verse's middle-world mountains and the figure 170"
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Hemacandra), trans. Helen M. Johnson — archive.org",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "Vaitāḍhya cosmography (dimensions, peaks, Vidyādhara cities) and śāśvata-shrine context"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (vaitāḍhya, varṣadhara) — Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying veyakka (vaitāḍhya), vāsahara (varṣadhara) and gayadanta (gajadanta)"
+    },
+    {
+      "title": "\"New and Rare Words\" Collected by Helen M. Johnson from Hemacandra's Triṣaṣṭiśalākāpuruṣacaritra",
+      "url": "https://www.academia.edu/72479690/_New_and_Rare_Words_Collected_by_Helen_M_Johnson_from_Hemacandra_s_Tri%E1%B9%A3a%E1%B9%A3%E1%B9%ADi%C5%9Bal%C4%81k%C4%81puru%E1%B9%A3acaritra",
+      "type": "dictionary",
+      "consultedFor": "Glossing rare Prakrit/Sanskrit cosmographic vocabulary in the verse"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Orthography: the book's વેયક્ક (veyakka) is a Prakrit/Apabhraṁśa form of veyaḍḍha = Skt vaitāḍhya (= Vijayārdha); preserved verbatim, not normalised. Identification as Vaitāḍhya (not graiveyaka, an ūrdhva-loka heaven) is fixed by three independent checks: (1) the figure 170 exactly equals the dīrgha-vaitāḍhya count of the 2.5 continents (160 Mahāvideha vijayas + 10 Bharata/Airāvata regions), whereas graiveyaka has 318 vimanas; (2) every neighbouring item is a middle-world mountain — varṣadhara (30), gajadanta (20), and in v.24 the kuru-trees, Vakṣaskāra (80) and Merus; (3) the running figures are the standard components of the 3,259 śāśvata caityas of the madhya-loka. The counts 30 (varṣadhara) and 20 (gajadanta) match this enumeration exactly. A casual web gloss equating 'veyakka' with graiveyaka and 170 with a graiveyaka shrine-count was checked and rejected as context-inconsistent. Exact regional sub-totals can vary slightly between cosmographic recensions, but the three figures in this verse are stable across editions."
+}

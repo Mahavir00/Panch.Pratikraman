@@ -1,0 +1,154 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever shields his body with the sacred syllables 'kṣipa oṃ svāhā' and then meditates on this inner essence gains mastery over every kind of good fortune.",
+  "recitation": "kṣipa oṃ svāheti varṇaiḥ, kṛta-pañcāṅga-rakṣaṇaḥ; yo'bhidhyāyed idaṃ tattvaṃ, vaśyās tasyākhila-śriyaḥ.",
+  "wordByWord": [
+    {
+      "token": "ક્ષિપ",
+      "translit": "kṣipa",
+      "gloss": "'kṣipa' — a seed-syllable (bīja) of the mantra, preserved verbatim as power-sound (literally an imperative 'cast/hurl', here functioning as mantric phoneme, not ordinary speech)",
+      "partOfSpeech": "invocation",
+      "etymology": "from the root kṣip 'to throw, cast, propel'; used here as a bīja, not as a translatable verb",
+      "notes": "First element of the bīja-string 'kṣipa oṃ svāhā'; per the source's policy bīja-syllables are kept untranslated."
+    },
+    {
+      "token": "ૐ",
+      "translit": "oṃ",
+      "gloss": "'oṃ' — the praṇava seed-syllable, the universal sacred sound",
+      "partOfSpeech": "invocation",
+      "etymology": "praṇava oṃ; pan-Indic mantric monosyllable",
+      "notes": "Second element of the bīja-string; preserved verbatim."
+    },
+    {
+      "token": "સ્વાહેતિ",
+      "translit": "svāheti",
+      "gloss": "'svāhā' — the ritual exclamation that seals/offers the mantra ('hail! / so be it'); + iti ('thus', closing the quotation)",
+      "partOfSpeech": "invocation",
+      "etymology": "sandhi of svāhā (Vedic oblation-cry, su 'well' + √āh) + iti (quotative particle); svāhā + iti → svāheti",
+      "notes": "Third bīja element. iti marks the end of the quoted formula, i.e. 'the syllables [that run] kṣipa oṃ svāhā'."
+    },
+    {
+      "token": "વર્ણૈઃ",
+      "translit": "varṇaiḥ",
+      "gloss": "by the syllables / letters (of that formula)",
+      "partOfSpeech": "noun",
+      "etymology": "varṇa 'letter, phoneme, syllable', instrumental plural varṇaiḥ; from √vṛ",
+      "notes": "Signals that the protection is enacted through phonemes laid on the body, not gesture alone."
+    },
+    {
+      "token": "કૃત",
+      "translit": "kṛta",
+      "gloss": "(having been) made / done / performed",
+      "partOfSpeech": "adj",
+      "etymology": "past passive participle of √kṛ 'to do, make'; first member of the bahuvrīhi compound",
+      "notes": "Heads the compound kṛta-pañcāṅga-rakṣaṇaḥ describing the meditator."
+    },
+    {
+      "token": "પંચાંગ",
+      "translit": "pañcāṅga",
+      "gloss": "five-limbed (the five-fold protective placement, pañcāṅga-nyāsa)",
+      "partOfSpeech": "compound",
+      "etymology": "pañca 'five' + aṅga 'limb'; defined in the preface glossary",
+      "notes": "The fivefold nyāsa of mantra-syllables on body-points; preface term, used freely here."
+    },
+    {
+      "token": "રક્ષણઃ",
+      "translit": "rakṣaṇaḥ",
+      "gloss": "protection / guarding (here, completed by him)",
+      "partOfSpeech": "noun",
+      "etymology": "rakṣaṇa 'guarding', from √rakṣ 'to protect'; nominative singular agreeing with the (implied) meditator",
+      "notes": "kṛta-pañcāṅga-rakṣaṇaḥ is a bahuvrīhi: 'one by whom the five-limbed protection has been performed' — a precondition completed before the meditation."
+    },
+    {
+      "token": "યોઽભિધ્યાયેદિદં",
+      "translit": "yo'bhidhyāyed idaṃ",
+      "gloss": "he who should intently meditate upon this —",
+      "partOfSpeech": "pronoun",
+      "etymology": "sandhi cluster: yaḥ (relative pronoun 'he who') + abhidhyāyet (optative 3sg, abhi- 'intensely' + √dhyai 'to meditate') + idaṃ (neuter demonstrative 'this'); yaḥ + abhi → yo'bhi",
+      "notes": "Three words fused by sandhi. The optative abhidhyāyet frames the line as prescription; idaṃ ('this') points back to the tattva visualized in v.6."
+    },
+    {
+      "token": "તત્ત્વં",
+      "translit": "tattvaṃ",
+      "gloss": "the essence / reality (the meditative tattva held in the lotus)",
+      "partOfSpeech": "noun",
+      "etymology": "tat 'that' + -tva (abstract suffix) = 'that-ness, essence'; accusative singular, object of abhidhyāyet",
+      "notes": "Preface glossary term: here the coloured mantra-form meditated upon (vv.5–7), not the Jain nava-tattva of ontology."
+    },
+    {
+      "token": "વશ્યાસ્તસ્યા",
+      "translit": "vaśyās tasyā",
+      "gloss": "subject / obedient (vaśya) — to him (tasya) —",
+      "partOfSpeech": "adj",
+      "etymology": "sandhi: vaśyāḥ (nom. pl. of vaśya 'controllable, subdued', from √vaś 'to be in one's power') + tasya (genitive 'of/to him'); the printed -ā then carries into the next word by sandhi",
+      "notes": "vaśyāḥ agrees with śriyaḥ; tasya = the meditator. The book prints the sandhi as 'vaśyāstasyā khila', splitting akhila across tokens (see notes)."
+    },
+    {
+      "token": "ખિલ",
+      "translit": "khila",
+      "gloss": "(a)khila — entire, all, without remainder",
+      "partOfSpeech": "adj",
+      "etymology": "akhila 'whole, complete' (a- 'not' + khila 'gap/remainder'); the initial a- has merged into the preceding tasya by sandhi (tasya + akhila → tasyākhila)",
+      "notes": "Printed token reads 'ખિલ' because the book's sandhi attaches the a- to tasyā; the real word is akhila, qualifying śriyaḥ."
+    },
+    {
+      "token": "શ્રિયઃ",
+      "translit": "śriyaḥ",
+      "gloss": "the glories / fortunes / splendours / prosperities",
+      "partOfSpeech": "noun",
+      "etymology": "śrī 'splendour, fortune, prosperity, majesty', nominative plural śriyaḥ; from √śri",
+      "notes": "Plural and totalized by akhila — every form of auspicious power, not merely wealth. Subject of the verbless clause, with vaśyāḥ as predicate."
+    }
+  ],
+  "literalTranslation": "By the syllables 'kṣipa oṃ svāhā' having performed the five-limbed protection — he who should meditate upon this essence (tattva), to him all glories (become) subject.",
+  "idiomaticTranslation": "Having sealed his five limbs with the syllables 'kṣipa oṃ svāhā,' the one who meditates upon this essence finds every splendour and fortune bowing, obedient, before him.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse completes the meditation-manual triad by supplying the operative formula and the protective sealing, then declaring the fruit. Line 1 gives the very syllables — kṣipa oṃ svāhā — with which the practitioner performs the pañcāṅga-rakṣaṇa. The instrumental varṇaiḥ ('by the syllables') is pointed: the guarding is worked through phonemes laid on the body, each varṇa placed on a limb until the body becomes a fortified maṇḍala. The bahuvrīhi kṛta-pañcāṅga-rakṣaṇaḥ marks this as a precondition — 'one by whom the fivefold guarding has already been done' — accomplished before the meditation proper. Line 2 names the object of that meditation as idaṃ tattvaṃ, 'this essence': the demonstrative idaṃ binds the verse to the coloured tattva visualized on the eight-petalled lotus in v.6, so the two verses read as one continuous procedure. The optative abhidhyāyet (abhi- intensifying √dhyai) keeps the register prescriptive — 'whoever should meditate.' The closing clause states the phala: vaśyāḥ … akhila-śriyaḥ, 'all glories become subject (to him).' Śrī is deliberately plural and totalized by akhila — not wealth alone but every form of fortune, radiance and auspicious power. Tellingly, the verse never translates the bīja: kṣipa oṃ svāhā is efficacious as sound and is presented verbatim. The arc from v.6 to v.7 thus runs from what is visualized (the coloured tattva) to how it is sealed and what it yields (nyāsa-protection plus mastery of all fortune) — preparing v.8's principle that affliction binds a person only until this 'mantra-king' awakens, embodied, in the heart.",
+    "doctrinalContext": "The promised vaśya of 'all śrī' is laukika-phala (worldly attainment), characteristic of tantric stotra-literature, yet the verse keeps it tethered to inward dhyāna rather than external rite. In Jain mantra-śāstra the bīja's potency rests not on a deity granting boons but on the Tīrthaṅkara's name-power and the disciplined, purified consciousness of the meditator — so 'subjugation of all fortune' is best read as the natural radiance and command of a collected mind, not sorcery over others. The pañcāṅga-nyāsa echoes the wider Jain insistence that the three yogas (body, speech, mind) be jointly composed in any meditative act. 'Tattva' is used here in its meditative sense (the essence held in the lotus), not the nine tattvas of Jain ontology; worldly śrī is a by-product, while the hymn's true horizon (v.14) is siddhi.",
+    "practicalRelevance": "A reciter treats line 1 as instruction: settle the breath, mentally place the syllables on the five points so the body feels 'sealed' and protected, then hold the single meditative essence steadily without grasping. The verse quietly cautions against reciting for gain alone — the fortune follows a collected, purified mind; it does not follow the wish.",
+    "crossReferences": [
+      {
+        "text": "vv.5–6 of this same stava (navel-to-crown channel, eight-petalled lotus, the coloured tattva that 'idaṃ tattvaṃ' refers back to)",
+        "source": "Merutuṅgasūri, Śrī Jīrāpallī Pārśva Stava — Panch Pratikraman Sutra, Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "The stambhana formula 'stambhaya stambhaya svāhā' (v.4), the parallel bīja-string of this hymn",
+        "source": "Same edition, v.4"
+      },
+      {
+        "text": "pañcāṅga / aṅga-nyāsa as fivefold mantric placement on the body in stotra practice",
+        "source": "Wisdom Library, s.v. Pañcāṅga"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Svāhā — definitions (Sanskrit, Jainism, Mantraśāstra)",
+      "url": "https://www.wisdomlib.org/definition/svaha",
+      "type": "dictionary",
+      "consultedFor": "Sense of svāhā as the sealing/offering ritual exclamation and its use as a mantric terminator."
+    },
+    {
+      "title": "Vaśya — definitions (Sanskrit, Mantraśāstra, Yoga)",
+      "url": "https://www.wisdomlib.org/definition/vashya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vaśya as 'controllable, brought under one's power / subjugated', and its tantric phala-context."
+    },
+    {
+      "title": "Pañcāṅga — definitions (Sanskrit, Jainism, Buddhism)",
+      "url": "https://www.wisdomlib.org/definition/pancanga",
+      "type": "dictionary",
+      "consultedFor": "Meaning of pañcāṅga ('five-limbed') and the fivefold nyāsa placement underlying pañcāṅga-rakṣaṇa."
+    },
+    {
+      "title": "Parshvanatha (23rd Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the deity addressed and the mantra-stotra tradition surrounding Pārśva."
+    }
+  ],
+  "translatorConfidence": 0.79,
+  "notes": "The Sanskrit is grammatically clear: yaḥ … abhidhyāyet idaṃ tattvaṃ | vaśyāḥ tasya akhila-śriyaḥ. The book prints the sandhi of tasya + akhila as the token split 'વશ્યાસ્તસ્યા ખિલ' (vaśyāstasyā khila), so the apparent token 'ખિલ' is actually -khila of akhila with its initial a- merged into tasyā — kept as printed per the source's verbatim-fidelity rule. The bīja-string kṣipa oṃ svāhā (vv.7) is mantra-text and is deliberately not translated, only transliterated, consistent with v.4's 'stambhaya stambhaya svāhā'. 'tattva' here is the meditative essence of v.6 (preface gloss), NOT the nava-tattva of Jain ontology; flagged to prevent doctrinal conflation. The exact bīja reading and the precise five points of the pañcāṅga placement are not spelled out in this verse and are not over-specified here. The vaśya-of-all-śrī promise is read as laukika-phala in the tantric-stotra register, not as literal control over other beings."
+}

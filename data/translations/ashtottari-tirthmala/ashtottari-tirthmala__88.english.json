@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/88",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the second, ancient shrine I bow to Lord Candraprabha, and in the third — the Kumāra-vihāra temple — I bow to Śrī Pārśva, who fulfils the longings of all who bow to him.",
+  "recitation": "taha cirabhavaṇo bīe, vande candappahaṁ tao taïe | paṇāya jaṇa pūriāsaṁ, kumaravihārammi siripāsaṁ ||",
+  "wordByWord": [
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, in the same way, and so too",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Sanskrit tathā ('thus, so'); a continuative particle linking this entry to the salutations of the preceding verse.",
+      "notes": "Signals that the same act of homage continues from the previous tīrtha."
+    },
+    {
+      "token": "ચિરભવણો",
+      "translit": "cirabhavaṇo",
+      "gloss": "the ancient/long-standing shrine (lit. 'old abode')",
+      "partOfSpeech": "compound",
+      "etymology": "cira ('long-standing, ancient') + bhavaṇa (< Sanskrit bhavana, 'abode, mansion, temple'). The -o is the Prakrit masc. nominative ending used loosely in apposition to bīe.",
+      "notes": "Here characterises the 'second' shrine as the venerable, time-honoured one; bhavaṇa is the temple housing the Jina image."
+    },
+    {
+      "token": "બીએ",
+      "translit": "bīe",
+      "gloss": "in the second (shrine)",
+      "partOfSpeech": "adj",
+      "etymology": "Locative singular of Prakrit bīa < Sanskrit dvitīya ('second'); locative case marks the place of worship.",
+      "notes": "Ordinal counting of shrines on the same sacred hill — paired with taïe ('in the third') below."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I salute, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "First-person singular present of √vand ('to praise, salute'); identical in Prakrit and Sanskrit. The hymn's core verb of homage.",
+      "notes": "Governs both Candraprabha here and (by carry-over) Śrī Pārśva in the second half."
+    },
+    {
+      "token": "ચંદપ્પહં",
+      "translit": "candappahaṁ",
+      "gloss": "Candraprabha (the eighth Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of Prakrit candappaha < Sanskrit Candraprabha ('moon-radiance'): candra ('moon') + prabhā ('lustre'). Doubled -pp- is regular Prakrit assimilation of -dr-/-pr-.",
+      "notes": "Object of vande; the eighth Jina, iconographically white/moon-coloured with the crescent-moon emblem."
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "then, thereafter, next",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tao < Sanskrit tataḥ ('from that, then'); a sequencing adverb moving the recitation onward.",
+      "notes": "Marks the step from the second shrine to the third."
+    },
+    {
+      "token": "તઇએ",
+      "translit": "taïe",
+      "gloss": "in the third (shrine)",
+      "partOfSpeech": "adj",
+      "etymology": "Locative singular of Prakrit taïa < Sanskrit tṛtīya ('third').",
+      "notes": "Parallel to bīe; confirms the verse counts successive shrines at one site."
+    },
+    {
+      "token": "પણાય",
+      "translit": "paṇāya",
+      "gloss": "of those who bow / who pay homage (the reverent)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇaya < Sanskrit praṇata ('bowed down, humbly saluting'), from pra-√nam ('to bow'). Qualifies jaṇa.",
+      "notes": "Forms the phrase paṇāya-jaṇa, 'the people who bow', i.e. the devotees."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk, devotees",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇa < Sanskrit jana ('person, people'). In genitive force here with paṇāya, 'of the bowing folk'.",
+      "notes": "paṇāya jaṇa together = 'the devotees who prostrate'; their hopes are the āśā fulfilled below."
+    },
+    {
+      "token": "પૂરિઆસં",
+      "translit": "pūriāsaṁ",
+      "gloss": "fulfiller of [their] hopes; whose desires are made full",
+      "partOfSpeech": "compound",
+      "etymology": "pūria (< Sanskrit pūrita, 'filled, fulfilled', from √pṝ) + āsa (< Sanskrit āśā, 'hope, longing'); a bahuvrīhi in the accusative agreeing with siripāsaṁ — 'him by whom the hopes (of the bowing folk) are fulfilled'.",
+      "notes": "An epithet of Pārśva, casting the shrine as wish-granting for sincere worshippers."
+    },
+    {
+      "token": "કુમરવિહારમ્મિ",
+      "translit": "kumaravihārammi",
+      "gloss": "in the Kumāra-vihāra (temple)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular (Prakrit -mmi < Sanskrit -smin) of kumara-vihāra: kumara (the royal name/title Kumāra, i.e. Kumārapāla) + vihāra ('temple, monastic shrine'). 'The temple [founded by/named] Kumāra'.",
+      "notes": "'Kumāravihāra' is the standard name of Jina temples patronised by the Caulukya king Kumārapāla; this one enshrines Pārśva."
+    },
+    {
+      "token": "સિરિપાસં",
+      "translit": "siripāsaṁ",
+      "gloss": "Śrī Pārśva(nātha), the venerable 23rd Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of siri-pāsa: siri (< Sanskrit śrī, honorific 'venerable, glorious') + pāsa (< Sanskrit Pārśva). The honorific śrī is fused to the name.",
+      "notes": "Second object of vande, located in the Kumāra-vihāra; the hymn's recurring Pārśva-devotion."
+    }
+  ],
+  "literalTranslation": "Likewise, in the second — the ancient shrine — I bow to Candraprabha; then in the third, [I bow to] Śrī Pārśva in the Kumāra-vihāra, the fulfiller of the hopes of the people who bow.",
+  "idiomaticTranslation": "And so, in the second shrine — the venerable old temple — I bow before Lord Candraprabha; then in the third, the Kumāra-vihāra, I bow to glorious Pārśvanātha, who makes full the longings of every devotee who bends low before him.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single gāthā gathers two shrines into one breath of homage, continuing the poet's walk across a sacred site begun in the previous verse. The ordinals are the hinge: bīe ('in the second') and taïe ('in the third') tell us the worshipper is moving shrine-to-shrine on one hill or in one town, not jumping between distant tīrthas — a rhythm that lets the hymn pack several Jinas into a compact stanza. The 'second' shrine is singled out as cira-bhavaṇa, the ancient one, lending it the authority of age; there the reciter bows to Candraprabha, the eighth, white-hued Jina. The 'third' is named outright — the Kumāra-vihāra — a temple of the type endowed by the Caulukya king Kumārapāla, and it houses Śrī Pārśva. The verse's devotional heart is the epithet pūriāsaṁ: Pārśva is 'the fulfiller of the hopes of those who bow' (paṇāya-jaṇa). Note how the grammar enacts the teaching — only the paṇāya jaṇa, the ones who actually prostrate, have their āśā made full; the boon follows the bowing. A single vande does double duty across the line, so the two salutations read as one continuous gesture, true to the garland-stringing technique of the whole stavan.",
+    "doctrinalContext": "The verse rests on bhakti as the operative cause of grace: it is the act of bowing (praṇāma) that draws the fruit, expressed in the compound pūrita-āśa. In Jain terms the Jina is vītarāga — passionless, granting no favours by will — so 'fulfilment of hopes' is understood as the meritorious result (puṇya) and inner purification arising in the devotee's own stream from sincere veneration, not as a deity's intervention. Pairing an ancient shrine (cira-bhavaṇa) with a royally founded one (Kumāra-vihāra) also quietly affirms two strands of tīrtha-sanctity honoured throughout the hymn: time-hallowed holiness and the merit of temple-building (jina-bhavana-kāraṇa) by lay patrons.",
+    "practicalRelevance": "For today's reciter the verse models attentive, place-by-place devotion: rather than a vague gesture, one bows deliberately at 'the second… then the third', honouring each Jina in turn. Its lesson is that the fruit of worship tracks the sincerity of one's bowing — approach each image as a paṇāya jaṇa, with the body and heart actually bent low, and let the longing one brings be reshaped, through Pārśva's example, into the longing for liberation.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — salutation of the 24 Tīrthaṅkaras including Candappaha (Candraprabha) and Pāsa (Pārśva)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra — Pārśva as the remover of afflictions and fulfiller of devotees' aims",
+        "source": "Nava Smaraṇa, Smaraṇa 4 (same edition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://jainqq.org/explore/010074/1",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms and senses of taha, cira, bhavaṇa, bīa/taïa (ordinals), paṇaya, jaṇa, pūria, āsa, vihāra and the locative -mmi ending"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma Candraprabha, Pārśva, praṇata, pūrita, āśā, bhavana, tṛtīya, dvitīya"
+    },
+    {
+      "title": "Chandraprabha (eighth Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "type": "scholarship",
+      "consultedFor": "Identity and iconography of Candraprabha, the 8th Jina named in the verse"
+    },
+    {
+      "title": "Kumarapala (Chaulukya dynasty)",
+      "url": "https://en.wikipedia.org/wiki/Kumarapala_(Chaulukya_dynasty)",
+      "type": "scholarship",
+      "consultedFor": "The Kumāravihāra temple-foundations associated with King Kumārapāla, context for kumaravihārammi"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Word glosses are secure. The structural reading is that bīe ('second') and taïe ('third') count successive shrines at a single site whose name carries over from the preceding verse (the Suvarṇagiri/Sonāgiri context of v.87, traditionally Jābālipura/Jalor, a known location of a Kumārapāla Kumāravihāra); this site-identification is probable but not fixed by a colophon and other editions may read it differently. cira-bhavaṇo stands in loose apposition to bīe ('the second [shrine], the ancient temple'); an alternative parsing takes cira-bhavaṇa as a near-proper designation of that shrine. pūriāsaṁ is read as a bahuvrīhi epithet of siripāsaṁ ('fulfiller of the bowing folk's hopes'); the genitive force of paṇāya jaṇa is contextual rather than marked. Orthography is preserved verbatim per the source book; mātrās/anusvāras follow the printed Gujarati text."
+}

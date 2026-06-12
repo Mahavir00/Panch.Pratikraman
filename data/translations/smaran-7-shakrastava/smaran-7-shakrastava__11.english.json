@@ -1,0 +1,176 @@
+{
+  "shlokaId": "smaran-7-shakrastava/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to every liberated soul there has ever been, every one there will ever be, and every one who is liberated right now.",
+  "recitation": "Je a aïā siddhā, je a bhavissanti ṇāgae kāle; saṁpaiya vaṭṭamāṇā, savve tivihena vandāmi.",
+  "wordByWord": [
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "those who, they who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun je, masc. nom. pl., from Sanskrit ye.",
+      "notes": "Opens the first of two parallel relative clauses; resumed by savve ('all') in the second line."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit connective a, reduced form of Sanskrit ca.",
+      "notes": "Enclitic 'and'; here lightly links the relative clause, idiomatically 'they who'."
+    },
+    {
+      "token": "અઇઆ",
+      "translit": "aïā",
+      "gloss": "(in the) past, gone by, former",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aïa from Sanskrit atīta ('gone past'), past participle of ati-√i; here masc. nom. pl. agreeing with siddhā.",
+      "notes": "Marks the first of the three times — the Siddhas of the past."
+    },
+    {
+      "token": "સિદ્ધા",
+      "translit": "siddhā",
+      "gloss": "the Siddhas (the fully liberated, perfected souls)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siddha from Sanskrit siddha ('accomplished, perfected'), pp. of √sidh; nom. pl. siddhāḥ.",
+      "notes": "Unlike the Arihantas praised through the body of this sūtra, the Siddha is the bodiless, formless liberated soul — the second of the five Parameṣṭhins."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "and those who",
+      "partOfSpeech": "pronoun",
+      "etymology": "Repetition of the relative je (Sanskrit ye), opening the second clause.",
+      "notes": "Anaphora — the repeated je...je... binds past and future into one sweep."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a = Sanskrit ca.",
+      "notes": "Connective, as above."
+    },
+    {
+      "token": "ભવિસ્સંતિ",
+      "translit": "bhavissanti",
+      "gloss": "will come to be, will become (liberated)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit bhavissanti, 3rd pers. pl. future of √bhū ('to be'); Sanskrit bhaviṣyanti.",
+      "notes": "Future-tense finite verb governing the future-Siddhas clause."
+    },
+    {
+      "token": "ણાગએ",
+      "translit": "ṇāgae",
+      "gloss": "in the future, in the time yet-to-come",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ṇāgaa (initial ṇ- for an-) from Sanskrit anāgata ('not yet come'), an- + āgata; loc. sg. anāgate.",
+      "notes": "The Prakrit drops the privative vowel and nasalizes; agrees with kāle as a time-locative."
+    },
+    {
+      "token": "કાલે",
+      "translit": "kāle",
+      "gloss": "in (that) time",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāla from Sanskrit kāla ('time'); loc. sg. kāle.",
+      "notes": "ṇāgae kāle = 'in time to come' — fixes the second of the three times."
+    },
+    {
+      "token": "સંપઇય",
+      "translit": "saṁpaiya",
+      "gloss": "at present, now",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit saṁpaï/saṁpaiya from Sanskrit sāmprata ('present, current, now').",
+      "notes": "Introduces the third time, the present."
+    },
+    {
+      "token": "વટ્ટમાણા",
+      "translit": "vaṭṭamāṇā",
+      "gloss": "(those) presently existing, the ones who are now",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vaṭṭamāṇa, present participle of √vaṭṭ (Sanskrit √vṛt, 'to turn, to exist'); Sanskrit vartamāna ('present'); nom. pl.",
+      "notes": "Same root that yields the grammatical term vartamāna, 'present tense' — here 'the Siddhas now existing'."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all (of them), every one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit savva from Sanskrit sarva ('all'); masc. nom./acc. pl. savve.",
+      "notes": "Gathers the three relative clauses into a single object of the bow."
+    },
+    {
+      "token": "તિવિહેણ",
+      "translit": "tivihena",
+      "gloss": "by the threefold means (with mind, speech, and body)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit ti + viha ('three' + 'kind'), instr. sg., from Sanskrit trividhena.",
+      "notes": "Preface-glossary term; used here to qualify the wholeness of the salute."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I salute, I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vandāmi, 1st pers. sg. present of √vand ('to praise, salute'); identical to Sanskrit vandāmi / vande.",
+      "notes": "The single first-person verb on which the whole verse turns — the reciter's own act of homage."
+    }
+  ],
+  "literalTranslation": "Those who, in the past, became Siddhas, and those who will come to be in the time yet-to-come, and those now existing at present — all of them, by the threefold means, I salute.",
+  "idiomaticTranslation": "To all the perfected souls who attained liberation in ages past, to all who will attain it in the time to come, and to all who stand liberated in this very present — to every one of them I bow with mind, speech, and body.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the heart of this sūtra exalts the Arihanta — the living, teaching, embodied awakened one — the closing gāthā lifts the gaze to the Siddha: the soul that has shed even the body and dwells in pure liberation. The verse is built on a triple anaphora of je ('those who') answered by a single savve ('all'): the reciter casts a net across the whole of time — aïā (past), ṇāgae kāle (the time to come), and saṁpaiya vaṭṭamāṇā (the present) — and draws every liberated soul into one act of reverence. The grammar enacts the doctrine: three tenses (a past participle, a future verb, a present participle) name three times, yet all collapse into one timeless 'I salute.' Note the verb shift — bhavissanti, 'they will come to be,' quietly affirms that the ranks of the liberated are never closed; liberation remained open before the reciter and remains open after. The closing tivihena vandāmi is the verse's pivot from object to subject: having named the venerated, the reciter names the act — a bow offered not by the lips alone but unified across mana, vacana, and kāya (mind, speech, body), the three channels through which a soul can act at all. To bow 'threefold' is to leave no faculty unenlisted in the homage.",
+    "doctrinalContext": "The verse rests on the Jain teaching that the Siddhas are anantā (infinite) and beyond time: liberation, once attained, is irreversible and eternal, so a Siddha of the past is no less present to reverence than one liberated today. Hence the bow is offered identically across all three times — devotion is not bound by chronology because its object is not. The triad mana-vacana-kāya (the threefold yoga) is the standard Jain analysis of all action; performing the salute 'by the three' makes it complete karaṇa, engaging the whole person rather than a partial, merely verbal gesture. The verse also widens the homage from the Arihanta (with form, saguṇa, still teaching) to the Siddha (formless, the goal itself), so that the recitation honours both the path-shower and the destination.",
+    "practicalRelevance": "At this point the reciter consciously gathers mind, speech, and body into a single bow: steadying the attention, voicing the words, and aligning the posture, so the salute is whole rather than mechanical. Remembering that the liberated span all three times turns the verse into aspiration — the reciter bows not only in homage but in the hope of one day joining that timeless company.",
+    "crossReferences": [
+      {
+        "text": "Navkāra-mantra, 'namo siddhāṇaṁ' — the salutation to the Siddhas as the second of the five Parameṣṭhins",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namutthuṇaṁ (Śakra-stava) embedded in the Aupapātika (Uvavāiya) and Bhagavatī sūtras, of which this is the standard closing caityavandana gāthā",
+        "source": "Śvetāmbara Ardhamāgadhī canon"
+      },
+      {
+        "text": "Tassa Uttari / Iriyāvahiyaṁ formula 'tivihena', the threefold (mind-speech-body) framing of ritual acts",
+        "source": "Ṣaḍ-āvaśyaka liturgy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdom Library — 'Siddha' (Jainism / Prakrit senses: the perfected, liberated soul)",
+      "url": "https://www.wisdomlib.org/definition/siddha",
+      "type": "dictionary",
+      "consultedFor": "Gloss and Prakrit/Jain sense of siddha as the liberated, perfected soul."
+    },
+    {
+      "title": "Wisdom Library — 'Atita' (Sanskrit atīta, 'gone past')",
+      "url": "https://www.wisdomlib.org/definition/atita",
+      "type": "dictionary",
+      "consultedFor": "Etymology of aïā (< atīta) as the past time-marker."
+    },
+    {
+      "title": "Wisdom Library — 'Anagata' (Sanskrit anāgata, 'future / not yet come')",
+      "url": "https://www.wisdomlib.org/definition/anagata",
+      "type": "dictionary",
+      "consultedFor": "Etymology of ṇāgae (< anāgata) and the past/present/future (atīta/vartamāna/anāgata) time-triad."
+    },
+    {
+      "title": "Wisdom Library — 'Vartamana' (Sanskrit vartamāna, present participle of √vṛt, 'present')",
+      "url": "https://www.wisdomlib.org/definition/vartamana",
+      "type": "dictionary",
+      "consultedFor": "Etymology of vaṭṭamāṇā (< vartamāna) as the present-time participle."
+    },
+    {
+      "title": "Wisdom Library — 'Vandami' (vand- + -ami, 'I salute / I bow')",
+      "url": "https://www.wisdomlib.org/definition/vandami",
+      "type": "dictionary",
+      "consultedFor": "Verb form and meaning of vandāmi as the first-person act of homage."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Tokenisation preserves the book's spacing verbatim ('જે અ ... ણાગએ કાલે'). The particle 'અ' (a = Sanskrit ca) is read as the connective 'and'; some editions write it joined ('જેઅ'). 'ણાગએ કાલે' is loc. sg. ('in the time to come'); the privative an- surfaces only as the nasal ṇ- in the Prakrit, a regular Ardhamāgadhī feature. 'સંપઇય' (saṁpaiya, < sāmprata) is taken adverbially with the participle vaṭṭamāṇā ('presently existing'); both glosses converge on 'the present-time Siddhas.' The three-times schema (aïā / vaṭṭamāṇā / ṇāgae) and the threefold means (tivihena = mind-speech-body) are secure; no significant variant reading affects the sense. This is the standard closing caityavandana gāthā and is widely attested; meaning is not in doubt."
+}

@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/64",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The great monk Vajrasvāmī and his companions climbed a mountain, where the youngest among them first completed his holy fast-unto-death, and then the four guardian gods of the world arrived to honour it.",
+  "recitation": "siri vayarasāmi paḍhamā, ruhie selaṁmi tesiṁ khuḍeṇa | paḍhamaṁ kaya-m-ārāhaṇa logapālā tao cauro.",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "venerable, glorious (honorific 'Śrī')",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit siri < Sanskrit śrī ('splendour, auspiciousness'); a prefixed title of reverence.",
+      "notes": "Honorific attached to the ascetic's name, not a separate epithet of doctrine."
+    },
+    {
+      "token": "વયરસામિ",
+      "translit": "vayarasāmi",
+      "gloss": "Vajrasvāmī (the ācārya 'Lord Vajra')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vayara (< Sanskrit vajra, 'thunderbolt/diamond') + sāmi (< svāmin, 'lord, master').",
+      "notes": "The famed Purvadhara child-ascetic; the hill of his death-rite is the Rathāvarta tīrtha celebrated here."
+    },
+    {
+      "token": "પઢમા",
+      "translit": "paḍhamā",
+      "gloss": "the foremost, first (in eminence)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍhama < Sanskrit prathama ('first').",
+      "notes": "Qualifies Vajrasvāmī as pre-eminent among ascetics; distinct in sense from the adverbial paḍhamaṁ below."
+    },
+    {
+      "token": "રુહિએ",
+      "translit": "ruhie",
+      "gloss": "(on the mountain) that was ascended / climbed",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle of Prakrit ruh < Sanskrit √ruh ('to rise, ascend, mount'); locative agreeing with selaṁmi.",
+      "notes": "Locative absolute-like phrasing: 'on the climbed mountain'."
+    },
+    {
+      "token": "સેલંમિ",
+      "translit": "selaṁmi",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sela < Sanskrit śaila ('rock, mountain') + locative ending -ṁmi.",
+      "notes": "The unnamed peak whose name the next verse derives as Rathāvarta."
+    },
+    {
+      "token": "તેસિં",
+      "translit": "tesiṁ",
+      "gloss": "of them / among them (the company of monks)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive plural of ta- < Sanskrit teṣāṁ ('of them').",
+      "notes": "Reads with khuḍeṇa: 'the youngest among them'."
+    },
+    {
+      "token": "ખુડેણ",
+      "translit": "khuḍeṇa",
+      "gloss": "by the young/junior one (the boy-monk)",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of Prakrit khuḍḍa (< Sanskrit kṣudra/kṣullaka, 'small, junior'); here the youngest disciple.",
+      "notes": "The same figure is the khuḍḍa whose 'celebration' (mahimā) the following verse describes."
+    },
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "first, firstly (before the others)",
+      "partOfSpeech": "adverb",
+      "etymology": "Adverbial accusative of paḍhama < Sanskrit prathamaṁ ('firstly').",
+      "notes": "Marks sequence: the junior monk completed his rite before Vajrasvāmī did."
+    },
+    {
+      "token": "કયમારાહણ",
+      "translit": "kaya-m-ārāhaṇa",
+      "gloss": "the ārādhanā (holy death-observance) was accomplished",
+      "partOfSpeech": "compound",
+      "etymology": "kaya (< kṛta, 'done') + euphonic -m- + ārāhaṇa (< ārādhanā, 'devout fulfilment'); here the meritorious anaśana/sallekhanā.",
+      "notes": "ārādhanā denotes the perfected fast-unto-death crowning a life of conduct."
+    },
+    {
+      "token": "લોગપાલા",
+      "translit": "logapālā",
+      "gloss": "the Lokapālas (guardian deities of the world-quarters)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit logapāla < Sanskrit loka-pāla ('world-protector'); nominative plural.",
+      "notes": "Their act of homage is completed in the next verse (chariots, pradakṣiṇā)."
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "then, thereafter",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tao < Sanskrit tataḥ ('then, from that').",
+      "notes": "Sequencing adverb linking the death-rite to the divine homage."
+    },
+    {
+      "token": "ચઉરો",
+      "translit": "cauro",
+      "gloss": "four",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cau(ro) < Sanskrit catur ('four').",
+      "notes": "The four directional Lokapālas; the count is completed by the verb in v.65."
+    }
+  ],
+  "literalTranslation": "Glorious Vajrasvāmī, the foremost — on the mountain ascended by them, by the youngest among them the ārādhanā (holy death-rite) was first accomplished; then the four Lokapālas [came].",
+  "idiomaticTranslation": "The illustrious Vajrasvāmī, foremost of ascetics, climbed the mountain with his company; and there it was the youngest among them who first perfected the holy fast-unto-death — whereupon the four guardian gods of the quarters drew near to honour it.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the Rathāvarta episode (vv.64–66) and is built on a single, pointed irony. Vajrasvāmī — saluted as paḍhamā, 'the foremost' — leads the assembly up the hill; yet the verse hands the spiritual victory not to the master but to the khuḍḍa, 'the youngest among them' (tesiṁ khuḍeṇa), who paḍhamaṁ kaya-m-ārāhaṇa — 'first accomplished the ārādhanā', the meritorious death by anaśana. The two near-identical words paḍhamā / paḍhamaṁ are deliberately played against each other: the one foremost in rank is not the one who finishes first in liberation. The legend behind the line is that a junior monk followed Vajrasvāmī to the death-mountain and completed the holy fast before him, and that the four Lokapālas, recognising the feat, descended in homage. The verse stops mid-gesture at logapālā tao cauro ('then the four Lokapālas…'), the syntax left open so that the next verse can supply their act — mounting chariots and circling the spot in pradakṣiṇā — which gives the tīrtha its name, Rathāvarta ('chariot-turning'). Thus v.64 sets up the etymological pay-off of v.66 rather than naming the tīrtha outright. Note how compactly the gāthā works: a name, a place, an act, and the arrival of the gods, with the actual marvel deferred.",
+    "doctrinalContext": "The verse centres on ārādhanā — the culminating sallekhanā/anaśana in which a practitioner, with full awareness, withdraws from food and finally from the body itself, perfecting equanimity at death. Its theological force here is that such fulfilment is a matter of inner readiness, not seniority: a child-monk attains it 'first', ahead of a celebrated Purvadhara. This dramatises the Jain conviction that liberation answers to purity of conduct and detachment alone. The descent of the four Lokapālas illustrates a recurring motif — that devas honour, but do not bestow, an ascetic's spiritual attainment; the holy death generates its own glory, to which even the world-guardians respond.",
+    "practicalRelevance": "For the reciter the verse is a quiet rebuke to spiritual self-importance: standing is no guarantee of readiness, and the humblest practitioner may be furthest along. Bowing to this tīrtha, one honours a death met with composure and is invited to cultivate that same unattached steadiness in small daily 'lettings-go', long before any final one.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.65–66 (the Rathāvarta naming that completes this sentence)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Vajrasvāmī-carita (life of the Purvadhara child-ascetic, famine-rescue and death-rite)",
+        "source": "Vajraswami Charitam (traditional hagiography)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Glory of Jainism: Shri Vajraswami",
+      "url": "https://www.herenow4u.net/index.php?id=88778",
+      "type": "scholarship",
+      "consultedFor": "Vajrasvāmī's life as child prodigy, his vidyās and famine-rescue, and his concluding sallekhanā"
+    },
+    {
+      "title": "Vajraswami Charitam — Book Summary, JainGPT",
+      "url": "https://jaingpt.org/knowledge/vajraswami_charitam_023181_023181",
+      "type": "scholarship",
+      "consultedFor": "Hagiographic outline of Vajrasvāmī's life and final death-observance"
+    },
+    {
+      "title": "Aacharya Shri Vajra Swami (story)",
+      "url": "https://jainsite.com/jainism_post/vajra-swami-story/",
+      "type": "commentary",
+      "consultedFor": "Narrative of Vajrasvāmī's renunciation, miracles and ascetic end"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams, etc.)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: vajra, svāmin, prathama, √ruh, śaila, kṣudra, ārādhanā, loka-pāla, tataḥ, catur"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse text is clear and matches the Rathāvarta legend that the two following verses complete; the tīrtha is named only in v.66, so this gāthā is syntactically open ('then the four Lokapālas…'). The main interpretive choice is reading tesiṁ khuḍeṇa as 'by the youngest among them' (the junior disciple who completes the rite first), which best fits the paḍhamaṁ ('first') marker and the genitive khuḍḍasa ('of the boy') in v.65; an alternative would attach tesiṁ ('of them') to the mountain ('their mountain'). The identity and exact circumstances of the boy-monk vary across hagiographic editions and are not fixed by the book itself. Following the book's orthography, readings are preserved verbatim (e.g. ખુડેણ, કયમારાહણ) without normalisation."
+}

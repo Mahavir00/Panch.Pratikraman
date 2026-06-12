@@ -1,0 +1,144 @@
+{
+  "shlokaId": "mannaha-jinanam-sajjhay/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Obey the Jinas' command, give up wrong belief, hold firmly to right faith, and be diligent every single day in the six essential duties.",
+  "recitation": "mannaha jiṇāṇaṁ āṇaṁ, micchaṁ pariharaha dharaha sammattaṁ | chavviha āvassayammi, ujjutto hoi païdivasaṁ ||",
+  "wordByWord": [
+    {
+      "token": "મન્નહ",
+      "translit": "mannaha",
+      "gloss": "heed / accept / honor (you all, imperative)",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt. root man- ('to think, regard, hold in mind'); Prakrit 2nd-person plural imperative manyadhvam → mannaha.",
+      "notes": "The verb governs āṇaṁ in the next words: 'accept the command'. Plural imperative addresses the whole assembly of śrāvakas."
+    },
+    {
+      "token": "જિણાણં",
+      "translit": "jiṇāṇaṁ",
+      "gloss": "of the Jinas (genitive plural)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jinānām, genitive plural of jina ('victor, conqueror of passions'); Prakrit -āṇaṁ genitive plural ending.",
+      "notes": "Read in close sandhi with the following āṇaṁ ('the Jinas' command'); printed editions often write the joined form jiṇāṇamāṇaṁ."
+    },
+    {
+      "token": "આણં",
+      "translit": "āṇaṁ",
+      "gloss": "command, authoritative teaching (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ājñā → Prakrit āṇā; accusative singular āṇaṁ. The object of mannaha.",
+      "notes": "Already glossed in the preface as the Jina's command; here it is the grammatical object 'heed [the] command'."
+    },
+    {
+      "token": "મિચ્છં",
+      "translit": "micchaṁ",
+      "gloss": "false belief, delusion (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mithyātva / mithyā → Prakrit micchā; accusative micchaṁ. Object of pariharaha.",
+      "notes": "Preface term mithyātva; here the thing to be discarded."
+    },
+    {
+      "token": "પરિહરહ",
+      "translit": "pariharaha",
+      "gloss": "abandon, cast off (you all, imperative)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. pari-√hṛ ('to remove, give up entirely'), imperative plural pariharata → Prakrit pariharaha.",
+      "notes": "The pari- prefix intensifies: not mere avoidance but total renunciation of false belief."
+    },
+    {
+      "token": "ધરહ",
+      "translit": "dharaha",
+      "gloss": "hold fast, maintain (you all, imperative)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √dhṛ ('to hold, bear, sustain'), imperative plural dharata → Prakrit dharaha.",
+      "notes": "Deliberately paired against pariharaha: cast off X, hold Y — the negative-then-positive movement of the line."
+    },
+    {
+      "token": "સમ્મત્તં",
+      "translit": "sammattaṁ",
+      "gloss": "right faith, correct insight (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. samyaktva → Prakrit sammatta; accusative sammattaṁ. Object of dharaha.",
+      "notes": "Preface term samyaktva (samyag-darśana); the thing to be held."
+    },
+    {
+      "token": "છવ્વિહ",
+      "translit": "chavviha",
+      "gloss": "six-fold, of six kinds",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ṣaḍvidha ('six-fold'); ṣaṭ + vidha. Prakrit doubles the consonant: chavviha.",
+      "notes": "Qualifies āvassaya; together 'the six-fold Āvaśyaka'. Not 'four-fold' (a common loose mistranslation)."
+    },
+    {
+      "token": "આવસ્સયમ્મિ",
+      "translit": "āvassayammi",
+      "gloss": "in the obligatory observance(s) (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. āvaśyaka ('that which must be done') + Prakrit locative -mmi (Skt. -smin). āvassaya + (a)mmi.",
+      "notes": "Preface term ṣaḍ-āvaśyaka; locative marks the sphere in which one is to be diligent."
+    },
+    {
+      "token": "ઉજ્જુત્તો",
+      "translit": "ujjutto",
+      "gloss": "diligent, intently engaged, ready",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. udyukta ('exerted, applied, zealous'), past participle of ud-√yuj ('to yoke up, set to work'); Prakrit ujjutto.",
+      "notes": "Predicate adjective with hoi: 'let [one] be diligent'. Connotes active, harnessed effort, not passive presence."
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "becomes / let [one] be",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. bhavati (root √bhū, 'to be, become') → Prakrit hoi.",
+      "notes": "Third-person form read with imperative/exhortative force here, completing the predicate ujjutto hoi ('one is to be diligent')."
+    },
+    {
+      "token": "પઇદિવસં",
+      "translit": "païdivasaṁ",
+      "gloss": "every day, daily",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. prati-divasam ('each day'); prati ('every') + divasa ('day'), adverbial accusative. Prakrit softens prati → paï.",
+      "notes": "Adverb of frequency governing ujjutto hoi; stresses unbroken daily regularity, not occasional practice."
+    }
+  ],
+  "literalTranslation": "Heed the command of the Jinas; abandon false belief, hold right faith. In the six-fold obligatory observance let one be diligent every day.",
+  "idiomaticTranslation": "Honor the teaching of the Victors as your authority; cast off all wrong belief and hold fast to right faith — and in the six daily duties be earnestly engaged, day after day without fail.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse lays the doctrinal footing on which every later duty in the hymn rests, and it does so through four crisp imperatives. First comes acceptance of authority: mannaha jiṇāṇaṁ āṇaṁ — 'heed the Jinas' command.' Before any practice is named, the reciter is told whose word grounds it; Jain conduct is āṇā-pradhāna, 'command-governed,' so right action begins by submitting one's judgment to the Jina's teaching. The next two clauses move as a deliberate pair — pariharaha / dharaha, 'cast off' and 'hold fast' — turning the soul first away from micchaṁ (false belief) and then toward sammattaṁ (right faith). The order is exact and not interchangeable: delusion must be released before correct insight can be firmly grasped. Placing this purification of belief before the list of observances signals that samyaktva is the root; works performed without right faith do not yet count as the śrāvaka's dharma. Only then does the verse name action: chavviha āvassayammi ujjutto hoi païdivasaṁ — 'be diligent in the six obligatory observances, every day.' Two words carry the weight here. Ujjutto (Skt. udyukta) is not mere attendance but harnessed, zealous effort — the self 'yoked up' to the task. And païdivasaṁ insists on daily, unbroken regularity: the six Āvaśyakas are not festival acts but the texture of ordinary days. Thus the verse compresses the whole logic of lay discipline — accept the teaching, correct the belief, then act, and act constantly — and so prepares the widening catalogue of duties that the following verse begins to unfold with the poṣadha vow and the four-fold dharma.",
+    "doctrinalContext": "The line enacts, in miniature, the Jain ratnatraya sequence: right faith (samyag-darśana) is named first and made foundational, exactly as Umāsvāti opens the path with samyag-darśana before jñāna and cāritra. Mithyātva, its opposite, is treated as the primary bondage to be severed — its abandonment is the threshold of the guṇasthāna ladder. The structuring of the whole lay life around the ṣaḍ-āvaśyaka reflects the Āvaśyaka tradition's insistence that these six are 'that which must be done' (āvaśyaka = obligatory) daily, irrespective of mood or circumstance. And the framing imperative mannaha…āṇaṁ encodes the doctrine that dharma is rooted in the Jina's command (āṇāe dhammo): authority precedes, and validates, observance.",
+    "practicalRelevance": "Recited at the start of the duty-list, this verse asks the practitioner to audit two things each day: is my belief still aligned with the Jina's teaching (have I quietly let in fear-, greed-, or status-driven notions?), and have I actually performed the six daily observances, or merely intended them? Païdivasaṁ is the standard — consistency over intensity. It reframes routine practice not as ritual habit but as a daily renewal of faith expressed in action.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1: samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ (right faith named first of the three jewels)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Āvaśyaka-niryukti — exposition of the six obligatory observances (ṣaḍ-āvaśyaka) and the duty of daily performance",
+        "source": "Bhadrabāhu (attrib.), Āvaśyaka-niryukti"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manaha Jinanam Sajjay — Jain Sutras and Stotras (full text, transliteration, and 36-duty explanation)",
+      "url": "https://jainknowledge.com/media-information/80/jain_sutras/MANAHA-JINANAM-SAJJAY-",
+      "type": "translation",
+      "consultedFor": "verbatim verse text, transliteration, and confirmation that chavviha = the six (not four) essential duties performed daily"
+    },
+    {
+      "title": "Can you give the whole Manaha Jinanam Anam sutra in English",
+      "url": "https://jainknowledge.com/question/22805/can-u-give-the-whole-manaha-jinanam-anam-sutra-in-english",
+      "type": "translation",
+      "consultedFor": "English rendering of the duties listed across the five gāthās, cross-checking verse 1"
+    },
+    {
+      "title": "Mannaha Jinan Aanam Swadhyay — Book Summary (JainGPT)",
+      "url": "https://jaingpt.org/knowledge/mannaha_jinan_aanam_swadhyay_023419_023419",
+      "type": "commentary",
+      "consultedFor": "commentary framing of the verse within the śrāvaka-duty tradition and the samyaktva-first ordering"
+    }
+  ],
+  "translatorConfidence": 0.87,
+  "notes": "Token coverage is 100% against the verse as supplied. Variant reading: the prompt prints jiṇāṇaṁ and āṇaṁ as separate tokens, whereas common printed editions (e.g. jainknowledge.com) show the sandhi-joined jiṇāṇamāṇaṁ; the sense ('the Jinas' command') is identical and the prompt's verbatim split is followed here. chavviha (ṣaḍvidha, 'six-fold') is occasionally mis-glossed online as 'four-fold' and païdivasaṁ as 'merit' — both are incorrect; the verse means 'diligent in the six [Āvaśyakas], daily.' hoi (Skt. bhavati) is third-person in form but is read here with imperative/exhortative force ('let one be'), matching the surrounding plural imperatives mannaha/pariharaha/dharaha. Per the preface, glossary terms (āṇā, mithyātva, samyaktva, ṣaḍ-āvaśyaka) are used without re-definition."
+}

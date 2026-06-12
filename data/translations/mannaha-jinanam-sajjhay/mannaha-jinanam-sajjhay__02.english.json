@@ -1,0 +1,164 @@
+{
+  "shlokaId": "mannaha-jinanam-sajjhay/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On holy days keep the poṣadha fast, and live by giving, good conduct, austerity, sincere intent, scripture-study, reverent bowing, helping others, and careful watchfulness so as never to harm a living being.",
+  "recitation": "pavvesu posaha-vayaṁ, dāṇaṁ sīlaṁ tavo a bhāvo a, sajjhāya namukkāro, parovayāro a jayaṇā a",
+  "wordByWord": [
+    {
+      "token": "પવ્વેસુ",
+      "translit": "pavvesu",
+      "gloss": "on holy days, on the parva days",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pavva from Skt. parva ('node, sacred occasion'); locative plural -esu.",
+      "notes": "The recurring lunar observance-days (aṣṭamī, caturdaśī, etc.) on which the poṣadha is kept."
+    },
+    {
+      "token": "પોસહવયં",
+      "translit": "posaha-vayaṁ",
+      "gloss": "the poṣadha vow (a day-long fast-and-restraint)",
+      "partOfSpeech": "compound",
+      "etymology": "posaha (Skt. poṣadha/pauṣadha) + vaya (Skt. vrata, 'vow'); accusative singular.",
+      "notes": "Object of an implied 'observe'; see preface glossary for poṣadha."
+    },
+    {
+      "token": "દાણં",
+      "translit": "dāṇaṁ",
+      "gloss": "charity, giving",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dāṇa from Skt. dāna ('gift'); accusative singular.",
+      "notes": "First member of the four-fold dharma."
+    },
+    {
+      "token": "સીલં",
+      "translit": "sīlaṁ",
+      "gloss": "ethical conduct, virtue",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sīla from Skt. śīla ('character, good conduct'); accusative singular.",
+      "notes": ""
+    },
+    {
+      "token": "તવો",
+      "translit": "tavo",
+      "gloss": "austerity, penance",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tava from Skt. tapas ('heat, austerity'); nominative/listing form.",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a from Skt. ca ('and'); enclitic conjunction.",
+      "notes": "First of four list-binding 'a' particles in this verse."
+    },
+    {
+      "token": "ભાવો",
+      "translit": "bhāvo",
+      "gloss": "right inner disposition, sincere intent",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhāva from Skt. bhāva ('state of mind, feeling'); nominative/listing form.",
+      "notes": "Fourth member of the four-fold dharma (dāna-śīla-tapas-bhāva)."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a from Skt. ca; enclitic conjunction.",
+      "notes": "Closes the dāna-śīla-tapas-bhāva tetrad."
+    },
+    {
+      "token": "સજઝાય",
+      "translit": "sajjhāya",
+      "gloss": "sacred study (svādhyāya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sajjhāya from Skt. svādhyāya ('self-study, recitation').",
+      "notes": "Spelled સજઝાય here (vs. સજ્ઝાય in the title); book orthography preserved verbatim."
+    },
+    {
+      "token": "નમુક્કારો",
+      "translit": "namukkāro",
+      "gloss": "the Namaskāra / reverent salutation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit namukkāra from Skt. namaskāra ('obeisance'); nominative singular.",
+      "notes": "Here the daily homage to the Five Parameṣṭhins (Navkāra)."
+    },
+    {
+      "token": "પરોવયારો",
+      "translit": "parovayāro",
+      "gloss": "beneficence, helping others (paropakāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit parovayāra from Skt. para ('other') + upakāra ('benefit'), with sandhi para+upa > parova; nominative singular.",
+      "notes": ""
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a from Skt. ca; enclitic conjunction.",
+      "notes": ""
+    },
+    {
+      "token": "જયણા",
+      "translit": "jayaṇā",
+      "gloss": "careful, harm-avoiding conduct (yatanā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jayaṇā from Skt. yatanā ('care, effort'); nominative singular.",
+      "notes": "See preface glossary; the safeguarding thread of ahiṁsā."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit a from Skt. ca; enclitic conjunction.",
+      "notes": "The fourth 'a', sealing the verse's list."
+    }
+  ],
+  "literalTranslation": "On the holy days, the poṣadha vow; and charity, conduct, austerity and right disposition; study, the Namaskāra, beneficence, and careful (harm-avoiding) conduct.",
+  "idiomaticTranslation": "On the sacred days, keep the poṣadha fast; and practise giving, upright conduct, austerity and a true heart — together with scripture-study, the Namaskāra salutation, kindness that helps others, and a watchful care that spares every living being.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.1 fixed the doctrinal footing — accept the Jina's command, drop false belief, hold right faith, be daily-diligent in the six obligations — this verse turns from foundation to the householder's actual menu of observances, and it is built as a single breathless list strung on four little 'a' ('and') particles. It opens with the one time-bound item: pavvesu posaha-vayaṁ, the poṣadha vow reserved for the parva days, when the lay devotee briefly lives like an ascetic. From that calendared practice the verse widens into the four that need no special day at all — dāṇaṁ sīlaṁ tavo a bhāvo a — charity, conduct, austerity and inner disposition, the classic four-fold dharma whose order is itself instructive: outward giving, then disciplined living, then bodily austerity, and finally bhāva, the right feeling without which the first three are hollow. The second line carries the movement inward and then back outward: sajjhāya (study) and namukkāro (the Namaskāra) nourish the self, while parovayāro (beneficence) directs the same energy toward others. The capstone is deliberately placed last: jayaṇā — watchful, harm-avoiding care. It is not merely one more item but the ethical condition under which every preceding act must be done; charity, study and even fasting are worthless if pursued carelessly of life around one. So the verse quietly enacts a hierarchy — periodic vow, standing virtues, self-cultivation, service — all underwritten by jayaṇā. The closing 'a' leaves the list grammatically open, handing the reciter straight on to v.3's devotional and social duties without a full stop, which is exactly how the sajjhāy means to be experienced: one continuous reckoning of a devout day.",
+    "doctrinalContext": "The verse compresses several standard rubrics. dāṇa-sīla-tava-bhāva is the four-fold dharma, the everyday lay counterpart to the monastic path, with bhāva (intent) treated as the decisive interior factor. poṣadha is the lay observance by which a śrāvaka adopts ascetic restraints for a parva day, traditionally grouped among the disciplinary (śikṣā) vows of the twelve lay vows. Most pointed is jayaṇā (Skt. yatanā): for a householder who cannot renounce all activity, careful conduct is the practical form ahiṁsā must take — it is the same impulse that, for monastics, is formalised in the samitis and guptis. By ending on jayaṇā rather than on a 'higher' devotional act, the verse insists that non-harming is the membrane through which all other merit must pass.",
+    "practicalRelevance": "A reciter can read this verse as a self-audit: have I marked the parva days with poṣadha; am I giving, living cleanly, accepting some austerity, and — crucially — doing all of it with sincere bhāva rather than mere routine? The final jayaṇā asks a daily question no other item asks: was I careful, in eating, moving, speaking and working, not to needlessly harm life today?",
+    "crossReferences": [
+      {
+        "text": "Four-fold dharma — dāna, śīla, tapas, bhāva",
+        "source": "standard Śvetāmbara śrāvaka teaching; cf. Tattvārtha-sūtra ch. 7 on lay vows"
+      },
+      {
+        "text": "Poṣadhopavāsa as a śikṣāvrata among the twelve lay vows",
+        "source": "Upāsakadaśāḥ / Tattvārtha-sūtra 7.16"
+      },
+      {
+        "text": "Yatanā (jayaṇā) as carefulness grounding ahiṁsā",
+        "source": "Dashavaikālika-sūtra ch. 4 (jayaṁ care, jayaṁ ciṭṭhe)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Manaha Jinanam Sajjay — Jain Sutras and Stotras",
+      "url": "https://jainknowledge.com/media-information/80/jain_sutras/MANAHA-JINANAM-SAJJAY-",
+      "type": "translation",
+      "consultedFor": "verse-2 text and the item-by-item rendering of duties 10–18 (poṣadha, charity, conduct, austerity, bhāva/reflection, study, Namaskāra, benevolence, protection of beings)"
+    },
+    {
+      "title": "Can you give the whole Manaha Jinanam Anam sutra in English",
+      "url": "https://jainknowledge.com/question/22805/can-u-give-the-whole-manaha-jinanam-anam-sutra-in-english",
+      "type": "translation",
+      "consultedFor": "full IAST transliteration of v.2 (pavvesu posaha-vayaṁ … parovayāro a jayaṇa a) and confirmation of the four 'a' particles"
+    },
+    {
+      "title": "Mannaha Jinan Aanam Swadhyay — Book Summary (JainGPT)",
+      "url": "https://jaingpt.org/knowledge/mannaha_jinan_aanam_swadhyay_023419_023419",
+      "type": "commentary",
+      "consultedFor": "the thirty-six śrāvaka-duties framing and later printed commentary tradition into which v.2's items fall"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse text preserved verbatim from the source book, including its orthography: સજઝાય here vs. the title's સજ્ઝાય, and the unhyphenated પોસહવયં (other editions print posaha-vayaṁ). The four enclitic અ ('a') particles are glossed individually for full token coverage; they are list connectors, not separate duties. By the jainknowledge.com enumeration this verse supplies duties 10–18 of the conventional thirty-six; that count is editorial and not stated in the verse itself. 'bhāva' is glossed as right inner disposition; some translations read it as the twelve bhāvanās (reflections) — both senses are defensible and the verse does not disambiguate. Reading of jayaṇā as yatanā (careful, harm-avoiding conduct) is secure; a minority gloss as 'restraint/victory' exists but is less well supported."
+}

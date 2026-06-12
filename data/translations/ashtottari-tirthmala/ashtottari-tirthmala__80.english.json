@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/80",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Munisuvrata Swami lived an almost unimaginably long time ago — nearly eleven lakh eighty-four thousand years past — and at his living-lord shrine in Bharuch we bow to him.",
+  "recitation": "ikkāra lakkha culasī sahassa kiṁcūṇa varisa jassa tahiṁ |\njīvanta sāmi titthe, bharuacche suvvayaṁ namimo ||",
+  "wordByWord": [
+    {
+      "token": "ઇક્કાર",
+      "translit": "ikkāra",
+      "gloss": "eleven",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ikkāra / ekkāraha from Sanskrit ekādaśa ('eleven').",
+      "notes": "Heads the numeral compound: eleven lakh."
+    },
+    {
+      "token": "લક્ખ",
+      "translit": "lakkha",
+      "gloss": "lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lakkha from Sanskrit lakṣa, the unit 100,000.",
+      "notes": ""
+    },
+    {
+      "token": "ચુલસી",
+      "translit": "culasī",
+      "gloss": "eighty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit culasī / cörāsī from Sanskrit caturaśīti ('eighty-four'); cf. Gujarati cörāsī.",
+      "notes": "Qualifies the following 'sahassa' (thousand): eighty-four thousand."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahassa from Sanskrit sahasra ('thousand').",
+      "notes": "11 lakh + 84 thousand = 11,84,000 (1,184,000)."
+    },
+    {
+      "token": "કિંચૂણ",
+      "translit": "kiṁcūṇa",
+      "gloss": "a little less, slightly short of",
+      "partOfSpeech": "adj",
+      "etymology": "Compound of Prakrit kiṁci (Sanskrit kiñcid, 'somewhat') + ūṇa (Sanskrit ūna, 'deficient, less').",
+      "notes": "Modifies the whole figure: the count of years falls a little short of the round 11,84,000."
+    },
+    {
+      "token": "વરિસ",
+      "translit": "varisa",
+      "gloss": "years",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit varisa from Sanskrit varṣa ('year').",
+      "notes": ""
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "of whom, whose",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive singular of the Prakrit relative pronoun ja- (Sanskrit yasya, 'of whom').",
+      "notes": "Relative pronoun whose antecedent is Munisuvrata (Suvvaya), named at the verse's end; links the immense year-count to him."
+    },
+    {
+      "token": "તહિં",
+      "translit": "tahiṁ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahiṁ from Sanskrit tatra / tasmin ('there, in that').",
+      "notes": "Points to Bharukaccha, the site named in the second line."
+    },
+    {
+      "token": "જીવંત",
+      "translit": "jīvanta",
+      "gloss": "living, alive (here as the name 'Jīvanta-')",
+      "partOfSpeech": "adj",
+      "etymology": "Present participle of Prakrit jīva- (Sanskrit jīvat, 'living'), from √jīv 'to live'.",
+      "notes": "With sāmi forms the proper name Jīvantasvāmī, the 'living-lord' image — a likeness made while the Tīrthaṅkara was still alive (a Śvetāmbara image-type, shown crowned and princely in kāyotsarga)."
+    },
+    {
+      "token": "સામિ",
+      "translit": "sāmi",
+      "gloss": "lord, master",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmi from Sanskrit svāmin ('lord, owner').",
+      "notes": "Bonded to jīvanta: 'Jīvantasvāmī'."
+    },
+    {
+      "token": "તિત્થે",
+      "translit": "titthe",
+      "gloss": "at the tīrtha (holy place)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of Prakrit tittha (Sanskrit tīrtha, 'crossing-place, pilgrimage site').",
+      "notes": "'jīvanta sāmi titthe' = 'at the Jīvantasvāmī tīrtha'."
+    },
+    {
+      "token": "ભરુઅચ્છે",
+      "translit": "bharuacche",
+      "gloss": "in Bharukaccha (Bharuch)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of Bharu(k)accha, from Sanskrit Bhṛgukaccha (modern Bharuch, Gujarat, on the Narmada).",
+      "notes": "The ancient port-city housing the Aśvāvabodha / Śakunikā-vihāra shrine of Munisuvrata."
+    },
+    {
+      "token": "સુવ્વયં",
+      "translit": "suvvayaṁ",
+      "gloss": "Suvrata (i.e. Muni-suvrata), the lord 'of good vows' [object of homage]",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of Prakrit suvvaya from Sanskrit suvrata ('of excellent vows'); short for Munisuvrata, the 20th Tīrthaṅkara.",
+      "notes": "Object of namimo."
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, let us bow",
+      "partOfSpeech": "verb",
+      "etymology": "First person plural present of Prakrit nam- (Sanskrit namāmaḥ), √nam 'to bow, salute'.",
+      "notes": "The verse's act of homage; cf. the hymn's recurring vande / paṇamāmi."
+    }
+  ],
+  "literalTranslation": "Eleven lakh eighty-four thousand years, a little less, of whom [have passed] — there, at the Jīvantasvāmī tīrtha in Bharukaccha, we bow to Suvrata (Munisuvrata).",
+  "idiomaticTranslation": "He whose age reaches back nearly eleven lakh and eighty-four thousand years — there, at the Living-Lord shrine in Bharukaccha, to that Munisuvrata we bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the Bharukaccha sequence (vv.77–80) with a single, staggering act of homage to Munisuvrata, the 20th Jina. The whole first line is a number — 'eleven lakh eighty-four thousand years, a little less' (kiṁcūṇa) — and the genitive jassa ('of whom') hangs it on the Jina named only in the last word, suvvayaṁ. The poet withholds the name to the end so that the colossal antiquity lands first: the worshipper is made to feel the depth of time before learning whose it is. The figure is no poetic exaggeration but the tradition's own reckoning — Munisuvrata's era is placed some 11,84,000 years back (Śvetāmbara chronology fixes his birth at 1,184,980 BC), and 'a little less' is the careful qualifier of a teacher who will not round up a sacred count. The site is precisely named: 'jīvanta sāmi titthe, bharuacche' — the Jīvantasvāmī ('Living-Lord') tīrtha at Bharukaccha (modern Bharuch). A Jīvantasvāmī image is one fashioned while the Tīrthaṅkara still walked the earth, depicting him crowned and princely; to bow before it is to bow as if before the living Jina. The previous verse had set the Bharukaccha scene with King Jiyasattu (Jitaśatru), the horse (āsa), the kite (samalī) and Sudarśanā Devī serving Suvrata there; this verse gathers all of it into one word of reverence, namimo — 'we bow'. After this the hymn departs Bharukaccha for Stambhanapura's Pārśva (v.81).",
+    "doctrinalContext": "Two Jain ideas converge. First, the vast year-count enacts the doctrine of cyclic, near-beginningless time (the avasarpiṇī): so immense an interval is meant to dissolve the reciter's sense of the present moment as central and to widen reverence across aeons. Second, the Jīvantasvāmī icon embodies the Jain logic of image-worship — the consecrated likeness is venerated as a true locus of the Jina's presence, the 'living lord' standing in kāyotsarga, so that homage to the carving is homage to the awakened soul it represents. Munisuvrata's very name, su-vrata ('of good vows'), keeps the ethical centre in view: it is the perfection of vows, not the antiquity alone, that makes him worthy of the bow.",
+    "practicalRelevance": "Reciting this verse, a worshipper deliberately measures their own moment against an eleven-lakh-year horizon — a built-in antidote to pride and to the urgency of present grievances. Standing before any Jina image, one recalls the Jīvantasvāmī ideal: treat the mūrti as the living lord, and let 'namimo' be an act of the whole self, not a passing gesture.",
+    "crossReferences": [
+      {
+        "text": "Aśvāvabodha / Śakunikā-vihāra of Munisuvrata at Bharukaccha (the tīrtha-legend underlying vv.77–80)",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacarita; Jinaprabhasūri, Vividhatīrthakalpa"
+      },
+      {
+        "text": "Munisuvrata as the 20th Tīrthaṅkara, praised in the standard list",
+        "source": "Logassa (Caturviṁśati-stava), Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Munisuvrata — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Munisuvrata as 20th Tīrthaṅkara; traditional birth date 1,184,980 BC and 30,000-year lifespan, corroborating the verse's 11,84,000-year figure"
+    },
+    {
+      "title": "Jivantasvami — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jivantasvami",
+      "type": "scholarship",
+      "consultedFor": "Definition of the Jīvantasvāmī ('living-lord') image-type, its Śvetāmbara use, kāyotsarga/princely form, and Munisuvrata being represented in this form"
+    },
+    {
+      "title": "Bharuch Tirth — The Jainsite",
+      "url": "https://jainsite.com/jain-tirth/bharuch-tirth/",
+      "type": "scholarship",
+      "consultedFor": "The Aśvāvabodha legend of Munisuvrata at Bharukaccha and the tradition's ~11.5-lakh-year antiquity of the site; mūlanāyaka Munisuvrata"
+    },
+    {
+      "title": "Ashvavabodha, Aśvāvabodha — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/ashvavabodha",
+      "type": "dictionary",
+      "consultedFor": "Meaning and tradition of the Aśvāvabodha ('enlightening of the horse') tīrtha associated with Munisuvrata at Bharukaccha"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The numeral is unambiguous as a figure (11 lakh + 84 thousand = 11,84,000, kiṁcūṇa = 'slightly less'), and it closely matches the Śvetāmbara dating of Munisuvrata (birth c. 1,184,980 BC), so the most defensible reading is that it expresses the immense antiquity of the Jina / his Bharukaccha tīrtha — i.e. the time elapsed since Munisuvrata. An alternative construal takes 'jassa ... varisa' as the duration since his nirvāṇa rather than his birth; the editions consulted do not settle which event anchors the count, hence the qualifier. The number is NOT his lifespan (traditionally 30,000 years). 'jīvanta sāmi' is read as the proper name Jīvantasvāmī (Living-Lord image), consistent with Munisuvrata's known Jīvantasvāmī iconography; if read as two ordinary words it would mean 'the living lord', with the same devotional sense. Orthography of the source verse (e.g. ભરુઅચ્છે, સુવ્વયં) preserved verbatim per the book's fidelity rules; not normalised."
+}

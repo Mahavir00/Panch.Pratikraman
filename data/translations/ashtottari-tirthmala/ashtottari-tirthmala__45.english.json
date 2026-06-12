@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/45",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May the holy mountain-shrine of Aṣṭāpada — where gods, demigods, sky-flying beings, great kings, and Indra himself all come to bow before the Jina-temple — endure and flourish for as long as Lord Mahāvīra's teaching lasts.",
+  "recitation": "sura asura khayara naravara, suriṁda vaṁdijjamāṇā jiṇabhavaṇaṁ. aṭṭhāvaya giri-titthaṁ, naṁdau jā vīra-jiṇa titthaṁ.",
+  "wordByWord": [
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "the gods (heaven-dwelling, vaimānika deities)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sura, 'shining one, god'; from the root associated with svar, 'heaven, light'.",
+      "notes": "First member of the worshipper-list; here in stem form within a loose dvandva of devotees."
+    },
+    {
+      "token": "અસુર",
+      "translit": "asura",
+      "gloss": "the asuras (demigods of the bhavanapati class)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. asura, 'mighty spirit'; in Jain cosmology a sub-class of bhavanapati (mansion-dwelling) divinities, not 'demons' in a hostile sense.",
+      "notes": "Paired with sura to span the higher and lower heavenly orders."
+    },
+    {
+      "token": "ખયર",
+      "translit": "khayara",
+      "gloss": "sky-goers, the vidyādharas",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. khecara (kha 'sky' + cara 'mover'); Prakrit drops the intervocalic c, giving khayara. The semi-divine humans who fly by their magical sciences (vidyā).",
+      "notes": "Confirmed against Sheth's Pāia-sadda-mahaṇṇavo s.v. khayara = khecara."
+    },
+    {
+      "token": "નરવર",
+      "translit": "naravara",
+      "gloss": "the best among men (kings, foremost mortals)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. nara 'man' + vara 'best, choice'; a tatpuruṣa, 'the choicest of men', i.e. monarchs and exalted human devotees.",
+      "notes": "Bridges the human realm into a list otherwise of celestial beings."
+    },
+    {
+      "token": "સુરિંદ",
+      "translit": "suriṁda",
+      "gloss": "Indra, lord of the gods",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. surendra (sura + indra), 'chief of the suras'; Prakrit suriṁda with anusvāra for the conjunct.",
+      "notes": "Named separately for emphasis: even the king of gods bows here."
+    },
+    {
+      "token": "વંદિજજમાણા",
+      "translit": "vaṁdijjamāṇā",
+      "gloss": "being venerated, [the temple] that is bowed to",
+      "partOfSpeech": "verb",
+      "etymology": "Present passive participle of Skt. vand 'to praise, salute'; Prakrit passive infix -ijja- (< Skt. -ya-) + middle participle -māṇa (< Skt. -māna), so vandya-māna → vaṁdijjamāṇa.",
+      "notes": "The -ā ending shows loose agreement (a common gāthā licence); sense-wise it qualifies the Jina-temple as the object of all the foregoing worshippers' homage. Participle formation per Pischel §§535–562."
+    },
+    {
+      "token": "જિણભવણં",
+      "translit": "jiṇabhavaṇaṁ",
+      "gloss": "the Jina-temple (the shrine of the Jina)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiṇa (< Skt. jina, 'conqueror') + bhavaṇa (< Skt. bhavana, 'abode, mansion'); accusative/nominative -aṁ. 'The dwelling of the Jina', i.e. his temple.",
+      "notes": "Refers to the famous temple of the twenty-four Jinas said to crown Aṣṭāpada."
+    },
+    {
+      "token": "અટ્ઠાવય",
+      "translit": "aṭṭhāvaya",
+      "gloss": "Aṣṭāpada (the sacred mountain of Ṛṣabha's liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aṣṭāpada, 'eight steps/feet' (aṣṭa 'eight' + pada 'step'); Prakrit aṭṭhāvaya with the regular ṣṭ → ṭṭh and p → v softening.",
+      "notes": "The site, in Jain tradition, of the first Tīrthaṅkara Ṛṣabha's nirvāṇa; the section vv.41–45 closes on it."
+    },
+    {
+      "token": "ગિરિતિત્થં",
+      "translit": "giri-titthaṁ",
+      "gloss": "the mountain pilgrimage-place",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. giri 'mountain' + tīrtha 'crossing-place, holy site'; Prakrit tittha (< tīrtha) with -aṁ.",
+      "notes": "Apposed to Aṣṭāpada: the tīrtha that is itself a mountain."
+    },
+    {
+      "token": "નંદઉ",
+      "translit": "naṁdau",
+      "gloss": "may it flourish! / let it prosper!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative 3rd sg. of Skt. nand 'to rejoice, thrive' → nandatu; Prakrit naṁdau. A benedictive optative-imperative.",
+      "notes": "The grammatical heart of the verse — the blessing wished upon the tīrtha."
+    },
+    {
+      "token": "જા",
+      "translit": "jā",
+      "gloss": "as long as",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jā (< Skt. yāvat), the correlative temporal 'so long as / until'.",
+      "notes": "Introduces the temporal limit of the benediction."
+    },
+    {
+      "token": "વીરજિણ",
+      "translit": "vīra-jiṇa",
+      "gloss": "Vīra Jina (Lord Mahāvīra)",
+      "partOfSpeech": "compound",
+      "etymology": "Vīra 'hero' (epithet of the 24th Tīrthaṅkara) + jiṇa 'Jina'; 'the Hero-Conqueror'.",
+      "notes": "Genitive sense ('of Vīra-jina') carried over to the following titthaṁ."
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṁ",
+      "gloss": "the tīrtha (dispensation / fourfold order)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tīrtha, 'ford, crossing'; Prakrit tittha + -aṁ. Here in its technical sense of a Jina's śāsana — his teaching and fourfold community.",
+      "notes": "Deliberate double sense: the place-tīrtha (Aṣṭāpada) is wished to last as long as the dispensation-tīrtha of Mahāvīra."
+    }
+  ],
+  "literalTranslation": "The Jina-temple, being venerated by gods, asuras, sky-goers, the best of men, and Indra — the mountain-tīrtha Aṣṭāpada — may it flourish, as long as the tīrtha of Vīra-jina (endures).",
+  "idiomaticTranslation": "That Jina-temple before which gods and asuras, the sky-faring vidyādharas, the foremost of kings, and Indra himself bow in homage — may the mountain pilgrimage of Aṣṭāpada thrive and stand for just so long as the dispensation of Lord Mahāvīra shall endure.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the sealing benediction of the Aṣṭāpada cluster. After the preceding verses have praised Ṛṣabha enthroned on the mountain, the poet now steps back and blesses the site itself. The first line is built as a rising catalogue of worshippers — sura, asura, khayara, naravara, suriṁda — sweeping from the high heavens, through the bhavanapati demigods, the sky-flying vidyādharas, the greatest of mortal kings, and culminating in Indra, lord of gods. The rhetorical force is totalising: every grade of embodied being, celestial and human, is shown bowing to the one object named at the line's end, the jiṇabhavaṇaṁ — the temple of the Jina crowning Aṣṭāpada. The present participle vaṁdijjamāṇa ('being-venerated') freezes this homage as a perpetual, ongoing act rather than a single event. The second line turns from description to blessing: naṁdau, 'may it flourish.' The verb's reach is then bounded by the correlative jā … titthaṁ, 'as long as the tīrtha of Vīra-jina.' Here the poet exploits the two senses of tīrtha that the whole hymn turns upon: the place-tīrtha of Aṣṭāpada is wished to endure exactly so long as the dispensation-tīrtha of Mahāvīra — that is, for the entire span of the present śāsana. The verse thus binds a holy place to a holy time, and a mountain in the past (Ṛṣabha's liberation) to the living teaching of the last Tīrthaṅkara, neatly closing the Aṣṭāpada episode before the hymn moves on to Girnar.",
+    "doctrinalContext": "The worshipper-list encodes a standard Jain claim that a true tīrtha commands homage across the four destinies and all social ranks — not human devotion alone but that of devas and asuras too, with Indra's bow as the proof of supremacy. More pointed is the equation tīrtha (place) ↔ tīrtha (śāsana). In Jain doctrine a Tīrthaṅkara's tīrtha is precisely his fourfold order and teaching, which lasts a fixed period; to wish Aṣṭāpada's flourishing 'as long as Vīra's tīrtha' is to anchor the sanctity of place to the duration of the present dispensation, implying that pilgrimage devotion is meaningful only while the path it points to remains open.",
+    "practicalRelevance": "The reciter is trained not merely to admire a shrine but to bless it — cultivating maṅgala-bhāvanā, the wish for the welfare of the tīrtha and all who venerate it. Joining one's own salutation to that of gods and Indra dissolves pride of rank, and the closing clause quietly reminds the worshipper that their devotion unfolds within the finite, precious window of Mahāvīra's living teaching, to be used while it lasts.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭāpada and Bharata's temple of the twenty-four Jinas; Ṛṣabha's nirvāṇa on the mountain",
+        "source": "Hemacandra, Triṣaṣṭi-śalākā-puruṣa-carita, Ṛṣabha-carita (parvan I)"
+      },
+      {
+        "text": "tīrtha as the fourfold saṅgha / dispensation of a Tīrthaṅkara",
+        "source": "Standard Śvetāmbara āgamic usage (cf. Samavāyāṅga / Āvaśyaka tradition)"
+      },
+      {
+        "text": "khecara (khayara) = vidyādhara, sky-goer",
+        "source": "Sheth, Pāia-sadda-mahaṇṇavo, s.v. khayara"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth — searchable edition",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Glosses of khayara (=khecara/vidyādhara), tittha (=tīrtha), jiṇa, bhavaṇa, and the imperative naṁdau"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma surendra, khecara, vand/vandya, aṣṭāpada, nand, yāvat behind the Prakrit forms"
+    },
+    {
+      "title": "R. Pischel, A Comparative Grammar of the Prakrit Languages (archive.org)",
+      "url": "https://archive.org/details/comparativegramm00piscuoft",
+      "type": "scholarship",
+      "consultedFor": "Formation of the present passive participle vaṁdijjamāṇa (passive -ijja- + middle participle -māṇa) and the jā < yāvat correlative"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The participle vaṁdijjamāṇā carries an -ā ending that does not strictly agree in gender/number with the neuter singular jiṇabhavaṇaṁ; this is a common metrical/gāthā licence, and the sense is unambiguous (the temple is the thing venerated). The string of worshipper-names (sura asura khayara naravara suriṁda) stands in bare stem-form, read as an enumerative dvandva of agents of the passive participle. tīrtha is read in two senses within one verse — the place (Aṣṭāpada) and the dispensation (of Vīra-jina) — which is intentional, not an error. 'asura' is the bhavanapati demigod class, not 'demon' in any adversarial sense. Identification of aṭṭhāvaya with Aṣṭāpada and the Bharata/24-Jina-temple legend follows the mainstream tradition; the source book's verbatim orthography (e.g. વંદિજજમાણા with single-then-double conjunct) is preserved and not normalised."
+}

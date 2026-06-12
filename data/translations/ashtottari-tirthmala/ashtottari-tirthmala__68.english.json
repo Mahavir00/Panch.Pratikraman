@@ -1,0 +1,172 @@
+{
+  "shlokaId": "ashtottari-tirthmala/68",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to Lord Mahāvīra at Susumārapura — where the asura-king Camara's desperate flight to him made the spot holy — the Lord who loves every being of the three worlds as his own.",
+  "recitation": "to tahiṃ titthaṃ jāyaṃ, camaruppāyaṃ ca susumārapure | somavaṇo tahiṃ vīraṃ, tihuaṇa jaṇa vacchalaṃ namimo ||",
+  "wordByWord": [
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt to < Skt tataḥ ('from that, then'), a connective resuming the narrative of the previous verse.",
+      "notes": "Links this verse to v.67, where Camara fled and the vajra was withdrawn."
+    },
+    {
+      "token": "તહિં",
+      "translit": "tahiṃ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt tahiṃ < Skt tatra ('there'); locative adverb pointing to Susumārapura.",
+      "notes": ""
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṃ",
+      "gloss": "a tīrtha (sacred crossing-place / pilgrimage site)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt tittha < Skt tīrtha; here in its literal sense — a spot sanctified by a Jina-event.",
+      "notes": "Subject of jāyaṃ; the place 'became a tīrtha'."
+    },
+    {
+      "token": "જાયં",
+      "translit": "jāyaṃ",
+      "gloss": "arose, came into being",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt jāya < Skt jāta, past participle of √jan ('to be born, arise'), neuter sg. agreeing with titthaṃ.",
+      "notes": ""
+    },
+    {
+      "token": "ચમરુપ્પાયં",
+      "translit": "camaruppāyaṃ",
+      "gloss": "the Camarotpāta — the (sudden) leaping-up/flight of Camara",
+      "partOfSpeech": "compound",
+      "etymology": "camara (the asura-king Camarendra) + uppāya (Pkt) < Skt utpāta ('a flying-up, sudden upward rush, portent'); the event names the tīrtha.",
+      "notes": "uppāya here = the asura's headlong ascent to the heavens, not 'calamity' in the ordinary sense."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt/Pkt ca, coordinating conjunction.",
+      "notes": "Joins 'a tīrtha arose' with its naming, 'the Camarotpāta'."
+    },
+    {
+      "token": "સુસુમારપુરે",
+      "translit": "susumārapure",
+      "gloss": "at Susumārapura (the city)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name susumāra-pura, locative sg.; the town where Mahāvīra stood in kāyotsarga in his eleventh ascetic year.",
+      "notes": "Not Mahāvīra's birthplace; the site of the Camarendra episode."
+    },
+    {
+      "token": "સોમવણો",
+      "translit": "somavaṇo",
+      "gloss": "in the Soma garden (a grove at Susumārapura)",
+      "partOfSpeech": "noun",
+      "etymology": "soma + vaṇa (Pkt) < Skt vana ('grove, garden'); the -o ending functions locatively in this Apabhraṁśa-coloured gāthā.",
+      "notes": "The Bhagavatī/Triṣaṣṭi tradition names the grove the Aśoka-khaṇḍa (aśokavanikā); 'Soma-vana' may be a local/variant name — see notes."
+    },
+    {
+      "token": "તહિં",
+      "translit": "tahiṃ",
+      "gloss": "there",
+      "partOfSpeech": "adverb",
+      "etymology": "Repetition of tahiṃ < Skt tatra, fixing attention on the very spot of homage.",
+      "notes": "Emphatic restatement before the act of bowing."
+    },
+    {
+      "token": "વીરં",
+      "translit": "vīraṃ",
+      "gloss": "Vīra (Lord Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vīra ('hero'); standard short name of the 24th Tīrthaṅkara, accusative sg. as object of namimo.",
+      "notes": ""
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "of the three worlds",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt tihuaṇa < Skt tribhuvana (tri + bhuvana, 'three realms' — lower, middle, upper).",
+      "notes": "First member of the epithet-compound qualifying Vīra."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, beings",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt jaṇa < Skt jana ('folk, living beings'); middle member of the compound.",
+      "notes": "tihuaṇa-jaṇa = 'the beings of the three worlds'."
+    },
+    {
+      "token": "વચ્છલં",
+      "translit": "vacchalaṃ",
+      "gloss": "loving, tenderly affectionate (toward)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt vacchala < Skt vatsala ('fond as toward a calf/child', parental affection); accusative sg. agreeing with vīraṃ.",
+      "notes": "tihuaṇa-jaṇa-vacchalaṃ = 'affectionate to the beings of the three worlds'."
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we salute",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt namimo < Skt namāmaḥ, 1st person plural of √nam ('to bow'); the hymn's recurring gesture of homage.",
+      "notes": "Governs vīraṃ (accusative)."
+    }
+  ],
+  "literalTranslation": "Then a tīrtha arose there — and (it is) the Camarotpāta, at Susumārapura. There, in the Soma garden, we bow to Vīra, loving toward the beings of the three worlds.",
+  "idiomaticTranslation": "Thereupon that very ground became a tīrtha — the Camarotpāta at Susumārapura. There, in the Soma grove, we bow to Vīra (Mahāvīra), tender as a parent to every being of the three worlds.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse names and crowns the episode that v.67 had set in motion. There the asura-king Camara, fleeing the thunderbolt, had ducked beneath the Jina's feet and been spared when Indra recalled the vajra; here the poet draws the conclusion — 'to tahiṃ titthaṃ jāyaṃ', that very spot 'became a tīrtha', the Camarotpāta-tīrtha at Susumārapura. The legend (Bhagavatī Śataka 3; Triṣaṣṭi, Mahāvīra's eleventh ascetic year): the newly-arisen Asura-Indra Camara, enraged to see Saudharma-Śakra enthroned above him, resolved to storm the heavens and, for safety, 'took the support' of the Jina, who stood in kāyotsarga in the grove at Susumārapura. Śakra hurled the vajra; seeing it streak toward the place where the Tīrthaṅkara stood, he overtook and caught it back within four fingers' breadth. A spot where gods and asuras alike were thus checked by the Jina's mere presence is, by that fact, a crossing-place. The closing epithet 'tihuaṇa-jaṇa-vacchalaṃ' is exactly weighted: Vīra sheltered an asura (lower world), was revered by Śakra (upper world), and is bowed to by humans (middle world) — loving, like a parent, to the beings of all three. The refrain 'namimo' strings this tīrtha onto the garland.",
+    "doctrinalContext": "Two doctrinal points are verse-specific. (1) Śaraṇa: the arihanta as refuge — Camara needs only to 'take the Jina's support' to be spared, illustrating the Jina as one of the four refuges (cattāri saraṇaṃ). (2) Vītarāga-karuṇā: 'vacchala' here is compassion without attachment — the Jina performs no act to rescue Camara; his motionless, desireless presence is itself sanctuary, so that even Indra's weapon halts before him. The episode also underscores that this greatness belongs to the chadmastha (pre-omniscient) Vīra: reverence precedes kevala-jñāna, because it flows from his conduct and being, not merely his office.",
+    "practicalRelevance": "Reciting this bead, the worshipper does what Camara did — turns to the vītarāga as refuge in fear, trusting that drawing near the Jina's stillness is itself protection. The epithet invites the reciter to cultivate vatsala-bhāva, a parent-like tenderness extended impartially to every being, high or low.",
+    "crossReferences": [
+      {
+        "text": "Bhagavatī-sūtra (Vyākhyāprajñapti), Śataka 3, uddeśaka 2 — the Camarendra-utpāta episode",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra, Parvan X (Mahāvīra-caritra), 'the eleventh year of the austerities'",
+        "source": "Hemacandra, tr. Helen M. Johnson (1931)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (tr. Helen M. Johnson, 1931)",
+      "url": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra",
+      "type": "translation",
+      "consultedFor": "Narrative of the Camarendra episode — Mahāvīra in his 11th ascetic year at Susumārapura, Camara's flight, and Śakra recalling the vajra"
+    },
+    {
+      "title": "Camarendra, Camara-indra (Jainism definition)",
+      "url": "https://www.wisdomlib.org/definition/camarendra",
+      "type": "scholarship",
+      "consultedFor": "Identity of Camarendra/Camara as the asura-king and the Camarendra-kathā in Jain story literature"
+    },
+    {
+      "title": "Utpāta (definitions; Cologne Sanskrit lexicon-sourced)",
+      "url": "https://www.wisdomlib.org/definition/utpata",
+      "type": "dictionary",
+      "consultedFor": "Sense of uppāya/utpāta as a sudden upward rush / portent, glossing camaruppāyaṃ"
+    },
+    {
+      "title": "Vatsala, Vatsalā (definitions)",
+      "url": "https://www.wisdomlib.org/definition/vatsala",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vacchala/vatsala as parental affection (vātsalya rasa), glossing tihuaṇa-jaṇa-vacchalaṃ"
+    },
+    {
+      "title": "Tribhuvana, Tri-bhuvana (definitions)",
+      "url": "https://www.wisdomlib.org/definition/tribhuvana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of tihuaṇa/tribhuvana as the 'three worlds', glossing the epithet-compound"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse's overall sense is secure: it consecrates the Camarotpāta site at Susumārapura and bows to Mahāvīra. Two caveats. (1) The grove-name 'somavaṇo' (Soma-vana) is uncertain: the Bhagavatī/Triṣaṣṭi tradition places the kāyotsarga in the Aśoka-khaṇḍa garden (aśokavanikā) at Susumārapura, so 'Soma-vana' may be a variant or local name; other editions may read differently. (2) The episode belongs to Mahāvīra's chadmastha (pre-omniscient) period — he is venerated here as 'Vīra' though not yet a teaching/kevalin Tīrthaṅkara at the time of the event. The form 'somavaṇo' (-o ending) is read locatively per Apabhraṁśa gāthā usage. The detail of the vajra being recalled within four fingers' breadth (caturaṅgula) follows the Triṣaṣṭi account."
+}

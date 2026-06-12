@@ -1,0 +1,466 @@
+{
+  "shlokaId": "gamanagamano/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "While walking to and from worship I may have trodden on or brushed against tiny living things, plants, earth, water or other people, and not walked and acted as carefully as I should have — so I withdraw that wrong by mind, speech, and body.",
+  "recitation": "mārgane viṣe jātāṁ-āvatāṁ, pṛthvīkāya, apkāya, teukāya, vāukāya, vanaspatikāya, traskāya, nīla-phūla, māṭī, pāṇī, kaṇa, kapāsiyā, strī ādika taṇo saṅghaṭṭa huo hoya, (strīe 'puruṣa-ādika taṇo saṅghaṭṭa huo hoya' ema kahevuṁ) pāṁca samiti, traṇa gupti, e āṭha pravacana-mātā — śrāvaka-taṇo dharme rūḍī pere pāḷī nahi, khaṇḍana virādhanā thaī hoya, te savi huṁ mane, vacane, kāyāe karī, micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "માર્ગને",
+      "translit": "mārgane",
+      "gloss": "on/along the road, the path",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati mārga (< Sanskrit mārga, 'road, way') + dative-locative -ne.",
+      "notes": "Sets the everyday occasion of the confession: the road one walks to and from the rite."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "in, upon, regarding",
+      "partOfSpeech": "particle",
+      "etymology": "Classical Gujarati postposition viṣe (< Sanskrit viṣaye, locative of viṣaya, 'sphere, object').",
+      "notes": "Postposition pairing with mārgane: 'upon the road'."
+    },
+    {
+      "token": "જાતાં-આવતાં",
+      "translit": "jātāṁ-āvatāṁ",
+      "gloss": "while going (and) coming",
+      "partOfSpeech": "verb",
+      "etymology": "Imperfective participles of jāvuṁ ('to go', < Skt yā-) and āvavuṁ ('to come', < Skt ā-√gam); the doublet renders gamanāgamana.",
+      "notes": "The verse's titular act; the participial pair signals continuous, repeated movement."
+    },
+    {
+      "token": "પૃથ્વીકાય",
+      "translit": "pṛthvīkāya",
+      "gloss": "earth-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt pṛthvī ('earth') + kāya ('body').",
+      "notes": "First of the ṣaḍ-jīvanikāya; defined in the preface glossary."
+    },
+    {
+      "token": "અપ્કાય",
+      "translit": "apkāya",
+      "gloss": "water-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt ap ('water') + kāya ('body').",
+      "notes": "Book also attests the spelling અપૂકાય; preserved verbatim per the source."
+    },
+    {
+      "token": "તેઉકાય",
+      "translit": "teukāya",
+      "gloss": "fire-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit teu ('fire', < Skt tejas) + kāya.",
+      "notes": ""
+    },
+    {
+      "token": "વાઉકાય",
+      "translit": "vāukāya",
+      "gloss": "air-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vāu ('air/wind', < Skt vāyu) + kāya.",
+      "notes": ""
+    },
+    {
+      "token": "વનસ્પતિકાય",
+      "translit": "vanaspatikāya",
+      "gloss": "plant-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt vanaspati ('plant, vegetation') + kāya.",
+      "notes": ""
+    },
+    {
+      "token": "ત્રસકાય",
+      "translit": "traskāya",
+      "gloss": "mobile beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt trasa ('trembling, moving') + kāya; beings that move of their own accord.",
+      "notes": "Completes the six classes; the only one the walker can see fleeing underfoot."
+    },
+    {
+      "token": "નીલફૂલ",
+      "translit": "nīla-phūla",
+      "gloss": "green mould / sprouting blooms",
+      "partOfSpeech": "compound",
+      "etymology": "Gujarati nīla ('green/blue', < Skt nīla) + phūla ('flower, bloom', < Skt phulla).",
+      "notes": "A concrete instance of vanaspatikāya — green mildew, moss and budding growth underfoot; cf. panaga/hariya in the Iriyāvahiyaṁ. Read by some as 'blue flowers'; ambiguity flagged in notes."
+    },
+    {
+      "token": "માટી",
+      "translit": "māṭī",
+      "gloss": "earth, soil",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati māṭī (< Skt mṛttikā, 'clay, earth').",
+      "notes": "Concrete instance of pṛthvīkāya."
+    },
+    {
+      "token": "પાણી",
+      "translit": "pāṇī",
+      "gloss": "water",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati pāṇī (< Skt pānīya, 'drinkable, water').",
+      "notes": "Concrete instance of apkāya."
+    },
+    {
+      "token": "કણ",
+      "translit": "kaṇa",
+      "gloss": "grain, a kernel",
+      "partOfSpeech": "noun",
+      "etymology": "Skt kaṇa ('grain, particle').",
+      "notes": "Scattered grain on the road, capable of harboring or being life."
+    },
+    {
+      "token": "કપાસિયા",
+      "translit": "kapāsiyā",
+      "gloss": "cotton-seeds",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kapāsiyā, derivative of kapās ('cotton', < Skt karpāsa).",
+      "notes": "Paired with kaṇa as seed-life one may crush."
+    },
+    {
+      "token": "સ્ત્રી",
+      "translit": "strī",
+      "gloss": "a woman",
+      "partOfSpeech": "noun",
+      "etymology": "Skt strī ('woman').",
+      "notes": "Stands for human beings touched in passing; gender-swapped below."
+    },
+    {
+      "token": "આદિક",
+      "translit": "ādika",
+      "gloss": "and the like, et cetera",
+      "partOfSpeech": "adj",
+      "etymology": "Skt ādika ('beginning with, and so forth').",
+      "notes": "Extends 'woman' to people generally."
+    },
+    {
+      "token": "તણો",
+      "translit": "taṇo",
+      "gloss": "of, belonging to",
+      "partOfSpeech": "particle",
+      "etymology": "Old/Middle Gujarati genitive postposition taṇo (< Apabhraṁśa tan(a)-).",
+      "notes": "Archaic genitive equivalent to modern -no; governs 'contact with women, etc.'"
+    },
+    {
+      "token": "સંઘટ્ટ",
+      "translit": "saṅghaṭṭa",
+      "gloss": "contact, brushing-against",
+      "partOfSpeech": "noun",
+      "etymology": "Skt saṅghaṭṭa ('collision, rubbing', sam + √ghaṭṭ).",
+      "notes": "Defined in the preface glossary; here, inadvertent touch while moving."
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "occurred, took place",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati past of havuṁ/huvuṁ ('to be, become', < Skt bhū-).",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have, should it be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati subjunctive/optative of havuṁ ('to be').",
+      "notes": "The conditional 'if it has happened' that keeps the confession admitting even unwitting fault."
+    },
+    {
+      "token": "સ્ત્રીએ",
+      "translit": "strīe",
+      "gloss": "by a woman / a woman (should)",
+      "partOfSpeech": "noun",
+      "etymology": "strī + ergative/agentive -e.",
+      "notes": "Opens the rubric: instruction to the female reciter."
+    },
+    {
+      "token": "પુરુષઆદિક",
+      "translit": "puruṣa-ādika",
+      "gloss": "men and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Skt puruṣa ('man') + ādika ('et cetera').",
+      "notes": "The substituted term: a śrāvikā says 'contact with men, etc.' (taṇo, saṅghaṭṭa, huo, hoya here repeat the frame above)."
+    },
+    {
+      "token": "એમ",
+      "translit": "ema",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Gujarati ema (< Skt evam).",
+      "notes": ""
+    },
+    {
+      "token": "કહેવું",
+      "translit": "kahevuṁ",
+      "gloss": "is to be said, should say",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati gerundive of kahevuṁ ('to say', < Skt kath-).",
+      "notes": "Marks the parenthesis as a rubric, not part of the recited text."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt pañca ('five').",
+      "notes": ""
+    },
+    {
+      "token": "સમિતિ",
+      "translit": "samiti",
+      "gloss": "carefulnesses (samitis)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt samiti (sam + √i, 'careful conduct').",
+      "notes": "Glossed in the preface; the five rules of vigilant action."
+    },
+    {
+      "token": "ત્રણ",
+      "translit": "traṇa",
+      "gloss": "three",
+      "partOfSpeech": "adj",
+      "etymology": "Skt tri ('three').",
+      "notes": ""
+    },
+    {
+      "token": "ગુપ્તિ",
+      "translit": "gupti",
+      "gloss": "restraints (guptis)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt gupti (√gup, 'to guard').",
+      "notes": "Glossed in the preface; the threefold guarding of mind, speech, body."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative e (< Skt eta-).",
+      "notes": "Gathers the 5+3 into one unit."
+    },
+    {
+      "token": "આઠ",
+      "translit": "āṭha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Skt aṣṭa ('eight').",
+      "notes": ""
+    },
+    {
+      "token": "પ્રવચનમાતા",
+      "translit": "pravacana-mātā",
+      "gloss": "mothers of the doctrine",
+      "partOfSpeech": "compound",
+      "etymology": "Skt pravacana ('teaching, scripture') + mātā ('mother').",
+      "notes": "aṣṭa-pravacana-mātā, glossed in the preface; that which nurtures right conduct."
+    },
+    {
+      "token": "શ્રાવકતણો",
+      "translit": "śrāvaka-taṇo",
+      "gloss": "of the lay follower's (dharma)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt śrāvaka ('lay hearer') + archaic genitive taṇo; agrees with dharme.",
+      "notes": "The śrāvikā substitutes her own role implicitly through the rubric above."
+    },
+    {
+      "token": "ધર્મે",
+      "translit": "dharme",
+      "gloss": "in (one's) religious duty",
+      "partOfSpeech": "noun",
+      "etymology": "Skt dharma, locative dharme.",
+      "notes": "The sphere within which the eight mothers were to be kept."
+    },
+    {
+      "token": "રૂડી",
+      "translit": "rūḍī",
+      "gloss": "fine, proper, good",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati rūḍuṁ ('beautiful, good', < Skt rūpa-/ruci-), feminine rūḍī.",
+      "notes": "Pairs with pere: 'in good manner'."
+    },
+    {
+      "token": "પેરે",
+      "translit": "pere",
+      "gloss": "in the manner (of)",
+      "partOfSpeech": "noun",
+      "etymology": "Old Gujarati pere ('way, manner', < Skt prakāra/pari-).",
+      "notes": "rūḍī pere = 'rightly, well'."
+    },
+    {
+      "token": "પાળી",
+      "translit": "pāḷī",
+      "gloss": "having kept, observed",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati pāḷvuṁ ('to keep, protect', < Skt pālayati), conjunctive pāḷī.",
+      "notes": "With nahi: 'did not keep'."
+    },
+    {
+      "token": "નહિ",
+      "translit": "nahi",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt nahi ('not at all').",
+      "notes": "The pivot to admitting failure."
+    },
+    {
+      "token": "ખંડન",
+      "translit": "khaṇḍana",
+      "gloss": "breach, breaking",
+      "partOfSpeech": "noun",
+      "etymology": "Skt khaṇḍana (√khaṇḍ, 'to break').",
+      "notes": "Glossed in the preface."
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "injury, violation",
+      "partOfSpeech": "noun",
+      "etymology": "Skt virādhanā (vi + √rādh, 'to offend, harm').",
+      "notes": "Glossed in the preface; the antonym of ārādhanā (faithful keeping)."
+    },
+    {
+      "token": "થઇ",
+      "translit": "thaī",
+      "gloss": "occurred, came about",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati thavuṁ ('to become', < Skt sthā-), conjunctive thaī.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have (been)",
+      "partOfSpeech": "verb",
+      "etymology": "Subjunctive of havuṁ ('to be').",
+      "notes": "Repeats the conditional: 'if breach or injury has occurred'."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that, all that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt tad ('that').",
+      "notes": "Resumptive: gathers every fault just named."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, entirely",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva / savi (< Skt sarva, 'all').",
+      "notes": "te savi = 'all of that'."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati huṁ (< Apabhraṁśa hauṁ, < Skt aham).",
+      "notes": "The penitent first person owning the fault."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Skt manas, instrumental sense; here 'by mind' (corresponds to mano-gupti).",
+      "notes": "First of the threefold instrument."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vacana ('speech'), instrumental vacane.",
+      "notes": "Second instrument (vacana-gupti / bhāṣā-samiti)."
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt kāya ('body') + Gujarati instrumental -e.",
+      "notes": "Third instrument (kāya-gupti); the one most engaged in walking."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done (so)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati karvuṁ ('to do', < Skt kṛ-), conjunctive karī.",
+      "notes": "'By mind, speech, and body having (done it)' — seals the threefold agency."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, fruitless, in vain",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā (< Skt mithyā, 'wrongly, in vain').",
+      "notes": "Part of the formula glossed in the preface."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my, by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi/me (< Skt me, 'my').",
+      "notes": ""
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "(my) wrong deed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa (< Skt duṣkṛta, dus + kṛta, 'ill-done').",
+      "notes": "micchā mi dukkaḍaṁ = 'may my wrong deed be in vain'."
+    }
+  ],
+  "literalTranslation": "On the road, while going and coming — earth-bodied, water-bodied, fire-bodied, air-bodied, plant-bodied, and mobile beings; green mould and blooms, soil, water, grain, cotton-seeds; should contact with a woman and the like have occurred (a woman is to say 'should contact with a man and the like have occurred') — the five samitis, the three guptis, these eight mothers of the doctrine I did not keep well in the lay follower's duty; should breach and injury have occurred, all that, I — by mind, by speech, by body having done it — may my wrong deed be in vain.",
+  "idiomaticTranslation": "Going and coming along the road, I may have trodden upon or brushed against earth-bodied, water-bodied, fire-bodied, air-bodied, plant-bodied and moving creatures — green moss and budding shoots, clods of earth, drops of water, scattered grain and cotton-seeds — and I may have touched a woman or others in passing (a woman should instead say: 'I may have touched a man or others'). The eight mothers of the doctrine — the five samitis and the three guptis — I did not uphold rightly in my duty as a śrāvaka; wherever breach or injury occurred, for all of that, done by mind, speech, and body, may my wrongdoing be undone — micchā mi dukkaḍaṁ.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse is built as a single descending movement from the concrete to the abstract, and then to absolution. It opens on the bare fact of motion — jātāṁ-āvatāṁ, 'going and coming' — and immediately unrolls an inventory of what that motion endangers. Notice the deliberate doubling: first the six jīva-classes are named in their technical Sanskritic form (pṛthvīkāya … traskāya), and then the same realities are renamed in plain Gujarati objects the walker actually meets — nīla-phūla (green moss and blooms), māṭī (a clod of soil), pāṇī (a puddle), kaṇa and kapāsiyā (grain and cotton-seeds scattered on the path). This pairing is pastoral pedagogy: it teaches the abstract doctrine of universal soul-life by pointing at the very things under one's feet. The list then rises from non-human to human life with saṅghaṭṭa — mere inadvertent contact with 'a woman and the like' — and the rubric strīe … kahevuṁ flips the term for a female reciter, a small mark of how scrupulously the confession is fitted to each mouth. Only after the catalogue does the verse name the real failing: not the harm itself but the lapse of vigilance behind it — the eight pravacana-mātās 'not kept rightly' (rūḍī pere pāḷī nahi). The diction is humble and conditional throughout (hoya, 'should it have happened'), refusing to claim either guilt or innocence with certainty. The verse then closes the circle it opened: motion that began the verse becomes the threefold agency — mane, vacane, kāyāe — by which it is sealed and dissolved in micchā mi dukkaḍaṁ. The grammar enacts the doctrine: every fault is owned (huṁ, 'I'), totalised (te savi, 'all that'), and then released.",
+    "doctrinalContext": "The verse's distinctive doctrinal move is to treat outward hiṁsā as a symptom and inward pramāda (heedlessness) as the disease. It does not merely list creatures harmed; it diagnoses the cause — that the eight pravacana-mātās were not upheld. This reflects the Jain principle that injury is measured by the agent's carelessness and passion, not by the mere event: per the Tattvārtha framework, 'severance of vitalities out of passion is injury.' The enumeration of the ṣaḍ-jīvanikāya down to earth, water and air rests on the radical Jain claim that even elemental bodies house one-sensed souls, so that walking, the most ordinary act, is morally charged. The closing triad mane-vacane-kāyāe is not decorative: it maps the confession onto the three guptis (mind, speech, body) just named, so that the formula withdraws the fault by the very faculties that committed it.",
+    "practicalRelevance": "Recited daily, the verse trains apramāda in the most mundane setting — the walk to and from the temple. Its practical force is to make the reciter watch where the feet fall, soften how the body moves among others, and treat a brushed shoulder or a crushed seed as worth a moment's accountability. It converts routine commuting into an exercise of attentive non-harm, and its conditional 'should it have occurred' models a conscience that audits even unremembered, unintended acts.",
+    "crossReferences": [
+      {
+        "text": "Iriyāvahiyaṁ / Airyāpathika-sūtra — 'gaman-āgamane … je me jīvā virāhiyā … tassa micchā mi dukkaḍaṁ'",
+        "source": "Robert Williams, trans., cited in Hemacandra, Yogaśāstra 3.124/3.130"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.13 — 'pramatta-yogāt prāṇa-vyaparopaṇaṁ hiṁsā' (injury as severance of vitalities through heedlessness)",
+        "source": "Umāsvāti, Tattvārthasūtra"
+      },
+      {
+        "text": "Daśavaikālika-sūtra ch. 4/8 — exposition of the five samitis and three guptis",
+        "source": "Daśavaikālika-sūtra (Mūlasūtra)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Micchami Dukkadam — Wikipedia (includes the Iriyāvahiyaṁ/Airyāpathika confession parallel)",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "Etymology of micchā mi dukkaḍaṁ (mithyā + duṣkṛta), Hemacandra's gloss, and the closely parallel 'gaman-āgamane' road-injury confession."
+    },
+    {
+      "title": "Jīva (Jainism) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J%C4%ABva_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "The five elemental body-types (earth, water, fire, air, plant) underlying pṛthvī/ap/teu/vāu/vanaspati-kāya."
+    },
+    {
+      "title": "Ahimsa in Jainism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
+      "type": "scholarship",
+      "consultedFor": "Classification of beings by senses/vitalities and the doctrine that injury is gauged by passion/heedlessness."
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)",
+      "url": "",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text, orthography (e.g. અપ્કાય), and the gender-swap rubric."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is continuous Gujarati prose-confession, not a metrical gāthā, so word boundaries in the IAST recitation are editorial. 'નીલફૂલ' (nīla-phūla) is read here as green mould/moss and budding growth (a concrete instance of vanaspatikāya, parallel to panaga/hariya in the Iriyāvahiyaṁ); some reciters take it as 'blue/green flowers' — both senses point to harm to plant-life, but the exact referent is uncertain. The book's spelling અપ્કાય is preserved (it also attests અપૂકાય elsewhere). 'તણો' is the archaic Old-Gujarati genitive (= modern -no). The parenthetical strīe … kahevuṁ is a rubric, not recited text; its inner taṇo/saṅghaṭṭa/huo/hoya repeat the frame already glossed. The cross-referenced Tattvārtha and Daśavaikālika passages are standard attributions used to situate the doctrine, not quotations from the source book. URLs were fetched live and verified during this session; the Wikipedia articles are supplementary scholarship corroborating standard terminology."
+}

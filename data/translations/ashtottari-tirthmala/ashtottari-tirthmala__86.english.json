@@ -1,0 +1,182 @@
+{
+  "shlokaId": "ashtottari-tirthmala/86",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the town of Jālaura (Jalore), the temple of Lord Mahāvīra is so full of wonders — a famous chariot, a famous drum and more — that it is like a treasure-house of marvels.",
+  "recitation": "bahuviha acchariya nihī, raho ya paḍaho ya payaḍa sādivvo; balabhicca gāi dunni vi, jālaure vīra jiṇa bhavaṇo.",
+  "wordByWord": [
+    {
+      "token": "બહુવિહ",
+      "translit": "bahuviha",
+      "gloss": "of many kinds, manifold, of various sorts",
+      "partOfSpeech": "adj",
+      "etymology": "Skt bahuvidha (bahu 'many' + vidha 'kind, sort'); Prakrit loses the medial -dh-, giving bahuviha.",
+      "notes": "Qualifies acchariya — the wonders are 'of many kinds'."
+    },
+    {
+      "token": "અચ્છરિય",
+      "translit": "acchariya",
+      "gloss": "marvels, wonders, astonishing things",
+      "partOfSpeech": "noun",
+      "etymology": "Skt āścarya 'wonder, marvel'; the conjunct -ścary- assimilates to -cchariy- in Prakrit.",
+      "notes": "Genitive sense: '(a treasure) of marvels'."
+    },
+    {
+      "token": "નિહી",
+      "translit": "nihī",
+      "gloss": "treasure-house, store, hoard",
+      "partOfSpeech": "noun",
+      "etymology": "Skt nidhi 'treasure, store'; intervocalic -dh- > -h- in Prakrit, with lengthened final vowel nihī.",
+      "notes": "The temple is figured as a 'nidhi' (treasury) of wonders; echoes the hymn's running figure of the Jina/tīrtha as the supreme treasure."
+    },
+    {
+      "token": "રહો",
+      "translit": "raho",
+      "gloss": "the (festal) chariot",
+      "partOfSpeech": "noun",
+      "etymology": "Skt ratha 'chariot'; intervocalic -th- > -h-, nominative -o (raho).",
+      "notes": "The processional car used in the temple's ratha-yātrā."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt ca 'and'; the conjunctive particle, here in its Prakrit/Apabhraṁśa form ya.",
+      "notes": "First of the paired 'ya … ya' ('both … and')."
+    },
+    {
+      "token": "પડહો",
+      "translit": "paḍaho",
+      "gloss": "the drum (a large ceremonial kettle-drum / war-and-festival drum)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt paṭaha 'a large drum'; retroflex -ṭ- voices to -ḍ- in Prakrit, nominative -o.",
+      "notes": "Paired with the chariot as the temple's renowned festival paraphernalia."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt ca 'and' (Prakrit ya); second member of the 'ya … ya' correlative.",
+      "notes": "'raho ya paḍaho ya' = 'both the chariot and the drum'."
+    },
+    {
+      "token": "પયડ",
+      "translit": "payaḍa",
+      "gloss": "manifest, plainly evident, far-famed",
+      "partOfSpeech": "adj",
+      "etymology": "Skt prakaṭa 'manifest, open, famous'; pra- > pa-, -k- > -y-, giving payaḍa.",
+      "notes": "Predicated of the chariot-and-drum pair: openly renowned."
+    },
+    {
+      "token": "સાદિવ્વો",
+      "translit": "sādivvo",
+      "gloss": "divine, charged with divine power (sa-divya)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt sa-divya (sa- 'possessing' + divya 'divine'); -vy- > -vv- and -a > -o in Prakrit.",
+      "notes": "The chariot and drum are reputed to be 'divine' — i.e. wonder-working, locally famed for marvels."
+    },
+    {
+      "token": "બલભિચ્ચ",
+      "translit": "balabhicca",
+      "gloss": "and the vaulted spire / barrel-roofed shrine-crest (valabhī)",
+      "partOfSpeech": "compound",
+      "etymology": "Best taken as Skt valabhī ('turret, ridge of a roof, barrel-vault') + ca ('and'): valabhī-ca > balabhicca (v- > b-, ca > -cca).",
+      "notes": "Reading uncertain — see notes; an alternative parses it as a personal/attendant name (bala-bhṛtya). Translated here as an architectural marvel paired with the next word."
+    },
+    {
+      "token": "ગાઇ",
+      "translit": "gāi",
+      "gloss": "the cow(-image) / sacred cow figure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt go 'cow' (oblique gāv-); Prakrit gāī / gāi 'cow'.",
+      "notes": "Taken as a second enumerated marvel (a cow-image). It could alternatively be the verb 'are sung of' (Skt gīyate, Prakrit gāi-) — see notes."
+    },
+    {
+      "token": "દુન્નિવિ",
+      "translit": "dunni vi",
+      "gloss": "these two as well, both [of them] also",
+      "partOfSpeech": "compound",
+      "etymology": "dunni = Skt dvau/dve 'two' (Prakrit duṇṇi/doṇṇi); vi = Skt api 'also, even'. Together 'both, even the two'.",
+      "notes": "Rounds off the second pair (spire + cow), matching the 'ya … ya' pair of chariot + drum; characteristic gāhā compression."
+    },
+    {
+      "token": "જાલઉરે",
+      "translit": "jālaure",
+      "gloss": "in Jālaura (Jalore / ancient Jābālipura, on Suvarṇagiri hill in Rajasthan)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name Jālaura (Jābālipura > Jālor); locative singular in -e.",
+      "notes": "The town beneath Suvarṇagiri (Kanakācala). The very next verse hails the Yakṣa-vasati shrine on that hill."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra (Mahāvīra, the 24th Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vīra 'hero'; the standard short epithet of Mahāvīra.",
+      "notes": "In compound with jiṇa bhavaṇo: 'the temple of Vīra the Jina'."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the victorious, awakened one)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt jina 'conqueror'; intervocalic -n- > -ṇ- in Prakrit (jiṇa).",
+      "notes": ""
+    },
+    {
+      "token": "ભવણો",
+      "translit": "bhavaṇo",
+      "gloss": "the temple, the abode (shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt bhavana 'house, abode, temple'; -n- > -ṇ-, nominative -o.",
+      "notes": "The grammatical subject of the verse: '[is] the temple of Vīra Jina'."
+    }
+  ],
+  "literalTranslation": "A treasure-house of marvels of many kinds — the chariot and the drum, [both] manifest and divine; the vaulted spire (valabhī) and the cow(-image), these two as well — [is] the temple of Vīra the Jina in Jālaura.",
+  "idiomaticTranslation": "In Jālaura stands the temple of Vīra the Jina, a very treasury of wonders: its chariot and its drum, both far-famed and charged with divine power, and its vaulted spire and sacred cow-image besides — these too — are marvels one and all.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just hailed Vīra at Saccaüra and about to ascend Suvarṇagiri's Yakṣa-vasati in the next verse, the poet pauses at Jālaura and, tellingly, tells no legend here. Instead he simply inventories the temple's celebrated treasures — a rhetorical switch from narrative to catalogue that befits a 'garland' strung bead by bead. The temple is called a 'nidhi of manifold marvels' (bahuviha acchariya nihī), and four of those marvels are named in two tidy pairs. The first pair, joined by the correlative 'ya … ya', is the festal chariot (raha) and the proclaiming drum (paḍaha), said to be 'payaḍa sādivvo' — openly renowned and 'divine', i.e. credited with wonder-working power, the very paraphernalia of the temple's ratha-yātrā for which Jalore was long famous. The second pair — read here as the vaulted spire (valabhī) and a sacred cow-image (gāī) — is closed off with 'dunni vi', 'these two as well', balancing the first pair with typical gāhā economy. The whole gāthā is a single nominal sentence whose subject lands only in the last line: 'jālaure vīra jiṇa bhavaṇo' — 'the temple of Vīra the Jina in Jālaura'. The effect is to let the wonders pile up first, then resolve them all into the one shrine that holds them — so that the marvels function not as boasts but as lures drawing the pilgrim's gaze toward the Jina enshrined within.",
+    "doctrinalContext": "The verse is tīrtha-bhakti expressed through material splendour. In Jain devotion a temple's wondrous appurtenances — the chariot for the ratha-yātrā, the drum that summons and proclaims — are valued not as ends but as supports for darśana and right feeling (bhāva); the outward marvel exists to turn the worshipper inward toward the vītarāga Jina, who alone is the true 'treasure'. Calling the marvels 'divine' (sa-divya) reflects the Jain view that guardian (adhiṣṭhāyaka) yakṣa-deities attend great tīrthas and lend them protective, wonder-working power — a point the very next verse makes explicit by naming the Yakṣa-vasati — while liberation itself comes only from the passionless Jina, not from the deities or their marvels.",
+    "practicalRelevance": "Reciting this verse, the worshipper makes a brief mental pilgrimage to Jalore and is reminded that chariot, drum and spire are there to kindle devotion, not to dazzle: the practice is to let each outward marvel become an occasion for inward reverence toward Mahāvīra, converting wonder into vandanā.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.87 (Suvarṇagiri Jakkhavasahī / Yakṣa-vasati, founded under King Nāhaḍa) — the immediately following site on the same hill",
+        "source": "Mahendrasiṁhasūri, Vidhipakṣa (Anchalgachchha) ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Vicāra-śreṇī (a companion work that likewise records the Jain temples of Jābālipura/Jalore on Swarnagiri)",
+        "source": "Ācārya Mahendrasūri (per the Swarnagiri Tīrtha temple history)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shri Swarnagri Tirth (Jalore / Swarnagiri temple history)",
+      "url": "https://jainsite.com/jain-tirth/swarnagri-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Confirming that Mahendrasūri's Aṣṭottarī (and his Vicāra-śreṇī) name the Jalore/Swarnagiri Jain temples, and the antiquity of the Mahāvīra (Yakṣa-vasati) shrine and its chariot-festival tradition"
+    },
+    {
+      "title": "Jalore Fort",
+      "url": "https://en.bharatpedia.org/wiki/Jalore_Fort",
+      "type": "scholarship",
+      "consultedFor": "Identification of Jālaura/Jābālipura and the Suvarṇagiri (Kanakācala) hill on which the Mahāvīra temple stands"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens: āścarya, nidhi, ratha, paṭaha, prakaṭa, sa-divya, valabhī, go, bhavana, dvau, api"
+    },
+    {
+      "title": "JainQQ digital library (Sheth, Pāia-sadda-mahaṇṇavo and related Prakrit lexica)",
+      "url": "https://www.jainqq.org/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit word-forms and senses: acchariya, nihī, raha/raho, paḍaha/paḍaho, payaḍa, gāī, duṇṇi/dunni, vi"
+    }
+  ],
+  "translatorConfidence": 0.66,
+  "notes": "Third pāda 'balabhicca gāi dunni vi' is genuinely obscure and the chief source of reduced confidence. (1) 'balabhicca' is taken here as 'valabhī + ca' ('and the vaulted spire/barrel-roof crest', Skt valabhī; v- > b- and ca > -cca are both regular in this orthography); an alternative parse is a proper or functional name (e.g. bala-bhṛtya, 'the strong attendant/servant'), which is grammatically possible but doctrinally less apt for a Jina temple. (2) 'gāi' is rendered as 'cow(-image)' (Skt go/gāī); it could instead be the passive verb 'are sung of / celebrated' (Skt gīyate, Prakrit gāi-), giving '…both are sung of'. (3) Consequently 'dunni vi' ('both these two also') is read as rounding off a second pair (spire + cow) parallel to the chariter+drum pair; if 'gāi' is verbal, 'dunni vi' instead means 'both (the chariot and drum) too are celebrated'. The remainder of the verse (treasure-of-marvels, chariot, drum, manifest-and-divine, the Vīra Jina temple at Jālaura) is secure. Per book orthography, the original Gujarati/Prakrit spellings (e.g. જાલઉરે, બલભિચ્ચ) are preserved verbatim and not normalised. The exact form of the Jalore Mahāvīra shrine named here, and whether 'sādivvo' attaches to one or both pairs, may vary across editions."
+}

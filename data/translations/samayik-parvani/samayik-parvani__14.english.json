@@ -1,0 +1,270 @@
+{
+  "shlokaId": "samayik-parvani/14",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If I made any of the thirty-two possible mistakes — ten of the mind, ten of speech, twelve of the body — while keeping my sāmāyika, I sincerely take it all back and ask that it be undone.",
+  "recitation": "daśa mananā, daśa vacananā, bāra kāyānā, e batrīśa doṣo;\nmāṁhelo sāmāyika vrata-māṁhe jiko koi doṣa lāgyo hoya,\nte savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "દશ",
+      "translit": "daśa",
+      "gloss": "ten",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. daśan / Prakrit dasa, 'ten'.",
+      "notes": "Counts the faults of the mind (mana)."
+    },
+    {
+      "token": "મનના",
+      "translit": "mananā",
+      "gloss": "of the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. genitive plural of mana (Skt. manas, 'mind'); -nā is the possessive ending.",
+      "notes": "The ten mental faults — doubt, craving, aversion, drowsiness, etc."
+    },
+    {
+      "token": "દશ",
+      "translit": "daśa",
+      "gloss": "ten",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. daśan / Prakrit dasa.",
+      "notes": "Repeated for the second triad-category, speech."
+    },
+    {
+      "token": "વચનના",
+      "translit": "vacananā",
+      "gloss": "of speech",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. genitive of vacana (Skt. vacana, 'speech, word', from √vac, 'to speak').",
+      "notes": "The ten verbal faults — harsh, false, idle, or quarrelsome talk, etc."
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "twelve",
+      "partOfSpeech": "adj",
+      "etymology": "Old Guj. bāra from Skt. dvādaśa / Prakrit bārasa, 'twelve'.",
+      "notes": "Counts the faults of the body (kāya)."
+    },
+    {
+      "token": "કાયાના",
+      "translit": "kāyānā",
+      "gloss": "of the body",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. genitive of kāyā (Skt. kāya, 'body').",
+      "notes": "The twelve bodily faults — restless sitting, fidgeting, leaning, scratching, etc."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old/Mid. Guj. demonstrative e (cf. Skt. eṣa/etad), 'this, these'.",
+      "notes": "Gathers the three counts into a single total."
+    },
+    {
+      "token": "બત્રીશ",
+      "translit": "batrīśa",
+      "gloss": "thirty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Old Guj. batrīśa from Skt. dvātriṁśat / Prakrit battīsa, 'thirty-two'.",
+      "notes": "10 + 10 + 12 = the battīsa doṣa of sāmāyika."
+    },
+    {
+      "token": "દોષો",
+      "translit": "doṣo",
+      "gloss": "faults",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. doṣa, 'fault, flaw, blemish' (from √duṣ, 'to be spoiled'); Old Guj. plural -o.",
+      "notes": "The faults that mar the equanimity of the vow."
+    },
+    {
+      "token": "માંહેલો",
+      "translit": "māṁhelo",
+      "gloss": "from among (these)",
+      "partOfSpeech": "adj",
+      "etymology": "Old Guj. māṁhelo, 'belonging to the inside of, among', from māṁhi/madhya (Skt. madhya, 'middle, within').",
+      "notes": "Selects 'whichever' of the thirty-two may apply."
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyika",
+      "gloss": "sāmāyika (vow of equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sāmāyika, from samaya / sama-āya, 'equanimity, the state of evenness'.",
+      "notes": "Glossary term; here qualifies vrata."
+    },
+    {
+      "token": "વ્રતમાંહે",
+      "translit": "vrata-māṁhe",
+      "gloss": "within the vow",
+      "partOfSpeech": "noun",
+      "etymology": "Compound: vrata (Skt. vrata, 'vow') + māṁhe (Old Guj. locative postposition 'in, within', from madhye).",
+      "notes": "Locates the faults specifically inside the sāmāyika observance."
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "whichever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. relative jiko (cf. Skt. yaḥ, Prakrit jo), 'which, whatever'.",
+      "notes": "Correlates with te ('that') in the next line."
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. koi from Skt. ko'pi / Prakrit koi, 'anyone, any'.",
+      "notes": "Reinforces jiko — 'any single one' of the faults."
+    },
+    {
+      "token": "દોષ",
+      "translit": "doṣa",
+      "gloss": "fault",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. doṣa (from √duṣ).",
+      "notes": "Singular here: 'any one fault'."
+    },
+    {
+      "token": "લાગ્યો",
+      "translit": "lāgyo",
+      "gloss": "has been incurred / has attached",
+      "partOfSpeech": "verb",
+      "etymology": "Old Guj. past participle of lāgavuṁ, 'to touch, stick, befall', from Prakrit lagga- (Skt. lag, 'to adhere').",
+      "notes": "The fault 'sticks to' the reciter like accruing karma."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be / might have been",
+      "partOfSpeech": "verb",
+      "etymology": "Old Guj. subjunctive of thavuṁ/hovuṁ, 'to be' (Prakrit hoi, Skt. √bhū).",
+      "notes": "Conditional mood — covers faults even if unnoticed."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that, all those",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. te (Skt. tad), demonstrative correlating with jiko.",
+      "notes": "Resumes 'whatever fault' as the object of the retraction."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, entirely",
+      "partOfSpeech": "adj",
+      "etymology": "Old Guj. savi from Skt. sarva / Prakrit savva, 'all'.",
+      "notes": "Makes the confession exhaustive — no fault excepted."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. first-person huṁ (cf. Skt. aham, Prakrit hauṁ).",
+      "notes": "Personal ownership of the confession."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by the mind",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. instrumental of mana (Skt. manas).",
+      "notes": "First of the three instruments (yoga) of retraction; mirrors the ten mental faults."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. instrumental of vacana (Skt. vacana).",
+      "notes": "Second instrument; mirrors the ten faults of speech."
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by the body",
+      "partOfSpeech": "noun",
+      "etymology": "Old Guj. instrumental of kāyā (Skt. kāya).",
+      "notes": "Third instrument; mirrors the twelve bodily faults."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done (it), thereby",
+      "partOfSpeech": "verb",
+      "etymology": "Old Guj. absolutive of karavuṁ, 'to do' (Skt. √kṛ, kṛtvā).",
+      "notes": "Binds the threefold instruments to the act of retraction."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, in vain (let it be undone)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā from Skt. mithyā, 'falsely, in vain'.",
+      "notes": "Part of the retraction formula (glossary term)."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my / to me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi/me from Skt. me, 'my, of me'.",
+      "notes": "Possessive within the fixed Prakrit formula."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa from Skt. duṣkṛta, 'ill-done deed'.",
+      "notes": "Completes the formula micchā mi dukkaḍaṁ (glossary term) — 'may my misdeed be undone'."
+    }
+  ],
+  "literalTranslation": "Ten of the mind, ten of speech, twelve of the body — these thirty-two faults; from among them, whatever single fault may have attached itself within the sāmāyika vow, all of that I, by mind, by speech, and by body, [thus declare] micchā mi dukkaḍaṁ.",
+  "idiomaticTranslation": "Ten faults of mind, ten of speech, twelve of body — these are the thirty-two flaws of sāmāyika. If any one of them has clung to me while I kept the vow, I withdraw it wholly — with my mind, my speech, and my body — saying: may my misdeed be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse turns the closing confession to the vow's own conduct. Where the opening gāthās begged universal forgiveness, here the practitioner audits the sāmāyika just performed against a precise checklist: the battīsa doṣa — ten faults of mind, ten of speech, twelve of body. The numbers are themselves doctrinally chosen: faults are sorted by the three yogas (the channels of mind, speech, and body) through which all action flows, the body weighted slightly heavier because gross movement most easily disturbs sitting equanimity. The verse's quiet genius is its symmetry: the same threefold instrument that commits the faults — mane, vacane, kāyāe — is the instrument by which they are retracted. The reciter confesses with mind what the mind spoiled, with speech what speech spoiled, with body what the body spoiled, so retraction exactly answers transgression. Note too the deliberate vagueness of jiko koi … lāgyo hoya, 'whatever may have attached': the reciter does not claim to have catalogued each lapse but covers even faults committed unawares, since a fault, like karma, can 'stick' (lāgvuṁ) without notice. savi, 'all', then seals the net so nothing escapes. The verse advances the recitation from forgiving others (vv.2–3) to inspecting oneself, and prepares the ground for the affirmation of the Jina's word that follows.",
+    "doctrinalContext": "The verse rests on the Jain analysis of action as triyoga — mind, speech, body — and on the principle that purification (saṁvara/nirjarā) must address the same channel through which influx (āsrava) occurred. micchā mi dukkaḍaṁ here is not vague regret but pratikramaṇa proper: a deliberate withdrawal of consent from a past deed, rendering it 'micchā' (futile) so it cannot ripen with full force. The thirty-two faults are a practical sub-set of conduct-transgressions specific to the equanimity vow, distinct from the broader lay-vow atichāras confessed elsewhere in the ritual.",
+    "practicalRelevance": "A reciter uses this verse as a closing self-audit: before releasing the vow, mentally scan the session for restlessness of mind, careless speech, and fidgeting of body, then retract them through the same three faculties. It trains the habit of honest, specific self-review rather than generic apology — and, by covering even unnoticed lapses with 'savi', frees the practitioner to end the sāmāyika without lingering scruple.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka tradition — the threefold (mana-vacana-kāya) formulation of confession underlying micchā mi dukkaḍaṁ",
+        "source": "Āvaśyaka Niryukti / Sāmāyika-Āvaśyaka tradition"
+      },
+      {
+        "text": "Enumeration of the 10 mental, 10 verbal, 12 bodily faults of sāmāyika (battīsa doṣa)",
+        "source": "Standard Śvetāmbara sāmāyika/pratikramaṇa practice manuals"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim wording of the verse and its placement as Sūtra item (7), the confession of the thirty-two faults."
+    },
+    {
+      "title": "Samayik in English — Jain Samaj of Long Island",
+      "url": "https://jainsamajofli.org/samayik-in-english/",
+      "type": "translation",
+      "consultedFor": "English-language overview of the sāmāyika ritual and the 32 faults confessed at its conclusion."
+    },
+    {
+      "title": "Jain Books Online — Jainworld Library",
+      "url": "https://jainworld.com/library/jain-books/books-on-line/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the 10/10/12 (mind/speech/body) categorization of the battīsa doṣa across practice guides."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots and derivations for doṣa, daśan, dvātriṁśat, vacana, kāya, mithyā, duṣkṛta."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse is Old/Middle Gujarati prose-verse, not Prakrit; glosses reflect Old Gujarati morphology (genitive -nā, instrumental -e, locative postposition māṁhe) rather than direct Sanskrit. The closing 'micchā mi dukkaḍaṁ' is the fixed Prakrit formula embedded verbatim. The exact membership of the ten mental, ten verbal, and twelve bodily faults varies slightly across editions and sects; the verse itself only states the counts (10/10/12) and does not enumerate them, so individual fault-lists are noted as illustrative, not pinned to this book. Orthography (e.g. 'દોષો', 'બત્રીશ', 'મિચ્છા મિ દુક્કડં') preserved verbatim per the book's fidelity rules. The verse number is given as 7 in the supplied metadata though shloka id is /14; numbering across external editions is approximate."
+}

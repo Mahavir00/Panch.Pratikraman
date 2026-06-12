@@ -1,0 +1,167 @@
+{
+  "shlokaId": "ashtottari-tirthmala/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I feel truly lucky and blessed that my human life has at last become worthwhile, because, O Jina, I have reached your holy feet.",
+  "recitation": "dhanno'haṁ puṇṇo'haṁ, sahalo maha esa māṇuso jammo; jaṁ jiṇa tuha paya-paṅkaya-pasāya-pāsāya-m-abbhirūḍho.",
+  "wordByWord": [
+    {
+      "token": "ધન્નોહં",
+      "translit": "dhanno'haṁ",
+      "gloss": "blessed am I; fortunate am I",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit dhanya ('fortunate, blessed, auspicious') + aham ('I'); Prakrit dhanna + ahaṁ, vowel-sandhi → dhanno'haṁ",
+      "notes": "Monier-Williams glosses dhanya as 'fortunate, happy, auspicious'."
+    },
+    {
+      "token": "પુણ્ણોહં",
+      "translit": "puṇṇo'haṁ",
+      "gloss": "meritorious am I; full of merit am I",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit puṇya ('merit, virtue; auspicious') + aham; Prakrit puṇṇa + ahaṁ → puṇṇo'haṁ (ṇy → ṇṇ)",
+      "notes": "puṇṇa = puṇya — the auspicious merit ripening as this birth and this darśana."
+    },
+    {
+      "token": "સહલો",
+      "translit": "sahalo",
+      "gloss": "fruitful; having borne fruit",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sa-phala ('with fruit, successful'); Prakrit sahala (ph → h)",
+      "notes": "Predicated of jammo: the birth has 'become fruitful'."
+    },
+    {
+      "token": "મહ",
+      "translit": "maha",
+      "gloss": "my; of me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit mama (gen. of asmad); Prakrit maha / majjha"
+    },
+    {
+      "token": "એસ",
+      "translit": "esa",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit eṣa (m. nom. of etad); Prakrit esa"
+    },
+    {
+      "token": "માણુસો",
+      "translit": "māṇuso",
+      "gloss": "human; of a human being",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit mānuṣa ('human, belonging to mankind'); Prakrit māṇusa"
+    },
+    {
+      "token": "જમ્મો",
+      "translit": "jammo",
+      "gloss": "birth",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit janma; Prakrit jamma (nm → mm)"
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "because, since; in that",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit yat (relative pronoun / causal conjunction); Prakrit jaṁ",
+      "notes": "Here causal — it introduces the reason for the threefold blessedness just declared."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "O Jina",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit jina ('victor, conqueror'), vocative; Prakrit jiṇa"
+    },
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your; of you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit tava (gen. of yuṣmad); Prakrit tuha / tujjha"
+    },
+    {
+      "token": "પય",
+      "translit": "paya",
+      "gloss": "foot, feet",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pada; Prakrit paya (intervocalic d → y)"
+    },
+    {
+      "token": "પંકય",
+      "translit": "paṅkaya",
+      "gloss": "lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit paṅkaja ('mud-born' = lotus); Prakrit paṅkaya",
+      "notes": "Joined with paya as paya-paṅkaya, 'lotus-feet'."
+    },
+    {
+      "token": "પસાય",
+      "translit": "pasāya",
+      "gloss": "grace, favour, kindness",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit prasāda ('graciousness, kindness, favour, aid'); Prakrit pasāya (pra → pa, intervocalic d → y)",
+      "notes": "MW: prasāda = 'graciousness, kindness, kind behaviour, favour'."
+    },
+    {
+      "token": "પાસાય",
+      "translit": "pāsāya",
+      "gloss": "palace, lofty mansion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit prāsāda ('a lofty palatial mansion approached by steps, palace, temple'); Prakrit pāsāya",
+      "notes": "A deliberate near-homophone of pasāya; MW derives prāsāda from the same pra-√sad as prasāda — the basis of the verse's pun."
+    },
+    {
+      "token": "મબ્ભિરૂઢો",
+      "translit": "m-abbhirūḍho",
+      "gloss": "(I) have ascended, have mounted, have climbed up onto [it]",
+      "partOfSpeech": "verb",
+      "etymology": "euphonic hiatus-bridging -m- + Sanskrit abhirūḍha (past participle of abhi-√ruh, 'ascended, mounted, climbed'); Prakrit abbhirūḍha (bhr → bbh)",
+      "notes": "The inserted -m- is a common Prakrit/Apabhraṁśa sandhi consonant between vowels: pāsāya-m-abbhirūḍho. Read here in a first-person sense matching dhanno'haṁ / puṇṇo'haṁ."
+    }
+  ],
+  "literalTranslation": "Blessed am I, meritorious am I; fruitful is this human birth of mine — since, O Jina, I have ascended the palace of grace of your lotus-feet.",
+  "idiomaticTranslation": "Fortunate am I, full of merit am I — and fruitful at last is this human birth of mine! For, O Jina, by the grace of your lotus-feet I have climbed up into its very palace.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the outward acclamation of the preceding gāthā (jaya… — 'victory to the raft that ferries across the ocean of karma'), the devotee here turns the gaze inward: the Jina's greatness is now registered as the reciter's own transformed fortune. The verse is a rising triad of self-declaration — dhanno (blessed) / puṇṇo (meritorious) / sahalo (fruitful) — each a step higher, cresting on māṇuso jammo, 'human birth.' The wording is precise: the birth is not called fruitful in itself but becomes so (sahala, 'with fruit') only at the contact the second line supplies. The doubled emphatic haṁ ('I … I …') makes this first-person bhakti, not abstract praise. The second line carries the artistry: a single long compound, tuha paya-paṅkaya-pasāya-pāsāya — 'the palace-of-grace of the lotus of your feet' — resolved by abbhirūḍho, 'I have climbed up onto it.' The poet sets pasāya (grace, prasāda) immediately beside pāsāya (palace, prāsāda), a deliberate near-pun (yamaka) that is etymologically exact: prāsāda, 'a mansion approached by steps,' springs from the very root (pra-√sad) as prasāda, 'grace.' So the line says at once 'I have ascended to the palace that is your lotus-feet' and 'by your grace I have been lifted up' — devotion imaged as elevation, the worshipper raised from the ground of saṁsāra onto the high terrace of the Jina's presence. Standing humbly at the feet is recast as having reached a palace's summit. The verse thus advances the opening doxology from acclaiming the Jina to celebrating one's own access to him, and hands forward to the next gāthā, which widens the same gratitude from 'my birth' to 'this very day and hour.'",
+    "doctrinalContext": "The verse rests on manuṣya-janma-durlabhatā — the rarity of human birth, the single gati from which right conduct and liberation are attainable (cf. Uttarādhyayana 3.1, the 'four rare things' beginning with mānusatta). Hence the birth is fruitful not by nature but through dharma-contact. puṇya here is the auspicious merit that ripens both as this birth and as the chance to stand before the Jina — bhakti understood as the fruit of past merit and the seed of further purification (nirjarā). The 'ascent into the palace' encodes the soul's upward movement (ūrdhva-gati) toward liberation that veneration of the Jina sets in motion.",
+    "practicalRelevance": "Recited within the Pākṣika, this gāthā is a deliberate pause for gratitude: before confessing faults the reciter first registers that this human life, and the very act of worship now under way, are precious gifts not to be squandered — cultivating pramoda-bhāva (joy in the good) and guarding against taking darśana for granted.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 3.1 — the four durlabha (rare) attainments, headed by human birth (mānusatta), as the ground of spiritual effort",
+        "source": "Uttarādhyayana-sūtra (Śvetāmbara Mūlasūtra)"
+      },
+      {
+        "text": "Following gāthā (v.7): 'dhanno eso divaso…' — the same gratitude extended from one's birth to the blessed day and auspicious moment of meeting the Jina",
+        "source": "Aṣṭottarī Tīrthamālā, Ācārya Mahendrasiṁhasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — entry 'prasāda' (graciousness, kindness, favour)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prasAda",
+      "type": "dictionary",
+      "consultedFor": "Gloss and root of pasāya = prasāda ('grace, favour'); establishing the pra-√sad root shared with prāsāda"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — entry 'prāsāda' (lofty mansion approached by steps, palace, temple)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prAsAda",
+      "type": "dictionary",
+      "consultedFor": "Gloss of pāsāya = prāsāda ('palace approached by steps') and its derivation from pra-√sad, the basis of the pasāya/pāsāya pun"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — entry 'dhanya' (fortunate, happy, auspicious; bestowing wealth)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=Danya",
+      "type": "dictionary",
+      "consultedFor": "Gloss of dhanno = dhanya ('blessed, fortunate')"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (H. T. Sheth), Prakrit-Hindi dictionary — digitized on Jain Quantum",
+      "url": "https://jainqq.org/explore/017003/1",
+      "type": "dictionary",
+      "consultedFor": "Confirmation of Prakrit forms (sahala = saphala, jamma = janma, abbhirūḍha = abhirūḍha, paya = pada)"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse text matches the Anchalgachchha/Vidhipaksha edition verbatim. The inserted -m- in 'pāsāya-m-abbhirūḍho' is a euphonic hiatus-bridge typical of Prakrit/Apabhraṁśa, not a separate morpheme. 'pasāya' (prasāda, grace) and 'pāsāya' (prāsāda, palace) are read as a deliberate near-homophone pun (yamaka), on which the commentary rests; an editor could alternatively read them as two coordinate nouns ('grace and palace'), but the single long compound resolved by one participle (abbhirūḍho) favours the pun. 'dhanno'haṁ' / 'puṇṇo'haṁ' resolve as dhanna / puṇṇa + ahaṁ with vowel sandhi; the first-person sense is carried over to abbhirūḍho. Web glosses paraphrasing the verse were corroborated against the cited Monier-Williams entries; uncorroborated claims were not used."
+}

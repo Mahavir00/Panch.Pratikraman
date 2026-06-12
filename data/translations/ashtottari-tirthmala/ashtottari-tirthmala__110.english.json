@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/110",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the very lands where the Jinas were born, renounced the world, gained omniscience and won liberation, and where their preaching-assembly arose.",
+  "recitation": "jattha jiṇāṇaṁ jammo, dikkhā ṇāṇaṁ nisīhiyā āsī | jāyaṁ ca samosaraṇaṁ, tāo bhūmio vandāmi ||",
+  "wordByWord": [
+    {
+      "token": "જત્થ",
+      "translit": "jattha",
+      "gloss": "where, in which (places)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jattha < Sanskrit yatra ('where'); the relative adverb that sets up 'tāo bhūmio' (those lands) in the second line.",
+      "notes": "Relative correlative answered by tāo ('those') in pāda 4."
+    },
+    {
+      "token": "જિણાણં",
+      "translit": "jiṇāṇaṁ",
+      "gloss": "of the Jinas (the Tīrthaṅkaras)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive plural of Prakrit jiṇa < Sanskrit jina ('conqueror'); -āṇaṁ is the Prakrit gen. pl. ending (Skt. -ānām).",
+      "notes": "Governs all five event-nouns that follow: their birth, dīkṣā, etc."
+    },
+    {
+      "token": "જમ્મો",
+      "translit": "jammo",
+      "gloss": "birth (the birth-event)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jamma < Sanskrit janma, with assimilation nm > mm; nom. sg. masc. jammo.",
+      "notes": "First of the five sanctifying events; the janma-bhūmi."
+    },
+    {
+      "token": "દિક્ખા",
+      "translit": "dikkhā",
+      "gloss": "initiation, renunciation (monastic ordination)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dikkhā < Sanskrit dīkṣā ('consecration, initiation'), conjunct kṣ > kkh.",
+      "notes": "The dīkṣā-event, when the Jina-to-be renounces the household life."
+    },
+    {
+      "token": "નાણં",
+      "translit": "ṇāṇaṁ",
+      "gloss": "knowledge — here omniscience (kevalajñāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇa < Sanskrit jñāna ('knowledge'); initial jñ > ṇ. Nom./acc. sg. neut. ṇāṇaṁ.",
+      "notes": "In a Tīrthaṅkara's life-arc 'knowledge' denotes the attainment of kevalajñāna (omniscience)."
+    },
+    {
+      "token": "નિસીહિયા",
+      "translit": "nisīhiyā",
+      "gloss": "the place/event of liberation (nirvāṇa-site)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nisīhiyā < Sanskrit niṣīdhikā / niṣidhi, from ni-√sad ('to sit down, settle'); epigraphically the memorial of a Jain's final repose (death/liberation).",
+      "notes": "Here it names the nirvāṇa-bhūmi — the ground where the Jina cast off the body and attained mokṣa."
+    },
+    {
+      "token": "આસી",
+      "translit": "āsī",
+      "gloss": "was / came to be",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit āsī < Sanskrit āsīt, past (impf.) of √as ('to be').",
+      "notes": "Singular verb governing the whole preceding cluster (birth, dīkṣā, jñāna, nisīhiyā) by attraction."
+    },
+    {
+      "token": "જાયં",
+      "translit": "jāyaṁ",
+      "gloss": "arose, came into being",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle, Prakrit jāya < Sanskrit jāta ('born, arisen'), from √jan; here used predicatively ('arose').",
+      "notes": "Predicated of samosaraṇaṁ: 'and where the samavasaraṇa arose'."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca = Sanskrit ca, the connective conjunction.",
+      "notes": "Joins the samavasaraṇa clause to the list of life-events."
+    },
+    {
+      "token": "સમોસરણં",
+      "translit": "samosaraṇaṁ",
+      "gloss": "the samavasaraṇa (divine preaching-assembly)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit samosaraṇa < Sanskrit samavasaraṇa (sam-ava-√sṛ, 'a coming-together'); medial -ava- contracts to -o-.",
+      "notes": "Glossed in the preface; named here as the fifth sanctifying event of a place."
+    },
+    {
+      "token": "તાઓ",
+      "translit": "tāo",
+      "gloss": "those (lands)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tāo < Sanskrit tāḥ, demonstrative fem. acc. pl. of tad; correlative to jattha.",
+      "notes": "Resolves the relative jattha: 'those very [lands]'."
+    },
+    {
+      "token": "ભૂમિઓ",
+      "translit": "bhūmio",
+      "gloss": "lands, grounds, earths",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhūmio, acc. pl. fem. of bhūmi < Sanskrit bhūmi ('earth, ground, place'); Skt. acc. pl. bhūmīḥ.",
+      "notes": "Object of vandāmi — it is the consecrated ground itself, not an image, that is venerated."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I venerate, I bow to",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vandāmi = Sanskrit vandāmi, 1st sg. pres. of √vand ('to salute, revere').",
+      "notes": "The hymn's recurring gesture of homage, here directed at sacred geography."
+    }
+  ],
+  "literalTranslation": "Where the Jinas' birth, initiation, omniscience and place-of-liberation came to be, and where the samavasaraṇa arose — those lands I venerate.",
+  "idiomaticTranslation": "I bow low to the very earth itself wherever a Jina was born, took up the ascetic's vow, awoke into omniscience, and passed into liberation — and to every ground on which his divine preaching-assembly once arose.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just saluted every eternal shrine of the three worlds, the hymn now bows lower still — not to an image or a temple, but to the ground itself. The verse strings together the decisive moments of a Jina's career as a list of place-defining events: jammo (birth), dikkhā (renunciation), ṇāṇaṁ (the dawning of kevalajñāna, omniscience), nisīhiyā (the spot of final liberation), and samosaraṇaṁ (the rise of the preaching-assembly). Each is a verb-and-place fused into one: wherever (jattha) these 'were' (āsī) and 'arose' (jāyaṁ), there (tāo) the soil is holy, and that soil — bhūmio — is the direct object of vandāmi. The single past verb āsī sweeps the first four events into one breath, while ca and jāyaṁ set the samavasaraṇa slightly apart, as the event that follows omniscience. The poetic move is precise and deliberate: a garland of 108 named tīrthas could never exhaust the holy places, so the poet universalises by venerating the very category of consecrated ground. This is the hymn's penultimate, all-embracing salute before the colophon — the geography of devotion collapsed into a single bow to wherever a Jina's life touched the earth.",
+    "doctrinalContext": "The verse rests on the Jain conviction that a place is sanctified by association with a Tīrthaṅkara's spiritually decisive moments — the theology behind kalyāṇaka-bhūmi pilgrimage. The five events named track the great auspicious turning-points of a Jina's life: birth, renunciation, omniscience and liberation are four of the canonical pañca-kalyāṇaka; the poet substitutes the samavasaraṇa (the first-sermon event) for the conception (cyavana) that usually opens the set, foregrounding the moment the path is publicly re-established for the fourfold community. nisīhiyā here carries its older sense of the niṣīdhikā — the site of final repose, attested epigraphically as the memorial of a Jain's death-into-liberation — and so names the nirvāṇa-bhūmi. The doctrinal point is that reverence legitimately attaches to consecrated matter and place, not only to the liberated soul, because the earth bore witness to the conquest of karma.",
+    "practicalRelevance": "Reciting this verse lets a worshipper venerate every kalyāṇaka-bhūmi at once — Ayodhyā, Pāvāpurī, Sammeta Śikhara, Rājagṛha and countless more — without leaving the prayer hall. Beyond the bow, it invites the reciter to internalise the same five attainments as a personal aspiration: to be 'reborn' on the path, to renounce, to know, to be liberated, and to share the teaching.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of the 24 Tīrthaṅkaras whose life-events sanctify these lands",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Pañca-kalyāṇaka of Mahāvīra (cyavana, janma, dīkṣā, kevalajñāna, nirvāṇa)",
+        "source": "Kalpasūtra (Bhadrabāhu)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nishidhi / Niṣidhi (Indian Epigraphical Glossary — 'the tomb of Jain monks')",
+      "url": "https://www.wisdomlib.org/definition/nishidhi",
+      "type": "dictionary",
+      "consultedFor": "Confirming nisīhiyā (< niṣīdhikā/niṣidhi) as the memorial/place of a Jain's final repose, i.e. the nirvāṇa-bhūmi"
+    },
+    {
+      "title": "Samavasarana (Sanskrit / Jainism definitions)",
+      "url": "https://www.wisdomlib.org/definition/samavasarana",
+      "type": "dictionary",
+      "consultedFor": "Etymology (sam-ava-√sṛ) and meaning of samosaraṇaṁ as the divine preaching-assembly"
+    },
+    {
+      "title": "Kalyanaka (Jainism — the auspicious life-events of a Tīrthaṅkara)",
+      "url": "https://www.wisdomlib.org/definition/kalyanaka",
+      "type": "scholarship",
+      "consultedFor": "Framework of the auspicious Tīrthaṅkara life-events (janma, dīkṣā, kevalajñāna, nirvāṇa) underlying this verse"
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "nisīhiyā is read here as niṣīdhikā/niṣidhi — the site of final liberation (nirvāṇa-bhūmi), a sense attested in Jain epigraphy ('tomb of Jain monks'); a minority gloss treats it as a seat/place of meditative repose, but the kalyāṇaka sequence here favours the nirvāṇa-place reading and matches the preface ('liberation'). The five events named approximate but are not identical to the canonical pañca-kalyāṇaka: the verse omits cyavana (conception) and adds the samavasaraṇa. The singular past verb āsī governs the first four event-nouns by attraction; jāyaṁ predicates the samavasaraṇa clause. Orthography follows the book verbatim (e.g. જમ્મો, સમોસરણં); no normalisation applied."
+}

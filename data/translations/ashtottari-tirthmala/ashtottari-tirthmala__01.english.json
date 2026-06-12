@@ -1,0 +1,140 @@
+{
+  "shlokaId": "ashtottari-tirthmala/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We sing praise to the victorious Jina — the worshipful, all-knowing, all-seeing ford-maker who is perfected, awakened, eternal, and the supreme reality.",
+  "recitation": "arihaṁtaṁ bhagavaṁtaṁ, savvanuṁ savvadaṁsi titthayaraṁ | siddhaṁ buddhaṁ niccaṁ, paramapayatthaṁ jiṇaṁ thuṇimo ||",
+  "wordByWord": [
+    {
+      "token": "અરિહંતં",
+      "translit": "arihaṁtaṁ",
+      "gloss": "the Arihanta (destroyer of inner foes) — accusative, object of praise",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit arihaṁta = Skt. arhat / ari-hanta: ari ('enemy', i.e. the karmas/passions) + √han ('to destroy'); the embodied omniscient one.",
+      "notes": "Accusative -ṁ throughout marks every epithet as object of thuṇimo."
+    },
+    {
+      "token": "ભગવંતં",
+      "translit": "bhagavaṁtaṁ",
+      "gloss": "the Blessed/Worshipful One",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhagavaṁta = Skt. bhagavant, 'possessing bhaga' (glory, majesty, fortune); honorific epithet, here in apposition to arihaṁtaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વનું",
+      "translit": "savvanuṁ",
+      "gloss": "the all-knowing (omniscient) one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savvaṇṇū = Skt. sarvajña: savva ('all') + jña/ṇṇū ('knower'); the book's reading savvanuṁ is a softened orthographic variant of savvaṇṇū.",
+      "notes": "Denotes kevala-jñāna (perfect knowledge). Book spelling preserved verbatim (not normalised to savvaṇṇū)."
+    },
+    {
+      "token": "સવ્વદંસિ",
+      "translit": "savvadaṁsi",
+      "gloss": "the all-seeing (omni-perceiving) one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savvadaṁsi = Skt. sarvadarśin: savva ('all') + darśin ('seer'); paired with savvanuṁ as the standard kevala-jñāna + kevala-darśana dyad.",
+      "notes": ""
+    },
+    {
+      "token": "તિત્થયરં",
+      "translit": "titthayaraṁ",
+      "gloss": "the Tīrthaṅkara (ford-maker)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit titthayara = Skt. tīrthaṅkara: tittha ('ford/crossing') + kara ('maker').",
+      "notes": "Glossary term — used, not re-defined here."
+    },
+    {
+      "token": "સિદ્ધં",
+      "translit": "siddhaṁ",
+      "gloss": "the Siddha (perfected, liberated one)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. siddha, from √sidh ('to be accomplished, perfected'); the soul freed of all karma.",
+      "notes": "Shifts the praise from the embodied (arhat) to the liberated (siddha) state within one breath."
+    },
+    {
+      "token": "બુદ્ધં",
+      "translit": "buddhaṁ",
+      "gloss": "the awakened/enlightened one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Skt. buddha, past participle of √budh ('to awaken, know'); 'one who has awakened to reality'.",
+      "notes": "In Jain usage denotes full spiritual awakening, not the Buddhist title."
+    },
+    {
+      "token": "નિચ્ચં",
+      "translit": "niccaṁ",
+      "gloss": "the eternal / the everlasting one (or adverbially, 'forever')",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit nicca = Skt. nitya ('constant, eternal').",
+      "notes": "Can read as an epithet of the siddha-state (eternal) or adverbially with thuṇimo ('we praise forever')."
+    },
+    {
+      "token": "પરમપયત્થં",
+      "translit": "paramapayatthaṁ",
+      "gloss": "the supreme reality / one established in the highest state",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit parama-payattha: parama ('highest, supreme') + payattha = Skt. padārtha ('reality, entity') or pada-stha ('established in the [highest] state'); both readings are current.",
+      "notes": "See notes: the compound supports 'supreme Tattva' and 'established in the supreme abode (siddha-loka)' alike."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (spiritual victor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa = Skt. jina, from √ji ('to conquer'); conqueror of rāga, dveṣa and moha.",
+      "notes": "The grammatical head all preceding epithets qualify."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise / we extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇimo, 1st person plural of thuṇa- (Skt. √stu, stumaḥ 'we praise'); Skt. st- → Prakrit th-.",
+      "notes": "Plural 'we' frames the hymn as a communal act of praise; the sole finite verb governing the verse."
+    }
+  ],
+  "literalTranslation": "The Arihanta, the Blessed One, the all-knowing, the all-seeing, the Tīrthaṅkara, the Perfected (Siddha), the Awakened, the Eternal, the supreme reality — the Jina — we praise.",
+  "idiomaticTranslation": "We lift our praise to the Jina: worshipful Arihanta, all-knowing and all-seeing ford-maker, perfected and awakened, eternal, the very Supreme Reality.",
+  "elaboration": {
+    "verseByVerseCommentary": "The hymn opens not with a place but with the One who makes every place holy. The whole verse is a single garland of accusative epithets strung on one finite verb, thuṇimo ('we praise') — and the deliberate craft lies in which epithets are chosen and in what order. Arihaṁtaṁ–bhagavaṁtaṁ–titthayaraṁ name the Jina in his embodied, teaching aspect: the foe-destroyer still in the body, worshipful, re-founding the ford across saṁsāra. Sandwiched between them, savvanuṁ savvadaṁsi name the twin marks that prove that state — sarvajña and sarvadarśin, perfect knowing and perfect seeing, the kevala-jñāna/kevala-darśana dyad that arises the instant the four ghātī-karmas fall. The second line then steps beyond the body: siddhaṁ buddhaṁ niccaṁ — perfected, awakened, eternal — is the liberated, deathless aspect, the soul in siddha-hood. So in two lines the verse fuses the two highest Parameṣṭhin states, arhat and siddha, onto one object, and seals them with paramapayatthaṁ jiṇaṁ — the Jina who is the 'supreme reality' itself. The movement is from attribute to essence: many epithets, one Jina. By making the verb plural ('we'), the reciter is enrolled into a chorus, and the hymn's long pilgrimage is launched from its only true source — the Victor in whom knowing, seeing, perfection and eternity are one.",
+    "doctrinalContext": "The verse compresses the Jain account of liberation into an epithet-sequence. Sarvajña + sarvadarśin (savvanuṁ savvadaṁsi) are not loose synonyms but the two simultaneous faculties — infinite knowledge and infinite perception — that define omniscience once the knowledge- and perception-obscuring karmas are annihilated. The arhat/siddha pairing encodes the doctrine that the Arihanta (omniscient yet embodied) and the Siddha (bodiless, karma-free) are successive states of the same victor, the very distinction drawn in the first two lines of the Navkāra. Niccaṁ asserts the eternality of the liberated soul; paramapayatthaṁ affirms the Jina as the highest padārtha/pada — the supreme reality and the supreme abode toward which the entire 108-tīrtha pilgrimage points.",
+    "practicalRelevance": "Before naming a single shrine, the reciter fixes the object of all pilgrimage: not the stone or the site but the Jina's qualities. Chanting this opening trains attention to begin every devotion from essence, not geography — so that the journey through 108 places that follows is felt as one continuous bow to the same omniscient Victor.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — praise of the 24 Tīrthaṅkaras as savvaṇṇū",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Namaskāra (Navkāra) Mantra — 'namo arihantāṇaṁ / namo siddhāṇaṁ' (arhat–siddha pairing)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Tattvārtha Sūtra 10.1 (kṣaya of ghātī-karma yields kevala-jñāna)",
+        "source": "Umāsvāti, Tattvārtha Sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Illustrated Ardha-Magadhi Dictionary (Ratnachandraji) and Jain Prakrit lexica",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for savvaṇṇū/savvadaṁsi, thuṇa-, arihaṁta, jiṇa"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit cognates sarvajña, sarvadarśin, arhat, jina, √stu (stumaḥ), padārtha/nitya"
+    },
+    {
+      "title": "Jaina Sūtras (Sacred Books of the East), trans. Hermann Jacobi",
+      "url": "https://www.sacred-texts.com/jai/",
+      "type": "translation",
+      "consultedFor": "Conventional English renderings of arhat/jina/tīrthaṅkara/siddha epithets in canonical praise formulae"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Book reading savvanuṁ (સવ્વનું) is preserved verbatim; it is an orthographic softening of the expected savvaṇṇū (sarvajña) and is read as 'omniscient'. paramapayatthaṁ is genuinely two-valued: parama-padārtha ('supreme reality/Tattva') and parama-pada-stha ('established in the supreme abode'); both are doctrinally apt and the verse likely intends the resonance. niccaṁ (nitya) may be taken as an epithet ('the eternal') or adverbially with thuṇimo ('we praise constantly'); the epithet reading is preferred here for parallelism with siddhaṁ/buddhaṁ. buddhaṁ is the Jain 'awakened', not a Buddhist reference. No verified critical apparatus for this verse's variant readings was located beyond the source edition."
+}

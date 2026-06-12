@@ -1,0 +1,152 @@
+{
+  "shlokaId": "ashtottari-tirthmala/54",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "When King Daśārṇabhadra saw the god Indra honour Lord Mahāvīra with splendour far greater than his own, his pride dissolved in astonishment and he gave up his throne to become a monk.",
+  "recitation": "paḍibimbiyato sakko, vandai vīraṃ tao dasaṇa-bhaddo |\nvimhiya-maṇaso haricco caṇeṇa vilauya pavvaio ||",
+  "wordByWord": [
+    {
+      "token": "પડિબિંબિયતો",
+      "translit": "paḍibimbiyato",
+      "gloss": "manifesting [his] mirrored, multiplied forms",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paḍibimbiya < Sanskrit pratibimbita ('reflected, replicated'); present/absolutive sense, of Indra magically duplicating his own splendid retinue.",
+      "notes": "The legend has Śakra fill the assembly with countless replicated Airāvata elephants and divine forms to outshine the king."
+    },
+    {
+      "token": "સક્કો",
+      "translit": "sakko",
+      "gloss": "Śakra (Indra, king of the gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sakka < Sanskrit śakra ('the mighty one'), epithet of Indra; nominative singular -o.",
+      "notes": ""
+    },
+    {
+      "token": "વંદઇ",
+      "translit": "vandai",
+      "gloss": "bows to, venerates",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vandai < Sanskrit vandate (√vand, 'to salute, praise'); present 3rd person singular.",
+      "notes": "Here Indra himself does homage to Vīra — the god's own worship is what dwarfs the king's."
+    },
+    {
+      "token": "વીરં",
+      "translit": "vīraṃ",
+      "gloss": "Vīra (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit vīra ('hero'), name of the 24th Tīrthaṅkara; accusative singular -aṃ (object of vandai).",
+      "notes": ""
+    },
+    {
+      "token": "તઓ",
+      "translit": "tao",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tao < Sanskrit tataḥ ('then, from that'); temporal connective.",
+      "notes": ""
+    },
+    {
+      "token": "દસણ",
+      "translit": "dasaṇa",
+      "gloss": "Daśārṇa- (first member of the king's name)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit dasaṇa < Sanskrit daśārṇa, name of a country/region; here the first half of the personal name Daśārṇabhadra.",
+      "notes": "Joined with the next word; the book's orthography contracts daśārṇa to dasaṇa."
+    },
+    {
+      "token": "ભદ્દો",
+      "translit": "bhaddo",
+      "gloss": "-bhadra (King Daśārṇabhadra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhadda < Sanskrit bhadra ('auspicious, good'); nominative -o. dasaṇa-bhaddo = the proper name Daśārṇabhadra, grammatical subject of pavvaio.",
+      "notes": ""
+    },
+    {
+      "token": "વિમ્હિય",
+      "translit": "vimhiya",
+      "gloss": "astonished, struck with wonder",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vimhiya < Sanskrit vismita (vi-√smi, 'to be amazed'); past participle, forming a bahuvrīhi with the next word.",
+      "notes": ""
+    },
+    {
+      "token": "મણસો",
+      "translit": "maṇaso",
+      "gloss": "of mind; (whose) mind",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇa < Sanskrit manas ('mind'); genitive maṇaso = manasaḥ. vimhiya-maṇaso = 'with astonished mind'.",
+      "notes": ""
+    },
+    {
+      "token": "હરિચ્ચો",
+      "translit": "haricco",
+      "gloss": "by Hari's (Indra's) worship",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit hari ('Indra') + accaṇa/aṇa < Sanskrit arcana ('worship, homage'); read with the following token as hari-(ar)caṇeṇa, instrumental, the doubled cc arising from i+a sandhi.",
+      "notes": "Token boundary is uncertain; haricco caṇeṇa is best taken together as 'by Hari's homage'. Alternatively haricco could be a separate epithet of Indra ('Hari'). Flagged in notes."
+    },
+    {
+      "token": "ચણેણ",
+      "translit": "caṇeṇa",
+      "gloss": "by/through worship (homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (ar)caṇa < Sanskrit arcana ('worship'); instrumental singular -eṇa. Continues hari-ccaṇeṇa, 'by Indra's act of worship [of Vīra]'.",
+      "notes": "i.e. outdone by the far grander homage the god offered."
+    },
+    {
+      "token": "વિલઉય",
+      "translit": "vilauya",
+      "gloss": "crestfallen, his pride humbled",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit, most plausibly < Sanskrit vilakṣa ('abashed, disconcerted'); possibly < vilīna ('dissolved [pride]') or vilokita ('having beheld'). Past-participial/absolutive sense.",
+      "notes": "The exact Sanskrit equivalent is uncertain (see notes); the narrative ('humbled, ashamed of his pride') supports 'crestfallen'."
+    },
+    {
+      "token": "પવ્વઇઓ",
+      "translit": "pavvaio",
+      "gloss": "renounced the world; took monastic initiation",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pavvaia < Sanskrit pravrajita (pra-√vraj, 'to go forth'); past participle nominative -o, 'one who went forth' as a mendicant.",
+      "notes": "The climactic act: Daśārṇabhadra takes dīkṣā."
+    }
+  ],
+  "literalTranslation": "Manifesting his mirrored, multiplied forms, Śakra bows to Vīra; then King Daśārṇabhadra, his mind struck with wonder, crestfallen at Hari's [matchless] homage, went forth [as a monk].",
+  "idiomaticTranslation": "Multiplying himself into a dazzling array of celestial forms, Śakra (Indra) bows before Lord Vīra; and then King Daśārṇabhadra — his mind overwhelmed with wonder, his pride utterly humbled by the god's incomparable worship — renounced his kingdom and took the vows of a monk.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the turning-point (peripeteia) of the Daśārṇakūṭa episode. In the preceding verses King Daśārṇabhadra has come to honour Mahāvīra with unprecedented royal pomp, secretly proud that none could match his devotion. Now Śakra answers: 'manifesting his mirrored forms' (paḍibimbiyato) he conjures a celestial retinue so vast — replicated Airāvata elephants, thrones and queens (the imagery of v.53) — that the king's display is reduced to nothing, and the god himself bows (vandai) to Vīra. The verse then pivots on the king: vimhiya-maṇaso, 'his mind struck with wonder', and vilauya, 'crestfallen', the very word for collapsed pride. Yet the humbling is not despair but insight. Daśārṇabhadra grasps the one homage Indra cannot offer — for a god, bound to celestial enjoyment, cannot take the great vows — and so he does precisely that: pavvaio, 'he went forth'. By renouncing he accomplishes what the king of the gods, for all his power, could not, and thereby surpasses Indra at his own contest of devotion. The half-line haricco caṇeṇa ('by Hari's worship') is the hinge: it is being outshone by the god's homage that converts the king's pride into the resolve to renounce. The next verse completes the reversal — Indra descends to beg forgiveness at the new monk's feet. The half-verse thus compresses an entire spiritual drama: pride met, pride broken, pride transmuted into release.",
+    "doctrinalContext": "The verse dramatizes two Jain principles. First, māna (pride) is a kaṣāya, a passion that binds; its dissolution (vilauya) is shown not as humiliation but as the precondition for the higher act. Second, and centrally, it asserts the supremacy of saṁyama (renunciation / caritra) over every form of external bhakti and over divine power itself: a deva, however exalted, cannot take the mahāvratas, for the path to liberation is walked only from the human birth. Daśārṇabhadra's pravrajyā is therefore the supreme worship of the Jina — self-renunciation outranks even Indra's dazzling homage. The episode is the stock illustration that 'the renouncer is the true king', greater than the king of the gods.",
+    "practicalRelevance": "Recited in the Pakkhī confession, this verse turns the worshipper's gaze inward: it asks the reciter to notice his own māna — pride in wealth, devotion, or display — and to let it dissolve before the Jina. It teaches that the costliest outward offering is surpassed by one inward turn toward restraint, and that being humbled is an opportunity, not a defeat.",
+    "crossReferences": [
+      {
+        "text": "Daśārṇabhadra episode (Indra humbles the king's pride; the king renounces)",
+        "source": "Āvaśyaka Niryukti / Āvaśyaka Cūrṇi, Śvetāmbara commentarial tradition"
+      },
+      {
+        "text": "Mahāvīra-carita, narration of Daśārṇabhadra's renunciation",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacarita, Parvan 10"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Hargovind Das T. Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit–Hindi Dictionary with Sanskrit equivalents)",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit equivalents for paḍibimbiya (pratibimbita), vimhiya (vismita), pavvaia (pravrajita), and the arcana/sakka entries"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the tokens: pratibimbita (√bimb), vismita (vi-√smi), pravrajita (pra-√vraj), arcana, śakra, vilakṣa"
+    },
+    {
+      "title": "Jain View of Life — 3.10 Renunciation (Daśārṇabhadra and Indra)",
+      "url": "https://www.herenow4u.net/index.php?id=83425",
+      "type": "scholarship",
+      "consultedFor": "Confirmation of the legend's arc: Indra outshines the king's display, the king is humbled and ashamed of his pride, renounces, and Indra then bows to the renouncer"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The first line and the renunciation (pavvaio) are secure and fully match the attested Daśārṇabhadra legend (Indra outshining the proud king's homage, the king humbled into renunciation). Three tokens in the second line are philologically uncertain owing to the book's Apabhraṁśa-coloured orthography: (1) the word boundary 'હરિચ્ચો ચણેણ' (haricco caṇeṇa) is read here as hari-(ar)caṇeṇa, 'by Hari's/Indra's worship' (instrumental); haricco could alternatively be an independent nominative epithet of Indra. (2) 'વિલઉય' (vilauya) is taken as vilakṣa, 'crestfallen/abashed', on the strength of the legend; vilīna ('dissolved [pride]') or vilokita ('having beheld') are possible alternatives. (3) 'paḍibimbiyato' is read as Indra manifesting replicated forms; the -to ending is treated as a present-participial/absolutive of pratibimbita. These readings are consistent with the narrative but may vary in other editions; the verse text follows the Anchalgachchha/Vidhipaksha book verbatim and has not been normalised."
+}

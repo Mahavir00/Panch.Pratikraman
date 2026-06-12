@@ -1,0 +1,178 @@
+{
+  "shlokaId": "ashtottari-tirthmala/35",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to the living Jinas — at most one hundred seventy of them, at least twenty — whose bodies glow in the colours of gold, silver, coral, emerald and a fine dark gem.",
+  "recitation": "namimo ukkosa-pae, sattari sayaṁ taha jahannao vīsaṁ; kaṇāga kalahoya vidduma, maragaya vara riṭṭha rayaṇa nibhe.",
+  "wordByWord": [
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow / let us bow",
+      "partOfSpeech": "verb",
+      "etymology": "From the root nam- 'to bow', via Prakrit namimo (Skt. namāmaḥ), 1st person plural present.",
+      "notes": "Carries the homage of the whole verse; its object (the viharamāṇa Jinas) is supplied from the surrounding verses."
+    },
+    {
+      "token": "ઉક્કોસપએ",
+      "translit": "ukkosa-pae",
+      "gloss": "at the maximum count (lit. 'at the highest stage')",
+      "partOfSpeech": "compound",
+      "etymology": "ukkosa (Skt. utkṛṣṭa, 'highest, maximum') + pae (Skt. pade, locative of pada, 'stage, point'); locative of measure.",
+      "notes": "Technical pair with jahannao below: utkṛṣṭa = the upper limit of the variable count."
+    },
+    {
+      "token": "સત્તરિ",
+      "translit": "sattari",
+      "gloss": "seventy",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. saptati, 'seventy'.",
+      "notes": "Combines with sayaṁ to form the idiom 'one hundred seventy'."
+    },
+    {
+      "token": "સયં",
+      "translit": "sayaṁ",
+      "gloss": "hundred",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śataṁ, 'a hundred'.",
+      "notes": "sattari sayaṁ = 'a hundred-and-seventy' (170), the same 'sattarisayaṁ' that names the 170 vijayas in the preceding verse."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "and likewise / also",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tathā, 'thus, likewise'.",
+      "notes": "Links the maximum clause to the minimum clause."
+    },
+    {
+      "token": "જહન્નઓ",
+      "translit": "jahannao",
+      "gloss": "at the minimum (lit. 'from the lowest')",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. jaghanyataḥ, ablative-adverb of jaghanya, 'lowest, least'.",
+      "notes": "Doctrinal counterpart of ukkosa-pae: jaghanya = the lower limit of the count."
+    },
+    {
+      "token": "વીસં",
+      "translit": "vīsaṁ",
+      "gloss": "twenty",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. viṁśati, 'twenty'.",
+      "notes": "The minimum — and present — number of viharamāṇa Jinas, four in each of the five Mahāvideha regions."
+    },
+    {
+      "token": "કણાગ",
+      "translit": "kaṇāga",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kanaka, 'gold'.",
+      "notes": "First of five colour-standards; head of a string of substance-names governed by nibhe ('resembling')."
+    },
+    {
+      "token": "કલહોય",
+      "translit": "kalahoya",
+      "gloss": "refined silver (white metal)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kaladhauta, 'refined/washed precious metal' — usually silver, sometimes gold.",
+      "notes": "Read here as the 'white' standard; the term's silver/gold ambiguity is noted below."
+    },
+    {
+      "token": "વિદ્દુમ",
+      "translit": "vidduma",
+      "gloss": "coral (red)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vidruma, 'coral'.",
+      "notes": "The 'red' standard."
+    },
+    {
+      "token": "મરગય",
+      "translit": "maragaya",
+      "gloss": "emerald (green)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. marakata, 'emerald'.",
+      "notes": "The 'green' standard."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, fine",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara, 'best, choice'.",
+      "notes": "Qualifies the riṣṭa-jewel that follows."
+    },
+    {
+      "token": "રિટ્ઠ",
+      "translit": "riṭṭha",
+      "gloss": "riṣṭa-gem (a dark/black jewel)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. riṣṭa, the name of a black gemstone.",
+      "notes": "Supplies the 'black/dark' standard, completing the five complexions."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ratna, 'jewel'.",
+      "notes": "Forms 'riṭṭha-rayaṇa' = 'the riṣṭa-jewel'."
+    },
+    {
+      "token": "નિભે",
+      "translit": "nibhe",
+      "gloss": "resembling, of the hue of",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. nibha, 'like, resembling in appearance'; here governing the whole list of substances.",
+      "notes": "Turns the five materials into a single bahuvrīhi: '[Jinas] whose colour is like gold… and the riṣṭa-jewel'."
+    }
+  ],
+  "literalTranslation": "We bow — at the maximum count a hundred-and-seventy, and likewise at the minimum twenty — [to those] resembling in hue gold, refined silver, coral, emerald, and the excellent riṣṭa-jewel.",
+  "idiomaticTranslation": "We bow to the living Ford-makers — at their fullest, a hundred and seventy; at the least, twenty — their radiant forms gleaming like gold, like silver, like coral, like emerald, and like the lustrous dark riṣṭa-gem.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the doctrinal hinge of the viharamāṇa section. The previous verse has just placed the wandering, presently-teaching Jinas across the hundred-and-seventy regions (sattarisayaṁ) of the two-and-a-half continents; the next verse will start naming them (Sīmandhara, Jugamandhara, Bāhu, Subāhū…). Standing between, this gāthā answers two natural questions before the roll-call begins: how many such Jinas can there be, and what do they look like? The first line gives the canonical range with the technical pair ukkosa-pae (utkṛṣṭa, maximum) and jahannao (jaghanya, minimum): at most one hundred seventy, at least twenty. The minimum of twenty is also the present number — four living Jinas in each of the five Mahāvideha regions, Sīmandhara among them — which is why the hymn can immediately list twenty by name. The maximum of 170 matches the count of karma-regions where Tīrthaṅkaras can simultaneously arise, neatly echoing the sattarisayaṁ of the line before. The second line paints them: their bodies are said to be of the colour of (nibhe) gold, refined silver, coral, emerald and the fine dark riṣṭa-gem. This is the traditional doctrine of the five complexions of the Jinas — golden, white, red, green and black/dark — here expressed not by colour-words but by five gleaming substances, a poet's touch that makes the assembly of living Jinas shimmer like a jeweller's tray before we meet them individually. The verb namimo ('we bow') quietly governs the whole: the count and the colours are not abstract data but the very form to which the reciter prostrates.",
+    "doctrinalContext": "Two settled Jain teachings are compressed here. (1) The number of viharamāṇa Tīrthaṅkaras is variable, oscillating between a jaghanya of 20 and an utkṛṣṭa of 170 across the Mahāvideha karma-regions of Jambūdvīpa, Dhātakīkhaṇḍa and Puṣkarārdha; the present age stands at the minimum of 20. (2) Tīrthaṅkaras manifest in one of five body-colours — golden, white, red, green and dark — a scheme also used to distinguish the twenty-four Jinas of Bharata in iconography. By assigning these complexions to the living Jinas as a group, the verse affirms that the same fivefold range of sacred forms is present right now in Mahāvideha, not only in remembered history.",
+    "practicalRelevance": "The reciter is invited to fix the mind on Jinas who are alive and teaching at this very moment, not merely past or future ones. Holding the image of their five jewel-like hues turns the bow into a concrete act of darśana-by-imagination, steadying devotion before the twenty names are individually saluted.",
+    "crossReferences": [
+      {
+        "text": "Following verse (ashtottari-tirthmala/36): begins naming the twenty viharamāṇa Jinas — Sīmandhara, Jugamandhara, Bāhu, Subāhū…",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Preceding verse (ashtottari-tirthmala/34): the 170 vijayas (sattarisayaṁ) where the wandering arihantas teach",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Doctrine of the five complexions (varṇa) of Tīrthaṅkaras",
+        "source": "Standard Jain iconographic tradition; cf. Tirthankara, Wikipedia"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Simandhara — living Tīrthaṅkara, 20 viharamāṇa Jinas in the five Mahāvideha regions",
+      "url": "https://en.wikipedia.org/wiki/Simandhara",
+      "type": "scholarship",
+      "consultedFor": "Confirmation that 4 Jinas reside in each of the 5 Mahāvideha kṣetras, totalling the minimum 20 living Tīrthaṅkaras"
+    },
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "General doctrine of Tīrthaṅkaras and the traditional five body-complexions"
+    },
+    {
+      "title": "Vidruma — definitions (Sanskrit/Prakrit lexicon)",
+      "url": "https://www.wisdomlib.org/definition/vidruma",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vidruma = 'coral' (the red colour-standard)"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots kanaka (gold), kaladhauta (refined metal/silver), marakata (emerald), riṣṭa (dark gem), nibha (resembling)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse contains no 'pakkhī' word, so it carries over unchanged into Cāumāsī/Sāṁvatsarī. 'sattari sayaṁ' is the standard Prakrit idiom 'seventy[-and]-hundred' = 170, deliberately echoing 'sattarisayaṁ' (the 170 vijayas) in the preceding verse. 'kalahoya' (Skt. kaladhauta) usually denotes refined silver but can mean gold; rendered here as the 'white' complexion-standard to complete the canonical five colours (gold/white/red/green/dark) — other editions may gloss it as a second gold-shade. 'riṭṭha' = riṣṭa, a black/dark gem, supplying the dark complexion. The object of 'namimo' (the viharamāṇa Jinas) is carried from the surrounding verses rather than stated in this gāthā. Spelling follows the book verbatim."
+}

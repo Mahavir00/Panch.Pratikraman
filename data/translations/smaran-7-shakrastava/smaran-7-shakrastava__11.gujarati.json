@@ -1,0 +1,166 @@
+{
+  "shlokaId": "smaran-7-shakrastava/11",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "ભૂતકાળમાં જે સિદ્ધ થઈ ગયા, ભવિષ્યમાં જે સિદ્ધ થશે અને અત્યારે વર્તમાનમાં જે છે — એ બધા જ સિદ્ધ ભગવંતોને હું મન-વચન-કાયાથી વંદન કરું છું.",
+  "recitation": "જે અ અઇઆ સિદ્ધા, જે અ ભવિસ્સંતિ ણાગએ કાલે; સંપઇય વટ્ટમાણા, સવ્વે તિવિહેણ વંદામિ.",
+  "wordByWord": [
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "જે (જેઓ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રાકૃત je < સંસ્કૃત ye — સંબંધવાચક સર્વનામ ‘જેઓ’.",
+      "notes": "બહુવચન; ‘સિદ્ધા’ સાથે અન્વય."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રાકૃત a < સંસ્કૃત ca — સંયોજક અવ્યય ‘અને/વળી’.",
+      "notes": "અહીં લયસાધક જોડાણ-કણ; ‘je a’ = ‘અને જેઓ’."
+    },
+    {
+      "token": "અઇઆ",
+      "translit": "aïā",
+      "gloss": "ભૂતકાળમાં (થઈ ગયેલા), અતીત",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રાકૃત aïa < સંસ્કૃત atīta — ‘વીતી ગયેલું, ભૂતકાલીન’.",
+      "notes": "‘સિદ્ધા’નું વિશેષણ — અતીત-કાલના સિદ્ધો."
+    },
+    {
+      "token": "સિદ્ધા",
+      "translit": "siddhā",
+      "gloss": "સિદ્ધ ભગવંતો (મુક્તાત્માઓ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રાકૃત siddha < સંસ્કૃત siddha (√sidh ‘સિદ્ધ થવું’) — સર્વ કર્મક્ષય કરી મોક્ષ પામેલા.",
+      "notes": "પુલ્લિંગ બહુવચન કર્મ."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "જે (જેઓ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રાકૃત je < સંસ્કૃત ye.",
+      "notes": "બીજો ખંડ આરંભે પુનરાવર્તિત — ભવિષ્યના સિદ્ધો માટે."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રાકૃત a < સંસ્કૃત ca.",
+      "notes": "પુનરાવર્તિત સંયોજક-કણ."
+    },
+    {
+      "token": "ભવિસ્સંતિ",
+      "translit": "bhavissanti",
+      "gloss": "થશે (સિદ્ધ બનશે)",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રાકૃત bhavissanti < સંસ્કૃત bhaviṣyanti (√bhū ‘થવું’) — ભવિષ્યકાળ, ત્રીજો પુરુષ બહુવચન.",
+      "notes": "એકમાત્ર ભવિષ્યકાલીન ક્રિયાપદ — ભાવિ સિદ્ધોને સૂચવે."
+    },
+    {
+      "token": "ણાગએ",
+      "translit": "(a)ṇāgae",
+      "gloss": "આવનાર (ભવિષ્ય) — અનાગત",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રાકૃત aṇāgaya < સંસ્કૃત anāgata (an- + āgata ‘ન-આવેલું’) — ‘હજી ન આવેલું, ભવિષ્ય’.",
+      "notes": "‘કાલે’નું વિશેષણ, સપ્તમી. પૂર્વના ‘a’ સાથે સંધિ થઈ ઉચ્ચારણમાં આદિ-અ લોપાય (aṇāgae)."
+    },
+    {
+      "token": "કાલે",
+      "translit": "kāle",
+      "gloss": "કાળમાં (સમયમાં)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રાકૃત kāla < સંસ્કૃત kāla — ‘સમય’; અહીં સપ્તમી એકવચન ‘કાળમાં’.",
+      "notes": "‘ણાગએ કાલે’ = અનાગત કાળમાં, ભવિષ્યમાં."
+    },
+    {
+      "token": "સંપઇય",
+      "translit": "sampaïya",
+      "gloss": "હમણાં, વર્તમાનમાં",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રાકૃત sampaï/sampaïya < સંસ્કૃત samprati / sāmprata — ‘હાલ, હમણાં’.",
+      "notes": "વર્તમાનકાળ-સૂચક ક્રિયાવિશેષણ."
+    },
+    {
+      "token": "વટ્ટમાણા",
+      "translit": "vaṭṭamāṇā",
+      "gloss": "વર્તમાનમાં વિદ્યમાન (વર્તતા)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રાકૃત vaṭṭamāṇa < સંસ્કૃત vartamāna (√vṛt ‘વર્તવું’નું વર્તમાન કૃદંત) — ‘જે હાલ છે તે’.",
+      "notes": "વર્તમાન સિદ્ધો; બહુવચન."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "સર્વ (બધા જ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રાકૃત savva < સંસ્કૃત sarva — ‘બધા’.",
+      "notes": "ત્રણે કાળના સિદ્ધોને એક છત્રે સમેટતું પદ."
+    },
+    {
+      "token": "તિવિહેણ",
+      "translit": "tivihena",
+      "gloss": "ત્રિવિધે (મન-વચન-કાયા એ ત્રણ રીતે)",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રાકૃત tiviha < સંસ્કૃત trividha (ti ‘ત્રણ’ + vidha ‘પ્રકાર’); તૃતીયા tivihena ‘ત્રિવિધ સાધનથી’.",
+      "notes": "જૈન પરિભાષામાં ત્રિવિધ = મન, વચન, કાયા — ત્રણે યોગથી શુદ્ધ વંદન."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "વંદન કરું છું",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રાકૃત vandāmi < સંસ્કૃત vandāmi (√vand ‘વંદન કરવું’) — વર્તમાનકાળ, પ્રથમ પુરુષ એકવચન.",
+      "notes": "ગાથાનું ક્રિયા-શિખર; સાધક પોતે પ્રથમ પુરુષે વંદન કરે."
+    }
+  ],
+  "literalTranslation": "જે (સિદ્ધો) અતીત કાળમાં સિદ્ધ થયા, અને જે અનાગત (ભવિષ્ય) કાળમાં સિદ્ધ થશે, અને જે હમણાં વર્તમાનમાં (વિદ્યમાન) છે — એ સર્વને હું ત્રિવિધે (મન-વચન-કાયાથી) વંદન કરું છું.",
+  "idiomaticTranslation": "ભૂતકાળમાં જે અનંત આત્માઓ સિદ્ધ થઈ ગયા, ભવિષ્યના કાળમાં જે સિદ્ધ થનાર છે, અને આ વર્તમાન ક્ષણે જે સિદ્ધપદે વર્તે છે — એ ત્રણે કાળના સર્વ સિદ્ધ ભગવંતોને હું મન, વચન અને કાયા — એ ત્રિવિધ યોગે ભાવપૂર્વક વંદન કરું છું.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ વીંટાળતી ગાથા સ્તવને એક વ્યાપક ઉપસંહાર આપે છે. શક્રસ્તવમાં અરિહંતનાં બિરુદ ગાઈને છેલ્લે ‘સિદ્ધિ ગઇ’ પામેલા સર્વજ્ઞ-સર્વદર્શીને નમન થયું; હવે દૃષ્ટિ એક-એક નામથી ઊંચકાઈને કાળના ત્રણ પ્રવાહ પર પથરાય છે — અતીત, અનાગત અને વર્તમાન. ‘અઇઆ સિદ્ધા’, ‘ભવિસ્સંતિ’ અને ‘વટ્ટમાણા’ — એ ત્રણ કાળસૂચક પદો ગાથાનું હાડપિંજર છે, અને ‘સવ્વે’ શબ્દ એ ત્રણેને એક જ વંદનામાં સમેટી લે છે: કોઈ સિદ્ધ બાકાત નહિ. ધ્યાન આપો કે માત્ર ‘ભવિસ્સંતિ’ જ ભવિષ્યકાળમાં છે — અર્થાત્ જે હજી સાધનામાર્ગે છે તેઓ પણ આ વંદનાના પાત્ર બને છે, કેમ કે સિદ્ધત્વ એ સર્વ આત્માની સંભાવ્ય નિયતિ છે. ગાથાનો કળશ ‘તિવિહેણ વંદામિ’ છે: વંદન કેવળ વચનનું નહિ, પણ મન-વચન-કાયા એ ત્રિવિધ યોગે — ભાવ, ઉચ્ચાર અને દેહ-પ્રણામ ત્રણે એકસૂત્ર. આમ ગાથા ‘સ્તુતિ’થી ‘સમર્પણ’ ભણી લઈ જાય છે: નામ-સ્મરણ પૂર્ણ થયું, હવે સમગ્ર સિદ્ધ-મંડળ સમક્ષ સાધક પોતે પ્રથમ પુરુષે ઝૂકે છે.",
+    "doctrinalContext": "આ ગાથા ત્રિકાળ-વ્યાપી સિદ્ધ-વંદનાનો સિદ્ધાંત મૂર્ત કરે છે. જૈન દર્શન પ્રમાણે સિદ્ધો સંખ્યાએ અનંત છે અને કાળ અનાદિ-અનંત છે — તેથી વંદના કોઈ એક યુગ કે ક્ષેત્ર પૂરતી મર્યાદિત ન રહેતાં સર્વ કાળના મુક્તાત્માઓને આવરી લે છે. ‘તિવિહેણ’ એ યોગ-શુદ્ધિનો સિદ્ધાંત છે: કર્મબંધ મન-વચન-કાયા એ ત્રણ યોગથી થાય છે, એટલે વંદન પણ એ ત્રણે યોગથી કરાય ત્યારે જ પૂર્ણ ભાવ-વિશુદ્ધિ સધાય. ‘ભવિસ્સંતિ’ પદ ભવ્યત્વ-તત્ત્વ તરફ ઈશારો કરે છે — ભાવિ સિદ્ધોને વંદન કરવું એ સ્વયંના સિદ્ધત્વ-સામર્થ્યનો સ્વીકાર પણ છે.",
+    "practicalRelevance": "પાઠ બોલતી વખતે સાધક અહીં અટકીને ભાવ કરે કે મારી વંદના કોઈ એક પ્રતિમા કે કાળ પૂરતી નથી — તે અનંત સિદ્ધોને સ્પર્શે છે. ‘તિવિહેણ’ યાદ અપાવે છે કે હાથ જોડવા (કાયા) અને શબ્દ બોલવા (વચન) સાથે મન પણ સ્થિર-એકાગ્ર હોવું જોઈએ; યંત્રવત્ ઉચ્ચારણ નહિ, પણ ત્રણે યોગનું એકીકરણ — એ જ સાચું વંદન.",
+    "crossReferences": [
+      {
+        "text": "ણમો સવ્વ સિદ્ધાણં — સર્વ સિદ્ધોને નમસ્કાર (પંચ પરમેષ્ઠિ સ્મરણ)",
+        "source": "Namaskāra Mantra (Hathigumpha inscription line ‘Namo Save Sidhanam’; Wikipedia, Namokar Mantra)"
+      },
+      {
+        "text": "ત્રિવિધ યોગ (મન-વચન-કાયા) દ્વારા કર્મબંધ અને તેની વિરુદ્ધ ત્રિવિધ વિશુદ્ધિ",
+        "source": "Karemi Bhante / Iriyāvahiyaṁ — Panch Pratikraman Sutra (Vidhi Sahit), Anchalgachchha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — Ṇamō Save Sidhāṇaṁ (veneration of all Siddhas)",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Doctrinal confirmation that Jain liturgy venerates the entire (trikāla) body of Siddhas, and the Prakrit form ‘sidha/siddha’."
+    },
+    {
+      "title": "Wisdomlib — Trividha / Trividhā (threefold) definition",
+      "url": "https://www.wisdomlib.org/definition/trividha",
+      "type": "dictionary",
+      "consultedFor": "Sense of Prakrit ‘tivihena’ = Sanskrit ‘trividhena’, the threefold (mind–speech–body) instrumental."
+    },
+    {
+      "title": "Wisdomlib — Anāgata (‘future / not-yet-come time’) definition",
+      "url": "https://www.wisdomlib.org/definition/anagata",
+      "type": "dictionary",
+      "consultedFor": "Confirming ‘ṇāgae kāle’ = anāgate kāle = future time (an- + āgata), against the present-tense misreading."
+    },
+    {
+      "title": "Wisdomlib — Vandana (saluting; Jaina sense) definition",
+      "url": "https://www.wisdomlib.org/definition/vandana",
+      "type": "dictionary",
+      "consultedFor": "Root √vand ‘to salute/venerate’ for the verb ‘vandāmi’, including the Jaina/Prakrit entry."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "ગાથા-પાઠ ‘જે અ અઇઆ સિદ્ધા…’ યથાવત્ રાખ્યો છે. ‘ણાગએ’ એ ‘aṇāgae’ (= anāgate, ભવિષ્ય) નું રૂપ છે, જેમાં પૂર્વ-‘a’ સંધિ/છંદ-કારણે ઉચ્ચારણમાં લોપાય છે — તેને વર્તમાનકાળ ન સમજવો (કેટલાંક અપ્રમાણિત વેબ-ભાષાંતરો આ ભૂલ કરે છે). ‘તિવિહેણ’ = મન-વચન-કાયા ત્રિવિધ યોગ; ‘ત્રણ લોક’ અર્થ અહીં અપ્રસ્તુત છે. છંદ-લયને કારણે ‘સંપઇય’ (વર્તમાન) અર્થદૃષ્ટિએ બીજા ખંડમાં છતાં પ્રથમ ચરણના કાળ-ક્રમ પછી વાંચવું. ‘સવ્વે’ કર્મમાં ‘સવ્વાન્’ અપેક્ષિત; પ્રાકૃતમાં કર્તા-કર્મ રૂપ ‘savve’ સામાન્ય. વેબ-શોધનાં AI-જનિત પરિણામો અવિશ્વસનીય જણાયાં તેથી માત્ર ચકાસી શકાય તેવા શબ્દકોશ/સંદર્ભ-URLનો ઉપયોગ કર્યો છે."
+}

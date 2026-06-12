@@ -28,15 +28,23 @@ export function gujToInt(s) {
 
 const ANY_DIGIT = "0-9\u0966-\u096F\u0AE6-\u0AEF"; // ASCII + Devanagari + Gujarati
 
-// A numeric verse marker ॥ <num> ॥ appearing ANYWHERE in a line (a preceding
-// metre label like "॥ ગાહા ॥" is non-numeric so it is skipped; trailing
-// "॥ ઇતિ ॥" after the number is ignored).
-const NUM_MARKER_RE = new RegExp(`॥\\s*([${ANY_DIGIT}]+)\\s*॥`);
-// Navkar-style: line ends with whitespace/tab + a bare number (no bars)
-const TRAILING_NUM_RE = new RegExp(`[\\t ]+([${ANY_DIGIT}]+)\\s*$`);
-// Strip a trailing metre label (॥ ગાહા ॥, ॥ સિલોગો ॥, ॥ ગાહા, etc.) left on the
-// verse text after removing the number marker.
-const TRAILING_LABEL_RE = /॥\s*[^॥0-9\u0966-\u096F\u0AE6-\u0AEF]*$/;
+// A numeric verse marker appearing ANYWHERE in a line, in either bar style the
+// book uses: the double-danda glyph ॥ <num> ॥ (most sutras) or a pair of single
+// dandas ।। <num> ।। (e.g. the Ashtottari Tirthmala). A preceding metre label
+// like "॥ ગાહા ॥" is non-numeric so it is skipped; a trailing "॥ ઇતિ ॥" after
+// the number is ignored.
+const NUM_MARKER_RE = new RegExp(`(?:॥|।।)\\s*([${ANY_DIGIT}]+)\\s*(?:॥|।।)`);
+// Trailing-number verse end (no closing bar): a line ends with an OPTIONAL single
+// danda/period separator, then whitespace, then a bare number. This covers both
+//   નમો અરિહંતાણં.<TAB>૧            (Navkar style: trailing tab + digit)
+//   નમોત્થુણં અરિહંતાણં, ભગવંતાણં । ૧   (Shakrastava style: single danda + digit)
+//   ... વંદામિ. ૧                      (period + digit)
+// The single danda/period here is the verse closer, NOT a mid-verse `।` separator
+// (those never sit immediately before an end-of-line number).
+const TRAILING_NUM_RE = new RegExp(`[।.]?[\\t ]+([${ANY_DIGIT}]+)\\s*$`);
+// Strip a trailing metre label (॥ ગાહા ॥, ॥ સિલોગો ॥, ॥ ગાહા, ।। …, etc.) left on
+// the verse text after removing the number marker.
+const TRAILING_LABEL_RE = /(?:॥|।।)\s*[^॥।0-9\u0966-\u096F\u0AE6-\u0AEF]*$/;
 
 function stripPageHeaders(lines) {
     // Drop the per-page "# page:", "# book_page:", "# header:" comment lines and
@@ -67,8 +75,12 @@ export function extractVersesFromLines(lines) {
         if (m) { num = gujToInt(m[1]); head = line.slice(0, m.index).replace(TRAILING_LABEL_RE, "").trimEnd(); }
         else {
             const t = line.match(TRAILING_NUM_RE);
-            // Only treat trailing-number as a verse end when the line has real text before it
-            if (t && line.slice(0, t.index).trim().length > 0 && !/[॥।]/.test(line)) {
+            // Treat a trailing number as a verse end when the line has real text
+            // before it and carries no double-danda glyph (॥). A single danda `।`
+            // is allowed: in the Shakrastava style it is the verse closer that
+            // sits immediately before the end-of-line number (the regex captures
+            // it); a mid-verse `।` never abuts an end-of-line number.
+            if (t && line.slice(0, t.index).trim().length > 0 && !line.includes("॥")) {
                 num = gujToInt(t[1]);
                 head = line.slice(0, t.index).trimEnd();
             }
@@ -118,16 +130,50 @@ export function isHeadingLine(line) {
     return /[\u0A80-\u0AFF\u0900-\u097F]/.test(t);   // contains Indic letters
 }
 
-// Split body lines into ordered sections at each heading line.
+// A heading is "open" (wraps onto the next physical line) when it starts with a
+// bar but has no closing bar on the same line, e.g. the Karemi Bhante heading is
+// printed as two lines:
+//   ॥ શ્રાવકને સામાયિક લેવાનું પચ્ચખ્ખાણ
+//   કરેમિ ભંતે! સૂત્ર ॥
+// (Same for the Drumapushpika and Ashtottari headings.) We detect this so the
+// needle can match the full joined heading and the closing line is not glued
+// onto the section's first verse.
+function isOpenHeadingStart(line) {
+    if (!isHeadingLine(line)) return false;
+    const t = line.trim();
+    // strip the opening bar token, then check whether any closing bar remains
+    const rest = t.replace(/^(॥|।।)/, "");
+    return !/॥|।।/.test(rest);
+}
+function hasClosingBar(line) {
+    return /॥|।।/.test(line.trim());
+}
+
+// Split body lines into ordered sections at each heading line. A heading that
+// opens with a bar but does not close on the same line absorbs subsequent lines
+// (up to a small cap) until the line that carries the closing bar, so a wrapped
+// heading is treated as one heading and its closer is not mistaken for a verse.
 // Returns [{ heading, lines: [...] }]; lines before the first heading go into a
 // leading section with heading="".
 export function segmentByHeadings(lines) {
     const sections = [];
     let cur = { heading: "", lines: [] };
-    for (const line of lines) {
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
         if (isHeadingLine(line)) {
             if (cur.heading || cur.lines.length) sections.push(cur);
-            cur = { heading: line.trim(), lines: [] };
+            let heading = line.trim();
+            if (isOpenHeadingStart(line)) {
+                // consume continuation lines until the closing bar (cap at 3)
+                for (let j = i + 1; j < lines.length && j <= i + 3; j++) {
+                    const cont = lines[j];
+                    if (cont.trim() === "" || NUM_MARKER_RE.test(cont)) break;
+                    heading += " " + cont.trim();
+                    i = j;
+                    if (hasClosingBar(cont)) break;
+                }
+            }
+            cur = { heading, lines: [] };
         } else {
             cur.lines.push(line);
         }
@@ -139,18 +185,75 @@ export function segmentByHeadings(lines) {
 // Convenience: extract verses for a sutra by locating the section whose heading
 // matches one of `headingNeedles` (substring, normalized) within the given page
 // range, then parsing verses from that section only (until the next heading).
+//
+// Two-stage match: first try the printed bar-delimited headings (the common
+// case). If none match, fall back to a LINE ANCHOR — the first body line that
+// contains a needle — and take everything from there until the next bar heading.
+// This handles sutras whose title is printed as plain text (not bar-wrapped),
+// e.g. the Mannaha Jinanam sajjhay (`મન્નહ જિણાણં … સજઝાય`) or the Rai
+// mangalacharan (anchored on its first verse `મંગલં ભગવાન વીરો`).
 export function extractSutraVerses(dataDir, pdfPages, headingNeedles) {
     const lines = loadPageBodies(dataDir, pdfPages);
     const sections = segmentByHeadings(lines);
     const norm = (s) => s.replace(/[॥।\s*]/g, "");
-    const needles = headingNeedles.map(norm);
+    const needles = headingNeedles.map(norm).filter(n => n.length > 0);
     const matched = sections.filter(sec => {
         const h = norm(sec.heading);
-        return needles.some(n => n.length > 0 && h.includes(n));
+        return needles.some(n => h.includes(n));
     });
-    if (matched.length === 0) return { verses: [], leftover: [], matchedHeadings: [] };
-    const all = [];
-    for (const sec of matched) all.push(...sec.lines);
+    let all;
+    let matchedHeadings;
+    if (matched.length > 0) {
+        all = [];
+        for (const sec of matched) all.push(...sec.lines);
+        matchedHeadings = matched.map(m => m.heading);
+    } else {
+        // Line-anchor fallback: locate the first line containing a needle, then
+        // take lines until the next bar heading (an unrelated section start).
+        const anchor = lines.findIndex(l => { const n = norm(l); return needles.some(x => n.includes(x)); });
+        if (anchor < 0) return { verses: [], leftover: [], matchedHeadings: [] };
+        const slice = [];
+        for (let i = anchor; i < lines.length; i++) {
+            if (i > anchor && isHeadingLine(lines[i])) break;
+            slice.push(lines[i]);
+        }
+        all = slice;
+        matchedHeadings = [lines[anchor].trim()];
+    }
     const { verses, leftover } = extractVersesFromLines(all);
-    return { verses, leftover, matchedHeadings: matched.map(m => m.heading) };
+    return { verses, leftover, matchedHeadings, body: all };
+}
+
+// Build a single verbatim text block from a matched section's body lines, for
+// sutras that are genuinely prose / a list / a single formula (no per-item
+// numbered verse markers). Drops the procedural `વિધિ :–` tail (and anything
+// after it — that connective text belongs to the vidhi layer, not the sutra),
+// trailing bar-only/colophon lines (`॥ ઇતિ ॥`, `॥ ૧`), and the running header,
+// then returns the joined verbatim block (or "" if nothing substantive remains).
+// Never normalizes Gujarati — the book is verbatim truth.
+export function bodyToSingleBlock(bodyLines) {
+    const out = [];
+    for (const raw of bodyLines) {
+        const t = raw.trim();
+        if (/^વિધિ\s*[:：]/.test(t)) break;            // stop at the vidhi tail
+        out.push(raw);
+    }
+    // trim leading/trailing blank + bar-only/colophon lines
+    const isFiller = (t) => t === "" || /^(॥|।।)[\s।॥]*$/.test(t)
+        || /^(॥|।।)?\s*ઇતિ\b.*$/.test(t)               // `॥ ઇતિ ॥` colophons
+        || new RegExp(`^(॥|।।)?\\s*[${ANY_DIGIT}\\s।॥]*$`).test(t); // bar+number-only (`॥ ૧`)
+    while (out.length && isFiller(out[0].trim())) out.shift();
+    while (out.length && isFiller(out[out.length - 1].trim())) out.pop();
+    // Strip a trailing inline colophon (`॥ ઇતિ ॥`, optionally `॥ ઇતિ ॥ ૧`) that
+    // the book glues onto the last content line — the same end marker the numbered
+    // parser drops. Leaves all substantive text (including footnote `*`) verbatim.
+    if (out.length) {
+        const last = out.length - 1;
+        out[last] = out[last]
+            .replace(new RegExp(`\\s*(?:॥|।।)\\s*ઇતિ\\s*(?:॥|।।)\\s*[${ANY_DIGIT}]*\\s*$`), "")
+            .replace(new RegExp(`\\s*(?:॥|।।)\\s*[${ANY_DIGIT}]+\\s*(?:॥|।।)?\\s*$`), "")
+            .replace(/\s*(?:॥|।।)\s*$/, "")            // a lone trailing closing bar
+            .trimEnd();
+    }
+    return out.join("\n").replace(/\n{3,}/g, "\n\n").trim();
 }

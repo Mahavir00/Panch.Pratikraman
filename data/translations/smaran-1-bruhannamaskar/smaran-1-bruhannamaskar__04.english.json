@@ -1,0 +1,158 @@
+{
+  "shlokaId": "smaran-1-bruhannamaskar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The Navkāra line 'I bow to all monks of the world' becomes the blessed guards on your two feet, and the whole five-fold salutation becomes a slab of diamond laid beneath you to stand on.",
+  "recitation": "oṃ namo loe savvasāhūṇaṁ, mocake pādayoḥ śubhe । eso pañca namukkāro, śilā vajramayī tale.",
+  "wordByWord": [
+    {
+      "token": "ૐ",
+      "translit": "oṃ",
+      "gloss": "Oṃ — the sacred seed-syllable opening the placement",
+      "partOfSpeech": "invocation",
+      "etymology": "praṇava; in Jain usage an acronym of the Pañca-Parameṣṭhin (a-a-ā-u-m → arihanta, asarīrī/siddha, ācārya, upādhyāya, muni).",
+      "notes": "Prefixes each armouring line in this stotra; not part of the original Navkāra wording."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "salutation, 'I bow'",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit namo < Sanskrit namas, indeclinable of √nam 'to bend, bow'.",
+      "notes": ""
+    },
+    {
+      "token": "લોએ",
+      "translit": "loe",
+      "gloss": "in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative sg. of loa < Sanskrit loka 'world'; -e is the Ardhamāgadhī loc. ending.",
+      "notes": "Qualifies savvasāhūṇaṁ — the sādhus 'in the world', the fifth Parameṣṭhin category."
+    },
+    {
+      "token": "સવ્વસાહૂણં",
+      "translit": "savvasāhūṇaṁ",
+      "gloss": "to all monks (sādhus)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit savva (< Skt. sarva 'all') + sāhū (< Skt. sādhu 'ascetic') + -ṇaṁ, gen. pl. ending (< Skt. -ānām).",
+      "notes": "The fifth and final salutation-line of the Navkāra; here the whole pada is the protective element being placed."
+    },
+    {
+      "token": "મોચકે",
+      "translit": "mocake",
+      "gloss": "as the foot-guards / shielding footwear (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mocaka, from √muc 'to release, loosen'; regionally a fitted shoe/boot (cf. Guj. mojaḍī), here the defensive foot-covering. Locative/dual marking the placement-site.",
+      "notes": "Framing word is Sanskrit, not Prakrit. The verse maps 'Namo Loe Savvasāhūṇaṁ' onto this foot-armour."
+    },
+    {
+      "token": "પાદયોઃ",
+      "translit": "pādayoḥ",
+      "gloss": "on the two feet",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pāda 'foot', locative dual pādayoḥ; the dual fixes the placement at both feet.",
+      "notes": ""
+    },
+    {
+      "token": "શુભે",
+      "translit": "śubhe",
+      "gloss": "auspicious, blessed",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śubha 'auspicious, beautiful', agreeing locative/dual with mocake.",
+      "notes": "Marks the foot-guards as maṅgala — auspicious as well as protective."
+    },
+    {
+      "token": "એસો",
+      "translit": "eso",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit eso < Sanskrit eṣaḥ, nom. sg. masc. demonstrative.",
+      "notes": "Opens the Navkāra's culminating line (Eso pañca namukkāro…)."
+    },
+    {
+      "token": "પંચ",
+      "translit": "pañca",
+      "gloss": "five(-fold)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Sanskrit pañca 'five'.",
+      "notes": "Refers to the five salutations to the Parameṣṭhins."
+    },
+    {
+      "token": "નમુક્કારો",
+      "translit": "namukkāro",
+      "gloss": "salutation (the Namaskāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit namukkāra < Sanskrit namaskāra, nom. sg. masc.; doubled -kk- is regular Prakrit assimilation.",
+      "notes": "'Eso pañca namukkāro' = 'this five-fold salutation'; this whole pada is placed as the floor-slab."
+    },
+    {
+      "token": "શિલા",
+      "translit": "śilā",
+      "gloss": "slab, flat stone",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śilā 'rock, stone-slab', nom. sg. fem.",
+      "notes": "The base-plate on which the warrior-reciter stands."
+    },
+    {
+      "token": "વજમયી",
+      "translit": "vajamayī",
+      "gloss": "made of diamond / adamantine",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vajra 'diamond, thunderbolt' + -maya 'made of', fem. -mayī agreeing with śilā. Book spells વજ (vaja) for vajra verbatim.",
+      "notes": "Original orthography વજ retained per fidelity rules; read vajra-mayī."
+    },
+    {
+      "token": "તલે",
+      "translit": "tale",
+      "gloss": "underneath, at the base (underfoot)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit tala 'base, bottom, ground', locative sg. tale.",
+      "notes": "Locates the diamond slab beneath the feet, completing the downward armouring."
+    }
+  ],
+  "literalTranslation": "Oṃ — 'I bow to all monks in the world': (this is) on the two feet, the auspicious foot-guards. 'This is the five-fold salutation': a slab made of diamond, underfoot.",
+  "idiomaticTranslation": "Oṃ! Let the line 'I bow to all the monks of the world' be the blessed armour upon my two feet; and let 'This is the five-fold salutation' be a slab of diamond set firm beneath me to stand upon.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse carries the armouring downward to the lowest points of the body and then to the ground itself, taking the two remaining 'salutation' members of the Navkāra. The fifth namaskāra-line, 'Namo Loe Savvasāhūṇaṁ' — homage to every ascetic in the world — is fastened onto the feet as śubha mocaka, the auspicious foot-guards: fittingly, the line honouring the wandering, foot-faring sādhus becomes the gear that shields the reciter's own feet. The choice of śubha (auspicious) over a merely martial epithet signals that this footwear is blessing as much as defence. With the five salutations now exhausted (helmet, mouth-cloth, torso-armour, hand-weapon, foot-guards across vv.2–4), the verse turns to the Navkāra's summarizing line. 'Eso Pañca Namukkāro' — 'this is the five-fold salutation' — is laid down not as worn gear but as śilā vajramayī tale, a diamond slab underfoot. The shift is deliberate: the summary pada that gathers all five homages into one becomes the single adamantine foundation on which the armoured reciter stands. Direction matters — vv.2–4 move top-to-bottom (head → mouth → torso → hands → feet → floor), so this verse seals the body's lower boundary before vv.5–6 throw up the outer rampart, moat, and lid. The pairing of feet with floor is also logically tight: guarded feet planted on indestructible ground leave no opening below.",
+    "doctrinalContext": "The verse rests on the Navkāra's own internal structure: the five namaskāra-padas (to arihanta, siddha, ācārya, upādhyāya, sādhu) plus the cūlikā lines that praise the mantra. Here the boundary between the last salutation-pada and the first summary-pada ('Eso pañca namukkāro') is made architecturally visible — worn armour for the salutations, structural foundation for the summary. Doctrinally, placing homage to the sādhus at the feet enacts vinaya (humble reverence): the monks one bows to become the very ground-contact of one's stance. The diamond (vajra) imagery encodes indestructibility (akṣaya) — the mantra as a refuge no calamity can crack, the recurring promise that the Parameṣṭhi-salutation is itself the strongest protection.",
+    "practicalRelevance": "Reciting v4, the practitioner visualizes 'Namo Loe Savvasāhūṇaṁ' clothing both feet in blessed guards and 'Eso pañca namukkāro' solidifying into a diamond floor beneath — a deliberate nyāsa that grounds attention literally downward, steadying body and mind before the outer fortress is raised in the next verses.",
+    "crossReferences": [
+      {
+        "text": "Navkāra (Pañca-Namaskāra) Mantra — the five salutation-padas and the 'Eso pañca namukkāro' cūlikā",
+        "source": "standard Jain liturgical text"
+      },
+      {
+        "text": "Bṛhannamaskāra / Vajra-Pañjara Stotra vv.2–6 (the body-to-fortress armouring scheme)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Namokar Mantra — text and meaning of the nine padas",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "translation",
+      "consultedFor": "Meaning of 'Namo Loe Savva Sāhūṇaṁ' and 'Eso pañca namukkāro' / the five-fold salutation."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Monier-Williams (mocaka, śilā, vajramaya, tala)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses for the Sanskrit framing words mocaka (< √muc), śilā, vajra-maya, tala (locative tale)."
+    },
+    {
+      "title": "Wisdomlib — Sanskrit entry for 'mocaka' and 'vajramaya'",
+      "url": "https://www.wisdomlib.org/definition/mocaka",
+      "type": "dictionary",
+      "consultedFor": "Confirmation of mocaka as a 'releaser/loosener' and its applied sense as fitted footwear/foot-covering."
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — Navkāra and protective stotra materials",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Verification of the Navkāra-pada line-by-line embedding in the vajra-pañjara protection scheme."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The framing half-lines (mocake pādayoḥ śubhe; śilā vajramayī tale) are Sanskrit (anuṣṭubh), while the embedded Navkāra lines are Prakrit — verbatim per the book. The book spells vajra as વજ (vaja); retained unnormalized per orthography rules. 'mocake' is read as the locative placement-site of the foot-armour, paired with the locative-dual pādayoḥ; an alternative parse as a neuter dual 'the two foot-guards' is possible but does not change the sense. 'mocaka' for footwear is regional/applied rather than a primary classical dictionary gloss (primary = 'releaser'); flagged as such. The auspicious-foot-guard and diamond-slab mappings follow the stotra's stated v4 scheme."
+}

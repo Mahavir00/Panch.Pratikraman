@@ -1,0 +1,146 @@
+{
+  "shlokaId": "ashtottari-tirthmala/41",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to seven great holy places — Aṣṭāpada, Ujjayanta (Girnar), Gajāgrapada, the Dharma-wheel shrine, the Pārśva shrine, Rathāvarta and Camarutpāta.",
+  "recitation": "aṭṭhāvaya m-ujjaṁte, gaya-agga-pae a dhamma-cakke a; pāsa rahāvattaṇayaṁ, camaruppāyaṁ ca vandāmi.",
+  "wordByWord": [
+    {
+      "token": "અટ્ઠાવય",
+      "translit": "aṭṭhāvaya",
+      "gloss": "on Aṣṭāpada (the mountain of Ṛṣabha's liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṭṭhāvaya < Sanskrit aṣṭāpada, 'eight-step(ped)'; the locative case-sign is elided in the gāthā and is supplied by the verb. Joined to the next word by the euphonic glide -m-.",
+      "notes": "Locative force ('on/at Aṣṭāpada'), matching the parallel locatives later in the line."
+    },
+    {
+      "token": "મુજજંતે",
+      "translit": "m-ujjaṁte",
+      "gloss": "and on Ujjayanta (Raivatagiri / Girnar, the mountain of Nemi)",
+      "partOfSpeech": "noun",
+      "etymology": "Initial m- is the āgama-glide (hiatus-breaker) between aṭṭhāvaya and ujjaṁte; ujjaṁta < Sanskrit ujjayanta, locative ujjaṁte ('on Ujjayanta').",
+      "notes": "Read as aṭṭhāvaya-(m)-ujjaṁte; the m belongs to neither stem but bridges the vowels."
+    },
+    {
+      "token": "ગયઅગ્ગપએ",
+      "translit": "gaya-agga-pae",
+      "gloss": "on Gajāgrapada ('the elephant's foremost foot')",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit gaya (Skt gaja, 'elephant') + agga (Skt agra, 'foremost/tip') + pae (Skt pada, loc. pade, 'foot/footprint'); a tatpuruṣa locative 'on Gajāgrapada'.",
+      "notes": "A footprint-named tīrtha; the precise modern identification is not fixed by the book — see notes."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Apabhraṁśa reduced copulative a (= ya / Skt ca), 'and, also'.",
+      "notes": "First of the two coordinating particles in the line."
+    },
+    {
+      "token": "ધમ્મચક્કે",
+      "translit": "dhamma-cakke",
+      "gloss": "and on the Dharma-cakra (tīrtha at Takṣaśilā)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit dhamma (Skt dharma) + cakka (Skt cakra, 'wheel'), locative cakke; 'on the Wheel-of-Dharma shrine'.",
+      "notes": "The Dharmacakra tīrtha narrated at vv.56–58."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit copulative a (= ca), closing the first hemistich's pair of 'and's.",
+      "notes": "Second coordinating particle."
+    },
+    {
+      "token": "પાસ",
+      "translit": "pāsa",
+      "gloss": "Pārśva (the Pārśvanātha shrine, at Ahicchatra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsa < Sanskrit pārśva, the 23rd Tīrthaṅkara; here the (case-reduced) object of vandāmi.",
+      "notes": "Stands alone as object; the Pārśva–Ahicchatra legend is told at vv.59–63."
+    },
+    {
+      "token": "રહાવત્તણયં",
+      "translit": "rahāvattaṇayaṁ",
+      "gloss": "Rathāvartanaka (Mount Rathāvarta)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raha (Skt ratha, 'chariot') + āvatta (Skt āvarta, 'turning/whirl') + -aṇaya (-anaka) suffix; accusative -aṁ. 'The chariot-turning (place)'.",
+      "notes": "Rathāvarta tīrtha (Vajrasvāmī legend, vv.64–66)."
+    },
+    {
+      "token": "ચમરુપ્પાયં",
+      "translit": "camaruppāyaṁ",
+      "gloss": "Camarutpāta ('the leaping-up of Camara', at Susumārapura)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit camara (the Asura-lord Camarendra) + uppāya (Skt utpāta, 'a sudden upward springing/portent'); accusative -aṁ.",
+      "notes": "Commemorates Camarendra's leap toward Śakra and refuge at Mahāvīra's feet (vv.67–69)."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit/Prakrit ca, 'and', here the closing conjunction before the verb.",
+      "notes": "Joins the final accusative objects of the second hemistich."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow / I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "Skt/Prakrit √vand, 'to salute, praise', present indicative 1st person singular vandāmi.",
+      "notes": "Single governing verb for the whole verse, taking both the locative and accusative sites."
+    }
+  ],
+  "literalTranslation": "On Aṣṭāpada and on Ujjayanta, on Gajāgrapada and on the Dharma-cakra (shrine); Pārśva (of Ahicchatra), Rathāvartanaka and Camarutpāta — I bow.",
+  "idiomaticTranslation": "I bow upon Aṣṭāpada and upon Ujjayanta-Girnar, upon Gajāgrapada and the holy Wheel-of-Dharma; I bow to Pārśva of Ahicchatra, to Mount Rathāvarta, and to Camarutpāta.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the hinge of the hymn. Through the line that precedes it the poet has finished saluting the Jinas in the abstract — past, future, present, eternal and the living viharamāṇa Jinas — and 'all of them' at once. Here he steps down from heaven to earth: he names, in a single breath, the roster of the great legend-bearing tīrthas he is about to visit one by one. It functions almost as a verbal table of contents. Each name he drops here is a seed that the following verses unfold: Aṣṭāpada (Ṛṣabha's nirvāṇa, taken up immediately in the next verse, 'aṭṭhāvaya giri-rāe…'), Ujjayanta/Girnar (Nemi), Gajāgrapada, the Dharma-cakra shrine of Takṣaśilā, Pārśva sheltered at Ahicchatra, Mount Rathāvarta (Vajrasvāmī), and Camarutpāta at Susumārapura. A fine grammatical detail rewards the careful reciter: the first hemistich keeps the sites in the locative — one bows *upon* the sacred mountains and grounds (aṭṭhāvaya, ujjaṁte, gaya-agga-pae, dhamma-cakke) — while the second slips into the accusative (rahāvattaṇayaṁ, camaruppāyaṁ), so that one also bows *to* the holy objects themselves. The double 'a … a' of the first line and the closing 'ca' string the names like beads, enacting in miniature the 'garland' (mālā) the whole hymn claims to be. Only the verb is left, vandāmi — 'I bow' — and it alone governs all seven, so that one act of homage embraces the entire coming pilgrimage before a single story is told.",
+    "doctrinalContext": "The verse rests on the Jain doctrine of nikṣepa — that the Jina may be venerated through name (nāma), representation/place (sthāpanā), potentiality (dravya) and living virtue (bhāva). Bowing to a mountain or a shrine is not nature-worship: the tīrtha is honoured as the sthāpanā-locus where a Jina's supreme conduct became manifest (Ṛṣabha's liberation at Aṣṭāpada, Nemi's omniscience at Ujjayanta). The single verb vandāmi expresses bhāva-namaskāra, inward reverence, the disposition the six Āvaśyakas exist to cultivate; the multiplicity of objects shows that one purified intention can garland many sacred ends at once.",
+    "practicalRelevance": "Within the Pakkhī recitation the reciter, unable to travel, performs the whole coming pilgrimage in intention here: as the seven names pass, one mentally bows at each, treating remembrance (smaraṇa) as itself meritorious. It is a moment to set the bhāva for the detailed verses that follow — to bow once, wholeheartedly, to every holy ground before walking it in words.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭāpada as Ṛṣabha's place of liberation; Mount Rathāvarta",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra (tr. Helen M. Johnson, GOS)"
+      },
+      {
+        "text": "Nemi's omniscience and nirvāṇa at Ujjayanta/Girnar",
+        "source": "Kalpa Sūtra (Bhadrabāhu)"
+      },
+      {
+        "text": "Camarendra's utpāta and refuge at Mahāvīra's feet",
+        "source": "Bhagavatī Sūtra / Āvaśyaka tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Girnar (Ujjayanta / Raivatagiri) — Jain mahatirtha of Neminath",
+      "url": "https://en.wikipedia.org/wiki/Girnar",
+      "type": "scholarship",
+      "consultedFor": "Identification of Ujjayanta with Girnar and Nemi's omniscience/nirvāṇa there"
+    },
+    {
+      "title": "Aṣṭāpada — 23 definitions (Jainism: holy mountain; Cologne/Kathākośa)",
+      "url": "https://www.wisdomlib.org/definition/ashtapada",
+      "type": "dictionary",
+      "consultedFor": "Aṣṭāpada as a Jain holy mountain and the gloss 'eight-step' from aṣṭa + pada"
+    },
+    {
+      "title": "Rathāvarta — definitions (Jainism: a mountain per Hemacandra; Monier-Williams: place of pilgrimage)",
+      "url": "https://www.wisdomlib.org/definition/rathavarta",
+      "type": "dictionary",
+      "consultedFor": "Rathāvarta as a named mountain/tīrtha and its Sanskrit ratha + āvarta etymology"
+    },
+    {
+      "title": "Camarendra — Jain definition (the Asura-lord Camara)",
+      "url": "https://www.wisdomlib.org/definition/camarendra",
+      "type": "dictionary",
+      "consultedFor": "Confirming Camara/Camarendra as the Asura figure behind 'Camarutpāta'"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The book reading is preserved verbatim. 'મુજજંતે' is parsed as aṭṭhāvaya-(m)-ujjaṁte, the initial m- being an āgama hiatus-glide and ujjaṁte the locative of Ujjayanta (Girnar); a reading 'mu-' as a separate morph is not supported by the sense. The line mixes locative (first hemistich) and accusative (second) objects under one verb vandāmi — preserved as a genuine feature, not normalised. 'ગયઅગ્ગપએ' (Gajāgrapada, 'elephant's-foremost-foot') is glossed by its components; its exact modern site identification is not fixed by the source book and is left uncertain. 'પાસ' is read as a standalone object (Pārśva, i.e. the Ahicchatra Pārśva shrine of vv.59–63) rather than as a compound with the following Rathāvarta, since the tradition attaches Rathāvarta to Vajrasvāmī, not Pārśva. The Camarendra-utpāta legend (refuge at Mahāvīra's feet at Susumārapura) follows the Āvaśyaka/Bhagavatī tradition and the preface's own placement (vv.67–69); no verse-level colophon independently fixes it. Verse-to-site mapping for vv.42–69 follows the sutra preface."
+}

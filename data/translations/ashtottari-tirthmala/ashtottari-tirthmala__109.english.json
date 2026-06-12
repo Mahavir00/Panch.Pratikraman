@@ -1,0 +1,194 @@
+{
+  "shlokaId": "ashtottari-tirthmala/109",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Standing right where I am, I bow with my mind, my words and my body to every holy Jain shrine in all three worlds — whether fashioned by gods, built by people, or eternal.",
+  "recitation": "sura-kayaṁ maṇuya-kayaṁ vā, bhuvaṇa-tige sāsayaṁ ca jaṁ titthaṁ |\ntaṁ sayalam-ihaṭṭhio vihu, maṇa-vayaṇa-taṇuhiṁ paṇāmāmi ||",
+  "wordByWord": [
+    {
+      "token": "સુરક્યં",
+      "translit": "sura-kayaṁ",
+      "gloss": "made by gods, god-fashioned",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sura (Skt. sura, 'god, celestial') + kaya (Skt. kṛta, 'made, done'); accusative singular agreeing with titthaṁ.",
+      "notes": "Here kaya = kṛta ('made'), not kāya ('body'); the term qualifies the shrine as divinely fashioned."
+    },
+    {
+      "token": "મણુયક્યં",
+      "translit": "maṇuya-kayaṁ",
+      "gloss": "made by humans, human-built",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit maṇuya (Skt. manuja, 'human, man-born') + kaya (Skt. kṛta, 'made'); accusative singular.",
+      "notes": "Paired with sura-kayaṁ to cover shrines of both divine and human origin."
+    },
+    {
+      "token": "વા",
+      "translit": "vā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vā = Skt. vā, disjunctive 'or'.",
+      "notes": "Links the two preceding alternatives (god-made or human-made)."
+    },
+    {
+      "token": "ભુવણ",
+      "translit": "bhuvaṇa",
+      "gloss": "world, realm",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhuvaṇa = Skt. bhuvana, 'world, sphere'; forms the compound bhuvaṇa-tige.",
+      "notes": ""
+    },
+    {
+      "token": "તિગે",
+      "translit": "tige",
+      "gloss": "in the triad — i.e. in the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiga (Skt. trika, 'a set of three') in the locative singular -e; bhuvaṇa-tige = 'in the three worlds' (upper, middle, lower).",
+      "notes": "Refers to the Jain triloka: ūrdhva-, madhya- and adho-loka."
+    },
+    {
+      "token": "સાસયં",
+      "translit": "sāsayaṁ",
+      "gloss": "eternal, beginningless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya = Skt. śāśvata, 'everlasting'; accusative singular agreeing with titthaṁ.",
+      "notes": "Marks the third category — the eternal (śāśvata) shrines/images, alongside the god-made and human-built ones."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca = Skt. ca, conjunctive 'and'.",
+      "notes": "Adds 'eternal' to the god-made/human-made alternatives, making the sweep total."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever, which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jaṁ = Skt. yad, relative pronoun, neuter accusative singular agreeing with titthaṁ.",
+      "notes": "Correlates with taṁ ('that') in the second line: 'whatever shrine… that I salute'."
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṁ",
+      "gloss": "tīrtha (holy crossing-place / shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tittha = Skt. tīrtha, 'ford, sacred site'; neuter accusative singular.",
+      "notes": "Glossed in the preface; here the object of homage."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit taṁ = Skt. tad, demonstrative pronoun, neuter accusative singular; resumes jaṁ titthaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સયલ",
+      "translit": "sayala",
+      "gloss": "all, in its entirety",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sayala = Skt. sakala, 'whole, entire, all'.",
+      "notes": "Generalises taṁ titthaṁ to 'all such shrines, every one'."
+    },
+    {
+      "token": "મિહઠ્ઠિઓ",
+      "translit": "m-iha-ṭṭhio",
+      "gloss": "(I,) standing here",
+      "partOfSpeech": "compound",
+      "etymology": "Euphonic -m- (sandhi after sayala) + iha (Skt. iha, 'here') + ṭṭhio (Skt. sthitaḥ, past participle of √sthā, 'stood, standing'); nominative singular describing the reciter.",
+      "notes": "sayalam-ihaṭṭhio: 'standing right here, (I bow to) all of it' — the reciter venerates every shrine without leaving the spot."
+    },
+    {
+      "token": "વિહુ",
+      "translit": "vihu",
+      "gloss": "indeed, even, assuredly",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vi (Skt. api) + hu (Skt. khalu), an emphatic particle cluster, 'indeed, surely'.",
+      "notes": "Stresses the totality and sincerity of the salutation."
+    },
+    {
+      "token": "મણ",
+      "translit": "maṇa",
+      "gloss": "mind",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇa = Skt. manas, 'mind'; first member of the instrumental compound maṇa-vayaṇa-taṇuhiṁ.",
+      "notes": ""
+    },
+    {
+      "token": "વયણ",
+      "translit": "vayaṇa",
+      "gloss": "speech, word",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vayaṇa = Skt. vacana, 'speech, utterance'; middle member of the threefold compound.",
+      "notes": ""
+    },
+    {
+      "token": "તણુહિં",
+      "translit": "taṇuhiṁ",
+      "gloss": "with body(/bodies) — i.e. with mind, speech and body together",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit taṇu = Skt. tanu, 'body'; instrumental plural -hiṁ governing the whole maṇa-vayaṇa-taṇu compound, 'by means of mind, speech and body'.",
+      "notes": "The classic threefold instrument (tri-yoga) of complete veneration."
+    },
+    {
+      "token": "પણામામિ",
+      "translit": "paṇāmāmi",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paṇāmāmi = Skt. praṇamāmi, 1st person sing. present of pra-√nam, 'to bow down, make obeisance'.",
+      "notes": "The verse's governing verb of homage; a variant of the hymn's recurring namimo / vande / paṇamāmi refrain."
+    }
+  ],
+  "literalTranslation": "Whatever tīrtha there is — made by gods or made by humans, and eternal — in the triad of worlds: that, in its entirety, standing here, I indeed salute with mind, speech and body.",
+  "idiomaticTranslation": "Every sacred shrine that stands anywhere in the three worlds — fashioned by gods, raised by human hands, or eternal and beginningless — to all of it, just as I am, standing right here, I bow with all my heart, with my mind, my words and my body.",
+  "elaboration": {
+    "verseByVerseCommentary": "This penultimate universalising verse performs a single, deliberate act: it gathers every conceivable shrine into one bow. Its force lies in two exhaustive lists. First, the origins of a tīrtha are tripled — sura-kayaṁ (god-fashioned), maṇuya-kayaṁ (human-built) and sāsayaṁ (eternal, beginningless) — so that no shrine, however it came to be, is left out: the celestial caityas of the heavens, the temples carved by devotees on earth, and the uncreated everlasting images alike. Second, the field is widened to bhuvaṇa-tige, 'in all three worlds,' embracing upper, middle and lower realms at once. Against this cosmic totality the verse sets a single, intimate human posture: ihaṭṭhio, 'standing right here.' The reciter need not travel; from the very spot of recitation the whole sweep of holy places is saluted — the hymn's 'pilgrimage in words' made explicit. The emphatic vihu underlines that this is no token gesture, and the threefold instrument maṇa-vayaṇa-taṇuhiṁ — mind, speech and body together — declares the bow whole and undivided, inward as much as outward. Coming directly after the salutation to all Tīrthaṅkaras of the three times, this verse shifts the object of reverence from the Jinas themselves to the shrines that house and remember them; the following verse will move on once more, to the very lands where the Jinas' great events occurred. Thus v.109 is the moment the garland turns from persons to places, and from places to their totality.",
+    "doctrinalContext": "The verse encodes the Jain distinction between śāśvata (eternal, beginningless) images enshrined in the cosmic mountains and heavens and the a-śāśvata, historically founded shrines — the latter here split by agent into 'god-made' and 'human-made.' By naming all three categories the verse asserts that devotional worth attaches to the consecrated object of reverence regardless of its origin or material. Equally central is the tri-yoga of mind, speech and body (maṇa-vayaṇa-taṇu): authentic veneration in Jain practice is bhāva-pūjā as much as dravya-pūjā — it must engage thought and intention, not merely posture and word. Bowing 'with all three' is the standard measure of sincere, karma-thinning homage.",
+    "practicalRelevance": "Recited attentively, this verse trains a comprehensive, non-exclusive devotion: the worshipper consciously intends every shrine in existence, omitting none, and does so from wherever they happen to stand — no journey required. The reminder to bow with mind, speech and body invites the reciter to check that the inner attitude matches the outward gesture, turning a routine line into a moment of whole-hearted reverence.",
+    "crossReferences": [
+      {
+        "text": "Verse 108 (preceding): salutation to all Tīrthaṅkaras of past, present and future",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Verse 110 (following): homage to the very lands of the Jinas' birth, renunciation, omniscience and liberation",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava): the kindred all-encompassing salutation 'kittaïssaṁ… savve' to the 24 Jinas",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Prakrit/Ardhamāgadhī definition: sāsaya (śāśvata, 'eternal')",
+      "url": "https://www.wisdomlib.org/definition/sasaya",
+      "type": "dictionary",
+      "consultedFor": "Confirming sāsayaṁ = śāśvata, 'eternal'"
+    },
+    {
+      "title": "Prakrit/Sanskrit definition: bhuvana ('world, realm')",
+      "url": "https://www.wisdomlib.org/definition/bhuvana",
+      "type": "dictionary",
+      "consultedFor": "Confirming bhuvaṇa = bhuvana, 'world', and the three-world (triloka) sense"
+    },
+    {
+      "title": "Sanskrit/Prakrit definition: tiga / trika ('triad, set of three')",
+      "url": "https://www.wisdomlib.org/definition/tiga",
+      "type": "dictionary",
+      "consultedFor": "Confirming tige (loc.) = 'in the triad', i.e. the three worlds"
+    },
+    {
+      "title": "Prakrit definition: ihaṭṭhio (iha-sthitaḥ, 'standing here')",
+      "url": "https://www.wisdomlib.org/definition/ihaththio",
+      "type": "dictionary",
+      "consultedFor": "Parsing m-iha-ṭṭhio as iha + sthitaḥ, 'standing here'"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Word-segmentation: 'sayala mihaṭṭhio' is read as sayalam-iha-ṭṭhio, with an epenthetic -m- bridging sayala(ṁ) and iha; an alternative segmentation taking sayala with taṁ titthaṁ ('all that shrine') yields the same overall sense. 'kaya' in sura-kayaṁ / maṇuya-kayaṁ is taken as Skt. kṛta ('made'), not kāya ('body'), as the context of god-made vs human-made shrines requires; some readers gloss it loosely as 'form,' but 'made' is the intended sense. Verse numbered 109 in the Anchalgachchha/Vidhipaksha edition; mātrās, anusvāras and conjuncts reproduced per the source book and not normalised. Other editions may show minor orthographic variants (e.g. taṇūhiṁ for taṇuhiṁ). Glosses cross-checked against the wisdomlib Prakrit/Ardhamāgadhī lexicon aggregations; no single critical edition's apparatus was consulted, hence confidence below 0.9."
+}

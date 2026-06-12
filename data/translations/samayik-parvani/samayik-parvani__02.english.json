@@ -1,0 +1,164 @@
+{
+  "shlokaId": "samayik-parvani/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "All living beings drift through the whole universe driven by their karma, so I beg forgiveness of every one of them, and I ask that they forgive me too.",
+  "recitation": "savve jīvā kammavasa, caudaha rajja bhamanta | te me savva khamāviyā, mujja vi teha khamanta ||",
+  "wordByWord": [
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all, every one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savve, nom. pl. of savva < Sanskrit sarva ('all'); qualifies jīvā.",
+      "notes": "Nominative plural agreeing with jīvā — 'all souls' as the grammatical subject."
+    },
+    {
+      "token": "જીવા",
+      "translit": "jīvā",
+      "gloss": "living beings, souls",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jīva < Sanskrit jīva ('soul, the sentient living substance'), nom. pl. jīvā.",
+      "notes": "The conscious substance (cetana) that transmigrates; here the totality of embodied souls."
+    },
+    {
+      "token": "કમ્મવસ",
+      "translit": "kammavasa",
+      "gloss": "in the grip of karma, subject to karma",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kamma (< Sanskrit karma) + vasa (< Sanskrit vaśa, 'control, sway'); karma-vaśa = 'under the dominion of karma'.",
+      "notes": "Adverbial/predicative: the cause of the wandering named in bhamanta — souls move not freely but as karma compels."
+    },
+    {
+      "token": "ચઉદહ",
+      "translit": "caudaha",
+      "gloss": "fourteen",
+      "partOfSpeech": "adj",
+      "etymology": "Apabhraṁśa/old-Gujarati caudaha < Prakrit cauddasa < Sanskrit caturdaśa ('fourteen'); numeral qualifying rajja.",
+      "notes": "Counts the rajju that span the cosmos vertically."
+    },
+    {
+      "token": "રજ્જ",
+      "translit": "rajja",
+      "gloss": "rajju (a cosmic measure of distance)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rajju < Sanskrit rajju ('rope, a unit of length'); in Jain cosmology a vast measure, the loka being fourteen rajju tall.",
+      "notes": "caudaha rajja = the fourteen-rajju inhabited universe (loka); locative sense, 'throughout the fourteen-rajju world'."
+    },
+    {
+      "token": "ભમંત",
+      "translit": "bhamanta",
+      "gloss": "wandering, transmigrating",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit present participle bhamanta < √bham/bhram (Sanskrit bhramati, 'to roam, revolve'); 'wandering'.",
+      "notes": "Participle describing jīvā — the ceaseless saṁsāric circulation of souls through every realm."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "them, those (souls)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit te < Sanskrit te, demonstrative pron., here acc. pl., 'those, them'.",
+      "notes": "Resumes savve jīvā as the object of khamāviyā."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit me < Sanskrit me, enclitic 1st-person sg. (instr./gen.), 'by me / my'.",
+      "notes": "Agent of khamāviyā — 'have been begged-forgiveness by me'."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all (of them)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all'); here reinforcing te, 'them all'.",
+      "notes": "Emphasizes that the forgiveness leaves out no being."
+    },
+    {
+      "token": "ખમાવિયા",
+      "translit": "khamāviyā",
+      "gloss": "have been asked for forgiveness",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit causative past participle khamāvia < √kham (Sanskrit kṣam, 'to forgive, endure'), causative khamāve- ('to make forgive, to beg pardon of').",
+      "notes": "Causative force: 'I have caused them to forgive' = 'I have sought the pardon of them all'."
+    },
+    {
+      "token": "મુજ્જ",
+      "translit": "mujja",
+      "gloss": "me, to me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa/old-Gujarati mujja/mujjha (1st-person sg.) < Sanskrit mama ('my, of me').",
+      "notes": "Recipient of the hoped-for forgiveness in the second clause."
+    },
+    {
+      "token": "વિ",
+      "translit": "vi",
+      "gloss": "too, also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vi < Sanskrit api ('also, even').",
+      "notes": "Marks reciprocity: not only do I forgive — may they forgive me 'too'."
+    },
+    {
+      "token": "તેહ",
+      "translit": "teha",
+      "gloss": "they, those (souls)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa/old-Gujarati teha < Sanskrit te ('they, those'); subject of khamanta.",
+      "notes": "Same beings, now turned from object (te) into subject — the grammatical pivot of mutual forgiveness."
+    },
+    {
+      "token": "ખમંત",
+      "translit": "khamanta",
+      "gloss": "may (they) forgive",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit khamantu/khamanta < √kham (Sanskrit kṣam, 'to forgive'); optative/imperative-sense 3rd pl., 'may they forgive'.",
+      "notes": "Volitive: a petition, not a statement — 'may they too pardon me'."
+    }
+  ],
+  "literalTranslation": "All souls, in the grip of karma, wandering through the fourteen-rajju [universe] — them all I have begged forgiveness of; and may they too forgive me.",
+  "idiomaticTranslation": "Every living being is swept through the whole fourteen-rajju cosmos at the bidding of its karma. From all of them, without exception, I now beg pardon — and may they, in turn, forgive me as well.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse drew the confession inward — every sin bound by my own mind, speech, and body — this verse turns it outward to the entire field of life. The reciter has just cleansed the self; now equanimity must be carried into relationship, and that means squaring accounts of harm done and harm suffered with every other soul. The grammar enacts the reciprocity precisely. In the first clause the souls are the object: 'them (te) all I have begged forgiveness of (khamāviyā)' — an accomplished, active gesture, the causative form stressing that I have actively sought their pardon. In the second clause the very same beings become the subject — 'may they too (vi) forgive (khamanta)' — and the verb shifts to a petition. Forgiveness given is in my hands and is declared done; forgiveness received can only be hoped for, so it is voiced as a wish. The opening phrase kammavasa is doctrinally load-bearing: beings wander 'in the grip of karma', not from malice. Seeing every adversary as a karma-driven fellow-wanderer rather than a free agent of injury is exactly what makes universal pardon psychologically possible — blame dissolves into compassion. The reach is then made cosmic: caudaha rajja, the fourteen-rajju span of the inhabited loka, places no limit of species, realm, or birth on whom the forgiveness embraces. This widening sets up the next verse, which closes the movement by naming the six classes of beings (ṣaḍ-jīva-nikāya) and declaring that, having thus forgiven and been forgiven, no enmity (vaira) remains in a pure mind.",
+    "doctrinalContext": "The verse rests on two linked Jain doctrines. First, kṣamā (forgiveness) is the foremost of the ten-fold dharma and the direct antidote to vaira (enmity), the residue of which binds fresh karma and perpetuates saṁsāra; releasing it is part of the purificatory work of pratikramaṇa. Second, the phrase kammavasa encodes the law of karmic bondage — the jīva, soiled by karmic matter, transmigrates not by choice but by the maturing of karma. Recognizing this universalizes the maitrī (friendliness) sentiment: if all are bound, none is the true author of the injury, so forgiveness can be extended to every being without reservation. The double movement — actively granting pardon, then petitioning for it — mirrors the classic forgiveness formula of the tradition ('I forgive all beings; may all beings forgive me; I bear enmity toward none'), translating the abstract vow of equanimity into a concrete severing of antagonistic karmic ties.",
+    "practicalRelevance": "The verse asks the reciter to do more than mouth a formula: genuinely call to mind those wronged or resented and let the resentment go, while sincerely asking pardon of any harmed. Crucially, kammavasa reframes the offender as a being driven by karma, not an enemy — a practical tool for dissolving grudges. And caudaha rajja stretches the circle past humans to every living thing, so the equanimity rehearsed in the sāmāyika is released as real goodwill into ordinary life.",
+    "crossReferences": [
+      {
+        "text": "'Khāmemi savva-jīve, savve jīvā khamantu me; metti me savva-bhūesu, veraṁ majjhaṁ na keṇaī' — the classic forgiveness gāthā this verse closely echoes",
+        "source": "Āvaśyaka / Pratikramaṇa Sūtra tradition (Śvetāmbara)"
+      },
+      {
+        "text": "Soul (jīva) as bound and transmigrating through the loka under the maturing of karma",
+        "source": "Umāsvāti, Tattvārtha Sūtra (ch. 2 on jīva; ch. 8 on bandha)"
+      },
+      {
+        "text": "The fourteen-rajju structure of the inhabited universe (loka)",
+        "source": "Jain cosmology (loka-svarūpa) tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Rajju (and the hasta unit of length)",
+      "url": "https://en.wikipedia.org/wiki/Rajju",
+      "type": "scholarship",
+      "consultedFor": "Confirming rajju as a traditional Indian/Jain unit of distance, used cosmologically for the fourteen-rajju span."
+    },
+    {
+      "title": "Jain cosmology",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "The shape and fourteen-rajju vertical extent of the loka, and the jīva as a transmigrating living substance bound by karma."
+    },
+    {
+      "title": "Pratikramana",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "Ritual context of confession/forgiveness within the six āvaśyakas and the sāmāyika frame."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Token glosses are secure: savve jīvā (all souls), kammavasa (karma-vaśa, 'in the grip of karma'), caudaha rajja (fourteen rajju), bhamanta (wandering), khamāviyā (causative: 'begged forgiveness of'), khamanta (optative: 'may they forgive'). The form is Apabhraṁśa-tinged old Gujarati, so mujja ('me' < mama) and teha ('they') are vernacular pronoun forms; khamanta is read as a 3rd-pl. volitive ('may they forgive'), parallel to the well-attested khamantu of the standard forgiveness gāthā — a minor morphological variant that does not affect the sense. The verse is a near-paraphrase of the classic 'Khāmemi savva-jīve…' forgiveness formula; the cross-reference is given at tradition level, not pinned to a critical edition. Exact orthography (e.g. doubled conjuncts in savve/jīvā, રજ્જ rajja) is preserved per the book's fidelity rules and not normalized. Cited URLs are general reference pages corroborating cosmological and ritual facts, not a verified scan of this specific gāthā."
+}

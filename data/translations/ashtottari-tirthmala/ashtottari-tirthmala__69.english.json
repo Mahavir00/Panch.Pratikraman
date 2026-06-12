@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/69",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "So, at all these wonder-filled holy places like Aṣṭāpada, bow to the moon-bright Jinas, before whom even the kings of the gods bow with heartfelt devotion.",
+  "recitation": "iya bahuviha acchheraya nihīsu aṭṭhāvayāi ṭhāṇesu | paṇamaha jiṇavara-cande, subhatti-bhara namira-māhinde ||",
+  "wordByWord": [
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit for Skt. itthaṁ / iti; a summarising deictic 'thus', here pointing back over the just-narrated tīrthas.",
+      "notes": "Marks the verse as a recapitulation, not a new site."
+    },
+    {
+      "token": "બહુવિહ",
+      "translit": "bahuviha",
+      "gloss": "of many kinds, manifold",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit for Skt. bahuvidha (bahu 'many' + vidha 'kind').",
+      "notes": ""
+    },
+    {
+      "token": "અચ્છેરય",
+      "translit": "acchheraya",
+      "gloss": "wonders, marvels",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit for Skt. āścarya 'wonder, marvel'; doubled conjunct preserved verbatim from the book.",
+      "notes": "Refers collectively to the miraculous events told of the preceding tīrthas."
+    },
+    {
+      "token": "નિહીસુ",
+      "translit": "nihīsu",
+      "gloss": "in the treasure-troves, in the treasuries",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural of nihi = Skt. nidhi 'treasure, hoard' (nidhiṣu).",
+      "notes": "The holy sites are figured as treasuries of marvels; reads in parallel with ṭhāṇesu."
+    },
+    {
+      "token": "અઠ્ઠાવયાઇ",
+      "translit": "aṭṭhāvayāi",
+      "gloss": "Aṣṭāpada and the rest (places beginning with Aṣṭāpada)",
+      "partOfSpeech": "compound",
+      "etymology": "aṭṭhāvaya = Skt. Aṣṭāpada (the mountain of Ṛṣabha's nirvāṇa) + -āi (Skt. ādi 'and the rest').",
+      "notes": "Naming Aṣṭāpada — the first tīrtha narrated (vv.41–45) — rings the legend-section shut; the ādi gathers all the other sites under one head."
+    },
+    {
+      "token": "ઠાણેસુ",
+      "translit": "ṭhāṇesu",
+      "gloss": "in the places, at the sites",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural of ṭhāṇa = Skt. sthāna 'place, holy site' (sthāneṣu).",
+      "notes": ""
+    },
+    {
+      "token": "પણમહ",
+      "translit": "paṇamaha",
+      "gloss": "bow ye!, salute!",
+      "partOfSpeech": "verb",
+      "etymology": "Imperative 2nd person plural of paṇam- = Skt. pra-√nam, praṇamata 'do bow'.",
+      "notes": "The verse pivots from narration to direct command of the assembly."
+    },
+    {
+      "token": "જિણવર",
+      "translit": "jiṇavara",
+      "gloss": "the supreme Jina, best of Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa = Skt. jina 'conqueror' + vara 'best, foremost'.",
+      "notes": "Forms one unit with cande: jiṇavara-cande."
+    },
+    {
+      "token": "ચંદે",
+      "translit": "cande",
+      "gloss": "moons (here: moon-like Jinas) — accusative plural",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative plural of canda = Skt. candra 'moon'; jiṇavara-canda = 'moon among the supreme Jinas'.",
+      "notes": "Applies the hymn's stock moon-image (cool, luminous) to the enshrined Jinas of all these sites; object of paṇamaha."
+    },
+    {
+      "token": "સુભત્તિ",
+      "translit": "subhatti",
+      "gloss": "pure devotion, right devotion",
+      "partOfSpeech": "noun",
+      "etymology": "su 'good, pure' + bhatti = Skt. su-bhakti.",
+      "notes": "Signals bhāva-worship rightly directed, not boon-seeking."
+    },
+    {
+      "token": "ભર",
+      "translit": "bhara",
+      "gloss": "fullness, flood, abundance",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhara 'load, fullness'; subhatti-bhara = 'a flood/abundance of pure devotion'.",
+      "notes": "Adverbial-instrumental sense qualifying the bowing."
+    },
+    {
+      "token": "નમિર",
+      "translit": "namira",
+      "gloss": "bowing, prone to homage, habitually bowing",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit habitual-agent adjective in -ira from √nam 'to bow' (cf. hasira 'smiling', gamira 'going'); denotes a constant disposition.",
+      "notes": "The -ira suffix makes the great Indras' bowing their settled, ceaseless character — not a one-time act."
+    },
+    {
+      "token": "માહિંદે",
+      "translit": "māhinde",
+      "gloss": "the great Indras, the Mahendras",
+      "partOfSpeech": "noun",
+      "etymology": "māhinda = Skt. mahendra (mahā 'great' + indra), the chief lords of the heavens.",
+      "notes": "Construed with namira: 'bowed to by the bowing great Indras'; the kings of the gods themselves do homage at these shrines."
+    }
+  ],
+  "literalTranslation": "Thus, in [these] treasuries of manifold wonders, in places such as Aṣṭāpada — bow ye to the moons-among-the-supreme-Jinas, [who are] saluted by the ever-bowing great Indras with a flood of pure devotion.",
+  "idiomaticTranslation": "And so, across these treasure-houses of countless marvels — Aṣṭāpada and every such holy site — bow down, O devotees, to the moon-bright supreme Jinas, before whom even the mighty Indras bend low again and again, their hearts brimming with pure devotion.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the seal of the great legend-cycle (vv.41–69). The opening 'iya' (thus) sweeps the hand back over everything just told — Aṣṭāpada, Girnar, Daśārṇakūṭa, Takṣaśilā, Ahicchatra, Rathāvarta/Kuñjarāvarta and Camarutpāta at Susumārapura — and renames them all at a stroke as 'treasuries of manifold wonders' (bahuviha acchheraya nihīsu). By naming Aṣṭāpada (aṭṭhāvayāi) the poet closes a ring: Aṣṭāpada was the very first narrated tīrtha (vv.41–45), so to fold the section shut by re-invoking it frames the whole cycle; the suffix -āi ('and the rest') economically gathers every other site into the single locative ṭhāṇesu. The imperative 'paṇamaha' then turns the poem from story-telling to direct address — the narration stops and the assembly is commanded to bow. The object, jiṇavara-cande, casts the enshrined Jinas of all these places as 'moons among Jinas', cool and luminous. The clinching stroke is namira-māhinde: even the mahendras, the great Indras who rule the heavens, are 'ever-bowing' — the habitual -ira suffix makes homage their permanent disposition — and they bow subhatti-bhara, awash in pure devotion. The rhetorical force is a fortiori: if the very kings of the gods bow ceaselessly and wholeheartedly here, how much more should the human reciter. The verse thus converts a catalogue of marvels into an imperative of humility, handing the worshipper off to the geographic roll-call that opens at the next verse (Sammeta Śikhara).",
+    "doctrinalContext": "The verse rests on the Jain conviction that the Jina — utterly detached, beyond any need of worship — is nonetheless the supreme object of veneration for every being, the devas included. The image of Indra in ceaseless homage is the same conviction enshrined in the Śakra-stava tradition: even celestial sovereignty is lesser than the dispassionate, victorious Jina. The word subhatti (pure devotion) marks the bhakti the verse prizes as rightly directed — recognition of the Jina's qualities, the bhāva-worship that ripens toward liberation, not petition for boons. Reframing the pilgrimage marvels as 'treasuries of wonders' subordinates the spectacular to the venerable: the wonders are pointers, the bowing is the point.",
+    "practicalRelevance": "At this hinge the reciter stops 'visiting' sites in imagination and performs the very gesture the hymn keeps modelling — the bow. Holding the picture of Indra bowing wholeheartedly lets one measure and correct one's own half-hearted reverence: the verse asks not for more marvels witnessed but for deeper bhāva in the bow being made right now.",
+    "crossReferences": [
+      {
+        "text": "Śakrastava (Namuthuṇaṁ) — Indra's homage to the Jina; Nava Smaraṇa no. 7",
+        "source": "Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit (smaran-7-shakrastava)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — salutation of the 24 supreme Jinas (jiṇavara)",
+        "source": "Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit (logassa)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.41–45 — the Aṣṭāpada / Ṛṣabha-nirvāṇa passage to which this verse rings back",
+        "source": "Ācārya Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Apte, V. S., The Practical Sanskrit-English Dictionary (1890), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of āścarya (acchheraya), nidhi (nihi), sthāna (ṭhāṇa), mahendra (māhinda) and pra-√nam (paṇamaha)"
+    },
+    {
+      "title": "Monier-Williams, A Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Confirming bahuvidha, bhara, su-bhakti and candra; cross-checking the mahendra and jina-vara compounds"
+    },
+    {
+      "title": "Ashtapada (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ashtapada",
+      "type": "scholarship",
+      "consultedFor": "Identification of Aṣṭāpada (aṭṭhāvaya) as the mountain associated with Ṛṣabhadeva's nirvāṇa, the site this verse rings back to"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) The second line admits two readings of namira-māhinde that converge in sense — (a) instrumental/bahuvrīhi, 'bow to the Jinas who are saluted by the ever-bowing great Indras', and (b) comparative-appositional, 'bow... as the devotion-flooded, ever-bowing Mahendras do'. The translation foregrounds (a) and notes (b). (2) aṭṭhāvayāi is parsed as Aṣṭāpada + ādi ('and the rest'), making the line a summarising locative over the whole narrated cycle rather than a claim about Aṣṭāpada alone; an alternative parse reads -āi as a plain plural/oblique ending, with the same recapitulatory force. (3) nihīsu is taken as locative plural of nidhi ('treasuries'); some editions may gloss it as 'abodes'. (4) Orthography (doubled conjuncts in અચ્છેરય, અઠ્ઠાવયાઇ; anusvāras) is reproduced verbatim per the book's fidelity rule and not normalised. (5) The placement of this verse as the closing salutation of vv.41–69, immediately before the Sammeta Śikhara roll-call, follows the preface's structure note and the supplied preceding/following verses."
+}

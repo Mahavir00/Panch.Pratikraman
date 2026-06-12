@@ -1,6 +1,6 @@
 {
   "lang": "gujarati",
-  "generatedAt": "2026-06-11T06:44:41.879Z",
+  "generatedAt": "2026-06-12T03:06:28.163Z",
   "terms": [
     {
       "term": "abhagna",
@@ -15,7 +15,8 @@
       "scriptForm": "અભય",
       "definition": "નિર્ભયતા; બંને જિન 'અભયકર' — શરણાર્થીને અભય આપનાર.",
       "sutras": [
-        "smaran-2-ajitshanti"
+        "smaran-2-ajitshanti",
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -32,6 +33,14 @@
       "definition": "ઇન્દ્રિય અને મન દ્વારા થતું મતિ-જ્ઞાન; પાંચ જ્ઞાનમાં પ્રથમ.",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "abhyākhyāna",
+      "scriptForm": "અભ્યાખ્યાન",
+      "definition": "ખોટું આળ ચઢાવવું, મિથ્યા આરોપ.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -53,11 +62,44 @@
       ]
     },
     {
+      "term": "accharā (apsaras)",
+      "scriptForm": "અચ્છરા / અપ્સરા",
+      "definition": "દેવાંગના; ગાથા (૬)માં અપ્સરા-ગણ વડે પ્રભુ સ્તવાય છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "ādaruṁ / pariharuṁ",
+      "scriptForm": "આદરું / પરિહરું",
+      "definition": "'હું સ્વીકારું' / 'હું ત્યજું' — ઉપાદેય ગુણ ગ્રહવા અને હેય દોષ છોડવાનાં ધ્રુવ ક્રિયાપદો.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "adattādāna",
+      "scriptForm": "અદત્તાદાન",
+      "definition": "ન આપેલું લેવું—ચોરી.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "aḍhāī-dvīpa",
       "scriptForm": "અઢી દ્વીપ",
-      "definition": "મનુષ્યલોકના અઢી દ્વીપ — જ્યાં મનુષ્યો અને સાધુઓ વસે છે.",
+      "definition": "મનુષ્યલોકના અઢી દ્વીપ — જ્યાં મનુષ્ય અને ધર્માચરણ સંભવે; અહીંના સમગ્ર સંઘને વંદના.",
       "sutras": [
-        "muni-vandana"
+        "muni-vandana",
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "ādhi-vyādhi-bhaya",
+      "scriptForm": "આધિ-વ્યાધિ-ભય",
+      "definition": "માનસિક પીડા (આધિ), શારીરિક રોગ (વ્યાધિ) અને ભય — જેમનાથી મુક્તિ આ સ્તોત્રની ફળશ્રુતિ છે.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -66,7 +108,8 @@
       "definition": "પ્રતિજ્ઞામાં રખાતી છૂટ/અપવાદ, જેથી અજાણતાં કે અનિવાર્ય સંજોગે વ્રત ભંગ ન ગણાય (દા.ત. અન્નત્થણાભોગ, સહસાગાર, મહત્તરાગાર, સવ્વસમાહિવત્તિયાગાર).",
       "sutras": [
         "annattha",
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -75,6 +118,14 @@
       "definition": "મન-વચન-કાયાથી કોઈ જીવને ન હણવો, ન દુભવવો.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "ajarāmara",
+      "scriptForm": "અયરામર / અજરામર",
+      "definition": "જરા અને મરણ રહિત; મોક્ષ-પદનું વિશેષણ.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -103,6 +154,14 @@
       ]
     },
     {
+      "term": "amṛta",
+      "scriptForm": "અમૃત",
+      "definition": "અમરત્વ આપનાર સુધા; ‘અંગૂઠે અમૃત વસે’ — ગૌતમસ્વામીની અક્ષય-લબ્ધિનું રૂપક.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "Añcalagaccha / Vidhipakṣa",
       "scriptForm": "અંચલગચ્છ / વિધિપક્ષગચ્છ",
       "definition": "આર્યરક્ષિતસૂરિ-સ્થાપિત શ્વેતામ્બર મૂર્તિપૂજક ગચ્છ.",
@@ -116,6 +175,22 @@
       "definition": "કોઈ વ્યક્તિ, કુળ કે વસ્તુ પર આશ્રિત-આસક્ત ન રહેવું.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "anumodana",
+      "scriptForm": "અનુમોદન",
+      "definition": "બીજાએ કરેલા (અહીં હિંસાના) કાર્યને મનથી સંમતિ આપવી — એ પણ આલોચ્ય દોષ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "anuṣṭubh",
+      "scriptForm": "અનુષ્ટુપ્",
+      "definition": "આઠ-આઠ અક્ષરના ચાર ચરણવાળું છંદ, જેમાં આ સ્તોત્ર રચાયું છે.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -144,6 +219,15 @@
       ]
     },
     {
+      "term": "apkāya",
+      "scriptForm": "અપ્કાય",
+      "definition": "પાણી જેનું શરીર છે તેવા જીવો; ૭ લાખ યોનિ.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
       "term": "arihanta",
       "scriptForm": "અરિહંત",
       "definition": "રાગ-દ્વેષ રૂપી શત્રુ (અરિ) જીતનાર, સદેહ કેવલજ્ઞાની તીર્થંકર જે ધર્મ-માર્ગ ઉપદેશે છે.",
@@ -151,7 +235,8 @@
         "logassa",
         "navkar",
         "pakkhi-khamana",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -164,10 +249,19 @@
     },
     {
       "term": "āśātanā",
-      "scriptForm": "આશાતના (આસાયણા)",
+      "scriptForm": "આશાતના",
       "definition": "ગુરુ-ગુણીજન પ્રત્યે થયેલો અવિનય/અપમાન; પરંપરામાં ગુરુની તેત્રીસ આશાતના ગણાય.",
       "sutras": [
+        "samayik-parvani",
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "aṣṭa-dala-padma",
+      "scriptForm": "અષ્ટદલ પદ્મ",
+      "definition": "આઠ પાંખડીવાળું કમળ — જેના પર તત્ત્વ/મંત્રનું ધ્યાન ધરાય.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -184,6 +278,30 @@
       "definition": "તીર્થંકરના આઠ દિવ્ય અતિશયો (છત્ર, ચામર, દુંદુભિ આદિ), શ્લોક ૧૧–૧૩માં સંકેતિત.",
       "sutras": [
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "aṣṭa-pravacana-mātā",
+      "scriptForm": "આઠ પ્રવચનમાતા",
+      "definition": "પાંચ સમિતિ અને ત્રણ ગુપ્તિ — એ આઠ; ચારિત્રને જન્મ આપી રક્ષનારી ‘માતાઓ’ ગણાય છે.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "aṣṭāpada",
+      "scriptForm": "અટ્ઠાવય / અષ્ટાપદ",
+      "definition": "ઋષભદેવનું નિર્વાણ-તીર્થ; ભરત ચક્રવર્તીએ રચાવેલું ગિરિ-ચૈત્ય (શ્લોક ૪૧–૪૫).",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "aṣṭottarī",
+      "scriptForm": "અષ્ટોત્તરી",
+      "definition": "'સો ઉપર આઠ' એટલે ૧૦૮; અહીં ૧૦૮ તીર્થોની માળાનું સૂચક.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -232,7 +350,16 @@
       "scriptForm": "આવશ્યક",
       "definition": "દૈનિક છ અવશ્ય-કર્તવ્ય; આ સૂત્ર ચોથા (પડિક્કમણ) આવશ્યકનું મુખ્ય સૂત્ર છે.",
       "sutras": [
+        "karemi-bhante",
         "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "avidhi",
+      "scriptForm": "અવિધિ",
+      "definition": "વિધિથી વિરુદ્ધ આચરણ; વ્રત પાળતાં થયેલ પ્રમાદ કે ક્રમભંગ, જેની શુદ્ધિ આ સૂત્રમાં માગવામાં આવે છે.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -244,11 +371,27 @@
       ]
     },
     {
+      "term": "avratī",
+      "scriptForm": "અવ્રતી",
+      "definition": "વ્રત રહિત — જેણે વ્રત/નિયમ ગ્રહણ કર્યાં નથી તે વ્યક્તિ.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "bāra vrata",
       "scriptForm": "બાર વ્રત",
       "definition": "શ્રાવકનાં બાર વ્રત — ૫ અણુવ્રત + ૩ ગુણવ્રત + ૪ શિક્ષાવ્રત.",
       "sutras": [
         "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "battīsa doṣa",
+      "scriptForm": "બત્રીશ દોષ",
+      "definition": "સામાયિકના ૩૨ દોષ — દશ મનના, દશ વચનના અને બાર કાયાના, જેનું પ્રતિક્રમણ ગાથા ૭(બીજો ખંડ)માં છે.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -260,11 +403,28 @@
       ]
     },
     {
+      "term": "bhante",
+      "scriptForm": "ભંતે",
+      "definition": "‘હે ભગવન્!’, ‘હે પૂજ્ય!’ — ગુરુ/તીર્થંકરને કરાતું આદરસૂચક સંબોધન, જેની સાક્ષીએ વ્રત લેવાય છે.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "bharaha-vāsa (bharata-kṣetra)",
+      "scriptForm": "ભરહવાસ / ભરતક્ષેત્ર",
+      "definition": "જંબૂદ્વીપનું ભરત ક્ષેત્ર — જ્યાં મહાવીરનું તીર્થ આજેય વહે છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "bhāva",
       "scriptForm": "ભાવ",
-      "definition": "મનોભાવ/અધ્યવસાય; કયા આંતરિક પરિણામ સાથે વ્રત પાળવું તેની મર્યાદા.",
+      "definition": "મનોવૃત્તિ/અંતઃભાવ — અહીં રાગ-દ્વેષ રહિત, સમતાયુક્ત મનની સ્થિતિ જેમાં વ્રત પાળવાનું છે.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -308,6 +468,23 @@
       ]
     },
     {
+      "term": "bīja",
+      "scriptForm": "બીજ (હ્રીં / ૐ)",
+      "definition": "મંત્રનો મૂળ એકાક્ષર બીજાક્ષર; અહીં ‘હ્રીં’, ‘ૐ’ આદિ શક્તિ-અક્ષરો.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "bodhi",
+      "scriptForm": "બોહિ / બોધિ",
+      "definition": "ધર્મ-પ્રાપ્તિ, સમ્યગ્દર્શનનું બીજ; ભવોભવ આની યાચના કરાય છે.",
+      "sutras": [
+        "smaran-4-upasargahar",
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "bodhi-lābha",
       "scriptForm": "બોધિલાભ",
       "definition": "સમ્યગ્દર્શન-જ્ઞાનની — સાચા ધર્મ-બોધની — પ્રાપ્તિ; ગાથા ૬ની યાચના.",
@@ -316,11 +493,35 @@
       ]
     },
     {
+      "term": "bol",
+      "scriptForm": "બોલ",
+      "definition": "પડિલેહણા વખતે મનમાં ધારવાનું એક સંકલ્પ-વચન; અહીં કુલ ૫૦ બોલ (૨૫ મુહપત્તીના + ૨૫ શરીરના).",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "brahma-randhra",
+      "scriptForm": "બ્રહ્મરંધ્ર",
+      "definition": "મસ્તકના શિખરનું યૌગિક સૂક્ષ્મ સ્થાન; નાભિથી નાળ દ્વારા અહીં ધ્યાન ચઢે.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "brahmacarya-gupti",
       "scriptForm": "બ્રહ્મચર્ય-ગુપ્તિ",
       "definition": "બ્રહ્મચર્યની રક્ષા માટેની નવ પ્રકારની વાડ (ગુપ્તિ); ‘નવવિહ બંભચેર ગુત્તિ’.",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "caitya",
+      "scriptForm": "ચેઇય / ચૈત્ય",
+      "definition": "જિન-મંદિર કે જિન-પ્રતિમા; 'જિણભવણ' એ જ અર્થમાં.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -365,6 +566,14 @@
       ]
     },
     {
+      "term": "caturindriya",
+      "scriptForm": "ચઉરિંદ્રિય",
+      "definition": "ચાર ઇંદ્રિયવાળા જીવો (જેમ કે માખી); ૨ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "cāturmāsika",
       "scriptForm": "ચઉમાસી (ચોમાસી)",
       "definition": "ઋતુ-અંતે, વર્ષમાં ત્રણ વાર થતું પ્રતિક્રમણ.",
@@ -375,9 +584,10 @@
     {
       "term": "caturvidha saṅgha",
       "scriptForm": "ચતુર્વિધ સંઘ",
-      "definition": "સાધુ, સાધ્વી, શ્રાવક અને શ્રાવિકા—એ ચાર અંગવાળો જૈન સંઘ.",
+      "definition": "સાધુ, સાધ્વી, શ્રાવક અને શ્રાવિકા — એ ચાર અંગવાળો જિનસંઘ.",
       "sutras": [
-        "pakkhi-khamana"
+        "pakkhi-khamana",
+        "samayik-parvani"
       ]
     },
     {
@@ -397,6 +607,30 @@
       ]
     },
     {
+      "term": "caubīsī",
+      "scriptForm": "ચોવીશી",
+      "definition": "એક કાળચક્રના ચોવીશ તીર્થંકરોનો સમૂહ; અતીત, વર્તમાન અને અનાગત — એમ ત્રણ ચોવીશીને વંદના.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "caudarāja-loka",
+      "scriptForm": "ચઉદ રાજલોક",
+      "definition": "જૈન વિશ્વરચના મુજબ ઊભો ચઉદ-રજ્જુ પ્રમાણનો સમગ્ર લોક, જ્યાં સર્વ જીવો વસે છે.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "chadmastha",
+      "scriptForm": "છઉમ",
+      "definition": "કેવલજ્ઞાન પૂર્વેની આવૃત-અવસ્થા; ‘વિઅટ્ટછઉમ’ = તેનાથી મુક્ત.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "chandas",
       "scriptForm": "છંદ",
       "definition": "પદ્યનું માત્રા/અક્ષર-માપ; આ સ્તવ વિવિધ છંદોમાં રચાયેલું હોવાથી પ્રસિદ્ધ છે.",
@@ -405,11 +639,37 @@
       ]
     },
     {
+      "term": "cintāmaṇi",
+      "scriptForm": "ચિંતામણિ",
+      "definition": "ઇચ્છિત આપતું પૌરાણિક રત્ન; અહીં સમ્યક્ત્વ તેનાથીય શ્રેષ્ઠ કહ્યું.",
+      "sutras": [
+        "ashtottari-tirthmala",
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "cūlikā",
       "scriptForm": "ચૂલિકા",
-      "definition": "મંત્રની પાછળ જોડાયેલ ફલશ્રુતિ-પંક્તિઓ (ગાથા ૬–૯) જે મંત્રનું ફળ-મહિમા સમજાવે છે.",
+      "definition": "નવકારના પાંચ પદ પછી આવતી ચાર પંક્તિઓ ('એસો પંચ નમુક્કારો…') — જે અહીં શિલા, કોટ, ખાઈ અને ઢાંકણ બને છે.",
       "sutras": [
-        "navkar"
+        "navkar",
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "dāna-śīla-tapa-bhāva",
+      "scriptForm": "દાણ-સીલ-તવ-ભાવ",
+      "definition": "ધર્મનાં ચાર અંગ — દાન, શીલ (સદાચાર/બ્રહ્મચર્ય), તપ અને શુભ ભાવના.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "daṇḍa",
+      "scriptForm": "દંડ",
+      "definition": "મન, વચન, કાયાની અશુભ પ્રવૃત્તિ જે આત્માને દંડે; પરિહરવા યોગ્ય — ગુપ્તિનું વિરોધી.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -421,10 +681,19 @@
       ]
     },
     {
-      "term": "deśāvagāśika",
-      "scriptForm": "દેશાવગાસિક",
-      "definition": "છઠ્ઠા દિશિવ્રતમાં લીધેલા ક્ષેત્રને રોજેરોજ વધુ સંકોચીને મર્યાદિત કરવાનું દશમું વ્રત.",
+      "term": "darśana-mohanīya",
+      "scriptForm": "દર્શનમોહનીય",
+      "definition": "સમ્યગ્દર્શનને આવરનાર મોહનીય કર્મ; તેના ત્રણ ભેદ — સમકિતમોહની, મિશ્રમોહની, મિથ્યાત્વમોહની — અહીં પરિહરવાના કહ્યા છે.",
       "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "deśāvagāśika",
+      "scriptForm": "દેસાવગાસિઅં",
+      "definition": "શ્રાવકનું દશમું (શિક્ષા) વ્રત — સ્થાન/ક્ષેત્રની મર્યાદા સંકોચી, ઠરાવેલ સીમામાં રહી હિંસાદિ ઘટાડવાનું વ્રત.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
         "laghu-atiyar"
       ]
     },
@@ -434,6 +703,14 @@
       "definition": "દસમું શ્રાવક-વ્રત; ‘દેશ’ (ક્ષેત્ર) અને ‘અવકાશ’ (સમય)ની મર્યાદા — અમુક ક્ષેત્ર અને સમય પૂરતી જ પ્રવૃત્તિ રાખવાનો સંકલ્પ.",
       "sutras": [
         "deshavagasik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "deva",
+      "scriptForm": "દેવતા",
+      "definition": "સ્વર્ગ-ગતિના જીવો; ૪ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -449,7 +726,8 @@
       "scriptForm": "ધરણેન્દ્ર",
       "definition": "નાગરાજ-દેવ, જે પાર્શ્વનાથની સેવા-રક્ષા કરે છે; પ્રભુ 'ધરણિંદ નમંસિએ' — ધરણેન્દ્રથી વંદાયેલા છે (ગાથા ૨૪).",
       "sutras": [
-        "smaran-5-namiun-bhayahar"
+        "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -458,6 +736,14 @@
       "definition": "આત્મ-શુદ્ધિનો માર્ગ; અહીં અહિંસા–સંયમ–તપ રૂપે વર્ણવેલ ઉત્કૃષ્ટ મંગલ.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "dharma-cakravartin",
+      "scriptForm": "ધમ્મવર ચક્કવટ્ટિ",
+      "definition": "ધર્મનો ચક્રવર્તી — ચાર ગતિના સંસારનો અંત કરનાર ધર્મ-સમ્રાટ.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -487,9 +773,10 @@
     {
       "term": "dravya",
       "scriptForm": "દ્રવ્ય",
-      "definition": "વસ્તુ/પદાર્થ; મર્યાદાનું પ્રથમ ભેદ — કઈ વસ્તુઓ વાપરવી તેની હદ.",
+      "definition": "પદાર્થ/વસ્તુ — અહીં વ્રત દરમ્યાન કયા ઉપકરણો રાખવાની છૂટ છે તેની મર્યાદા.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -501,6 +788,22 @@
       ]
     },
     {
+      "term": "duriya (durita)",
+      "scriptForm": "દુરિય / દુરિત",
+      "definition": "વિઘ્ન, અનિષ્ટ, પાપ; સ્તવનો અંતિમ આશીર્વાદ 'સવ્વ-દુરિયાણં ખયં' (સર્વ દુરિતનો ક્ષય).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "duvihaṁ",
+      "scriptForm": "દુવિહં",
+      "definition": "દ્વિવિધ — બે પ્રકારે: 'ન કરેમિ' (ન કરું) અને 'ન કારવેમિ' (ન કરાવું); શ્રાવક માટેની મર્યાદિત પ્રતિજ્ઞા.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
       "term": "dvādaśāvarta",
       "scriptForm": "દ્વાદશાવર્ત",
       "definition": "વંદન દરમિયાન થતી બાર 'આવર્ત' (હાથ-મસ્તકની ફેરવણી) ક્રિયા; તેથી આ વાંદણાનું નામ.",
@@ -509,11 +812,28 @@
       ]
     },
     {
+      "term": "dvīndriya",
+      "scriptForm": "બેઇંદ્રિય",
+      "definition": "સ્પર્શ ને રસ — બે ઇંદ્રિયવાળા જીવો (જેમ કે કૃમિ); ૨ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "dvividha-trividha",
+      "scriptForm": "દુવિહં તિવિહેણં",
+      "definition": "‘બે રીતે, ત્રણ યોગે’ — શ્રાવકના સામાયિકનો વ્યાપ: બે કરણ (પોતે કરવું, બીજા પાસે કરાવવું) × ત્રણ યોગ (મન, વચન, કાય). (મુનિનું ‘તિવિહં તિવિહેણં’ એથી વ્યાપક હોય છે.)",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
       "term": "ekendriya",
       "scriptForm": "એગિંદિય",
-      "definition": "એક (સ્પર્શ) ઇન્દ્રિયવાળા જીવ—પૃથ્વી, પાણી, અગ્નિ, વાયુ અને વનસ્પતિકાય.",
+      "definition": "માત્ર સ્પર્શ-ઇંદ્રિયવાળા સ્થાવર જીવો — પૃથ્વી, પાણી, અગ્નિ, વાયુ, વનસ્પતિ.",
       "sutras": [
-        "iriyavahiyam"
+        "iriyavahiyam",
+        "jivrashi"
       ]
     },
     {
@@ -533,10 +853,27 @@
       ]
     },
     {
-      "term": "gamanāgamana",
-      "scriptForm": "ગમણાગમણ",
-      "definition": "આવવું અને જવું; હાલચાલ, જે દરમિયાન અજાણતાં હિંસા થઈ શકે.",
+      "term": "gāhā (gāthā)",
+      "scriptForm": "ગાહા / ગાથા",
+      "definition": "પ્રાકૃત છંદનો એક પ્રકાર; અહીં સ્તોત્રની એક-એક કડી.",
       "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "gāhā-jualaa (gāthā-yugma)",
+      "scriptForm": "ગાહા-જુઅલ",
+      "definition": "ગાથા-યુગલ (બે ગાથાનું જોડ); ગાથા (૩)માં કવિ 'ગાહા-યુગલ વડે સ્તુતિ કરું છું' એમ કહે છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "gamanāgamana",
+      "scriptForm": "ગમનાગમન",
+      "definition": "જવું અને આવવું; ધર્મસ્થાન સુધી આવવા-જવામાં થયેલા દોષોની આલોચના, જે આ સૂત્રનો વિષય છે.",
+      "sutras": [
+        "gamanagamano",
         "iriyavahiyam"
       ]
     },
@@ -546,7 +883,56 @@
       "definition": "તીર્થંકરના મુખ્ય શિષ્ય, જે પ્રવચનને દ્વાદશાંગી રૂપે ગૂંથે છે; દા.ત. સુધર્માસ્વામી.",
       "sutras": [
         "nandisutrani-dvitiya-sajay",
-        "nandisutrani-pratham-sajay"
+        "nandisutrani-pratham-sajay",
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "gandha-hastī",
+      "scriptForm": "ગંધ હત્થી",
+      "definition": "ગંધહસ્તી — જેની ગંધમાત્રથી વિરોધી હાથી ભાગે; પ્રભાવનું પ્રતીક.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "gārava",
+      "scriptForm": "ગારવ",
+      "definition": "આસક્તિજન્ય ગર્વ/મમત્વ; ત્રણ — ઋદ્ધિગારવ (વૈભવ), રસગારવ (સ્વાદ), સાતાગારવ (સુખશીલતા).",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "garhā",
+      "scriptForm": "ગરિહામિ",
+      "definition": "ગુરુ/વડીલ સમક્ષ પ્રગટપણે પોતાના દોષની ગર્હા (ખુલ્લી નિંદા) કરવી; નિંદાથી એક ડગલું આગળ.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "garihāmi",
+      "scriptForm": "ગરિહામિ",
+      "definition": "ગર્હા કરું છું — ગુરુ-સાક્ષીએ દોષ પ્રગટ કરી તેની નિંદા.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "Gautama",
+      "scriptForm": "ગૌતમ",
+      "definition": "ગૌતમસ્વામી (ઇન્દ્રભૂતિ), ભગવાન મહાવીરના પ્રથમ ગણધર; લબ્ધિના ભંડાર રૂપે પૂજ્ય.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "gayaṁda (gajendra)",
+      "scriptForm": "ગયંદ / ગજેન્દ્ર",
+      "definition": "શ્રેષ્ઠ (મદોન્મત્ત) હાથી; પ્રભુની લલિત ગતિનું ઉપમાન.",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -571,6 +957,14 @@
       "definition": "વંશ/કુળનું નામ; આ સજ્ઝાયમાં ઘણા આચાર્યો એમના ગોત્ર (અગ્ગિવેસાણ, કાશ્યપ, કૌશિક આદિ) સહિત વંદાય છે.",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "graha",
+      "scriptForm": "ગ્ગહ / ગ્રહ",
+      "definition": "ગ્રહ-પીડા; જ્યોતિષ-જન્ય કે અદૃશ્ય ઉપદ્રવ.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -601,8 +995,10 @@
     {
       "term": "gupti",
       "scriptForm": "ગુપ્તિ",
-      "definition": "મન, વચન અને કાયાનો નિગ્રહ — ત્રણ ગુપ્તિ.",
+      "definition": "મન, વચન અને કાયાનું શુભ સંયમન — મનોગુપ્તિ, વચનગુપ્તિ, કાયગુપ્તિ; આદરવા યોગ્ય.",
       "sutras": [
+        "gamanagamano",
+        "padilehana",
         "panchindiya"
       ]
     },
@@ -612,6 +1008,30 @@
       "definition": "સાક્ષાત્ ગુરુની ગેરહાજરીમાં તેમના પ્રતીકરૂપ સ્થાપનાચાર્યની સ્થાપના, જેથી ક્રિયા ગુરુ-સાક્ષીમાં થાય.",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "gurvādika",
+      "scriptForm": "ગુર્વાદિક",
+      "definition": "ગુરુ વગેરે પૂજ્ય સાધુ-સાધ્વી-વડીલ; ‘ગુરુ-આદિ’.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "hara",
+      "scriptForm": "હર",
+      "definition": "હરનાર, દૂર કરનાર; 'ઉપસર્ગહર' = ઉપદ્રવોને હરનાર.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "hṛdayāmbhoja",
+      "scriptForm": "હૃદયાંભોજ",
+      "definition": "હૃદય-કમળ; ધ્યાનમાં મંત્ર/પ્રભુને સ્થાપવાનું આંતર સ્થાન.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -631,11 +1051,35 @@
       ]
     },
     {
+      "term": "iryāpathikī",
+      "scriptForm": "ઇરિયાવહિયં",
+      "definition": "ચાલતાં-ફરતાં થયેલી જીવ-વિરાધનાની આલોચના (મિચ્છામિ દુક્કડં) નું સૂત્ર, જે આ સૂત્રની તરત પહેલાં આવે છે.",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "Jambū",
+      "scriptForm": "જંબૂ",
+      "definition": "જંબૂસ્વામી, આ અવસર્પિણીમાં અંતિમ કેવલજ્ઞાની; શ્લોક ૨ માં સ્મરણીય.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "janma-abhiṣeka",
       "scriptForm": "જન્માભિષેક",
       "definition": "જન્મ સમયે મેરુશિખર પર બત્રીસ ઇન્દ્રો દ્વારા થતો સ્નાત્ર-મહોત્સવ (ગાથા ‘ન્હવિય બત્તીસ ઇંદેહિં’).",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "jarā",
+      "scriptForm": "જરા",
+      "definition": "જ્વર/વૃદ્ધત્વ; અહીં 'દુટ્ઠ જરા' = દુષ્ટ જ્વર.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -655,20 +1099,39 @@
       ]
     },
     {
+      "term": "jayai / jayau",
+      "scriptForm": "જયઇ / જયઉ",
+      "definition": "'જય પામે છે / જયવંતા વર્તો' — સ્તવનો જય-ઘોષ (ગાથા ૧, ૨).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "jayaṇā",
       "scriptForm": "જયણા",
-      "definition": "જે ટાળી ન શકાય ત્યાં ઓછામાં ઓછી હિંસા થાય તેવી સાવધાની/યતના; 'નિયમ' (પ્રતિજ્ઞા)થી જુદી.",
+      "definition": "વિવેક અને કાળજીપૂર્વકની વર્તના — જીવદયા-યુક્ત સાવધાની, જેથી દોષ ટળે; પ્રાકૃત ‘યતનā’નું રૂપ.",
       "sutras": [
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "dravya-kshetra-kaal-bhav",
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
       "term": "jina",
-      "scriptForm": "જિન",
+      "scriptForm": "જિણ / જિન",
       "definition": "રાગ-દ્વેષ આદિ આંતરિક શત્રુઓને જીતનાર; તીર્થંકરનો પર્યાય.",
       "sutras": [
+        "ashtottari-tirthmala",
         "logassa"
+      ]
+    },
+    {
+      "term": "jiṇa (jina)",
+      "scriptForm": "જિણ / જિન",
+      "definition": "રાગ-દ્વેષાદિ જિતનાર; તીર્થંકર — અહીં મહાવીર.",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -689,6 +1152,14 @@
       ]
     },
     {
+      "term": "jinacandra",
+      "scriptForm": "જિણચંદ / જિનચંદ્ર",
+      "definition": "'જિનોમાં ચંદ્ર સમાન' — પાર્શ્વનાથનું સ્તુતિ-વિશેષણ.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "jinahara",
       "scriptForm": "જિનહર / જિનભુવન / જિનાલય",
       "definition": "જિનમંદિર—જ્યાં જિનપ્રતિમા પ્રતિષ્ઠિત હોય.",
@@ -705,6 +1176,38 @@
       ]
     },
     {
+      "term": "jīva-rāśi",
+      "scriptForm": "જીવરાશિ",
+      "definition": "જીવોનો સમૂહ; સંસારના સર્વ જીવોની રાશિ (ગણ).",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "jīva-yoni",
+      "scriptForm": "જીવાયોનિ",
+      "definition": "જીવોને જન્મ લેવાનાં સ્થાન/યોનિ; પરંપરા મુજબ કુલ ચોરાસી લાખ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "jīvantasvāmī",
+      "scriptForm": "જીવંત સામિ",
+      "definition": "તીર્થંકર ગૃહસ્થ-છદ્મસ્થ અવસ્થામાં હતા ત્યારની તેમની પ્રતિમા; ભરુકચ્છ ને વાયડમાં મુનિસુવ્રતની એવી પ્રતિમા પૂજાય.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "jñāna-dravya",
+      "scriptForm": "જ્ઞાનદ્રવ્ય",
+      "definition": "જ્ઞાનનાં સાધન-ઉપકરણ — પાટી, પોથી, કવલી, ઠવણી, નોકારવાળી આદિ, જેની આશાતના ટાળવાની છે.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "jṛmbhā",
       "scriptForm": "જંભાઇ",
       "definition": "બગાસું આવવું.",
@@ -715,9 +1218,10 @@
     {
       "term": "kāla",
       "scriptForm": "કાળ",
-      "definition": "સમય; વ્રતની કાલમર્યાદા — મુહૂર્તથી ધારણા-પ્રમાણ સુધી.",
+      "definition": "સમય — અહીં સામાયિક પૂરું થાય ત્યાં સુધીની વ્રતની અવધિ.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -737,10 +1241,19 @@
       ]
     },
     {
+      "term": "kalpapādapa",
+      "scriptForm": "કપ્પપાય(વ) / કલ્પવૃક્ષ",
+      "definition": "ઇચ્છાપૂરક કલ્પવૃક્ષ; સમ્યક્ત્વ આનાથીય ઉપર છે.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "kalyāṇaka",
       "scriptForm": "કલ્યાણક",
-      "definition": "તીર્થંકરના જીવનનો કલ્યાણકારી પ્રસંગ (ચ્યવન, જન્મ, દીક્ષા, કેવલજ્ઞાન, મોક્ષ).",
+      "definition": "તીર્થંકરના જીવનના પાંચ માંગલિક પ્રસંગ—ચ્યવન, જન્મ, દીક્ષા, કેવલજ્ઞાન, નિર્વાણ; એમની ભૂમિઓ તીર્થ બને (શ્લોક ૧૧૦).",
       "sutras": [
+        "ashtottari-tirthmala",
         "smaran-9-bruhad-ajitshanti"
       ]
     },
@@ -750,6 +1263,22 @@
       "definition": "પૂર્વભવનો વેરી, જે અસુર બની પાર્શ્વનાથના ધ્યાનમાં વિઘ્ન નાખવા ઉપસર્ગ કરે છે; પાર્શ્વ અચળ રહે છે.",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "karaṇa-kāraṇa",
+      "scriptForm": "ન કરેમિ, ન કારવેમિ",
+      "definition": "‘ન કરું, ન કરાવું’ — પાપ પોતે આચરવું (કરણ) અને બીજા દ્વારા કરાવવું (કારણ/કારાવણ) — બંનેનો નિષેધ.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "karemi bhante",
+      "scriptForm": "કરેમિ ભંતે",
+      "definition": "'હે ભગવન્! હું કરું છું' — ગુરુને સંબોધી પ્રતિજ્ઞાનો આરંભ કરતું વાક્ય.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -771,20 +1300,47 @@
     {
       "term": "kaṣāya",
       "scriptForm": "કષાય",
-      "definition": "ક્રોધ, માન, માયા અને લોભ — ચાર આત્મમલિન કરનારી પ્રવૃત્તિઓ; ગુરુ તેનાથી મુક્ત.",
+      "definition": "ચાર આત્મમલિન કરનાર ભાવ — ક્રોધ, માન, માયા, લોભ; પાઠમાં છેલ્લે પરિહરવાના ગણાવ્યા.",
       "sutras": [
+        "adhar-papsthanak",
+        "padilehana",
         "panchindiya"
+      ]
+    },
+    {
+      "term": "kasāya (kaṣāya)",
+      "scriptForm": "કસાય / કષાય",
+      "definition": "ક્રોધ-માન-માયા-લોભ — આત્માને મલિન કરનાર ચાર વિકાર; જિન 'જિઅકસાય' (કષાય-વિજેતા) છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "kavaca",
+      "scriptForm": "કવચ",
+      "definition": "રક્ષક બખ્તર; મંત્રથી રચાતું આધ્યાત્મિક રક્ષણ.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
       "term": "kāyotsarga",
       "scriptForm": "કાઉસ્સગ્ગ / કાયોત્સર્ગ",
-      "definition": "દેહ પ્રત્યેની મમતા છોડી સ્થિર ધ્યાન; એનું માપ લોગસ્સ-એકમમાં ગણાય (પક્ખી ૧૨, ચઉમાસી ૨૦, સંવત્સરી ૪૦+૧ નવકાર).",
+      "definition": "શરીરની હલચલ અને મમત્વ છોડીને સ્થિર, મૌન, ધ્યાનસ્થ ઊભા (કે બેઠા) રહેવાની ક્રિયા; પાંચમું આવશ્યક. લોગસ્સના પાઠ-એકમમાં માપ થાય.",
       "sutras": [
         "annattha",
         "iriyavahiyam",
         "logassa",
-        "navkar"
+        "navkar",
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "kevala-jñāna",
+      "scriptForm": "વરનાણ",
+      "definition": "અપ્રતિહત પૂર્ણ જ્ઞાન (સર્વજ્ઞતા); તેની સાથે કેવલદર્શન.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -821,6 +1377,14 @@
       ]
     },
     {
+      "term": "khātikā",
+      "scriptForm": "ખાતિકા",
+      "definition": "કિલ્લાની આસપાસની ખાઈ; અહીં ખેરના અંગારાથી ભરેલી અગ્નિમય ખાઈ.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "kīrtana",
       "scriptForm": "કિત્તણ (કિત્તઇસ્સં)",
       "definition": "ગુણ-સ્તુતિ, કીર્તિ-ગાન; 'કિત્તિયં તાણં' એટલે એમની સ્તુતિ કરું છું.",
@@ -830,11 +1394,27 @@
       ]
     },
     {
+      "term": "kṛta-kārita-anumodita",
+      "scriptForm": "સેવ્યું-સેવરાવ્યું-અનુમોદ્યું",
+      "definition": "પાપ જાતે કરવું, બીજા પાસે કરાવવું, અને કરનારને અનુમોદન આપવું—આ ત્રિવિધ ભંગે આલોચના થાય છે.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "kṣāmaṇā",
       "scriptForm": "ખામણા",
       "definition": "ક્ષમા માગવી-આપવી; 'ખામેમિ' = 'હું ક્ષમા માગું છું'.",
       "sutras": [
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "kṣamāpanā",
+      "scriptForm": "ક્ષમાપના / ખમાવણા",
+      "definition": "સર્વ જીવો પાસે ક્ષમા માગવી અને તેમને ક્ષમા આપવી; વેરભાવનો ત્યાગ.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -848,9 +1428,10 @@
     {
       "term": "kṣetra",
       "scriptForm": "ક્ષેત્ર",
-      "definition": "સ્થાન/ભૌગોલિક ક્ષેત્ર; ‘અહીં કે અન્યત્ર’ — હરફરની ભૌતિક હદ.",
+      "definition": "સ્થાન/જગ્યા — અહીં વ્રત જે સ્થાન-સીમામાં (ઉપાશ્રયના બારણાંની માંહેલી કોર) પાળવાનું છે તે હદ.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -859,6 +1440,22 @@
       "definition": "છીંક આવવી.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "labdhi",
+      "scriptForm": "લબ્ધિ",
+      "definition": "તપ-સંયમ-જ્ઞાનથી પ્રાપ્ત વિશેષ આત્મ-શક્તિ; ગૌતમસ્વામી ‘લબ્ધિતણા ભંડાર’ કહેવાય.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "leśyā",
+      "scriptForm": "લેશ્યા",
+      "definition": "કષાય-રંગિત મનોવૃત્તિ; અશુભ ત્રણ — કૃષ્ણ, નીલ, કાપોત — અહીં પરિહરવાની છે.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -926,6 +1523,30 @@
       ]
     },
     {
+      "term": "maithuna",
+      "scriptForm": "મૈથુન",
+      "definition": "અબ્રહ્મચર્ય—કામભોગ-સંબંધી પાપ.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "mana-vacana-kāya",
+      "scriptForm": "મન-વચન-કાયા",
+      "definition": "ત્રણ યોગ — વિચાર, વાણી અને શરીર — જેના દ્વારા કર્મબંધ થાય છે.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "manas-vacas-kāya",
+      "scriptForm": "મણેણં, વાયાએ, કાએણં",
+      "definition": "મન, વચન અને કાય — પ્રવૃત્તિના ત્રણ યોગ (દ્વાર), જેમના વડે કર્મબંધ થાય છે.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
       "term": "Mānatuṅga",
       "scriptForm": "માનતુંગ",
       "definition": "આ સ્તોત્રના રચયિતા આચાર્ય; ભક્તામર સ્તોત્રના પણ કર્તા; ગાથા ૨૧માં સ્વનામોલ્લેખ.",
@@ -944,12 +1565,13 @@
     {
       "term": "maṅgala",
       "scriptForm": "મંગલ",
-      "definition": "આરંભનું કે અંતનું કલ્યાણ-વચન; અહીં ‘જયઇ’ અને ‘ભદ્દં’ રૂપે વ્યક્ત.",
+      "definition": "શુભ, કલ્યાણકારી; વિઘ્ન-નાશક અને હિત-સાધક ભાવ. અહીં સ્તુતિનો કેન્દ્રીય શબ્દ.",
       "sutras": [
         "drumapushpika-sajjhay",
         "nandisutrani-pratham-sajay",
         "navkar",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "rai-mangalacharan"
       ]
     },
     {
@@ -957,17 +1579,71 @@
       "scriptForm": "મંગલાચરણ",
       "definition": "કોઈ પણ ક્રિયા કે પાઠના આરંભે કરાતું શુભ-આરંભક વંદન; નવકાર એ રૂપે વપરાય છે.",
       "sutras": [
+        "ashtottari-tirthmala",
         "navkar"
+      ]
+    },
+    {
+      "term": "mantra",
+      "scriptForm": "મંત / મંત્ર",
+      "definition": "રક્ષણ માટે કંઠમાં ધારણ કરાતો પવિત્ર શબ્દ-સમૂહ.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "mantrarāja",
+      "scriptForm": "મંત્રરાજ",
+      "definition": "મંત્રોમાં શ્રેષ્ઠ — અહીં પાર્શ્વનાથનો રક્ષક મંત્ર, જે હૃદયમાં મૂર્તિમાન્ થઈને ભયનાશ કરે.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "manuṣya",
+      "scriptForm": "મનુષ્ય",
+      "definition": "મનુષ્ય-ગતિના જીવો; પરંપરા મુજબ ૧૪ લાખ ભેદ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "mārī",
+      "scriptForm": "મારી",
+      "definition": "મહામારી, રોગચાળો.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "maya / moha (mada / moha)",
+      "scriptForm": "મય / મોહ",
+      "definition": "મદ (અહંકાર) અને મોહ (ભ્રાંતિ-આસક્તિ); ગાથા (૩)માં જિન 'મય-મોહ-વિવર્જિત' છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "māyā-mṛṣāvāda",
+      "scriptForm": "માયા-મૃષાવાદ",
+      "definition": "કપટપૂર્વકનું જૂઠ—છળ સાથેનું અસત્ય; સત્તરમું પાપસ્થાનક.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
       "term": "micchā mi dukkaḍaṁ",
       "scriptForm": "મિચ્છા મિ દુક્કડં",
-      "definition": "'મારું તે દુષ્કૃત (પાપ) મિથ્યા—નિષ્ફળ—થાઓ'; ક્ષમાયાચનાનું પ્રતિક્રમણ-વાક્ય.",
+      "definition": "‘મારું દુષ્કૃત્ય મિથ્યા (ફોગટ) થાઓ’ — પ્રાચીન આલોચના-મુદ્રા જે દોષનો અસ્વીકાર કરી ક્ષમા માગે છે.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar",
+        "gamanagamano",
         "iriyavahiyam",
-        "laghu-atiyar"
+        "jivrashi",
+        "laghu-atiyar",
+        "padilehana",
+        "samayik-parvani"
       ]
     },
     {
@@ -991,7 +1667,24 @@
       "scriptForm": "મિથ્યાત્વ",
       "definition": "વિપરીત શ્રદ્ધા; અહીં દેવગત/ગુરુગત અને લૌકિક/લોકોત્તર એમ ચતુર્વિધ રૂપે વર્ણવાય છે.",
       "sutras": [
-        "bruhad-atiyar"
+        "bruhad-atiyar",
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "mithyātva-śalya",
+      "scriptForm": "મિથ્યાત્વ-શલ્ય",
+      "definition": "વિપરીત શ્રદ્ધા/મિથ્યા દૃષ્ટિરૂપી શલ્ય (કાંટો) જે આત્માને સતત ખૂંચે છે; અઢારમું અને મૂળભૂત પાપસ્થાનક.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "mṛṣāvāda",
+      "scriptForm": "મૃષાવાદ",
+      "definition": "અસત્ય બોલવું, જૂઠ.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1040,7 +1733,32 @@
       "definition": "પંચ પરમેષ્ઠીને કરાતો વંદન-ભાવ, જે આ સજ્ઝાયના સ્મરણ-ક્રમનું મૂળ છે.",
       "sutras": [
         "navkar",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "namo'tthu ṇaṁ",
+      "scriptForm": "નમોત્થુણં",
+      "definition": "‘નમસ્કાર હો’ — સ્તવનો પ્રારંભિક પ્રણિપાત-વાક્ય.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "nāraka",
+      "scriptForm": "નારકી",
+      "definition": "નરક-ગતિના જીવો; ૪ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "nava-pada",
+      "scriptForm": "નવ પદ",
+      "definition": "નવકારનાં નવ ચરણ — પાંચ નમસ્કાર-પદ અને ચૂલિકાનાં ચાર ચરણ; આ સ્તોત્રનો આધાર.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1052,11 +1770,43 @@
       ]
     },
     {
+      "term": "navakāravālī",
+      "scriptForm": "નવકારવાલી",
+      "definition": "જાપ ગણવાની માળા (નવકાર મંત્ર જપવા માટેની); દ્રવ્ય-મર્યાદામાં ઉલ્લેખિત ઉપકરણ.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "nighātana",
+      "scriptForm": "નિગ્ઘાયણ",
+      "definition": "નાશ, ઉચ્છેદ; ‘નિગ્ઘાયણઠ્ઠાએ’ = (પાપકર્મોના) નાશ માટે.",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
       "term": "niḥśvāsa",
       "scriptForm": "નિસસ",
       "definition": "નિઃશ્વાસ — શ્વાસ અંદર લેવો.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "nindā",
+      "scriptForm": "નિંદામિ",
+      "definition": "આત્મ-નિંદા — પોતાના મનમાં પોતાના દોષની નિંદા કરવી.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "nindāmi",
+      "scriptForm": "નિંદામિ",
+      "definition": "નિંદા કરું છું — પોતાના કરેલા દોષની સ્વયં અંતઃકરણમાં નિંદા.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -1068,11 +1818,67 @@
       ]
     },
     {
+      "term": "nyāsa",
+      "scriptForm": "ન્યાસ",
+      "definition": "મંત્ર-પદોને શરીરનાં વિવિધ સ્થાનો પર ભાવનાથી સ્થાપવાની ધ્યાન-પદ્ધતિ.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "paccakkhāṇa",
+      "scriptForm": "પચ્ચખ્ખાણ",
+      "definition": "ત્યાગ/નિયમની પ્રતિજ્ઞા (પ્રત્યાખ્યાન); અમુક પ્રવૃત્તિ ન કરવાનો સંકલ્પ.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "paḍiggaha",
       "scriptForm": "પડિગ્ગહ",
       "definition": "પાત્ર — ભિક્ષા-ગ્રહણ માટેનું મુનિનું પાત્ર.",
       "sutras": [
         "muni-vandana"
+      ]
+    },
+    {
+      "term": "paḍikkamāmi",
+      "scriptForm": "પડિક્કમામિ",
+      "definition": "પ્રતિક્રમણ કરું છું — દોષથી પાછો વળું છું; પાપપ્રવૃત્તિ તરફથી પુનઃ સન્માર્ગે પાછા ફરવું.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "paḍilehaṇā",
+      "scriptForm": "પડિલેહણા",
+      "definition": "વસ્ત્ર, મુહપત્તી અને શરીરની આંખ તથા હાથથી કરાતી સાવધાન તપાસ, જેથી સૂક્ષ્મ જીવોની હિંસા ટળે; એ સાથે મનમાં ૫૦ બોલની ભાવના કરાય.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "Padmāvatī",
+      "scriptForm": "પદ્માવતી",
+      "definition": "પાર્શ્વનાથની શાસનરક્ષક યક્ષિણી (દેવી), વ્યાપક ભક્તિનું કેન્દ્ર.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "paiśunya",
+      "scriptForm": "ચાડી (પૈશુન્ય)",
+      "definition": "ચુગલી, પીઠ પાછળ નિંદા-ભંભેરણી.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "pajjuvāsāmi",
+      "scriptForm": "પજ્જુવાસામિ",
+      "definition": "'સેવું છું / પાળું છું' — જ્યાં સુધી દેશાવગાશિકની મર્યાદા પાળું ત્યાં સુધી પ્રતિજ્ઞા ટકે છે.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -1083,6 +1889,30 @@
         "pakkhi-khamana",
         "smaran-2-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "pākṣika-pratikramaṇa",
+      "scriptForm": "પક્ખી પ્રતિક્રમણ",
+      "definition": "પખવાડિયે (ચૌદશે) થતું પ્રતિક્રમણ; આ સ્તવન એમાં બોલાય છે.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "paṁkaya (paṅkaja)",
+      "scriptForm": "પંકય / પંકજ",
+      "definition": "કમળ; પ્રભુનાં વિકસિત નેત્રોનું ઉપમાન.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "paṇāma",
+      "scriptForm": "પણામ / પ્રણામ",
+      "definition": "વંદન, નમન — અહીં મંત્રથીય અધિક ફળદાયી ગણાવ્યું.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -1112,11 +1942,20 @@
       ]
     },
     {
+      "term": "pañcāṅga-rakṣā",
+      "scriptForm": "પંચાંગ રક્ષણ",
+      "definition": "મંત્ર-અક્ષરો વડે શરીરનાં પાંચ અંગોનું ન્યાસ-રક્ષણ.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "pañcendriya",
       "scriptForm": "પંચિંદિય",
-      "definition": "પાંચે ઇન્દ્રિયોવાળા જીવ—મનુષ્ય, તિર્યંચ, દેવ, નારક.",
+      "definition": "પાંચે ઇંદ્રિયવાળા જીવો — દેવ, નારકી, તિર્યંચ-પંચેંદ્રિય અને મનુષ્ય.",
       "sutras": [
-        "iriyavahiyam"
+        "iriyavahiyam",
+        "jivrashi"
       ]
     },
     {
@@ -1125,6 +1964,14 @@
       "definition": "પાપકર્મ, અશુભ આચરણ, જે વોસિરાવવાનું છે.",
       "sutras": [
         "panch-parmeshthi-sajjhay"
+      ]
+    },
+    {
+      "term": "pāpa-karma",
+      "scriptForm": "પાવ કમ્મ",
+      "definition": "આત્માને બાંધનારાં અશુભ-પાપ કર્મો, જેનો નાશ આ કાઉસ્સગ્ગનું લક્ષ્ય છે.",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1144,11 +1991,59 @@
       ]
     },
     {
+      "term": "pāpasthānaka",
+      "scriptForm": "પાપસ્થાનક",
+      "definition": "પાપનું મૂળ કે ઉદ્ભવસ્થાન—જે પ્રવૃત્તિ આત્માને કર્મબંધ કરાવે છે; અહીં એવાં અઢાર સ્થાન ગણાવ્યાં છે.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "parameṣṭhin",
+      "scriptForm": "પરમેષ્ઠિ",
+      "definition": "પાંચ પરમ પૂજ્ય — અરિહંત, સિદ્ધ, આચાર્ય, ઉપાધ્યાય અને સાધુ.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "pāraṇa",
+      "scriptForm": "પારણ / પારવું",
+      "definition": "લીધેલી સામાયિક વિધિપૂર્વક છોડવી/પૂર્ણ કરવી; આ સૂત્ર એ જ સમાપન-ક્રિયા છે.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "paraparivāda",
+      "scriptForm": "પરપરિવાદ",
+      "definition": "બીજાની નિંદા-ટીકા કરવી.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "parigraha",
+      "scriptForm": "પરિગ્રહ",
+      "definition": "વસ્તુ-સંગ્રહ અને તે પ્રત્યેની મમતા/આસક્તિ.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "parigraha-parimāṇa",
       "scriptForm": "પરિગ્રહ પરિમાણ",
       "definition": "ધન-ધાન્યાદિ નવવિધ પરિગ્રહની મર્યાદા બાંધવાનું પાંચમું અણુવ્રત.",
       "sutras": [
         "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "Pārśva-yakṣa",
+      "scriptForm": "પાર્શ્વયક્ષ",
+      "definition": "પાર્શ્વનાથ-શાસનનો અધિષ્ઠાયક યક્ષ, જે પ્રભુની સેવા કરે.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -1218,6 +2113,22 @@
       ]
     },
     {
+      "term": "phuliṅga",
+      "scriptForm": "ફુલિંગ",
+      "definition": "ચિનગારી, સ્ફુલિંગ; 'વિસહર ફુલિંગ' એ પાર્શ્વનાથના રક્ષામંત્રનું પારંપરિક નામ.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "pidhāna",
+      "scriptForm": "પિધાન",
+      "definition": "ઢાંકણ/આવરણ; કોટની ઉપર ગોઠવાતું વજ્રમય આચ્છાદન.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "piṇḍa",
       "scriptForm": "પિંડ",
       "definition": "ભિક્ષામાં મળતો આહાર-પિંડ; ‘નાના-પિંડ’ = વિવિધ ઘરેથી મળતું ભિન્ન-ભિન્ન અલ્પ અન્ન.",
@@ -1234,29 +2145,91 @@
       ]
     },
     {
+      "term": "poṣadha",
+      "scriptForm": "પોસહ",
+      "definition": "પર્વ-દિવસોએ સાધુ જેવી મર્યાદાથી ઉપવાસ-સહિત ધર્મારાધનાનું વ્રત.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "prabhāvanā",
+      "scriptForm": "પભાવણા",
+      "definition": "જિનશાસનની મહિમા-વૃદ્ધિ; ધર્મની ઉન્નતિ અને પ્રચાર કરનારી પ્રવૃત્તિ.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "prāṇātipāta",
       "scriptForm": "પ્રાણાતિપાત",
       "definition": "જીવહિંસા; પ્રથમ અણુવ્રત તેના વિરમણ (ત્યાગ)નું છે.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "praṇipāta",
+      "scriptForm": "પ્રણિપાત",
+      "definition": "સાષ્ટાંગ નમન; આ સૂત્રને ‘પ્રણિપાત-સૂત્ર’ પણ કહે છે.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
       "term": "pratikramaṇa",
       "scriptForm": "પડિક્કમણ / પ્રતિક્રમણ",
-      "definition": "દોષથી પાછા વળવાની — આલોચના, પ્રાયશ્ચિત્ત ને શુદ્ધિની — વિધિ; આ સૂત્ર તેનું ચોથું આવશ્યક.",
+      "definition": "‘પાછા ફરવું’ — થયેલા દોષથી નિવૃત્ત થઈ સ્વચ્છ આચારમાં પુનઃ સ્થિર થવાની ક્રિયા; સમગ્ર અનુષ્ઠાનનું નામ પણ આ જ.",
       "sutras": [
         "iriyavahiyam",
+        "karemi-bhante",
         "laghu-atiyar",
+        "rai-mangalacharan",
         "suguru-dwadashavarta-vandana"
       ]
     },
     {
       "term": "pratyākhyāna",
       "scriptForm": "પચ્ચખ્ખાણ",
-      "definition": "સંકલ્પપૂર્વકનો ત્યાગ કે પ્રતિજ્ઞા-સૂત્ર; છઠ્ઠું આવશ્યક પણ આ જ નામે.",
+      "definition": "ત્યાગ-પ્રતિજ્ઞા; નક્કી મર્યાદા સુધી અમુક પ્રવૃત્તિ ન કરવાનો સંકલ્પ. છઠ્ઠું આવશ્યક પણ આ જ છે.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "pratyeka",
+      "scriptForm": "પ્રત્યેક",
+      "definition": "જે વનસ્પતિમાં દરેક શરીરદીઠ એક જ જીવ હોય તે.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "prāyaścitta",
+      "scriptForm": "પાયચ્છિત્ત",
+      "definition": "દોષની કબૂલાત પછી તેનું શોધન કરનારું પ્રાયશ્ચિત્ત; આત્માને દોષમુક્ત કરનારી ક્રિયા.",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "pṛthvīkāya",
+      "scriptForm": "પૃથ્વીકાય",
+      "definition": "પૃથ્વી (માટી, પથ્થર, ધાતુ આદિ)ને શરીર રૂપે ધારણ કરનારા એકેન્દ્રિય જીવો.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "puruṣa-puṇḍarīka",
+      "scriptForm": "પુરિસવર પુંડરીઅ",
+      "definition": "પુરુષોમાં શ્વેત કમળ સમાન — સંસારમાં રહીને નિર્લેપ.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1268,11 +2241,44 @@
       ]
     },
     {
+      "term": "pūrva-sūri",
+      "scriptForm": "પૂર્વસૂરિ",
+      "definition": "પ્રાચીન આચાર્યો; શ્લોક ૭ પ્રમાણે આ સ્તોત્રના કથનકર્તા.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "rāga",
+      "scriptForm": "રાગ",
+      "definition": "આસક્તિ; ત્રણ ભેદ — કામરાગ (વિષયાસક્તિ), સ્નેહરાગ (પ્રીતિ-મમતા), દૃષ્ટિરાગ (પોતાના મત પ્રત્યેનો આગ્રહ).",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "rāga-dveṣa",
+      "scriptForm": "રાગ-દ્વેષ",
+      "definition": "આસક્તિ અને દ્વેષ — જે સમતા-ભાવને ભંગ કરે છે; સામાયિકમાં તેનાથી રહિત રહેવાનું છે.",
+      "sutras": [
+        "adhar-papsthanak",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "rajoharaṇa",
       "scriptForm": "રયહરણ",
       "definition": "જીવરક્ષા માટે વપરાતી મુનિની ઊનની પૂંજણી (ઓઘો).",
       "sutras": [
         "muni-vandana"
+      ]
+    },
+    {
+      "term": "rati-arati",
+      "scriptForm": "રતિ-અરતિ",
+      "definition": "અસંયમમાં હર્ષ અને સંયમ/ધર્મમાં અણગમો—હર્ષ-ખેદની વિકૃતિ.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1292,6 +2298,14 @@
       ]
     },
     {
+      "term": "rātrika / rāi",
+      "scriptForm": "રાઈ (રાત્રિક)",
+      "definition": "પ્રભાત-પૂર્વે કરાતું દૈનિક પ્રતિક્રમણ જે રાત્રિના દોષોની આલોચના કરે છે.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "rātrika / rāi-pratikramaṇa",
       "scriptForm": "રાઈ પ્રતિક્રમણ",
       "definition": "રાત્રિના દોષોની આલોચના માટેનું પ્રાતઃકાલીન દૈનિક પ્રતિક્રમણ, જેમાં આ સજ્ઝાય આવે છે.",
@@ -1308,11 +2322,43 @@
       ]
     },
     {
+      "term": "ṣaḍ-āvaśyaka",
+      "scriptForm": "છવ્વિહ આવસ્સય",
+      "definition": "પ્રતિક્રમણના છ દૈનિક અનિવાર્ય કર્તવ્યો — સામાયિક, ચઉવીસત્થો, વંદન, પ્રતિક્રમણ, કાઉસગ્ગ અને પચ્ચક્ખાણ.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "ṣaḍ-jīvanikāya",
+      "scriptForm": "છવ્વિહ જીવનિકાય",
+      "definition": "જીવોના છ નિકાય — પૃથ્વી, અપ્, તેઉ, વાયુ, વનસ્પતિ અને ત્રસ કાય.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "ṣaḍāvaśyaka",
       "scriptForm": "ષડાવશ્યક",
       "definition": "પ્રતિક્રમણના છ આવશ્યક; આ સૂત્ર ત્રીજા ‘વંદન’ આવશ્યકની ગુરુ-સ્થાપના-ભૂમિકા છે.",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "sādhāraṇa",
+      "scriptForm": "સાધારણ",
+      "definition": "જે એક શરીરમાં અનંત જીવો સહિયારા રહે તે વનસ્પતિ (નિગોદ); 'સાધારણ' = સહિયારું.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "sādharmika-vātsalya",
+      "scriptForm": "સાહમ્મિઆણ વચ્છલ્લ",
+      "definition": "સહધર્મી શ્રાવકો પ્રત્યે પ્રેમ, સન્માન અને સહાય.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1339,6 +2385,7 @@
       "scriptForm": "સજ્ઝાય (સ્વાધ્યાય)",
       "definition": "પવિત્ર પાઠનો સ્વાધ્યાય; પ્રતિક્રમણના અધ્યયન-વિભાગમાં ગવાતી ધાર્મિક રચના — છ આવશ્યકથી ભિન્ન.",
       "sutras": [
+        "mannaha-jinanam-sajjhay",
         "nandisutrani-dvitiya-sajay",
         "nandisutrani-pratham-sajay",
         "panch-parmeshthi-sajjhay"
@@ -1353,6 +2400,23 @@
       ]
     },
     {
+      "term": "śakra-stava",
+      "scriptForm": "શક્રસ્તવ",
+      "definition": "શક્ર (ઇન્દ્ર) દ્વારા અરિહંતને કરાતી સ્તુતિ — આ પાઠનું પારંપરિક નામ.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "śalya",
+      "scriptForm": "શલ્ય",
+      "definition": "આત્મામાં ખૂંચતો કાંટો; ત્રણ — માયાશલ્ય (કપટ), નિદાનશલ્ય (ફળની માગ), મિથ્યાદર્શનશલ્ય (વિપરીત શ્રદ્ધા).",
+      "sutras": [
+        "padilehana",
+        "tassa-uttari"
+      ]
+    },
+    {
       "term": "samādhi",
       "scriptForm": "સમાહિ (સમાધિ)",
       "definition": "ચિત્તની પ્રશાંત-સ્થિર અવસ્થા; 'સમાહિવરમુત્તમં' = ઉત્તમ સમાધિમય મરણ-ભાવ.",
@@ -1362,17 +2426,30 @@
     },
     {
       "term": "samavasaraṇa",
-      "scriptForm": "સમવસરણ",
+      "scriptForm": "સમોસરણ / સમવસરણ",
       "definition": "કેવલજ્ઞાન પછી દેવો રચે તે દિવ્ય ધર્મસભા જ્યાં તીર્થંકર ઉપદેશ આપે છે.",
       "sutras": [
+        "ashtottari-tirthmala",
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "sāmāyika",
+      "scriptForm": "સામાઇયં",
+      "definition": "સમ + આય — સમતા/સમભાવમાં રહેવાનું વ્રત; રાગ-દ્વેષ છોડી નિશ્ચિત સમય સુધી સ્થિર ચિત્તે રહેવાની સાધના. છ આવશ્યકોમાં પ્રથમ.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav",
+        "karemi-bhante",
+        "samayik-parvani"
       ]
     },
     {
       "term": "samiti",
       "scriptForm": "સમિતિ",
-      "definition": "જીવરક્ષાર્થે પ્રવૃત્તિમાં સાવધાની — ઇર્યા, ભાષા, એષણા, આદાન-નિક્ષેપ અને ઉત્સર્ગ.",
+      "definition": "પ્રવૃત્તિમાં સમ્યક્ સાવધાની — ઈર્યા (ચાલવું), ભાષા (બોલવું), એષણા (આહાર), આદાનનિક્ષેપ (વસ્તુ લેવી-મૂકવી), ઉત્સર્ગ (પરઠવવું).",
       "sutras": [
+        "gamanagamano",
         "panchindiya"
       ]
     },
@@ -1382,6 +2459,14 @@
       "definition": "નામનું ઉચ્ચારણ-ગુણગાન; નામસંકીર્તનથી સર્વ ભય શમે (ગાથા ૧૮).",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "sampadā",
+      "scriptForm": "સંપદા",
+      "definition": "દંડક-ગદ્યનો લયબદ્ધ પદ-સમૂહ; શ્વેતામ્બર પરંપરા પ્રાયઃ નવ સંપદા ગણે છે.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1395,8 +2480,9 @@
     {
       "term": "saṁvara",
       "scriptForm": "સંવર",
-      "definition": "નવાં કર્મોના આસ્રવને રોકવો; સંઘ-મેરુ પરનાં ઝરણાં રૂપે.",
+      "definition": "નવાં કર્મોના આસ્રવને રોકવો — સંયમ દ્વારા કર્મ-પ્રવેશ અટકાવવો.",
       "sutras": [
+        "mannaha-jinanam-sajjhay",
         "nandisutrani-pratham-sajay"
       ]
     },
@@ -1422,7 +2508,9 @@
       "definition": "દેવ-ગુરુ-ધર્મ વિષેની સાચી શ્રદ્ધા; બાર વ્રતનો પાયો. તેના પાંચ અતિયાર: શંકા, કંખા, વિતિગિચ્છા, પરપાખંડી-પ્રશંસા, પરપાખંડી-સંથવ.",
       "sutras": [
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay",
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -1438,7 +2526,16 @@
       "scriptForm": "સંઘ",
       "definition": "ચતુર્વિધ સંઘ — સાધુ, સાધ્વી, શ્રાવક અને શ્રાવિકા; આ સજ્ઝાયનો મુખ્ય સ્તુત્ય વિષય.",
       "sutras": [
+        "mannaha-jinanam-sajjhay",
         "nandisutrani-pratham-sajay"
+      ]
+    },
+    {
+      "term": "saṅghaṭṭa",
+      "scriptForm": "સંઘટ્ટ",
+      "definition": "સ્પર્શ-ઘર્ષણ થવું; અહીં જીવો કે સ્ત્રી/પુરુષ આદિને અડવાથી થયેલી વિરાધના.",
+      "sutras": [
+        "gamanagamano"
       ]
     },
     {
@@ -1459,6 +2556,30 @@
       ]
     },
     {
+      "term": "sapta-bhaya",
+      "scriptForm": "સપ્ત ભય",
+      "definition": "વ્યાધિ, બંધન, વધ, સર્પ, અગ્નિ, જળ આદિ ભયો — જે નામસ્મરણથી ક્ષય પામે.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "sarvajña",
+      "scriptForm": "સવ્વન્નૂ",
+      "definition": "સર્વ જાણનાર; સવ્વદરિસી = સર્વ જોનાર.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "śāsana",
+      "scriptForm": "શાસન",
+      "definition": "જિન-પ્રરૂપિત ધર્મ-વ્યવસ્થા (જૈન શાસન); શ્લોક ૫ માં ‘જૈનં જયતિ શાસનં’.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "śāśvata",
       "scriptForm": "શાશ્વત",
       "definition": "અનાદિ-અનંત, કોઈએ ન બનાવેલ—જે જિનબિંબ/ચૈત્ય સ્વયંભૂ અને કાયમી છે.",
@@ -1467,11 +2588,60 @@
       ]
     },
     {
+      "term": "śāśvata Jina",
+      "scriptForm": "શાશ્વતા જિન",
+      "definition": "નિત્ય શાશ્વત ચાર જિન-નામ — ઋષભાનન, ચંદ્રાનન, વર્ધમાન અને વારિષેણ.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "śāśvata-pratimā",
+      "scriptForm": "સાસય પડિમા",
+      "definition": "શાશ્વત (કદી નાશ ન પામતી, અનાદિ) જિન-પ્રતિમા; દેવ/મનુષ્ય-કૃત 'અશાશ્વત' થી ભિન્ન.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "ṣaṭ-kāya",
+      "scriptForm": "ષટ્‌કાય",
+      "definition": "જીવોના છ નિકાય — પૃથ્વી, અપ્ (પાણી), તેઉ (અગ્નિ), વાઉ (વાયુ), વનસ્પતિ અને ત્રસ; એમની વિરાધના પરિહરવી.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "ṣaṭ-koṭi",
+      "scriptForm": "છ કોટી",
+      "definition": "છ પ્રકારે — મન-વચન-કાયા એ ત્રણ યોગને કરવા અને કરાવવા એ બે રીતે, એમ ‘ન કરું, ન કરાવું’ની છ કોટિએ સામાયિક પાળવાનો સંકલ્પ.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "ṣaṭ-triṁśad guṇa",
       "scriptForm": "છત્રીસ ગુણ",
       "definition": "ગુરુના કુલ છત્રીસ ગુણ — ૫+૯+૪ (ગાથા ૧) અને ૫+૫+૫+૩ (ગાથા ૨) નો સરવાળો.",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "ṣaṭkāya",
+      "scriptForm": "ષટ્કાય",
+      "definition": "છ પ્રકારના જીવનિકાય — પૃથ્વી, જળ, અગ્નિ, વાયુ, વનસ્પતિ અને ત્રસ — જે જૈન અહિંસાવિચારનો પાયો છે.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "sāvadya yoga",
+      "scriptForm": "સાવજ્જં જોગં",
+      "definition": "પાપ (અવદ્ય) સહિતની — હિંસાદિ દોષયુક્ત — મન-વચન-કાયની પ્રવૃત્તિ; જેનો સામાયિકમાં ત્યાગ કરાય છે.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
       ]
     },
     {
@@ -1491,6 +2661,14 @@
       "definition": "મોક્ષ, સંપૂર્ણ મુક્તિ; 'સિદ્ધિં મમ દિસંતુ' — મને મોક્ષ આપો (ગાથા ૭).",
       "sutras": [
         "logassa"
+      ]
+    },
+    {
+      "term": "siddhi-gati",
+      "scriptForm": "સિદ્ધિ ગઇ",
+      "definition": "મુક્તિનું સ્થાન — શિવ, અચલ, અરુજ, અનંત, અક્ષય, અવ્યાબાધ, અપુનરાવૃત્તિ.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1524,8 +2702,13 @@
       "scriptForm": "સ્મરણ",
       "definition": "રક્ષણ માટે નિત્ય સ્મરવા યોગ્ય સ્તોત્ર; પાક્ષિક પ્રતિક્રમણમાં બોલાતી નવ સ્મરણની શ્રેણીમાંનું એક.",
       "sutras": [
+        "smaran-1-bruhannamaskar",
         "smaran-2-ajitshanti",
+        "smaran-3-virstava",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
       ]
@@ -1541,10 +2724,11 @@
     {
       "term": "śrāvaka",
       "scriptForm": "શ્રાવક",
-      "definition": "વ્રતધારી ગૃહસ્થ જૈન ઉપાસક (સ્ત્રી માટે શ્રાવિકા).",
+      "definition": "ઘરમાં રહીને બાર વ્રત આદિ ધર્મ પાળતો જૈન ગૃહસ્થ ઉપાસક.",
       "sutras": [
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1564,6 +2748,14 @@
       ]
     },
     {
+      "term": "stambhana",
+      "scriptForm": "સ્તંભન",
+      "definition": "દુષ્ટ/બાધક શક્તિને થંભાવી — સ્થગિત કરી — દૂર કરવાની ક્રિયા; ‘સ્તંભય સ્તંભય સ્વાહા’.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "stava",
       "scriptForm": "સ્તવ / થય",
       "definition": "ભક્તિપૂર્ણ સ્તુતિ-કાવ્ય; પ્રાકૃતમાં 'થય/થુઈ'.",
@@ -1571,6 +2763,14 @@
         "smaran-2-ajitshanti",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "stava / saṁstava",
+      "scriptForm": "સ્તવ / સંથવ",
+      "definition": "સ્તુતિ, ગુણ-કીર્તન; 'વીરસ્તવ' એટલે મહાવીરની સ્તુતિ.",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -1606,6 +2806,22 @@
       ]
     },
     {
+      "term": "Sthūlabhadra",
+      "scriptForm": "સ્થૂલભદ્ર",
+      "definition": "પ્રસિદ્ધ પૂર્વાચાર્ય; શ્રુત-રક્ષક અને સંયમના આદર્શ; શ્લોક ૧ માં ‘આદિ’ રૂપે અન્ય આચાર્યોના પ્રતિનિધિ.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "stuti",
+      "scriptForm": "સ્તુતિ",
+      "definition": "દેવ-ગુરુની ગુણ-પ્રશંસારૂપ ભક્તિ-વચન; આ સૂત્રનો પ્રકાર.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "sūkṣma-bādara",
       "scriptForm": "સૂક્ષ્મ-બાદર",
       "definition": "નાના (સૂક્ષ્મ) અને મોટા/સ્થૂલ (બાદર) — એમ સર્વ પ્રકારના દોષ.",
@@ -1627,6 +2843,14 @@
       "definition": "શાસ્ત્ર-પાઠ રૂપ સ્વાધ્યાય; આવશ્યક-બાહ્ય અધ્યયન-આચાર.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "svayaṁsambuddha",
+      "scriptForm": "સયંસંબુદ્ધ",
+      "definition": "બીજાના ઉપદેશ વિના સ્વયં બોધ પામેલા.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1654,21 +2878,82 @@
       ]
     },
     {
+      "term": "teukāya",
+      "scriptForm": "તેઉકાય",
+      "definition": "અગ્નિ (તેજ) જેનું શરીર છે તેવા જીવો; ૭ લાખ યોનિ.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "ṭhāmi",
+      "scriptForm": "ઠામિ",
+      "definition": "‘હું સ્થાપું છું / કરું છું’ — સંકલ્પ દર્શાવતું ક્રિયાપદ; ‘ઠામિ કાઉસ્સગ્ગં’ = હું કાઉસ્સગ્ગ સ્થાપું છું.",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "tialukka (trailokya)",
+      "scriptForm": "તિઅલુક્ક / ત્રિલોક",
+      "definition": "ત્રણ લોક; ગાથા (૨)માં મહાવીરને 'ત્રિલોકના સૂર્ય' કહ્યા છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "tīrtha",
       "scriptForm": "તીર્થ",
-      "definition": "જિન-કલ્યાણક કે પ્રતિષ્ઠાથી પાવન થયેલ યાત્રા-સ્થાન (દા.ત. શત્રુંજય, ગિરનાર, સમેતશિખર).",
+      "definition": "પવિત્ર યાત્રા-સ્થાન; જ્યાં તીર્થંકર સંબંધી કલ્યાણક થયું હોય કે પૂજનીય જિન-પ્રતિમા હોય.",
       "sutras": [
-        "kevalnani-chaityavandan"
+        "ashtottari-tirthmala",
+        "kevalnani-chaityavandan",
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
       "term": "tīrthaṅkara",
-      "scriptForm": "તીર્થંકર",
+      "scriptForm": "તિત્થયર / તીર્થંકર",
       "definition": "ધર્મતીર્થ (ચતુર્વિધ સંઘ) ની સ્થાપના કરનાર પરમ આત્મા; આ સૂત્રમાં ઋષભથી મહાવીર સુધી ચોવીસ.",
       "sutras": [
+        "ashtottari-tirthmala",
         "logassa",
         "nandisutrani-pratham-sajay",
-        "smaran-2-ajitshanti"
+        "smaran-2-ajitshanti",
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "tīrthayātrā",
+      "scriptForm": "તિત્થજત્તા",
+      "definition": "તીર્થસ્થાનોની યાત્રા; ‘રહજત્તા’ એટલે રથયાત્રા (જિનબિંબની શોભાયાત્રા).",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "tiryañca",
+      "scriptForm": "તિર્યંચ",
+      "definition": "મનુષ્ય-દેવ-નારકી સિવાયના પ્રાણી-જગતના જીવો (પશુ, પક્ષી, જળચર આદિ).",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "tittha (tīrtha)",
+      "scriptForm": "તિત્થ / તીર્થ",
+      "definition": "ભવસાગર તરવાનો 'ઘાટ' — જિનનો ધર્મ-શાસન-માર્ગ; ગાથા (૨)માં 'સુતિત્થં' = શુદ્ધ તીર્થ.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "tivihaṇaṁ",
+      "scriptForm": "તિવિહેણં",
+      "definition": "ત્રિવિધ — ત્રણ કરણે: મન (મણેણં), વચન (વાયાએ) અને કાય (કાએણં).",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -1680,6 +2965,14 @@
       ]
     },
     {
+      "term": "traskāya",
+      "scriptForm": "ત્રસકાય",
+      "definition": "હાલી-ચાલી શકતા બેઈન્દ્રિયથી પંચેન્દ્રિય સુધીના ત્રસ (ગતિશીલ) જીવો.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
       "term": "tribhuvana",
       "scriptForm": "તિહુઅણ / ત્રિભુવન",
       "definition": "ત્રણ લોક (ઊર્ધ્વ, મધ્ય, અધો); જ્યાં સતીઓનો યશ-પટહ ગાજે છે.",
@@ -1688,11 +2981,27 @@
       ]
     },
     {
+      "term": "trikāla vandanā",
+      "scriptForm": "ત્રિકાલ વંદના",
+      "definition": "ત્રણે કાળ (ભૂત-વર્તમાન-ભવિષ્ય) ને લક્ષમાં રાખીને કરાતી વંદના — અહીં 'મારી ત્રિકાલ વંદના હોજો' રૂપે.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "triloka",
       "scriptForm": "ત્રિલોક",
       "definition": "ત્રણ લોક—અધોલોક (નીચલો), ઊર્ધ્વલોક (દેવલોક) અને તિર્છાલોક (મધ્યલોક).",
       "sutras": [
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "trīndriya",
+      "scriptForm": "તેઇંદ્રિય",
+      "definition": "ત્રણ ઇંદ્રિયવાળા જીવો (જેમ કે કીડી); ૨ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -1719,8 +3028,17 @@
       "definition": "દેવ, મનુષ્ય કે તિર્યંચ દ્વારા સાધક પર થતો ઘોર ઉપદ્રવ; અહીં કમઠાસુરે પાર્શ્વ પર કરેલો ઉપસર્ગ (ગાથા ૨૨).",
       "sutras": [
         "smaran-2-ajitshanti",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "uttarīkaraṇa",
+      "scriptForm": "ઉત્તરીકરણ",
+      "definition": "આત્માને વધુ ઉત્તમ, ઉન્નત કે વિશેષ શુદ્ધ બનાવવાની ક્રિયા — ઇરિયાવહિયંની આલોચના ઉપર બીજું પગથિયું.",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1730,6 +3048,47 @@
       "sutras": [
         "kevalnani-chaityavandan",
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "vaḍḍhamāṇa (vardhamāna)",
+      "scriptForm": "વદ્ધમાણ / વર્ધમાન",
+      "definition": "ભગવાન મહાવીરનું જન્મ-નામ; ચોવીસમા તીર્થંકર.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "Vajra",
+      "scriptForm": "વયર / વજ્ર",
+      "definition": "વજ્રસ્વામી, મહાન લબ્ધિધારી પૂર્વાચાર્ય; ગુજરાતી પાઠમાં ‘વયર’.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "vajra-pañjara",
+      "scriptForm": "વજ્ર પંજર",
+      "definition": "હીરા જેવું અભેદ્ય પિંજર/કવચ; આ સ્તોત્રનું મુખ્ય રૂપક.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "vanaspatikāya",
+      "scriptForm": "વનસ્પતિકાય",
+      "definition": "વનસ્પતિ-શરીરી જીવો; પ્રત્યેક (દરેક શરીરમાં એક જીવ, ૧૦ લાખ) અને સાધારણ (એક શરીરમાં અનંત જીવો, ૧૪ લાખ) એમ બે પ્રકારે.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "vāñchita-phala",
+      "scriptForm": "વાંછિત ફલ",
+      "definition": "ઇચ્છિત ફળ; ગૌતમ-સ્મરણ ઇચ્છિત કલ્યાણ આપનાર એવી ભાવના.",
+      "sutras": [
+        "rai-mangalacharan"
       ]
     },
     {
@@ -1749,6 +3108,14 @@
       ]
     },
     {
+      "term": "vapra",
+      "scriptForm": "વપ્ર",
+      "definition": "કિલ્લાનો કોટ/પ્રાકાર; અહીં વજ્રમય બાહ્ય દીવાલ.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "varṣīdāna",
       "scriptForm": "વર્ષીદાન (વરદાન)",
       "definition": "દીક્ષા પૂર્વે અપાતું વાર્ષિક મહાદાન, જેનાથી જગતનું સન્માન થાય (ગાથા ૩).",
@@ -1762,6 +3129,22 @@
       "definition": "વાછૂટ — શરીરમાંથી વાયુ નીકળવો.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "vāukāya",
+      "scriptForm": "વાઉકાય",
+      "definition": "વાયુને શરીર રૂપે ધારણ કરનારા જીવો.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "vāyukāya",
+      "scriptForm": "વાઉકાય",
+      "definition": "વાયુ જેનું શરીર છે તેવા જીવો; ૭ લાખ યોનિ.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -1781,11 +3164,27 @@
       ]
     },
     {
+      "term": "vihamāna-jina",
+      "scriptForm": "વિહરમાણ જિણ",
+      "definition": "મહાવિદેહ ક્ષેત્રમાં હાલ વિચરતા (વર્તમાન) વીસ જીવંત તીર્થંકરો—સીમંધરસ્વામી આદિ.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
       "term": "vihāramāṇa",
       "scriptForm": "વિચરમાન",
       "definition": "મહાવિદેહ ક્ષેત્રમાં અત્યારે વિચરી રહેલા જીવંત તીર્થંકરો (સીમંધર સ્વામી આદિ).",
       "sutras": [
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "viharamāṇa Jina",
+      "scriptForm": "વિહરમાન જિન",
+      "definition": "મહાવિદેહ આદિ ક્ષેત્રોમાં વર્તમાનમાં વિચરતા જીવંત તીર્થંકર — સીમંધરસ્વામી પ્રમુખ વીશ.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -1797,11 +3196,53 @@
       ]
     },
     {
-      "term": "virādhanā",
-      "scriptForm": "વિરાહણા",
-      "definition": "જીવોને થયેલી પીડા, ઈજા કે હિંસા—સંયમની વિરાધના.",
+      "term": "Vīra",
+      "scriptForm": "વીર",
+      "definition": "ભગવાન મહાવીર, ચોવીસમા અને અંતિમ તીર્થંકર.",
       "sutras": [
-        "iriyavahiyam"
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "vīra-līlā",
+      "scriptForm": "વીરલીલા",
+      "definition": "વીર પ્રભુની લીલા — તેમની સહજ શોભા/ભંગિ, જેનું કમળ-ગજેન્દ્ર-ચંદ્ર અનુકરણ કરે છે.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "virādhanā",
+      "scriptForm": "વિરાધના",
+      "definition": "હાનિ, ઉપઘાત કે દોષ — જ્ઞાન-દર્શન-ચારિત્રની તેમજ છ કાય જીવોની વિરાધના ત્યજવાની છે.",
+      "sutras": [
+        "gamanagamano",
+        "iriyavahiyam",
+        "padilehana"
+      ]
+    },
+    {
+      "term": "viṣahara",
+      "scriptForm": "વિસહર / વિષહર",
+      "definition": "વિષ (ઝેર) ને હરનાર; પાર્શ્વનાથના નાગ-પ્રતીક સાથે જોડાયેલું વિશેષણ તથા મંત્રનું નામ.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "viśalyī-karaṇa",
+      "scriptForm": "વિસલ્લીકરણ",
+      "definition": "આત્મામાં ખૂંપેલા ‘શલ્ય’ (કાંટા જેવા દોષ) કાઢી નિઃશલ્ય બનાવવાની ક્રિયા.",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "viśodhī-karaṇa",
+      "scriptForm": "વિસોહીકરણ",
+      "definition": "આત્માની ભીતરી શુદ્ધિ કરવાની ક્રિયા — દોષ-મેલ દૂર કરી નિર્મળ બનાવવું.",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1809,7 +3250,8 @@
       "scriptForm": "વોસિરામિ",
       "definition": "‘હું ત્યાગ કરું છું’ — મર્યાદા બહારની સર્વ પ્રવૃત્તિનો વ્યુત્સર્ગ (ત્યાગ) સૂચવતી ઘોષણા.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -1818,6 +3260,14 @@
       "definition": "નિયમ/પ્રતિજ્ઞા; શ્રાવકના બાર વ્રતોમાંનું એક.",
       "sutras": [
         "deshavagasik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "vratī",
+      "scriptForm": "વ્રતી",
+      "definition": "વ્રતધારી — જેણે વ્રત/નિયમ ગ્રહણ કર્યાં છે તે વ્યક્તિ.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -1834,6 +3284,14 @@
       "definition": "મર્યાદાનું ઉલ્લંઘન; થયેલી ભૂલ/અતિચાર.",
       "sutras": [
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "vyutsarga",
+      "scriptForm": "અપ્પાણં વોસિરામિ",
+      "definition": "‘પાપમય આત્મભાવને છોડું છું’ — દોષયુક્ત ‘હું’નો ત્યાગ/વ્યુત્સર્ગ; આ સંકલ્પથી સામાયિક પૂર્ણતા પામે છે.",
+      "sutras": [
+        "karemi-bhante"
       ]
     },
     {

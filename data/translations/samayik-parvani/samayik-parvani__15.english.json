@@ -1,0 +1,196 @@
+{
+  "shlokaId": "samayik-parvani/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Only what the Jinas taught is true and beyond doubt; I trust whatever is true and ask that my mistaken belief in anything false be undone.",
+  "recitation": "Tam-eva saccaṁ nissaṅkaṁ, jaṁ jaṁ jiṇehiṁ paveiyaṁ. Taṁ taṁ dhamma savva-phalaṁ mama hoi; sācānī saddahaṇā, jūṭhānuṁ micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "તમેવ",
+      "translit": "tam-eva",
+      "gloss": "that very thing, that alone",
+      "partOfSpeech": "pronoun",
+      "etymology": "tad ('that') + emphatic particle eva ('alone, precisely'); Skt. tad eva.",
+      "notes": "The emphatic eva is doctrinally load-bearing: it restricts truth to the Jina's word and excludes all else."
+    },
+    {
+      "token": "સચ્ચં",
+      "translit": "saccaṁ",
+      "gloss": "(is) true, the truth",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit saccaṁ < Skt. satya ('true, real'), from √as 'to be'.",
+      "notes": "Predicate of tam-eva: 'that alone is true.'"
+    },
+    {
+      "token": "નિસ્સંકં",
+      "translit": "nissaṅkaṁ",
+      "gloss": "free of doubt, beyond all doubt",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt. niḥśaṅka (niḥ 'without' + śaṅkā 'doubt, misgiving').",
+      "notes": "Echoes the niḥśaṅkita aṅga, the doubt-free first limb of samyag-darśana."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit relative pronoun < Skt. yad ('which, that which').",
+      "notes": "First member of the distributive pair jaṁ jaṁ … taṁ taṁ."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "whatever (reduplicated for distributive force)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reduplication of relative jaṁ (< Skt. yad yad), 'each and every thing that'.",
+      "notes": "The doubling generalizes: not one teaching but every single thing the Jinas spoke."
+    },
+    {
+      "token": "જિણેહિં",
+      "translit": "jiṇehiṁ",
+      "gloss": "by the Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental plural of Prakrit jiṇa < Skt. jina ('conqueror', i.e. the Tīrthaṅkara who has conquered the passions).",
+      "notes": "Instrumental of agent governing the passive paveiyaṁ."
+    },
+    {
+      "token": "પવેઇયં",
+      "translit": "paveiyaṁ",
+      "gloss": "has been proclaimed, taught, set forth",
+      "partOfSpeech": "verb",
+      "etymology": "Past passive participle, Prakrit < Skt. pravedita (pra + √vid in causative, 'caused to be known, declared').",
+      "notes": "Passive: the dharma is 'declared' by the Jinas, the practitioner only receives it."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit demonstrative < Skt. tad ('that').",
+      "notes": "Correlative answering the relative jaṁ."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (reduplicated, matching jaṁ jaṁ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Reduplication of demonstrative taṁ < Skt. tad tad ('each such thing').",
+      "notes": "Completes the 'whatever … that very thing' correlative frame."
+    },
+    {
+      "token": "ધમ્મ",
+      "translit": "dhamma",
+      "gloss": "dharma, the (Jina-taught) teaching/law",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhamma < Skt. dharma, from √dhṛ 'to uphold' — that which upholds the soul.",
+      "notes": "Here specifically the doctrine proclaimed by the Jinas, not 'merit' in the abstract."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all, entirely, wholly",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Skt. sarva ('all, whole').",
+      "notes": "Qualifies phalaṁ: 'all-fruit', i.e. wholly efficacious."
+    },
+    {
+      "token": "ફલં",
+      "translit": "phalaṁ",
+      "gloss": "fruit, result, efficacy",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phalaṁ < Skt. phala ('fruit, result, reward').",
+      "notes": "savva-phalaṁ = 'bearing every (good) fruit', the full salvific result of the dharma."
+    },
+    {
+      "token": "મમ",
+      "translit": "mama",
+      "gloss": "for me, mine",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive of the first-person pronoun, Prakrit/Skt. mama ('of me').",
+      "notes": "Genitive of advantage: 'may it be fruitful for me.'"
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "may it be, let it become",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hoi < Skt. bhavati, from √bhū 'to be, become'.",
+      "notes": "Read here as a benedictive wish: 'may that whole dharma be wholly fruitful for me.'"
+    },
+    {
+      "token": "સાચાની",
+      "translit": "sācānī",
+      "gloss": "of true things, in what is true",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati genitive of sācuṁ ('true') < Skt. satya; the vernacular gloss-couplet appended to the Prakrit gāthā.",
+      "notes": "Begins the Gujarati confessional pendant; pairs with saddahaṇā."
+    },
+    {
+      "token": "સદ્દહણા",
+      "translit": "saddahaṇā",
+      "gloss": "faith, firm conviction (in the true)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saddahaṇā < Skt. śraddhāna / śraddhā, from śrat + √dhā 'to place trust'.",
+      "notes": "The reasoned trust that constitutes samyag-darśana; 'I hold faith in what is true.'"
+    },
+    {
+      "token": "જૂઠાનું",
+      "translit": "jūṭhānuṁ",
+      "gloss": "of the false, regarding falsehood",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati genitive of jūṭhuṁ ('false, untrue') < Skt. jūta-/mṛṣā-family; vernacular contrast to sācānī.",
+      "notes": "Object of the retraction that follows: any belief mistakenly held in the false."
+    },
+    {
+      "token": "મિચ્છા મિ દુક્કડં",
+      "translit": "micchā mi dukkaḍaṁ",
+      "gloss": "may my misdeed (of false belief) be undone",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit fixed formula < Skt. mithyā me duṣkṛtam ('false/vain be my ill-done deed').",
+      "notes": "Applied here specifically to mis-faith — disowning any conviction wrongly placed in the false."
+    }
+  ],
+  "literalTranslation": "That alone is true and beyond doubt, whatever the Jinas have proclaimed; may all that dharma be wholly fruitful for me. Faith in what is true; for the false, may my misdeed be undone.",
+  "idiomaticTranslation": "That alone is the truth, free of every doubt, which the Jinas have proclaimed — each and every word of it; may that whole teaching bear its full fruit in me. I place my faith in all that is true; and for any falsehood I may have trusted, may that wrong of mine be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the immediately preceding verse swept up the thirty-two faults of sāmāyika under a blanket micchā mi dukkaḍaṁ, this verse pivots from confessing *conduct* to settling *conviction*. It is the recitation's doctrinal anchor: the reciter, having just admitted every bodily, vocal and mental slip, now plants both feet on the one thing that cannot slip — 'that alone is true which the Jinas proclaimed.' The emphatic tam-eva and the doubt-negating nissaṅkaṁ are deliberate: truth is not merely *included* in the Jina-vāṇī, it is *restricted* to it, and held without the faintest śaṅkā. The reduplicated jaṁ jaṁ … taṁ taṁ stretches this over the whole of the teaching distributively — not a favourite doctrine but every utterance. The book's distinctive middle line, taṁ taṁ dhamma savva-phalaṁ mama hoi, then turns affirmation into prayer: 'may that whole dharma be wholly fruitful for me' — the merit of the sāmāyika just performed is offered up to ripen into the full fruit of the path. The closing Gujarati couplet is the verse's own gloss for the lay reciter, splitting the act of right faith into its two faces: positive saddahaṇā (active trust) in sācuṁ, the true, and a retraction — micchā mi dukkaḍaṁ — of jūṭhuṁ, the false, sealing any misplaced belief as 'undone'. In one breath the practitioner thus both affirms and purifies the very faculty of faith with which the whole pratikramaṇa was undertaken.",
+    "doctrinalContext": "The verse is a compact statement of samyag-darśana (right faith). Its nissaṅkaṁ directly names the *niḥśaṅkita aṅga* — freedom from doubt, the first of the eight limbs (aṅga) of right faith in the śrāvakācāra tradition — while the sācānī/jūṭhānuṁ couplet enacts the classical definition of samyaktva as *tattvārtha-śraddhāna*: trusting the real as real and refusing the false. By making the Jina the sole pramāṇa (authority) of truth (jiṇehiṁ … paveiyaṁ, passive — truth is *received*, not authored), it grounds knowledge (jñāna) in faith (darśana), the prescribed order of the three jewels. The savva-phalaṁ wish reflects the karmic logic that right faith is what makes conduct fruitful — without it, even sāmāyika yields only a 'dravya' (formal) result.",
+    "practicalRelevance": "Recited at the close of sāmāyika, this verse asks the practitioner to convert a finished ritual into a settled disposition: leave the seat not merely having *behaved* well for 48 minutes but having *re-affirmed* what one believes. Practically it is a daily faith-audit — consciously re-trusting the Jina's word and, in the same breath, releasing any doubt or false notion picked up since the last sitting, so that equanimity rests on conviction rather than mood.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka Niryukti / Sāmāyika-Āvaśyaka — the affirmation 'Tam eva saccaṁ … jaṁ jiṇehiṁ paveiyaṁ'",
+        "source": "Āvaśyaka tradition (Jinabhadragaṇi Kṣamāśramaṇa redaction)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.2 — 'tattvārtha-śraddhānaṁ samyagdarśanam' (right faith = conviction in the reals)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Ratnakaraṇḍa Śrāvakācāra — the niḥśaṅkita as first of the eight aṅgas of samyaktva",
+        "source": "Samantabhadra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; for satya, niḥśaṅka, pravedita, śraddhāna, phala roots)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens saccaṁ, nissaṅkaṁ, paveiyaṁ, saddahaṇā, phalaṁ."
+    },
+    {
+      "title": "Jain eLibrary — Āvaśyaka literature and Pañca Pratikramaṇa editions",
+      "url": "https://jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "Placement of the 'Tameva saccaṁ' affirmation within the Āvaśyaka/sāmāyika-conclusion tradition."
+    },
+    {
+      "title": "JainQQ digital library — Prakrit sutra texts and translations",
+      "url": "https://jainqq.org",
+      "type": "translation",
+      "consultedFor": "Cross-checking the standard reading and gloss of 'Tam eva saccaṁ nissaṅkaṁ jaṁ jaṁ jiṇehiṁ paveiyaṁ'."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The opening pāda 'Tam eva saccaṁ nissaṅkaṁ, jaṁ jaṁ jiṇehiṁ paveiyaṁ' is a widely transmitted Āvaśyaka-tradition affirmation; many editions continue it differently (e.g. 'savva-dukkha-ppahīṇa-maggo' or 'tam eva sucim'). The book's continuation here — 'taṁ taṁ dhamma savva phalaṁ mama hoi' — is a distinctive reading of this Anchalgachchha (Vidhipakṣa) edition; 'savva phalaṁ' is read as sarva-phala ('wholly fruitful') and 'hoi' as a benedictive 'may it be', but a reading of 'dhamma savva-phala' as an epithet of the dharma is also defensible. The final couplet 'sācānī saddahaṇā, jūṭhānuṁ micchā mi dukkaḍaṁ' is vernacular Gujarati, functioning as the gāthā's own lay gloss; sācānī/jūṭhānuṁ are Gujarati genitives, not Prakrit. Orthography (e.g. સચ્ચં, જિણેહિં, the spaced danda) preserved verbatim per the book's fidelity rules. Exact gāthā numbering and the precise continuation should be verified against the printed book page; external editions vary."
+}

@@ -1,0 +1,164 @@
+{
+  "shlokaId": "smaran-3-virstava/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The fragrant lotus, the majestic elephant, and the full moon can never stop trying to match the loveliness of Mahāvīra's eyes, his stately walk, and his radiant face.",
+  "recitation": "na cayanti vīralīlaṁ, hāuṁ je surahi matta paḍipunnā |\npaṅkaya gayanda candā, loaṇa cakkamiya muhāṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na; the standard negation, governing the verb cayanti.",
+      "notes": "Reads with cayanti and the infinitive hāuṁ: 'are not able to relinquish'."
+    },
+    {
+      "token": "ચયંતિ",
+      "translit": "cayanti",
+      "gloss": "they are able (to)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit cayai (3rd pl. cayanti) ← Skt. √śak, 'to be able' (śaknoti); not from √tyaj here.",
+      "notes": "With na and hāuṁ = 'they cannot bring themselves to give up'. The subject is the triad paṅkaya–gayanda–candā in line 2."
+    },
+    {
+      "token": "વીરલીલં",
+      "translit": "vīralīlaṁ",
+      "gloss": "Vīra's grace / charm",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vīra-līlā (acc. vīra-līlām), tatpuruṣa: 'the līlā (sportive grace, effortless beauty) of Vīra'.",
+      "notes": "Object of hāuṁ — the very loveliness the natural emblems cannot abandon."
+    },
+    {
+      "token": "હાઉં",
+      "translit": "hāuṁ",
+      "gloss": "to abandon, to relinquish",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit infinitive in -uṁ ← Skt. √hā, hātum, 'to leave, give up'.",
+      "notes": "Complements cayanti; the conceit is that these beauties cannot let go of imitating/yielding Vīra's charm."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "which / those that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit je ← Skt. ye, nom. pl. relative pronoun.",
+      "notes": "Relative knitting the three subjects (lotus, elephant, moon) to their three epithets surahi/matta/paḍipunnā."
+    },
+    {
+      "token": "સુરહિ",
+      "translit": "surahi",
+      "gloss": "fragrant",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit surahi ← Skt. surabhi, 'sweet-smelling'.",
+      "notes": "Distributively qualifies paṅkaya (the fragrant lotus), keyed to the eyes."
+    },
+    {
+      "token": "મત્ત",
+      "translit": "matta",
+      "gloss": "rut-maddened, majestic",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. matta, 'intoxicated'; of an elephant, 'in musth/rut', hence grandly unhurried.",
+      "notes": "Distributively qualifies gayanda (the rutting elephant-lord), keyed to the gait."
+    },
+    {
+      "token": "પડિપુન્ના",
+      "translit": "paḍipunnā",
+      "gloss": "full, full-orbed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍipunna ← Skt. paripūrṇa, 'completely full'; of the moon, 'at the full'.",
+      "notes": "Distributively qualifies candā (the full moon), keyed to the face."
+    },
+    {
+      "token": "પંકય",
+      "translit": "paṅkaya",
+      "gloss": "lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. paṅkaja, 'mud-born' = lotus.",
+      "notes": "First of the triad; emblem of the eyes (see loaṇa)."
+    },
+    {
+      "token": "ગયંદ",
+      "translit": "gayanda",
+      "gloss": "lord of elephants",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gayanda ← Skt. gajendra (gaja + indra), 'elephant-king'.",
+      "notes": "Second of the triad; emblem of the gait (see cakkamiya)."
+    },
+    {
+      "token": "ચંદા",
+      "translit": "candā",
+      "gloss": "moon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit candā ← Skt. candra, 'moon'.",
+      "notes": "Third of the triad; emblem of the face (see muhāṇaṁ)."
+    },
+    {
+      "token": "લોઅણ",
+      "translit": "loaṇa",
+      "gloss": "eye(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit loaṇa (with -y-/-c- elision) ← Skt. locana, 'eye'.",
+      "notes": "In compound with cakkamiya and muha; the limb the lotus adorns."
+    },
+    {
+      "token": "ચક્કમિય",
+      "translit": "cakkamiya",
+      "gloss": "gait, stride",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ← Skt. √kram, krama / caṅkramaṇa, 'stepping, manner of walking'.",
+      "notes": "The limb the elephant-lord adorns; majestic, unhurried pace."
+    },
+    {
+      "token": "મુહાણં",
+      "translit": "muhāṇaṁ",
+      "gloss": "of the face(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muha ← Skt. mukha, 'face'; gen. pl. -āṇaṁ (Skt. mukhānām).",
+      "notes": "Closes the limb-triad (eyes–gait–face); the genitive binds all three limbs as that whose grace cannot be relinquished. The moon adorns the face."
+    }
+  ],
+  "literalTranslation": "They cannot bring themselves to relinquish Vīra's grace — those [three] that are the fragrant, the rut-maddened, and the full-orbed: the lotus, the elephant-lord, and the moon — [in the matter] of [his] eyes, gait, and face.",
+  "idiomaticTranslation": "The fragrant lotus, the elephant-king in his proud musth, and the moon at its full — these cannot bear to give up Vīra's grace: try as they might, the lotus to his eyes, the great elephant to his gait, the full moon to his face, none can match it, none can let it go.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā closes the 'gāhā-juala' begun in v.4 and lands its conceit. Where v.4 spread the qualities loosely — soft/firm/gentle, the three hues, the ornaments of water, land and sky — v.5 now pins each emblem to its limb and clinches the praise by a reversal (vyatireka). Read distributively (yathāsaṅkhya / krameṇa), the three adjectives of line 1 map exactly onto the three nouns of line 2: surahi (fragrant) → paṅkaya (lotus) → loaṇa (eyes); matta (in musth) → gayanda (elephant-lord) → cakkamiya (gait); paḍipunnā (full) → candā (moon) → muha (face). The poetic turn is in the verb: na cayanti hāuṁ — these paragons of natural beauty 'are not able to relinquish' Vīra's grace. The standard simile (his eyes are like a lotus) is inverted into a contest the emblems cannot win and cannot quit: the lotus stays fragrant, the elephant stays majestic, the moon stays full, yet none can either equal or abandon the līlā they ape. Note the deliberate aptness of each epithet — musth gives the elephant exactly the slow, swaying grandeur that mirrors a Jina's walk; fullness gives the moon the unblemished round of the face; fragrance lends the lotus the only quality by which it might rival living eyes. The verse thus completes the portrait the preface flagged: the 'three' adorning water, land and sky are gathered, here named limb by limb, into the one body of the Jina.",
+    "doctrinalContext": "Beneath the ornament lies a precise theological point: derivative versus source beauty. The created emblems are bound — they 'cannot let go' (na cayanti hāuṁ) — whereas Vīra, praised in v.3 as nissaṅga (utterly unattached), is the very one who has let go of everything. The poem stages attachment in the objects to throw the Jina's detachment into relief: nature clings to His charm; He clings to nothing. The grace (līlā) being lauded is therefore not mere physical handsomeness but the outward sign of an inwardly perfected, passion-free (jiya-kasāya) being, whose serenity the restless beauties of the world can only imitate, never originate.",
+    "practicalRelevance": "Recited in the Nine-Smaraṇa sequence, this verse is a guided visualization: as you chant, place lotus to the eyes, elephant to the gait, moon to the face, and let the single image of Mahāvīra's tranquil form settle the mind before the petitions that follow. Its quiet lesson for the practitioner is the contrast it draws — worldly splendour cannot release its grip, but the path Vīra walked is the releasing of every grip.",
+    "crossReferences": [
+      {
+        "text": "Vīrastava v.4 (smaran-3-virstava/04) — the companion gāthā that introduces soft/firm/gentle, the three colours, and the water/land/sky ornaments completed here.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Kalpasūtra, description of Mahāvīra's bodily perfections (lotus-eyes, moon-face, elephant-gait) in the Tīrthaṅkara birth-portrait.",
+        "source": "Kalpasūtra (Bhadrabāhu), standard Śvetāmbara recension"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical praise of the 24 Jinas of which this stava is a poetic expansion for Vīra.",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit, sutra 'logassa'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Navsmaran (Romanized, with Gujarati & English gāthārtha) — Dhirajlal D. Mehta & Amrutbhai Upadhyay",
+      "url": "https://jainqq.org/booktext/Navsmaran_Romanized/001093",
+      "type": "translation",
+      "consultedFor": "Standard reading of the Vīrastava gāthās and the received Gujarati/English sense of the lotus–elephant–moon triad mapped to eyes, gait and face."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit cognates and roots: √śak (cayai), √hā/hātum (hāuṁ), surabhi, matta, paripūrṇa, paṅkaja, gajendra, candra, locana, krama, mukha."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati-script Prakrit of v.5 and its placement as the 3rd of the Nine Smaraṇas within the Pākṣika sequence."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading: cayanti is taken from Prakrit cay- ← Skt. √śak ('be able'), not √tyaj, so 'na cayanti hāuṁ' = 'are unable to relinquish'; this is the natural sense and matches the preface's 'na cayanti' = 'cannot bear to relinquish', but an alternative parse of cay- as √ci/√tyaj cannot be wholly excluded. The three line-1 adjectives are read distributively (yathāsaṅkhya) onto the three line-2 nouns and thence onto eyes/gait/face — the standard reading, though the verse does not mark the correspondence with explicit particles. muhāṇaṁ is a genitive plural ('of the faces/limbs'); loaṇa and cakkamiya stand in compound with it ('eyes-, gait-, face-'). cakkamiya is glossed 'gait/stride' (√kram); a minority reading sees a cakra element, not adopted here. Per the book's orthography policy the Gujarati-script mātrās/anusvāras/conjuncts are authoritative as printed; transliterations here follow IAST and are approximate. Word-spacing across printed editions varies; no doctrinal weight rests on it."
+}

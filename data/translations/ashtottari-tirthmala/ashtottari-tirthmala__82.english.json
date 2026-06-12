@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/82",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Praise Lord Nemi—the ancient image that the king of Kannauj enshrined in a beautiful Jina-temple at Pāḍalāgrāma—and praise Lord Pārśva at Śaṅkheśvara too.",
+  "recitation": "kannaujja niva nivesiya, vara jiṇa bhavaṇaṁmi pāḍalāgāme | aïcira mutti nemiṁ, thuṇi taha saṁbhesare pāsaṁ ||",
+  "wordByWord": [
+    {
+      "token": "કન્નઉજ્જ",
+      "translit": "kannaujja",
+      "gloss": "of Kannauj (the city of Kanyakubja)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kānyakubja → Pkt. kannaujja; here in compound with the next word, 'the king of Kannauj'.",
+      "notes": "Kannauj (modern Uttar Pradesh) was a great medieval royal capital; named here as the patron-city of the temple's founder."
+    },
+    {
+      "token": "નિવ",
+      "translit": "niva",
+      "gloss": "king",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nṛpa → Pkt. ṇiva/niva ('protector of men', king). Compound 'kannaujja-niva' = the king of Kannauj.",
+      "notes": "Subject of nivesiya: the royal donor who had the image consecrated."
+    },
+    {
+      "token": "નિવેસિય",
+      "translit": "nivesiya",
+      "gloss": "installed, enshrined, caused to be set up",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. niveśita (past participle of ni-√viś, 'to settle, install') → Pkt. nivesiya.",
+      "notes": "Marks this as a historically founded (a-śāśvata) shrine, established by royal patronage rather than an eternal image."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, fine, choice",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Pkt. vara ('best, choice'); qualifies the Jina-temple.",
+      "notes": ""
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (Conqueror; here in compound, 'Jina-temple')",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina ('victor over passions') → Pkt. jiṇa. In 'jiṇa-bhavaṇa' = the Jina's temple.",
+      "notes": ""
+    },
+    {
+      "token": "ભવણંમિ",
+      "translit": "bhavaṇaṁmi",
+      "gloss": "in the temple/shrine",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhavana ('dwelling, building, temple') → Pkt. bhavaṇa; locative singular -ṁmi ('in the').",
+      "notes": "Locative locating the image: 'in the excellent Jina-temple'."
+    },
+    {
+      "token": "પાડલાગામે",
+      "translit": "pāḍalāgāme",
+      "gloss": "at Pāḍalāgrāma (the village/town of Pāḍalā)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name pāḍalā + Pkt. gāma (Skt. grāma, 'village'); locative -e. ",
+      "notes": "Identification uncertain; a medieval site associated with the Kannauj king's foundation, not securely fixed today."
+    },
+    {
+      "token": "અઇચિર",
+      "translit": "aïcira",
+      "gloss": "very ancient, long-enduring",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. ati-cira ('exceedingly long [in time]') → Pkt. aïcira; qualifies mutti.",
+      "notes": "Stresses the antiquity/sanctity of the enshrined image."
+    },
+    {
+      "token": "મુત્તિ",
+      "translit": "mutti",
+      "gloss": "image (icon, mūrti)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mūrti ('embodied form, image') → Pkt. mutti.",
+      "notes": "Read here as 'image' (aïcira-mutti = 'the ancient image'). A homophone mutti = Skt. mukti ('liberation') is possible but does not fit the installed-icon context."
+    },
+    {
+      "token": "નેમિં",
+      "translit": "nemiṁ",
+      "gloss": "Nemi (Neminātha / Ariṣṭanemi, the 22nd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nemi → Pkt. nemi; accusative -ṁ, direct object of thuṇi.",
+      "notes": "Nemi, kinsman of Kṛṣṇa, normally associated with Girnar; here venerated in his Pāḍalāgrāma image."
+    },
+    {
+      "token": "થુણિ",
+      "translit": "thuṇi",
+      "gloss": "praise! (I praise / let one praise)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √stu (stauti, 'to praise, extol') → Pkt. thuṇai; imperative/optative thuṇi.",
+      "notes": "Single verb governing both objects—Nemiṁ in line 1 and pāsaṁ in line 2."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, and so, also",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. tathā ('thus, likewise') → Pkt. taha.",
+      "notes": "Links the second shrine to the first: 'and likewise [praise]…'."
+    },
+    {
+      "token": "સંભેસરે",
+      "translit": "saṁbhesare",
+      "gloss": "at Saṁbhesara (Śaṅkheśvara)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. saṁbhesara, a regional variant of saṅkhesara/śaṅkheśvara ('Lord of the conch'); locative -e.",
+      "notes": "Śaṅkheśvara in Gujarat, one of the most celebrated Pārśva tīrthas."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva (Pārśvanātha, the 23rd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pārśva → Pkt. pāsa; accusative -ṁ, second object of thuṇi.",
+      "notes": "The conch (śaṅkha) of the place-name resonates with Pārśva's association at Śaṅkheśvara."
+    }
+  ],
+  "literalTranslation": "The very ancient image of Nemi, installed by the king of Kannauj in the excellent Jina-temple at Pāḍalāgrāma—praise (it); and likewise (praise) Pārśva at Saṁbhesara (Śaṅkheśvara).",
+  "idiomaticTranslation": "Bow to Lord Nemi—that time-honoured image which the king of Kannauj enshrined in a noble Jina-temple at Pāḍalāgrāma—and bow as well to Lord Pārśva at Śaṅkheśvara.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse strings two more beads on the garland, pairing a Nemi shrine with a Pārśva shrine under one act of homage. The single imperative thuṇi ('praise') reaches across both lines, taking Nemiṁ as its object in the first half and pāsaṁ in the second, with taha ('likewise') yoking them. The first half is unusually circumstantial for the roll-call: it records not just the site (pāḍalāgāme) and the deity (Nemi, the 22nd Jina) but the patron and the act of foundation—kannaujja-niva nivesiya, 'installed by the king of Kannauj.' This is a deliberate signal that the shrine is a historically founded one, its merit traceable to a named royal donor, and the icon is dignified as aïcira-mutti, an 'ancient image' whose long standing is itself part of its sanctity. The second half then leaps geographically from that northern, Kannauj-endowed Nemi to the Gujarat tīrtha of Śaṅkheśvara (saṁbhesara), where Pārśva—the next Tīrthaṅkara in sequence, the 23rd—is venerated. The place-name itself carries a quiet aptness: śaṅkha, the conch, chimes with Pārśva's own iconography, and Śaṅkheśvara was already by this period among the most famous Pārśva tīrthas. In a single couplet the reciter thus bows to two successive Tīrthaṅkaras at two widely separated holy places, advancing the hymn's sweep from the Stambhanapura Pārśva of the preceding verses toward the further chain of Pārśva, Nemi and Ṛṣabha shrines that follows.",
+    "doctrinalContext": "The verse foregrounds image-veneration (mūrti-pūjā) and the consecration of icons (pratiṣṭhā) as channels of lay merit—central to the Mūrtipūjaka identity—by naming the royal founder whose nivesiya act endows the Nemi image. It also exemplifies the hymn's working claim to honour every Jina: within one breath it salutes Nemi (22nd) and Pārśva (23rd), so that bowing to a particular icon at a particular place is simultaneously reverence to the Tīrthaṅkara as such. The 'ancient image' (aïcira-mutti) language reflects the Jain valuation of long-hallowed, miracle-bearing icons even among the historically founded (a-śāśvata) shrines.",
+    "practicalRelevance": "Reciting this couplet, the worshipper makes two mental bows from the prayer hall—north to the Kannauj-endowed Nemi at Pāḍalāgrāma and west to Pārśva at Śaṅkheśvara—joining them in one 'praise.' For anyone who has visited Śaṅkheśvara, the named site anchors abstract devotion in a remembered, living pilgrimage place.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — Nemi and Pārśva among the 24 Tīrthaṅkaras",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Vividha Tīrtha Kalpa — Śaṅkheśvara (Saṅkhesara) Pārśva tīrtha",
+        "source": "Jinaprabhasūri, 14th c."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shankheshwar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shankheshwar",
+      "type": "scholarship",
+      "consultedFor": "Identification of Pkt. saṁbhesara / saṅkhesara with Śaṅkheśvara, the celebrated Pārśvanātha tīrtha in Gujarat."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for niveśita (ni-√viś), mūrti, ati-cira, vara and √stu (stauti) underlying the Prakrit forms."
+    },
+    {
+      "title": "Neminatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neminatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Nemi / Ariṣṭanemi as the 22nd Tīrthaṅkara, preceding Pārśva (23rd)."
+    },
+    {
+      "title": "Kannauj — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kannauj",
+      "type": "scholarship",
+      "consultedFor": "Identification of kannaujja with the ancient royal city of Kannauj (Kanyakubja), the patron-city named in the verse."
+    }
+  ],
+  "translatorConfidence": 0.7,
+  "notes": "Word readings follow the book's Prakrit/Apabhraṁśa orthography verbatim. niva is taken as nṛpa ('king'), giving 'kannaujja-niva' = 'the king of Kannauj'. mutti is read as mūrti ('image'), so aïcira-mutti = 'the ancient image'; a homophonous mutti = mukti ('liberation') is grammatically possible but does not suit the installed-icon context—flagged as a variant. thuṇi is taken as an imperative/optative of √stu ('praise'), governing both Nemiṁ and pāsaṁ. saṁbhesara is identified with Śaṅkheśvara (Saṅkhesara) Pārśva in Gujarat per the medieval tīrtha tradition. The site pāḍalāgrāma (Pāḍalā village) associated with the Kannauj king's Nemi foundation is not securely identified in modern geography and may carry variant readings in other editions."
+}

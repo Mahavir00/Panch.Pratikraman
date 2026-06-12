@@ -1,0 +1,132 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Oṃ — I bow forever to the glorious Lord Pārśvanātha, the worthy one (arhat), god of gods, who brings about all welfare.",
+  "recitation": "Oṃ namo deva-devāya, nityaṃ bhagavate 'rhate; śrīmate pārśvanāthāya, sarva-kalyāṇa-kāriṇe.",
+  "wordByWord": [
+    {
+      "token": "ૐ",
+      "translit": "Oṃ",
+      "gloss": "Oṃ — the auspicious sacred syllable that opens the salutation",
+      "partOfSpeech": "invocation",
+      "etymology": "praṇava; in Jain usage understood as the acrostic of the Pañca-Parameṣṭhin (a-a-ā-u-m, from Arihanta, Asarīrī/Siddha, Ācārya, Upādhyāya, Muni).",
+      "notes": "Sets the verse as a mantric invocation, not merely a literary praise."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "salutation, homage (I bow)",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. namas (n.) 'bowing, obeisance'; sandhi namaḥ → namo before a voiced sound. Governs the dative case throughout the verse.",
+      "notes": "Every epithet that follows stands in the dative because it is the object of namo."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "god, divine being (first member of 'god of gods')",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. √div 'to shine'; deva 'shining/celestial one'. Here the prior member of the compound deva-devāya.",
+      "notes": "Printed spaced but read with the next word as the compound deva-devāya."
+    },
+    {
+      "token": "દેવાય",
+      "translit": "devāya",
+      "gloss": "to the God (of gods) — the supreme one even the devas revere",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. deva, masc. dative sg. -āya. deva-devāya = 'to the god of gods'.",
+      "notes": "In Jain doctrine the Arhat outranks the heavenly devas, who descend to worship him; hence 'god of gods'."
+    },
+    {
+      "token": "નિત્યં",
+      "translit": "nityaṃ",
+      "gloss": "always, perpetually (or: to the eternal one)",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. nitya 'constant, eternal'; adverbial accusative nityam 'continually'.",
+      "notes": "Best read adverbially with namo ('I bow perpetually'); a secondary reading takes it as an attribute, 'to the eternal Lord' — see notes for the doctrinal caution."
+    },
+    {
+      "token": "ભગવતેઽર્હતે",
+      "translit": "bhagavate 'rhate",
+      "gloss": "to the Blessed One, the worthy one (arhat)",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of bhagavate + arhate, joined by avagraha (ઽ) where initial a- elides after -e. bhagavat 'possessing bhaga (glory, fortune, majesty)', dative bhagavate; arhat (√arh 'to deserve, be worthy'), dative arhate.",
+      "notes": "Two distinct epithets fused by sandhi: 'bhagavat' = the Blessed/Majestic, 'arhat' = the Worthy One who has conquered the inner foes — the first of the Pañca-Parameṣṭhin."
+    },
+    {
+      "token": "શ્રીમતે",
+      "translit": "śrīmate",
+      "gloss": "to the glorious / illustrious one",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śrīmat 'possessing śrī (splendour, fortune, holiness)', dative śrīmate.",
+      "notes": "Honorific 'Śrī' applied to the Lord himself, not merely a title-prefix."
+    },
+    {
+      "token": "પાર્શ્વનાથાય",
+      "translit": "pārśvanāthāya",
+      "gloss": "to Pārśvanātha (the 23rd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "pārśva 'side/flank' (the personal name) + nātha 'lord, protector'; dative -āya. 'Lord Pārśva'.",
+      "notes": "The single named object of the whole salutation; all other words are his epithets."
+    },
+    {
+      "token": "સર્વ",
+      "translit": "sarva",
+      "gloss": "all, every (first member of the next compound)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva 'all, whole'. Prior member of sarva-kalyāṇa-kāriṇe.",
+      "notes": "Printed spaced but bound to the following compound."
+    },
+    {
+      "token": "કલ્યાણકારિણે",
+      "translit": "kalyāṇakāriṇe",
+      "gloss": "to the bestower of all welfare / auspiciousness",
+      "partOfSpeech": "compound",
+      "etymology": "kalyāṇa 'welfare, auspiciousness, good fortune' + kārin '-doer, maker' (√kṛ 'to do'); dative kāriṇe. sarva-kalyāṇa-kāriṇe = 'doer of every welfare'.",
+      "notes": "Frames the whole hymn's purpose: Pārśva as the source of all benefit, the ground for the protective remembrance that follows."
+    }
+  ],
+  "literalTranslation": "Oṃ. Homage — perpetually — to the god of gods, to the Blessed and Worthy One (arhat), to the glorious Pārśvanātha, the doer of all welfare.",
+  "idiomaticTranslation": "Oṃ. I bow without ceasing to the God of gods, the Blessed, the Worthy One — to glorious Lord Pārśvanātha, who works every welfare and grace.",
+  "elaboration": {
+    "verseByVerseCommentary": "The opening verse is a single, unbroken act of homage: one finite gesture, namo, governing a cascade of datives that pile epithet upon epithet onto one named recipient, Pārśvanātha. The hymn does not begin with the mantra-syllables or the meditation map; it begins by establishing who is being addressed and why he is worth addressing. 'Deva-devāya' is the load-bearing phrase. In Jain understanding the heavenly devas are still bound in saṃsāra; the Arhat, having destroyed the inner enemies, stands above them — so calling Pārśva 'god of gods' is not Hindu-style apotheosis but a precise ranking: he is the one the gods themselves bow to. This is immediately disciplined by 'arhate' (fused to 'bhagavate' by the avagraha sandhi ભગવતેઽ), which re-grounds the praise in the technical title of the first Parameṣṭhin: not a creator-god but a conqueror-teacher worthy of worship. 'Nityaṃ' is best taken adverbially — the devotee bows continually — keeping the doctrine clean, since it is the soul's liberated state, not an embodied divinity, that is eternal. The verse closes on 'sarva-kalyāṇa-kāriṇe', and this is the hinge to the whole stava: having named Pārśva as supreme and worthy, it declares him the doer of all welfare — the very claim the later 'bhayahara' verses will cash out as protection from disease, bondage, fire, and serpents. Verse 1 thus supplies the title and the promise; the following verse (hrīṃ-rūpāya…) will name the guardian deities who serve those feet.",
+    "doctrinalContext": "The verse compactly asserts the Arhat's supremacy without lapsing into theism. 'Deva-devāya' encodes the Jain hierarchy in which omniscient, passion-free Jinas outrank the still-saṃsāric devas; 'arhate' fixes Pārśva as Arihanta, head of the Pañca-Parameṣṭhin saluted in the Navkar. The pairing of 'bhagavat' (majesty) with 'arhat' (worthiness earned by conquest) holds together glory and asceticism — the Jina is glorious precisely because he renounced. 'Kalyāṇa-kārin' should be read in the maṅgala sense: the Lord 'does welfare' not by granting boons as an agent but as the supreme object of remembrance whose smaraṇa purifies the reciter.",
+    "practicalRelevance": "Recite this verse as the deliberate orientation before the protective body of the hymn: first fix the mind on whom you address and his supremacy, then ask. Said slowly, the four datives become a four-fold bow — to the god of gods, the worthy one, the glorious one, the giver of welfare — settling the heart into the trust that the later bhayahara verses presuppose.",
+    "crossReferences": [
+      {
+        "text": "Namo Arihantāṇaṁ — homage to the Arhats (first pada of the Navkar)",
+        "source": "Pañca-Parameṣṭhi Namaskāra (Navkar Mahāmantra)"
+      },
+      {
+        "text": "Upasargaharaṁ Pāsaṁ … — Pārśva as remover of afflictions",
+        "source": "Upasargahara Stotra (4th Smaraṇa), attr. Bhadrabāhu"
+      },
+      {
+        "text": "Pārśvanātha as the 23rd Tīrthaṅkara and his śāsana-devatās",
+        "source": "Wikipedia, 'Parshvanatha'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Monier-Williams (entries: deva, bhagavat, arhat, kalyāṇa, kārin, nitya)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Root/sense verification for deva-devāya, bhagavat, arhat (√arh), kalyāṇa and kārin (√kṛ), and the adverbial use of nityam."
+    },
+    {
+      "title": "Parshvanatha — the 23rd Tīrthaṅkara and his guardian deities",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Pārśvanātha and the Jain ranking of Arhat above the devas, supporting the 'deva-devāya' reading."
+    },
+    {
+      "title": "Jirawala — the Jīrāpallī / Jīrāvalā Pārśvanātha tīrtha",
+      "url": "https://en.wikipedia.org/wiki/Jirawala",
+      "type": "scholarship",
+      "consultedFor": "Identification of the Pārśva form to whom this stava is addressed."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "This opening verse is standard Sanskrit (not Prakrit/Apabhraṁśa), so the glosses are secure. Token 6 ભગવતેઽર્હતે is a sandhi-fusion of two epithets (bhagavate + arhate) joined by avagraha; preserved verbatim per the book's orthography. 'નિત્યં / nityaṃ' is taken adverbially ('perpetually I bow'); reading it as an attribute ('to the eternal Lord') is grammatically possible but doctrinally looser, since in Jainism it is the liberated jīva's nature, not an embodied godhood, that is eternal — flagged rather than asserted. દેવ and સર્વ are printed spaced but read as prior members of the compounds deva-devāya and sarva-kalyāṇa-kāriṇe. The verse text matches widely circulated forms of the hymn's opening; minor punctuation/spacing follows the source book."
+}

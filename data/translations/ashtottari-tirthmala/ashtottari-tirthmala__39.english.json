@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/39",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And glorious Lord Ajitavīrya too — so these are the Jinas living and teaching right now, and I bow to all twenty of them, honoured throughout the three worlds and the very source of every good deed.",
+  "recitation": "siri ajiya-vīriya jiṇo, iya ee saṁpayaṁ viharamāṇe; vande vīsa jiṇaṁde, tihuyaṇa vande sukkaya-kaṁde.",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, holy (an honorific prefixed to the Jina's name)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Sanskrit śrī ('splendour, glory, the auspicious'), used as a reverential title.",
+      "notes": "Governs the name that follows, ajiyavīriya."
+    },
+    {
+      "token": "અજિયવીરિય",
+      "translit": "ajiya-vīriya",
+      "gloss": "Ajitavīrya (proper name of the twentieth and last of the living viharamāṇa Jinas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ajiya (< Sanskrit ajita, 'unconquered') + vīriya (< vīrya, 'valour, spiritual energy'): 'one of unconquered vigour'.",
+      "notes": "Completes the roster of twenty begun in the preceding verses; the immediately prior verse closed with Devajaśa, and Ajitavīrya is the final name."
+    },
+    {
+      "token": "જિણો",
+      "translit": "jiṇo",
+      "gloss": "the Jina (conqueror, here a viharamāṇa Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina ('victor'), nominative singular jiṇo.",
+      "notes": ""
+    },
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way (closing the enumeration)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit iya < Sanskrit iti, the quotative/summative particle 'thus'.",
+      "notes": "Signals that the naming is complete and turns the list into a summation."
+    },
+    {
+      "token": "એએ",
+      "translit": "ee",
+      "gloss": "these (Jinas just named)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit ee < Sanskrit ete, demonstrative pronoun, plural 'these'.",
+      "notes": "Refers back to the full set of twenty."
+    },
+    {
+      "token": "સંપયં",
+      "translit": "saṁpayaṁ",
+      "gloss": "at present, right now",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit saṁpayaṁ < Sanskrit sāmprataṁ ('presently, now').",
+      "notes": "Stresses that these Jinas are living and active in the present moment, unlike the past and future sets."
+    },
+    {
+      "token": "વિહરમાણે",
+      "translit": "viharamāṇe",
+      "gloss": "the wandering/presently-living [Jinas] (viharamāṇa)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit present participle of vi-har- ('to roam, abide, move about'), < Sanskrit viharamāṇa ('wandering, abiding').",
+      "notes": "Plural form agreeing with 'these'; the technical term for the twenty currently-teaching Jinas of Mahāvideha (glossed in the preface)."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow to, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vande < Sanskrit √vand ('to praise, salute, revere'), first person singular vande.",
+      "notes": "The hymn's central gesture of homage; takes 'the twenty Jinendras' as its object."
+    },
+    {
+      "token": "વીસ",
+      "translit": "vīsa",
+      "gloss": "twenty",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vīsa < Sanskrit viṁśati ('twenty').",
+      "notes": "The canonical count of viharamāṇa Jinas — four in each of the five Mahāvideha regions."
+    },
+    {
+      "token": "જિણંદે",
+      "translit": "jiṇaṁde",
+      "gloss": "the Jinendras (lords among Jinas)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇiṁda < Sanskrit jina + indra ('Jina-lord'); accusative plural jiṇaṁde.",
+      "notes": "Object of vande; the honorific upgrade of jiṇa to 'Jina-sovereign'."
+    },
+    {
+      "token": "તિહુયણ",
+      "translit": "tihuyaṇa",
+      "gloss": "of/by the three worlds (heaven, the middle world, the lower world)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tihuyaṇa < Sanskrit tribhuvana (tri 'three' + bhuvana 'world'); here in compound, 'three-world-'.",
+      "notes": "Compounds with the following vande to mean 'venerated by the three worlds'."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "venerated, worthy of worship (here in the compound 'three-world-venerated')",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vande, here functioning as the gerundive-sense vandya (< √vand, 'to be saluted'); echoing the finite vande above for emphasis.",
+      "notes": "The repetition is deliberate: the reciter's bow ('I bow') is mirrored by the Jinas' status as 'bowed-to by all three worlds'."
+    },
+    {
+      "token": "સુક્ષ્યકંદે",
+      "translit": "sukkaya-kaṁde",
+      "gloss": "the root-bulb of merit, the wellspring of good deeds (sukṛta-kanda)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sukkaya (< Sanskrit su-kṛta, 'good deed, merit') + kaṁda (< kanda, 'tuber, bulb, root'): the underground root from which all merit sprouts.",
+      "notes": "Printed in the book as સુક્ષ્યકંદે; the intended Prakrit reading is sukkaya-kaṁde = sukṛta-kanda. Preserved verbatim per the source's orthography; flagged in notes."
+    }
+  ],
+  "literalTranslation": "Glorious Jina Ajitavīrya — thus these, presently wandering [Jinas]; I bow to the twenty Jinendras, venerated by the three worlds, the root-bulb of merit.",
+  "idiomaticTranslation": "And glorious Lord Ajitavīrya as well — so, these are the Jinas wandering and teaching in the present age. To all twenty of these Jina-sovereigns I bow: honoured throughout the three worlds, the very root from which all good deeds spring.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the roll-call of the living Jinas. The preceding verse ran out of metrical room mid-list, ending at Devajaśa; here the poet adds the final name, 'glorious Jina Ajitavīrya', and immediately pivots with iya ee ('thus these') from naming to summation. Having spelt out all twenty across vv.34–39, he no longer needs to repeat them — he gathers them into one breath: vande vīsa jiṇaṁde, 'I bow to the twenty Jinendras.' The single most important word is saṁpayaṁ, 'right now.' Where the surrounding hymn salutes Jinas of the past and future and images that are timeless, this cluster insists on the present tense: these are Tīrthaṅkaras alive and preaching at this very moment in Mahāvideha. The closing pāda then lifts them with two epithets. tihuyaṇa-vande ('venerated by the three worlds') answers the reciter's own bow — the worshipper salutes those whom gods, humans and the beings below already salute, so the small act of homage joins a cosmic one. sukkaya-kaṁde ('the root-bulb of merit') is the verse's freshest image: a kanda is the tuber hidden underground from which the whole plant grows, so the Jinas are figured as the buried root out of which every meritorious deed of every devotee germinates. Note too the chime of vande … vande and the rhyme jiṇaṁde / vīsa-jiṇaṁde / sukkaya-kaṁde, which makes the verse a tidy, chantable cadence rounding off the section before v.40 widens the salute to the Jinas of all three times.",
+    "doctrinalContext": "The verse rests on the Jain teaching of the viharamāṇa Jinas: although our own Bharata-kṣetra is in the descending fifth ārā, with no Tīrthaṅkara presently born here, the Mahāvideha regions remain perpetually in a fourth-ārā-like condition where Jinas are continuously present — four in each of the five Mahāvideha lands, hence the canonical twenty. Devotion therefore has a genuinely living, omniscient object, not only remembered or awaited ones. The epithet sukṛta-kanda also encodes the karmic logic of bhakti: venerating the Jina is itself the seed-deed (the 'root') that generates puṇya and orients the soul toward liberation, so the Jina is both the supreme example and the causal source of the worshipper's own merit.",
+    "practicalRelevance": "When reciting, let saṁpayaṁ register: this is not nostalgia for vanished saints but homage to awakened beings present now, which keeps the path feeling open and attainable. Bowing to those already 'venerated by the three worlds' trains humility — you are joining an existing chorus, not initiating praise. Holding the Jinas as the 'root of merit' reframes the bow as planting a seed: a moment's sincere reverence is the buried tuber from which later good conduct can grow.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho), the parallel litany saluting the 24 Tīrthaṅkaras of this region",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha edition)"
+      },
+      {
+        "text": "The doctrine of the twenty viharamāṇa Jinas of Mahāvideha led by Sīmandhara",
+        "source": "Jain cosmology; cf. Wikipedia, 'Simandhar Swami'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Simandhar Swami (the living Tīrthaṅkaras of Mahāvideha; total of 20)",
+      "url": "https://en.wikipedia.org/wiki/Simandhar_Swami",
+      "type": "scholarship",
+      "consultedFor": "Confirming the canonical count of 20 currently-living viharamāṇa Jinas and the Mahāvideha cosmological framing behind viharamāṇe and vīsa jiṇaṁde"
+    },
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "The meaning of Jina/Tīrthaṅkara and the present-age (avasarpiṇī) context that motivates the verse's emphasis on saṁpayaṁ ('now')"
+    },
+    {
+      "title": "Kanda — definitions (Sanskrit/Prakrit/Jain)",
+      "url": "https://www.wisdomlib.org/definition/kanda",
+      "type": "dictionary",
+      "consultedFor": "Glossing kaṁda (kanda) as 'bulb/tuber/root' for the compound sukkaya-kaṁde = sukṛta-kanda"
+    },
+    {
+      "title": "Tribhuvana — definitions",
+      "url": "https://www.wisdomlib.org/definition/tribhuvana",
+      "type": "dictionary",
+      "consultedFor": "Glossing tihuyaṇa < tribhuvana ('the three worlds') in tihuyaṇa-vande"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The fourth token-string of the verse is printed in the source as 'સુક્ષ્યકંદે'; the intended Prakrit reading is sukkaya-kaṁde (= Sanskrit sukṛta-kanda, 'root of merit'), and it is rendered so here while the verbatim spelling is preserved per the edition's orthography (which is not normalised). 'viharamāṇe' is read as a plural participle agreeing with 'these' (the twenty living Jinas); some readings take it adverbially as 'while wandering'. The second 'વંદે' is read as the gerundive-sense vandya ('to-be-venerated') within the compound tihuyaṇa-vande, mirroring the finite verb vande ('I bow') — an intentional echo. The precise membership and ordering of the twenty viharamāṇa Jinas varies slightly across editions; this commentary follows the names as they actually appear in the surrounding verses of this text rather than any external list."
+}

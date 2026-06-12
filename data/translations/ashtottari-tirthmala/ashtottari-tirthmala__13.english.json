@@ -1,0 +1,127 @@
+{
+  "shlokaId": "ashtottari-tirthmala/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to a row of awakened saviour-teachers who lived and won freedom in a long-past age — Sarvānubhūti, Śrīdhara, Datta, Dāmodara, Sutejas, Svāmī, Munisuvrata, Sumati, Śivagati and Aṣṭāha.",
+  "recitation": "savvāṇubhūi sirihara, dattaṁ dāmoyaraṁ suteyaṁ ca | sāmijiṇaṁ muṇisuvvaya, sumaiṁ sivagai tah'atthāhaṁ ||",
+  "wordByWord": [
+    {
+      "token": "સવ્વાણુભૂઇ",
+      "translit": "savvāṇubhūi",
+      "gloss": "Sarvānubhūti — the 6th Tīrthaṅkara of the past (atīta) cycle in Bharata; object of the homage carried over from v.12",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit savvāṇubhūi < Sanskrit sarva-anubhūti, 'all-experiencing / all-perceiving', sarva ('all') + anubhūti ('direct experience, realization')",
+      "notes": "Accusative sense though the nominal stem stands bare here, as often in gāthā name-lists."
+    },
+    {
+      "token": "સિરિહર",
+      "translit": "sirihara",
+      "gloss": "Śrīdhara — the 7th past Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sirihara < Sanskrit śrī-dhara, 'bearer of śrī (glory/auspicious splendour)', śrī + √dhṛ ('to hold')"
+    },
+    {
+      "token": "દત્તં",
+      "translit": "dattaṁ",
+      "gloss": "Datta (Śrīdatta) — the 8th past Tīrthaṅkara; in the accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dattaṁ < Sanskrit datta, 'given, granted', past participle of √dā ('to give'); the -ṁ is the accusative ending"
+    },
+    {
+      "token": "દામોયરં",
+      "translit": "dāmoyaraṁ",
+      "gloss": "Dāmodara — the 9th past Tīrthaṅkara; accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dāmoyara (with -d- > -y- softening) < Sanskrit dāma-udara, 'cord-around-the-belly'; a shared theonym also borne by Kṛṣṇa, here a Jina-name"
+    },
+    {
+      "token": "સુતેયં",
+      "translit": "suteyaṁ",
+      "gloss": "Sutejas — the 10th past Tīrthaṅkara; accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suteya < Sanskrit su-tejas, 'of fair/great radiance', su- ('good') + tejas ('lustre, splendour')"
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca = Sanskrit ca, the connective enclitic 'and', closing the first half-line's group"
+    },
+    {
+      "token": "સામિજિણં",
+      "translit": "sāmijiṇaṁ",
+      "gloss": "Svāmī-Jina (the Tīrthaṅkara named Svāmī) — the 11th past Tīrthaṅkara; accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sāmi-jiṇa < Sanskrit svāmī ('lord, master') + jina ('victor, Jina'); jiṇa marks the figure as a Tīrthaṅkara rather than the common epithet 'lord'"
+    },
+    {
+      "token": "મુણિસુવ્વય",
+      "translit": "muṇisuvvaya",
+      "gloss": "Munisuvrata — the 12th past Tīrthaṅkara (a name borne also by the 20th Jina of the present cycle)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit muṇi-suvvaya < Sanskrit muni-suvrata, 'a sage (muni) of excellent vows (su-vrata)'; the Prakrit Muṇisuvvaya form is attested e.g. in the Vividhatīrthakalpa"
+    },
+    {
+      "token": "સુમઇં",
+      "translit": "sumaiṁ",
+      "gloss": "Sumati — the 13th past Tīrthaṅkara; accusative (name shared with the 5th present-cycle Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sumai < Sanskrit su-mati, 'of good/right understanding', su- + mati ('mind, intellect'); -ṁ accusative"
+    },
+    {
+      "token": "સિવગઇ",
+      "translit": "sivagai",
+      "gloss": "Śivagati — the 14th past Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sivagai < Sanskrit śiva-gati, 'the auspicious / liberated state (gati)', śiva ('blessed, the state of release') + gati ('destiny, course')"
+    },
+    {
+      "token": "તહત્થાહં",
+      "translit": "tah'atthāhaṁ",
+      "gloss": "= taha + atthāhaṁ: 'and Aṣṭāha (likewise)' — taha 'and/likewise', plus Aṣṭāha (Astag), the 15th past Tīrthaṅkara, in the accusative",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of taha (Prakrit = Sanskrit tathā, 'so, likewise, and') + atthāha (theonym, Sanskritized Aṣṭāha / popularly Astag) + accusative -ṁ; the vowels coalesce in recitation",
+      "notes": "Splitting this sandhi recovers the 15th past Jina and gives the verse exactly names #6–15; without the split a name would go missing between this verse and the next. See verse-level notes."
+    }
+  ],
+  "literalTranslation": "(I bow to) Sarvānubhūti, Śrīdhara, Datta, Dāmodara and Sutejas; to Svāmī-Jina, Munisuvrata, Sumati, Śivagati and likewise Aṣṭāha.",
+  "idiomaticTranslation": "I venerate Sarvānubhūti and Śrīdhara, Datta, Dāmodara and Sutejas; and Lord Svāmī the Jina, Munisuvrata, Sumati and Śivagati — and Aṣṭāha along with them.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the central panel of the three verses (vv.12–14) that salute the twenty-four Tīrthaṅkaras of the past (atīta) era of Bharata, named at v.12 as 'tīyakāle' (in the bygone age). Verse 12 bowed to the first five (Kevalajñāna, Nirvāṇī, Sāgara, Mahāyaśas, Vimala); this verse continues the roll from the sixth to the fifteenth — Sarvānubhūti, Śrīdhara, Datta, Dāmodara, Sutejas, Svāmī, Munisuvrata, Sumati, Śivagati and Aṣṭāha — and verse 14 ('namimo…') completes the count from the sixteenth to the twenty-fourth. The verse carries no finite verb of its own: it leans entirely on the 'vandāmi' (I bow) of v.12, so the listener feels a single unbroken bow sweeping across ten names. Two craftsmanship points reward attention. First, the closing word 'tah'atthāhaṁ' is a sandhi — 'taha' (likewise) fused with 'Atthāha' (the fifteenth Jina); read carelessly it swallows a Tīrthaṅkara, so the reciter must part the vowels to honour Aṣṭāha by name. Second, several of these past names — Munisuvrata, Sumati — recur in the present chaubīsī; the poet quietly shows that name-forms repeat across cycles even though the persons are wholly distinct, underscoring how vast and recurrent the Jina-lineage is.",
+    "doctrinalContext": "The verse rests on the Jain doctrine of beginningless cyclic time (kālacakra), in which each descending (avasarpiṇī) and ascending (utsarpiṇī) half-cycle produces exactly twenty-four Tīrthaṅkaras, and infinitely many have already arisen. Bowing to figures of whom no biography survives enacts a precise theological claim: reverence is owed to the state of Jina-hood and the act of ford-making itself, not to remembered deeds or living presence. The homage is thus to liberated qualities (kevala-jñāna, the crossing they accomplished), making these unknown past Jinas as worthy of veneration as Ṛṣabha or Mahāvīra.",
+    "practicalRelevance": "Reciting a list of saviours whose stories are entirely lost trains the worshipper in faith that the path works perennially and in humility about fame: these souls reached liberation and are honoured still, though the world remembers nothing of them. The reciter is invited to bow with the same devotion to the unremembered as to the celebrated, loosening attachment to recognition.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the parallel name-litany of the present 24 Tīrthaṅkaras, the model for such roll-calls",
+        "source": "Āvaśyaka-sūtra tradition; this book's `logassa`"
+      },
+      {
+        "text": "Kalpasūtra and Triṣaṣṭiśalākāpuruṣacaritra — sources enumerating Tīrthaṅkaras across the time-cycles",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra; Bhadrabāhu (attrib.), Kalpasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Jain cyclic-time doctrine (avasarpiṇī/utsarpiṇī, 24 Tīrthaṅkaras per half-cycle, infinitely many in the past) framing the atīta-chaubīsī this verse salutes"
+    },
+    {
+      "title": "Munisuvrata: 9 definitions (Sanskrit/Prakrit dictionary)",
+      "url": "https://www.wisdomlib.org/definition/munisuvrata",
+      "type": "dictionary",
+      "consultedFor": "Confirming the Prakrit form Muṇisuvvaya = Sanskrit Munisuvrata and the muni + su-vrata etymology"
+    },
+    {
+      "title": "Damodara, Dāmodara: 35 definitions (Sanskrit/Prakrit dictionary)",
+      "url": "https://www.wisdomlib.org/definition/damodara",
+      "type": "dictionary",
+      "consultedFor": "Verifying Dāmodara as a Jain theonym and the dāma-udara etymology behind Prakrit dāmoyara"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) The verse is a bare name-list of the past-cycle (atīta) Tīrthaṅkaras #6–15 of Bharata; it has no finite verb, so the homage verb 'vandāmi' is carried over from the preceding verse (v.12). (2) Key reading: the final word 'તહત્થાહં / tah'atthāhaṁ' is parsed as taha ('likewise') + Atthāha (the 15th past Jina, popularly Astag/Aṣṭāha) + accusative -ṁ; this split is required for the three verses to yield all 24 names without a gap, and matches the standard Śvetāmbara atīta-chaubīsī sequence, but an alternative editor could read it as a single adverbial closing — flagged as the main uncertainty. (3) Name-forms vary across editions: Datta/Śrīdatta, Sutejas/Sutej, Śivagati/Śivgati, Aṣṭāha/Astag. (4) Munisuvrata and Sumati here are PAST Jinas, distinct from the like-named present-cycle Tīrthaṅkaras (20th and 5th). (5) The daṇḍa marks ('।' mid-gāthā, '.' at close) are the book's verse punctuation, reproduced verbatim, not tokens."
+}

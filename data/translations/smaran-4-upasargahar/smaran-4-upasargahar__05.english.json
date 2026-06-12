@@ -1,0 +1,160 @@
+{
+  "shlokaId": "smaran-4-upasargahar/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Having praised you with a heart full of love, O glorious Pārśva, I ask not for safety but for one gift — true faith — in every life to come.",
+  "recitation": "ia saṁthuo mahāyasa! bhatti-bhara-nibbhareṇa hiaeṇa, tā deva! dijja bohiṁ bhave bhave pāsa jiṇacaṁda.",
+  "wordByWord": [
+    {
+      "token": "ઇઅ",
+      "translit": "ia",
+      "gloss": "thus, in this manner",
+      "partOfSpeech": "particle",
+      "etymology": "Skt iti (इति); Prakrit ia/iya.",
+      "notes": "Points back to the four verses just recited; it gathers the whole hymn into the act of praise named next."
+    },
+    {
+      "token": "સંથુઓ",
+      "translit": "saṁthuo",
+      "gloss": "(having been) praised, well-eulogized",
+      "partOfSpeech": "verb",
+      "etymology": "Skt saṁstutaḥ < sam + √stu 'to praise'; past participle, nom. sg.",
+      "notes": "The poet's closing 'thus-praised' signature; passive in sense, with Pārśva as the one praised."
+    },
+    {
+      "token": "મહાયસ",
+      "translit": "mahāyasa",
+      "gloss": "O greatly glorious one",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt mahā-yaśas (महायशस्), vocative mahāyaśaḥ; mahā 'great' + yaśas 'fame'.",
+      "notes": "Vocative epithet of Pārśva."
+    },
+    {
+      "token": "ભત્તિભર",
+      "translit": "bhattibhara",
+      "gloss": "the load/fullness of devotion",
+      "partOfSpeech": "compound",
+      "etymology": "Skt bhakti-bhara; bhatti = bhakti 'devotion' + bhara 'weight, mass'.",
+      "notes": "First member of the instrumental phrase qualifying the heart."
+    },
+    {
+      "token": "નિબ્ભરેણ",
+      "translit": "nibbhareṇa",
+      "gloss": "by the brimming, overfull",
+      "partOfSpeech": "adj",
+      "etymology": "Skt nirbhareṇa < nir + √bhṛ 'filled to overflowing'; instr. sg.",
+      "notes": "Modifies hiaeṇa — a heart so loaded with devotion it brims over."
+    },
+    {
+      "token": "હિઅએણ",
+      "translit": "hiaeṇa",
+      "gloss": "with the heart",
+      "partOfSpeech": "noun",
+      "etymology": "Skt hṛdayena (हृदय); Prakrit hiaa; instr. sg.",
+      "notes": "The instrument of the praising — devotion of heart, not mere words."
+    },
+    {
+      "token": "તા",
+      "translit": "tā",
+      "gloss": "therefore, so then",
+      "partOfSpeech": "particle",
+      "etymology": "Skt tasmāt / tataḥ (तस्मात्); Prakrit tā.",
+      "notes": "The structural pivot: it turns the completed praise into the single petition that follows."
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "O Lord, O Deva",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt deva (देવ), vocative.",
+      "notes": "Direct address to Pārśva at the moment of asking."
+    },
+    {
+      "token": "દિજ્જ",
+      "translit": "dijja",
+      "gloss": "grant, bestow",
+      "partOfSpeech": "verb",
+      "etymology": "Skt dehi / dīyatām < √dā 'to give'; Prakrit dijja; imperative 2nd sg.",
+      "notes": "The lone verb of request in the whole verse — everything else frames this one asking."
+    },
+    {
+      "token": "બોહિં",
+      "translit": "bohiṁ",
+      "gloss": "bodhi (the seed of right faith)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt bodhiṁ (बोધि); acc. sg.; Prakrit bohi.",
+      "notes": "Object of dijja; glossary term used as-is."
+    },
+    {
+      "token": "ભવે",
+      "translit": "bhave",
+      "gloss": "in (each) birth",
+      "partOfSpeech": "noun",
+      "etymology": "Skt bhave < bhava (भव) 'worldly existence'; loc. sg.",
+      "notes": "Locative of condition/time."
+    },
+    {
+      "token": "ભવે",
+      "translit": "bhave",
+      "gloss": "birth after birth",
+      "partOfSpeech": "noun",
+      "etymology": "Reduplication of bhave (āmreḍita-type).",
+      "notes": "The repetition is the point: a distributive 'in every successive life', not just once."
+    },
+    {
+      "token": "પાસ",
+      "translit": "pāsa",
+      "gloss": "O Pārśva",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt Pārśva (પાર્શ્વ); Prakrit Pāsa; vocative.",
+      "notes": "Names the 23rd Tīrthaṅkara, the dedicatee of the hymn."
+    },
+    {
+      "token": "જિણચંદ",
+      "translit": "jiṇacaṁda",
+      "gloss": "O moon among the Jinas (Jinacandra)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt Jina-candra; jiṇa = jina + caṁda = candra 'moon'; vocative compound.",
+      "notes": "Glossary term used as-is; the cooling, radiant closing honorific."
+    }
+  ],
+  "literalTranslation": "Thus praised, O greatly glorious one — with a heart brimming with the load of devotion — therefore, O Deva, grant bodhi, birth after birth, O Pārśva, moon among the Jinas.",
+  "idiomaticTranslation": "Praised in this way, O most glorious one, by a heart overflowing with the full weight of devotion — therefore, O Lord, grant me the seed of enlightenment, life after life, O Pārśva, moon among the Jinas.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the hymn's colophon, and it does three things in a single breath. First, 'ia saṁthuo' ('thus praised') signs off the preceding praise: the poet steps back and names the act he has just performed, framing it explicitly as devotion 'with a heart brimming with the load of devotion' (bhatti-bhara-nibbhareṇa hiaeṇa) — heart, not just tongue. Second, the small word 'tā' ('therefore') is the verse's hinge: it makes the petition flow out of the praise, as if devotion earns the right to ask. Third comes the asking itself, carried by the one imperative 'dijja' ('grant'). What is striking is what is NOT asked. After v.4 has already reached the deathless place, the poet does not demand mokṣa outright; he asks only for 'bodhi' — and asks for it 'bhave bhave', birth after birth. The reduplication is deliberate and humble: a soul cannot command its own liberation, but it can pray never to lose right faith across whatever rebirths remain, trusting that bodhi repeated will itself ripen into release. The address closes on two soft vocatives — 'pāsa jiṇacaṁda', 'Pārśva, moon among the Jinas' — the cooling lunar image sealing a hymn that began with poison and affliction. So the poem ends exactly where the preface's ladder pointed: the true gift of the upasarga-hara is not protection but the seed of enlightenment, requested with the smallest verb and the largest patience.",
+    "doctrinalContext": "The boon requested is bodhi-lābha — the attaining of samyag-darśana — held in Jain soteriology as the indispensable first of the three jewels (samyag-darśana-jñāna-cāritra). The 'bhave bhave bohi' formula is a praṇidhāna (resolute aspiration) shared with the standard prayer 'bhava-nibbeo... bohilāho' of the Jaya Vīyarāya: one prays not for a guaranteed end but for the cause to recur unbroken. Doctrinally this is precise — liberation cannot be petitioned into existence, but unwavering right faith across lives is the surest path to it, picking up exactly where v.4's samyaktva left off.",
+    "practicalRelevance": "The reciter ends a protective hymn by redirecting all its power toward the only durable request: not 'keep me safe today' but 'let me never lose right faith.' Said at the close of the Smaraṇa, it trains the heart to ask for the cause of liberation rather than for comfort.",
+    "crossReferences": [
+      {
+        "text": "Jaya Vīyarāya sūtra — 'bhava-nibbeo... bohilāho' (the prayer for bodhi)",
+        "source": "Standard Śvetāmbara pratikramaṇa liturgy"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.1 — 'samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ'",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uvasaggaharam Stotra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra",
+      "type": "scholarship",
+      "consultedFor": "Standard five-gāthā Prakrit text and the v.5 reading 'ia saṁthuo... bhave bhave pāsa jiṇacaṁda', plus attribution to Bhadrabāhu."
+    },
+    {
+      "title": "Commentary on Uvasaggaharam Stotra — Fifth Verse (Jain Square)",
+      "url": "https://jainsquare.wordpress.com/2011/08/25/commentary-on-uvasaggaharam-stotra-fifth-verse/",
+      "type": "commentary",
+      "consultedFor": "Word-by-word reading of v.5 and the interpretation of 'bohi' as samyaktva requested 'bhave bhave', and Jinacandra as 'moon among Jinas'."
+    },
+    {
+      "title": "Uvassaggaharam Stotra Swadhyay (Romanized) — Jain Quantum, jainqq.org",
+      "url": "https://jainqq.org/booktext/Uvassaggaharam_stotra_Swadhyay_Romanized/001510",
+      "type": "translation",
+      "consultedFor": "Romanized Prakrit and traditional svādhyāya gloss confirming the Sanskrit chāyā (iti saṁstutaḥ... dehi bodhiṁ) and the devotional reading."
+    }
+  ],
+  "translatorConfidence": 0.91,
+  "notes": "The source book's Gujarati orthography is followed verbatim (e.g. 'ભત્તિભર', 'નિબ્ભરેણ', 'દિજ્જ'); some recensions read 'bhattibbhara' with a doubled conjunct and a few print 'iha'/'iya' for 'ia' — these are minor orthographic variants, not differences of sense. 'tā' is taken as Skt tasmāt/tataḥ ('therefore'); a few glossators read it merely as a connective 'and so'. The repeated 'bhave' is preserved as in the source. The opening 'mahāyasa' may be construed with the praising clause ('thus praised, O glorious one') or loosely with the address — both yield the same import."
+}

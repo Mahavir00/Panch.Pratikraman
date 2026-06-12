@@ -1,0 +1,182 @@
+{
+  "shlokaId": "ashtottari-tirthmala/96",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On Mount Ābu, the king of mountains, two Jina temples shine as beautifully as a pair of bright-pupilled eyes, or like two jewel-filled mansions of the goddess of fortune.",
+  "recitation": "nayaṇa dugaṁ vva sutāraṁ, siri gharajualaṁ va rayaṇa paḍipuṇṇaṁ. rehai jiṇa bhavaṇa dugaṁ, abbuya girivara narindassa.",
+  "wordByWord": [
+    {
+      "token": "નયણ",
+      "translit": "nayaṇa",
+      "gloss": "eye",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nayaṇa < Sanskrit nayana, 'eye' (lit. 'the leading/guiding one'), from root nī, 'to lead'.",
+      "notes": "First member of the compound nayaṇa-duga, 'pair of eyes'."
+    },
+    {
+      "token": "દુગં",
+      "translit": "dugaṁ",
+      "gloss": "a pair, the two",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dugaṁ < Sanskrit dvika / dvaya, 'a pair, twofold', from dvi, 'two'.",
+      "notes": "Accusative/nominative neuter sg.; here completes the simile 'a pair of eyes'."
+    },
+    {
+      "token": "વ્વ",
+      "translit": "vva",
+      "gloss": "like, just as",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit vva/va < Sanskrit iva, particle of comparison.",
+      "notes": "Doubled vv- is metrical sandhi after dugaṁ; identical in sense to va later in the line."
+    },
+    {
+      "token": "સુતારં",
+      "translit": "sutāraṁ",
+      "gloss": "having lovely pupils (lit. 'with beautiful stars')",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('beautiful, good') + tāra ('star; pupil of the eye') < Sanskrit su-tāra; tāra from tṝ, the dark shining pupil likened to a star.",
+      "notes": "Qualifies nayaṇa-dugaṁ: a pair of eyes whose pupils are bright — the conceit equates each temple's enshrined Jina with a luminous pupil."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "Śrī, the goddess of fortune/splendour",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siri < Sanskrit śrī, 'auspicious wealth, beauty, Lakṣmī'.",
+      "notes": "Possessive sense ('Śrī's') feeding gharajualaṁ; also carries the overtone of sheer splendour."
+    },
+    {
+      "token": "ઘરજુઅલં",
+      "translit": "gharajualaṁ",
+      "gloss": "a pair of houses/mansions",
+      "partOfSpeech": "compound",
+      "etymology": "ghara ('house') < Sanskrit gṛha + juala < yugala ('pair, couple'), from yuga ('yoke').",
+      "notes": "Compound 'house-pair'; with siri = 'Śrī's two mansions'."
+    },
+    {
+      "token": "વ",
+      "translit": "va",
+      "gloss": "like, as",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit va < Sanskrit iva, comparative particle.",
+      "notes": "Second simile-marker, parallel to vva above."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel(s), gem(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Sanskrit ratna, 'jewel'.",
+      "notes": "First member of rayaṇa-paḍipuṇṇaṁ, 'jewel-filled'."
+    },
+    {
+      "token": "પડિપુણ્ણં",
+      "translit": "paḍipuṇṇaṁ",
+      "gloss": "wholly filled, brimming, complete",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍipuṇṇa < Sanskrit paripūrṇa, 'completely full', from pari + √pṝ ('to fill').",
+      "notes": "Qualifies the mansion-pair: 'brimming with jewels' — an image of the white, gem-like Dilwara marble."
+    },
+    {
+      "token": "રેહઇ",
+      "translit": "rehai",
+      "gloss": "shines, is resplendent",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit rehaï < Sanskrit rājate (√rāj, 'to shine, be splendid'); the main finite verb, 3rd sg. present.",
+      "notes": "Singular agreeing with the collective 'bhavaṇa-dugaṁ'. A minority lexical reading glosses rehaï as 'abides/remains'; the surrounding similes of beauty favour 'shines' here (see notes)."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the conqueror, Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'victor', from √ji ('to conquer').",
+      "notes": "First member of jiṇa-bhavaṇa, 'Jina-temple'."
+    },
+    {
+      "token": "ભવણ",
+      "translit": "bhavaṇa",
+      "gloss": "temple, abode, shrine",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa < Sanskrit bhavana, 'dwelling, house', from √bhū ('to be, become').",
+      "notes": "Here = caitya/Jina-temple; the housed image makes it a shrine."
+    },
+    {
+      "token": "દુગં",
+      "translit": "dugaṁ",
+      "gloss": "the pair, the two",
+      "partOfSpeech": "noun",
+      "etymology": "As above, Prakrit dugaṁ < Sanskrit dvika.",
+      "notes": "The grammatical subject: 'the pair of Jina-temples'. Its repetition deliberately mirrors the nayaṇa-dugaṁ of line 1."
+    },
+    {
+      "token": "અબ્બુઅ",
+      "translit": "abbuya",
+      "gloss": "Ābu (Mount Ābu)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit abbuya < Sanskrit arbuda, the name of the mountain (mod. Mount Ābu, Sirohi).",
+      "notes": "Proper name; first member of the genitive phrase locating the temples."
+    },
+    {
+      "token": "ગિરિવર",
+      "translit": "girivara",
+      "gloss": "best of mountains",
+      "partOfSpeech": "compound",
+      "etymology": "giri ('mountain') + vara ('best, excellent') < Sanskrit giri-vara.",
+      "notes": "Honorific epithet of Ābu; with narinda forms 'king among the best mountains'."
+    },
+    {
+      "token": "નરિંદસ્સ",
+      "translit": "narindassa",
+      "gloss": "of the king (lord)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit narinda < Sanskrit narendra ('lord of men, king'), nara + indra; -ssa = genitive sg. ending.",
+      "notes": "Genitive governing the whole phrase: 'belonging to Ābu, the king-mountain' — i.e. the temples that crown it. The final daṇḍa/period closes the gāthā."
+    }
+  ],
+  "literalTranslation": "Like a pair of eyes with lovely pupils, like Śrī's two mansions brimming with jewels, the pair of Jina-temples of Ābu, king of the best mountains, shines.",
+  "idiomaticTranslation": "Twin like a pair of bright-eyed eyes, radiant like two jewel-filled palaces of Lakṣmī herself, the two Jina-temples crowning Ābu — sovereign among mountains — stand resplendent.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having named the two Ābu shrines individually in the preceding verse — the first temple where Ṛṣabha is adored as the wish-gem, and the 'other excellent temple' of Nemi — this gāthā steps back to behold them as a matched pair (dugaṁ), and its whole art lies in two interlocking similes built on the number two. First the temples are 'a pair of eyes with beautiful pupils' (nayaṇa-dugaṁ vva sutāraṁ): the mountain is imagined as a face, the two shrines its two eyes, and the dark, luminous Jina image enshrined within each is the shining pupil (tāra) that gives the eye its life and gaze. Second they are 'Śrī's two mansions brimming with jewels' (siri gharajualaṁ va rayaṇa-paḍipuṇṇaṁ): the famed white marble of Dilwara, carved into lace-fine ceilings and pillars, is seen as gem-treasure, and the temples as the very palaces of the goddess of splendour. The deliberate echo of dugaṁ in both lines — eye-pair answering temple-pair — binds the comparison tight, while the single verb rehai ('shines') lets the two temples blaze as one radiance. The closing genitive abbuya girivara narindassa crowns Ābu as 'king among the best of mountains', so that the twin temples become the jewelled eyes and treasure-halls of a royal peak.",
+    "doctrinalContext": "The verse is pure tīrtha-bhakti expressed through the jiṇa-bhavaṇa (Jina-temple) and its enshrined image. By making the housed Jina the 'pupil' that animates the temple-eye, the poet quietly affirms the Mūrtipūjaka conviction that the consecrated pratimā is the living focus of darśana — the worshipper both sees and is 'seen' by the Jina. The Śrī-mansion image reframes worldly opulence as sacred: marble wealth is fortune (śrī) only because it houses the Jina, redirecting the lay devotee's sense of beauty and prosperity toward liberation. Aesthetic delight here is itself a mode of reverence, the eye's homage preceding the bowing word.",
+    "practicalRelevance": "Reciting this, a worshipper who may never reach Ābu can summon its twin temples to the inner eye — letting their remembered beauty kindle the longing for pilgrimage and for darśana of the Jina. It teaches the reciter to look at any shrine as the radiant 'eye' of the place and to treat its splendour not as mere art but as an offering pointing beyond itself.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.95 (immediately preceding): the first Ābu temple of Ṛṣabha as cintāmaṇi and the 'other excellent temple' of Nemi",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.), Ācārya Mahendrasiṁhasūri"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.97 (following): the scene moves to the foot of Mount Ābu (abbuya girivara mūle), Muṇḍasthala",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dilwara Temples",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples",
+      "type": "scholarship",
+      "consultedFor": "Identification and history of the two principal Ābu temples — Vimal Vasahi (Ṛṣabha/Ādinātha, by 1031 CE) and Luna Vasahi (Neminātha, by 1230 CE) — and their white-marble craftsmanship behind the 'jewel-filled mansion' image."
+    },
+    {
+      "title": "Vastupala",
+      "url": "https://en.wikipedia.org/wiki/Vastupala",
+      "type": "scholarship",
+      "consultedFor": "Vastupāla and Tejapāla's construction of the Luniga/Luna-vasahi temple on Mount Abu, confirming the second of the two shrines saluted in the verse."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the glosses: nayana, dvika/dvaya, su-tāra (tāra = star/pupil), yugala, ratna, paripūrṇa, √rāj (rājate), narendra."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit dictionary, H. D. Sheth), via JainQQ",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit verifications: rehaï (Sanskrit rājate, 'shines'), dugaṁ (dvika, 'pair'), sutāra ('beautiful pupil/star'), juala (yugala)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Verse-specific caveats: (1) rehaï is taken as 'shines' (< Skt rājate), strongly supported by the two beauty-similes; some lexica also record a sense 'abides/remains' for related forms, which would yield 'the pair of temples stands on Ābu' — the imagery favours 'shines'. (2) abbuya girivara narindassa is read as a genitive phrase 'of Ābu, king among the best of mountains', locating/possessing the temples; an alternative parsing treats girivara-narinda as a single honorific ('the lord-king mountain'). (3) sutāraṁ puns on tāra = both 'star' and 'eye-pupil'; the pupil sense governs the eye-simile while the star sense keeps a glint of brightness. (4) Orthography (e.g. વ્વ vs વ, the doubled bb in abbuya) is preserved verbatim per the source edition. (5) The exact dedication pairing (Ṛṣabha + Nemi) follows the preceding verse and the historical Dilwara identifications, treated as the v.92–96 Ābu cluster."
+}

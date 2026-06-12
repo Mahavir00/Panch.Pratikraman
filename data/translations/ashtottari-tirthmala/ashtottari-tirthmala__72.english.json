@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/72",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On this holy mountain Puṇḍarīka was the very first soul to win liberation, together with many thousands of monks, and from his day down to Jambū countless millions more were set free here.",
+  "recitation": "jattha ya paḍhamaṁ siddho, puṇḍario ṇega-muṇi-sahassa-juo | takkālā jā jambū, asaṅkha koḍīo tā siddhā.",
+  "wordByWord": [
+    {
+      "token": "જત્થ",
+      "translit": "jattha",
+      "gloss": "where, in which place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jattha < Sanskrit yatra ('where'); the relative adverb whose correlative is supplied by the following verse's taṁ ('that [mountain]')."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and, indeed",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca; here a light connective/metre-filling particle.",
+      "notes": "Carries no independent weight; bridges jattha to the predicate."
+    },
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "first, for the first time",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit paḍhama < Sanskrit prathama ('first'); accusative/adverbial -aṁ, 'firstly'."
+    },
+    {
+      "token": "સિદ્ધો",
+      "translit": "siddho",
+      "gloss": "became a siddha, attained final liberation",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit siddho < Sanskrit siddhaḥ, past participle of √sidh ('to be accomplished, perfected'); here 'attained mokṣa'."
+    },
+    {
+      "token": "પુંડરિઓ",
+      "translit": "puṇḍario",
+      "gloss": "Puṇḍarīka (the first chief disciple of Ṛṣabhadeva)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit puṇḍario < Sanskrit puṇḍarīka ('white lotus'); proper name of Ṛṣabha's gaṇadhara whose liberation gives Śatruñjaya its alternative name Puṇḍarīkagiri."
+    },
+    {
+      "token": "ણેગ",
+      "translit": "ṇega",
+      "gloss": "many, numerous",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ṇega < Sanskrit aneka ('not-one, many'); initial a- elided and k softened to g in Prakrit.",
+      "notes": "First member of the compound ṇega-muṇi-sahassa-juo; a rare reading 'ṇega = one' exists but the context (mass liberation) and the standard aneka derivation favour 'many'."
+    },
+    {
+      "token": "મુણિ",
+      "translit": "muṇi",
+      "gloss": "monks, sages",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇi < Sanskrit muni ('silent sage, ascetic'); compound stem here."
+    },
+    {
+      "token": "સહસ્સ",
+      "translit": "sahassa",
+      "gloss": "thousand(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sahassa < Sanskrit sahasra ('thousand'), with the regular sr > ss assimilation."
+    },
+    {
+      "token": "જુઓ",
+      "translit": "juo",
+      "gloss": "accompanied by, together with",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit juo < Sanskrit yuta ('joined, accompanied'), past participle of √yuj; closes the compound 'accompanied by many thousands of monks'."
+    },
+    {
+      "token": "તક્કાલા",
+      "translit": "takkālā",
+      "gloss": "from that time onward",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit takkālā < Sanskrit tat-kālāt ('from that time'), ablative; geminate -kk- from tt+k assimilation."
+    },
+    {
+      "token": "જા",
+      "translit": "jā",
+      "gloss": "up until, as far as",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jā < Sanskrit yāvat ('as long as, until'); the first half of the yāvat–tāvat (jā–tā) correlative spanning a time-range."
+    },
+    {
+      "token": "જંબૂ",
+      "translit": "jambū",
+      "gloss": "Jambū(svāmī), the last liberated soul of this era",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit jambū; here short for Jambūsvāmī, third successor after Mahāvīra and the final being to attain mokṣa in the present avasarpiṇī."
+    },
+    {
+      "token": "અસંખ",
+      "translit": "asaṅkha",
+      "gloss": "innumerable, uncountable",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asaṅkha < Sanskrit asaṅkhya ('beyond counting'); a-(negation) + saṅkhyā ('number')."
+    },
+    {
+      "token": "કોડીઓ",
+      "translit": "koḍīo",
+      "gloss": "crores (tens of millions)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koḍī < Sanskrit koṭi ('ten million, crore'); nominative plural -o, the subject of siddhā."
+    },
+    {
+      "token": "તા",
+      "translit": "tā",
+      "gloss": "to that extent, in that span (so many)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tā < Sanskrit tāvat ('so much, to that extent'); the correlative answering jā (yāvat)."
+    },
+    {
+      "token": "સિદ્ધા",
+      "translit": "siddhā",
+      "gloss": "attained liberation, became siddhas",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit siddhā < Sanskrit siddhāḥ (nom. pl.), past participle of √sidh; predicate of asaṅkha koḍīo."
+    }
+  ],
+  "literalTranslation": "Where first was liberated Puṇḍarīka, accompanied by many thousands of monks; from that time as far as Jambū, so many — innumerable crores — were liberated.",
+  "idiomaticTranslation": "Here it was that Puṇḍarīka, ringed by many thousands of monks, first crossed over into liberation; and from his day down to Jambūsvāmī, on this very ground innumerable crores of souls won their freedom.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the Śatruñjaya panel, yet it withholds the mountain's name: it begins only with jattha, 'where' — a relative adverb left deliberately hanging until the next verse supplies its answer, taṁ vimalaṁ vimalagiriṁ ('that Vimalagiri'). The hymn thus makes the listener lean forward, identifying the supreme tīrtha first by what happened there rather than by its label. What happened is the charter-event of the whole mountain: Puṇḍarīka, the senior gaṇadhara of Ṛṣabhadeva, was paḍhamaṁ siddho, 'the first to be liberated' here, and it is from him that the peak takes its other name, Puṇḍarīkagiri. He does not go alone — ṇega-muṇi-sahassa-juo, 'accompanied by many thousands of monks' — so the founding act is already a collective liberation. The second line stretches that single event into an immense span by the jā…tā (yāvat…tāvat) correlative: takkālā jā jambū, 'from that time up to Jambū(svāmī)', asaṅkha koḍīo tā siddhā, 'so many — innumerable crores — were liberated.' Naming Jambūsvāmī as the far end is precise and pointed: he is the last soul of this descending half-cycle to reach mokṣa, so the verse is in effect saying every liberation that this era will ever see, from its very first to its very last, is gathered onto this one mountain. The arithmetic moves from one (Puṇḍarīka) to many-thousands (his retinue) to innumerable-crores (all who followed) — a deliberate crescendo that establishes Śatruñjaya, before it is even named, as the foremost siddha-kṣetra.",
+    "doctrinalContext": "The verse rests on the Jain category of siddha-kṣetra — a tract of land sanctified because souls have shed all karma and reached mokṣa upon it. Śatruñjaya is the siddha-kṣetra par excellence, and the claim made here is soteriological, not merely geographic: the same physical ground has carried beings to the irreversible, bodiless perfection of siddhahood across the whole liberation-bearing stretch of this avasarpiṇī. Anchoring the upper limit at Jambūsvāmī encodes the doctrine that mokṣa from Bharata-kṣetra closed with him for this half-cycle; by bracketing the count between Puṇḍarīka and Jambū, the poet implicitly honours every liberated soul of the age at once. 'Innumerable crores' (asaṅkha koḍīo) is the standard idiom for a magnitude past ordinary counting, underscoring that the efficacy of the place is effectively limitless within its era.",
+    "practicalRelevance": "Reciting this verse, the worshipper makes a mental pilgrimage to Śatruñjaya — the goal so many Jains still long to climb — and joins the unbroken line from Puṇḍarīka to Jambūsvāmī. The takeaway is aspirational: liberation is not a private singular feat but a path walked by 'many thousands' and 'innumerable crores', so the reciter renews the longing to one day stand among them.",
+    "crossReferences": [
+      {
+        "text": "Śatruñjaya Māhātmya (legend of Puṇḍarīka's liberation on the mountain)",
+        "source": "Dhaneśvarasūri"
+      },
+      {
+        "text": "Kalpasūtra — Jambūsvāmī as the last soul to attain mokṣa in this avasarpiṇī",
+        "source": "Bhadrabāhu, Devardhigaṇi redaction"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. T. Sheth",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for jattha (yatra), paḍhama (prathama), sahassa (sahasra), juo (yuta), koḍī (koṭi), asaṅkha (asaṅkhya)"
+    },
+    {
+      "title": "Prakrit Dictionary (ISJS, English translation of Pāia-Sadda-Mahaṇṇavo)",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking ṇega < aneka and the jā…tā (yāvat…tāvat) correlative usage"
+    },
+    {
+      "title": "An Illustrated Ardha-Magadhi Dictionary, Muni Ratnachandraji",
+      "url": "https://archive.org/details/in.ernet.dli.2015.458892",
+      "type": "dictionary",
+      "consultedFor": "Ardhamagadhi forms takkālā (tat-kālāt), muṇi, siddha and the participle siddhā"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The mountain is intentionally unnamed in this verse (only jattha, 'where'); its identity as Vimalagiri/Śatruñjaya is supplied by the following verse — so the rendering keeps 'here/where' rather than inserting the name. ṇega is read as aneka ('many'), the standard Prakrit derivation and the sense the mass-liberation context demands; a minority lexical note treats ṇega as 'one', which would yield 'one thousand monks' — flagged but not adopted. 'Jambū' is taken as Jambūsvāmī, the traditional last liberated soul of this avasarpiṇī, which makes the jā…tā span (Puṇḍarīka → Jambū) coherent. Some recensions of the Puṇḍarīka legend specify five crore accompanying munis; this verse's own wording is the looser 'many thousands' for Puṇḍarīka's own attainment, with 'innumerable crores' reserved for the cumulative total — preserved as written per the book's verbatim fidelity rule."
+}

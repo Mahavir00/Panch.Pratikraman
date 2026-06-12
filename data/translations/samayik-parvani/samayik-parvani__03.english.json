@@ -1,0 +1,164 @@
+{
+  "shlokaId": "samayik-parvani/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I have forgiven and asked forgiveness of every kind of living being, so that when I look honestly into my heart, no hostility toward anyone is left.",
+  "recitation": "khamī khamāvī me khamī, chavviha jīvanikāya. śuddha mane ālovatāṁ, muja mana vera na thāya.",
+  "wordByWord": [
+    {
+      "token": "ખમી",
+      "translit": "khamī",
+      "gloss": "having forgiven",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati absolutive of khamavu 'to forgive, endure', from Sanskrit/Prakrit root kṣam- (Pkt kham-), 'to bear, pardon'.",
+      "notes": "Opens the verse on the act the practitioner performs first: extending pardon."
+    },
+    {
+      "token": "ખમાવી",
+      "translit": "khamāvī",
+      "gloss": "having asked (others') forgiveness",
+      "partOfSpeech": "verb",
+      "etymology": "Causative absolutive of khamavu (khamāv- 'to cause to forgive'), from kṣam-; the -āv- infix marks the causative.",
+      "notes": "The causative turns the act outward — making others forgive me — the reciprocal half of khāmaṇā."
+    },
+    {
+      "token": "મે",
+      "translit": "me",
+      "gloss": "by me / for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Enclitic first-person instrumental/genitive, from Sanskrit me (Pkt me), 'by/of me'.",
+      "notes": "Marks the practitioner as the agent of all three forgiving actions."
+    },
+    {
+      "token": "ખમી",
+      "translit": "khamī",
+      "gloss": "I have forgiven (them all)",
+      "partOfSpeech": "verb",
+      "etymology": "Same absolutive of kṣam- as the opening word, repeated for completion and emphasis.",
+      "notes": "The third khamī seals the reciprocal triad 'forgiven — caused-to-forgive — forgiven', i.e. mutual pardon is now complete."
+    },
+    {
+      "token": "છવ્વિહ",
+      "translit": "chavviha",
+      "gloss": "of the six kinds, six-fold",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit chavviha < Sanskrit ṣaḍvidha ('ṣaṣ' six + 'vidha' kind); the cluster -ḍv- assimilates to -vv- in Prakrit.",
+      "notes": "Qualifies jīvanikāya; the object of forgiveness is the entire census of life."
+    },
+    {
+      "token": "જીવનિકાય",
+      "translit": "jīvanikāya",
+      "gloss": "classes/bodies of living beings",
+      "partOfSpeech": "compound",
+      "etymology": "jīva ('living being', from √jīv 'to live') + nikāya ('aggregate, body, class', from ni-√ci 'to heap up'); = ṣaḍ-jīva-nikāya, the six life-classes.",
+      "notes": "Earth-, water-, fire-, air-, plant-bodied (one-sensed sthāvara) plus the mobile (trasa) beings."
+    },
+    {
+      "token": "શુદ્ધ",
+      "translit": "śuddha",
+      "gloss": "pure",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śuddha, past participle of √śudh 'to be cleansed, purified'.",
+      "notes": "Modifies the mind/manner of confession — purity is the precondition, not the result."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "with the mind",
+      "partOfSpeech": "noun",
+      "etymology": "mana ('mind', Skt manas) + the Old Gujarati case-ending -e marking instrumental/locative ('with/in the mind').",
+      "notes": "Read with śuddha as 'with a pure mind' — the inward, sincere mode of ālocanā."
+    },
+    {
+      "token": "આલોવતાં",
+      "translit": "ālovatāṁ",
+      "gloss": "while confessing/reviewing (ālocanā)",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle of ālovavu 'to confess, scrutinize', from Sanskrit ā-√loc 'to look upon, reflect, disclose' (cf. ālocanā).",
+      "notes": "Names the technical act of frank self-examination before the guru/self that dissolves residual fault."
+    },
+    {
+      "token": "મુજ",
+      "translit": "muja",
+      "gloss": "my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati first-person genitive, from Apabhraṁśa majjha / Sanskrit mama 'my'.",
+      "notes": "Possessive of mana in the next word."
+    },
+    {
+      "token": "મન",
+      "translit": "mana",
+      "gloss": "mind, heart",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit manas 'mind', Prakrit/Gujarati mana.",
+      "notes": "The locus the verse cares about: enmity is measured internally, not by outward gesture."
+    },
+    {
+      "token": "વેર",
+      "translit": "vera",
+      "gloss": "enmity, hostility, grudge",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vera < Sanskrit vaira ('hostility'), from vīra/vi-√ṛ; the very word disowned in 'veraṁ majjha na keṇai'.",
+      "notes": "The carried-over bondage that mutual forgiveness is meant to cut."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit/Prakrit negative particle na.",
+      "notes": "Negates thāya, yielding the verse's resolution: enmity does not arise."
+    },
+    {
+      "token": "થાય",
+      "translit": "thāya",
+      "gloss": "arises, comes to be, remains",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati thavu 'to become, happen', from Sanskrit sthā- / Prakrit ṭhā- (with bhū-sense), 3rd-person present.",
+      "notes": "Present tense states an achieved condition: with the mind purified, no hostility now stands."
+    }
+  ],
+  "literalTranslation": "Having forgiven, having asked forgiveness — by me the six classes of living beings are forgiven; confessing with a pure mind, in my mind enmity does not arise.",
+  "idiomaticTranslation": "I have forgiven, I have begged forgiveness, and by me all six orders of living beings stand pardoned. When I lay my faults bare with a cleansed heart, not a trace of hostility is left in my mind.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding verse cast its net over the whole fourteen-rajju cosmos and 'all souls bound by karma', this verse re-grounds the same act in the nearest, most concrete inventory of life: the six jīva-nikāya — earth, water, fire, air, plant, and mobile beings — the classes a layperson cannot help but injure simply by living. The forgiveness movement thus narrows from the cosmic to the ecological, ensuring the pardon is not abstract sentiment but covers the actual victims of daily activity. The opening line is built on a deliberate triad — khamī (I forgive), khamāvī (I make-amends/seek pardon), khamī (forgiven by me) — that compresses both directions of khāmaṇā into a single breath, so that pardon given and pardon sought arrive together; mutual forgiveness is presented as one indivisible motion, not a transaction with two unequal sides. The hinge of the verse is the second line's instrument: śuddha mane ālovatāṁ — 'confessing with a pure mind'. Forgiveness here is not declared and forgotten; it is verified through ālocanā, honest interior scrutiny. The test of whether the forgiveness was real is supplied by the verse itself: muja mana vera na thāya — no vaira remains in the mind. Hostility, the karmic residue that outlasts the quarrel, is the precise thing being audited, and its absence is offered as the felt proof that the sāmāyika's equanimity has actually taken hold inside the practitioner before the vow is released.",
+    "doctrinalContext": "The verse rests on two load-bearing Jain doctrines. First, the ṣaḍ-jīva-nikāya classification (Daśavaikālika ch. 4; cf. Tattvārtha-sūtra II) establishes that sentience extends even to one-sensed sthāvara bodies, so ahiṁsā — and therefore the duty to seek their pardon — is owed to all six. Second, the verse operationalises kaṣāya-doctrine: vaira is the lingering trace of krodha (anger), one of the four passions that bind karma; mere ritual recital cannot remove it, only ālocanā performed with a śuddha citta can. The verse therefore states the success-condition of forgiveness in psychological terms — the vanishing of internal enmity — echoing the canonical 'veraṁ majjha na keṇai' ('I bear enmity toward none'). Equanimity (sāmya), the very substance of sāmāyika, is here shown to be incompatible with retained hostility: the two cannot occupy one mind.",
+    "practicalRelevance": "As you close a sāmāyika, do not let this line pass as a formula. Pause on ālovatāṁ: actually run your mind over the day's frictions and ask, honestly, whether any grudge is still lodged there. The verse gives you a concrete pass/fail — if vaira still stirs, the forgiveness was verbal, not real, and the work is unfinished. Returning to ordinary life with 'vera na thāya' is the measurable fruit you carry out of the vow.",
+    "crossReferences": [
+      {
+        "text": "Khāmemi savva-jīve, savve jīvā khamantu me; mittī me savva-bhūesu, veraṁ majjha na keṇai",
+        "source": "Āvaśyaka / Pratikramaṇa tradition (universal-forgiveness gāthā)"
+      },
+      {
+        "text": "Ṣaḍjīvanikāya adhyayana — the six classes of living beings",
+        "source": "Daśavaikālika-sūtra, chapter 4"
+      },
+      {
+        "text": "Jīva classification into trasa and sthāvara (one- to five-sensed)",
+        "source": "Tattvārtha-sūtra, adhyāya II"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "A Study of the Philosophy of Jainism — Classifications of the Jīva (trasa / sthāvara, the six life-bodies)",
+      "url": "https://www.wisdomlib.org/jainism/essay/a-study-of-the-philosophy-of-jainism/d/doc242114.html",
+      "type": "scholarship",
+      "consultedFor": "Verifying the ṣaḍ-jīva-nikāya structure underlying 'chavviha jīvanikāya' — five one-sensed sthāvara classes plus mobile trasa beings."
+    },
+    {
+      "title": "Alocana / Ālocanā — definitions (Sanskrit, Jainism, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/alocana",
+      "type": "dictionary",
+      "consultedFor": "Etymology and sense of ā-√loc / ālocanā ('to disclose, scrutinize, confess') glossing 'ālovatāṁ'."
+    },
+    {
+      "title": "Living Being (Jīva–Soul) — the six-fold classification of jīvas",
+      "url": "https://jainworld.com/languages/jw-in-world-languages/english/jain-philosophy/fundamentals-tattvas/living-being-jiv-soul/",
+      "type": "translation",
+      "consultedFor": "Cross-checking the standard enumeration of earth-, water-, fire-, air-, plant-bodied and trasa beings."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is an Old-Gujarati doha rather than Prakrit; word-forms (mane, muja, thāya) are vernacular and glossed accordingly. The doubled 'ખમી' is read as a deliberate emphatic/reciprocal repetition (forgive ↔ be forgiven); some recitations and printings vary the second occurrence's vowel length or read it as 'ખમ્યો/ખમું', so treat the exact form as edition-dependent. 'શુદ્ધ મને' is taken as instrumental ('with a pure mind'); a minority reading construes 'મને' as the dative 'to me', which does not change the overall sense. Per the tradition knowledge base, the book's orthography (છવ્વિહ, આલોવતાં) is preserved verbatim and not normalised. Source URLs point to general reference repositories, not to a critical edition of this specific gāthā; gāthā numbering in other editions may differ."
+}

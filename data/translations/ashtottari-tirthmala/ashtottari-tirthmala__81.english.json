@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/81",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Pārśva at Khambhat, whose miraculous power is still alive there, and I praise Lord Mahāvīra on the peak of Mount Pāvā — he who is like cooling water on the wildfire of our suffering.",
+  "recitation": "sannihiya pāḍiheraṁ pāsaṁ vandāmi thaṁbhaṇapuraṁmi | pāvaya girivara sihare, duha dava nīraṁ thuṇe vīraṁ ||",
+  "wordByWord": [
+    {
+      "token": "સન્નિહિય",
+      "translit": "sannihiya",
+      "gloss": "present, at hand, ever-manifest (not withdrawn)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sannihiya < Sanskrit sannihita, 'placed near, present, manifest' (sam + ni + √dhā)",
+      "notes": "Qualifies Pārśva's miraculous attendance as actively present at the shrine."
+    },
+    {
+      "token": "પાડિહેરં",
+      "translit": "pāḍiheraṁ",
+      "gloss": "miraculous attribute / divine attendance (prātihārya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāḍihera < Sanskrit prātihārya, the wonder-working accompaniment of a Jina",
+      "notes": "Here a singular sense — 'manifest miraculous power' — rather than strictly the eight mahā-prātihārya enumeration."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva (the 23rd Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Pāsa < Sanskrit Pārśva; -ṁ is the accusative ending, object of vandāmi",
+      "notes": ""
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow to, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "√vand 'to praise, salute', present 1st sg.; identical Prakrit/Sanskrit form",
+      "notes": "One of the hymn's recurring homage-verbs."
+    },
+    {
+      "token": "થંભણપુરંમિ",
+      "translit": "thaṁbhaṇapuraṁmi",
+      "gloss": "in Stambhanapura (Khambhat / Cambay), locative",
+      "partOfSpeech": "noun",
+      "etymology": "Stambhana ('stilling, fixing') + pura ('town') + Prakrit locative -mmi; lit. 'town of the stilling [Pārśva]'",
+      "notes": "Modern Khambhat, Gujarat; the famed Stambhana-Pārśva image-shrine."
+    },
+    {
+      "token": "પાવય",
+      "translit": "pāvaya",
+      "gloss": "Pāvā (Mount Pāvā / Pāvā-giri)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Pāvaya; here the place-name Pāvā, in compound with girivara",
+      "notes": "Read as Pāvāgiri (the hill) given the following 'mountain-peak'; see notes for an alternative."
+    },
+    {
+      "token": "ગિરિવર",
+      "translit": "girivara",
+      "gloss": "the excellent / best of mountains",
+      "partOfSpeech": "compound",
+      "etymology": "giri ('mountain') + vara ('best, excellent'); karmadhāraya compound",
+      "notes": ""
+    },
+    {
+      "token": "સિહરે",
+      "translit": "sihare",
+      "gloss": "on the peak / summit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sihara < Sanskrit śikhara ('peak'), locative singular -e",
+      "notes": ""
+    },
+    {
+      "token": "દુહ",
+      "translit": "duha",
+      "gloss": "suffering, sorrow (duḥkha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit duha < Sanskrit duḥkha; first member of the compound duha-dava-nīraṁ",
+      "notes": ""
+    },
+    {
+      "token": "દવ",
+      "translit": "dava",
+      "gloss": "forest fire, wildfire (dāva / davāgni)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dava < Sanskrit dāva ('forest conflagration')",
+      "notes": "Middle member of the compound; the blaze that suffering is likened to."
+    },
+    {
+      "token": "નીરં",
+      "translit": "nīraṁ",
+      "gloss": "water (that quenches it), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit nīra ('water'); -ṁ accusative, in apposition to vīraṁ",
+      "notes": "Final member: 'water for the wildfire of suffering' — an epithet of Vīra."
+    },
+    {
+      "token": "થુણે",
+      "translit": "thuṇe",
+      "gloss": "I praise, I extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇai < Sanskrit √stu ('to praise'), present 1st sg.",
+      "notes": "Parallel to vandāmi in the first line."
+    },
+    {
+      "token": "વીરં",
+      "translit": "vīraṁ",
+      "gloss": "Vīra (Mahāvīra, the 24th Tīrthaṅkara), accusative",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Vīra ('hero'); -ṁ accusative, object of thuṇe",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "Pārśva, whose miraculous power is ever-present, I bow to in Stambhanapura; on the peak of the excellent mountain Pāvā I praise Vīra, the water for the wildfire of suffering.",
+  "idiomaticTranslation": "At Stambhanapura I bow low to Pārśva, whose wonder-working presence is still alive there; and on the summit of holy Mount Pāvā I sing the praises of Vīra — the very water that quenches the forest-fire of all sorrow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single gāthā strings two beads at once, pairing two beloved western-Indian shrines. Its first line bows to Pārśva 'at Stambhanapura' (Khambhat) and qualifies him as sannihiya-pāḍiheraṁ — one whose miraculous attendance is sannihita, 'present, at hand, never withdrawn.' The phrase does precise devotional work: the Stambhana-Pārśva image is famed in tradition as a still-active, wonder-working presence (recovered, the legend runs, by Abhayadevasūri), so the poet does not merely name the site but testifies that its divine power is felt here and now. The second line lifts the eye 'to the peak of the excellent mountain Pāvā' and praises Vīra — Mahāvīra. The compound duha-dava-nīraṁ is the verse's jewel: duḥkha (suffering) is a dāva, a forest wildfire that consumes the soul's world; Vīra is the nīra, the flood of water that puts it out. The stock davāgni–nīra figure — familiar from the Bhaktāmara and Kalyāṇamandira stotras — is here compressed into three syllabic beats and fixed onto Mahāvīra himself, who is not merely worshipped but identified as the cooling flood over the blaze of saṁsāric pain. Note the deliberate symmetry of the two motions: Pārśva is reached by going down to him (vandāmi, 'I bow' — approach), Vīra by lifting the voice (thuṇe, 'I extol' — utterance). The two great Jinas of this hymn's special affection, the 23rd and 24th Tīrthaṅkaras, are thus honoured in one breath — one at the shore-town of Khambhat, one on a forested summit.",
+    "doctrinalContext": "Two verse-specific points stand out. First, sannihiya-pāḍiheraṁ affirms the living potency of the pratimā (image): for this Mūrtipūjaka tradition the consecrated Jina-image is a real channel through which the Jina's miraculous presence remains 'at hand', not a mere memorial. Second, duha-dava-nīraṁ encodes the soteriology of stuti itself: the Jina is salvific not as a granter of worldly boons but as the principle that extinguishes duḥkha — praising him cools the inner fires of rāga and dveṣa, the true fuel of suffering. The verse therefore moves devotion from petition to purification.",
+    "practicalRelevance": "Let the two halves be two inner motions: first physically bow toward Pārśva, then, naming Vīra, deliberately picture the davāgni–nīra image and let it cool whatever agitation you carry into the prayer hall. The verse reminds the reciter that pilgrimage and praise exist to quench the wildfire of one's own sorrow, not to win worldly ends.",
+    "crossReferences": [
+      {
+        "text": "Bhaktāmara Stotra, v.27 (the 'forest-fire of karma' / dāvānala image)",
+        "source": "Mānatuṅgasūri"
+      },
+      {
+        "text": "Kalyāṇamandira Stotra (water-quenching-fire imagery applied to Pārśva)",
+        "source": "Siddhasena Divākara (attrib.)"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra (devotion to Pārśva as remover of affliction)",
+        "source": "Bhadrabāhusvāmī (attrib.); cf. Nava Smaraṇa §3.5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Khambhat Tirth — Stambhana Pārśvanātha",
+      "url": "https://jainsite.com/jain-tirth/khambhat-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Stambhanapura with Khambhat and the legend of the still-active Stambhana-Pārśva image"
+    },
+    {
+      "title": "Discover Stambhan Parshwanath Temple",
+      "url": "https://jainsattva.com/jain-temples/discover-stambhan-parshwanath-temple/",
+      "type": "scholarship",
+      "consultedFor": "History of the Stambhana-Pārśva image and its recovery by Abhayadevasūri"
+    },
+    {
+      "title": "Sthambhan Parshwanath Mahatmya (book summary)",
+      "url": "https://jaingpt.org/knowledge/sthambhan_parshwanath_mahatmya_022966_022966",
+      "type": "scholarship",
+      "consultedFor": "Traditional mahātmya of the Stambhana-Pārśva tīrtha"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses for sannihita, prātihārya, dāva, nīra, śikhara and √stu"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse honours two sites, though the preface lists v.81 only as 'Stambhanapura Pārśva': line 1 = Pārśva at Stambhanapura (Khambhat), line 2 = Vīra (Mahāvīra) at Pāvā. 'pāvaya girivara sihare' ('on the peak of the excellent mountain Pāvā') is read as Pāvā-giri / Pāvāgiri (Pawagadh, Gujarat) because of 'mountain-peak' and the surrounding western-Indian geography; an alternative reads pāvaya as Pāvā(purī), Mahāvīra's nirvāṇa-place, but that is a town, not a hilltop, so the mountain reading is preferred — flagged uncertain. 'pāḍiheraṁ' = Sanskrit prātihārya, here in the sense 'manifest miraculous attendance' rather than the formal aṣṭa-mahāprātihārya count. 'duha dava nīraṁ' is taken as a single tatpuruṣa epithet of Vīra (duḥkha-dāva-nīra, 'water for the wildfire of suffering') though written as three words; orthography preserved verbatim from the book."
+}

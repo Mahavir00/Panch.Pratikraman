@@ -1,0 +1,222 @@
+{
+  "shlokaId": "samayik-parvani/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow, again and again, to every monk, nun, layman and laywoman anywhere in the human world who lives by the teaching of the passionless Lord and helps others live by it too.",
+  "recitation": "aḍhī-dvīpane viṣe sādhu, sādhvī, śrāvaka, śrāvikā je koi prabhu śrī-vītarāga-devanī ājñā pāle, palāve, bhaṇe, bhaṇāve, anumode, tehne mārī trikāla vandanā hojo.",
+  "wordByWord": [
+    {
+      "token": "અઢીદ્વીપને",
+      "translit": "aḍhī-dvīpane",
+      "gloss": "to/within the two-and-a-half continents (the human-inhabited world)",
+      "partOfSpeech": "compound",
+      "etymology": "Gujarati aḍhī ('two-and-a-half', from Sanskrit ardha-tṛtīya) + dvīpa ('continent') + oblique marker -ne; the adhāī-dvīpa of Jain cosmology.",
+      "notes": "Glossed in the preface; bounds the homage to exactly the region where the four-fold Saṅgha can exist."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "in, within",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati postposition from Sanskrit viṣaye ('in the sphere/scope of'); pairs with the preceding oblique to mean 'throughout'.",
+      "notes": ""
+    },
+    {
+      "token": "સાધુ",
+      "translit": "sādhu",
+      "gloss": "monks",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sādhu, 'one who accomplishes (the goal)', from root sādh-; a fully ordained male ascetic.",
+      "notes": "First member of the four-fold Saṅgha."
+    },
+    {
+      "token": "સાધ્વી",
+      "translit": "sādhvī",
+      "gloss": "nuns",
+      "partOfSpeech": "noun",
+      "etymology": "Feminine of sādhu; an ordained female ascetic.",
+      "notes": ""
+    },
+    {
+      "token": "શ્રાવક",
+      "translit": "śrāvaka",
+      "gloss": "laymen (devout householders)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śrāvaka, 'a hearer/listener', from root śru- ('to hear'); the lay male who hears and keeps the teaching.",
+      "notes": ""
+    },
+    {
+      "token": "શ્રાવિકા",
+      "translit": "śrāvikā",
+      "gloss": "laywomen (devout householders)",
+      "partOfSpeech": "noun",
+      "etymology": "Feminine of śrāvaka; completes the chatur-vidha saṅgha.",
+      "notes": "That the reciter — herself a śrāvaka/śrāvikā — bows to her own class is doctrinally pointed (see commentary)."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "who(ever)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati relative pronoun from Sanskrit ya-; opens the qualifying clause.",
+      "notes": ""
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any, anyone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati indefinite pronoun from Sanskrit ko'pi; 'je koi' = 'whosoever'.",
+      "notes": "Universalizes the homage — name and sect are irrelevant; only the relation to the teaching counts."
+    },
+    {
+      "token": "પ્રભુ",
+      "translit": "prabhu",
+      "gloss": "the Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit prabhu ('master, lord'), from pra- + bhū-; an honorific epithet here qualifying the Vītarāga-deva.",
+      "notes": "Construes with the following genitive: 'the command of the Lord, the venerable Vītarāga-deva.'"
+    },
+    {
+      "token": "શ્રીવીતરાગદેવની",
+      "translit": "śrī-vītarāga-devanī",
+      "gloss": "of the venerable passionless God (the Jina)",
+      "partOfSpeech": "compound",
+      "etymology": "śrī (auspicious honorific) + vītarāga ('one whose rāga/attachment has departed', vi- + ita + rāga) + deva ('god') + Gujarati genitive -nī.",
+      "notes": "Vītarāga names the Jina precisely by the absence of passion — the very quality His ājñā transmits."
+    },
+    {
+      "token": "આજ્ઞા",
+      "translit": "ājñā",
+      "gloss": "command, injunction",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ājñā ('order'), from ā- + root jñā- ('to know/declare'); the authoritative teaching of the Jina.",
+      "notes": "The grammatical object of all five following verbs."
+    },
+    {
+      "token": "પાલે",
+      "translit": "pāle",
+      "gloss": "keeps, observes (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati pālvuṁ, from Sanskrit pālayati ('protects, observes'), root pāl-; 3rd-person present.",
+      "notes": "Self-practice: doing oneself (karaṇa)."
+    },
+    {
+      "token": "પલાવે",
+      "translit": "palāve",
+      "gloss": "causes (others) to keep it",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of pālvuṁ ('makes (someone) observe'); Gujarati causative in -āv-.",
+      "notes": "Causing another to do (kāraṇa)."
+    },
+    {
+      "token": "ભણે",
+      "translit": "bhaṇe",
+      "gloss": "studies / recites / learns (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati bhaṇvuṁ, from Sanskrit/Prakrit bhaṇati ('says, recites, studies'), root bhaṇ-.",
+      "notes": "Extends the same triad from conduct (pālvuṁ) to knowledge (jñāna)."
+    },
+    {
+      "token": "ભણાવે",
+      "translit": "bhaṇāve",
+      "gloss": "teaches / causes (others) to learn it",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of bhaṇvuṁ; 'makes (someone) study/recite'.",
+      "notes": "Causing another's learning (kāraṇa applied to jñāna)."
+    },
+    {
+      "token": "અનુમોદે",
+      "translit": "anumode",
+      "gloss": "approves of / rejoices in (it)",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit anumodate ('rejoices after, approves'), anu- + root mud- ('to be glad'); Gujarati anumodvuṁ.",
+      "notes": "The third mode, anumodanā — moral participation by glad approval, even without acting."
+    },
+    {
+      "token": "તેહને",
+      "translit": "tehne",
+      "gloss": "to them, to those (souls)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati teh ('that/those', from Sanskrit tad-) + dative -ne.",
+      "notes": "Gathers the whole qualified set as the recipients of homage."
+    },
+    {
+      "token": "મારી",
+      "translit": "mārī",
+      "gloss": "my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person possessive (feminine, agreeing with vandanā), from Sanskrit madīya / mama.",
+      "notes": ""
+    },
+    {
+      "token": "ત્રિકાલ",
+      "translit": "trikāla",
+      "gloss": "threefold (past-present-future) / at all three times",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit tri ('three') + kāla ('time'); adverbially qualifies the obeisance.",
+      "notes": "Glossed in the preface; here it makes the single bow span all time."
+    },
+    {
+      "token": "વંદના",
+      "translit": "vandanā",
+      "gloss": "homage, obeisance",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vandanā, from root vand- ('to praise, salute reverently').",
+      "notes": ""
+    },
+    {
+      "token": "હોજો",
+      "translit": "hojo",
+      "gloss": "may there be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati benedictive/optative of thavuṁ–hovuṁ ('to be'), from Sanskrit bhavatu; expresses a wish, not a statement.",
+      "notes": "Turns the line into an aspiration: 'may my threefold homage be (offered) to them.'"
+    }
+  ],
+  "literalTranslation": "Within the two-and-a-half continents, those monks, nuns, laymen, laywomen — whosoever — who keep the command of the Lord, the venerable Vītarāga-deva, who cause it to be kept, who study it, who cause it to be studied, who approve of it: to them may my threefold homage be.",
+  "idiomaticTranslation": "To every monk and nun, every devout layman and laywoman anywhere in the inhabited human world — whoever keeps the command of the passionless Lord, leads others to keep it, learns it, teaches it, or simply rejoices in it — to all of them I offer my homage, across past, present, and future.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous lines confessed disrespect to the implements of knowledge, this line turns outward and upward into the first of the closing salutations — and its object is deliberately surprising. The reciter does not here bow to the Jinas, but to the four-fold Saṅgha: monks, nuns, laymen, and laywomen alike. A śrāvaka thus bows to fellow śrāvakas and śrāvikās — homage offered not for rank but for fidelity. The single criterion is stated with care: 'je koi… āṇā pāle' — 'whosoever keeps the command.' Identity, name, and standing are dissolved into 'je koi' (anyone at all); what is venerated is the relation to the Vītarāga's ājñā. The verse names that relation in five graded verbs that fall into two pairs plus a hinge. In conduct: pāle (one keeps it oneself) and palāve (one leads others to keep it). In knowledge: bhaṇe (one learns/recites it) and bhaṇāve (one teaches it). And anumode (one gladly approves it) crowns both — admitting into the circle of honour even the soul who can neither practise heroically nor teach, but who rejoices at the teaching upheld. The benedictive hojo ('may it be') and the trikāla scope make the bow an aspiration rather than a single act: the reciter wishes her reverence to reach these souls through all time. The geographic clamp aḍhī-dvīpa is not idle — it marks the exact bounds of the human realm where such a Saṅgha can arise, so the homage is at once cosmically wide and precisely placed.",
+    "doctrinalContext": "The line quietly applies the cardinal Jain principle of threefold agency — doing oneself (karaṇa), causing another to do (kāraṇa), and approving what is done (anumodanā) — but inverts its usual polarity. That triad is most often invoked to show how karmic guilt attaches not only to the doer but to the instigator and the approver. Here the very same structure is turned to the accrual of merit: pāle/palāve and bhaṇe/bhaṇāve are the doer-and-causer pair for conduct and for knowledge respectively, and anumode is pure anumodanā — meritorious glad approval. The verse thereby teaches that upholding the teaching is not the monopoly of the heroically observant: one who merely rejoices in another's right practice shares in its worth. Equally pointed is the standard of veneration — āṇā, the command. This is the ājñā-pradhāna outlook of Jainism, in which devotion is measured by obedience to the Vītarāga's word rather than by personal charisma; the epithet vītarāga underlines that the command is trustworthy precisely because its giver is free of attachment and aversion.",
+    "practicalRelevance": "Reciting this, a practitioner widens reverence past the visible monastic to every unseen soul anywhere who is loyal to the teaching — including ordinary householders like herself. The five verbs are also a self-audit: am I keeping the teaching, helping others keep it, learning it, teaching it, or at least gladly approving it? If only the last is honestly true today, the verse affirms that this too is worthy. It trains the mind to greet another's good practice with anumodanā rather than indifference or envy.",
+    "crossReferences": [
+      {
+        "text": "The four-fold saṅgha (sādhu, sādhvī, śrāvaka, śrāvikā) extolled as saṅgha-nagara / saṅgha-ratha / saṅgha-cakra",
+        "source": "Nandī-sūtra Sajjhāy (Pakkhī), Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha)"
+      },
+      {
+        "text": "Threefold agency — doing, causing, and approving (karaṇa–kāraṇa–anumodanā) across mind, speech, and body",
+        "source": "Standard Jain ethics; HereNow4U exposition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim wording of the verse and its placement as the first trikāla-vandanā among the closing Sūtra salutations."
+    },
+    {
+      "title": "Navkar Mahamantra: Media & Methods (threefold karaṇa-kāraṇa-anumodanā across mind/speech/body)",
+      "url": "https://www.herenow4u.net/index.php?id=97001",
+      "type": "scholarship",
+      "consultedFor": "The doctrine of doing/causing/approving and the meaning of anumodanā as meritorious approval."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots and derivations: vand-, ājñā, anu-mud- (anumodate), vītarāga, pālayati, bhaṇati."
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org)",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Adhāī-dvīpa cosmology bounding the human realm and the constitution of the chatur-vidha saṅgha."
+    }
+  ],
+  "translatorConfidence": 0.91,
+  "notes": "The verse is in classical liturgical Gujarati (not Prakrit), so glosses are well-attested and confidence is high. Although the input labels it 'number 3', in the book's two-block layout this is the prose-Sūtra item (3) — the first trikāla-vandanā to the four-fold Saṅgha — not gāthā v.3; this reading is confirmed by context (the preceding lines confess jñāna-dravya āśātanā, item 2, and the following salutes the viharamāna Jinas, item 4). 'prabhu' is read as an honorific epithet construing with the genitive śrī-vītarāga-devanī ('the command of the Lord, the venerable Vītarāga-deva'); a reading of 'prabhu' as a free-standing vocative is possible but weaker. Exact orthography of the source is preserved verbatim per the book's fidelity rules."
+}

@@ -1,0 +1,170 @@
+{
+  "shlokaId": "ashtottari-tirthmala/33",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Every one of the countless ever-existing Jina-images in the universe carries just one of four names — Ṛṣabha, Candrānana, Vardhamāna or Vārisheṇa.",
+  "recitation": "Usabhā Candāṇaṇā, Vaddhamāṇa tahaya siri Vārisenā ya. Savvā sāsaya paḍimā, puṇa puṇaravi eya cau-nāmā.",
+  "wordByWord": [
+    {
+      "token": "ઉસભા",
+      "translit": "usabhā",
+      "gloss": "Ṛṣabha (the first of the four eternal Jina-names)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit usabha < Sanskrit ṛṣabha, 'bull', the standard name of the first Tīrthaṅkara; here the proper name of the first śāśvata Jina.",
+      "notes": "Nominative plural / list-form, since all eternal images named 'Ṛṣabha' are meant collectively."
+    },
+    {
+      "token": "ચંદાણણા",
+      "translit": "candāṇaṇā",
+      "gloss": "Candrānana ('moon-faced'), the second eternal Jina-name",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit candāṇaṇa < Sanskrit candra ('moon') + ānana ('face') = 'one whose face is [serene as] the moon'.",
+      "notes": ""
+    },
+    {
+      "token": "વદ્ધમાણ",
+      "translit": "vaddhamāṇa",
+      "gloss": "Vardhamāna ('ever-increasing'), the third eternal Jina-name",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaddhamāṇa < Sanskrit vardhamāna, present participle of vṛdh 'to grow, increase'; also the personal name of Mahāvīra, but here used as the timeless śāśvata name.",
+      "notes": "The doubled conjunct -ddh- is the regular Prakrit assimilation of Sanskrit -rdh-."
+    },
+    {
+      "token": "તહય",
+      "translit": "tahaya",
+      "gloss": "and also; likewise",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tahā (< Sanskrit tathā, 'so, likewise') + the enclitic conjunctive ya (< ca, 'and'); a connective joining the third and fourth names.",
+      "notes": "Purely additive here, linking 'Vardhamāna' to 'Vārisheṇa'; not the locative 'there'."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "venerable; illustrious (śrī)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Sanskrit śrī, 'splendour, glory, the honorific Śrī'; an honorific prefix of reverence.",
+      "notes": "Functions as an honorific before the fourth name."
+    },
+    {
+      "token": "વારિસેણા",
+      "translit": "vārisenā",
+      "gloss": "Vārisheṇa, the fourth eternal Jina-name",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vārisena < Sanskrit vāriṣeṇa, conventionally read as vāri ('water') + seṇa/senā ('army, host'); the proper name of the fourth śāśvata Jina.",
+      "notes": "Spelt with single -s- per the book's orthography."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca, the connective 'and', closing the list of four names.",
+      "notes": ""
+    },
+    {
+      "token": "સવ્વા",
+      "translit": "savvā",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva, 'all, every'; here nominative plural feminine agreeing with paḍimā.",
+      "notes": "Stresses that without exception every eternal image is meant."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal (śāśvata)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya < Sanskrit śāśvata, 'perpetual, beginningless and endless'.",
+      "notes": "Glossary term; qualifies the images as the cosmic, never-made shrines."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "images (of the Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā < Sanskrit pratimā, 'image, icon, likeness'; with retroflex -ḍ- from -t- in the cluster.",
+      "notes": "Together with sāsaya forms the glossary compound śāśvata-pratimā."
+    },
+    {
+      "token": "પુણ",
+      "translit": "puṇa",
+      "gloss": "again; moreover",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit puṇa < Sanskrit punaḥ, 'again, further'.",
+      "notes": "Paired with the following puṇaravi for emphatic reiteration."
+    },
+    {
+      "token": "પુણરવિ",
+      "translit": "puṇaravi",
+      "gloss": "again and again; over and over",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit puṇaravi < Sanskrit punar api, 'yet again, repeatedly'.",
+      "notes": "The doubled puṇa puṇaravi conveys 'without exception, time after time' — every image, in every age."
+    },
+    {
+      "token": "એય",
+      "translit": "eya",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit eya < Sanskrit eta, demonstrative 'these', pointing back to the four names just listed.",
+      "notes": ""
+    },
+    {
+      "token": "ચઉનામા",
+      "translit": "cau-nāmā",
+      "gloss": "[bear] the four names; four-named",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit cau (< Sanskrit catur, 'four') + nāma (< nāman, 'name') = 'having [these] four names'; predicate adjective of savvā paḍimā.",
+      "notes": "The doctrinal kernel: the totality of eternal images reduces to exactly four names."
+    }
+  ],
+  "literalTranslation": "Ṛṣabha, Candrānana, Vardhamāna, and likewise venerable Vārisheṇa — all the eternal images, again and again, are [of just] these four names.",
+  "idiomaticTranslation": "Ṛṣabha, Candrānana, Vardhamāna, and the illustrious Vārisheṇa: by these — and only these — four names are all the eternal images known, over and over, throughout every age and every world.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just declared the eternal images of the heavens and cosmic realms to be 'asaṅkha' — innumerable — the preceding verse leaves a natural question: if they cannot be counted, how can they be saluted by name? This verse answers it. However boundless their number, every śāśvata-pratimā carries one of only four names: Usabha (Ṛṣabha), Candāṇaṇa (Candrānana), Vaddhamāṇa (Vardhamāna) and siri Vārisheṇa. The doubled adverb 'puṇa puṇaravi' ('again and yet again') is doing precise work: it tells the reciter that this naming holds not once but perpetually — in every region, in every up-and-down half-cycle of time, the same four names recur on the eternal icons, which are themselves never carved and never destroyed. So the four names function less as biographies of four individuals than as the fixed, beginningless titles under which the eternal Jina is enshrined everywhere. The single honorific 'siri' before Vārisheṇa rounds the list metrically and devotionally without disturbing the count. With one tight gāthā the hymn thus converts an uncountable multitude of shrines into a graspable act of homage — bow to these four names and you have bowed to them all — before the next verses turn from the eternal Jinas to the twenty living, presently-teaching viharamāṇa Jinas of Mahāvideha.",
+    "doctrinalContext": "The verse encodes the classical Śvetāmbara teaching on śāśvata (eternal, uncreated) Jina-images, set out in the cosmographic Aṅgabāhya texts (Jīvābhigama, Jambūdvīpa-prajñapti): the eternal shrines on Meru, Nandīśvara, Kuṇḍala, Rucaka and the heavenly realms enshrine images that have no beginning and no end, and these always bear exactly four names — Ṛṣabha, Candrānana, Vāriṣeṇa and Vardhamāna. They are distinct from the twenty-four historically-arising Tīrthaṅkaras of any given Bharata or Airāvata; their names neither commemorate a particular life nor change with the time-cycle. The point harmonises two Jain axioms — the universe is beginningless and self-sustaining (no creator), yet perfectly ordered and repetitive — so that veneration of the Jina is shown to be co-eternal with the cosmos itself.",
+    "practicalRelevance": "When chanting this line the reciter is given a complete, portable object of worship: rather than straining to picture countless shrines, one simply offers reverence to the four eternal names and thereby honours every eternal image at once. It is a small training in the Jain sense of scale — that devotion reaches beyond the visible, present-age Tīrthaṅkaras to a Jina-presence woven permanently into the structure of the worlds.",
+    "crossReferences": [
+      {
+        "text": "Jīvābhigama-sūtra — description of śāśvata Jina-images and their four names",
+        "source": "Aṅgabāhya Āgama (Śvetāmbara canon)"
+      },
+      {
+        "text": "Jambūdvīpa-prajñapti — eternal caityas and images of the cosmic continents",
+        "source": "Upāṅga Āgama (Śvetāmbara canon)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.32 (preceding) — 'asaṅkha' eternal images of the vyantara/jyotiṣka realms",
+        "source": "Mahendrasiṁhasūri, Panch Pratikraman Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Concept of the Jina/Tīrthaṅkara and the recurrence of eternal Tīrthaṅkara-names across time-cycles, including Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna"
+    },
+    {
+      "title": "Jain universe — Jainpedia",
+      "url": "https://jainpedia.org/themes/principles/jain-universe/",
+      "type": "scholarship",
+      "consultedFor": "The beginningless, non-originating and symmetrically repetitive Jain cosmos that grounds the doctrine of eternal (śāśvata) images"
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: śāśvata, pratimā, candra+ānana, vardhamāna, punar api, catur, nāman"
+    },
+    {
+      "title": "Tīrtha (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Tirtha_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Jain sacred-image and shrine context for the śāśvata-pratimā enumeration within a tīrtha-mālā hymn"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The four-name doctrine is firmly attested in Śvetāmbara cosmographic Āgamas and the verse names them explicitly (Usabha, Candāṇaṇa, Vaddhamāṇa, Vārisheṇa); one lower-quality web result confused these with a different 'eternal Tīrthaṅkara' set (Ṛṣabha/Nemi/Śānti/Mahāvīra), which is NOT the reading here — the verse text itself is authoritative. 'tahaya' is read as the additive 'tathā ca' (and also) per its role in the name-list, not the locative 'there'. 'Vārisheṇa' is spelt with a single -s- (vārisenā) per the book's orthography and left un-normalised. The exact Sanskrit gloss of 'Vāriṣeṇa' (vāri 'water' + seṇa 'host') is the conventional reading; no colophon-level certainty on the etymology."
+}

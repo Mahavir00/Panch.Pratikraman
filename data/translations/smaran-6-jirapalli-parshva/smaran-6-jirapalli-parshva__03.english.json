@@ -1,0 +1,166 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Your very Name, O Pārśva, crushes and scatters wicked ghosts and demons, utterly destroying them.",
+  "recitation": "addē maddē puro duṣṭa, vighaṭṭe varṇa-paṅktivat | duṣṭān preta-piśācādīn, praṇāśayati te'bhidhā ||",
+  "wordByWord": [
+    {
+      "token": "અદ્દે",
+      "translit": "addē",
+      "gloss": "(mantra-syllable) crush! — a bīja imperative kept verbatim",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakritized imperative felt as cognate with Skt. √mṛd 'to crush/grind'; here a mantra-command, not ordinary speech.",
+      "notes": "Paired with maddē as a bīja-string; per the sutra's note such syllables in vv.3–4, 7 are preserved, not translated."
+    },
+    {
+      "token": "મદ્દે",
+      "translit": "maddē",
+      "gloss": "(mantra-syllable) smash! / grind down!",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit madda < Skt. mardana, √mṛd 'to crush, pound, trample'.",
+      "notes": "The addē-maddē pair voices the Name's pounding, pulverizing action on the hostile being."
+    },
+    {
+      "token": "પુરો",
+      "translit": "puro",
+      "gloss": "in front, before (you)",
+      "partOfSpeech": "adverb",
+      "etymology": "puraḥ (indeclinable), 'before, in front, forward'; final visarga sandhi → puro before duṣṭa.",
+      "notes": ""
+    },
+    {
+      "token": "દુષ્ટ",
+      "translit": "duṣṭa",
+      "gloss": "the wicked one (the malign being standing before)",
+      "partOfSpeech": "noun",
+      "etymology": "past participle of √duṣ 'to spoil, be corrupt'; 'depraved, evil, hostile'.",
+      "notes": "Singular here, picked up as the plural duṣṭān in line 2."
+    },
+    {
+      "token": "વિઘટ્ટે",
+      "translit": "vighaṭṭe",
+      "gloss": "shatter! / break apart!",
+      "partOfSpeech": "verb",
+      "etymology": "vi- (asunder) + √ghaṭṭ / √ghaṭ; vighaṭṭana 'shattering, breaking to pieces'.",
+      "notes": "Imperative force continuing the mantra-command of addē maddē."
+    },
+    {
+      "token": "વર્ણ",
+      "translit": "varṇa",
+      "gloss": "letters / written syllables (also 'colours')",
+      "partOfSpeech": "noun",
+      "etymology": "√vṛ 'to cover'; varṇa = 'letter of the alphabet, syllable; colour'.",
+      "notes": "First member of the compound varṇa-paṅktivat."
+    },
+    {
+      "token": "પંક્તિવત્",
+      "translit": "paṅktivat",
+      "gloss": "like a row / line",
+      "partOfSpeech": "adverb",
+      "etymology": "paṅkti 'row, line, series' + -vat 'like, resembling'.",
+      "notes": "varṇa-paṅktivat = 'like a row of letters' — the simile for how the foe is broken up and dispersed."
+    },
+    {
+      "token": "દુષ્ટાન્",
+      "translit": "duṣṭān",
+      "gloss": "the wicked (ones)",
+      "partOfSpeech": "noun",
+      "etymology": "accusative plural of duṣṭa (√duṣ); object of praṇāśayati.",
+      "notes": "Governs the appositional list preta-piśāca-ādīn."
+    },
+    {
+      "token": "પ્રેત",
+      "translit": "preta",
+      "gloss": "departed ghosts (the restless dead)",
+      "partOfSpeech": "noun",
+      "etymology": "pra + √i 'gone forth (from life)'; preta 'a departed spirit, ghost'.",
+      "notes": ""
+    },
+    {
+      "token": "પિશાચ",
+      "translit": "piśāca",
+      "gloss": "flesh-eating demons",
+      "partOfSpeech": "noun",
+      "etymology": "piśāca 'a class of demons/goblins', traditionally linked to piśita 'flesh'.",
+      "notes": ""
+    },
+    {
+      "token": "આદીન્",
+      "translit": "ādīn",
+      "gloss": "and the rest, and such (others)",
+      "partOfSpeech": "noun",
+      "etymology": "ādi 'beginning, et cetera', accusative plural; 'beings beginning with these'.",
+      "notes": "Compounded as preta-piśāca-ādīn = 'pretas, piśācas and the like'."
+    },
+    {
+      "token": "પ્રણાશયતિ",
+      "translit": "praṇāśayati",
+      "gloss": "utterly destroys, makes perish",
+      "partOfSpeech": "verb",
+      "etymology": "pra- (intensive) + causative of √naś 'to perish'; praṇāśayati 'causes to be wholly destroyed'.",
+      "notes": "Main finite verb of the couplet; subject is te'bhidhā."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "your",
+      "partOfSpeech": "pronoun",
+      "etymology": "enclitic genitive singular of tvam, 'of you, your'; addressed to Pārśva.",
+      "notes": "In sandhi te + abhidhā → te'bhidhā (avagraha for elided a-)."
+    },
+    {
+      "token": "અભિધા",
+      "translit": "abhidhā",
+      "gloss": "the Name, appellation",
+      "partOfSpeech": "noun",
+      "etymology": "abhi- + √dhā 'to set, designate'; abhidhā 'name, designation, denotation'.",
+      "notes": "te'bhidhā = 'your Name' — the grammatical subject that does the destroying."
+    }
+  ],
+  "literalTranslation": "addē maddē! — before (you), the wicked one: shatter (him) as one (scatters) a row of letters! Your Name destroys the wicked pretas, piśācas and the rest.",
+  "idiomaticTranslation": "addē! maddē! — crush the evil one set before you, break him apart as a written line of letters is wiped away. For your very Name, O Lord, utterly annihilates the wicked — the ghosts, the flesh-eating demons, and all their kind.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 2 set the mantric (hrīṃ) form of Pārśva flanked by his guardian deities, this verse fires the first salvo of that mantra's working power. Line 1 is pure command: the bīja-pair addē maddē — heard as 'crush, grind' (√mṛd) — orders the malign being standing 'before' (puro duṣṭa) to be shattered (vighaṭṭe). The simile varṇa-paṅktivat, 'like a row of letters', is exact and vivid: just as a written line of syllables can be rubbed out or thrown into disorder in an instant, so the hostile presence is dispersed in a stroke. Line 2 then explains the mechanism and is purely declarative: it is your Name (te'bhidhā) that praṇāśayati — wholly destroys — the wicked pretas, piśācas 'and the rest' (ādīn), a deliberately open list that sweeps in every class of malevolent spirit. The architecture is intentional: imperative invocation (what the reciter commands) resolves into doctrinal assurance (why it works). The agent is not the reciter's force but the Name itself, which carries the Lord's protective potency. Note the movement from singular duṣṭa (the one foe before you) to plural duṣṭān (the whole demonic host): the single confrontation is generalized into total protection. This is the verse that earns the hymn its place among the bhayahara (fear-removing) Smaraṇas to Pārśva — the destructive counterpart to verse 4's stambhana ('immobilize') that follows.",
+    "doctrinalContext": "The verse rests on a principle pervasive in Jain protective stotra: the Name/seed-syllable of the Tīrthaṅkara is not a mere label but an efficacious sound-form whose recollection acts. Crucially, the Vītarāga Pārśva does nothing — he neither wills nor fights; it is the abhidhā, the Name as mantra, that destroys. This preserves Jain non-agency of the liberated soul while affirming the real protective fruit of devoted remembrance. The pretas and piśācas are lower, suffering beings of the saṁsāric cycle; their 'destruction' here is their repulsion and the dissolution of the affliction they cause, in keeping with the tradition's protective (not vengeful) aim.",
+    "practicalRelevance": "Recited when the practitioner senses fear, oppression, or a hostile influence, this verse focuses the mind on the Name as the active shield: one does not strain against the threat but lets the Name 'crush and scatter' it, as a line of writing is wiped clean. It trains confidence — the danger before you is no more durable than ink.",
+    "crossReferences": [
+      {
+        "text": "Smaraṇa 6 (this hymn), vv.4 ('stambhaya stambhaya svāhā') and 13 (the hymn 'destroyer of spirits')",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Upasargahara Stotra and Namiūṇa Bhayahara Stotra (Smaraṇas 4–5), the companion bhayahara stotras to Pārśva",
+        "source": "Nava Smaraṇa corpus, Pakkhī pratikramaṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon): abhidhā, puraḥ, varṇa, paṅkti, mardana (√mṛd), praṇāś (pra+√naś)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of abhidhā ('name, appellation'), puraḥ ('before'), varṇa+paṅkti ('row of letters'), and the destroy-verbs."
+    },
+    {
+      "title": "Apte Practical Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon): vighaṭṭana (vi+√ghaṭṭ), duṣṭa (√duṣ), preta, piśāca",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "vighaṭṭana ('shattering'), duṣṭa ('wicked'), and the demon-class terms preta and piśāca."
+    },
+    {
+      "title": "Parshvanatha (23rd Tīrthaṅkara) and his śāsana-devatās",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Pārśva as the addressee whose Name (abhidhā) is invoked, and the protective register of his stotra tradition."
+    },
+    {
+      "title": "Pishacha (class of malevolent flesh-eating spirits in Indian tradition)",
+      "url": "https://en.wikipedia.org/wiki/Pishacha",
+      "type": "scholarship",
+      "consultedFor": "Background on piśāca (and the related preta/bhūta) as the demon-classes the verse names."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "(1) addē maddē are read as bīja-style mantra-imperatives ('crush! smash!', felt as √mṛd / mardana) and are preserved verbatim rather than 'translated', per the sutra-note that bīja-strings in vv.3–4, 7 are mantra-text. (2) Line-1 mood is taken as imperative (addressing the Name/deity to shatter the foe), line 2 as declarative — this is the natural fit but the addē/maddē forms are not standard finite Sanskrit, so the imperative reading is interpretive. (3) varṇa here is rendered 'letters/syllables' (so varṇa-paṅktivat = 'like a row of letters'); varṇa could alternatively mean 'colours', giving 'like a row of colours', but the writing-erasure image reads more naturally with 'letters'. (4) The OCR'd verse is followed faithfully; demon-list is open-ended (ādīn = 'and the rest'). The exact source-book gloss of addē/maddē was not independently confirmed and is flagged accordingly."
+}

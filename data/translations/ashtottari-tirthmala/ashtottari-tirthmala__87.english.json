@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/87",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "High on the golden hill of Jālor, praise Lord Mahāvīra in the ancient Yakṣa shrine raised in King Nāhaḍa's day and lavishly endowed by a lord of wealth.",
+  "recitation": "nava navaï lakkha dhaṇāvaï, aladdhavāse suvanna giri sihare; nāhaḍa niva-kālīṇaṁ, thuṇi vīraṁ jakkhavasahīe.",
+  "wordByWord": [
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "nine",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. nava (9); here the first member of the numeral compound nava-navaï.",
+      "notes": "Read with the next word as nava-navati = 'ninety-nine'."
+    },
+    {
+      "token": "નવઇ",
+      "translit": "navaï",
+      "gloss": "ninety",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit navaï < Skt. navati (90).",
+      "notes": "nava + navaï together = 99 (nava-navati)."
+    },
+    {
+      "token": "લક્ખ",
+      "translit": "lakkha",
+      "gloss": "lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lakkha < Skt. lakṣa (100,000).",
+      "notes": "'ninety-nine lakh' = the sum endowed on / spent for the shrine."
+    },
+    {
+      "token": "ધણાવઇ",
+      "translit": "dhaṇāvaï",
+      "gloss": "lord of wealth (the wealthy patron)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhaṇa-vaï < Skt. dhana-pati, 'master of riches'.",
+      "notes": "Taken as the donor who endowed 99 lakh; the term dhanapati is also an epithet of the wealth-yakṣa Kubera, a resonance fitting a yakṣa-vasahī."
+    },
+    {
+      "token": "અલદ્ધવાસે",
+      "translit": "aladdhavāse",
+      "gloss": "in the abode that cannot be taken away (the imperishable dwelling)",
+      "partOfSpeech": "compound",
+      "etymology": "a- (privative) + laddha (< Skt. labdha, 'obtained/lost') + vāsa (< Skt. vāsa, 'dwelling'), locative -e.",
+      "notes": "Reading uncertain; could instead conceal a proper place-name. Rendered cautiously as a locative 'in the [enduring] abode'. Flagged in notes."
+    },
+    {
+      "token": "સુવન્ન",
+      "translit": "suvanna",
+      "gloss": "gold, golden",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suvanna < Skt. suvarṇa ('good colour', gold).",
+      "notes": "First member of Suvarṇa-giri, the 'Golden Mountain' = Jālor's hill (also Kanakācala/Sonagir)."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "mountain, hill",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit giri.",
+      "notes": "suvanna-giri = Suvarṇagiri, the Jālor fort-hill."
+    },
+    {
+      "token": "સિહરે",
+      "translit": "sihare",
+      "gloss": "on the peak",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sihara < Skt. śikhara ('summit'), locative -e.",
+      "notes": "Locates the shrine on the summit of Suvarṇagiri."
+    },
+    {
+      "token": "નાહડ",
+      "translit": "nāhaḍa",
+      "gloss": "Nāhaḍa (the king's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper noun; the local ruler Nāhaḍa (Nahad), traditionally a successor of Vikramāditya.",
+      "notes": "The Jālor tradition credits King Nāhaḍa with founding the Yakṣavasati (c. V.S. 126–135)."
+    },
+    {
+      "token": "નિવકાલીણં",
+      "translit": "nivakālīṇaṁ",
+      "gloss": "dating from the time of the king",
+      "partOfSpeech": "compound",
+      "etymology": "niva (< Skt. nṛpa, 'king') + kālīṇa (< Skt. kālīna, 'belonging to the time of'), acc. -aṁ.",
+      "notes": "With nāhaḍa: 'belonging to the time of King Nāhaḍa' — qualifying the shrine/image."
+    },
+    {
+      "token": "થુણિ",
+      "translit": "thuṇi",
+      "gloss": "praise! / I praise",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇa- < Skt. √stu ('to praise, eulogize').",
+      "notes": "The hymn's recurring homage-verb; here an imperative/first-person 'praise (I praise) Vīra'."
+    },
+    {
+      "token": "વીરં",
+      "translit": "vīraṁ",
+      "gloss": "Vīra (Lord Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Vīra ('hero'), epithet of the 24th Tīrthaṅkara Mahāvīra; accusative -aṁ as object of thuṇi.",
+      "notes": "The enshrined deity is Mahāvīra, white, in lotus posture, per the Jālor tradition."
+    },
+    {
+      "token": "જક્ખવસહીએ",
+      "translit": "jakkhavasahīe",
+      "gloss": "in the Yakṣa-vasahī (the 'Yaksha shrine')",
+      "partOfSpeech": "compound",
+      "etymology": "jakkha (< Skt. yakṣa, a guardian nature-deity) + vasahī (< Skt. vasati, 'dwelling, temple'), locative -e.",
+      "notes": "The proper name of the temple — Yakṣavasati — on Suvarṇagiri."
+    }
+  ],
+  "literalTranslation": "Ninety-nine lakh [given] by the lord of wealth; in the abode-that-cannot-be-lost, on the peak of the Golden Mountain — [the shrine] of the time of King Nāhaḍa: praise Vīra in the Yakṣa-vasahī.",
+  "idiomaticTranslation": "On the summit of golden Suvarṇagiri stands the Yakṣa-vasahī — an enduring shrine raised in the days of King Nāhaḍa and endowed by a lord of wealth with ninety-nine lakh. There, praise Lord Mahāvīra!",
+  "elaboration": {
+    "verseByVerseCommentary": "Having reached Jālor in the previous verse (jālaüre vīra-jiṇa-bhavaṇo), the hymn now climbs the fort-hill itself. Three concrete particulars pin this bead of the garland to real ground: a place (suvanna-giri-sihare, 'on the peak of the Golden Mountain' — Suvarṇagiri/Kanakācala, the Jālor hill), a patron's munificence (nava-navaï-lakkha, 'ninety-nine lakh' laid out by a dhaṇāvaï, a 'lord of wealth'), and a date by reign (nāhaḍa-niva-kālīṇaṁ, 'from the time of King Nāhaḍa'). The verse-final naming of the temple, jakkha-vasahīe ('in the Yakṣa-vasahī'), supplies the proper noun the whole couplet has been building toward, and the single imperative thuṇi ('praise!') turns description into devotion: the reciter does not merely note the shrine but worships its enshrined Jina, Vīra. The choice of dhaṇāvaï (dhana-pati) is pointed in a yakṣa-shrine: the yakṣa class are guardian wealth-spirits and dhanapati is itself a title of Kubera, so the 'lord of wealth' and the 'ninety-nine lakh' chime with the very name 'Yakṣa-vasahī' — yet the object of praise stays the dispassionate Vīra, not the guardian. The middle phrase aladdhavāse is the verse's one obscurity; read here as 'in the abode that cannot be lost', it lends the perishable, historically founded shrine an aura of permanence.",
+    "doctrinalContext": "This verse exemplifies the hymn's treatment of a-śāśvata (historically founded) tīrthas as against the eternal images: it is precisely the datable king, the named patron and the reckoned endowment that mark this shrine as a human, time-bound work of merit. Two doctrinal threads meet here. First, dāna and temple-patronage (jina-bhakti expressed as bimba/caitya endowment) as a meritorious lay act — the ninety-nine lakh is recorded not as vanity but as devotion materialised. Second, the place of the yakṣa as śāsana-devatā: a guardian deity attends and protects the Jina's shrine, but veneration (thuṇi vīraṁ) is directed only to the vītarāga Tīrthaṅkara, never to the still-saṁsārī guardian — a careful preservation of the Jain hierarchy of worship even inside a temple that bears a yakṣa's name.",
+    "practicalRelevance": "Reaching this bead, the reciter should let thuṇi do its work — actively praise Mahāvīra rather than merely catalogue a site — and remember two cautions it encodes: that lavish giving (the 99 lakh) earns merit only as an expression of bhakti, and that even in a 'Yaksha' shrine the heart's homage belongs to the dispassionate Jina, not to wealth or its guardian spirits.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse 86 — 'jālaüre vīra-jiṇa-bhavaṇo' (the Vīra-Jina temple at Jālor), which this verse continues",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Vicāraśreṇī of Mahendrasūri, cited as also recording the Jālor Yakṣavasati and Aṣṭāpada temples",
+        "source": "Swarnagiri (Jālor) tirth tradition (Shri Mahendrasūrishvarji)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shri Swarnagri Tirth — The Jainsite",
+      "url": "https://jainsite.com/jain-tirth/swarnagri-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Suvarṇagiri/Kanakācala = Jālor, the Yakṣavasati housing Mahāvīra (white, lotus posture), King Nāhaḍa's foundation (V.S. 126–135), and the explicit mention of the 'Ashtottari' of Mahendrasūri"
+    },
+    {
+      "title": "Swarnagiri Jalor — Book Summary, JainGPT",
+      "url": "https://jaingpt.org/knowledge/swarnagiri_jalor_032676_032676",
+      "type": "scholarship",
+      "consultedFor": "Anchalgachchha context for Suvarṇagiri/Jālor, the Yakṣavasati and its successive renovations"
+    },
+    {
+      "title": "Jalore Fort — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jalore_Fort",
+      "type": "scholarship",
+      "consultedFor": "Confirmation that Jālor's hill is historically named Suvarṇagiri/Sonagir/Kanakācala, 'golden mountain'"
+    },
+    {
+      "title": "Pāia-Sadda-Mahaṇṇavo (Comprehensive Prakrit–Hindi Dictionary), H. D. T. Sheth",
+      "url": "https://archive.org/details/PaiaSaddaMahannavoOCRPlusBookmarks",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses: lakkha (lakṣa), suvanna (suvarṇa), giri/sihara (śikhara), jakkha (yakṣa), vasahī (vasati), kālīṇa (kālīna, 'of the time of'), thuṇa (√stu, 'to praise'), navaï (navati)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Site identification is secure: the cited Jālor (Suvarṇagiri/Kanakācala) tradition expressly names this very Aṣṭottarī of Mahendrasūri and the Yakṣavasati of Mahāvīra founded under King Nāhaḍa, matching every datum of the verse. Two readings remain uncertain. (1) 'nava navaï lakkha' is taken as 'ninety-nine lakh' (nava-navati); a reading 'nine [and] ninety lakh' is grammatically possible but yields the same intent (a vast endowment). (2) 'aladdhavāse' is the genuine crux: parsed as a-laddha-vāsa ('the abode that cannot be lost/taken', locative), but it may instead mask a proper place-name or carry a variant reading in other editions; the Anchalgachchha book's orthography is preserved verbatim and not normalised. 'dhaṇāvaï' is read as dhanapati ('lord of wealth', the patron), with a noted secondary resonance with Kubera fitting the yakṣa-vasahī. Exact endowment figure and the patron's name are not independently verified beyond the tradition source."
+}

@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/85",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May Lord Mahāvīra be ever victorious at Satyapura (Sācor), in the wooden shrine that the illustrious king of Kannauj had built.",
+  "recitation": "siri kannaüjja naravai, kāriya bhavaṇaṁmi kīra dārumae;\nterasa vacchara saïe, vīra-jiṇo jayau saccaure.",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "illustrious, glorious (honorific prefix)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit śrī ('splendour, majesty'); here an honorific qualifying the king.",
+      "notes": "Standard auspicious honorific; goes with naravai, not with the Jina."
+    },
+    {
+      "token": "કન્નઉજ્જ",
+      "translit": "kannaüjja",
+      "gloss": "of Kānyakubja (Kannauj)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit Kānyakubja, the great city on the Gaṅgā; here in compound, 'of Kannauj'.",
+      "notes": "Names the patron's realm; forms 'king of Kannauj' with naravai."
+    },
+    {
+      "token": "નરવઇ",
+      "translit": "naravai",
+      "gloss": "king, lord of men",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit naravai < Sanskrit nara-pati (nara 'man' + pati 'lord'); the -pati > -vai shift is regular in Prakrit.",
+      "notes": "Subject/agent of the causative kāriya — the king who had the shrine built."
+    },
+    {
+      "token": "કારિય",
+      "translit": "kāriya",
+      "gloss": "caused to be made, had built",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit past participle < Sanskrit kārita, causative of √kṛ ('to do, make'); literally 'caused-to-be-made'.",
+      "notes": "Causative participle: the king did not build with his own hands but commissioned it."
+    },
+    {
+      "token": "ભવણંમિ",
+      "translit": "bhavaṇaṁmi",
+      "gloss": "in the shrine, in the temple",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative < Sanskrit bhavana ('dwelling, house, temple'), loc. sg. -aṁmi (= Skt. -e).",
+      "notes": "Locative: 'in the temple [the king] had built'; the dwelling of the enshrined Jina."
+    },
+    {
+      "token": "કીર",
+      "translit": "kīra",
+      "gloss": "indeed, so it is said (particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit kīra / kira, emphatic-reportative particle = Sanskrit kila ('verily, reportedly').",
+      "notes": "Metrically convenient filler-emphatic; lends a 'so the tradition holds' nuance to the wooden image."
+    },
+    {
+      "token": "દારુમએ",
+      "translit": "dārumae",
+      "gloss": "made of wood, wooden",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit loc. sg. < Sanskrit dāru-maya ('consisting of wood', dāru 'wood/timber' + -maya 'made of'); from PIE *deru- 'tree, wood'.",
+      "notes": "Locative, agreeing with bhavaṇaṁmi: 'in the wooden shrine'. Tradition equally famous for a wooden image of Mahāvīra at Satyapura — see notes."
+    },
+    {
+      "token": "તેરસ",
+      "translit": "terasa",
+      "gloss": "thirteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit terasa < Sanskrit trayodaśa ('thirteen').",
+      "notes": "Qualifies the count of centuries: 'thirteen [hundreds]'."
+    },
+    {
+      "token": "વચ્છર",
+      "translit": "vacchara",
+      "gloss": "year",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vacchara < Sanskrit vatsara ('year'); cf. saṁvatsara.",
+      "notes": "With terasa…saïe forms the dating phrase."
+    },
+    {
+      "token": "સઇએ",
+      "translit": "saïe",
+      "gloss": "in the hundred (century)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative < Sanskrit śata ('hundred'), loc. sg. śate.",
+      "notes": "'terasa vacchara saïe' = 'in the thirteen-hundredth year' (Vikrama Saṁvat 1300); reading discussed in notes."
+    },
+    {
+      "token": "વીરજિણો",
+      "translit": "vīra-jiṇo",
+      "gloss": "Vīra Jina (Lord Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nom. sg. < Sanskrit vīra-jina (vīra 'hero' + jina 'victor'); the 24th and last Tīrthaṅkara of this cycle.",
+      "notes": "Grammatical subject of jayau; the enshrined deity of Satyapura."
+    },
+    {
+      "token": "જયઉ",
+      "translit": "jayau",
+      "gloss": "may he be victorious! / triumph!",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit 3rd sg. imperative < Sanskrit jayatu, √ji ('to conquer').",
+      "notes": "Acclamation rather than the hymn's usual bowing verb — a 'jaya!' victory-cry for the Jina at this site."
+    },
+    {
+      "token": "સચ્ચઉરે",
+      "translit": "saccaure",
+      "gloss": "at Satyapura (Sācor / Sanchor)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative < Sanskrit Satyapura ('city of truth'); satya 'truth' + pura 'city'; modern Sācor/Sanchore, Rajasthan.",
+      "notes": "Locative of place; one of the most celebrated medieval Śvetāmbara Mahāvīra tīrthas."
+    }
+  ],
+  "literalTranslation": "In the wooden shrine — indeed — caused to be built by the illustrious king of Kannauj, in the thirteen-hundredth year: may Vīra Jina be victorious at Satyapura!",
+  "idiomaticTranslation": "Glory to Vīra Jina at Satyapura! — there, in the famed wooden shrine that the illustrious king of Kānyakubja had built, in the year thirteen hundred, may Lord Mahāvīra ever triumph.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse fixes one bead of the garland on Satyapura (modern Sācor in southwestern Rajasthan), among the most renowned of medieval Śvetāmbara Mahāvīra shrines. Three concrete details mark it out from the surrounding place-names: a royal patron ('the illustrious king of Kannauj'), a material ('of wood', dārumae), and a date ('in the thirteen-hundredth year'). Where most verses of the hymn turn on a bowing verb, here the poet shifts register to an acclamation — jayau, 'may he be victorious!' This 'jaya!' is no idle exclamation: it answers the very name of the place, Satya-pura, the 'city of truth', proclaiming that the Jina's truth still reigns there. The wooden image and shrine of Satyapura Mahāvīra were already legendary by the poet Dhanapāla's time (c. 1000 CE), and Jinaprabhasūri devotes a whole Satyapura-kalpa to its miracle-stories in his Vividhatīrthakalpa. By naming the Kannauj king's patronage and a precise reckoning of years, the verse roots devotion in remembered history rather than timeless abstraction — a deliberate counterpoint to the hymn's earlier salutes to the eternal (śāśvata) images. The reciter, having just passed shrines at Bāhaḍamer and Rāudaha and about to reach the Vīra shrine at Jālaur, here pauses at the wooden Vīra of Satyapura and shouts him victory.",
+    "doctrinalContext": "The verse rests on pratimā-pūjā — that a consecrated image, even one of perishable wood, is a worthy focus of veneration; the sanctity lies in the Jina it represents, not in the costliness of the material. The cry jayau ('may he triumph') voices the core meaning of jina/vīra: the 'victor-hero' who has already conquered attachment, aversion and delusion and destroyed the karmas. To wish the already-victorious Jina 'victory' is to affirm and internalise that triumph — the worshipper aligns with the conquest he hopes to share. Honouring a historically founded, datable shrine also illustrates the hymn's logic that crossing-places (tīrthas) operate within human time and geography, not only in the eternal heavens.",
+    "practicalRelevance": "Reciting this line, a practitioner makes a momentary mental pilgrimage to Sācor and joins the centuries-long chorus of 'Jaya Vīra!' that has sounded there. It teaches that devotion outlives stone and timber: though the historical shrine suffered destruction, the reciter's homage keeps the tīrtha alive in the heart. The 'jaya' acclamation can be carried into daily prayer as a charged affirmation of the Jina's — and one's own aspired — victory over the passions.",
+    "crossReferences": [
+      {
+        "text": "Satyapura-kalpa (chapter on the Satyapura Mahāvīra tīrtha)",
+        "source": "Jinaprabhasūri, Vividhatīrthakalpa (14th c. CE)"
+      },
+      {
+        "text": "Satyapurīya Mahāvīra Utsāha (hymn to the Mahāvīra of Satyapura)",
+        "source": "attributed to the poet Dhanapāla, c. 1000 CE"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Satyapura, Satya-pura: 6 definitions",
+      "url": "https://www.wisdomlib.org/definition/satyapura",
+      "type": "scholarship",
+      "consultedFor": "Identification of Satyapura with Sācor/Sanchor, the Mahāvīra tīrtha, its antiquity and the wooden-image tradition"
+    },
+    {
+      "title": "Daru, Dāru: definitions",
+      "url": "https://www.wisdomlib.org/definition/daru",
+      "type": "dictionary",
+      "consultedFor": "Sense and etymology of dāru ('wood/timber') behind dārumae"
+    },
+    {
+      "title": "Narapati: definitions",
+      "url": "https://www.wisdomlib.org/definition/narapati",
+      "type": "dictionary",
+      "consultedFor": "Etymology of nara-pati ('king, lord of men') behind Prakrit naravai"
+    },
+    {
+      "title": "Sanchore — Jatland Wiki",
+      "url": "https://www.jatland.com/home/Sanchore",
+      "type": "scholarship",
+      "consultedFor": "History of Satyapura/Sanchor: Dhanapāla's hymn, royal patronage, and later attacks on the Mahāvīra temple"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Spelling kept verbatim per the book (e.g. કન્નઉજ્જ, સચ્ચઉરે). Three points carry interpretive uncertainty. (1) 'kīra' is taken as the reportative-emphatic particle kila ('indeed, so it is said'); no verified variant reading was located. (2) 'dārumae' is a locative agreeing with 'bhavaṇaṁmi', so the literal sense is 'in the wooden shrine'; however the Satyapura tīrtha is equally famed for a wooden IMAGE of Mahāvīra (per the Vividhatīrthakalpa tradition), and many editions/readers take the 'wooden' epithet to point to the image enshrined within — the verse can be heard either way. (3) 'terasa vacchara saïe' is read as 'in the thirteen-hundredth year', most naturally Vikrama Saṁvat ~1300 (≈1243 CE); it could alternatively be construed as 'thirteen hundred years [in age]', i.e. a statement of antiquity. The patron is named only as 'the king of Kannauj'; some traditions associate Satyapura's founding with a ruler called Nāhaḍa, but this is not fixed by a verified colophon and is not stated in the verse, so it is not asserted here."
+}

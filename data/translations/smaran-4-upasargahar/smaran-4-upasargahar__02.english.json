@@ -1,0 +1,176 @@
+{
+  "shlokaId": "smaran-4-upasargahar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever always keeps the poison-removing Visahara mantra in his throat finds his troubles from planets, disease, epidemic, and harsh old age all quieted down.",
+  "recitation": "visahara phuliṅga maṁtaṁ, kaṁṭhe dhārei jo sayā maṇuo; tassa gaha roga mārī, duṭṭha jarā jaṁti uvasāmaṁ",
+  "wordByWord": [
+    {
+      "token": "વિસહર",
+      "translit": "visahara",
+      "gloss": "poison-removing; the proper name of the mantra (\"Visahara\")",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit visa (Skt. viṣa, 'poison') + hara (Skt. √hṛ, 'to remove'); a Pārśva epithet here functioning as the mantra's title",
+      "notes": "Carried over from v.1's visahara-visa-ninnāsaṁ; here it labels the spell itself."
+    },
+    {
+      "token": "ફુલિંગ",
+      "translit": "phuliṅga",
+      "gloss": "spark, ember",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phuliṅga < Skt. sphuliṅga, 'spark of fire'",
+      "notes": "visahara-phuliṅga is read as the mantra's name — the 'poison-spark' formula that burns affliction like fire consuming a moth."
+    },
+    {
+      "token": "મંતં",
+      "translit": "maṁtaṁ",
+      "gloss": "mantra (accusative object of 'holds')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṁta < Skt. mantra; here in the accusative singular -aṁ",
+      "notes": ""
+    },
+    {
+      "token": "કંઠે",
+      "translit": "kaṁṭhe",
+      "gloss": "in the throat / at the neck (locative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaṁṭha < Skt. kaṇṭha, 'throat, neck'; locative singular -e",
+      "notes": "Double sense: 'on the tongue' (memorized, ever ready to recite) and 'at the neck' (worn as a written amulet)."
+    },
+    {
+      "token": "ધારેઇ",
+      "translit": "dhārei",
+      "gloss": "holds, keeps, bears",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit dhārei < Skt. √dhṛ (dhārayati), 'to hold, retain'; 3rd person singular present",
+      "notes": ""
+    },
+    {
+      "token": "જો",
+      "translit": "jo",
+      "gloss": "whoever, the one who (relative pronoun)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit jo < Skt. yaḥ, masculine nominative relative pronoun",
+      "notes": "Correlates with tassa ('of that man') in the second line."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "always, constantly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sayā < Skt. sadā, 'ever, always'",
+      "notes": "Stresses that the fruit follows from unbroken, lifelong holding — not a single recitation."
+    },
+    {
+      "token": "મણુઓ",
+      "translit": "maṇuo",
+      "gloss": "a person, a human being",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇua < Skt. manuja/manuṣya, 'human'; masculine nominative singular",
+      "notes": ""
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "of him, his (genitive)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tassa < Skt. tasya, masculine/neuter genitive singular of ta-",
+      "notes": "Governs the whole list of afflictions: 'his graha, roga…'."
+    },
+    {
+      "token": "ગ્ગહ",
+      "translit": "gaha",
+      "gloss": "malefic planetary/astral influence (graha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaha < Skt. graha, 'seizer, planet, possessing spirit'; the doubled ગ્ગ is sandhi-gemination after tassa",
+      "notes": ""
+    },
+    {
+      "token": "રોગ",
+      "translit": "roga",
+      "gloss": "disease, illness",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit = Skt. roga, from √ruj, 'to break, afflict'",
+      "notes": "Stem form in a compounded list (gaha-roga-mārī)."
+    },
+    {
+      "token": "મારી",
+      "translit": "mārī",
+      "gloss": "epidemic, pestilence",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. mārī, from √mṛ, 'to die'; lit. 'the killer', i.e. plague",
+      "notes": ""
+    },
+    {
+      "token": "દુટ્ઠ",
+      "translit": "duṭṭha",
+      "gloss": "evil, malignant, wicked",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit duṭṭha < Skt. duṣṭa (past participle of √duṣ, 'to be corrupted')",
+      "notes": "Best taken with jarā: duṭṭha-jarā = 'malignant decay / acute fever'; some renderings list it as a separate evil."
+    },
+    {
+      "token": "જરા",
+      "translit": "jarā",
+      "gloss": "old age, decay (here, harsh ageing / wasting fever)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. jarā, from √jṝ, 'to grow old, waste away'",
+      "notes": "Wikipedia renders duṭṭha-jarā as 'acute fever'; literally 'evil ageing'."
+    },
+    {
+      "token": "જંતિ",
+      "translit": "jaṁti",
+      "gloss": "go, pass, come to (3rd person plural)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jaṁti < Skt. yānti, from √yā, 'to go'; 3rd person plural present",
+      "notes": "Plural agreeing with the listed afflictions; idiom jaṁti uvasāmaṁ = 'go to subsidence' = 'are pacified'."
+    },
+    {
+      "token": "ઉવસામં",
+      "translit": "uvasāmaṁ",
+      "gloss": "subsidence, pacification, calming (accusative of goal)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uvasāma < Skt. upaśama, from upa-√śam, 'to quiet, allay'",
+      "notes": "Accusative of destination after a verb of motion: the afflictions 'go to / reach' a calmed state."
+    }
+  ],
+  "literalTranslation": "Whatever man always holds in his throat the Visahara-spark mantra — his planetary affliction, disease, epidemic, and malignant ageing go to subsidence.",
+  "idiomaticTranslation": "The person who keeps the poison-quelling Visahara mantra ever in his throat — for him, evil planetary influences, disease, pestilence and wasting old age all sink away into calm.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.1 praised Pārśva and called him 'destroyer of the snake's poison', this verse hands the devotee the instrument of that power: the Visahara mantra itself, here titled visahara-phuliṅga — the 'poison-spark'. The image is precise: a single spark suffices to consume a great heap, so a small formula, faithfully held, burns away vast affliction. Two words carry the verse's spiritual condition. First, sayā ('always'): the promise attaches not to a one-time chant but to constant bearing. Second, kaṇṭhe ('in the throat'), which the tradition reads doubly — memorized on the tongue, and worn at the neck as a written charm; either way the mantra is never set aside. The reward is framed by a deliberate idiom: the four troubles do not merely 'vanish' but jaṁti uvasāmaṁ, 'go to subsidence'. Uvasāma (Skt. upaśama) is a charged Jain term for the quieting — not destruction — of what is active; the afflictions are not annihilated but settle, lose their grip, come to rest. The fourfold list is concrete and worldly — gaha (astral malefice), roga (bodily disease), mārī (epidemic), duṭṭha-jarā (malignant ageing/fever) — exactly the fears of an ordinary householder. The verse meets the reciter where his anxieties live. Yet note that even at this most 'magical' moment the hymn stays disciplined: it offers calming, not invincibility, and v.3 will immediately step past the mantra ('let the spell stand aside') toward a higher refuge — so this verse marks the lowest rung of the poem's ascending ladder, not its goal.",
+    "doctrinalContext": "The choice of uvasāma over a word for 'destroy' is doctrinally pointed. In Jain karma-theory upaśama names the suppressed/quiescent state in which a force is rendered dormant rather than eradicated — the same root that gives upaśama-śreṇī, the ladder on which conduct-deluding karma is merely pacified. Read this way, the verse's promise is sober: devotion subdues affliction's present operation; it does not claim to abolish the karma underlying disease or death. The protection is real but provisional, which is precisely why the hymn does not stop here. The reliance on a named mantra also reflects the Jain understanding that a stotra's syllables, charged by the Tīrthaṅkara's qualities and (in tradition) by Dharaṇendra's guardianship, can reorder one's immediate circumstances — while final security lies elsewhere, as the later verses insist.",
+    "practicalRelevance": "For today's reciter the verse teaches method, not magic: the fruit is tied to sayā, steady daily keeping, and to holding the words 'in the throat' so they are ready in any crisis of illness, fear, or loss. One recites not to bargain away fate but to bring an agitated mind and circumstance to uvasāma — to settle, to rest. Let the relief it gives be a doorstep, not a destination: use the calm it brings to turn, as the next verse urges, from seeking safety toward seeking faith.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggaharaṁ Stotra, v.1 (visahara-visa-ninnāsaṁ — the epithet this verse turns into a mantra-name)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra, v.3 (ciṭṭhau dūre manto — 'let the spell stand aside', the deliberate step beyond this mantra)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipakṣa ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uvasaggaharam Stotra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra",
+      "type": "translation",
+      "consultedFor": "English rendering of v.2 ('visaharaphullinga' charm; planetary effects, disease, epidemics and acute fever calmed) and the standard five-gāthā structure."
+    },
+    {
+      "title": "उवसग्गहरं स्तोत्र (हिन्दी अर्थ सहित) — Webdunia Hindi",
+      "url": "https://hindi.webdunia.com/jain-religion/uvasaggaharam-stotra-116030100034_1.html",
+      "type": "translation",
+      "consultedFor": "Hindi gloss of gaha/roga/mārī/jarā being pacified, confirming the fourfold list and the 'uvasāma' (pacification) reading."
+    },
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit–Hindi Dictionary), L.D. Institute of Indology / JainQQ digital text",
+      "url": "https://www.jainqq.org/explore/030001/1",
+      "type": "dictionary",
+      "consultedFor": "Prakrit lemmas phuliṅga (< sphuliṅga, 'spark') and uvasāma (< upaśama, 'subsidence/pacification') used in the word-by-word glosses."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Token-segmentation follows the book's spaced Gujarati orthography; the doubled ગ્ગ in ગ્ગહ is sandhi-gemination of graha after tassa and is not a separate word. duṭṭha + jarā is ambiguous: most editions compound it as 'malignant ageing / acute wasting fever' (so Wikipedia, 'acute fever'), while a few read duṭṭha as an independent 'evil'; both are given. The mantra-name visahara-phuliṅga is also met as visahara-phulliṅga/phulinga across recensions (Devanagari विसहर-फुलिंग/फुल्लिंग) — an orthographic, not semantic, variant. jaṁti uvasāmaṁ is rendered idiomatically as 'are pacified'; literally 'go to subsidence', an accusative-of-goal after a motion verb."
+}

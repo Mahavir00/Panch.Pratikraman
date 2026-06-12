@@ -1,0 +1,154 @@
+{
+  "shlokaId": "ashtottari-tirthmala/29",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse counts the never-made Jina images kept in the heavenly halls and shrines — sixty in the five assembly-halls, a hundred inside the shrine, and twelve at its doors.",
+  "recitation": "suraṭhāṇesu savvahiṁ, sabhapaṇage saṭṭhi hoi paḍimāṇaṁ; ceiya majjhaffa sayaṁ, ceiya dāresu bārasagaṁ.",
+  "wordByWord": [
+    {
+      "token": "સુરઠાણેસુ",
+      "translit": "suraṭhāṇesu",
+      "gloss": "in the divine abodes / dwellings of the gods",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sura (< Skt. sura, 'god') + ṭhāṇa (< Skt. sthāna, 'place, abode'); locative plural, = Skt. sura-sthāneṣu.",
+      "notes": "Refers to the celestial palaces of the indras in the upper world (ūrdhva-loka)."
+    },
+    {
+      "token": "સવ્વહિં",
+      "translit": "savvahiṁ",
+      "gloss": "in all, everywhere",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit savva (< Skt. sarva, 'all') + locative/distributive suffix -hiṁ; = Skt. sarvatra / sarveṣu.",
+      "notes": "Universalises the count — it holds for every such abode."
+    },
+    {
+      "token": "સભપણગે",
+      "translit": "sabhapaṇage",
+      "gloss": "in the group of five assembly-halls (the sabhā-pentad)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sabhā (< Skt. sabhā, 'assembly-hall') + paṇaga (< Skt. pañcaka, 'a set of five'); locative singular, = Skt. sabhā-pañcake.",
+      "notes": "The five celestial halls of each indra's palace — traditionally the Sudharmā, Upapāta, Abhiṣeka, Alaṅkāra and Vyavasāya sabhās."
+    },
+    {
+      "token": "સઠ્ઠિ",
+      "translit": "saṭṭhi",
+      "gloss": "sixty (60)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṭṭhi = Skt. ṣaṣṭi, 'sixty'.",
+      "notes": "The image-count attributed to the five-hall complex."
+    },
+    {
+      "token": "હોઇ",
+      "translit": "hoi",
+      "gloss": "there are / there is",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hoi = Skt. bhavati, 3rd person sg. of √bhū, 'to be'; used impersonally here ('there are').",
+      "notes": "Singular form governing a collective count, idiomatic in gāthā Prakrit."
+    },
+    {
+      "token": "પડિમાણં",
+      "translit": "paḍimāṇaṁ",
+      "gloss": "of images (Jina statues)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā = Skt. pratimā, 'image, statue, icon'; genitive plural -āṇaṁ = Skt. pratimānām.",
+      "notes": "Here the eternal, uncreated Jina-images (śāśvata-pratimā), already defined in the preface."
+    },
+    {
+      "token": "ચેઇય",
+      "translit": "ceiya",
+      "gloss": "of the shrine (caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceiya = Skt. caitya, 'shrine, temple housing a Jina image'; here functioning as the first member of a genitive/locative phrase ('shrine's / in the shrine').",
+      "notes": "First of two occurrences; the eternal Jina temple (Siddhāyatana). Glossary term — not re-defined."
+    },
+    {
+      "token": "મજ્ઝફ્ફ",
+      "translit": "majjhaffa",
+      "gloss": "in the middle / in the sanctum",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit majjha = Skt. madhya, 'middle, centre'; read here as a locative ('in the centre', = Skt. madhye).",
+      "notes": "The doubled-conjunct spelling is the book's verbatim reading (variant orthography is preserved, not normalised); sense is 'in the shrine's central chamber', i.e. the devacchandaka dais."
+    },
+    {
+      "token": "સયં",
+      "translit": "sayaṁ",
+      "gloss": "a hundred (100)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sayaṁ = Skt. śataṁ, 'a hundred'.",
+      "notes": "Same word recurs in the next verse in 'sayaṁ asīyaṁ' (= 180), confirming the numeric sense here."
+    },
+    {
+      "token": "ચેઇય",
+      "translit": "ceiya",
+      "gloss": "of the shrine (caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceiya = Skt. caitya; second occurrence, here governing 'at the doors'.",
+      "notes": "Repetition is deliberate, pairing the sanctum-count with the door-count."
+    },
+    {
+      "token": "દારેસુ",
+      "translit": "dāresu",
+      "gloss": "at the doors / gateways",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dāra = Skt. dvāra, 'door, gate'; locative plural -esu = Skt. dvāreṣu.",
+      "notes": "Each eternal Jina temple is canonically described as having four doors (see Jīvābhigama / Nandīśvara descriptions)."
+    },
+    {
+      "token": "બારસગં",
+      "translit": "bārasagaṁ",
+      "gloss": "a set of twelve (12)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bāras (< Skt. dvādaśa, 'twelve') + -aga (< Skt. -ka, collective suffix); = Skt. dvādaśakaṁ, 'a group of twelve'.",
+      "notes": "The image-count assigned to the shrine's doorways."
+    }
+  ],
+  "literalTranslation": "In all the divine abodes, in the five assembly-halls there are sixty images; in the middle of the shrine, a hundred; at the shrine's doors, twelve.",
+  "idiomaticTranslation": "Throughout every celestial abode the five great assembly-halls each hold sixty eternal images; within the shrine's sanctum stand a hundred more, and twelve at its gateways — the fixed tally of the deathless Jina-images enshrined in the heavens.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having totalled the shrines of the heavens in the preceding verse, the hymn now turns from how many temples to how many images each celestial complex enshrines. The arithmetic is laid out structure by structure: the five assembly-halls (sabhā-pañcaka) of an indra's palace hold sixty images between them; the sanctum (madhya) of the Siddhāyatana itself a hundred; and its doorways twelve. The two-fold naming of ceiya — once for the centre, once for the doors — mirrors the actual layout of a śāśvata Jina temple, which canonical cosmography (Jīvābhigama, Jambūdvīpa-prajñapti) describes as a four-doored hall enclosing a jewelled dais (devacchandaka) crowded with seated Jina-images. The running count is not closed here: it is carried into the next verse, whose 'sayaṁ asīyaṁ' (one hundred and eighty) is the grand total for each upper- and lower-world eternal temple, against the 'vīsa sayaṁ' (one hundred and twenty) of the middle-world shrines. The verse is therefore a hinge in the enumeration — a sober, almost ledger-like list whose devotional force lies precisely in its scale: the gods do not improvise their worship; they bow before a fixed, beginningless multitude of images that no one ever carved.",
+    "doctrinalContext": "The images counted here are śāśvata-pratimā — eternal, uncreated Jina-images that have always stood in the heavens and cosmic structures. Their very existence is the doctrinal charter of image-veneration (mūrti-pūjā) for this Śvetāmbara Mūrtipūjaka tradition: Jina-worship is not a human invention but woven into the permanent fabric of the cosmos, performed ceaselessly by the gods themselves. By reciting the counts, the worshipper affirms that the homage offered at an earthly temple is the same act the deities perform before these deathless images, binding the lay devotee into a cosmic, ever-ongoing veneration.",
+    "practicalRelevance": "As the reciter chants these numbers, the bow widens beyond the local shrine: one mentally salutes the sixty, the hundred and the twelve images of every heavenly hall at once. The precise figures serve as an anchor for concentration — the mind 'walks' the celestial temple rather than drifting — turning a dry enumeration into a guided act of expansive devotion.",
+    "crossReferences": [
+      {
+        "text": "Descriptions of the eternal Jina temples — four doors, maṇipīṭhikā and devacchandaka with 108 śāśvata-bimbas of each eternal Jina",
+        "source": "Jīvābhigama-sūtra & Jambūdvīpa-prajñapti (Śvetāmbara Āgama), as summarised in Jaina Iconography (U. P. Shah)"
+      },
+      {
+        "text": "Cosmographic image-counts of śāśvata caityas across the three worlds",
+        "source": "Saṃgrahaṇīratna (Bṛhat-saṅgrahaṇī) of Śrīcandrasūri, Śvetāmbara tradition"
+      },
+      {
+        "text": "The four eternal Jinas (Ṛṣabha, Candrānana, Vardhamāna, Vāriṣeṇa) worshipped at Nandīśvara",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra 1.1"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nandishvaradvipa — definitions (Jaina Iconography; Trishashti; JAINpedia)",
+      "url": "https://www.wisdomlib.org/definition/nandishvaradvipa",
+      "type": "scholarship",
+      "consultedFor": "Verifying the structure of an eternal Jina temple — four doors, maṇipīṭhikā/devacchandaka, 108 śāśvata-bimbas of each eternal Jina, and the four eternal Jinas — used to interpret 'ceiya majjhe' and 'ceiya dāresu'."
+    },
+    {
+      "title": "Jain cosmology — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "Confirming the three-world structure (ūrdhva/madhya/adho-loka) and the placement of 'sura-sthāna' (celestial abodes) housing the eternal shrines counted in this verse."
+    },
+    {
+      "title": "प्रतिमा (pratimā) — Wiktionary",
+      "url": "https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE",
+      "type": "dictionary",
+      "consultedFor": "Glossing paḍimā / pratimā as 'image, statue, icon, idol' and its Sanskrit derivation."
+    },
+    {
+      "title": "A Cosmos Filled with Eternal Icons (Owen, Carving Devotion in the Jain Caves)",
+      "url": "https://academic.oup.com/book/11175/chapter/159646573",
+      "type": "scholarship",
+      "consultedFor": "Context on the eternal-icon (śāśvata) cosmology and the 52 eternal temples of Nandīśvara venerated by the gods."
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "Lexical glosses are secure. The arithmetic is a known crux: the per-structure figures here (60 in the five sabhās, 100 in the sanctum, 12 at the doors) read naively sum to 172, whereas the following verse gives 180 ('sayaṁ asīyaṁ') as the per-temple total for upper/lower-world śāśvata caityas and 120 ('vīsa sayaṁ') for middle-world (tiryak-loka) ones. The reconciliation depends on the commentarial counting convention — canonical cosmography (Jīvābhigama) places 108 śāśvata-bimbas on the central devacchandaka with further door and retinue figures, so the rounded poetic figures should be read against that scheme rather than by simple addition; the exact bridging count is left uncertain. The reading 'majjhaffa' = madhye ('in the middle') follows the verse's sense; its doubled conjunct is the book's verbatim orthography and is preserved, not normalised (per the source's fidelity rules). The two eternal Jinas Candrānana/Candrāmana spelling varies by edition. Moderate confidence reflects the unverified numeric reconciliation, not the translation of the words."
+}

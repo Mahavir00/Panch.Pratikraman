@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/102",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We praise the ancient Jina-shrines that stand in a string of holy towns — Śrīmāla, Rāsaṇa, Brahmāṇa, Ānandapura, Siddhipura, Kāsahrada and Ajāhara.",
+  "recitation": "taha sirimālā rāsaṇa, baṁbhāṇāṇaṁda siddhipura pamuhe; kāsaddaha ajjāhara, puresu cira ceie thuṇimo.",
+  "wordByWord": [
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, in the same way; and so",
+      "partOfSpeech": "adverb",
+      "etymology": "From Sanskrit tathā ('thus, so'); regularly becomes taha in Prakrit. Here it links this town-list to the preceding verses' chain of homage.",
+      "notes": "A connective carried over from the running catalogue; it signals 'continuing in the same vein'."
+    },
+    {
+      "token": "સિરિમાલા",
+      "translit": "sirimālā",
+      "gloss": "Śrīmāla (the city of Śrīmāla)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Śrī-mālā ('garland of fortune'); Prakrit siri + mālā. The ancient town of Śrīmāla, today Bhinmal in Jalore district, Rajasthan — the original home of the Śrīmālī community.",
+      "notes": ""
+    },
+    {
+      "token": "રાસણ",
+      "translit": "rāsaṇa",
+      "gloss": "Rāsaṇa (a town)",
+      "partOfSpeech": "noun",
+      "etymology": "A western-Indian toponym; the exact Sanskrit base is uncertain. Possibly the settlement remembered as Rāsaṇ/Rājasana.",
+      "notes": "Identification is not firmly fixed; see notes."
+    },
+    {
+      "token": "બંભાણાણંદ",
+      "translit": "baṁbhāṇāṇaṁda",
+      "gloss": "Brahmāṇa (and) Ānanda(pura)",
+      "partOfSpeech": "compound",
+      "etymology": "A sandhi-joined pair of place-names: baṁbhāṇa (from Sanskrit brāhmaṇa / brahmāṇa) + āṇaṁda (from Sanskrit ānanda → Ānandapura). Brahmāṇa is the Jina-tīrtha of Brahmāṇa/Varmāṇ in Rajasthan; Ānandapura is the old name of Vaḍnagar.",
+      "notes": "Read here as two coalesced towns; some editions may parse the cluster differently."
+    },
+    {
+      "token": "સિદ્ધિપુર",
+      "translit": "siddhipura",
+      "gloss": "Siddhipura (the city of accomplishment)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit siddhi ('attainment, perfection') + pura ('town'). Identified with Siddhpur (old Sristhal) on the Sarasvatī in Patan district, Gujarat.",
+      "notes": ""
+    },
+    {
+      "token": "પમુહે",
+      "translit": "pamuhe",
+      "gloss": "and the foremost (towns); with [these] at the head, et cetera",
+      "partOfSpeech": "adjective",
+      "etymology": "From Sanskrit pramukha ('facing forward, chief, foremost'); Prakrit pamuha, locative pamuhe used adverbially to mean 'in the towns headed by [the above], and others like them'.",
+      "notes": "Marks the preceding names as a representative, not exhaustive, list, governing the locative puresu."
+    },
+    {
+      "token": "કાસદ્દહ",
+      "translit": "kāsaddaha",
+      "gloss": "Kāsahrada (Kāsa-lake)",
+      "partOfSpeech": "noun",
+      "etymology": "Kāsa + daha, where daha derives from Sanskrit hrada ('lake, pool'); hence 'the lake of Kāsa'. Commonly identified with the Kāsahrada / Kāsindra tīrtha of the Sirohi region.",
+      "notes": "Identification with present-day Kāsindra is traditional but not archaeologically settled."
+    },
+    {
+      "token": "અજ્જાહર",
+      "translit": "ajjāhara",
+      "gloss": "Ajāhara (the Ajāhara shrine-town)",
+      "partOfSpeech": "noun",
+      "etymology": "Toponym Ajāhara (Prakrit ajja possibly < Sanskrit ārya). The famous Ajāhara/Ajārā Pārśvanātha tīrtha near Una–Delwada in Saurashtra, Gujarat.",
+      "notes": ""
+    },
+    {
+      "token": "પુરેસુ",
+      "translit": "puresu",
+      "gloss": "in the towns, among the cities",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pura ('town, city'), locative plural pureṣu → Prakrit puresu ('in the towns'). It frames the whole list as 'in [these] towns'.",
+      "notes": ""
+    },
+    {
+      "token": "ચિર",
+      "translit": "cira",
+      "gloss": "ancient, long-established, of old",
+      "partOfSpeech": "adjective",
+      "etymology": "Sanskrit cira ('long in time, lasting'), unchanged in Prakrit. Qualifies the shrines as venerable by their great age.",
+      "notes": "Stresses antiquity rather than the technical 'eternal' (śāśvata) sense glossed in the preface."
+    },
+    {
+      "token": "ચેઇએ",
+      "translit": "ceie",
+      "gloss": "the shrines, the Jina-temples (object of praise)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ceiya from Sanskrit caitya ('shrine housing a Jina image'); here the locative/accusative ceie, the shrines venerated in those towns.",
+      "notes": "Glossary term 'caitya' is defined in the preface."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise, we extol",
+      "partOfSpeech": "verb",
+      "etymology": "From the root √stu ('to praise'); Sanskrit first-person plural stunmaḥ → Prakrit thuṇimo ('we praise'). The hymn's recurring verb of homage.",
+      "notes": "The 'we' is the assembled congregation reciting together."
+    }
+  ],
+  "literalTranslation": "Likewise in Śrīmāla, Rāsaṇa, Brahmāṇa and Ānanda(pura), Siddhipura and the foremost (towns), (and) in the cities of Kāsahrada (and) Ajāhara — the ancient shrines we praise.",
+  "idiomaticTranslation": "And so, in Śrīmāla, in Rāsaṇa, in Brahmāṇa and Ānandapura, in Siddhipura and the other great towns, and among the cities at Kāsahrada and Ajāhara — to the ancient Jina-shrines enshrined there we offer our praise.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the hymn's closing geographic roll-call: having narrated the great legend-bearing tīrthas, the poet now simply names town after town and bows to the shrines in each. The little word pamuhe ('and the foremost', i.e. 'such towns as these') is the hinge — it tells us this is a representative sample, not an exhaustive map, so the seven names stand in for a whole regional network of holy places. Those names are tightly clustered in the Anchalgachchha's own western-Indian homeland: Śrīmāla (Bhinmal) and Brahmāṇa lie in southern Rajasthan, Siddhipura, Ānandapura (Vaḍnagar) and Ajāhara fall across Gujarat down into Saurashtra, with Kāsahrada and Rāsaṇa among them. The verse's emotional charge sits on cira ceie — the 'ancient shrines'. Where earlier verses dwelt on śāśvata (eternal, cosmic) images, here the praise is for time-worn, human-founded temples whose value is precisely their long continuity: generations of worshippers have bowed where the reciter now bows. The single governing verb thuṇimo ('we praise') gathers the scattered town-names into one breath of collective homage, so a string of place-names becomes an act of worship rather than a gazetteer entry.",
+    "doctrinalContext": "The verse rests on caitya-vandanā — the conviction that veneration of a Jina image and its shrine is veneration of the Jina's qualities themselves, generating merit (puṇya) and right faith (samyag-darśana) even toward temples one will never physically see. By honouring ancient, historically founded shrines (not the eternal cosmic images), it affirms that devotion attaches to the Jina embodied in every legitimate pratimā, regardless of a temple's age or fame. Naming real towns also enacts the Jain ideal that the whole inhabited land is sanctified by the presence of Jina-shrines.",
+    "practicalRelevance": "Reciting this line, a worshipper makes a 'pilgrimage in words' to a cluster of real towns — many still living tīrthas like Ajāhara Pārśvanātha near Una — venerating their temples without leaving the prayer hall, and renewing a felt bond with the sacred geography of one's own region and community.",
+    "crossReferences": [
+      {
+        "text": "Caitya-vandana tradition — veneration of Jina images and shrines as the heart of Mūrtipūjaka practice",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Śrīmāla as ancient Śrīmāla-nagara, home of the Śrīmālī community",
+        "source": "Shrīmālamāhātmya tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Bhinmal (formerly Shrimal Nagar), Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhinmal",
+      "type": "scholarship",
+      "consultedFor": "Identification of Śrīmāla (sirimālā) with ancient Śrīmāla-nagara, present-day Bhinmal, and its link to the Śrīmālī community"
+    },
+    {
+      "title": "Siddhpur (Sristhal), Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siddhpur",
+      "type": "scholarship",
+      "consultedFor": "Identification of Siddhipura with Siddhpur on the Sarasvatī and its standing as a tīrtha"
+    },
+    {
+      "title": "Una, Gujarat, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Una,_Gujarat",
+      "type": "scholarship",
+      "consultedFor": "Geographic location of the Ajāhara (Ajārā) Pārśvanātha tīrtha near Una–Delwada in Saurashtra"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Sanskrit-Lexicon), University of Cologne",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit bases of the Prakrit tokens — tathā (taha), pramukha (pamuhe), pura/pureṣu (puresu), hrada (daha), caitya (ceie), cira, and √stu (thuṇimo)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is a place-name catalogue, so word-glosses are secure but some site identifications carry the variant-reading caution flagged in the preface for western-Indian sacred geography. 'baṁbhāṇāṇaṁda' is read here as a sandhi of two towns, Brahmāṇa + Ānanda(pura); other editions may divide the cluster differently. 'rāsaṇa' has no firmly fixed identification. 'kāsaddaha' (Kāsahrada) is traditionally linked to Kāsindra but not archaeologically settled. The orthography (e.g. doubled conjuncts in kāsaddaha, ajjāhara) is preserved verbatim per the book's fidelity rules and not normalised."
+}

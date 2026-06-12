@@ -1,0 +1,134 @@
+{
+  "shlokaId": "smaran-3-virstava/06",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Praised by the heavenly nymphs and by the whole Jain community, and honoured by the teacher Pālitta, may Lord Mahāvīra destroy all our troubles.",
+  "recitation": "evaṁ vīra-jiṇindo, acchara-gaṇa saṅgha-saṁthuo bhayavaṁ. pālittaya maya-mahio, disau khayaṁ savva-duriyāṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit evaṁ < Sanskrit evam, an emphatic correlative meaning 'thus, so'.",
+      "notes": "A summative 'thus' that gathers the preceding gāthās and pivots the hymn into its closing benediction."
+    },
+    {
+      "token": "વીરજિણિંદો",
+      "translit": "vīra-jiṇindo",
+      "gloss": "Vīra, lord of the Jinas (Mahāvīra)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa: vīra ('hero') + jiṇinda < Sanskrit jina + indra ('Jina-Indra', chief of conquerors). Prakrit -indo for nominative singular -indaḥ.",
+      "notes": "Subject of the verse; the named object of the entire stava."
+    },
+    {
+      "token": "અચ્છરગણ",
+      "translit": "acchara-gaṇa",
+      "gloss": "the host (group) of celestial nymphs (apsarases)",
+      "partOfSpeech": "compound",
+      "etymology": "acchara < Sanskrit apsaras ('celestial nymph') + gaṇa ('host, troop, multitude'). Stands here as the prior member compounded into saṁthuo.",
+      "notes": "First of the two praising communities — the heavenly assembly."
+    },
+    {
+      "token": "સંઘસંથુઓ",
+      "translit": "saṅgha-saṁthuo",
+      "gloss": "praised (well-extolled) by the Saṅgha",
+      "partOfSpeech": "compound",
+      "etymology": "saṅgha ('community, fourfold order') + saṁthua, past passive participle < Sanskrit saṁstuta (sam- + √stu, 'to praise well, laud'). Read with acchara-gaṇa as 'extolled by the host of apsarases and the Saṅgha'.",
+      "notes": "The intensive sam- prefix marks complete, repeated praise; the agents (apsaras-host + earthly Saṅgha) are instrumental."
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Blessed One",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhayavaṁ < Sanskrit bhagavān (nominative singular of bhagavat), 'possessing bhaga — glory, majesty, fortune'.",
+      "notes": "Standard reverential epithet in apposition to vīra-jiṇindo; the Prakrit g→y softening yields bhaya- (not 'fear')."
+    },
+    {
+      "token": "પાલિત્તય",
+      "translit": "pālittaya",
+      "gloss": "by Pālitta (Ācārya Pādaliptasūri)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Pālitta(ya) < Sanskrit Pādalipta; the proper name of the ācārya, here in an instrumental/agentive sense ('by Pālitta').",
+      "notes": "The hymn's self-referential homage; on this internal cue the stava is sometimes linked to Pādaliptasūri (see notes)."
+    },
+    {
+      "token": "મયમહિઓ",
+      "translit": "maya-mahio",
+      "gloss": "greatly honoured / worshipped",
+      "partOfSpeech": "compound",
+      "etymology": "mahio = past passive participle < Sanskrit mahita ('honoured, revered, worshipped', √mah). The prior member maya- is read as an intensive 'great(ly)' giving 'greatly honoured (by Pālitta)'.",
+      "notes": "maya- is ambiguous: read as an intensifier ('greatly') yielding pālittaya-maya-mahio = 'greatly honoured by Pālitta'; some construe maya- as 'by me' (mayā) — flagged in notes."
+    },
+    {
+      "token": "દિસઉ",
+      "translit": "disau",
+      "gloss": "may (he) grant / bestow",
+      "partOfSpeech": "verb",
+      "etymology": "Third-person singular imperative < Prakrit root dis (Sanskrit √diś, 'to point out, grant, allot, bestow'); '(let him) grant'.",
+      "notes": "The optative-imperative that turns the closing line into a prayer; its object is khayaṁ."
+    },
+    {
+      "token": "ખયં",
+      "translit": "khayaṁ",
+      "gloss": "destruction, annihilation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khaya < Sanskrit kṣaya ('decay, end, destruction', √kṣi). Accusative singular khayaṁ, the thing granted.",
+      "notes": "Governs the genitive savva-duriyāṇaṁ: 'the destruction of all calamities'."
+    },
+    {
+      "token": "સવ્વદુરિયાણં",
+      "translit": "savva-duriyāṇaṁ",
+      "gloss": "of all calamities (misfortunes, evils)",
+      "partOfSpeech": "compound",
+      "etymology": "savva < Sanskrit sarva ('all') + duriya < Sanskrit durita ('calamity, misfortune, sin, evil'). Genitive plural -āṇaṁ < Sanskrit -ānām.",
+      "notes": "Dependent genitive on khayaṁ; duriya spans physical calamity, misfortune and moral evil."
+    }
+  ],
+  "literalTranslation": "Thus the Blessed Vīra-Jinendra, well-praised by the host of apsarases and by the Saṅgha, greatly honoured by Pālitta — may he grant the destruction of all calamities.",
+  "idiomaticTranslation": "And so, lauded with one voice by the throng of celestial nymphs and by the whole community, the Blessed Lord Vīra, the Jina among Jinas — held in deep honour by Ācārya Pālitta — may he bestow upon us the undoing of every calamity.",
+  "elaboration": {
+    "verseByVerseCommentary": "This sixth gāthā is the hymn's maṅgala — its sealing benediction. The opening 'evaṁ' (thus) is structural: it bundles the whole portrait built in vv.1–5 and turns description into petition. Where the earlier verses described Vīra through the lotus-elephant-moon imagery, this verse describes who praises him and then asks something of him. Two communities are named in a single compound: the 'acchara-gaṇa' (host of celestial nymphs) and the 'saṅgha', together governing 'saṁthuo' — its sam- prefix signalling full, concerted praise from heaven and earth alike. To this the poet adds 'pālittaya maya-mahio', the verse's most distinctive note: the Jina is one 'greatly honoured by Pālitta', a self-referential homage that has led the tradition to associate the stava with Ācārya Pādaliptasūri. Only after this triple acclamation — nymphs, Saṅgha, ācārya — does the prayer arrive. 'Disau' is a third-person imperative ('may he grant'), and what is sought is 'khayaṁ savva-duriyāṇaṁ', the destruction of all duritas. The movement is deliberate: praise first, request last. The reciter does not bargain; having extolled Vīra's complete worthiness, the request for protection follows as the natural fruit of devotion. With this, the protective intent of a smaraṇa is fulfilled — a hymn of beauty closes as a shield against calamity.",
+    "doctrinalContext": "The verse models the orthodox grammar of Jain devotion: a Tīrthaṅkara, being vītarāga (free of attachment), does not 'act' on a petitioner; the fruit of 'disau khayaṁ' arises through the reciter's own purified bhāva and the merit of stuti, not through divine intervention. The object 'durita' is therefore best read on two registers — outward misfortune and, more deeply, the inner karma-causing evil whose 'khaya' (kṣaya) is the technical term for the shedding that leads toward liberation. That the apsaras-host and the Saṅgha praise together expresses the universality of the Jina's worthiness across all realms.",
+    "practicalRelevance": "Recited as the closing remembrance, this gāthā teaches the reciter to seek protection only after sincere praise — orienting the mind from petition to gratitude. Chant it as the resolving cadence of the Vīrastava, letting 'savva-duriyāṇaṁ khaya' name both the day's troubles and the inner faults one means to dissolve.",
+    "crossReferences": [
+      {
+        "text": "Logassa: 'ārugga-bohi-lābhaṁ samāhi-varam uttamaṁ diṁtu' — the parallel petition that the Jinas 'bestow' welfare and samādhi",
+        "source": "Caturviṁśati-stava (Logassa), Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Nava Smaraṇa: the protective (rakṣā) function shared by the nine remembrances, of which Vīrastava is the third",
+        "source": "Standard Nava Smaraṇa collections (jainqq.org)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi Dictionary), Hargovind Das T. Sheth",
+      "url": "https://jainqq.org/explore/004473/1",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for saṁthua (√stu), duriya (durita), khaya (kṣaya), mahia (mahita) and the imperative disau (√diś)."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: bhagavat, jinendra, saṁstuta, mahita, kṣaya, durita, diś, sarva, apsaras."
+    },
+    {
+      "title": "Nava Smaraṇa collections — Vīrastava (text and standard ordering)",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "The textual identity of Vīrastava as the third smaraṇa and the verbatim final gāthā with pālittaya-mayamahio."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati-script Prakrit of the six gāthās and placement within the Pakkhī Nine Smaraṇas."
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "The compound 'maya-mahio' is genuinely ambiguous. Following the preface's authoritative reading, it is rendered 'greatly honoured' (maya- as intensifier), with pālittaya construed as the instrumental agent: 'greatly honoured by Pālitta'. An alternative parse takes maya- = mayā ('by me'), giving 'honoured by me, Pālitta' — which would read as the author's signature; this is flagged but not adopted, as the source book does not assert authorship (external attributions, including Siddhasena Divākara, are uncorroborated). 'bhayavaṁ' is bhagavān (Prakrit g→y softening), not derived from bhaya ('fear'). Transliteration follows IAST and is approximate to the book's Gujarati-script Prakrit; mātrās/anusvāras are authoritative as printed in the source."
+}

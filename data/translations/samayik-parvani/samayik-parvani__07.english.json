@@ -1,0 +1,158 @@
+{
+  "shlokaId": "samayik-parvani/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Because a householder who sits in sāmāyika becomes, for that while, just like a monk, one should do sāmāyika again and again.",
+  "recitation": "Sāmāiyammi u kae, samaṇo iva sāvao havai jamhā; eeṇa kāraṇeṇaṁ, bahuso sāmāiyaṁ kujjā.",
+  "wordByWord": [
+    {
+      "token": "સામાઇઅમ્મિ",
+      "translit": "sāmāiyammi",
+      "gloss": "in/when the sāmāyika (vow of equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of Prakrit sāmāiya (< Sanskrit sāmāyika); the -ammi ending = Sanskrit locative -e/-asmin.",
+      "notes": "Pairs with kae to form a locative-absolute: 'the sāmāyika having been done'."
+    },
+    {
+      "token": "ઉ",
+      "translit": "u",
+      "gloss": "indeed, and (emphatic connective)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit emphatic/expletive particle u, often corresponding to Sanskrit tu; here lightly emphatic, not adversative.",
+      "notes": "Metrically filler-cum-emphasis; carries no separate translatable sense."
+    },
+    {
+      "token": "કએ",
+      "translit": "kae",
+      "gloss": "(being) done, performed",
+      "partOfSpeech": "verb",
+      "etymology": "Locative singular of the past passive participle Prakrit kaḍa/kaya (< Sanskrit kṛta, root √kṛ 'to do'); kae = Sanskrit kṛte.",
+      "notes": "sāmāiyammi kae = 'when sāmāyika has been done' — a locative-absolute construction."
+    },
+    {
+      "token": "સમણો",
+      "translit": "samaṇo",
+      "gloss": "a monk, ascetic (śramaṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative singular of Prakrit samaṇa (< Sanskrit śramaṇa, from √śram 'to exert/strive') — one who labours at austerity.",
+      "notes": "Predicate of the comparison: the standard the layman is measured against."
+    },
+    {
+      "token": "ઇવ",
+      "translit": "iva",
+      "gloss": "like, as if",
+      "partOfSpeech": "particle",
+      "etymology": "Comparative particle, identical in Prakrit and Sanskrit (iva).",
+      "notes": "Marks resemblance, not identity — 'like a monk', for the duration of the vow."
+    },
+    {
+      "token": "સાવઓ",
+      "translit": "sāvao",
+      "gloss": "the layman, lay devotee (śrāvaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative singular of Prakrit sāvaa (< Sanskrit śrāvaka, from √śru 'to hear') — 'a hearer' of the teaching; the householder follower.",
+      "notes": "Grammatical subject of havai. Not 'sarva/perfect' — a common mis-gloss; the contrast is layman vs. monk."
+    },
+    {
+      "token": "હવઇ",
+      "translit": "havai",
+      "gloss": "becomes, is",
+      "partOfSpeech": "verb",
+      "etymology": "Third person singular present of Prakrit havai (< Sanskrit bhavati, root √bhū 'to be, become').",
+      "notes": "Present tense states a recurring truth: each time the vow is kept, the becoming occurs."
+    },
+    {
+      "token": "જમ્હા",
+      "translit": "jamhā",
+      "gloss": "since, because",
+      "partOfSpeech": "adverb",
+      "etymology": "Causal relative adverb (< Sanskrit yasmāt, ablative of the relative ya-).",
+      "notes": "Introduces the reason; answered by the eeṇa kāraṇeṇaṁ ('for this reason') of line 2."
+    },
+    {
+      "token": "એએણ",
+      "translit": "eeṇa",
+      "gloss": "by this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Instrumental singular of the demonstrative Prakrit ea (< Sanskrit etena, from etad 'this').",
+      "notes": "Forms the correlative phrase with kāraṇeṇaṁ, resuming the jamhā clause."
+    },
+    {
+      "token": "કારણેણં",
+      "translit": "kāraṇeṇaṁ",
+      "gloss": "reason, cause",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental singular of Prakrit kāraṇa (< Sanskrit kāraṇa 'cause', from √kṛ). The doubled -ṇṇ-/final anusvāra is a Prakrit sandhi/metrical feature.",
+      "notes": "'eeṇa kāraṇeṇaṁ' = 'for this reason' — the practical conclusion drawn from line 1."
+    },
+    {
+      "token": "બહુસો",
+      "translit": "bahuso",
+      "gloss": "often, repeatedly, many times",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit bahuso (< Sanskrit bahuśas, from bahu 'much/many' + distributive suffix -śas).",
+      "notes": "The exhortation's key word: frequency, not a single performance, is urged."
+    },
+    {
+      "token": "સામાઇયં",
+      "translit": "sāmāiyaṁ",
+      "gloss": "the sāmāyika (vow of equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative singular of Prakrit sāmāiya (< Sanskrit sāmāyika); object of kujjā.",
+      "notes": "Same word as in line 1, now the grammatical object of the act enjoined."
+    },
+    {
+      "token": "કુજ્જા",
+      "translit": "kujjā",
+      "gloss": "should do, ought to perform",
+      "partOfSpeech": "verb",
+      "etymology": "Optative (vidhi) third person singular of Prakrit √kar (< Sanskrit kuryāt, root √kṛ 'to do').",
+      "notes": "Optative mood gives the verse its prescriptive force — counsel, not mere statement."
+    }
+  ],
+  "literalTranslation": "And since, when sāmāyika has been done, the layman becomes like a monk — for this reason one should do sāmāyika often.",
+  "idiomaticTranslation": "For in the very act of keeping sāmāyika the householder is, for that span, no different from a monk; and it is precisely for this reason that one should take up sāmāyika again and again.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding gāthā promised that an unbroken, vow-joined mind 'severs inauspicious karma as many times as sāmāyika is done', this verse names the prize that severing wins: a change of spiritual station. The locative-absolute sāmāiyammi … kae ('the sāmāyika having been done') sets a precise frame — the claim holds within the vow, not outside it — and inside that frame the present-tense havai declares a present fact: the sāvao (householder) becomes samaṇo iva, 'like a monk'. The single word iva is doing careful theological work. It is a simile, not an equation: the layman does not take dīkṣā, but for these roughly forty-eight minutes he lives the monk's discipline — no injury, no possessions handled, no worldly speech, the mind held in equanimity — and so is, functionally, a monk for the while. Line two converts this into counsel by a tidy logical hinge: jamhā ('since') in line one is answered by eeṇa kāraṇeṇaṁ ('for this very reason') in line two, and the optative kujjā ('one should do') with bahuso ('again and again') turns description into prescription. The argument is therefore complete in itself: because each session lifts the householder momentarily into monkhood, and because the lift lasts only as long as the session, the rational response is repetition — to re-enter that elevated state as often as one can. The verse thus seals the equanimity-praise movement on a practical, forward-leaning note, sending the reciter back not merely to admire sāmāyika but to resolve upon doing it frequently.",
+    "doctrinalContext": "The verse rests on the Jain principle that spiritual status is conferred by conduct (cāritra) and inner state (bhāva), not by external rank. During sāmāyika the śrāvaka temporarily holds sarva-sāvadya-yoga-viramaṇa — abstention from all harmful activity — which is structurally the monk's great vow scaled to a fixed term; hence the 'like a monk' equation is doctrinally exact rather than flattering. It also expresses the continuity between the śrāvaka-dharma and the muni-dharma: the lay path is not a separate track but a graduated approach to the same equanimity, with sāmāyika as the recurring rehearsal of the ascetic ideal. The counsel bahuso … kujjā reflects the karmic logic of the prior verse — repeated equanimity means repeated saṁvara (stoppage of inflow) and nirjarā (shedding) of karma.",
+    "practicalRelevance": "Recited at the close of the vow, this gāthā reframes the session just ended: the reciter is meant to feel that for the last forty-eight minutes he truly lived as a monk, and to carry that dignity outward. Its working takeaway is the optative — treat sāmāyika not as an occasional duty but as a habit to repeat often, each sitting a fresh, attainable step into the ascetic state.",
+    "crossReferences": [
+      {
+        "text": "Sāmāiya vaya jutto … chinnai asuhaṁ kammaṁ, sāmāiya jattiā vārā (preceding gāthā, v.6)",
+        "source": "Sāmāyika Pārvānī, Anchalgachchha Pañca Pratikramaṇa Sūtra (Vidhi Sahit)"
+      },
+      {
+        "text": "Āvaśyaka Niryukti, Sāmāyika-Āvaśyaka section (equanimity-praise gāthās)",
+        "source": "Bhadrabāhu, with Haribhadrasūri's vṛtti; ed. Sumanmuni & D. Shastri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Avashyak Niryukti Part 01 (Bhadrabāhu, with Haribhadrasūri vṛtti; ed. Sumanmuni & Dr. Damodar Shastri)",
+      "url": "https://jainqq.org/booktext/Avashyak_Niryukti_Part_01_Romanized/004277",
+      "type": "scholarship",
+      "consultedFor": "Tradition-source of the equanimity-praise gāthās and the Sāmāyika-Āvaśyaka framework in which 'sāvao samaṇo iva havai' sits."
+    },
+    {
+      "title": "Avashyak Niryukti Part 01 — catalogue/text (Jain Quantum)",
+      "url": "https://jainqq.org/explore/004277/1",
+      "type": "scholarship",
+      "consultedFor": "Confirming authorship (Bhadrabāhu / Haribhadrasūri) and edition details of the Avaśyaka Niryukti."
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma of the Prakrit tokens: √kṛ (kṛta/kuryāt), √bhū (bhavati), śramaṇa, śrāvaka, bahuśas, yasmāt, etena."
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati-script wording of v.7 and its placement in the Sāmāyika Pārvānī conclusion."
+    }
+  ],
+  "translatorConfidence": 0.91,
+  "notes": "Reading is secure and widely transmitted. 'sāvao' is śrāvaka (layman), not 'sarva/perfect' — some popular glosses err here; the layman-vs-monk contrast (sāvao … samaṇo iva) is the whole point. 'u' is a light emphatic/connective particle with no independent translatable sense. The exact Āvaśyaka-Niryukti gāthā number varies by recension and is left unstated rather than guessed; the cited jainelibrary.org URL points to the general repository, not a verified single page. Per the book's fidelity rules the Gujarati orthography (e.g. doubled conjuncts, final anusvāra in કારણેણં) is preserved verbatim and not normalized."
+}

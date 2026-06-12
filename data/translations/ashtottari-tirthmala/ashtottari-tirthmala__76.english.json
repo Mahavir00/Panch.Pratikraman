@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/76",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Praise the stūpa of Supārśva the Jina at Mathurā, the holy spot where — through an ascetic's spiritual power — white banners are said to have risen up overnight.",
+  "recitation": "taccaṁ niyāṇavāe, seyapaḍāgā nisāi jahiṁ jāyā | khavaga pabhāvā taṁ thuṇi, mahurāi supāsajiṇa thūbhaṁ ||",
+  "wordByWord": [
+    {
+      "token": "તચ્ચં",
+      "translit": "taccaṁ",
+      "gloss": "truly, in truth",
+      "partOfSpeech": "adverb",
+      "etymology": "From Skt. tathyam, 'true, real' (thy → cch, as in satya → sacca).",
+      "notes": "Read here adverbially ('truly, verily'); some editions could parse it as tṛtīyam ('thirdly'), counting a position in the roll-call. Flagged in notes."
+    },
+    {
+      "token": "નિયાણવાએ",
+      "translit": "niyāṇavāe",
+      "gloss": "in the dispute over a niyāṇa (binding resolve / wager-vow)",
+      "partOfSpeech": "compound",
+      "etymology": "ṇiyāṇa < Skt. nidāna ('binding mental resolve, vow with a fixed aim') + vāe < Skt. vāde, locative of vāda ('dispute, contest, debate').",
+      "notes": "Compound and case are uncertain: vāe may instead be instrumental ('by way of a nidāna'). The line evokes a contest/wager episode at the shrine. See notes."
+    },
+    {
+      "token": "સેયપડાગા",
+      "translit": "seyapaḍāgā",
+      "gloss": "white banners",
+      "partOfSpeech": "compound",
+      "etymology": "seya < Skt. śveta ('white') + paḍāgā < Skt. patākā ('flag, banner'); nom. plural.",
+      "notes": "White banners are an auspicious sign of victory/sanctity over the shrine."
+    },
+    {
+      "token": "નિસાઇ",
+      "translit": "nisāi",
+      "gloss": "by night, at night",
+      "partOfSpeech": "adverb",
+      "etymology": "Locative of nisā < Skt. niśā ('night'), = niśāyām.",
+      "notes": ""
+    },
+    {
+      "token": "જહિં",
+      "translit": "jahiṁ",
+      "gloss": "where, at which (place)",
+      "partOfSpeech": "adverb",
+      "etymology": "Relative locative adverb < Skt. yatra/yasmin ('where').",
+      "notes": "Correlates with the named site in the second half (taṁ … thūbhaṁ)."
+    },
+    {
+      "token": "જાયા",
+      "translit": "jāyā",
+      "gloss": "arose, appeared, came into being",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle < Skt. jāta ('born, arisen'), from √jan; nom. plural agreeing with paḍāgā.",
+      "notes": ""
+    },
+    {
+      "token": "ખવગ",
+      "translit": "khavaga",
+      "gloss": "ascetic, karma-destroyer (kṣapaka)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. kṣapaka, 'one who wears away / destroys (karma)', from √kṣap; the monk who mounts the kṣapaka-śreṇi.",
+      "notes": "Here a powerful Jain ascetic whose tapas effected the miracle."
+    },
+    {
+      "token": "પભાવા",
+      "translit": "pabhāvā",
+      "gloss": "by the power, through the spiritual influence (of)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. prabhāva ('majestic power, influence, efficacy'); ablative/instrumental sense, prabhāvāt.",
+      "notes": "khavaga-pabhāvā = 'by the ascetic's power' — the agency behind the banners' appearance."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (stūpa)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative < Skt. tam, acc. sing.",
+      "notes": "Object of thuṇi; resumes the relative jahiṁ."
+    },
+    {
+      "token": "થુણિ",
+      "translit": "thuṇi",
+      "gloss": "praise! (I/you praise)",
+      "partOfSpeech": "verb",
+      "etymology": "< Skt. √stu, 'to praise' (stuhi); cf. the hymn's refrain thuṇimo.",
+      "notes": "An imperative/optative of homage — the recurring devotional verb of the garland."
+    },
+    {
+      "token": "મહુરાઇ",
+      "translit": "mahurāi",
+      "gloss": "at Mathurā",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of Mahurā < Skt. Mathurā (intervocalic th → h).",
+      "notes": "The ancient Jain centre on the Yamunā (Kankali Tila site)."
+    },
+    {
+      "token": "સુપાસજિણ",
+      "translit": "supāsajiṇa",
+      "gloss": "of Supārśva the Jina",
+      "partOfSpeech": "compound",
+      "etymology": "supāsa < Skt. Supārśva (7th Tīrthaṅkara) + jiṇa < Skt. jina ('conqueror'); modifies thūbhaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "થૂભં",
+      "translit": "thūbhaṁ",
+      "gloss": "the stūpa (memorial shrine)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. stūpa (Prakrit thūbha/thupa, the form 'thupe' in Mathurā Jain inscriptions); acc. sing.",
+      "notes": "A domed reliquary-shrine; the Mathurā one was famed as deva-built."
+    }
+  ],
+  "literalTranslation": "Truly, in the dispute over a binding vow, where white banners arose by night — by the power of the ascetic — praise that: at Mathurā, the stūpa of Supārśva the Jina.",
+  "idiomaticTranslation": "Praise that stūpa of Supārśva the Jina at Mathurā — the very place where, so the tale of the binding vow tells, white victory-banners rose overnight by the spiritual power of a Jain ascetic.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the Śatruñjaya cluster (vv.72–75) the garland steps north to the Yamunā and bows to a single, archaeologically real monument: the Supārśva stūpa of Mathurā (mahurāi supāsajiṇa thūbhaṁ). Two features make this verse distinct. First, its object of homage is not a mountain or a living Jina but a thūbha — a domed memorial-shrine, the only stūpa explicitly garlanded in the whole hymn — fixing in verse the tradition that Mathurā preserved a deva-built shrine of the seventh Tīrthaṅkara, later encased in brick. Second, the verse compresses a miracle-legend into a relative clause: jahiṁ … seyapaḍāgā nisāi jāyā, 'where white banners arose by night.' The white banner (seya-paḍāgā) is the stock token of victory and sanctity; its overnight appearance, khavaga pabhāvā — 'by the power of a kṣapaka (an ascetic burning away karma)' — credits the wonder not to ritual machinery but to the tapas of a realised monk. The opening taccaṁ niyāṇavāe ('truly, in the matter of the binding vow/wager') frames the episode as a contest settled by spiritual force. The poet does not narrate; he gestures — naming just enough (vow, night, white banners, ascetic, Mathurā, Supārśva) to summon a story the listener is expected to know, and seals it with the garland's signature imperative thuṇi, 'praise!' Thus a famous site, a doctrinal point about ascetic power, and an act of homage are folded into a single gāthā.",
+    "doctrinalContext": "The verse quietly teaches prabhāva — the efficacy of tapas. The marvel is attributed to a kṣapaka, the technical term for an ascetic ascending the karma-destroying ladder (kṣapaka-śreṇi); the white banners are an outward sign of an inward conquest of karma, not magic for its own sake. It also affirms image- and shrine-veneration (caitya-bhakti): a stūpa, like a Jina image, is a worthy focus of homage because it localises and transmits the Jina's presence. By honouring a memorial rather than a person, the verse extends the hymn's reach to the seventh Tīrthaṅkara, Supārśva, through the relic-shrine that carried his memory across centuries at Mathurā.",
+    "practicalRelevance": "When reciting this line, the worshipper bows to a tīrtha most will never visit, and is reminded that genuine spiritual power flows from ascetic discipline, not display. The 'white banner overnight' becomes an inner aspiration: let restraint and tapas, quietly practised, raise their own banner over the mind.",
+    "crossReferences": [
+      {
+        "text": "Mathurāpurī-kalpa (account of the deva-built Supārśva stūpa later encased in brick under Pārśvanātha)",
+        "source": "Jinaprabhasūri, Vividha-tīrtha-kalpa"
+      },
+      {
+        "text": "Mathurā Jain stūpa called deva-nirmita ('god-built') in the Saṁvat 79 (c.156–157 CE) inscription",
+        "source": "V. A. Smith, The Jain Stūpa and Other Antiquities of Mathurā"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain stupa — deva-nirmita stupa of Suparshvanatha at Mathura; Vividha Tirtha Kalpa Mathurapuri Kalpa",
+      "url": "https://en.wikipedia.org/wiki/Jain_stupa",
+      "type": "scholarship",
+      "consultedFor": "Confirming the verse's subject: the god-built stūpa originally erected for the 7th Tīrthaṅkara Supārśvanātha at Mathurā, later encased in brick, and the inscriptional 'deva-nirmita' claim."
+    },
+    {
+      "title": "Kankali Tila — the excavated Jain stupa mound at Mathura",
+      "url": "https://en.wikipedia.org/wiki/Kankali_Tila",
+      "type": "scholarship",
+      "consultedFor": "Archaeological identification and dating of the Mathurā Jain stūpa site honoured in this verse."
+    },
+    {
+      "title": "Vividha Tirtha Kalpa (Jinaprabhasūri)",
+      "url": "https://en.wikipedia.org/wiki/Vividha_Tirtha_Kalpa",
+      "type": "scholarship",
+      "consultedFor": "Provenance of the Mathurā Supārśva-stūpa legend in the medieval Jain pilgrimage-kalpa tradition."
+    },
+    {
+      "title": "Suparshvanatha — the 7th Tīrthaṅkara",
+      "url": "https://en.wikipedia.org/wiki/Suparshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of supāsa-jiṇa (Supārśva), the Jina to whom the Mathurā stūpa is dedicated."
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The site (mahurāi supāsajiṇa thūbhaṁ = the Supārśva-Jina stūpa at Mathurā) is securely identified and well attested. The micro-legend encoded in the first half is read with lower confidence: (1) 'taccaṁ' is taken as tathyam ('truly'); it could instead be tṛtīyam ('thirdly'). (2) 'niyāṇavāe' is parsed as nidāna + vāde ('in the dispute over a binding vow/wager'), but vāe may be instrumental ('by way of a nidāna'); the exact wager-narrative behind 'white banners arising overnight by the ascetic's power' was not located in a verified critical edition and varies across retellings — treated here as the legend the poet alludes to rather than asserted fact. Orthography of the source (Anchalgachchha/Vidhipaksha edition) is preserved verbatim. Per-token glosses follow standard Prakrit→Sanskrit phonological correspondences (e.g., śveta→seya, patākā→paḍāgā, stūpa→thūbha, kṣapaka→khavaga)."
+}

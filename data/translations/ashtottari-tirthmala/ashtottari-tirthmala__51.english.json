@@ -1,0 +1,196 @@
+{
+  "shlokaId": "ashtottari-tirthmala/51",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On each step-well grow eight lotuses, on each lotus a hundred thousand petals, on each petal a thirty-two-fold dance-show, and at each lotus-heart a jewelled palace.",
+  "recitation": "paï vāvī aṭṭha kamalā, paï kamalaṁ lakkha patta paï pattaṁ; battīsa vihaṁ nāḍaya, paï kaṇṇiāya rayaṇa pāsāo.",
+  "wordByWord": [
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "on each, per (distributive)",
+      "partOfSpeech": "particle",
+      "etymology": "from Skt. prati, 'towards / each'; in Prakrit-Apabhraṁśa a distributive prefix marking 'one … for every …'",
+      "notes": "Recurs four times in the verse, driving the geometric multiplication."
+    },
+    {
+      "token": "વાવી",
+      "translit": "vāvī",
+      "gloss": "step-well, tank",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vāpī, an oblong masonry reservoir with descending steps",
+      "notes": "Carried over from the previous verse, where eight vāvīs sit on each tusk."
+    },
+    {
+      "token": "અટ્ઠ",
+      "translit": "aṭṭha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. aṣṭa",
+      "notes": ""
+    },
+    {
+      "token": "કમલા",
+      "translit": "kamalā",
+      "gloss": "lotuses",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kamala, 'lotus'; here nominative plural",
+      "notes": ""
+    },
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "on each, per",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. prati; distributive",
+      "notes": ""
+    },
+    {
+      "token": "કમલં",
+      "translit": "kamalaṁ",
+      "gloss": "lotus (each one)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kamala; singular as the distributive base",
+      "notes": ""
+    },
+    {
+      "token": "લક્ખ",
+      "translit": "lakkha",
+      "gloss": "a hundred thousand, a lakh",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. lakṣa, 'one hundred thousand'",
+      "notes": "A variant tradition reads aṣṭa (eight) petals here; see notes."
+    },
+    {
+      "token": "પત્ત",
+      "translit": "patta",
+      "gloss": "petals, leaves",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. patra, 'leaf / petal'; plural",
+      "notes": ""
+    },
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "on each, per",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. prati; distributive",
+      "notes": ""
+    },
+    {
+      "token": "પત્તં",
+      "translit": "pattaṁ",
+      "gloss": "petal (each one)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. patra; singular as the distributive base",
+      "notes": ""
+    },
+    {
+      "token": "બત્તીસ",
+      "translit": "battīsa",
+      "gloss": "thirty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dvātriṁśat → Pkt. battīsa",
+      "notes": "The classical count of the dramatic repertoire (battīsa-baddha nāṭaka)."
+    },
+    {
+      "token": "વિહં",
+      "translit": "vihaṁ",
+      "gloss": "fold, kinds (i.e. of thirty-two types)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. -vidha, 'manifold, of … kinds'",
+      "notes": ""
+    },
+    {
+      "token": "નાડય",
+      "translit": "nāḍaya",
+      "gloss": "drama, dance-spectacle",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nāṭaka, 'a staged dramatic / dance performance'",
+      "notes": "The 'thirty-two-fold drama' is the celestial dance troupe performing on each petal."
+    },
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "on each, at each",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. prati; distributive",
+      "notes": ""
+    },
+    {
+      "token": "કણિણાય",
+      "translit": "kaṇṇiāya",
+      "gloss": "in the pericarp (lotus seed-cup)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. karṇikā, the central seed-vessel / raised heart of a lotus; here in the locative",
+      "notes": "Spelt with the geminate ણિણ of the source orthography."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, of gems",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ratna; here adjectival, 'made of jewels'",
+      "notes": ""
+    },
+    {
+      "token": "પાસાઓ",
+      "translit": "pāsāo",
+      "gloss": "a palace",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. prāsāda, 'palatial mansion / lofty edifice'; nominative",
+      "notes": "Picked up in the next verse, which sets eight bhadrāsanas and a lion-throne in each such palace."
+    }
+  ],
+  "literalTranslation": "On each step-well, eight lotuses; on each lotus, a hundred thousand petals; on each petal, the thirty-two-fold drama; in each pericarp, a jewelled palace.",
+  "idiomaticTranslation": "And upon every step-well bloom eight lotuses; on every lotus, a hundred thousand petals; on every single petal, a dance-spectacle of thirty-two kinds; and cradled in every lotus-heart, a palace of pure jewels.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse keeps climbing the dizzying ladder begun just before it: the divine elephant's tusks bore step-wells, and now each step-well opens into eight lotuses, each lotus into a lakh of petals, each petal into a full thirty-two-fold dance-spectacle, and each lotus-heart cradles a jewelled palace. The single word paï ('on each') is the engine of the whole passage — repeated four times, it multiplies one wonder into countless wonders, the numbers swelling past anything the mind can hold. The poet is not counting for arithmetic's sake; he is staging an deliberate sensory overflow. This is Śakra's (Indra's) miraculous Airāvaṇa, conjured to answer the proud king Daśārṇabhadra, who had vowed to honour the arriving Mahāvīra with unmatched pomp. Where the king brought his finest splendour, the god answers with a self-multiplying cosmos of lotuses, dancers and gem-palaces — and the next verse will crown each palace with thrones. The lotus, petal, dance and palace are stock emblems of worldly magnificence; heaped up to the point of vertigo, they set up the lesson the legend turns on. Note how the verse flows seamlessly out of the preceding one (step-wells) and into the following one (palaces and thrones), so that verses 50–52 read as one breathless inventory rather than three separate stanzas.",
+    "doctrinalContext": "The point of this towering catalogue is precisely that it can be out-towered. Daśārṇabhadra's fault is māna / mada — pride in possession — and Śakra's escalating display teaches the impermanence (anitya) and ultimate worthlessness of even heaven-scale opulence before a Jina. The same imagery that dazzles the senses exposes parigraha (attachment to grandeur) as a trap: however high the count climbs, a higher count answers it, so no quantity of splendour confers real worth. Only the Tīrthaṅkara, who has renounced all of it, stands beyond competition. Thus the verse's exuberant materiality serves a renunciant end — the king will shortly abandon his pride and take to right conduct.",
+    "practicalRelevance": "A reciter can let the runaway numbers do their intended work: notice the impulse to be impressed, then recall that any worldly 'most' can always be surpassed, and turn that recognition into a check on one's own pride in wealth, status or even pious display. The takeaway is humility before the Jina, not a richer offering.",
+    "crossReferences": [
+      {
+        "text": "Daśārṇabhadra episode — Śakra's eight-tusked elephant with ponds, lotuses, petals and thirty-two dramas",
+        "source": "Daśārṇabhadrarṣisajjhāya of Lālavijaya (Tessitori Collection), summarised at wisdomlib.org"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra, Book 10 (Mahāvīra-caritra) — the humbling of Daśārṇabhadra's pride",
+        "source": "Hemacandra, tr. Helen M. Johnson (Oriental Institute, Baroda)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dasharnabhadra (Daśārṇabhadra) — definition and legend",
+      "url": "https://www.wisdomlib.org/definition/dasharnabhadra",
+      "type": "scholarship",
+      "consultedFor": "Direct attestation of the enumeration (eight tusks → ponds → lotuses → petals → thirty-two dramatic shows) and the pride-humbling narrative frame of this verse"
+    },
+    {
+      "title": "Vapi (Vāpī) — Sanskrit/Prakrit definition",
+      "url": "https://www.wisdomlib.org/definition/vapi",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vāvī / vāpī as a stepped masonry tank (step-well)"
+    },
+    {
+      "title": "Karnika (Karṇikā) — Sanskrit definition",
+      "url": "https://www.wisdomlib.org/definition/karnika",
+      "type": "dictionary",
+      "consultedFor": "Gloss of kaṇṇiā / karṇikā as the pericarp (seed-cup) of the lotus"
+    },
+    {
+      "title": "Prasada (Prāsāda) — Sanskrit/Vāstu definition",
+      "url": "https://www.wisdomlib.org/definition/prasada",
+      "type": "dictionary",
+      "consultedFor": "Gloss of pāsāo / prāsāda as a palatial mansion / lofty edifice"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Root-forms aṣṭa, kamala, patra, lakṣa, dvātriṁśat, vidha, nāṭaka, ratna for the per-token etymologies"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The verse continues the self-multiplying inventory of Śakra's miraculous Airāvaṇa elephant from the Daśārṇabhadra legend (preface arc vv.49–55): preceding verse gives elephant→faces→tusks→step-wells, this verse gives step-wells→lotuses→petals→dramas→pericarp-palaces, and the following verse gives palaces→bhadrāsanas/lion-thrones. A variant tradition (e.g. the Tessitori Daśārṇabhadrarṣisajjhāya summary) reads 'eight (aṣṭa) leaves per lotus' where this book reads 'a lakh (lakkha) of petals'; the source book's reading is preserved verbatim and the variant is flagged. Orthography kept as printed (વાવી, કણિણાય with geminate, પાસાઓ). 'battīsa vihaṁ nāḍaya' is read as the classical thirty-two-fold dramatic/dance repertoire; the exact technical content of the '32 kinds' is not enumerated in the verse and is left unspecified rather than invented."
+}

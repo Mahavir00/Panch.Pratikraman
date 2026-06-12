@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/84",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse counts the Jina temples at several towns — two at Sūrācanda, two at Chevaṭṭhāṇa, four at Bāhaḍameru — and then praises Lord Pārśva at Rāudaha.",
+  "recitation": "sūrācaṁde dunniya dunniya chevaṭṭhaṇaṁmi jiṇa bhavaṇo, caüro bāhaḍamere pāsaṁ ca thuṇāmi rāudahe.",
+  "wordByWord": [
+    {
+      "token": "સૂરાચંદે",
+      "translit": "sūrācaṁde",
+      "gloss": "at Sūrācanda (a holy town)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name Sūrācanda in the locative singular (-e, < Skt. loc. -e); the second member echoes candra ('moon')",
+      "notes": "Identification of the site is uncertain; carried as a proper place-name."
+    },
+    {
+      "token": "દુન્નિય",
+      "translit": "dunniya",
+      "gloss": "two (i.e. two Jina temples)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dunni / duṇṇi 'two' (< Skt. dvi-, cf. dvau/dve) + euphonic/connective -ya",
+      "notes": "Reduplicated in the line (dunniya … dunniya): 'two … two', distributing the count over two towns."
+    },
+    {
+      "token": "દુન્નિય",
+      "translit": "dunniya",
+      "gloss": "two (the second 'two', for the next town)",
+      "partOfSpeech": "adj",
+      "etymology": "as above: Prakrit dunni 'two' + -ya",
+      "notes": ""
+    },
+    {
+      "token": "છેવઠ્ઠણંમિ",
+      "translit": "chevaṭṭhaṇaṁmi",
+      "gloss": "at Chevaṭṭhāṇa (a holy place)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name in the Prakrit locative -ṁmi (= Skt. loc.); final member ṭhāṇa < Skt. sthāna 'place, site'",
+      "notes": "Read as a single place-name in the locative; the exact site is not firmly identified."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the conqueror, a Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Skt. jina, 'conqueror', from √ji 'to conquer'",
+      "notes": "Compounded with the following word: jiṇa-bhavaṇa, 'Jina temple'."
+    },
+    {
+      "token": "ભવણો",
+      "translit": "bhavaṇo",
+      "gloss": "temple(s), shrine-house(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇa < Skt. bhavana 'abode, mansion'; nominative -o",
+      "notes": "jiṇa bhavaṇo = 'Jina temples', the objects being counted across the towns."
+    },
+    {
+      "token": "ચઉરો",
+      "translit": "caüro",
+      "gloss": "four (i.e. four Jina temples)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cauro / caüro 'four' < Skt. catur-",
+      "notes": ""
+    },
+    {
+      "token": "બાહડમેરે",
+      "translit": "bāhaḍamere",
+      "gloss": "at Bāhaḍameru (a holy town)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name in the locative singular -e; final member -meru/-mera, a common western-Indian toponym element",
+      "notes": "Possibly the Bāhaḍameru / Bahadmer (Barmer-region) of medieval western India; identification not certain."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva(nātha), the 23rd Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsa < Skt. pārśva; accusative -aṁ, the object of 'I praise'",
+      "notes": "Singled out for personal homage, distinct from the temples merely counted before."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ca < Skt. ca, copulative 'and'",
+      "notes": ""
+    },
+    {
+      "token": "થુણામિ",
+      "translit": "thuṇāmi",
+      "gloss": "I praise / I sing the praises of",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇāmi, 1st-person sg. present < Skt. √stu 'to praise, extol' (cf. staumi)",
+      "notes": "The verse's one finite verb of homage; shifts the line from tallying temples to personal devotion."
+    },
+    {
+      "token": "રાઉદહે",
+      "translit": "rāudahe",
+      "gloss": "at Rāudaha (a tīrtha by a lake)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name in the locative -e; final member daha < Skt. hrada 'lake, pool', a frequent toponym element (rāu- possibly < rāja-, 'royal')",
+      "notes": "Read as the site where the praised Pārśva is enshrined; identification uncertain."
+    }
+  ],
+  "literalTranslation": "At Sūrācanda two, two at Chevaṭṭhāṇa — Jina temples; four at Bāhaḍameru; and I praise Pārśva at Rāudaha.",
+  "idiomaticTranslation": "Two Jina temples stand at Sūrācanda and two at Chevaṭṭhāṇa; four more at Bāhaḍameru; and at Rāudaha I bow in praise before Lord Pārśvanātha.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is one of the hymn's pure roll-call verses: instead of telling a legend, the poet simply tallies how many Jina shrines stand at each town — two at Sūrācanda, two at Chevaṭṭhāṇa, four at Bāhaḍameru. The numerals do the devotional work; counting the temples (dunniya, dunniya, caüro) is itself an act of reverence, a 'census of devotion' that lets the reciter salute whole clusters of shrines in a single breath. The line then pivots. After three towns named only by their temple-counts, the verb thuṇāmi ('I praise') breaks in for the first time in the verse, and a single Jina — Pārśva at Rāudaha — is lifted out of the tally for personal homage. The movement is deliberate: from impersonal enumeration to the intimate first person, from 'how many temples' to 'whom I praise'. This rhythm sets the verse off from its neighbours, which lean on story — the preceding verse evokes Ṛṣabha at the Gufāgiri cave-hill of the Pārkar country, and the following one moves to Kannauj and the wooden Vīra image of Sacaur. Here, between two narrative verses, the poet gives a brisk geographic ledger capped by one focused bow, keeping the garland moving bead by bead.",
+    "doctrinalContext": "The verse rests on the Mūrtipūjaka conviction that a Jina image enshrined in a bhavaṇa is a true locus of veneration; therefore even to count the temples of a town is to honour the Jinas housed within them, and the merit of darśana is gathered without travel. The closing thuṇāmi addressed to Pārśva — the 23rd Tīrthaṅkara — enacts the hymn's governing gesture of homage on a named, well-loved Jina, reminding the reciter that the abstract tally finally resolves into devotion to a specific liberated soul worthy of praise.",
+    "practicalRelevance": "Reciting this verse, a worshipper mentally bows at each town in turn, venerating every shrine there at once; the shift into the first-person thuṇāmi invites the chanter to make Rāudaha's Pārśva a personal object of praise, turning a list of place-names into an act of present-tense devotion.",
+    "crossReferences": [
+      {
+        "text": "Logassa — praise of the 24 Tīrthaṅkaras, in which Pārśva (Pāsa) is named",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Tirthmalastava — a tīrthamālā of the same genre listing regional western-Indian tīrthas",
+        "source": "JainGPT book summary"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://jainelibrary.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for dunni ('two'), cauro ('four'), ṭhāṇa (< sthāna), bhavaṇa ('temple'), and thuṇāmi ('I praise')"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/etyma √stu ('to praise'), sthāna, bhavana, hrada ('lake'), pārśva and catur underlying the Prakrit forms"
+    },
+    {
+      "title": "Tirthmalastava — Book Summary, JainGPT",
+      "url": "https://jaingpt.org/knowledge/tirthmalastava_229315_229315",
+      "type": "scholarship",
+      "consultedFor": "The tīrthamālā genre and the Mahendrasūri lineage that frames such Prakrit pilgrimage roll-calls of western-Indian tīrthas"
+    },
+    {
+      "title": "Ancient Jaina Texts of History (PDF), Jainworld",
+      "url": "https://jainworld.jainworld.com/JWEnglish/Jain%20texts%20of%20history.pdf",
+      "type": "scholarship",
+      "consultedFor": "Medieval Jain tīrtha catalogues (incl. the '84 mahātīrtha' tradition) and the practice of enumerating regional shrines"
+    }
+  ],
+  "translatorConfidence": 0.62,
+  "notes": "The Prakrit vocabulary is secure (dunni 'two', cauro 'four', ṭhāṇa < sthāna, locatives in -e / -ṁmi, jiṇa-bhavaṇa 'Jina temple', thuṇāmi < √stu 'I praise'). The place-names, however, are uncertain and reflect medieval western-Indian sacred geography: Sūrācanda, Chevaṭṭhāṇa (read as a single place ending in -ṭhāṇa < sthāna), Bāhaḍameru (possibly the Bahadmer/Barmer region) and Rāudaha (rāu-daha, perhaps a 'royal lake' site) were not firmly identified against an independent gazetteer and may carry variant readings in other editions. 'dunniya' is analysed as dunni + a euphonic/connective -ya. The syntactic distribution of the two 'dunni' counts and the 'cauro' across the named towns is the most natural reading but is not fixed by punctuation; the danda and verse-final period follow the source orthography."
+}

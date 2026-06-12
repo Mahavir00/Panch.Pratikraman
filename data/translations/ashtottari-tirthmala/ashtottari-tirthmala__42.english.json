@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/42",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On the holy mountain Aṣṭāpada I bow to, praise, and meditate upon Lord Ṛṣabha, the first Jina, before whom even the king of the gods bows.",
+  "recitation": "aṭṭhāvaya girirāe, paṇamemi thuṇemi tahaya jhāemi | dhamma-dhura-dharaṇa-vasabhaṁ, usabhaṁ paṇamanta-suravasabhaṁ ||",
+  "wordByWord": [
+    {
+      "token": "અટ્ઠાવય",
+      "translit": "aṭṭhāvaya",
+      "gloss": "Aṣṭāpada (the sacred mountain where Ṛṣabha attained liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. < Skt. aṣṭāpada, lit. 'eight-stepped / eight-footed' (aṣṭa 'eight' + pada 'step, foot'), the name of the holy peak.",
+      "notes": "Stem form opening the locative phrase with the next word."
+    },
+    {
+      "token": "ગિરિરાએ",
+      "translit": "girirāe",
+      "gloss": "on the king of mountains (locative)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. loc. sg. of giri-rāya < Skt. giri-rāja (giri 'mountain' + rāja 'king'); the loc. ending -e marks 'on/at'.",
+      "notes": "An honorific epithet of Aṣṭāpada; together: 'on Aṣṭāpada, the king of mountains'."
+    },
+    {
+      "token": "પણમેમિ",
+      "translit": "paṇamemi",
+      "gloss": "I bow, I salute (with the body)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. 1st sg. pres. < Skt. praṇamāmi (pra + √nam 'to bend, bow').",
+      "notes": "First of three homage-verbs (body)."
+    },
+    {
+      "token": "થુણેમિ",
+      "translit": "thuṇemi",
+      "gloss": "I praise, I extol (with speech)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. 1st sg. pres. < Skt. staumi / stunomi (√stu 'to praise').",
+      "notes": "Second homage-verb (speech)."
+    },
+    {
+      "token": "તહય",
+      "translit": "tahaya",
+      "gloss": "and likewise, and also",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. < Skt. tathā (+ ca) 'so, thus, and'.",
+      "notes": "Connective linking the third verb to the first two."
+    },
+    {
+      "token": "ઝાએમિ",
+      "translit": "jhāemi",
+      "gloss": "I meditate (upon him, with the mind)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. 1st sg. pres. < Skt. dhyāyāmi (√dhyai 'to meditate, contemplate').",
+      "notes": "Third homage-verb (mind), completing the body-speech-mind triad."
+    },
+    {
+      "token": "ધમ્મ",
+      "translit": "dhamma",
+      "gloss": "dharma, the righteous teaching (first member of compound)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. < Skt. dharma (√dhṛ 'to uphold').",
+      "notes": "Opens the epithet-compound dhamma-dhura-dharaṇa-vasabhaṁ."
+    },
+    {
+      "token": "ધુર",
+      "translit": "dhura",
+      "gloss": "yoke, burden (of dharma)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. < Skt. dhur / dhurā 'the pole or yoke of a cart; a load borne'.",
+      "notes": "The 'yoke' a bull draws — chosen to harmonise with vasabha 'bull'."
+    },
+    {
+      "token": "ધરણ",
+      "translit": "dharaṇa",
+      "gloss": "bearing, upholding",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. < Skt. dharaṇa (√dhṛ 'to bear, hold up') 'the act of holding/sustaining'.",
+      "notes": "dhamma-dhura-dharaṇa = 'who bears the yoke of dharma'."
+    },
+    {
+      "token": "વસભં",
+      "translit": "vasabhaṁ",
+      "gloss": "the bull (accusative) — i.e. the foremost one",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. acc. sg. < Skt. vṛṣabha 'bull', figuratively 'the best, the chief'.",
+      "notes": "Closes the compound: 'the bull who bears the yoke of dharma', an epithet of Ṛṣabha."
+    },
+    {
+      "token": "ઉસભં",
+      "translit": "usabhaṁ",
+      "gloss": "Ṛṣabha, the first Tīrthaṅkara (accusative, object of the three verbs)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. acc. sg. < Skt. Ṛṣabha 'bull', the name of the first Jina.",
+      "notes": "The grammatical object bowed to, praised and meditated upon; deliberately echoes vasabha 'bull'."
+    },
+    {
+      "token": "પણમંત",
+      "translit": "paṇamanta",
+      "gloss": "bowing, saluting (present participle)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. pres. part. < Skt. praṇamat (pra + √nam) 'bowing'.",
+      "notes": "Qualifies the next word: '(Ṛṣabha) before whom [the chief of gods] bows'."
+    },
+    {
+      "token": "સુરવસભં",
+      "translit": "suravasabhaṁ",
+      "gloss": "the bull among the gods, i.e. Indra (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. acc. sg. < Skt. sura-vṛṣabha (sura 'god' + vṛṣabha 'bull/chief') 'foremost of the gods', Indra.",
+      "notes": "Third occurrence of vasabha — the bull-imagery now names Indra, who bows to Ṛṣabha."
+    }
+  ],
+  "literalTranslation": "On Aṣṭāpada, the king of mountains, I bow, I praise, and likewise I meditate — upon the bull who bears the yoke of dharma, upon Ṛṣabha, before whom the bull-among-gods (Indra) bows.",
+  "idiomaticTranslation": "Upon Aṣṭāpada, the king of mountains, I bow down, I sing praise, and I rest my mind in meditation — on Ṛṣabha, the mighty bull who shoulders the whole yoke of the Law, the first Jina before whom Indra himself, lord of the gods, bends his head.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having, in the previous verse, merely named Aṣṭāpada at the head of a roll-call of holy sites, the hymn now halts at that 'king of mountains' (giri-rāja) and unfolds it — for Aṣṭāpada is the very peak from which Ṛṣabha, the first ford-maker, passed to liberation. The verse is built on a threefold act of worship that the reciter performs at once: paṇamemi (I bow), thuṇemi (I praise), jhāemi (I meditate) — homage of body, speech and mind directed to a single Lord. The poetic engine of the verse is a triple play on vṛṣabha / vasabha ('bull'). First Ṛṣabha is the dhamma-dhura-dharaṇa-vasabha, 'the bull that draws the yoke of dharma' — the draught-bull image fits his very name and casts him as the one who first harnessed himself to the burden of the Law and pulled the whole order forward. Then he is plainly named usabha (Ṛṣabha). Finally the same bull-word returns as sura-vasabha, the 'bull of the gods', Indra, who is shown paṇamanta — bowing — at Ṛṣabha's feet. The single image thus rises through three registers: the labouring bull of dharma, the named Jina, and the celestial king who must himself bow. This is the verse's whole argument in miniature: the one to whom even Indra bows is worthy of the worshipper's body, voice and mind together. It prepares verse 43, which will extend the salutation from Ṛṣabha alone to Ajita and the remaining twenty-three Jinas and the eternal images enshrined on the same peak.",
+    "doctrinalContext": "The verse encodes the classical Jain grading of devotion into three instruments — praṇāma (physical prostration), stuti/stavana (vocal praise) and dhyāna (mental contemplation) — the body-speech-mind (mana-vacana-kāya) triad through which a śrāvaka's reverence is made complete. The motif of Indra bowing asserts a cardinal Jain conviction: the arihanta stands above every heavenly power; even the king of the devas is a saṁsārī soul who venerates the liberated Jina, never the reverse. The 'yoke of dharma' image carries the doctrine that a Tīrthaṅkara is one who voluntarily takes up and sustains the tīrtha — the fourfold order and the path — by his own ascetic effort.",
+    "practicalRelevance": "Recited at Aṣṭāpada in the mind's eye, the verse invites the worshipper to do all three things deliberately in turn — fold the body in a bow, let the voice sound the praise, and then still the mind on Ṛṣabha — so that a single salutation engages the whole person rather than the lips alone.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭāpada as the nirvāṇa-site of Ṛṣabha and Bharata's enshrining of the 24 Jina images there",
+        "source": "Kalpasūtra tradition; cf. Wikipedia, 'Ashtapada'"
+      },
+      {
+        "text": "Indra (Śakra/Surapati) bowing to and lustrating the new-born and enlightened Jina",
+        "source": "Bhaktāmara Stotra and the Janma-kalyāṇaka narratives"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the parallel act of bowing-and-praising the Tīrthaṅkaras",
+        "source": "Āvaśyaka-sūtra, Āv. 2"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ashtapada (Jain pilgrimage mountain)",
+      "url": "https://en.wikipedia.org/wiki/Ashtapada",
+      "type": "scholarship",
+      "consultedFor": "Aṣṭāpada as the site of Ṛṣabha's nirvāṇa, its standing as 'king of mountains' (giri-rāja), and Bharata's enshrinement of the Tīrthaṅkara images that v.43 will reference"
+    },
+    {
+      "title": "Rishabhanatha (Ṛṣabhadeva), first Tīrthaṅkara",
+      "url": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "type": "scholarship",
+      "consultedFor": "Ṛṣabha as the first ford-maker, the bull (vṛṣabha) emblem underlying the verse's wordplay, and his role as founder of the path"
+    },
+    {
+      "title": "Sanskrit Dictionary (Monier-Williams / Apte aggregator) — vṛṣabha, dhur/dhurā, √nam, √stu, √dhyai",
+      "url": "https://www.learnsanskrit.cc/translate?search=vrishabha",
+      "type": "dictionary",
+      "consultedFor": "Root and stem glosses for vasabha/vṛṣabha 'bull', dhura 'yoke', dharaṇa 'bearing', and the homage verbs praṇam-/stu-/dhyai-"
+    },
+    {
+      "title": "Bhaktāmara Stotra (Mānatuṅga) — Indra/Surapati venerating the Jina",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "commentary",
+      "consultedFor": "The devotional motif of the lord of the gods bowing before Ṛṣabha, glossing sura-vasabha and paṇamanta"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) The verse turns on a deliberate triple śleṣa on vasabha/vṛṣabha ('bull') — Ṛṣabha himself, the 'bull of dharma's yoke', and the 'bull of the gods' (Indra); this pun is intrinsic and is reflected in the gloss. (2) 'paṇamanta-suravasabhaṁ' is read as a bahuvrīhi-type epithet of Ṛṣabha, '(he) before whom the bowing chief-of-gods stands'; in the loose participle-concord of Prakrit/Apabhraṁśa an alternative parse 'saluting the chief of gods' is grammatically possible but doctrinally inadmissible (the Jina is not shown bowing to Indra), so the devotional reading is adopted. (3) 'sura-vasabha' is taken as Indra (lord of the gods); some commentators read it generically as 'the foremost of gods'. (4) Orthography (e.g. અટ્ઠાવય, single vs. doubled conjuncts) follows the source book verbatim and is not normalised. No verified word-by-word edition of this specific gāthā was located online, so glosses rest on the standard Prakrit-to-Sanskrit correspondences cited above."
+}

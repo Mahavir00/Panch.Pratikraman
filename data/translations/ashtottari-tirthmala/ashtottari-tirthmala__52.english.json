@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/52",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Inside each of the jewel-palaces (that the god Śakra magically conjured) stand eight gem-studded ceremonial seats and one lion-throne fitted with a jewelled footstool.",
+  "recitation": "paï pāsāyaṁ aṭṭhau, bhaddāsaṇāyāïṁ rayaṇa-cittāïṁ | sīhāsaṇam egegaṁ, sa-pāya-pīḍhaṁ rayaṇa-maya-cittaṁ ||",
+  "wordByWord": [
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "in each, per, to every one",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit distributive < Skt. prati ('each, every'); the verse's organising refrain, repeated across vv.51–53 (paï vāvī, paï kamalaṁ, paï pāsāyaṁ…).",
+      "notes": "Sets up the geometric 'one-within-each' multiplication that drives the whole Daśārṇabhadra passage."
+    },
+    {
+      "token": "પાસાયં",
+      "translit": "pāsāyaṁ",
+      "gloss": "palace, mansion (here, each jewel-palace)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsāya < Skt. prāsāda, a lofty residence/temple-like edifice.",
+      "notes": "Resumes the pāsāo ('palace') that closed the previous verse, set on each lotus-pericarp."
+    },
+    {
+      "token": "અટ્ઠઉ",
+      "translit": "aṭṭhau",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭha/aṭṭhau < Skt. aṣṭau ('eight').",
+      "notes": "Echoes the recurring count of eight (eight tusks, eight ponds, eight lotuses) in the Śakra legend."
+    },
+    {
+      "token": "ભદ્દાસણાયાઈં",
+      "translit": "bhaddāsaṇāyāïṁ",
+      "gloss": "auspicious ceremonial seats (bhadrāsanas)",
+      "partOfSpeech": "compound",
+      "etymology": "bhadda ('auspicious, good') + āsaṇa ('seat') < Skt. bhadra-āsana; neuter plural in Apabhraṁśa-coloured -āïṁ with euphonic glide -y-.",
+      "notes": "A bhadrāsana is the honoured seat for dignitaries/consorts, distinct from the single sovereign lion-throne named next."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Skt. ratna ('jewel'); here the first member of the bahuvrīhi/karmadhāraya 'jewel-variegated'.",
+      "notes": "In compound with cittāïṁ → 'variegated with jewels'."
+    },
+    {
+      "token": "ચિત્તાઇં",
+      "translit": "cittāïṁ",
+      "gloss": "variegated, many-coloured (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit citta < Skt. citra ('variegated, painted, ornamented'); neuter plural -āïṁ agreeing with the bhadrāsanas.",
+      "notes": "Not citta='mind' here; the adjectival citra-sense ('ornamented, multicoloured') is required by context."
+    },
+    {
+      "token": "સીહાસણ",
+      "translit": "sīhāsaṇa",
+      "gloss": "lion-throne",
+      "partOfSpeech": "noun",
+      "etymology": "sīha ('lion') + āsaṇa ('seat') < Skt. siṁhāsana; the royal/sovereign throne.",
+      "notes": "One per palace (sovereign seat) as against eight bhadrāsanas (attendant/consort seats)."
+    },
+    {
+      "token": "મેગેગં",
+      "translit": "m-egegaṁ",
+      "gloss": "one each, a single one (in each)",
+      "partOfSpeech": "adj",
+      "etymology": "egegaṁ < Skt. ekaikaṁ ('one by one, one apiece'); initial m- is euphonic sandhi joining sīhāsaṇa(ṁ) + egegaṁ.",
+      "notes": "Contrasts deliberately with aṭṭhau: eight bhadrāsanas but only one lion-throne per palace."
+    },
+    {
+      "token": "સપાય",
+      "translit": "sapāya",
+      "gloss": "having a footstool / with a foot-support",
+      "partOfSpeech": "adj",
+      "etymology": "sa- ('with, possessing') + pāya < Skt. pāda ('foot') → 'with a foot(-stool)'; qualifies the following pīḍhaṁ as a pāda-pīṭha.",
+      "notes": "Together sapāya-pīḍhaṁ = 'a footstool', the small support set before the throne."
+    },
+    {
+      "token": "પીઢં",
+      "translit": "pīḍhaṁ",
+      "gloss": "stool, footstool, low seat-platform",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pīḍha < Skt. pīṭha ('stool, base, pedestal'); accusative singular.",
+      "notes": "In Jain throne-iconography the pīṭha is the raised base/foot-support beneath the main seat."
+    },
+    {
+      "token": "રયણ",
+      "translit": "rayaṇa",
+      "gloss": "jewel, gem",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rayaṇa < Skt. ratna; first member of rayaṇa-maya ('made of jewels').",
+      "notes": "Second occurrence, now describing the footstool rather than the bhadrāsanas."
+    },
+    {
+      "token": "મય",
+      "translit": "maya",
+      "gloss": "made of, consisting of",
+      "partOfSpeech": "adj",
+      "etymology": "Skt./Prakrit -maya, possessive/material suffix ('made of'); here rayaṇa-maya = 'jewel-made'.",
+      "notes": "Forms the karmadhāraya rayaṇa-maya describing the footstool's material."
+    },
+    {
+      "token": "ચિત્તં",
+      "translit": "cittaṁ",
+      "gloss": "variegated, many-coloured",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit citta < Skt. citra ('variegated, ornamented'); neuter singular agreeing with pīḍhaṁ.",
+      "notes": "Closes the line by mirroring cittāïṁ of line 1, framing both seats and footstool as jewel-variegated."
+    }
+  ],
+  "literalTranslation": "In each palace, eight auspicious seats (bhadrāsanas), variegated with jewels; in each one a single lion-throne, with a footstool made of jewels and many-coloured.",
+  "idiomaticTranslation": "Within every jewel-palace there stand eight bhadrāsanas, each glittering with many-coloured gems; and in each palace a single lion-throne, set before it a footstool wrought all of jewels and shimmering with varied hue.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse zooms one step deeper into the cascading marvel that Śakra (Indra) conjured to humble King Daśārṇabhadra's pride. The previous verse had multiplied the wonder down to 'a jewel-palace on each lotus-pericarp'; here the poet steps inside each such pāsāya and inventories its furniture: eight jewel-variegated bhadrāsanas and exactly one lion-throne, the latter fitted with its own gem-made, many-coloured footstool (pāda-pīṭha). The numerical contrast is deliberate and load-bearing — aṭṭhau ('eight') for the attendant seats against m-egegaṁ ('one apiece') for the sovereign throne — and it sets the stage precisely for the following verse, where Indra himself is seated on each lion-throne and his chief-queens (mahisīo) on the bhadrāsanas before the threefold circumambulation. The twin epithets rayaṇa-citta ('jewel-variegated'), bracketing both line-endings, are not idle ornament: by repeating the same gem-and-colour formula for seats and footstool alike, the poet saturates the whole vision in dazzle, so that no surface is left unbejewelled. The verse is thus a hinge — purely descriptive scaffolding whose grandeur exists only to be transcended in the episode's moral turn.",
+    "doctrinalContext": "The point of the heaping multiplication is the emptiness of mada/abhimāna (pride in worldly power). Śakra deploys a literally cosmos-filling aiśvarya — eight of this within eight of that, jewels upon jewels — not to glorify himself but to demonstrate to a proud king that the most extravagant material splendour the king can imagine is trivially surpassable, and that all such grandeur is finally meant to bow at the Jina's feet. The single lion-throne amid eight bhadrāsanas also mirrors the seating hierarchy of a samavasaraṇa-style assembly, where the sovereign seat stands apart. The verse therefore enacts a core Jain teaching: aparigraha and humility are measured precisely against the vanity of accumulated riches, and even divine opulence is a teaching-device, not an end.",
+    "practicalRelevance": "As the reciter chants this glittering inventory, the devotional discipline is to let the very excess of jewels deflate rather than feed the ego: each added marvel is a reminder that worldly display, however vast, is spiritually weightless before the Jina. The verse invites a quiet self-examination of one's own abhimāna in wealth, status or even religious pomp.",
+    "crossReferences": [
+      {
+        "text": "Daśārṇabhadrarṣi-sajjhāya (the Daśārṇabhadra legend: Śakra on Airāvaṇa multiplies tusks, ponds, lotuses and dramas to humble the king's pride)",
+        "source": "Lālavijaya; Tessitori Collection, Biblioteca Civica 'Vincenzo Joppi', Udine"
+      },
+      {
+        "text": "Āvaśyaka tradition narratives on Daśārṇabhadra and the conquest of mada before Mahāvīra's samavasaraṇa",
+        "source": "Āvaśyaka-niryukti / cūrṇi story-cycle"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Prāsāda — definition (Vāstuśāstra: residence/temple-edifice)",
+      "url": "https://www.wisdomlib.org/definition/prasada",
+      "type": "dictionary",
+      "consultedFor": "Confirming pāsāya < prāsāda as 'palace/lofty residence' for the token gloss"
+    },
+    {
+      "title": "Bhadrāsana — definition (incl. Jainism section)",
+      "url": "https://www.wisdomlib.org/definition/bhadrasana",
+      "type": "dictionary",
+      "consultedFor": "Confirming bhaddāsaṇa = bhadra + āsana, 'auspicious seat', and its use as an honoured/attendant seat"
+    },
+    {
+      "title": "Daśārṇabhadra — definition (Jain legend of Śakra humbling the king's pride)",
+      "url": "https://www.wisdomlib.org/definition/dasharnabhadra",
+      "type": "scholarship",
+      "consultedFor": "Verifying the narrative frame (eight-tusk Airāvaṇa, eight ponds/lotuses/leaves, thirty-two dramas) that this verse's palace-and-throne inventory continues"
+    },
+    {
+      "title": "Tessitori Collection I — I manoscritti indiani della Biblioteca Civica 'Vincenzo Joppi' di Udine",
+      "url": "https://www.academia.edu/45016098/TESSITORI_COLLECTION_I_MANOSCRITTI_INDIANI_DELLA_BIBLIOTECA_CIVICA_VINCENZO_JOPPI_DI_UDINE",
+      "type": "scholarship",
+      "consultedFor": "Scholarly attestation of the Daśārṇabhadra story (Lālavijaya's sajjhāya) and the pride-humbling structure underlying vv.49–55"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; orthography (Prakrit/Apabhraṁśa) not normalised. Token-level caveats: (a) the m- in 'મેગેગં (m-egegaṁ)' is euphonic sandhi joining sīhāsaṇa(ṁ) + egegaṁ ('one each'), not a separate word; (b) 'ભદ્દાસણાયાઈં' shows an Apabhraṁśa neuter plural in -āïṁ with a glide -y-, parsed bhadda+āsaṇa; (c) 'સપાય પીઢં' is read as sa-pāda-pīṭha, 'with a footstool', the conventional throne foot-support, though a bare 'with feet/legs' sense is grammatically possible. 'citta' is taken in its citra-sense ('variegated/ornamented'), not 'mind'. Other editions may carry minor pāṭhāntara variants in the plural endings and conjuncts."
+}

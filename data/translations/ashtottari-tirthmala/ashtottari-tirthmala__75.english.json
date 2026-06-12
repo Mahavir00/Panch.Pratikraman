@@ -1,0 +1,174 @@
+{
+  "shlokaId": "ashtottari-tirthmala/75",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "There on the holy hill of Śatruñjaya, worshipped by gods and people and full of countless wonders, bow to the first Jina, Lord Ṛṣabha — whose very name means 'bull', whose emblem is a bull, and whose coming his mother foresaw as a bull in her dream.",
+  "recitation": "tahiyaṁ siri setuṁje, sura nara pujje aṇoga vara cujje. paṇamaha jiṇavara vasabhaṁ, vasabhaṁkaṁ vasabhasumiṇaṁ ca.",
+  "wordByWord": [
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṁ",
+      "gloss": "there, at that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit deictic adverb < Skt. tatra ('there'); resumptive, pointing back to Śatruñjaya named in the preceding verses.",
+      "notes": "Anchors this verse to the Śatruñjaya sequence: 'there' = the hill already under discussion."
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glorious, holy, blessed (śrī)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Skt. śrī; honorific prefix of auspiciousness attached to the place-name.",
+      "notes": "Functions like an honorific 'Śrī' before the tīrtha's name."
+    },
+    {
+      "token": "સેતુંજે",
+      "translit": "setuṁje",
+      "gloss": "at Śatruñjaya (the hill of Palitana)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative sg. of Setuṁjaya < Skt. Śatruñjaya ('victory over the enemy [-passions]'); the supreme Śvetāmbara tīrtha, also called Vimalagiri / Puṇḍarīkagiri.",
+      "notes": "Locative case ('on/at Śatruñjaya'); the descriptive words that follow agree with it."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestial beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sura < Skt. sura ('god'); first member of the dvandva 'gods-and-men'.",
+      "notes": "Agentive sense with pujje: 'worshipped by gods…'."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "men, humans",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. nara ('man'); paired with sura to mean 'gods and humans alike'.",
+      "notes": "The pair sura-nara is a stock merism for 'all beings'."
+    },
+    {
+      "token": "પુજ્જે",
+      "translit": "pujje",
+      "gloss": "worshipped, to be venerated",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit gerundive pujja < Skt. pūjya ('to be worshipped'), here in locative agreeing with setuṁje.",
+      "notes": "Describes Śatruñjaya as 'worshipped by gods and men'. Rhymes deliberately with cujje."
+    },
+    {
+      "token": "અણોગ",
+      "translit": "aṇoga",
+      "gloss": "countless, manifold, numerous",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṇoga / aṇega < Skt. aneka ('not one', i.e. many); attested in the Pāia-sadda-mahaṇṇavo as 'many, countless'.",
+      "notes": "Qualifies cujje — the hill's 'countless wonders'."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, choice, best",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/Skt. vara ('the best, choicest'); intensifies the following noun.",
+      "notes": "Together: aṇoga vara cujje = 'countless excellent marvels'."
+    },
+    {
+      "token": "ચુજ્જે",
+      "translit": "cujje",
+      "gloss": "wonders, marvels (āścarya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit cojja / cujja < Skt. codya → āścarya ('marvel, astonishment'); glossed 'wonder, marvel' in the Pāia-sadda-mahaṇṇavo.",
+      "notes": "Locative-form noun rhyming with pujje; conveys the temple-hill's awe-inspiring abundance of holy sights."
+    },
+    {
+      "token": "પણમહ",
+      "translit": "paṇamaha",
+      "gloss": "bow! salute! (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit 2nd-pl. imperative paṇamaha < Skt. praṇamata, from pra-√nam ('to bow down').",
+      "notes": "The hymn's recurring imperative of homage; here addressed to the assembled reciters."
+    },
+    {
+      "token": "જિણવર",
+      "translit": "jiṇavara",
+      "gloss": "the best of Jinas, Jina-lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa-vara < Skt. jina-vara ('foremost Jina'); honorific for a Tīrthaṅkara.",
+      "notes": "Object of paṇamaha, in apposition to Ṛṣabha."
+    },
+    {
+      "token": "વસભં",
+      "translit": "vasabhaṁ",
+      "gloss": "Ṛṣabha (lit. 'the bull')",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of vasabha < Skt. vṛṣabha ('bull'); the name of Ādinātha, the first Tīrthaṅkara of this descending age.",
+      "notes": "First term of a threefold pun on vasabha ('bull'): his name."
+    },
+    {
+      "token": "વસભંકં",
+      "translit": "vasabhaṁkaṁ",
+      "gloss": "bull-emblemed (whose mark is the bull)",
+      "partOfSpeech": "compound",
+      "etymology": "vasabha + aṁka < Skt. vṛṣabha-aṅka ('having the bull as cognizance'); the bull is Ṛṣabha's lāñchana.",
+      "notes": "Second term of the pun: his iconographic emblem (lāñchana)."
+    },
+    {
+      "token": "વસભસુમિણં",
+      "translit": "vasabhasumiṇaṁ",
+      "gloss": "the bull-dream (heralded by a bull in his mother's dream)",
+      "partOfSpeech": "compound",
+      "etymology": "vasabha + sumiṇa < Skt. vṛṣabha-svapna ('bull-dream'); refers to the bull seen by his mother Marudevā among the great auspicious dreams foretelling his conception.",
+      "notes": "Third term of the pun: his conception-omen. Together the three bind name, emblem and birth-sign into one figure."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt. enclitic conjunction ca ('and').",
+      "notes": "Joins the three bull-epithets into a single object of homage."
+    }
+  ],
+  "literalTranslation": "There, at glorious Śatruñjaya — worshipped by gods and men, [a place] of countless excellent marvels — bow to the Jina-lord Ṛṣabha (the Bull), the bull-emblemed, and the bull-dreamed.",
+  "idiomaticTranslation": "There on blessed Śatruñjaya, adored by gods and mortals alike and brimming with countless wondrous sights, bow low to Ṛṣabha, the foremost Jina — he whose name is 'Bull', whose emblem is the bull, and whose advent his mother foresaw in the dream of a bull.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the Śatruñjaya cluster by turning from the place to its presiding Jina. Where the preceding gāthā lingered on the hill's footprint-images of the twenty-three Jinas (all but Nemi), this verse names the one Jina to whom Śatruñjaya truly belongs: Ṛṣabha, the mūlanāyaka of the tīrtha. The first line keeps the eye on the mountain — siri setuṁje, 'at glorious Śatruñjaya' — and praises it with two rhymed locatives: sura-nara-pujje ('worshipped by gods and men') and aṇoga-vara-cujje ('full of countless excellent marvels'). The internal rhyme pujje / cujje is deliberate Apabhraṁśa ornament, knitting devotion (worship) to wonder (the hill's profusion of shrines). The second line is built on a single, dense pun (yamaka) that the translation cannot fully carry: vasabhaṁ — vasabhaṁkaṁ — vasabhasumiṇaṁ, three sound-identical epithets all turning on vasabha, 'bull.' Ṛṣabha is the Bull by name; the bull is his lāñchana (emblem); and a bull is what his mother Marudevā beheld in the great dream announcing his conception. The poet thus compresses the Jina's identity, iconography and very nativity into one breath, so that the act of bowing (paṇamaha) gathers up his whole legend at once. The movement of the verse — from a place worshipped by all worlds to the one who makes it worth worshipping — is the hymn's characteristic gesture in miniature.",
+    "doctrinalContext": "The verse rests on two pieces of standard Jain teaching. First, the lāñchana system: each of the twenty-four Tīrthaṅkaras bears a distinguishing cognizance, and Ṛṣabha's is the bull — the basis for recognising his images. Second, the convention that a Tīrthaṅkara's mother sees a series of great auspicious dreams at the descent of the soul into her womb; for Ṛṣabha the bull is singled out as the herald. By identifying name, emblem and dream as one, the verse affirms Ṛṣabha as Ādinātha, the first ford-maker of this avasarpiṇī, and reinforces why Śatruñjaya — sanctified by him and by his gaṇadhara Puṇḍarīka's liberation — ranks as the foremost tīrtha.",
+    "practicalRelevance": "Reciting this gāthā, a worshipper performs Śatruñjaya-yātrā in words: with paṇamaha as a live command, one mentally stands on the hill and bows to Ādinātha, letting the triple 'bull' fix the image of the Jina firmly in mind even when the pilgrimage cannot be made in body.",
+    "crossReferences": [
+      {
+        "text": "The fourteen great dreams (incl. the bull/ṛṣabha) seen by a Tīrthaṅkara's mother; lāñchana of Ṛṣabha = bull",
+        "source": "Kalpasūtra, Jinacaritra (Śvetāmbara)"
+      },
+      {
+        "text": "Puṇḍarīka's liberation and Ṛṣabha's sanctification of Śatruñjaya",
+        "source": "Śatruñjaya Māhātmya, attrib. Dhaneśvarasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Shatrunjaya",
+      "url": "https://en.wikipedia.org/wiki/Shatrunjaya",
+      "type": "scholarship",
+      "consultedFor": "Śatruñjaya as the foremost Śvetāmbara tīrtha, its association with Ṛṣabha/Ādinātha and Puṇḍarīka's liberation"
+    },
+    {
+      "title": "Rishabhanatha (Adinatha)",
+      "url": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "type": "scholarship",
+      "consultedFor": "Ṛṣabha as first Tīrthaṅkara, the bull (vṛṣabha) as his lāñchana/emblem, and his mother Marudevā"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the glosses: vṛṣabha, aṅka, svapna, āścarya, aneka, pra-√nam"
+    },
+    {
+      "title": "Marudevi",
+      "url": "https://en.wikipedia.org/wiki/Marudevi",
+      "type": "scholarship",
+      "consultedFor": "The auspicious bull-dream heralding Ṛṣabha's conception (vasabhasumiṇa)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The pivot of the verse is the threefold yamaka on vasabha (bull): Ṛṣabha's name, his lāñchana, and his mother's dream — untranslatable as a single pun in English, so it is unpacked across three epithets. pujje and cujje are read as locative descriptors agreeing with setuṁje; an agentive reading ('worshipped by gods and men') is given for sense. cujje is taken as Prakrit cojja = āścarya ('marvel'), well attested in Sheth's Pāia-sadda-mahaṇṇavo. On the dream: Śvetāmbara tradition (this Anchalgachchha book is Śvetāmbara Mūrtipūjaka) generally counts fourteen great dreams (Digambara sixteen); sources differ on whether the bull was the first dream for Ṛṣabha or simply the singled-out herald — hence rendered 'the bull seen in his mother's dream' without fixing its ordinal. Text reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; orthographic forms (e.g. અણોગ, ચુજ્જે) are not normalised."
+}

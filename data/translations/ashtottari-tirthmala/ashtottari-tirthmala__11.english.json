@@ -1,0 +1,148 @@
+{
+  "shlokaId": "ashtottari-tirthmala/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I praise the Lord Jina, who has conquered attachment, hatred and delusion, has crushed the eight karmas, leads the caravan along the road to the city of liberation, and is wholly free of all affliction.",
+  "recitation": "jiyarāge jiyadose, jiyamohe aṭṭha kamma nimmahaṇo | sivapura paha satthāhe, gayabāhe thomi jiṇanāhe ||",
+  "wordByWord": [
+    {
+      "token": "જિયરાગે",
+      "translit": "jiyarāge",
+      "gloss": "(to him who has) conquered attachment",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiya (< Sanskrit jita, 'conquered') + rāga ('attachment, passion'); honorific/sandhi case ending -e.",
+      "notes": "First of the three conquests; the -e ending is the Prakrit oblique/honorific form agreeing with jiṇanāhe."
+    },
+    {
+      "token": "જિયદોસે",
+      "translit": "jiyadose",
+      "gloss": "(who has) conquered aversion",
+      "partOfSpeech": "compound",
+      "etymology": "jiya (< jita) + dosa (< Sanskrit dveṣa, 'aversion, hatred'), case ending -e.",
+      "notes": "dosa here is dveṣa, not doṣa ('fault'); paired with rāga as the primary kaṣāya-poison."
+    },
+    {
+      "token": "જિયમોહે",
+      "translit": "jiyamohe",
+      "gloss": "(who has) conquered delusion",
+      "partOfSpeech": "compound",
+      "etymology": "jiya (< jita) + moha ('delusion, infatuation'), case ending -e.",
+      "notes": "Completes the rāga–dveṣa–moha triad; moha is the deluding (mohanīya) root behind the other two."
+    },
+    {
+      "token": "અટ્ઠ",
+      "translit": "aṭṭha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭha < Sanskrit aṣṭa ('eight').",
+      "notes": "Qualifies kamma — the eight fundamental karma-types."
+    },
+    {
+      "token": "કમ્મ",
+      "translit": "kamma",
+      "gloss": "karma(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kamma < Sanskrit karma ('action, karmic matter').",
+      "notes": "aṭṭha kamma = the aṣṭa-karman: jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, mohanīya, āyu, nāma, gotra, antarāya."
+    },
+    {
+      "token": "નિમ્મહણો",
+      "translit": "nimmahaṇo",
+      "gloss": "destroyer, crusher",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nimmahaṇa < Sanskrit nirmathana ('a churning, crushing, annihilating'), from √math, 'to churn, grind'; nominative -o.",
+      "notes": "Agent sense: 'one who churns/crushes the eight karmas to nothing' — i.e. the kevalin/siddha state."
+    },
+    {
+      "token": "સિવપુર",
+      "translit": "sivapura",
+      "gloss": "(of) the city of liberation",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit siva (< Sanskrit śiva, 'auspicious, the blessed state') + pura ('city'); śiva-pura = mokṣa-pura, the abode of the liberated.",
+      "notes": "First member of the genitive compound 'road to Śivapura'; Śivapura = the Siddha-loka."
+    },
+    {
+      "token": "પહ",
+      "translit": "paha",
+      "gloss": "(of) the path / road",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paha < Sanskrit patha/pathin ('road, way').",
+      "notes": "sivapura-paha = 'the road leading to the city of liberation'."
+    },
+    {
+      "token": "સત્થાહે",
+      "translit": "satthāhe",
+      "gloss": "(to him who is) the caravan-leader",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit satthāha < Sanskrit sārthavāha ('caravan-leader, merchant-guide'), from sārtha ('caravan') + √vah ('to lead'); honorific case -e.",
+      "notes": "Stock crossing-imagery: the Jina as the trusted guide who leads the company of souls safely along the road to mokṣa."
+    },
+    {
+      "token": "ગયબાહે",
+      "translit": "gayabāhe",
+      "gloss": "(to him who is) free of all affliction",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit gaya (< Sanskrit gata, 'gone, departed') + bāha (< Sanskrit bādhā, 'affliction, obstruction, harm'); honorific case -e.",
+      "notes": "gata-bādha = 'one from whom every obstruction/distress has departed'; the inwardly serene counterpart to the karma-crushing of the first line."
+    },
+    {
+      "token": "થોમિ",
+      "translit": "thomi",
+      "gloss": "I praise",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thomi < Sanskrit staumi (√stu, 'to praise, extol'), 1st person singular present.",
+      "notes": "The single finite verb of the verse; all the -e forms are its honorific objects."
+    },
+    {
+      "token": "જિણનાહે",
+      "translit": "jiṇanāhe",
+      "gloss": "the Lord of Jinas / Lord Jina",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiṇa (< Sanskrit jina, 'conqueror') + nāha (< Sanskrit nātha, 'lord, protector'); honorific case -e.",
+      "notes": "The grammatical object of thomi; gathers all preceding epithets onto the one praised 'Lord Jina'."
+    }
+  ],
+  "literalTranslation": "Him who has conquered attachment, conquered aversion, conquered delusion, the crusher of the eight karmas; the caravan-leader of the road to the city of liberation, free of all affliction — I praise that Lord Jina.",
+  "idiomaticTranslation": "Conqueror of attachment, of hatred, of delusion; grinder of the eight karmas to nothing; the caravan-master who guides every soul along the road to the city of liberation, and is himself free of every affliction — to this Lord Jina I offer my praise.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the opening doxology by pinning a single finite verb — thomi, 'I praise' — onto a chain of honorific epithets, all bent toward the closing word jiṇanāhe, 'Lord Jina'. Its architecture is deliberate. The first line names an inward victory: the threefold conquest of rāga, dveṣa and moha, immediately enlarged into the total result, aṭṭha kamma nimmahaṇo — one who has churned the eight karmas to nothing. Conquering the three poisons is cause; crushing the eightfold karma is effect, so the line moves from passions defeated to bondage dissolved. The second line turns from what the Jina has destroyed to what he now is for others. sivapura-paha-satthāhe casts him as the sārthavāha, the seasoned caravan-master who knows the dangerous road and brings the whole company safe to the 'city of liberation'. This is the hymn's crossing-imagery applied not to a boat but to an overland caravan — fitting for a verse that will, in the very next breath, set out on the long pilgrimage-march through the Tīrthaṅkaras and 108 tīrthas. gayabāhe ('free of all affliction') then balances the guide's competence with his own perfect serenity: he leads others out of distress because distress has wholly departed from him. The verse thus completes the fixed portrait the preface flags as established here — and, by handing us a guide on a road, pivots the hymn from abstract praise toward the journey that begins in the following verse with the salutation of the past Tīrthaṅkaras.",
+    "doctrinalContext": "The line compresses two standard Jain teachings into one breath. (1) The rāga–dveṣa–moha triad is the engine of bondage; moha (the mohanīya karma) is doctrinally the 'king' karma, and its defeat unravels the rest — hence the progression to crushing all aṣṭa-karman (jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, mohanīya, āyu, nāma, gotra, antarāya). A soul that has destroyed all eight is, by definition, liberated. (2) gata-bādhā marks the absence of suffering proper to that state. The sārthavāha epithet encodes the Jina's role as mārga-deśaka (path-shower): he does not carry souls to mokṣa but, having walked the road himself, reliably points the way — soteriological guidance, not grace.",
+    "practicalRelevance": "Recited here, the verse asks the practitioner to make the same two-part move it describes: first the inward work of loosening attachment, aversion and delusion, then trust in a tested guide rather than self-improvised shortcuts. Picturing the Jina as caravan-leader reframes daily practice as travelling in good company on a known road — the reciter falls in behind a guide who has already crossed.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the Jina-praise framework this doxology mirrors",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 8.4–8.5 — enumeration of the eight karma-prakṛtis",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.10 — the same Jina-portrait (18 doṣas / 34 atiśayas / 8 prātihāryas) of which this verse is the continuation",
+        "source": "Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: nirmathana (√math), sārthavāha, bādhā/gata, staumi (√stu), jina, nātha"
+    },
+    {
+      "title": "Jain Quantum (JainQQ) — Jain literature & terminology search",
+      "url": "https://jainqq.org/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit gloss verification and the aṣṭa-karman doctrine for aṭṭha kamma"
+    },
+    {
+      "title": "Jain eLibrary — digitized Jain canonical and ritual texts",
+      "url": "https://www.jainelibrary.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the Pancha Pratikramaṇa corpus and the rāga–dveṣa–moha epithet cluster"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "All twelve tokens glossed (100% coverage). The recurring honorific case ending -e (jiyarāge, satthāhe, gayabāhe, jiṇanāhe) is read as the Prakrit oblique/honorific accusative governed by thomi; this is the natural reading but editions vary in describing it. dosa is taken as dveṣa (aversion), the standard pairing with rāga, not doṣa ('fault'). nimmahaṇo (< nirmathana) is read agentively ('crusher') to agree with the praised Jina. The verse is doxological (vv.1–11) and, per the preface, completes the fixed Jina-portrait established at v.10; placement and arc are not restated here. Text reproduced verbatim from the Anchalgachchha/Vidhipaksha edition, including its Prakrit orthography (e.g. અટ્ઠ, નિમ્મહણો); no normalization applied."
+}

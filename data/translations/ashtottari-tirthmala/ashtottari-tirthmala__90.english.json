@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/90",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In a village called Nandisama in the Mewar region, I lovingly praise the image of Lord Mahāvīra — the jewel of his Jñātṛ clan — in the Jina-temple that the minister Sakaḍāla had built.",
+  "recitation": "Mevāḍa-desa gāme, thuṇemi bhattīi Nandisama nāme | Sakaḍāla manti kāriya, jiṇabhavaṇe nāyakula tilayaṁ ||",
+  "wordByWord": [
+    {
+      "token": "મેવાડ",
+      "translit": "mevāḍa",
+      "gloss": "Mewar (the region/country of Mewāḍa in present-day Rajasthan)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name; Apabhraṁśa/old-Gujarati mevāḍa, from medhapāṭa > medavāṭa, the historical name of the Mewar tract.",
+      "notes": "Begins the verse's geographical locator; the next verses continue this western-Indian roll-call."
+    },
+    {
+      "token": "દેસ",
+      "translit": "desa",
+      "gloss": "country, region, land",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit desa < Skt. deśa ('place, region'). Compounds with the preceding name: mevāḍa-desa = 'the land of Mewar'.",
+      "notes": ""
+    },
+    {
+      "token": "ગામે",
+      "translit": "gāme",
+      "gloss": "in the village",
+      "partOfSpeech": "noun",
+      "etymology": "Locative sg. of Prakrit gāma < Skt. grāma ('village'). The -e ending marks 'in/at'.",
+      "notes": "Locative scene-setter paired with jiṇabhavaṇe in line 2."
+    },
+    {
+      "token": "થુણેમિ",
+      "translit": "thuṇemi",
+      "gloss": "I praise, I extol",
+      "partOfSpeech": "verb",
+      "etymology": "1st-person sg. present of Prakrit root thuṇ- < Skt. √stu ('to praise'); cf. thuṇimo ('we praise') in the following verse.",
+      "notes": "The main verb; its object is tilayaṁ (the crest-jewel = the enshrined Jina)."
+    },
+    {
+      "token": "ભત્તીઇ",
+      "translit": "bhattīi",
+      "gloss": "with devotion, devotedly",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental sg. of Prakrit bhattī < Skt. bhakti ('devotion'); = Skt. bhaktyā.",
+      "notes": "Adverbial: colours the act of praise as an act of bhakti."
+    },
+    {
+      "token": "નંદિસમ",
+      "translit": "nandisama",
+      "gloss": "Nandisama (the village's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper place-name; likely the medieval site recorded variously as Nandiyā / Nandakula in Mewar–Marwar sacred geography.",
+      "notes": "Exact modern identification is uncertain (see notes)."
+    },
+    {
+      "token": "નામે",
+      "translit": "nāme",
+      "gloss": "by name, named",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental/locative sg. of Prakrit nāma < Skt. nāman ('name'); 'by the name (Nandisama)'.",
+      "notes": "Construes with nandisama: 'a village named Nandisama'."
+    },
+    {
+      "token": "સકડાલ",
+      "translit": "sakaḍāla",
+      "gloss": "Sakaḍāla (a minister's personal name)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name; Prakrit sakaḍāla < Skt. Śakaṭāla, the name traditionally borne by the celebrated Jain minister (father of Sthūlabhadra).",
+      "notes": "Here named as the temple's patron-builder; the historical identification is a regional attribution (see notes)."
+    },
+    {
+      "token": "મંતિ",
+      "translit": "manti",
+      "gloss": "minister",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit manti < Skt. mantrin ('counsellor, state minister'). Compounds with the name: sakaḍāla-manti = 'minister Sakaḍāla'.",
+      "notes": ""
+    },
+    {
+      "token": "કારિય",
+      "translit": "kāriya",
+      "gloss": "caused to be made, (had) built",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle of the causative of Prakrit kar- < Skt. kārita ('caused to be made'). Causative: the patron commissions, artisans build.",
+      "notes": "Qualifies jiṇabhavaṇe — the temple commissioned by the minister."
+    },
+    {
+      "token": "જિણભવણે",
+      "translit": "jiṇabhavaṇe",
+      "gloss": "in the Jina-temple (the abode of the Jina)",
+      "partOfSpeech": "compound",
+      "etymology": "Locative sg. of the tatpuruṣa compound jiṇa-bhavaṇa: jiṇa < Skt. jina ('the conqueror, Tīrthaṅkara') + bhavaṇa < Skt. bhavana ('abode, dwelling, temple').",
+      "notes": "Second locative; specifies where the praise is offered."
+    },
+    {
+      "token": "નાયકુલ",
+      "translit": "nāyakula",
+      "gloss": "of the Nāya (Jñātṛ) clan",
+      "partOfSpeech": "compound",
+      "etymology": "nāya < Skt. jñātṛ (the Jñātṛka/Nāya Kṣatriya clan) + kula ('clan, family'); the lineage into which Mahāvīra was born.",
+      "notes": "Identifies the enshrined Jina as Mahāvīra, the 'Nāyaputta'."
+    },
+    {
+      "token": "તિલયં",
+      "translit": "tilayaṁ",
+      "gloss": "the crest-mark / ornament (i.e., the crowning glory)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of Prakrit tilaya < Skt. tilaka ('forehead-mark; figuratively, the finest, the ornament of'). nāyakula-tilaya = 'crest-jewel of the Nāya clan'.",
+      "notes": "Object of thuṇemi; a metaphoric epithet of Mahāvīra."
+    }
+  ],
+  "literalTranslation": "In a village named Nandisama in the Mewar region, with devotion I praise — in the Jina-temple caused to be built by the minister Sakaḍāla — the crest-ornament of the Nāya (Jñātṛ) clan.",
+  "idiomaticTranslation": "In the land of Mewar, at the village called Nandisama, I bow in heartfelt devotion to the crowning jewel of the Jñātṛ clan — Lord Mahāvīra — enshrined in the Jina-temple that the minister Sakaḍāla raised.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the Brahmā-palli shrine of Vīranātha in the preceding verse, the hymn now plants its pilgrim-foot in Mewar proper, and will press on from here to Mudgalagiri and Chittauda in the next. The whole verse hangs on a single verb, thuṇemi ('I praise'), softened by bhattīi ('with devotion') — the poet does not merely catalogue a site, he performs an act of worship at it. Two locatives nest the praise: the outer gāme ('in the village', named Nandisama, in the Mewar country) and the inner jiṇabhavaṇe ('in the Jina-temple'), so the eye is led from region to village to sanctum. The donor is named with deliberate honour — sakaḍāla manti kāriya, 'built by the minister Sakaḍāla' — the causative kāriya marking the lay patron's distinctive merit: he does not carve the stone but commissions the house of the Jina, the paradigmatic act of śrāvaka temple-piety. The verse's devotional heart is its closing epithet, nāyakula tilayaṁ. Rather than naming Mahāvīra outright, the poet calls him 'the tilaka of the Nāya clan' — the auspicious forehead-mark, the crowning ornament, of the Jñātṛ Kṣatriya lineage into which he was born and from which he is styled Nāyaputta. The metaphor quietly fuses the Jina's human nobility with his spiritual supremacy: he is at once the pride of an earthly clan and the conqueror enshrined for all to revere.",
+    "doctrinalContext": "The epithet nāyakula tilaya roots the verse in the historical Mahāvīra's clan identity — the Jñātṛka/Nāya Kṣatriyas — affirming the Jain conviction that the Tīrthaṅkara, however transcendent, took birth in a known lineage in this world. Naming the temple's lay donor enacts the doctrine of mūrti-pūjā and the meritorious giving (dāna) of a śrāvaka who funds a jiṇabhavaṇa; the act of praising an image in a built shrine, rather than only an eternal one, marks this as homage to a historically founded (non-eternal) tīrtha.",
+    "practicalRelevance": "The reciter, without travelling to Mewar, offers bhakti at Nandisama's Mahāvīra shrine and silently honours the layperson whose generosity built it — a reminder that funding and maintaining a Jina-temple is itself a path of devotion, and that one may worship the Vīra as the very ornament of his clan.",
+    "crossReferences": [
+      {
+        "text": "Kalpa-sūtra — Mahāvīra born into the Jñātṛ (Nāya) Kṣatriya clan, hence 'Nāyaputta'",
+        "source": "Bhadrabāhu, Kalpasūtra (Śvetāmbara āgama)"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the verse's verb of praise parallels the hymn's salutation of the 24 Jinas",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jñātṛka | people | Britannica",
+      "url": "https://www.britannica.com/topic/Jnatrka",
+      "type": "scholarship",
+      "consultedFor": "Confirming nāyakula = the Jñātṛka/Naya Kṣatriya clan into which Mahāvīra was born, glossing the epithet nāyakula tilayaṁ"
+    },
+    {
+      "title": "Jnatrika Kshatriyas: Significance and symbolism — Wisdom Library",
+      "url": "https://www.wisdomlib.org/concept/jnatrika-kshatriyas",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the Naya/Nath/Jñātṛka clan identity and Mahāvīra's 'Nāyaputta' designation"
+    },
+    {
+      "title": "Bhatti (Prakrit) — Wisdom Library definition",
+      "url": "https://www.wisdomlib.org/definition/bhatti",
+      "type": "dictionary",
+      "consultedFor": "Prakrit bhatti < Skt. bhakti ('devotion') for the token bhattīi"
+    },
+    {
+      "title": "Bhavana — Wisdom Library definition",
+      "url": "https://www.wisdomlib.org/definition/bhavana",
+      "type": "dictionary",
+      "consultedFor": "Skt. bhavana ('abode, building, temple') underlying jiṇabhavaṇe"
+    }
+  ],
+  "translatorConfidence": 0.76,
+  "notes": "Word-glosses and the nāyakula-tilaya = Mahāvīra identification are secure (Mahāvīra's Jñātṛ/Nāya clan is well attested). Two points are uncertain: (1) The village 'Nandisama' (નંદિસમ) is not securely matched to a modern site; it plausibly corresponds to a Mewar–Marwar Mahāvīra tīrtha recorded elsewhere as Nandiyā/Nandakula, but no verified colophon or inscription confirms this — variant readings may exist in other editions. (2) The patron 'minister Sakaḍāla' (Śakaṭāla) bears the name of the famous Nanda-era Jain minister; whether the verse intends that historical figure or a later homonymous Mewar minister is unverified — treat the founder-attribution as the hymn's traditional claim, not a confirmed historical fact. Reading of nandisama nāme as 'a village named Nandisama' is adopted; alternatively nāme could attach to the shrine. Orthography preserved verbatim from the Anchalgachchha edition."
+}

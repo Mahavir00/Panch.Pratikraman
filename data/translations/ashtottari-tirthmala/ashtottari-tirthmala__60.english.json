@@ -1,0 +1,157 @@
+{
+  "shlokaId": "ashtottari-tirthmala/60",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "For that very reason that city came to be known among people as Ahicchatra (\"serpent-canopy\"), and there we bow to Pārśva, who destroys all obstacles and is the home of every virtue.",
+  "recitation": "taṃ heuṃ sā nayarī, ahicchattā nāmao jaṇe jāyā | tahiyaṃ namimo pāsaṃ, viggha-viṇāsaṃ guṇāvāsaṃ ||",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṃ",
+      "gloss": "for that (reason); on that account",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tat (accusative tam), here adverbial with heuṃ → 'for that cause'",
+      "notes": "Pairs with heuṃ as the phrase taṃ heuṃ = 'for that reason', pointing back to the canopy-miracle of the preceding verse."
+    },
+    {
+      "token": "હેઉં",
+      "translit": "heuṃ",
+      "gloss": "reason, cause",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hetu (cause), Prakrit heu with accusative -ṃ"
+    },
+    {
+      "token": "સા",
+      "translit": "sā",
+      "gloss": "that (feminine)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. sā, feminine demonstrative agreeing with nayarī"
+    },
+    {
+      "token": "નયરી",
+      "translit": "nayarī",
+      "gloss": "city, town",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nagarī (feminine of nagara), Prakrit nayarī with intervocalic g → y"
+    },
+    {
+      "token": "અહિચ્છત્તા",
+      "translit": "ahicchattā",
+      "gloss": "Ahicchatra (the place-name 'serpent-canopy')",
+      "partOfSpeech": "noun",
+      "etymology": "ahi ('serpent') + chatta ('canopy', Skt. chattra); Skt. Ahicchatrā",
+      "notes": "An aetiological proper name: the serpent (ahi) Dharaṇendra's raised hood became the canopy (chatta) over Pārśva."
+    },
+    {
+      "token": "નામઓ",
+      "translit": "nāmao",
+      "gloss": "by name; namely",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. nāmataḥ ('by name'), Prakrit nāmao with -taḥ → -o"
+    },
+    {
+      "token": "જણે",
+      "translit": "jaṇe",
+      "gloss": "among people; in the world",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jane, locative of jana ('people, folk'); Prakrit n → ṇ"
+    },
+    {
+      "token": "જાયા",
+      "translit": "jāyā",
+      "gloss": "became, came to be (so known)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. jātā, feminine past participle of √jan ('to be born, arise'), agreeing with nayarī"
+    },
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṃ",
+      "gloss": "there, in that place",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. tatra ('there'), Prakrit tahiṃ / tahiyaṃ"
+    },
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we salute",
+      "partOfSpeech": "verb",
+      "etymology": "√nam ('to bow'); 1st-person plural present, Prakrit -imo ending = Skt. namāmaḥ",
+      "notes": "The hymn's recurring homage-verb here in the inclusive plural 'we bow'."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṃ",
+      "gloss": "Pārśva (the 23rd Tīrthaṅkara), accusative object of 'we bow'",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Pārśva, Prakrit Pāsa with accusative -ṃ"
+    },
+    {
+      "token": "વિગ્ઘ",
+      "translit": "viggha",
+      "gloss": "obstacle, impediment",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vighna ('obstacle'), Prakrit viggha (gh-n assimilated to ggh)",
+      "notes": "First member of the compound epithet viggha-viṇāsaṃ."
+    },
+    {
+      "token": "વિણાસં",
+      "translit": "viṇāsaṃ",
+      "gloss": "destroyer / destruction (of obstacles)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vināśa ('destruction'), Prakrit viṇāsa; in viggha-viṇāsaṃ = 'obstacle-destroying', an accusative epithet of Pārśva",
+      "notes": "Functions adjectivally: 'he who destroys obstacles'."
+    },
+    {
+      "token": "ગુણાવાસં",
+      "translit": "guṇāvāsaṃ",
+      "gloss": "abode of virtues",
+      "partOfSpeech": "compound",
+      "etymology": "guṇa ('virtue, quality') + āvāsa ('dwelling, abode'); Skt. guṇāvāsa, accusative epithet of Pārśva"
+    }
+  ],
+  "literalTranslation": "For that reason that city came to be known among people by the name Ahicchatra; there we bow to Pārśva, the destroyer of obstacles, the abode of virtues.",
+  "idiomaticTranslation": "And so it was that this city won its name among the people — Ahicchatra, the city of the serpent-canopy. There we bow low to Lord Pārśva, who shatters every obstacle and in whom all virtues make their home.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the hinge of the Ahicchatra episode: it supplies the place-name's aetiology and seals it with an act of homage. The preceding verse described Dharaṇendra rearing up to hold a threefold canopy over the meditating Pārśva at Kāśī; this verse draws the explicit consequence — taṃ heuṃ, 'for that very reason' — that the city became known as Ahicchatra, literally 'serpent-canopy' (ahi + chatta). The poet is doing folk-etymology in the classic tīrtha-māhātmya manner: the holy site's name is read as a permanent memorial of the miracle enacted there. The following verse will return to the cause of that miracle — Kamaṭha's assault with lion, elephant and demons amid an unbroken downpour — so verse 60 sits deliberately between the canopy raised and the storm explained, marking the moment the legend crystallises into a name and a shrine. The second line turns from narration to worship: tahiyaṃ namimo pāsaṃ, 'there we bow to Pārśva', the hymn's signature gesture of stringing one more tīrtha-bead onto the garland. Two accusative epithets close the verse and characterise the Jina precisely as this legend portrays him. Viggha-viṇāsaṃ, 'destroyer of obstacles', is pointed: the one who himself endured and overcame the supreme upasarga (the demon-storm) is fittingly invoked as the remover of every devotee's hindrance. Guṇāvāsaṃ, 'abode of virtues', balances the active epithet with a contemplative one — Pārśva is not merely a remover of evils but the dwelling-place of all good qualities. The verse thus compresses geography, legend and devotion into a single breath.",
+    "doctrinalContext": "The verse rests on the Jain teaching of upasarga-sahana — the equanimous endurance of affliction. Pārśva's stillness under Kamaṭha's onslaught, while a hostile being (the storm) and a devoted one (Dharaṇendra) both act around him, dramatises vītarāgatā: the Jina neither resents the attacker nor clings to the protector. The epithet viggha-viṇāsa should be read in that light — Pārśva removes obstacles not as a boon-granting deity but as the exemplar whose conquest of the deepest inner hindrances (karma, passion) empowers the reciter's own path; the devotional 'obstacle-removal' is a fruit of taking refuge in such a conqueror. Guṇāvāsa locates the proper object of devotion in the Jina's infinite qualities (ananta-guṇa) rather than in worldly favour, keeping the bow firmly oriented to liberation.",
+    "practicalRelevance": "Reciting this verse, the worshipper makes a 'pilgrimage in words' to Ahicchatra without leaving the prayer-hall, recalling that Pārśva remained unmoved under deliberate torment. The practical lesson is to meet one's own 'storms' — provocations, fears, distractions in practice — with that same steadiness, and to bow to the obstacle-destroyer as a model of inner stillness rather than merely asking for trouble-free circumstances.",
+    "crossReferences": [
+      {
+        "text": "Pārśvanātha-caritra: Kamaṭha's upasarga and Dharaṇendra–Padmāvatī's protective canopy",
+        "source": "Hemacandra, Triṣaṣṭi-śalākā-puruṣa-caritra, Parvan 9"
+      },
+      {
+        "text": "Life of Pārśva (the 23rd Tīrthaṅkara) and the serpent-hood iconography",
+        "source": "Kalpa-sūtra, Pārśva section (Jacobi tr., SBE vol. 22)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panch Pratikraman Sutra (Gujarati–Hindi–English)",
+      "url": "https://archive.org/details/panch-pratikraman-sutra-guj-hin-eng_202011",
+      "type": "translation",
+      "consultedFor": "Cross-checking the Aṣṭottarī Tīrthamālā text and the standard rendering of namimo/pāsa homage verses"
+    },
+    {
+      "title": "Panch Pratikraman Sutra (Romanized) — Jain Quantum",
+      "url": "https://jainqq.org/booktext/Panch_Pratikraman_Sutra_Romanized/005540",
+      "type": "translation",
+      "consultedFor": "Romanized readings of Prakrit pratikramaṇa verses and tīrtha-vandanā vocabulary"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: hetu, nagarī, chattra, vighna, vināśa, guṇa, āvāsa, √nam, √jan"
+    },
+    {
+      "title": "Ahichhatra — historical and Jain-tīrtha identification",
+      "url": "https://en.wikipedia.org/wiki/Ahichhatra",
+      "type": "scholarship",
+      "consultedFor": "The ahi+chatra etymology of the place-name and its association with Pārśvanātha and the serpent-canopy legend"
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "The verse is an aetiological naming-verse: it derives 'Ahicchatra' from ahi ('serpent') + chatta ('canopy'), commemorating Dharaṇendra's hood-canopy of the previous verse — a traditional folk-etymology, not a historical-linguistic one (the city Ahicchatrā near Bareilly, U.P., is independently attested). viggha-viṇāsaṃ and guṇāvāsaṃ are read as two accusative epithets of pāsaṃ; some editions may join or punctuate the compound viggha-viṇāsaṃ differently, but the sense ('destroyer of obstacles') is stable. jaṇe is taken as locative jane ('among people'); a reading as instrumental/agentive ('made [so named] by people') is possible but does not change the overall meaning. Orthography (e.g. અહિચ્છત્તા, વિગ્ઘ) is preserved verbatim from the source script and not normalised."
+}

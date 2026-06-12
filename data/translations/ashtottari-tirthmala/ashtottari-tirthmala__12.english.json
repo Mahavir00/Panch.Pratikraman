@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Turning now to the Tīrthaṅkaras of a long-vanished age in Bharata, the poet bows first to five of them — Kevalī, Nirvāṇī, Sāgara, Mahāyaśas and Vimala.",
+  "recitation": "bharahaṁmi tīyakāle, paḍhamaṁ vandāmi kevali jiṇaṁdaṁ;\nnivvāṇī jiṇa sāyara, mahājasaṁ ceva vimala jiṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "ભરહંમિ",
+      "translit": "bharahaṁmi",
+      "gloss": "in Bharata (the Bharata-kṣetra of Jambūdvīpa)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. locative of bharaha < Skt. bharata-kṣetra; the locative suffix -mmi marks 'in/within'.",
+      "notes": "Locates the whole salutation in the Bharata land, where the successive sets of 24 arise."
+    },
+    {
+      "token": "તીયકાલે",
+      "translit": "tīyakāle",
+      "gloss": "in the past age / past cycle (atīta-kāla)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. tīya < Skt. atīta ('gone by, past') + kāla ('time'), locative -e.",
+      "notes": "Per the tradition's structure this opens the atīta-caubīsī (vv.12–15); tīya here = atīta, not tri-/'three times'."
+    },
+    {
+      "token": "પઢમં",
+      "translit": "paḍhamaṁ",
+      "gloss": "first, at the outset",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. paḍhama < Skt. prathama ('first'); adverbial accusative -aṁ.",
+      "notes": "Signals the head of an ordered roll-call, not 'first' in importance."
+    },
+    {
+      "token": "વંદામિ",
+      "translit": "vandāmi",
+      "gloss": "I bow to, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "√vand ('to praise, venerate'); present 1st sg., identical in Skt. and Pkt.",
+      "notes": "First-person singular act of homage governing the names that follow."
+    },
+    {
+      "token": "કેવલિ",
+      "translit": "kevali",
+      "gloss": "Kevalī (the Omniscient One) — 1st Tīrthaṅkara of the past cycle",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt./Pkt. kevalin ('possessor of kevala-jñāna, omniscience'); here used as the proper name Kevalajñānī.",
+      "notes": "Doubles as an epithet (the omniscient) and as this Jina's name."
+    },
+    {
+      "token": "જિણંદં",
+      "translit": "jiṇaṁdaṁ",
+      "gloss": "Jinendra, lord of the Jinas (object of vandāmi)",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa < Skt. jina ('conqueror') + inda < indra ('lord'); accusative -aṁ.",
+      "notes": "Honorific applied to Kevalī as the one being saluted."
+    },
+    {
+      "token": "નિવ્વાણી",
+      "translit": "nivvāṇī",
+      "gloss": "Nirvāṇī — 2nd Tīrthaṅkara of the past cycle",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. nivvāṇa < Skt. nirvāṇa ('extinction, liberation') + -ī; a proper name.",
+      "notes": "Begins the continuation of the list after the first salutation."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (the conqueror), here qualifying Nirvāṇī/the series",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jina < √ji ('to conquer'); one who has vanquished the inner foes.",
+      "notes": "Stem form used appositionally with the names."
+    },
+    {
+      "token": "સાયર",
+      "translit": "sāyara",
+      "gloss": "Sāgara — 3rd Tīrthaṅkara of the past cycle",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. sāyara < Skt. sāgara ('ocean'); a proper name.",
+      "notes": "Listed without a separate honorific, sharing jiṇa above."
+    },
+    {
+      "token": "મહાજસં",
+      "translit": "mahājasaṁ",
+      "gloss": "Mahāyaśas — 4th Tīrthaṅkara of the past cycle",
+      "partOfSpeech": "invocation",
+      "etymology": "mahā ('great') + Pkt. jasa < Skt. yaśas ('glory, fame'); accusative -aṁ.",
+      "notes": "Accusative as a further object of vandāmi."
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed, as well",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. ceva < Skt. ca ('and') + eva ('indeed'), sandhi-joined.",
+      "notes": "Emphatic connective binding Vimala into the same salutation."
+    },
+    {
+      "token": "વિમલ",
+      "translit": "vimala",
+      "gloss": "Vimala — 5th Tīrthaṅkara of the past cycle",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. vimala ('stainless, pure'); a proper name.",
+      "notes": "Closes the five names of this verse."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (object), sealing the salutation",
+      "partOfSpeech": "noun",
+      "etymology": "jiṇa < Skt. jina, accusative -aṁ.",
+      "notes": "Rounds off Vimala as 'Vimala the Jina'."
+    }
+  ],
+  "literalTranslation": "In Bharata, in the past age, I first bow to Kevalī Jinendra; (and to) the Jina Nirvāṇī, Sāgara, Mahāyaśas, and Vimala the Jina too.",
+  "idiomaticTranslation": "Here in Bharata, across the age now long gone by, I bow first of all to Kevalī, lord among the Jinas; and I salute the Jinas Nirvāṇī, Sāgara and Mahāyaśas — and Vimala the Jina too.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the opening doxology to the timeless, fault-free Jina, this verse executes the hymn's first turn from the universal to the temporally ordered: it names a place (bharahaṁmi, Bharata) and a time-frame (tīyakāle, the past cycle) and then begins counting. The single verb vandāmi ('I bow') governs the whole verse and indeed the next several, so the names that follow are beads strung on one continuous act of homage. paḍhamaṁ ('first') is structurally precise — it marks Kevalī as the head of the roll, not as supreme in rank. Notice the economy of the gāthā: only Kevalī receives a full honorific (jiṇaṁdaṁ, Jinendra), while Nirvāṇī, Sāgara and Mahāyaśas share the appositional jiṇa, and ceva ('and indeed') gathers Vimala in at the close — five names fitted neatly into two lines. The word kevali works doubly, as both the epithet 'omniscient' and the actual name of this past Jina, a small felicity the poet exploits to keep the verse compact. The following verse will pick up the thread seamlessly with Sarvānubhūti, Śrīdhara, Datta and the rest, confirming that these five are the opening members of the past twenty-four (atīta-caubīsī) of Bharata.",
+    "doctrinalContext": "The verse rests on Jain cyclic cosmology: time turns through descending (avasarpiṇī) and ascending (utsarpiṇī) half-cycles, and in every half-cycle of Bharata exactly twenty-four Tīrthaṅkaras arise, with infinitely many having preceded in ages past. By bowing to Jinas who attained liberation cycles ago and whose era is wholly gone (tīyakāle), the reciter affirms that Jina-hood and the tīrtha it founds are beginningless and that homage is owed not only to the familiar present twenty-four but to the entire unbroken succession. The qualities saluted — omniscience (kevala), conquest (jina) — are identical across all of them, so a past Jina is no lesser an object of veneration than a present one.",
+    "practicalRelevance": "The reciter is led to bow to Jinas they will never see, named and known only by report. This trains śraddhā (faith) and humility: devotion is not anchored to fame or proximity but to the timeless qualities of any liberated soul. Lingering on 'first I bow' also models how to begin any act of worship — with reverence before petition.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — salutation of the present twenty-four, the structural counterpart to this past-cycle roll",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit, Anchalgachchha/Vidhipaksha ed."
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.13 (following) — continues the same list: Sarvānubhūti, Śrīdhara, Datta, Dāmodara, Sutejas…",
+        "source": "Mahendrasiṁhasūri, same edition"
+      },
+      {
+        "text": "Kalpa-sūtra / Triṣaṣṭi-śalākā-puruṣa-caritra — traditional enumerations of the atīta-caubīsī",
+        "source": "Hemacandra and the Śvetāmbara āgamic tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Jain cyclic time (avasarpiṇī/utsarpiṇī), the count of 24 Tīrthaṅkaras per half-cycle, and the doctrine of infinitely many past Tīrthaṅkaras"
+    },
+    {
+      "title": "Atīta — definition (Sanskrit/Prakrit lexicon entry)",
+      "url": "https://www.wisdomlib.org/definition/atita",
+      "type": "dictionary",
+      "consultedFor": "Confirming tīya = atīta ('gone by, past'), underpinning the gloss of tīyakāle as the past cycle"
+    },
+    {
+      "title": "Kevala jnana",
+      "url": "https://en.wikipedia.org/wiki/Kevala_jnana",
+      "type": "scholarship",
+      "consultedFor": "Sense of kevalin/kevali as 'possessor of omniscience', grounding the double reading of kevali as name and epithet"
+    },
+    {
+      "title": "Panch Pratikraman Sūtra (sūtra–artha edition), JainQQ digital library",
+      "url": "https://jainqq.org/explore/001327/1",
+      "type": "translation",
+      "consultedFor": "Cross-checking the Pañca Pratikramaṇa recitation context for the Aṣṭottarī Tīrthamālā within the Pakkhī sequence"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "tīyakāle is glossed as atīta-kāla ('the past cycle/age'), per the sutra's own structure (vv.12–15 salute the past twenty-four of Bharata) — NOT as 'three times' (tri-kāla), a reading some loose web sources suggest. The five names — Kevalī (Kevalajñānī), Nirvāṇī, Sāgara, Mahāyaśas (Mahājasa), Vimala — are the opening members of the Śvetāmbara atīta-caubīsī; this is corroborated internally by the following verse continuing with Sarvānubhūti, Śrīdhara, Datta, Dāmodara, etc. Name spellings (esp. of the tail of the list) vary across manuscript traditions; the original Gujarati orthography (e.g. ભરહંમિ) is preserved verbatim and not normalised. kevali is read as both the proper name and the literal epithet 'omniscient'."
+}

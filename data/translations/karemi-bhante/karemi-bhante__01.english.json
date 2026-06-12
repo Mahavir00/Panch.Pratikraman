@@ -1,0 +1,258 @@
+{
+  "shlokaId": "karemi-bhante/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "O reverend one, I take up a period of calm and promise that, for as long as this vow holds, I will neither do nor get others to do any harmful act in thought, word, or deed — and I turn away from my past wrongs.",
+  "recitation": "karemi bhante! sāmāiyaṁ, sāvajjaṁ jogaṁ paccakkhāmi, jāva niyamaṁ pajjuvāsāmi, duvihaṁ, tivihaṇaṁ, maṇeṇaṁ, vāyāe, kāeṇaṁ na karemi, na kāravemi, tassa bhante! paḍikkamāmi, nindāmi, garihāmi, appāṇaṁ vosirāmi",
+  "wordByWord": [
+    {
+      "token": "કરેમિ",
+      "translit": "karemi",
+      "gloss": "I do, I undertake, I make (the vow)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Skt √kṛ 'to do, make'; 1st-person singular present, kṛ → kar- + -emi.",
+      "notes": "The performative 'I do' — the act of speaking it is itself the taking of the vow."
+    },
+    {
+      "token": "ભંતે",
+      "translit": "bhante",
+      "gloss": "O reverend one (vocative to the guru)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit vocative from Skt bhadanta / bhavanta 'venerable, sir'.",
+      "notes": "First of two occurrences; addresses the guru (or the sthāpanā in the guru's absence)."
+    },
+    {
+      "token": "સામાઇયં",
+      "translit": "sāmāiyaṁ",
+      "gloss": "equanimity, the sāmāyika (object of the verb)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit, accusative singular of sāmāiya < Skt sāmāyika, from sama 'equal, even' + āya.",
+      "notes": "Accusative — what is being undertaken."
+    },
+    {
+      "token": "સાવજજં",
+      "translit": "sāvajjaṁ",
+      "gloss": "blameworthy, sinful (qualifying 'activity')",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Skt sāvadya, from sa- 'with' + avadya 'fault, blame'.",
+      "notes": "Book spelling સાવજજં (doubled jj) preserved verbatim."
+    },
+    {
+      "token": "જોગં",
+      "translit": "jogaṁ",
+      "gloss": "activity (of mind, speech, body)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt yoga 'joining, activity'; here the channelled activity of the three instruments.",
+      "notes": "Accusative, object of paccakkhāmi; paired with sāvajjaṁ as 'blameworthy activity'."
+    },
+    {
+      "token": "પચ્ચખ્ખામિ",
+      "translit": "paccakkhāmi",
+      "gloss": "I renounce, I formally abstain from",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt pratyākhyāmi, prati- + ā + √khyā 'to declare against'; 1st-person singular present.",
+      "notes": "The binding renunciatory verb; cognate with the sixth Āvaśyaka."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "for as long as, until",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit < Skt yāvat 'as long as, while'; correlative temporal particle.",
+      "notes": "Opens the duration-clause that bounds the vow in time."
+    },
+    {
+      "token": "નિયમં",
+      "translit": "niyamaṁ",
+      "gloss": "the rule, the (self-imposed) restraint",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Skt niyama, ni- + √yam 'to restrain'; accusative singular.",
+      "notes": "'jāva niyamaṁ' is read here as 'for as long as the rule binds me'; a known textual variant — see notes."
+    },
+    {
+      "token": "પજ્જુવાસામિ",
+      "translit": "pajjuvāsāmi",
+      "gloss": "I attend upon, I wait devotedly upon (this state)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt paryupāsāmi, pari- + upa- + √ās 'to sit near, serve'; 1st-person singular present.",
+      "notes": "Connotes steadfast, reverent abiding — not passive waiting but active devotion to the vow."
+    },
+    {
+      "token": "દુવિહં",
+      "translit": "duvihaṁ",
+      "gloss": "in two ways (doing and causing to be done)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Skt dvividha, dvi 'two' + vidha 'kind'; accusative-adverbial.",
+      "notes": "The 'two ways': karaṇa (doing) and kārāpaṇa (causing); the approving mode is not undertaken here."
+    },
+    {
+      "token": "તિવિહેણં",
+      "translit": "tivihaṇaṁ",
+      "gloss": "by three means (mind, speech, body)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Skt trividhena, tri 'three' + vidha; instrumental.",
+      "notes": "Together with duvihaṁ forms the 'two ways × three means' lattice that makes the restraint exhaustive."
+    },
+    {
+      "token": "મણેણં",
+      "translit": "maṇeṇaṁ",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit instrumental of maṇa < Skt manas 'mind'.",
+      "notes": "First of the three instruments."
+    },
+    {
+      "token": "વાયાએ",
+      "translit": "vāyāe",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit instrumental of vāyā < Skt vāc 'speech'.",
+      "notes": "Second instrument."
+    },
+    {
+      "token": "કાએણં",
+      "translit": "kāeṇaṁ",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit instrumental of kāya < Skt kāya 'body'.",
+      "notes": "Third instrument; completes mind-speech-body."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt negative particle na.",
+      "notes": "First negation, governing karemi."
+    },
+    {
+      "token": "કરેમિ",
+      "translit": "karemi",
+      "gloss": "I do",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit from Skt √kṛ; 1st-person singular present (see token 1).",
+      "notes": "Here negated: 'na karemi' = I do not do (myself)."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Skt negative particle na.",
+      "notes": "Second negation, governing kāravemi."
+    },
+    {
+      "token": "કારવેમિ",
+      "translit": "kāravemi",
+      "gloss": "I cause (another) to do",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit causative < Skt kārayāmi, √kṛ causative kāraya- 'to cause to do'; 1st-person singular.",
+      "notes": "'na kāravemi' = I do not cause it to be done — the second of the two renounced 'ways'."
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "from/of that (past blameworthy activity)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive/ablative of ta- < Skt tasya 'of that'.",
+      "notes": "Refers back to the sāvadya-yoga; governs the four verbs that follow."
+    },
+    {
+      "token": "ભંતે",
+      "translit": "bhante",
+      "gloss": "O reverend one",
+      "partOfSpeech": "invocation",
+      "etymology": "See token 2.",
+      "notes": "Second occurrence — frames the confessional movement before the guru, echoing the opening address."
+    },
+    {
+      "token": "પડિક્કમામિ",
+      "translit": "paḍikkamāmi",
+      "gloss": "I turn back, I withdraw (from that fault)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt pratikrāmāmi, prati- 'back' + √kram 'to step'; 1st-person singular.",
+      "notes": "The root act that names the whole ritual of pratikramaṇa."
+    },
+    {
+      "token": "નિંદામિ",
+      "translit": "nindāmi",
+      "gloss": "I censure (it within myself)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt nindāmi, √nind 'to blame, censure'; 1st-person singular.",
+      "notes": "Inward self-reproach."
+    },
+    {
+      "token": "ગરિહામિ",
+      "translit": "garihāmi",
+      "gloss": "I condemn (it before the guru)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt garhāmi, √garh 'to reproach, denounce'; 1st-person singular.",
+      "notes": "Outward confession; book spelling ગરિહામિ (with -i-) preserved verbatim."
+    },
+    {
+      "token": "અપ્પાણં",
+      "translit": "appāṇaṁ",
+      "gloss": "the (faulty) self",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit accusative of appā < Skt ātman 'self, soul'.",
+      "notes": "Object of vosirāmi — the self conditioned by past blameworthy activity."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I cast off, I abandon",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Skt vyutsṛjāmi, vi- + ut- + √sṛj 'to release, let go'; 1st-person singular.",
+      "notes": "The culminating act of vyutsarga — letting go of the conditioned self."
+    }
+  ],
+  "literalTranslation": "I undertake, O reverend one, equanimity; blameworthy activity I renounce. For as long as the rule (binds me), I attend upon (this state). In two ways, by three means — by mind, by speech, by body — I do not do (it), I do not cause (it) to be done. From that, O reverend one, I turn back, I censure (it within), I condemn (it before you), I cast off the (faulty) self.",
+  "idiomaticTranslation": "Reverend one, I take up equanimity, and I renounce every blameworthy act. For as long as this vow holds me, I will abide steadfastly within it: in two ways and by three means — in mind, in speech, in body — I will neither do such an act myself nor have it done by another. And reverend one, from all such past wrongdoing I now turn back; I reproach it within, I confess it before you, and I let go of the very self that did it.",
+  "elaboration": {
+    "verseByVerseCommentary": "The vow is built as a single descending logic, and its force lies in how each clause tightens the one before. It opens performatively: 'karemi' does not describe an intention but enacts it — to say the word is to take the vow. What is taken (sāmāiyaṁ) and what is given up (sāvajjaṁ jogaṁ) are stated as a matched pair, equanimity and blameworthy activity defined against each other. The pivot is 'jāva niyamaṁ pajjuvāsāmi': the vow is deliberately time-bounded, not a lifelong renunciation, and pajjuvāsāmi colours that span as devoted abiding rather than mere endurance. Then comes the legal heart of the verse, the lattice 'duvihaṁ tivihaṇaṁ': two ways multiplied by three means. Note the precision — the two ways named are only doing (na karemi) and causing (na kāravemi); the third mode, approving (anumodanā), is consciously left out, which is exactly what marks this as the lay sāmāyika form rather than the fuller mendicant renunciation. The three means then close every avenue of the self: maṇeṇaṁ, vāyāe, kāeṇaṁ leave no faculty through which sāvadya could leak in. Having sealed the present and future, the verse turns to the past with four escalating verbs: paḍikkamāmi (withdraw), nindāmi (reproach within), garihāmi (confess before the guru), vosirāmi (cast off). The movement is inward-to-outward-to-beyond — first retreat, then private censure, then open confession, and finally the release not merely of the act but of appāṇaṁ, the self that performed it. The repeated 'bhante' binds the two halves: the same reverence that opens the resolution opens the confession.",
+    "doctrinalContext": "The verse compresses the Jain theory of action and its undoing. Karma binds through yoga (activity) when that activity is sāvadya; sāmāyika suspends the inflow by withdrawing activity into evenness. The 'two ways × three means' grid is the standard Jain calculus of moral responsibility — one incurs karma not only by acting but by instigating, and through any of mind, speech, or body. By renouncing two of the three karaṇa-modes, the lay reciter takes a real but measured vow, honest about its scope. The closing tetrad maps onto the recognised stages of saṁvara-and-nirjarā applied to past fault: paḍikkamaṇa stops further binding, nindā and garhā are forms of ālocanā (disclosure) that ripen and shed accumulated karma, and vyutsarga abandons the kaṣāya-conditioned ego-identity itself, pointing past mere behaviour-correction toward the soul's native purity.",
+    "practicalRelevance": "A reciter today can treat the verse as a checklist for entering any set-apart period of practice: name the calm you are taking up, name precisely what you are setting down, fix the duration honestly, and test your restraint against all three channels — are mind, speech, and body all included, and have you renounced not only doing harm but arranging for it? The closing four verbs give a usable rhythm for daily review: step back from the fault, own it inwardly, voice it honestly, then release attachment to it rather than brooding.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Sāmāyika Āvaśyaka (Sāmāyika-daṇḍaka)",
+        "source": "Ardhamāgadhī canonical text"
+      },
+      {
+        "text": "Sāmāyika Sūtra, 'Karemi Bhante' — text with meaning",
+        "source": "HereNow4U, Jain Vidya (Samayika Patha)"
+      },
+      {
+        "text": "The two-ways-three-means (dvividha-trividha) formula of restraint",
+        "source": "Five Vows and Six Āvaśyakas — Fundamentals of Jaina Ethics (HereNow4U)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain Vidya (1): 03 Samayika Patha",
+      "url": "https://www.herenow4u.net/index.php?id=114057",
+      "type": "translation",
+      "consultedFor": "Romanized Karemi Bhante text, line-by-line English meaning, and the 48-minute duration gloss."
+    },
+    {
+      "title": "Five Vows and Six Avashyakas — The Fundamentals of Jaina Ethics",
+      "url": "https://www.herenow4u.net/index.php?id=3010",
+      "type": "commentary",
+      "consultedFor": "Doctrinal framing of the dvividha-trividha (two ways × three means) restraint formula and the karaṇa/kārāpaṇa/anumodanā distinction."
+    },
+    {
+      "title": "Samayik Sutra With Meanings (Gujarati/English)",
+      "url": "https://jainworld.com/wp-content/uploads/2022/11/Samayik-Sutra-With-Meanings.pdf",
+      "type": "translation",
+      "consultedFor": "Cross-check of the closing paḍikkamāmi–nindāmi–garihāmi–vosirāmi confessional formula and the fuller recension wording."
+    },
+    {
+      "title": "Books Online — Jainworld (Samayik / Pratikraman sources)",
+      "url": "https://jainworld.com/library/jain-books/books-on-line/",
+      "type": "scholarship",
+      "consultedFor": "Verification of standard Samayika/Pratikramana liturgical wording and verb glosses."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The book's verse is honoured verbatim, including સાવજજં (doubled jj), પચ્ચખ્ખામિ, ગરિહામિ (with -i-), and the comma-separated listing of duvihaṁ, tivihaṇaṁ, maṇeṇaṁ, vāyāe, kāeṇaṁ. (1) 'jāva niyamaṁ' is rendered 'for as long as the rule binds me' (duration-fixing); other recensions read forms such as 'jāva sāhū' or expand to 'jāva niyamaṁ pajjuvāsāmi … egaṁ muhuttaṁ', and traditions vary — flagged as a known variant, not settled here. (2) This book's text uses the two-way form 'na karemi, na kāravemi' and omits the approving mode (anūmodanā / 'na aṇujāṇāmi') found in fuller mendicant/other-tradition recensions (e.g. the Sthānakavāsī/Terāpanthī 'na karemi na kāravemi nāṇujāṇāmi, manasā vayasā kāyasā'); the omission is the doctrinally appropriate scope of the lay sāmāyika vow, not a defective text. (3) The ~48-minute (one muhūrta) duration is traditional and not stated by the verse itself. (4) The doubled three-means here read instrumentally (maṇeṇaṁ/vāyāe/kāeṇaṁ) while duvihaṁ is adverbial-accusative — both serve the single restraint clause."
+}

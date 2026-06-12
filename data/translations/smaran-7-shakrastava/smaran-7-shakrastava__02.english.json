@@ -1,0 +1,72 @@
+{
+  "shlokaId": "smaran-7-shakrastava/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May there be reverence to the Arihantas, the worshipful ones.",
+  "recitation": "namotthuṇaṁ arihantāṇaṁ, bhagavantāṇaṁ",
+  "wordByWord": [
+    {
+      "token": "નમોત્થુણં",
+      "translit": "namotthuṇaṁ",
+      "gloss": "may reverence be (to…); homage be",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit resolution of Sanskrit namo'stu = namaḥ ('bowing,' from √nam, 'to bend, salute') + astu ('let there be,' 3rd-sg. imperative of √as, 'to be'); the conjunct -st- assimilates to -tth-, and -ṇaṁ is the formulaic Ardhamāgadhī enclitic that opens this stava.",
+      "notes": "Not a bare salute but a benedictive: 'let homage be,' a standing, willed reverence rather than a single act."
+    },
+    {
+      "token": "અરિહંતાણં",
+      "translit": "arihantāṇaṁ",
+      "gloss": "to the Arihantas (foe-destroyers, the fully awakened)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ari ('enemy') + hanta (agent of √han, 'to slay'), 'slayer of the inner foes'; the -āṇaṁ ending is the Ardhamāgadhī genitive plural functioning here as the dative governed by the salutation ('to the…').",
+      "notes": "Object of homage; the case-form is genitive plural standing for the dative of the one saluted."
+    },
+    {
+      "token": "ભગવંતાણં",
+      "translit": "bhagavantāṇaṁ",
+      "gloss": "to the worshipful / glorious ones (Bhagavants)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhagavant- = bhaga ('majesty, fortune, glory') + possessive suffix -vant ('possessing'), 'possessor of bhaga'; Prakrit -āṇaṁ genitive plural in apposition to arihantāṇaṁ.",
+      "notes": "Stands in apposition to arihantāṇaṁ — the same beings named twice, by deed (foe-slaying) and by dignity (glory)."
+    }
+  ],
+  "literalTranslation": "Reverence be to the Arihantas, to the worshipful ones.",
+  "idiomaticTranslation": "May my homage rise to the Arihantas — the conquerors of every inner foe — the glorious, worshipful ones.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the seed-clause from which the whole garland of titles unfolds: a single complete sentence — verb of homage plus two appositional datives — before the long anaphoric clauses begin. Two choices repay attention. First, the form is namotthuṇaṁ, 'let reverence be,' not a curt namo; the benedictive astu makes the homage a continuing, willed orientation of the heart rather than one bow, and (by tradition) it is Śakra's own deliberate utterance, weighed and offered. Second, the doubling arihanta–bhagavant is not redundancy but definition by two angles. Arihanta names the achievement — the destruction of the inner enemies (rāga, dveṣa, moha) — telling us what these beings did. Bhagavant names the resulting dignity — possessors of bhaga, of majesty and glory — telling us what they now are. The reciter therefore salutes both the victory and the splendour that victory confers, in the same breath. Every clause that follows (path-makers, best-of-men, givers of fearlessness, sovereigns of Dharma) is grammatically an expansion of these two datives: the verse plants the subject the rest of the hymn will adorn.",
+    "doctrinalContext": "The pairing encodes a core Jain conviction: glory (bhaga) is earned, not conferred. The Arihanta is worshipful precisely because he first became a foe-destroyer; reverence answers self-won spiritual conquest, not external grace. Naming the living Arihanta (rather than only the liberated Siddha) also fixes homage on the embodied, teaching omniscient — the one still present in the world to show the path.",
+    "practicalRelevance": "Opening recitation with 'let reverence be' invites the reciter to settle into a sustained attitude of homage, not a hurried gesture; and to remember that what is revered is the conquest of one's own inner foes — the very work the pratikramaṇa undertakes.",
+    "crossReferences": [
+      {
+        "text": "Aupapātika (Uvavāiya) Sūtra — Namotthuṇaṁ as the canonical formula of homage to the Arihantas",
+        "source": "Śvetāmbara Ardhamāgadhī Āgama corpus"
+      },
+      {
+        "text": "Namaskāra-mantra, first pada 'namo arihantāṇaṁ'",
+        "source": "Standard Śvetāmbara liturgy"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Aupapātika Sūtra (Uvavāiya) — Śvetāmbara Ardhamāgadhī canon",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Canonical attestation of Namotthuṇaṁ as the fixed formula of homage to the Arihantas, opening with this core salutation clause."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://www.jainelibrary.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and case-forms of arihanta and the -āṇaṁ genitive/dative plural ending."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de",
+      "type": "dictionary",
+      "consultedFor": "Etymology of namaḥ (√nam) + astu (√as) behind namo'stu, and of bhagavant- (bhaga + -vant)."
+    }
+  ],
+  "translatorConfidence": 0.95,
+  "notes": "The verse is short and uncontested. The -āṇaṁ ending is a genitive plural that here functions as the dative governed by namo'stu — both 'of' and 'to' the Arihantas are defensible English renderings; 'to' is used for the salutation. Text preserved verbatim as printed ('નમોત્થુણં અરિહંતાણં, ભગવંતાણં'); the book's mid-verse comma after અરિહંતાણં is retained in the recitation. bhagavant is read in apposition to arihanta (same beings), the standard Jain construal, not as a separate class."
+}

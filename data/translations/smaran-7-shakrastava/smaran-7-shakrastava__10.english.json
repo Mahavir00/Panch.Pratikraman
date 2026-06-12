@@ -1,0 +1,202 @@
+{
+  "shlokaId": "smaran-7-shakrastava/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This closing line bows to the awakened ones who know and see everything and who have reached the blissful, deathless, never-returning home of liberation — the Jinas who have conquered all fear.",
+  "recitation": "savvaṇṇūṇaṁ savvadarisīṇaṁ, siva-m-ayala-m-arua-m-aṇaṁta-m-akkhaya-m-avvābāha-m-apunarāvitti, siddhigaï-nāmadheyaṁ ṭhāṇaṁ saṁpattāṇaṁ, namo jiṇāṇaṁ jiabhayāṇaṁ",
+  "wordByWord": [
+    {
+      "token": "સવ્વન્નૂણં",
+      "translit": "savvannūṇaṁ",
+      "gloss": "to the all-knowing (omniscient) ones",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit savva (Skt. sarva, 'all') + nnū (Skt. jña, 'knower') + gen./dat. pl. -ṇaṁ; = Skt. sarvajñebhyaḥ.",
+      "notes": "Names the kevala-jñāna (omniscient knowledge) of the Arihanta."
+    },
+    {
+      "token": "સવ્વદરિસીણં",
+      "translit": "savvadarisīṇaṁ",
+      "gloss": "to the all-seeing ones",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit savva (sarva) + darisī (Skt. darśin, 'seer') + -ṇaṁ; = Skt. sarvadarśibhyaḥ.",
+      "notes": "Paired with savvannū as the standard couple kevala-jñāna + kevala-darśana."
+    },
+    {
+      "token": "સિવ",
+      "translit": "siva",
+      "gloss": "blissful, auspicious",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. śiva, 'auspicious, salvific'.",
+      "notes": "First of the seven epithets qualifying the liberated abode (in the underlying gen. pl. siva… apunarāvittiṁ saṁpattāṇaṁ)."
+    },
+    {
+      "token": "મયલ",
+      "translit": "m-ayala",
+      "gloss": "(and) immovable",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- (makāra-āgama, hiatus-breaker) + ayala (Skt. acala, 'unmoving'); a-cala.",
+      "notes": "The leading m- is a sandhi consonant inserted between vowels, not part of the root; root = ayala."
+    },
+    {
+      "token": "મરુઅ",
+      "translit": "m-arua",
+      "gloss": "(and) free of disease/affliction",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- + arua (Skt. aruja / arujas, 'without sickness'); a-ruja.",
+      "notes": "Not to be misread as a single word 'maruya'; it is ma(sandhi)+arua."
+    },
+    {
+      "token": "મણંત",
+      "translit": "m-aṇaṁta",
+      "gloss": "(and) endless, infinite",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- + aṇaṁta (Skt. ananta, 'without end'); a-anta.",
+      "notes": "Evokes the ananta-catuṣṭaya (infinite knowledge, vision, bliss, energy) of the Siddha."
+    },
+    {
+      "token": "મક્ખય",
+      "translit": "m-akkhaya",
+      "gloss": "(and) imperishable, undecaying",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- + akkhaya (Skt. akṣaya, 'undiminishing'); a-kṣaya.",
+      "notes": ""
+    },
+    {
+      "token": "મવ્વાબાહ",
+      "translit": "m-avvābāha",
+      "gloss": "(and) untroubled, free of all pain",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- + avvābāha (Skt. avyābādha, 'without obstruction/affliction').",
+      "notes": "Often listed among the eight qualities of the Siddha (avyābādha-sukha)."
+    },
+    {
+      "token": "મપુણરાવિત્તિ",
+      "translit": "m-apunarāvitti",
+      "gloss": "(and) from which there is no return (to rebirth)",
+      "partOfSpeech": "adj",
+      "etymology": "euphonic -m- + a- (not) + punar (again) + āvitti (Skt. āvṛtti, 'returning'); = apunarāvṛtti.",
+      "notes": "The seventh epithet; declares liberation irreversible — the soul never re-enters saṁsāra."
+    },
+    {
+      "token": "સિદ્ધિ",
+      "translit": "siddhi",
+      "gloss": "perfection, liberation",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. siddhi, 'accomplishment, final emancipation'.",
+      "notes": "Forms the compound siddhi-gati with the next token."
+    },
+    {
+      "token": "ગઇ",
+      "translit": "gaï",
+      "gloss": "destination, state, going",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gaï (Skt. gati, 'course, destination'); √gam.",
+      "notes": "siddhi-gaï = the destination that is liberation, the abode at the universe's apex (siddha-śilā)."
+    },
+    {
+      "token": "નામ",
+      "translit": "nāma",
+      "gloss": "by name, named",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nāman, 'name'; here first member of nāma-dheya.",
+      "notes": "Read with the following dheyaṁ as the single word nāmadheyaṁ."
+    },
+    {
+      "token": "ધેયં",
+      "translit": "dheyaṁ",
+      "gloss": "designated, bearing the name (of)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. -dheya (from √dhā, 'to place/assign'); nāmadheya = 'that which bears the name'.",
+      "notes": "Qualifies ṭhāṇaṁ: 'the abode designated by the name siddhi-gati'."
+    },
+    {
+      "token": "ઠાણં",
+      "translit": "ṭhāṇaṁ",
+      "gloss": "abode, place, station",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṭhāṇa (Skt. sthāna, 'place'); √sthā.",
+      "notes": "The seven adjectives above all attributively describe this ṭhāṇaṁ."
+    },
+    {
+      "token": "સંપત્તાણં",
+      "translit": "saṁpattāṇaṁ",
+      "gloss": "to those who have reached/attained (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit saṁpatta (Skt. saṁprāpta, 'fully reached') + gen./dat. pl. -ṇaṁ; saṁ-pra-√āp.",
+      "notes": "Past participle used substantively: 'of/to the ones who have arrived at that abode'."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "reverence be, obeisance",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. namaḥ (sandhi namo), 'bowing, homage'.",
+      "notes": "Begins the sealing salutation that closes the whole Śakra-stava."
+    },
+    {
+      "token": "જિણાણં",
+      "translit": "jiṇāṇaṁ",
+      "gloss": "to the Jinas (the victorious ones)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa (Skt. jina, 'conqueror', √ji) + dat. pl. -ṇaṁ.",
+      "notes": "Dative of homage governed by namo."
+    },
+    {
+      "token": "જિઅભયાણં",
+      "translit": "jiabhayāṇaṁ",
+      "gloss": "to those who have conquered fear",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jia (Skt. jita, 'conquered', √ji) + bhaya (Skt. bhaya, 'fear') + dat. pl. -ṇaṁ; = jita-bhaya.",
+      "notes": "Closing epithet; the Jina has overcome every fear (the canonical seven/eighteen bhayas)."
+    }
+  ],
+  "literalTranslation": "To the all-knowing, to the all-seeing — to those who have reached the abode designated 'siddhi-gati' (the destination of perfection), [an abode] blissful, immovable, free of disease, endless, imperishable, untroubled, and never-returning: reverence to the Jinas, the conquerors of fear.",
+  "idiomaticTranslation": "Reverence to those who know all and see all, who have arrived at that abode called the State of Perfection — blissful, unshakable, free of every affliction, infinite, imperishable, beyond all pain, the place from which none returns. Homage to the Jinas, who have vanquished all fear.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the reflexive couplets just sung (himself crossed-over and ferrier, awakened and awakener), this clause finally names the destination of that whole journey. It pivots in grammar and in mood: it opens with two present, living attributes of the Arihanta — savvannū (all-knowing) and savvadarisī (all-seeing), the kevala-jñāna and kevala-darśana pair — and then, with saṁpattāṇaṁ ('of those who have reached'), shifts to the accomplished terminus, the ṭhāṇaṁ called siddhi-gati. The seven adjectives are not loose praise; each cancels one limitation of saṁsāra. siva removes inauspiciousness, ayala restlessness, arua sickness, aṇaṁta finitude, akkhaya decay, avvābāha pain, and apunarāvitti the very possibility of falling back — liberation is declared irreversible. A point worth hearing aloud: the epithets are strung by an inserted euphonic -m- (makāra-āgama), so the chanter delivers siva-m-ayala-m-arua… in one unbroken breath, the sound itself enacting the seamless, undivided perfection it describes. The clause then seals not only itself but the entire Śakra-stava with namo jiṇāṇaṁ jiabhayāṇaṁ — a return to bare, direct homage after the long garland of titles. jiabhaya ('fear-conqueror') is the fitting final word: the being who has reached the deathless abode is, by definition, the one for whom no fear remains.",
+    "doctrinalContext": "The verse encodes the Jain account of mokṣa precisely. savvannū / savvadarisī assert that omniscience (kevala-jñāna) and total perception (kevala-darśana) are intrinsic to the liberated, the very faculties revealed when the destructive (ghātī) karmas fall away. The seven epithets of siddhi-gati describe the Siddha-state at the apex of the loka (the siddha-śilā): notably apunarāvitti enshrines the distinctively Jain claim that liberation is permanent — there is no descent back into embodiment, unlike cyclic-return models. aṇaṁta points to the ananta-catuṣṭaya (infinite knowledge, vision, bliss, and energy), and avvābāha to the avyābādha-sukha, the painless bliss counted among the Siddha's qualities. jiabhaya names the fruit of fearlessness that the abhaya-daya ('giver of fearlessness') clause earlier promised: the Jina, having destroyed the root passions, has nothing left to fear.",
+    "practicalRelevance": "Recited within pratikramaṇa — the very act of 'turning back' from fault — this clause reorients the penitent toward the goal of that turning: a state that is blissful, stable, and beyond return. A reciter can dwell on the seven epithets one breath at a time, letting each negate a present anxiety (instability, affliction, fear of loss), and close on jiabhaya as a vow to cultivate the fearlessness that right conduct slowly yields.",
+    "crossReferences": [
+      {
+        "text": "Namutthuṇaṁ (Śakra-stava) as embedded in the canon — the homage formula to the Arihantas",
+        "source": "Aupapātika (Uvavāiya) Sūtra, Śvetāmbara Ardhamāgadhī Āgama"
+      },
+      {
+        "text": "On mokṣa and the irreversible nature of the liberated state (Tattvārtha-sūtra, ch. 10)",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      },
+      {
+        "text": "Parallel petition for the deathless, supreme state — 'samāhi-vara-m-uttamaṁ diṁtu'",
+        "source": "Logassa (Caturviṁśati-stava), this corpus"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ṇamōkāra mantra (canonical homage formula, Ardhamāgadhī orthography and dating)",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Background on the Prakrit homage formulae (namo… -āṇaṁ) and the Ardhamāgadhī vs. Maharashtri orthography of namo/ṇamo."
+    },
+    {
+      "title": "Summary of Jain Agams — JAINA",
+      "url": "https://www.jaina.org/page/AgamAppendix/Summary-of-Jain-Agams.htm",
+      "type": "scholarship",
+      "consultedFor": "Canonical placement of the praise of the Arihantas within the Śvetāmbara Āgama corpus (Aupapātika and allied sūtras)."
+    },
+    {
+      "title": "Siddhashila — the abode of the liberated souls (siddhi-gati)",
+      "url": "https://en.wikipedia.org/wiki/Siddhashila",
+      "type": "scholarship",
+      "consultedFor": "Doctrine of the siddha-śilā as the deathless abode reached by the liberated, glossing siddhi-gati and apunarāvṛtti."
+    },
+    {
+      "title": "JainQQ digital library (host of Sheth, Pāia-sadda-mahaṇṇavo, Prakrit–Hindi dictionary)",
+      "url": "https://www.jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses of savvannū, savvadarisī, the seven siddhi-gati epithets, the euphonic -m- (makāra-āgama), and jia-bhaya."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The leading 'm' on ayala, arua, aṇaṁta, akkhaya, avvābāha and apunarāvitti is a euphonic hiatus-breaking consonant (makāra-āgama), not part of the roots; hence the printed મરુઅ is ma+arua, NOT a single word 'maruya'. The seven epithets of siddhi-gati are counted as printed (siva, ayala, arua, aṇaṁta, akkhaya, avvābāha, apunarāvitti); some editions enumerate or split them slightly differently. Book orthography preserved verbatim, including word-internal spacing (સિવ મયલ મરુઅ…, મવ્વાબાહ મપુણરાવિત્તિ) and સવ્વન્નૂ with double-n. IAST renders Prakrit forms (e.g. apunarāvitti, avvābāha); the Sanskrit chāyā equivalents (apunarāvṛtti, avyābādha) are given in etymology only."
+}

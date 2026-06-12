@@ -1,0 +1,166 @@
+{
+  "shlokaId": "samayik-parvani/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Even someone who gives away a fortune in gold every single day cannot match the spiritual worth of one person who simply sits in equanimity (sāmāyika).",
+  "recitation": "divase divase lakkhaṁ, dei suvaṇṇassa khaṇḍiyaṁ ego | ego puṇa sāmāiyaṁ karei, na pahuppae tassa ||",
+  "wordByWord": [
+    {
+      "token": "દિવસે",
+      "translit": "divase",
+      "gloss": "on a day",
+      "partOfSpeech": "noun",
+      "etymology": "Locative sg. of divasa (← Skt. divasa, 'day').",
+      "notes": "Repeated to form the distributive 'day after day, every single day'."
+    },
+    {
+      "token": "દિવસે",
+      "translit": "divase",
+      "gloss": "(on) a day — repeated: 'day after day'",
+      "partOfSpeech": "noun",
+      "etymology": "Reduplication of divase; āmreḍita construction expressing 'every day, daily, without break'.",
+      "notes": "divase divase = continuously, day in and day out — stressing relentless, sustained giving."
+    },
+    {
+      "token": "લક્ખં",
+      "translit": "lakkhaṁ",
+      "gloss": "a lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "← Skt. lakṣa, 'a hundred thousand'; here a measure of the gold given.",
+      "notes": "A deliberately vast quantity, setting up the hyperbole of the comparison."
+    },
+    {
+      "token": "દેઇ",
+      "translit": "dei",
+      "gloss": "gives, donates",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. pres. ← Skt. dadāti (√dā, 'to give'); Prakrit dei.",
+      "notes": "The act of dāna (charitable giving)."
+    },
+    {
+      "token": "સુવન્નસ્સ",
+      "translit": "suvannassa",
+      "gloss": "of gold",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive sg. ← Skt. suvarṇa ('fine gold'); Prakrit suvaṇṇa, here suvanna (dental geminate per the book).",
+      "notes": "Governs khaṇḍiyaṁ: 'pieces of gold'."
+    },
+    {
+      "token": "ખંડિયં",
+      "translit": "khaṇḍiyaṁ",
+      "gloss": "a piece / lump (of gold)",
+      "partOfSpeech": "noun",
+      "etymology": "← Skt. khaṇḍa, 'a fragment, piece'; khaṇḍika, a small portion or coin-piece.",
+      "notes": "'a lakh-worth of gold pieces' — the donation quantified."
+    },
+    {
+      "token": "એગો",
+      "translit": "ego",
+      "gloss": "one (person) — the giver",
+      "partOfSpeech": "pronoun",
+      "etymology": "Nom. sg. ← Skt. eka, 'one'; Prakrit ego.",
+      "notes": "Subject of dei: 'one person (gives gold)'."
+    },
+    {
+      "token": "એગો",
+      "translit": "ego",
+      "gloss": "one (person) — the other, the sāmāyika-doer",
+      "partOfSpeech": "pronoun",
+      "etymology": "Nom. sg. ← Skt. eka; the answering 'ego' that sets up the contrast 'one … but the other …'.",
+      "notes": "Subject of karei; deliberately paired with the first ego to oppose two persons."
+    },
+    {
+      "token": "પુણ",
+      "translit": "puṇa",
+      "gloss": "but, however, on the other hand",
+      "partOfSpeech": "particle",
+      "etymology": "← Skt. punaḥ, 'again, but'; Prakrit puṇa.",
+      "notes": "Pivots the verse from the gold-giver to the contrasting sāmāyika-doer."
+    },
+    {
+      "token": "સામાઇયં",
+      "translit": "sāmāiyaṁ",
+      "gloss": "sāmāyika (the vow of equanimity)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. ← Skt. sāmāyika; Prakrit sāmāiya. Object of karei.",
+      "notes": "Glossed in the preface; here the single act weighed against ceaseless gold-giving."
+    },
+    {
+      "token": "કરેઇ",
+      "translit": "karei",
+      "gloss": "does, performs",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. pres. ← Skt. karoti (√kṛ, 'to do'); Prakrit karei.",
+      "notes": "'performs (one) sāmāyika' — even a single observance is meant."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "← Skt. na, the negative particle.",
+      "notes": "Negates pahuppae: 'is not able / does not measure up'."
+    },
+    {
+      "token": "પહુપ્પએ",
+      "translit": "pahuppae",
+      "gloss": "is able / suffices / can equal",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. ← Skt. prabhavati (pra+√bhū, 'to be capable, to be a match for, to suffice'); Prakrit pahuppaï/pahuppae.",
+      "notes": "With na and tassa: 'does not suffice for / cannot come up to him'. Sheth's Pāia-sadda-mahaṇṇavo glosses pahuppaï as 'to be powerful, to reach, to suffice'."
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "to him / of him (the sāmāyika-doer)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gen./dat. sg. ← Skt. tasya; Prakrit tassa.",
+      "notes": "Refers to the second ego; the gold-giver 'does not measure up to him'."
+    }
+  ],
+  "literalTranslation": "Day after day one man gives a lakh-worth of pieces of gold; but one (other) man performs a sāmāyika — (the first) does not measure up to him.",
+  "idiomaticTranslation": "Suppose one person gives away a hundred thousand pieces of gold in charity, day after day after day; and suppose another simply performs a single sāmāyika. Even so, the first, for all his ceaseless giving, cannot come anywhere near the second.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having closed the forgiveness movement in the previous verse ('no enmity remains in a pure mind'), the recitation now turns to vindicate the practice just completed. The verse is built on a single, deliberately uneven scale. On one pan sits dāna at its most heroic: not one gift but a lakh of gold given divase divase — relentlessly, every day, presumably for a lifetime. On the other pan sits one ego who merely karei sāmāiyaṁ — performs a single session of equanimity. The verdict is the verb pahuppae, governed by na: the gold-giver 'is not able', 'does not suffice', 'cannot reach' (tassa) the equanimity-keeper. The force lies in the choice of pahuppae over a word for 'more': the text does not say the giver earns less merit, but that he does not even enter the same measure. The doubled ego is the hinge — two persons, two paths, set side by side so the reader feels the gap viscerally. Note too the asymmetry of effort: the giver labours daily and endlessly; the other acts once. This is not a slight against generosity — dāna is praised everywhere in the tradition — but a statement about kinds of good. The verse thus supplies, in the reciter's own mouth, the doctrinal warrant for why the forty-eight minutes just spent were worth more than any sum of treasure.",
+    "doctrinalContext": "The verse encodes the Jain hierarchy of dravya-dharma (outward, material religiosity) beneath bhāva-dharma (inward, mental religiosity). Gold-giving, however vast, is puṇya-bandha that ripens within saṁsāra — it buys good rebirth, not liberation. Sāmāyika is saṁvara and nirvṛtti: by renouncing harmful activity and resting the mind in balance, the practitioner stops the inflow of karma (āsrava) and turns toward nirjarā and mokṣa. Hence the comparison is qualitative, not quantitative — na pahuppae denies even commensurability, because a cause of bondage cannot be 'more' or 'less' than a cause of release; they belong to different orders. This is the same logic by which the tradition rates equanimity above worldly merit (cf. the Bhagavatī-Ārādhanā's verse that crores of gold do not equal a sixteenth part of one sāmāyika).",
+    "practicalRelevance": "Recited at the very conclusion of the vow, this verse tells the practitioner: do not undervalue what you have just done. The forty-eight minutes of equanimity you are now releasing outweigh any fortune you might earn or donate. It is a guard against two errors — measuring spiritual worth by money, and treating sāmāyika as a small or skippable formality — and a quiet incentive to return to the practice often rather than rarely.",
+    "crossReferences": [
+      {
+        "text": "Bhagavatī-Ārādhanā (the verse that even crores of gold given daily do not equal a sixteenth part of one sāmāyika)",
+        "source": "Ācārya Śivārya, Bhagavatī-Ārādhanā, with commentary (jainelibrary.org)"
+      },
+      {
+        "text": "Āvaśyaka-tradition Sāmāyika-praise gāthās ('Sāmāiya vaya jutto…', 'Sāmāiyammi u kae… samaṇo iva sāvao havai')",
+        "source": "Āvaśyaka Niryukti, Sāmāyika-Āvaśyaka section"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wiktionary — Prakrit verb pahuppaï (𑀧𑀳𑀼𑀧𑁆𑀧𑀇)",
+      "url": "https://en.wiktionary.org/wiki/%F0%91%80%A7%F0%91%80%B3%F0%91%80%BC%F0%91%80%A7%F0%91%81%86%F0%91%80%A7%F0%91%80%87",
+      "type": "dictionary",
+      "consultedFor": "Meaning and Sanskrit derivation of pahuppaï (← prabhū, 'to be powerful, to reach, to suffice'), citing Sheth's Pāia-sadda-mahaṇṇavo."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and senses of prabhū (prabhavati), suvarṇa, lakṣa, khaṇḍa, eka, and punaḥ underlying the Prakrit tokens."
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim wording of the verse within the Sāmāyika Pārvānī and its placement among the equanimity-praise gāthās."
+    },
+    {
+      "title": "Bhagavatī-Ārādhanā (with Vacanikā/Ṭīkā)",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Parallel canonical statement that immense gold-giving does not equal even a fraction of one sāmāyika, corroborating the doctrinal comparison."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is a widely transmitted sāmāyika-praise gāthā; its sense is secure and the comparison standard. The book's orthography is preserved verbatim, including the dental geminate in સુવન્નસ્સ (suvannassa) rather than the more common retroflex suvaṇṇassa. પહુપ્પએ (pahuppae) is read as the 3rd-sg. present of prabhavati ('is able / suffices'), with na…tassa giving 'does not measure up to him'; an alternative parsing reads tassa as 'his (merit)', yielding 'does not equal his (the sāmāyika-doer's worth)' — the practical meaning is identical. Exact authorship of the individual gāthā is not fixed by the source book (tradition-level attribution, per the preface). The cited dictionary and library URLs are stable landing pages rather than verse-specific deep links; treat external gāthā numbering as approximate."
+}

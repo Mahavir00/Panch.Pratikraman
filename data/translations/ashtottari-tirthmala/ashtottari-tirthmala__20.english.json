@@ -1,0 +1,144 @@
+{
+  "shlokaId": "ashtottari-tirthmala/20",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the worshipper bows to eight of the twenty-four Tīrthaṅkaras who are still to be born in the future age — from Sarvānubhūti-deva through to Lord Amama.",
+  "recitation": "savvāṇu bhūi devaṁ, devasuaṁ udayasāmi peḍhālaṁ; poṭṭila sayakitti jiṇaṁ, muṇisuvvaya amamasāmiṁ ca.",
+  "wordByWord": [
+    {
+      "token": "સવ્વાણુ",
+      "translit": "savvāṇu",
+      "gloss": "'all-' — the first part of the name Sarvānubhūti (the 5th future Jina)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit savva (Skt. sarva, 'all') + the bound element anu-; joins with the next token bhūi to form the proper name Sarvānubhūti.",
+      "notes": "Metre splits the single name Sarvānubhūti across this token and the next."
+    },
+    {
+      "token": "ભૂઇ",
+      "translit": "bhūi",
+      "gloss": "'-being / -manifestation', completing the name Sarvānubhūti",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit bhūi from Skt. bhūti ('being, becoming, prosperity'), from root bhū ('to be'). Sarva+anu+bhūti ≈ 'one who experiences/realises all'.",
+      "notes": ""
+    },
+    {
+      "token": "દેવં",
+      "translit": "devaṁ",
+      "gloss": "'the divine one' (accusative) — here closing the name as Sarvānubhūti-deva",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. deva ('god, shining one'), root div ('to shine'); accusative -aṁ governed by the carried-over homage verb.",
+      "notes": "May be read either as an honorific epithet of Sarvānubhūti or as part of the compound name Sarvānubhūti-deva."
+    },
+    {
+      "token": "દેવસુઅં",
+      "translit": "devasuaṁ",
+      "gloss": "Devaśruta (accusative) — the 6th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit deva-sua = Skt. Deva-śruta ('heard/learned among the gods'); sua from śruta ('that which is heard, sacred lore'), root śru.",
+      "notes": ""
+    },
+    {
+      "token": "ઉદયસામિ",
+      "translit": "udayasāmi",
+      "gloss": "Lord Udaya (Udaya-svāmin) — the 7th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "udaya ('rising, dawn'; root i + ud) + sāmi (Prakrit for Skt. svāmin, 'lord, master'). The -sāmi suffix recurs in this verse as a respectful 'Lord'.",
+      "notes": ""
+    },
+    {
+      "token": "પેઢાલં",
+      "translit": "peḍhālaṁ",
+      "gloss": "Peḍhāla (accusative) — the 8th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "A proper name preserved in its Prakrit form (Skt. Peḍhāla / Peḍhālaputra in some lists); accusative -aṁ.",
+      "notes": "No transparent doctrinal sense; a personal name."
+    },
+    {
+      "token": "પોટ્ટિલ",
+      "translit": "poṭṭila",
+      "gloss": "Poṭṭila — the 9th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit proper name (Skt. forms Poṭṭila / Pottila attested in the future-24 lists); doubled conjunct -ṭṭ- per the book's orthography.",
+      "notes": ""
+    },
+    {
+      "token": "સયકિત્તિ",
+      "translit": "sayakitti",
+      "gloss": "Śatakīrti, 'hundred-fold fame' — the 10th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saya (Skt. śata, 'hundred') + kitti (Skt. kīrti, 'fame, renown', root kīrt). 'One of a hundred renowns'.",
+      "notes": ""
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative) — 'conqueror', honorific applied to Śatakīrti / the series of Jinas saluted",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa = Skt. jina ('victor, one who has conquered the passions'), root ji ('to conquer'); accusative -aṁ.",
+      "notes": "Reinforces that each name in the list is a future Tīrthaṅkara, not merely a person."
+    },
+    {
+      "token": "મુણિસુવ્વય",
+      "translit": "muṇisuvvaya",
+      "gloss": "Munisuvrata — the 11th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇi (Skt. muni, 'sage') + suvvaya (Skt. su-vrata, 'of excellent vows'); 'the sage of noble vows'.",
+      "notes": "The name recurs across cosmic cycles; this is the future-age Munisuvrata, distinct from the present 20th Tīrthaṅkara of the same name."
+    },
+    {
+      "token": "અમમસામિં",
+      "translit": "amamasāmiṁ",
+      "gloss": "Lord Amama (Amama-svāmin) — the 12th future Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "a- (privative) + mama ('mine') = amama ('without mine-ness, free of possessiveness') + sāmi (svāmin, 'lord'); accusative -iṁ.",
+      "notes": "Tradition identifies Amama as the future birth of Kṛṣṇa Vāsudeva; the name itself encodes the doctrine of aparigraha."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "'and' — closing connective binding the list",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit ca, the copulative conjunction.",
+      "notes": "Marks the end of this verse's enumeration; the homage continues into the next verse."
+    }
+  ],
+  "literalTranslation": "[I bow to] Sarvānubhūti-deva, to Devaśruta, to Lord Udaya, to Peḍhāla; to Poṭṭila, to the Jina Śatakīrti, to Munisuvrata, and to Lord Amama.",
+  "idiomaticTranslation": "I bow to Sarvānubhūti-deva and to Devaśruta, to Lord Udaya and to Peḍhāla; to Poṭṭila, to the Jina Śatakīrti, to Munisuvrata, and to Lord Amama — eight of the Jinas yet to grace the coming age.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse carries straight on from the previous one's roll-call of the anāgata (future-cycle) Tīrthaṅkaras: having named the first four, the poet here garlands the fifth through twelfth — Sarvānubhūti-deva, Devaśruta, Udaya, Peḍhāla, Poṭṭila, Śatakīrti, Munisuvrata and Amama — the single homage verb of the surrounding verses simply governing each accusative name in turn. It is a pure nāma-mālā (string of names), so its force lies not in narrative but in the act of saluting Jinas who have not yet arisen. Two names repay a pause. Munisuvrata, 'the sage of noble vows', is a name that returns cycle after cycle: this future Jina shares it with the present twenty-fourth-cycle's twentieth Tīrthaṅkara, a reminder that the same luminous epithets recur as time turns. More striking is the closing Amama, 'the one for whom nothing is mine'. Tradition holds this to be the future Tīrthaṅkarahood of Kṛṣṇa Vāsudeva — the very embodiment of worldly power and attachment in his present life — whose soul will one day rise as the Jina whose name is the negation of all 'mine-ness'. To end the verse on amama, sealed by the quiet ca ('and'), lets the list itself preach: the trajectory of every soul, even the mightiest, bends toward the surrender of possession. Śatakīrti ('hundred-fold fame') and Devaśruta ('learned among the gods') likewise wear their meanings openly, while Peḍhāla and Poṭṭila are preserved simply as venerable names.",
+    "doctrinalContext": "The verse rests on the Jain doctrine that the tīrtha is endless in time: just as twenty-four Jinas graced the past and present descending half-cycles, twenty-four will arise in the coming ascending cycle (utsarpiṇī), and faith bows to them in advance. Salutation to not-yet-manifest Jinas is thus an act of śraddhā in the beginningless, endless dharma rather than a historical commemoration. The name Amama crystallises aparigraha and the shedding of mamatva ('mine-making') as the inner mark of a Jina; the tradition that this is Kṛṣṇa Vāsudeva's future state dramatises soul-continuity and the certainty that even a soul steeped in attachment can, across births, conquer it utterly and become a ford-maker.",
+    "practicalRelevance": "Bowing to Jinas who have not yet come reminds the reciter that the liberating path is perpetually open — it neither began nor ends with the Jinas one can name historically. The name Amama can be carried out of the prayer-hall as a daily check: loosen the grip of 'mine'. And if the soul that was Kṛṣṇa will become the passionless Amama, no practitioner's present entanglements place liberation out of reach.",
+    "crossReferences": [
+      {
+        "text": "Prophecy of the future twenty-four Tīrthaṅkaras and of Kṛṣṇa Vāsudeva's future Jinahood as Amama",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra (Parvan VIII)"
+      },
+      {
+        "text": "Enumeration of the Tīrthaṅkaras of the coming utsarpiṇī",
+        "source": "Samavāyāṅga-sūtra / Sthānāṅga-sūtra (Śvetāmbara Āgama)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Confirming the doctrine that 24 Tīrthaṅkaras arise in each half time-cycle, framing the future-cycle salutation"
+    },
+    {
+      "title": "Amama: definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/amama",
+      "type": "dictionary",
+      "consultedFor": "Etymology and sense of amama ('free of mine-ness / non-possessiveness') for the 12th future Jina's name"
+    },
+    {
+      "title": "Munisuvrata: 9 definitions (incl. Prakrit Muṇisuvvaya)",
+      "url": "https://www.wisdomlib.org/definition/munisuvrata",
+      "type": "dictionary",
+      "consultedFor": "Prakrit form Muṇisuvvaya = Skt. Munisuvrata and the recurrence of the name across cycles"
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "The eight names match the standard Śvetāmbara anāgata-chaubisi (future 24) in sequence: this verse supplies nos. 5–12 (Sarvānubhūti, Devaśruta, Udaya, Peḍhāla, Poṭṭila, Śatakīrti, Munisuvrata, Amama), continuing from v.19 (nos. 1–4) into v.21 (nos. 13–18). Some popular online lists give a garbled order; the book's own sequence is authoritative and standard here. 'devaṁ' in pāda 1 is read as completing/honouring the name Sarvānubhūti(-deva); a few lists give the 5th simply as Sarvānubhūti, so this reading carries minor uncertainty. The future Munisuvrata is distinct from the present 20th Tīrthaṅkara of the same name. The identification of Amama with the future birth of Kṛṣṇa Vāsudeva follows the traditional knowledge base (Trishashti tradition) and was not contradicted by any consulted source; spellings Peḍhāla/Peḍhālaputra and Poṭṭila/Pottila vary across editions."
+}

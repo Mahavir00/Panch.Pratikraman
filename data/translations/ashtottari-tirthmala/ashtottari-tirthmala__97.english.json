@@ -1,0 +1,154 @@
+{
+  "shlokaId": "ashtottari-tirthmala/97",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At the foot of Mount Ābu, at Muṇḍasthala, beneath a nandi tree, Lord Mahāvīra — still an ordinary ascetic before enlightenment — once stood motionless in deep standing meditation.",
+  "recitation": "abbua girivara mūle, muṁutthale nandirūkkha ahabhāge | chaumattha-kāli vīro, acala-sarīro ṭhio paḍimaṁ ||",
+  "wordByWord": [
+    {
+      "token": "અબ્બુઅ",
+      "translit": "abbua",
+      "gloss": "Arbuda — Mount Ābu",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit abbua < Sanskrit Arbuda, the ancient name of the mountain now called Ābu.",
+      "notes": "Names the celebrated Ārbuda hill already invoked in v.96."
+    },
+    {
+      "token": "ગિરિવર",
+      "translit": "girivara",
+      "gloss": "the great mountain, best of mountains",
+      "partOfSpeech": "compound",
+      "etymology": "giri ('mountain') + vara ('excellent, best'); a tatpuruṣa/karmadhāraya praising the peak.",
+      "notes": ""
+    },
+    {
+      "token": "મૂલે",
+      "translit": "mūle",
+      "gloss": "at the foot, at the base",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mūla ('root, base'), locative mūle; here 'abbua-girivara-mūle' = 'at the foot of Mount Ābu'.",
+      "notes": "Locates the site at the mountain's base, not its summit shrines of the previous verse."
+    },
+    {
+      "token": "મુંઉત્થલે",
+      "translit": "muṁutthale",
+      "gloss": "at Muṇḍasthala (the tīrtha)",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa-coloured locative of Muṇḍasthala (muṇḍasthale), the holy place at Ābu's foot.",
+      "notes": "Per the preface this opens the Muṇḍasthala set (vv.97–99); spelling is the book's own."
+    },
+    {
+      "token": "નંદિરૂક્ખ",
+      "translit": "nandirūkkha",
+      "gloss": "the nandi tree",
+      "partOfSpeech": "compound",
+      "etymology": "nandī (a tree, traditionally the sacred fig-type 'nandi') + rūkkha (Prakrit for Sanskrit vṛkṣa, 'tree').",
+      "notes": ""
+    },
+    {
+      "token": "અહભાગે",
+      "translit": "ahabhāge",
+      "gloss": "in the lower part, beneath",
+      "partOfSpeech": "compound",
+      "etymology": "aha (Prakrit < Sanskrit adhaḥ, 'below') + bhāga ('portion'), locative bhāge; 'nandi-rūkkha-aha-bhāge' = 'beneath the nandi tree'.",
+      "notes": ""
+    },
+    {
+      "token": "છઉમત્થ",
+      "translit": "chaumattha",
+      "gloss": "chadmastha — not yet omniscient",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit chauma-ttha = Sanskrit chadmastha, 'one in whom (ghāti-)karman still veils knowledge'; an ascetic before kevala-jñāna.",
+      "notes": "Marks Mahāvīra in his pre-enlightenment seeker stage, before omniscience."
+    },
+    {
+      "token": "કાલિવીરો",
+      "translit": "kāli-vīro",
+      "gloss": "Vīra in that period (chadmastha-time)",
+      "partOfSpeech": "compound",
+      "etymology": "kāli (Prakrit for kāle, 'in the time/period') + vīro (Vīra, Mahāvīra); with the prior word, 'chaumattha-kāli vīro' = 'Vīra during his chadmastha period'.",
+      "notes": "kāli construes with chaumattha ('in the chadmastha era'); vīro is the subject Mahāvīra."
+    },
+    {
+      "token": "અચલ",
+      "translit": "acala",
+      "gloss": "motionless, unmoving",
+      "partOfSpeech": "adj",
+      "etymology": "a- (privative) + cala ('moving'); with sarīro, 'with an unmoving body'.",
+      "notes": "Puns on Arbuda's epithet Achala ('the immovable mountain'): the ascetic's stillness mirrors the hill."
+    },
+    {
+      "token": "સરીરો",
+      "translit": "sarīro",
+      "gloss": "body",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sarīra = Sanskrit śarīra ('body'); 'acala-sarīro' = 'his body motionless'.",
+      "notes": ""
+    },
+    {
+      "token": "ઠિઓ",
+      "translit": "ṭhio",
+      "gloss": "stood, remained",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit ṭhio = Sanskrit sthita (past participle of √sthā, 'to stand/remain').",
+      "notes": ""
+    },
+    {
+      "token": "પડિમં",
+      "translit": "paḍimaṁ",
+      "gloss": "in the pratimā (kāyotsarga standing posture)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā = Sanskrit pratimā; here the standing meditative vow/posture (kāyotsarga), accusative paḍimaṁ ('in the pratimā').",
+      "notes": "paḍimā also means 'image'; the living Vīra 'standing as a paḍimā' foreshadows the consecrated image (paḍimaṁ) of v.98."
+    }
+  ],
+  "literalTranslation": "At the foot of the great mountain Arbuda (Ābu), at Muṇḍasthala, beneath a nandi tree, Vīra — in his chadmastha (pre-omniscient) period — with motionless body stood in the pratimā (kāyotsarga posture).",
+  "idiomaticTranslation": "There, at the very foot of mighty Mount Ābu, at Muṇḍasthala, beneath a nandi tree, Lord Vīra — while still a chadmastha, not yet omniscient — stood unmoving in kāyotsarga, his body still as the mountain itself.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just saluted the two shrines crowning Mount Ābu (v.96), the hymn now descends to the mountain's foot to open its Muṇḍasthala triad (vv.97–99). The poet sanctifies the place by legend: here, beneath a nandi tree at Muṇḍasthala, the still-chadmastha Mahāvīra — Vīra before kevala-jñāna — stood in kāyotsarga (paḍimā), his body unmoving (acala). The single word acala does double duty: it paints the ascetic's frozen stillness and quietly echoes Arbuda's own epithet Achala, 'the immovable', so seeker and mountain mirror each other in immobility. A second resonance runs forward in time: paḍimā denotes both the standing meditative vow and a Jina-image, so the living Vīra 'standing as a paḍimā' anticipates the consecrated paḍimaṁ that the great soul Puṇyarāja will install (v.98). The geography is deliberately precise — girivara-mūle ('at the foot of the great mountain'), nandi-rūkkha-aha-bhāge ('beneath the nandi tree') — true to the tīrthamālā's habit of pinning each holy place to one memorable spatial detail. Notably, this tīrtha earns its bead on the garland not through a Tīrthaṅkara's birth or nirvāṇa but through the trace of his austerity: the very soil where Vīra endured penance is rendered worthy of homage. The verse is tight and scene-setting, holding the image of motionless endurance for the two verses that follow to complete.",
+    "doctrinalContext": "The verse turns on chadmastha — the condition in which the four ghāti-karmas still veil the soul's innate omniscience, so that even a future Tīrthaṅkara is, before kevala-jñāna, an austerity-performing seeker. It thus recalls Mahāvīra's long pre-enlightenment wanderings and tapas. acala-sarīro ṭhio paḍimaṁ is a precise picture of kāyotsarga — 'abandonment of the body' through motionless standing — the same discipline the Āvaśyaka tradition counts as the fifth obligation. Doctrinally the verse affirms that merit attaches to ground hallowed by penance, the rationale behind tīrtha-bhakti itself.",
+    "practicalRelevance": "A reciter who has just performed (or will perform) kāyotsarga in this very pratikramaṇa is shown its supreme model: Vīra standing acala, body surrendered, mind absorbed. The verse invites the worshipper to steady his own stillness and bear discomfort with the equanimity that penance demands.",
+    "crossReferences": [
+      {
+        "text": "Kalpa Sūtra — account of Mahāvīra's chadmastha austerities before omniscience",
+        "source": "Jacobi (trans.), Jaina Sūtras, SBE 22"
+      },
+      {
+        "text": "Vividhatīrthakalpa — tīrtha-traditions and the technical sense of chadmastha",
+        "source": "Jinaprabhasūri (13th c.), ed. Schubring 1935 §81"
+      },
+      {
+        "text": "Ṣaḍāvaśyaka — kāyotsarga as the fifth obligatory rite (bodily abandonment)",
+        "source": "Anchalgachchha/Vidhipaksha Panch Pratikraman Sūtra — Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Chadmastha — definitions (Cologne MW; Prākṛt chauma-ttha; Vividhatīrthakalpa)",
+      "url": "https://www.wisdomlib.org/definition/chadmastha",
+      "type": "dictionary",
+      "consultedFor": "Confirming Prakrit chauma-ttha = Sanskrit chadmastha = 'non-omniscient ascetic, before kevala-jñāna'; pointer to Sheth's Paia-sadda-mahannavo."
+    },
+    {
+      "title": "Pratimā / Paḍimā — definitions across Jainism, Prakrit, Sanskrit",
+      "url": "https://www.wisdomlib.org/definition/pratima",
+      "type": "dictionary",
+      "consultedFor": "Glossing paḍimā/pratimā as both the standing meditative posture (kāyotsarga vow) and 'image'."
+    },
+    {
+      "title": "Mount Abu — ancient name Arbuda; Achaleshwar/'Achala'",
+      "url": "https://en.wikipedia.org/wiki/Mount_Abu",
+      "type": "scholarship",
+      "consultedFor": "Identifying abbua/Arbuda with Mount Ābu and the 'Achala' (immovable) epithet underlying the acala pun."
+    },
+    {
+      "title": "Kevala jnana — the chadmastha-to-omniscience transition in Jainism",
+      "url": "https://en.wikipedia.org/wiki/Kevala_jnana",
+      "type": "scholarship",
+      "consultedFor": "Framing the chadmastha stage as the pre-omniscient period of Mahāvīra's life."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading of 'chaumattha-kāli vīro' taken as 'Vīra in the chadmastha period' (kāli = kāle, locative of time) construing with chaumattha; an alternative parse reads kāli-vīro as a single epithet, but the chadmastha-time sense fits the legend best. 'muṁutthale' is the book's Apabhraṁśa-coloured locative of Muṇḍasthala, retained verbatim per the orthography rules. The acala/Achala wordplay is interpretive, supported by Ābu's well-attested epithet. The Muṇḍasthala legend of Mahāvīra's kāyotsarga is medieval western-Indian sacred tradition (echoed in tīrtha literature) rather than fixed in the early Aṅgas; treat the specific localisation as traditional. Identification of 'nandi-rūkkha' as a specific botanical species is uncertain; rendered generically as 'nandi tree'."
+}

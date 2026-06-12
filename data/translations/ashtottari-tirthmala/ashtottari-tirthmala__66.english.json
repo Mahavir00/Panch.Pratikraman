@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/66",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On the mountain where the great monk Vajrasvāmī worshipped, the god Indra circled the holy spot reverently — once with his chariot and once with his elephant — and so the place came to be called Rathāvarta ('chariot-circuit') and Kuñjarāvarta ('elephant-circuit').",
+  "recitation": "siri vayarasāmi rāhaṇa, girimmi sakko raheṇa aha kariṇā |\npāyāhiṇa to so vi ya, rahāvatto kuñjarāvatto ||",
+  "wordByWord": [
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "venerable, glorious (an honorific prefix to the name)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit siri < Sanskrit śrī ('splendour, holiness'), used proclitically before a revered name.",
+      "notes": "Reverential title, here attached to Vajrasvāmī."
+    },
+    {
+      "token": "વયરસામિ",
+      "translit": "vayarasāmi",
+      "gloss": "Vajrasvāmī (the celebrated Jain ācārya 'Lord Vajra')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vayara (< Sanskrit vajra, 'diamond/thunderbolt') + sāmi (< svāmin, 'lord, master'); a proper name.",
+      "notes": "The early-historical ācārya famed for his miraculous powers and his flight to fetch flowers for Jina-worship; the hero of vv.64–66."
+    },
+    {
+      "token": "રાહણ",
+      "translit": "rāhaṇa",
+      "gloss": "worship, devout observance (ārādhanā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit (ā)rāhaṇa < Sanskrit ārādhana ('propitiation, devout service'), the initial ā elided in the Apabhraṁśa-coloured metre.",
+      "notes": "Taken with the name as 'the worship of / by Śrī Vajrasvāmī'. A minority reading hears ārohaṇa ('ascent of the mountain'); the ārādhana sense is preferred and the variant is flagged below."
+    },
+    {
+      "token": "ગિરિમ્મિ",
+      "translit": "girimmi",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit giri ('mountain') + locative ending -mmi (< Sanskrit -smin); 'on/at the mountain'.",
+      "notes": "The unnamed peak that the two tīrtha-names commemorate."
+    },
+    {
+      "token": "સક્કો",
+      "translit": "sakko",
+      "gloss": "Śakra (Indra, king of the gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sakka < Sanskrit śakra ('the mighty one'), epithet of Indra; nominative singular -o.",
+      "notes": "Saudharma-Indra, who in Jain narrative descends to honour holy persons and sites."
+    },
+    {
+      "token": "રહેણ",
+      "translit": "raheṇa",
+      "gloss": "by chariot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit raha < Sanskrit ratha ('chariot') + instrumental ending -eṇa (< -ena).",
+      "notes": "The vehicle of the first circumambulation; root of the name Rathāvarta."
+    },
+    {
+      "token": "અહ",
+      "translit": "aha",
+      "gloss": "and then, moreover",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit aha < Sanskrit atha ('then, next'), a connective/sequencing particle.",
+      "notes": "Marks the move from the chariot-circuit to the elephant-circuit."
+    },
+    {
+      "token": "કરિણા",
+      "translit": "kariṇā",
+      "gloss": "by elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kari < Sanskrit karin ('the tusked/trunked one', elephant) + instrumental -ṇā.",
+      "notes": "The vehicle of the second circumambulation; root of the name Kuñjarāvarta."
+    },
+    {
+      "token": "પાયાહિણ",
+      "translit": "pāyāhiṇa",
+      "gloss": "circumambulation, reverent circling (pradakṣiṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāyāhiṇa, equated in the Pāia-sadda-mahaṇṇavo with Sanskrit prādakṣiṇya / pradakṣiṇā ('keeping the sacred object to one's right while circling').",
+      "notes": "The defining ritual act here; the same circling verb governs both vehicles."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "thereupon, and so",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit to < Sanskrit tataḥ ('from that, then, therefore'), resultative/temporal particle.",
+      "notes": "Links the act of circling to the resulting place-names."
+    },
+    {
+      "token": "સોવિ",
+      "translit": "so vi",
+      "gloss": "he too, he as well",
+      "partOfSpeech": "pronoun",
+      "etymology": "so (< Sanskrit saḥ, 'he') + vi (< api, 'also, even'); a sandhi-joined cluster.",
+      "notes": "Emphasises that Indra himself performed the circling — even the king of gods bowed at this spot."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca ('and'), a coordinating conjunction.",
+      "notes": "Joins 'he too' to the naming clause."
+    },
+    {
+      "token": "રહાવત્તો",
+      "translit": "rahāvatto",
+      "gloss": "Rathāvarta ('chariot-circuit'), the tīrtha so named",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rahāvatta < Sanskrit ratha ('chariot') + āvarta ('turning, circling'); 'the place of the chariot's turning'.",
+      "notes": "Named for Indra's chariot-pradakṣiṇā; the tīrtha bowed to in the preceding verse."
+    },
+    {
+      "token": "કુંજરાવત્તો",
+      "translit": "kuñjarāvatto",
+      "gloss": "Kuñjarāvarta ('elephant-circuit'), the companion tīrtha",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kuñjarāvatta < Sanskrit kuñjara ('elephant') + āvarta ('turning'); 'the place of the elephant's turning'.",
+      "notes": "Named for the elephant-pradakṣiṇā; paired with Rathāvarta as a twin holy site."
+    }
+  ],
+  "literalTranslation": "For the worship of Śrī Vajrasvāmī, on the mountain, Śakra (Indra) — by chariot, and then by elephant — making circumambulation, he too (did it): hence Rathāvarta and Kuñjarāvarta.",
+  "idiomaticTranslation": "On the mountain hallowed by the devotions of Śrī Vajrasvāmī, Indra himself came down to do reverence: first he circled the sacred spot in his chariot, and then again upon his elephant. From that twofold circumambulation the place won its two names — Rathāvarta, the chariot's circuit, and Kuñjarāvarta, the elephant's circuit.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse supplies the etiology promised by the previous gāthā, which bowed to Rathāvarta 'for that reason' (taṁ heuṁ) without yet spelling the reason out. Here the reason is completed: it is not merely that a chariot circled the peak, but that Śakra himself (sakko) performed the pradakṣiṇā — once raheṇa (by chariot) and then, aha, kariṇā (by elephant). The emphatic so vi ya ('he too, and') is the hinge of the verse: even Indra, sovereign of the gods, dismounts from his cosmic rank to walk the worshipper's circle around the spot consecrated by Vajrasvāmī's ārādhanā. The two instrumental words raheṇa and kariṇā are deliberately placed to germinate the two place-names that close the couplet — rahāvatto and kuñjarāvatto — so the verse enacts a tidy naming-formula: vehicle of circling → name of tīrtha. The single verb pāyāhiṇa (circumambulation) governs both vehicles, binding the twin sites into one continuous act of homage. Note the poet's economy: the mountain (girimmi) is left unnamed, because the verse's interest is not the geography but the gesture — the most exalted being in the cosmos honouring the ground a true ascetic sanctified. The couplet thus turns a local western-Indian sacred site into a parable about who bows to whom.",
+    "doctrinalContext": "The verse encodes a core Jain value-inversion: worldly sovereignty is subordinate to spiritual attainment. Indra, though lord of a heaven, gains merit by circling the place of a human ascetic's devotion — dramatising that the gods are still bound souls who venerate those further along the path. Pradakṣiṇā, keeping the holy object always to one's right, is the bodily grammar of this humility; performing it from a chariot and an elephant magnifies, rather than diminishes, the reverence, since the mighty vehicles are bent to a devotional purpose. The naming of the tīrthas after the act of homage (not after a Tīrthaṅkara's birth or nirvāṇa) illustrates how, in this hymn's sacred geography, a site can become a tīrtha through an exemplary deed of bhakti performed there.",
+    "practicalRelevance": "For the reciter, the verse is a lesson in proportion: if even Indra circles the dust where a sincere practitioner worshipped, then no act of reverence is beneath one's own station. Recalling Rathāvarta and Kuñjarāvarta while seated in the prayer-hall, the worshipper makes a mental pradakṣiṇā of their own — honouring not place or rank but the devotion that hallows place.",
+    "crossReferences": [
+      {
+        "text": "Vajrasvāmī's life and miraculous powers (the flower-fetching flight and his renown as bāla-muni)",
+        "source": "Prabhāvaka-carita (Prabhācandra) and Pariśiṣṭa-parvan / Sthavirāvalī (Hemacandra)"
+      },
+      {
+        "text": "Preceding verse 65, which names Rathāvarta and bows to it 'for that reason' (rahāvattaṁ ti taṁ namimo)",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Payahiṇa — Prakrit-English entry (Paia-sadda-mahaṇṇavo, Sheth)",
+      "url": "https://www.wisdomlib.org/definition/payahina",
+      "type": "dictionary",
+      "consultedFor": "Confirming pāyāhiṇa = Sanskrit prādakṣiṇya / pradakṣiṇā (circumambulation)."
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Sheth), DSAL digitised edition",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit-to-Sanskrit equivalences for raha (ratha), kari (karin), āvatta (āvarta) and pāyāhiṇa."
+    },
+    {
+      "title": "Prakrit Dictionary by ISJS — English translation of Pāia-Sadda-Mahaṇṇavo",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking glosses for siri (śrī), sāmi (svāmin), aha (atha), to (tataḥ), so vi ya (saḥ api ca)."
+    },
+    {
+      "title": "An Illustrated Ardha-Magadhi Dictionary (Ratnachandraji), Vol. 1",
+      "url": "https://archive.org/details/in.ernet.dli.2015.458892",
+      "type": "dictionary",
+      "consultedFor": "Ardhamagadhi/Prakrit morphology of locative -mmi (girimmi) and instrumental -eṇa/-ṇā (raheṇa, kariṇā)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Token coverage is 100%; the cluster સોવિ (so vi) is glossed as two morphemes (so + vi) and ય (ya) separately for clarity. The reading of રાહણ (rāhaṇa) as ārāhaṇa = ārādhanā ('devout worship') is preferred and fits the Vajrasvāmī legend; a less likely variant hears ārohaṇa ('mountain-ascent') — flagged here per fidelity rules, since the book's orthography is the golden source and other editions may differ. The mountain is unnamed in the verse; tradition associates the Rathāvarta/Kuñjarāvarta pair with Vajrasvāmī (cf. structureArc vv.64–66), but no verified colophon fixes its precise geography, so the locale identification is left open. The subject of the circling is taken as Śakra (sakko) throughout, governing both raheṇa and kariṇā via the single verb pāyāhiṇa; 'so vi ya' ('he too') reinforces that it is Indra himself. Punctuation and spacing follow the book verbatim (e.g., the comma before રહાવત્તો)."
+}

@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/107",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to every Jina image ever made on earth — whether of gold, brass, silver, or plain clay — even though no ordinary person could ever count them all.",
+  "recitation": "sura nara kaya mahi kaṃcaṇa, rīrī ruppāi jāva lippamayā;\nchaumatthehiṃ amuṇiya, saṃkhāu namāmi tā savvā.",
+  "wordByWord": [
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestial beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sura < Sanskrit sura ('god'); here the first of the two classes of image-makers.",
+      "notes": "In compound with the next words: the images 'made by gods (and) men'."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "men, humans",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nara < Sanskrit nara ('man'); pairs with sura to mean 'gods and humans'.",
+      "notes": "sura-nara together name the makers of the historically founded (non-eternal) images."
+    },
+    {
+      "token": "કય",
+      "translit": "kaya",
+      "gloss": "made, fashioned, created",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kaya < Sanskrit kṛta, past participle of kṛ ('to make'). Reads 'sura-nara-kaya' = 'made by gods and men'.",
+      "notes": "Marks these images as a-śāśvata (founded), in contrast to the eternal images of earlier verses."
+    },
+    {
+      "token": "મહિ",
+      "translit": "mahi",
+      "gloss": "on the earth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahi < Sanskrit mahī ('earth, ground'); locative sense 'upon the earth'.",
+      "notes": "Locates the images in the human/earthly sphere (alongside the heavenly shrines implied by sura)."
+    },
+    {
+      "token": "કંચણ",
+      "translit": "kaṃcaṇa",
+      "gloss": "gold",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaṃcaṇa < Sanskrit kāñcana ('gold').",
+      "notes": "First and most precious item in the descending list of image-materials."
+    },
+    {
+      "token": "રીરી",
+      "translit": "rīrī",
+      "gloss": "brass, bell-metal",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit rīrī < Sanskrit rīti ('brass, bell-metal').",
+      "notes": "Lexically rīti = brass (Monier-Williams, Apte). A few editions vary the spelling; sense 'brass' is secure from context."
+    },
+    {
+      "token": "રુપ્પાઇ",
+      "translit": "ruppāi",
+      "gloss": "silver and so on (silver, etc.)",
+      "partOfSpeech": "compound",
+      "etymology": "ruppa + āi: Prakrit ruppa < Sanskrit rūpya ('silver') + āi < ādi ('and the rest, et cetera').",
+      "notes": "The 'ādi' opens the list to any other material, which 'jāva … lippamayā' then bounds at the humble end."
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "up to, as far as, even down to",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jāva < Sanskrit yāvat ('as far as, up to').",
+      "notes": "Sets the lower limit of the material range — 'from gold … all the way down to clay'."
+    },
+    {
+      "token": "લિપ્પમયા",
+      "translit": "lippamayā",
+      "gloss": "made of clay/plaster (earthen images)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit lippa < Sanskrit lepa ('plaster, clay coating') + -maya ('made of'); lepa-maya = 'clay-built'.",
+      "notes": "The humblest material, deliberately closing a hierarchy that runs precious → plain."
+    },
+    {
+      "token": "છઉમત્થેહિં",
+      "translit": "chaumatthehiṃ",
+      "gloss": "by non-omniscient beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit chaumattha < Sanskrit chadmastha ('one not yet omniscient'); instrumental plural -ehiṃ = 'by the chadmasthas'.",
+      "notes": "All beings short of a kevalī are chadmastha; only omniscience could reckon the total."
+    },
+    {
+      "token": "અમુણિય",
+      "translit": "amuṇiya",
+      "gloss": "not known, unknown",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (negation) + muṇiya, past participle of muṇaï ('to know') < Sanskrit a-jñāta. Reads with saṃkhāu as 'whose number is unknown'.",
+      "notes": "Forms a bahuvrīhi with saṃkhāu describing the images: '[those] of unreckoned number'."
+    },
+    {
+      "token": "સંખાઉ",
+      "translit": "saṃkhāu",
+      "gloss": "number, count",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṃkhā < Sanskrit saṅkhyā ('number, reckoning'); the -u reflects an Apabhraṁśa/metrical case-ending.",
+      "notes": "'amuṇiya-saṃkhāu' = '(images) the count of which is unknown to non-omniscient beings'."
+    },
+    {
+      "token": "નમામિ",
+      "translit": "namāmi",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit/Prakrit namāmi, 1st-person singular present of nam ('to bow, pay homage').",
+      "notes": "The single act of homage governing the whole verse — one bow embracing the entire uncountable set."
+    },
+    {
+      "token": "તા",
+      "translit": "tā",
+      "gloss": "those (images)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tā < Sanskrit tāḥ, feminine accusative plural of tad ('that'); agrees with the implied feminine pratimā ('image').",
+      "notes": "Object of namāmi: 'those [images]'."
+    },
+    {
+      "token": "સવ્વા",
+      "translit": "savvā",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva < Sanskrit sarva ('all'); feminine accusative plural sarvāḥ.",
+      "notes": "'tā savvā' = 'all those' — the totalizing phrase that lets a limited-knowledge reciter venerate the whole set at once."
+    }
+  ],
+  "literalTranslation": "The [images] made by gods and men on the earth — of gold, brass, silver and the rest, up to those made of clay — whose number is not known by non-omniscient beings: to all those I bow.",
+  "idiomaticTranslation": "To the images that gods and men have fashioned upon the earth — wrought of gold, of brass, of silver and the rest, down even to those moulded of plain clay — images so many that no being of limited knowledge can reckon their number: to all of them I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just saluted images 'seen or unseen, known or unknown,' the hymn now totalizes them along two new axes: material and number. The first line runs a deliberate hierarchy of substance — kaṃcaṇa (gold), rīrī (brass), ruppa (silver) — and then the two small words do the real work: ruppāi's '-ādi' ('and the rest') throws the list open, while jāva ('even down to') drags it to its humblest floor, lippamayā, images of mere clay. The poetic point is one of devotional equality: the bow is owed to the Jina-form, not to the costliness of its medium; a clay image earns precisely the same reverence as one of gold. The second line supplies the reason a blanket salutation is needed at all. These are sura-nara-kaya images — fashioned by gods and humans, hence the historically founded shrines — and their tally is amuṇiya, 'unknown,' to chadmastha beings. Only a kevalī (omniscient) could enumerate them; the reciter, being chadmastha himself, never could. So the verse hands him the one instrument adequate to an uncountable object — the sweeping tā savvā, 'all those,' under a single namāmi. The grammar enacts the theology: where knowledge fails, total intention succeeds. This is also the structural hinge that closes the image-sweep (vv.105–107) before v.108 turns from images to the Tīrthaṅkaras themselves across past, present and future.",
+    "doctrinalContext": "The verse turns on the Jain epistemic divide between chadmastha-jñāna — the partial, mediated knowledge of every unliberated being — and kevala-jñāna, the direct omniscience of a Jina, for whom alone the count of all images would be present. By openly conceding that the number is 'unknown to the non-omniscient,' the worshipper performs an act of intellectual humility even as he performs homage. Doctrinally it also encodes mūrtipūjaka theology: in image-veneration the object of the bow is the represented Tīrthaṅkara and the virtues he embodies (bhāva), not the dravya (substance) of the image — which is why gold and clay stand on equal footing here.",
+    "practicalRelevance": "Bowing before any single image, the reciter mentally extends that one bow to every Jina image everywhere — those he has seen and the countless he never will. It trains two attitudes at once: humility ('I cannot even count them'), and an inward, bhāva-centred devotion that does not rank shrines by the wealth of their materials.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — the parallel device of saluting the whole set (the 24 Tīrthaṅkaras) in one collective homage",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Following verse v.108 — homage to all Tīrthaṅkaras of the past, present and future, extending this 'all-encompassing' logic from images to the Jinas",
+        "source": "Aṣṭottarī Tīrthamālā, v.108"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "kāñcana (gold), rīti (brass/bell-metal), rūpya (silver), lepa (plaster/clay), saṅkhyā (number), nam (to bow)"
+    },
+    {
+      "title": "Apte, The Practical Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/APScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Confirming rīti = 'brass, bell-metal' and kṛta (made) for the compound sura-nara-kaya"
+    },
+    {
+      "title": "JainQQ Jain eLibrary (Ardhamāgadhī / chadmastha–kevalajñāna references)",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "chadmastha (chaumattha) = non-omniscient being, and the chadmastha vs kevalī knowledge distinction underlying 'amuṇiya saṃkhāu'"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "rīrī is read as Sanskrit rīti ('brass/bell-metal'); the sense is secure from the metals-list context though orthography may vary across editions. ruppāi is parsed as ruppa (rūpya, silver) + āi (ādi, 'etc.'). amuṇiya saṃkhāu is taken as a bahuvrīhi qualifying the images: '(those) whose number is unknown to non-omniscient beings'; saṃkhāu shows an Apabhraṁśa/metrical ending. tā savvā (fem. acc. pl.) agrees with an implied pratimā ('image'). The verse continues the a-śāśvata (god- and human-made) image enumeration of vv.105–107; per the book's fidelity policy the verbatim orthography is preserved and not normalized."
+}

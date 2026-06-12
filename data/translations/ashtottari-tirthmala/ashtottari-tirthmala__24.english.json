@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/24",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse simply counts the never-created, forever-worshipped Jina shrines that stand deep in the structure of the universe — ten atop the wish-trees of the Kuru lands, eighty in the forests ringing them, eighty on the tusk-shaped Vakṣāra mountains, and eighty-five on the five Mount Merus.",
+  "recitation": "dasa kurataru siharesu, tesiṁ parihi vaṇesu taha asiï | vakkhāra girisu asīi, paṇāsīi meru paṇagammi ||",
+  "wordByWord": [
+    {
+      "token": "દસ",
+      "translit": "dasa",
+      "gloss": "ten",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dasa < Sanskrit daśa ('ten'); the count of eternal shrines on the kuru-trees.",
+      "notes": "Qualifies the kuru-trees / the shrines on them."
+    },
+    {
+      "token": "કુરતરુ",
+      "translit": "kura-taru",
+      "gloss": "the kuru-trees (the eternal wish-trees of the Deva- and Uttara-kuru lands — the Jambū and Śālmalī trees)",
+      "partOfSpeech": "compound",
+      "etymology": "kuru (the Kuru regions flanking Meru) + taru < Sanskrit taru ('tree'); cf. Skt. kuru-taru / kuru-vṛkṣa.",
+      "notes": "These are the cosmic wish-trees, each bearing a śāśvata Jina shrine; not the historical Kuru people."
+    },
+    {
+      "token": "સિહરેસુ",
+      "translit": "siharesu",
+      "gloss": "on the summits / crests",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sihara < Sanskrit śikhara ('peak, crest'); locative plural -esu = Skt. -eṣu.",
+      "notes": "Locative: 'on the summits of (the ten kuru-trees).'"
+    },
+    {
+      "token": "તેસિં",
+      "translit": "tesiṁ",
+      "gloss": "of those / their",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tesiṁ < Sanskrit teṣāṁ, genitive plural of tad ('that').",
+      "notes": "Refers back to the kuru-trees: 'in the forests encircling them.'"
+    },
+    {
+      "token": "પરિહિ",
+      "translit": "parihi",
+      "gloss": "encircling / surrounding (circumference-)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit parihi < Sanskrit paridhi ('circumference, encircling ring').",
+      "notes": "Modifies vaṇesu — the 'circling forests' (the vanas that ring the kuru region / Meru)."
+    },
+    {
+      "token": "વણેસુ",
+      "translit": "vaṇesu",
+      "gloss": "in the forests / groves",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaṇa < Sanskrit vana ('forest, grove'); locative plural -esu.",
+      "notes": "The encircling vanas (cf. Bhadraśāla, Nandana, Saumanasa, Pāṇḍaka of the cosmographic sources)."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise / and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit taha < Sanskrit tathā ('thus, likewise').",
+      "notes": "Connective, linking the next count to the preceding ones."
+    },
+    {
+      "token": "અસિઇ",
+      "translit": "asiï",
+      "gloss": "eighty",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asiï < Sanskrit aśīti ('eighty').",
+      "notes": "Eighty shrines in the encircling forests; orthographic variant of asīi below (both = aśīti), preserved verbatim."
+    },
+    {
+      "token": "વક્ખાર",
+      "translit": "vakkhāra",
+      "gloss": "Vakṣāra (the tusk-shaped mountain-ranges that divide the provinces of Mahāvideha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vakkhāra < Sanskrit vakṣāra; per Hemacandra, ranges 'having the shape of elephant-tusks' separating the vijayas.",
+      "notes": "Each Vakṣāra range bears one eternal shrine."
+    },
+    {
+      "token": "ગિરિસુ",
+      "translit": "girisu",
+      "gloss": "on the mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit giri < Sanskrit giri ('mountain'); locative plural -su.",
+      "notes": "Locative governing vakkhāra: 'on the Vakṣāra mountains.'"
+    },
+    {
+      "token": "અસીઇ",
+      "translit": "asīi",
+      "gloss": "eighty",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit asīi < Sanskrit aśīti ('eighty').",
+      "notes": "Eighty shrines on the Vakṣāra ranges (16 per Mahāvideha × 5 = 80)."
+    },
+    {
+      "token": "પણાસીઇ",
+      "translit": "paṇāsīi",
+      "gloss": "eighty-five",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇāsīi < Sanskrit pañcāśīti ('eighty-five', pañca + aśīti).",
+      "notes": "The count of shrines distributed over the five Merus."
+    },
+    {
+      "token": "મેરુ",
+      "translit": "meru",
+      "gloss": "Meru (the central cosmic axis-mountain)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit meru, the axis mundi at the centre of each continent-set.",
+      "notes": "Here in its stem form, governed by the following 'pentad' locative."
+    },
+    {
+      "token": "પણગમ્મિ",
+      "translit": "paṇagammi",
+      "gloss": "on the pentad (the group of five)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paṇaga < Sanskrit pañcaka ('a set of five'); locative singular -ammi = Skt. -e.",
+      "notes": "'meru paṇagammi' = 'on the five Merus' (one in Jambūdvīpa, two each in Dhātakīkhaṇḍa and Puṣkarārdha)."
+    }
+  ],
+  "literalTranslation": "Ten [eternal shrines] on the summits of the kuru-trees; and eighty likewise in their encircling forests; eighty on the Vakṣāra mountains; eighty-five on the pentad of Merus.",
+  "idiomaticTranslation": "Ten eternal Jina shrines crown the summits of the Kuru wish-trees, and eighty more stand in the forests that ring them; eighty grace the tusk-shaped Vakṣāra ranges, and eighty-five adorn the five Meru peaks.",
+  "elaboration": {
+    "verseByVerseCommentary": "This gāthā is pure devotional arithmetic. It carries no finite verb of its own: the act of homage (namāmi / vande) supplied in the neighbouring verses runs straight through it, so each numeral is really 'I bow to the [so many] eternal images at this place.' The verse continues the inventory begun in the previous gāthā — which counted shrines on the Vaitāḍhyas, the varṣadhara ranges and the gajadanta mountains — and hands on to the next, which counts the Iṣukāra and Mānuṣottara mountains. Here four further cosmic loci are tallied. First, the kuru-trees: the colossal Jambū and Śālmalī wish-trees standing in the Uttara- and Deva-kuru lands beside each Meru, ten in all across the two-and-a-half continents, each crest bearing a shrine. Second, 'their encircling forests' (parihi vaṇa) — the ring-forests around that region (the Bhadraśāla–Nandana–Saumanasa–Pāṇḍaka belt the cosmographers describe as girdling Meru) — holding eighty. Third, the Vakṣāra ranges, the tusk-shaped mountains that partition Mahāvideha into its provinces, sixteen to a Meru and eighty in total. Fourth, eighty-five upon the five Merus themselves, the world-axes. The poet's craft is compression: two locatives and a numeral per site, the connective taha ('likewise') stitching them into the running garland. The reader is meant not to pause over each figure but to feel the sheer reach of the homage — every fold of the cosmos already houses a Jina to be saluted.",
+    "doctrinalContext": "The shrines counted here are śāśvata-pratimās — beginningless, uncreated Jina images that no craftsman ever carved and no ācārya ever consecrated, perpetually honoured by the gods. The verse therefore rests on the Jain conviction that the loka is a fully mapped, eternal structure: the Kurus, the Vakṣāras and the five Merus are not metaphors but fixed features of the cosmos, each an unfailing seat of the Jina's presence. By giving exact counts the hymn distinguishes these eternal images from the historically founded tīrthas it will name later, and lets the worshipper venerate places utterly beyond human reach.",
+    "practicalRelevance": "A reciter can never walk to Meru or the Vakṣāra ranges, so this verse is an exercise in bhāva-pūjā — worship offered in the mind. Speaking the counts, one bows to Jina images in regions no pilgrim's feet can touch, cultivating the sense that darśana of the Jina is available throughout the universe and that one's reverence need not wait on travel.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra 2.2 — the list of Vaitāḍhyas, Vakṣāra Mts., Deva-/Uttara-kurus and the Bhadraśāla, Nandana, Saumanasa, Pāṇḍaka vanas encircling Sumeru",
+        "source": "Hemacandra, trans. Helen M. Johnson (Gaekwad's Oriental Series)"
+      },
+      {
+        "text": "Śāśvata-caitya enumeration of the eternal Jina images across the two-and-a-half continents",
+        "source": "Jīvābhigama / Sthānāṅga-sūtra; Bṛhat-saṅgrahaṇī cosmography"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vakṣāra — definition (Jainism; Monier-Williams; Sheth Pāia-sadda-mahaṇṇavo; Hemacandra TSPC 2.2)",
+      "url": "https://www.wisdomlib.org/definition/vaksara",
+      "type": "dictionary",
+      "consultedFor": "Meaning of vakṣāra as the four elephant-tusk-shaped mountain-ranges and Hemacandra's enumeration of the Vaitāḍhyas, Vakṣāra, kurus and the four vanas encircling Sumeru"
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Hemacandra), Eng. trans. H. M. Johnson",
+      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "type": "translation",
+      "consultedFor": "Cosmographic placement of the kuru-trees, Vakṣāra ranges, Meru and its encircling forests"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Dictionaries)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses for aśīti (80), pañcāśīti (85), giri, śikhara, taru, paridhi, vana, pañcaka"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo — comprehensive Prakrit-Hindi dictionary (H. D. T. Sheth), DSAL",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms vakkhāra, sihara, vaṇa, paṇaga and the numerals asiï / asīi / paṇāsīi"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse is elliptical — it lists only locatives and numerals; the verb of homage carries over from the surrounding gāthās (vv.23 and 25), so this is the central stretch of a continuous śāśvata-caitya tally across the two-and-a-half continents (170 Vaitāḍhya, 30 varṣadhara, 20 gajadanta in v.23 → 10 kuru-tree, 80 forest, 80 Vakṣāra, 85 Meru here → 4 Iṣukāra, 4 Mānuṣottara, etc. in v.25). 'asiï' (line 1) and 'asīi' (line 2) are orthographic variants of the same word, aśīti = 80, preserved verbatim per the book's fidelity rule. The identification of 'parihi vaṇa' as the Meru-/kuru-encircling vanas (Bhadraśāla, Nandana, Saumanasa, Pāṇḍaka) and the per-Meru distribution of the 85 follow the standard cosmographic scheme; exact sub-counts vary slightly across cosmographic editions (Jīvābhigama, Bṛhat-saṅgrahaṇī, TSPC), so the locus-totals are reported as the verse gives them rather than re-derived. No verse-internal textual ambiguity beyond these spelling variants was found."
+}

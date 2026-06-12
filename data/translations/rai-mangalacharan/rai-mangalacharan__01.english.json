@@ -1,0 +1,128 @@
+{
+  "shlokaId": "rai-mangalacharan/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Mahāvīra is a blessing, Lord Gautama is a blessing, Sthūlabhadra and the other great teachers are a blessing — and may the religion of the Jinas be a blessing too.",
+  "recitation": "maṅgalaṁ bhagavān vīro, maṅgalaṁ gautama-prabhuḥ; maṅgalaṁ sthūlabhadrādyā, jaino dharmo'stu maṅgalaṁ.",
+  "wordByWord": [
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "auspicious; a blessing, a source of well-being",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maṅgala (n.), conventionally from √maṅg 'to gladden, make auspicious'; predicate-nominative neuter, 'is auspicious / is a blessing'.",
+      "notes": "First of four occurrences; the fourfold repetition is the structural hinge of the verse."
+    },
+    {
+      "token": "ભગવાન",
+      "translit": "bhagavān",
+      "gloss": "the Blessed One, the Lord (here, Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhagavat, nom. sg. bhagavān, 'possessing bhaga (glory, fortune, majesty)'; honorific for a Tīrthaṅkara.",
+      "notes": "Qualifies vīro; together 'Lord Vīra'."
+    },
+    {
+      "token": "વીરો",
+      "translit": "vīro",
+      "gloss": "Vīra — Mahāvīra",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vīra 'hero', nom. sg. vīraḥ; the -ḥ shows visarga-sandhi softening to -o before the voiced bh- of the next pāda.",
+      "notes": "Names the 24th Tīrthaṅkara by his short epithet."
+    },
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "auspicious; a blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Repetition of maṅgala (n.) as predicate for the next subject.",
+      "notes": "Second occurrence; anaphora drives the litany."
+    },
+    {
+      "token": "ગૌતમપ્રભુઃ",
+      "translit": "gautama-prabhuḥ",
+      "gloss": "Lord Gautama (Gautamasvāmī, the chief gaṇadhara)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa/appositional compound: Gautama + prabhu ('lord, master', from pra- + √bhū 'to be powerful'); nom. sg. prabhuḥ.",
+      "notes": "This book reads gautama-prabhuḥ ('Lord Gautama'); other recensions read gautamo gaṇī ('Gautama the gaṇadhara') — a pāṭhāntara, see notes."
+    },
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "auspicious; a blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Third predicate occurrence of maṅgala (n.).",
+      "notes": "Now applied to a plurality (the ācāryas of the next word)."
+    },
+    {
+      "token": "સ્થૂલભદ્રાદ્યા",
+      "translit": "sthūlabhadrādyā",
+      "gloss": "Sthūlabhadra and the others (the great teachers beginning with Sthūlabhadra)",
+      "partOfSpeech": "compound",
+      "etymology": "Bahuvrīhi: Sthūlabhadra + ādya ('first, foremost; beginning-with'); nom. pl. sthūlabhadrādyāḥ, 'those of whom Sthūlabhadra is the first' = 'Sthūlabhadra etc.'",
+      "notes": "Plural; the final visarga is unwritten here (sthūlabhadrādyā for °ādyāḥ), verbatim per the book."
+    },
+    {
+      "token": "જૈનો",
+      "translit": "jaino",
+      "gloss": "of the Jinas; Jaina (qualifying 'dharma')",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. jaina, adj. from jina ('victor, conqueror of passions'); nom. sg. m. jainaḥ → jaino by visarga-sandhi before voiced dh-.",
+      "notes": "Agrees with dharmo; 'the Jaina dharma'."
+    },
+    {
+      "token": "ધર્મોઽસ્તુ",
+      "translit": "dharmo'stu",
+      "gloss": "may the dharma (religion, teaching) be",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of two words: dharmaḥ ('the right path, teaching') + astu (3rd sg. imperative of √as 'to be', 'let it be'); dharmaḥ + astu → dharmo'stu, the avagraha (ઽ) marking the elided initial a-.",
+      "notes": "The verse's only finite verb; an optative-imperative wish, 'let it be'."
+    },
+    {
+      "token": "મંગલં",
+      "translit": "maṅgalaṁ",
+      "gloss": "auspicious; a blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Fourth and final occurrence of maṅgala (n.), here the predicate of the wished-for dharma.",
+      "notes": "Closes the verse on the same word it opened with — an inclusio."
+    }
+  ],
+  "literalTranslation": "Auspicious is Lord Vīra; auspicious is Lord Gautama; auspicious are Sthūlabhadra and the rest; may the Jaina dharma be auspicious.",
+  "idiomaticTranslation": "A blessing is Lord Mahāvīra; a blessing is Lord Gautama; a blessing are Sthūlabhadra and the great teachers who follow him — and may the very faith of the Jinas be our blessing.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse is a single grammatical gesture repeated four times: subject + the predicate maṅgalaṁ, with the copula left unspoken in the first three clauses and finally voiced as the imperative astu in the fourth. This is deliberate. The first three clauses state a fact — these beings simply are auspicious — while the closing clause turns fact into prayer: let the dharma be so for us. The exemplars are chosen to span the tradition's living chain: Vīra the Tīrthaṅkara (the source), Gautama his foremost gaṇadhara (the immediate transmitter), and Sthūlabhadra-and-others (sthūlabhadrādyā, the plural ādya doing the work of 'and the whole succession after him'). Thus one verse compresses founder → disciple → ongoing lineage. Then, strikingly, the fourth maṅgala is not a person but the dharma itself: the litany ascends from venerable individuals to the impersonal teaching they embody, so that auspiciousness is finally located not in any one saint but in the path. The word maṅgalaṁ frames the verse as an inclusio (first word, last word), enacting in sound the 'sealing' function these closing verses perform. Note the descent from the singular (vīro, gautama-prabhuḥ) through the plural (sthūlabhadrādyāḥ) to the abstract collective (jaino dharmaḥ) — a widening of reference that quietly argues the point: the persons are auspicious because the dharma is.",
+    "doctrinalContext": "The verse encodes the Jain understanding that maṅgala is not magical luck but right orientation — alignment with those who have conquered the passions (jina) and with their teaching. By making the dharma itself the climactic maṅgala (and the only clause given a verb), it affirms that veneration of saints is ultimately veneration of the path they realized; the persons are 'concrete faces' of an auspiciousness that is structural to the dharma, not personal to them. The chosen names also trace the four-fold reverence-worthy refuge in human form: omniscient teacher (Vīra), gaṇadhara (Gautama), and the post-omniscient ācārya succession (Sthūlabhadrādyāḥ) that carried the śruta forward.",
+    "practicalRelevance": "Recited to seal the dawn rite, the verse lets the practitioner end self-examination not in residual guilt but in blessing: having confessed the night's faults, one steps into the day by naming what is auspicious and wishing that auspiciousness — the dharma — upon oneself. A reciter can hold each clause as a brief act of refuge (founder, transmitter, lineage, teaching) before the final astu carries the blessing outward into the day.",
+    "crossReferences": [
+      {
+        "text": "Caturviṁśati-stava (Logassa) — praise of the 24 Tīrthaṅkaras, the same impulse to name the auspicious",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Verse 5 of this same sutra, 'sarvamaṅgalamāṅgalyaṁ … Jainaṁ jayati śāsanam', where the maṅgala motif returns in superlative form",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Monier-Williams Sanskrit-English Dictionary (entries: maṅgala, astu/√as, prabhu, ādi, dharma)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc1/index.php?key=maGgala",
+      "type": "dictionary",
+      "consultedFor": "Etymology and senses of maṅgala (n.), the imperative astu of √as, the compound member prabhu, and the 'and-others' force of ādya/ādi."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon — Apte, The Practical Sanskrit-English Dictionary (ādi 'and the like/etc.', jaina, dharma)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Confirming ādi/ādya as a compound suffix meaning 'and others, et cetera', and the adjectival sense of jaina ('of the Jinas')."
+    },
+    {
+      "title": "JainQQ digital Jain library — Jain maṅgala / stavana collections",
+      "url": "https://www.jainqq.org/",
+      "type": "translation",
+      "consultedFor": "Cross-checking the wide liturgical circulation and conventional English rendering of the 'Maṅgalaṁ Bhagavān Vīro' śloka and the identity of its named exemplars."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Verse-specific caveats: (1) The book reads ગૌતમપ્રભુઃ (gautama-prabhuḥ, 'Lord Gautama'); a widely circulating recension instead reads gautamo gaṇī / giṇī ('Gautama the gaṇadhara'). This is a genuine pāṭhāntara — the book's reading is followed verbatim here, and the variant is flagged rather than emended. (2) સ્થૂલભદ્રાદ્યા is printed without the final visarga of the expected nom. pl. °ādyāḥ; rendered as a plural ('Sthūlabhadra and others') per sense, retained verbatim in the token. (3) The four maṅgalaṁ are anusvāra-final (મંગલં) verbatim; the metre is anuṣṭubh. (4) જૈનો ધર્મોઽસ્તુ is here two words (jaino dharmo'stu); some recensions compound it as jaina-dharmo'stu — sense is unchanged. (5) Identification of Vīra=Mahāvīra, Gautama=Indrabhūti Gautama, Sthūlabhadra=the early ācārya follows the tradition knowledge base and is not in doubt; authorship of the śloka is anonymous/traditional per the preface and is not re-asserted here."
+}

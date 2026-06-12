@@ -1,0 +1,144 @@
+{
+  "shlokaId": "smaran-1-bruhannamaskar/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "The first line of the Navkāra mantra is set like a helmet upon your head, and the second line like a fine protective cloth over your mouth.",
+  "recitation": "oṁ namo arihantāṇaṁ, śiraskaṁ śirasi sthitaṁ. oṁ namo siddhāṇaṁ, mukhe mukhapaṭaṁ varaṁ.",
+  "wordByWord": [
+    {
+      "token": "ૐ",
+      "translit": "oṁ",
+      "gloss": "Om — the sacred seed-syllable opening the salutation",
+      "partOfSpeech": "invocation",
+      "etymology": "From the praṇava oṁ; in Jain usage understood as an acronym of the five Parameṣṭhins (a+a+ā+u+m → arihanta, asarīrī/siddha, ācārya, upādhyāya, muni).",
+      "notes": "Prefixes the Arihanta-pada here, marking it as a consecrated mantra-line to be installed on the body."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "salutation / reverent bowing 'to'",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit namo, from Sanskrit namaḥ (√nam, 'to bow'); the sandhi-form before a voiced sound.",
+      "notes": "Governs the following dative-sense genitive plural."
+    },
+    {
+      "token": "અરિહંતાણં",
+      "translit": "arihantāṇaṁ",
+      "gloss": "to the Arihantas (the foe-conquering omniscient ones)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gen./dat. pl. of arihanta (Skt. arhat / ari-hanta, 'slayer of the inner foes'); -āṇaṁ is the Ardhamāgadhī plural ending.",
+      "notes": "First Navkāra pada; here it supplies the head-piece of the armour."
+    },
+    {
+      "token": "શિરસ્કં",
+      "translit": "śiraskaṁ",
+      "gloss": "the helmet / headgear (object placed)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śiraska, n., 'that which pertains to the head, a helmet or head-covering', from śiras ('head') + -ka.",
+      "notes": "Accusative; the thing being installed — the 'Namo Arihantāṇaṁ' line becomes the helmet."
+    },
+    {
+      "token": "શિરસિ",
+      "translit": "śirasi",
+      "gloss": "on the head",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit locative singular of śiras ('head').",
+      "notes": "Marks the bodily locus of placement (nyāsa)."
+    },
+    {
+      "token": "સ્થિતં",
+      "translit": "sthitaṁ",
+      "gloss": "is set / stands fixed",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit past participle of √sthā ('to stand, remain'); neuter to agree with śiraskaṁ.",
+      "notes": "Completes the first hemistich: '[the helmet] stands placed upon the head.'"
+    },
+    {
+      "token": "ૐ",
+      "translit": "oṁ",
+      "gloss": "Om — the sacred seed-syllable (repeated)",
+      "partOfSpeech": "invocation",
+      "etymology": "As above; reiterated to consecrate the second mantra-line.",
+      "notes": "The repetition signals a fresh pada being installed on a new body-part."
+    },
+    {
+      "token": "નમો",
+      "translit": "namo",
+      "gloss": "salutation / reverent bowing 'to' (repeated)",
+      "partOfSpeech": "particle",
+      "etymology": "As above; Prakrit namo, Skt. namaḥ.",
+      "notes": "Opens the second Navkāra pada."
+    },
+    {
+      "token": "સિદ્ધાણં",
+      "translit": "siddhāṇaṁ",
+      "gloss": "to the Siddhas (the perfected, liberated souls)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gen./dat. pl. of siddha (Skt. siddha, 'one who is accomplished/liberated'); -āṇaṁ Ardhamāgadhī plural.",
+      "notes": "Second Navkāra pada; here it supplies the mouth-covering."
+    },
+    {
+      "token": "મુખે",
+      "translit": "mukhe",
+      "gloss": "on / over the mouth",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit locative singular of mukha ('mouth, face').",
+      "notes": "Bodily locus paralleling śirasi in the first line."
+    },
+    {
+      "token": "મુખપટં",
+      "translit": "mukhapaṭaṁ",
+      "gloss": "the mouth-cloth (muhpattī)",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit tatpuruṣa: mukha ('mouth') + paṭa ('cloth'); accusative neuter. The Jain ascetic's mouth-cloth.",
+      "notes": "The 'Namo Siddhāṇaṁ' line becomes this protective cloth — a charged image, since the muhpattī is itself a mark of ahiṁsā-discipline."
+    },
+    {
+      "token": "વરં",
+      "translit": "varaṁ",
+      "gloss": "fine / excellent / choicest",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit vara ('best, choice', from √vṛ, 'to choose'); neuter, qualifying mukhapaṭaṁ.",
+      "notes": "Elevates the mouth-cloth from ordinary gear to a 'choicest' adamantine covering."
+    }
+  ],
+  "literalTranslation": "Om, salutation to the Arihantas — [this is] the helmet set upon the head. Om, salutation to the Siddhas — [this is] the excellent cloth over the mouth.",
+  "idiomaticTranslation": "Om — reverence to the Arihantas: let that line rest as a helmet upon my head. Om — reverence to the Siddhas: let that line lie as a finest cloth across my mouth.",
+  "elaboration": {
+    "verseByVerseCommentary": "The armouring now begins in earnest, and the verse fixes its method: each line of the Navkāra is spoken (oṁ namo…) and then mentally installed on a precise body-part with a locative + sthitaṁ formula — śirasi sthitaṁ, and by parallel mukhe. Two principles of nyāsa are set here for the whole hymn. First, top-down order: the body is armoured from the crown (śiras) downward, so the Arihanta-pada — first of the Parameṣṭhins — rightly crowns the head as the śiraska (helmet), the protection of the highest, most vulnerable point. Second, fitness of element to pada: the Siddhas, bodiless and silent in perfect liberation, are placed as the mukhapaṭa over the mouth — the organ of speech and the gateway of breath. The choice is doubly apt: the muhpattī is the very emblem of guarded, ahiṁsā-bound speech, so the silent Siddhas seal the mouth that the warrior-reciter, too, may speak no harm and inhale no fault. The epithet varaṁ ('choicest') quietly marks this cloth as no ordinary gear but adamantine. Reading head-then-mouth, helmet-then-cloth, the reciter feels the protection descend pada by pada — the diamond cage taking shape from the crown down, with the two highest Parameṣṭhins guarding the two highest faculties, intellect and speech.",
+    "doctrinalContext": "The verse rests on the Navkāra's settled hierarchy — Arihanta then Siddha — and on the Jain valuation of the body's faculties. That the Siddhas, who have utterly transcended body and speech, are invoked precisely at the mouth turns the placement into a meditation on vāk-gupti (guarding of speech) and on the muhpattī's own meaning: restraint of harm to air-bodied and minute beings. Salutation (namaskāra) is treated not merely as praise but as an operative, protective force that can be 'worn'; this reflects the wider Jain conviction that the Parameṣṭhi-namaskāra is itself maṅgala and rakṣā, its merit concretely shielding the reciter.",
+    "practicalRelevance": "While chanting, the practitioner pauses at oṁ namo arihantāṇaṁ and visualizes a luminous helmet settling on the crown, then at oṁ namo siddhāṇaṁ feels a fine bright cloth drawn across the mouth — synchronizing each pada with its body-point and breath. Beyond visualization, the mouth-placement is a daily reminder to keep speech pure and non-injurious.",
+    "crossReferences": [
+      {
+        "text": "Pañca-Namaskāra (Navkāra) — padas 1–2: 'Namo arihantāṇaṁ, Namo siddhāṇaṁ'",
+        "source": "Standard Jain liturgical text (Ardhamāgadhī)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.7–1.8 (nikṣepa/nyāsa) and the concept of arhat/siddha",
+        "source": "Umāsvāti, Tattvārtha-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ṇamōkāra (Namokar) Mantra",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "scholarship",
+      "consultedFor": "Identification of the first two padas (Namo arihantāṇaṁ, Namo siddhāṇaṁ), their antiquity (Hāthīgumphā inscription), and standard meaning."
+    },
+    {
+      "title": "Arihant (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Arihant_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Meaning of arihanta as the foe-conquering, omniscient kevalin, distinct from the bodiless liberated siddha."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for śiraska ('helmet/head-covering'), śiras, sthita (√sthā), mukha, paṭa, and vara (√vṛ)."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "Text rendered verbatim from the book, including 'ૐ' for the Om-syllable and the daṇḍa '।' / period punctuation (punctuation marks are not glossed as lexical tokens). Both occurrences of ૐ and નમો are glossed separately per full-coverage requirement. The line is elliptical: there is no finite verb in the second hemistich, so sthitaṁ is understood by parallel from the first; '[this line] is set as…' is supplied. śiraskaṁ/mukhapaṭaṁ are accusative objects of an implied 'I place/it is placed', consistent with the hymn's nyāsa structure. Some circulating recensions read the head-line as 'śiraḥ śirasi sthitaṁ'; this edition's 'śiraskaṁ' (helmet) is followed here and is the better fit for the armour imagery. The Navkāra padas are Prakrit (Ardhamāgadhī); the placement-clauses are Sanskrit — preserved as in the source."
+}

@@ -1,0 +1,184 @@
+{
+  "shlokaId": "ashtottari-tirthmala/46",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Nemi, the shining jewel of the Yādava family, became a monk, gained perfect knowledge, and reached final liberation all on this one mountain (Girnar) — so may this thrice-holy holy place ever flourish.",
+  "recitation": "jāyava kula siri tilao, nemī vaya-ggahaṇa ṇāṇa nivvāṇo; jahiṁ patto so naṁdau, ujjaṁto tiguṇam iha titthaṁ.",
+  "wordByWord": [
+    {
+      "token": "જાયવ",
+      "translit": "jāyava",
+      "gloss": "of the Yādava (Yadu) clan",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jāyava < Sanskrit yādava, 'descendant of Yadu'; the royal dynasty into which Nemi was born.",
+      "notes": "First member of the compound jāyava-kula-siri-tilao."
+    },
+    {
+      "token": "કુલ",
+      "translit": "kula",
+      "gloss": "family, lineage",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit kula, 'clan, household'.",
+      "notes": ""
+    },
+    {
+      "token": "સિરિ",
+      "translit": "siri",
+      "gloss": "glory, splendour (śrī)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit siri < Sanskrit śrī, 'lustre, majesty, fortune'.",
+      "notes": ""
+    },
+    {
+      "token": "તિલઓ",
+      "translit": "tilao",
+      "gloss": "crowning ornament, crest-mark (tilaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tilao < Sanskrit tilaka, the auspicious forehead-mark; figuratively the 'finest adornment' of a thing.",
+      "notes": "Nominative singular masculine in apposition to Nemi: 'the very tilaka of the glory of the Yādava clan'."
+    },
+    {
+      "token": "નેમી",
+      "translit": "nemī",
+      "gloss": "Nemi (Neminātha / Ariṣṭanemi), the 22nd Tīrthaṅkara",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit nemi, 'rim of a wheel'; cousin of Kṛṣṇa, born in the Yādava line.",
+      "notes": ""
+    },
+    {
+      "token": "વય",
+      "translit": "vaya",
+      "gloss": "vow, the great vows (vrata) of renunciation",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaya < Sanskrit vrata, 'vow'; here the taking of the mahāvratas at dīkṣā.",
+      "notes": "In this kalyāṇaka-list vaya is vrata (vow), not vāc (speech); see notes."
+    },
+    {
+      "token": "ગ્ગહણ",
+      "translit": "ggahaṇa",
+      "gloss": "taking, undertaking (grahaṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gahaṇa (doubled to -ggahaṇa in compound) < Sanskrit grahaṇa, 'seizing, adopting'.",
+      "notes": "vaya-ggahaṇa = 'taking of the vow' = renunciation (dīkṣā), the first of the three events named."
+    },
+    {
+      "token": "નાણ",
+      "translit": "ṇāṇa",
+      "gloss": "(omniscient) knowledge — kevalajñāna",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṇāṇa < Sanskrit jñāna, 'knowledge'; in context the supreme kevala-jñāna (omniscience).",
+      "notes": "Second event: attainment of omniscience."
+    },
+    {
+      "token": "નિવ્વાણો",
+      "translit": "nivvāṇo",
+      "gloss": "liberation, final release (nirvāṇa / mokṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nivvāṇa < Sanskrit nirvāṇa, 'blowing out, extinction of karma'.",
+      "notes": "Third event: liberation. The three together (vow-taking, knowledge, nirvāṇa) are the three kalyāṇakas located here."
+    },
+    {
+      "token": "જહિં",
+      "translit": "jahiṁ",
+      "gloss": "where, in which place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jahiṁ < Sanskrit yatra / yasmin, relative locative.",
+      "notes": "Relative adverb answered by the place-name Ujjayanta in line 2."
+    },
+    {
+      "token": "પત્તો",
+      "translit": "patto",
+      "gloss": "attained, reached",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patto < Sanskrit prāpta, past participle of pra-√āp, 'to reach, obtain'.",
+      "notes": "Subject is Nemi (so), object the three attainments."
+    },
+    {
+      "token": "સો",
+      "translit": "so",
+      "gloss": "he, that one",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit so < Sanskrit saḥ, nominative singular masculine demonstrative.",
+      "notes": "Refers back to Nemi."
+    },
+    {
+      "token": "નંદઉ",
+      "translit": "naṁdau",
+      "gloss": "may it flourish / be blessed / rejoice",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit naṁdau < Sanskrit nandatu, imperative/benedictive of √nand, 'to thrive, prosper'.",
+      "notes": "The benedictive refrain of the hymn; its subject is the tīrtha (Ujjayanta)."
+    },
+    {
+      "token": "ઉજજંતો",
+      "translit": "ujjaṁto",
+      "gloss": "Ujjayanta — Mount Girnar (Raivatagiri)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ujjaṁta < Sanskrit ujjayanta, ancient name of Mount Girnar near Junagadh, Gujarat.",
+      "notes": "Spelling ઉજજંતો with single-spaced conjunct retained verbatim from the book."
+    },
+    {
+      "token": "તિગુણમ્",
+      "translit": "tiguṇam",
+      "gloss": "threefold, thrice-(sanctified)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit ti-guṇa < Sanskrit tri-guṇa, 'triple'; here qualifying the tīrtha as thrice-holy.",
+      "notes": "Sandhi: tiguṇam + iha. 'Threefold' because three kalyāṇakas of Nemi occurred here."
+    },
+    {
+      "token": "ઇહ",
+      "translit": "iha",
+      "gloss": "here, in this place",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit/Prakrit iha, 'here'.",
+      "notes": ""
+    },
+    {
+      "token": "તિત્થં",
+      "translit": "titthaṁ",
+      "gloss": "tīrtha (holy crossing-place)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tittha < Sanskrit tīrtha.",
+      "notes": "Predicate noun: Ujjayanta is the thrice-holy tīrtha."
+    }
+  ],
+  "literalTranslation": "The crest-ornament of the glory of the Yādava clan — Nemi — [whose] vow-taking, knowledge, and nirvāṇa [happened here]: where that one attained [them], may it flourish — Ujjayanta, the thrice-holy tīrtha, here.",
+  "idiomaticTranslation": "Nemi, the crowning jewel of the Yādava clan's glory — here he took the great vows of renunciation, here he won omniscience, and here he reached nirvāṇa. May that Ujjayanta (Girnar), thrice-hallowed by these three blessed events, ever flourish as a holy tīrtha!",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse opens the Girnar (Ujjayanta / Raivatagiri) sequence, turning from Ṛṣabha's Aṣṭāpada in the verses just before to the mountain of the 22nd Jina. Nemi is fixed at once in his lineage: he is the 'tilaka' — the auspicious crest-mark, the very finest adornment — of the śrī (glory) of the jāyava (Yādava) clan, the dynasty of Kṛṣṇa. The first line then strings together three of Nemi's life-events in their natural sequence: vaya-ggahaṇa (the taking of the great vows, i.e. renunciation/dīkṣā), ṇāṇa (the rise of kevala-jñāna, omniscience), and nivvāṇa (final liberation). The second line resolves the relative jahiṁ ('where'): the single place where 'he attained' all three is named — Ujjayanta. The closing word tiguṇa ('threefold') is the verse's hinge: Girnar is hallowed not once but three times over, precisely because three of Nemi's five kalyāṇakas occurred on this one summit. (His conception and birth belong to the Śauripura/Dvārakā region, which is why the mountain is 'thrice-' and not 'fivefold-' holy.) The benedictive naṁdau — the hymn's recurring gesture — is here directed at the tīrtha itself: 'may it flourish.' The poet thus compresses an entire hagiography into a single breath: clan, renunciation, enlightenment, liberation, place, and blessing.",
+    "doctrinalContext": "The triad vaya-ggahaṇa → ṇāṇa → nivvāṇa mirrors the Jain ascent to mokṣa: adoption of right conduct (cāritra) through the mahāvratas, then the annihilation of the four ghātī (obscuring) karmas yielding kevala-jñāna, and finally the shedding of the remaining aghātī karmas at nirvāṇa. A site's sanctity in Jain thought derives from such kalyāṇaka events imprinted on it; naming three of them justifies calling Girnar tiguṇa-tittha, a 'thrice-holy crossing'. The verse also quietly contrasts two Yādava destinies — Nemi the liberated Jina versus his cousin Kṛṣṇa the worldly hero — underscoring renunciation as the clan's true glory.",
+    "practicalRelevance": "Reciting this verse, the worshipper bows in mind to Girnar without travelling there, and rehearses the very pattern of liberation — renounce, awaken, be freed — as a template for personal practice. The single mountain holding all three events teaches that one steadfast place of effort can carry a soul the whole way.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana Sūtra, ch. 22 (Rathanemi / Rājimatī — Nemi's renunciation)",
+        "source": "Śvetāmbara Āgama; Jacobi tr., Sacred Books of the East vol. 45"
+      },
+      {
+        "text": "Kalpasūtra, life of Ariṣṭanemi (Neminātha)",
+        "source": "Bhadrabāhu; Śvetāmbara canon"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Neminatha — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neminatha",
+      "type": "scholarship",
+      "consultedFor": "Nemi's Yādava lineage, kinship with Kṛṣṇa, renunciation and liberation at Girnar"
+    },
+    {
+      "title": "Girnar — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Girnar",
+      "type": "scholarship",
+      "consultedFor": "Ujjayanta / Raivatagiri identification with Girnar and its status as the site of Nemi's dīkṣā, kevalajñāna and nirvāṇa"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: vrata, grahaṇa, jñāna, nirvāṇa, prāpta, tilaka, yādava, nand, tri-guṇa"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "vaya is read as vrata (vow → renunciation/dīkṣā), not vāc (speech): the surrounding triad with ṇāṇa and nivvāṇa fixes it as the first of three kalyāṇakas. tiguṇa ('threefold') refers to those three kalyāṇakas at Girnar — Nemi's conception and birth kalyāṇakas occurred elsewhere (Śauripura/Dvārakā), hence 'thrice-' and not 'fivefold-' holy. Orthography preserved verbatim (e.g. ઉજજંતો with its single-spaced conjunct; ગ્ગહણ with doubled g- in compound). Sandhi tiguṇam-iha split into tiguṇam + iha for glossing."
+}

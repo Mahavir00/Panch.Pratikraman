@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/40",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "With this verse the hymn bows all at once to every Jina — those of the past, the future and the present, the eternal ones and the living Lords teaching now — the moon-like saviours at whose feet even the great gods bow.",
+  "recitation": "iya tīa aṇāgaya, vaṭṭamāṇāyā sāsayā ya viharaṁtā |\nthuṇiyā jiṇiṁda-caṁdā, payapaṁkaya paṇaya māhiṁdā ||",
+  "wordByWord": [
+    {
+      "token": "ઇય",
+      "translit": "iya",
+      "gloss": "thus, in this way (a summing-up particle closing the preceding salutations)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit iya/ia, from Sanskrit iti ('thus'); the demonstrative-correlative base i-",
+      "notes": "Written conjoined with the next word in the book as ઇયતીઅ; split here for clarity. It gathers vv. 12–39 into a single act of praise."
+    },
+    {
+      "token": "તીઅ",
+      "translit": "tīa",
+      "gloss": "past, gone-by (the Jinas of the past time-cycle)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit tīa, from Sanskrit atīta ('passed beyond'), ati + √i ('to go')",
+      "notes": "Refers to the atīta-cauvīsī, the 24 Tīrthaṅkaras of the bygone cycle saluted in vv.12–15."
+    },
+    {
+      "token": "અણાગય",
+      "translit": "aṇāgaya",
+      "gloss": "future, not-yet-come (the Jinas of the coming cycle)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṇāgaya, from Sanskrit anāgata, an- (negative) + ā-gata ('come'); intervocalic -g- and the cerebral ṇ are regular Prakrit shifts",
+      "notes": "The anāgata-cauvīsī of vv.19–22."
+    },
+    {
+      "token": "વટ્ટમાણાયા",
+      "translit": "vaṭṭamāṇāyā",
+      "gloss": "present, now-existing (the present 24 Jinas, Ṛṣabha through Mahāvīra)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vaṭṭamāṇa, from Sanskrit vartamāna ('turning, ongoing'), present participle of √vṛt ('to turn, exist'); Skt -rt- > Prakrit -ṭṭ-",
+      "notes": "The final -āyā is a metrically lengthened plural ending; the vartamāna-cauvīsī of vv.16–18."
+    },
+    {
+      "token": "સાસયા",
+      "translit": "sāsayā",
+      "gloss": "the eternal ones (the beginningless śāśvata Jina-images of the three worlds)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya, from Sanskrit śāśvata ('perpetual'), from śaśvat ('always'); śv > ss > s",
+      "notes": "Points back to the śāśvata-pratimās enumerated across the cosmos in vv.23–33."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya, from Sanskrit ca (conjunction); the c- weakens to y- in Prakrit",
+      "notes": "Coordinates the eternal images with the living Jinas that follow."
+    },
+    {
+      "token": "વિહરંતા",
+      "translit": "viharaṁtā",
+      "gloss": "the wandering/living ones (the currently-teaching viharamāṇa Jinas of Mahāvideha)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viharaṁta, present participle of viharai, from Sanskrit vi-√hṛ ('to wander, move about, dwell'); equivalent to viharamāṇa",
+      "notes": "The 20 living Jinas led by Sīmandhara, just saluted in vv.34–39."
+    },
+    {
+      "token": "થુણિયા",
+      "translit": "thuṇiyā",
+      "gloss": "(have been) praised, extolled",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇiya, past passive participle of thuṇai, from Sanskrit √stu ('to praise') (cf. stuta, stuti); initial st- > th-",
+      "notes": "The main verb; nominative plural agreeing with 'the Jinendra-moons'. The whole sweep of Jinas is the subject 'praised'."
+    },
+    {
+      "token": "જિણિંદ",
+      "translit": "jiṇiṁda",
+      "gloss": "Jinendra(s), Lord(s) of Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jiṇa (Skt jina, 'conqueror') + iṁda (Skt indra, 'lord, chief') = jinendra",
+      "notes": "First member of the compound jiṇiṁda-caṁdā."
+    },
+    {
+      "token": "ચંદા",
+      "translit": "caṁdā",
+      "gloss": "moons — i.e. the Jinendra-moons (Jinas radiant and cooling like the moon)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit caṁda, from Sanskrit candra ('moon'), √cand ('to shine'); ndr > nd",
+      "notes": "Apposition to the subject: the Jinas as moons that cool the heat of saṁsāra and delight the devotee's gaze."
+    },
+    {
+      "token": "પયપંકય",
+      "translit": "payapaṁkaya",
+      "gloss": "foot-lotus(es), lotus-feet",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit paya (Skt pada, 'foot'; d > y) + paṁkaya (Skt paṅkaja, 'lotus', lit. 'mud-born')",
+      "notes": "First member of the bahuvrīhi describing the Jinendra-moons."
+    },
+    {
+      "token": "પણય",
+      "translit": "paṇaya",
+      "gloss": "bowed, prostrate (in homage)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paṇaya, from Sanskrit praṇata ('bent down, bowed'), pra + √nam ('to bow'); ṇ for n is regular",
+      "notes": "Within the compound payapaṁkaya-paṇaya-māhiṁdā: 'at whose lotus-feet the great Indras are bowed'."
+    },
+    {
+      "token": "માહિંદા",
+      "translit": "māhiṁdā",
+      "gloss": "the great Indras (Mahendras — the sovereign lords of the heavens)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit māhiṁda, from Sanskrit mahendra, mahā ('great') + indra ('lord of gods')",
+      "notes": "Final member of the bahuvrīhi; closes the verse on the image of celestial kings bowing at the Jinas' feet."
+    }
+  ],
+  "literalTranslation": "Thus the past, the future, the present, and the eternal and the wandering (living) — the Jinendra-moons, at whose lotus-feet the great Indras are bowed — have been praised.",
+  "idiomaticTranslation": "Thus are they all extolled together: the Jinas of the past, of the future and of the present, the eternal ones and the living Lords who wander and teach even now — those moon-like Jinendras at whose lotus-feet the mighty Indras bow down.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is the seal on the whole cosmic roll-call of Jinas. The opening particle 'iya' ('thus') is the hinge: having bowed in turn to the eternal images (vv.23–33) and the twenty living viharamāṇa Jinas led by Sīmandhara (vv.34–39), the poet now gathers them — together with the past, future and present twenty-fours already saluted — into one all-embracing act of praise, 'thuṇiyā' ('they are praised'). Five categories are stacked in a single breath: tīa (past), aṇāgaya (future), vaṭṭamāṇa (present), sāsaya (eternal) and viharaṁta (living). Nothing in Jina-hood across time or world is left un-saluted. The fresh image is jiṇiṁda-caṁdā, 'the Jinendra-moons'. Where earlier verses leaned on the ocean-crossing pictures, here the Jinas become moons — radiant, cooling the fever (tāpa) of rebirth and gladdening the devotee as moonlight gladdens the night-lotus and the eye. The closing compound, payapaṁkaya-paṇaya-māhiṁdā, completes the portrait: these moon-Jinas are 'those at whose lotus-feet the great Indras bow'. The very kings of the heavens prostrate themselves — a deliberate reversal of ordinary hierarchy that asserts, without argument, the Jina's supremacy over every celestial power. The verse thus does three things at once: it summarises (iya), it universalises across time (the five categories), and it exalts (Indra's homage) — a fitting close to the universal-Jina section before the hymn descends, from v.41, into the named earthly tīrthas beginning with Aṣṭāpada.",
+    "doctrinalContext": "The verse encodes the Jain conviction that Tīrthaṅkara-hood is not bound to one age or one field: it recurs across atīta, vartamāna and anāgata cycles, persists as the beginningless śāśvata images, and is presently embodied in the viharamāṇa Jinas of Mahāvideha. Comprehensive vandanā to all of them at once expresses that bhakti is owed to the quality of Jina-hood wherever and whenever it appears, not merely to one's own era's teacher. The bowing of the Mahendras articulates a core distinction in Jain cosmology: gods (including Indra), however exalted and long-lived, remain within saṁsāra and bound by karma, while the omniscient, passion-free Jina stands above them; the deities accordingly seek merit by worshipping the Jina rather than being worshipped. Reverence here flows upward to the liberated, not to the powerful.",
+    "practicalRelevance": "A reciter treats this verse as the closing praṇāma of the cosmic tour: having mentally visited Jinas of every time and world, one offers a single wholehearted bow that dissolves the sense of distance in space and time between worshipper and worshipped. Contemplating that even Indra prostrates at the Jina's feet is a direct antidote to māna (pride): if the lord of gods bows, the ego of the practitioner has nothing to stand on.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — praise of the twenty-four Tīrthaṅkaras",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Śakrastava / Namutthuṇaṁ (Smaraṇa 7) — Indra's own hymn of homage to the Jina",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit, Nava Smaraṇa"
+      },
+      {
+        "text": "Śrīmandara-stavana of Ṛṣi Rāmakṛṣṇa — hymn to Sīmandhara among the viharamāṇa Jinas",
+        "source": "Tessitori collection, ‘Vincenzo Joppi’ Library (via Wisdom Library)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: √stu (stuta), candra, pada-paṅkaja, praṇata (pra-√nam), vartamāna (√vṛt), mahendra"
+    },
+    {
+      "title": "Tirthankara — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "The 24 Tīrthaṅkaras per half time-cycle and the atīta/vartamāna/anāgata framework underlying tīa, vaṭṭamāṇa and aṇāgaya"
+    },
+    {
+      "title": "Viharamāna — definition (In Jainism), Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/viharamana",
+      "type": "scholarship",
+      "consultedFor": "viharaṁtā = the twenty living (viharamāṇa) Tīrthaṅkaras of Mahāvideha led by Sīmandhara"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This is the closing all-time salutation (v.40) of the universal-Jina section; the subject of 'thuṇiyā' is the full set of past/future/present/eternal/living Jinas carried over from the preceding verses, so 'iya' ('thus') functions as a summative seal. 'ઇયતીઅ' is printed conjoined in the book and is split here as iya + tīa for glossing. The ending -āyā in 'વટ્ટમાણાયા' is read as a metrically lengthened plural rather than a separate morpheme; other editions may read 'vaṭṭamāṇā ya'. 'માહિંદા' is taken as Sanskrit mahendra ('great Indras'), the standard celestial-homage image; jiṇiṁda-caṁdā and payapaṁkaya-paṇaya-māhiṁdā are read as appositive/bahuvrīhi descriptions of the praised Jinas. Glosses rest on Prakrit-to-Sanskrit correspondences; no verse-specific published translation of this exact gāthā was independently verified, so the parse carries normal Prakrit-orthography caveats."
+}

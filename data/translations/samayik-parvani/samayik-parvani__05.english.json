@@ -1,0 +1,148 @@
+{
+  "shlokaId": "samayik-parvani/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If, through carelessness, I have ever said anything wrong or muddled about the teaching of the Jinas, I take those words back and ask that my mind be made clean again.",
+  "recitation": "kuṇo pamāe boliuṁ, hui virūi buddhi; jiṇa-sāsaṇameṁ bolīuṁ, micchā mi dukkaḍaṁ — śuddhi.",
+  "wordByWord": [
+    {
+      "token": "કુણો",
+      "translit": "kuṇo",
+      "gloss": "whatever, anything (that)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa indefinite pronoun from Skt. kaḥ + cit (kaścit) → koi / kuṇa-; here used adjectivally, 'whatsoever (was)'.",
+      "notes": "Sets up the conditional 'whatever (was) spoken'."
+    },
+    {
+      "token": "પમાએ",
+      "translit": "pamāe",
+      "gloss": "through negligence (pramāda)",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. pramāda 'heedlessness, spiritual carelessness' → Pkt. pamāya; case form pamāe is instrumental/locative, 'by/in negligence'.",
+      "notes": "Pramāda is the doctrinal trigger of the fault confessed here."
+    },
+    {
+      "token": "બોલિઉં",
+      "translit": "boliuṁ",
+      "gloss": "(was) spoken, uttered",
+      "partOfSpeech": "verb",
+      "etymology": "Past/passive participle of the deśī root bol- 'to speak' (parallel to Skt. √bhāṣ, bhāṣita), Apabhraṁśa -iuṁ ending; '(that which was) said'.",
+      "notes": "Speech-fault is the specific object of this verse."
+    },
+    {
+      "token": "હુઇ",
+      "translit": "hui",
+      "gloss": "(there) arises, becomes",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt. √bhū 'to be, become' → Pkt./Apabhraṁśa hoi / hui, 'becomes, comes to be'.",
+      "notes": "Links the careless speech to its result — a distorted understanding."
+    },
+    {
+      "token": "વિરૂઇ",
+      "translit": "virūi",
+      "gloss": "perverse, distorted, ill-formed",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. virūpa / viparīta 'misshapen, contrary' → Pkt. virūa / virūi; qualifies buddhi.",
+      "notes": "Semantically close to viparīta-buddhi, the opposite of right understanding."
+    },
+    {
+      "token": "બુદ્ધિ",
+      "translit": "buddhi",
+      "gloss": "understanding, intellect",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. buddhi 'intellect, judgment' (√budh 'to know'), retained in Pkt.",
+      "notes": "'virūi buddhi' = a warped grasp of the doctrine produced by heedless speech."
+    },
+    {
+      "token": "જિણસાસણમેં",
+      "translit": "jiṇa-sāsaṇameṁ",
+      "gloss": "within the Jina's teaching (śāsana)",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Skt. jina, 'Conqueror, Tīrthaṅkara') + sāsaṇa (Skt. śāsana, 'teaching, order') + locative postposition -meṁ ('in/within', old Gujarati).",
+      "notes": "Locates the fault precisely: misspeaking about the doctrine itself."
+    },
+    {
+      "token": "બોલીઉં",
+      "translit": "bolīuṁ",
+      "gloss": "(whatever I) spoke, said",
+      "partOfSpeech": "verb",
+      "etymology": "Same bol- root as boliuṁ above (long ī by metrical/orthographic variation); '(that which was) spoken'.",
+      "notes": "Verbatim spelling differs from v.l. line-1 boliuṁ; preserved per the book's fidelity rule."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, vain (let it be undone)",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. mithyā 'falsely, in vain' → Pkt. micchā; first word of the retraction formula.",
+      "notes": "Part of the glossary formula micchā mi dukkaḍaṁ (see preface); not re-defined here."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my, by me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. me / mama 'my' → Pkt. mi; the agent of the misdeed.",
+      "notes": "Second element of the retraction formula."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed, ill-done act",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. duṣkṛta 'badly done' → Pkt. dukkaḍa; accusative -aṁ.",
+      "notes": "Third element; the whole phrase = 'may my misdeed be undone'."
+    },
+    {
+      "token": "શુદ્ધિ",
+      "translit": "śuddhi",
+      "gloss": "purification, purity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śuddhi 'cleansing, purity' (√śudh) → Pkt. suddhi; here the closing benefit of the retraction.",
+      "notes": "Caps the verse: the retraction yields purification of speech and mind."
+    }
+  ],
+  "literalTranslation": "Whatever was spoken through negligence — a perverse understanding arises (from it); whatever I have spoken within the Jina's teaching — may that my misdeed be undone: (hence) purification.",
+  "idiomaticTranslation": "If, through heedlessness, anything wrong has slipped from my lips — for from such carelessness a warped understanding takes root — and if I have misspoken anywhere within the teaching of the Jinas, then may that misdeed of mine be undone; let my speech be cleansed.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the wide arc of mutual forgiveness in vv.1–3 and the praise of sāmāyika's worth in v.4, this short verse turns inward to a single, precise self-audit: the tongue. Where the earlier verses confessed harm to beings, v.5 confesses harm to truth — words let slip 'through negligence' (pamāe) that may have misstated or muddled the doctrine. The verse builds a tight causal chain: careless speech (boliuṁ) does not stay harmless; it 'becomes' (hui) a 'perverse understanding' (virūi buddhi). A wrong word, repeated and absorbed, hardens into wrong thought — in oneself and in any listener. The reciter therefore localizes the danger exactly: jiṇasāsaṇameṁ, 'within the Jina's teaching' — it is one thing to misspeak about worldly matters, another to misrepresent the doctrine while expounding, debating, or even reciting it. To that specific fault the verse applies the familiar retraction, micchā mi dukkaḍaṁ, and closes on its fruit: śuddhi, purification. The placement is deliberate — having just extolled sāmāyika (v.4), the practitioner guards against the very lapse most likely during a session of study and recitation: an inaccurate phrase. The verse is small by design; it is a surgical correction, not a new movement, sealing the speech-channel before the homage of the Sūtra proper begins.",
+    "doctrinalContext": "The verse targets vacana-doṣa (faults of speech) and rests on two linked doctrines. First, pramāda — heedlessness — is counted among the root causes of karmic bondage; an unmindful word is not trivial but karmically live. Second, misrepresenting scripture is the grave fault the tradition calls utsūtra-bhāṣaṇa (speaking contrary to the sūtra), because, as the verse states, it breeds virūi buddhi — viparīta or distorted cognition, the direct opposite of samyag-darśana (right faith) and samyag-jñāna (right knowledge). Wrong speech thus threatens the first two jewels of the ratna-traya. The remedy offered is purely the Jain one: not penance imposed from without but micchā mi dukkaḍaṁ — recognition that converts a committed fault into a renounced one — yielding śuddhi, the purification of the speech-instrument so that conduct (cāritra) is not undermined by a careless tongue.",
+    "practicalRelevance": "As one winds up a sāmāyika that has included svādhyāya, discussion, or recitation, this verse is the moment to scan one's speech: Did I assert something about the teaching I was unsure of? Paraphrase a doctrine loosely? Speak over-confidently from half-knowledge? Rather than brushing it aside, the reciter names it, retracts it with micchā mi dukkaḍaṁ, and resolves to speak of the doctrine only with care and humility — a discipline as relevant to a modern teacher, writer, or online commentator as to the medieval expounder.",
+    "crossReferences": [
+      {
+        "text": "Dashavaikālika-sūtra, ch. 7 (Vākya-śuddhi) — the discipline of guarded, truthful speech",
+        "source": "Āgama (Mūlasūtra), traditional Śvetāmbara recension"
+      },
+      {
+        "text": "Tattvārtha-sūtra 8.1 — pramāda named among the causes (hetus) of karmic bondage",
+        "source": "Umāsvāti / Umāsvāmī"
+      },
+      {
+        "text": "Recurrence of micchā mi dukkaḍaṁ in vv.1, 5 and Sūtra items (1),(2),(7),(8) of this same recitation",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams; Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the tokens — pramāda, viparīta/virūpa, buddhi, śāsana, duṣkṛta, śuddhi, √bhū, √budh."
+    },
+    {
+      "title": "Jain eLibrary / jainqq — Prakrit & Ardhamagadhi reference resources (incl. Pāia-sadda-mahaṇṇavo)",
+      "url": "https://jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit/Apabhraṁśa forms — kuṇo (indefinite), boliuṁ/bolīuṁ (bol- 'speak'), hui (√bhū), micchā/mi/dukkaḍaṁ formula."
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipakṣa edition); Jain eLibrary",
+      "url": "https://jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse wording, placement of v.5 as the purificatory note within the sāmāyika pāraṇā, and the recurring micchā mi dukkaḍaṁ retraction."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The verse is in late Prakrit / Apabhraṁśa with old-Gujarati features (locative -meṁ in jiṇasāsaṇameṁ), so token glosses rest on cognate Sanskrit/Prakrit forms rather than a single critical edition. 'virūi' is read as viparīta/virūpa 'distorted'; an alternative reading 'virua' (= viruddha, 'contrary') gives nearly the same sense. The two spellings boliuṁ (line 1) and bolīuṁ (line 2) are preserved verbatim per the book's fidelity rules and are taken as orthographic/metrical variants of the same bol- participle, not distinct words. 'śuddhi' is read as the resultant 'purification' that the retraction yields; it could also be construed as an imperative-like 'let there be purity'. Cited URLs are stable repository/lexicon landing pages, not verse-specific deep links; exact gāthā numbering may vary across external editions."
+}

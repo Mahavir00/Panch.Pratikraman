@@ -1,0 +1,446 @@
+{
+  "shlokaId": "jivrashi/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I count every kind of living being in the universe and ask forgiveness from any creature I have hurt, had hurt, or let be hurt — by my mind, words, or actions.",
+  "recitation": "sāta lākha pṛthvīkāya, sāta lākha apkāya, sāta lākha teükāya, sāta lākha vāükāya, daśa lākha pratyeka vanaspatikāya, caüda lākha sādhāraṇa vanaspatikāya, be lākha beïndriya, be lākha teïndriya, be lākha caürindriya, cāra lākha devatā, cāra lākha nārakī, cāra lākha tiryañca pañcendriya, caüda lākha manuṣyanā bheda, evaṁkāre caüda rāja corāsī lakṣa jīvāyonimāṁhe, māre jīve, jiko koi jīva duhavyo hoya, duhavāvyo hoya, duhavatāṁ pratye anumodyuṁ hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ",
+  "wordByWord": [
+    {
+      "token": "સાત",
+      "translit": "sāta",
+      "gloss": "seven",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit sapta (seven); Prakrit satta → Gujarati sāta.",
+      "notes": "Heads the count for each of the four one-sensed elemental bodies; the phrase 'sāta lākha' recurs four times."
+    },
+    {
+      "token": "લાખ",
+      "translit": "lākha",
+      "gloss": "lakh (one hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit lakṣa (a hundred thousand); Prakrit lakkha → Gujarati lākha.",
+      "notes": "The unit applied to every class count; recurs throughout the enumeration (the closing tally uses the Sanskritic form 'lakṣa')."
+    },
+    {
+      "token": "પૃથ્વીકાય",
+      "translit": "pṛthvīkāya",
+      "gloss": "earth-bodied beings (one-sensed)",
+      "partOfSpeech": "compound",
+      "etymology": "pṛthvī (earth) + kāya (body).",
+      "notes": "First of the five sthāvara (immobile) ekendriya classes; 7 lakh."
+    },
+    {
+      "token": "અપ્કાય",
+      "translit": "apkāya",
+      "gloss": "water-bodied beings (one-sensed)",
+      "partOfSpeech": "compound",
+      "etymology": "ap (water) + kāya (body).",
+      "notes": "Book reads 'apkāya'; 7 lakh."
+    },
+    {
+      "token": "તેઉકાય",
+      "translit": "teükāya",
+      "gloss": "fire-bodied beings (one-sensed)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit teu (Sanskrit tejas, fire) + kāya (body).",
+      "notes": "7 lakh."
+    },
+    {
+      "token": "વાઉકાય",
+      "translit": "vāükāya",
+      "gloss": "air-bodied beings (one-sensed)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vāu (Sanskrit vāyu, wind/air) + kāya (body).",
+      "notes": "7 lakh; completes the elemental tetrad."
+    },
+    {
+      "token": "દશ",
+      "translit": "daśa",
+      "gloss": "ten",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit daśa (ten); Prakrit dasa.",
+      "notes": "Count for individual-souled plant life."
+    },
+    {
+      "token": "પ્રત્યેક",
+      "translit": "pratyeka",
+      "gloss": "individual; one soul per body",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit prati (each) + eka (one) = 'one apiece'.",
+      "notes": "Qualifies vanaspatikāya: plants where each body houses a single soul; 10 lakh."
+    },
+    {
+      "token": "વનસ્પતિકાય",
+      "translit": "vanaspatikāya",
+      "gloss": "plant-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "vanaspati (vegetation) + kāya (body).",
+      "notes": "Split here into pratyeka (10 lakh) and sādhāraṇa (14 lakh)."
+    },
+    {
+      "token": "ચઉદ",
+      "translit": "caüda",
+      "gloss": "fourteen",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit caturdaśa (fourteen); Prakrit cauddasa → Gujarati caüda.",
+      "notes": "Used three times: for sādhāraṇa plants (14 lakh), for human kinds (14 lakh), and adjectivally for the 'caüda rāja' cosmos."
+    },
+    {
+      "token": "સાધારણ",
+      "translit": "sādhāraṇa",
+      "gloss": "common-bodied (nigoda); many souls in one body",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit sa- (with) + ādhāra (support) = 'shared'.",
+      "notes": "The single largest class, 14 lakh."
+    },
+    {
+      "token": "બે",
+      "translit": "be",
+      "gloss": "two",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit dvi (two) via Prakrit be/bi → Gujarati be.",
+      "notes": "Count for each of the three tras (mobile) sub-five-sensed classes; recurs thrice."
+    },
+    {
+      "token": "બેઇંદ્રિય",
+      "translit": "beïndriya",
+      "gloss": "two-sensed beings (touch + taste)",
+      "partOfSpeech": "compound",
+      "etymology": "be (two) + indriya (sense-organ).",
+      "notes": "2 lakh."
+    },
+    {
+      "token": "તેઇંદ્રિય",
+      "translit": "teïndriya",
+      "gloss": "three-sensed beings (+ smell)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit te (three) + indriya (sense-organ).",
+      "notes": "2 lakh."
+    },
+    {
+      "token": "ચઉરિંદ્રિય",
+      "translit": "caürindriya",
+      "gloss": "four-sensed beings (+ sight)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit caür (Sanskrit catur, four) + indriya (sense-organ).",
+      "notes": "2 lakh; last class before five-sensed life."
+    },
+    {
+      "token": "ચાર",
+      "translit": "cāra",
+      "gloss": "four",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit catur (four); Prakrit cattāri → Gujarati cāra.",
+      "notes": "Count for deva, nāraka, and tiryañca-pañcendriya in this reading; recurs thrice."
+    },
+    {
+      "token": "દેવતા",
+      "translit": "devatā",
+      "gloss": "celestial (heavenly) beings",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit devatā (deity), from div- 'to shine'.",
+      "notes": "Five-sensed; 4 lakh in this enumeration."
+    },
+    {
+      "token": "નારકી",
+      "translit": "nārakī",
+      "gloss": "infernal (hell) beings",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit nāraka (hell) + -in/-ī (dweller of).",
+      "notes": "Five-sensed; 4 lakh."
+    },
+    {
+      "token": "તિર્યંચ",
+      "translit": "tiryañca",
+      "gloss": "animals (non-human)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit tiryañc 'going horizontally', i.e. sub-human creatures.",
+      "notes": "Here qualified by pañcendriya; 4 lakh."
+    },
+    {
+      "token": "પંચેંદ્રિય",
+      "translit": "pañcendriya",
+      "gloss": "five-sensed (adds hearing)",
+      "partOfSpeech": "compound",
+      "etymology": "pañca (five) + indriya (sense-organ).",
+      "notes": "Modifies tiryañca; the deva, nāraka and human classes are also pañcendriya."
+    },
+    {
+      "token": "મનુષ્યના",
+      "translit": "manuṣyanā",
+      "gloss": "of humans",
+      "partOfSpeech": "noun",
+      "etymology": "manuṣya (human, from manu) + Gujarati genitive plural -nā.",
+      "notes": "Genitive governing 'bheda'."
+    },
+    {
+      "token": "ભેદ",
+      "translit": "bheda",
+      "gloss": "kinds, divisions",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit bheda 'splitting, distinction', root bhid- 'to break'.",
+      "notes": "'manuṣyanā bheda' = the 14 lakh human birth-forms."
+    },
+    {
+      "token": "એવંકારે",
+      "translit": "evaṁkāre",
+      "gloss": "thus reckoned; in this manner",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit evam (thus) + kāra (making/doing), locative -e: 'by this making'.",
+      "notes": "Pivot word: closes the enumeration and introduces the grand total."
+    },
+    {
+      "token": "ચઉદ",
+      "translit": "caüda",
+      "gloss": "fourteen",
+      "partOfSpeech": "adj",
+      "etymology": "See above; here qualifying 'rāja'.",
+      "notes": "Part of 'caüda rāja', the fourteen-rajju cosmos."
+    },
+    {
+      "token": "રાજ",
+      "translit": "rāja",
+      "gloss": "rajju (a cosmic unit of vertical extent)",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit rajju 'rope/measure'; the loka is fourteen rajju tall.",
+      "notes": "'caüda rāja' = the full height of the Jain universe across which all yonis are spread."
+    },
+    {
+      "token": "ચોરાસી",
+      "translit": "corāsī",
+      "gloss": "eighty-four",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit caturaśīti (eighty-four); Prakrit corāsī.",
+      "notes": "Modifies 'lakṣa' to give the canonical total."
+    },
+    {
+      "token": "લક્ષ",
+      "translit": "lakṣa",
+      "gloss": "lakh (hundred thousand)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit lakṣa; Sanskritic form here at the summing-up (vs. vernacular 'lākha' above).",
+      "notes": "84 × 100,000 = 8.4 million jīva-yoni."
+    },
+    {
+      "token": "જીવાયોનિમાંહે",
+      "translit": "jīvāyonimāṁhe",
+      "gloss": "among the birth-forms of beings",
+      "partOfSpeech": "noun",
+      "etymology": "jīva (being) + yoni (womb/birth-form) + Gujarati locative postposition -māṁhe ('within, among').",
+      "notes": "Locative scope: 'within all 84 lakh jīva-yoni'."
+    },
+    {
+      "token": "મારે",
+      "translit": "māre",
+      "gloss": "by me; on my part",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati possessive/agentive of huṁ (I); from Sanskrit mama/mayā.",
+      "notes": "Pairs with 'jīve' to mean 'in my existence as a living soul'."
+    },
+    {
+      "token": "જીવે",
+      "translit": "jīve",
+      "gloss": "as a (living) soul; in my lifetime",
+      "partOfSpeech": "noun",
+      "etymology": "jīva (soul/life) in locative/agentive -e.",
+      "notes": "'māre jīve' frames the confession across the speaker's whole existence."
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "whatever, whichever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old/classical Gujarati relative pronoun from Sanskrit yaḥ kaḥ ('who(so)ever').",
+      "notes": "Correlates with 'te' ('that') in the closing clause."
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any",
+      "partOfSpeech": "pronoun",
+      "etymology": "From Sanskrit ko'pi ('anyone'); Prakrit koi.",
+      "notes": "Reinforces 'jiko' — 'any being at all'."
+    },
+    {
+      "token": "જીવ",
+      "translit": "jīva",
+      "gloss": "living being",
+      "partOfSpeech": "noun",
+      "etymology": "From Sanskrit jīva 'that which lives', root jīv-.",
+      "notes": "The object of all three verbs of harm that follow."
+    },
+    {
+      "token": "દુહવ્યો",
+      "translit": "duhavyo",
+      "gloss": "(I have) pained directly",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati causative duhavavuṁ 'to cause pain', from Prakrit/Sanskrit duḥkha (pain).",
+      "notes": "First of the kṛta–kārita–anumodita triad: kṛta (done by oneself)."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been; should it be (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati subjunctive of thavuṁ/hovuṁ 'to be', from Sanskrit bhū-.",
+      "notes": "Auxiliary forming the conditional 'if I have…'; recurs after each of the three harm-verbs."
+    },
+    {
+      "token": "દુહવાવ્યો",
+      "translit": "duhavāvyo",
+      "gloss": "(I have) caused to be pained",
+      "partOfSpeech": "verb",
+      "etymology": "Double-causative of duhavavuṁ — 'had (another) cause pain'.",
+      "notes": "Second of the triad: kārita (caused through another)."
+    },
+    {
+      "token": "દુહવતાં",
+      "translit": "duhavatāṁ",
+      "gloss": "(others) paining; while pain is being caused",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle of duhavavuṁ in oblique form.",
+      "notes": "Sets up the third mode: approval of harm done by others."
+    },
+    {
+      "token": "પ્રત્યે",
+      "translit": "pratye",
+      "gloss": "toward; with regard to",
+      "partOfSpeech": "particle",
+      "etymology": "From Sanskrit prati 'toward, regarding'.",
+      "notes": "'duhavatāṁ pratye' = 'with regard to (others') paining'."
+    },
+    {
+      "token": "અનુમોદ્યું",
+      "translit": "anumodyuṁ",
+      "gloss": "(I have) approved/consented to",
+      "partOfSpeech": "verb",
+      "etymology": "From Sanskrit anumodana 'approval', anu- + mud- 'to rejoice'.",
+      "notes": "Third of the triad: anumodita (approved)."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that, those (acts)",
+      "partOfSpeech": "pronoun",
+      "etymology": "From Sanskrit tat/te; correlative to 'jiko'.",
+      "notes": "Resumes all preceding conditional clauses as the object of confession."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, entirely",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit sarva (all); Prakrit savva → Gujarati savi.",
+      "notes": "Totalizing: 'all of that'."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person pronoun, from Sanskrit aham.",
+      "notes": "The confessing subject."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of manas (mind); here 'by means of the mind'.",
+      "notes": "First of the threefold instrument mana–vacana–kāya. (Not the dative 'to me'; context is instrumental, paired with 'karī'.)"
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental of vacana (speech), root vac- 'to speak'.",
+      "notes": "Second instrument."
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati instrumental of kāyā (body), from Sanskrit kāya.",
+      "notes": "Third instrument; completes mana–vacana–kāya."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done; by means of",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati absolutive of karavuṁ 'to do', from Sanskrit kṛ-.",
+      "notes": "Closes the instrumental phrase: 'done by mind, speech, and body'."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false, in vain (let it be)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit micchā, from Sanskrit mithyā 'false, futile'.",
+      "notes": "Part of the fixed formula micchā mi dukkaḍaṁ."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "by me / for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi, from Sanskrit me 'my, by me'.",
+      "notes": "Within the formula."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed, wrong-doing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa, from Sanskrit duṣkṛta 'ill-done deed' (dus- + kṛta).",
+      "notes": "The formula altogether: 'may my misdeed be undone/futile'."
+    }
+  ],
+  "literalTranslation": "Seven lakh earth-bodied, seven lakh water-bodied, seven lakh fire-bodied, seven lakh air-bodied; ten lakh individual plant-bodied, fourteen lakh common plant-bodied; two lakh two-sensed, two lakh three-sensed, two lakh four-sensed; four lakh celestial, four lakh infernal, four lakh five-sensed animal; fourteen lakh kinds of humans — thus, throughout the fourteen-rajju cosmos, among eighty-four lakh birth-forms of beings: whatever being I, in my life, have pained, have caused to be pained, or have approved the paining of — for all that, done by mind, speech, and body, micchā mi dukkaḍaṁ.",
+  "idiomaticTranslation": "Seven hundred thousand forms of earth-life, of water-life, of fire-life, of air-life; a million single-souled plants and fourteen hundred thousand of the soul-crowded ones; two hundred thousand each of the two-, three-, and four-sensed; four hundred thousand each among the gods, the hell-born, and the animals; and fourteen hundred thousand human births — so, across the whole fourteen-rajju universe, within all eighty-four lakh wombs of life: whatever creature, anywhere, I have hurt, have had hurt, or have stood by and approved the hurting of — for every bit of it, in thought, in word, and in deed, may my wrong be undone.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse is built as a single long inventory that resolves into a single act of contrition; its art lies in the pivot word 'evaṁkāre' ('thus reckoned'). Up to that hinge the reciter does nothing but count — class by class, ascending the ladder of the senses from one-sensed elemental and plant bodies, through the two-, three-, and four-sensed, to the five-sensed gods, hell-beings, animals, and humans. The numbers are not decorative: they are summoned precisely so that the confession that follows can be exhaustive. Once 'evaṁkāre… corāsī lakṣa jīvāyonimāṁhe' gathers all 8.4 million birth-forms into one phrase, the second movement applies a tightly engineered apology to that totality. Note the three matched verbs — duhavyo, duhavāvyo, anumodyuṁ — which are not loose synonyms but the doctrinal triad kṛta–kārita–anumodita: harm done by oneself, harm procured through another, and harm merely approved. The closing 'mane, vacane, kāyāe karī' supplies the orthogonal triad of instruments, mana–vacana–kāya. Three agencies times three instruments is the classical ninefold net of himsā; by spreading it over a complete census of life, the verse leaves no possible act of injury, against no possible creature, outside its reach. The repeated 'hoya' ('should it have been so') keeps the tone humble and hypothetical rather than self-accusatory: the reciter does not claim to have harmed all life, but refuses to assume innocence toward any of it. The final micchā mi dukkaḍaṁ then lands not as a rote tag but as the natural seal on a fully-scoped reckoning.",
+    "doctrinalContext": "The verse rests on Jain jīva-tattva: souls are graded by the number of senses they possess, and plant life uniquely divides into pratyeka (one soul per body) and sādhāraṇa/nigoda (innumerable souls in one body), the latter the most populous class. Ethically it operationalizes ahiṁsā through the 3×3 schema (kṛta-kārita-anumodita × mana-vacana-kāya) familiar from Tattvārtha-sūtra 7.8's analysis of vows: culpability extends to causing and condoning harm, not only committing it. The exhaustive enumeration enacts the principle that compassion must be co-extensive with the field of sentient life itself.",
+    "practicalRelevance": "Recited daily, the verse trains the moral imagination: by naming earth, water, fire, air, plant, and graded animal life in turn, the practitioner is forced to picture the unseen beings affected by ordinary acts — walking, cooking, consuming — and to own indirect and passive complicity, not just deliberate harm. It converts a vague wish to 'be non-violent' into a concrete, all-inclusive nightly audit sealed by micchā mi dukkaḍaṁ.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.8 — the threefold (kṛta-kārita-anumodita) and three-instrument (mana-vacana-kāya) analysis of vow-transgression",
+        "source": "Umāsvāti/Umāsvāmī, trans. on wisdomlib"
+      },
+      {
+        "text": "Tattvārtha-sūtra ch.2 — classification of jīvas by senses (ekendriya–pañcendriya) and the pratyeka/sādhāraṇa division of vegetation",
+        "source": "Umāsvāti/Umāsvāmī"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Micchami Dukkadam",
+      "url": "https://en.wikipedia.org/wiki/Micchami_Dukkadam",
+      "type": "scholarship",
+      "consultedFor": "Etymology of micchā mi dukkaḍaṁ (Prakrit) ← mithyā me duṣkṛtam (Sanskrit) and its confessional usage."
+    },
+    {
+      "title": "Tattvārtha Sūtra (Umāsvāti) — chapters 2 and 7",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra",
+      "type": "scholarship",
+      "consultedFor": "Sense-based classification of jīvas, pratyeka/sādhāraṇa plant division, and the 3×3 (agency × instrument) analysis of ahiṁsā."
+    },
+    {
+      "title": "Classifying living beings (jīva)",
+      "url": "https://www.jainpedia.org/themes/principles/living-beings-jiva/classifying-living-beings/index.html",
+      "type": "scholarship",
+      "consultedFor": "The ekendriya–pañcendriya ladder and the elemental (pṛthvī/ap/teu/vāyu) and vanaspati body classes underlying the enumeration."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots behind tokens: duṣkṛta, mithyā, anumodana, kāya, lakṣa, caturaśīti, yoni."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Per-class counts follow the source book verbatim — deva, nāraka, and tiryañca-pañcendriya each 4 lakh and manuṣya 14 lakh — summing to exactly 84 lakh (7+7+7+7+10+14+2+2+2+4+4+4+14). A widespread variant enumeration instead gives tiryañca-pañcendriya 20 lakh, nāraka 10 lakh, deva 14 lakh, manuṣya 14 lakh; that is NOT the reading recited here and has been left un-normalized. 'apkāya' follows the book (it varies with 'apūkāya' elsewhere in the same edition). 'mane' is read as the instrumental 'by mind' (paired with vacane/kāyāe karī), not the dative 'to me'. 'jiko' is a classical/old-Gujarati relative pronoun ('whoever/whatever') correlated with 'te'; modern readers may not recognize it. Tattvārtha citations are by chapter rather than to a verified deep link."
+}

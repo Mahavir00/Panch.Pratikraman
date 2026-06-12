@@ -1,0 +1,160 @@
+{
+  "shlokaId": "ashtottari-tirthmala/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Now that I have found you, my Lord — whom I never reached before — every wish-granting marvel has suddenly become easy for me to obtain.",
+  "recitation": "ajjaṁ maha cintāmaṇi, surataru suragāvi bhaddakumbhāiṁ ।\nsayalaṁ sulahaṁ jaṁ pahu, aladdhapuvvo tumaṁ laddho.",
+  "wordByWord": [
+    {
+      "token": "અજ્જં",
+      "translit": "ajjaṁ",
+      "gloss": "today, now, this very day",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit ajja from Sanskrit adya ('today'); the anusvāra is adverbial.",
+      "notes": "Picks up dhanno eso divaso ('blessed is this day') of the preceding verse — the 'today' of finding the Jina."
+    },
+    {
+      "token": "મહ",
+      "translit": "maha",
+      "gloss": "to me, for me (my)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit oblique of the first-person pronoun, from Sanskrit mama / mahyam ('my', 'to me').",
+      "notes": "Dative-genitive of personal benefit: the boon falls to the speaker."
+    },
+    {
+      "token": "ચિંતામણિ",
+      "translit": "cintāmaṇi",
+      "gloss": "the wish-fulfilling gem",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit cintā ('thought, wish') + maṇi ('jewel'); the gem that grants whatever is thought of.",
+      "notes": "First of four stock wish-bestowers listed; used freely per the preface glossary."
+    },
+    {
+      "token": "સુરતરુ",
+      "translit": "surataru",
+      "gloss": "the wish-granting (celestial) tree, kalpavṛkṣa",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sura ('god') + taru ('tree') — the divine tree that yields every desire.",
+      "notes": "Echoes bhava-maru-paha-surataru of v.7, where the Jina himself was the wish-tree."
+    },
+    {
+      "token": "સુરગાવિ",
+      "translit": "suragāvi",
+      "gloss": "the wish-granting (divine) cow, kāmadhenu",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sura ('god') + gavī / go ('cow'); the celestial cow Surabhi who fulfils all wants.",
+      "notes": "Prakrit gāvi = Sanskrit gavī, feminine 'cow'."
+    },
+    {
+      "token": "ભદ્દકુંભાઇં",
+      "translit": "bhaddakumbhāiṁ",
+      "gloss": "the auspicious treasure-pots, and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit bhadra ('auspicious') + kumbha ('pot') + -ādi ('and the rest'); Prakrit -āiṁ renders neuter plural ādīni.",
+      "notes": "The trailing -āiṁ ('and so forth') sweeps in every remaining wish-bestower beyond the three just named."
+    },
+    {
+      "token": "સયલં",
+      "translit": "sayalaṁ",
+      "gloss": "all, the whole (of them)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sayala from Sanskrit sakala ('entire, all').",
+      "notes": "Neuter singular agreeing with the collective list of marvels."
+    },
+    {
+      "token": "સુલહં",
+      "translit": "sulahaṁ",
+      "gloss": "easily obtained, within easy reach",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sulaha from Sanskrit su- ('easily') + labh ('to obtain') → sulabha.",
+      "notes": "The semantic hinge of the verse, set against aladdha-puvvo ('not obtained before')."
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "because, since (in that)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit jaṁ from Sanskrit yat — relative/causal 'which, because'.",
+      "notes": "Here causal: it supplies the reason the marvels have become easy."
+    },
+    {
+      "token": "પહુ",
+      "translit": "pahu",
+      "gloss": "O Lord (master, sovereign)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit pahu from Sanskrit prabhu ('lord, master'); vocative.",
+      "notes": "Direct address to the Jina, the 'you' attained in the next clause."
+    },
+    {
+      "token": "અલદ્ધ",
+      "translit": "aladdha",
+      "gloss": "not (previously) obtained",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit a- (negative) + labdha ('obtained', past participle of labh).",
+      "notes": "Forms the compound aladdha-puvvo with the next token."
+    },
+    {
+      "token": "પુવ્વો",
+      "translit": "puvvo",
+      "gloss": "before, earlier (hitherto)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit puvva from Sanskrit pūrva ('former, prior'); masculine nominative -o agreeing with tumaṁ.",
+      "notes": "aladdha-puvvo = 'never attained until now', stressing the rarity of meeting a Jina."
+    },
+    {
+      "token": "તુમં",
+      "translit": "tumaṁ",
+      "gloss": "you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tumaṁ from Sanskrit tvam ('you'); here the object of laddho.",
+      "notes": "The Jina addressed as pahu is the very 'you' now obtained."
+    },
+    {
+      "token": "લદ્ધો",
+      "translit": "laddho",
+      "gloss": "(has been) obtained, found",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit laddha from Sanskrit labdha, past participle of labh ('to attain'); masculine nominative -o.",
+      "notes": "Passive-participle predicate: 'you, never-before-attained, are now attained (by me)'."
+    }
+  ],
+  "literalTranslation": "Today, for me, the wish-gem, the wish-tree, the wish-cow, the auspicious treasure-pots and the rest — all are easily obtained; because, O Lord, you who were never obtained before have (now) been obtained.",
+  "idiomaticTranslation": "This day the wish-gem, the heavenly wish-tree, the wish-granting cow, the auspicious treasure-vases — every fabled bestower of desires — lie easily within my grasp; for O Lord, you who could never be reached before, you yourself are now mine.",
+  "elaboration": {
+    "verseByVerseCommentary": "Verse 7 declared the day blessed because the Jina, 'wish-tree on the desert-track of rebirth', was reached (patto). This verse draws the consequence. It heaps up the four classic bestowers of every desire — cintāmaṇi (gem), suratarū (kalpa-tree), suragāvi (kāmadhenu) and the bhadra-kumbha treasure-vases — and then, with the open-ended -āiṁ ('and the rest'), folds in all the others. The claim is deliberately extravagant: sayalaṁ sulahaṁ, 'all of it is now easy'. The reason follows in the second line, hinged on jaṁ ('because'): aladdha-puvvo tumaṁ laddho — 'you, never attained before, are now attained'. The rhetorical move is one of surpassing. The wish-granters of legend give only material desires and only while merit lasts; the Jina, harder to meet than any of them, is the source from which their every benefit (and infinitely more) flows. Once the supreme boon is in hand, the lesser boons are trivial — like a man who, having gained the ocean, no longer counts raindrops. The single word aladdha-puvvo carries the doctrinal weight: across beginningless saṁsāra the soul has never before encountered a living Jina, so this 'today' is not one day among many but a turning-point of incalculable rarity. The verse thus converts the opening's pilgrimage-joy into a precise spiritual economics — the Jina as the wish-fulfiller who renders all other wish-fulfillers redundant.",
+    "doctrinalContext": "The verse rests on the Jain teaching of the extreme rarity (durlabha) of the requisites of liberation — human birth, hearing the dharma, and above all meeting a Tīrthaṅkara — and on the principle that worldly boons (bhoga) are spiritually inferior to the boon of the Jina, who gives not transient gratification but the means to end rebirth. By ranking the Jina above cintāmaṇi, kalpavṛkṣa and kāmadhenu, it reframes devotion away from petitioning for desires toward valuing the Jina precisely because he transcends desire. The aṣṭa-maṅgala motif of the bhadra-kumbha grounds the imagery in standard Jain auspicious symbolism.",
+    "practicalRelevance": "Recited at the start of the hymn's pilgrimage, the verse trains the worshipper's intention: approach the Jina not as a wish-granting machine for worldly gains but as the one attainment beside which all gains pale. Saying aladdha-puvvo today, the reciter renews wonder that, after endless lifetimes, this meeting has finally come — and resolves not to squander it on lesser requests.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse (v.7): 'dhanno eso divaso… bhava-maru-paha-surataru patto' — the Jina reached as the wish-tree, which this verse develops.",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed. (Pañca Pratikramaṇa Sūtra — Vidhi Sahit)"
+      },
+      {
+        "text": "Bhadra-kumbha (auspicious full vase) as one of the eight auspicious symbols (aṣṭa-maṅgala) in Jain iconography.",
+        "source": "Standard Śvetāmbara aṣṭa-maṅgala tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-Sadda-Mahaṇṇavo (Prakrit–Hindi Dictionary of H. D. Sheth), English translation project, ISJS",
+      "url": "https://prakritdictionary.isjs.in/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for ajja (adya), sulaha (sulabha), laddha (labdha), sayala (sakala), puvva (pūrva), gāvi (gavī)"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymons cintāmaṇi, suratarū/kalpataru, kāmadhenu/surabhi, bhadra, kumbha, prabhu, labh"
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://www.jainqq.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim source text of the verse and its neighbouring verses; verification of orthography"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "bhaddakumbhāiṁ is read as bhadra-kumbha + -ādi ('and the like'), the -āiṁ being the Prakrit neuter-plural 'ādīni'; an alternative reading takes -āiṁ as a simple plural ('auspicious pots'), without materially changing the sense. maha is taken as the first-person oblique ('to/for me'); a minority parsing as the imperative 'maha' ('honour!') is possible but does not fit the syntax of sayalaṁ sulahaṁ. The exact extent of the implied 'and the rest' list is interpretive. Glosses verified against the cited dictionaries; the source-edition URL points to the corpus host rather than a page-level anchor."
+}

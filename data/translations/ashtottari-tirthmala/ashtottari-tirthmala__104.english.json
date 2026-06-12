@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/104",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In Tribhuvanagiri, Gwalior, Kashi, Avanti, Mewar and other lands, we praise the Jina — whether those places are ones we have seen or not, heard of or not.",
+  "recitation": "tihuaṇagiri govagiri kāsī avaṃti mevāḍa māïsu, desesu jiṇo thuṇimo, diḍhe adiḍhe sue asue.",
+  "wordByWord": [
+    {
+      "token": "તિહુઅણગિરિ",
+      "translit": "tihuaṇagiri",
+      "gloss": "Tribhuvanagiri (the hill-fort tīrtha, mod. Tahangarh)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tihuaṇa (< Sanskrit tribhuvana, 'three worlds') + giri ('mountain, hill'); a place-name 'three-world hill'.",
+      "notes": "Identified with the medieval Tahangarh fortress-tīrtha (Karauli region), developed by the Kachchhapaghāta king Tribhuvanapāla."
+    },
+    {
+      "token": "ગોવગિરિ",
+      "translit": "govagiri",
+      "gloss": "Gopagiri (mod. Gopāchal / Gwalior)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gova (< Sanskrit gopa, 'cowherd') + giri ('hill'); the 'cowherd's hill', classical name of the Gwalior cliff.",
+      "notes": "The Gopāchal cliffs of Gwalior, famed for colossal rock-cut Jina images."
+    },
+    {
+      "token": "કાશી",
+      "translit": "kāsī",
+      "gloss": "Kāśī (Varanasi)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Kāśī, the city of Varanasi; here invoked as a Jain holy region.",
+      "notes": "Birth-region of Tīrthaṅkaras Supārśva (7th) and Pārśva (23rd), hence a Jina-tīrtha."
+    },
+    {
+      "token": "અવંતિ",
+      "translit": "avaṃti",
+      "gloss": "Avanti (the Ujjayinī region)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit Avantī, the ancient janapada around Ujjain; here the land of the Avantī Pārśvanātha.",
+      "notes": "Standard pairing of region with its renowned Pārśva shrine."
+    },
+    {
+      "token": "મેવાડ",
+      "translit": "mevāḍa",
+      "gloss": "Mewar (Medapāṭa)",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa mevāḍa < Sanskrit Medapāṭa; the Mewar country of southern Rajasthan.",
+      "notes": "A region dense with Jain temple-towns (e.g. Nāgahrada/Nagda) in the poet's medieval geography."
+    },
+    {
+      "token": "માઇસુ",
+      "translit": "māïsu",
+      "gloss": "and in others (et cetera)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit reflex of Sanskrit ādiṣu, locative plural of ādi ('beginning; and the rest'); the 'etc.' closing an enumeration.",
+      "notes": "Construes with desesu — 'in [these] and the other lands'; signals the list is not exhaustive."
+    },
+    {
+      "token": "દેસેસુ",
+      "translit": "desesu",
+      "gloss": "in the lands / regions",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit desa (< Sanskrit deśa, 'country, region') + locative plural -esu (< Skt -eṣu).",
+      "notes": "Locative governing the whole place-name list of vv.102–104."
+    },
+    {
+      "token": "જિણો",
+      "translit": "jiṇo",
+      "gloss": "the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa (< Sanskrit jina, 'conqueror'), the awakened one; here as object of 'we praise' (Apabhraṁśa nom./acc. -o).",
+      "notes": "Singular standing collectively for the Jina enshrined at every named site."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise / we extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇa- (< Sanskrit root stu, 'to praise') + 1st-person plural present -imo; = Sanskrit stunmaḥ.",
+      "notes": "The verse's single governing verb of homage, sustaining the hymn's continuous act of reverence."
+    },
+    {
+      "token": "દિઢે",
+      "translit": "diḍhe",
+      "gloss": "[in places] seen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit diṭṭha/diḍha (< Sanskrit dṛṣṭa, past participle of dṛś, 'to see'), locative.",
+      "notes": "First member of the seen/unseen–heard/unheard merism extending the homage."
+    },
+    {
+      "token": "અદિઢે",
+      "translit": "adiḍhe",
+      "gloss": "[in places] unseen",
+      "partOfSpeech": "adj",
+      "etymology": "Privative a- + diḍha (< adṛṣṭa, 'not seen'), locative.",
+      "notes": "Pairs with diḍhe."
+    },
+    {
+      "token": "સુએ",
+      "translit": "sue",
+      "gloss": "[in places] heard of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit suya (< Sanskrit śruta, past participle of śru, 'to hear'), locative.",
+      "notes": "'Known by report' even if never visited."
+    },
+    {
+      "token": "અસુએ",
+      "translit": "asue",
+      "gloss": "[in places] not even heard of",
+      "partOfSpeech": "adj",
+      "etymology": "Privative a- + suya (< aśruta, 'not heard'), locative.",
+      "notes": "Seals the merism, pushing the homage to the wholly unknown."
+    }
+  ],
+  "literalTranslation": "In Tribhuvanagiri, Gopagiri, Kāśī, Avanti, Mewar and other regions — in lands seen and unseen, heard of and unheard of — we praise the Jina.",
+  "idiomaticTranslation": "At Tribhuvanagiri and Gopagiri, in Kāśī, Avanti, Mewar and every other land — those we have seen and those we never shall, those we have heard named and those whose names we shall never hear — there we praise the Jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the final couplet of the great geographic roll-call. After the previous verse swept across Gujarat, Malwa, Konkan, Saurashtra, Kutch, Panchal, Mathura and Hastinapur, the poet names a last clutch of northern and central sites — Tribhuvanagiri (the Tahangarh hill-fort), Gopagiri (the image-covered Gwalior cliff), Kāśī (region of Supārśva and Pārśva), Avanti (home of the celebrated Avantī Pārśva) and Mewar — and then, with a single word, māïsu ('and the rest'), confesses that the list could never end. The decisive move is the second line. Having spent dozens of verses naming places one can point to on a map, the poet now folds the unnameable into the same act of praise: diḍhe adiḍhe sue asue — 'seen and unseen, heard and unheard.' The one governing verb, thuṇimo ('we praise'), reaches past every catalogue. The grammar is deliberately open: the locatives 'seen/unseen, heard/unheard' attach most naturally to the lands (we bow at sites we know and at sites we never shall), yet they shade equally onto the Jina himself, who is worshipped whether his image there is one we have beheld or only imagined. This is the hinge on which the whole hymn turns from particular geography (vv.41–104) back to the universal homage that follows (vv.105–110): the roll-call admits its own incompleteness and converts that incompleteness into a wider vow of reverence.",
+    "doctrinalContext": "The seen/unseen–heard/unheard merism is a standard Jain device for totalizing an act of devotion, the same logic that lets the worshipper in the Jaṁ Kiṁ Ci formula bow to 'whatever tīrtha there is in heaven, on earth, or in the nether world.' Doctrinally it rests on the primacy of bhāva (inner intention) over dravya (physical contact): the merit of vandana does not depend on the body standing before a particular image, so a Jina venerated at a shrine one will never see or hear of is venerated no less truly. It also quietly invokes the comprehensiveness of the eternal (śāśvata) shrines, which lie beyond all human sight and report, yet remain proper objects of praise.",
+    "practicalRelevance": "Reciting this couplet, a worshipper closes the verbal pilgrimage with an honest admission — 'I cannot name them all' — and turns that limit into devotion, mentally bowing to every Jina-shrine on earth, including the countless ones they will never visit or even hear named. It trains the intention to reach where the feet and the memory cannot.",
+    "crossReferences": [
+      {
+        "text": "Jaṁ Kiṁ Ci Nāma Titthaṁ — homage to every tīrtha in the three worlds",
+        "source": "Caityavandana sūtra, Pañca Pratikramaṇa Sūtra (Vidhipaksha ed.)"
+      },
+      {
+        "text": "Logassa: 'kittiya vandiya mahiyā' — praising the Tīrthaṅkaras collectively",
+        "source": "Logassa sūtra (Caturviṁśati-stava)"
+      },
+      {
+        "text": "vv.105–106 of this hymn — homage to all images across Jambūdvīpa, Dhātakīkhaṇḍa and Puṣkarārdha, seen or unseen",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Gopachal rock-cut Jain monuments",
+      "url": "https://en.wikipedia.org/wiki/Gopachal_rock-cut_Jain_monuments",
+      "type": "scholarship",
+      "consultedFor": "Identification of Govagiri/Gopagiri with the Gopāchal (Gwalior) Jain cliff tīrtha"
+    },
+    {
+      "title": "Tahangarh",
+      "url": "https://en.wikipedia.org/wiki/Tahangarh",
+      "type": "scholarship",
+      "consultedFor": "Identification of Tihuaṇagiri/Tribhuvanagiri with the Tahangarh hill-fort and its Tribhuvanapāla association"
+    },
+    {
+      "title": "Suparshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Suparshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Kāśī/Varanasi as birth-region of Tīrthaṅkaras Supārśva and Pārśva, grounding its place in the list"
+    },
+    {
+      "title": "Mewar",
+      "url": "https://en.wikipedia.org/wiki/Mewar",
+      "type": "scholarship",
+      "consultedFor": "Mevāḍa = Medapāṭa region of Rajasthan as the named land"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots stu (thuṇimo), dṛṣṭa/śruta (diḍhe/sue), ādi (māïsu) underlying the Prakrit forms"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Place-name identifications follow standard western-Indian medieval sacred geography: Govagiri = Gopāchal/Gwalior and Tihuaṇagiri = Tribhuvanagiri/Tahangarh are secure; Kāśī, Avanti and Mevāḍa are named as regions, their specific shrines (Supārśva/Pārśva at Kāśī, Avantī Pārśva at Ujjain) supplied from tradition, not stated in the verse. The locatives diḍhe/adiḍhe/sue/asue are grammatically ambiguous between modifying the lands (desesu) and the Jina (jiṇo); both readings are reverentially intended and the translation keeps the ambiguity. thuṇimo is read as 1st-person plural ('we praise') per the -mo ending and the hymn's collective voice. Orthography (e.g. દિઢે, માઇસુ) is left verbatim per the source book; other editions may read diṭṭhe/adiṭṭhe."
+}

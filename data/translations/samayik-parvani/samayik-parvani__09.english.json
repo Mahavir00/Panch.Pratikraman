@@ -1,0 +1,294 @@
+{
+  "shlokaId": "samayik-parvani/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "If I have ever disrespected anything tied to sacred learning — my writing-slate, book, book-stand, rosary, paper, or the guru's seat — or touched such things with my foot, may all that wrong, done by mind, speech, or body, be undone.",
+  "recitation": "pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, kāgaḷe paga lagāḍyo hoya, gurune āsane, besaṇe, upagaraṇe paga lagāḍyo hoya, jñānadravyataṇī āśātanā thaï hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "પાટી",
+      "translit": "pāṭī",
+      "gloss": "writing-board / wooden study-slate",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. paṭṭa / paṭṭikā 'plank, tablet', via Prakrit paṭṭī.",
+      "notes": "The wooden slate on which letters and verses are learned; first of the knowledge-implements (jñāna-upakaraṇa)."
+    },
+    {
+      "token": "પોથી",
+      "translit": "pothī",
+      "gloss": "manuscript / sacred book",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. pustaka / pustikā 'book', via Prakrit potthī.",
+      "notes": ""
+    },
+    {
+      "token": "કવલી",
+      "translit": "kavalī",
+      "gloss": "the cloth wrapper / clasp-boards that bind a manuscript",
+      "partOfSpeech": "noun",
+      "etymology": "Regional Gujarati Jain term; likely related to the wrapping (kambalī / kapaḍā) or the binding-boards (kambikā) of a pothī.",
+      "notes": "Exact referent varies by region; rendered here as the manuscript's wrapping/clasp. Flagged as uncertain in notes."
+    },
+    {
+      "token": "ઠવણી",
+      "translit": "ṭhavaṇī",
+      "gloss": "book-stand / X-shaped folding rest (sthāpanī)",
+      "partOfSpeech": "noun",
+      "etymology": "From Skt. sthāpanā 'a placing, setting', via Prakrit ṭhavaṇā — 'that on which a thing is set'.",
+      "notes": "The wooden stand on which a pothī (or the sthāpanācārya) is rested, off the ground."
+    },
+    {
+      "token": "નોકારવાલી",
+      "translit": "nokāravālī",
+      "gloss": "rosary for the Navkār (japa-mālā)",
+      "partOfSpeech": "noun",
+      "etymology": "navakāra (the Namaskāra/Navkār mantra) + vālī ('string, garland'); cf. Skt. mālā.",
+      "notes": "The counting-beads used while reciting the Navkār Mahāmantra."
+    },
+    {
+      "token": "કાગળે",
+      "translit": "kāgaḷe",
+      "gloss": "on paper",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kāgaḷ 'paper' (ult. from Persian/Arabic kāġaḏ) + locative -e.",
+      "notes": "Locative; governs the following 'foot touched'."
+    },
+    {
+      "token": "પગ",
+      "translit": "paga",
+      "gloss": "foot",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāda → Prakrit paya → Guj. paga.",
+      "notes": "Touching the sacred with the foot is the gravest physical irreverence in this idiom."
+    },
+    {
+      "token": "લગાડ્યો",
+      "translit": "lagāḍyo",
+      "gloss": "(if a foot) was made to touch / was set",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of Guj. lāgvuṁ 'to touch, adhere' (cf. Skt. lag-).",
+      "notes": "Past-participle agreeing with masc. paga; the whole clause is conditional with hoya."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been / if it be (so)",
+      "partOfSpeech": "verb",
+      "etymology": "Optative/subjunctive of Guj. hovuṁ 'to be' (Skt. bhū).",
+      "notes": "Sets each clause as a contingent confession: 'if such a thing has happened…'."
+    },
+    {
+      "token": "ગુરુને",
+      "translit": "gurune",
+      "gloss": "of / belonging to the guru",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. guru + Guj. dative/genitive postposition -ne.",
+      "notes": "Modifies āsane and besaṇe that follow."
+    },
+    {
+      "token": "આસને",
+      "translit": "āsane",
+      "gloss": "on the seat",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. āsana 'seat' + locative -e.",
+      "notes": ""
+    },
+    {
+      "token": "બેસણે",
+      "translit": "besaṇe",
+      "gloss": "on the sitting-mat / cushion",
+      "partOfSpeech": "noun",
+      "etymology": "From Guj. besvuṁ 'to sit' (Skt. upaviś-); besaṇu 'a seat to sit on' + locative -e.",
+      "notes": "Paired with āsane; the guru's place of sitting."
+    },
+    {
+      "token": "ઉપગરણે",
+      "translit": "upagaraṇe",
+      "gloss": "on the (religious) implements",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upakaraṇa 'instrument, requisite' (here the ascetic/ritual requisites) + locative -e.",
+      "notes": "The whole apparatus of practice — broom (oghā), mouth-cloth, etc."
+    },
+    {
+      "token": "પગ",
+      "translit": "paga",
+      "gloss": "foot",
+      "partOfSpeech": "noun",
+      "etymology": "See above; repeated in the parallel clause.",
+      "notes": "Deliberate refrain-like repetition with the previous clause."
+    },
+    {
+      "token": "લગાડ્યો",
+      "translit": "lagāḍyo",
+      "gloss": "(if a foot) was set / touched",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઞાનદ્રવ્યતણી",
+      "translit": "jñānadravyataṇī",
+      "gloss": "of the knowledge-endowment (jñāna-dravya)",
+      "partOfSpeech": "compound",
+      "etymology": "jñāna 'knowledge' + dravya 'substance/funds/materials' + old Guj. genitive postposition taṇī 'of' (cf. Skt. tanaya / taṇaya construction).",
+      "notes": "jñāna-dravya = materials, books, and funds consecrated to sacred learning; the taṇī marks possession of the āśātanā that follows."
+    },
+    {
+      "token": "આશાતના",
+      "translit": "āśātanā",
+      "gloss": "disrespect / irreverence (āśātanā)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ā-√śat 'to cut, diminish'; Prakrit āsāyaṇā — 'destruction of (the object's due) advantage', hence sacrilege.",
+      "notes": "Glossed in the preface; here applied specifically to jñāna-dravya."
+    },
+    {
+      "token": "થઇ",
+      "translit": "thaï",
+      "gloss": "has occurred / been done",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. thavuṁ 'to become, happen' (Skt. sthā / bhū); absolutive-perfect thaï.",
+      "notes": "Pairs with hoya to keep the confession contingent."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tad → Guj. te.",
+      "notes": "Resumptive — gathers up every fault just listed."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sarva → Prakrit savva → Apabhraṁśa/old-Guj. savi.",
+      "notes": "'all (of it)' — the totality of confessed lapses."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. aham → Prakrit haṁ → Guj. huṁ.",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. manas 'mind' + instrumental -e.",
+      "notes": "Read as instrumental 'by mind' (mana-e), first of the threefold mind–speech–body; not the homographic dative 'to me'."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vacana 'speech' + instrumental -e.",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kāya 'body' + instrumental -e.",
+      "notes": "Completes the standard mana–vacana–kāya triad of agency."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √kṛ 'to do'; absolutive karī.",
+      "notes": "Binds the threefold instruments to the act being retracted."
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false / void, in vain",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. mithyā → Prakrit micchā.",
+      "notes": "Part of the retraction formula (glossed in preface)."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my / let it be",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit me / mi 'my' (Skt. me).",
+      "notes": "Enclitic within the fixed formula."
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. duṣkṛta 'ill-done deed' → Prakrit dukkaḍa.",
+      "notes": "Completes micchā mi dukkaḍaṁ — 'may my misdeed be undone'."
+    }
+  ],
+  "literalTranslation": "Slate, book, manuscript-wrapper, book-stand, Navkār-rosary, on paper — if a foot has been set; on the guru's seat, on the sitting-mat, on the implements — if a foot has been set; if any disrespect to the knowledge-endowment has occurred — all that I, by mind, by speech, by body having done — may my misdeed be undone.",
+  "idiomaticTranslation": "My writing-slate, my book, its wrapper, the book-stand, the rosary, the very paper — if my foot has carelessly touched any of them; the guru's seat or cushion, the sacred implements — if my foot has touched these; or if in any way I have shown irreverence to whatever is endowed to sacred knowledge: for all of it, committed by mind, by speech, or by body, may my misdeed be undone — micchā mi dukkaḍaṁ.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding item confessed any lapse of procedure in keeping the vow at large, this item narrows the lens to a single, vivid category: irreverence toward the physical furniture of learning. The verse does not argue; it enumerates — pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, kāgaḷ — walking the reciter's eye across the very objects within arm's reach during sāmāyika. The recurring clause 'paga lagāḍyo hoya' ('if a foot was set on them') is the heart of the verse. In the ritual grammar of the tradition the foot is the lowest, most polluting point of contact; to let it touch a scripture, a rosary, or the guru's seat is the paradigm act of āśātanā. The verse states the offence twice — once for the knowledge-objects, once for the guru's seat, cushion, and implements — so that the body's most habitual carelessness is named before it is renounced. The list then widens from particular objects to the abstract whole, 'jñānadravyataṇī āśātanā' — any disrespect at all to that which is consecrated to knowledge — catching whatever the enumeration missed. Only then does the verse resolve into the familiar triadic seal: te savi… mane, vacane, kāyāe karī micchā mi dukkaḍaṁ. Notice that a fault which is overwhelmingly bodily (a misplaced foot) is still retracted through all three doors of action, because even a physical lapse carries its mental negligence and its verbal consequences. The contingent hoya / thaï hoya throughout keeps the tone scrupulous rather than self-accusing: the reciter does not claim to have sinned, but refuses to let any unnoticed irreverence pass unretracted as the sāmāyika closes.",
+    "doctrinalContext": "The verse is an exercise in jñānācāra, the first of the five-fold conduct (pañcācāra). Of its eight limbs, two — vinaya (reverence) and bahumāna (esteem) — bear directly here: knowledge is honoured not only in the abstract but in its material vehicles, so that careless contact with a book or stand is treated as injury to right conduct itself and a cause of jñānāvaraṇīya (knowledge-obscuring) karma. The naming of 'jñāna-dravya' extends this from objects one owns to endowments held in trust — books, funds, and materials dedicated to the spread of learning — whose misuse the tradition regards with special gravity. By retracting such lapses through mind, speech, and body, the verse applies the equanimity just cultivated in sāmāyika to one's posture toward knowledge: reverence becomes the outward face of the inward balance.",
+    "practicalRelevance": "Practically, the verse trains a habit: keep scriptures, the rosary, and the stand off the bare floor; never step over or point a foot at them; handle a borrowed pothī or community knowledge-funds with scruple. As the sāmāyika ends, the reciter mentally scans the session for any such carelessness and lets it go with micchā mi dukkaḍaṁ — turning a small physical reflex into an act of reverence.",
+    "crossReferences": [
+      {
+        "text": "The eight limbs of jñānācāra (kāla, vinaya, bahumāna, upadhāna, anihnava, vyañjana, artha, tadubhaya), against which jñāna-āśātanā is confessed",
+        "source": "Āvaśyaka tradition; cf. the jñāna-atichāra portion of the Atichāra recitation"
+      },
+      {
+        "text": "Āśātanā as 'public censure' typified by a sacred image 'trampled underfoot'",
+        "source": "Vividhatīrthakalpa of Jinaprabhasūri (13th c.), in OpenEdition Books"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Āśātanā — Jainpedia Glossary",
+      "url": "https://jainpedia.org/glossary/asatana/",
+      "type": "dictionary",
+      "consultedFor": "Definition of āśātanā as disrespect/sacrilege toward what is owed reverence (teachers, scriptures, images)."
+    },
+    {
+      "title": "Ashatana, Aśātanā: 5 definitions — Wisdom Library",
+      "url": "https://www.wisdomlib.org/definition/ashatana",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit/Prakrit form (Āsāyaṇā), 'destruction of advantage', and the 'trampled underfoot' sense directly relevant to 'paga lagāḍyo'."
+    },
+    {
+      "title": "Glossary of Jaina Terms (Romanized), comp. N. L. Jain — jainqq.org",
+      "url": "https://jainqq.org/booktext/Glossary_of_Jaina_Terms_Romanized/011006",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking romanized glosses for āśātanā and related conduct terms."
+    },
+    {
+      "title": "Vividhatīrthakalpaḥ (Kāvya) — OpenEdition Books (IFP)",
+      "url": "https://books.openedition.org/ifp/5802",
+      "type": "scholarship",
+      "consultedFor": "Attestation of āśātanā/āsāyaṇā as 'offense, censure' exemplified by trampling a sacred object underfoot."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse is Sūtra item (2), the jñāna-dravya āśātanā confession. 'કવલી' (kavalī) is the least certain token: in regional Anchalgachchha usage it most plausibly denotes the cloth wrapper or clasp-boards binding a manuscript, but other readings (a small text-case) circulate — rendered conservatively and flagged. 'મને' is parsed as the instrumental 'by mind' (mana-e), matching the mana–vacana–kāya triad, not the homographic dative 'to me'. Orthography is preserved verbatim per book fidelity rules (e.g. નોકારવાલી, ઉપગરણે, જ્ઞાનદ્રવ્યતણી with old-Gujarati genitive -taṇī). Cited URLs are general lexical/scholarly references; none is a critical edition of this specific gāthā, so external numbering and exact wording should be treated as approximate."
+}

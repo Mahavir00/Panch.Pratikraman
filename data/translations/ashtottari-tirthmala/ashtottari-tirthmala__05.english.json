@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/05",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Hail to the Jina — the boat that ferries souls across the ocean of karma, the casket that holds the jewels of virtue, the rampart that blocks desire's cruel arrows, and the grove where the minds of sages blossom.",
+  "recitation": "jaya kammajalahi tāraṇa taraṇḍa, guṇarayaṇa dhāraṇa karaṇḍa; jaya visama-bāṇa vāraṇa varaṇḍa, muṇi sumaṇa vaṇasaṇḍa.",
+  "wordByWord": [
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail! / victory (be) to (you)",
+      "partOfSpeech": "invocation",
+      "etymology": "From Skt. root √ji 'to conquer'; jaya = 'victory', here a vocative acclamation 'hail!'",
+      "notes": "Opens both lines; the recurring acclamation that carries the doxology forward."
+    },
+    {
+      "token": "કમ્મજલહિ",
+      "translit": "kamma-jalahi",
+      "gloss": "of the ocean of karma",
+      "partOfSpeech": "compound",
+      "etymology": "kamma (Skt. karman, 'karma') + jalahi (Skt. jaladhi, 'water-holder, ocean')",
+      "notes": "The first member of the larger compound kammajalahi-tāraṇa-taraṇḍa; specifies the karma-ocean as what is crossed."
+    },
+    {
+      "token": "તારણ",
+      "translit": "tāraṇa",
+      "gloss": "carrying across, ferrying, delivering",
+      "partOfSpeech": "adj",
+      "etymology": "Causative of Skt. √tṛ 'to cross'; tāraṇa = 'causing to cross over'",
+      "notes": "Verbal-noun forming the alliterative pair tāraṇa–taraṇḍa."
+    },
+    {
+      "token": "તરંડ",
+      "translit": "taraṇḍa",
+      "gloss": "raft, boat",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. taraṇḍa, 'float, raft', from √tṛ 'to cross'",
+      "notes": "First of the four rhyming -aṇḍa nouns (taraṇḍa / karaṇḍa / varaṇḍa / -saṇḍa)."
+    },
+    {
+      "token": "ગુણરયણ",
+      "translit": "guṇa-rayaṇa",
+      "gloss": "the jewels of virtues",
+      "partOfSpeech": "compound",
+      "etymology": "guṇa ('quality, virtue') + rayaṇa (Skt. ratna, 'jewel')",
+      "notes": "Object held by the casket; rayaṇa is the Prakrit form of ratna."
+    },
+    {
+      "token": "ધારણ",
+      "translit": "dhāraṇa",
+      "gloss": "holding, bearing, containing",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. √dhṛ 'to hold'; dhāraṇa = 'that which holds'",
+      "notes": "Pairs alliteratively with dhāraṇa–karaṇḍa."
+    },
+    {
+      "token": "કરંડ",
+      "translit": "karaṇḍa",
+      "gloss": "casket, jewel-box, basket",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. karaṇḍa, 'casket, basket' (esp. for jewels or relics)",
+      "notes": "Second -aṇḍa rhyme; the treasure-chest of the Jina's qualities."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail! / victory (be) to (you)",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. √ji 'to conquer'; vocative acclamation",
+      "notes": "Repetition opening the second line, parallel to line one."
+    },
+    {
+      "token": "વિસમબાણ",
+      "translit": "visama-bāṇa",
+      "gloss": "the cruel / uneven arrows (of desire, i.e. Kāma)",
+      "partOfSpeech": "compound",
+      "etymology": "visama (Skt. viṣama, 'uneven, cruel, treacherous') + bāṇa ('arrow')",
+      "notes": "Idiom for the five arrows of Kāma/Anaṅga (the god of desire); 'visama-bāṇa' is itself a poetic name of Kāma."
+    },
+    {
+      "token": "વારણ",
+      "translit": "vāraṇa",
+      "gloss": "warding off, repelling, blocking",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. √vṛ 'to cover, ward off'; vāraṇa = 'obstruction, defence'",
+      "notes": "Alliterative pair vāraṇa–varaṇḍa; not here the homonym 'elephant'."
+    },
+    {
+      "token": "વરંડ",
+      "translit": "varaṇḍa",
+      "gloss": "rampart, parapet, protecting wall",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pkt. varaṇḍa, 'low boundary-wall, parapet, enclosing rampart'",
+      "notes": "Third -aṇḍa rhyme; the defensive wall that intercepts desire's arrows."
+    },
+    {
+      "token": "મુણિ",
+      "translit": "muṇi",
+      "gloss": "of the sages / munis",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. muṇi = Skt. muni, 'silent sage, ascetic'",
+      "notes": "First member of the final compound muṇi-sumaṇa-vaṇasaṇḍa."
+    },
+    {
+      "token": "સુમણ",
+      "translit": "sumaṇa",
+      "gloss": "flowers / good (pure) minds",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sumanas, lit. 'good-minded'; by metaphor also 'flower'",
+      "notes": "Deliberate double sense: the munis' 'good minds' which are also the 'flowers' blooming in the grove."
+    },
+    {
+      "token": "વણસંડ",
+      "translit": "vaṇa-saṇḍa",
+      "gloss": "grove, forest-cluster, pleasure-wood",
+      "partOfSpeech": "noun",
+      "etymology": "vaṇa (Skt. vana, 'wood') + saṇḍa (Skt. ṣaṇḍa, 'cluster, thicket')",
+      "notes": "Fourth and final -aṇḍa rhyme, completing the ornamental chain."
+    }
+  ],
+  "literalTranslation": "Hail, the raft that ferries (one) across the ocean of karma; the casket that holds the jewels of virtues. Hail, the rampart that wards off the cruel arrows (of desire); the grove of the sages' flower-minds.",
+  "idiomaticTranslation": "Victory to you, O Jina! You are the raft that carries us across the heaving ocean of karma, and the jewel-casket in which every virtue is treasured. Victory to you — the rampart that turns aside the cruel arrows of desire, and the blossoming grove in which the pure minds of the sages flower.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse caps the opening acclamation (the jaya jaya of the previous gāthā) with a tightly wrought quatrain of four metaphors, each an epithet hailed by jaya. Its artistry is sonic as much as semantic: four chiming -aṇḍa nouns — taraṇḍa (raft), karaṇḍa (casket), varaṇḍa (rampart), vaṇa-saṇḍa (grove) — are each yoked to an alliterating verbal adjective — tāraṇa, dhāraṇa, vāraṇa — so the line almost rhymes against itself, a hallmark of Apabhraṃśa-coloured praise verse. The four images sketch four offices of the Jina. (1) As the raft on the karma-ocean he delivers; (2) as the jewel-casket he conserves — every guṇa is treasured in him; (3) as the rampart he defends, intercepting the 'cruel arrows' (visama-bāṇa) which name the shafts of Kāma, the god of desire; (4) as the flower-grove he gladdens — a garden where the munis' minds, themselves the 'flowers' (sumaṇa = sumanas), come into bloom. The progression is deliberate: deliverance, then accumulation of virtue, then protection from the passions that would undo it, and finally the serene flourishing of the contemplative mind. The verse thus moves from crossing-out (saṃsāra) to settling-in (the grove of realised sages), preparing the turn in the next gāthā ('dhanno'haṁ puṇṇo'haṁ') where the worshipper rejoices in his own blessedness.",
+    "doctrinalContext": "The four epithets quietly encode core soteriology. The raft restates the tīrtha as crossing-means, but specifies the water as kamma-jalahi — the ocean is karma itself, the very bondage pratikramaṇa exists to thin. The 'jewels of virtues' evoke the cumulative perfections of the Jina and, for the practitioner, the ratnatraya (right faith, knowledge, conduct). The rampart against the 'cruel arrows' is the most pointed: a Jina is by definition the conqueror of rāga; here he is praised as the one who shields the devotee from Kāma's five shafts — desire being the engine of karmic influx (āsrava). The closing grove-image affirms that where passion is warded off, the muni's mind does not merely survive but blossoms — equanimity as flowering, not deprivation.",
+    "practicalRelevance": "Chanted in the Pakkhī confession, the verse lets the reciter take fourfold refuge in one breath: as he names the raft he asks to be carried over his own accumulated karma; as he names the rampart he asks shelter from the desires whose transgressions he is about to confess. It reframes restraint not as loss but as a garden coming into bloom.",
+    "crossReferences": [
+      {
+        "text": "Logassa — praise of the 24 Tīrthaṅkaras as 'tittha-yarā me pasīyantu' (ford-makers, be gracious)",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Bhaktāmara Stotra — the Jina praised as a vessel/refuge carrying devotees across the bhava-sāgara",
+        "source": "Mānatuṅga Sūri, Bhaktāmara Stotra (traditional)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Taraṇḍa — Sanskrit/Prakrit/Jainism dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/taranda",
+      "type": "dictionary",
+      "consultedFor": "Confirming taraṇḍa = 'raft, float' and its Prakrit/Jain attestation"
+    },
+    {
+      "title": "Varaṇḍa — Sanskrit/Prakrit/Jainism dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/varanda",
+      "type": "dictionary",
+      "consultedFor": "Confirming varaṇḍa = 'parapet, low boundary/enclosing wall, rampart' (not the desire-sense)"
+    },
+    {
+      "title": "Karaṇḍa — Sanskrit/Prakrit dictionary entry",
+      "url": "https://www.wisdomlib.org/definition/karanda",
+      "type": "dictionary",
+      "consultedFor": "Confirming karaṇḍa = 'casket, jewel-box, basket'"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots √tṛ (tāraṇa), √dhṛ (dhāraṇa), √vṛ (vāraṇa); viṣama, sumanas, ṣaṇḍa, jaladhi"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The four key nouns are chosen for an -aṇḍa end-rhyme (taraṇḍa/karaṇḍa/varaṇḍa/vaṇa-saṇḍa), a poetic device that occasionally bends sense toward sound. Two glosses carry intended ambiguity: (a) sumaṇa renders Skt. sumanas, which means both 'flower' and 'good/pure mind' — the verse exploits both, so 'flower-minds of the sages' is read as a double entendre rather than a single literal noun; (b) visama-bāṇa is taken as the standard kāvya epithet of Kāma (Anaṅga), 'he of the cruel/uneven arrows', i.e. the five arrows of desire — a reading strongly supported by the 'warding-off rampart' image, though the bare words mean only 'cruel arrows'. vāraṇa is read as 'warding off' (√vṛ), not its homonym 'elephant'. Text reproduced verbatim from the Anchalgachchha edition; no variant readings checked against a second printed edition."
+}

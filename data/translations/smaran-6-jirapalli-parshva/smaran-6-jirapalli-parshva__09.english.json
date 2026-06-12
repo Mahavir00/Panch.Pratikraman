@@ -1,0 +1,138 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Just remembering Lord Pārśva's name makes every fear — of illness, captivity, violent death, snakes, fire, and water — fall away.",
+  "recitation": "vyādhi bandha vadha vyālā-'nalāmbhaḥ sambhavaṁ bhayam | kṣayaṁ prayāti śrī pārśva-nāma-smaraṇā-mātrataḥ ||",
+  "wordByWord": [
+    {
+      "token": "વ્યાધિ",
+      "translit": "vyādhi",
+      "gloss": "disease, sickness, ailment",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vyādhi, from vi- + ā-√dhā ('to afflict, disorder'); literally a 'disorder' of the body.",
+      "notes": "First member of the danger-list; stands in compound apposition feeding sambhavaṁ ('born of disease…')."
+    },
+    {
+      "token": "બંધ",
+      "translit": "bandha",
+      "gloss": "bondage, imprisonment, captivity",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bandha, from √bandh ('to bind'); here the worldly danger of being bound/jailed, not the doctrinal karma-bandha.",
+      "notes": "Second danger; read as physical captivity, parallel to bandhana in the canonical fear-lists."
+    },
+    {
+      "token": "વધ",
+      "translit": "vadha",
+      "gloss": "slaughter, killing, violent death",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vadha, from √vadh / √han ('to strike, slay'); the act or threat of being killed.",
+      "notes": "Third danger."
+    },
+    {
+      "token": "વ્યાલા-ઽનલાંભઃ",
+      "translit": "vyālā-'nalāmbhaḥ",
+      "gloss": "serpent, fire, (and) water",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi-fused dvandva: vyāla ('serpent') + anala ('fire') + ambhas ('water'). vyālā + (a)nala (avagraha ઽ marks the elided initial a) + ambhaḥ → vyālānalāmbhaḥ.",
+      "notes": "Three dangers in one phonetic knot. vyāla primarily = 'serpent' (apt to Pārśva, lord of the nāgas), though it can mean any predatory beast; anala = fire; ambhas = water/flood. The book's avagraha sandhi is preserved verbatim."
+    },
+    {
+      "token": "સંભવં",
+      "translit": "sambhavaṁ",
+      "gloss": "arising from, originating in, born of",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit sambhava, from sam- + √bhū ('to arise together'); accusative agreeing with bhayam.",
+      "notes": "Governs the whole preceding list — 'fear arising from [disease … water]' — and tacitly generalizes it to dangers 'and the like'."
+    },
+    {
+      "token": "ભયમ્",
+      "translit": "bhayam",
+      "gloss": "fear, dread, danger",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhaya, from √bhī ('to fear'); accusative singular, the grammatical subject-as-object of kṣayaṁ prayāti.",
+      "notes": "Note the precise object: it is the bhaya (fear) born of the perils that perishes, not merely the outer peril."
+    },
+    {
+      "token": "ક્ષયં",
+      "translit": "kṣayaṁ",
+      "gloss": "destruction, dissolution, an end",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kṣaya, from √kṣi ('to waste away, perish'); accusative governed by prayāti ('goes to').",
+      "notes": "Idiom kṣayaṁ √yā = 'to go to destruction, to be annihilated'."
+    },
+    {
+      "token": "પ્રયાતિ",
+      "translit": "prayāti",
+      "gloss": "goes (to), passes into, attains",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit pra- + √yā ('to go forth'); 3rd person singular present indicative.",
+      "notes": "Singular verb taking bhayam as collective subject — the whole mass of fear 'goes to' destruction."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "holy, venerable, glorious",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī ('splendour, auspiciousness'); honorific prefixed to the Lord's name.",
+      "notes": "Devotional honorific, here fused to the closing compound."
+    },
+    {
+      "token": "પાર્શ્વ-નામસ્મરણામાત્રતઃ",
+      "translit": "pārśva-nāma-smaraṇā-mātrataḥ",
+      "gloss": "merely by remembrance of (Śrī) Pārśva's name",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa+ablative: pārśva ('Pārśvanātha') + nāma ('name') + smaraṇa ('remembrance') + mātra ('mere') + -taḥ (ablative suffix, 'by/from'). 'From the mere remembering of Pārśva's name.'",
+      "notes": "mātrataḥ ('merely, by the very fact of') is the verse's hinge: no ritual apparatus is named, only recollection. The book reads smaraṇā- with a long ā (smaraṇā-mātrataḥ); standard form would be smaraṇa-mātrataḥ — preserved as printed."
+    }
+  ],
+  "literalTranslation": "Fear arising from disease, bondage, slaughter, serpent, fire, (and) water goes to destruction merely by the remembrance of the name of Śrī Pārśva.",
+  "idiomaticTranslation": "Every fear that springs from sickness, captivity, a killer's blow, the snake, the flame, or the flood is utterly undone — by nothing more than calling to mind the name of holy Pārśva.",
+  "elaboration": {
+    "verseByVerseCommentary": "After v.8 has laid down the principle — that suffering binds a person only so long as the 'mantra-king' has not awakened, embodied, in the heart — this verse delivers the payoff in the plainest possible terms, then v.10 will turn inward to yogic absorption in nāda. Here the hymn descends from its tāntric apparatus (the bīja-strings, the navel-to-crown channel, the pañcāṅga-nyāsa of vv.3–7) to a single accessible promise. Six concrete perils are catalogued in a tight phonetic run: vyādhi (disease), bandha (captivity), vadha (a violent death), and the sandhi-knotted triad vyāla–anala–ambhas (serpent, fire, water). Two precisions repay attention. First, the grammatical object of destruction is bhayam — the fear born of these perils, not the perils as bare events; sambhavaṁ ('arising from') makes the whole list adjectival to that single fear, and by leaving the list open-ended it quietly includes dangers 'and the like.' The verse thus treats the inner affliction, the dread itself, as what dissolves. Second, the means is deliberately minimal: nāma-smaraṇa-mātrataḥ, 'by the mere fact of remembering the Name.' Against the elaborate visualizations just taught, v.9 insists that recollection alone suffices — the Name is itself the awakened mantra-king of v.8. The serpent (vyāla) sits aptly first among the triad, given Pārśva's lifelong association with the nāgas and his guardian Dharaṇendra.",
+    "doctrinalContext": "The verse crystallizes the doctrine of nāma-smaraṇa: the Tīrthaṅkara's name, held in recollection, is a sufficient cause for the removal of fear. In Jain terms bhaya is itself a defilement — a quasi-passion (one of the nine no-kaṣāya) that agitates the soul — so its 'destruction' (kṣaya) is an inward purification, not merely a change in outer circumstance. The catalogue of dangers is a compressed cousin of the canonical 'great fears' lists; compare the eight-fold litany of the Bhaktāmara Stotra (serpent, fire, war, ocean, disease, bondage, etc.), where devotion dissolves each in turn. This is the verse that earns the sutra its place among the bhayahara ('fear-removing') Smaraṇas standing beside the Upasargahara and Namiūṇa hymns to the same Lord.",
+    "practicalRelevance": "For the reciter this is the verse to reach for in an actual moment of dread — illness, confinement, threat, a snake, a fire, rising water. It authorizes the simplest practice: not the full meditation-manual of the earlier verses but bare, attentive repetition of Pārśva's name, trusting that the fear itself, and not only the hazard, is what subsides.",
+    "crossReferences": [
+      {
+        "text": "Namiūṇa Bhayahara Stotra (5th Smaraṇa) — the companion fear-removing hymn to Pārśva",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Upasargahara Stotra (4th Smaraṇa) — Pārśva invoked against affliction and fear",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Bhaktāmara Stotra, vv. ~34–43 — eight great fears (serpent, fire, war, ocean, disease, bondage…) dissolved by devotion",
+        "source": "Mānatuṅgasūri, Bhaktāmara Stotra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon): ambhas, vyāla, anala",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Verified glosses and roots of ambhas (water), vyāla (serpent/predatory beast), anala (fire), and the ablative force of -taḥ in mātrataḥ."
+    },
+    {
+      "title": "Parshvanatha (23rd Tīrthaṅkara) and his śāsana-devatā Dharaṇendra",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva's serpent/nāga association, contextualizing vyāla heading the danger-triad and the bhayahara framing."
+    },
+    {
+      "title": "Bhaktamara Stotra",
+      "url": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "type": "scholarship",
+      "consultedFor": "The canonical Jain eight-great-fears litany (serpent, fire, war, ocean, disease, bondage) paralleling this verse's danger-list."
+    },
+    {
+      "title": "Jirawala (Jīrāvalā / Jīrāpallī) Pārśvanātha Tīrtha, Sirohī, Rājasthān",
+      "url": "https://en.wikipedia.org/wiki/Jirawala",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Jīrāpallī Pārśva to whom the protective name-remembrance of this verse is directed."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "Verse-specific caveats: (1) The book reads the final compound with a long ā — smaraṇā-mātrataḥ; the grammatically expected form is smaraṇa-mātrataḥ. Kept as printed. (2) vyāla is rendered 'serpent' (most apt for a Pārśva-stotra, Lord of the nāgas), but Monier-Williams also allows 'vicious/predatory beast'; the broader sense is possible. (3) The avagraha sandhi vyālā-'nala (vyāla + anala) is preserved verbatim from the source. (4) The verse names six explicit perils (disease, bondage, slaughter, serpent, fire, water); sambhavaṁ ('arising from') leaves the count open-ended ('and the like'), so the preface's question of six/seven/eight resolves here as six enumerated + an implied generalization, not a fixed canonical eight."
+}

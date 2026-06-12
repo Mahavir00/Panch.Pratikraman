@@ -1,0 +1,172 @@
+{
+  "shlokaId": "ashtottari-tirthmala/67",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the place where the demon-king Camara, fleeing Indra's thunderbolt, hid at the feet of Lord Mahāvīra — and the bolt, once hurled, could no longer strike in front of the Jina.",
+  "recitation": "jattha ya vajja-palāṇo, camaro vīra-payaṁtare nilukko; hariṇā mukko tatto, jiṇa-purao daṁsae nahuṁ.",
+  "wordByWord": [
+    {
+      "token": "જત્થ",
+      "translit": "jattha",
+      "gloss": "where, at which place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jattha < Sanskrit yatra ('where'); the relative adverb that hands off to the next verse's 'there a tīrtha arose'.",
+      "notes": "Opens the verse by fixing a sacred locus, in the roll-call manner of the surrounding tīrtha-narratives."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya < Sanskrit ca ('and'); a connective/expletive particle linking this site to the foregoing Vajrasvāmī episode."
+    },
+    {
+      "token": "વજ્જ",
+      "translit": "vajja",
+      "gloss": "the vajra (Indra's thunderbolt)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vajja < Sanskrit vajra ('thunderbolt, adamant'); first member of the compound vajja-palāṇo.",
+      "notes": "Here the weapon Śakra (Indra) hurls at the rebel Camara."
+    },
+    {
+      "token": "પલાણો",
+      "translit": "palāṇo",
+      "gloss": "(one who) fled, took flight (from)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit palāṇa < Sanskrit palāyana / palāyita ('fleeing, fled'), from root √palāy; masculine nominative agreeing with camaro.",
+      "notes": "vajja-palāṇo = 'fled from the vajra' — Camara routed by the pursuing bolt."
+    },
+    {
+      "token": "ચમરો",
+      "translit": "camaro",
+      "gloss": "Camara (Camarendra, lord of the Asurakumāra gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit camaro < Sanskrit camara, the proper name of the Asurendra; masculine nominative singular.",
+      "notes": "The new-risen Asura-king who, emboldened, dared to challenge Śakra."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra (Lord Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vīra < Sanskrit vīra ('hero'); here the epithet of the 24th Tīrthaṅkara, in compound vīra-payaṁtare.",
+      "notes": "Mahāvīra, then standing in chadmastha kāyotsarga at Suṃsumārapura."
+    },
+    {
+      "token": "પયંતરે",
+      "translit": "payaṁtare",
+      "gloss": "between (his) feet, at the feet of",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paya (< Sanskrit pāda, 'foot') + antara ('interval, within'), locative singular pada-antare ('in the space of the feet').",
+      "notes": "vīra-payaṁtare = 'between/at Vīra's feet' — the spot of refuge."
+    },
+    {
+      "token": "નિલુક્કો",
+      "translit": "nilukko",
+      "gloss": "hid himself, took cover, lay concealed",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit nilukka < Sanskrit nilīna ('hidden, concealed'); past participle, masculine nominative.",
+      "notes": "Camara, terrified, shrinks for shelter behind the Jina's body."
+    },
+    {
+      "token": "હરિણા",
+      "translit": "hariṇā",
+      "gloss": "by Hari (i.e. by Śakra/Indra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit hari < Sanskrit hari, an epithet of Indra; instrumental singular hariṇā ('by Hari').",
+      "notes": "Names the bolt's hurler — the king of the Saudharma heaven."
+    },
+    {
+      "token": "મુક્કો",
+      "translit": "mukko",
+      "gloss": "released, let loose, hurled",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit mukka < Sanskrit mukta ('released'), past participle of √muc; masculine nominative agreeing with the (understood) vajra.",
+      "notes": "hariṇā mukko = 'released by Hari' — the thunderbolt sent flying after Camara."
+    },
+    {
+      "token": "તત્તો",
+      "translit": "tatto",
+      "gloss": "then, thereupon, from there",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tatto < Sanskrit tataḥ ('then, thence'); narrative connective."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "the Jina (the Conqueror, Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina; first member of the compound jiṇa-purao.",
+      "notes": "The same Vīra, now named by his victor-title at the climactic moment."
+    },
+    {
+      "token": "પુરઓ",
+      "translit": "purao",
+      "gloss": "in front of, before",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit purao < Sanskrit purataḥ ('in front'); jiṇa-purao = 'before the Jina'.",
+      "notes": "Marks the threshold the weapon may not cross."
+    },
+    {
+      "token": "દંસએ",
+      "translit": "daṁsae",
+      "gloss": "strikes / shows (its force)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit daṁsae, 3rd sg. from √daṁś ('to bite, strike') or causative darś ('to display'); present/optative.",
+      "notes": "With nahuṁ: 'does not strike/does not appear' — the bolt is checked in the Jina's presence."
+    },
+    {
+      "token": "નહું",
+      "translit": "nahuṁ",
+      "gloss": "not, by no means",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Apabhraṁśa nahuṁ < Sanskrit na khalu / na hi ('indeed not'); negation governing daṁsae.",
+      "notes": "Spelt નહું verbatim per the Anchalgachchha edition; old-Gujarati equivalent of નહીં."
+    }
+  ],
+  "literalTranslation": "And (the place) where Camara, fled from the vajra, hid himself between Vīra's feet; the bolt released by Hari (Indra), then, does not strike before the Jina.",
+  "idiomaticTranslation": "And here is the place where Camara, routed by the thunderbolt, crept for refuge between the feet of Lord Vīra; the vajra that Indra had hurled, racing after him, could not, in the end, fall before the Jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse compresses the whole Camarotpāta drama into a single relative clause — 'where…' (jattha) — so that the named miracle becomes a place, ready for the next verse to declare that 'there a tīrtha arose.' The earlier verse left us at Vajrasvāmī's mountains; here the focus shifts to the Asura-king Camara, who had presumed to defy Śakra. The poet does not retell the boast; he freezes the verse at the instant of collapse: vajja-palāṇo — Camara 'fled from the vajra' — and payaṁtare nilukko — he 'hid between the feet' of Vīra, the very Jina whose refuge had emboldened him. The motion of the line mimics the flight: pursued, cornered, crouching. The second line answers with the counter-motion of grace. The bolt hariṇā mukko, 'released by Hari (Indra),' is left grammatically suspended, still in flight — until the final clause halts it: jiṇa-purao daṁsae nahuṁ, 'before the Jina it does not strike.' Whether one reads this as Śakra speeding to snatch his own weapon back out of reverence (as the canonical account has it) or as the bolt's force simply failing in the Jina's presence, the doctrinal point is identical: nothing violent may complete itself at the feet of the Vītarāga. The verse needs no adjective of praise; the bare fact — a thunderbolt that cannot land — is the praise. Note how Mahāvīra is named twice, first as Vīra (the refuge-giver) and then as Jiṇa (the conqueror before whom even Indra's bolt is conquered), the two epithets framing the rescue.",
+    "doctrinalContext": "The verse enshrines abhaya — the fearlessness the Jina radiates simply by being. Even an aggressor-Asura, and even before Mahāvīra's omniscience (this occurs during his chadmastha standing meditation), finds the feet of a Tīrthaṅkara to be inviolable sanctuary; refuge (śaraṇa) at the Jina is open to friend and foe alike. The image also stages the supremacy of the vītarāga over raw power: Indra's vajra, the cosmos's mightiest weapon, is neutralised not by a counter-weapon but by sheer presence, dramatising how equanimity and non-violence outrank force. Finally, the verse models how sanctity sediments into geography — a single event of protection consecrates Suṃsumārapura as a tīrtha, the very logic by which this hymn garlands all 108 holy places.",
+    "practicalRelevance": "Recited in the Pakkhī confession, this verse reminds the worshipper that to take refuge at the Jina's feet is to step where no 'thunderbolt' — of fear, hostility, or ripening karma — can complete its strike. The practitioner standing in his own kāyotsarga is invited to borrow Mahāvīra's stillness: be the unmoved centre, and the hurled bolt falls short.",
+    "crossReferences": [
+      {
+        "text": "Vyākhyāprajñapti (Bhagavatī Sūtra), Śataka 3, Uddeśaka 2 — the canonical Camarotpāta episode",
+        "source": "Śvetāmbara Āgama; Jaina Āgama tradition"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.68 (following) — 'then there a tīrtha arose, the Camarutpāta, at Susumārapura'",
+        "source": "Mahendrasiṁhasūri, Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Camarendra, Camara-indra (Jainism definition)",
+      "url": "https://www.wisdomlib.org/definition/camarendra",
+      "type": "scholarship",
+      "consultedFor": "Identity of Camara/Camarendra as the Asurendra and his story-cycle in Jain narrative literature"
+    },
+    {
+      "title": "Suṃsumārapura / Sumsumarapura (Jainism definition)",
+      "url": "https://www.wisdomlib.org/definition/sumsumarapura",
+      "type": "scholarship",
+      "consultedFor": "Confirming Suṃsumārapura as the site Mahāvīra reached during his ascetic wandering — the locus of the kāyotsarga in this episode"
+    },
+    {
+      "title": "Palāyana / palāṇa (Prakrit & Sanskrit definition)",
+      "url": "https://www.wisdomlib.org/definition/palayana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of palāṇo as Prakrit for palāyana ('fleeing, flight') against Sanskrit and Prakrit lexicons"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma vajra, mukta, tataḥ, purataḥ, nilīna, pāda-antara underlying the Prakrit tokens"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "Apabhraṁśa-coloured gāthā with some syntactic compression. 'palāṇo' is read as palāyana/palāyita ('fled'); a minority reading 'set loose/launched' is possible but fits the narrative less well. 'mukko' is taken as the (hurled) vajra released by Indra; 'daṁsae nahuṁ' is read as 'does not strike/show (its force) before the Jina,' consistent with the canonical account in which Śakra speeds to retrieve the bolt on realising Camara has taken the Jina's refuge — an alternate construal ('its force is simply nullified in the Jina's presence') yields the same sense. 'payaṁtare' = pada-antare ('between/at the feet'). Orthography (e.g. નહું, વજ્જ) is preserved verbatim per the Anchalgachchha/Vidhipaksha edition and not normalised. The precise wording of the legend may vary across editions; the doctrinal thrust (inviolable refuge at the Jina's feet) is stable."
+}

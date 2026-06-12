@@ -1,0 +1,150 @@
+{
+  "shlokaId": "smaran-1-bruhannamaskar/08",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Anyone who always guards himself in this way using the holy salutation-lines of the five Supreme Beings will never know fear, bodily disease, or mental distress.",
+  "recitation": "yaś caivaṁ kurute rakṣāṁ, parameṣṭhi-padaiḥ sadā |\ntasya na syād bhayaṁ vyādhir ādhiś cāpi kadācana ||",
+  "wordByWord": [
+    {
+      "token": "યશ્ચૈવં",
+      "translit": "yaś caivaṁ",
+      "gloss": "and whoever thus / and the one who in this way",
+      "partOfSpeech": "pronoun",
+      "etymology": "sandhi cluster of yaḥ (relative pronoun yad, nom. sg. m. 'who') + ca ('and') + evam ('thus, in this way'); yaḥ + ca → yaś-ca, ca + evam → caivam by vṛddhi-sandhi.",
+      "notes": "'evam' points back to the whole armouring procedure of vv. 2–6 — i.e. 'in exactly this manner'. The relative yaḥ is answered by tasya ('for him') in the next line."
+    },
+    {
+      "token": "કુરુતે",
+      "translit": "kurute",
+      "gloss": "makes / does / performs (for himself)",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ ('to do, make'), class 8, 3rd sg. present ātmanepada; the middle voice marks the action as done for the agent's own benefit ('makes for himself').",
+      "notes": "Ātmanepada is apt: the reciter raises the protection around his own person."
+    },
+    {
+      "token": "રક્ષાં",
+      "translit": "rakṣāṁ",
+      "gloss": "protection / safeguard (the protective enclosure)",
+      "partOfSpeech": "noun",
+      "etymology": "rakṣā (f.), from √rakṣ ('to guard, protect'); acc. sg. as object of kurute. Cf. rakṣā-bandha, the protective tie.",
+      "notes": "Here it denotes the diamond-cage armour built up in the preceding verses."
+    },
+    {
+      "token": "પરમેષ્ઠિ",
+      "translit": "parameṣṭhi",
+      "gloss": "of the Supreme Beings (Parameṣṭhins)",
+      "partOfSpeech": "compound",
+      "etymology": "parama ('highest') + √sthā ('to stand'); 'one standing in the highest station'. First member of the compound parameṣṭhi-padaiḥ.",
+      "notes": ""
+    },
+    {
+      "token": "પદૈઃ",
+      "translit": "padaiḥ",
+      "gloss": "by the lines / by the (mantra-)words",
+      "partOfSpeech": "noun",
+      "etymology": "pada (n.), from √pad ('to step'); 'step, foot, word, line of verse'; instr. pl. 'by means of the padas'. Compounds with parameṣṭhi as parameṣṭhi-padaiḥ ('by the Parameṣṭhi-lines').",
+      "notes": "The 'padas' are the lines of the Navkāra placed over the body — the instrument of the protection."
+    },
+    {
+      "token": "સદા",
+      "translit": "sadā",
+      "gloss": "always / at all times",
+      "partOfSpeech": "adverb",
+      "etymology": "indeclinable adverb of time, 'always, ever', from the pronominal base sa-.",
+      "notes": "Conditions the fruit on continual, daily practice — picked up by kadācana at the verse-end."
+    },
+    {
+      "token": "તસ્ય",
+      "translit": "tasya",
+      "gloss": "for him / of him",
+      "partOfSpeech": "pronoun",
+      "etymology": "tad (demonstrative 'that'), gen. sg. m.; the correlative answering yaḥ. Genitive of possession/interest: 'for that person'.",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not / never (with the following verb)",
+      "partOfSpeech": "particle",
+      "etymology": "primary negation particle na.",
+      "notes": "With kadācana it yields the emphatic 'never, not at any time'."
+    },
+    {
+      "token": "સ્યાદ્ભયં",
+      "translit": "syād bhayaṁ",
+      "gloss": "would there be fear / there could ever be fright",
+      "partOfSpeech": "verb",
+      "etymology": "sandhi cluster: syāt (√as 'to be', 3rd sg. optative, 'would/could be') + bhayam (n., from √bhī 'to fear', nom. sg., 'fear, fright, danger'). syāt + bh → syād-bh.",
+      "notes": "The optative syāt expresses the assured impossibility: 'there simply would not arise'. bhaya is the broad term — outer danger and inner dread alike."
+    },
+    {
+      "token": "વ્યાધિ",
+      "translit": "vyādhi(r)",
+      "gloss": "bodily disease / physical illness",
+      "partOfSpeech": "noun",
+      "etymology": "vi- ('apart, dis-') + ā + √dhā ('to put, place'); 'that which is set wrong, disorder' → 'disease'; nom. sg. vyādhiḥ, here vyādhir before the vowel of ādhiḥ.",
+      "notes": "Classically paired with ādhi as the body-term of the body/mind dyad (cf. the Ayurvedic vyādhi = physical disorder)."
+    },
+    {
+      "token": "રાધિશ્ચાપિ",
+      "translit": "(r)ādhiś cāpi",
+      "gloss": "nor mental affliction either / and not even anguish of mind",
+      "partOfSpeech": "noun",
+      "etymology": "sandhi cluster carrying ādhiḥ (m., ā + √dhā, 'what is laid upon the mind' → 'mental affliction, anxiety') + ca ('and') + api ('even'). vyādhiḥ + ādhiḥ → vyādhir ādhiḥ; ādhiḥ + ca → ādhiś-ca; ca + api → cāpi.",
+      "notes": "The book prints the sandhi as two words 'વ્યાધિ રાધિશ્ચાપિ'; morphologically it is vyādhir ādhiś cāpi. ādhi is the mind-term answering bodily vyādhi — together they sweep both physical and psychological suffering."
+    },
+    {
+      "token": "કદાચન",
+      "translit": "kadācana",
+      "gloss": "ever / at any time (with na = 'never')",
+      "partOfSpeech": "adverb",
+      "etymology": "interrogative kadā ('when') + indefinite particle cana; 'at any time whatsoever'; with the earlier na → 'at no time, never'.",
+      "notes": "Closes the verse by absolutizing the promise across all time."
+    }
+  ],
+  "literalTranslation": "And whoever thus makes the protection always by the Parameṣṭhi-lines — for him there would never, at any time, be fear, nor bodily disease, nor even mental affliction.",
+  "idiomaticTranslation": "And the one who, in just this way, day after day raises his guard with the salutation-lines of the five Supreme Beings — for that person no fear, no illness of the body, and no anguish of the mind ever arises again.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the phalaśruti, the verse that names the reward of all that has gone before. The single word evaṁ ('thus') gathers up the entire cumulative act of vv. 2–6 — helmet, mouth-cloth, armour, weapon, foot-guards, floor-slab, rampart, moat and lid — and verse 7's praise of that protection, and stakes the whole promise on doing it 'in just this way'. Two adverbs bracket the fruit and make it unconditional in time: sadā ('always') sets the condition — the protection must be a constant, daily practice, not an occasional charm — and kadācana with na ('never, at any time') seals the result as total across all time. The middle voice kurute is quietly precise: one builds this guard for and around oneself. The promised immunity is then stated as a deliberate triad. bhaya (fear/danger) is the broad outer category; it is then specified into the classical body-and-mind pair vyādhi and ādhi — vyādhi the disorder of the body, ādhi the affliction of the mind. The very choice of this well-known dyad signals completeness: nothing of human suffering, outer threat, physical or psychological, is left outside the cage. The optative syāt ('there would be') is not a hope but an assurance in grammatical form — 'there simply would not arise'. So the hymn that opened as a resolve (saṅkalpa) and proceeded as a meditative armouring now lands on its guarantee, returning the listener from the fortress imagery to a plain, memorable promise of safety.",
+    "doctrinalContext": "The verse locates the protective power precisely: it is parameṣṭhi-padaiḥ — by the lines of the Navkāra, the salutation to the five Supreme Beings — and by nothing else. There is no separate guardian deity granting boons; the efficacy is the meditative force of namaskāra itself, of taking refuge in the qualities (guṇa) of the arihantas, siddhas, ācāryas, upādhyāyas and sādhus. This is characteristically Jain: maṅgala and rakṣā flow from veneration of the perfected and the path-walkers, not from divine intervention. While the stated fruit is worldly (laukika) — freedom from fear, disease, distress — its deeper register is abhaya, fearlessness, which Jain thought treats as the natural state of a soul anchored in right faith; the dissolving of bhaya, vyādhi and ādhi is the outward sign of an inward steadiness won by sustained remembrance.",
+    "practicalRelevance": "The verse makes its own demand explicit through sadā: the promise attaches to constancy, so the reciter is to treat the Smaraṇa as a daily discipline, not an emergency recourse. Practically, one recites it having mentally completed the armouring of the earlier verses, then rests in the assurance of this triad — meeting outer danger, bodily ailment and mental unease alike with the same composed refuge in the Navkāra, converting anxiety into the steadiness the verse names.",
+    "crossReferences": [
+      {
+        "text": "Navkāra (Pañca-Namaskāra) mantra — 'maṅgalāṇaṁ ca savvesiṁ paḍhamaṁ havaï maṅgalaṁ' (the foremost of all auspicious things), the padas whose power this verse invokes",
+        "source": "Standard Jain liturgical text (Pañca-Namaskāra)"
+      },
+      {
+        "text": "Bhaktāmara Stotra (closing phalaśruti verses) — a comparable Jain protective hymn promising removal of fear and disease to its daily reciter",
+        "source": "Mānatuṅgasūri, Bhaktāmara Stotra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wisdom Library — 'Vyādhi' (Sanskrit dictionary / Ayurveda definitions)",
+      "url": "https://www.wisdomlib.org/definition/vyadhin",
+      "type": "dictionary",
+      "consultedFor": "Meaning and derivation of vyādhi as 'bodily disease, physical disorder' (vi-ā-√dhā)."
+    },
+    {
+      "title": "Wisdom Library — 'Ādhi' (Sanskrit / Yoga / Jainism definitions)",
+      "url": "https://www.wisdomlib.org/definition/adhi",
+      "type": "dictionary",
+      "consultedFor": "Meaning of ādhi as 'mental affliction, anxiety' and its standing as the mind-term opposed to bodily vyādhi."
+    },
+    {
+      "title": "Wisdom Library — 'Rakṣā' (Sanskrit dictionary definitions)",
+      "url": "https://www.wisdomlib.org/definition/raksha",
+      "type": "dictionary",
+      "consultedFor": "Meaning of rakṣā as 'protection, safeguard' from √rakṣ."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "",
+      "type": "commentary",
+      "consultedFor": "Verbatim verse text (incl. the orthographic split 'વ્યાધિ રાધિશ્ચાપિ') and the placement of v.8 as the phalaśruti of the first Smaraṇa."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is Sanskrit in anuṣṭubh metre. The book prints the second pāda's sandhi as two words, 'વ્યાધિ રાધિશ્ચાપિ'; morphologically this resolves as vyādhiḥ + ādhiḥ + ca + api → vyādhir ādhiś cāpi, the well-attested body/mind dyad — preserved verbatim per the book's orthography rather than normalized. The closing daṇḍa is printed in the book as a period before the (absent) verse-number bar. bhaya/vyādhi/ādhi is read as a graded triad (general danger → bodily disease → mental affliction); this reading is standard and not in doubt. No individual author is named for this verse beyond the preface's 'pūrva-sūris'."
+}

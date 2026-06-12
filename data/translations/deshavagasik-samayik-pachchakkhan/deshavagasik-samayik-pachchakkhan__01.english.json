@@ -1,0 +1,258 @@
+{
+  "shlokaId": "deshavagasik-samayik-pachchakkhan/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "O Venerable one, I take up the vow of equanimity, give up all harmful activity in mind, speech and body for as long as I keep the deśāvagāśika, and I own up to my faults and let go of the wrong-doing self.",
+  "recitation": "karemi bhante! sāmāiyaṁ, sāvajjaṁ jogaṁ paccakkhāmi, jāva desāvagāsiaṁ pajjuvāsāmi. duvihaṁ, tivihēṇaṁ. maṇeṇaṁ, vāyāe, kāeṇaṁ na karemi na kāravemi, tassa bhante! paḍikkamāmi, nindāmi, garihāmi appāṇaṁ vosirāmi.",
+  "wordByWord": [
+    {
+      "token": "કરેમિ",
+      "translit": "karemi",
+      "gloss": "I do / I undertake",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. karemi < Skt. karomi, √kṛ 'to do' (1st sg. pres.)",
+      "notes": "The performative verb that enacts the undertaking; recurs negated below as 'na karemi'."
+    },
+    {
+      "token": "ભંતે",
+      "translit": "bhante",
+      "gloss": "O Venerable one",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. bhante < Skt. bhadanta / bhavant, voc. 'O reverend sir'",
+      "notes": "First of two vocatives addressed to the guru/Tīrthaṅkara."
+    },
+    {
+      "token": "સામાઇયં",
+      "translit": "sāmāiyaṁ",
+      "gloss": "sāmāyika (the equanimity vow)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. < Skt. sāmāyika, from samāya 'coming together, equanimity'; acc. sg., object of karemi",
+      "notes": ""
+    },
+    {
+      "token": "સાવજ્જં",
+      "translit": "sāvajjaṁ",
+      "gloss": "sinful, blameworthy",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāvajja < Skt. sāvadya (sa- + avadya 'blame'); acc. sg. qualifying jogaṁ",
+      "notes": ""
+    },
+    {
+      "token": "જોગં",
+      "translit": "jogaṁ",
+      "gloss": "activity (of mind, speech, body)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. joga < Skt. yoga 'application, activity'; acc. sg.",
+      "notes": "In Jain usage yoga = the threefold activity of mana/vacana/kāya that binds karma."
+    },
+    {
+      "token": "પચ્ચખ્ખામિ",
+      "translit": "paccakkhāmi",
+      "gloss": "I renounce / I abstain",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. < Skt. pratyākhyāmi, prati + ā + √khyā 'to declare against'; 1st sg. pres.",
+      "notes": ""
+    },
+    {
+      "token": "જાવ",
+      "translit": "jāva",
+      "gloss": "for as long as",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt. jāva < Skt. yāvat 'as long as, until'; correlative of temporal duration",
+      "notes": "Opens the duration clause that binds the vow to the observance."
+    },
+    {
+      "token": "દેસાવગાસિઅં",
+      "translit": "desāvagāsiaṁ",
+      "gloss": "the deśāvagāśika (the 10th lay vow observance)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. < Skt. deśāvakāśika, deśa 'region' + avakāśa 'scope/space'; acc. sg., object of pajjuvāsāmi",
+      "notes": "Here this word substitutes for the ordinary sāmāyika's 'niyamaṁ', fixing the vow to the deśāvagāśika period."
+    },
+    {
+      "token": "પજ્જુવાસામિ",
+      "translit": "pajjuvāsāmi",
+      "gloss": "I attend upon / I wait upon",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. < Skt. paryupāsāmi, pari + upa + √ās 'to sit close, serve'; 1st sg. pres.",
+      "notes": "Connotes devoted, sustained attendance — here, keeping the observance for its set time."
+    },
+    {
+      "token": "દુવિહં",
+      "translit": "duvihaṁ",
+      "gloss": "two-fold (i.e. doing and causing-to-be-done)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. duviha < Skt. dvividha 'of two kinds'; adverbial acc.",
+      "notes": "The two karaṇa: kṛta (oneself) and kārita (through another); the third, anumodita (approval), is deliberately not renounced here."
+    },
+    {
+      "token": "તિવિહેણં",
+      "translit": "tivihēṇaṁ",
+      "gloss": "by three means",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. tiviha < Skt. trividha 'of three kinds'; instr. sg. -eṇaṁ",
+      "notes": "The three yoga listed next: mind, speech, body."
+    },
+    {
+      "token": "મણેણં",
+      "translit": "maṇeṇaṁ",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. maṇa < Skt. manas 'mind'; instr. sg.",
+      "notes": ""
+    },
+    {
+      "token": "વાયાએ",
+      "translit": "vāyāe",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. vāyā < Skt. vāc 'speech'; instr. sg.",
+      "notes": ""
+    },
+    {
+      "token": "કાએણં",
+      "translit": "kāeṇaṁ",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. kāya < Skt. kāya 'body'; instr. sg.",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt./Skt. na, negative particle",
+      "notes": "First of the paired negations governing the two karaṇa."
+    },
+    {
+      "token": "કરેમિ",
+      "translit": "karemi",
+      "gloss": "I do",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. karemi < Skt. karomi, √kṛ; 1st sg. pres.",
+      "notes": "Here negated: 'na karemi' = I will not do (myself) — the kṛta karaṇa."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Pkt./Skt. na, negative particle",
+      "notes": ""
+    },
+    {
+      "token": "કારવેમિ",
+      "translit": "kāravemi",
+      "gloss": "I cause to be done",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. kāravemi < Skt. kārayāmi, causative of √kṛ; 1st sg. pres.",
+      "notes": "'na kāravemi' = I will not have (it) done by another — the kārita karaṇa."
+    },
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "for that / of that (sinful activity)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Pkt. tassa < Skt. tasya, gen. sg. of tad 'that'",
+      "notes": "Refers back to any sāvadya-yoga already incurred; the genitive governs the confession verbs."
+    },
+    {
+      "token": "ભંતે",
+      "translit": "bhante",
+      "gloss": "O Venerable one",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. bhante < Skt. bhadanta; voc.",
+      "notes": "Second vocative, opening the confession before the guru."
+    },
+    {
+      "token": "પડિક્કમામિ",
+      "translit": "paḍikkamāmi",
+      "gloss": "I turn back / I repent",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. < Skt. pratikrāmāmi, prati + √kram 'to step back'; 1st sg. pres.",
+      "notes": "First of the four self-correction verbs."
+    },
+    {
+      "token": "નિંદામિ",
+      "translit": "nindāmi",
+      "gloss": "I censure (myself)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt./Skt. nindāmi, √nind 'to blame'; 1st sg. pres.",
+      "notes": "Inward self-criticism."
+    },
+    {
+      "token": "ગરિહામિ",
+      "translit": "garihāmi",
+      "gloss": "I reproach (myself before the guru)",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. garihāmi < Skt. garhāmi, √garh 'to reproach'; 1st sg. pres.",
+      "notes": "Outward acknowledgement before the teacher; intensifies nindā."
+    },
+    {
+      "token": "અપ્પાણં",
+      "translit": "appāṇaṁ",
+      "gloss": "the (wrong-doing) self",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. appāṇa < Skt. ātmānam, acc. sg. of ātman 'self'",
+      "notes": "Object of vosirāmi."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I cast off / I renounce",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. vosirāmi < Skt. vyutsṛjāmi, vi + ut + √sṛj 'to release, abandon'; 1st sg. pres.",
+      "notes": "The final act of surrender; same verb that closes Iriyāvahiyaṁ and kāyotsarga formulae."
+    }
+  ],
+  "literalTranslation": "I undertake, O Venerable one, the sāmāyika; I renounce sinful activity, for as long as I attend upon the deśāvagāśika. Two-fold, by three means — by mind, by speech, by body — I neither do nor cause to be done. For that, O Venerable one, I repent, I censure myself, I reproach myself; I cast off the self.",
+  "idiomaticTranslation": "O Revered One, I take up the vow of equanimity and renounce all harmful activity for the whole span of my deśāvagāśika observance. In two ways and through three channels — mind, speech, and body — I will neither commit harm myself nor have it committed by another. And for whatever harm I have done, O Revered One, I turn back from it, I blame myself, I reproach myself before you, and I let go of the wrong-doing self.",
+  "elaboration": {
+    "verseByVerseCommentary": "Because the whole pratyākhyāna is this single verse, everything the practitioner needs is folded into one breath: undertaking, renunciation, scope, confession, surrender. The one word that earns its place here is the bound clause 'jāva desāvagāsiaṁ pajjuvāsāmi' — it tethers an ordinary sāmāyika to the tighter spatial-activity boundary of the tenth vow, so the equanimity is not free-floating but co-extensive with the shrunken field of movement the reciter has just accepted. The scope formula repays close attention: 'duvihaṁ tivihēṇaṁ' is two-fold by three-fold, not three-fold by three-fold. The reciter renounces only two of the three karaṇa — doing (kṛta, 'na karemi') and causing (kārita, 'na kāravemi') — across all three yoga of mind, speech, and body. The third karaṇa, anumodana (approval of another's act), is pointedly left unrenounced. This is the honest measure of a householder still enmeshed in family and commerce, who cannot truthfully vow to withhold all approval of worldly activity even for a fixed hour. The verse then pivots from prospective restraint to retrospective cleansing: 'tassa … paḍikkamāmi, nindāmi, garihāmi' graduates from turning-back, to inward self-blame, to open reproach before the guru, before the climactic 'appāṇaṁ vosirāmi' — the casting-off not of the soul but of the sin-stained, wrong-doing self. The two vocatives 'bhante' frame the verse like bookends: the first opens the vow, the second opens the confession, both keeping the guru as living witness.",
+    "doctrinalContext": "The verse encodes the karaṇa-yoga matrix that underlies all Jain vrata-taking: three karaṇa (kṛta, kārita, anumodita) × three yoga (mana, vacana, kāya) yield nine possible degrees of renunciation, of which a full ascetic vow takes all nine ('tivihaṁ tivihēṇaṁ'). The lay deśāvagāśika sāmāyika here takes the two-by-three (six-fold) measure, a graded bhaṅga appropriate to the śrāvaka. The closing quartet — pratikramaṇa, nindā, garhā, vyutsarga — maps the standard ascending stages of ālocanā: withdrawal, self-reflection, confession-before-superior, and abandonment, the same movement that drives the larger pratikramaṇa ritual in miniature.",
+    "practicalRelevance": "A reciter today uses this verse to convert a vague intention to 'be good for an hour' into a precise, bounded commitment: I will not harm and will not have harm done, in thought, word, and deed, for exactly the span of this observance. The deliberately limited two-fold scope is itself a teaching in honest vow-taking — promise only what you can keep — while the four confession-verbs ensure the period closes in cleansing rather than self-congratulation.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka-sūtra, Sāmāyika (1st Āvaśyaka) — the parent Karemi Bhante formula",
+        "source": "Śvetāmbara Āvaśyaka tradition"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.1 on vrata and the karaṇa–yoga combinations of abstention",
+        "source": "Umāsvāti"
+      },
+      {
+        "text": "Upāsakadaśāḥ / standard enumeration of the twelve śrāvaka-vratas (deśāvakāśika as the 10th)",
+        "source": "Śvetāmbara Aṅga canon"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "A Book on Pratikraman (English translation of the Pratikraman sūtras)",
+      "url": "https://www.jainworld.com/jainbooks/pravachan/a-book-on-pratikraman-eng.pdf",
+      "type": "translation",
+      "consultedFor": "Rendering of the Karemi Bhante / sāmāyika formula and the duviha-tiviha scope clause."
+    },
+    {
+      "title": "Wisdom Library — definition of Sāmāyika",
+      "url": "https://www.wisdomlib.org/definition/samayika",
+      "type": "dictionary",
+      "consultedFor": "Meaning and Sanskrit etymology of sāmāyika."
+    },
+    {
+      "title": "Wisdom Library — definition of Pratyākhyāna",
+      "url": "https://www.wisdomlib.org/definition/pratyakhyana",
+      "type": "dictionary",
+      "consultedFor": "Sense of paccakkhāmi / pratyākhyāna as formal renunciation."
+    },
+    {
+      "title": "Wikipedia — Sāmāyika",
+      "url": "https://en.wikipedia.org/wiki/Samayika",
+      "type": "scholarship",
+      "consultedFor": "Place of sāmāyika among the six āvaśyakas and lay observance context."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Spelling follows the book's orthography verbatim (e.g. પચ્ચખ્ખામિ, દેસાવગાસિઅં, તિવિહેણં); not normalized. The preface gives the scope clause as 'tivihaṇaṁ', whereas the verse text here reads તિવિહેણં (tivihēṇaṁ, instr.) — I have glossed the book's actual reading and flag the minor divergence. Note this lay form renounces only two karaṇa (kṛta, kārita) by three yoga; anumodita is intentionally omitted — a genuine doctrinal feature, not an OCR gap. Web references corroborate the standard sāmāyika formula but are not specific to the Anchalgachchha (Vidhipakṣa) edition; exact mātrās/anusvāras should be taken from the source book as golden source. Per-token IAST follows standard Ardhamāgadhī conventions; vowel length in transliteration (e.g. -ēṇaṁ vs -eṇaṁ) reflects the book's reading where determinable."
+}

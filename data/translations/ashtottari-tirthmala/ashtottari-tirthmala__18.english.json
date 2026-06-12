@@ -1,0 +1,174 @@
+{
+  "shlokaId": "ashtottari-tirthmala/18",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the last eight of the present Tīrthaṅkaras — Kunthu, Ara, Malli, Munisuvrata, Nami, Nemi, Pārśva and finally Mahāvīra — completing my homage to all twenty-four.",
+  "recitation": "kuṁthu jiṇaṁ aranāhaṁ, malliṁ muṇisuvvayaṁ ca namināhaṁ. nemiṁ pāsaṁ vande cauvīsa imaṁ ca vīra jiṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "કુંથુ",
+      "translit": "kuṁthu",
+      "gloss": "Kunthu (the 17th Tīrthaṅkara of the present cycle)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kuṁthu, name of the 17th Jina; Sanskrit Kunthu (variously linked to kunthu, a tiny insect he is said to have spared, hence to ahiṁsā).",
+      "notes": "Object of the single verb vande carried through the verse."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'conqueror' (of rāga, dveṣa, moha); accusative -aṁ.",
+      "notes": "Here apposed to Kunthu: 'Kunthu the Jina.'"
+    },
+    {
+      "token": "અરનાહં",
+      "translit": "aranāhaṁ",
+      "gloss": "Lord Ara / Aranātha (the 18th)",
+      "partOfSpeech": "compound",
+      "etymology": "ara + nāha (Prakrit nāha < Sanskrit nātha, 'lord, protector'); accusative -aṁ. = Aranātha.",
+      "notes": "The Prakrit form nāha for Sanskrit nātha is regular in this hymn."
+    },
+    {
+      "token": "મલ્લિં",
+      "translit": "malliṁ",
+      "gloss": "Malli / Mallinātha (the 19th)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit malli < Sanskrit mallī, 'jasmine'; accusative -iṁ.",
+      "notes": "In the Śvetāmbara tradition (this gaccha's), Malli is born female — Mallī Devī."
+    },
+    {
+      "token": "મુણિસુવ્વયં",
+      "translit": "muṇisuvvayaṁ",
+      "gloss": "Munisuvrata (the 20th)",
+      "partOfSpeech": "compound",
+      "etymology": "muṇi (muni, 'sage') + suvvaya (suvrata, 'of good vows'); Prakrit -vv- for -vr-; accusative -aṁ.",
+      "notes": "Lit. 'the sage of excellent vows.'"
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Sanskrit ca, coordinating conjunction.",
+      "notes": "Links the first-line names; the metre uses ca twice as a connective filler."
+    },
+    {
+      "token": "નમિનાહં",
+      "translit": "namināhaṁ",
+      "gloss": "Lord Nami / Naminātha (the 21st)",
+      "partOfSpeech": "compound",
+      "etymology": "nami + nāha (< nātha); accusative -aṁ. = Naminātha.",
+      "notes": "Not to be confused with Nemi (22nd), named next."
+    },
+    {
+      "token": "નેમિં",
+      "translit": "nemiṁ",
+      "gloss": "Nemi / Neminātha, also Ariṣṭanemi (the 22nd)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nemi < Sanskrit nemi, 'rim of a wheel'; accusative -iṁ.",
+      "notes": "Revered cousin of Kṛṣṇa; his tīrtha is Girnar (Ujjayanta), narrated later in the hymn (vv.46–48)."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva / Pārśvanātha (the 23rd)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsa < Sanskrit pārśva, 'side'; accusative -aṁ.",
+      "notes": "The historically attested 23rd Jina."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow to / I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit/Prakrit √vand, 'to praise, venerate'; 1st person singular ātmanepada vande.",
+      "notes": "The single governing verb; every name in the verse is its object."
+    },
+    {
+      "token": "ચઉવીસ",
+      "translit": "cauvīsa",
+      "gloss": "twenty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit cauvīsa < Sanskrit caturviṁśati, 'twenty-four'.",
+      "notes": "Names the full set of the present Tīrthaṅkaras (caturviṁśati)."
+    },
+    {
+      "token": "ઇમં",
+      "translit": "imaṁ",
+      "gloss": "this / these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit imaṁ < Sanskrit imam (idam), demonstrative.",
+      "notes": "With cauvīsa: 'these twenty-four' — sealing the enumeration."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit/Sanskrit ca.",
+      "notes": "Adds the climactic final name, Vīra."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "Vīra (Mahāvīra, the 24th)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vīra, 'hero'; the short name of the 24th Jina, Mahāvīra ('great hero').",
+      "notes": "Placed last and emphatically — the apaścima (final) Tīrthaṅkara of this cycle."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina; accusative -aṁ.",
+      "notes": "Closes the verse as it opened, framing the list between two jiṇaṁ."
+    }
+  ],
+  "literalTranslation": "Kunthu the Jina, Lord Ara, Malli, Munisuvrata, and Lord Nami; Nemi, Pārśva — I bow to (them); and (to) this twenty-fourth, Vīra the Jina.",
+  "idiomaticTranslation": "I bow to Kunthu the Jina and Lord Aranātha, to Malli, to Munisuvrata and Lord Naminātha, to Nemi and to Pārśva — and so, completing these twenty-four, I bow to Vīra, the Jina who is the last of them all.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse closes the salutation of the present (vartamāna) Tīrthaṅkaras begun two verses earlier, naming the final eight in strict sequence: Kunthu (17), Ara (18), Malli (19), Munisuvrata (20), Nami (21), Nemi (22), Pārśva (23) and Vīra/Mahāvīra (24). A single verb, vande ('I bow'), gathers all eight under one continuous act of reverence — the garland-gesture of the whole hymn applied here to the roll of Jinas. The phrase cauvīsa imaṁ ('these twenty-four') is the structural seal: with it the poet steps back from the individual names to mark that the complete set of the present cycle has now been honoured. Three names carry their own weight. Malli, the 19th, is in the Śvetāmbara tradition of this gaccha a woman, Mallī Devī — a striking affirmation that liberation is open across gender. Nemi, the 22nd (Ariṣṭanemi), is the renouncer-cousin of Kṛṣṇa whose Girnar tīrtha the hymn will narrate at length later. Pārśva (23rd) and Vīra (24th) are the two historically remembered Jinas, and the poet reserves Vīra for the emphatic final position — apaścima, the last Tīrthaṅkara of this descending age — bracketing the verse between the two occurrences of jiṇaṁ. Note that the two names Nami (21) and Nemi (22) sit side by side and must not be conflated: the verse distinguishes them carefully by their full forms naminā́haṁ and nemiṁ.",
+    "doctrinalContext": "The verse completes the vartamāna caturviṁśati — the same twenty-four praised in the Logassa, here recited as devotional enumeration rather than as the Second Āvaśyaka. Its doctrinal force lies in equality: Kunthu and Mahāvīra, the early and the last, the male Jinas and (in Śvetāmbara reckoning) the female Malli, all receive one undifferentiated vande, because each is equally a Jina — one who has conquered the inner enemies and crossed saṁsāra. Naming all twenty-four as a set affirms the cyclical Jain cosmology in which exactly twenty-four ford-makers arise in each half-cycle, the path renewed and re-renewed across time.",
+    "practicalRelevance": "Chanting this verse, the reciter completes the present-age homage in a single breath, fixing all twenty-four names in memory and renewing the aspiration that each Jina embodies. The deliberate final stress on Vīra invites the practitioner to recall that the living teaching of this age descends from Mahāvīra, the most recent ford-maker.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical naming of the same 24 Tīrthaṅkaras",
+        "source": "Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Jñātādharmakathā — narrative of Mallī as a woman (Śvetāmbara)",
+        "source": "Aṅga āgama tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Sequence and identity of the 24 Tīrthaṅkaras; Pārśva and Mahāvīra as the historically attested last two; meaning of jina/tīrtha"
+    },
+    {
+      "title": "Mallinatha",
+      "url": "https://en.wikipedia.org/wiki/Mallinatha",
+      "type": "scholarship",
+      "consultedFor": "Malli as the 19th Tīrthaṅkara; the Śvetāmbara position that Malli was born female (Mallī Devī); 'jasmine' sense of the name"
+    },
+    {
+      "title": "Munisuvrata",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Munisuvrata as the 20th Tīrthaṅkara; etymology 'sage of excellent vows'"
+    },
+    {
+      "title": "Neminatha",
+      "url": "https://en.wikipedia.org/wiki/Neminatha",
+      "type": "scholarship",
+      "consultedFor": "Nemi/Ariṣṭanemi as the 22nd Tīrthaṅkara and cousin of Kṛṣṇa; 'rim of a wheel' sense; distinction from Nami (21st)"
+    }
+  ],
+  "translatorConfidence": 0.92,
+  "notes": "Verse-specific caveats: (1) The Prakrit/Apabhraṁśa orthography is preserved verbatim — note nāha for Sanskrit nātha (aranāhaṁ, naminā́haṁ) and -vv- for -vr- (muṇisuvvayaṁ); these are not normalised. (2) The two adjacent names Nami (21st, naminā́haṁ) and Nemi (22nd, nemiṁ) are distinct Tīrthaṅkaras and are easily confused; the verse keeps them apart. (3) Malli's female birth is the Śvetāmbara reading proper to this Anchalgachchha source; the Digambara tradition holds Malli to be male — flagged for accuracy, not as a textual variant. (4) cauvīsa imaṁ is read as 'these twenty-four', sealing the present-cycle set whose enumeration began in the two preceding verses; no independent ritual placement is asserted beyond what the preface establishes."
+}

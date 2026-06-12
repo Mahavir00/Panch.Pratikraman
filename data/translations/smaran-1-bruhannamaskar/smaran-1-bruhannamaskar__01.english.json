@@ -1,0 +1,142 @@
+{
+  "shlokaId": "smaran-1-bruhannamaskar/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bring to mind the Navkāra salutation to the five Supreme Beings — the best of all prayers, made of nine lines — which guards my soul and surrounds me like a cage of diamond.",
+  "recitation": "parameṣṭhi-namaskāraṁ sāraṁ nava-padātmakaṁ | ātma-rakṣākaraṁ vaja-pañjarābhaṁ smarāmy ahaṁ ||",
+  "wordByWord": [
+    {
+      "token": "પરમેષ્ઠિ",
+      "translit": "parameṣṭhi",
+      "gloss": "of/to the Supreme Beings (the Pañca-Parameṣṭhin)",
+      "partOfSpeech": "compound",
+      "etymology": "parama ('highest') + √sthā ('to stand') + -in: 'one standing at the summit'; here the first member of the compound parameṣṭhi-namaskāra.",
+      "notes": "Defined in the preface glossary; named here only to identify whose salutation is remembered."
+    },
+    {
+      "token": "નમસ્કારં",
+      "translit": "namaskāraṁ",
+      "gloss": "the salutation (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "namas ('bowing, homage') + √kṛ ('to make') → namaskāra; the act/formula of reverent salutation, i.e. the Navkāra.",
+      "notes": "Direct object of the verb smarāmi; all the following -aṁ words qualify it."
+    },
+    {
+      "token": "સારં",
+      "translit": "sāraṁ",
+      "gloss": "the essence, the quintessence (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "from √sṛ; sāra = 'pith, marrow, best part' (Monier-Williams).",
+      "notes": "In apposition to namaskāraṁ: the salutation is itself the 'essence'."
+    },
+    {
+      "token": "નવ",
+      "translit": "nava",
+      "gloss": "nine",
+      "partOfSpeech": "adj",
+      "etymology": "Indo-Aryan numeral nava ('nine'); cf. Latin novem.",
+      "notes": "Modifies pada inside the next compound."
+    },
+    {
+      "token": "પદાત્મકં",
+      "translit": "padātmakaṁ",
+      "gloss": "consisting of (nine) padas/lines (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "pada ('foot, step; line/clause of a recitation') + ātmaka ('having the nature of', from ātman); nava-padātmaka = 'made up of nine padas'.",
+      "notes": "nava-pada is the preface's reckoning (five salutation-lines + four concluding lines), not 'nine syllables'."
+    },
+    {
+      "token": "આત્મ",
+      "translit": "ātma",
+      "gloss": "self, soul",
+      "partOfSpeech": "compound",
+      "etymology": "compound stem of ātman ('self, soul, breath').",
+      "notes": "First member of ātma-rakṣākara."
+    },
+    {
+      "token": "રક્ષાકરં",
+      "translit": "rakṣākaraṁ",
+      "gloss": "self-guarding, protection-making (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "rakṣā ('protection', from √rakṣ 'to guard') + kara ('making', from √kṛ); ātma-rakṣā-kara = 'effecting protection of the self'.",
+      "notes": "Third qualifier of namaskāraṁ."
+    },
+    {
+      "token": "વજ",
+      "translit": "vaja",
+      "gloss": "diamond, adamantine (= vajra)",
+      "partOfSpeech": "compound",
+      "etymology": "from √vaj; vajra = 'thunderbolt, diamond', the hardest, unbreakable substance.",
+      "notes": "Book's verbatim orthography વજ for vajra (preserved per the source's spelling); first member of vaja-pañjarābha."
+    },
+    {
+      "token": "પંજરાભં",
+      "translit": "pañjarābhaṁ",
+      "gloss": "resembling a cage, having the appearance of a cage (accusative)",
+      "partOfSpeech": "compound",
+      "etymology": "pañjara ('cage, enclosure') + ābha ('shining like, appearing as', from ā-√bhā 'to appear'); vaja-pañjara-ābha = 'looking like a diamond cage'.",
+      "notes": "The suffix -ābha ('appearing as') marks this as a deliberate mental image, a visualization."
+    },
+    {
+      "token": "સ્મરામ્યહં",
+      "translit": "smarāmy ahaṁ",
+      "gloss": "I call to mind, I remember",
+      "partOfSpeech": "verb",
+      "etymology": "smarāmi (1st-person singular present of √smṛ 'to remember') + ahaṁ ('I'); the two join by sandhi, final -i of smarāmi becoming -y before a-.",
+      "notes": "The explicit ahaṁ ('I') and present tense make this a first-person vow; smaraṇa (remembering) is itself the protective act that names the whole genre."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "verse-half pause (daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "metrical/punctuation mark dividing the two halves of the anuṣṭubh.",
+      "notes": "Part of the book's text."
+    }
+  ],
+  "literalTranslation": "The Parameṣṭhi-salutation — the essence, consisting of nine padas, guarding the self, resembling a diamond cage — that I call to mind.",
+  "idiomaticTranslation": "I hold in mind the salutation to the Supreme Beings: the very essence of prayer, woven of its nine padas, the guardian of my soul, standing about me like an adamantine cage.",
+  "elaboration": {
+    "verseByVerseCommentary": "This opening verse is the saṅkalpa, the spoken resolve that launches the whole stotra. The entire verse is one sentence: its sole finite verb is smarāmy ahaṁ ('I call to mind'), its object is parameṣṭhi-namaskāraṁ (the Navkāra), and four qualifiers in the accusative are stacked upon that object, each ending in -aṁ so that they chime through the anuṣṭubh: sāraṁ, (nava-)padātmakaṁ … (ātma-)rakṣākaraṁ, (vaja-)pañjarābhaṁ. The reciter first names what is remembered, then layers four claims on it, moving from inner to outer: (1) sāra — it is the distilled pith of all scripture; (2) nava-padātmaka — it has a complete, definite structure of nine padas, the very lines that the next verses will deploy one by one; (3) ātma-rakṣākara — it actively guards the self; (4) vaja-pañjarābha — it stands 'like' a diamond cage. The suffix -ābha ('appearing as') is precise: the cage is a deliberate mental image to be built, not a literal object. Note that the verse withholds all body-by-body placement; it announces only the intention and the governing picture, leaving vv.2–6 to assign each pada its station. The explicit ahaṁ and the present tense matter: this is not the report 'the mantra protects' but the vow 'I, here and now, take it up as my armour'. Even the verb is the genre's keyword — to smṛ (remember) the mantra is itself the protective deed, which is why these hymns are called smaraṇa. (The heading labels the metre anuṣṭubh and the text reads વજ for vajra.)",
+    "doctrinalContext": "The verse compresses two doctrinal points specific to it. First, the Navkāra is reckoned as nava-pada — nine padas (the five salutation-lines plus the four concluding lines), counted by lines, not by syllables — and is called sāra, the quintessence of the teaching: salutation to the Parameṣṭhin is the highest maṅgala. Second, it asserts the principle that smaraṇa is rakṣā: the very recollection of the five Supreme Beings shields the reciter. The protection named is ātma-rakṣā — guarding of the self/soul — which is read on two planes at once: the outward safety the hymn later promises, and, more deeply, the guarding of the soul's equanimity from its inner foes, the same foes the arihanta has already conquered. The mantra protects not as an external charm but because turning the mind toward the Parameṣṭhin re-orients the self toward liberation.",
+    "practicalRelevance": "Recited at the threshold of the stotra, this verse is where the practitioner forms the intention and the image before the limb-by-limb placement begins: settle the resolve — 'I take the Navkāra as my armour' — and call up the picture of a diamond cage enclosing you. Everything in the verses that follow is built upon this single act of remembering.",
+    "crossReferences": [
+      {
+        "text": "Pañca-Namaskāra (Navkāra) mantra — the nine padas: Namo Arihantāṇaṁ … Eso pañca namukkāro, savva-pāvappaṇāsaṇo, maṅgalāṇaṁ ca savvesiṁ, paḍhamaṁ havai maṅgalaṁ",
+        "source": "Standard Jain liturgical text (Pañca-Namaskāra)"
+      },
+      {
+        "text": "namaskāra as paḍhamaṁ maṅgalaṁ — the 'foremost auspicious thing'",
+        "source": "Cūlikā of the Namaskāra-mantra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ṇamōkāra (Pañca-Namaskāra / Parameṣṭhi) Mantra",
+      "url": "https://en.wikipedia.org/wiki/Namokar_Mantra",
+      "type": "translation",
+      "consultedFor": "Identity of the parameṣṭhi-namaskāra as the Navkāra, the five Parameṣṭhins, and the nine-pada structure embedded in the stotra."
+    },
+    {
+      "title": "Wisdomlib — Pañjara (definitions across traditions, incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/panjara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of pañjara ('cage, enclosure') underlying vaja-pañjarābha."
+    },
+    {
+      "title": "Wisdomlib — Parameṣṭhin",
+      "url": "https://www.wisdomlib.org/definition/parameshthin",
+      "type": "dictionary",
+      "consultedFor": "Etymology/meaning of parameṣṭhin ('one standing at the summit') and its Jain sense."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for sāra (√sṛ, 'essence/pith'), rakṣā (√rakṣ), ābha (ā-√bhā, 'appearing as'), and smarāmi (√smṛ)."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The heading lines 'વજ પંજર સ્તોત્ર (અનુષ્ટુપ્-વૃત્તં)' and '(૧લું સ્મરણ)' are a title and metre/serial label, not part of the chanted verse, so they are not given token-by-token glosses; the metre label confirms anuṣṭubh. The book's spelling વજ (= vajra) is preserved verbatim per the source's orthography. 'nava-pada' is glossed as nine padas/lines following the preface's reckoning; some popular glosses render it 'nine syllables', which does not fit this hymn's line-by-line scheme. The final word is parsed as smarāmi + ahaṁ joined by sandhi (-i + a- → -y a-). The verse is Sanskrit framing (the embedded Navkāra lines are Prakrit), consistent with the preface's note."
+}

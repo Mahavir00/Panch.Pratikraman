@@ -1,0 +1,178 @@
+{
+  "shlokaId": "ashtottari-tirthmala/61",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "While Lord Pārśva stood deep in meditation, his old enemy Kamaṭha attacked him with a lion, an elephant, ghouls and the like, and then poured down a relentless, pounding rain.",
+  "recitation": "paḍimāe ṭhiyaṁ pāsaṁ, kamaṭho hari kari pisāya pamuhehiṁ; uvasaggiya to varisaï, akhaṇḍa juga musala dhārāhiṁ.",
+  "wordByWord": [
+    {
+      "token": "પડિમાએ",
+      "translit": "paḍimāe",
+      "gloss": "in the standing meditation-posture (kāyotsarga vow)",
+      "partOfSpeech": "noun",
+      "etymology": "locative of Prakrit paḍimā < Sanskrit pratimā; in Jain ascetic usage the pratimā denotes the motionless standing meditation-stance, not (here) an 'image'.",
+      "notes": "Same word that elsewhere means 'image'; context fixes it as the kāyotsarga posture Pārśva is holding."
+    },
+    {
+      "token": "ઠિયં",
+      "translit": "ṭhiyaṁ",
+      "gloss": "standing, established (in it)",
+      "partOfSpeech": "adj",
+      "etymology": "past participle, Prakrit ṭhiya < Sanskrit sthita (√sthā, 'to stand'); accusative agreeing with pāsaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva (Lord Pārśvanātha)",
+      "partOfSpeech": "noun",
+      "etymology": "accusative of Prakrit Pāsa < Sanskrit Pārśva, the 23rd Tīrthaṅkara; object of the harassing verb.",
+      "notes": ""
+    },
+    {
+      "token": "કમઠો",
+      "translit": "kamaṭho",
+      "gloss": "Kamaṭha (the hostile asura, reborn as Meghamālin)",
+      "partOfSpeech": "noun",
+      "etymology": "nominative of Prakrit Kamaṭha < Sanskrit Kamaṭha; the embodiment of cross-birth enmity against Pārśva.",
+      "notes": "Subject of both uvasaggiya and varisaï."
+    },
+    {
+      "token": "હરિ",
+      "translit": "hari",
+      "gloss": "a lion",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit hari, here in the sense 'lion' (siṁha); first item in the instrumental list of assault-creatures.",
+      "notes": "hari can mean many beasts; the upasarga context selects 'lion'."
+    },
+    {
+      "token": "કરિ",
+      "translit": "kari",
+      "gloss": "an elephant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kari < Sanskrit karin ('the one with a hand', i.e. a trunk); second assault-creature.",
+      "notes": ""
+    },
+    {
+      "token": "પિસાય",
+      "translit": "pisāya",
+      "gloss": "ghouls / piśācas",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pisāya < Sanskrit piśāca, flesh-eating fiends; third item in the list.",
+      "notes": ""
+    },
+    {
+      "token": "પમુહેહિં",
+      "translit": "pamuhehiṁ",
+      "gloss": "with [these] foremost ones — and the like",
+      "partOfSpeech": "adj",
+      "etymology": "instrumental plural of Prakrit pamuha < Sanskrit pramukha ('chief, foremost'); idiomatically '…and others of the kind', closing an open-ended list.",
+      "notes": "Governs the whole instrumental string hari-kari-pisāya, i.e. 'by means of a lion, elephant, ghouls and suchlike'."
+    },
+    {
+      "token": "ઉવસગ્ગિય",
+      "translit": "uvasaggiya",
+      "gloss": "having afflicted / harassed (with upasargas)",
+      "partOfSpeech": "verb",
+      "etymology": "absolutive from denominative of Prakrit uvasagga < Sanskrit upasarga ('affliction, assault'); 'having subjected (him) to torments'.",
+      "notes": "Frames Kamaṭha's harassment as a formal upasarga inflicted on the meditating Jina."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to < Sanskrit tataḥ ('from that, then'); marks the escalation to the deluge.",
+      "notes": ""
+    },
+    {
+      "token": "વરિસઇ",
+      "translit": "varisaï",
+      "gloss": "(he) rains down, pours",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit varisaï < Sanskrit varṣati (√vṛṣ, 'to rain'); 3rd-sg. present, vivid 'historical present'.",
+      "notes": "Kamaṭha is the implied subject who makes the storm rain."
+    },
+    {
+      "token": "અખંડ",
+      "translit": "akhaṇḍa",
+      "gloss": "unbroken, incessant",
+      "partOfSpeech": "adj",
+      "etymology": "a- (negation) + khaṇḍa < Sanskrit khaṇḍa ('break, fragment'); 'without a break'.",
+      "notes": "Qualifies the rain-streams: a continuous, gapless downpour."
+    },
+    {
+      "token": "જુગ",
+      "translit": "juga",
+      "gloss": "yoke-beam(-thick)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit juga < Sanskrit yuga ('yoke'); part of the compound juga-musala qualifying the streams' thickness.",
+      "notes": "Reading uncertain: juga may render a thickness-simile ('thick as a yoke-pole') paired with musala, or carry the sense 'paired/twin'. Either way it intensifies the torrent."
+    },
+    {
+      "token": "મુસલ",
+      "translit": "musala",
+      "gloss": "pestle(-thick)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit musala ('pestle, heavy pounding club'); the classic measure of torrential rain (musala-dhārā).",
+      "notes": "musala-dhārā is a stock simile: rain in streams as thick and heavy as pounding pestles."
+    },
+    {
+      "token": "ધારાહિં",
+      "translit": "dhārāhiṁ",
+      "gloss": "with streams / torrents",
+      "partOfSpeech": "noun",
+      "etymology": "instrumental plural of Prakrit dhārā < Sanskrit dhārā ('continuous stream, downpour'); the means by which it 'rains'.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "Pārśva, standing in the meditation-posture — Kamaṭha, having afflicted (him) by means of a lion, an elephant, ghouls and the like, then rains down with unbroken streams thick as yoke-beams and pestles.",
+  "idiomaticTranslation": "Pārśva stood motionless in meditation; Kamaṭha assailed him with a lion, an elephant, fiends and their kind, and then unleashed an unbroken deluge, its torrents thick as yoke-beams and pestles.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just named Ahicchatra as the site, the verse now stages the ordeal that made it holy. Its architecture is a deliberate crescendo. The opening half is utterly still: 'paḍimāe ṭhiyaṁ pāsaṁ' — Pārśva simply stands, fixed in the kāyotsarga vow, a single grammatical object on which everything else acts. Against that stillness the poet hurls a rising tide of violence. First a graded list of attackers — 'hari, kari, pisāya' (lion, elephant, ghouls) — capped by 'pamuhehiṁ' ('and the like'), which deliberately leaves the catalogue open so the imagination supplies still more horrors. The absolutive 'uvasaggiya' gathers all of this into the single technical category of upasarga, an assault on a meditator. Then 'to' ('thereupon') pivots to the climax: the elemental deluge. The three-word phrase 'akhaṇḍa juga musala dhārāhiṁ' is doing the heavy lifting — 'akhaṇḍa' (unbroken) denies the storm any pause, while 'juga-musala' loads each falling stream with the weight of a yoke-beam and a pounding pestle. The whole force of the verse lies in what it withholds: Pārśva neither moves nor is named as suffering. The grammar itself enacts his equanimity — he is only ever the still accusative, never a reacting subject — setting up the next verse, where Dharaṇendra rises to shelter him.",
+    "doctrinalContext": "The verse is a textbook depiction of upasarga, the affliction a practitioner must endure, and of its antidote, samatā (equanimity). Jain teaching classes such torments as divya (divine/demonic), here delivered by the asura Kamaṭha through beasts, fiends and finally the elements. The Tīrthaṅkara's response is the doctrinal point precisely because it is unstated: holding the standing pratimā, he meets terror without dveṣa (aversion) toward the tormentor — and, as the sequel shows, without rāga (attachment) toward his rescuer. This equipoise is the inner content of kāyotsarga, 'abandonment of the body': the body may be battered by lion or torrent, but the soul, dissociated from it, is untouched. The episode also dramatises vaira — vendetta carried across many births — and its only true severance, which is not retaliation but unshaken forbearance.",
+    "practicalRelevance": "The reciter meets this verse while themselves standing in kāyotsarga during the pratikramaṇa. Aching legs, wandering thoughts and outer disturbances are the worshipper's small 'upasargas'; Pārśva's motionless figure under the pestle-thick rain is the model — endure the discomfort with equanimity, reacting neither with irritation nor craving for relief, and let the body's distress pass without disturbing the mind.",
+    "crossReferences": [
+      {
+        "text": "Pārśvanātha's upasarga by Kamaṭha/Meghamālin and the sheltering by Dharaṇendra",
+        "source": "Kalpasūtra, Pārśvanātha-carita section"
+      },
+      {
+        "text": "Uvasaggahara Stotra (to Pārśva, 'remover of upasargas')",
+        "source": "Nine Smaraṇas, smaran-4-upasargahar (this corpus)"
+      },
+      {
+        "text": "Following verse (ashtottari-tirthmala/62): Dharaṇendra raises Pārśva above the flood and canopies him with his hood",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "The Kamaṭha/Meghamālin upasarga narrative — lion, elephant, fiends and the deluge — and Dharaṇendra's sheltering, the legend underlying this Ahicchatra verse."
+    },
+    {
+      "title": "Musala: 39 definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/musala",
+      "type": "dictionary",
+      "consultedFor": "musala = 'pestle, heavy pounding club' (incl. Jain usage); basis for the musala-dhārā torrential-rain simile."
+    },
+    {
+      "title": "Upasarga: definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/upasarga",
+      "type": "dictionary",
+      "consultedFor": "upasarga = affliction/obstacle and its specific Jain sense, glossing the absolutive uvasaggiya."
+    },
+    {
+      "title": "Kayotsarga / Kāyotsarga: 15 definitions (Wisdom Library)",
+      "url": "https://www.wisdomlib.org/definition/kayotsarga",
+      "type": "dictionary",
+      "consultedFor": "Kāyotsarga as the standing 'abandonment of the body' posture, clarifying paḍimāe ṭhiyaṁ as Pārśva's meditation-stance."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "1) 'paḍimāe' is read as the kāyotsarga standing-posture (pratimā), not 'image', on contextual grounds. 2) 'juga' in 'akhaṇḍa juga musala dhārāhiṁ' is the chief uncertainty: it is taken as a thickness-simile ('yoke-beam', paired with 'pestle'), but could carry the sense 'twin/paired' or function as an intensifier; all readings yield the same import — an unbroken, crushing downpour (musala-dhārā). 3) The subject of 'varisaï' is the implied Kamaṭha/his conjured storm-clouds. 4) Spelling follows the book verbatim (Prakrit/Apabhraṁśa coloring); not normalised."
+}

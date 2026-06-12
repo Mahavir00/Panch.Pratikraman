@@ -10,7 +10,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { logger } from "../utils/logger.js";
-import { extractSutraVerses } from "./book-parser.js";
+import { extractSutraVerses, bodyToSingleBlock } from "./book-parser.js";
 import { shlokaId as mkShlokaId } from "../utils/slug.js";
 
 // Distinctive Gujarati heading substrings used to locate each sutra's section
@@ -20,28 +20,46 @@ const HEADING_NEEDLES = {
     navkar: ["નવકાર મહામંત્ર"],
     panchindiya: ["પંચિંદિય"],
     iriyavahiyam: ["ઇરિયાવહિયં"],
-    "tassa-uttari": ["તસ્સ"],
+    "tassa-uttari": ["તસ્સ ઉત્તરી", "તસ્સ (ઉત્તરી"],
     annattha: ["અન્નત્થ"],
     logassa: ["લોગસ્સ સૂત્ર"],
     gamanagamano: ["ગમણાગમણો"],
     jivrashi: ["જીવરાશિ"],
     "adhar-papsthanak": ["અઢાર પાપસ્થાનક"],
+    "dravya-kshetra-kaal-bhav": ["દ્રવ્ય ક્ષેત્ર કાલ ભાવ"],
     "karemi-bhante": ["કરેમિ ભંતે"],
+    padilehana: ["પડિલેહણ", "બોલ"],
     "suguru-dwadashavarta-vandana": ["વાંદણા સૂત્ર"],
     "drumapushpika-sajjhay": ["દ્રુમપુષ્પિકા"],
     "panch-parmeshthi-sajjhay": ["પંચ પરમેષ્ઠિની"],
-    "mannaha-jinanam-sajjhay": ["મન્નહ જિણાણં"],
+    "mannaha-jinanam-sajjhay": ["મન્નહ જિણાણં આણં"],
+    "samayik-parvani": ["સામાયિક પારવાનું સૂત્ર", "સામાયિક પારવાની ગાથા"],
     "bharahesar-sajjhay": ["ભરહેસરની"],
+    "rai-mangalacharan": ["મંગલં ભગવાન વીરો"],
     "ashtottari-tirthmala": ["અષ્ટોત્તરી તીર્થમાલા", "અષ્ટોત્તરી તીર્થમાળા"],
     "nandisutrani-pratham-sajay": ["નંદીસૂત્રની પ્રથમ"],
     "nandisutrani-dvitiya-sajay": ["નંદીસૂત્રની દ્વિતીય"],
+    "smaran-1-bruhannamaskar": ["બૃહન્નમસ્કાર"],
     "smaran-2-ajitshanti": ["અજિતશાંતિસ્તવ દ્વિતીય"],
+    "smaran-3-virstava": ["વીરસ્તવ"],
+    "smaran-4-upasargahar": ["ઉપસર્ગહર"],
     "smaran-5-namiun-bhayahar": ["નમિઊણ ભયહર"],
+    "smaran-6-jirapalli-parshva": ["જીરાપલ્લી"],
+    "smaran-7-shakrastava": ["શકસ્તવ", "શક્રસ્તવ"],
     "smaran-8-laghu-ajitshanti": ["લઘુ અજિતશાંતિસ્તવ અષ્ટમ"],
     "smaran-9-bruhad-ajitshanti": ["બૃહદ્ અજિતશાંતિ"],
     "deshavagasik-pachchakkhan": ["દેશાવગાશિક વ્રતનું પચ્ચખ્ખાણ"],
     "deshavagasik-samayik-pachchakkhan": ["દેશાવગાશિક સામાયિક વ્રતનું પચ્ચખ્ખાણ"],
 };
+
+// Sutras that are procedural lists/declarations whose body must be kept as ONE
+// verbatim block, never split into "verses". These print a tab-separated COUNT
+// column (e.g. the 50-bol padilehana inspection) whose digits are item counts,
+// not verse numbers, so the trailing-number verse rule must not segment them.
+// (Per-sutra data, like the heading needles — not a parser special-case.)
+const FORCE_SINGLE_BLOCK = new Set([
+    "padilehana",
+]);
 
 export function loadStructure(config) {
     const p = path.join(config.dataDir, "corpus", "pratikraman-structure.json");
@@ -78,15 +96,31 @@ export function buildCanonical(config) {
         if (!meta) { logger.warn(`Structure references unknown sutra '${sutraId}'`, "build-corpus"); return; }
         const needles = HEADING_NEEDLES[sutraId] || [meta.name_native];
         let verses = [];
+        let singleBlock = "";
         try {
             const res = extractSutraVerses(config.dataDir, meta.pdfPages || [], needles);
             verses = res.verses;
+            // Fallback for genuine prose / lists / single formulas (no per-item
+            // numbered markers): if a section/anchor matched but produced no
+            // numbered verses, emit its verbatim body as ONE shloka so the sutra
+            // is translatable and renders real text instead of "Text pending".
+            // FORCE_SINGLE_BLOCK sutras (procedural count-column lists) always
+            // collapse to one block regardless of any spurious column digits.
+            if ((verses.length === 0 || FORCE_SINGLE_BLOCK.has(sutraId)) && res.matchedHeadings.length > 0) {
+                if (FORCE_SINGLE_BLOCK.has(sutraId)) verses = [];
+                singleBlock = bodyToSingleBlock(res.body || []);
+            }
         } catch (e) {
             logger.warn(`Verse extraction failed for ${sutraId}: ${e.message}`, "build-corpus");
         }
-        const hasVerses = verses.length > 0;
+
+        // Normalize to a shlokas list: numbered verses, or the single prose block.
+        const shlokaSources = verses.length > 0
+            ? verses.map(v => ({ printedNumber: v.number, text: v.text }))
+            : (singleBlock ? [{ printedNumber: null, text: singleBlock }] : []);
+        const hasVerses = shlokaSources.length > 0;
         if (hasVerses) withVerses++;
-        totalShlokas += verses.length;
+        totalShlokas += shlokaSources.length;
 
         sutras.push({
             sutraId,
@@ -102,14 +136,14 @@ export function buildCanonical(config) {
             usedIn: meta.usedIn || [],
             role: meta.role || "",
             ...(hasVerses ? {} : { needsVerseExtraction: true }),
-            shlokas: verses.map((v, i) => ({
+            shlokas: shlokaSources.map((v, i) => ({
                 // Sequential 1..N within the sutra guarantees a unique shlokaId even when
                 // the book restarts verse numbering per sub-section (e.g. the multi-dhala
                 // chaityavandan, or vandana + pattaavali). The book's printed number is
                 // kept as `printedNumber` for display.
                 shlokaId: mkShlokaId(sutraId, i + 1),
                 number: i + 1,
-                printedNumber: v.number,
+                printedNumber: v.printedNumber,
                 native_script: v.text,
                 script: "gujarati",
                 source_ids: ["book"],

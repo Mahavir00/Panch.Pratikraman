@@ -1,6 +1,6 @@
 {
   "lang": "english",
-  "generatedAt": "2026-06-09T15:58:02.736Z",
+  "generatedAt": "2026-06-12T03:00:20.965Z",
   "terms": [
     {
       "term": "abhagga (abhagna)",
@@ -35,6 +35,14 @@
       ]
     },
     {
+      "term": "abhyākhyāna",
+      "scriptForm": "અભ્યાખ્યાન",
+      "definition": "False accusation; imputing a fault to someone that they do not have.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "ācāra",
       "scriptForm": "આયાર",
       "definition": "Right conduct; the fivefold achara — in knowledge (jnana), faith (darshana), conduct (charitra), austerity (tapa) and energy (virya).",
@@ -48,7 +56,16 @@
       "definition": "The head and exemplar of the monastic order who upholds and transmits right conduct; the third Parameṣṭhin (v.3).",
       "sutras": [
         "pakkhi-khamana",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "ādarvuṁ / ādaruṁ",
+      "scriptForm": "આદરું",
+      "definition": "'To take up, honor, adopt' — the verb governing the twenty-five virtues to be embraced.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -56,6 +73,7 @@
       "scriptForm": "અદત્તાદાન",
       "definition": "Taking what is not given (theft); the 3rd vow is abstention from gross stealing.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar"
       ]
     },
@@ -76,12 +94,21 @@
       ]
     },
     {
+      "term": "adhāī-dvīpa (ardha-tṛtīya-dvīpa)",
+      "scriptForm": "અઢીદ્વીપ",
+      "definition": "The 'two-and-a-half continents' — the region of the middle world inhabited by human beings, hence by the four-fold Saṅgha.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "āgāra",
       "scriptForm": "આગાર",
-      "definition": "a permitted exception or reservation built into a vow; an involuntary act that does not break it.",
+      "definition": "A declared, permitted exception within a vow that does not break it (e.g., speaking with fellow vow-keepers or gurus).",
       "sutras": [
         "annattha",
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -90,6 +117,14 @@
       "definition": "Non-violence; refraining from harm to any living being — the first pillar of dharma.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "ajarāmara sthāna",
+      "scriptForm": "અયરામરં ઠાણં",
+      "definition": "The 'ageless, deathless place' — mokṣa, final liberation; the unobstructed goal of v.4.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -115,6 +150,22 @@
       "definition": "Spotless, stainless, without blemish — qualifying the śīla of the great satīs.",
       "sutras": [
         "bharahesar-sajjhay"
+      ]
+    },
+    {
+      "term": "amṛta",
+      "scriptForm": "અમૃત",
+      "definition": "Nectar of immortality; in verse 3 a metaphor for the life-giving grace residing in Gautamasvāmī.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "āṇā",
+      "scriptForm": "આણં",
+      "definition": "The command or teaching of the Jina (Skt. ājñā); to be accepted as authoritative.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -144,9 +195,10 @@
     {
       "term": "annattha",
       "scriptForm": "અન્નત્થ",
-      "definition": "'except for / otherwise than' — the opening word that introduces the list of permitted exceptions.",
+      "definition": "The sūtra recited right after Tassa Uttarī, listing the involuntary bodily acts (breathing, coughing, etc.) that are permitted and do not break the kāyotsarga.",
       "sutras": [
-        "annattha"
+        "annattha",
+        "tassa-uttari"
       ]
     },
     {
@@ -167,13 +219,40 @@
       ]
     },
     {
+      "term": "apkāya",
+      "scriptForm": "અપ્કાય",
+      "definition": "Water-bodied beings (one-sensed); 7 lakh forms.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "appāṇaṁ vosirāmi",
+      "scriptForm": "અપ્પાણં વોસિરામિ",
+      "definition": "'I cast off the self' — renouncing the wrong-doing self and its attachments for the period of the vow.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "apsaras",
+      "scriptForm": "અચ્છર(ગણ)",
+      "definition": "Celestial nymphs; in v.6 the 'accharagaṇa' (host of apsarases) join the Saṅgha in praising the Jina.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "arihanta",
       "scriptForm": "અરિહંત",
-      "definition": "'Worthy one' / 'foe-destroyer'; an enlightened, still-embodied Tīrthaṅkara or kevalin who has conquered the inner enemies (passions) and teaches the path.",
+      "definition": "Arhat — the 'foe-destroyer', one who has annihilated the inner enemies (passions) and attained omniscience; the awakened, living, fully-enlightened teacher.",
       "sutras": [
         "logassa",
         "navkar",
-        "pakkhi-khamana"
+        "pakkhi-khamana",
+        "smaran-1-bruhannamaskar",
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -194,10 +273,27 @@
     },
     {
       "term": "āśātanā",
-      "scriptForm": "આસાયણા",
-      "definition": "Disrespect or slight toward the guru; the closing verse confesses any one of the traditional thirty-three āśātanās.",
+      "scriptForm": "આશાતના",
+      "definition": "Disrespect, irreverence, or violation of decorum toward what is sacred (the guru's seat, study-implements, the vow itself).",
       "sutras": [
+        "samayik-parvani",
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "aṣṭa-dala padma",
+      "scriptForm": "અષ્ટ દલ પદ્મ",
+      "definition": "The 'eight-petalled lotus' visualized in the body as the seat of the meditated tattva (v.5).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "aṣṭa-mahāprātihārya",
+      "scriptForm": "અટ્ઠ મહાપાડિહેર",
+      "definition": "The eight great miraculous attributes (e.g. aśoka tree, divine throne, halo, drum) that accompany a Tīrthaṅkara; named among the Jina's standard adornments.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -209,11 +305,27 @@
       ]
     },
     {
+      "term": "aṣṭa-pravacana-mātā",
+      "scriptForm": "આઠ પ્રવચનમાતા",
+      "definition": "The 'eight mothers of the doctrine': the five samitis plus the three guptis, which together nurture and protect right conduct.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
       "term": "aṣṭādaśa-akṣara mantra",
       "scriptForm": "અઠ્ઠારસ અક્ખર / अष्टादशाक्षर मन्त्र",
       "definition": "the 'eighteen-syllable' mantra said in v.23 to lie hidden in the middle of the stotra, meditated on by those who know it.",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "aṣṭottarī",
+      "scriptForm": "અષ્ટોત્તરી",
+      "definition": "'One hundred and eight' (lit. 'a hundred plus eight'); here the auspicious count of tīrthas garlanded in the hymn.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -226,10 +338,20 @@
       ]
     },
     {
+      "term": "atiśaya",
+      "scriptForm": "અઇસય",
+      "definition": "The supernatural excellences or marks of perfection of a Tīrthaṅkara (v.2 calls Pārśva endowed with crores of pure atiśayas).",
+      "sutras": [
+        "ashtottari-tirthmala",
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "atīta / vartamāna / anāgata",
       "scriptForm": "અતીત / વર્તમાન / અનાગત",
-      "definition": "Past, present and future — the three ages whose three caubīsīs of Tīrthaṅkaras are honoured in dhālas 1–3.",
+      "definition": "Past, present and future — the three time-frames in which the hymn salutes the successive sets of 24 Tīrthaṅkaras.",
       "sutras": [
+        "ashtottari-tirthmala",
         "kevalnani-chaityavandan"
       ]
     },
@@ -263,7 +385,8 @@
       "definition": "An obligatory daily duty; here also the 25 'essentials' (sthāna) said to constitute a correct vandana.",
       "sutras": [
         "logassa",
-        "suguru-dwadashavarta-vandana"
+        "suguru-dwadashavarta-vandana",
+        "tassa-uttari"
       ]
     },
     {
@@ -283,6 +406,22 @@
       ]
     },
     {
+      "term": "battīsa doṣa",
+      "scriptForm": "બત્રીશ દોષ",
+      "definition": "The thirty-two faults of sāmāyika — ten of mind, ten of speech, twelve of body — confessed in Sūtra item (7).",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "beïndriya / teïndriya / caürindriya",
+      "scriptForm": "બેઇંદ્રિય / તેઇંદ્રિય / ચઉરિંદ્રિય",
+      "definition": "Two-, three-, and four-sensed beings (2 lakh forms each), adding taste, smell, and sight in turn.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "bhaddaṁ",
       "scriptForm": "ભદ્દં",
       "definition": "'Auspiciousness!' / 'May there be welfare!' — the recurring benedictory refrain that opens the praise of Vīra and of the Saṅgha.",
@@ -299,11 +438,45 @@
       ]
     },
     {
+      "term": "bhante",
+      "scriptForm": "ભંતે",
+      "definition": "'O reverend one' — a respectful vocative addressing the guru (or, in the guru's absence, the established sthāpanā), before whom the vow is declared.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "Bharata-kṣetra",
+      "scriptForm": "ભરહવાસ",
+      "definition": "Bharata, the continent/region of our world where Tīrthaṅkaras arise and the tīrtha endures.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "bhāṣā-samiti",
+      "scriptForm": "ભાસાસમિઈ",
+      "definition": "Carefulness of speech; one of the five samitis (regulations of conduct).",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "bhāva",
       "scriptForm": "ભાવ",
-      "definition": "'Mode/attitude' — the inner disposition with which the restriction is held.",
+      "definition": "Inner state / disposition; the mental scope of the vow, held to one's capacity and free of attachment and aversion.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "bhava-jaladhi",
+      "scriptForm": "ભવ જલહિ",
+      "definition": "The 'ocean of worldly existence' (saṁsāra); the Jina and his tīrthas are the boat, raft and helmsman by which it is crossed.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -331,6 +504,14 @@
       ]
     },
     {
+      "term": "bhaya",
+      "scriptForm": "ભય",
+      "definition": "Fear/danger; v.9 lists the canonical great fears that remembering Pārśva's name dissolves.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "bhayahara",
       "scriptForm": "ભયહર / भयहर",
       "definition": "'fear-remover'; the epithet that gives the stotra its popular name.",
@@ -347,11 +528,52 @@
       ]
     },
     {
+      "term": "bīja",
+      "scriptForm": "",
+      "definition": "A 'seed' syllable (e.g. hrīṃ, oṃ, kṣipa, svāhā) that concentrates a mantra's power; several appear verbatim in vv.3–4, 7.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "bodhi",
+      "scriptForm": "બોહિં",
+      "definition": "The seed of enlightenment / attainment of right faith; what the closing verse prays for 'birth after birth'.",
+      "sutras": [
+        "smaran-4-upasargahar",
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "bodhi-lābha",
       "scriptForm": "બોહિલાભ",
       "definition": "'Attainment of enlightenment'; the gift of right insight/awakening petitioned in v.6 (Prakrit bohi-lābha).",
       "sutras": [
         "logassa"
+      ]
+    },
+    {
+      "term": "bol",
+      "scriptForm": "બોલ",
+      "definition": "A 'point' or spoken item of contemplation; here, the fifty resolutions (pacāsa bol).",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "brahma-randhra",
+      "scriptForm": "બ્રહ્મ રંધ્ર",
+      "definition": "The 'aperture of brahman' at the crown of the head, the upper point of the inner meditation-channel (v.5).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "caitya",
+      "scriptForm": "ચેઇય / ચૈત્ય",
+      "definition": "A Jain shrine or temple housing a Jina image; the hymn counts caityas across every region of the cosmos.",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -379,11 +601,35 @@
       ]
     },
     {
+      "term": "candra",
+      "scriptForm": "ચંદ",
+      "definition": "Moon — emblem of Vīra's serene face and the ornament of the sky (nabhas).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "cāritra",
       "scriptForm": "ચરિત્ત",
       "definition": "Right conduct; the 'unbroken walls' (akhaṇḍa-cāritra) of the Saṅgha-city.",
       "sutras": [
         "nandisutrani-pratham-sajay"
+      ]
+    },
+    {
+      "term": "caturanta-cakravartin",
+      "scriptForm": "ચાઉરંત ચક્કવટ્ટિ",
+      "definition": "'Universal monarch of the four quarters' — here a metaphor: the Arihanta is the sovereign wheel-turner of the Dharma, dharma-vara-cāuraṁta-cakkavaṭṭi.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "caturdaśa-rajju",
+      "scriptForm": "ચઉદહ રજ્જ",
+      "definition": "The fourteen-rajju vertical span of the inhabited universe (loka), through which karmically bound souls transmigrate.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -403,6 +649,22 @@
       ]
     },
     {
+      "term": "caud rāja (loka)",
+      "scriptForm": "ચઉદ રાજ",
+      "definition": "The fourteen-rajju cosmos — the full vertical extent of the Jain universe across which all jīva-yoni are distributed.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "caurāśī lakṣa",
+      "scriptForm": "ચોરાસી લક્ષ",
+      "definition": "Eighty-four lakh (8.4 million) — the traditional total number of jīva-yoni.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "cauvīsattho",
       "scriptForm": "ચઉવીસત્થો",
       "definition": "Prakrit name of the Second Āvaśyaka — the obligatory recitation honouring the twenty-four Tīrthaṅkaras.",
@@ -411,11 +673,44 @@
       ]
     },
     {
+      "term": "cauvīsī (caturviṁśati)",
+      "scriptForm": "ચોવીશી",
+      "definition": "A set of twenty-four Tīrthaṅkaras; the verse salutes the past (atīta), future (anāgata), and present (vartamāna) sets.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "chadmastha",
+      "scriptForm": "છઉમ",
+      "definition": "The state of being veiled by destructive karmas; 'viaṭṭa-chaüma' (v.8) means one who has cast off this veil — possessing unobstructed supreme knowledge and vision (kevala-jñāna and kevala-darśana).",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "chattīsa-guṇa",
       "scriptForm": "છત્તીસ ગુણ",
       "definition": "The thirty-six virtues that together define a true guru (18 + 18 across the two verses).",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "chha koṭi",
+      "scriptForm": "છ કોટિ",
+      "definition": "The 'six ways' in which the sāmāyika is undertaken — not doing, not causing, not approving wrongful acts, across mind, speech and body.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "cintāmaṇi",
+      "scriptForm": "ચિંતામણિ",
+      "definition": "The wish-fulfilling gem; with the wish-tree (suratarū) and wish-cow, a stock image for the boundless boon of meeting the Jina.",
+      "sutras": [
+        "ashtottari-tirthmala",
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -435,6 +730,14 @@
       ]
     },
     {
+      "term": "dāna-śīla-tapas-bhāva",
+      "scriptForm": "દાણ સીલ તવ ભાવ",
+      "definition": "The four-fold dharma: charity, ethical conduct, austerity, and inner disposition/intent.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "dānta",
       "scriptForm": "દંત / दान्त",
       "definition": "Tamed, self-controlled; one who has mastered the senses.",
@@ -445,9 +748,18 @@
     {
       "term": "deśāvagāśika",
       "scriptForm": "દેશાવગાશિક",
-      "definition": "The tenth lay vow: for a fixed short period, limiting one's field of movement and activity to a restricted 'region' (deśa), tightening the broader Digvrata limits.",
+      "definition": "The 10th lay vow: voluntarily narrowing, for a set time, the boundaries of one's movement and activity already limited by the 6th vow (dig-vrata), thereby reducing the scope for harm.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "deva / nāraka",
+      "scriptForm": "દેવતા / નારકી",
+      "definition": "Celestial beings and infernal (hell) beings; 4 lakh forms each in this enumeration.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -468,18 +780,22 @@
     },
     {
       "term": "Dharaṇendra",
-      "scriptForm": "ધરણિંદ / धरणेन्द्र",
-      "definition": "the serpent-lord (nāga yakṣa) who sheltered Pārśva with his hoods and venerates him (v.24).",
+      "scriptForm": "ધરણેન્દ્ર",
+      "definition": "The nāga-king (serpent lord) who, in tradition, shelters and protects Pārśvanātha — background to the hymn's serpent/poison imagery.",
       "sutras": [
-        "smaran-5-namiun-bhayahar"
+        "smaran-4-upasargahar",
+        "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
       "term": "dharma",
       "scriptForm": "ધમ્મો / धर्म",
-      "definition": "Righteous religion / moral law; here explicitly defined as ahiṁsā, saṁyama, and tava.",
+      "definition": "The teaching and right order proclaimed by the Jina; in v.7 the Arihanta is its giver, teacher, leader, charioteer (sārathi), and four-quartered universal monarch (cakravartin).",
       "sutras": [
-        "drumapushpika-sajjhay"
+        "drumapushpika-sajjhay",
+        "rai-mangalacharan",
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -501,9 +817,10 @@
     {
       "term": "dravya",
       "scriptForm": "દ્રવ્ય",
-      "definition": "'Substance' — the what of the vow: the objects or matters to which the restriction applies.",
+      "definition": "Substance / material things; here, the physical items a practitioner may keep during the vow, only as previously resolved.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -515,11 +832,59 @@
       ]
     },
     {
+      "term": "duhavyo / duhavāvyo / anumodyuṁ",
+      "scriptForm": "દુહવ્યો / દુહવાવ્યો / અનુમોદ્યું",
+      "definition": "Pained directly / caused to be pained / approved the paining of — the threefold agency (kṛta–kārita–anumodita) covered by the confession.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "durita",
+      "scriptForm": "દુરિય",
+      "definition": "Calamity, misfortune, evil/sin; the closing prayer asks Vīra for the 'destruction of all duritas' (savva-duriyāṇaṁ khaya).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "duvihaṁ tivihaṇaṁ",
+      "scriptForm": "દુવિહં તિવિહેણં",
+      "definition": "'Two-fold by three means' — the scope formula: abstaining from both doing and causing to be done (two-fold), through mind, speech, and body (three means).",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
       "term": "dvādaśāvarta",
       "scriptForm": "દ્વાદશાવર્ત",
       "definition": "'Twelve turnings' — the twelve ritual hand-movements (āvarta) made across the paired recitation, which name this salutation.",
       "sutras": [
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "dveṣa",
+      "scriptForm": "દ્વેષ",
+      "definition": "Aversion or hatred; the push against what is unpleasant. With rāga it forms the twin root of karmic bondage.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "dvividha-trividha",
+      "scriptForm": "દુવિહં તિવિહેણં",
+      "definition": "'By two ways and by three means' — the formula defining the reach of the renunciation: two ways = doing (karaṇa) and causing to be done (kārāpaṇa); three means = mind, speech, body.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "ekendriya",
+      "scriptForm": "એકેંદ્રિય",
+      "definition": "One-sensed beings, possessing only touch: the earth-, water-, fire-, air-, and plant-bodied jīvas.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -547,6 +912,22 @@
       ]
     },
     {
+      "term": "gajendra",
+      "scriptForm": "ગયંદ",
+      "definition": "Lord of elephants — emblem of Vīra's majestic gait and the ornament of land (sthala).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "gamanāgamana",
+      "scriptForm": "ગમણાગમણ",
+      "definition": "'Going and coming' — movement to and from the place of ritual, the occasion whose faults this sutra confesses.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
       "term": "gamaṇāgamaṇa",
       "scriptForm": "ગમણાગમણ",
       "definition": "Going and coming; movement to and fro, the occasion of the faults confessed.",
@@ -567,15 +948,49 @@
       "scriptForm": "ગણહર",
       "definition": "A chief disciple of a Tīrthaṅkara who systematizes his teaching; Mahāvīra had eleven, from Indrabhūti to Prabhāsa (vv.22–23).",
       "sutras": [
-        "nandisutrani-pratham-sajay"
+        "nandisutrani-pratham-sajay",
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "gārava",
+      "scriptForm": "ગારવ",
+      "definition": "Self-indulgent pride: ṛddhi- (in wealth/status), rasa- (in taste), and sātā- (in comfort) gārava.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "garhā",
+      "scriptForm": "ગરિહામિ",
+      "definition": "Censure before the guru — openly condemning the fault in the presence of one's teacher; 'garihāmi' = 'I condemn (it before the guru).'",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "garihāmi",
+      "scriptForm": "ગરિહામિ",
+      "definition": "'I reproach (myself before the guru)' — outward acknowledgement of faults in the teacher's presence.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
       "term": "gāthā",
-      "scriptForm": "ગાથા / गाथा",
-      "definition": "a Prakrit verse in the āryā family of metres; the unit in which all 25 verses are composed.",
+      "scriptForm": "ગાહા",
+      "definition": "A Prakrit verse in the āryā-type metre; the poet calls his praise a 'gāhā-juala' (pair of gāthās) in v.3.",
       "sutras": [
+        "smaran-3-virstava",
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "Gautama",
+      "scriptForm": "ગૌતમ",
+      "definition": "Gautamasvāmī (Indrabhūti Gautama), the chief gaṇadhara of Mahāvīra, famed for his labdhis and revered as a giver of blessings.",
+      "sutras": [
+        "rai-mangalacharan"
       ]
     },
     {
@@ -592,6 +1007,14 @@
       "definition": "Clan or family-line; teachers are identified by gotra (e.g. Kāśyapa, Kauśika, Hārita).",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "graha",
+      "scriptForm": "ગ્ગહ",
+      "definition": "A planetary/astral influence held to cause harm; one of the troubles that 'subside' in v.2.",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -629,9 +1052,11 @@
     },
     {
       "term": "gupti",
-      "scriptForm": "ગુત્તિ / તિગુત્તો",
+      "scriptForm": "ગુપ્તિ",
       "definition": "Restraint or guarding; the three guptis are control of mind, speech and body. 'Guttidharo' = bearer of these guards.",
       "sutras": [
+        "gamanagamano",
+        "padilehana",
         "panchindiya"
       ]
     },
@@ -660,11 +1085,36 @@
       ]
     },
     {
-      "term": "īryā-samiti",
-      "scriptForm": "ઈર્યાસમિતિ",
-      "definition": "Carefulness of movement — walking watchfully so as not to crush living beings; the first of the five samitis.",
+      "term": "Iriyāvahiyaṁ",
+      "scriptForm": "ઇરિયાવહિયં",
+      "definition": "The immediately preceding sūtra, a confession (micchāmi dukkaḍaṁ) for harm done to living beings while moving about — the fault that Tassa Uttarī now resolves to purify.",
       "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "īryā-samiti",
+      "scriptForm": "ઇર્યાસમિતિ",
+      "definition": "Carefulness in walking, so as not to harm beings underfoot; the samiti most directly engaged by movement on the road.",
+      "sutras": [
+        "gamanagamano",
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "Jambū",
+      "scriptForm": "જંબૂ",
+      "definition": "Jambūsvāmī, traditionally the last person of this era to attain kevala-jñāna (omniscience); remembered in verse 2.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "jāva … pajjuvāsāmi",
+      "scriptForm": "જાવ … પજ્જુવાસામિ",
+      "definition": "'For as long as I attend upon …' — the clause fixing the vow's duration; in the ordinary sāmāyika the object is 'niyama', here it is the 'deśāvagāśika' observance.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -676,12 +1126,22 @@
       ]
     },
     {
+      "term": "jāva niyamaṁ",
+      "scriptForm": "જાવ નિયમં",
+      "definition": "'For as long as (I am bound by) the rule' — the clause fixing the duration of the vow to the period of the sāmāyika.",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
       "term": "jayaṇā",
       "scriptForm": "જયણા",
       "definition": "Yatanā — careful, prudent leeway; the conscientious caution the layperson exercises where total avoidance is impossible (e.g. in unavoidable household activity).",
       "sutras": [
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "dravya-kshetra-kaal-bhav",
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -718,11 +1178,43 @@
       ]
     },
     {
+      "term": "Jinacandra",
+      "scriptForm": "જિણચંદ",
+      "definition": "'Moon among the Jinas', a laudatory epithet for Pārśvanātha in the final verse.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "Jīrāpallī / Jīrāvalā",
+      "scriptForm": "જિરાપલ્લી",
+      "definition": "The renowned Pārśvanātha pilgrimage site (Jīrāvalā, Sirohī, Rājasthān) after which this form of the Lord is named.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "jīva",
       "scriptForm": "જીવ",
       "definition": "A living being or soul; in Jain thought possessed even by earth, water, fire, air, and plant bodies.",
       "sutras": [
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "jīva-rāśi",
+      "scriptForm": "જીવરાશિ",
+      "definition": "The aggregate or classes of living beings; the title-theme of the sūtra.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "jīva-yoni",
+      "scriptForm": "જીવાયોનિ",
+      "definition": "A birth-form or womb — a distinct kind of physical situation into which a soul can be born; counted as 84 lakh in total.",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -742,11 +1234,20 @@
       ]
     },
     {
+      "term": "jñāna-dravya",
+      "scriptForm": "જ્ઞાનદ્રવ્ય",
+      "definition": "Implements and materials dedicated to sacred knowledge — manuscripts, writing-boards, stands, rosaries — disrespect to which is confessed.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "kāla",
       "scriptForm": "કાલ",
       "definition": "'Time' — the duration of the vow, here a muhūrta up to the measure of one's resolve.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -774,11 +1275,27 @@
       ]
     },
     {
+      "term": "kalpa-pādapa",
+      "scriptForm": "કપ્પપાય(વ)",
+      "definition": "The kalpa-vṛkṣa, the wish-granting celestial tree; paired with the cintāmaṇi as something right faith surpasses.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "Kamaṭha",
       "scriptForm": "કમઠ / कमठ",
       "definition": "the demon (asura) whose storm-and-flood assault Pārśva endured without breaking his meditation (v.22).",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "karaṇa-kārāpaṇa",
+      "scriptForm": "ન કરેમિ, ન કારવેમિ",
+      "definition": "Doing oneself and causing another to do; 'na karemi, na kāravemi' = 'I neither do nor cause to be done.' (A third mode, approving — anumodanā — is not undertaken in this two-way form.)",
+      "sutras": [
+        "karemi-bhante"
       ]
     },
     {
@@ -799,22 +1316,26 @@
     },
     {
       "term": "kaṣāya",
-      "scriptForm": "કસાય",
-      "definition": "The four passions — anger (krodha), pride (mana), deceit (maya), greed (lobha); the guru is 'mukko', free of them.",
+      "scriptForm": "કષાય",
+      "definition": "The four corrosive passions — krodha (anger), māna (pride), māyā (deceit) and lobha (greed) — items six through nine, which stain the soul and prolong bondage.",
       "sutras": [
+        "adhar-papsthanak",
+        "padilehana",
         "panchindiya",
+        "smaran-3-virstava",
         "suguru-dwadashavarta-vandana"
       ]
     },
     {
       "term": "kāyotsarga",
       "scriptForm": "કાઉસ્સગ્ગ",
-      "definition": "Meditative 'abandonment of the body' in stillness, measured in Logassa-counts; the longer observances that use this sūtra prescribe progressively longer kāyotsargas (12 / 20 / 40 Logassa + 1 Navkar).",
+      "definition": "Lit. 'abandonment of the body'; the practice of standing or sitting motionless, detached from bodily concerns, while meditating — the fifth Āvaśyaka. It is the act this sūtra introduces, and its duration is counted in Logassa recitations.",
       "sutras": [
         "annattha",
         "bruhad-atiyar",
         "iriyavahiyam",
-        "logassa"
+        "logassa",
+        "tassa-uttari"
       ]
     },
     {
@@ -851,12 +1372,44 @@
       ]
     },
     {
+      "term": "khāmaṇā / kṣamā",
+      "scriptForm": "ખમાવણા",
+      "definition": "Mutual forgiveness: asking pardon of all beings for harm done and granting pardon in return, so no enmity (vaira) remains.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "khaṇḍana",
+      "scriptForm": "ખંડન",
+      "definition": "Breaking or breach — failure to keep a rule of conduct intact.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "khātikā",
+      "scriptForm": "ખાતિકા",
+      "definition": "A defensive moat or trench; here a moat of glowing khadira (acacia) embers encircling the fortress.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "kīrtana",
       "scriptForm": "કિત્તણ",
       "definition": "Praise, extolling; the verb kittaïssaṁ (v.1) is the reciter's vow 'I will praise'.",
       "sutras": [
         "logassa",
         "panch-parmeshthi-sajjhay"
+      ]
+    },
+    {
+      "term": "kṛta-kārita-anumodita",
+      "scriptForm": "",
+      "definition": "The three modes of agency — doing a deed oneself (sevyuṁ), causing another to do it (sevarāvyuṁ), and approving another's doing of it (anumodyuṁ) — all of which are confessed.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -879,9 +1432,26 @@
     {
       "term": "kṣetra",
       "scriptForm": "ક્ષેત્ર",
-      "definition": "'Place/field' — the spatial extent within which one binds oneself ('here or elsewhere').",
+      "definition": "Place / region; the spatial boundary within which the vow is kept (inside the doorway of the upāśraya or present place).",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "labdhi",
+      "scriptForm": "લબ્ધિ",
+      "definition": "A supernormal power or attainment arising from spiritual practice; Gautamasvāmī is called a 'treasury of labdhis'.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "leśyā",
+      "scriptForm": "લેશ્યા",
+      "definition": "The 'color' or tint of the soul's mental disposition; the three dark ones — kṛṣṇa (black), nīla (blue), kāpota (grey) — are renounced.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -890,6 +1460,22 @@
       "definition": "'In the world / loka'; widens the fifth bow to embrace all true monks everywhere.",
       "sutras": [
         "navkar"
+      ]
+    },
+    {
+      "term": "lokottama",
+      "scriptForm": "લોગુત્તમ",
+      "definition": "'Supreme in the world' — opening epithet of the 'loga' cluster (v.5): supreme in, lord of, benefactor of, lamp of, and illuminator of the world.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "mada",
+      "scriptForm": "મય",
+      "definition": "Pride or intoxicating conceit, one of the faults Vīra has wholly transcended (v.3).",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -953,7 +1539,8 @@
       "scriptForm": "મહાવીર",
       "definition": "The 24th and final Tīrthaṅkara of this era; here hailed as world-teacher (jagaguru) and 'source of all scripture' (suyāṇaṁ pabhavo).",
       "sutras": [
-        "nandisutrani-pratham-sajay"
+        "nandisutrani-pratham-sajay",
+        "smaran-3-virstava"
       ]
     },
     {
@@ -965,11 +1552,27 @@
       ]
     },
     {
+      "term": "maithuna",
+      "scriptForm": "મૈથુન",
+      "definition": "Unchastity; sexual misconduct.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "makkaḍā-saṁtāṇa",
       "scriptForm": "મક્કડા-સંતાણા",
       "definition": "Spider-webs (literally 'spiders' threads'), one of the things one may inadvertently disturb while moving.",
       "sutras": [
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "mana-vacana-kāya",
+      "scriptForm": "મણેણં, વાયાએ, કાએણં",
+      "definition": "The three instruments of all action — mind, speech, and body — through which the renunciation operates.",
+      "sutras": [
+        "karemi-bhante"
       ]
     },
     {
@@ -983,11 +1586,14 @@
     {
       "term": "maṅgala",
       "scriptForm": "મંગલ",
-      "definition": "That which is auspicious and removes obstacles; here each Parameṣṭhin is declared to be the reciter's blessing.",
+      "definition": "An auspicious benediction; the closing 'Sarvamaṅgala-māṅgalyaṁ…' seals the recitation with praise of the Jina-śāsana.",
       "sutras": [
         "drumapushpika-sajjhay",
         "navkar",
         "panch-parmeshthi-sajjhay",
+        "rai-mangalacharan",
+        "samayik-parvani",
+        "smaran-1-bruhannamaskar",
         "smaran-2-ajitshanti"
       ]
     },
@@ -996,15 +1602,49 @@
       "scriptForm": "મંગલાચરણ",
       "definition": "An auspicious invocation placed at the outset of a rite or text; the Navkar serves this role opening the Devasi pratikramaṇa.",
       "sutras": [
-        "navkar"
+        "navkar",
+        "rai-mangalacharan"
       ]
     },
     {
       "term": "mantra",
-      "scriptForm": "મંત / मन्त्र",
+      "scriptForm": "મંતં",
       "definition": "a sacred efficacious formula; the hymn treats Pārśva's name-syllables as a mantra and conceals a special one within itself.",
       "sutras": [
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "mantrarāja",
+      "scriptForm": "મંત્રરાજ",
+      "definition": "'King of mantras' — the supreme seed-mantra of Pārśva that the verse says must awaken, embodied, in the practitioner's heart.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "manuṣya",
+      "scriptForm": "મનુષ્ય",
+      "definition": "Humans; 14 lakh birth-forms ('manuṣyanā bheda').",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "mārī",
+      "scriptForm": "મારી",
+      "definition": "Epidemic or pestilence; listed among afflictions calmed by the mantra.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "māyā-mṛṣāvāda",
+      "scriptForm": "માયા–મૃષાવાદ",
+      "definition": "Deceitful falsehood; lying compounded with cunning intent to mislead.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1026,11 +1666,16 @@
     {
       "term": "micchā mi dukkaḍaṁ",
       "scriptForm": "મિચ્છા મિ દુક્કડં",
-      "definition": "'May my wrong-doing be in vain / undone' — the standard formula of repentance that seals each section of the confession.",
+      "definition": "'May my wrong-doing be in vain' — the formula of confession that retracts and atones for the fault, here sealing the whole contemplation.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar",
+        "gamanagamano",
         "iriyavahiyam",
-        "laghu-atiyar"
+        "jivrashi",
+        "laghu-atiyar",
+        "padilehana",
+        "samayik-parvani"
       ]
     },
     {
@@ -1038,7 +1683,32 @@
       "scriptForm": "મિથ્યાત્વ",
       "definition": "False belief or wrong worldview; here classed four-fold as laukika/lokottara and deva-gata/guru-gata (worldly vs misdirected-religious, regarding deities vs teachers).",
       "sutras": [
-        "bruhad-atiyar"
+        "bruhad-atiyar",
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "mithyātva-śalya",
+      "scriptForm": "મિથ્યાત્વશલ્ય",
+      "definition": "The 'thorn' (śalya) of wrong belief; deluded or false view of reality — the eighteenth and most fundamental source of sin, since it underlies the others.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "moha",
+      "scriptForm": "મોહ",
+      "definition": "Delusion/deluding karma; its absence marks the Jina's perfect insight.",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "mohanīya",
+      "scriptForm": "મોહની",
+      "definition": "Deluding karma; here in its faith-deluding forms — samyaktva-, miśra-, and mithyātva-mohanīya.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1046,6 +1716,7 @@
       "scriptForm": "મૃષાવાદ",
       "definition": "False or harmful speech; the 2nd vow is abstention from gross lying.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar"
       ]
     },
@@ -1055,6 +1726,14 @@
       "definition": "Abstaining from gross falsehood — the second vow (truthfulness).",
       "sutras": [
         "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "muhapattī",
+      "scriptForm": "મુહપત્તી",
+      "definition": "The small mouth-cloth inspected and held during the rite to guard subtle aerial life and speech.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1071,6 +1750,14 @@
       "definition": "A Jain monk; a renunciant who has taken the great vows.",
       "sutras": [
         "muni-vandana"
+      ]
+    },
+    {
+      "term": "nāda",
+      "scriptForm": "નાદ",
+      "definition": "The subtle inner sound with which the yogi merges; the verse likens absorption in the mantra to a yogi's union with nāda (v.10).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -1092,9 +1779,10 @@
     {
       "term": "namaskāra",
       "scriptForm": "નમુક્કાર",
-      "definition": "the salutation (Navkar) to the Arihantas by which the kāyotsarga is formally concluded (pāremi).",
+      "definition": "Reverent salutation; here the Pañca-Namaskāra / Navkāra mantra whose lines are placed over the body.",
       "sutras": [
-        "annattha"
+        "annattha",
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1106,11 +1794,27 @@
       ]
     },
     {
+      "term": "namotthuṇaṁ",
+      "scriptForm": "નમોત્થુણં",
+      "definition": "'Reverence be (to…)' — the opening words and common name of this sūtra; from Sanskrit namo'stu.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "nandi",
       "scriptForm": "નંદિ",
       "definition": "Joy, felicity; the prayer of vv.35–37, punning on the poet Nandiṣeṇa's own name.",
       "sutras": [
         "smaran-2-ajitshanti"
+      ]
+    },
+    {
+      "term": "nava-pada",
+      "scriptForm": "નવ પદ",
+      "definition": "The 'nine padas' — the five salutation-lines plus the four concluding lines (Eso pañca…, Savva-pāvappaṇāsaṇo…, Maṅgalāṇaṁ…, Paḍhamaṁ hoi maṅgalaṁ) that make up the full Navkāra.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1122,11 +1826,43 @@
       ]
     },
     {
+      "term": "navkārvālī",
+      "scriptForm": "નવકારવાલી",
+      "definition": "The rosary used for counting Navkar recitations, named among the permitted possessions (dravya).",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "nindā",
+      "scriptForm": "નિંદામિ",
+      "definition": "Self-censure — inwardly condemning one's own past fault; 'nindāmi' = 'I censure (it within myself).'",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "nindāmi",
+      "scriptForm": "નિંદામિ",
+      "definition": "'I censure (myself)' — inward self-criticism of one's faults.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
       "term": "nirañjana / nirvāṇa",
       "scriptForm": "નિરંજન",
       "definition": "The 'stainless' liberated state; the final abode (dhāma) the two Jinas reach in v.14.",
       "sutras": [
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "nirghātana",
+      "scriptForm": "નિગ્ઘાયણ",
+      "definition": "Striking down, destruction, eradication — here the destruction of accumulated sinful karmas, stated as the purpose (-aṭṭhāe = arthe, 'for the sake of') of the kāyotsarga.",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1138,11 +1874,35 @@
       ]
     },
     {
+      "term": "nissaṅga",
+      "scriptForm": "નિસ્સંગ",
+      "definition": "Unattached, free of all clinging; an epithet of the liberated Mahāvīra (v.3).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "niyama",
       "scriptForm": "નિયમ",
       "definition": "A firm personal rule or restriction the householder adopts within a vow.",
       "sutras": [
         "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "paccakkhāmi",
+      "scriptForm": "પચ્ચખ્ખામિ",
+      "definition": "'I renounce / I abstain' — the verb of renunciation that enacts the vow.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "Pādaliptasūri",
+      "scriptForm": "પાલિત્તય",
+      "definition": "Ācārya Pālitta/Pādalipta, named in v.6 as one who greatly honoured Vīra; sometimes linked to the hymn's authorship (see notes).",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -1154,11 +1914,35 @@
       ]
     },
     {
+      "term": "paḍikkamāmi",
+      "scriptForm": "પડિક્કમામિ",
+      "definition": "'I turn back / I repent' — withdrawal from transgression, the root act of pratikramaṇa.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
       "term": "paḍikkamaṇa / pratikramaṇa",
       "scriptForm": "પડિક્કમણ",
       "definition": "'Turning back' — the act of reflecting on and atoning for a transgression; here the reciter's resolve to repent (paḍikkamiuṁ).",
       "sutras": [
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "Padmāvatī",
+      "scriptForm": "પદ્માવતી",
+      "definition": "The yakṣiṇī (female guardian deity) of Pārśvanātha, worshipped alongside Dharaṇendra.",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "paiśunya",
+      "scriptForm": "ચાડી",
+      "definition": "Tale-bearing or backbiting (Gujarati 'chāḍī'); secretly carrying others' faults to cause discord.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1213,11 +1997,28 @@
       ]
     },
     {
+      "term": "pañcāṅga",
+      "scriptForm": "પંચાંગ",
+      "definition": "'Five limbs' — the five-fold protective placement (nyāsa) of mantra-syllables on the body for guarding the meditator (v.7).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "pañcendriya",
-      "scriptForm": "પંચિંદિય",
+      "scriptForm": "પંચેંદ્રિય",
       "definition": "The five senses (touch, taste, smell, sight, hearing); the guru is 'sanvarano' — one who restrains them.",
       "sutras": [
+        "jivrashi",
         "panchindiya"
+      ]
+    },
+    {
+      "term": "paṅkaja",
+      "scriptForm": "પંકય",
+      "definition": "Lotus — emblem of Vīra's eyes and the ornament of water (jala).",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -1229,11 +2030,59 @@
       ]
     },
     {
+      "term": "pāpa-karma",
+      "scriptForm": "પાવ કમ્મ",
+      "definition": "Sinful / demeritorious karma; the bondage that the practitioner aims to destroy (nigghāyaṇa) through this act (Prakrit pāvāṇaṁ kammāṇaṁ).",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
       "term": "pāpa-prabandha",
       "scriptForm": "પાવપબંધ",
       "definition": "The 'bonds' or accumulated continuity of sin which, v.7 declares, dissolve at the utterance of these names.",
       "sutras": [
         "bharahesar-sajjhay"
+      ]
+    },
+    {
+      "term": "pāpa-sthānaka",
+      "scriptForm": "પાપસ્થાનક",
+      "definition": "A 'seat' or source of sin; one of the eighteen broad categories of conduct through which a soul incurs harmful (pāpa) karma.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "para-parivāda",
+      "scriptForm": "પરપરિવાદ",
+      "definition": "Censuring or slandering others; finding fault with people behind their backs.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "parameṣṭhin",
+      "scriptForm": "પરમેષ્ઠિ",
+      "definition": "The five Supreme Beings — arihanta, siddha, ācārya, upādhyāya, sādhu — saluted in the Navkāra and invoked here for protection.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "pāraṇā / pārvāṇī",
+      "scriptForm": "પારવાની",
+      "definition": "The formal act of releasing or 'breaking' a completed vow; here, the procedure for concluding the sāmāyika.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "parigraha",
+      "scriptForm": "પરિગ્રહ",
+      "definition": "Possessiveness; attachment to possessions and accumulation.",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1243,6 +2092,14 @@
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "pariharvuṁ / pariharuṁ",
+      "scriptForm": "પરિહરું",
+      "definition": "'To forsake, renounce' — the verb governing the twenty-five faults to be abandoned.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1259,6 +2116,14 @@
       "definition": "'I attend upon / abide in' — to dwell within the bound observance for the set period.",
       "sutras": [
         "deshavagasik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "paryupāsanā",
+      "scriptForm": "પજ્જુવાસામિ",
+      "definition": "Devoted attendance / waiting upon; 'pajjuvāsāmi' = 'I attend upon (this state),' i.e. I remain steadfast in equanimity for the vow's duration.",
+      "sutras": [
+        "karemi-bhante"
       ]
     },
     {
@@ -1327,6 +2192,22 @@
       ]
     },
     {
+      "term": "phalaśruti",
+      "scriptForm": "",
+      "definition": "The closing 'statement of fruit' (v8) declaring the reward of the recitation — freedom from fear, disease, and affliction.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "pidhāna",
+      "scriptForm": "પિધાન",
+      "definition": "A lid or covering; the diamond roof sealing the fortress from above (v6).",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "piṇḍa",
       "scriptForm": "પિંડ",
       "definition": "Alms-food gathered as a 'lump'; nāṇā-piṇḍa = devoted to varied alms collected from many homes.",
@@ -1343,10 +2224,35 @@
       ]
     },
     {
+      "term": "poṣadha",
+      "scriptForm": "પોસહ",
+      "definition": "A periodic fast-and-restraint observance kept on holy days (parva).",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "prabhāvanā",
+      "scriptForm": "પભાવણા",
+      "definition": "Acts that illuminate and glorify the tīrtha / Jain order, raising its esteem in the world.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "praṇāma",
+      "scriptForm": "પણામ",
+      "definition": "Reverential obeisance or bow; v.3 declares even a single bow to Pārśva 'highly fruitful'.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "prāṇātipāta",
       "scriptForm": "પ્રાણાતિપાત",
       "definition": "Killing or injuring living beings; the 1st vow is prāṇātipāta-viramaṇa, abstention from such harm.",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar"
       ]
     },
@@ -1367,20 +2273,81 @@
       ]
     },
     {
-      "term": "pratikramaṇa",
-      "scriptForm": "પ્રતિક્રમણ",
-      "definition": "'Turning back' — the act of reflective confession and atonement; here applied specifically to disrespect of the guru.",
+      "term": "praśasti",
+      "scriptForm": "પ્રશસ્તિ",
+      "definition": "A laudatory or eulogistic verse; verse 5 is a praśasti proclaiming the victory of the Jaina śāsana.",
       "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "pratikramaṇa",
+      "scriptForm": "પડિક્કમામિ",
+      "definition": "'Turning back' / retreat from transgression; 'paḍikkamāmi' = 'I withdraw (from that past fault),' the root act that names the whole ritual.",
+      "sutras": [
+        "karemi-bhante",
         "smaran-8-laghu-ajitshanti",
         "suguru-dwadashavarta-vandana"
       ]
     },
     {
+      "term": "pratilekhanā",
+      "scriptForm": "પડિલેહણ / પ્રતિલેખના",
+      "definition": "The mindful visual-and-tactile inspection of cloth and body for any living being before use; the act this formula accompanies.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
       "term": "pratyākhyāna",
       "scriptForm": "પચ્ચખ્ખાણ",
-      "definition": "A formal renunciation or vow-formula by which one gives up a defined activity for a defined span of time; the sixth Āvaśyaka.",
+      "definition": "A formal renunciation or vow taken for a coming period; the sixth Āvaśyaka. Here it frames the sāmāyika undertaken for the deśāvagāśika.",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "pratyākhyāna (paccakkhāṇa)",
+      "scriptForm": "પચ્ચક્ખાણ",
+      "definition": "Renunciation or vow-resolution — the sixth Āvaśyaka, under which the sāmāyika is taken and concluded.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "prāyaścitta",
+      "scriptForm": "પાયચ્છિત્ત",
+      "definition": "Atonement or expiation; the prescribed corrective penance by which a fault is repaired (Prakrit pāyacchitta).",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "preta / piśāca / bhūta",
+      "scriptForm": "",
+      "definition": "Classes of malevolent spirits and ghosts that the Name and mantra are said to drive away (vv.3, 13).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "pṛthvīkāya",
+      "scriptForm": "પૃથ્વીકાય",
+      "definition": "Earth-bodied beings — life embodied in earth and minerals.",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "puruṣottama",
+      "scriptForm": "પુરિસુત્તમ",
+      "definition": "'Highest among men' — first of the four 'purisa' (best-of-men) epithets in verse 4, alongside lion, white-lotus, and fragrant-elephant of men.",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1392,11 +2359,52 @@
       ]
     },
     {
+      "term": "rāga",
+      "scriptForm": "રાગ",
+      "definition": "Attachment; the three named are kāma- (sensual), sneha- (affectional), and dṛṣṭi- (dogmatic) attachment.",
+      "sutras": [
+        "adhar-papsthanak",
+        "padilehana"
+      ]
+    },
+    {
+      "term": "rāga-dveṣa",
+      "scriptForm": "રાગદ્વેષ",
+      "definition": "Attachment and aversion — the two passions the practitioner resolves to remain free of during the vow.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "rajoharaṇa",
       "scriptForm": "રયહરણ",
       "definition": "The woollen broom an ascetic uses to gently sweep a place before sitting, to avoid harming tiny beings; an emblem of the monk.",
       "sutras": [
         "muni-vandana"
+      ]
+    },
+    {
+      "term": "ratha-yātrā",
+      "scriptForm": "રહજત્તા",
+      "definition": "The ceremonial chariot-procession of the Jina image.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "rati-arati",
+      "scriptForm": "રતિઅરતિ",
+      "definition": "Indulgent delight and discontented aversion — taking pleasure in the sinful and displeasure in the wholesome.",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "ratna-traya",
+      "scriptForm": "જ્ઞાન-દર્શન-ચારિત્ર",
+      "definition": "The 'three jewels' — right knowledge (jñāna), right faith (darśana), and right conduct (cāritra) — to be adopted; their harm is virādhanā.",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1416,6 +2424,54 @@
       ]
     },
     {
+      "term": "ṣaḍ-āvaśyaka",
+      "scriptForm": "છવ્વિહ આવસ્સય",
+      "definition": "The six daily obligatory observances in which the devotee is to be diligent each day.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "ṣaḍ-jīva-karuṇā",
+      "scriptForm": "છજ્જીવકરુણા",
+      "definition": "Compassion toward the six classes of living beings (earth-, water-, fire-, air-, plant-bodied, and mobile beings).",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "ṣaḍ-jīva-nikāya",
+      "scriptForm": "છવ્વિહ જીવનિકાય",
+      "definition": "The six classes of living beings — earth-, water-, fire-, air-bodied, plant life, and mobile (trasa) beings — toward all of whom forgiveness is sought.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "ṣaḍ-jīvanikāya",
+      "scriptForm": "ષટ્ જીવનિકાય",
+      "definition": "The six classes of embodied life: earth-bodied (pṛthvīkāya), water-bodied (apkāya), fire-bodied (teukāya), air-bodied (vāukāya), plant-bodied (vanaspatikāya), and mobile (traskāya) beings.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "sādhāraṇa / nigoda",
+      "scriptForm": "સાધારણ",
+      "definition": "Common-bodied vegetable life in which innumerable souls share a single body; the most numerous single class (14 lakh).",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "sādharmika-vātsalya",
+      "scriptForm": "સાહમ્મિઆણ વચ્છલ્લં",
+      "definition": "Affectionate service and support toward co-religionists who share one's faith.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "sādhu",
       "scriptForm": "સાહૂ",
       "definition": "An ascetic striving on the path; the fifth Parameṣṭhin, honoured with the others in the Navkar though not given a separate verse here.",
@@ -1423,7 +2479,8 @@
         "drumapushpika-sajjhay",
         "muni-vandana",
         "pakkhi-khamana",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1459,12 +2516,37 @@
       ]
     },
     {
+      "term": "sajjhāya",
+      "scriptForm": "સજ્ઝાય",
+      "definition": "Sacred-study recitation (Skt. svādhyāya); a hymn meant for reflective study, not one of the six Āvaśyakas.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "sajjhāya / svādhyāya",
       "scriptForm": "સજ્ઝાય",
       "definition": "Sacred-study recitation performed in the closing study-portion of a pratikramaṇa; not one of the six Āvaśyakas.",
       "sutras": [
         "bharahesar-sajjhay",
         "nandisutrani-pratham-sajay"
+      ]
+    },
+    {
+      "term": "śakra-stava",
+      "scriptForm": "શક્રસ્તવ",
+      "definition": "'Praise (stava) of Śakra' — the hymn of homage to the Arihantas traditionally spoken by Śakra/Indra; also called Namutthuṇaṁ or the Praṇipāta-sūtra.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "śalya",
+      "scriptForm": "સલ્લ",
+      "definition": "An inner 'thorn' obstructing liberation: māyā- (deceit), nidāna- (binding desire for reward), and mithyādarśana- (false faith) śalya.",
+      "sutras": [
+        "padilehana",
+        "tassa-uttari"
       ]
     },
     {
@@ -1477,10 +2559,22 @@
     },
     {
       "term": "samavasaraṇa",
-      "scriptForm": "",
-      "definition": "The divine preaching-assembly an Arhat addresses after enlightenment, to which gods and beings rush (vv.11–13).",
+      "scriptForm": "સમોસરણ",
+      "definition": "The divinely fashioned preaching assembly-hall in which a Tīrthaṅkara delivers his first sermon after attaining omniscience.",
       "sutras": [
+        "ashtottari-tirthmala",
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "sāmāyika",
+      "scriptForm": "સામાઇયં",
+      "definition": "The state and vow of equanimity — a set period (traditionally one muhūrta, ~48 minutes) of withdrawing from worldly activity to rest in evenness of mind; the first of the six Āvaśyakas.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav",
+        "karemi-bhante",
+        "samayik-parvani"
       ]
     },
     {
@@ -1493,9 +2587,10 @@
     },
     {
       "term": "samiti",
-      "scriptForm": "સમિઓ",
-      "definition": "The five carefulnesses in daily acts: walking, speaking, seeking alms, handling objects, and disposal.",
+      "scriptForm": "સમિતિ",
+      "definition": "Carefulness — the five rules of vigilant conduct (in walking, speech, seeking food, handling things, and disposal) that prevent harm to living beings.",
       "sutras": [
+        "gamanagamano",
         "panchindiya"
       ]
     },
@@ -1505,6 +2600,14 @@
       "definition": "a hymn of sustained praise; the poem calls itself a saṁstava that destroys great fear.",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "saṁvara",
+      "scriptForm": "સંવર",
+      "definition": "Stopping the inflow of karma through restraint.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1529,7 +2632,9 @@
       "definition": "Right faith or right worldview — confidence in the Jina, true teacher and Jina-taught dharma; its five atichāras are reviewed before the vows themselves.",
       "sutras": [
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay",
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -1559,6 +2664,14 @@
       ]
     },
     {
+      "term": "saṅghaṭṭa",
+      "scriptForm": "સંઘટ્ટ",
+      "definition": "Contact or brushing-against; here, inadvertent physical touch of beings or persons while moving.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
       "term": "Śānti",
       "scriptForm": "સંતિ",
       "definition": "'Peace'; Śāntinātha, the 16th Tīrthaṅkara — and, by word-play, the peace the devotee seeks.",
@@ -1584,11 +2697,20 @@
       ]
     },
     {
+      "term": "sarvajña",
+      "scriptForm": "સવ્વન્નૂ",
+      "definition": "'All-knowing'; paired with sarvadarśin, 'all-seeing' (savvadarisī), in verse 10.",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "śāsana",
       "scriptForm": "સાસણ",
       "definition": "The teaching/dispensation of a Jina; v.24 proclaims the triumph of Vīra's śāsana, which destroys false doctrine (kusamaya).",
       "sutras": [
-        "nandisutrani-pratham-sajay"
+        "nandisutrani-pratham-sajay",
+        "rai-mangalacharan"
       ]
     },
     {
@@ -1600,11 +2722,44 @@
       ]
     },
     {
+      "term": "śāśvata-jina",
+      "scriptForm": "શાશ્વતા જિન",
+      "definition": "The four eternal Jinas — Ṛṣabhānana, Candrānana, Vardhamāna, Vāriṣeṇa — whose images are held to exist perpetually.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "śāśvata-pratimā",
+      "scriptForm": "સાસય પડિમા",
+      "definition": "An eternal, beginningless Jina image enshrined in the heavens and cosmic mountains, contrasted with historically founded (non-eternal) shrines.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "ṣaṭ-kāya",
+      "scriptForm": "ષટ્કાય",
+      "definition": "The six classes of embodied life — earth-, water-, fire-, air-, plant-, and mobile-bodied beings — whose injury (virādhanā) is confessed.",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
       "term": "saubhāgya",
       "scriptForm": "સોહગ્ગ",
       "definition": "Good fortune and well-being; one of the worldly boons promised to the devotee (v.7).",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "sāvadya-yoga",
+      "scriptForm": "સાવજ્જં જોગં",
+      "definition": "Sinful or blameworthy activity — any act of mind, speech, or body that causes harm; what the practitioner renounces for the vow's duration.",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
       ]
     },
     {
@@ -1623,7 +2778,24 @@
         "logassa",
         "navkar",
         "pakkhi-khamana",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "siddhi",
+      "scriptForm": "સિદ્ધિ",
+      "definition": "Accomplishment or attainment — both worldly success and, ultimately, spiritual fulfilment; the hymn closes promising 'all siddhi' (vv.11, 14).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "siddhi-gati",
+      "scriptForm": "સિદ્ધિ ગઇ",
+      "definition": "The 'destination of perfection' — the abode of the liberated, qualified in v.10 by seven epithets: śiva (blissful), acala (immovable), aruja (free of disease), ananta (endless), akṣaya (imperishable), avyābādha (untroubled), apunarāvṛtti (no return to rebirth).",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1654,11 +2826,17 @@
     },
     {
       "term": "smaraṇa",
-      "scriptForm": "સ્મરણ",
-      "definition": "A 'remembrance' — a protective stotra recited for spiritual recollection and safeguarding; here the ninth of the fixed Nine Smaraṇas.",
+      "scriptForm": "સમરણ / સ્મરણ",
+      "definition": "A 'remembrance' — a short protective stotra recited from memory; this is the sixth of the nine such Smaraṇas in the Pākṣika pratikramaṇa.",
       "sutras": [
+        "rai-mangalacharan",
+        "smaran-1-bruhannamaskar",
         "smaran-2-ajitshanti",
+        "smaran-3-virstava",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
       ]
@@ -1674,9 +2852,11 @@
     {
       "term": "śrāvaka",
       "scriptForm": "શ્રાવક",
-      "definition": "A Jain lay follower (householder); feminine śrāvikā. The 'one confessing' here.",
+      "definition": "A Jain lay devotee / householder; 'śrāddha' in the verse's saḍḍha; the audience and subject of these duties.",
       "sutras": [
-        "bruhad-atiyar"
+        "bruhad-atiyar",
+        "gamanagamano",
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1696,11 +2876,21 @@
       ]
     },
     {
+      "term": "stambhana",
+      "scriptForm": "",
+      "definition": "A tāntric act of 'immobilizing' or arresting — here halting approaching karmic afflictions ('stambhaya stambhaya svāhā', v.4).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "stava",
       "scriptForm": "સ્તવ",
-      "definition": "A hymn of praise to a Jina or holy being; here a short (laghu) one.",
+      "definition": "A hymn of praise to a Jina; here, praise of Vīra (hence Vīra-stava).",
       "sutras": [
         "smaran-2-ajitshanti",
+        "smaran-3-virstava",
+        "smaran-6-jirapalli-parshva",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
       ]
@@ -1727,6 +2917,30 @@
       "definition": "The roll or chain of elders — the ordered succession of teachers, named verse by verse in this sajjhāy.",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "Sthūlabhadra",
+      "scriptForm": "સ્થૂલભદ્ર",
+      "definition": "A celebrated early ācārya renowned for mastery over the passions; named among the auspicious in verse 1.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "stuti",
+      "scriptForm": "સ્તુતિ",
+      "definition": "A verse of praise or hymn of homage; the genre (kind) of this sutra.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "suguru-upadeśa",
+      "scriptForm": "સુગુરુવએસ",
+      "definition": "The instruction of a true, qualified teacher, under which all these duties are to be performed.",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1762,11 +2976,35 @@
       ]
     },
     {
+      "term": "svāhā",
+      "scriptForm": "સ્વાહા",
+      "definition": "The ritual sealing-exclamation; the 'svāhā-ending pada' caps and empowers the protective formula.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "svayaṁsaṁbuddha",
+      "scriptForm": "સયંસંબુદ્ધ",
+      "definition": "'Self-awakened' — one who attains enlightenment by himself, without instruction from another (Prakrit sayaṁsaṁbuddha).",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "tapa",
       "scriptForm": "તવ",
       "definition": "Austerity/ascetic practice; its 'fierce rays' make the Saṅgha-sun outshine rival doctrines.",
       "sutras": [
         "nandisutrani-pratham-sajay"
+      ]
+    },
+    {
+      "term": "tattva",
+      "scriptForm": "તત્ત્વ",
+      "definition": "Here the 'essence/reality' that is meditated upon — the coloured mantra-form held in the lotus that yields all results (vv.5–7).",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -1778,11 +3016,36 @@
       ]
     },
     {
+      "term": "teukāya",
+      "scriptForm": "તેઉકાય",
+      "definition": "Fire-bodied beings — life embodied in fire.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "teükāya",
+      "scriptForm": "તેઉકાય",
+      "definition": "Fire-bodied beings (one-sensed); 7 lakh forms.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "ṭhāṇa–moṇa–jhāṇa (sthāna–mauna–dhyāna)",
       "scriptForm": "ઠાણ–મોણ–ઝાણ",
       "definition": "by steady posture, by silence, and by meditation — the three means by which the body is 'set aside.'",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "tīrtha",
+      "scriptForm": "તીર્થ",
+      "definition": "A 'crossing-place' — a sacred Jain pilgrimage site; figuratively, the means of crossing the ocean of rebirth. The hymn bows to 108 of them.",
+      "sutras": [
+        "ashtottari-tirthmala",
+        "smaran-3-virstava"
       ]
     },
     {
@@ -1794,14 +3057,56 @@
       ]
     },
     {
-      "term": "tīrthaṅkara",
-      "scriptForm": "તિત્થયર",
-      "definition": "A 'ford-maker': one of the twenty-four supreme teachers who re-found the fourfold community and the path across the ocean of rebirth.",
+      "term": "tīrtha-yātrā",
+      "scriptForm": "તિત્થજત્તા",
+      "definition": "Pilgrimage to the holy crossing-places (tīrthas).",
       "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "tīrthamālā",
+      "scriptForm": "તીર્થમાળા",
+      "definition": "A 'garland of tīrthas' — a poetic genre that strings sacred sites together as a verbal pilgrimage.",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "tīrthaṅkara",
+      "scriptForm": "તિત્થયર / તીર્થંકર",
+      "definition": "A 'ford-maker', a fully awakened Jina who re-establishes the fourfold community and the path; twenty-four arise in each half time-cycle.",
+      "sutras": [
+        "ashtottari-tirthmala",
         "logassa",
         "nandisutrani-pratham-sajay",
         "smaran-2-ajitshanti",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "tiryañca",
+      "scriptForm": "તિર્યંચ",
+      "definition": "Animals (non-human five-sensed beings); 4 lakh forms in this enumeration.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "tivihena",
+      "scriptForm": "તિવિહેણ",
+      "definition": "'By the three-fold means' — i.e. with mind, speech, and body; the manner of the closing salute to all Siddhas (v.11).",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "traskāya",
+      "scriptForm": "ત્રસકાય",
+      "definition": "Mobile beings — those able to move of their own accord (insects, animals, humans).",
+      "sutras": [
+        "gamanagamano"
       ]
     },
     {
@@ -1810,6 +3115,14 @@
       "definition": "The 'three worlds' (upper, middle, lower) across which the satīs' fame is said to sound.",
       "sutras": [
         "bharahesar-sajjhay"
+      ]
+    },
+    {
+      "term": "trikāla-vandanā",
+      "scriptForm": "ત્રિકાલ વંદના",
+      "definition": "Threefold homage offered for the past, present, and future — the devotional refrain that paces the closing salutations.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -1826,7 +3139,8 @@
       "definition": "The preceptor who teaches the scriptures (śruta) to the order; the fourth Parameṣṭhin (v.4).",
       "sutras": [
         "pakkhi-khamana",
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1843,8 +3157,17 @@
       "definition": "An affliction or attack — whether by humans, animals, or supernatural beings — endured by an ascetic (v.4) and dispelled for the devotee (v.6).",
       "sutras": [
         "smaran-2-ajitshanti",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "upāśraya",
+      "scriptForm": "ઉપાસરો",
+      "definition": "The hall / place of religious observance whose threshold defines the spatial (kṣetra) limit of the vow.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -1853,6 +3176,14 @@
       "definition": "breathing out / breathing in — the most basic permitted reflexes.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "uttarīkaraṇa",
+      "scriptForm": "ઉત્તરીકરણ",
+      "definition": "'Carrying further / higher refinement' — performing an additional act that completes and elevates the confession just made, so that nothing left over goes unaddressed.",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1881,6 +3212,31 @@
       ]
     },
     {
+      "term": "Vajra",
+      "scriptForm": "વયર / વજ્ર",
+      "definition": "Vajrasvāmī ('Vayar'), an early ācārya celebrated for his vidyās and labdhis; remembered in verse 2.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "vajra-pañjara",
+      "scriptForm": "વજ પંજર",
+      "definition": "'Diamond cage' — the adamantine, impenetrable protective enclosure the reciter mentally builds; the hymn's title image.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "vanaspatikāya",
+      "scriptForm": "વનસ્પતિકાય",
+      "definition": "Plant-bodied beings, divided into pratyeka (individual-souled, 10 lakh) and sādhāraṇa (common-bodied / nigoda, 14 lakh).",
+      "sutras": [
+        "gamanagamano",
+        "jivrashi"
+      ]
+    },
+    {
       "term": "vandanā",
       "scriptForm": "વંદના",
       "definition": "Veneration of the guru; the third of the six Avashyakas, under which this sutra falls.",
@@ -1899,6 +3255,22 @@
       ]
     },
     {
+      "term": "vapra",
+      "scriptForm": "વપ્ર",
+      "definition": "Rampart or fortress wall; in v5 the 'savva-pāvappaṇāsaṇo' line becomes the outer adamantine rampart.",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "Vardhamāna",
+      "scriptForm": "વદ્ધમાણ",
+      "definition": "Mahāvīra's given name, meaning 'the increasing/ever-growing one' (Prakrit Vaddhamāṇa).",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "vārṣika-dāna",
       "scriptForm": "",
       "definition": "The year-long giving of gifts a Tīrthaṅkara distributes before renouncing the world (v.9).",
@@ -1907,11 +3279,43 @@
       ]
     },
     {
+      "term": "vāukāya",
+      "scriptForm": "વાઉકાય",
+      "definition": "Air-bodied beings — life embodied in air/wind.",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "vāükāya",
+      "scriptForm": "વાઉકાય",
+      "definition": "Air-bodied beings (one-sensed); 7 lakh forms.",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "vetāla",
       "scriptForm": "વેયાલ",
       "definition": "A malign spirit/zombie-demon, one of the terrors listed among the upasargas dispelled in verse 6.",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "vidhi / avidhi",
+      "scriptForm": "વિધિ / અવિધિ",
+      "definition": "The prescribed correct procedure (vidhi) and any lapse from it (avidhi); the conclusion confesses any avidhi committed.",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "vidhi-sūtra",
+      "scriptForm": "વિધિ સૂત્ર",
+      "definition": "A procedural ritual text (a declaration or stage-direction) as opposed to a verse-sūtra given the full word-by-word treatment.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -1933,10 +3337,19 @@
     },
     {
       "term": "viharamāṇa",
-      "scriptForm": "વિહરમાન",
-      "definition": "The currently-living Jinas presently teaching in the Mahāvideha continents, who never lack an awakened guide.",
+      "scriptForm": "વિહરમાણ",
+      "definition": "The 'wandering', currently-living Tīrthaṅkaras — the 20 Jinas presently teaching in the Mahāvideha regions, led by Sīmandhara.",
       "sutras": [
+        "ashtottari-tirthmala",
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "viharamāna-jina",
+      "scriptForm": "વિહરમાન જિન",
+      "definition": "The twenty Tīrthaṅkaras presently living and teaching in other regions (notably Sīmandhara-svāmī), distinct from the twenty-four of our era.",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -1945,6 +3358,22 @@
       "definition": "'Having shaken off the rust-stain (of karma)'; the epithet in v.5 imaging liberation as cleansed metal.",
       "sutras": [
         "logassa"
+      ]
+    },
+    {
+      "term": "Vīra",
+      "scriptForm": "વીર",
+      "definition": "Mahāvīra, the 24th and last Tīrthaṅkara of the present era; here hailed as auspicious.",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "virādhanā",
+      "scriptForm": "વિરાધના",
+      "definition": "Injury to or violation of living beings or of one's vows.",
+      "sutras": [
+        "gamanagamano"
       ]
     },
     {
@@ -1961,6 +3390,30 @@
       "definition": "a venom-bearer, i.e. a serpent (Prakrit visahara); the danger of snakebite faced in vv.8–9 and listed in v.18.",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "visahara",
+      "scriptForm": "વિસહર",
+      "definition": "'Poison-remover/snake-related'; the name of the protective mantra, and an epithet evoking Pārśva's power over poison and serpents.",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "viśalyīkaraṇa",
+      "scriptForm": "વિસલ્લીકરણ",
+      "definition": "'De-thorning' — the drawing-out of the śalya, the inner darts lodged in the soul (classically the three: māyā/deceit, nidāna/craving for reward, mithyātva/false belief), so that no concealed barb obstructs progress (Prakrit visallīkaraṇa).",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "viśodhi",
+      "scriptForm": "વિસોહી",
+      "definition": "Cleansing or purification of the soul from the stain left by transgression (Prakrit visohī).",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1991,8 +3444,9 @@
     {
       "term": "vyutsarga",
       "scriptForm": "વોસિરામિ",
-      "definition": "Letting go / casting off; 'vosirāmi' = 'I abandon', here the renunciation of sin (pāpa).",
+      "definition": "Casting off / abandonment; 'appāṇaṁ vosirāmi' = 'I cast off my (faulty) self,' renouncing the self conditioned by past blameworthy activity.",
       "sutras": [
+        "karemi-bhante",
         "panch-parmeshthi-sajjhay"
       ]
     },
@@ -2042,6 +3496,14 @@
       "definition": "Food 'as already prepared' for the householder's own use (Prakrit ahākaḍa), which alone the monk may accept — faultless alms.",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "yathāśakti",
+      "scriptForm": "યથાશક્તિ",
+      "definition": "'According to one's capacity'; the principle that one vows honestly to what one can actually sustain.",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {

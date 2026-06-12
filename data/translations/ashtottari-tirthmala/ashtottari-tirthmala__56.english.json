@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/56",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Lord Ṛṣabha reached Takṣaśilā one evening and stood in silent meditation in the garden, but by the time his son Bāhubali came at dawn to honour him, the Lord had already moved on.",
+  "recitation": "takkhasilāe usabho, viāli āgamma paḍima ujjāṇo |\njā bāhubali ppabhāe, ei tā viharīo bhayavaṁ.",
+  "wordByWord": [
+    {
+      "token": "તક્ખસિલાએ",
+      "translit": "takkhasilāe",
+      "gloss": "at Takṣaśilā (Taxila)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of takkhasilā < Sanskrit takṣaśilā, the ancient city (modern Taxila), here the city ruled by Bāhubali.",
+      "notes": "Locative of place where the Jina arrives; the site that becomes the Takṣaśilā Dharmacakra tīrtha of vv.56–58."
+    },
+    {
+      "token": "ઉસભો",
+      "translit": "usabho",
+      "gloss": "Ṛṣabha (the first Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative of usabha < Sanskrit ṛṣabha, 'bull'; the epithet-name of Ṛṣabhadeva, Bāhubali's father.",
+      "notes": "Subject of the sentence, resumed at the end by bhayavaṁ ('the Lord')."
+    },
+    {
+      "token": "વિઆલિ",
+      "translit": "viāli",
+      "gloss": "in the evening, at dusk",
+      "partOfSpeech": "adverb",
+      "etymology": "Locative of viāla < Sanskrit vikāla, 'evening, late afternoon'; intervocalic -k- elided in Prakrit.",
+      "notes": "Sets the time of the Jina's arrival, contrasting with ppabhāe ('at dawn') in the second line."
+    },
+    {
+      "token": "આગમ્મ",
+      "translit": "āgamma",
+      "gloss": "having come, having arrived",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive (gerund) of ā-√gam, Sanskrit āgamya; assimilation -gy- > -gg- (gemination) is regular Prakrit.",
+      "notes": "Absolutive linking the arrival to the standing meditation that follows."
+    },
+    {
+      "token": "પડિમ",
+      "translit": "paḍima",
+      "gloss": "stood in the meditative vow (pratimā / kāyotsarga posture)",
+      "partOfSpeech": "noun",
+      "etymology": "< Sanskrit pratimā, here in the technical Jain sense of the standing meditation-vow (paḍimā/kāyotsarga), not 'image'; metrically shortened paḍima(ṁ).",
+      "notes": "Used predicatively, 'took up the pratimā / stood in kāyotsarga'; some printings read paḍimaṁ (accusative)."
+    },
+    {
+      "token": "ઉજ્જાણો",
+      "translit": "ujjāṇo",
+      "gloss": "in the garden, in the park",
+      "partOfSpeech": "noun",
+      "etymology": "< Sanskrit udyāna, 'pleasure-garden, park'; -dy- > -jj- regular Prakrit assimilation.",
+      "notes": "Locative sense ('in the garden') though the surface form ends nominatively; the udyāna outside Takṣaśilā where the Jina halts."
+    },
+    {
+      "token": "જા",
+      "translit": "jā",
+      "gloss": "until, by the time that",
+      "partOfSpeech": "particle",
+      "etymology": "< Sanskrit yāvat; the correlative pair jā … tā (yāvat … tāvat), 'by the time … by then'.",
+      "notes": "Opens the temporal correlative completed by tā in the same line."
+    },
+    {
+      "token": "બાહુબલિ",
+      "translit": "bāhubali",
+      "gloss": "Bāhubali",
+      "partOfSpeech": "noun",
+      "etymology": "< Sanskrit bāhu ('arm') + balin ('strong'), 'the mighty-armed'; Ṛṣabha's son and king of Takṣaśilā.",
+      "notes": "Subject of ei ('comes'); his late arrival is the pivot of the verse."
+    },
+    {
+      "token": "પ્પભાએ",
+      "translit": "ppabhāe",
+      "gloss": "at dawn, at daybreak",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of pabhā(ya) < Sanskrit prabhā / prabhāta, 'first light, dawn'; initial gemination pp- is metrical/sandhi.",
+      "notes": "Temporal locative; the morning hour by which Bāhubali plans his ceremonial homage."
+    },
+    {
+      "token": "એઇ",
+      "translit": "ei",
+      "gloss": "(he) comes, arrives",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. present of √i, Sanskrit eti, 'goes/comes'; Prakrit ei.",
+      "notes": "Vivid present within the jā-clause: 'by the time he comes…'."
+    },
+    {
+      "token": "તા",
+      "translit": "tā",
+      "gloss": "then, by that time",
+      "partOfSpeech": "particle",
+      "etymology": "< Sanskrit tāvat; correlative answering jā.",
+      "notes": "Marks the apodosis: 'by then the Lord had already left.'"
+    },
+    {
+      "token": "વિહરીઓ",
+      "translit": "viharīo",
+      "gloss": "had set off wandering, had departed",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle from vi-√hṛ (viharati, 'to wander, roam'), Sanskrit vihṛta / vihārin; the technical verb for a mendicant's unattached travel.",
+      "notes": "Conveys that the Jina, true to apratibaddha-vihāra, had already moved on; rendered as past relative to Bāhubali's arrival."
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Lord (Bhagavān)",
+      "partOfSpeech": "noun",
+      "etymology": "Nominative of bhayavaṁ < Sanskrit bhagavant, 'blessed one, Lord'; -g- elided, anusvāra retained.",
+      "notes": "Honorific resuming usabho; placed last for emphasis — it is 'the Lord' himself who has gone."
+    }
+  ],
+  "literalTranslation": "At Takṣaśilā, Ṛṣabha, having arrived in the evening, [stood] in the meditation-vow (kāyotsarga) in the garden. By the time Bāhubali comes at dawn — by then the Lord had [already] set off wandering.",
+  "idiomaticTranslation": "Reaching Takṣaśilā as evening fell, Lord Ṛṣabha entered the garden and stood there in kāyotsarga. Bāhubali resolved to come and honour him at first light — but by the time he arrived at dawn, the Lord had already moved on.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the Daśārṇabhadra episode of the preceding verses, the hymn turns to Takṣaśilā and compresses an entire well-loved legend into a single gāthā built on the jā…tā ('by the time…by then') hinge. Every word pulls toward one poignant beat: a missed meeting. Ṛṣabha arrives 'in the evening' (viāli) and stands in the garden in the silent pratimā-vow; Bāhubali, king of the city and the Jina's own son, plans a magnificent dawn welcome. The two time-words — viāli (dusk) and ppabhāe (dawn) — frame the night that separates them, and the verb viharīo lands the point: a Tīrthaṅkara does not wait. By daybreak the Lord has already 'set off wandering.' The verse's restraint is deliberate; it does not narrate Bāhubali's grief or what he does next, leaving that to verses 57–58, where, at the very spot of the Jina's feet (jiṇapaya ṭhāṇaṁmi), Bāhubali raises a jewelled platform and the famous Dharmacakra — the shrine this stanza exists to introduce. Thus v.56 functions as the narrative seed: the Jina's brief, untarrying presence is precisely what sanctifies the ground and gives the later monument its meaning. Placing bhayavaṁ ('the Lord') at the very end, after Bāhubali has 'come,' lets the absence ring: the one sought is already gone.",
+    "doctrinalContext": "The verse quietly illustrates apratibaddha-vihāra — the unattached, unhalting wandering of an enlightened Jina who forms no tie to place, honour, or even kinship. That Ṛṣabha departs before his own son can reach him dramatizes vītarāgatā (passionlessness): the Tīrthaṅkara neither lingers for a royal reception nor privileges the bond of father and son. It also enshrines a recurring Jain theme — that veneration of the Jina's caraṇa (feet) and of the very ground he sanctified by his standing kāyotsarga can substitute for his physical presence, which is the doctrinal basis for the pāduka- and dharmacakra-shrine that follows.",
+    "practicalRelevance": "For the reciter the lesson is the fleetingness of spiritual opportunity: Bāhubali's well-meant plan to honour the Lord 'tomorrow at dawn' arrives too late. Acts of devotion, darśana, and inner resolve should not be deferred — the moment of grace, like the wandering Jina, does not wait. The verse also invites reverence for sanctified ground itself, even when the holy one has passed on.",
+    "crossReferences": [
+      {
+        "text": "Ādipurāṇa (lives of Ṛṣabha, Bharata and Bāhubali)",
+        "source": "Jinasena, 9th c. Sanskrit mahākāvya"
+      },
+      {
+        "text": "Triṣaṣṭiśalākāpuruṣacaritra, Parva I (Ṛṣabha-carita; Bāhubali at Takṣaśilā)",
+        "source": "Hemacandra (Śvetāmbara)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Bahubali",
+      "url": "https://en.wikipedia.org/wiki/Bahubali",
+      "type": "scholarship",
+      "consultedFor": "Identity of Bāhubali as Ṛṣabhanātha's son, his standing kāyotsarga, and his association with Takṣaśilā"
+    },
+    {
+      "title": "Rishabhanatha",
+      "url": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of usabho/bhayavaṁ as Ṛṣabhadeva, first Tīrthaṅkara, and his role as a wandering ford-maker"
+    },
+    {
+      "title": "Taxila (Takshashila)",
+      "url": "https://en.wikipedia.org/wiki/Taxila",
+      "type": "scholarship",
+      "consultedFor": "Identification of takkhasilā with Takṣaśilā/Taxila, the site of the Dharmacakra tīrtha"
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens: vikāla, ā-gam, pratimā, udyāna, yāvat, prabhā, eti, vi-hṛ, bhagavant"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This stanza opens the Takṣaśilā Dharmacakra tīrtha sequence (vv.56–58): here Ṛṣabha comes and departs; the following verse has Bāhubali raise a jewelled platform at the place of the Jina's feet. Token-level variants: paḍima may be read paḍimaṁ (accusative 'the pratimā-vow'); the initial gemination in ppabhāe and the locative force of the nominative-looking ujjāṇo are metrical/dialectal features of the book's Prakrit/Apabhraṁśa orthography and are not normalised. viharīo is taken as a past sense ('had already set off wandering') relative to Bāhubali's dawn arrival, per the jā…tā correlative. The underlying legend (Bāhubali's missed homage, leading to the Dharmacakra shrine) follows the Śvetāmbara universal-history tradition; the hymn itself states only the arrival, the standing vow, and the departure."
+}

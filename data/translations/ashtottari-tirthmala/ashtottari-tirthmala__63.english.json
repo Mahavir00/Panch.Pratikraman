@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/63",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "A lotus rose on a tall stalk beneath Pārśva's feet; the tormentor Kamaṭha begged pardon and fled, the serpent-king Dharaṇa went home — so bow to Pārśva, who conquered the attack.",
+  "recitation": "caraṇāho gurunālaṁ, kamalaṁto kamaḍha khāmiuṁ naḍḍho; dharaṇo gao savāsaṁ, jiya-uvasaggaṁ namaha pāsaṁ.",
+  "wordByWord": [
+    {
+      "token": "ચરણાહો",
+      "translit": "caraṇāho",
+      "gloss": "beneath/at the feet",
+      "partOfSpeech": "noun",
+      "etymology": "Skt caraṇa ('foot', from √car 'to move'); the -āho ending is an Apabhraṁśa locative/genitive form.",
+      "notes": "Locates the miracle 'at the feet' of the meditating Jina."
+    },
+    {
+      "token": "ગુરુનાલં",
+      "translit": "gurunālaṁ",
+      "gloss": "a great (tall, thick) stalk",
+      "partOfSpeech": "compound",
+      "etymology": "guru ('great, heavy') + nāla ('stalk', esp. a lotus-stalk; Skt nāla); accusative.",
+      "notes": "Qualifies the lotus that lifts the Jina above the rising flood."
+    },
+    {
+      "token": "કમલંતો",
+      "translit": "kamalaṁto",
+      "gloss": "the (blossoming/rising) lotus",
+      "partOfSpeech": "noun",
+      "etymology": "kamala ('lotus', Skt); the -aṁto element reads as a present-participial 'blossoming/coming-forth'.",
+      "notes": "Ambiguous form; either 'the blossoming lotus' or 'a lotus, then…'. The book marks a footnoted variant here with an asterisk (*) — an editorial mark, not a lexical token."
+    },
+    {
+      "token": "કમઢ",
+      "translit": "kamaḍha",
+      "gloss": "Kamaṭha",
+      "partOfSpeech": "proper-noun",
+      "etymology": "Skt Kamaṭha; the ascetic-turned-hostile deity (Meghamālin) who attacks Pārśva.",
+      "notes": ""
+    },
+    {
+      "token": "ખામિઉં",
+      "translit": "khāmiuṁ",
+      "gloss": "having begged forgiveness",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive of khām- (Prakrit khāmaṇā, 'to seek/grant pardon'; Skt √kṣam 'to forgive, endure').",
+      "notes": "The same khamāvaṇā ('mutual forgiveness') root that names the Pakkhī Khāmaṇā; Kamaṭha is brought to repentance."
+    },
+    {
+      "token": "નડ્ઢો",
+      "translit": "naḍḍho",
+      "gloss": "fled / was undone",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit naṭṭho = Skt naṣṭa ('vanished, perished, defeated', √naś).",
+      "notes": "A variant reading naddha ('bound, subdued') is possible; both yield 'Kamaṭha, having begged pardon, was vanquished/withdrew'. This is likely the point flagged by the book's asterisk."
+    },
+    {
+      "token": "ધરણો",
+      "translit": "dharaṇo",
+      "gloss": "Dharaṇa (Dharaṇendra)",
+      "partOfSpeech": "proper-noun",
+      "etymology": "Skt Dharaṇa; the Nāga (serpent) king, here = Dharaṇendra.",
+      "notes": "Already introduced in the preceding verse as raising the hood-canopy."
+    },
+    {
+      "token": "ગઓ",
+      "translit": "gao",
+      "gloss": "went, departed",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit gao = Skt gata (past participle of √gam 'to go').",
+      "notes": ""
+    },
+    {
+      "token": "સવાસં",
+      "translit": "savāsaṁ",
+      "gloss": "to his own abode",
+      "partOfSpeech": "compound",
+      "etymology": "sa-/sva- ('own') + āvāsa ('dwelling, abode', Skt); accusative of destination.",
+      "notes": "Dharaṇendra returns to the Nāga realm once the danger passes."
+    },
+    {
+      "token": "જિયઉવસગ્ગં",
+      "translit": "jiya-uvasaggaṁ",
+      "gloss": "conqueror of the affliction (upasarga)",
+      "partOfSpeech": "compound",
+      "etymology": "jiya = Skt jita ('conquered', √ji) + uvasagga = Skt upasarga ('calamity, hostile affliction'); accusative epithet.",
+      "notes": "Upasarga (upasarga) = a deliberate ordeal inflicted on an ascetic; here Kamaṭha's storm-flood."
+    },
+    {
+      "token": "નમહ",
+      "translit": "namaha",
+      "gloss": "bow ye! / let us bow",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namaha = Skt namata, 2nd-person plural imperative of √nam ('to bow').",
+      "notes": "The hymn's recurring gesture of homage, here in direct imperative."
+    },
+    {
+      "token": "પાસં",
+      "translit": "pāsaṁ",
+      "gloss": "Pārśva(nātha)",
+      "partOfSpeech": "proper-noun",
+      "etymology": "Prakrit Pāsa = Skt Pārśva, the 23rd Tīrthaṅkara; accusative object of 'bow'.",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "Beneath [his] feet a lotus on a great stalk [arose]; Kamaṭha, having begged forgiveness, fled; Dharaṇa went [back] to his own abode — bow to Pārśva, conqueror of the affliction!",
+  "idiomaticTranslation": "Under the Lord's very feet a lotus climbed on its tall stalk, lifting him clear of the flood; humbled Kamaṭha begged pardon and was undone, and the serpent-king Dharaṇa withdrew to his own realm. Bow, then, to Pārśva — the one who conquered every onslaught!",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse closes the Ahicchatra episode (the Pārśva sequence, vv.59–63) and resolves the crisis left hanging in the previous verse, where the waters had risen to the Jina's nose-tip and Dharaṇendra had thrown up his hood-canopy. Now the rescue is completed from below: a lotus on a 'great stalk' (gurunāla) buoys Pārśva's feet above the deluge, an image that fuses the soteriological lotus of purity with the very practical act of lifting him out of danger. The poet then disposes of all three actors in three swift strokes — the lotus rises, Kamaṭha 'having begged pardon' is vanquished (khāmiuṁ naḍḍho), and Dharaṇa returns home (gao savāsaṁ) — so the stage is cleared for the single imperative that the whole verse exists to deliver: namaha pāsaṁ, 'bow to Pārśva.' Note the deliberate restraint: the Jina himself does nothing. He neither strikes Kamaṭha nor thanks Dharaṇa; victory belongs to him precisely because he remains unmoved while others act around him. The closing epithet jiya-uvasaggaṁ ('conqueror of the upasarga') crowns him not as a fighter but as the unshaken meditator whose equanimity is itself the conquest. The verse thus completes the legend and hands the reciter a finished object of devotion before the hymn moves on to Vajrasvāmī.",
+    "doctrinalContext": "The verse dramatizes two Jain principles. First, equanimity (samatā/upaśama) under upasarga: Pārśva conquers not by retaliation but by unbroken meditative stillness, the same equanimity the reciter vows in Sāmāyika. Second, the symmetry of karmic fruit and forgiveness — Kamaṭha's enmity recoils on himself ('fled/undone'), while the serpent he could not corrupt is exalted as protector; yet the verb khāmiuṁ ('begged pardon') frames even the aggressor's end as reconciliation, not vengeance, echoing the forgiveness (khamāvaṇā) at the heart of pratikramaṇa. Dharaṇendra's aid illustrates that protective devas serve a Jina but do not save him — the conquest is the Jina's own.",
+    "practicalRelevance": "Recited within the Pākṣika confession, this verse models the response the rite cultivates: meet provocation with stillness rather than counter-attack, and let go of the offender through forgiveness rather than resentment. The reciter, bowing with 'namaha pāsaṁ', asks for the same unshakeable composure when 'floods' of difficulty rise to the nose.",
+    "crossReferences": [
+      {
+        "text": "Preceding verse (Aṣṭottarī Tīrthamālā v.62): the flood reaching the Jina's nose-tip and Dharaṇendra's hood-canopy",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Kalpasūtra, life of Pārśvanātha (the Kamaṭha/Meghamālin upasarga and Dharaṇendra–Padmāvatī rescue)",
+        "source": "Bhadrabāhu, Kalpasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva's serpent-hood iconography and the roles of Dharaṇendra and Padmāvatī in the upasarga episode"
+    },
+    {
+      "title": "Jain Vidya (2): Lord Parshvanath",
+      "url": "https://www.herenow4u.net/index.php?id=138968",
+      "type": "commentary",
+      "consultedFor": "Narrative of the Ahicchatra flood rising to Pārśva's nose and Dharaṇendra's protective intervention"
+    },
+    {
+      "title": "Pārśva meditating",
+      "url": "https://jainpedia.org/links/parsva-meditating/",
+      "type": "scholarship",
+      "consultedFor": "Iconographic depiction of Pārśva unmoved in meditation while sheltered during the upasarga"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens (caraṇa, kamala, nāla, jita, upasarga, naṣṭa, gata, √kṣam, √nam)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The narrative identification (Pārśva at Ahicchatra; lotus lifting him above the flood; Kamaṭha's repentant withdrawal; Dharaṇendra returning home; the epithet 'conqueror of the upasarga') is secure. Two lexical points are uncertain: (1) 'kamalaṁto' is read as a present-participial 'blossoming/rising lotus' but could be segmented 'kamalaṁ to' ('a lotus, then'); (2) 'naḍḍho' is taken as Prakrit naṭṭho = Skt naṣṭa ('fled/undone'), though a reading naddha ('bound, subdued') is possible — both yield Kamaṭha's defeat. The asterisk (*) after 'kamalaṁto' is the book's footnote (pāṭhāntare/variant) marker, not a lexical token, and is therefore omitted from the chanting recitation. Per the source edition's orthography policy, original spellings (e.g. નડ્ઢો, ઉવસગ્ગ) are preserved verbatim and not normalised."
+}

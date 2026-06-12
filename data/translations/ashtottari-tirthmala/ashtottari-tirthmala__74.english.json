@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/74",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On this holy hill all the Jinas except Nemi once came in person — and the carved pairs of their footprints, twenty-three sets in all, are the proof.",
+  "recitation": "jattha ya nemiṁ muttuṁ, nūnaṁ usabhāiṇo jiṇā rudiyā; kaha-m-annaha tevīsaṁ, jiṇa-paya juyalāṇa paḍibiṁbā.",
+  "wordByWord": [
+    {
+      "token": "જત્થય",
+      "translit": "jattha ya",
+      "gloss": "and where it is that; right there where",
+      "partOfSpeech": "adverb",
+      "etymology": "jattha (Skt. yatra, 'where') + enclitic ya (Skt. ca, 'and/indeed'); locative-relative adverb continuing from the preceding verse's Vimalagiri.",
+      "notes": "Picks up the place named in v.73 (Vimalagiri / Śatruñjaya) and pins the action to it."
+    },
+    {
+      "token": "નેમિં",
+      "translit": "nemiṁ",
+      "gloss": "Nemi (Neminātha, the 22nd Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Nemi = Skt. Nemi/Ariṣṭanemi; accusative singular, governed by muttuṁ.",
+      "notes": "Singled out as the lone exception; he attained liberation at Ujjayanta/Girnar, not here."
+    },
+    {
+      "token": "મુત્તું",
+      "translit": "muttuṁ",
+      "gloss": "leaving aside, excepting",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive (gerund) of √muc, 'to release/leave' = Skt. muktvā; here adversative 'except for'.",
+      "notes": "Takes nemiṁ as its object: 'Nemi excepted'."
+    },
+    {
+      "token": "નૂનં",
+      "translit": "nūnaṁ",
+      "gloss": "surely, certainly, beyond doubt",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. nūnam, asseverative particle; signals the confident assertion the second line then justifies.",
+      "notes": ""
+    },
+    {
+      "token": "ઉસભાઇણો",
+      "translit": "usabhāiṇo",
+      "gloss": "Ṛṣabha and the rest (i.e. the other Tīrthaṅkaras)",
+      "partOfSpeech": "compound",
+      "etymology": "usabha (Skt. Ṛṣabha, the first Jina) + āi (Skt. ādi, 'beginning with') + nominative plural -ṇo; 'Ṛṣabha-ādayaḥ'.",
+      "notes": "Names the first Jina as head of the series and folds in all the others."
+    },
+    {
+      "token": "જિણા",
+      "translit": "jiṇā",
+      "gloss": "the Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jināḥ, nominative plural; subject of the sentence in apposition with usabhāiṇo.",
+      "notes": ""
+    },
+    {
+      "token": "રુદિયા",
+      "translit": "rudiyā",
+      "gloss": "ascended / set foot upon (the hill); came and graced it",
+      "partOfSpeech": "verb",
+      "etymology": "Past participle, nom. pl., read as √ruh 'to mount, climb, ascend' (Skt. rūḍhāḥ/āruhya), the intervocalic consonant rendered with the book's da-form. A purely surface reading of the spelling rud- would give Skt. ruditāḥ, 'wept' — see notes.",
+      "notes": "The verb the footprints prove must be one of presence/ascent, not weeping; 'came up onto the tīrtha' is the sense demanded by the inference and the Śatruñjaya legend."
+    },
+    {
+      "token": "કહમન્નહ",
+      "translit": "kaha-m-annaha",
+      "gloss": "how otherwise; for how else",
+      "partOfSpeech": "adverb",
+      "etymology": "kaha (Skt. katham, 'how') + euphonic -m- (hiatus-breaker) + annaha (Skt. anyathā, 'otherwise').",
+      "notes": "Introduces the proof-by-consequence: deny the visit and the footprints become inexplicable."
+    },
+    {
+      "token": "તેવીસં",
+      "translit": "tevīsaṁ",
+      "gloss": "twenty-three",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. trayoviṁśati; the 24 Tīrthaṅkaras minus Nemi.",
+      "notes": "Qualifies the count of footprint-pairs."
+    },
+    {
+      "token": "જિણપય",
+      "translit": "jiṇa-paya",
+      "gloss": "of the Jinas' feet",
+      "partOfSpeech": "compound",
+      "etymology": "jiṇa (Jina) + paya (Skt. pada, 'foot'); a determinative compound feeding the genitive that follows.",
+      "notes": ""
+    },
+    {
+      "token": "જુયલાણ",
+      "translit": "juyalāṇa",
+      "gloss": "of the pairs",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. yugalānāṁ, genitive plural of yugala, 'pair'; 'pairs of feet' = the caraṇa-pādukā shrines.",
+      "notes": "Feet are venerated as a pair (caraṇa-yugala / pādukā)."
+    },
+    {
+      "token": "પડિબિંબા",
+      "translit": "paḍibiṁbā",
+      "gloss": "the images / engraved replicas",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pratibimbāni, nom. pl., 'reflections, likenesses'; here the foot-image installations on the hill.",
+      "notes": "Subject of an understood 'would there be': 'how else [would there be] the foot-pair images of the twenty-three?'"
+    }
+  ],
+  "literalTranslation": "And right there, leaving Nemi aside, surely Ṛṣabha and the [other] Jinas ascended [the hill]; for how otherwise [would there be] the images of the twenty-three pairs of Jina-feet?",
+  "idiomaticTranslation": "It was here that—Nemi alone excepted—Ṛṣabha and all the other Jinas most surely set foot; for how else could this hill hold the engraved footprint-pairs of all twenty-three?",
+  "elaboration": {
+    "verseByVerseCommentary": "Having named Vimalagiri in the foregoing verse, the poet now argues for its supreme sanctity by a quiet piece of reasoning rather than mere assertion. The structure is a classic argument from effect to cause (anyathānupapatti, 'it cannot be otherwise'): the visible fact — twenty-three pairs of caraṇa-pādukā enshrined on the hill — can only be explained if twenty-three Tīrthaṅkaras actually graced it in person. The asseverative nūnaṁ ('surely') and the rhetorical kaham annaha ('how else?') frame the whole verse as a devotee's confident inference: the footprints are the silent witnesses. The single exception is handled with one word, muttuṁ — Nemi is left out, because (as the hymn has already established at Girnar, vv.46–48) it was Ujjayanta, not Vimalagiri, that received his feet. Thus the hymn is internally consistent: 24 minus 1 yields the tevīsaṁ, the twenty-three, whose pādukā the pilgrim sees. Naming Ṛṣabha at the head (usabhāiṇo) is deliberate — he first sanctified Śatruñjaya by preaching on its summit, so he fittingly leads the series of feet that followed his. The verse therefore does two things at once: it grounds devotion in something tangible (the carved feet a worshipper can bow before), and it folds the count of the Jinas into the very geography of the tīrtha.",
+    "doctrinalContext": "The verse rests on the Jain practice of pādukā- or caraṇa-pratimā worship: where no full Jina image stands, the engraved feet serve as the focus of veneration, marking a spot a Tīrthaṅkara hallowed. Note the doctrinal restraint in the chosen verb: a Jina, being vītarāga (free of attachment and aversion), does not act from emotion, so the line speaks of the Jinas' presence/ascent, not of any passion — a surface reading of 'weeping' would clash with their dispassion. The number twenty-three, set against the omitted Nemi, also quietly affirms the doctrine that liberation-places are specific and historical: each Jina's events (birth, kevala, nirvāṇa) belong to fixed lands, a theme the hymn universalises only at its close (v.110).",
+    "practicalRelevance": "For the reciter, the verse reframes the humble footprint-shrines of a pilgrimage hill as evidence, not ornament: when one bows before a caraṇa-pādukā, one is saluting a place a Jina truly stood. It invites a devotion that is both reasoned and felt — let the carved feet steady the faith that the path was walked by real awakened beings, and that walking toward them is therefore not in vain.",
+    "crossReferences": [
+      {
+        "text": "Śatruñjaya Māhātmya (the hill sanctified by Ṛṣabha's sermon; Nemi the lone Tīrthaṅkara absent)",
+        "source": "attributed to Dhaneśvarasūri"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical roll of the 24 Tīrthaṅkaras against which the 'twenty-three' is counted",
+        "source": "Āvaśyaka-sūtra, as printed in this book"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899) — root √ruh 'to ascend, mount, climb'",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/webtc/getword.php?key=ruh",
+      "type": "dictionary",
+      "consultedFor": "Establishing the √ruh ('ascend/climb') reading of રુદિયા against the surface √rud ('weep') form"
+    },
+    {
+      "title": "Shatrunjaya (Pundarikgiri) — sanctified by Ṛṣabha; sacred hill near Palitana",
+      "url": "https://en.wikipedia.org/wiki/Shatrunjaya",
+      "type": "scholarship",
+      "consultedFor": "The tradition that Ṛṣabha hallowed the hill and that it is the premier Śvetāmbara tīrtha (Vimalagiri/Śatruñjaya of vv.72–75)"
+    },
+    {
+      "title": "Jain eLibrary (digital repository of Jain texts and tīrtha literature)",
+      "url": "https://www.jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the tradition that twenty-three of the twenty-four Tīrthaṅkaras (all but Neminātha) graced Śatruñjaya and are venerated there by caraṇa-pādukā"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary — pratibimba ('reflection, image') and pada/caraṇa ('foot')",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2014/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glossing પડિબિંબા (pratibimba) and જિણપય જુયલ (jina-pada-yugala, foot-pairs / caraṇa-pādukā)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The principal interpretive crux is રુદિયા (rudiyā). Read at the letter it would be Skt. ruditāḥ, 'wept', but the second line's inference — 'how otherwise [would there be] the foot-image-pairs of the twenty-three?' — together with the Śatruñjaya legend that twenty-three Tīrthaṅkaras (all but Nemi) ascended the hill, requires a verb of presence/ascent. It is therefore taken as a Prakrit/Apabhraṁśa past participle of √ruh ('ascended, set foot upon, graced'), the book's da-form reflecting an intervocalic glide; the 'wept' reading is rejected as unsupported by sense and contrary to the Jinas' dispassion. Other editions may carry a variant here. The book's orthography (e.g. તેવીસં, જત્થય) is preserved verbatim and not normalised. The reconstructed elided predicate '[would there be]' in line two is implied, not written."
+}

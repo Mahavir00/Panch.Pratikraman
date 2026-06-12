@@ -1,0 +1,140 @@
+{
+  "shlokaId": "smaran-4-upasargahar/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Once you grant a person true faith — worth more than any wish-granting jewel or magic wishing-tree — that soul reaches the deathless, ageless state of liberation with nothing left to block the way.",
+  "recitation": "tuha sammatte laddhe, cintāmaṇi-kappapāya-vabbhahie | pāvanti avigghenaṁ, jīvā ayarāmaraṁ ṭhāṇaṁ ||",
+  "wordByWord": [
+    {
+      "token": "તુહ",
+      "translit": "tuha",
+      "gloss": "your, of you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit genitive of the 2nd-person pronoun, from Sanskrit tava (tvam). Addresses Pārśvanātha.",
+      "notes": "Qualifies sammatte — 'the right faith that comes from you', i.e. the samyaktva Pārśva bestows."
+    },
+    {
+      "token": "સમ્મત્તે",
+      "translit": "sammatte",
+      "gloss": "in/of samyaktva (right faith)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sammatta = Sanskrit samyaktva (samyag-darśana), 'rightness, correct insight'; locative singular -e.",
+      "notes": "Locative; forms the locative-absolute phrase tuha sammatte laddhe, 'your right-faith having been gained'."
+    },
+    {
+      "token": "લદ્ધે",
+      "translit": "laddhe",
+      "gloss": "having been obtained, once gained",
+      "partOfSpeech": "verb",
+      "etymology": "Past passive participle, Prakrit laddha = Sanskrit labdha (root labh, 'to obtain'); locative singular -e agreeing with sammatte.",
+      "notes": "Locative-absolute construction: 'when/once [your] right-faith is obtained' — the condition on which the whole sentence turns."
+    },
+    {
+      "token": "ચિંતામણિ",
+      "translit": "cintāmaṇi",
+      "gloss": "the wish-fulfilling jewel",
+      "partOfSpeech": "compound",
+      "etymology": "Sanskrit cintā ('thought, wish') + maṇi ('gem'); first member of the compound qualifying sammatte.",
+      "notes": "Benchmark of worldly desire; here named only to be surpassed."
+    },
+    {
+      "token": "કપ્પપાય",
+      "translit": "kappapāya",
+      "gloss": "the kalpa-tree (wish-granting celestial tree)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kappa-pāya(va) = Sanskrit kalpa-pādapa / kalpa-vṛkṣa, 'wish-granting tree'; second member of the compound. The final -va of pāyava (pādapa) is carried into the next token.",
+      "notes": "Read continuously as cintāmaṇi-kappapāyava-bbhahie; the book's word-break places the joining -va at the head of the next token."
+    },
+    {
+      "token": "વબ્ભહિએ",
+      "translit": "vabbhahie",
+      "gloss": "surpassing, superior to",
+      "partOfSpeech": "adj",
+      "etymology": "Sandhi of -va (the closing syllable of pāyava = pādapa) + abbhahie = Prakrit abbhahia, Sanskrit abhyadhika ('exceeding, greater than'); locative singular agreeing with sammatte.",
+      "notes": "100%-coverage note: the apparent token splits as -va | (a)bbhahie. The samyaktva is declared abhyadhika — greater than both the cintāmaṇi and the kalpa-tree together."
+    },
+    {
+      "token": "પાવંતિ",
+      "translit": "pāvanti",
+      "gloss": "they attain, they reach",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit pāvanti = Sanskrit prāpnuvanti (root prāp/āp, 'to attain'); present indicative 3rd person plural.",
+      "notes": "Main verb; its subject is jīvā and its object ayarāmaraṁ ṭhāṇaṁ."
+    },
+    {
+      "token": "અવિગ્ઘેણં",
+      "translit": "avigghenaṁ",
+      "gloss": "without obstacle, unhindered",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit a- (negation) + vighna ('obstacle') → Prakrit a-viggha; instrumental singular -eṇa(ṁ) used adverbially.",
+      "notes": "Adverbial instrumental — 'unobstructedly'. Carries the verse's doctrinal certainty: once samyaktva is won, liberation meets no further bar."
+    },
+    {
+      "token": "જીવા",
+      "translit": "jīvā",
+      "gloss": "souls, living beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit jīva ('soul, sentient being', root jīv, 'to live'); nominative plural -ā.",
+      "notes": "Subject of pāvanti; deliberately generic — any soul whatever, not only humans."
+    },
+    {
+      "token": "અયરામરં",
+      "translit": "ayarāmaraṁ",
+      "gloss": "ageless and deathless",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit a-jara ('un-aging') + a-mara ('un-dying') → Prakrit ayara + amara, dvandva/karmadhāraya; accusative singular agreeing with ṭhāṇaṁ.",
+      "notes": "Qualifies ṭhāṇaṁ; the pair negates the two marks of saṁsāric embodiment, jarā and maraṇa."
+    },
+    {
+      "token": "ઠાણં",
+      "translit": "ṭhāṇaṁ",
+      "gloss": "the place, the state",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṭhāṇa = Sanskrit sthāna ('station, abode', root sthā, 'to stand'); accusative singular -aṁ.",
+      "notes": "Object of pāvanti; ayarāmaraṁ ṭhāṇaṁ = mokṣa, the final liberated abode (cf. siddha-sthāna / siddha-śilā)."
+    }
+  ],
+  "literalTranslation": "Your right-faith having been obtained — [a faith] surpassing the wish-fulfilling jewel and the wish-granting tree — souls attain, without any obstacle, the ageless, deathless place.",
+  "idiomaticTranslation": "When the right faith you bestow is once won — a faith worth more than the wish-granting gem and the celestial wishing-tree combined — souls pass unhindered to the ageless, deathless abode.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the doctrinal summit of the hymn. Where v.3 set even a single bow above the protective spell, v.4 names the prize that bow earns: tuha sammatta — 'the right faith that comes from you.' The grammar is a locative absolute (sammatte laddhe, 'once it is obtained'), so the entire reward hangs on a single condition having been met. Pārśva is no longer petitioned for safety from poison or planets; he is the source of samyaktva itself. The verse then sets that faith against the two stock emblems of getting-what-you-want — the cintāmaṇi jewel and the kalpa-tree — and pronounces it abbhahia, 'greater than' both. The comparison is pointed, not decorative: a jewel and a tree grant wishes that remain inside saṁsāra and perish with it; right faith grants what neither can — an exit from saṁsāra altogether. The two participles do the theological work. avigghena, 'without obstacle,' is the verse's quiet certainty: samyaktva does not merely improve one's prospects, it removes the bar to liberation, so the soul's arrival is assured rather than hoped-for. ayarāmaraṁ ṭhāṇaṁ, 'the ageless deathless place,' defines that destination by negating the two signatures of embodied existence, jarā (aging) and maraṇa (death) — a phrasing that lets a newcomer feel mokṣa concretely (a place where no one grows old or dies) before meeting the technical term. Note also jīvā in the plain plural: the promise is universal, extended to any soul that wins this faith, picking up the 'humans and animals alike' of v.3 and carrying it to its conclusion. The verse thus completes the hymn's deliberate climb — spell, then bow, now faith — and hands directly to v.5, where, having shown what Pārśva can give, the poet asks for exactly it: bodhi, birth after birth.",
+    "doctrinalContext": "The verse rests on the cardinal Jain teaching that samyag-darśana (right faith/insight) is the gateway of the path — 'samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ' (Tattvārtha-sūtra 1.1). Two specific points are encoded. First, the supremacy claim over the cintāmaṇi and kalpa-vṛkṣa expresses the doctrine that worldly boons are puṇya-fruits bounded by saṁsāra, whereas samyaktva initiates the irreversible ascent of the guṇasthānas toward kevala-jñāna and liberation. Second, avigghena reflects the classical position that a soul which truly attains samyaktva is guaranteed mokṣa within a finite limit (at most ardha-pudgala-parāvarta) — hence 'unobstructed,' the path can no longer be permanently lost. ayarāmaraṁ ṭhāṇaṁ names the siddha-state, where the liberated jīva, free of the body, is beyond jarā and maraṇa.",
+    "practicalRelevance": "Recited as the fourth Smaraṇa, this verse re-aims the practitioner's intention at the moment of prayer: it asks one to value the gift of clear faith above any worldly fortune one might otherwise beg for. Chanting it is a deliberate act of re-prioritisation — treating darśana, not security or success, as the true object of devotion — and a reminder that the steadiness sought in pratikramaṇa is ultimately in service of that liberating insight.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — 'samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ' (right faith as the first limb of the path to liberation)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra 28 (Mokkha-magga-gaī) — on right faith, knowledge and conduct as the means to liberation",
+        "source": "Uttarādhyayana-sūtra, Jaina Āgama"
+      },
+      {
+        "text": "Doctrine of ardha-pudgala-parāvarta — a soul that gains samyaktva attains mokṣa within a bounded span (basis of avigghena, 'unobstructed')",
+        "source": "Śvetāmbara karma-doctrine (e.g. Karmagrantha tradition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Uvasaggaharam Stotra — full five-verse English translation (verse 4: 'right perception... superior to the desire-yielding jewel and tree... souls easily attain the unaging, immortal state')",
+      "url": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra",
+      "type": "translation",
+      "consultedFor": "Cross-check of the verse's standard English meaning and the cintāmaṇi/kalpa-tree → ayarāmara reading."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymons underlying the Prakrit tokens: samyaktva, labh/labdha, cintāmaṇi, kalpa-pādapa, abhyadhika, vighna, prāp, jīva, ajara, amara, sthāna."
+    },
+    {
+      "title": "Richard Pischel, Grammatik der Prakrit-Sprachen (Grammar of the Prakrit Languages)",
+      "url": "https://archive.org/details/grammatikderprak00pisc",
+      "type": "scholarship",
+      "consultedFor": "Prakrit morphology used here: locative-absolute (laddhe), instrumental -eṇa(ṁ) (avigghenaṁ), nom. pl. -ā (jīvā), and the Sanskrit→Prakrit shifts (labdha→laddha, vighna→viggha, pādapa→pāyava)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "Word-division follows the book's printed orthography; the apparent token boundary કપ્પપાય | વબ્ભહિએ in fact cuts the joined form cintāmaṇi-kappapāyava-bbhahie (kalpa-pādapa + abbhahie), so વબ્ભહિએ is glossed as -va (closing pāyava) + (a)bbhahie = abhyadhika 'surpassing' — this split is the only non-trivial parsing choice and is noted for full token coverage. The web-search returned one unreliable gloss that misread 'ayarāmaraṁ' as 'Ācārāṅga/scripture'; this was rejected — the established reading ajara-amara ('ageless-deathless') is followed, matching the preface glossary and the printed English translation. ṭhāṇaṁ is mokṣa/siddha-sthāna by context; 'place' vs 'state' is a translator's nuance, both given. The daṇḍa (।) is punctuation, not a lexical token. The ardha-pudgala-parāvarta point is standard Śvetāmbara karma-doctrine adduced to explain avigghena and is not stated verbatim in this verse."
+}

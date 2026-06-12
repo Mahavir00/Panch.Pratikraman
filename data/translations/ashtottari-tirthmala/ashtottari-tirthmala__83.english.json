@@ -1,0 +1,164 @@
+{
+  "shlokaId": "ashtottari-tirthmala/83",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "May Lord Ṛṣabha, the first Jina enshrined on the Gufā hill in the Pārkar land, ever flourish — for merely beholding him grants every reward.",
+  "recitation": "pārakara desa maṇḍaṇa, bhūe gufara girimmi usabha jiṇo | nandau tiloya tilao, avaloyaṇa mitta datta phalo ||",
+  "wordByWord": [
+    {
+      "token": "પારકર",
+      "translit": "pārakara",
+      "gloss": "Pārkar (the western frontier region, today Nagarparkar in Tharparkar, Sindh)",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name; medieval pārakara / pārkar, a sacred region of western-Indian Jain geography.",
+      "notes": "First member of the compound pārakara-desa-maṇḍaṇa, 'ornament of the Pārkar land'."
+    },
+    {
+      "token": "દેસ",
+      "translit": "desa",
+      "gloss": "land, region, country",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit desa < Sanskrit deśa, 'region, country'."
+    },
+    {
+      "token": "મંડણ",
+      "translit": "maṇḍaṇa",
+      "gloss": "ornament, adornment",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṇḍaṇa < Sanskrit maṇḍana (√maṇḍ, 'to adorn'); 'that which adorns'.",
+      "notes": "Epithet of the Jina: he 'adorns' the Pārkar region as its crowning glory."
+    },
+    {
+      "token": "ભૂએ",
+      "translit": "bhūe",
+      "gloss": "on the earth",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of Prakrit bhū < Sanskrit bhū, 'earth, ground'.",
+      "notes": "Locative governing the site; pairs with girimmi to fix the shrine 'here on earth, on the hill'."
+    },
+    {
+      "token": "ગુફર",
+      "translit": "gufara",
+      "gloss": "Gufā (the 'cave' hill — Gufāgiri)",
+      "partOfSpeech": "noun",
+      "etymology": "From gufā / guhā ('cave') + giri; the locally named cave-mountain shrine.",
+      "notes": "Joined with girimmi as the place-name Gufāgiri (the cave-hill at Pārkar)."
+    },
+    {
+      "token": "ગિરિંમ્મિ",
+      "translit": "girimmi",
+      "gloss": "on the mountain / hill",
+      "partOfSpeech": "noun",
+      "etymology": "Locative sg. of Prakrit giri (< Sanskrit giri, 'mountain') with the Prakrit/Apabhraṁśa loc. ending -mmi."
+    },
+    {
+      "token": "ઉસભ",
+      "translit": "usabha",
+      "gloss": "Ṛṣabha (Ādinātha, the first Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit usabha < Sanskrit ṛṣabha, 'bull', the name of the first Jina.",
+      "notes": "Identifies the enshrined image as Ṛṣabhadeva, the ādi-Jina."
+    },
+    {
+      "token": "જિણો",
+      "translit": "jiṇo",
+      "gloss": "the Jina (the Conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina (√ji, 'to conquer'), nom. sg. jiṇo.",
+      "notes": "Apposition to usabha: 'Ṛṣabha the Jina'."
+    },
+    {
+      "token": "નંદઉ",
+      "translit": "nandau",
+      "gloss": "may he flourish / be exalted / abide in joy",
+      "partOfSpeech": "verb",
+      "etymology": "3rd sg. imperative (benedictive) of Prakrit √nand (< Sanskrit √nand, 'to rejoice, prosper'); cf. Skt. nandatu.",
+      "notes": "A blessing, not a bow: the verse wishes the enshrined Jina perpetual flourishing — the syntactic and devotional pivot of the gāthā."
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "of the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiloya < Sanskrit triloka ('the three worlds' — lower, middle, upper).",
+      "notes": "First member of tiloya-tilao."
+    },
+    {
+      "token": "તિલઓ",
+      "translit": "tilao",
+      "gloss": "tilaka — the crowning auspicious mark / crest-jewel",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tilao < Sanskrit tilaka, the auspicious forehead-mark; figuratively, 'the finest, crowning ornament'.",
+      "notes": "tiloya-tilao = 'the tilaka of the three worlds', i.e. the supreme adornment crowning the whole cosmos."
+    },
+    {
+      "token": "અવલોયણ",
+      "translit": "avaloyaṇa",
+      "gloss": "beholding, viewing, sight (darśana)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit avaloyaṇa < Sanskrit avalokana (ava-√lok, 'to look upon')."
+    },
+    {
+      "token": "મિત્ત",
+      "translit": "mitta",
+      "gloss": "mere, only, just (mātra)",
+      "partOfSpeech": "particle",
+      "etymology": "Here Prakrit metta/matta < Sanskrit mātra ('mere, only'), spelt મિત્ત in this Apabhraṁśa-coloured text.",
+      "notes": "Read avaloyaṇa-matta = 'mere beholding'; the spelling coincides with mitta 'friend' (< mitra), but the fixed devotional idiom darśana-mātra-phala ('fruit of mere sight') fixes the sense as mātra. See verse-level notes."
+    },
+    {
+      "token": "દત્ત",
+      "translit": "datta",
+      "gloss": "given, bestowed",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle, Prakrit datta < Sanskrit datta (√dā, 'to give')."
+    },
+    {
+      "token": "ફલો",
+      "translit": "phalo",
+      "gloss": "fruit, reward, result",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phala < Sanskrit phala ('fruit, fruit of action'), nom. sg. phalo.",
+      "notes": "avaloyaṇa-matta-datta-phalo = a bahuvrīhi epithet of the Jina: 'one whose fruit (reward) is bestowed by the mere act of beholding him'."
+    }
+  ],
+  "literalTranslation": "Ornament of the Pārkar land — on the earth, on the Gufā hill — Ṛṣabha the Jina: may he flourish, the tilaka (crest-jewel) of the three worlds, who bestows the fruit by the mere beholding (of him).",
+  "idiomaticTranslation": "Ṛṣabha the Jina, the crowning glory of the Pārkar country, enshrined here on earth upon the cave-hill of Gufāgiri — may he ever flourish! He is the tilaka that crowns all three worlds, and the mere sight of him bestows every reward.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single bead of the garland strings the westernmost frontier of Jain sacred geography. Leaving the Kanyakubja and Sambheshara shrines of the previous verse, the poet fixes a precise place — bhūe gufara girimmi, 'on earth, on the Gufā hill' — and enshrines there usabha jiṇo, Ṛṣabha, the first Tīrthaṅkara. Pārkar (medieval Nagarparkar in the Karoonjhar hills, today in Sindh) was a flourishing Śvetāmbara centre between the 12th and 15th centuries, so the salutation is to a then-living, thriving Ādinātha tīrtha at the desert edge of the Jain world. Two epithets carry the weight. First, the spatial play of maṇḍaṇa / tilao: the image is the 'ornament' (maṇḍaṇa) of one region but the 'tilaka' (tilao) of all three worlds — local glory widening into cosmic supremacy, the tilaka being the auspicious mark set highest on the brow. Second, and the devotional heart of the verse, avaloyaṇa-matta-datta-phalo: the Jina 'bestows the fruit by mere beholding'. Note the verse's distinctive grammar — it does not say 'I bow' but nandau, 'may he flourish': a benediction over the shrine rather than a salutation of the worshipper, wishing the holy image itself perpetual prosperity. The reciter's reverence is expressed as a blessing pronounced upon the sacred site, a warm and unusual turn within the hymn's steady refrain of bowing words.",
+    "doctrinalContext": "The pivotal phrase avaloyaṇa-matta-datta-phalo states the Mūrtipūjaka theology of darśana: the very seeing of a consecrated Jina image is salvifically efficacious — it yields phala (meritorious fruit) without any further act. This is the doctrinal warrant for image-veneration central to this Śvetāmbara Mūrtipūjaka tradition: the awakened one needs to be done nothing for and asks nothing, yet contemplating his form orients the soul toward vītarāga (passionlessness) and so 'bears fruit'. That the image is of Ṛṣabha, the ādi-Jina who first opened the ford in this descending cycle, deepens the point — beholding the beginning of the path is itself a step on it.",
+    "practicalRelevance": "Gufāgiri now lies beyond ordinary reach, the community long departed; yet the reciter visits it instantly in recollection and pronounces the blessing nandau over it. The verse teaches that the merit of pilgrimage flows from darśana — attentive, reverent beholding — not from physically arriving; a worshipper before any Ṛṣabha image, or even in mental visualisation, claims the same 'fruit of mere sight'.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — Ṛṣabha named first among the 24 Tīrthaṅkaras ('usabham ajiyaṁ ca vande')",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.41–45, the Aṣṭāpada salutation of Ṛṣabha's nirvāṇa (same Jina, cosmic frame)",
+        "source": "Ācārya Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nagarparkar Jain Temples",
+      "url": "https://en.wikipedia.org/wiki/Nagarparkar_Jain_Temples",
+      "type": "scholarship",
+      "consultedFor": "Identification of Pārkar/Gufāgiri (Nagarparkar, Karoonjhar hills, Tharparkar, Sindh), its 12th–15th c. Śvetāmbara floruit, and Ṛṣabha/Ādinātha dedication"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/senses behind the Prakrit tokens: maṇḍana, tilaka, avalokana, mātra, datta, phala, √nand, ṛṣabha, jina"
+    },
+    {
+      "title": "Anchalgacchna Aetihasik Lekho (book summary), JainGPT",
+      "url": "https://jaingpt.org/knowledge/anchalgacchna_aetihasik_lekho_230019_230019",
+      "type": "scholarship",
+      "consultedFor": "Anchalgachchha tradition context for Mahendrasiṁhasūri's tīrthamālā and its sacred-geography roll-call"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Site identification: pārakara-desa + gufara-girimmi is read as Gufāgiri at Pārkar (medieval Nagarparkar, Tharparkar, Sindh); the preface flags Pārkar/Gufāgiri as a medieval western-Indian site with possible variant readings in other editions. Key lexical caveat: મિત્ત (mitta) is here taken as Prakrit metta/matta = Sanskrit mātra ('mere, only'), giving the standard devotional idiom avalokana-mātra-datta-phala ('fruit bestowed by mere sight'); the same spelling can mean mitta 'friend' (< mitra), but that yields no coherent reading here, so mātra is adopted (confidence reduced accordingly). The orthography (ગુફર, ગિરિંમ્મિ, મિત્ત) is preserved verbatim per the book's fidelity rules and not normalised."
+}

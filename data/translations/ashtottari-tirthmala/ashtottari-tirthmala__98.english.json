@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/98",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "A devout great-souled king named Puṇyarāja, out of love for Lord Mahāvīra, had an image of him made in the thirty-seventh year after Mahāvīra was born.",
+  "recitation": "to punnarāya nāmā, koi mahappā jiṇassa bhattie | kārai paḍimaṁ varise, sagatīse vīra jammāo ||",
+  "wordByWord": [
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon, so",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tataḥ / tadā ('then, from that'); a narrative connective.",
+      "notes": "Picks up the scene from the preceding verse (Vīra standing in pratimā at Muṇḍasthala) and moves to its founding-record."
+    },
+    {
+      "token": "પુન્નરાય",
+      "translit": "punnarāya",
+      "gloss": "Puṇyarāja (a king's name)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Puṇya-rāja ('merit-king') or Pūrṇa-rāja ('full king') → Pkt. punna-rāya.",
+      "notes": "The traditional records of this tīrtha render the name as Pūrṇarāja / Puṇyarāja (King Purnaraj/Punyaraj)."
+    },
+    {
+      "token": "નામા",
+      "translit": "nāmā",
+      "gloss": "by name, named",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. nāman ('name'), here in the adverbial 'by name' sense.",
+      "notes": ""
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "a certain, someone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. ko'pi / kaścit ('some, a certain') → Pkt. koi.",
+      "notes": "Indefinite; introduces the patron without further identification, as legend rather than dated chronicle."
+    },
+    {
+      "token": "મહપ્પા",
+      "translit": "mahappā",
+      "gloss": "great soul, mahātmā",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mahātman ('great-souled') → Pkt. mahappā (tm > pp assimilation).",
+      "notes": "A title of pious esteem for the donor-king."
+    },
+    {
+      "token": "જિણસ્સ",
+      "translit": "jiṇassa",
+      "gloss": "of the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jinasya (genitive of jina, 'conqueror') → Pkt. jiṇassa.",
+      "notes": "Genitive governing 'devotion'; the Jina here is Mahāvīra, named explicitly later as Vīra."
+    },
+    {
+      "token": "ભત્તિએ",
+      "translit": "bhattie",
+      "gloss": "through devotion, out of bhakti",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhaktyā (instrumental of bhakti, 'devotion') → Pkt. bhattie.",
+      "notes": "Instrumental of cause: devotion, not display, is named as the king's motive."
+    },
+    {
+      "token": "કારઇ",
+      "translit": "kārai",
+      "gloss": "has (an image) made, causes to be made",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kārayati (causative of √kṛ, 'to do/make') → Pkt. kārai.",
+      "notes": "Causative: the king commissions, he does not carve. Historic present used for the past act of image-donation."
+    },
+    {
+      "token": "પડિમં",
+      "translit": "paḍimaṁ",
+      "gloss": "an image (pratimā)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pratimā ('image, likeness') → Pkt. paḍimā, accusative paḍimaṁ.",
+      "notes": "The object made; at Muṇḍasthala this is the standing kāyotsarga image of Mahāvīra."
+    },
+    {
+      "token": "વરિસે",
+      "translit": "varise",
+      "gloss": "in the year",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. varṣe (locative of varṣa, 'year/rain') → Pkt. varise.",
+      "notes": "Locative of time, governing the numeral that follows."
+    },
+    {
+      "token": "સગતીસે",
+      "translit": "sagatīse",
+      "gloss": "in the thirty-seventh (year), year thirty-seven",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. saptatriṁśat (37) → Pkt. sattatīsa / sagatīsa; locative sagatīse.",
+      "notes": "The verse's pivotal figure: 37 years counted from Vīra's birth."
+    },
+    {
+      "token": "વીર",
+      "translit": "vīra",
+      "gloss": "of Vīra (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. Vīra ('hero'), short for Mahāvīra; in compound with the following ablative.",
+      "notes": "Compounded with jammāo: 'from Vīra's birth'."
+    },
+    {
+      "token": "જમ્માઓ",
+      "translit": "jammāo",
+      "gloss": "from (his) birth",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. janmataḥ / janmanaḥ (ablative of janman, 'birth') → Pkt. jammāo (nm > mm).",
+      "notes": "Ablative fixing the reckoning-point: counted onward from the birth of Mahāvīra."
+    }
+  ],
+  "literalTranslation": "Then a certain great soul, Puṇyarāja by name, through devotion to the Jina has an image made — in the year thirty-seven from Vīra's birth.",
+  "idiomaticTranslation": "Then a certain great-souled king, Puṇyarāja by name, moved by devotion to the Jina, had this image fashioned in the thirty-seventh year reckoned from the birth of Vīra.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.97 left Mahāvīra standing motionless in pratimā (kāyotsarga) at Muṇḍasthala while still chadmastha, this verse supplies the shrine's founding-record: who made its image, and when. The 'great soul named Puṇyarāja' is the devotee-king, and the causative kārai marks him as patron — one who has the image commissioned, not one who carves it, the standard idiom of Jain image-donation. The motive is named with care: bhattie, 'out of devotion' to the Jina, not for fame. The verse's most arresting claim is its date — varise sagatīse vīra jammāo, 'in the thirty-seventh year from Vīra's birth.' Since tradition has Mahāvīra renounce at thirty and reach kevala-jñāna near forty-two, year thirty-seven falls squarely within his chadmastha wandering. The image was therefore consecrated while the Jina yet lived and was not yet omniscient — which is precisely why the previous verse portrayed him as chadmastha. The records of this tīrtha add that Keśī-svāmī performed the consecration. The poet's purpose is evidentiary: by fixing an exact year he authenticates Muṇḍasthala's extraordinary boast — an image of Mahāvīra made from life, among the oldest anywhere — and so leads directly into v.99's reckoning of the tīrtha's age ('somewhat less than eighteen hundred years').",
+    "doctrinalContext": "The verse quietly legitimizes mūrti-pūjā (image-veneration), central to the Mūrtipūjaka tradition, by rooting the practice in the Jina's own lifetime rather than a later age. The chadmastha framing rests on the doctrine of the four ghātī-karmas: until they are destroyed at kevala-jñāna, even a Tīrthaṅkara remains chadmastha — 'veiled' — so an image made in year thirty-seven honours the still-striving ascetic, not yet the omniscient teacher. Devotion (bhakti) is presented as the efficient cause of a merit-bearing (puṇya) act: commissioning an image is itself a meritorious deed when its root is reverence.",
+    "practicalRelevance": "Naming Puṇyarāja's devotion-driven act, the reciter is invited to see image-veneration as an unbroken chain reaching back to Mahāvīra's own days, and to take the king as a model — letting bhakti, not display or status, be the true motive behind any act of worship or giving.",
+    "crossReferences": [
+      {
+        "text": "Muṇḍasthala-kalpa (account of the Muṇḍasthala tīrtha)",
+        "source": "Vividha-tīrtha-kalpa of Jinaprabhasūri, 14th c."
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.97 and 99 (the framing of this Muṇḍasthala triad)",
+        "source": "Mahendrasiṁhasūri, Anchalgachchha/Vidhipaksha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mudsthal Tirth (Mungthala) — history and the Punyaraj / Keshiswami legend",
+      "url": "https://jainsite.com/jain-tirth/mudsthal-tirth/",
+      "type": "scholarship",
+      "consultedFor": "King Pūrṇarāja/Puṇyarāja commissioning Mahāvīra's image in his 37th year, consecration by Keśī-svāmī, and the Aṣṭottarī Tīrthamālā attribution"
+    },
+    {
+      "title": "Mungathala",
+      "url": "https://en.wikipedia.org/wiki/Mungathala",
+      "type": "scholarship",
+      "consultedFor": "Identification of Muṇḍasthala/Mungthala (Sirohi, Rajasthan), the standing kāyotsarga mūlanāyaka, and medieval inscriptional history"
+    },
+    {
+      "title": "Shri Mundasthal Tirth — Jain Temples in Rajasthan",
+      "url": "http://www.jinalaya.com/rajasthan/mundasthal.htm",
+      "type": "scholarship",
+      "consultedFor": "Temple description and the tradition of an image consecrated in Mahāvīra's lifetime"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the glosses: pratimā, varṣa, janman, kārayati (caus. √kṛ), bhakti, saptatriṁśat"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The text and numeral are clear: sagatīse = 37 (Pkt. sattatīsa/sagatīsa, Skt. saptatriṁśat). 'Punnarāya' is rendered Pūrṇarāja/Puṇyarāja in the tīrtha's traditional records (King Purnaraj/Punyaraj); both Sanskrit readings (pūrṇa- 'full' / puṇya- 'merit') are defensible — flagged as mild uncertainty. The verb kārai is a causative historic-present for a past act of image-donation. The date 'year 37 from Vīra's birth' places the consecration within Mahāvīra's chadmastha period, harmonizing with v.97's portrayal of him as chadmastha; the detail that Keśī-svāmī performed the consecration comes from the tīrtha tradition, not from the verse itself. Book orthography preserved verbatim per fidelity rules."
+}

@@ -1,0 +1,128 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/12",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse honours Lord Pārśva of Jīrāpallī, declaring that he is served by the Pārśva-yakṣa, worshipped by the serpent-king Dharaṇendra, and adored by the goddess Padmāvatī.",
+  "recitation": "jirāpallī prabhuṁ pārśva, pārśva-yakṣeṇa sevitaṁ;\narcitaṁ dharaṇendreṇa, padmāvatyā prapūjitaṁ.",
+  "wordByWord": [
+    {
+      "token": "જિરાપલ્લી",
+      "translit": "jirāpallī",
+      "gloss": "of Jīrāpallī (the Jīrāvalā tīrtha) — the form/place that names this Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Place-name; jirā- + -pallī ('settlement, hamlet'); the celebrated Pārśva tīrtha in Sirohī, Rājasthān (variant Jīrāvalā).",
+      "notes": "Functions attributively with prabhuṁ pārśva: 'Pārśva of Jīrāpallī'. The book's v.11 spells it Jirikāpallī — its own variation, kept as printed."
+    },
+    {
+      "token": "પ્રભું",
+      "translit": "prabhuṁ",
+      "gloss": "the Lord, the master (accusative — the object being praised)",
+      "partOfSpeech": "noun",
+      "etymology": "From pra- + √bhū ('to come forth, prevail'); prabhu = 'sovereign, lord'; accusative singular prabhuṁ.",
+      "notes": "Accusative because the Lord is the grammatical object qualified by the three worship-participles."
+    },
+    {
+      "token": "પાર્શ્વ",
+      "translit": "pārśva",
+      "gloss": "Pārśva(nātha), the 23rd Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pārśva, lit. 'side/rib'; here the proper name of the 23rd Jina.",
+      "notes": "Printed without anusvāra (pārśva); syntactically accusative pārśvaṁ in apposition to prabhuṁ. Kept verbatim per the book."
+    },
+    {
+      "token": "પાર્શ્વયક્ષેણ",
+      "translit": "pārśva-yakṣeṇa",
+      "gloss": "by the Pārśva-yakṣa (the male guardian deity of Pārśva)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa: pārśva + yakṣa ('attendant nature-spirit'), instrumental singular -eṇa ('by').",
+      "notes": "Listed here as a deity distinct from Dharaṇendra; later tradition sometimes identifies the Pārśva-yakṣa with Dharaṇendra, but this verse enumerates them separately (see notes)."
+    },
+    {
+      "token": "સેવિતં",
+      "translit": "sevitaṁ",
+      "gloss": "served, attended upon, waited upon",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle of √sev ('to serve, attend, honour'); accusative agreeing with prabhuṁ.",
+      "notes": "First and gentlest of the three worship-verbs: personal attendance/service."
+    },
+    {
+      "token": "અર્ચિતં",
+      "translit": "arcitaṁ",
+      "gloss": "worshipped, honoured, revered (with ritual offering)",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle of √arc ('to praise, worship, honour'); accusative agreeing with prabhuṁ.",
+      "notes": "Second worship-verb: formal ritual veneration (arcanā)."
+    },
+    {
+      "token": "ધરણેન્દ્રેણ",
+      "translit": "dharaṇendreṇa",
+      "gloss": "by Dharaṇendra (the nāga-king, Pārśva's serpent guardian)",
+      "partOfSpeech": "noun",
+      "etymology": "Dharaṇa + indra ('lord of the dharaṇa/nāgas'); instrumental singular -eṇa ('by').",
+      "notes": "Glossed in the preface; the nāgendra who shielded Pārśva during Kamaṭha's storm."
+    },
+    {
+      "token": "પદ્માવત્યા",
+      "translit": "padmāvatyā",
+      "gloss": "by Padmāvatī (the yakṣiṇī, Pārśva's female guardian)",
+      "partOfSpeech": "noun",
+      "etymology": "padma ('lotus') + -vatī ('possessing'); instrumental singular -yā ('by').",
+      "notes": "Glossed in the preface; paired here with Dharaṇendra as the śāsana-devatā couple."
+    },
+    {
+      "token": "પ્રપૂજિતં",
+      "translit": "prapūjitaṁ",
+      "gloss": "abundantly worshipped, supremely adored",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle of pra- (intensive) + √pūj ('to worship'); accusative agreeing with prabhuṁ.",
+      "notes": "Third and climactic worship-verb; the prefix pra- intensifies pūjā to its fullest, lavish form."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "verse-half pause (daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "Daṇḍa — the metrical/recitation punctuation marking the end of the first half-line.",
+      "notes": "Structural mark, not a lexical word; preserved as printed."
+    }
+  ],
+  "literalTranslation": "Lord Pārśva of Jīrāpallī — served by the Pārśva-yakṣa, worshipped by Dharaṇendra, abundantly adored by Padmāvatī.",
+  "idiomaticTranslation": "Here is the Lord Pārśva enshrined at Jīrāpallī, upon whom the Pārśva-yakṣa attends, whom the serpent-king Dharaṇendra venerates, and whom the goddess Padmāvatī worships with fullest devotion.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the previous verse sealed the praise and named Merutuṅgasūri, this colophon verse turns from the poet back to the Lord one last time, anchoring the whole hymn in the specific enshrined form at Jīrāpallī. Its art lies in a deliberate triad. Three agents — pārśva-yakṣa, dharaṇendra, padmāvatī — are matched to three escalating verbs of worship — sevita (to serve/attend), arcita (to make ritual offering), and prapūjita (to worship to the fullest, the pra- prefix pushing pūjā to its peak). The progression moves from personal attendance, through formal arcanā, to overflowing adoration, so that the single Lord is encircled by an ascending hierarchy of homage. Grammatically the verse is tight: prabhuṁ pārśva is the lone accusative object, and all three participles agree with it while each takes its worshipper in the instrumental — a compact 'served-by, worshipped-by, adored-by' frame that needs no finite verb. Notably the verse lists the Pārśva-yakṣa and Dharaṇendra as two agents, not one; though later iconography often fuses them, here the poet keeps the attendant yakṣa and the nāga-king distinct, alongside Padmāvatī, to populate the Lord's retinue more fully. The point is not that Pārśva needs service — a Tīrthaṅkara is wholly detached — but that even the mightiest celestial guardians bow to him, which is precisely why his remembrance can dispel the reciter's fears.",
+    "doctrinalContext": "The verse rests on the Jain understanding of śāsana-devatās: the guardian deities are themselves still embodied, karma-bound beings within saṁsāra, whereas the Tīrthaṅkara is vītarāga and beyond all need. Their worship of him therefore dramatizes the correct order of reverence — even powerful devas venerate the dispassionate Jina, never the reverse. The three verbs also map the spectrum of pūjā recognized in practice (service, offering-worship, and intensified adoration), quietly modelling for the lay reciter how devotion deepens by degrees.",
+    "practicalRelevance": "Reciting this verse, the devotee localizes the protective Lord at a real, visitable tīrtha and recalls that the very deities one might petition for help — Dharaṇendra and Padmāvatī — are themselves Pārśva's worshippers; so one's own homage joins a celestial company, reinforcing trust that remembering this Lord brings the protection the hymn promises.",
+    "crossReferences": [
+      {
+        "text": "Pārśvanātha shielded by the nāga-king Dharaṇendra during Kamaṭha's upasarga; Padmāvatī as his yakṣiṇī",
+        "source": "Kalpasūtra / Triṣaṣṭiśalākāpuruṣacarita (Hemacandra), Pārśva-carita"
+      },
+      {
+        "text": "Upasargahara Stotra (Smaraṇa no. 4) — Pārśva attended by Dharaṇendra, the companion bhayahara hymn",
+        "source": "Bhadrabāhu (attrib.), Nava Smaraṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon) — sev/√arc/pra-pūj participles",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Root meanings and PPP senses of sevita ('served, honoured, worshipped'), arcita ('worshipped, praised, honoured') and prapūjita ('greatly honoured, highly worshipped')."
+    },
+    {
+      "title": "Parshvanatha — the 23rd Tīrthaṅkara and his śāsana-devatās Dharaṇendra and Padmāvatī",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of the Pārśva-yakṣa, the nāga-king Dharaṇendra, and the yakṣiṇī Padmāvatī as Pārśva's guardian deities, and their relationship/occasional conflation."
+    },
+    {
+      "title": "Jirawala (Jīrāvalā / Jīrāpallī) Parshvanath Tirtha, Sirohī, Rajasthan",
+      "url": "https://jainsite.com/jain-tirth/jirawala-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Identification of the Jīrāpallī / Jīrāvalā Pārśvanātha pilgrimage site after which this enshrined form of the Lord is named."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The verse is grammatically transparent Sanskrit; prabhuṁ pārśva is the single accusative object of three PPP epithets (sevitaṁ, arcitaṁ, prapūjitaṁ), each with its worshipper in the instrumental. 'પાર્શ્વ' is printed without the expected accusative anusvāra (pārśvaṁ) — kept verbatim. The verse treats Pārśva-yakṣa and Dharaṇendra as two distinct agents; later tradition sometimes identifies them, so the count of 'three worshippers' follows the verse as printed and the divergence is flagged. Specific dictionary page/scan anchors in the Cologne lexicon were verified by lemma rather than by a stable deep-link URL; the searchable base URL is cited. Authorship/placement framing is from the preface and not repeated here."
+}

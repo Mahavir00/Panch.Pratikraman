@@ -1,0 +1,180 @@
+{
+  "shlokaId": "ashtottari-tirthmala/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Hail, hail to the Jina — the one true kinsman of the whole world, an island of safety in the ocean of rebirth and a lamp for all three worlds, the wish-granting jewel and crowning crest-gem of the universe.",
+  "recitation": "jaya jaya jagikka bandhava, bhava jalahi dīva tihuaṇa païva. jaya jaya jaga cintāmaṇi, tihuaṇa cūḍāmaṇi jiṇaṁda.",
+  "wordByWord": [
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail!, victory (to you)!",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. jaya, from √ji 'to conquer'; an acclamation of triumph addressed to the Jina.",
+      "notes": "Opening of the verse's first hemistich."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail!, victory!",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. jaya; doubled for emphatic, sustained acclamation.",
+      "notes": "Repetition (āmreḍita) intensifies the praise; chanted as a refrain."
+    },
+    {
+      "token": "જગિક્ક",
+      "translit": "jagikka",
+      "gloss": "sole/only [kinsman] of the world",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. jagad-eka (jagat 'world' + eka 'one, sole'); Prakrit gemination -kk- < -k-ek-, qualifying bandhava.",
+      "notes": "Forms the phrase jagikka-bandhava, 'the world's one and only kinsman'."
+    },
+    {
+      "token": "બંધવ",
+      "translit": "bandhava",
+      "gloss": "kinsman, friend, protector",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bāndhava 'relative', from bandhu 'tie, bond'; here the Jina as humanity's true relation.",
+      "notes": "Affective epithet: a vītarāga claimed as 'family' to every being."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, rebirth (saṁsāra)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhava, from √bhū 'to become'; first member of bhava-jalahi.",
+      "notes": "See bhava-jaladhi in the preface glossary; here split across bhava + jalahi."
+    },
+    {
+      "token": "જલહિ",
+      "translit": "jalahi",
+      "gloss": "ocean",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jaladhi 'water-holder' (jala 'water' + dhi 'receptacle'); Prakrit -dh- > -h-.",
+      "notes": "bhava-jalahi = 'the ocean of existence', the perilous sea to be crossed."
+    },
+    {
+      "token": "દીવ",
+      "translit": "dīva",
+      "gloss": "island (refuge)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dvīpa 'island' (dvi + ap, 'land amid waters'); Prakrit dīva.",
+      "notes": "The Jina is the one firm island in the bhava ocean; on a homophone reading dīva = dīpa 'lamp' (see notes)."
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tribhuvana (tri 'three' + bhuvana 'world'); Prakrit softening of intervocalic stops.",
+      "notes": "Glossary term; here qualifies païva ('lamp of the three worlds')."
+    },
+    {
+      "token": "પઇવ",
+      "translit": "païva",
+      "gloss": "lamp, light",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pradīpa 'lamp' (pra + √dīp 'to blaze'); Prakrit loss of -r- and -d- → païva.",
+      "notes": "tihuaṇa-païva = 'the lamp illumining all three worlds'."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail!, victory!",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. jaya, √ji.",
+      "notes": "Opens the second hemistich, mirroring the first."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "hail!, victory!",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. jaya; doubled refrain.",
+      "notes": "The fourfold jaya jaya … jaya jaya frames the verse symmetrically."
+    },
+    {
+      "token": "જગ",
+      "translit": "jaga",
+      "gloss": "the world",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jagat 'the moving/living world'; Prakrit jaga.",
+      "notes": "jaga-cintāmaṇi = 'wish-gem of the world', parallel to jagikka-bandhava above."
+    },
+    {
+      "token": "ચિંતામણિ",
+      "translit": "cintāmaṇi",
+      "gloss": "wish-fulfilling gem",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. cintā 'thought, wish' + maṇi 'jewel'; the gem that grants whatever is desired.",
+      "notes": "Glossary term; the Jina yields the supreme boon — see doctrinal note."
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "the three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. tribhuvana; Prakrit tihuaṇa.",
+      "notes": "Repeated to bind païva and cūḍāmaṇi into a matched pair across the two lines."
+    },
+    {
+      "token": "ચૂડામણિ",
+      "translit": "cūḍāmaṇi",
+      "gloss": "crest-jewel, supreme ornament",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. cūḍā 'crest, head-top' + maṇi 'jewel'; the gem worn at the crown, hence 'the highest'.",
+      "notes": "tihuaṇa-cūḍāmaṇi = the Jina as the very pinnacle of the three worlds."
+    },
+    {
+      "token": "જિણંદ",
+      "translit": "jiṇaṁda",
+      "gloss": "Jinendra, Lord of the Jinas",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jinendra (jina 'conqueror' + indra 'lord, chief'); Prakrit jiṇaṁda.",
+      "notes": "The verse's sole grammatical addressee; all epithets resolve onto him."
+    }
+  ],
+  "literalTranslation": "Victory, victory to the sole kinsman of the world; the island in the ocean of existence, the lamp of the three worlds! Victory, victory to the wish-fulfilling gem of the world, the crest-jewel of the three worlds — the Lord of Jinas!",
+  "idiomaticTranslation": "All hail, all hail to you, the world's one true kinsman! In the surging ocean of birth and death you are the saving island; for all three worlds you are the steady lamp. All hail, all hail — wish-granting jewel of the world, crowning gem of the universe, O Jinendra!",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the third stroke of the opening doxology, and it works almost entirely by epithet. Where the previous verse hailed the Jina in stately, honorific terms (jagad-prabhu, devādhideva, 'supremely compassionate lord'), this verse turns warm and intimate: the very first word after the acclamation is bandhava — 'kinsman'. The Jina, utterly detached, is nonetheless claimed as the one relative the world can truly count on (jagikka = jagad-eka, 'sole'). The poet then sets two tightly matched pairs across the two lines. In the first hemistich the Jina is dīva and païva — the island that gives footing and the lamp that gives sight amid the dark waters of saṁsāra. In the second he is cintāmaṇi and cūḍāmaṇi — the gem that grants every wish and the crest-gem that crowns all existence. Notice the deliberate symmetry the verse builds with the preceding line: jaga…bandhava answered by jaga…cintāmaṇi, and tihuaṇa…païva answered by tihuaṇa…cūḍāmaṇi. The world-word (jaga) and the three-worlds-word (tihuaṇa) recur as twin pillars, so that every epithet is stretched to a cosmic scale, and the fourfold jaya jaya … jaya jaya seals the whole as a single sustained cry of homage. The verse needs no narrative; its force is in the rising heap of refuge-images, carrying the reciter from a felt, personal closeness (a friend) up to a metaphysical summit (the crest-jewel of all that is), and handing on to the next verse, which resumes the same jaya jaya to praise the Jina as 'the road to liberation' (sivapaha).",
+    "doctrinalContext": "The verse holds together two truths the tradition is careful never to confuse. The Jina is bandhava, dīva, païva, cintāmaṇi — friend, island, lamp, wish-gem — yet a Jina is vītarāga, free of all attachment and intervention. He is therefore a 'kinsman' and 'wish-gem' not because he answers petitions, but because his teaching and example are the means by which a being crosses (the tīrtha/crossing logic underlying the whole hymn). The cintāmaṇi image is the doctrinally loaded one: the supreme 'wish' the Jina fulfils is not worldly gain but darśana of the path and ultimately mokṣa; he is the gem precisely because contemplating him reorients craving toward liberation. The island (dvīpa) names the one firm standpoint in saṁsāra — right faith and conduct — while the lamp (pradīpa) names jñāna, the knowledge that dispels the dark of delusion (moha). Thus the four epithets quietly map onto refuge, right faith, right knowledge, and the highest goal.",
+    "practicalRelevance": "Recited fortnightly at the Pakkhī, the verse is the practitioner's act of taking refuge (śaraṇa): before confessing a fortnight's faults, one fixes the Jina in mind as friend, ground, light and goal. A reciter can dwell on each image in turn — feeling the saṁsāra as ocean, the Jina as the island one swims toward, the lamp by which one sees, the gem worth more than any worldly wish — and let that fourfold seeing steady the mind for the confession that follows.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — 'jiṇa-vara… loassa uttamā siddhā', the Jina as light-maker of the world",
+        "source": "Āvaśyaka-sūtra; Anchalgachchha/Vidhipaksha Pañca Pratikramaṇa ed."
+      },
+      {
+        "text": "Bhaktāmara Stotra vv.21–24 — clustered island/lamp/refuge epithets of the Jina",
+        "source": "Mānatuṅgasūri, Bhaktāmara Stotra"
+      },
+      {
+        "text": "Uvasaggaharaṁ Stotra — 'cintāmaṇi-kappapāyava-bbhahie', the Jina surpassing wish-gem and wish-tree",
+        "source": "Bhadrabāhusvāmī (trad.), Nine Smaraṇas (this corpus, smaran-4)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi Dictionary), H. T. Sheth",
+      "url": "https://jainqq.org/booktext/Paia_Sadda_Mahannavo/016080",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and Sanskrit equivalents of jalahi (jaladhi), païva (pradīpa), bandhava (bāndhava), tihuaṇa (tribhuvana)"
+    },
+    {
+      "title": "Dictionary of Prakrit for Jain Literature, Vol. 1",
+      "url": "https://jainqq.org/booktext/Dictionary_of_Prakrit_for_Jain_Literature_Vol_01_Fasc_01/020316",
+      "type": "dictionary",
+      "consultedFor": "Verification of Prakrit phonological developments (intervocalic softening; dīva < dvīpa) in Jain devotional usage"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Apte / Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit base meanings of cintāmaṇi, cūḍāmaṇi, dvīpa, jagad-eka, jinendra and the root √ji (jaya)"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "The reading dīva = dvīpa ('island') is adopted because the preceding bhava-jalahi ('ocean of existence') makes the island-refuge image natural and avoids redundancy with païva ('lamp'); however dīva is a regular Prakrit reflex of dīpa as well, so a minority reading 'lamp of the ocean of existence' is possible — flagged as a variant. jagikka is read as jagad-eka ('sole') qualifying bandhava; some editions write jagaikka. Orthography (including anusvāra and gemination) follows the Anchalgachchha/Vidhipaksha book verbatim and has not been normalised. No verified word-by-word published translation of this specific verse was located; glosses rest on the dictionaries cited."
+}

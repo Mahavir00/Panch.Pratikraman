@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/77",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At Bharuch, the Jina Munisuvrata's words so moved King Jitaśatru's horse that it recalled its past lives, fasted to death, was reborn as a god, and then came back to that very spot to honour the Jina.",
+  "recitation": "bharuacche koraṇṭaga, suvvaya jiyasattu turaga jāisaro |\naṇasaṇa sura āgaṁtu, jiṇa mahima makāsi to tahiyaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ભરુઅચ્છે",
+      "translit": "bharuacche",
+      "gloss": "at Bharukaccha (Bharuch)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit locative of Bharuacca < Sanskrit Bhṛgukaccha / Bharukaccha, the port-city on the Narmada, modern Bharuch in Gujarat.",
+      "notes": "Locative of place: 'at/in Bharukaccha', setting the scene for the whole episode."
+    },
+    {
+      "token": "કોરંટગ",
+      "translit": "koraṇṭaga",
+      "gloss": "(in / at) Koraṇṭaka — the grove or quarter so named",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koraṇṭaga < Sanskrit koraṇṭaka, the koraṇṭa (Barleria) flowering shrub; here a proper name, the garden/locality at Bharukaccha named after such trees.",
+      "notes": "Taken as the named udyāna/quarter of Bharukaccha where the Jina halted; the precise referent is not fixed by the verse (see notes)."
+    },
+    {
+      "token": "સુવ્વય",
+      "translit": "suvvaya",
+      "gloss": "Suvrata, i.e. (Muni)suvrata, the 20th Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit suvvaya < Sanskrit su-vrata, 'of excellent vows'; the standard short form of Munisuvrata-svāmin.",
+      "notes": "The acting agent of the discourse implied by the narrative; Munisuvrata's own birthplace was Rājagṛha, from where tradition has him travel to Bharukaccha."
+    },
+    {
+      "token": "જિયસત્તુ",
+      "translit": "jiyasattu",
+      "gloss": "(King) Jitaśatru",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiyasattu < Sanskrit jita-śatru, 'one whose enemies are conquered'; a royal name borne by the ruler of Bharukaccha in this legend.",
+      "notes": "Genitive in sense: it is Jitaśatru's horse that is the subject of the miracle."
+    },
+    {
+      "token": "તુરગ",
+      "translit": "turaga",
+      "gloss": "horse",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit turaga, 'going swiftly' (tura + ga), a horse; the steed destined for the king's horse-sacrifice (aśvamedha) in the legend.",
+      "notes": "The true protagonist of the verse — an animal (tiryañca) that attains spiritual awakening."
+    },
+    {
+      "token": "જાઇસરો",
+      "translit": "jāisaro",
+      "gloss": "jātismara — one who recollects (its) former births",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit jāisara < Sanskrit jāti-smara (jāti 'birth' + smara 'remembering'); the knowledge by which a being recalls past lives.",
+      "notes": "Predicated of the horse (turaga), not the king: hearing the Jina, the horse 'became jātismara'."
+    },
+    {
+      "token": "અણસણ",
+      "translit": "aṇasaṇa",
+      "gloss": "anaśana — fasting (unto death)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇasaṇa < Sanskrit an-aśana, 'not-eating'; the ascetic fast, here the final fast (sallekhanā/santhārā) ending a life.",
+      "notes": "Adverbial/instrumental in force: the horse passed away through anaśana."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "a god (deva)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sura, 'shining one', a celestial being; the rebirth-station the horse reaches.",
+      "notes": "Object/result of āgaṁtu: '[the horse] having become a sura'."
+    },
+    {
+      "token": "આગંતુ",
+      "translit": "āgaṁtu",
+      "gloss": "having come (to be) / having passed over (into the deva-state, and come back)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive āgaṁtu < Sanskrit ā-√gam, 'to come, arrive, attain'; here in the sense 'having attained (godhood)' and so 'having come (back).'",
+      "notes": "Double-edged: the horse 'comes to' the deva-state, and the deva then 'comes' to the site to perform worship."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "of the Jina",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'conqueror'; the Tīrthaṅkara — here Munisuvrata, whose worship is established.",
+      "notes": "First member of the compound jiṇa-mahima, 'glorification of the Jina'."
+    },
+    {
+      "token": "મહિમ",
+      "translit": "mahima",
+      "gloss": "glorification, worship, festal honour",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahima < Sanskrit mahiman / mahimā, 'greatness, majesty'; in usage the act of celebrating and honouring (pūjā-mahotsava).",
+      "notes": "Accusative object of makāsi; the deva 'performed the Jina-worship'."
+    },
+    {
+      "token": "મકાસિ",
+      "translit": "makāsi",
+      "gloss": "(he) made, performed",
+      "partOfSpeech": "verb",
+      "etymology": "= (-m-)akāsi, aorist of Sanskrit √kṛ 'to do/make' (akārṣīt); the initial m- is a hiatus-bridging glide after mahima(ṁ).",
+      "notes": "Read mahima-m-akāsi, 'performed the worship'; the m is sandhi, not part of the verb root — a regular Prakrit/Apabhraṁśa feature."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to < Sanskrit tataḥ, 'then, thereafter'.",
+      "notes": "Sequences the action: 'and then' performed the worship."
+    },
+    {
+      "token": "તહિયં",
+      "translit": "tahiyaṁ",
+      "gloss": "there, at that very place",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahiyaṁ < Sanskrit tatra / tasmin, 'there'; the demonstrative of place.",
+      "notes": "Refers back to Bharukaccha/Koraṇṭaka — the spot that thereby became the Aśvāvabodha tīrtha (named in the next verse)."
+    }
+  ],
+  "literalTranslation": "At Bharukaccha, in the Koraṇṭaka (grove), (Munisuvrata being present,) King Jitaśatru's horse became one-who-remembers-past-births; (through) anaśana (it became) a god, and having come (to that state, and back), then it performed the worship of the Jina there.",
+  "idiomaticTranslation": "At Bharukaccha, in the Koraṇṭaka grove, the steed of King Jitaśatru — touched by Munisuvrata's words — awoke to the memory of its former lives; fasting away its life it rose to the heavens as a god, and that god, returning, then made there a great festival of homage to the Jina.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the Mathurā stūpa of the preceding verse, the garland now alights on Bharukaccha (Bharuch) and compresses one of the best-loved Munisuvrata legends into a single breathless gāthā. The verse names only its bare hinges — place (Bharukaccha, the Koraṇṭaka grove), Jina (Suvrata), king (Jitaśatru), beast (turaga) — and lets the chain of salvation carry the sense: the horse 'became jātismara' (jāisaro), undertook anaśana, rose as a sura, and 'then there performed the worship of the Jina' (jiṇa mahima(ṁ) makāsi to tahiyaṁ). The tradition fills the gaps: the steed was being readied for slaughter; Munisuvrata, seeing with omniscience that this one soul was ripe, crossed a vast distance to preach to it; the horse, recollecting its past births, refused food, died in equanimity, and was reborn a god, who came back in gratitude to consecrate the spot. Two craftsman's touches deserve note. First, jāisaro is predicated of the horse, not the king — the grammatical surprise is the doctrinal point. Second, makāsi is to be parsed mahima-(m)-akāsi, the m a mere hiatus-glide, a habit of this Apabhraṁśa-coloured verse that a reader should not mistake for a separate word. The closing tahiyaṁ ('there') is the pivot to the next verse, which finally names the shrine thus born: the Aśvāvabodha ('horse-awakening') tīrtha.",
+    "doctrinalContext": "The verse turns on jāti-smaraṇa-jñāna, the recollection of former births that can dawn on any saṁsārin — including a tiryañca (animal) — on the right stimulus, and which Jain doctrine counts among the ordinary (mati-based) cognitions. It quietly affirms that even an animal can receive the Jina's word, awaken to right faith, embrace the final fast (anaśana / sallekhanā) with composure, and so secure a heavenly rebirth — a vivid case of the maxim that destiny is decided by the bhāva (inner disposition) at death, not by the body one wears. The deva's return to perform jina-mahimā models devā-kṛta pūjā, worship instituted by gods, and supplies the tīrtha's charter: a holy place is sanctified not by stone but by an event of liberation enacted there.",
+    "practicalRelevance": "Recited at this bead, the worshipper is asked to measure his own response to the Jina's teaching against a horse's: if a beast could hear, remember, renounce and rise, the human reciter — with far greater faculties — has no excuse for inattention. It commends equanimous detachment at life's end and gratitude expressed as worship.",
+    "crossReferences": [
+      {
+        "text": "Bharukaccha-kalpa (the Aśvāvabodha / Śakunikā-vihāra account)",
+        "source": "Jinaprabhasūri, Vividha-tīrtha-kalpa (14th c. CE)"
+      },
+      {
+        "text": "Next verse (ashtottari-tirthmala/78), which names the shrine 'Assāvaboha titthaṁ' (Aśvāvabodha tīrtha) born of this episode",
+        "source": "Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Munisuvrata",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Identity of Suvvaya as the 20th Tīrthaṅkara Munisuvrata, his Rājagṛha origin and dark complexion"
+    },
+    {
+      "title": "Bharuch Tirth — The Jainsite",
+      "url": "https://jainsite.com/jain-tirth/bharuch-tirth/",
+      "type": "scholarship",
+      "consultedFor": "The Aśvāvabodha legend at Bharukaccha — Munisuvrata preaching to the sacrificial horse, its rebirth as a deva, and the founding/renovations of the tīrtha (later Śakunikā-vihāra)"
+    },
+    {
+      "title": "Ashvabodhatirtha — Jatland Wiki",
+      "url": "https://www.jatland.com/home/Ashvabodhatirtha",
+      "type": "scholarship",
+      "consultedFor": "The name Aśvāvabodha ('horse-awakening') and the textual tradition (Vividha-tīrtha-kalpa, Prabhāvaka-carita) attaching the legend to Bharukaccha"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots of jāti-smara, turaga, an-aśana, mahiman, ā-√gam and √kṛ (akārṣīt)"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The verse is a telegraphic Apabhraṁśa-coloured gāthā that presupposes the well-known Bharukaccha Aśvāvabodha legend, so the connective sense (Munisuvrata's discourse; the horse's destined sacrifice; the deva's grateful return) is supplied from that tradition, not stated in the words. 'makāsi' is parsed as mahima-(m)-akāsi, with the m as a hiatus-bridging glide rather than a separate morpheme. 'koraṇṭaga' is read as a proper place/grove name at Bharukaccha named after the koraṇṭa shrub; its exact referent is not fixed by the verse and other editions may vary. 'jāisaro' (jātismara) qualifies the horse, not King Jitaśatru. 'āgaṁtu' is taken as an absolutive doing double duty ('having attained godhood' / the deva 'having come'). Per the source-book fidelity rule, the verbatim orthography (ભરુઅચ્છે, સુવ્વય, અણસણ, મકાસિ) is preserved and not normalised."
+}

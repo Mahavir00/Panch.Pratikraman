@@ -1,0 +1,174 @@
+{
+  "shlokaId": "ashtottari-tirthmala/55",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Indra then bowed at the newly-ordained monk's feet, begged his pardon and praised him, and returned to heaven; the king's pride had melted, and so he became a true monk there — so praise Lord Mahāvīra!",
+  "recitation": "to suravaï muṇi calaṇe, khāmiya uvabūhiyaṁ divaṁ patto. gaya aggapao evaṁ, jāo tahiṁ thuṇaha vīrajiṇaṁ.",
+  "wordByWord": [
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to from Sanskrit tataḥ / tadā ('then'); a narrative connective carrying the action on from the previous verse.",
+      "notes": "Marks the sequel to v.54, where Daśārṇabhadra has just renounced (pavvaïo)."
+    },
+    {
+      "token": "સુરવઇ",
+      "translit": "suravaï",
+      "gloss": "the lord of the gods (Indra, Śakra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sura-vaï from Sanskrit sura-pati ('lord of the devas'); sura = god, pati > vaï = lord. An epithet of Śakra/Indra.",
+      "notes": "Same Indra (Sakka) who in v.53–54 humbled the king's pomp."
+    },
+    {
+      "token": "મુણિ",
+      "translit": "muṇi",
+      "gloss": "of the muni (sage) — i.e. the now-ordained king",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇi from Sanskrit muni ('silent sage, ascetic'). Genitive in sense, governing 'feet'.",
+      "notes": "Refers to Daśārṇabhadra, just become a monk — not to Mahāvīra."
+    },
+    {
+      "token": "ચલણે",
+      "translit": "calaṇe",
+      "gloss": "at the feet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit calaṇa (locative calaṇe) from Sanskrit caraṇa ('foot'), with the regular Prakrit r > l shift.",
+      "notes": "Locative: the place where homage is offered."
+    },
+    {
+      "token": "ખામિય",
+      "translit": "khāmiya",
+      "gloss": "having begged forgiveness (having performed khāmaṇā)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit absolutive khāmiya from Sanskrit kṣāmayitvā / kṣamya, causative of √kṣam ('to forgive, endure'); the technical sense is the act of mutual pardon, khāmaṇā.",
+      "notes": "Indra atones for having broken the king's pride."
+    },
+    {
+      "token": "ઉવબૂહિયં",
+      "translit": "uvabūhiyaṁ",
+      "gloss": "having extolled / strengthened in praise (upabṛṁhaṇā)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit uvabūhiya from Sanskrit upabṛṁhita / upabṛṁhaṇa (√bṛṁh 'to make grow, foster'); in Jain usage one of the eight aṅgas of samyaktva — fostering and lauding the virtuous.",
+      "notes": "Indra not only pardons but actively praises the renunciant, modelling upabṛṁhaṇā."
+    },
+    {
+      "token": "દિવં",
+      "translit": "divaṁ",
+      "gloss": "to heaven (his celestial abode)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit divaṁ from Sanskrit divam (accusative of div, 'heaven'); goal of motion with 'patto'.",
+      "notes": "Indra's return to Saudharma."
+    },
+    {
+      "token": "પત્તો",
+      "translit": "patto",
+      "gloss": "reached, attained",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patto from Sanskrit prāpta ('reached'), past participle of pra-√āp; the doubled tt is the regular Prakrit assimilation of pt.",
+      "notes": "Predicate of suravaï (Indra): 'Indra reached heaven.'"
+    },
+    {
+      "token": "ગય",
+      "translit": "gaya",
+      "gloss": "gone, departed",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit gaya from Sanskrit gata ('gone'), past participle of √gam; first member of the compound 'gaya-aggapao'.",
+      "notes": "Qualifies 'pride': his pride having departed."
+    },
+    {
+      "token": "અગ્ગપઓ",
+      "translit": "aggapao",
+      "gloss": "(whose) pride of preeminence / claim to be foremost",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit agga-pao from Sanskrit agra-pada ('foremost station/rank'), agga < agra ('first, top') + pao < pada ('place, status'); here connoting the conceit of supremacy. With 'gaya' it forms a bahuvrīhi: 'one whose pride of preeminence is gone'.",
+      "notes": "The king had wished to be 'foremost' in honouring Mahāvīra; that very conceit dissolves. (Some read the lost preeminence as Indra's; see notes.)"
+    },
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit evaṁ from Sanskrit evam ('thus'); summarises the manner of the transformation.",
+      "notes": ""
+    },
+    {
+      "token": "જાઓ",
+      "translit": "jāo",
+      "gloss": "became",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jāo from Sanskrit jāta ('born, become'), past participle of √jan.",
+      "notes": "Subject is the king: 'thus he became [a true monk] there.'"
+    },
+    {
+      "token": "તહિં",
+      "translit": "tahiṁ",
+      "gloss": "there (on that very spot)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahiṁ from Sanskrit tatra / tasmin ('there'); pronominal locative adverb.",
+      "notes": "At Daśārṇakūṭa, in Mahāvīra's presence."
+    },
+    {
+      "token": "થુણહ",
+      "translit": "thuṇaha",
+      "gloss": "praise! (you all, do venerate)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit thuṇaha, 2nd-person plural imperative from Sanskrit √stu ('to praise'; cf. stunita, stuta); the hymn's recurring exhortation to the reciters.",
+      "notes": "The refrain that turns narrative into act of worship."
+    },
+    {
+      "token": "વીરજિણં",
+      "translit": "vīrajiṇaṁ",
+      "gloss": "the Vīra Jina (Lord Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vīra-jiṇaṁ (accusative) from Sanskrit vīra-jina; vīra ('hero') + jina ('conqueror'), the 24th Tīrthaṅkara Vardhamāna Mahāvīra.",
+      "notes": "Object of 'thuṇaha'."
+    }
+  ],
+  "literalTranslation": "Then the lord of the gods (Indra), having begged forgiveness and extolled [him] at the muni's feet, reached heaven; thus, his pride of preeminence gone, he became [a monk] there — praise the Vīra Jina!",
+  "idiomaticTranslation": "Then Indra, lord of the gods, bowed at the new monk's feet, begged his pardon, lauded him, and rose back to heaven. With his every conceit of supremacy dissolved, the king became a true renunciant on that very spot — so praise Lord Mahāvīra!",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the Daśārṇabhadra episode that has run since v.49. In v.54 the proud king, out-dazzled by Indra's incomparable splendour, has already renounced; here the camera turns to Indra's response. The hierarchy is deliberately inverted: the deva-king who could outshine any earthly pomp now stoops 'at the muni's feet' (muṇi calaṇe), performs khāmaṇā (begs forgiveness for having shattered the king's pride) and offers upabṛṁhaṇā — open, glad praise of another's virtue. The poet's point is sharp: Indra commands every heavenly marvel yet, still bound in saṁsāra, cannot renounce; the king, by walking out of his kingdom, has done the one thing Indra cannot, and so the lord of gods honours him. 'Gaya aggapao' — 'his pride of being-foremost gone' — names the inner pivot: the very ambition to be the most magnificent worshipper has been burned away, and only then does he 'become' (jāo) what he truly sought. The closing imperative 'thuṇaha vīrajiṇaṁ' redirects all of it: the marvel is not Indra, not even the heroic king, but Mahāvīra, in whose mere presence pride collapses and souls turn to the path. The refrain converts the listener from spectator into devotee.",
+    "doctrinalContext": "The verse dramatises māna (pride), the kaṣāya whose conquest Jainism prizes, and stages two of the eight aṅgas of samyaktva: khāmaṇā/upaśama (forgiveness and equanimity) and upabṛṁhaṇā (fostering and praising the virtuous), here performed by Indra himself. It also embodies the doctrinal ranking of states: a vrata-bearing renunciant outranks even the puṇya-rich devas, for the heavens reward merit but cannot, by themselves, deliver release. 'Gaya aggapao' is thus the dissolution of ahaṅkāra that makes right conduct (cāritra) possible.",
+    "practicalRelevance": "Recited within the Pakkhī pratikramaṇa — a rite of confession and mutual pardon — the verse models what the reciter is about to do: lay down pride, ask forgiveness, and praise others' good. It teaches that genuine devotion is measured not by the grandeur of one's offering but by the surrender of ego behind it.",
+    "crossReferences": [
+      {
+        "text": "Daśārṇabhadra's pride humbled by Śakra and his renunciation (Mahāvīra-carita)",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra, Parvan X (trans. Helen M. Johnson)"
+      },
+      {
+        "text": "The eight aṅgas of samyaktva, including upabṛṁhaṇā (fostering virtue) and vātsalya",
+        "source": "Umāsvāti, Tattvārtha-sūtra, ch. 1 (commentarial tradition)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit-Sanskrit dictionary)",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms suravaï (sura-pati), khāmiya (√kṣam), patto (prāpta), calaṇa (caraṇa), thuṇaha (√stu)"
+    },
+    {
+      "title": "Ratnachandra, An Illustrated Ardha-Magadhi Dictionary",
+      "url": "https://archive.org/details/in.ernet.dli.2015.458892",
+      "type": "dictionary",
+      "consultedFor": "Ardhamagadhi glosses for muṇi, gaya (gata), jāo (jāta), tahiṁ (tatra) and the imperative thuṇaha"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams etc.)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit underlying roots upabṛṁhaṇa (√bṛṁh), agra-pada, evam, divam"
+    },
+    {
+      "title": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra, trans. Helen M. Johnson (GOS)",
+      "url": "https://archive.org/details/in.ernet.dli.2015.282619",
+      "type": "translation",
+      "consultedFor": "The Daśārṇabhadra legend: his pride, Indra's surpassing display, his renunciation and Indra's homage"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Reading of the actors: 'suravaï … divaṁ patto' clearly = Indra returns to heaven after begging pardon (khāmiya) and praising (uvabūhiyaṁ) the new monk at his feet. 'Gaya-aggapao … jāo tahiṁ' is taken as the king (Daśārṇabhadra), whose 'pride of preeminence' (agra-pada) is gone and who thus becomes a true renunciant there; v.54 ('pavvaïo') supports the king as subject. A minority reading attaches 'gaya aggapao' to Indra (whose claim to be 'foremost' yields to the renunciant), which is grammatically possible — flagged as uncertain. 'uvabūhiyaṁ' is read as the absolutive of upabṛṁhaṇā (lauding virtue); some editions may vocalise it as a neuter participle 'having-been-extolled'. Orthography (e.g. the doubled gg/tt, anusvāra) is preserved verbatim per the source book."
+}

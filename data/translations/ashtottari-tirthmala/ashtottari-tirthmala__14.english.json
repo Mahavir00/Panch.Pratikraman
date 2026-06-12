@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/14",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "We bow to eight Jinas of a long-past age — Namīśvara, Anila, Yaśodhara, Kṛtārtha, Dharmeśvara, Śuddhamati, Śivaṅkara and Syandana — honouring each one by name.",
+  "recitation": "namimo namīsara jiṇaṁ, anilaṁ jasoharaṁ kayatthaṁ ca | dhammīsara suddhamaiṁ, sivakara jiṇa saṁdaṇa jiṇaṁdaṁ.",
+  "wordByWord": [
+    {
+      "token": "નમિમો",
+      "translit": "namimo",
+      "gloss": "we bow, we make obeisance",
+      "partOfSpeech": "verb",
+      "etymology": "From Prakrit nam- (Skt. √nam, 'to bow, salute'); 1st-person plural present, equivalent to Skt. namāmaḥ ('we bow').",
+      "notes": "The single governing verb of the verse; every following name in the accusative is its object. The -mo ending is the Prakrit 1st-person plural, matching the hymn's collective devotional voice (namimo / thuṇimo)."
+    },
+    {
+      "token": "નમીસર",
+      "translit": "namīsara",
+      "gloss": "Namīśvara (a Jina of the past cycle)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit for Skt. Namīśvara / Nameśvara, lit. 'lord (īśvara) Nami'.",
+      "notes": "An atīta (past-cycle) Tīrthaṅkara, listed in the standard Śvetāmbara atīta-cauvīsī roll."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (object of homage)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa from Skt. jina, 'conqueror' (√ji, 'to conquer'); accusative singular -aṁ.",
+      "notes": "Opens the salutation; balanced by jiṇaṁdaṁ at the verse's close, bracketing the name-list between 'the Jina' and 'the Lord of Jinas'."
+    },
+    {
+      "token": "અનિલં",
+      "translit": "anilaṁ",
+      "gloss": "Anila (a past-cycle Jina), accusative",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit for Skt. Anila (lit. 'wind'); here a proper Jina-name. Accusative -aṁ.",
+      "notes": ""
+    },
+    {
+      "token": "જસોહરં",
+      "translit": "jasoharaṁ",
+      "gloss": "Yaśodhara (a past-cycle Jina), accusative",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit jasohara from Skt. Yaśodhara, 'bearer of glory' (yaśas + dhara). Accusative -aṁ.",
+      "notes": "Prakrit ya→ja and śa→sa shifts give jaso- for yaśo-."
+    },
+    {
+      "token": "કયત્થં",
+      "translit": "kayatthaṁ",
+      "gloss": "Kṛtārtha (a past-cycle Jina), accusative",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit kayattha from Skt. Kṛtārtha, 'one whose aim is accomplished' (kṛta + artha). Accusative -aṁ.",
+      "notes": "Skt. kṛ- regularly yields Prakrit kaya-."
+    },
+    {
+      "token": "ચ",
+      "translit": "ca",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt./Prakrit ca, the connective 'and'.",
+      "notes": "Closes the first line's group of four names; metrically links the half-verses."
+    },
+    {
+      "token": "ધમ્મીસર",
+      "translit": "dhammīsara",
+      "gloss": "Dharmeśvara (a past-cycle Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit dhammīsara from Skt. Dharmeśvara, 'lord of dharma' (dharma + īśvara); Skt. dharma → Prakrit dhamma.",
+      "notes": "Some atīta-cauvīsī charts give this Jina's name as Jineśvara at the same position; the hymn's reading is Dharmeśvara."
+    },
+    {
+      "token": "સુદ્ધમઇં",
+      "translit": "suddhamaiṁ",
+      "gloss": "Śuddhamati (a past-cycle Jina), accusative",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit suddhamai from Skt. Śuddhamati, 'of pure intellect' (śuddha + mati); Skt. śuddha → Prakrit suddha. Accusative -iṁ.",
+      "notes": ""
+    },
+    {
+      "token": "સિવકર",
+      "translit": "sivakara",
+      "gloss": "Śivaṅkara (a past-cycle Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit sivakara from Skt. Śivaṅkara / Śivakara, 'maker of bliss/welfare' (śiva + kara); Skt. śiva → Prakrit siva.",
+      "notes": ""
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (honorific before the next name)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa, Skt. jina, 'conqueror'.",
+      "notes": "Read as an honorific qualifying the following name — 'the Jina Syandana' — its bare stem dropping the accusative for the metre."
+    },
+    {
+      "token": "સંદણ",
+      "translit": "saṁdaṇa",
+      "gloss": "Syandana (a past-cycle Jina)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit saṁdaṇa from Skt. Syandana (lit. 'flowing; chariot'); the conjunct sy- simplifies to s- with anusvāra in Prakrit.",
+      "notes": "Appears as Spandana in some atīta-cauvīsī charts; the hymn's saṁdaṇa points to Syandana."
+    },
+    {
+      "token": "જિણંદં",
+      "translit": "jiṇaṁdaṁ",
+      "gloss": "Jinendra, the Lord of Jinas (accusative)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇaṁda from Skt. Jinendra (jina + indra, 'chief among Jinas'). Accusative -aṁ.",
+      "notes": "Caps the salutation, gathering all the named Jinas under the single honorific 'Lord of Jinas'."
+    }
+  ],
+  "literalTranslation": "We bow to the Jina Namīśvara, to Anila, to Yaśodhara, and to Kṛtārtha; to Dharmeśvara, to Śuddhamati, to Śivaṅkara, to the Jina Syandana — the Lord of Jinas.",
+  "idiomaticTranslation": "We bow low to Jina Namīśvara, and to Anila, Yaśodhara and Kṛtārtha; to Dharmeśvara, Śuddhamati, Śivaṅkara and to the Jina Syandana — each of them a Lord among Jinas.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is a pure roll-call verse, and its art lies in compression: a single verb, namimo ('we bow'), is made to carry eight Jina-names strung after it in the accusative, so the whole gāthā is one unbroken act of obeisance. The poet frames the list with a deliberate device — it opens with jiṇaṁ ('the Jina') and closes with jiṇaṁdaṁ ('the Lord of Jinas'), bracketing the eight names between two titles so the salutation feels sealed rather than merely stopped. The names belong to the atīta-cauvīsī, the twenty-four Tīrthaṅkaras of the bygone descending age in Bharata, and this verse takes up a middle stretch of that list — Namīśvara, Anila, Yaśodhara, Kṛtārtha, Dharmeśvara, Śuddhamati, Śivaṅkara, Syandana. It advances the sweep begun in the preceding verse (which had reached Sumati and Śivagati) and hands directly to the next, where Samprati is named as the last of the twenty-four and is said to have 'reached Śiva' — liberation. Several of the names are themselves quiet auspications — Yaśodhara, 'bearer of glory'; Kṛtārtha, 'whose purpose is fulfilled'; Śuddhamati, 'pure of mind'; Śivaṅkara, 'maker of bliss' — so that even a bare list reads as a small litany of the qualities a Jina embodies. Nothing here needs the legends that crowd the later tīrtha verses; the verse asks only to be chanted, each name a bead added to the garland.",
+    "doctrinalContext": "The verse rests on a foundational Jain conviction: Tīrthaṅkaras are not confined to the familiar present twenty-four (Ṛṣabha to Mahāvīra) but arise in every ascending and descending half-cycle, without beginning. By bowing to the Jinas of a vanished age, the reciter affirms that the dharma-tīrtha is beginningless and the path eternal — the same liberation was opened by Namīśvara and Syandana as by Mahāvīra. Equally it enacts nāma-smaraṇa, the meritorious remembrance of holy beings by name even when their biographies are lost to time; reverence is owed to the state of Jinahood itself, not merely to the Jinas whose stories survive.",
+    "practicalRelevance": "Chanting these unfamiliar names trains the reciter to revere Jinahood as a principle rather than as attachment to a few well-known figures. It widens devotion beyond the present twenty-four and steadies the mind: one name, one bow, one breath at a time — a simple, repeatable focus that turns recitation into mindful homage.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the model of naming the twenty-four Tīrthaṅkaras in a single sustained salutation",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Atīta-cauvīsī (past twenty-four of Bharata) — Namīśvara, Anila, Yaśodhara, Kṛtārtha, (Dharmeśvara/Jineśvara), Śuddhamati, Śivaṅkara, Syandana",
+        "source": "Jainsite, 'Past–Present–Future 24 Tīrthaṅkara'"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Past–Present–Future: 24 Tīrthaṅkara (Atīta / Vartamāna / Anāgata Cauvīsī)",
+      "url": "https://jainsite.com/24-tirthankara/past-present-future/",
+      "type": "scholarship",
+      "consultedFor": "Confirming the names and ordering of the atīta-cauvīsī (past 24): Namīśvara, Anila, Yaśodhara, Kṛtārtha, Jineśvara/Dharmeśvara, Śuddhamati, Śivaṅkara, Spandana/Syandana, Samprati"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit–Hindi Dictionary), H. D. T. Sheth — Digital Dictionaries of South Asia",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit verbal root nam- (namai/namimo, 'to bow') and the noun jiṇa (= Skt. jina), plus Prakrit sound-shifts (ya→ja, śa→sa, kṛ→kaya, dharma→dhamma)"
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899) — Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma of the names: √nam, jina, jinendra, yaśas+dhara (Yaśodhara), kṛta+artha (Kṛtārtha), dharma+īśvara (Dharmeśvara), śuddha+mati (Śuddhamati), śiva+kara (Śivaṅkara), syandana"
+    },
+    {
+      "title": "Paia-Sadda-Mahannavo (scanned full text)",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking the Prakrit-to-Sanskrit equivalences used in the per-token etymologies"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The eight names are well-attested members of the Śvetāmbara atīta-cauvīsī (past 24 Tīrthaṅkaras of Bharata); the verse covers a middle stretch of that list (roughly the 16th–23rd positions in the Jainsite chart) and is continued in v.15 with Samprati as the last and his attainment of liberation. Two name-readings carry recognised variants: ધમ્મીસર (Dharmeśvara) appears as Jineśvara at the same position in some charts, and સંદણ (Syandana) appears as Spandana — the per-token glosses follow the book's verbatim reading. namimo is taken as a 1st-person plural ('we bow') per the Prakrit -mo ending and the hymn's collective voice. The bare-stem જિણ before સંદણ is read as an honorific ('the Jina Syandana') rather than a separate object, on metrical grounds. Exact ordinal numbering of the past-cycle Jinas varies slightly by source (some lists prefix Kevalajñānī/Nirvāṇī), so precise numbers are given as approximate rather than fixed."
+}

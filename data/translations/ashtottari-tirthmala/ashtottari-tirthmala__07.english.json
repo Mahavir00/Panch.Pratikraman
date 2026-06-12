@@ -1,0 +1,176 @@
+{
+  "shlokaId": "ashtottari-tirthmala/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Blessed is this day, and even this passing moment is holy, because in it I have found you — the teacher of all three worlds — like a wish-granting tree appearing on the barren desert-road of worldly life.",
+  "recitation": "dhanno eso divaso, jāma muhutto vi esa supavitto; jaṃmi tumaṃ tijaga-guru, bhava-maru-paha-surataru patto.",
+  "wordByWord": [
+    {
+      "token": "ધન્નો",
+      "translit": "dhanno",
+      "gloss": "blessed, fortunate, auspicious",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dhanna < Sanskrit dhanya ('blessed, fortunate'); nominative masculine singular agreeing with divaso.",
+      "notes": "Echoes the dhanno'haṃ ('blessed am I') of the preceding verse, now transferred from the self to the day."
+    },
+    {
+      "token": "એસો",
+      "translit": "eso",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit eso < Sanskrit eṣaḥ; nominative masculine singular demonstrative.",
+      "notes": ""
+    },
+    {
+      "token": "દિવસો",
+      "translit": "divaso",
+      "gloss": "day",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit divasa < Sanskrit divasa ('day'); nominative masculine singular.",
+      "notes": ""
+    },
+    {
+      "token": "જામ",
+      "translit": "jāma",
+      "gloss": "when, at which time (relative)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit relative adverb of time < Sanskrit yāvat / yasmin (kāle); correlates the day/moment with the encounter described below.",
+      "notes": "Functions as a temporal relative ('the day on which / when'); paired with the locative relative jaṃmi in the second line."
+    },
+    {
+      "token": "મુહુત્તોવિ",
+      "translit": "muhutto vi",
+      "gloss": "even this moment (muhūrta, a short measure of time)",
+      "partOfSpeech": "compound",
+      "etymology": "Sandhi of muhutto + vi: muhutto, Prakrit < Sanskrit muhūrta ('moment, a unit of time, classically ~48 minutes'); vi, Prakrit < Sanskrit api ('even, also').",
+      "notes": "The emphatic vi ('even') stresses that not just the day but its smallest unit of time is hallowed."
+    },
+    {
+      "token": "એસ",
+      "translit": "esa",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit esa < Sanskrit eṣaḥ; nominative masculine singular demonstrative, here qualifying muhutto.",
+      "notes": ""
+    },
+    {
+      "token": "સુપવિત્તો",
+      "translit": "supavitto",
+      "gloss": "most holy, exceedingly sacred",
+      "partOfSpeech": "adj",
+      "etymology": "su- ('very, well') + pavitta (Prakrit < Sanskrit pavitra, 'pure, sacred'); nominative masculine singular.",
+      "notes": ""
+    },
+    {
+      "token": "જંમિ",
+      "translit": "jaṃmi",
+      "gloss": "in which, wherein",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit locative singular relative pronoun < Sanskrit yasmin ('in which'); refers back to divaso / muhutto.",
+      "notes": "Relative locative linking the blessed day-and-moment to the act of finding the Jina."
+    },
+    {
+      "token": "તુમં",
+      "translit": "tumaṃ",
+      "gloss": "you",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit tumaṃ < Sanskrit tvam ('you'); second-person singular, here addressing the Jina directly.",
+      "notes": "Marks the verse's turn into direct second-person address of the Lord."
+    },
+    {
+      "token": "તિજગ",
+      "translit": "tijaga",
+      "gloss": "the three worlds (heaven, earth, nether-region)",
+      "partOfSpeech": "compound",
+      "etymology": "ti ('three', < Sanskrit tri) + jaga (Prakrit < Sanskrit jagat, 'world'); first member of the epithet tijaga-guru.",
+      "notes": ""
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "teacher, preceptor",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit guru ('venerable teacher'); tijaga-guru = 'teacher of the three worlds', an epithet of the Jina.",
+      "notes": "Stands in apposition to tumaṃ ('you, O teacher of the three worlds')."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "worldly existence, the round of rebirth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit bhava ('becoming, mundane existence, saṃsāra'); first member of the compound bhava-maru-paha-surataru.",
+      "notes": ""
+    },
+    {
+      "token": "મરુ",
+      "translit": "maru",
+      "gloss": "desert, waterless waste",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit maru ('desert, arid land'); compound member — saṃsāra figured as a barren desert.",
+      "notes": ""
+    },
+    {
+      "token": "પહ",
+      "translit": "paha",
+      "gloss": "path, road",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paha < Sanskrit patha/pathin ('road'); compound member: bhava-maru-paha = 'the road through the desert of existence'.",
+      "notes": ""
+    },
+    {
+      "token": "સુરતરુ",
+      "translit": "surataru",
+      "gloss": "wish-granting tree (kalpavṛkṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "sura ('god, celestial') + taru ('tree') < Sanskrit surataru, the divine wish-fulfilling tree; predicated of the Jina.",
+      "notes": "Closing member of the compound: 'the wish-tree (found) on the desert-road of existence'."
+    },
+    {
+      "token": "પત્તો",
+      "translit": "patto",
+      "gloss": "attained, obtained, found",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patta < Sanskrit prāpta ('reached, obtained'), past passive participle; nominative masculine singular.",
+      "notes": "Governs the encounter: 'you... have been attained/found' by the worshipper."
+    }
+  ],
+  "literalTranslation": "Blessed is this day, when even this moment is most holy — in which you, O teacher of the three worlds, the wish-tree on the road through the desert of worldly existence, have been attained.",
+  "idiomaticTranslation": "Blessed is this day! Holy beyond measure is even this fleeting moment — the moment in which I have found you, O Teacher of the three worlds: you who stand like a wish-granting tree on the parched desert-road of rebirth, where I had wandered with nothing to slake my thirst.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse blessed the worshipper himself (dhanno'haṃ, 'blessed am I'), this verse widens the blessing outward to time: dhanno eso divaso — 'blessed is this day' — and then sharpens it to the smallest grain of time with the emphatic muhutto vi, 'even this moment is most holy.' The logic is devotional, not chronological: a day, even an instant, is sanctified not by the calendar but by what occurs in it. The relatives jāma and jaṃmi hold the whole verse in suspense until the reason lands in the final word — patto, 'attained.' What sanctifies the moment is the finding of the Lord. The verse then turns to direct address (tumaṃ, 'you'), naming him tijaga-guru, teacher of the three worlds. The fresh image here is the desert. Saṃsāra is drawn not merely as an ocean (the hymn's usual figure) but as a maru, a waterless waste, and life within it as a paha, a long road across that waste; on it the Jina appears as a surataru, a wish-granting tree — the one shade and refuge a desert traveller could never expect to find. The encounter reverses a lifetime of thirst in a single muhūrta. Read against the following verse, the movement is clear: having declared the day and moment blessed because the Lord is found, verse 8 will go on to say that now every auspicious thing — wish-gem, wish-tree, wish-cow — has become easy to obtain.",
+    "doctrinalContext": "The verse rests on the Jain teaching that an encounter with a Jina (darśana) is supremely rare and supremely fruitful — of the four hard-won attainments, contact with the true path is among the rarest. By calling the Lord a surataru, the verse also marks a deliberate contrast: an ordinary celestial wish-tree grants only perishable, mundane boons, whereas the Jina-as-wish-tree grants the one thing the desert of rebirth cannot — release from rebirth itself. Sanctifying kāla (time) here complements the standard four-fold scope of dravya, kṣetra, kāla and bhāva: it is the dimension of time that the worshipper consecrates by the act of meeting the Lord.",
+    "practicalRelevance": "Recited in the Pakkhī pratikramaṇa, the verse trains the reciter to treat the present moment of worship as itself sacred — not a step toward some future merit but already 'most holy' because the Jina is present to the mind in it. It turns gratitude into attentiveness: this day, this very muhūrta of prayer, is the wish-tree found in the desert; do not let it pass unfelt.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 3.1 — the four supremely rare attainments (human birth, hearing the dharma, faith, and exertion in self-control)",
+        "source": "Uttarādhyayana-sūtra (Śvetāmbara Āgama)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.6 (dhanno'haṃ puṇṇo'haṃ) and v.8 (ajjaṃ mahaṃ cintāmaṇi... aladdha-puvvo tumaṃ laddho) — the dhanno sequence framing this verse",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (s.v. muhūrta), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sense and time-measure of muhūrta (muhutto), and the root of pavitta < pavitra"
+    },
+    {
+      "title": "Apte, Practical Sanskrit-English Dictionary (s.v. surataru, kalpavṛkṣa), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/AP90Scan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "surataru as the celestial wish-fulfilling tree (kalpavṛkṣa), and maru as 'desert'"
+    },
+    {
+      "title": "JainQQ digital Ardhamagadhi / Prakrit lexical resources",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Prakrit forms pavitta ('holy'), patta < prāpta ('attained'), and the relative-locative jaṃmi < yasmin"
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "The verse carries two relatives, jāma (temporal, 'when') and jaṃmi (locative, 'in which'), both pointing to the blessed day/moment; jāma is read here as a temporal relative (< yāvat/yasmin kāle) rather than as a noun. muhuttovi is muhutto + vi (api, 'even'), sandhi-joined in the source and split in the recitation for chanting. bhava-maru-paha-surataru is taken as a single descriptive compound predicated of the Jina ('the wish-tree on the desert-road of existence'); some readers may instead construe it loosely appositionally ('you... [are] the wish-tree...'), with no change of sense. Orthography is Apabhraṃśa/Prakrit-coloured and reproduced verbatim from the Anchalgachchha/Vidhipaksha edition; no variant readings were verified for this verse, so alternative editions may differ slightly."
+}

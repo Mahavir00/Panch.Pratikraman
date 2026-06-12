@@ -1,0 +1,180 @@
+{
+  "shlokaId": "ashtottari-tirthmala/02",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Victory, victory to you — auspicious blessing of the three worlds, revered Lord who has shed every inner dart and all fear, God of gods, Lord of the universe, supreme and boundlessly compassionate one!",
+  "recitation": "jaya jaya tihuaṇa-maṅgala, bhaṭṭāraya sāmi sāla bhaya-catta. devāhideva jaga-pahu, paramesara parama kāruṇiya.",
+  "wordByWord": [
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! / hail!",
+      "partOfSpeech": "invocation",
+      "etymology": "Skt. jaya 'victory, triumph', from √ji 'to conquer'; Prakrit jaya identical in form.",
+      "notes": "An acclamatory vocative cry, not a statement; addressed directly to the Jina."
+    },
+    {
+      "token": "જય",
+      "translit": "jaya",
+      "gloss": "victory! (repeated)",
+      "partOfSpeech": "invocation",
+      "etymology": "Reduplication of jaya for emphasis (jaya jaya = 'all victory, ever-victory').",
+      "notes": "The doubled cry launches the anaphora that continues into the following verse (jaya jaya jagikka-bandhava…)."
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "(of the) three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Apabhraṁśa tihuaṇa < Skt. tribhuvana (tri 'three' + bhuvana 'world'): heaven, earth and the nether region.",
+      "notes": "Forms a compound with the next word; see preface imagery on the threefold cosmos."
+    },
+    {
+      "token": "મંગલ",
+      "translit": "maṅgala",
+      "gloss": "auspicious one / blessing",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maṅgala 'auspiciousness, welfare, blessing'; here a vocative epithet, 'O blessing-(of the three worlds)'.",
+      "notes": "tihuaṇa-maṅgala = 'the auspicious blessing / well-being of the three worlds'."
+    },
+    {
+      "token": "ભટ્ટારય",
+      "translit": "bhaṭṭāraya",
+      "gloss": "venerable Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhaṭṭāraya = Skt. bhaṭṭāraka 'most worshipful one, revered lord', honorific of bhartṛ 'lord, sustainer'.",
+      "notes": "The Prakrit form bhaṭṭāraya for Skt. bhaṭṭāraka is attested in Jinaprabhasūri's Vividhatīrthakalpa."
+    },
+    {
+      "token": "સામિ",
+      "translit": "sāmi",
+      "gloss": "master, Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmi < Skt. svāmin 'owner, master, lord'.",
+      "notes": "Pairs with bhaṭṭāraya as a doubled honorific of sovereignty."
+    },
+    {
+      "token": "સાલ",
+      "translit": "sāla",
+      "gloss": "dart, thorn (of inner affliction)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāla = Skt. śalya 'dart, thorn, that which pierces'; in Jain usage the three śalyas — māyā (deceit), nidāna (craving for reward), mithyātva (false belief).",
+      "notes": "Joins the following word as śalya-bhaya-tyakta; an alternate reading takes sāla as an intensifying honorific ('chief lord'), flagged in notes."
+    },
+    {
+      "token": "ભયચત્ત",
+      "translit": "bhaya-catta",
+      "gloss": "who has cast off fear",
+      "partOfSpeech": "compound",
+      "etymology": "bhaya (Skt. bhaya 'fear') + catta (Prakrit catta = Skt. tyakta 'abandoned, given up', from √tyaj).",
+      "notes": "With sāla: 'who has cast off (every) dart and fear' — i.e. niḥśalya and nirbhaya, free of the three darts and the seven fears."
+    },
+    {
+      "token": "દેવાહિદેવ",
+      "translit": "devāhideva",
+      "gloss": "God of gods",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. deva-adhideva: deva 'god' + adhideva 'overlord-deity'; 'the god above the gods', worshipped even by the heavenly lords (Indras).",
+      "notes": "Vocative epithet."
+    },
+    {
+      "token": "જગપહુ",
+      "translit": "jaga-pahu",
+      "gloss": "Lord of the world",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit jaga (Skt. jagat 'world') + pahu (Skt. prabhu 'lord, master, sovereign').",
+      "notes": "Vocative; widens the praise from gods to the entire cosmos."
+    },
+    {
+      "token": "પરમેસર",
+      "translit": "paramesara",
+      "gloss": "supreme Lord",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paramesara < Skt. parameśvara (parama 'highest' + īśvara 'lord, ruler').",
+      "notes": "In Jain mouths 'parameśvara' names the perfected supreme soul, not a creator-deity."
+    },
+    {
+      "token": "પરમ",
+      "translit": "parama",
+      "gloss": "supreme, highest",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. parama 'highest, most excellent', superlative of para.",
+      "notes": "Qualifies the following word: 'supremely compassionate'."
+    },
+    {
+      "token": "કારુણિય",
+      "translit": "kāruṇiya",
+      "gloss": "compassionate one",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit kāruṇiya < Skt. kāruṇika 'compassionate, merciful', from karuṇā 'compassion' (+ -ika/ṭhak).",
+      "notes": "parama-kāruṇiya = 'supremely compassionate', the verse's culminating epithet."
+    }
+  ],
+  "literalTranslation": "Victory, victory! O auspicious blessing of the three worlds; O venerable Lord and master who has cast off (every) dart and fear; O God of gods, Lord of the world, supreme Lord, supremely compassionate one.",
+  "idiomaticTranslation": "Victory, victory to you, O blessing of all three worlds! Revered Lord and Master, you have drawn out every inner dart and shed all fear; God above the gods, Sovereign of the universe, Supreme Lord, fountain of boundless compassion — to you, victory, victory!",
+  "elaboration": {
+    "verseByVerseCommentary": "Where verse 1 ended in the third person — 'we praise the Jina' (jiṇaṁ thuṇimo) — this verse turns to face him and cry out in the second person: jaya jaya, 'victory, victory to you!' The shift from describing to directly hailing is the hymn finding its devotional voice, and the doubled cry sets up an anaphora the poet sustains straight into verse 3 (jaya jaya jagikka-bandhava…). The epithets are arranged as an ascent. First the Jina's reach widens — tihuaṇa-maṅgala, the auspicious well-being of all three worlds; then his title is doubled for weight — bhaṭṭāraya sāmi, 'revered Lord and Master.' At the centre sits the verse's doctrinal heart: sāla bhaya-catta, 'one who has cast off dart and fear.' Sāla (śalya) names the inner barbs the soul carries; bhaya names dread. To declare the Jina free of both is to mark him as one in whom nothing pierces and nothing frightens — the very condition the reciter longs to reach. The praise then rises through three widening sovereignties: devāhideva (even the gods bow), jaga-pahu (the world is his), paramesara (none stands above him), and lands at the apex the poet clearly intends as the summit — parama kāruṇiya, 'supremely compassionate.' That ordering is the teaching: supremacy is named only so that compassion can be named last and highest. A Lord who has transcended every world still bends toward beings in mercy — and that mercy is precisely what makes him worth a pilgrimage of one hundred and eight tīrthas.",
+    "doctrinalContext": "The pivot sāla bhaya-catta compresses two classic Jain enumerations. Śalya (sāla) is the technical name for the three 'darts' that keep a soul bound — māyā-śalya (deceit), nidāna-śalya (craving a reward for one's austerity), and mithyātva-śalya (false belief); the Tattvārtha-sūtra makes freedom from them the test of a genuine vow-holder (niḥśalyo vratī). Bhaya evokes the seven fears (sapta-bhaya) a perfected being has wholly transcended. So the Jina is at once niḥśalya and nirbhaya — nothing festers in him, nothing alarms him. The closing parama-kāruṇiya guards against a misreading: this fearless, dart-free state is vītarāga (passion-free), yet not cold. The Tīrthaṅkara's compassion is karuṇā without attachment — he needs nothing from beings, and precisely therefore his mercy is 'supreme', unmixed with self-interest. It is this attachment-free compassion that founds the tīrtha and the teaching the whole hymn celebrates.",
+    "practicalRelevance": "Reciting this verse, the worshipper is not flattering a distant god but naming a goal. To hail the Jina as 'free of dart and fear' is to confess that one is still pierced by deceit, craving and false views, and still ruled by dread — and to ask, by this contemplation, to begin drawing those barbs out. The verse trains the eye to end on compassion: power is worth nothing in it except as the ground of mercy.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.13 (niḥśalyo vratī) — the three śalyas (māyā, nidāna, mithyātva)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Logassa (Cauvīsattho), praise of the 24 Tīrthaṅkaras",
+        "source": "Anchalgachchha/Vidhipaksha ed., Panch Pratikraman Sutra – Vidhi Sahit"
+      },
+      {
+        "text": "Preceding verse ashtottari-tirthmala/01 (arihantaṁ … jiṇaṁ thuṇimo)",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tribhuvana — 17 definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/tribhuvana",
+      "type": "dictionary",
+      "consultedFor": "tihuaṇa < tribhuvana, 'three worlds'"
+    },
+    {
+      "title": "Bhaṭṭāraka / Bhaṭṭāraya — 17 definitions",
+      "url": "https://www.wisdomlib.org/definition/bhattaraka",
+      "type": "dictionary",
+      "consultedFor": "Prakrit bhaṭṭāraya = Skt. bhaṭṭāraka 'venerable lord' (attested in Vividhatīrthakalpa)"
+    },
+    {
+      "title": "Svamin / Svāmin — 27 definitions",
+      "url": "https://www.wisdomlib.org/definition/svamin",
+      "type": "dictionary",
+      "consultedFor": "sāmi < svāmin 'master, lord'"
+    },
+    {
+      "title": "Shalya / Śalya — 36 definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/shalya",
+      "type": "dictionary",
+      "consultedFor": "sāla = śalya 'dart/thorn'; the three Jain śalyas"
+    },
+    {
+      "title": "Parameshvara / Parameśvara — 37 definitions",
+      "url": "https://www.wisdomlib.org/definition/parameshvara",
+      "type": "dictionary",
+      "consultedFor": "paramesara < parameśvara 'supreme lord'"
+    },
+    {
+      "title": "Karunika / Kāruṇika — 18 definitions",
+      "url": "https://www.wisdomlib.org/definition/karunika",
+      "type": "dictionary",
+      "consultedFor": "kāruṇiya < kāruṇika 'compassionate'"
+    },
+    {
+      "title": "Jaya — 79 definitions (Sanskrit/Prakrit/Jainism)",
+      "url": "https://www.wisdomlib.org/definition/jaya",
+      "type": "dictionary",
+      "consultedFor": "jaya 'victory', the acclamatory cry"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Text reproduced verbatim from the Anchalgachchha/Vidhipaksha edition, including its Apabhraṁśa-coloured orthography (tihuaṇa, bhaṭṭāraya, pahu, paramesara) — not normalised. The segmentation 'sāla bhaya-catta' is read as śalya-bhaya-tyakta, 'who has cast off (the) dart(s) and fear', with sāla = śalya understood in its Jain doctrinal sense (the three śalyas); an alternative parsing reads sāla as an intensifying honorific attached to sāmi ('chief lord'), which is grammatically possible but weaker and less idiomatic — flagged as a variant. catta is the standard Prakrit reflex of Skt. tyakta. The identification of bhaya with the canonical seven fears and of sāla with the three darts is interpretive (doctrinal context), not stated in the verse. The danda/punctuation (। and the terminal period before the verse number) belong to the book's printed text."
+}

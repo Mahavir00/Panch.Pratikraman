@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/25",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to the eternal Jina shrines that stand forever in the cosmos: four on the Iṣukāra mountains, four on the Mānuṣottara mountain, twenty on Nandīśvara, and four each on Kuṇḍala and Rucaka.",
+  "recitation": "usuyāra girisu cauro, cattāri namāmi maṇua selaṃmi. nandīsaraṃmi vīsaṃ, kuṇḍala ruagesu cau cauro.",
+  "wordByWord": [
+    {
+      "token": "ઉસુયાર",
+      "translit": "usuyāra",
+      "gloss": "Iṣukāra (the arrow-shaped boundary mountains of the human world)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. iṣukāra, from iṣu ('arrow') + kāra ('shaped/maker'); Prakritic -ya- softening of -ka-.",
+      "notes": "Proper name; forms the compound usuyāra-giri, 'the Iṣukāra mountains'."
+    },
+    {
+      "token": "ગિરિસુ",
+      "translit": "girisu",
+      "gloss": "on the mountains",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. giriṣu, locative plural of giri ('mountain'); Prakrit loc. pl. ending -su.",
+      "notes": "Governs usuyāra: 'on the Iṣukāra mountains'."
+    },
+    {
+      "token": "ચઉરો",
+      "translit": "cauro",
+      "gloss": "four (i.e. four shrines)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catur ('four'); Apabhraṁśa-coloured cau + -ro.",
+      "notes": "Counts the śāśvata caityas on Iṣukāra; the noun 'shrine/image' is understood throughout the verse."
+    },
+    {
+      "token": "ચત્તારિ",
+      "translit": "cattāri",
+      "gloss": "four",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catvāri (neuter 'four'); Prakrit assimilation tv > tt.",
+      "notes": "The count assigned to the next site, Mānuṣottara."
+    },
+    {
+      "token": "નમામિ",
+      "translit": "namāmi",
+      "gloss": "I bow / I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. namāmi, 1st pers. sg. present of √nam ('to bow, do homage').",
+      "notes": "The single finite verb of the verse; it governs every enumerated set of shrines as one continuous act of homage."
+    },
+    {
+      "token": "મણુઅ",
+      "translit": "maṇua",
+      "gloss": "human (= of the human world; here 'Mānuṣa', i.e. Mānuṣottara)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. manuja / manuṣya ('human'); Prakrit maṇua with loss of intervocalic -j-/-ṣ-.",
+      "notes": "Forms maṇua-sela, the mountain that walls in the human realm — i.e. Mānuṣottara."
+    },
+    {
+      "token": "સેલંમિ",
+      "translit": "selaṃmi",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śaile, locative sg. of śaila ('rock, mountain'); Prakrit loc. sg. ending -ṃmi.",
+      "notes": "maṇua selaṃmi = 'on the Mānuṣottara mountain'."
+    },
+    {
+      "token": "નંદીસરંમિ",
+      "translit": "nandīsaraṃmi",
+      "gloss": "on Nandīśvara (the eighth continent)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. nandīśvare, loc. sg. of Nandīśvara (nandī 'joy' + īśvara 'lord'); Prakrit loc. -ṃmi.",
+      "notes": "Nandīśvara-dvīpa, the celebrated celestial pilgrimage-continent of the gods."
+    },
+    {
+      "token": "વીસં",
+      "translit": "vīsaṃ",
+      "gloss": "twenty",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. viṃśati ('twenty'); Prakrit vīsaṃ.",
+      "notes": "The shrine-count this verse assigns to Nandīśvara; see notes on its divergence from the usual figure of 52."
+    },
+    {
+      "token": "કુંડલ",
+      "translit": "kuṇḍala",
+      "gloss": "Kuṇḍala (the ring-shaped continent)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kuṇḍala ('ring, earring'), named for its annular shape.",
+      "notes": "Kuṇḍala-dvīpa; paired here with Rucaka."
+    },
+    {
+      "token": "રુઅગેસુ",
+      "translit": "ruagesu",
+      "gloss": "on the Rucaka [mountains/continent]",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rucakeṣu, loc. pl. of Rucaka (rucaka 'bright, ornamental'); Prakrit ruaga with -c- > -a- softening, loc. pl. -su.",
+      "notes": "kuṇḍala ruagesu reads as a dvandva, 'on Kuṇḍala and Rucaka'."
+    },
+    {
+      "token": "ચઉ",
+      "translit": "cau",
+      "gloss": "four",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catur ('four'); reduced Prakrit/Apabhraṁśa form cau.",
+      "notes": "First of the paired counts: four shrines on Kuṇḍala."
+    },
+    {
+      "token": "ચઉરો",
+      "translit": "cauro",
+      "gloss": "four",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catur ('four'); cau + -ro.",
+      "notes": "Second of the pair: four on Rucaka. cau cauro = 'four (and) four'."
+    }
+  ],
+  "literalTranslation": "On the Iṣukāra mountains, four; four I bow to on the human-world mountain (Mānuṣottara); on Nandīśvara, twenty; on Kuṇḍala and Rucaka, four and four.",
+  "idiomaticTranslation": "On the Iṣukāra peaks I bow to four eternal Jina shrines; four more upon Mānuṣottara, the rampart-mountain of the human world; twenty I salute on Nandīśvara; and four each on the ring-continents of Kuṇḍala and Rucaka.",
+  "elaboration": {
+    "verseByVerseCommentary": "The verse continues the running census of eternal (śāśvata) Jina shrines begun in the preceding gāthā (Kuru-trees, Vakṣāra ranges and the five Merus) and feeding into the following one's grand total of 511. Where the prior verse tallied features of the central Jambūdvīpa, this verse moves outward to the boundary-features and outer continents of the middle world (madhya-loka): the Iṣukāra mountains that fence the regions, the Mānuṣottara wall that rings the two-and-a-half continents of human habitation, and beyond it the celebrated outer islands. A single verb, namāmi ('I bow'), is made to govern all four sites at once, so the cosmographic counting never loses its devotional pulse — the worshipper is not auditing a ledger but stringing four more beads onto the tīrtha-garland. Note the deliberate sound-play of the closing pāda, cau cauro ('four–four'), distributing one count to Kuṇḍala and one to Rucaka. The figures for Mānuṣottara (4), Kuṇḍala (4) and Rucaka (4) match the standard cosmographic reckoning; the count of twenty for Nandīśvara is unusual (the classical figure is fifty-two) and is flagged below.",
+    "doctrinalContext": "The doctrinal weight of the verse lies in the category of the śāśvata shrine itself: these caityas are beginningless and endless, untouched by the rise and fall of time-cycles, and are venerated by the gods in regions no human can reach. Their existence underwrites a key Jain conviction — that Jina-worship is perpetual and cosmic, never dependent on a living Tīrthaṅkara or an earthly temple. Nandīśvara is doctrinally the supreme of these: it is there that celestial beings perform the eight-day aṣṭāhnika festival, the cosmic prototype of the lay Aṣṭāhnika observance. By bowing to shrines on Iṣukāra, Mānuṣottara, Nandīśvara, Kuṇḍala and Rucaka, the reciter affirms that homage transcends the human continent.",
+    "practicalRelevance": "Reciting this verse lets a worshipper make, in imagination, a pilgrimage utterly impossible in the body — circumambulating the eternal shrines of the gods, above all Nandīśvara. For the Anchalgachchha lay reciter it quietly connects the Pakkhī recitation to the Aṣṭāhnika festival kept three times a year, when devotees mirror on earth the gods' eternal worship at Nandīśvara.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat Saṅgrahaṇī — enumeration of the 511 śāśvata Jina-bhavanas across the three worlds",
+        "source": "Candrasūri (12th c.), Gujarati ed. with comm. by Muni Yaśovijaya"
+      },
+      {
+        "text": "Jambūdvīpa-prajñapti / Sthānāṅga — placement of Mānuṣottara, Nandīśvara, Kuṇḍala and Rucaka dvīpas",
+        "source": "Śvetāmbara Āgama"
+      },
+      {
+        "text": "Tattvārtha-sūtra ch. 3 — geography of the madhya-loka (continents and ring-mountains)",
+        "source": "Umāsvāti, trans. N. Tatia"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams etc.)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit cognates and roots behind the Prakrit tokens: catur/catvāri, viṃśati, √nam (namāmi), giri, śaila, iṣukāra, rucaka, kuṇḍala."
+    },
+    {
+      "title": "Sangrahaniratnam Bṛhat Saṅgrahaṇī Sūtra (book summary)",
+      "url": "https://jaingpt.org/knowledge/sangrahaniratnam_bruhat_sangrahani_sutra_005475_005475",
+      "type": "scholarship",
+      "consultedFor": "Jain cosmology: the category of śāśvata caitya and the total of 511 eternal Jina-bhavanas into which this verse's counts feed."
+    },
+    {
+      "title": "JainQQ / Jain eLibrary (Parshwanath Vidyapeeth digital corpus)",
+      "url": "https://jainqq.org/explore/001601/1",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking madhya-loka geography (Mānuṣottara, Nandīśvara, Kuṇḍala, Rucaka, Iṣukāra) and the per-site shrine counts (4 each on Mānuṣottara/Kuṇḍala/Rucaka)."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The per-token glosses and the four counts of 4 (Iṣukāra, Mānuṣottara, Kuṇḍala, Rucaka) are secure and agree with standard Śvetāmbara cosmography. The one genuine difficulty is the figure for Nandīśvara: the verse reads વીસં (vīsaṃ = 20), whereas the classical reckoning assigns Nandīśvara-dvīpa 52 śāśvata caityas (4 añjanagiri + 16 dadhimukha + 32 ratikara). The text is preserved verbatim per the book's golden-source rule; the divergence may be a deliberate abbreviated count (e.g. añjana + dadhimukha = 4 + 16 = 20, with the 32 ratikara shrines reckoned elsewhere) or a variant reading — this is offered tentatively and not asserted. 'maṇua sela' is read as Mānuṣottara (the human-world wall-mountain); an alternative reading as a generic 'human-region mountain' is possible but less likely given the parallel with named continents. 'kuṇḍala ruagesu' is taken as a dvandva governing the paired counts 'cau cauro'."
+}

@@ -1,0 +1,148 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Crying out the protective spell 'stop them, stop them, svāhā!', the devotee calls on Pārśva's name—saluted by countless beings—to utterly crush the karmic troubles that rush at us from afar.",
+  "recitation": "stambhaya stambhaya svāhā-śana koṭī namaskṛta | adhimathū karmaṇāṁ dūrād-āpatantīr viḍambanāḥ ||",
+  "wordByWord": [
+    {
+      "token": "સ્તંભય",
+      "translit": "stambhaya",
+      "gloss": "immobilize! arrest! halt!",
+      "partOfSpeech": "verb",
+      "etymology": "causative imperative 2nd sg. of √stambh 'to make firm, stop, paralyze'",
+      "notes": "An operative mantra-verb of stambhana (arresting) magic; spoken to halt an oncoming force."
+    },
+    {
+      "token": "સ્તંભય",
+      "translit": "stambhaya",
+      "gloss": "immobilize! (repeated for emphasis)",
+      "partOfSpeech": "verb",
+      "etymology": "same as preceding; mantric doubling intensifies the command",
+      "notes": "Ritual reduplication—common in seed-formulae—signals urgency, not a second action."
+    },
+    {
+      "token": "સ્વાહા",
+      "translit": "svāhā",
+      "gloss": "svāhā (oblation-sealing exclamation)",
+      "partOfSpeech": "invocation",
+      "etymology": "Vedic ritual exclamation accompanying an offering into fire; personified as Agni's consort",
+      "notes": "Mantra-text—kept verbatim, not translated; it 'seals' the stambhana command as an offering."
+    },
+    {
+      "token": "શન",
+      "translit": "śana",
+      "gloss": "(uncertain token; read with the following as part of the address to the mantra-king)",
+      "partOfSpeech": "particle",
+      "etymology": "uncertain; possibly a copyist's form for śata- ('hundred', giving śata-koṭi = 'a hundred crore'), or part of a compound svāhāśana ('whose food is the svāhā-oblation', i.e. fire-like)",
+      "notes": "Flagged in notes; the surrounding sense is unaffected—the addressee is one 'saluted by koṭīs'."
+    },
+    {
+      "token": "કોટી",
+      "translit": "koṭī",
+      "gloss": "ten million, a crore (i.e. countless)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. koṭi 'highest point, ten million'",
+      "notes": "Forms the epithet koṭī-namaskṛta, 'bowed to by crores (of gods/beings)'."
+    },
+    {
+      "token": "નમસ્કૃત",
+      "translit": "namaskṛta",
+      "gloss": "saluted, bowed to (O you who are revered)",
+      "partOfSpeech": "adj",
+      "etymology": "namas ('homage') + kṛta ('made'); past passive participle",
+      "notes": "Vocative address to the Lord/mantra-king, here praised as honoured by countless beings."
+    },
+    {
+      "token": "અધિમથૂ",
+      "translit": "adhimathū",
+      "gloss": "churn up! crush thoroughly! grind down!",
+      "partOfSpeech": "verb",
+      "etymology": "adhi- (intensive prefix) + √math/manth 'to churn, rub, crush, destroy' (as in fire-churning and ocean-churning)",
+      "notes": "Imperative addressed to the mantra-king; the metaphor is of grinding/churning the afflictions to nothing. Form is non-classical (Prakrit-influenced); see notes."
+    },
+    {
+      "token": "કર્મણાં",
+      "translit": "karmaṇāṁ",
+      "gloss": "of karmas, belonging to (one's) karmas",
+      "partOfSpeech": "noun",
+      "etymology": "genitive pl. of karman 'action, the karmic residue that fetters the soul'",
+      "notes": "Governs viḍambanāḥ—'the afflictions arising from karmas'."
+    },
+    {
+      "token": "દૂરાત્",
+      "translit": "dūrāt",
+      "gloss": "from afar, from a distance",
+      "partOfSpeech": "adverb",
+      "etymology": "ablative of dūra 'far'; surfaces as દૂરા– before the sandhi-d –દ",
+      "notes": "Part of the orthographic unit દૂરાદાપતંતીર્વિડંબનાઃ; split here for full coverage (dūrāt + āpatantīḥ + viḍambanāḥ)."
+    },
+    {
+      "token": "આપતંતીઃ",
+      "translit": "āpatantīḥ",
+      "gloss": "(afflictions) approaching, rushing in, befalling",
+      "partOfSpeech": "verb",
+      "etymology": "present active participle, fem. acc. pl., of ā-√pat 'to fly toward, fall upon, befall'",
+      "notes": "Agrees with viḍambanāḥ; appears sandhi-joined as –દાપતંતીર્."
+    },
+    {
+      "token": "વિડંબનાઃ",
+      "translit": "viḍambanāḥ",
+      "gloss": "afflictions, torments, vexations, mockeries",
+      "partOfSpeech": "noun",
+      "etymology": "fem. acc. pl. of viḍambanā, from vi-√ḍamb; per Apte/Monier-Williams 'afflicting, distressing, vexation, mockery'",
+      "notes": "Direct object of adhimathū—the karmic torments to be crushed."
+    }
+  ],
+  "literalTranslation": "Immobilize, immobilize—svāhā! O you saluted by crores, churn utterly to nothing the afflictions of (the) karmas that come rushing in from afar.",
+  "idiomaticTranslation": "“Stop them, stop them—svāhā!” O Lord whom crores of beings revere, grind to dust the karma-born torments that come bearing down on us from afar.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where v.3 turned the Name against external enemies—pretas and piśācas—v.4 turns the very same power inward, against the practitioner's own karma. The verse is built almost entirely of operative mantra-syntax: two imperatives frame it. The first, the stambhana command 'stambhaya stambhaya svāhā', does not ask the Lord to destroy but to arrest—to freeze the affliction in mid-approach. This is deliberate: the technical art of stambhana is immobilization, the halting of a hostile force before it lands, sealed as an oblation by 'svāhā'. The second imperative, 'adhimathū', escalates from holding to annihilating: 'churn it utterly'—the same verb used for the fire-drill and the churning of the ocean, an image of grinding something down by relentless friction until nothing remains. Between the two commands stands the address 'koṭī-namaskṛta', 'you whom crores revere', locating all this power not in the syllables alone but in the Lord they name. The object is precise: not karma in the abstract, but the 'viḍambanāḥ of karmas'—the torments, vexations, the cruel mockeries that karma inflicts—'āpatantīḥ dūrāt', already in flight toward us 'from afar'. The spatial word matters devotionally: the afflictions are pictured as still distant, still in approach, so the mantra is preventive, intercepting suffering before it strikes rather than consoling after. Thus the verse hands the reciter two graded weapons—first stop the karmic blow, then pulverize it.",
+    "doctrinalContext": "The verse quietly reframes a tantric protective formula in Jain terms. The 'enemy' to be immobilized and crushed is not a rival but karman itself—the subtle matter whose inflow (āsrava) and fruition bind the soul. 'Stambhana' here maps onto saṁvara, the stopping of karmic inflow, and 'adhimathū' onto nirjarā, the wearing-away of accrued karma; the spell-language clothes the two core mechanisms of liberation. That the torments 'approach from afar' reflects the doctrine that karma bears fruit in time: suffering is karma already set in motion, and remembrance of the Jina is offered as the force that can arrest and dissolve it before it ripens fully.",
+    "practicalRelevance": "Recited at a moment of dread—illness, hostility, a feared outcome 'on its way'—this verse gives the practitioner an active stance rather than passive worry: first 'stambhaya', steady and arrest the rising fear by fixing the mind on Pārśva; then 'adhimathū', resolve to grind down the underlying karmic cause through equanimity and confession. The 'from afar' clause is itself the practical counsel: meet trouble while it is still distant, in meditation, not only when it arrives.",
+    "crossReferences": [
+      {
+        "text": "Uvasaggaharaṁ Stotra (verse on Pārśva dispelling viṣa, visahara, and afflictions)",
+        "source": "Bhadrabāhu; 4th Smaraṇa of the Nava Smaraṇa"
+      },
+      {
+        "text": "Tattvārtha-sūtra 1.4 & 9.1–2 (saṁvara as stopping of āsrava; nirjarā as shedding of karma)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Viḍambana — Apte, Monier-Williams & Cologne Sanskrit lexica (aggregated)",
+      "url": "https://www.wisdomlib.org/definition/vidambana",
+      "type": "dictionary",
+      "consultedFor": "Gloss of viḍambanāḥ as 'afflicting, distressing, vexation, mockery'."
+    },
+    {
+      "title": "Stambhana — Sanskrit/Ayurveda/Mantraśāstra definitions",
+      "url": "https://www.wisdomlib.org/definition/stambhana",
+      "type": "dictionary",
+      "consultedFor": "Root √stambh and the technical sense of stambhana as 'stopping, immobilizing, checking a flow/force'."
+    },
+    {
+      "title": "Svāhā — Sanskrit lexica and ritual/iconographic notes",
+      "url": "https://www.wisdomlib.org/definition/svaha",
+      "type": "dictionary",
+      "consultedFor": "Function of svāhā as the oblation-sealing exclamation closing a mantra; attested mantra pattern hrīṃ oṃ svāhāyai."
+    },
+    {
+      "title": "Mathana — √math/manth ('churn, rub to produce fire, crush, destroy')",
+      "url": "https://www.wisdomlib.org/definition/mathana",
+      "type": "dictionary",
+      "consultedFor": "Root sense of adhimathū as 'churn up / grind down / crush thoroughly'."
+    },
+    {
+      "title": "Jirawala Parshvanath Tirtha (Sirohi, Rajasthan)",
+      "url": "https://en.wikipedia.org/wiki/Jirawala",
+      "type": "scholarship",
+      "consultedFor": "Identification of the Jīrāpallī / Jīrāvalā Pārśva pilgrimage site named by the hymn."
+    }
+  ],
+  "translatorConfidence": 0.71,
+  "notes": "The token 'શન' (śana) in 'સ્વાહા-શન કોટી નમસ્કૃત' is textually uncertain: it is most plausibly a copyist's variant of 'શત' (śata, 'hundred'), yielding the natural epithet 'śata-koṭi-namaskṛta' = 'saluted by a hundred crore (beings)'; alternatively it could belong to a compound svāhāśana ('fed by the svāhā-oblation', i.e. fire-like). The surrounding sense (an address to the revered Lord/mantra-king) is stable either way. 'અધિમથૂ' (adhimathū) is read as an intensive imperative of √math ('crush/churn'), but the form is non-classical (Prakrit/Apabhraṁśa-influenced) and could be a variant for adhi-mathnu/adhimathāna; verb-mood is interpreted from context. The second line is printed as one sandhi-joined orthographic unit (દૂરાદાપતંતીર્વિડંબનાઃ) and has been split as dūrāt + āpatantīḥ + viḍambanāḥ for full word coverage. Per source-book fidelity, the bīja/mantra string 'stambhaya stambhaya svāhā' is preserved verbatim and not translated. Readings should be confirmed against the printed Anchalgachchha (Vidhipaksha) book text."
+}

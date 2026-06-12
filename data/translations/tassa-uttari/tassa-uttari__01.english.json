@@ -1,0 +1,138 @@
+{
+  "shlokaId": "tassa-uttari/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I now stand still in meditation in order to refine, atone for, cleanse, and un-thorn the fault I just confessed, and so destroy my harmful karma.",
+  "recitation": "tassa uttarīkaraṇeṇaṁ pāyacchittakaraṇeṇaṁ, visohīkaraṇeṇaṁ, visallīkaraṇeṇaṁ, pāvāṇaṁ kammāṇaṁ nigghāyaṇaṭṭhāe, ṭhāmi kāussaggaṁ.",
+  "wordByWord": [
+    {
+      "token": "તસ્સ",
+      "translit": "tassa",
+      "gloss": "of that — i.e. of the foregoing confession of harm (the fault just owned in Iriyāvahiyaṁ)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Genitive sg. of the demonstrative ta- (Skt. tad / tasya); Prakrit tassa = 'of that, of it'.",
+      "notes": "The antecedent is left unstated; tradition reads it as the immediately confessed transgression that the kāyotsarga will now perfect."
+    },
+    {
+      "token": "ઉત્તરીકરણેણં",
+      "translit": "uttarīkaraṇeṇaṁ",
+      "gloss": "by way of carrying-it-further / higher refinement (uttarīkaraṇa)",
+      "partOfSpeech": "noun",
+      "etymology": "uttarī ('further, higher', from uttara) + karaṇa ('making, act') + instrumental -eṇaṁ (Skt. -ena). Skt. uttarīkaraṇena.",
+      "notes": "Instrumental of means; sets the syntactic pattern that the next three -karaṇeṇaṁ terms repeat."
+    },
+    {
+      "token": "પાયચ્છિત્તકરણેણં",
+      "translit": "pāyacchittakaraṇeṇaṁ",
+      "gloss": "by way of making atonement (prāyaścitta)",
+      "partOfSpeech": "compound",
+      "etymology": "pāyacchitta (Prakrit for Skt. prāyaścitta, 'expiation, penance') + karaṇa + -eṇaṁ.",
+      "notes": "MW glosses prāyaścitta as 'atonement, expiation, amends for a sin'."
+    },
+    {
+      "token": "વિસોહીકરણેણં",
+      "translit": "visohīkaraṇeṇaṁ",
+      "gloss": "by way of purification (viśodhi) — cleansing the stain left by the fault",
+      "partOfSpeech": "compound",
+      "etymology": "visohī (Prakrit for Skt. viśodhi, 'thorough cleansing', from vi- + √śudh) + karaṇa + -eṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "વિસલ્લીકરણેણં",
+      "translit": "visallīkaraṇeṇaṁ",
+      "gloss": "by way of de-thorning (viśalyīkaraṇa) — drawing out the inner śalya",
+      "partOfSpeech": "compound",
+      "etymology": "vi- (away) + salla (Prakrit for Skt. śalya, 'thorn, dart') + -ī-karaṇa ('making free of') + -eṇaṁ; Skt. viśalyīkaraṇena.",
+      "notes": "Causative sense: 'making thornless'. The three classical śalyas are māyā, nidāna, mithyātva."
+    },
+    {
+      "token": "પાવાણં",
+      "translit": "pāvāṇaṁ",
+      "gloss": "of sinful / demeritorious (pāpa)",
+      "partOfSpeech": "adj",
+      "etymology": "Genitive pl. of pāva (Prakrit for Skt. pāpa, 'sin, evil'); Skt. pāpānāṁ. Agrees with kammāṇaṁ.",
+      "notes": ""
+    },
+    {
+      "token": "કમ્માણં",
+      "translit": "kammāṇaṁ",
+      "gloss": "of karmas (the bound deeds)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive pl. of kamma (Prakrit for Skt. karma); Skt. karmaṇāṁ.",
+      "notes": "pāvāṇaṁ kammāṇaṁ together = 'of sinful karmas', the genitive object of nigghāyaṇa."
+    },
+    {
+      "token": "નિગ્ઘાયણઠ્ઠાએ",
+      "translit": "nigghāyaṇaṭṭhāe",
+      "gloss": "for the purpose of (their) destruction (nirghātana)",
+      "partOfSpeech": "compound",
+      "etymology": "nigghāyaṇa (Prakrit for Skt. nirghātana, 'striking down, eradication', from nir- + √han) + aṭṭhāe (= Skt. arthe, 'for the sake of', dative/purpose).",
+      "notes": "-aṭṭhāe marks the goal: the destruction is the end for which kāyotsarga is undertaken."
+    },
+    {
+      "token": "ઠામિ",
+      "translit": "ṭhāmi",
+      "gloss": "I take my stand / I undertake",
+      "partOfSpeech": "verb",
+      "etymology": "1st person sg. present of √ṭhā (Prakrit for Skt. √sthā, 'to stand'); Skt. tiṣṭhāmi / sthāmi.",
+      "notes": "The single finite verb; turns the four instrumental purposes into an act of personal resolve."
+    },
+    {
+      "token": "કાઉસ્સગ્ગં",
+      "translit": "kāussaggaṁ",
+      "gloss": "kāyotsarga (the standing meditative abandonment of the body) — accusative object",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāussagga for Skt. kāya-utsarga ('letting-go of the body'); accusative sg. -aṁ.",
+      "notes": "Verbatim spelling કાઉસ્સગ્ગ per the source book; cf. variant કાઉસગ્ગ elsewhere in the same edition."
+    }
+  ],
+  "literalTranslation": "By the carrying-further of that, by the making of atonement, by the making of purification, by the making-thornless — for the destruction of sinful karmas — I take my stand in kāyotsarga.",
+  "idiomaticTranslation": "To carry that confession further, to atone, to cleanse, and to draw out every inner thorn — and so to annihilate my sinful karma — I now stand still in meditation.",
+  "elaboration": {
+    "verseByVerseCommentary": "This single sentence is built on a deliberate grammatical scaffold: four instrumental phrases ending -karaṇeṇaṁ ('by the act of…'), a purpose-marker in -aṭṭhāe, and exactly one finite verb, ṭhāmi. The reciter does not merely *describe* an intention; the grammar makes the standing itself (ṭhāmi kāussaggaṁ) the act, and everything before it the *means*. The four means form a tightening spiral. uttarī*karaṇa* looks backward — it 'carries further' the confession the practitioner has just spoken, conceding that owning a fault aloud is not yet finishing with it. pāyacchitta turns that admission into prescribed repair (atonement). visohī moves inward from the deed to the soul itself, washing out the residual stain. visallī goes deepest of all: the śalya is not the outward act but the *hidden* barb — deceit, craving-for-reward, false belief — that festers unseen and would re-infect any merely outward cleansing. Note the rhetorical economy: the verse names no specific sin. By leaving tassa ('of that') open, it lets the same formula serve any fault, and it keeps attention on the *process* rather than the catalogue. The climax, pāvāṇaṁ kammāṇaṁ nigghāyaṇaṭṭhāe, supplies the only noun-object in the sentence and the violent verb-root √han (nirghātana, 'striking down') — a striking contrast to the still, motionless posture being undertaken. The stillness of the body is precisely the weapon against karma; outward immobility is inward demolition. That paradox is the verse's whole point: a person says 'I stand' and means 'I destroy.'",
+    "doctrinalContext": "The verse compresses the Jain theory of karmic repair into one ladder. Confession (ālocanā), atonement (prāyaścitta) and purification (viśodhi) address karma already accreted, but Jain ethics insists that *intention* binds: so long as a śalya — especially māyā (deceit), nidāna (craving the fruit of one's austerity) and mithyātva (wrong belief) — remains lodged, the soul keeps generating fresh bondage. Hence visallīkaraṇa is the indispensable fourth step: only a thornless, sincere act of repentance actually severs the inflow. The goal stated, nirghātana of pāpa-karma, is nirjarā — the shedding of accumulated demeritorious matter — which kāyotsarga, as disciplined non-action, effects by giving karma no new fuel.",
+    "practicalRelevance": "Before standing in kāyotsarga today, a reciter can use this verse as a checklist of sincerity: have I merely admitted the fault (uttarī), or have I also made amends (pāyacchitta), cleansed the inner residue (visohī), and — hardest — pulled out the hidden thorn of self-justification or secret motive (visallī)? Saying ṭhāmi kāussaggaṁ is a vow, not a formality: the verse asks that the stillness be genuinely emptied of pretence.",
+    "crossReferences": [
+      {
+        "text": "Āvaśyaka Niryukti, gāthā 1532 (kāyotsarga breath-counts that measure this act)",
+        "source": "cited in-book, Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Iriyāvahiyaṁ Sutra (the confession that 'tassa / of that' refers back to)",
+        "source": "Pañca Pratikramaṇa, Āvaśyaka corpus"
+      },
+      {
+        "text": "Three śalyas — māyā, nidāna, mithyātva",
+        "source": "standard Śvetāmbara doctrinal exposition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jain Tattva Darshan, Part 2 (Tassa Uttarī / Pratikramaṇa exposition), p.29",
+      "url": "https://jainqq.org/pagetext/Jain_Tattva_Darshan_Part_02/006115/29",
+      "type": "commentary",
+      "consultedFor": "Sense of the five purposes (uttarī, prāyaścitta, viśodhi, viśalyī) and the 'residual-sin destruction' reading of the verse."
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses of prāyaścitta ('expiation, penance'), śalya ('thorn, dart, that which pierces'), and the root √han for nirghātana."
+    },
+    {
+      "title": "Kayotsarga — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "Meaning of kāyotsarga as 'abandonment of the body' and its role as disciplined motionless meditation."
+    },
+    {
+      "title": "Pratikramana — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "Placement of Tassa Uttarī after Iriyāvahiyaṁ in the kāyotsarga sequence and the confession-atonement framework (nirjarā)."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The antecedent of tassa ('of that') is unexpressed in the text; the standard reading is 'of the just-confessed fault (Iriyāvahiyaṁ)', adopted here. The three-śalya identification (māyā, nidāna, mithyātva) glossing visallīkaraṇa is received Śvetāmbara tradition, not spelled out in the source verse itself. uttarīkaraṇa admits two compatible renderings — 'higher/further refinement' and 'an additional completing act'; both are reflected above. nigghāyaṇaṭṭhāe parses as nigghāyaṇa (nirghātana) + aṭṭhāe (= arthe, purpose). Verbatim orthography (કાઉસ્સગ્ગ, doubled conjuncts) follows the source book; IAST in translit/etymology is normalized."
+}

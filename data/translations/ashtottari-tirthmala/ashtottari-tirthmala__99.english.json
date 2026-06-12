@@ -1,0 +1,158 @@
+{
+  "shlokaId": "ashtottari-tirthmala/99",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "At Muṇḍasthala I praise Lord Mahāvīra, whose holy place is now nearly eighteen hundred years old and who, like a clearing wind, scatters the thick clouds of false belief.",
+  "recitation": "kiṁcūṇā aḍhārasa, vāsasayā eya pavara titthassa | to miccha-ghaṇa-samīraṁ, thuṇomi muṁutthale vīraṁ ||",
+  "wordByWord": [
+    {
+      "token": "કિંચૂણા",
+      "translit": "kiṁcūṇā",
+      "gloss": "a little less, slightly short of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Sanskrit kiṁcid-ūna (किञ्चिद्-ऊन), 'somewhat deficient'; kiṁcid 'a little' + ūna 'less, wanting'.",
+      "notes": "Qualifies the number that follows, so the count is 'just under' eighteen hundred."
+    },
+    {
+      "token": "અઢારસ",
+      "translit": "aḍhārasa",
+      "gloss": "eighteen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭhārasa from Sanskrit aṣṭādaśa (अष्टादश), 'eighteen'.",
+      "notes": "Book orthography uses ઢ (ḍha); not normalised. With vāsasayā it yields 'eighteen hundred'."
+    },
+    {
+      "token": "વાસસયા",
+      "translit": "vāsasayā",
+      "gloss": "hundreds of years",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vāsa (= Sanskrit varṣa, 'year') + saya (= śata, 'hundred'); thus varṣa-śata, 'a hundred years'.",
+      "notes": "aḍhārasa vāsasayā = eighteen hundreds-of-years = ~1800 years; with kiṁcūṇā, 'a little under 1800 years'."
+    },
+    {
+      "token": "એય",
+      "translit": "eya",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit from Sanskrit etad / eṣa (एतद् / एष), 'this'.",
+      "notes": "Refers to the holy site just named in the preceding verses."
+    },
+    {
+      "token": "પવર",
+      "translit": "pavara",
+      "gloss": "supreme, excellent, foremost",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit from Sanskrit pravara (प्रवर), 'most excellent, chief'.",
+      "notes": "Qualifies titthassa ('of the tīrtha')."
+    },
+    {
+      "token": "તિત્થસ્સ",
+      "translit": "titthassa",
+      "gloss": "of the tīrtha (holy crossing-place)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive singular of Prakrit tittha (= Sanskrit tīrtha, तीर्थ).",
+      "notes": "Genitive of reference: '[the age] of this excellent tīrtha'."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, therefore, so",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit from Sanskrit tataḥ / tadā (ततः / तदा), 'thereupon, then'.",
+      "notes": "Connective drawing the act of praise from the foregoing dating."
+    },
+    {
+      "token": "મિચ્છ",
+      "translit": "miccha",
+      "gloss": "false belief (mithyātva)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit miccha from Sanskrit mithyā (मिथ्या), 'false, wrong'; here the substantive mithyātva, 'wrong faith'.",
+      "notes": "First member of the compound miccha-ghaṇa-samīraṁ describing Vīra."
+    },
+    {
+      "token": "ઘણ",
+      "translit": "ghaṇa",
+      "gloss": "dense cloud, thick mass",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit ghana (घन), 'cloud; dense, compact'.",
+      "notes": "miccha-ghaṇa = 'the dense cloud of false belief', the obscuring darkness Vīra disperses."
+    },
+    {
+      "token": "સમીરં",
+      "translit": "samīraṁ",
+      "gloss": "wind (one who scatters)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit, accusative of samīra (समीर), 'wind, breeze', from sam + √īr 'to set in motion'.",
+      "notes": "Accusative in apposition to vīraṁ: Mahāvīra is the wind that drives off the cloud-mass of mithyātva."
+    },
+    {
+      "token": "થુણોમિ",
+      "translit": "thuṇomi",
+      "gloss": "I praise, I extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit 1st sg. present from Sanskrit √stu (स्तु), 'to praise'; cf. stunomi / stauti.",
+      "notes": "The hymn's recurring act of homage, here directed to Vīra at Muṇḍasthala."
+    },
+    {
+      "token": "મુંઉત્થલે",
+      "translit": "muṁutthale",
+      "gloss": "at Muṇḍasthala (the place-name)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative of Muṇḍasthala (મુંડસ્થલ), the western-Indian tīrtha near Mount Ābu (modern Mungthala/Mudsthal, Sirohi).",
+      "notes": "Locative of place: 'at Muṇḍasthala'. Book spelling muṁutthale preserved verbatim."
+    },
+    {
+      "token": "વીરં",
+      "translit": "vīraṁ",
+      "gloss": "Vīra (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative of Vīra (= Mahāvīra, the 24th Tīrthaṅkara), Sanskrit vīra 'hero'.",
+      "notes": "Object of thuṇomi; the Jina enshrined at this site."
+    }
+  ],
+  "literalTranslation": "This supreme tīrtha [being now] a little under eighteen hundred years [old] — therefore at Muṇḍasthala I praise Vīra, the wind [that scatters] the dense cloud of false belief.",
+  "idiomaticTranslation": "Its excellent holy site now reaching nearly eighteen hundred years of age, I bow in praise, here at Muṇḍasthala, to Lord Mahāvīra — the cleansing wind who drives away the heavy storm-cloud of false belief.",
+  "elaboration": {
+    "verseByVerseCommentary": "Verse 99 seals the Muṇḍasthala triad. Where the preceding verse fixed the temple's founding — Puṇyarāja having the image made in the 37th year from Vīra's birth — this verse turns the calendar forward: the 'supreme tīrtha' (pavara titthassa) is now kiṁcūṇā aḍhārasa vāsasayā, 'a little under eighteen hundred years' old. That precise, almost epigraphic dating couplet is unusual in a devotional roll-call, and it doubles as the poet's quiet claim to historical authenticity for the shrine. The connective to ('therefore') then pivots from chronology to worship: because this place is so venerable, here I praise Vīra. The praise is compressed into a single luminous epithet, miccha-ghaṇa-samīraṁ — Mahāvīra as the samīra, the wind, before which the ghana, the piled storm-cloud of miccha (mithyātva, false belief), is blown apart. The image is exact: clouds do not block the sun by their substance alone but by hanging massed and motionless; a steady wind needs only to move them for light to return. So too the Jina does not 'create' the soul's right vision but disperses what occludes it. The accusative samīraṁ stands in apposition to vīraṁ, fusing the natural figure and the person: to praise Vīra is to invoke that clearing wind. After this the hymn leaves Muṇḍasthala for Tāraṇagiri and Ajita Jina, so verse 99 is both the climax of one bead on the garland and the hinge to the next.",
+    "doctrinalContext": "The verse hangs on mithyātva — wrong faith, the foremost of the bondage-causes and the very first guṇasthāna a soul must leave. Its removal is samyag-darśana, right faith, the gateway of the path. By casting mithyātva as a dense cloud (ghaṇa) and Mahāvīra as the dispersing wind (samīra), the poet teaches that the obscuration is adventitious, not intrinsic: the soul's seeing nature is already luminous, merely veiled, and the Jina's presence and teaching are the agency that clears the veil. Praising Vīra is thus framed not as petition for a favour but as alignment with the force that uncovers true insight.",
+    "practicalRelevance": "Reciting this verse, the worshipper does two things at once: honours a datable, real pilgrimage place — affirming that the path stands on history, not myth — and asks Mahāvīra to act as the wind on one's own inner weather, scattering the settled cloud of wrong views and reactive certainties so that clear seeing can return. It is a short, vivid prayer for clarity of faith.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 8.1 — mithyādarśana named first among the causes of karmic bondage",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the parallel act of praising the Tīrthaṅkaras as light-givers",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Mungathala (Mungthala / Muṇḍasthala), Sirohi — site and history",
+      "url": "https://en.wikipedia.org/wiki/Mungathala",
+      "type": "scholarship",
+      "consultedFor": "Identification and antiquity of Muṇḍasthala/Mungthala as a Mahāvīra tīrtha near Mount Ābu, with medieval epigraphic attestation"
+    },
+    {
+      "title": "Mudsthal Tirth — The Jainsite",
+      "url": "https://jainsite.com/jain-tirth/mudsthal-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Traditional history of the Muṇḍasthala Mahāvīra shrine, its image and reconstructions"
+    },
+    {
+      "title": "Shri Mungthala Tirth — Prachin Tirth (Kalyanak Bhumi)",
+      "url": "https://prachintirth.org/t/shri-mungthala-tirth--sirohi-rajasthan",
+      "type": "scholarship",
+      "consultedFor": "Corroboration of the site's antiquity, Mahāvīra dedication and pilgrimage status"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots underlying the Prakrit tokens: pravara, ghana, samīra, √stu, ūna, mithyā"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Token meanings are secure; the chief uncertainty is the numeral phrase 'kiṁcūṇā aḍhārasa vāsasayā', read here as 'a little under eighteen hundred years' (aṭṭhārasa × saya), which both dates the tīrtha and, read with the preceding verse's '37th year from Vīra's birth', encodes an internal chronology of the shrine; other editions may carry variant readings of the number. 'samīraṁ' (acc.) is taken in apposition to 'vīraṁ', making 'miccha-ghaṇa-samīra' a karmadhāraya epithet of Mahāvīra ('the wind upon the cloud of false belief'); it could alternatively be parsed loosely as an instrumental-sense image, but the appositional reading fits the metre and sense best. The place-name spelling 'muṁutthale' (= Muṇḍasthala) and the orthography 'aḍhārasa' are preserved verbatim from the book and not normalised."
+}

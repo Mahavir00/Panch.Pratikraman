@@ -1,0 +1,153 @@
+{
+  "shlokaId": "ashtottari-tirthmala/94",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Both temples are crowned with towering flag-staffs of burnished gold and with splendid, rounded finials shining at the very tip of each spire.",
+  "recitation": "dhoya kaladhoya nimmiya payaṇḍa dhayadaṇḍa maṇḍiyaṁ ubhayaṁ |\nvarasāya kuṁbha gayadaṁbha, kuṁbha sobhaṁta thūbhaggaṁ ||",
+  "wordByWord": [
+    {
+      "token": "ધોય",
+      "translit": "dhoya",
+      "gloss": "washed, burnished, made bright",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt. dhauta (√dhāv, 'to wash/cleanse'); here 'washed bright', i.e. refined and gleaming.",
+      "notes": "Paired with the next word to intensify 'pure, burnished gold'."
+    },
+    {
+      "token": "કલધોય",
+      "translit": "kaladhoya",
+      "gloss": "refined gold (also silver)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kaladhoya = Skt. kaladhauta, a stock poetic word for refined gold or silver (suvarṇa/rūpya).",
+      "notes": "The doubling 'dhoya kaladhoya' = 'washed/burnished gold' — the metal of the flag-staffs."
+    },
+    {
+      "token": "નિમ્મિય",
+      "translit": "nimmiya",
+      "gloss": "fashioned, made",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. nirmita (nir + √mā), past participle 'constructed/created'; Prakrit doubles the consonant (nimmiya)."
+    },
+    {
+      "token": "પયંડ",
+      "translit": "payaṇḍa",
+      "gloss": "mighty, towering, imposing",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pracaṇḍa, 'fierce, formidable'; here 'lofty, towering' of the flag-staffs."
+    },
+    {
+      "token": "ધયદંડ",
+      "translit": "dhayadaṇḍa",
+      "gloss": "flag-staff, banner-pole",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dhvaja-daṇḍa ('banner' + 'staff'); Prakrit dhaya = dhvaja.",
+      "notes": "The dhvaja-daṇḍa rises above the kalaśa at a temple's summit."
+    },
+    {
+      "token": "મંડિયં",
+      "translit": "maṇḍiyaṁ",
+      "gloss": "adorned, decorated",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. maṇḍita ('embellished'); agrees with ubhayaṁ (neut.)."
+    },
+    {
+      "token": "ઉભયં",
+      "translit": "ubhayaṁ",
+      "gloss": "both (i.e. the two temples)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. ubhaya, 'both, the pair'.",
+      "notes": "Refers back to the two Ābu shrines — Vimala's and Vastupāla's — named in the adjacent verses."
+    },
+    {
+      "token": "વરસાય",
+      "translit": "varasāya",
+      "gloss": "of excellent [lustre/quality]",
+      "partOfSpeech": "compound",
+      "etymology": "vara (Skt. 'excellent, best') + sāya, an Apabhraṁśa second member of uncertain force (possibly chāyā 'lustre' → sāyā, or metri-causa).",
+      "notes": "First member 'vara' is secure; the exact value of '-sāya' is uncertain — see notes."
+    },
+    {
+      "token": "કુંભ",
+      "translit": "kuṁbha",
+      "gloss": "pot-shaped finial, pinnacle (kalaśa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kumbha, 'pot, pitcher'; in architecture the rounded finial crowning a spire."
+    },
+    {
+      "token": "ગયદંભ",
+      "translit": "gayadaṁbha",
+      "gloss": "[rivalling] the frontal-boss/pride of elephants",
+      "partOfSpeech": "compound",
+      "etymology": "gaya = Skt. gaja ('elephant') + daṁbha. With kumbha, evokes the gaja-kumbha (the rounded frontal boss on an elephant's brow); daṁbha may = Skt. dambha 'pride' (the finials shaming an elephant's pride) or a Prakrit form of stambha 'pillar'.",
+      "notes": "The rounded finials are likened to / said to outshine an elephant's brow-bosses; exact sense flagged below."
+    },
+    {
+      "token": "કુંભ",
+      "translit": "kuṁbha",
+      "gloss": "finial (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "As above; the repetition pairs the simile (gaja-kumbha) with the actual temple finial.",
+      "notes": "Second occurrence: the kumbha that shines at the spire-top."
+    },
+    {
+      "token": "સોભંત",
+      "translit": "sobhaṁta",
+      "gloss": "shining, resplendent",
+      "partOfSpeech": "adj",
+      "etymology": "Present participle from Skt. śobhamāna (√śubh, 'to shine'); Prakrit sobhanta."
+    },
+    {
+      "token": "થૂભગ્ગં",
+      "translit": "thūbhaggaṁ",
+      "gloss": "the spire-top, summit of the pinnacle",
+      "partOfSpeech": "compound",
+      "etymology": "thūbha (Skt. stūpa, 'spire/dome-pinnacle') + agga (Skt. agra, 'tip, summit') = stūpa-agra.",
+      "notes": "Here the crowning tip of the temple superstructure (śikhara), not a Buddhist reliquary."
+    }
+  ],
+  "literalTranslation": "Both (temples) adorned with towering flag-staffs fashioned of washed, burnished gold; with a splendid kumbha-finial [rivalling] the elephant's brow-boss — a kumbha shining at the very tip of the spire.",
+  "idiomaticTranslation": "Both of these shrines are crowned with mighty banner-staffs wrought of pure burnished gold; and their spires blaze at the summit with a glorious pot-finial, round and proud as the boss upon an elephant's brow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just named the two great temples of Mount Ābu — the elder Vimala-vasahī and the second shrine raised by Vastupāla — the poet now lifts the eye to their crowns. The verse is pure architectural praise, built on two images of height and radiance. First the dhayadaṇḍa (dhvaja-daṇḍa): both temples (ubhayaṁ) are adorned with towering banner-staffs 'fashioned of washed, burnished gold' (dhoya kaladhoya nimmiya) — the redoubled 'dhoya' insisting that the metal is refined to a mirror-bright purity. Then the eye climbs higher, to the thūbhaggaṁ, the very tip of the spire, where the kumbha (the pot-shaped kalaśa-finial) shines (sobhaṁta). The poet reaches for a connoisseur's simile: the rounded finial recalls the gaja-kumbha, the proud globed boss on an elephant's brow — a classic mark of beauty in kāvya — so that the man-made pinnacle 'outdoes' even that natural splendour. The whole couplet thus moves vertically, staff to finial, gold to gleam, grounding the abstract claim of the preceding verse ('a fine Jina-temple was built here') in a vivid, sunforgettable picture of two golden-crowned spires catching the light over Ābu. Note the deliberate verticality matching the hymn's pilgrimage gesture: the worshipper's gaze rises, like a bow, to the summit of each shrine.",
+    "doctrinalContext": "For a Mūrtipūjaka, raising and beautifying a Jina-bhavana (temple) is a foremost act of merit and of tīrtha-bhakti; this verse is its poetic celebration. The golden dhvaja crowning the spire is not mere ornament: the banner proclaims the Jina's victory (jina = 'conqueror') over rāga, dveṣa and moha, planted highest so it is seen from afar — devotion made visible. The kumbha/kalaśa finial, the auspicious pot at the summit, signals fullness and the sanctity sealed atop the shrine. By praising the temples' splendour the reciter performs darśana in words, honouring the image-house even from the prayer hall.",
+    "practicalRelevance": "Reciting this, a worshipper who may never reach Ābu can still 'see' its golden spires and bow to them, renewing the resolve that a real pilgrimage expresses. It also models how outward beauty should point inward: let the gaze that climbs to the banner lift the mind toward the victory over the passions that the banner announces.",
+    "crossReferences": [
+      {
+        "text": "Vimala-vasahī (1031 CE) and Lūṇa-vasahī of Vastupāla–Tejaḥpāla (1230 CE), Dilwara, Mount Ābu — the two shrines praised here",
+        "source": "Dhaky, 'Jain Monuments at Mount Abu and Girnar'; ASI Dilwara inscriptions"
+      },
+      {
+        "text": "kumbha as 'the boss on the forehead of an elephant' (gaja-kumbha simile)",
+        "source": "Monier-Williams, Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon), s.v. kumbha"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://jainqq.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for kaladhoya (kaladhauta = gold/silver), nimmiya (nirmita), payaṇḍa (pracaṇḍa), maṇḍiya (maṇḍita), sobhanta (śobhamāna), thūbha (stūpa)"
+    },
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit equivalents and the sense 'kumbha = boss on an elephant's forehead'; dhauta, dhvaja-daṇḍa, ubhaya, gaja, agra"
+    },
+    {
+      "title": "Dilwara Temples (Vimala Vasahi & Luna Vasahi) — architecture, śikhara, kalaśa, dhvaja",
+      "url": "https://en.wikipedia.org/wiki/Dilwara_Temples",
+      "type": "scholarship",
+      "consultedFor": "Identifying the 'two temples' of Mount Ābu and the finial/flag-staff vocabulary of Māru-Gurjara temple superstructure"
+    },
+    {
+      "title": "Kalasha (temple finial) — pot-shaped crowning element of a Hindu/Jain spire",
+      "url": "https://en.wikipedia.org/wiki/Kalasha",
+      "type": "scholarship",
+      "consultedFor": "Confirming kumbha/kalaśa as the pot-finial at the summit (thūbhagga / stūpa-agra) of the śikhara"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The verse describes the two Ābu shrines (ubhayaṁ) named in the surrounding verses: the Vimala-vasahī and Vastupāla's temple. Two tokens are genuinely uncertain. (1) 'varasāya': 'vara' (excellent) is secure, but the second member '-sāya' is not firmly attested in this form — it may reflect chāyā ('lustre') in Apabhraṁśa softening, a metri-causa filler, or a variant reading in another edition; rendered cautiously as 'of excellent [lustre]'. (2) 'gayadaṁbha': read here as a poetic simile on the gaja-kumbha (an elephant's rounded brow-boss), with 'daṁbha' taken as Skt. dambha ('pride') — the finials shaming the elephant's pride — though 'daṁbha' could alternatively be a Prakrit reflex of stambha ('pillar'), giving 'elephant-pillar'. The double 'kuṁbha' supports pairing the simile (gaja-kumbha) with the actual finial (kalaśa). Orthography (e.g. થૂભ for stūpa, doubled conjuncts) is preserved verbatim per the source book and not normalised. Per-token transliteration is IAST throughout."
+}

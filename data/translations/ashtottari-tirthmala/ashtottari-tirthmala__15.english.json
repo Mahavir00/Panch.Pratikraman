@@ -1,0 +1,160 @@
+{
+  "shlokaId": "ashtottari-tirthmala/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Now I bow by name to these twenty-four Jinas of the past who have reached liberation, and next, in order, we praise the present foremost Jinas.",
+  "recitation": "sampaï nāmaṁ vande, cauvīsa imaṁ jiṇaṁ sivaṁ pattaṁ; ahuṇāu vaṭṭamāṇo, kameṇa thuṇimo jiṇa-variṁde.",
+  "wordByWord": [
+    {
+      "token": "સંપઇ",
+      "translit": "sampaï",
+      "gloss": "now, at present",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit samprati (सम्प्रति), 'now, at this moment'.",
+      "notes": "Marks the closing 'now' of the past-cycle salutation."
+    },
+    {
+      "token": "નામં",
+      "translit": "nāmaṁ",
+      "gloss": "by name, namely",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit nāma (नाम), 'name'; adverbial 'by name'.",
+      "notes": "Signals the named, one-by-one mode of homage."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit √vand (वन्द्), 'to salute reverently'; 1st-person.",
+      "notes": "Shifts in line 2 to the plural thuṇimo ('we praise')."
+    },
+    {
+      "token": "ચઉવીસ",
+      "translit": "cauvīsa",
+      "gloss": "twenty-four",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit caturviṁśati (चतुर्विंशति), 'twenty-four'.",
+      "notes": "The fixed set of 24 Tīrthaṅkaras; here the past (atīta) cycle's set."
+    },
+    {
+      "token": "ઇમં",
+      "translit": "imaṁ",
+      "gloss": "these, this (collective)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit < Sanskrit imam / idam (इदम्), proximal demonstrative.",
+      "notes": "Singular form used collectively with the numeral group."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit jina (जिन), 'conqueror' (of the passions).",
+      "notes": "Accusative object of vande; collective for the 24."
+    },
+    {
+      "token": "સિવં",
+      "translit": "sivaṁ",
+      "gloss": "śiva, liberation (the blissful, auspicious final state)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit śiva (शिव), 'auspicious'; in Jain usage = mokṣa / nirvāṇa.",
+      "notes": "Object of pattaṁ; characterizes the past Jinas as already liberated siddhas."
+    },
+    {
+      "token": "પત્તં",
+      "translit": "pattaṁ",
+      "gloss": "attained, reached",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit prāpta (प्राप्त), past passive participle of √āp, 'to attain'.",
+      "notes": "siva-pattaṁ = 'who have attained liberation'."
+    },
+    {
+      "token": "અહુણાઉ",
+      "translit": "ahuṇāu",
+      "gloss": "from now, henceforth",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit adhunā (अधुना), 'now', with ablative-sense extension 'from now on'.",
+      "notes": "Pivots the hymn forward from the past set to the present set."
+    },
+    {
+      "token": "વટ્ટમાણો",
+      "translit": "vaṭṭamāṇo",
+      "gloss": "the present (set of Jinas)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit < Sanskrit vartamāna (वर्तमान), 'present, current' (opp. atīta / anāgata).",
+      "notes": "The technical 'present-cycle' Tīrthaṅkaras, Ṛṣabha through Mahāvīra, praised next in vv.16–18."
+    },
+    {
+      "token": "કમેણ",
+      "translit": "kameṇa",
+      "gloss": "in order, in sequence",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit < Sanskrit krameṇa (क्रमेण), instrumental of krama, 'step, order'.",
+      "notes": "Promises an orderly, complete enumeration."
+    },
+    {
+      "token": "થુણિમો",
+      "translit": "thuṇimo",
+      "gloss": "we praise, we extol",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit < Sanskrit √stu (स्तु), 'to praise'; 1st-person plural.",
+      "notes": "Echoes the stock stava idiom thuṇimo jiṇa-varinde."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina (first member of the compound jiṇa-variṁde)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit < Sanskrit jina (जिन), 'conqueror'.",
+      "notes": "Forms jiṇa-variṁde, 'the foremost lords among the Jinas'."
+    },
+    {
+      "token": "વરિંદે",
+      "translit": "variṁde",
+      "gloss": "the foremost lords",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit < Sanskrit vara-indra (वरेन्द्र / वर + इन्द्र), 'best-lord, chief'.",
+      "notes": "jiṇa-variṁde = the supreme Jina-lords; accusative plural object of thuṇimo."
+    }
+  ],
+  "literalTranslation": "Now, by name, I bow to these twenty-four Jinas who have attained liberation (śiva); henceforth, in sequence, we praise the present foremost lords among the Jinas.",
+  "idiomaticTranslation": "Here and now I bow, one by one, to these twenty-four Jinas of the bygone cycle, all of whom have reached the blissful shore of liberation. And from this point onward, in their proper order, we lift our praise to the foremost Jina-lords of the present age.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is a hinge verse: it seals the salutation of the past-cycle (atīta) twenty-four begun a few verses earlier and swings the hymn forward to the present-cycle (vartamāna) twenty-four named next. Two devices carry the turn. First, the temporal pair sampaï ('now') in line one and ahuṇāu...vaṭṭamāṇo ('henceforth...the present ones') in line two: the reciter finishes the act of bowing to the departed and announces the next object of praise in the same breath. Second, a deliberate shift of verb and number — from the singular, personal vande ('I bow') to the communal plural thuṇimo ('we praise') — drawing the whole assembly into the homage as it widens from the past to the living tradition. The past twenty-four are qualified as sivaṁ pattaṁ, 'who have attained liberation': fitting, since every Jina of a bygone cycle has long since completed his work and become a siddha, so they are saluted as accomplished rather than merely invoked. The adverb kameṇa ('in order') is a small but real promise — the praise that follows will be systematic and complete, not selective. The closing phrase thuṇimo jiṇa-variṁde is the hymn's most conventional, almost liturgical, cadence, knitting this verse into the wider family of Jina-stavas that praise the cauvīsa.",
+    "doctrinalContext": "The verse turns on the Jain time-scheme in which successive sets of twenty-four Tīrthaṅkaras arise — here the boundary between the past (atīta) set, marked as already liberated (sivaṁ pattaṁ), and the present (vartamāna) set about to be praised. The very act named here — praising the cauvīsa Jinas — is the function of the second Āvaśyaka, the Caturviṁśati-stava (cauvīsattho, i.e. Logassa); this hymn performs that homage in expanded form, repeating it across past, present and future rather than for one set alone. Calling the past Jinas siva-patta affirms a core tenet: a Tīrthaṅkara's path terminates in mokṣa, so to remember them is to remember liberation accomplished.",
+    "practicalRelevance": "At this point the reciter consciously lets go of the bygone Jinas — gratefully, as ones who have already crossed — and re-aims devotion at the present twenty-four. The word kameṇa is the cue to slow down and honour each in turn rather than rush; the plural thuṇimo invites the reciter to feel part of a praising community, not a solitary voice.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava / Cauvīsattho), praise of the 24 Tīrthaṅkaras",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.12–14 (past 24) and vv.16–18 (present 24), framing this transition",
+        "source": "Ācārya Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/monier/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit underlyings and senses of vartamāna, śiva, prāpta, krameṇa, adhunā, samprati"
+    },
+    {
+      "title": "Hargovind Das T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit-Sanskrit-Hindi dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna0000sheth",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms thuṇimo (√stu), patta (prāpta), siva, vaṭṭamāṇa and their attested glosses"
+    },
+    {
+      "title": "Jain eLibrary (jainqq.org) — Pañca Pratikramaṇa texts and the atīta/vartamāna/anāgata Tīrthaṅkara scheme",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Context of the 24 past vs present Tīrthaṅkaras and the cauvīsattho praise tradition"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) The assignment of the bowed-to 'cauvīsa' to the PAST (atīta) set and 'vaṭṭamāṇo' to the PRESENT set follows the hymn's stated structure arc (vv.12–15 past, vv.16–18 present); within this single verse the reference is inferred from that arc plus the qualifier sivaṁ pattaṁ. (2) 'imaṁ jiṇaṁ' is morphologically singular but read collectively with the numeral cauvīsa, a common Prakrit gāthā usage. (3) 'vaṭṭamāṇo' (nom. sg.) functions as a label for the present set; an alternative reading hears a pun on Vardhamāna (vaḍḍhamāṇa) is NOT supported — the spelling here is the temporal vartamāna, so no such pun is claimed. (4) Orthography is preserved verbatim per the source edition; other editions may show minor mātrā/anusvāra variants."
+}

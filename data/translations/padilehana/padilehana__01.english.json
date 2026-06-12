@@ -1,0 +1,644 @@
+{
+  "shlokaId": "padilehana/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "As I inspect the cloth, I resolve to take to heart what is true and good and to let go of every fault — twenty-five qualities to embrace, twenty-five to abandon — and I apologize for any harm I have done by mind, speech, or body.",
+  "recitation": "suttattha-tatta-diṭṭhi hṛdayamāṁ dharuṁ. (1)\nsamakita-mohanī, miśra-mohanī, mithyātva-mohanī pariharuṁ. (3)\nkāma-rāga, sneha-rāga, dṛṣṭi-rāga pariharuṁ. (3)\nsudeva, suguru, sudharma ādaruṁ. (3)\nkudeva, kuguru, kudharma pariharuṁ. (3)\njñāna, darśana, cāritra ādaruṁ. (3)\njñāna-virādhanā, darśana-virādhanā, cāritra-virādhanā pariharuṁ. (3)\nmano-gupti, vacana-gupti, kāya-gupti ādaruṁ. (3)\nmano-daṇḍa, vacana-daṇḍa, kāya-daṇḍa pariharuṁ. (3) — [25]\nhāsya, rati, arati pariharuṁ. (3)\nśoka, bhaya, dugaṁchā pariharuṁ. (3)\nkṛṣṇa-leśyā, nīla-leśyā, kāpota-leśyā pariharuṁ. (3)\nṛddhi-gārava, rasa-gārava, sātā-gārava pariharuṁ. (3)\nmāyā-salla, niyāṇa-salla, micchā-daṁsaṇa-salla pariharuṁ. (3)\nkrodha, māna pariharuṁ, (2) māyā, lobha pariharuṁ. (2)\npṛthvī-kāya virādhanā, apū-kāya virādhanā, teu-kāya virādhanā, vāu-kāya virādhanā, vanaspati-kāya virādhanā, trasa-kāya virādhanā, (6) — [25]\nhui hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ.",
+  "wordByWord": [
+    {
+      "token": "સુત્તત્થ",
+      "translit": "suttattha",
+      "gloss": "scripture together with its meaning",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sutta (Skt. sūtra, 'aphoristic text') + attha (Skt. artha, 'meaning'); a dvandva/genitive compound.",
+      "notes": "Opens the one bol that is counted singly (1), not as a triad."
+    },
+    {
+      "token": "તત્ત",
+      "translit": "tatta",
+      "gloss": "the real principle, ultimate truth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tatta < Skt. tattva, 'that-ness, reality'.",
+      "notes": "Read with the preceding two as the chain sūtra–artha–tattva: text, its sense, and the reality it points to."
+    },
+    {
+      "token": "દિટ્ઠિ",
+      "translit": "diṭṭhi",
+      "gloss": "right view, insight",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit diṭṭhi < Skt. dṛṣṭi, 'seeing, view'; from √dṛś, 'to see'.",
+      "notes": "Caps the opening compound: a clear vision of scripture-meaning-reality."
+    },
+    {
+      "token": "હૃદયમાં",
+      "translit": "hṛdayamāṁ",
+      "gloss": "in the heart",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hṛdaya, 'heart', + Gujarati locative postposition -māṁ, 'in'.",
+      "notes": "Gujarati case-form embedded in an otherwise Prakritic line."
+    },
+    {
+      "token": "ધરું",
+      "translit": "dharuṁ",
+      "gloss": "I hold, I bear",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati dharvuṁ < Skt. √dhṛ, 'to hold, sustain'; first-person resolve.",
+      "notes": "A near-synonym of ādaruṁ used only here; sets the resolve in the first person."
+    },
+    {
+      "token": "૧",
+      "translit": "1",
+      "gloss": "count: one point",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral.",
+      "notes": "Per-line bol-tally printed in the book; the numerals (1, 3, 2, 6) and the subtotal 25 mark the running count to fifty, not words to be chanted."
+    },
+    {
+      "token": "સમકિતમોહની",
+      "translit": "samakita-mohanī",
+      "gloss": "the faith-deluding karma in its 'right-faith' (clouded) form",
+      "partOfSpeech": "compound",
+      "etymology": "samakita (Prakritized Skt. samyaktva, 'right faith') + mohanī (Skt. mohanīya, 'deluding').",
+      "notes": "First of the three darśana-mohanīya sub-types."
+    },
+    {
+      "token": "મિશ્રમોહની",
+      "translit": "miśra-mohanī",
+      "gloss": "the mixed faith-deluding karma",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. miśra, 'mixed' + mohanīya.",
+      "notes": "The wavering state of half-faith, half-doubt."
+    },
+    {
+      "token": "મિથ્યાત્વમોહની",
+      "translit": "mithyātva-mohanī",
+      "gloss": "the wrong-faith-deluding karma",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mithyātva, 'falseness of view' + mohanīya.",
+      "notes": "The grossest of the three; outright false belief."
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "I forsake, I renounce",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati pariharvuṁ < Skt. pari-√hṛ, 'to leave aside, abandon'.",
+      "notes": "The governing refrain of every 'let-go' set; recurs eleven times (after each fault-triad/pair) up to the ṣaṭ-kāya."
+    },
+    {
+      "token": "કામરાગ",
+      "translit": "kāma-rāga",
+      "gloss": "sensual attachment",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kāma, 'desire' + rāga, 'attachment'.",
+      "notes": "First of the three rāgas."
+    },
+    {
+      "token": "સ્નેહરાગ",
+      "translit": "sneha-rāga",
+      "gloss": "attachment of affection",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sneha, 'affection, oiliness' + rāga.",
+      "notes": "Bond of love toward kin and friends."
+    },
+    {
+      "token": "દૃષ્ટિરાગ",
+      "translit": "dṛṣṭi-rāga",
+      "gloss": "dogmatic attachment to one's own view",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. dṛṣṭi, 'view' + rāga; held the subtlest and hardest to shed.",
+      "notes": "Note the contrast with diṭṭhi in line 1: there dṛṣṭi is a virtue (right view), here clinging to view is the fault."
+    },
+    {
+      "token": "સુદેવ",
+      "translit": "sudeva",
+      "gloss": "a true deity (a liberated Jina)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. su-, 'good, true' + deva, 'god'.",
+      "notes": "First of the deva-guru-dharma triad to be embraced."
+    },
+    {
+      "token": "સુગુરુ",
+      "translit": "suguru",
+      "gloss": "a true preceptor",
+      "partOfSpeech": "compound",
+      "etymology": "su- + guru, 'teacher'.",
+      "notes": "A genuine, vow-keeping ascetic guide."
+    },
+    {
+      "token": "સુધર્મ",
+      "translit": "sudharma",
+      "gloss": "true religion / the right path",
+      "partOfSpeech": "compound",
+      "etymology": "su- + dharma, 'law, religion'.",
+      "notes": "The Jina-taught path."
+    },
+    {
+      "token": "આદરું",
+      "translit": "ādaruṁ",
+      "gloss": "I take up, I honor, I adopt",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati ādarvuṁ < Skt. ā-√dṛ, 'to respect, undertake'.",
+      "notes": "The governing refrain of every 'take-up' set; recurs four times (sudeva…, jñāna…, mano-gupti…, plus the spirit of dharuṁ in line 1)."
+    },
+    {
+      "token": "કુદેવ",
+      "translit": "kudeva",
+      "gloss": "a false deity",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. ku-, 'bad, defective' + deva.",
+      "notes": "Mirror-opposite of sudeva; first of the false triad."
+    },
+    {
+      "token": "કુગુરુ",
+      "translit": "kuguru",
+      "gloss": "a false preceptor",
+      "partOfSpeech": "compound",
+      "etymology": "ku- + guru.",
+      "notes": "An unworthy or worldly 'teacher'."
+    },
+    {
+      "token": "કુધર્મ",
+      "translit": "kudharma",
+      "gloss": "false religion",
+      "partOfSpeech": "compound",
+      "etymology": "ku- + dharma.",
+      "notes": "A path that misleads from liberation."
+    },
+    {
+      "token": "જ્ઞાન",
+      "translit": "jñāna",
+      "gloss": "(right) knowledge",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jñāna, from √jñā, 'to know'.",
+      "notes": "First jewel of the ratna-traya."
+    },
+    {
+      "token": "દર્શન",
+      "translit": "darśana",
+      "gloss": "(right) faith / perception",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. darśana, from √dṛś, 'to see'.",
+      "notes": "Second jewel; here as faith, not the sect-sense."
+    },
+    {
+      "token": "ચારિત્ર",
+      "translit": "cāritra",
+      "gloss": "(right) conduct",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. cāritra, from √car, 'to move, behave'.",
+      "notes": "Third jewel."
+    },
+    {
+      "token": "જ્ઞાનવિરાધના",
+      "translit": "jñāna-virādhanā",
+      "gloss": "violation/neglect of knowledge",
+      "partOfSpeech": "compound",
+      "etymology": "jñāna + virādhanā (Skt. vi-rādhanā, 'failure, transgression', from vi-√rādh).",
+      "notes": "The negative counterpart of jñāna; faults against right knowledge."
+    },
+    {
+      "token": "દર્શનવિરાધના",
+      "translit": "darśana-virādhanā",
+      "gloss": "violation of faith",
+      "partOfSpeech": "compound",
+      "etymology": "darśana + virādhanā.",
+      "notes": "Faults against right faith."
+    },
+    {
+      "token": "ચારિત્રવિરાધના",
+      "translit": "cāritra-virādhanā",
+      "gloss": "violation of conduct",
+      "partOfSpeech": "compound",
+      "etymology": "cāritra + virādhanā.",
+      "notes": "Faults against right conduct; completes the inverse of the ratna-traya."
+    },
+    {
+      "token": "મનોગુપ્તિ",
+      "translit": "mano-gupti",
+      "gloss": "restraint of mind",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. manas, 'mind' + gupti, 'guarding'.",
+      "notes": "First of the three guptis."
+    },
+    {
+      "token": "વચનગુપ્તિ",
+      "translit": "vacana-gupti",
+      "gloss": "restraint of speech",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vacana, 'speech' + gupti.",
+      "notes": "Guarding of words — apt while holding the muhapattī over the mouth."
+    },
+    {
+      "token": "કાયગુપ્તિ",
+      "translit": "kāya-gupti",
+      "gloss": "restraint of body",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kāya, 'body' + gupti.",
+      "notes": "Guarding of bodily action."
+    },
+    {
+      "token": "મનોદંડ",
+      "translit": "mano-daṇḍa",
+      "gloss": "the 'rod' (misuse) of mind",
+      "partOfSpeech": "compound",
+      "etymology": "manas + daṇḍa, 'staff, chastisement'; here the soul-punishing misuse of the faculty.",
+      "notes": "Inverse of mano-gupti; the three daṇḍas are the unguarded triad."
+    },
+    {
+      "token": "વચનદંડ",
+      "translit": "vacana-daṇḍa",
+      "gloss": "the 'rod' of speech",
+      "partOfSpeech": "compound",
+      "etymology": "vacana + daṇḍa.",
+      "notes": "Harmful, unrestrained speech."
+    },
+    {
+      "token": "કાયદંડ",
+      "translit": "kāya-daṇḍa",
+      "gloss": "the 'rod' of body",
+      "partOfSpeech": "compound",
+      "etymology": "kāya + daṇḍa.",
+      "notes": "Harmful bodily action; closes the first twenty-five."
+    },
+    {
+      "token": "૨૫",
+      "translit": "25",
+      "gloss": "subtotal: twenty-five points complete",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral; the book prints it under a rule (———) as a half-way tally.",
+      "notes": "Marks the close of the 'take-up' half and opening of the 'let-go' half; not chanted."
+    },
+    {
+      "token": "હાસ્ય",
+      "translit": "hāsya",
+      "gloss": "laughter, frivolity",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hāsya, from √has, 'to laugh'.",
+      "notes": "First of the disturbing 'quasi-passions' (nokaṣāya)."
+    },
+    {
+      "token": "રતિ",
+      "translit": "rati",
+      "gloss": "liking, indulgent delight",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rati, from √ram, 'to take pleasure'.",
+      "notes": "Pleasure in agreeable objects."
+    },
+    {
+      "token": "અરતિ",
+      "translit": "arati",
+      "gloss": "aversion, displeasure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a- (negation) + rati.",
+      "notes": "Distaste for disagreeable objects; paired opposite of rati."
+    },
+    {
+      "token": "શોક",
+      "translit": "śoka",
+      "gloss": "grief, sorrow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śoka, from √śuc, 'to grieve'.",
+      "notes": "Begins the second nokaṣāya triad."
+    },
+    {
+      "token": "ભય",
+      "translit": "bhaya",
+      "gloss": "fear",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhaya, from √bhī, 'to fear'.",
+      "notes": null
+    },
+    {
+      "token": "દુગંછા",
+      "translit": "dugaṁchā",
+      "gloss": "disgust, revulsion",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dugaṁchā / duguṁchā < Skt. jugupsā, 'loathing'.",
+      "notes": "Vernacular form of jugupsā; completes the six nokaṣāyas with hāsya–rati–arati–śoka–bhaya."
+    },
+    {
+      "token": "કૃષ્ણલેશ્યા",
+      "translit": "kṛṣṇa-leśyā",
+      "gloss": "black soul-tint (the cruelest disposition)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kṛṣṇa, 'black' + leśyā, 'coloring of the soul'.",
+      "notes": "Darkest of the three impure leśyās renounced here."
+    },
+    {
+      "token": "નીલલેશ્યા",
+      "translit": "nīla-leśyā",
+      "gloss": "blue soul-tint (sloth, envy)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. nīla, 'blue' + leśyā.",
+      "notes": null
+    },
+    {
+      "token": "કાપોતલેશ્યા",
+      "translit": "kāpota-leśyā",
+      "gloss": "grey/dove-colored soul-tint (crookedness)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kāpota, 'pigeon-grey' + leśyā.",
+      "notes": "The three bright leśyās (tejo, padma, śukla) are left unnamed — only the dark three are abandoned."
+    },
+    {
+      "token": "ઋદ્ધિગારવ",
+      "translit": "ṛddhi-gārava",
+      "gloss": "pride in wealth/status",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. ṛddhi, 'prosperity, power' + gārava, 'conceit, self-importance'.",
+      "notes": "First of the three gāravas."
+    },
+    {
+      "token": "રસગારવ",
+      "translit": "rasa-gārava",
+      "gloss": "pride/indulgence in taste",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. rasa, 'flavor' + gārava.",
+      "notes": "Craving for fine food."
+    },
+    {
+      "token": "સાતાગારવ",
+      "translit": "sātā-gārava",
+      "gloss": "pride/indulgence in comfort",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sātā, 'pleasure, ease' + gārava.",
+      "notes": "Attachment to bodily ease."
+    },
+    {
+      "token": "માયાસલ્લ",
+      "translit": "māyā-salla",
+      "gloss": "the thorn of deceit",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. māyā, 'deceit' + Prakrit salla (Skt. śalya, 'thorn, dart').",
+      "notes": "First of the three inner śalyas."
+    },
+    {
+      "token": "નિયાણસલ્લ",
+      "translit": "niyāṇa-salla",
+      "gloss": "the thorn of binding desire-for-reward",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit niyāṇa < Skt. nidāna, 'fixed craving (for a fruit of austerity)' + salla.",
+      "notes": "Wishing worldly gain in return for one's penance."
+    },
+    {
+      "token": "મિચ્છાદંસણસલ્લ",
+      "translit": "micchā-daṁsaṇa-salla",
+      "gloss": "the thorn of false faith",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit micchā-daṁsaṇa < Skt. mithyā-darśana, 'wrong faith' + salla.",
+      "notes": "Wholly Prakritic spelling preserved verbatim from the book."
+    },
+    {
+      "token": "ક્રોધ",
+      "translit": "krodha",
+      "gloss": "anger",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. krodha, from √krudh, 'to be angry'.",
+      "notes": "First of the four kaṣāyas; here split unusually into a 2+2 pair, not a single tetrad."
+    },
+    {
+      "token": "માન",
+      "translit": "māna",
+      "gloss": "pride, conceit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. māna, from √man, 'to think (highly)'.",
+      "notes": "Paired with krodha for a count of 2."
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "I renounce (refrain)",
+      "partOfSpeech": "verb",
+      "etymology": "See above; pari-√hṛ.",
+      "notes": "Occurrence closing krodha–māna (count 2)."
+    },
+    {
+      "token": "માયા",
+      "translit": "māyā",
+      "gloss": "deceit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. māyā, 'illusion, guile'.",
+      "notes": "Third kaṣāya; here as a passion, distinct from māyā-salla above which names its śalya-aspect."
+    },
+    {
+      "token": "લોભ",
+      "translit": "lobha",
+      "gloss": "greed",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. lobha, from √lubh, 'to covet'.",
+      "notes": "Printed joined to the verb as 'લોભપરિહરું' in the book; fourth kaṣāya."
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "I renounce (refrain)",
+      "partOfSpeech": "verb",
+      "etymology": "See above.",
+      "notes": "Occurrence closing māyā–lobha (count 2)."
+    },
+    {
+      "token": "પૃથ્વીકાય",
+      "translit": "pṛthvī-kāya",
+      "gloss": "earth-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. pṛthvī, 'earth' + kāya, 'body'.",
+      "notes": "First of the ṣaṭ-kāya (six classes of life)."
+    },
+    {
+      "token": "વિરાધના",
+      "translit": "virādhanā",
+      "gloss": "injury, harm done",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vi-rādhanā, 'transgression, hurting'.",
+      "notes": "Repeated after each of the six kāyas; here means physical harm to living beings, the formula's original concern."
+    },
+    {
+      "token": "અપૂકાય",
+      "translit": "apū-kāya",
+      "gloss": "water-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. ap, 'water' + kāya; standard form ap-kāya.",
+      "notes": "Book spells 'અપૂકાય' (apū-) with a long ū — verbatim orthography, not normalized."
+    },
+    {
+      "token": "તેઉકાય",
+      "translit": "teu-kāya",
+      "gloss": "fire-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit teu < Skt. tejas, 'fire' + kāya.",
+      "notes": null
+    },
+    {
+      "token": "વાઉકાય",
+      "translit": "vāu-kāya",
+      "gloss": "air-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit vāu < Skt. vāyu, 'wind' + kāya.",
+      "notes": null
+    },
+    {
+      "token": "વનસ્પતિકાય",
+      "translit": "vanaspati-kāya",
+      "gloss": "plant-bodied beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vanaspati, 'vegetation' + kāya.",
+      "notes": null
+    },
+    {
+      "token": "ત્રસકાય",
+      "translit": "trasa-kāya",
+      "gloss": "mobile (two- to five-sensed) beings",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. trasa, 'moving' + kāya.",
+      "notes": "Sixth class; the first five are sthāvara (immobile), this one trasa (mobile)."
+    },
+    {
+      "token": "૬",
+      "translit": "6",
+      "gloss": "count: six points (the six kāyas)",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral.",
+      "notes": "With this the second twenty-five (and the full fifty) is complete; followed in the book by the ——— rule and the second '25' subtotal."
+    },
+    {
+      "token": "હુઇ",
+      "translit": "hui",
+      "gloss": "(whatever harm) has been done",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati/Apabhraṁśa hui, 'occurred, happened' < Skt. bhūta/√bhū.",
+      "notes": "Opens the closing single sentence that seals all fifty bol."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been / might be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati hovuṁ < Skt. √bhū; subjunctive sense.",
+      "notes": "Pairs with hui to cover harm done knowingly or unknowingly."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt./Gujarati demonstrative ta-.",
+      "notes": "Refers back to any fault committed."
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all, entirely",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva / savi < Skt. sarva, 'all'.",
+      "notes": "Gathers every transgression under the confession."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati first-person pronoun < Apabhraṁśa hauṁ.",
+      "notes": "Makes the confession explicitly personal."
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. manasā, instrumental of manas; here Gujarati/Prakritic 'mane'.",
+      "notes": "First of the three channels of action."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vacanena, instrumental of vacana.",
+      "notes": null
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kāyena; Gujarati instrumental kāyā-e.",
+      "notes": "Completes the mind–speech–body triad through which any harm is owned."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati karvuṁ < Skt. √kṛ, 'to do'; absolutive.",
+      "notes": "Ties the three instruments to the act being confessed."
+    },
+    {
+      "token": "મિચ્છા મિ દુક્કડં",
+      "translit": "micchā mi dukkaḍaṁ",
+      "gloss": "may my wrong-doing be in vain (I retract it)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit micchā (Skt. mithyā, 'false, void') + mi (me, 'my') + dukkaḍaṁ (Skt. duṣkṛta, 'ill-done deed').",
+      "notes": "The standard sealing confession; here closes the entire fifty-point inspection."
+    }
+  ],
+  "literalTranslation": "Scripture, its meaning, the truth, (this right) vision I hold in the heart (1). The right-faith-, mixed-, and wrong-faith-deluding karmas I renounce (3). Sensual, affectional, and dogmatic attachment I renounce (3). True deity, true preceptor, true religion I take up (3); false deity, false preceptor, false religion I renounce (3). Knowledge, faith, conduct I take up (3); violation of knowledge, of faith, of conduct I renounce (3). Restraint of mind, speech, body I take up (3); the misuse of mind, speech, body I renounce (3) — [25]. Laughter, liking, aversion I renounce (3); grief, fear, disgust I renounce (3). Black, blue, grey soul-tints I renounce (3). Pride in wealth, in taste, in comfort I renounce (3). The thorns of deceit, of binding-desire, of false faith I renounce (3). Anger, pride I renounce (2); deceit, greed I renounce (2). Harm to earth-, water-, fire-, air-, plant-, and mobile-bodied beings (6) — [25]. Whatever (such fault) has occurred, all of it, done by me through mind, speech, and body — may it be void: micchā mi dukkaḍaṁ.",
+  "idiomaticTranslation": "Let me hold in my heart the scripture, its meaning, and the reality it reveals. I let go of the three faith-clouding karmas — of right-, mixed-, and wrong-faith. I release sensual, affectionate, and dogmatic attachment. I welcome the true God, the true guru, the true path, and turn away from every false one. I embrace right knowledge, faith, and conduct, and renounce all that violates them. I take up the guarding of mind, speech, and body, and abandon their reckless misuse. — twenty-five. I release frivolity, indulgent liking and aversion; grief, fear, and revulsion; the black, blue, and grey tints of the soul; pride in wealth, in taste, in comfort; the inner thorns of deceit, craving, and false faith; anger and conceit; deceit and greed; and all harm to the six families of living beings — earth, water, fire, air, plants, and the moving creatures. — twenty-five. Whatever wrong of all this I have done, by mind, by word, or by body — may it come to nothing: micchā mi dukkaḍaṁ.",
+  "elaboration": {
+    "verseByVerseCommentary": "Read as one continuous resolve, this opening 'verse' is in fact the whole formula, and three features repay close attention beyond its general two-halves design. First, line one stands apart: it is the single bol that is neither a triad nor a fault to drop but a positive deposit — sūtra-artha-tattva-diṭṭhi held in the heart — and it uses a unique verb, dharuṁ ('I bear'), as if to plant a seed the remaining forty-nine then tend. Notice the deliberate verbal play: diṭṭhi (dṛṣṭi) is here the prized right-view, yet a few lines later dṛṣṭi-rāga and micchā-daṁsaṇa are faults — the same faculty of 'seeing' is to be cultivated and yet guarded against attachment. Second, the rhythm is almost relentlessly triadic, which is what lets the reciter keep a running tally on the fingers as the cloth is unfolded; the single deliberate break in that rhythm is the four passions, which the text refuses to bundle as one neat tetrad and instead splits krodha-māna (2) and māyā-lobha (2). That asymmetry is itself instructive: the kaṣāyas are weighty enough to be counted in their own measured pairs rather than rushed past as a list. Third, the closing sentence is grammatically a single clause — hui hoya te savi… micchā mi dukkaḍaṁ — that retroactively gathers every preceding resolve under one confession: it does not merely end the list, it converts the whole inspection into an act of ālocanā. The first-person voice throughout (dharuṁ, ādaruṁ, pariharuṁ, huṁ) keeps the practitioner, not an abstract doctrine, as the grammatical subject — each unfolded fold is an 'I' renewing a vow.",
+    "doctrinalContext": "Doctrinally the verse is a compact map of āsrava (karmic influx) and its reversal. Every fault it drops is a named cause of bondage in standard Śvetāmbara karma-theory — the darśana-mohanīya triad, the four kaṣāyas, the six nokaṣāyas (hāsya through jugupsā), the three impure leśyās, the three gāravas and three śalyas — while every quality it adopts (the ratna-traya, the three guptis, true deva-guru-dharma) is a means of saṁvara (stopping influx) and nirjarā (shedding). Two verse-specific points stand out. The śalya triad is notable for including nidāna (niyāṇa) — craving a worldly fruit in return for austerity — a uniquely Jain warning that even good practice, if transacted for reward, becomes a thorn. And the ṣaṭ-kāya virādhanā at the end is the only set in the whole formula concerned with harm to others rather than inner defilement; placing it last, immediately before micchā mi dukkaḍaṁ, anchors the entire meditation back in ahiṁsā, the very reason the cloth is being inspected.",
+    "practicalRelevance": "In practice the reciter matches the rhythm of the words to the rhythm of the hands: each fold examined for hidden life becomes one bol — one virtue affirmed or one fault released. A modern practitioner can use the structure as a daily moral inventory even apart from the rite: take up (knowledge, faith, conduct, restraint of mind-speech-body) and consciously set down (anger and pride, deceit and greed, the urge to gossip or mock, indulgence in comfort or food). The closing micchā mi dukkaḍaṁ then makes the exercise self-correcting rather than self-accusing — faults are named, owned across mind, speech and body, and let go in the same breath.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 6.5–6.6, 8.10 (kaṣāya, gupti, mohanīya as causes of āsrava and bondage)",
+        "source": "Umāsvāti; tr. with Sarvārthasiddhi commentary"
+      },
+      {
+        "text": "Uttarādhyayana Sūtra, ch. 34 (Leśyā-jjhayaṇa: the six leśyās and their colours/dispositions)",
+        "source": "Śvetāmbara Mūlasūtra"
+      },
+      {
+        "text": "Sthānāṅga / Samavāyāṅga (the three śalyas — māyā, nidāna, mithyādarśana)",
+        "source": "Śvetāmbara Aṅga-āgama"
+      },
+      {
+        "text": "Daśavaikālika Sūtra, ch. 4 (Ṣaḍjīvanikā — the six classes of living beings)",
+        "source": "Śayyambhava; Śvetāmbara Mūlasūtra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ācārya Umāsvāmī's Tattvārthasūtra — With Explanation in English (Vijay K. Jain)",
+      "url": "https://archive.org/details/Tattvartha18CompleteWeb",
+      "type": "scholarship",
+      "consultedFor": "Standard definitions of kaṣāya, gupti, leśyā, mohanīya, and śalya as causes of karmic influx."
+    },
+    {
+      "title": "Commentary on Tattvārtha Sūtra of Vācaka Umāsvāti — Jainpedia",
+      "url": "https://jainpedia.org/reading/commentary-on-tattvartha-sutra-of-vacaka-umasvati/",
+      "type": "commentary",
+      "consultedFor": "Doctrinal framing of āsrava/saṁvara and the role of the passions and leśyās."
+    },
+    {
+      "title": "Tattvārtha Sūtra (with commentary) — Wisdom Library",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking definitions of gārava (gaurava), śalya, and the six leśyās."
+    },
+    {
+      "title": "Pratikraman (English, with explanatory text) — archive.org",
+      "url": "https://archive.org/details/PratikramanEnglishWithPPT",
+      "type": "translation",
+      "consultedFor": "Sense and ritual function of micchā mi dukkaḍaṁ as the sealing confession by mind, speech, and body."
+    },
+    {
+      "title": "Tattvartha Sutra — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Overview of the karmic categories (leśyā, kaṣāya, gupti) referenced across the formula."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "This 'verse' is the entire fifty-bol formula printed as one unit, so the commentary treats it holistically while avoiding the preface's structural arc. Orthography is preserved verbatim: 'અપૂકાય' (apū-kāya, long ū) for the usual ap-kāya, the Prakritic 'દુગંછા' (= jugupsā), 'સલ્લ' (= śalya), 'નિયાણ' (= nidāna), and 'મિચ્છાદંસણ' (= mithyādarśana) are the book's spellings, not normalized. The Gujarati numerals (1/3/2/6) and the two '25' subtotals under the ——— rule are the book's per-line bol-counts, not chanted words; they are glossed once as count-markers rather than repeated for every line. The recurring refrains pariharuṁ (×11) and ādaruṁ (×4) and virādhanā (×6 in the ṣaṭ-kāya) are each glossed with their recurrence noted rather than duplicated verbatim at every occurrence. māyā appears twice — once as māyā-salla (its śalya-aspect) and once among the four kaṣāyas — which is intentional in the text, not a duplication error. The line 'jñāna, darśana, cāritra' uses darśana in the sense of right faith, not the sectarian 'philosophy' sense. Confidence is high for the doctrinal categories (all standard Śvetāmbara) and slightly reduced for a few vernacular morphological glosses (hui/hoya/savi) where Old Gujarati/Apabhraṁśa forms admit minor variation."
+}

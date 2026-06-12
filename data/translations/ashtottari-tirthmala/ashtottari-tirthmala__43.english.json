@@ -1,0 +1,168 @@
+{
+  "shlokaId": "ashtottari-tirthmala/43",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here at Mount Aṣṭāpada the worshipper also bows to Ajita and the other twenty-three Jinas — and to the eternal four-named Jinas with their sixteen images on the shrines — so that every Tīrthaṅkara is honoured at this place.",
+  "recitation": "ajiāiṇo vi sese, vara aïsese jiṇe u tevīsaṁ | taha sāsaya caunāmā, solasa paḍimāu thūbhesu ||",
+  "wordByWord": [
+    {
+      "token": "અજિઆઇણોવિ",
+      "translit": "ajiāiṇo vi",
+      "gloss": "Ajita and the rest (of the Jinas), too",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit ajiā (= Skt. Ajita, the 2nd Tīrthaṅkara) + āiṇo (= Skt. ādīn, 'and the others', acc. pl.) + enclitic vi (= Skt. api, 'also, too').",
+      "notes": "Sandhi-joined; the embedded -vi (api) extends the salutation begun for Ṛṣabha in the preceding verse to Ajita and all who follow him."
+    },
+    {
+      "token": "સેસે",
+      "translit": "sese",
+      "gloss": "the remaining ones (acc. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sesa = Skt. śeṣa, 'remainder, rest'; here the Jinas remaining after Ṛṣabha.",
+      "notes": "Functions substantively with jiṇe — 'the remaining Jinas.'"
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, supreme, foremost",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vara, 'choice, best' (√vṛ, 'to choose, prefer').",
+      "notes": ""
+    },
+    {
+      "token": "અઇસેસે",
+      "translit": "aïsese",
+      "gloss": "endowed with the (supernatural) atiśayas; pre-eminent",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aïsesa = Skt. atiśaya, 'surpassing excellence'; the 34 atiśayas of a Tīrthaṅkara.",
+      "notes": "Qualifies jiṇe; atiśaya is treated in the preface glossary."
+    },
+    {
+      "token": "જિણે",
+      "translit": "jiṇe",
+      "gloss": "the Jinas (acc. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa = Skt. jina, 'conqueror' (√ji, 'to conquer'); one who has conquered the inner passions.",
+      "notes": ""
+    },
+    {
+      "token": "ઉ",
+      "translit": "u",
+      "gloss": "and, indeed (connective/emphatic particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit u = Skt. tu, a lightly connective/emphatic enclitic.",
+      "notes": "Metrically links the count tevīsaṁ to the preceding phrase."
+    },
+    {
+      "token": "તેવીસં",
+      "translit": "tevīsaṁ",
+      "gloss": "twenty-three",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tevīsaṁ = Skt. trayoviṁśati, 'twenty-three' (trayaḥ + viṁśati).",
+      "notes": "The 23 Tīrthaṅkaras from Ajita to Mahāvīra; with Ṛṣabha (prior verse) they complete the 24."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha = Skt. tathā, 'thus, likewise.'",
+      "notes": "Opens the second clause, adding the eternal images to the historical 24."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal, beginningless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya = Skt. śāśvata, 'perpetual.'",
+      "notes": "The śāśvata (eternal) images; term established in the preface glossary."
+    },
+    {
+      "token": "ચઉનામા",
+      "translit": "caunāmā",
+      "gloss": "bearing the four (eternal) names",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit cau (= Skt. catur, 'four') + nāmā (= Skt. nāman, 'name').",
+      "notes": "The four eternal Jina-names — Ṛṣabha, Candrānana, Vāriṣeṇa and Vardhamāna — borne by every eternal image; named in v.33."
+    },
+    {
+      "token": "સોલસ",
+      "translit": "solasa",
+      "gloss": "sixteen",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit solasa = Skt. ṣoḍaśa, 'sixteen.'",
+      "notes": "Numeral qualifying paḍimāu."
+    },
+    {
+      "token": "પડિમાઉ",
+      "translit": "paḍimāu",
+      "gloss": "images (nom./acc. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā = Skt. pratimā, 'image, icon' (prati + √mā, 'to measure, fashion').",
+      "notes": ""
+    },
+    {
+      "token": "થૂભેસુ",
+      "translit": "thūbhesu",
+      "gloss": "on/in the stūpas (loc. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit thūbha = Skt. stūpa, 'mound, memorial shrine'; locative plural ending -esu.",
+      "notes": "The long ū (thūbhesu) is the book's reading and is preserved verbatim."
+    }
+  ],
+  "literalTranslation": "And Ajita too, with the rest — the remaining twenty-three excellent Jinas endowed with the atiśayas; likewise the eternal, four-named (Jinas), sixteen images upon the stūpas.",
+  "idiomaticTranslation": "And here I bow as well to Ajita and the rest — the twenty-three supreme Jinas radiant with their surpassing excellences; and likewise to the eternal Jinas who bear the four undying names, whose sixteen images stand enshrined upon the stūpas.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having fixed the reciter's gaze on Ṛṣabha at Aṣṭāpada in the preceding gāthā, this verse widens the bow to embrace the whole assembly enshrined there. 'Ajita and the rest' (ajiāiṇo) plus the explicit count tevīsaṁ — twenty-three — deliberately complete the caturviṁśati: Ṛṣabha (already saluted) joined by Ajita through Mahāvīra makes the full twenty-four. This mirrors the Aṣṭāpada legend in which Bharata Cakravartī raised a temple of jewel images of all twenty-four Tīrthaṅkaras, each shaped to its Jina's own stature and hue. The poet does not merely list them: vara aïsese ('excellent, atiśaya-bearing') reminds the worshipper that each image stands for a being adorned with the thirty-four supernatural excellences, so the bow is to living glory, not stone. The second line then lifts the eye from the historical twenty-four to the eternal order — taha sāsaya caunāmā: the beginningless images that perpetually bear the four undying names (Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna), with their sixteen images set upon the stūpas of the holy summit. In two compact lines the verse thus binds the time-bound and the timeless: the twenty-four who arose and passed in Bharata, and the eternal Jinas who were never installed and never removed. The movement prepares the next verse, which returns to Ṛṣabha's own samavasaraṇa at Aṣṭāpada — from the gathered images back to the living teaching event they commemorate.",
+    "doctrinalContext": "The verse encodes two Jain tenets at once. First, the legitimacy and antiquity of image-veneration (jina-pratimā / mūrtipūjā), grounded in the Aṣṭāpada precedent of Bharata installing icons of all twenty-four — the historical, 'non-eternal' (founded) shrines. Second, the doctrine of śāśvata images: beginningless, uncreated Jina-icons that exist perpetually across the cosmos and forever carry the same four names (Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna). By naming both kinds in adjacent lines, the gāthā teaches that devotion does not depend on a particular consecration in time; the same reverence reaches the Jina whether the image was raised by a king or has stood eternally. The qualifier aïsese keeps the focus doctrinally correct: an image is venerated as a reminder of the Jina's perfected qualities (the atiśayas), not as itself divine.",
+    "practicalRelevance": "Reciting this verse, a worshipper standing before any single Jina image mentally enthrones the complete twenty-four and the eternal Jinas alongside, turning one act of darśana into homage to every Tīrthaṅkara of time and the timeless shrines of the cosmos. It trains the devotee to see the icon as a doorway to the Jina's surpassing qualities rather than an end in itself.",
+    "crossReferences": [
+      {
+        "text": "The legend of Bharata Cakravartī installing images of the twenty-four Tīrthaṅkaras at Aṣṭāpada (Siṁhaniṣadyā prāsāda)",
+        "source": "Āvaśyaka-cūrṇi / Jambūdvīpa-prajñapti tradition (Śvetāmbara canon)"
+      },
+      {
+        "text": "The four eternal (śāśvata) Jina-names — Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna — and the eternal images of the three worlds",
+        "source": "Jīvābhigama-sūtra (Upāṅga), śāśvata-caitya passages"
+      },
+      {
+        "text": "Praise of the 24 Tīrthaṅkaras as a set, paralleling the completion of the count here",
+        "source": "Logassa-sutra (Caturviṁśati-stava), as placed in this book's Devasi sequence"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Ashtapada, Aṣṭāpada — 23 definitions (Jainism, Prakrit, history)",
+      "url": "https://www.wisdomlib.org/definition/ashtapada",
+      "type": "dictionary",
+      "consultedFor": "Aṣṭāpada as the mountain of Ṛṣabha's nirvāṇa and site of the Tīrthaṅkara-image temple"
+    },
+    {
+      "title": "Shashvata, Śāśvata — 24 definitions (incl. Jainism)",
+      "url": "https://www.wisdomlib.org/definition/shashvata",
+      "type": "dictionary",
+      "consultedFor": "Sense of śāśvata ('eternal, perpetual') applied to the beginningless Jina images"
+    },
+    {
+      "title": "Chandranana, Candrānana — alternative spelling (Jainism, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/chandranana",
+      "type": "dictionary",
+      "consultedFor": "Candrānana as one of the four eternal Jina-names referenced by caunāmā"
+    },
+    {
+      "title": "Atishaya, Atiśaya — 28 definitions (incl. Jain philosophy)",
+      "url": "https://www.wisdomlib.org/definition/atishaya",
+      "type": "dictionary",
+      "consultedFor": "Glossing aïsese ('endowed with atiśayas') and the surpassing-excellence sense"
+    },
+    {
+      "title": "Stupa, Stūpa — 24 definitions (Jainism, India history)",
+      "url": "https://www.wisdomlib.org/definition/stupa",
+      "type": "dictionary",
+      "consultedFor": "Sense of stūpa (Prakrit thūbha) as a memorial shrine, glossing thūbhesu"
+    }
+  ],
+  "translatorConfidence": 0.76,
+  "notes": "Line 1 is read as completing the caturviṁśati at Aṣṭāpada: Ṛṣabha (prior verse) + Ajita and the remaining 23 (tevīsaṁ). Line 2's precise referent of 'solasa paḍimāu thūbhesu' ('sixteen images on the stūpas') is interpretively uncertain and may carry variant readings in other editions — the enumeration of eternal śāśvata images and the stūpa-counts at Aṣṭāpada differ across cosmographic sources; rendered here as the eternal four-named Jinas with sixteen stūpa-images, but the exact count/arrangement is not firmly fixed by a single attested gloss. The book's orthography (e.g. long ū in thūbhesu, sandhi-joined ajiāiṇovi) is preserved verbatim and not normalised. The web AI-summary that named 'Ajita' among the four eternal Jinas is incorrect; the authoritative four are Ṛṣabha, Candrānana, Vāriṣeṇa, Vardhamāna per the preface and Jīvābhigama tradition."
+}

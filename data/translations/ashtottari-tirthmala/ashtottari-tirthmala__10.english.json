@@ -1,0 +1,156 @@
+{
+  "shlokaId": "ashtottari-tirthmala/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse praises the Jina as one who is free of all eighteen faults, graced with the thirty-four marks of greatness, with his anger destroyed, and made radiant by the eight great miracles that attend him.",
+  "recitation": "aṭṭha dasa dosa rahie, sahie chautīsa aïsaya varehiṁ; haya-kohe kaya-sohe, aṭṭha mahā pāḍiherehiṁ.",
+  "wordByWord": [
+    {
+      "token": "અટ્ઠ",
+      "translit": "aṭṭha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭha < Sanskrit aṣṭa, 'eight'.",
+      "notes": "With the following dasa it forms the additive numeral 8 + 10 = 18."
+    },
+    {
+      "token": "દસ",
+      "translit": "dasa",
+      "gloss": "ten",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dasa < Sanskrit daśa, 'ten'.",
+      "notes": "aṭṭha + dasa = aṣṭādaśa, eighteen — the eighteen doṣas."
+    },
+    {
+      "token": "દોસ",
+      "translit": "dosa",
+      "gloss": "faults, blemishes (doṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dosa < Sanskrit doṣa, 'fault, defect, blemish'.",
+      "notes": "The eighteen imperfections a fully liberated Jina is wholly without."
+    },
+    {
+      "token": "રહિએ",
+      "translit": "rahie",
+      "gloss": "free of, devoid of",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit rahia < Sanskrit rahita, 'bereft of, without'.",
+      "notes": "Apabhraṁśa-coloured -e ending agreeing with the Jina, the object of the bowing/praising verb carried over from the surrounding verses."
+    },
+    {
+      "token": "સહિએ",
+      "translit": "sahie",
+      "gloss": "endowed with, accompanied by",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sahia < Sanskrit sahita, 'together with, possessed of'.",
+      "notes": "Deliberately set against rahie ('free of') in the previous foot — devoid of faults, full of excellences."
+    },
+    {
+      "token": "ચઉતીસ",
+      "translit": "chautīsa",
+      "gloss": "thirty-four",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit caütīsa < Sanskrit catustriṁśat, 'thirty-four'.",
+      "notes": "The fixed count of a Tīrthaṅkara's atiśayas."
+    },
+    {
+      "token": "અઇસય",
+      "translit": "aïsaya",
+      "gloss": "atiśayas (supernatural excellences)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aïsaya < Sanskrit atiśaya, 'pre-eminence, surpassing excellence'.",
+      "notes": "Glossary term from the preface; the 34 are traditionally counted as 4 innate + 11 arising on omniscience + 19 god-made."
+    },
+    {
+      "token": "વરેહિં",
+      "translit": "varehiṁ",
+      "gloss": "with the excellent/best (ones)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit instrumental plural of vara < Sanskrit vara, 'choice, excellent'.",
+      "notes": "Instrumental qualifying the 34 atiśayas — 'endowed with the thirty-four sublime atiśayas'."
+    },
+    {
+      "token": "હયકોહે",
+      "translit": "haya-kohe",
+      "gloss": "one whose anger is slain",
+      "partOfSpeech": "compound",
+      "etymology": "haya < Sanskrit hata 'struck down, destroyed' (√han) + koha < Sanskrit krodha 'anger'.",
+      "notes": "Bahuvrīhi epithet; the -e ending again agrees with the Jina. Anger (koha) stands here as the first and most visible of the kaṣāyas."
+    },
+    {
+      "token": "કયસોહે",
+      "translit": "kaya-sohe",
+      "gloss": "one made resplendent / who has acquired beauty",
+      "partOfSpeech": "compound",
+      "etymology": "kaya < Sanskrit kṛta 'made, rendered' (√kṛ) + soha < Sanskrit śobhā 'beauty, splendour'.",
+      "notes": "Bahuvrīhi; the agent of the splendour is named in the next foot — the eight great prātihāryas."
+    },
+    {
+      "token": "અટ્ઠ",
+      "translit": "aṭṭha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit aṭṭha < Sanskrit aṣṭa, 'eight'.",
+      "notes": "Second occurrence; here counting the great prātihāryas."
+    },
+    {
+      "token": "મહા",
+      "translit": "mahā",
+      "gloss": "great",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit mahā(t) < mahat, 'great'.",
+      "notes": "Qualifies pāḍihera — the eight 'great' prātihāryas (mahā-prātihārya)."
+    },
+    {
+      "token": "પાડિહેરેહિં",
+      "translit": "pāḍiherehiṁ",
+      "gloss": "by the prātihāryas (divine attendant-marvels)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit instrumental plural of pāḍihera < Sanskrit prātihārya, 'attendant marvel, divine accompaniment'.",
+      "notes": "Glossary term (aṣṭa-mahāprātihārya) from the preface; instrumental governing kaya-sohe — 'made resplendent by the eight great prātihāryas'."
+    }
+  ],
+  "literalTranslation": "(To the Lord who is) free of the eighteen faults, endowed with the thirty-four excellent atiśayas; his anger slain, made resplendent by the eight great prātihāryas.",
+  "idiomaticTranslation": "Free of all eighteen blemishes, graced with the thirty-four sublime excellences, his anger utterly destroyed, and made radiant by the eight great divine marvels that attend him — such is the Jina before whom I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having bowed in the previous verse to the 'Lord of the three worlds', the hymn now paints him with the standard Jina-portrait, and this single gāthā packs in three of the four canonical reckonings. The poet builds the verse on a deliberate antithesis: rahie ('free of') against sahie ('endowed with'). Negatively, the Jina is emptied of the eighteen doṣas (aṭṭha dasa dosa) — the inner imperfections of an ordinary soul; positively, he is filled with the thirty-four atiśayas, marked as varehiṁ, 'the most excellent'. The second line turns to anger: haya-kohe, 'his anger slain'. It is worth noticing that of all the passions, only koha (anger) is named here; the deeper trio of attachment, aversion and delusion is reserved for the very next verse (jiyarāge jiyadose jiyamohe). Anger, the most outwardly destructive kaṣāya, is thus singled out as the representative conquest. Finally kaya-sohe ('made resplendent') is explained by its instrument — the aṭṭha mahā pāḍihera, the eight great prātihāryas (the aśoka tree, shower of flowers, divine sound, fly-whisks, lion-throne, halo, drum and triple parasol). The inner purity (no doṣas, no anger) and the outer glory (atiśayas and prātihāryas) are held together in one breath: the Jina's radiance is not ornament added from outside but the visible overflow of a soul scrubbed clean of every fault.",
+    "doctrinalContext": "The verse encodes the Jain conviction that liberation is at once a subtraction and a fullness. The arihanta is defined apophatically — free of the eighteen doṣas (in the common Śvetāmbara reckoning the five antarāyas together with the nokaṣāya emotions and rāga, dveṣa, mithyātva, ajñāna, nidrā, avirati) — and cataphatically, through the thirty-four atiśayas and eight prātihāryas that manifest once the ghātī karmas are destroyed and kevalajñāna dawns. Naming koha first reflects the doctrine that the kaṣāyas are the engine of karmic bondage; their cessation, not any external grace, is what makes the Jina worthy of homage.",
+    "practicalRelevance": "Recited in the Pakkhī confession, the verse hands the worshipper a precise template for self-examination: as you bow to the faultless one, you measure your own day against the very faults — anger first — that he has eliminated. It reframes veneration as aspiration: the splendour you salute outside is the goal you pursue within.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the canonical praise of the 24 Jinas as 'vitihaya-raya-mala' (freed of karmic dust)",
+        "source": "Anchalgachchha/Vidhipaksha, Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Following verse (ashtottari-tirthmala/11): jiyarāge jiyadose jiyamohe… — the conquest of rāga, dveṣa and moha that completes this portrait",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri"
+      },
+      {
+        "text": "Abhidhāna-cintāmaṇi, Devādhideva-kāṇḍa — classical enumeration of the 18 doṣas, 34 atiśayas and 8 prātihāryas of an arhat",
+        "source": "Ācārya Hemacandra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tirthankara",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Jina as 'victor' who has conquered inner enemies such as anger, attachment, pride and greed; the kevalajñāna/arihanta framework underlying the faultlessness epithets."
+    },
+    {
+      "title": "Prātihārya — definitions (Jainism / Sanskrit)",
+      "url": "https://www.wisdomlib.org/definition/pratiharya",
+      "type": "dictionary",
+      "consultedFor": "Sense of prātihārya as 'attendant marvel/miracle' and the set of eight mahā-prātihāryas accompanying a Tīrthaṅkara, glossing pāḍiherehiṁ."
+    },
+    {
+      "title": "Atiśaya — definitions (Jainism / Sanskrit)",
+      "url": "https://www.wisdomlib.org/definition/atishaya",
+      "type": "dictionary",
+      "consultedFor": "Meaning of atiśaya as 'surpassing excellence/pre-eminence', supporting the gloss of aïsaya and the count of thirty-four."
+    }
+  ],
+  "translatorConfidence": 0.9,
+  "notes": "The four epithets rahie / sahie / haya-kohe / kaya-sohe carry the Apabhraṁśa-coloured -e ending and stand in apposition to the Jina who is the object of the homage verbs spanning vv.9–11 (namaha … thomi jiṇanāhe); they are not finite clauses. Only anger (koha) is named in this verse — by design, since rāga, dveṣa and moha follow in v.11. Enumerations of the eighteen doṣas vary slightly across Śvetāmbara and Digambara sources (the antarāya-based list is the most common); the figures 18 / 34 / 8 themselves are fixed and uncontested. Orthography of the source (અઇસય, પાડિહેરેહિં, હયકોહે, કયસોહે) is reproduced verbatim from the Anchalgachchha/Vidhipaksha edition and not normalised. The cross-reference to Hemacandra's Abhidhāna-cintāmaṇi is to a well-known classical enumeration; exact verse numbering was not re-verified against a specific edition in this session."
+}

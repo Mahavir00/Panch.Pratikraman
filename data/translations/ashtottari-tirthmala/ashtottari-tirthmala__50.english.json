@@ -1,0 +1,174 @@
+{
+  "shlokaId": "ashtottari-tirthmala/50",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "To humble a proud king, the god-king Indra conjured a dazzling vision of sixty-four thousand elephants, each with eight faces, every face with eight tusks, and every tusk holding eight lotus-ponds.",
+  "recitation": "causaḍhi kari sahassā, savve causaḍhi aḍha muhajuttā | paï muha dantā aṭhau, paï dantaṁ aḍha vāvīo ||",
+  "wordByWord": [
+    {
+      "token": "ચઉસઢિ",
+      "translit": "causaḍhi",
+      "gloss": "sixty-four",
+      "partOfSpeech": "adj",
+      "etymology": "From Sanskrit catuḥṣaṣṭi (4 + 60); standard Prakrit causaṭṭhi/causaṭhi. The book's ઢ (ḍha) gives the verbatim form causaḍhi.",
+      "notes": "Read with sahassā (next-but-one token) as 'sixty-four thousand'."
+    },
+    {
+      "token": "કરિ",
+      "translit": "kari",
+      "gloss": "elephant(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit karin ('the one with a hand', i.e. the trunk), from kara ('hand'); Prakrit kari.",
+      "notes": ""
+    },
+    {
+      "token": "સહસ્સા",
+      "translit": "sahassā",
+      "gloss": "thousand(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sahasra ('thousand'); Prakrit sahassa, here sahassā.",
+      "notes": "causaḍhi … sahassā = 64,000."
+    },
+    {
+      "token": "સવ્વે",
+      "translit": "savve",
+      "gloss": "all (of them), in all",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit sarve (nom. pl. of sarva, 'all'); Prakrit savve.",
+      "notes": ""
+    },
+    {
+      "token": "ચઉસઢિ",
+      "translit": "causaḍhi",
+      "gloss": "sixty-four (i.e. the sixty-four thousand)",
+      "partOfSpeech": "adj",
+      "etymology": "As above, catuḥṣaṣṭi.",
+      "notes": "Repeated for emphasis: 'all the sixty-four[-thousand]', resuming the subject before its attribute is given."
+    },
+    {
+      "token": "અઢ",
+      "translit": "aḍha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit aṣṭa ('eight'); standard Prakrit aṭṭha. The book writes ઢ (ḍha) → aḍha.",
+      "notes": "Same numeral spelt aṭhau a few tokens later — an internal orthographic variation preserved verbatim."
+    },
+    {
+      "token": "મુહજુત્તા",
+      "translit": "muhajuttā",
+      "gloss": "endowed with faces (eight-faced)",
+      "partOfSpeech": "compound",
+      "etymology": "muha (Skt mukha, 'face/mouth') + juttā (Skt yukta, 'joined, endowed with'); = mukha-yukta.",
+      "notes": "Qualifies the elephants: each bears eight faces/heads."
+    },
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "each, per",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit prati ('each, with respect to every'); Prakrit paï/paḍi.",
+      "notes": "Distributive: 'for each…'."
+    },
+    {
+      "token": "મુહ",
+      "translit": "muha",
+      "gloss": "face, mouth",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit mukha; Prakrit muha.",
+      "notes": "paï muha = 'on each face'."
+    },
+    {
+      "token": "દંતા",
+      "translit": "dantā",
+      "gloss": "tusks (teeth)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit danta ('tooth, tusk'); Prakrit danta, here dantā (pl.).",
+      "notes": ""
+    },
+    {
+      "token": "અઠઉ",
+      "translit": "aṭhau",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit aṣṭa; Prakrit aṭṭha, here with ઠ (ṭha) → aṭhau.",
+      "notes": "Variant spelling of the same 'eight' written અઢ (aḍha) elsewhere in the verse; kept verbatim per the book's orthography."
+    },
+    {
+      "token": "પઇ",
+      "translit": "paï",
+      "gloss": "each, per",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit prati; Prakrit paï.",
+      "notes": "Second distributive, opening the next rung of the cascade."
+    },
+    {
+      "token": "દંતં",
+      "translit": "dantaṁ",
+      "gloss": "tusk (each tusk)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit danta; Prakrit danta, here singular dantaṁ.",
+      "notes": "paï dantaṁ = 'on each tusk'."
+    },
+    {
+      "token": "અઢ",
+      "translit": "aḍha",
+      "gloss": "eight",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit aṣṭa; Prakrit aṭṭha → aḍha.",
+      "notes": ""
+    },
+    {
+      "token": "વાવીઓ",
+      "translit": "vāvīo",
+      "gloss": "stepwell-ponds (lotus-tanks)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vāpī ('oblong tank, stepwell, reservoir'); Prakrit vāvī, here pl. vāvīo. Survives as Gujarati vāv ('stepwell').",
+      "notes": "Picked up by the next verse: paï vāvī aṭṭha kamalā ('eight lotuses on each pond')."
+    }
+  ],
+  "literalTranslation": "Sixty-four thousand elephants — all the sixty-four[-thousand] endowed with eight faces; on each face eight tusks, on each tusk eight stepwell-ponds.",
+  "idiomaticTranslation": "Sixty-four thousand elephants in all, every one furnished with eight faces; on each face, eight tusks; and on each tusk, eight lotus-ponds.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the previous verse announced that Śakra 'displayed his own magnificence thus' (niyaïḍḍhiṁ daṁsae evaṁ) to break the pride of King Daśārṇabhadra, this verse begins the 'thus' — the staggering inventory itself. The poet builds a geometric ladder, each rung multiplying the last: 64,000 elephants → 8 faces apiece → 8 tusks per face → 8 ponds per tusk. The distributive paï ('for each') is the hinge that drives the escalation, and the verse deliberately stops mid-climb, handing the next rungs (each pond eight lotuses, each lotus a hundred-thousand petals, each petal thirty-two dances) to verse 51. The effect is cumulative vertigo: the listener cannot hold the arithmetic, and that is the point — the number is meant to overwhelm, mirroring how Daśārṇabhadra, who had vowed to honour Vīra 'as no one in the three worlds ever has', is rendered speechless. The repeated causaḍhi binds the elephants into one totality ('all the sixty-four-thousand'), so the whole apparition reads as a single act of homage rather than a mere crowd. Reciting it, the worshipper is not counting beasts but feeling the breadth of a god's vaikriya power placed entirely at the Jina's feet.",
+    "doctrinalContext": "The episode is the classic Jain anatomy of māna (pride), one of the four kaṣāyas. Daśārṇabhadra's fault is subtle — not vice but spiritual vanity, pride in the very grandeur of his devotion. Indra's answer is not rebuke but a demonstration of scale: divine ṛddhi conjured by vaikriya (transformation) power, which a deity can produce at will. The numbers therefore carry a doctrinal edge — every magnificence, however vast, is finite and surpassable, and is itself only an offering to the Jina, before whom even Śakra bows 'again and again'. The verse thus illustrates that true greatness lies not in display but in the renunciation it should provoke; in the legend Daśārṇabhadra out-does Indra not with more elephants but by tearing out his hair and taking dīkṣā on the spot.",
+    "practicalRelevance": "On this verbal pilgrimage to Daśārṇakūṭa, the reciter is invited to set personal achievement — even religious achievement — against this boundless count and feel its smallness, turning the surge of numbers into a check on one's own māna and a prompt toward humility before the Jina.",
+    "crossReferences": [
+      {
+        "text": "Mahāvīra-carita: Daśārṇabhadra's pride humbled by Śakra's water-car (Jalakānta) and eight-tusked elephant, then his renunciation",
+        "source": "Hemacandra, Triṣaṣṭiśalākāpuruṣacaritra, Parva X (trans. H. M. Johnson, Wisdom Library)"
+      },
+      {
+        "text": "Following verse (ashtottari-tirthmala/51): the cascade continues — each pond eight lotuses, each lotus a lakh of petals, each petal thirty-two dramas",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra — Part 1: Daśārṇabhadra (Mahāvīra-carita)",
+      "url": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216023.html",
+      "type": "translation",
+      "consultedFor": "Authoritative narrative of the verse's referent: Daśārṇabhadra's vow of unmatched homage, his pride, Śakra's water-car and eight-tusked elephant, and the king's renunciation"
+    },
+    {
+      "title": "Vāpī — definition (Sanskrit/Prakrit lexicon entry)",
+      "url": "https://www.wisdomlib.org/definition/vapi",
+      "type": "dictionary",
+      "consultedFor": "Gloss of vāvī/vāpī as oblong tank, stepwell, reservoir (Gujarati vāv)"
+    },
+    {
+      "title": "Karin — definition (Sanskrit lexicon entry)",
+      "url": "https://www.wisdomlib.org/definition/karin",
+      "type": "dictionary",
+      "consultedFor": "Gloss and etymology of kari (karin) = 'elephant', 'the one with a hand/trunk'"
+    },
+    {
+      "title": "Dasharnabhadra Charitram — book summary",
+      "url": "https://jaingpt.org/knowledge/dasharnabhadra_charitram_034062_034062",
+      "type": "scholarship",
+      "consultedFor": "Cross-check of the popular tradition's cascading enumeration and the māna-conquest moral of the Daśārṇabhadra legend"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The cascading enumeration (64,000 elephants → 8 faces → 8 tusks → 8 ponds, continued in v.51 to 8 lotuses → lakh petals → 32 dances) is the schematic stavan form of the Daśārṇabhadra display; Hemacandra's prose Triṣaṣṭi gives the same scene (Śakra's water-car Jalakānta with lotus-tanks and an eight-tusked elephant) but does not spell out the full geometric series, so the exact per-rung counts rest on the hymn's own traditional reckoning. The doubled ચઉસઢિ (causaḍhi) is read here as emphatic resumption — 'all the sixty-four[-thousand]' — before the attribute aḍha muhajuttā; a reading that takes the second causaḍhi as a distinct count is grammatically possible but unsupported by the narrative. Orthography preserved verbatim per the book, including 'eight' spelt both અઢ (aḍha) and અઠઉ (aṭhau) within the same verse, and ઢ in causaḍhi/aḍha for standard Prakrit -ṭṭh- (causaṭṭhi/aṭṭha). Daṇḍa ( । ) and the closing period are the book's punctuation."
+}

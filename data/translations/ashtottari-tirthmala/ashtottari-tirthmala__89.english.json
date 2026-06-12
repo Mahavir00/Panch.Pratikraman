@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/89",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I bow to Lord Mahāvīra in his shrines at Brahmāṇa, Pallī, Nāṇā, Diyāṇā and Nāndiyā — a shrine stamped with his pair of lotus-feet and crowned with a stūpa.",
+  "recitation": "baṁbhe vi palli ṇāṇaya, devāṇaṁdīsu vīra-nāhassa | paya pauma juyala aṁkiya, thūbha-jue ceie vande ||",
+  "wordByWord": [
+    {
+      "token": "બંભેવિ",
+      "translit": "baṁbhe-vi",
+      "gloss": "at Brahmāṇa too / at Brahma(pura) as well",
+      "partOfSpeech": "compound",
+      "etymology": "baṁbhe = locative of baṁbha (< Skt. brahma / Brahmāṇa, the town now Bāmaṇvāḍā near Sirohi) + vi (< Skt. api, 'also, even')",
+      "notes": "The enclitic vi ('too') opens a running list, signalling that several Mahāvīra shrines are being saluted in one breath."
+    },
+    {
+      "token": "પલ્લિ",
+      "translit": "palli",
+      "gloss": "at Pallī (the town Pali, Marwar)",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. pallī ('hamlet, settlement'); here the proper place-name Pallī = modern Pali in western Rajasthan; locative without overt suffix, common in gāthā",
+      "notes": ""
+    },
+    {
+      "token": "નાણય",
+      "translit": "ṇāṇaya",
+      "gloss": "at Nāṇā (Nāṇaka)",
+      "partOfSpeech": "noun",
+      "etymology": "place-name Nāṇaya / Nāṇā (Godwad region); the initial ṇ- for n- is regular Prakrit/Apabhraṁśa orthography",
+      "notes": "First member of the famous Marwar triad 'Nāṇā – Diyāṇā – Nāndiyā'."
+    },
+    {
+      "token": "દેવાણંદીસુ",
+      "translit": "devāṇaṁdīsu",
+      "gloss": "in Diyāṇā (Devāṇā) and Nāndiyā",
+      "partOfSpeech": "noun",
+      "etymology": "locative plural (-su < Skt. -ṣu) of a dvandva pairing Devāṇa (Diyāṇā) + ṇaṁdi (Nāndi/Nāndiyā), the two villages founded in memory of Nandivardhana; 'in those places'",
+      "notes": "Read as the second and third members of the triad, completing the Godwad 'Mahāvīra Pañca Tīrthī' (Brahmāṇa, Pallī, Nāṇā, Diyāṇā, Nāndiyā). A single-name reading 'Devānandī' is possible; see notes."
+    },
+    {
+      "token": "વીરનાહસ્સ",
+      "translit": "vīra-nāhassa",
+      "gloss": "of Lord Vīra (Mahāvīra)",
+      "partOfSpeech": "compound",
+      "etymology": "vīra (< Skt. vīra, 'hero' = Mahāvīra) + nāha (< Skt. nātha, 'lord, protector') + -ssa (Prakrit genitive sg., < Skt. -sya); 'of the Lord Vīra'",
+      "notes": "Genitive governing ceie below: the shrine 'of Lord Mahāvīra'."
+    },
+    {
+      "token": "પય",
+      "translit": "paya",
+      "gloss": "foot / feet",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. pada ('foot'); intervocalic -d- > -y- is regular in Prakrit (pada > paya)",
+      "notes": "First member of the compound 'pair of lotus-feet'."
+    },
+    {
+      "token": "પઉમ",
+      "translit": "pauma",
+      "gloss": "lotus",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. padma ('lotus'); the conjunct -dm- resolves to -um- (padma > pauma)",
+      "notes": ""
+    },
+    {
+      "token": "જુયલ",
+      "translit": "juyala",
+      "gloss": "pair, couple",
+      "partOfSpeech": "noun",
+      "etymology": "< Skt. yugala ('pair'); y- ~ j- variation and -g- > -y- softening are regular",
+      "notes": "paya-pauma-juyala = 'the pair of lotus-feet', the pādukā foot-impression."
+    },
+    {
+      "token": "અંકિય",
+      "translit": "aṁkiya",
+      "gloss": "marked, stamped, imprinted",
+      "partOfSpeech": "adj",
+      "etymology": "< Skt. aṅkita, past participle of aṅk- ('to mark'); -ta > -ya in Prakrit",
+      "notes": "Qualifies ceie: the shrine 'imprinted with' the lotus-foot pair."
+    },
+    {
+      "token": "થૂભજુએ",
+      "translit": "thūbha-jue",
+      "gloss": "joined with a stūpa / set with a memorial mound",
+      "partOfSpeech": "compound",
+      "etymology": "thūbha (< Skt. stūpa, 'reliquary mound'; conjunct st- > th-) + jue (locative of juya < Skt. yuta, 'joined, accompanied by')",
+      "notes": "Locative agreeing with ceie: 'at the stūpa-accompanied shrine'."
+    },
+    {
+      "token": "ચેઇએ",
+      "translit": "ceie",
+      "gloss": "at the shrine (caitya)",
+      "partOfSpeech": "noun",
+      "etymology": "locative sg. of ceia (< Skt. caitya, 'Jina-shrine, temple'); -ty- > -i-",
+      "notes": "Glossary term caitya, used as defined in the preface."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow, I venerate",
+      "partOfSpeech": "verb",
+      "etymology": "1st person sg. present of vand- (< Skt. vand-, 'to salute, worship'); the hymn's recurring homage-verb",
+      "notes": ""
+    }
+  ],
+  "literalTranslation": "At Brahmāṇa too, at Pallī, at Nāṇā, and in Diyāṇā-and-Nāndiyā — of Lord Vīra (Mahāvīra), at the shrine stamped with the pair of lotus-feet and joined with a stūpa, I bow.",
+  "idiomaticTranslation": "At Brahmāṇa, at Pallī, at Nāṇā, and across Diyāṇā and Nāndiyā — to Lord Mahāvīra I bow, at his shrine imprinted with the pair of lotus-feet and crowned with a stūpa.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the Candraprabha and Pārśva shrines of the preceding verse, the pilgrimage now gathers an entire regional cluster of Mahāvīra temples into a single salutation. The five names — Brahmāṇa (today Bāmaṇvāḍā near Sirohi), Pallī (Pali), Nāṇā, Diyāṇā and Nāndiyā — are the Godwad/Marwar group later remembered as the Mahāvīra Pañca Tīrthī, and the triad in particular survives in the living folk-line 'Nāṇā, Diyāṇā, Nāndiyā — jīvitsvāmī vāndiyā.' That epithet jīvitsvāmī ('the Lord while still living') is the doctrinal heart of the verse: tradition holds these Mahāvīra images were consecrated during the Tīrthaṅkara's own lifetime, so bowing here is felt as homage paid almost in his bodily presence. The second line sharpens the object of worship. Rather than describing the icon's face, the poet fixes on two aniconic emblems: the paya-pauma-juyala, the pair of lotus-marked feet (pādukā) imprinted at the shrine, and the thūbha, the commemorative stūpa beside it. Both are the oldest, most universal Indic signs of a saint's sanctified presence — the feet one may touch, the mound one may circumambulate. By compressing five towns, the foot-pair and the stūpa into one ceie ('shrine') and one vande ('I bow'), the verse lets a single act of reverence reach a whole sacred landscape at once, exactly the 'pilgrimage in words' the hymn promises.",
+    "doctrinalContext": "The verse rests on Mūrtipūjaka image-devotion (jina-pratimā-pūjā): the consecrated image, the footprint-pādukā and the stūpa are all legitimate supports for venerating an absent or liberated Jina, the feet and mound standing in for the body the Tīrthaṅkara has shed. The jīvitsvāmī motif adds a precise claim — that an image made and worshipped in Mahāvīra's lifetime carries an unbroken line of sanctity — which is why these particular shrines are singled out from the many Vīra temples. The plural sweep also enacts the Jain conviction that reverence is one act however many its objects: bhāva (inner devotion), not geography, is what the bow consummates.",
+    "practicalRelevance": "Recited in the Pakkhī pratikramaṇa, the line invites the worshipper to let one heartfelt 'vande' embrace shrines they may never physically visit. Practically, it models pādukā- and stūpa-veneration for those far from a Jina image, and it keeps alive a specific pilgrimage circuit a devotee can still walk in Sirohi-Pali today, turning memory of place into present devotion.",
+    "crossReferences": [
+      {
+        "text": "Folk pilgrimage line 'Nāṇā Diyāṇā Nāndiyā, jīvitsvāmī vāndiyā'",
+        "source": "Godwad/Marwar oral tradition; cf. Śvetāmbara tīrtha-mālā literature"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava) — salutation of the 24 Jinas including Vīra/Mahāvīra",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nana Tirth — history, idol and Bamanwadji Panch Tirthi circuit",
+      "url": "https://jainsite.com/jain-tirth/nana-tirth/",
+      "type": "scholarship",
+      "consultedFor": "Identification of Nāṇā, its jīvitsvāmī Mahāvīra image and its place in the Bāmaṇvāḍā (Brahmāṇa) Pañca Tīrthī"
+    },
+    {
+      "title": "Shri Nandiya Jain Tirth (Jivit Mahaveer Swami), Sirohi",
+      "url": "https://jainstavan.in/temple/shri-nandiya-jain-tirth-jivit-mahaveer-swami-jain-tirth-nandiya-district-sirohi-rajasthan",
+      "type": "scholarship",
+      "consultedFor": "Identification of Nāndiyā/Diyāṇā, the Nandivardhana foundation legend and the jīvitsvāmī (lifetime-consecrated) Mahāvīra tradition"
+    },
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (H. T. Sheth, Prakrit–Hindi dictionary), digital text",
+      "url": "https://jainqq.org/explore/002085/1",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses and roots: pauma (padma), juyala (yugala), thūbha (stūpa), ceia (caitya), aṁkiya (aṅkita), nāha (nātha)"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Dictionaries (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymons underlying the Prakrit tokens (pada, padma, yugala, stūpa, caitya, aṅkita, nātha, vand-)"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Place identifications follow the well-attested Godwad 'Mahāvīra Pañca Tīrthī' of Sirohi–Pali: baṁbhe = Brahmāṇa/Bāmaṇvāḍā, palli = Pallī (Pali), ṇāṇaya = Nāṇā. The chief uncertainty is the parsing of દેવાણંદીસુ (devāṇaṁdīsu): I read it as a locative-plural dvandva 'in Diyāṇā (Devāṇā) and Nāndiyā', matching the famous triad Nāṇā–Diyāṇā–Nāndiyā; some editions/readers may take it as a single site 'Devānandī-pura', which would not materially change the salutation. paya-pauma-juyala-aṁkiya is read as the lotus-foot pādukā imprint, and thūbha as an accompanying stūpa, both standard at such shrines; an alternative would construe 'aṁkiya' as describing the image itself rather than the floor/footprint. The original orthography (ṇ- for n-, anusvāra placement) is preserved verbatim per the source book and not normalised."
+}

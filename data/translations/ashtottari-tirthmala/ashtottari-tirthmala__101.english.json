@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/101",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the city of Vāyaṭa I bow to the living-form image of Lord Munisuvrata, and in the same way to Lord Mahāvīra, whose sacred image there has stood for seventeen hundred years.",
+  "recitation": "vāyaḍa-nayare muṇisuvvayassa, jīvaṁta-sāmi-paḍima mahaṁ; vande taha vīra-jiṇaṁ, sattara saṁvacchara sayā jassa.",
+  "wordByWord": [
+    {
+      "token": "વાયડનયરે",
+      "translit": "vāyaḍa-nayare",
+      "gloss": "in the city of Vāyaṭa",
+      "partOfSpeech": "compound",
+      "etymology": "place-name Vāyaḍa (Vāyaṭa) + nayara < Skt nagara 'city'; locative singular -e",
+      "notes": "Vāyaṭanagara, the seat that gives its name to the medieval Vāyaṭa-gaccha; tentatively identified by scholars with Bayad in modern Gujarat (see notes)."
+    },
+    {
+      "token": "મુણિસુવ્વયસ્સ",
+      "translit": "muṇisuvvayassa",
+      "gloss": "of Munisuvrata",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit muṇisuvvaya < Skt munisuvrata; genitive singular -ssa < Skt -sya",
+      "notes": "Munisuvrata, the 20th Tīrthaṅkara of this avasarpiṇī."
+    },
+    {
+      "token": "જીવંત",
+      "translit": "jīvaṁta",
+      "gloss": "living (alive)",
+      "partOfSpeech": "adj",
+      "etymology": "present participle, Skt jīvant- 'living', from √jīv 'to live'",
+      "notes": "Forms the technical term jīvanta-svāmī (jīvantasvāmī), the 'living-lord' image type — a Tīrthaṅkara shown as a crowned, ornamented prince standing in kāyotsarga; a Śvetāmbara form only."
+    },
+    {
+      "token": "સામિ",
+      "translit": "sāmi",
+      "gloss": "lord (svāmin)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmi < Skt svāmin 'master, lord'",
+      "notes": "Bound here with jīvaṁta and paḍima into the compound jīvanta-sāmi-paḍima, 'the living-lord image'."
+    },
+    {
+      "token": "પડિમ",
+      "translit": "paḍima",
+      "gloss": "image, icon",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍima < Skt pratimā 'image, likeness'",
+      "notes": "The object of veneration; metrically shortened from paḍimā."
+    },
+    {
+      "token": "મહં",
+      "translit": "mahaṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Apabhraṁśa first-person nominative mahaṁ (≈ Skt aham), analogically reshaped from the oblique stem (cf. mama)",
+      "notes": "Taken as the subject of vande in the next line ('I bow'). A minority reading construes mahaṁ as Skt mahat 'great' qualifying the image; the first-person devotional sense fits the bowing verb better."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow to, I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Skt √vand 'to praise, venerate'; first person singular present vande",
+      "notes": "The hymn's recurring homage-verb; governs both the Munisuvrata image and Vīra-jina."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "likewise, and so too",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit taha < Skt tathā 'thus, likewise'",
+      "notes": "Couples the second salutation to the first, extending the bow from Munisuvrata to Vīra."
+    },
+    {
+      "token": "વીરજિણં",
+      "translit": "vīra-jiṇaṁ",
+      "gloss": "Vīra the Jina (Mahāvīra)",
+      "partOfSpeech": "compound",
+      "etymology": "vīra 'hero' + Prakrit jiṇa < Skt jina 'conqueror'; accusative singular -aṁ",
+      "notes": "Mahāvīra, the 24th and last Tīrthaṅkara of the present cycle; object of vande."
+    },
+    {
+      "token": "સત્તર",
+      "translit": "sattara",
+      "gloss": "seventeen",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sattara < Skt saptadaśa 'seventeen'",
+      "notes": "Multiplies sayā ('hundreds') to yield 1700."
+    },
+    {
+      "token": "સંવચ્છર",
+      "translit": "saṁvacchara",
+      "gloss": "year(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁvacchara < Skt saṁvatsara 'year'",
+      "notes": "The same root underlies Sāṁvatsarī, the annual pratikramaṇa; here it simply means 'years'."
+    },
+    {
+      "token": "સયા",
+      "translit": "sayā",
+      "gloss": "hundreds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saya < Skt śata 'hundred'; plural sayā < śatāni",
+      "notes": "sattara saṁvacchara sayā = 'seventeen hundreds of years', i.e. 1700 years — a claim of great antiquity for the image."
+    },
+    {
+      "token": "જસ્સ",
+      "translit": "jassa",
+      "gloss": "whose, of whom",
+      "partOfSpeech": "pronoun",
+      "etymology": "relative pronoun, Prakrit jassa < Skt yasya, genitive singular",
+      "notes": "Refers back to Vīra-jina: 'Vīra, whose image (counts) seventeen hundred years.'"
+    }
+  ],
+  "literalTranslation": "In Vāyaṭa-city, the living-lord image of Munisuvrata — I (bow); and likewise I bow to Vīra the Jina, of whom (whose image stands) seventeen hundred years.",
+  "idiomaticTranslation": "At the city of Vāyaṭa I bow to the living-lord image (jīvantasvāmī) of Lord Munisuvrata; and in the same way I salute Vīra the Jina, whose holy image there has endured for seventeen hundred years.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse strings two tīrtha-beads at a single site, Vāyaṭanagara, and is unusual in pairing two Jinas in one breath. The first half venerates a jīvantasvāmī image of Munisuvrata, the 20th Tīrthaṅkara: not the familiar ascetic icon but the 'living-lord' type, which renders the Jina as he was before renunciation — a crowned, jewelled prince standing in the abandonment-of-body posture (kāyotsarga). By naming it jīvanta ('living') the poet evokes the tradition that such images go back to a Tīrthaṅkara's own lifetime, lending the shrine an almost first-hand authenticity. The second half pivots with taha ('likewise') to an image of Vīra (Mahāvīra) at the same place, and clinches its sanctity with a number: sattara saṁvacchara sayā — seventeen hundred years. Antiquity is here the argument for holiness; the longer an image has received worship, the weightier the merit of bowing to it. Coming just after Tāraṇagiri (v.100) and before the Śrīmāla and other towns of the closing roll-call (v.102 ff.), this verse keeps the hymn's geographic momentum through western India while quietly broadening its devotional range: where most verses honour one Jina per place, Vāyaṭa earns a double salutation because it preserves both an ancient Vīra image and a rare living-form Munisuvrata. The repeated, economical homage-verb vande makes the verse a clean two-fold bow, the worshipper's head dipping twice at one halt on the word-pilgrimage.",
+    "doctrinalContext": "The verse rests on the Śvetāmbara Mūrtipūjaka conviction that the Jina is rightly worshipped through his pratimā, and specifically through the jīvantasvāmī image — a form unknown to the Digambaras and attested in early Śvetāmbara commentaries (Vasudevahindi, the Āvaśyaka-cūrṇi, Hemacandra's Triṣaṣṭi) as having been fashioned during a Tīrthaṅkara's princely life. To bow before such an image is to treat sustained, ancient worship as itself a vehicle of merit; the 'seventeen hundred years' is not idle chronology but doctrinal warrant — continuity of veneration sanctifies a place. That the verse couples Munisuvrata (20th) with Vīra (24th) also quietly enacts the hymn's claim to honour the whole line of Jinas, the same twenty-four praised in the Logassa, by gathering them shrine by shrine.",
+    "practicalRelevance": "Reciting this, the worshipper performs a twofold mental prostration at Vāyaṭa without travelling there — and even though the historical image may now be lost, the bow still lands on the living Jina it represents. It trains the practitioner in image-devotion done with understanding (the icon points beyond itself to the liberated soul) and in reverence for the unbroken antiquity of the tradition, renewing faith that the path Munisuvrata and Mahāvīra taught still stands.",
+    "crossReferences": [
+      {
+        "text": "Triṣaṣṭi-śalākā-puruṣa-carita (account of jīvantasvāmī images)",
+        "source": "Ācārya Hemacandra, c. 1169–72 CE"
+      },
+      {
+        "text": "Vasudevahindi & Āvaśyaka-cūrṇi (earliest jīvantasvāmī references)",
+        "source": "Saṁghadāsagaṇi / Jinadāsagaṇi, c. 6th–7th c. CE"
+      },
+      {
+        "text": "Logassa (Caturviṁśati-stava), praise of the 24 Tīrthaṅkaras including Munisuvrata and Mahāvīra",
+        "source": "Panch Pratikraman Sūtra – Vidhi Sahit, Anchalgachchha ed."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Jivantasvami (Jain imagery of the Tīrthaṅkara as a crowned prince in kāyotsarga)",
+      "url": "https://en.wikipedia.org/wiki/Jivantasvami",
+      "type": "scholarship",
+      "consultedFor": "Definition, iconography and textual history of the jīvantasvāmī image type referenced by jīvaṁta-sāmi-paḍima"
+    },
+    {
+      "title": "Munisuvrata (20th Tīrthaṅkara)",
+      "url": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "type": "scholarship",
+      "consultedFor": "Identity and standing of Munisuvrata, the Jina named in muṇisuvvayassa"
+    },
+    {
+      "title": "Pischel's Comparative Grammar of the Prākṛit Languages (English)",
+      "url": "https://archive.org/details/PischelGrammarPrakrit_bookmarked_OCRed",
+      "type": "scholarship",
+      "consultedFor": "Apabhraṁśa first-person pronoun mahaṁ and Prakrit sound-changes (saṁvatsara > saṁvacchara, śata > saya, pratimā > paḍimā)"
+    },
+    {
+      "title": "Monier-Williams Sanskrit Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots/etyma of svāmin, pratimā, √vand, saṁvatsara, śata, tathā, jina"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Token-level glosses are secure; structural and referential points carry some uncertainty. (1) મહં (mahaṁ): read here as the Apabhraṁśa first-person nominative 'I' (subject of vande); an alternative reading takes it as Skt mahat 'great' qualifying the image. (2) જીવંત સામિ પડિમ is treated as a loose compound jīvanta-sāmi-paḍima ('living-lord image', i.e. jīvantasvāmī). (3) સત્તર સંવચ્છર સયા = 'seventeen hundred years' (17 × 100); whether the 1700-year span attaches to the Vīra image alone (so construed via jassa) or to the shrine generally is not certain from the syntax. (4) Vāyaṭanagara's modern identification is debated and only tentatively placed (commonly with Bayad, Gujarat); the historical image may no longer survive. (5) Orthography (e.g. doubled conjuncts in મુણિસુવ્વયસ્સ, સંવચ્છર) is kept verbatim per the book; other editions may show variant readings."
+}

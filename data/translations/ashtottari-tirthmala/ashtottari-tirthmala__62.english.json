@@ -1,0 +1,165 @@
+{
+  "shlokaId": "ashtottari-tirthmala/62",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "As the floodwater rose right up to the tip of the meditating Jina Pārśva's nose, the serpent-king Dharaṇendra swiftly raised his hoods as an umbrella over him and wound his coils and body around him like a protecting wall.",
+  "recitation": "udagaṁ jiṇa nāsaggaṁ, pattaṁ to lahu karei dharaṇindo, jiṇa uvari phaṇāchattaṁ, bhogeṇa ya deha bahiparihi.",
+  "wordByWord": [
+    {
+      "token": "ઉદગં",
+      "translit": "udagaṁ",
+      "gloss": "the water (accusative singular)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit udaga < Sanskrit udaka, 'water'.",
+      "notes": "Subject of the action 'having reached'; the rising deluge sent in the previous verse."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "of the Jina (here Pārśvanātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jiṇa < Sanskrit jina, 'victor, conqueror (of the passions)'.",
+      "notes": "In compound with the next word: jiṇa-nāsaggaṁ, 'the Jina's nose-tip'. Genitival force, case-ending elided as is normal in gāthā compounding."
+    },
+    {
+      "token": "નાસગ્ગં",
+      "translit": "nāsaggaṁ",
+      "gloss": "the tip of the nose (accusative singular)",
+      "partOfSpeech": "compound",
+      "etymology": "nāsā ('nose') + agga (< Sanskrit agra, 'tip, fore-point') → nāsā-agga, 'nose-tip'.",
+      "notes": "Marks the dramatic threshold: the water has climbed to the very nostrils of the standing Jina."
+    },
+    {
+      "token": "પત્તં",
+      "translit": "pattaṁ",
+      "gloss": "(having) reached, attained",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patta < Sanskrit prāpta, past passive participle of pra-√āp, 'to reach, arrive at'.",
+      "notes": "Participial/absolutive sense: 'once (the water) had reached…'."
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "then, thereupon",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit to < Sanskrit tataḥ, 'from that, then'."
+    },
+    {
+      "token": "લહુ",
+      "translit": "lahu",
+      "gloss": "quickly, at once",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit lahu < Sanskrit laghu, 'light, swift'; adverbial 'swiftly'.",
+      "notes": "Stresses the immediacy of the rescue — no delay between danger and protection."
+    },
+    {
+      "token": "કરેઇ",
+      "translit": "karei",
+      "gloss": "makes, fashions",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit karei, 3rd person singular present of √kṛ (< Sanskrit karoti), 'to do, make'.",
+      "notes": "Vivid historical present; governs both 'hood-canopy' and the 'outer rampart'."
+    },
+    {
+      "token": "ધરણિંદો",
+      "translit": "dharaṇindo",
+      "gloss": "Dharaṇendra (the Nāga-king, lord of serpents)",
+      "partOfSpeech": "noun",
+      "etymology": "dharaṇa + inda (< Sanskrit indra, 'lord') = Dharaṇa-indra, 'Indra/king of the Dharaṇa nāgas'; nominative singular -o.",
+      "notes": "The serpent deity who, grateful for Pārśva's compassion in a former birth, comes to shield him."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "the Jina (Pārśvanātha)",
+      "partOfSpeech": "noun",
+      "etymology": "As above; here governed by uvari, 'over the Jina'.",
+      "notes": "Repeated invocation, focusing each protective act on the Lord."
+    },
+    {
+      "token": "ઉવરિ",
+      "translit": "uvari",
+      "gloss": "above, over",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit uvari < Sanskrit upari, 'above, on top of'.",
+      "notes": "Postpositional: 'over the Jina'."
+    },
+    {
+      "token": "ફણાછત્તં",
+      "translit": "phaṇāchattaṁ",
+      "gloss": "a canopy of (serpent-)hoods (accusative singular)",
+      "partOfSpeech": "compound",
+      "etymology": "phaṇā ('serpent's expanded hood') + chatta (< Sanskrit chatra, 'parasol, umbrella') = 'hood-parasol'.",
+      "notes": "The umbrella of cobra-hoods that becomes Pārśva's permanent iconographic emblem."
+    },
+    {
+      "token": "ભોગેણય",
+      "translit": "bhogeṇa ya",
+      "gloss": "and with his coil(s)",
+      "partOfSpeech": "compound",
+      "etymology": "bhoga (< Sanskrit bhoga, here 'the coil/folded body of a serpent') in the instrumental -eṇa + enclitic ya (< Sanskrit ca, 'and').",
+      "notes": "Sandhi-joined token = bhogeṇa + ya. 'bhoga' is the serpent-coil, the instrument of the second protective act."
+    },
+    {
+      "token": "દેહ",
+      "translit": "deha",
+      "gloss": "(and with his) body",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit deha, 'body'.",
+      "notes": "Paired with bhoga as a second instrument: Dharaṇendra's own coiling body. (It may alternatively be read as the Jina's body that is being enclosed — see notes.)"
+    },
+    {
+      "token": "બહિપરિહિ",
+      "translit": "bahiparihi",
+      "gloss": "an outer rampart / encircling moat",
+      "partOfSpeech": "compound",
+      "etymology": "bahi (< Sanskrit bahir, 'outside, outer') + parihi (< Sanskrit parikhā, 'moat, encircling ditch/defensive enclosure').",
+      "notes": "Military metaphor: the coiled serpent-body becomes a fortifying wall-and-moat shielding the Jina from the flood."
+    }
+  ],
+  "literalTranslation": "The water having reached the Jina's nose-tip — then Dharaṇendra swiftly makes a hood-canopy above the Jina, and with his coil and body (makes) an outer rampart (around him).",
+  "idiomaticTranslation": "When the rising waters had climbed to the very tip of the Jina's nose, Dharaṇendra, lord of serpents, came in a flash: above the Lord he spread his hoods into a sheltering parasol, and with his coils and his own body he wound an encircling rampart about him.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the rescue-beat of the Ahicchatra episode whose storm broke in the preceding verse, where Kamaṭha (as the asura Meghamālī) unleashed pestle-thick torrents on Pārśva standing motionless in kāyotsarga. Here the poet freezes the scene at its most unbearable instant — udagaṁ jiṇa nāsaggaṁ pattaṁ, 'the water has reached the Jina's nose-tip' — the last breath-margin before drowning. Against that pause the single adverb lahu ('swiftly') turns the verse: Dharaṇendra acts the very moment rescue is needed. The poet gives the nāga-king two precisely complementary gestures. Above (uvari) he raises the phaṇā-chatta, the parasol of hoods — a royal umbrella of honour and a literal roof against the rain. Below and around, bhogeṇa ya deha, 'with coil and body', he builds a bahiparihi, an 'outer rampart/moat' — a fortification image: the serpent's wound body is the wall that holds the flood off. Note the silent centre of the verse: Pārśva himself neither moves, asks, nor reacts. He is equally unmoved by Kamaṭha's hatred and by Dharaṇendra's devotion — the very definition of the vītarāga. The deep irony the hymn leaves implicit is that tormentor and saviour are both fruits of the same past: the nāga whom Pārśva once compassionately had freed from a burning log now repays that ahiṁsā, while Kamaṭha's enmity persists. This verse is also the doctrinal source of Pārśva's universal iconography — the hooded Jina — and of the Ahicchatra ('serpent-canopy') tīrtha's very name.",
+    "doctrinalContext": "The verse dramatises samatā (equanimity) under upasarga: a true ascetic remains identical toward affliction and aid, neither flinching from the flood nor clinging to the rescue. Pārśva is here still chadmastha (pre-omniscient), so the hood-umbrella is a devotee's spontaneous shelter, not yet one of the eight prātihāryas that attend a Jina after kevala-jñāna, though it visually prefigures the divine parasol. It also illustrates the long karmic arc of ahiṁsā and karuṇā: Dharaṇendra's protection is the ripened fruit of compassion Pārśva showed the serpent in a former life — good conduct returns as unbidden grace, while malice (Kamaṭha) only binds the doer.",
+    "practicalRelevance": "When the 'water reaches the nose' — when a crisis crests to its most frightening point — the verse counsels the reciter to hold steady rather than thrash: stillness, not panic, is the Jina's posture. It also reframes help and harm alike as the returning fruit of one's own past acts, encouraging the practitioner to keep sowing compassion and to meet both protectors and tormentors with the same unshaken mind.",
+    "crossReferences": [
+      {
+        "text": "Pārśvanātha-carita / the Kamaṭha upasarga and Dharaṇendra–Padmāvatī rescue",
+        "source": "Kalpa-sūtra (Pārśva section), Śvetāmbara tradition"
+      },
+      {
+        "text": "Preceding and following verses of this hymn (vv. 61, 63) framing the Ahicchatra Pārśva episode",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (udaka, nāsā-agra, parikhā, chatra, bhoga)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the Prakrit tokens udagaṁ, nāsaggaṁ, phaṇāchattaṁ, bahiparihi, bhogeṇa"
+    },
+    {
+      "title": "Dharaṇendra",
+      "url": "https://en.wikipedia.org/wiki/Dharanendra",
+      "type": "scholarship",
+      "consultedFor": "Identity of Dharaṇendra as Nāga-king who shields Pārśva, and the hood-canopy/coil protection legend"
+    },
+    {
+      "title": "Ahichhatra",
+      "url": "https://en.wikipedia.org/wiki/Ahichhatra",
+      "type": "scholarship",
+      "consultedFor": "The Ahicchatra tīrtha, its serpent-canopy name, and its association with the Pārśva–Dharaṇendra episode"
+    },
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Pārśva's kāyotsarga endurance, the Kamaṭha/Meghamālī flood upasarga, and the hooded iconography"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "ભોગેણય is a sandhi-joined token = bhogeṇa (instrumental of bhoga, 'serpent-coil') + ya ('and'). બહિપરિહિ = bahi (bahir, 'outer') + parihi (Skt parikhā, 'moat/defensive enclosure'); rendered 'outer rampart' as a fortification metaphor for the encircling coil. The phrase 'bhogeṇa ya deha bahiparihi' is read here as 'with coil and body (he makes) an outer rampart', taking deha as Dharaṇendra's own body; an alternative parsing takes deha as the Jina's body that the coil encloses — the protective sense is identical either way. Orthography preserved verbatim from the book (નાસગ્ગં, ભોગેણય, બહિપરિહિ); not normalised. Hood-counts vary by tradition (Śvetāmbara typically 7; the Ahicchatra image is famed for ~1000 hoods) — the verse itself does not number the hoods. Pārśva is chadmastha (pre-kevala) in this scene, so the canopy is devotional shelter, not a formal prātihārya."
+}

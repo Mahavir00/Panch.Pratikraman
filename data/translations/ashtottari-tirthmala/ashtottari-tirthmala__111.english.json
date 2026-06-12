@@ -1,0 +1,144 @@
+{
+  "shlokaId": "ashtottari-tirthmala/111",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Thus all the everlasting and the man-made images of the moon-like Jinas have now been praised — by the venerable Mahendra, who composed this hymn.",
+  "recitation": "evaṁ sāsaya sāsaya, paḍimā thuṇiyā jiṇiṁda-caṁdāṇaṁ. sirimaṁ mahiṁda bhavahiṁda, caṁda muṇivaṁda thua-mahiā.",
+  "wordByWord": [
+    {
+      "token": "એવમ",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. evaṁ < Skt. evam, 'thus'; a summative particle gathering all that precedes.",
+      "notes": "Opens the colophon by sealing the whole foregoing act of praise: 'thus (have they all been praised).'"
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal (the everlasting images)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāsaya < Skt. śāśvata, 'eternal, beginningless'.",
+      "notes": "First of the pair; the beginningless cosmic Jina-images enshrined in the heavens and world-mountains."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "non-eternal (the man-made images)",
+      "partOfSpeech": "adj",
+      "etymology": "Here standing for Pkt. a-sāsaya < Skt. a-śāśvata, 'non-eternal'; the negative 'a-' is elided in recitation/sandhi.",
+      "notes": "Read as the contrasting member 'sāsaya a-sāsaya' = eternal and non-eternal, i.e. the historically founded shrines (see Variant note)."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "images, icons",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. paḍimā < Skt. pratimā, 'image, likeness'; nom./acc. plural here.",
+      "notes": "The object of the verb: it is the Jina-images, eternal and non-eternal alike, that have been hymned."
+    },
+    {
+      "token": "થુણિયા",
+      "translit": "thuṇiyā",
+      "gloss": "have been praised, hymned",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. past participle thuṇiya < √thuṇ / Skt. √stu (stuta), 'to praise, extol'; agreeing with paḍimā.",
+      "notes": "Passive/participial: '(the images) have been praised.'"
+    },
+    {
+      "token": "જિણિંદચંદાણં",
+      "translit": "jiṇiṁda-caṁdāṇaṁ",
+      "gloss": "of the moon-like Lords of Jinas",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. jinendra-candrānām: jina + indra ('lord of Jinas') + candra ('moon'); genitive plural -āṇaṁ < Skt. -ānām.",
+      "notes": "A tatpuruṣa with a metaphor: the Jinendras are 'moons'. Genitive: the images 'of' these moon-like supreme Jinas."
+    },
+    {
+      "token": "સિરિમં",
+      "translit": "sirimaṁ",
+      "gloss": "the glorious, venerable",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sirimaṁ < Skt. śrīmān / śrīmat, 'possessing śrī (glory, fortune)'.",
+      "notes": "Honorific qualifying the author Mahendra."
+    },
+    {
+      "token": "મહિંદ",
+      "translit": "mahiṁda",
+      "gloss": "Mahendra (the poet-ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. mahiṁda < Skt. Mahendra ('great Indra'); the proper name of the author Mahendra(siṁha)sūri.",
+      "notes": "The signature: this is the colophon naming the composer."
+    },
+    {
+      "token": "ભવહિંદ",
+      "translit": "bhavahiṁda",
+      "gloss": "lord amid worldly existence (epithet)",
+      "partOfSpeech": "compound",
+      "etymology": "Likely Skt. bhava + indra ('lord of/amid bhava, existence') or bhavya + indra ('chief among the worthy souls'), Pkt. -hiṁda < -indra.",
+      "notes": "An honorific epithet of Mahendra; exact resolution uncertain (see notes)."
+    },
+    {
+      "token": "ચંદ",
+      "translit": "caṁda",
+      "gloss": "moon",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. caṁda < Skt. candra, 'moon'.",
+      "notes": "Echoes 'jiṇiṁda-caṁda' of line 1: the author too is a 'moon' — for the community of munis."
+    },
+    {
+      "token": "મુણિવંદ",
+      "translit": "muṇivaṁda",
+      "gloss": "to / by the host of munis",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. muni-vṛnda ('assembly of sages'); some read muni-vandya ('revered by munis'). Pkt. muṇi + vaṁda.",
+      "notes": "Either '[a moon] for the host of munis' or '[one] revered by munis'."
+    },
+    {
+      "token": "થુઅમહિઆ",
+      "translit": "thua-mahiā",
+      "gloss": "praised and honoured",
+      "partOfSpeech": "compound",
+      "etymology": "Dvandva: Skt. stuta ('praised') + mahita ('honoured, revered'); Pkt. thua + mahia.",
+      "notes": "Closes the verse: the images (or this hymn) are 'praised and honoured' by Mahendra."
+    }
+  ],
+  "literalTranslation": "Thus the eternal and the non-eternal images of the moon-like Lords of Jinas have been praised; by glorious Mahendra — a moon to the host of munis — (they are) praised and honoured.",
+  "idiomaticTranslation": "And so they have all been hymned — both the everlasting images and those of mortal making — the icons of the moon-bright Lords of the Jinas. By glorious Mahendra, himself a moon for the assembly of sages, are they praised and honoured.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the sealing verse, and almost every word looks backward over the whole garland. The opening 'evaṁ' ('thus') gathers up the preceding 110 verses in a single gesture: everything just recited is now declared complete. The doubled 'sāsaya sāsaya' is best read as 'sāsaya a-sāsaya' — eternal and non-eternal — so that the worshipper, in one breath, embraces both the beginningless cosmic icons of the heavens and world-mountains and the historically founded shrines named through the hymn; nothing is left unbowed. The verb 'thuṇiyā' confirms that the act just performed was stuti, hymned praise, not mere enumeration. The most artful touch is the moon-motif: line 1 calls the supreme Jinas 'jiṇiṁda-caṁda', moon-lords, and line 2 turns the same image onto the poet himself — Mahendra is a 'caṁda', a moon, but for the 'muṇi-vaṁda', the company of sages. Thus the colophon humbly mirrors the praised in the praiser without claiming equality. The closing dvandva 'thua-mahiā' ('praised and honoured') rounds the verse on the same note it began: the whole 108-fold pilgrimage of words ends as it lived — as an offering of reverence. The verse is short by design; a colophon needs only to name its maker and set its seal.",
+    "doctrinalContext": "The verse rests on the Jain warrant for image-veneration (pratimā-pūjā): a Jina-image is a worthy support for bhāva (devotional intention), and praising it cultivates merit and śubha-adhyavasāya. By yoking 'sāsaya' to 'a-sāsaya', the poet affirms that both the eternal, uncreated icons of the cosmos and the impermanent, human-consecrated images deserve the same homage — a quiet expression of the larger Jain reading of reality as both enduring in substance and ever-changing in mode. The act named here is stuti, the same devotional mood as the Caturviṁśati-stava: praise as a means of shedding karma and turning the mind toward liberation.",
+    "practicalRelevance": "Reciting this verse, the worshipper consciously 'closes the garland' — mentally gathering every tīrtha and image just visited and offering the merit of the whole word-pilgrimage. It is a moment to register that the recitation was an act of bhakti, not a list, and to bow once more, inwardly, to all Jina-images everywhere, seen and unseen.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — praise of the 24 Tīrthaṅkaras as the model act of stuti",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.105–110 — the universalizing homage to all images and tīrthas of the three worlds that this colophon seals",
+        "source": "Ācārya Mahendrasiṁhasūri, ibid."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots of pratimā (√stu/stuta), śāśvata/aśāśvata, mahita, jinendra, candra, śrīmat"
+    },
+    {
+      "title": "Hargovind Das T. Sheth, Pāia-sadda-mahaṇṇavo (Comprehensive Prakrit-Hindi Dictionary)",
+      "url": "https://archive.org/details/paia-sadda-mahannavo-ocr-plus-bookmarks-text",
+      "type": "dictionary",
+      "consultedFor": "Prakrit forms paḍimā, thuṇiya, sāsaya/a-sāsaya, caṁda, muṇi-vṛnda and -iṁda/-inda for indra"
+    },
+    {
+      "title": "Jain Quantum (jainqq.org) — Jain literature search engine",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Cross-checking the Aṣṭottarī Tīrthamālā tradition, Mahendrasūri authorship, and śāśvata/aśāśvata image categories"
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Line 1 prints 'સાસય સાસય' (sāsaya sāsaya). It is read here as the standard pair 'sāsaya a-sāsaya' (eternal / non-eternal), the second member's negative 'a-' lost in sandhi/recitation — consistent with this hymn's repeated śāśvata–aśāśvata image theme; a less likely alternative is emphatic reduplication ('eternal, truly eternal'). The book's reading is preserved verbatim and not normalized. Line 2 is a laudatory colophon naming the author Mahendra; the chain 'mahiṁda bhavahiṁda caṁda muṇivaṁda' is a string of honorific epithets, but the precise resolution of 'bhavahiṁda' (bhava-indra 'lord amid existence' vs. bhavya-indra 'chief of the worthy') and whether 'muṇivaṁda' is muni-vṛnda ('host of munis') or muni-vandya ('revered by munis') is uncertain; both renderings are devotionally compatible and neither alters the verse's sense. No verified critical edition with a word-gloss of this exact gāthā was located online, so glosses rest on standard Prakrit/Sanskrit lexicography."
+}

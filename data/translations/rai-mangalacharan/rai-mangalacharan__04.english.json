@@ -1,0 +1,144 @@
+{
+  "shlokaId": "rai-mangalacharan/04",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Whoever lovingly remembers Guru Gautama as they set out gets the food they wish for, a thriving home, and good fortune.",
+  "recitation": "gāmataṇo pesāraṇo, goyama guru samaranta;\nicchā bhojana ghara kuśala, lacchī līla karanta",
+  "wordByWord": [
+    {
+      "token": "ગામતણો",
+      "translit": "gāmataṇo",
+      "gloss": "of the village; the village-entering (one's)",
+      "partOfSpeech": "compound",
+      "etymology": "gāma (Prakrit < Skt. grāma, 'village, town') + the Old-Gujarati/Apabhraṁśa genitive particle -taṇo ('belonging to, of'), which adjectivally binds 'village' to the following 'entering'.",
+      "notes": "Read with the next word as the single idea 'the entering-of-a-village', i.e. setting foot into a town."
+    },
+    {
+      "token": "પેસારણો",
+      "translit": "pesāraṇo",
+      "gloss": "entering, the setting-out/entry (into a village)",
+      "partOfSpeech": "noun",
+      "etymology": "Verbal noun from the Prakrit root pesa- 'to enter' (< Skt. praviś-, praveśa 'entry'); causative-flavoured -āraṇa formation, 'the act/occasion of entering'.",
+      "notes": "Marks the threshold moment of a journey — stepping into a settlement, the practical 'departure/arrival' of daily life."
+    },
+    {
+      "token": "ગોયમ",
+      "translit": "goyama",
+      "gloss": "Gautama (Gautamasvāmī)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit Goyama for Sanskrit Gautama; the chief gaṇadhara of Mahāvīra.",
+      "notes": "Vernacular phonetic form of the name glossed in the preface."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "guru, venerable teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit guru 'weighty, honourable; spiritual preceptor'.",
+      "notes": "Apposed to 'Goyama' — 'Guru Gautama'."
+    },
+    {
+      "token": "સમરંત",
+      "translit": "samaranta",
+      "gloss": "remembering, calling to mind",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle of the Prakrit root samara- 'to remember' (< Skt. smṛ; cf. smaraṇa); -anta is the active participial ending, 'while remembering'.",
+      "notes": "Conditional force: 'for one (who is) remembering'. The participial form of smaraṇa already defined in the preface."
+    },
+    {
+      "token": "ઇચ્છા",
+      "translit": "icchā",
+      "gloss": "(food) as desired, wished-for",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit icchā 'wish, desire' (root iṣ- 'to wish'); here functioning attributively with 'bhojana'.",
+      "notes": "'icchā-bhojana' = the food one wishes for, abundance to one's liking."
+    },
+    {
+      "token": "ભોજન",
+      "translit": "bhojana",
+      "gloss": "food, a meal",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit bhojana 'eating, nourishment' (root bhuj- 'to enjoy, eat').",
+      "notes": "First of the three worldly boons listed."
+    },
+    {
+      "token": "ઘર",
+      "translit": "ghara",
+      "gloss": "house, home, household",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Old-Gujarati ghara < Skt. gṛha 'house, dwelling'.",
+      "notes": "Stands for the whole domestic sphere — the family's affairs."
+    },
+    {
+      "token": "કુશલ",
+      "translit": "kuśala",
+      "gloss": "well-being, welfare, all-being-well",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Prakrit kuśala 'auspicious, well, skilful; prosperity, weal'.",
+      "notes": "'ghara kuśala' = a prospering, trouble-free household."
+    },
+    {
+      "token": "લચ્છી",
+      "translit": "lacchī",
+      "gloss": "Lakṣmī; wealth, prosperity",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit Lacchī < Skt. Lakṣmī, goddess and personification of fortune and abundance.",
+      "notes": "Read either as the personified goddess of fortune or, abstractly, as prosperity itself — see notes."
+    },
+    {
+      "token": "લીલ",
+      "translit": "līla",
+      "gloss": "play, sport; lively abundance/ease",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit līla < Skt. līlā 'play, graceful sport, ease'.",
+      "notes": "'lacchī līl karanta' = Lakṣmī/fortune 'makes play', i.e. abundance flourishes and disports itself."
+    },
+    {
+      "token": "કરંત",
+      "translit": "karanta",
+      "gloss": "doing, making, engaging in",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle of the Prakrit root kara- 'to do/make' (< Skt. kṛ); -anta active participial ending.",
+      "notes": "Pairs with 'līla': 'doing play' = sporting, flourishing freely."
+    }
+  ],
+  "literalTranslation": "Of the village the entering — Guru Gautama remembering — wished-for food, household welfare, [and] Lakṣmī making her play.",
+  "idiomaticTranslation": "As you set out and step into the town, keep Guru Gautama in remembrance: the food you long for, a home where all is well, and Fortune herself dancing in abundance follow.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse turns the inward gift of the preceding line outward into the open road of daily life. Where the previous dohā placed amṛta in Gautama's thumb and named him a treasury of attainments, here that grace is cashed out as ordinary, tangible good fortune: the moment of pesāraṇo — stepping into a village, the threshold of any errand or journey — is precisely when worldly anxiety bites, and precisely there the verse prescribes samaranta, an ongoing remembrance of Guru Gautama. The reward is enumerated in a tidy triad that ascends from body to household to fortune: icchā-bhojana (food just as one wishes), ghara-kuśala (a home where all is well), and lacchī-līl (Lakṣmī at her sportive play). The choice of līla is telling — prosperity is not merely granted but pictured dancing freely, an image of effortless, overflowing plenty rather than grudging sufficiency. Notice the grammar of cause and effect carried entirely by two participles, samaranta and karanta: 'while [one is] remembering … [Fortune is] making-play.' Remembrance and abundance are set in simultaneous, almost reciprocal motion. The dohā thus completes the central Gautama-devotion of the garland by insisting that smaraṇa is not an abstract piety reserved for the meditation seat but a portable blessing to be carried across the very doorstep of the working day.",
+    "doctrinalContext": "The verse voices the Jain logic of puṇya and smaraṇa rather than petitionary magic: devout remembrance (smaraṇa) of a great soul generates auspicious merit whose natural overflow is laukika (worldly) well-being. Gautamasvāmī is invoked not as a wish-granting deity — a liberated/great soul does not personally bestow groceries — but as an object of reverence whose recollection orients the devotee's own merit-stream toward kuśala. The worldly boons (food, home, Lakṣmī) are best read as upalakṣaṇa, concrete tokens standing for the whole sweep of maṅgala promised by such devotion; they make the abstract auspiciousness of the rite vivid for the householder-reciter. This is the experiential hinge by which the great human exemplar becomes, for the lay practitioner, a living proof that reverence yields fruit.",
+    "practicalRelevance": "A reciter can lift this verse straight off the page into the day: at any threshold — leaving home, starting work, entering an unfamiliar place — silently hold Guru Gautama in mind. The dohā reframes routine errands as occasions of auspicious remembrance, so that mundane provision (a meal, a settled household, sufficiency) is received as blessing rather than mere transaction, keeping the heart steady and grateful amid ordinary striving.",
+    "crossReferences": [
+      {
+        "text": "Companion dohā, same sutra — 'Aṅgūṭhe amṛta vase, labdhitaṇā bhaṇḍāra' (rai-mangalacharan/03)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Traditional Gautamasvāmī stuti/Gautama-rāsa corpus venerating the gaṇadhara as giver of wished-for fruits",
+        "source": "Traditional Śvetāmbara devotional corpus (anonymous; circulation noted in preface)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sheth, Hargovind Das T. — Pāia-sadda-mahaṇṇavo (Prakrit–Hindi/Gujarati dictionary), Digital Dictionaries of South Asia",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit/Apabhraṁśa glosses for pesāraṇa (pesa-, 'enter'), samara- ('remember'), the -taṇa genitive, lacchī (Lakṣmī), and līla (līlā)."
+    },
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo — full scan (Internet Archive)",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking the Prakrit verbal-noun and present-participle forms (samaranta, karanta) and vernacular spellings."
+    },
+    {
+      "title": "Monier-Williams Sanskrit–English Dictionary (1899), Cologne Digital Sanskrit Lexicon",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etyma underlying the tokens: grāma, praveśa, smṛ, icchā/iṣ, bhojana/bhuj, gṛha, kuśala, lakṣmī, līlā, kṛ."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "Verse text is rendered verbatim from the book and not normalized (anusvāras in સમરંત/કરંત read as -anta). The core sense — remembrance of Guru Gautama on setting out yields worldly well-being — is secure and matches the preface's verse-4 summary. Two points are interpretive: (1) પેસારણો is read as 'the entering/setting-out into a village' (verbal noun from pesa- 'enter'); a reading as a vocative/agent ('village-enterer') is possible but less idiomatic. (2) લચ્છી લીલ કરંત is taken as 'Lakṣmī/fortune disports herself (abundance flourishes)'; લચ્છી may be the personified goddess or abstract prosperity, and લીલ (līlā) carries both 'play/sport' and, by extension, 'lively abundance/ease'. Web searches surfaced AI-generated paraphrases with corrupt or fabricated variant texts; these were discarded as unreliable, and no contradicting authoritative variant (pāṭhāntara) was found — should the book's footnotes carry one, it governs. Attribution of the dohā remains anonymous/traditional per the preface."
+}

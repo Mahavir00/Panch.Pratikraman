@@ -1,0 +1,162 @@
+{
+  "shlokaId": "ashtottari-tirthmala/36",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Across the three inhabited continents — Jambūdvīpa, Dhātakīkhaṇḍa and the inner half of Puṣkara — there live right now Tīrthaṅkaras, and the verse names the first five: Sīmandhara, Yugamandhara, Bāhu, Subāhu and Sujāta.",
+  "recitation": "Jambūdīve dhāyaï saṇḍe, taha ceva pukkharaddhe ya | Sīmandhara jugamandhara, bāhu subāhū sujāo a ||",
+  "wordByWord": [
+    {
+      "token": "જંબૂદીવે",
+      "translit": "jambūdīve",
+      "gloss": "in Jambūdvīpa (the central rose-apple continent)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jambū (rose-apple tree) + dvīpa (continent), Pkt. -dīva for -dvīpa; locative singular.",
+      "notes": "The innermost continent of the middle-world; holds one Mahāvideha and thus four living Jinas."
+    },
+    {
+      "token": "ધાયઇ",
+      "translit": "dhāyaï",
+      "gloss": "Dhātakī- (of the dhātakī tree)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dhātakī (Woodfordia floribunda); first member of Dhātakīkhaṇḍa.",
+      "notes": "Forms one place-name with the next token, સંડે."
+    },
+    {
+      "token": "સંડે",
+      "translit": "saṇḍe",
+      "gloss": "in the khaṇḍa (continent-tract) — i.e. in Dhātakīkhaṇḍa",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. khaṇḍa (portion, tract) → Pkt. saṇḍa; locative singular.",
+      "notes": "ધાયઇ + સંડે = Dhātakīkhaṇḍa, the second ring-continent, which contains two Mahāvidehas."
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "thus, likewise",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. tathā → Pkt. taha.",
+      "notes": ""
+    },
+    {
+      "token": "ચેવ",
+      "translit": "ceva",
+      "gloss": "and indeed / just so",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca + eva → caïva → Pkt. ceva, an emphatic connective.",
+      "notes": "Pairs with 'taha' to extend the locative sweep to the third continent."
+    },
+    {
+      "token": "પુક્ખરદ્ધે",
+      "translit": "pukkharaddhe",
+      "gloss": "in Puṣkarārdha (the inner half of Puṣkaradvīpa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. puṣkara (lotus; the third dvīpa) + ardha (half) → Pkt. pukkhara + addha; locative singular.",
+      "notes": "Only the inner half is the human realm, the Mānuṣottara mountain cutting off the outer half — hence 'ardha'. It too holds two Mahāvidehas."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca → Pkt. ya, copulative.",
+      "notes": ""
+    },
+    {
+      "token": "સીમંધર",
+      "translit": "sīmandhara",
+      "gloss": "Sīmandhara (a living Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sīmā (boundary, limit) + dhara (bearer) — 'upholder of the bounds (of dharma)'.",
+      "notes": "First and most widely worshipped of the twenty viharamāṇa Jinas; resides in Jambūdvīpa's Mahāvideha."
+    },
+    {
+      "token": "જુગમંધર",
+      "translit": "jugamandhara",
+      "gloss": "Yugamandhara (a living Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. yuga (age, pair) + mandhara/mandara → Pkt. juga-mandhara; a proper name.",
+      "notes": "Second of the twenty; also of Jambūdvīpa's Mahāvideha."
+    },
+    {
+      "token": "બાહુ",
+      "translit": "bāhu",
+      "gloss": "Bāhu (a living Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bāhu ('arm'), here a proper name.",
+      "notes": "Third of the twenty."
+    },
+    {
+      "token": "સુબાહૂ",
+      "translit": "subāhū",
+      "gloss": "Subāhu (a living Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. su- (good, fine) + bāhu (arm) — 'fair-armed'; proper name.",
+      "notes": "Fourth of the twenty; completes the four Jinas of Jambūdvīpa's single Mahāvideha."
+    },
+    {
+      "token": "સુજાઓ",
+      "translit": "sujāo",
+      "gloss": "Sujāta (a living Tīrthaṅkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. su- (well) + jāta (born) → Pkt. sujāo, 'well-born'; nominative singular as a proper name.",
+      "notes": "Fifth of the twenty; opens the set residing in Dhātakīkhaṇḍa."
+    },
+    {
+      "token": "અ",
+      "translit": "a",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. ca → Pkt. ya, here reduced to 'a' to fit the metre.",
+      "notes": "Verse-final connective, leaving the list open to continue into the next verse."
+    }
+  ],
+  "literalTranslation": "In Jambūdvīpa, in Dhātakīkhaṇḍa, and likewise in Puṣkarārdha too — Sīmandhara, Yugamandhara, Bāhu, Subāhu, and Sujāta...",
+  "idiomaticTranslation": "Across Jambūdvīpa, across Dhātakīkhaṇḍa, and across the inner half of Puṣkara as well, the living Lords abide — and I bow: to Sīmandhara, to Yugamandhara, to Bāhu, to Subāhu, and to Sujāta.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having declared in the previous verse only the *number* and golden body-hues of the currently-living Jinas (highest 170, lowest 20), the hymn now plants its feet on the cosmic map and begins the actual roll-call. The first line is a geographic frame: the living Tīrthaṅkaras are found only where Mahāvideha regions exist — in Jambūdvīpa, in Dhātakīkhaṇḍa, and 'likewise in the half of Puṣkara' (pukkharaddhe). The single word *ardha* ('half') is doctrinally precise: the Mānuṣottara mountain bisects Puṣkaradvīpa, and only its inner half is human territory, so the entire inhabited universe is exactly two-and-a-half continents. These three islands hold five Mahāvidehas in all — one in Jambūdvīpa, two each in Dhātakīkhaṇḍa and Puṣkarārdha — and four Jinas reside in each, giving the standing total of twenty. The second line begins enumerating them: Sīmandhara, Yugamandhara, Bāhu and Subāhu are the four of Jambūdvīpa's one Mahāvideha, and Sujāta opens the Dhātakīkhaṇḍa set. The verse-final 'a' ('and') deliberately leaves the garland-thread hanging, so the next verse can string on Svayamprabha, Ṛṣabhānana, Anantavīrya and the rest up to the twentieth. The poet thus moves from abstraction (how many, what colour) to living presence (who, and where) — turning a cosmographic statistic into a sequence of names a devotee can actually call upon.",
+    "doctrinalContext": "The verse rests on the Jain conviction that, although our Bharata-kṣetra now passes through a degenerate descending age in which no Tīrthaṅkara is born, the universe is never without a living, teaching, omniscient Jina: in the Mahāvideha regions the fourth-ara-like condition is perpetual, so twenty arihants are always present and preaching. The crossing-imagery of the whole hymn gains an extra edge here — the 'ford' is not merely a memory of past liberators but a contemporary, accessible reality. Naming the precise geography (two-and-a-half dvīpas, the manuṣya-kṣetra bounded by Mānuṣottara) is itself an act of orthodox cosmology, affirming that the dharma's continuity is a structural feature of the loka, not an accident of one age.",
+    "practicalRelevance": "For the reciter the verse converts cosmology into refuge: even in an age with no visible Tīrthaṅkara, one may here and now bow to a Jina who is alive, omniscient and teaching — most familiarly Sīmandhara, the focus of widespread living-Jina devotion. Chanting the names cultivates the longing (and the samyaktva) of one who orients toward a real, present source of the path rather than only a remembered one.",
+    "crossReferences": [
+      {
+        "text": "Description of the 2½ continents (manuṣya-kṣetra) bounded by the Mānuṣottara mountain",
+        "source": "Tattvārtha-sūtra 3.7–3.14 (Umāsvāti)"
+      },
+      {
+        "text": "Cosmography of Jambūdvīpa and the Mahāvideha kṣetra",
+        "source": "Jambūdvīpa-prajñapti (Upāṅga)"
+      },
+      {
+        "text": "Hymn of praise to Sīmandhara as foremost of the twenty viharamāṇa Jinas",
+        "source": "Śrīmandarastavana of Ṛṣi Rāmakṛṣṇa (Tessitori Collection)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Simandhar (Tīrthaṅkara) — residence in Jain cosmology, 5 Mahāvideha, 20 living Tīrthaṅkaras",
+      "url": "https://en.wikipedia.org/wiki/Simandhar_Swami",
+      "type": "scholarship",
+      "consultedFor": "Confirming that 5 Mahāvideha kṣetras each hold 4 Tīrthaṅkaras, totalling 20 living (viharamāṇa) Jinas led by Sīmandhara"
+    },
+    {
+      "title": "Viharamāna — '(twenty) living Tīrthaṃkaras' (Śrīmandarastavana entry)",
+      "url": "https://www.wisdomlib.org/definition/viharamana",
+      "type": "dictionary",
+      "consultedFor": "Verifying the term viharamāṇa = the twenty currently-living Tīrthaṅkaras and Sīmandhara's primacy among them"
+    },
+    {
+      "title": "Dhātakīkhaṇḍa — second continent of the middle-world, encircled by Kālodadhi",
+      "url": "https://www.wisdomlib.org/definition/dhatakikhanda",
+      "type": "dictionary",
+      "consultedFor": "Etymology and cosmographic placement of Dhātakīkhaṇḍa (ધાયઇ સંડે)"
+    },
+    {
+      "title": "Puṣkaradvīpa — the third dvīpa; the inner half (Puṣkarārdha) as human realm",
+      "url": "https://www.wisdomlib.org/definition/pushkaradvipa",
+      "type": "dictionary",
+      "consultedFor": "Etymology of puṣkara/Puṣkarārdha (પુક્ખરદ્ધે) and the half-continent bounded by Mānuṣottara"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "ધાયઇ + સંડે are two metrical tokens forming one place-name, Dhātakīkhaṇḍa; glossed separately for 100% token coverage. સુજાઓ (sujāo) = Sujāta (nom. sg.). The four Jinas of Jambūdvīpa's single Mahāvideha are Sīmandhara, Yugamandhara, Bāhu and Subāhu; Sujāta begins the Dhātakīkhaṇḍa group — confirmed by the following verse, which continues Svayamprabha, Ṛṣabhānana, Anantavīrya, Sūraprabha, Viśāla and Vajradhara ('the eleventh'), fixing Sujāta as the fifth of the twenty. The verse-final 'a' is the connective ca, metrically reduced. Spelling (e.g. જુગમંધર for Yugamandhara, anusvāra placement) is reproduced verbatim from the source and not normalised; precise sub-divisional assignment of each Jina to specific vijayas is per standard tradition and not detailed in this verse itself."
+}

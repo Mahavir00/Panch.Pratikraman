@@ -1,0 +1,150 @@
+{
+  "shlokaId": "ashtottari-tirthmala/31",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Counting the eternal, beginningless Jina-images in the homes of the lowest gods, in the heavenly mansions above, and on the earth, this verse reaches a figure of one thousand five hundred and forty-two crore.",
+  "recitation": "bhavaṇavaï bhavaṇesu, kappāï vimāṇa tahaya mahivalae | sāsaya paḍimā panarasa, koḍīsaya bicatta koḍīo ||",
+  "wordByWord": [
+    {
+      "token": "ભવણવઇ",
+      "translit": "bhavaṇavaï",
+      "gloss": "of the Bhavanapati gods (the 'mansion-dwelling' deities of the lower world)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavaṇavaï < Skt. bhavana-pati, 'lord of the dwelling'; the first of the four classes of gods (deva-nikāya).",
+      "notes": "Genitive sense ('of/belonging to'), governing the following locative bhavaṇesu."
+    },
+    {
+      "token": "ભવણેસુ",
+      "translit": "bhavaṇesu",
+      "gloss": "in the mansions / dwelling-places",
+      "partOfSpeech": "noun",
+      "etymology": "Locative plural of Prakrit bhavaṇa < Skt. bhavana, 'abode, palace'; the subterranean residences of the Bhavanapati deities.",
+      "notes": "Locative -esu marks the first of three locations counted."
+    },
+    {
+      "token": "કપ્પાઇ",
+      "translit": "kappāï",
+      "gloss": "in the Kalpa (heavens) and the rest",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kappa < Skt. kalpa (here the kalpopapanna heavens) + āi < ādi, 'and so on'; i.e. the twelve Kalpa heavens together with the higher Graiveyaka and Anuttara abodes.",
+      "notes": "kappa here denotes heaven-class, not 'aeon'; qualifies vimāṇa."
+    },
+    {
+      "token": "વિમાણ",
+      "translit": "vimāṇa",
+      "gloss": "celestial mansions (the abodes of the Vaimānika gods)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vimāṇa < Skt. vimāna, the aerial palace-abode in the upper world; here in locative force.",
+      "notes": "Second location: the Vaimānika realm above."
+    },
+    {
+      "token": "તહય",
+      "translit": "tahaya",
+      "gloss": "and likewise, and also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit tahaya < Skt. tathā ca, 'and so too'; connective adding the third location.",
+      "notes": "Links the heavens above to the earth below."
+    },
+    {
+      "token": "મહિવલએ",
+      "translit": "mahivalae",
+      "gloss": "on the earth-ring / the surface of the earth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahi-valae, locative of mahī-valaya < Skt. mahī ('earth') + valaya ('ring, circle, expanse'); the circular middle-world land-mass.",
+      "notes": "Third location; the akṛtrima eternal shrines on Jambūdvīpa's cosmic mountains. Possible slight overlap with the previous verse's tiriyaloe — see notes."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal, beginningless",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sāsaya < Skt. śāśvata, 'everlasting'; qualifies paḍimā.",
+      "notes": "Glossary term (śāśvata-pratimā) — used, not re-defined."
+    },
+    {
+      "token": "પડિમા",
+      "translit": "paḍimā",
+      "gloss": "images (of the Jina)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍimā < Skt. pratimā, 'image, likeness'; here nominative plural, the grammatical subject.",
+      "notes": "The thing being counted across all three locations."
+    },
+    {
+      "token": "પનરસ",
+      "translit": "panarasa",
+      "gloss": "fifteen (15)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit panarasa < Skt. pañcadaśa, 'fifteen'; numeral multiplying the following koḍīsaya.",
+      "notes": "Reads with koḍīsaya: 'fifteen hundred-crore'."
+    },
+    {
+      "token": "કોડીસય",
+      "translit": "koḍīsaya",
+      "gloss": "hundred-crore (a hundred krores, i.e. units of 100 × 10,000,000)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit koḍī (< Skt. koṭi, 'crore, ten million') + saya (< Skt. śata, 'hundred'); 'koḍī-śata' = one hundred crore = 1,000,000,000.",
+      "notes": "panarasa koḍīsaya = 15 × 100 crore = 1,500 crore = 15,00,00,00,000."
+    },
+    {
+      "token": "બિચત્ત",
+      "translit": "bicatta",
+      "gloss": "forty-two (42)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bicatta < Skt. dvā-catvāriṁśat, 'forty-two'; numeral for the following koḍīo.",
+      "notes": "Reads with koḍīo: 'forty-two crore'."
+    },
+    {
+      "token": "કોડીઓ",
+      "translit": "koḍīo",
+      "gloss": "crores (krores, units of ten million)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit koḍīo, nominative plural of koḍī < Skt. koṭi, 'ten million'.",
+      "notes": "bicatta koḍīo = 42 crore = 42,00,00,000. Total of this verse: 1,500 crore + 42 crore = 1,542 crore = 15,42,00,00,000."
+    }
+  ],
+  "literalTranslation": "In the mansions of the Bhavanapati gods, in the Kalpa-and-other vimānas, and likewise upon the ring of the earth — the eternal images are fifteen hundred-crore [and] forty-two crore.",
+  "idiomaticTranslation": "Down in the palace-homes of the Bhavanapati gods, up in the soaring Kalpa heavens and the mansions beyond, and here across the broad face of the earth — the everlasting Jina-images, never made and never destroyed, number fifteen hundred crore and forty-two crore.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having tallied the eternal images of the middle realm and Nandīśvara in the preceding gāthā, the hymn now sweeps the whole vertical axis of the cosmos in a single breath. Three locatives stake out the count: bhavaṇesu (down in the subterranean palaces of the Bhavanapati gods), kappāï vimāṇa (up in the Kalpa heavens and the loftier Graiveyaka–Anuttara mansions of the Vaimānika gods), and mahivalae (across the surface of the earth) — lower, upper and middle worlds named in one line. Against these the poet sets the figure: panarasa koḍīsaya — fifteen 'hundred-crore' = 1,500 crore — plus bicatta koḍīo, forty-two crore, i.e. 1,542 crore (15,42,00,00,000). This is deliberately the crore-place of a larger sum: the verse stops at the round 'crore' digits and hands the smaller place-values (lakhs, thousands, hundreds and the asaṅkhya images of the Vyantara and Jyotiṣka gods) to the very next gāthā, which closes the arithmetic. Together the two verses recite the traditional grand total of śāśvata Jina-bimbas in the three worlds. The line is pure enumeration, yet enumeration is itself the devotional act here: by speaking the cosmic ledger aloud the reciter mentally bows to every eternal image at once, far beyond any he could ever visit.",
+    "doctrinalContext": "The verse rests on the Jain teaching that certain Jina-images are śāśvata — without beginning or maker, co-eternal with the universe — enshrined in the akṛtrima (un-built) caityas of the gods' realms and the cosmic mountains, as distinct from the kṛtrima (historically founded) shrines named later in the hymn. Their staggering, fixed number expresses the doctrine of a loka that is uncreated and eternal: the dharma and its objects of veneration were never instituted in time but always already are. Counting them is a recognised form of bhāva-pūjā (mental worship), accruing merit by reverently affirming realities one cannot physically reach.",
+    "practicalRelevance": "When chanting this gāthā the reciter need not master the cosmography; the practice is to let the vast number expand the heart's reverence beyond the local temple to every eternal image in every world simultaneously, turning a dry count into an act of all-embracing namaskāra.",
+    "crossReferences": [
+      {
+        "text": "Enumerations of śāśvata caityas and Jina-bimbas across the four deva-nikāyas and the middle world (grand total 15,42,58,36,080 images)",
+        "source": "Jain cosmographic tradition (Tiloya-paṇṇattī / Bṛhat-saṅgrahaṇī type texts)"
+      },
+      {
+        "text": "Preceding gāthā (v.30) counting images in the tiryag-loka and Nandīśvara-dvīpa, to which this verse's totals are joined",
+        "source": "Aṣṭottarī Tīrthamālā, Mahendrasiṁhasūri (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paia-sadda-mahannavo (Prakrit–Sanskrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://dsal.uchicago.edu/dictionaries/sheth/",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for koḍī (koṭi), saya (śata), bhavaṇa (bhavana), vimāṇa, paḍimā (pratimā), sāsaya (śāśvata) and the numeral forms panarasa, bicatta"
+    },
+    {
+      "title": "Dictionary of Prakrit for Jain Literature, Vol. 1 (Romanized)",
+      "url": "https://jainqq.org/booktext/Dictionary_of_Prakrit_for_Jain_Literature_Vol_01_Fasc_01_Romanized/020316",
+      "type": "dictionary",
+      "consultedFor": "Verification of Prakrit lexemes and Sanskrit equivalents for the cosmological vocabulary in the verse"
+    },
+    {
+      "title": "Jain cosmology — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jain_cosmology",
+      "type": "scholarship",
+      "consultedFor": "The three-world structure (adho/madhya/ūrdhva loka), the four deva-nikāyas (Bhavanapati, Vyantara, Jyotiṣka, Vaimānika), and the Kalpa heavens with their vimānas"
+    },
+    {
+      "title": "Jain cosmology — Smarthistory",
+      "url": "https://smarthistory.org/jain-cosmology/",
+      "type": "scholarship",
+      "consultedFor": "Placement of the Vaimānika Kalpa heavens above and the middle-world earth-ring (mahī-valaya), and the concept of eternal shrines in the cosmos"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse gives only the crore-place digits (1,542 crore = 15,42,00,00,000); the lakh/thousand/hundred remainder and the asaṅkhya images of the Vyantara and Jyotiṣka gods are supplied by the following gāthā, so the two verses must be read together to obtain the traditional grand total (commonly recited as 15,42,58,36,080 śāśvata Jina-images in the three worlds). 'koḍīsaya' is read as koṭi-śata = 'hundred-crore' (×100 crore); an alternative parsing as 'crores and hundreds' is possible but yields an inconsistent total, so the hundred-crore reading is preferred. 'mahivalae' (earth-ring) may partially overlap with the previous verse's tiriyaloe (middle world) count; the exact apportionment varies between editions of the cosmographic source-texts and is left flagged. Numeral and orthographic forms (panarasa, bicatta, koḍīo) are preserved verbatim from the Anchalgachchha/Vidhipaksha book and not normalised."
+}

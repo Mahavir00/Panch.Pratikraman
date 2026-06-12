@@ -1,0 +1,154 @@
+{
+  "shlokaId": "ashtottari-tirthmala/34",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This verse salutes the living, awakened teachers (Arhats) who are wandering and teaching right now across all the inhabited worlds, awakening every soul ready for liberation.",
+  "recitation": "jambū dhāyaï pukkhara, dīve vijayāṇa sattarisayaṁmi. bhavie bhuvi bohaṁte, viharaṁte jugava m-arihaṁte.",
+  "wordByWord": [
+    {
+      "token": "જંબૂ",
+      "translit": "jambū",
+      "gloss": "Jambū[dvīpa], the central, first continent of the inhabited universe",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jambū < Sanskrit jambūdvīpa, the 'rose-apple continent'; here in compound with dīve.",
+      "notes": "First of the three continents listed; together they make up the aḍhāī-dvīpa (2½ continents) where humans dwell."
+    },
+    {
+      "token": "ધાયઇ",
+      "translit": "dhāyaï",
+      "gloss": "Dhātakī[khaṇḍa], the second continent",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dhāyaï < Sanskrit dhātakī-khaṇḍa, the ring-continent named after the dhātakī tree, encircling Jambūdvīpa beyond the Lavaṇa ocean.",
+      "notes": "Contains two Mahāvideha regions (64 vijayas)."
+    },
+    {
+      "token": "પુક્ખર",
+      "translit": "pukkhara",
+      "gloss": "Puṣkara(-dvīpa), the third continent — here its inner half, Puṣkarārdha",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pukkhara < Sanskrit puṣkara, 'lotus'; the lotus-continent. Only its inner half (puṣkarārdha) up to the Mānuṣottara mountain is inhabited.",
+      "notes": "These three — jambū, dhāyaï, pukkhara — name the manuṣya-kṣetra, the only zone where Tīrthaṅkaras arise."
+    },
+    {
+      "token": "દીવે",
+      "translit": "dīve",
+      "gloss": "in the continent(s)",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of Prakrit dīva < Sanskrit dvīpa, 'island, continent'; governs the three preceding names.",
+      "notes": "Singular form used distributively for all three continents."
+    },
+    {
+      "token": "વિજયાણ",
+      "translit": "vijayāṇa",
+      "gloss": "of the vijayas (the Mahāvideha conquest-provinces / lands of action)",
+      "partOfSpeech": "noun",
+      "etymology": "Genitive plural of Prakrit vijaya < Sanskrit vijaya, 'conquest, province'; the 32 sub-regions into which each Mahāvideha is divided, extended here to all the karmabhūmis.",
+      "notes": "Genitive depends on sattarisayaṁmi: '(in the 170) of the vijayas'."
+    },
+    {
+      "token": "સત્તરિસયંમિ",
+      "translit": "sattarisayaṁmi",
+      "gloss": "in the one hundred and seventy (170)",
+      "partOfSpeech": "compound",
+      "etymology": "sattari (Sanskrit saptati, 'seventy') + sayaṁ (Sanskrit śata, 'hundred') + locative ending -mmi: 'in the seventy-and-hundred', i.e. 170.",
+      "notes": "Idiom for 170, confirmed by the next verse's 'sattari sayaṁ … vīsaṁ' (max 170, min 20). Counts the 170 karmabhūmis: 5 Bharata + 5 Airāvata + 160 Mahāvideha vijayas."
+    },
+    {
+      "token": "ભવિએ",
+      "translit": "bhavie",
+      "gloss": "the bhavya souls (beings capable of liberation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhavia < Sanskrit bhavya, 'fit to become (liberated)'; the object of bohaṁte. Contrasted with abhavya, a soul never destined for mokṣa.",
+      "notes": "Read as accusative object of the awakening verb; a locative reading ('among the worthy') is grammatically possible."
+    },
+    {
+      "token": "ભુવિ",
+      "translit": "bhuvi",
+      "gloss": "on the earth",
+      "partOfSpeech": "noun",
+      "etymology": "Locative singular of bhū (Sanskrit bhūmi/bhū), 'earth, ground'; locates the wandering and awakening in the human realm.",
+      "notes": ""
+    },
+    {
+      "token": "બોહંતે",
+      "translit": "bohaṁte",
+      "gloss": "awakening, enlightening (the bhavya souls)",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle, Prakrit bohaṁta < Sanskrit bodhayat (causative of √budh, 'to awaken'); accusative plural agreeing with arihaṁte.",
+      "notes": "Names the Arhat's defining act: rousing ready souls to the path."
+    },
+    {
+      "token": "વિહરંતે",
+      "translit": "viharaṁte",
+      "gloss": "wandering, moving about (in their ministry)",
+      "partOfSpeech": "verb",
+      "etymology": "Present participle, Prakrit viharaṁta < Sanskrit viharat (√hṛ with vi, 'to roam'); the root of the title viharamāṇa, the currently-living, 'wandering' Jinas.",
+      "notes": "Accusative plural, paired with bohaṁte to describe the arihaṁte."
+    },
+    {
+      "token": "જુગવ",
+      "translit": "jugava",
+      "gloss": "simultaneously, all at once",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit jugava < Sanskrit yugapad, 'at the same time'.",
+      "notes": "The doctrinal hinge: these Arhats are present concurrently, so the cosmos is never without a living Jina."
+    },
+    {
+      "token": "મરિહંતે",
+      "translit": "m-arihaṁte",
+      "gloss": "the Arhats / Arihantas (worthy ones, living omniscient teachers)",
+      "partOfSpeech": "noun",
+      "etymology": "arihaṁta < Sanskrit arhat, 'worthy one' (folk-etymologized as ari-hanta, 'foe-slayer' of the inner passions); accusative plural. Initial m- is a euphonic hiatus-bridge (m-śruti) after jugava.",
+      "notes": "Object of the homage; the governing verb namimo ('we bow') is supplied by the following verse, with which this verse forms one sentence."
+    }
+  ],
+  "literalTranslation": "In the continents of Jambū, Dhātakī, [and] Puṣkara, throughout the one hundred and seventy vijayas — [to] the Arhats who, wandering simultaneously upon the earth, are awakening the bhavya (liberation-worthy) souls.",
+  "idiomaticTranslation": "Across the continents of Jambūdvīpa, Dhātakīkhaṇḍa and Puṣkarārdha, throughout their one hundred and seventy vijaya-realms, [I bow to] the living Arhats who roam the earth all at once, awakening every soul ripe for liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "Having just sealed the eternal images and named the four eternal Jinas (v.33), the hymn now turns from the permanent to the present and living. This verse opens the salutation to the viharamāṇa — the presently-active Jinas — and it does so geographically and quantitatively before naming any of them (that comes in vv.36–39, led by Sīmandhara). The single sweep 'jambū dhāyaï pukkhara dīve' fixes the stage as the aḍhāī-dvīpa, the two-and-a-half continents that alone make up the manuṣya-kṣetra; 'vijayāṇa sattarisayaṁmi' then spreads the gaze across all 170 lands of action within them. The two participles 'viharaṁte' and 'bohaṁte' supply the portrait — Arhats wandering and awakening — while the pivotal adverb 'jugava' (yugapad, 'simultaneously') carries the verse's whole force: these Jinas are not successive but concurrent. The object of their work is precise — 'bhavie', the bhavya souls fit for liberation, on 'bhuvi', the earth. The governing 'we bow' is held back, completed only in the next verse ('namimo … sattari sayaṁ … vīsaṁ'), so that vv.34–35 read as one breath: first the where and the who, then the act of homage with its maximum-170 / minimum-20 count.",
+    "doctrinalContext": "The verse rests on Jain cosmography: humans and Tīrthaṅkaras exist only within the aḍhāī-dvīpa, bounded by the Mānuṣottara mountain, comprising Jambūdvīpa, Dhātakīkhaṇḍa and the inner half of Puṣkaradvīpa. Within these lie 170 karmabhūmis — 5 Bharata, 5 Airāvata, and 160 Mahāvideha vijayas (5 Mahāvidehas × 32). 'sattarisayaṁ' (170) is therefore the maximum number of Tīrthaṅkaras who can be alive at once. The deeper teaching is consolation through simultaneity: although our Bharata is in the spiritually fallen fifth ara with no living Tīrthaṅkara, the Mahāvidehas perpetually enjoy a fourth-ara-like time, so at least twenty Jinas (four per Mahāvideha) are always teaching — the cosmos is never Jina-less. 'bohaṁte … bhavie' states the soteriological filter of Jain doctrine: an Arhat's awakening reaches only the bhavya, those karmically capable of liberation, never the abhavya.",
+    "practicalRelevance": "Reciting this verse, a worshipper in our Tīrthaṅkara-less age affirms that a living, omniscient teacher exists this very moment — the ground of the widespread devotion to Sīmandhara Svāmī of Mahāvideha. It renews hope that the path remains open and is being actively taught somewhere right now, and it widens the heart's bow beyond one's own continent to every awakening Jina across the inhabited universe.",
+    "crossReferences": [
+      {
+        "text": "Following verse (v.35): 'namimo ukkosapae, sattari sayaṁ taha jahannao vīsaṁ' — homage at the maximum 170 and minimum 20 living Jinas",
+        "source": "Aṣṭottarī Tīrthamālā, Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Doctrine of the manuṣya-kṣetra and the 2½ continents (aḍhāī-dvīpa) bounded by Mānuṣottara",
+        "source": "Jambūdvīpa-prajñapti / Jīvābhigama-sūtra; cf. Tattvārtha-sūtra ch. 3"
+      },
+      {
+        "text": "The twenty viharamāṇa Tīrthaṅkaras led by Sīmandhara in the Mahāvideha",
+        "source": "Śrīmandara-stavana (Ṛṣi Rāmakṛṣṇa), cited in wisdomlib s.v. viharamāṇa"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Viharamana, Viharamāna — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/viharamana",
+      "type": "dictionary",
+      "consultedFor": "Confirming viharamāṇa = the twenty living Tīrthaṅkaras of Mahāvideha, with Sīmandhara at Puṇḍarīka"
+    },
+    {
+      "title": "Bhavya, Bhāvya — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/bhavya",
+      "type": "dictionary",
+      "consultedFor": "Glossing bhavie (bhavya) — a soul capable of/destined for liberation, opposed to abhavya"
+    },
+    {
+      "title": "Simandhar Swami — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simandhar_Swami",
+      "type": "scholarship",
+      "consultedFor": "The 20 currently-living Tīrthaṅkaras (5 Mahāvidehas × 4), the fifth-ara absence in Bharata, and the perpetual fourth-ara of Mahāvideha"
+    },
+    {
+      "title": "Tirthankara — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tirthankara",
+      "type": "scholarship",
+      "consultedFor": "Arhat/Tīrthaṅkara as ford-maker across saṃsāra and the 24-per-half-cycle framing"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Lexical reading is secure. 'sattarisayaṁ' = 170 (sattari 70 + sayaṁ/śata 100), an idiom corroborated by the immediately following verse's explicit 'sattari sayaṁ … vīsaṁ' (max 170, min 20). 'vijaya' strictly denotes the 32 conquest-provinces of each Mahāvideha but is here extended to all 170 karmabhūmis. The initial 'm' of 'marihaṁte' is taken as a euphonic hiatus-bridge (m-śruti) before arihaṁte, not a separate morpheme. 'bhavie' is read as the accusative object of 'bohaṁte'; a locative ('among the bhavyas') is a possible variant. The governing homage verb ('namimo', we bow) is not in this verse but supplied by v.35, with which this verse forms a single syntactic unit. Orthography preserved verbatim from the Anchalgachchha/Vidhipaksha book; no normalization applied."
+}

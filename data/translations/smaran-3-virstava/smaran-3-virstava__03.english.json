@@ -1,0 +1,162 @@
+{
+  "shlokaId": "smaran-3-virstava/03",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Here the poet makes his pledge: 'With this pair of verses I will praise Lord Mahāvīra — the Conqueror who has no pride or delusion, who has mastered every passion, and who is utterly free of attachment.'",
+  "recitation": "gāhā jualeṇa jiṇaṁ, maya moha vivajjiaṁ jia-kasāyaṁ |\nthosāmi ti saṁjhāgaṁ, taṁ nissaṅgaṁ mahāvīraṁ ||",
+  "wordByWord": [
+    {
+      "token": "ગાહા",
+      "translit": "gāhā",
+      "gloss": "gāthā (a Prakrit verse)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gāhā < Sanskrit gāthā, from √gai 'to sing'; the āryā-type verse-unit.",
+      "notes": "Forms the compound gāhā-jualeṇa, 'with a pair of gāthās'."
+    },
+    {
+      "token": "જુઅલેણ",
+      "translit": "jualeṇa",
+      "gloss": "with a pair / by means of a couple (of verses)",
+      "partOfSpeech": "noun",
+      "etymology": "Instrumental sg. of juala < Sanskrit yugala 'pair, couple'; instr. ending -eṇa (< -ena).",
+      "notes": "The poet pledges exactly a 'pair' of gāthās — a self-referential metrical vow."
+    },
+    {
+      "token": "જિણં",
+      "translit": "jiṇaṁ",
+      "gloss": "the Jina (the spiritual Conqueror)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of jiṇa < Sanskrit jina, from √ji 'to conquer'; one who has vanquished the inner foes.",
+      "notes": "Object of thosāmi; resonates with jia-kasāyaṁ below (both from √ji)."
+    },
+    {
+      "token": "મય",
+      "translit": "maya",
+      "gloss": "pride, intoxicating conceit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maya < Sanskrit mada 'pride, intoxication' (intervocalic d > y, a regular Prakrit softening).",
+      "notes": "First member of the compound maya-moha-vivajjiaṁ."
+    },
+    {
+      "token": "મોહ",
+      "translit": "moha",
+      "gloss": "delusion (deluding karma)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit moha, from √muh 'to be bewildered'; doctrinally the mohanīya-karma.",
+      "notes": "Second member of the same compound."
+    },
+    {
+      "token": "વિવજ્જિઅં",
+      "translit": "vivajjiaṁ",
+      "gloss": "devoid of, wholly free from",
+      "partOfSpeech": "adj",
+      "etymology": "Accusative sg. of vivajjia < Sanskrit vivarjita (past part. of vi-√vṛj 'to shun, exclude'); -rj- > -jj-, intervocalic -t- > zero.",
+      "notes": "Qualifies jiṇaṁ: 'the Jina free of pride-and-delusion'."
+    },
+    {
+      "token": "જિઅકસાયં",
+      "translit": "jia-kasāyaṁ",
+      "gloss": "one who has conquered the passions",
+      "partOfSpeech": "compound",
+      "etymology": "jia < Sanskrit jita (past part. of √ji 'conquer') + kasāya < kaṣāya 'passion'; accusative sg. A bahuvrīhi: '[him] by whom the kaṣāyas are conquered'.",
+      "notes": "The four kaṣāyas are anger, pride, deceit, greed; the epithet quietly explains the title 'Jina'."
+    },
+    {
+      "token": "થોસામિ",
+      "translit": "thosāmi",
+      "gloss": "I shall praise",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit future 1 sg. < Sanskrit stoṣyāmi, from √stu 'to praise/extol' (st- > th-, -ṣy- > -s-, -āmi retained).",
+      "notes": "A future-tense pledge — the verse is the poet's pratijñā (vow) to praise, not a description of praise already given."
+    },
+    {
+      "token": "તિ",
+      "translit": "ti",
+      "gloss": "thus, so (quotative/connective particle)",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ti / tti < Sanskrit iti 'thus, so', often reduced metri causa.",
+      "notes": "Read here as the particle iti binding thosāmi to the epithets; an alternative segmentation joins it to the next word (see notes)."
+    },
+    {
+      "token": "સંજઝાગં",
+      "translit": "saṁjhāgaṁ",
+      "gloss": "[him who is] steeped in meditation (deeply contemplative)",
+      "partOfSpeech": "adj",
+      "etymology": "Most plausibly sa-/saṁ- + jhāa < Sanskrit dhyāna 'meditation' (dhy- > jjh-): 'possessed of meditation', accusative sg. — cf. Prakrit sajjhāṇa < sa-dhyāna.",
+      "notes": "Reading uncertain (flagged): the printed -gaṁ (ગ) rather than -ṇaṁ (ણ) leaves room for a 'tri-sandhyā' reading (ti-saṁjhā-gaṁ, 'worshipped at the three twilight-junctions'); the meditation reading is preferred as it parallels the surrounding detachment-epithets."
+    },
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Accusative sg. of the demonstrative ta- < Sanskrit tam 'that, him'.",
+      "notes": "Resumes the object: 'that detached Mahāvīra'."
+    },
+    {
+      "token": "નિસ્સંગં",
+      "translit": "nissaṅgaṁ",
+      "gloss": "the unattached, clingingless one",
+      "partOfSpeech": "adj",
+      "etymology": "Accusative sg. of nissaṅga < Sanskrit niḥsaṅga 'free of attachment' (niḥ- 'without' + saṅga 'clinging'); niḥ-s- > niss-.",
+      "notes": "Caps the via-negativa portrait: no pride, no delusion, no passion — hence no saṅga."
+    },
+    {
+      "token": "મહાવીરં",
+      "translit": "mahāvīraṁ",
+      "gloss": "Mahāvīra (the Great Hero)",
+      "partOfSpeech": "noun",
+      "etymology": "Accusative sg. of Mahāvīra < Sanskrit mahā 'great' + vīra 'hero'; the named object of the whole sentence.",
+      "notes": "The hymn's subject is finally named here, after the cluster of conquest-epithets that motivate 'Vīra'."
+    }
+  ],
+  "literalTranslation": "With a pair of gāthās I shall praise the Jina — devoid of pride and delusion, the conqueror of the passions; thus [I praise] that meditation-steeped, unattached Mahāvīra.",
+  "idiomaticTranslation": "With this pair of verses let me sing the praise of the Jina — free of all pride and delusion, the conqueror of every passion: that serene, meditation-deep, wholly unattached Lord Mahāvīra.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the poet's pratijñā-gāthā — the hinge of the hymn. Where v.2 closed on a cosmic note (Vardhamāna as 'the sun of the three worlds'), v.3 turns personal and self-referential: the poet states his own undertaking. The instrumental gāhā-jualeṇa ('with a pair of gāthās') is a deliberate metrical pledge — he commits to a precise, modest measure of praise, and the future verb thosāmi ('I shall praise') makes the whole verse an announced vow rather than the praise itself. The praise proper then unfolds in the portrait-verses that follow. Notice the rhetorical shape: Mahāvīra is defined here entirely by negation — devoid of pride (maya), of delusion (moha), of the passions (jia-kasāya), and of all attachment (nissaṅga). This is the via negativa, the stripping-away that prepares the reader for the via positiva — the lush lotus / elephant / moon imagery that the subsequent verses pour onto this purified frame. The single positive epithet, saṁjhāgaṁ (read as 'steeped in meditation'), sits aptly among the negations: what remains when pride, delusion and passion are gone is dhyāna and detachment. The chain also quietly authenticates the Jina's two great names: he is 'jiṇa' (Conqueror) precisely because he is 'jia-kasāya' (passion-conqueror), and 'Vīra' because that conquest is heroic. The verse thus both names its hero for the first time and justifies the name in the same breath.",
+    "doctrinalContext": "The four epithets trace a doctrinal descent through the deluding (mohanīya) karma. Mada (pride) is a species of māna; moha is the root mohanīya-karma, the deluding force that sustains saṁsāra; the kaṣāyas (anger, pride, deceit, greed) are its active agents; and nissaṅga — freedom from saṅga / parigraha, inner and outer — is the state attained once they are destroyed. To be jia-kasāya and nissaṅga is to be vītarāga, the passionless one whose mohanīya is annihilated — the very precondition, in Jain karma-theory, for kevala-jñāna. The verse therefore compresses the whole soteriological logic of conquest into four words: defilements gone, meditation and detachment remain.",
+    "practicalRelevance": "Reciting thosāmi, the practitioner adopts the poet's vow as his own — praise becomes a personal undertaking, not a passive reading. And because the verse holds up a Jina defined by the absence of pride, delusion, passion and attachment, it doubles as a mirror for pratikramaṇa: the reciter measures his own day's faults against exactly these four, and 'turns back' from them.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — the paradigm of Jina-praise in the same liturgy",
+        "source": "Āvaśyaka-sūtra (Pañca Pratikramaṇa, Anchalgachchha ed.)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 8.9–8.10 — the deluding (mohanīya) karma and the four kaṣāyas",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra ch. 19 & 29 — detachment (nissaṅgatā) and the conquest of the passions",
+        "source": "Uttarādhyayana-sūtra (Śvetāmbara Āgama)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Prakrit text of the third gāthā and its placement as the 3rd of the Nine Smaraṇas within the Pākṣika pratikramaṇa."
+    },
+    {
+      "title": "JainQQ digital library — Nava-Smaraṇa / Prakrit stotra collections",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Standard reading and identity of the Vīrastava among the nava-smaraṇa, and the maya–moha–kaṣāya epithet cluster."
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Roots and glosses for stu/stoṣyāmi, mada, moha, kaṣāya, vivarjita, niḥsaṅga, dhyāna."
+    },
+    {
+      "title": "R. Pischel, A Grammar of the Prākrit Languages",
+      "url": "https://archive.org/details/grammarofprakrit00pisc",
+      "type": "scholarship",
+      "consultedFor": "Verification of the future form thosāmi (< stoṣyāmi) and the regular sound-changes (st > th, dhy > jjh, intervocalic d > y)."
+    }
+  ],
+  "translatorConfidence": 0.78,
+  "notes": "The reading of સંજઝાગં (saṁjhāgaṁ) is the verse's one genuine ambiguity and is flagged rather than over-resolved. Two construals are defensible: (a) sa-/saṁ- + jhāa (dhyāna) = 'steeped in meditation', taken here as primary because it parallels the adjacent detachment-epithets (jia-kasāya, nissaṅga); (b) a tri-sandhyā reading (ti-saṁjhā-gaṁ, 'worshipped at the three daily twilight-junctions'), which would re-segment the preceding તિ (ti) into this word rather than reading it as iti. The printed -gaṁ (ગ) vs. an expected -ṇaṁ (ણ) for sa-jjhāṇa is part of this uncertainty; per the book's orthography policy the printed reading is preserved verbatim. thosāmi is future ('I shall praise'), so the verse is a pledge; gāhā-jualeṇa ('a pair of gāthās') is taken as the poet's chosen measure of praise. Per-token transliterations follow IAST and are approximate to the book's Gujarati-script Prakrit."
+}

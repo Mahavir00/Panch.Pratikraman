@@ -1,0 +1,204 @@
+{
+  "shlokaId": "ashtottari-tirthmala/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bow day and night to the Lord of the three worlds, whose two lotus-feet are revered by beings of every kind — hell-dwellers, animals, humans and gods — and who grants every wish like a heavenly wish-tree.",
+  "recitation": "naraya bhava tiriya nara sura, vara samudaya namiya calaṇa kamala dugaṁ. tihuaṇa jaṇa surataru sama, mahaṇisam avi namaha tijaga pahuṁ.",
+  "wordByWord": [
+    {
+      "token": "નરય",
+      "translit": "naraya",
+      "gloss": "the hell-realm; hell-beings (the first of the four destinies)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit naraya < Sanskrit naraka, 'hell'; here the infernal gati.",
+      "notes": "First member of the four-gati list that opens the compound."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "existence; state of rebirth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit bhava < √bhū, 'to become'; the condition of mundane existence.",
+      "notes": "Read with the list — the (beings of the) hellish and other states of existence; some read naraya-bhava together as 'hell-existence'."
+    },
+    {
+      "token": "તિરિય",
+      "translit": "tiriya",
+      "gloss": "the animal realm; sub-human beings (animals, plants)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiriya < Sanskrit tiryañc, 'going crosswise', the animal/sub-human gati.",
+      "notes": "Second of the four destinies."
+    },
+    {
+      "token": "નર",
+      "translit": "nara",
+      "gloss": "humans; the human realm",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit nara, 'man, human'; the manuṣya-gati.",
+      "notes": "Third of the four destinies."
+    },
+    {
+      "token": "સુર",
+      "translit": "sura",
+      "gloss": "gods, celestial beings; the divine realm",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit sura, 'deity'; the deva-gati.",
+      "notes": "Fourth of the four destinies, completing naraya–tiriya–nara–sura."
+    },
+    {
+      "token": "વર",
+      "translit": "vara",
+      "gloss": "excellent, foremost (qualifying the assembly)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit vara, 'best, choice', from √vṛ, 'to choose'.",
+      "notes": "Adjective modifying samudaya."
+    },
+    {
+      "token": "સમુદય",
+      "translit": "samudaya",
+      "gloss": "host, assembled multitude, gathering",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit samudaya, sam-ud-√i, 'a coming together, aggregate'.",
+      "notes": "The 'excellent host' of beings of all four destinies who bow."
+    },
+    {
+      "token": "નમિય",
+      "translit": "namiya",
+      "gloss": "bowed-to, saluted, reverenced",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namiya < Sanskrit namita, past passive participle of √nam, 'to bow'.",
+      "notes": "Passive: the feet 'are bowed to' by the host."
+    },
+    {
+      "token": "ચલણ",
+      "translit": "calaṇa",
+      "gloss": "feet",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit calaṇa < Sanskrit caraṇa, 'foot' (lit. 'that which moves').",
+      "notes": "ṇa for ṇ reflects Prakrit phonology."
+    },
+    {
+      "token": "કમલ",
+      "translit": "kamala",
+      "gloss": "lotus (the feet are lotus-like)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit kamala, 'lotus'.",
+      "notes": "calaṇa-kamala = 'lotus-feet', a standard reverential image."
+    },
+    {
+      "token": "દુગં",
+      "translit": "dugaṁ",
+      "gloss": "the pair; the two (of them)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit duga(ṁ) < Sanskrit dvika / dvaya, 'pair', from dvi, 'two'.",
+      "notes": "calaṇa-kamala-dugaṁ = 'the pair of lotus-feet', object of namiya."
+    },
+    {
+      "token": "તિહુઅણ",
+      "translit": "tihuaṇa",
+      "gloss": "the three worlds; their beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tihuaṇa < Sanskrit tribhuvana, 'three worlds' (upper, middle, lower).",
+      "notes": "Compounds with jaṇa: 'the people of the three worlds'."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk, beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇa < Sanskrit jana, 'people'.",
+      "notes": "tihuaṇa-jaṇa = the inhabitants of all three worlds."
+    },
+    {
+      "token": "સુરતરુ",
+      "translit": "surataru",
+      "gloss": "the wish-fulfilling tree (kalpavṛkṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sura-taru, 'tree of the gods', i.e. the kalpavṛkṣa.",
+      "notes": "Object of comparison; the Lord is 'like' it."
+    },
+    {
+      "token": "સમ",
+      "translit": "sama",
+      "gloss": "like, equal to, resembling",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit/Prakrit sama, 'same, like'.",
+      "notes": "surataru-sama = 'like a wish-tree', describing the Lord for the three worlds' beings."
+    },
+    {
+      "token": "મહનિસમવિ",
+      "translit": "mahaṇisam avi",
+      "gloss": "day and night, continually (even by night too)",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit, resolving to (mahā-/aha-)niśam api: 'even through the (great) night' → 'day and night, constantly'; avi = api, 'even, also'.",
+      "notes": "Reading uncertain; most plausibly an emphatic ahaniśam api ('day and night too'). The -avi (api) particle is glossed within this token; see notes."
+    },
+    {
+      "token": "નમહ",
+      "translit": "namaha",
+      "gloss": "bow! revere! (you all)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit namaha, 2nd-person plural imperative of √nam, 'to bow'.",
+      "notes": "Imperative addressed to the reciters — the verse's hinge from description to exhortation."
+    },
+    {
+      "token": "તિજગ",
+      "translit": "tijaga",
+      "gloss": "the three worlds (three-fold universe)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tijaga < Sanskrit trijagat, 'three worlds'.",
+      "notes": "Compounds with pahuṁ: 'lord of the three worlds'."
+    },
+    {
+      "token": "પહું",
+      "translit": "pahuṁ",
+      "gloss": "the Lord (object: 'to the Lord')",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pahu(ṁ) < Sanskrit prabhu, 'lord, master'.",
+      "notes": "tijaga-pahuṁ = 'Lord of the three worlds', accusative object of namaha."
+    }
+  ],
+  "literalTranslation": "The pair of lotus-feet that are bowed to by the excellent host of [beings of] the hell, animal, human and god existences — bow, day and night, to that Lord of the three worlds, who is like a wish-tree to the people of the three worlds.",
+  "idiomaticTranslation": "His two lotus-feet are saluted by the whole glorious throng of beings drawn from every destiny — hell-dwellers, animals, humans and gods alike. To the people of all three worlds He is a very wish-granting tree. Bow, then, day and night, to this Lord of the three worlds!",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding verse marvelled that this Lord — long unattained — has at last been found, granting all that the wish-gem and wish-tree could give, this verse turns from the worshipper's gratitude to the cosmos's homage and then back upon the reciter as a command. First it widens the circle of devotion to its absolute limit: not one class of being, but the 'excellent host' (vara-samudaya) of all four destinies — naraya, tiriya, nara, sura — bends before His lotus-feet. The feet themselves are named twice as the locus of reverence (calaṇa-kamala-dugaṁ), the most intimate point of contact in Indic devotion. The simile surataru-sama then answers the previous verse's imagery: to every inhabitant of the three worlds He is a living wish-tree. Finally the descriptive mood breaks into the imperative namaha — 'Bow!' — sweeping the listener into the same act the gods and humans already perform, and mahaṇisam avi ('day and night, unceasingly') stretches that act across all time. The grammar mirrors the doctrine: the universe already bows (namiya, passive past); now you too must bow (namaha, active imperative). It is a compact hinge between the opening praises and the formal portrait of the faultless Jina that follows.",
+    "doctrinalContext": "The four-fold listing naraya–tiriya–nara–sura is the caturgati saṁsāra — the four destinies through which the unliberated soul transmigrates — and their joint homage evokes the samavasaraṇa, where beings of every realm assemble to revere the Jina. The point is universality: the Tīrthaṅkara's worth is recognised even across the suffering and the celestial states, transcending the karmic divisions of rebirth. The surataru comparison is devotional hyperbole with a doctrinal edge: the heavenly wish-tree yields only perishable, worldly boons, whereas the Jina, by teaching the path, grants the one wish no kalpavṛkṣa can — liberation; the simile thus points beyond itself. The imperative 'bow day and night' encodes the principle that vandana (veneration) is not occasional but a continuous disposition of the layperson's life.",
+    "practicalRelevance": "For the reciter, this verse converts admiration into instruction: it literally tells you to bow, and to do so 'day and night' — i.e. to keep the Jina present through every part of the day, not only in the prayer hall. Recalling that hell-beings, animals, humans and gods all revere the same feet cultivates humility and dissolves pride of status; you join a worship already universal.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — collective homage to the Jinas; the same vandana impulse",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.8 (preceding) — cintāmaṇi/surataru imagery of the rare attainment of the Lord",
+        "source": "Ācārya Mahendrasiṁhasūri, Aṣṭottarī Tīrthamālā"
+      },
+      {
+        "text": "Samavasaraṇa accounts — the assembly of beings of all destinies before the Tīrthaṅkara",
+        "source": "Standard Śvetāmbara cosmographic tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pāia-sadda-mahaṇṇavo (Prakrit–Hindi dictionary), H. D. T. Sheth",
+      "url": "https://archive.org/details/dli.csl.7752",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for naraya, tiriya, calaṇa, dugaṁ, tihuaṇa, jaṇa, pahuṁ and the imperative namaha"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit etymologies of naraka, tiryañc, samudaya, caraṇa, kamala, sura-taru (kalpavṛkṣa), tribhuvana, prabhu"
+    },
+    {
+      "title": "Tīrthamālā (digitized text), Jain Quantum (JainQQ)",
+      "url": "https://jainqq.org/explore/006081/1",
+      "type": "translation",
+      "consultedFor": "Cross-checking the tīrthamālā genre and the four-gati / surataru devotional formulae"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse-specific caveats: (1) મહનિસમવિ (mahaṇisam avi) is the least certain token — it resolves best as an emphatic ahaniśam/mahā-niśam api, 'day and night, even continually'; other editions may point or split it differently. (2) ભવ (bhava) can be read with નરય as a single 'hell-existence', or as a general 'states of existence' governing the whole four-gati list; the four destinies (naraya–tiriya–nara–sura) are unambiguous either way. (3) The exact wording follows the Anchalgachchha/Vidhipaksha book verbatim, including Prakrit/Apabhraṁśa orthography (ચલણ for caraṇa, ṇ-forms); not normalised. surataru and cintāmaṇi imagery is treated as established preface material and not re-glossed at length."
+}

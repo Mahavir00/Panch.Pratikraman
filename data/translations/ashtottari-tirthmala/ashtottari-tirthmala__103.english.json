@@ -1,0 +1,142 @@
+{
+  "shlokaId": "ashtottari-tirthmala/103",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In this verse the worshipper bows to the ancient Jina-shrines spread across many lands and cities — Gujarat, Malwa, Konkan, the Maratha and Saurashtra countries, Kutch and Panchala, the Marwar–Sambhar desert, Mathura, Hastinapura and Sauripura.",
+  "recitation": "gujjara mālava kuṅkaṇa, marapha sorapha kaccha pañcāle. marusaṁbharī mahurāuri, hatthiṇāpura soriyapurāi.",
+  "wordByWord": [
+    {
+      "token": "ગુજ્જર",
+      "translit": "gujjara",
+      "gloss": "the Gurjara country (Gujarat)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gujjara < Skt. gūrjara, the region/people of Gujarat-Rajputana.",
+      "notes": "First of a string of region-names; the ancient Jina-caityas in each are the implied objects of homage."
+    },
+    {
+      "token": "માલવ",
+      "translit": "mālava",
+      "gloss": "the Mālava country (Malwa)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mālava, the central-Indian plateau region whose great seat is Avanti/Ujjayinī.",
+      "notes": "Avanti is named separately in the following verse, so here Mālava denotes the wider region."
+    },
+    {
+      "token": "કુંકણ",
+      "translit": "kuṅkaṇa",
+      "gloss": "the Koṅkaṇa country (the western coastal strip)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. koṅkaṇa, the coastal belt south of Gujarat.",
+      "notes": ""
+    },
+    {
+      "token": "મરફ",
+      "translit": "marapha",
+      "gloss": "the Maraṭha country (Mahārāṣṭra)",
+      "partOfSpeech": "noun",
+      "etymology": "Apabhraṁśa for Marahaṭṭha/Maraṭṭha < Skt. mahārāṣṭra.",
+      "notes": "Read with its pair sorapha; the book's -pha spells the Prakrit -ṭṭha/-ṭha ending. Identification is probable, not certain — see notes."
+    },
+    {
+      "token": "સોરફ",
+      "translit": "sorapha",
+      "gloss": "the Soraṭha country (Saurāṣṭra / Sorath, Kāṭhiāvāḍ)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit soraṭṭha < Skt. saurāṣṭra; the peninsula that holds Girnar and Śatruñjaya.",
+      "notes": "Same -pha for -ṭṭha as in marapha; pairing marapha–sorapha = Mahārāṣṭra–Saurāṣṭra fits the surrounding western/peninsular sweep."
+    },
+    {
+      "token": "કચ્છ",
+      "translit": "kaccha",
+      "gloss": "the Kaccha country (Kutch)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kaccha, 'marshland'; the Kutch region of western Gujarat, home of the ancient Bhadreśvara shrine.",
+      "notes": ""
+    },
+    {
+      "token": "પંચાલે",
+      "translit": "pañcāle",
+      "gloss": "in the Pāñcāla country (north-central India)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāñcāla, the doab region whose old capital was Kāmpilya; locative -e marks the whole list as 'in (these lands)'.",
+      "notes": "The locative singular ending closes the first line's region-list and governs all the names with it."
+    },
+    {
+      "token": "મરુસંભરી",
+      "translit": "marusaṁbharī",
+      "gloss": "the Maru and Sāṁbharī (Sambhar) countries — the Marwar desert and the Śākambharī/Sambhar tract of Rajasthan",
+      "partOfSpeech": "compound",
+      "etymology": "dvandva of maru (Skt. 'desert', = Mārwāṛ) + saṁbharī (the Sambhar-lake / Śākambharī region).",
+      "notes": "A single compound naming two adjoining Rajasthan tracts."
+    },
+    {
+      "token": "મહુરાઉરિ",
+      "translit": "mahurāuri",
+      "gloss": "Mathurā-purī (the city of Mathurā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mahurā < Skt. mathurā + uri < purī, 'city'.",
+      "notes": "Famed in this hymn (v.76) for the ancient Supārśva stūpa; here counted among the great Jina-cities."
+    },
+    {
+      "token": "હત્થિણાપુર",
+      "translit": "hatthiṇāpura",
+      "gloss": "Hastināpura",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit hatthiṇāpura < Skt. hastināpura, 'city of the elephant(-king)'.",
+      "notes": "The kalyāṇaka-city of the 16th–18th Tīrthaṅkaras Śānti, Kunthu and Ara."
+    },
+    {
+      "token": "સોરિયપુરાઇ",
+      "translit": "soriyapurāi",
+      "gloss": "Sauryapura (Sauripura) and the rest",
+      "partOfSpeech": "compound",
+      "etymology": "soriyapura < Skt. śauryapura/sauryapura + āi < ādi, 'beginning-with, etcetera'.",
+      "notes": "soriyapura is the birth-city of the 22nd Jina Nemi; the suffix -āi ('and others') leaves the roll-call open, leading into the next verse's further lands."
+    }
+  ],
+  "literalTranslation": "Gujarat, Malwa, Konkan, the Maratha (country), Sorath, Kutch, and in Panchala; (the) Maru–Sambhar (deserts), Mathura-city, Hastinapura, Sauripura and the rest —",
+  "idiomaticTranslation": "Across Gurjara and Mālava and Koṅkaṇa, through the Maratha land and Sorath, Kutch and Pāñcāla; over the deserts of Maru and Sāmbhar, in Mathurā-city, in Hastināpura, in Sauripura and all such places — (there too we praise the Jina and his ancient shrines).",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse is one continuous breath of geography. It carries no finite verb of its own: it hangs on the thuṇimo ('we praise') that closes the verse before and the verse after, so the long roll of names is grammatically a single object of homage — the bowing gesture is simply held open while the reciter's mind travels the map. Notice the deliberate ordering. The first line sweeps the west and the peninsula — Gurjara, Mālava, Koṅkaṇa, the Maratha and Sorath countries, Kutch — and shuts the line with the locative pañcāle, which quietly governs every name as 'in these lands'. The second line narrows from broad deśas to named cities, and the cities are not random: Mathurā (the old Supārśva-stūpa town saluted earlier in v.76), Hastināpura, and Sauripura are precisely the kalyāṇaka-grounds of Tīrthaṅkaras — Śānti, Kunthu and Ara born at Hastināpura, Nemi at Sauripura. So the verse performs a small architectural turn: from 'regions where shrines stand' to 'cities where Jinas were born', which is exactly the theme the hymn will universalise a few verses on. The closing -āi ('and the rest') is doing real work — it refuses to let the list be a closed inventory, throwing the catalogue forward into the next verse's further lands (Tribhuvanagiri, Gopagiri, Kāśī, Avanti, Mevāḍa). The reciter is thus made to feel that no holy ground is being left out.",
+    "doctrinalContext": "The verse rests on the Jain conviction that a land is sanctified not by its soil but by the Jina-event it witnessed: birth, renunciation, omniscience or liberation. By naming Hastināpura and Sauripura — kalyāṇaka-cities — alongside ordinary regions, the verse silently grades its homage, pointing toward the hymn's later, explicit salute to 'the very lands where the Jinas' five auspicious events occurred'. The pairing of bare regions (Gujarat, Malwa) with event-cities teaches that pilgrimage-merit flows from association with the Tīrthaṅkara, the genuine tīrtha ('crossing'), not from the place as such.",
+    "practicalRelevance": "A reciter who will never physically reach Sorath, Mathurā or Hastināpura still bows to them here in a single breath; the verse trains the devotee to let geography become an interior practice of reverence, widening the heart's homage to every Jina-shrine at once rather than only the temple one happens to live near.",
+    "crossReferences": [
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.76 (Mathurā Supārśva stūpa) and v.110 (homage to the lands of the Jinas' five kalyāṇakas)",
+        "source": "Mahendrasiṁhasūri; Anchalgachchha/Vidhipaksha ed., Pañca Pratikramaṇa Sūtra – Vidhi Sahit"
+      },
+      {
+        "text": "Vividha-tīrtha-kalpa, kalpas on Hastināpura, Mathurā and Sauripura",
+        "source": "Jinaprabhasūri (Singhi Jaina Series ed., Muni Jinavijaya)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Vividha Tīrtha Kalpa (digitized edition)",
+      "url": "https://jainqq.org/explore/009519/1",
+      "type": "scholarship",
+      "consultedFor": "Medieval Jain sacred geography of Hastinapura, Mathura, Sauripura and the Marwar/Sambhar regions; verifying the tirtha identifications"
+    },
+    {
+      "title": "Vividha Tirtha Kalpa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vividha_Tirtha_Kalpa",
+      "type": "scholarship",
+      "consultedFor": "Date, authorship (Jinaprabhasūri, 14th c.) and regional coverage of the tirtha-list genre this verse belongs to"
+    },
+    {
+      "title": "Kankali Tila: Mathura's Jain Connection — Live History India",
+      "url": "https://www.livehistoryindia.com/story/eras/kankali-tila-mathuras-jain-connection",
+      "type": "scholarship",
+      "consultedFor": "Confirming Mathura's ancient Jain stupa and shrine tradition behind the verse's 'Mahurāuri'"
+    },
+    {
+      "title": "Vividh Tirth Kalpa — Book Summary, JainGPT",
+      "url": "https://jaingpt.org/knowledge/vividh_tirth_kalpa_009519_009519",
+      "type": "scholarship",
+      "consultedFor": "Region-by-region organisation of tirthas (Gujarat, Malwa, Konkan, Marwar, Sambhar) corroborating the verse's roll-call"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The verse has no finite verb; it depends on the thuṇimo ('we praise / we extol') of the surrounding verses (vv.102, 104), so the whole list is an object of homage. The two paired forms મરફ (marapha) and સોરફ (sorapha) are read here as Maraṭha (Mahārāṣṭra) and Soraṭha (Saurāṣṭra/Sorath), the book's -pha standing for the Prakrit -ṭṭha/-ṭha ending; soraṭha = Sorath is secure, while marapha = Mahārāṣṭra is probable but not certain and other editions may read these toponyms differently. મરુસંભરી is taken as a dvandva (Maru + Sāmbharī/Sambhar); સોરિયપુરાઇ is soriyapura (Sauryapura/Sauripura, Nemi's birth-city) + ādi ('and the rest'). Spellings are preserved verbatim from the Anchalgachchha/Vidhipaksha edition and not normalised."
+}

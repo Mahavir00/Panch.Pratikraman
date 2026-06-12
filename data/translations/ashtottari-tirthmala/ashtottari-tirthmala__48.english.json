@@ -1,0 +1,166 @@
+{
+  "shlokaId": "ashtottari-tirthmala/48",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "On Mount Girnar, Lord Nemi is like the boat and the helmsman who quickly carries suffering people across to heaven and to final liberation.",
+  "recitation": "revaya girimmi bhava-jalahi, poya-bhūyaṁmi nemi nijjāmo | duhiyaṁ dutthiya vaggaṁ, sagga-pavaggaṁ lahuṁ neï ||",
+  "wordByWord": [
+    {
+      "token": "રેવય",
+      "translit": "revaya",
+      "gloss": "Raivata — i.e. Raivatagiri / Ujjayanta = Mount Girnar",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit revaya < Skt. raivata, the proper name of the Girnar massif",
+      "notes": "The standard sense is locative-bound with the next word ('on Mount Raivata')."
+    },
+    {
+      "token": "ગિરિમ્મિ",
+      "translit": "girimmi",
+      "gloss": "on the mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. giri ('mountain') + Prakrit locative ending -mmi (= Skt. loc. -e/-smin)",
+      "notes": "revaya-girimmi together = 'on Mount Raivata (Girnar)'."
+    },
+    {
+      "token": "ભવ",
+      "translit": "bhava",
+      "gloss": "of worldly existence / rebirth (saṁsāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. bhava ('becoming, existence'); first member of the compound bhava-jalahi",
+      "notes": "bhava-jalahi = the preface's bhava-jaladhi; not re-glossed here."
+    },
+    {
+      "token": "જલહિ",
+      "translit": "jalahi",
+      "gloss": "ocean",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jaladhi ('water-holder') < jala ('water') + dhi ('container'); Prakrit jalahi",
+      "notes": "With bhava forms 'the ocean of rebirth'."
+    },
+    {
+      "token": "પોયભૂયંમિ",
+      "translit": "poya-bhūyaṁmi",
+      "gloss": "in/as that which has become a ship (the boat)",
+      "partOfSpeech": "compound",
+      "etymology": "poya < Skt. pota ('boat, ship') + bhūya < Skt. bhūta ('become') + locative -mmi",
+      "notes": "Reads as 'on the ocean of existence, having become the boat'; the locative loosely frames Nemi as the vessel itself."
+    },
+    {
+      "token": "નેમિ",
+      "translit": "nemi",
+      "gloss": "Nemi — Lord Neminātha (Ariṣṭanemi), the 22nd Tīrthaṅkara",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Skt. nemi; here the abbreviated devotional name of Ariṣṭanemi",
+      "notes": "Subject of the sentence; the Jina who liberated on Girnar."
+    },
+    {
+      "token": "નિજજામો",
+      "translit": "nijjāmo",
+      "gloss": "the helmsman / captain (of the boat)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit nijjāmaga/ṇijjāmaya < Skt. niryāmaka ('one who steers a vessel')",
+      "notes": "Nemi is at once the boat (poya) and its helmsman (nijjāmaga)."
+    },
+    {
+      "token": "દુહિયં",
+      "translit": "duhiyaṁ",
+      "gloss": "the afflicted / the suffering",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit duhiya < Skt. duḥkhita ('made to suffer') < duḥkha",
+      "notes": "Qualifies vaggaṁ ('multitude')."
+    },
+    {
+      "token": "દુત્થિય",
+      "translit": "dutthiya",
+      "gloss": "distressed / in dire straits (ill-situated)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit dutthiya, most plausibly < Skt. duḥsthita / durasthita ('badly placed, in a sorry plight')",
+      "notes": "A variant reading derives it from duṣṭa ('wicked'); the suffering-throng sense (durasthita) fits the rescue image better — flagged as uncertain."
+    },
+    {
+      "token": "વગ્ગં",
+      "translit": "vaggaṁ",
+      "gloss": "the multitude / the throng (class of beings)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vagga < Skt. varga ('group, class, collection')",
+      "notes": "Object of neï; the company of suffering souls."
+    },
+    {
+      "token": "સગ્ગ",
+      "translit": "sagga",
+      "gloss": "heaven (the celestial realms)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sagga < Skt. svarga ('heaven')",
+      "notes": "First member of sagga-pavaggaṁ; a fortunate but still impermanent rebirth."
+    },
+    {
+      "token": "પવગ્ગં",
+      "translit": "pavaggaṁ",
+      "gloss": "liberation (mokṣa)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pavagga < Skt. apavarga ('final release, emancipation')",
+      "notes": "Goal-accusative with sagga: 'to heaven and to liberation'."
+    },
+    {
+      "token": "લહું",
+      "translit": "lahuṁ",
+      "gloss": "swiftly / quickly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit lahuṁ < Skt. laghu ('light, quick')",
+      "notes": "Modifies neï."
+    },
+    {
+      "token": "નેઇ",
+      "translit": "neï",
+      "gloss": "leads / carries (across)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit neï < Skt. nayati ('leads, conveys'), √nī, 3rd-person singular present",
+      "notes": "The single finite verb; its boat-and-helmsman subject 'ferries' the throng."
+    }
+  ],
+  "literalTranslation": "On Mount Raivata, on the ocean of worldly existence, Nemi — having become the boat, the helmsman — swiftly leads the suffering, distressed multitude to heaven and to liberation.",
+  "idiomaticTranslation": "There on Girnar stands Lord Nemi: upon the ocean of rebirth he is himself the ship and its steersman, and swiftly he ferries the afflicted, storm-tossed throng across — to the heavens and to final liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "This verse seals the Girnar (Raivatagiri / Ujjayanta) triad: where v.47 fixed the place as the peak on which Nemi 'arrived' (attained), v.48 turns the place into a soteriological act. Mahendrasiṁhasūri builds the whole gāthā on a single, tightly fused image: Nemi is simultaneously the boat (poya-bhūya, 'become a ship') and the niryāmaka, the helmsman who steers it. The doubling is deliberate — the Jina is not merely a means provided to someone else; he is both vessel and pilot, so the crossing depends on nothing the drowning soul must supply. The cargo is named with two pity-words, duhiya ('afflicted') and dutthiya ('in dire straits'), gathered as a vagga, a whole 'throng' rather than a chosen few — the rescue is offered to the mass of suffering beings. The destination is given as a pair, sagga and pavagga (svarga and apavarga): the verse honestly distinguishes the merely fortunate rebirth in heaven from the final goal of liberation, yet places both within Nemi's gift. The adverb lahuṁ ('swiftly') is the verse's emotional charge — devotion to this tīrtha is presented as a fast crossing, not a slow grind. The one finite verb, neï ('leads/ferries'), carries the entire sentence, so the grammar itself enacts a single decisive conveyance. The verse thus converts a geographic fact (Nemi liberated here) into a standing invitation (Nemi liberates here), which is precisely the logic that makes Girnar a tīrtha — a crossing-place — and not just a memorial.",
+    "doctrinalContext": "The verse rests on the classical Jain picture of saṁsāra as an ocean (bhava-jaladhi) and the Jina as the means of crossing it. Note the careful two-tier goal: sagga (svarga) is a meritorious but impermanent heavenly birth still within saṁsāra, while pavagga (apavarga) is mokṣa — the end of all karmic bondage and rebirth. By naming both, the verse maps the graded fruits of devotion without collapsing punya (merit, which yields heaven) into nirjarā/mokṣa (liberation). The 'helmsman' epithet is figurative: in strict Jain doctrine the Jina is a perfected guide and exemplar, not a soul-saving agent who acts on another's karma — each jīva crosses by its own effort, with the Tīrthaṅkara as the proven ford. The verse's force is upalakṣaṇa (illustrative): Nemi's historical liberation at Girnar stands for the path itself.",
+    "practicalRelevance": "For the reciter at the Pakkhī pratikramaṇa, this verse is a moment of refuge: bowing to Girnar, one entrusts one's own 'afflicted and distressed' condition to the proven crossing of Nemi, and renews the aspiration that devotion now (lahuṁ, 'swiftly') bends life toward liberation rather than mere worldly betterment. It reframes hardship as cargo already accepted aboard the Jina's boat.",
+    "crossReferences": [
+      {
+        "text": "Uttarādhyayana-sūtra 23.71–73 — saṁsāra as the great ocean to be crossed and the Jina/dharma as the means",
+        "source": "Hermann Jacobi, Jaina Sūtras Part II (SBE vol. 45)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā vv.46–47 — the Ujjayanta/Raivatagiri (Girnar) verses on Nemi that this verse completes",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Nijjamaya, Ṇijjāmaya — Prakrit-English definition (= Skt. Niryāmaka, 'helmsman')",
+      "url": "https://www.wisdomlib.org/definition/nijjamaya",
+      "type": "dictionary",
+      "consultedFor": "Confirming nijjāmaga/ṇijjāmaya = niryāmaka, 'helmsman/steersman of a vessel'"
+    },
+    {
+      "title": "Apavarga — definition (final release / emancipation)",
+      "url": "https://www.wisdomlib.org/definition/apavarga",
+      "type": "dictionary",
+      "consultedFor": "Confirming pavagga < apavarga = liberation/mokṣa, distinct from svarga"
+    },
+    {
+      "title": "Ardhamagadhi Kosha, Part 1 (Romanized)",
+      "url": "https://jainqq.org/booktext/Ardhamagadhi_kosha_Part_1_Romanized/016013",
+      "type": "dictionary",
+      "consultedFor": "Cross-checking Ardhamāgadhī glosses for nijjāmaga, vagga (varga) and related forms"
+    },
+    {
+      "title": "An Illustrated Ardha-Magadhi Dictionary (Ratnachandraji)",
+      "url": "https://openlibrary.org/books/OL2164387M/An_illustrated_Ardha-Magadhi_dictionary",
+      "type": "dictionary",
+      "consultedFor": "Verifying Prakrit lexical equivalences (poya/pota, sagga/svarga, duhiya/duḥkhita)"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "Verse reproduced verbatim from the Anchalgachchha/Vidhipaksha edition, including its spelling (e.g. નિજજામો with single-then-double conjunct, the comma inside ભવ જલહિ,પોયભૂયંમિ). Main ambiguity: dutthiya — most likely durasthita/duḥsthita ('in a sorry plight, distressed'), parallel to duhiya, but a duṣṭa ('wicked') reading exists in some traditions; the rescue context favors the 'distressed' sense, marked uncertain. The locative -mmi on poya-bhūyaṁmi is loosely construed (Nemi as boat 'become' on the ocean); some readings take the whole bhava-jalahi-poya-bhūya as one locative compound describing the setting. 'Ujjayanta' in the preface = Girnar peak (not Ujjain). Per instructions, sutra-level framing (ritual placement, author, crossing-imagery, pakkhī-substitution) is assumed from the preface and not restated."
+}

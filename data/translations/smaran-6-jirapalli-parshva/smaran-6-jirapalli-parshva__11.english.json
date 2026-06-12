@@ -1,0 +1,128 @@
+{
+  "shlokaId": "smaran-6-jirapalli-parshva/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This closing line signs off the hymn: \"So Lord Pārśva of Jirikāpallī has now been praised — may this hymn of Śrī Merutuṅgasūri grant every blessing.\"",
+  "recitation": "iti śrī jirikāpallī-svāmī pārśvajinaḥ stutaḥ | śrī merutuṅgasūreḥ stāt, sarva-siddhi-pradāyakaḥ ||",
+  "wordByWord": [
+    {
+      "token": "ઇતિ",
+      "translit": "iti",
+      "gloss": "thus, in this manner (marking the end of the praise just completed)",
+      "partOfSpeech": "particle",
+      "etymology": "From the pronominal base i-; the quotative/closural particle iti, used to seal a statement or composition.",
+      "notes": "Here it functions as a colophon marker — \"thus [has the praise been done]\"."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "venerable, holy, glorious (honorific prefix)",
+      "partOfSpeech": "invocation",
+      "etymology": "Sanskrit śrī, \"radiance, glory, the goddess Lakṣmī\"; conventional honorific before sacred names.",
+      "notes": "First of two śrī-honorifics in this verse — one before the Lord, one before the author."
+    },
+    {
+      "token": "જિરિકાપલ્લી-સ્વામી",
+      "translit": "jirikāpallī-svāmī",
+      "gloss": "the Lord of Jirikāpallī (the Pārśva enshrined at Jīrāvalā)",
+      "partOfSpeech": "compound",
+      "etymology": "Tatpuruṣa: place-name Jirikāpallī (a spelling-variant of Jīrāpallī) + svāmin, \"master, lord\" (nom. sg. svāmī).",
+      "notes": "The book reads Jirikāpallī here in v.11 but Jirāpallī in v.12 — its own internal variation, not normalized."
+    },
+    {
+      "token": "પાર્શ્વજિનઃ",
+      "translit": "pārśvajinaḥ",
+      "gloss": "the Jina Pārśva (Pārśvanātha, the 23rd Tīrthaṅkara)",
+      "partOfSpeech": "compound",
+      "etymology": "Karmadhāraya: Pārśva (name of the Tīrthaṅkara) + jina, \"conqueror\" (of the passions); nom. sg. masc.",
+      "notes": "Stands in apposition to jirikāpallī-svāmī — both name the same enshrined Lord."
+    },
+    {
+      "token": "સ્તુતઃ",
+      "translit": "stutaḥ",
+      "gloss": "has been praised, hymned",
+      "partOfSpeech": "adj",
+      "etymology": "Past passive participle of √stu, \"to praise, extol\" (whence stava, stuti, stotra); nom. sg. masc. agreeing with pārśvajinaḥ.",
+      "notes": "The perfect-aspect participle marks the act of praise as now complete — the structural signal that the hymn is closing."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "venerable, illustrious (honorific before the author's name)",
+      "partOfSpeech": "invocation",
+      "etymology": "As above; the recurring honorific śrī.",
+      "notes": "Here it elevates the composer rather than the deity."
+    },
+    {
+      "token": "મેરુતુંગસૂરેઃ",
+      "translit": "merutuṅgasūreḥ",
+      "gloss": "of Merutuṅgasūri (the composing ācārya)",
+      "partOfSpeech": "noun",
+      "etymology": "Proper name Merutuṅga (\"lofty as Mount Meru\") + sūri (\"learned teacher, ācārya\"); genitive sg. merutuṅgasūreḥ, \"of/belonging to Merutuṅgasūri\".",
+      "notes": "Genitive marks authorship — \"this hymn of Merutuṅgasūri\"; the implicit subject of stāt/pradāyakaḥ is the unstated ayaṁ stavaḥ."
+    },
+    {
+      "token": "સ્તાત્",
+      "translit": "stāt",
+      "gloss": "may it be, let it become",
+      "partOfSpeech": "verb",
+      "etymology": "Optative (benedictive) 3rd sg. of √as, \"to be\"; the wish-mood verb governing the blessing.",
+      "notes": "Carries the votive force of the whole line — a benediction, not a statement of fact."
+    },
+    {
+      "token": "સર્વસિદ્ધિ",
+      "translit": "sarva-siddhi",
+      "gloss": "all attainments / every accomplishment",
+      "partOfSpeech": "compound",
+      "etymology": "sarva, \"all\" + siddhi, \"attainment, success, fulfilment\"; first member of the larger compound ending in pradāyakaḥ.",
+      "notes": "siddhi spans both worldly success and ultimate spiritual fulfilment (per the preface glossary)."
+    },
+    {
+      "token": "પ્રદાયકઃ",
+      "translit": "pradāyakaḥ",
+      "gloss": "the bestower, giver, granter",
+      "partOfSpeech": "noun",
+      "etymology": "pra- (intensive prefix) + √dā, \"to give\" + agent suffix -aka; \"one who fully bestows\"; nom. sg. masc.",
+      "notes": "With sarva-siddhi forms a tatpuruṣa: \"bestower of all attainments\" — the phala-śruti (fruit-of-recitation) predicate."
+    }
+  ],
+  "literalTranslation": "Thus has Śrī Pārśva-Jina, the Lord of Jirikāpallī, been praised; may [this hymn] of Śrī Merutuṅgasūri be the bestower of all attainment (siddhi).",
+  "idiomaticTranslation": "So has Lord Pārśva of Jirikāpallī been hymned in praise — may this stava of the venerable Merutuṅgasūri become the giver of every attainment.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the first verse of the closing colophon, and it pivots the hymn from meditation to self-aware completion. After v.10's image of the yogi dissolving into inner nāda, the poet steps back and pronounces the praise finished: iti … stutaḥ — \"thus he has been praised.\" The past-passive participle stutaḥ is the formal seal of a Sanskrit stotra; paired with the opening particle iti it does in two words what a prose colophon does at length — it declares the act of stuti accomplished. The two śrī-honorifics balance the verse: one crowns the Lord (śrī jirikāpallī-svāmī pārśvajinaḥ), one crowns the maker (śrī merutuṅgasūreḥ). Notice the second half is not a claim but a wish: stāt is benedictive, so the line reads \"may [it] be,\" not \"it is.\" The grammatical subject is left unspoken — the genitive merutuṅgasūreḥ implies ayaṁ stavaḥ, \"this hymn of Merutuṅgasūri,\" which the masculine pradāyakaḥ confirms. The hymn thus asks a blessing upon itself: that the very recitation become sarva-siddhi-pradāyakaḥ, \"the bestower of all attainment.\" One small textual point: the Lord's seat is spelled Jirikāpallī here but Jirāpallī in the next verse — the source book's own variation, kept as printed. The verse hands directly to v.12, which will name the guardian powers — the Pārśva-yakṣa, Dharaṇendra, Padmāvatī — who attend that same enshrined Lord.",
+    "doctrinalContext": "The line is a compact phala-śruti — the conventional statement of the fruit that accrues from a devotional recitation. In Jain stotra literature such a promise is not magical bargaining but an expression of the protective and purifying power attributed to remembrance (smaraṇa) of a Tīrthaṅkara. The pivotal word is siddhi: deliberately two-edged, it covers laukika attainment (the dispelling of fear, disease and obstacle that the hymn has invoked throughout) and lokottara attainment — the spiritual fulfilment that culminates in liberation. By making Pārśva the object of completed praise and the hymn itself the channel of siddhi, the verse keeps merit firmly anchored in the Jina rather than in the reciter's own power.",
+    "practicalRelevance": "For the reciter this verse is the moment to register that the praise is sealed and offered. Chanting sarva-siddhi-pradāyakaḥ, one holds the intention that the recitation just performed yield every right attainment — worldly safety now, spiritual progress ultimately — without grasping at it, since the benedictive stāt frames it as a humble wish, not a demand.",
+    "crossReferences": [
+      {
+        "text": "v.14 (same hymn), which again closes with the poet attaining 'all siddhi' — the colophon's repeated phala motif.",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Phala-śruti convention in Jain Pārśva-stotras, e.g. the closing benedictions of the Upasargahara and Bhaktāmara Stotras.",
+        "source": "Jain stotra tradition (comparative)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Monier-Williams Sanskrit-English Dictionary (Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php",
+      "type": "dictionary",
+      "consultedFor": "Glosses and roots for pradāyaka (√dā), stuta (√stu), the benedictive stāt (√as), and siddhi."
+    },
+    {
+      "title": "Parshvanatha",
+      "url": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "type": "scholarship",
+      "consultedFor": "Identity of Pārśva-jina as the 23rd Tīrthaṅkara named in the verse."
+    },
+    {
+      "title": "Jirawala (Jīrāvalā / Jīrāpallī Pārśvanātha tīrtha, Sirohi, Rajasthan)",
+      "url": "https://en.wikipedia.org/wiki/Jirawala",
+      "type": "scholarship",
+      "consultedFor": "Identification of Jirikāpallī/Jīrāpallī as the enshrined Pārśva pilgrimage site."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "Word-order and morphology are unambiguous. The subject of stāt and pradāyakaḥ is unstated; on the masculine endings it is best supplied as ayaṁ stavaḥ ('this hymn'). The spelling Jirikāpallī (v.11) diverges from Jirāpallī (v.12); per the source book this internal variation is preserved, not normalized. Authorship (Śrī Merutuṅgasūri) follows the book's colophon; the preface flags that some modern sources attribute the hymn differently — unresolved. sarva-siddhi is the first member of a compound completed by pradāyakaḥ. The daṇḍa (।) and final period before the verse number are part of the printed text."
+}

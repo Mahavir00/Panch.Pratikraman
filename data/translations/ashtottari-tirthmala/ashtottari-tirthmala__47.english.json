@@ -1,0 +1,186 @@
+{
+  "shlokaId": "ashtottari-tirthmala/47",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This peak of Mount Raivata (Girnar) — the very best place in all the worlds and honoured by everyone — is where Lord Nemi reached liberation.",
+  "recitation": "taṁ revai-giri-siharaṁ, tiloya-sāraṁ tiloya-jaṇa-mahiyaṁ |\nṭhāṇo tiloya-tilao, tiloya-pahu nemi jahiṁ patto ||",
+  "wordByWord": [
+    {
+      "token": "તં",
+      "translit": "taṁ",
+      "gloss": "that (one)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit demonstrative from Sanskrit tad; neuter accusative/nominative singular taṁ.",
+      "notes": "Points back to the Raivata-tīrtha just named in the preceding verse, carrying the previous gāthā's praise forward."
+    },
+    {
+      "token": "રેવઇ",
+      "translit": "revai",
+      "gloss": "of Raivata (Mount Raivataka)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit revaa/revai from Sanskrit raivata(ka); the ancient name of the Girnar massif near Junāgaḍh.",
+      "notes": "First member of the compound revai-giri-siharaṁ; Raivataka = Ujjayanta = Girnar."
+    },
+    {
+      "token": "ગિરિ",
+      "translit": "giri",
+      "gloss": "mountain",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit/Prakrit giri, 'mountain, hill'; unchanged in Prakrit.",
+      "notes": "Middle member of the compound 'Raivata-mountain-peak'."
+    },
+    {
+      "token": "સિહરં",
+      "translit": "siharaṁ",
+      "gloss": "peak, summit",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sihara from Sanskrit śikhara, 'crest, summit'; neuter accusative singular siharaṁ.",
+      "notes": "Head of the compound; the object praised throughout the verse."
+    },
+    {
+      "token": "તિલોયસારં",
+      "translit": "tiloya-sāraṁ",
+      "gloss": "the quintessence of the three worlds",
+      "partOfSpeech": "compound",
+      "etymology": "tiloya (Skt. triloka, 'three worlds') + sāra (Skt. sāra, 'essence, best part'); karmadhāraya, neuter accusative siharaṁ-agreeing.",
+      "notes": "First of four anaphoric tiloya- words; declares the peak the finest thing in the cosmos."
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tiloya from Sanskrit triloka (tri 'three' + loka 'world'): the upper, middle and lower realms.",
+      "notes": "First member of tiloya-jaṇa-mahiyaṁ; the second tiloya of the verse."
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "people, folk, beings",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit jaṇa from Sanskrit jana, 'people'; here the inhabitants of all three worlds.",
+      "notes": "Agent within the compound — the beings who do the worshipping."
+    },
+    {
+      "token": "મહિયં",
+      "translit": "mahiyaṁ",
+      "gloss": "worshipped, honoured",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit mahiya from Sanskrit mahita (√mah, 'to honour/magnify'), past passive participle; neuter accusative mahiyaṁ.",
+      "notes": "Completes 'honoured by the folk of the three worlds'; agrees with siharaṁ."
+    },
+    {
+      "token": "ઠાણો",
+      "translit": "ṭhāṇo",
+      "gloss": "abode, place (it stands as)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṭhāṇa from Sanskrit sthāna, 'place, station, abode' (√sthā, 'to stand'); masculine nominative ṭhāṇo.",
+      "notes": "Doubles in sense: the 'station/abode' that is, and that 'stands as', the tilaka of the worlds. Predicated of the peak."
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "As above, Prakrit tiloya = Sanskrit triloka.",
+      "notes": "Third tiloya; first member of tiloya-tilao."
+    },
+    {
+      "token": "તિલઓ",
+      "translit": "tilao",
+      "gloss": "tilaka — the crowning forehead-mark / foremost ornament",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit tilao from Sanskrit tilaka, the auspicious mark worn on the brow; figuratively 'the crest, the most distinguished one'.",
+      "notes": "Metaphor: the peak adorns the three worlds as a tilaka adorns the forehead — their highest, most auspicious point."
+    },
+    {
+      "token": "તિલોય",
+      "translit": "tiloya",
+      "gloss": "three worlds",
+      "partOfSpeech": "noun",
+      "etymology": "As above, Prakrit tiloya = Sanskrit triloka.",
+      "notes": "Fourth and final tiloya; first member of tiloya-pahu (epithet of Nemi)."
+    },
+    {
+      "token": "પહુ",
+      "translit": "pahu",
+      "gloss": "lord, master",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pahu from Sanskrit prabhu, 'lord, sovereign'.",
+      "notes": "Forms tiloya-pahu, 'Lord of the three worlds', an epithet of Nemi."
+    },
+    {
+      "token": "નેમિ",
+      "translit": "nemi",
+      "gloss": "Nemi (Ariṣṭanemi / Neminātha)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Sanskrit nemi, '(felly of a) wheel-rim'; the 22nd Tīrthaṅkara, also Ariṣṭanemi.",
+      "notes": "Subject of patto; the Jina whose liberation sanctifies the peak."
+    },
+    {
+      "token": "જહિં",
+      "translit": "jahiṁ",
+      "gloss": "where",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit relative adverb of place jahiṁ from Sanskrit yatra/yasmin, 'where, in which'.",
+      "notes": "Relative clause locating Nemi's attainment at this very peak; correlates with 'taṁ' opening the verse."
+    },
+    {
+      "token": "પત્તો",
+      "translit": "patto",
+      "gloss": "(he) attained, reached",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit patto from Sanskrit prāpta (√āp with pra-), past passive participle, 'attained'; masculine nominative agreeing with Nemi.",
+      "notes": "Object 'liberation' is understood — picking up the previous verse's nivvāṇa; here especially Nemi's nirvāṇa on Raivata."
+    }
+  ],
+  "literalTranslation": "That peak of Mount Raivata — essence of the three worlds, worshipped by the folk of the three worlds; the abode that stands as the tilaka of the three worlds, where the Lord of the three worlds, Nemi, attained [liberation].",
+  "idiomaticTranslation": "Behold that summit of Raivata-giri — the very essence of all three worlds, revered by every being in them; it shines as the crowning tilaka upon the brow of the universe, the place where Nemi, Lord of the three worlds, won his liberation.",
+  "elaboration": {
+    "verseByVerseCommentary": "The poet hammers a single word — tiloya (triloka) — four times, and the repetition is the whole craft of the verse: the Raivata peak is the essence of the three worlds (tiloya-sāra), is worshipped by the people of the three worlds (tiloya-jaṇa-mahiya), stands as the tilaka of the three worlds (tiloya-tilao), and is hallowed by the Lord of the three worlds (tiloya-pahu nemi). What in the preceding verse was praised as the 'three-fold tīrtha' (Nemi's renunciation, omniscience and liberation all at Ujjayanta) is here gathered into one luminous image. The governing metaphor is the tilaka: just as the auspicious mark sits at the highest, most honoured point of the forehead, this summit sits at the cosmos's brow — its most exalted and beautiful spot. The frame 'taṁ … jahiṁ patto' ('that [peak] … where he attained') turns geography into theology: a place is not holy in itself but becomes the 'essence of the worlds' precisely because a Jina reached perfection there. Note that 'ṭhāṇo' (sthāna) carries both senses at once — the peak is the abode of liberation and the thing that 'stands' as the world's ornament. The verb 'patto' is left without an explicit object; the reciter supplies 'nivvāṇa' from the previous gāthā, so the two verses lock together as one breath of praise before the following verse develops the helmsman-and-ocean imagery of Nemi as rescuer.",
+    "doctrinalContext": "The verse encodes the Jain principle that a kalyāṇaka-bhūmi — ground touched by a Tīrthaṅkara's auspicious life-events — becomes a tīrtha, a crossing-place worthy of veneration. Nemi (Ariṣṭanemi), the 22nd Jina, is traditionally held to have renounced, gained kevala-jñāna and attained nirvāṇa on this mountain, which is why a mere rock summit can be called the 'essence of the three worlds'. Worship here is not relic-cult but reverence for the site of a soul's final freedom; 'tiloya-pahu' affirms a liberated Jina's sovereignty over the entire triloka cosmology (upper, middle, lower worlds), even as the body is gone.",
+    "practicalRelevance": "Reciting this gāthā, the worshipper performs an instant mental pilgrimage to Girnar without leaving the prayer-hall: dwelling on the fourfold 'tiloya' refrain trains the mind to see Nemi's victory as cosmic, not local, and to honour every ground a Jina has sanctified.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Caturviṁśati-stava) — salutation to 'Arittha-nemi' among the 24 Jinas",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      },
+      {
+        "text": "Aṣṭottarī Tīrthamālā v.46 — 'Ujjayanta… tiguṇam iha tittham' (the three-fold tīrtha of Nemi's renunciation, omniscience and liberation)",
+        "source": "Mahendrasiṁhasūri, same edition"
+      },
+      {
+        "text": "Uttarādhyayana-sūtra ch. 22 (Rathanemi / the Nemi legend)",
+        "source": "Uttarādhyayana (Mūlasūtra)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Paia-sadda-mahaṇṇavo (H. D. T. Sheth), Prakrit–Hindi/English dictionary — entries tiloya, sihara, mahiya, ṭhāṇa, patta, tilaa",
+      "url": "https://www.jainqq.org/dictionary.php?book=Paia-sadda-mahannavo",
+      "type": "dictionary",
+      "consultedFor": "Prakrit-to-Sanskrit glosses for tiloya (triloka), sihara (śikhara), mahiya (mahita), ṭhāṇo (sthāna), patto (prāpta), tilao (tilaka)"
+    },
+    {
+      "title": "Ujjayanta — 12 definitions (Jainism, Sanskrit, Prakrit)",
+      "url": "https://www.wisdomlib.org/definition/ujjayanta",
+      "type": "scholarship",
+      "consultedFor": "Identification of Ujjayanta/Raivata with Girnar and its standing as Nemi's tīrtha"
+    },
+    {
+      "title": "Raivataka — 17 definitions (Jainism, Purāṇa, history)",
+      "url": "https://www.wisdomlib.org/definition/raivataka",
+      "type": "scholarship",
+      "consultedFor": "Raivataka = Girnar (near Junāgaḍh) = Ujjayanta; sacred-geography corroboration for revai-giri"
+    },
+    {
+      "title": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit (પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત), Anchalgachchha/Vidhipaksha edition",
+      "url": "https://jaingpt.org/knowledge/anchalgacchna_aetihasik_lekho_230019_230019",
+      "type": "translation",
+      "consultedFor": "Verbatim source text of the verse and its place in the Aṣṭottarī Tīrthamālā"
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "The four-fold repetition of 'tiloya' (triloka) is deliberate anaphora, preserved in the rendering. 'patto' has no explicit object; 'liberation/nirvāṇa' is carried over from v.46 ('nivvāṇo'). 'ṭhāṇo' (sthāna) is read with a double sense — 'abode' and 'standing/established as' — both legitimate; some editions may construe it purely as 'abode'. 'revai' is taken as Raivata(ka), the standard Prakrit name for Girnar/Ujjayanta; spelling follows the book verbatim and is not normalised. Identification of Nemi's three kalyāṇakas at this peak follows tradition (see v.46) rather than this verse's explicit wording."
+}

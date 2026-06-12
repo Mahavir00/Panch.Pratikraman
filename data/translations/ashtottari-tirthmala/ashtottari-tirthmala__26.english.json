@@ -1,0 +1,154 @@
+{
+  "shlokaId": "ashtottari-tirthmala/26",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "And so, on the peaks of the cosmic mountains and on the great trees, there stand five hundred and eleven eternal temples of the Jina, and to them too the reciter bows.",
+  "recitation": "evaṁ giri-kūḍesu, giriṇāi tarusu taruṇa-kūḍesu | ikkārāhiya paṇasaya, sāsaya jiṇa-bhavaṇa maḍhi-valae ||",
+  "wordByWord": [
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus, in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "from Skt. evam, a deictic 'so/thus'",
+      "notes": "A summative connective: it gathers up the running census of eternal shrines tallied in the foregoing verses before stating the total."
+    },
+    {
+      "token": "ગિરિકૂડેસુ",
+      "translit": "giri-kūḍesu",
+      "gloss": "on the mountain-peaks (the kūṭas of the cosmic mountains)",
+      "partOfSpeech": "compound",
+      "etymology": "giri ('mountain') + kūḍa (Pkt. for Skt. kūṭa, 'peak, summit'); -esu = locative plural",
+      "notes": "The kūṭa-peaks of the varṣadhara, vakṣaskāra and gajadanta mountains, each crowned by a śāśvata shrine."
+    },
+    {
+      "token": "ગિરિણાઇ",
+      "translit": "giriṇāi",
+      "gloss": "of the mountains and the like (mountains, and so forth)",
+      "partOfSpeech": "compound",
+      "etymology": "giri ('mountain') + āi (Pkt. for ādi, 'etc., and the rest'), with euphonic -ṇ- filling the hiatus (giri-ṇ-āi)",
+      "notes": "Reading uncertain; the inserted -ṇ- is taken as a Prakrit hiatus-breaker so that āi = ādi ('and so on'). An alternative reads it as a genitive plural 'of the mountains'."
+    },
+    {
+      "token": "તરુસુ",
+      "translit": "tarusu",
+      "gloss": "on the trees (the great cosmic wish-trees)",
+      "partOfSpeech": "noun",
+      "etymology": "taru ('tree') + -su, locative plural",
+      "notes": "The Jambū and Śālmali trees and the wish-trees of the Devakuru/Uttarakuru lands, which bear Jina-shrines."
+    },
+    {
+      "token": "તરુણ",
+      "translit": "taruṇa",
+      "gloss": "tree- (of the trees)",
+      "partOfSpeech": "compound",
+      "etymology": "from taru ('tree'); here a compounding stem feeding the following kūḍesu (taru-(ṇa)-kūḍa, 'tree-crown'), the -ṇa- again euphonic",
+      "notes": "Read as 'tree-' rather than its other sense 'young', since it forms the compound taru-kūṭa with the next word."
+    },
+    {
+      "token": "કૂડેસુ",
+      "translit": "kūḍesu",
+      "gloss": "on the crowns/peaks (kūṭas)",
+      "partOfSpeech": "noun",
+      "etymology": "kūḍa (Pkt. for Skt. kūṭa, 'peak, crest') + -esu, locative plural",
+      "notes": "Here the elevated crown or platform atop the great trees, mirroring the giri-kūḍa of line one."
+    },
+    {
+      "token": "ઇક્કારાહિય",
+      "translit": "ikkārāhiya",
+      "gloss": "eleven more (eleven-in-excess)",
+      "partOfSpeech": "adj",
+      "etymology": "ikkāra (Pkt. for Skt. ekādaśa, 'eleven') + ahiya (Pkt. for adhika, 'plus, in excess of')",
+      "notes": "Qualifies the following 'five hundred' → 500 + 11."
+    },
+    {
+      "token": "પણસય",
+      "translit": "paṇasaya",
+      "gloss": "five hundred",
+      "partOfSpeech": "noun",
+      "etymology": "paṇa (Pkt. for Skt. pañca, 'five') + saya (Pkt. for Skt. śata, 'hundred')",
+      "notes": "With ikkārāhiya the total is 511 eternal shrines."
+    },
+    {
+      "token": "સાસય",
+      "translit": "sāsaya",
+      "gloss": "eternal (śāśvata)",
+      "partOfSpeech": "adj",
+      "etymology": "Pkt. sāsaya < Skt. śāśvata, 'everlasting, beginningless'",
+      "notes": "Glossary term (śāśvata-pratimā) already defined in the preface."
+    },
+    {
+      "token": "જિણ",
+      "translit": "jiṇa",
+      "gloss": "Jina('s), of the Conqueror",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jiṇa < Skt. jina, 'conqueror' (of attachment, aversion, delusion)",
+      "notes": "In compound with bhavaṇa: 'Jina-shrines'."
+    },
+    {
+      "token": "ભવણ",
+      "translit": "bhavaṇa",
+      "gloss": "shrines, temples (Jina-dwellings)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. bhavaṇa < Skt. bhavana, 'dwelling, abode, temple'",
+      "notes": "Distinct from the bhavanapati-realm sense of bhavaṇa in the following verse; here simply 'temple'."
+    },
+    {
+      "token": "મઢિવલએ",
+      "translit": "maḍhi-valae",
+      "gloss": "in the array/ring of temples",
+      "partOfSpeech": "compound",
+      "etymology": "maḍha (Pkt. 'temple, shrine'; cf. Hindi maṛhī) + valaya ('ring, circle, cluster'), locative",
+      "notes": "Reading uncertain. Taken as 'in the cluster/ring of shrines', the verse's verb of homage (paṇamāmi/namimo) being carried over from the surrounding verses; could alternatively conceal a finite verb of bowing."
+    }
+  ],
+  "literalTranslation": "Thus, on the mountain-peaks, on the mountains and the like, on the trees and on the tree-crowns — five hundred and eleven eternal Jina-shrines, set in their ring of temples.",
+  "idiomaticTranslation": "And so, crowning the peaks of the cosmic mountains, the mountains and all their kind, the great trees and their lofty crowns, there stand five hundred and eleven eternal shrines of the Jina, temple ranged beside temple — and to these too I bow.",
+  "elaboration": {
+    "verseByVerseCommentary": "The opening 'evaṁ' ('thus') marks this as a summing verse, not a fresh one: where the previous verse numbered the shrines on Iṣukāra, Mānuṣottara, Nandīśvara, Kuṇḍala and Rucaka, verse 26 sweeps up those perched on the kūṭa-peaks of the great mountains and on the cosmic trees and totals them at five hundred and eleven. The arithmetic itself is the act of devotion. A reciter who can never climb to a single one of these heavenly summits nonetheless venerates every one by naming its exact census — the count is the pilgrimage. The deliberate echo giri-kūḍa … taru(ṇa)-kūḍa pairs 'mountain-peak' with 'tree-crown', so the eye travels from the rock summits of the varṣadhara and gajadanta ranges to the lofty crowns of the wish-trees of the kuru lands, each alike bearing a Jina-shrine; sanctity in this cosmology is not confined to the human earth but studs the whole horizontal and vertical world. The verse is also a hinge: its modest, locatable 511 hands directly to the next verse's staggering 7,72,00,000 shrines of the bhavanapati realms, so the reciter is being walked up a ladder of magnitudes from the countable to the unimaginable. Crucially these shrines are 'sāsaya' — never built, never consecrated, never destroyed — so the homage is paid not to monuments of human memory but to a permanent furniture of reality itself.",
+    "doctrinalContext": "The verse rests squarely on the śāśvata-caitya doctrine: certain Jina images and the temples enshrining them are anādi-ananta, without beginning or end, fixed at named coordinates of the loka — here the mountain-peaks and the great trees. Unlike the historically founded tīrthas the hymn will soon narrate (Girnar, Śatruñjaya, Ābu), these owe nothing to any king or ācārya; saluting them affirms that the dharma and its objects of worship are co-eternal with the universe, neither originating nor perishing with any age. The precise number 511 expresses a second conviction: the cosmos is exhaustively known and enumerable by the omniscient Jina, so cosmography and devotion are a single discipline. And bowing to shrines one can never physically reach enacts the principle that bhakti attains its object through right inner disposition (bhāva), not through bodily proximity.",
+    "practicalRelevance": "Chanting this verse lets the reciter perform an instantaneous, cosmos-wide vandana: without stepping outside the prayer hall one reveres 511 shrines set on peaks and treetops no human foot can reach. It trains the mind to treat distance and inaccessibility as no barrier to reverence, and to hold the entire loka as one continuous field of the sacred.",
+    "crossReferences": [
+      {
+        "text": "Bṛhat-saṅgrahaṇī (Saṅgahaṇī-ratna) — tabulation of śāśvata caityas and pratimās across the three worlds",
+        "source": "Śrīcandrasūri / Jinabhadragaṇi tradition, Śvetāmbara cosmography"
+      },
+      {
+        "text": "Jambūdvīpa-prajñapti — eternal shrines on the mountains and the trees of Jambūdvīpa",
+        "source": "Śvetāmbara Upāṅga-sūtra"
+      },
+      {
+        "text": "Tiloyapannatti / Trilokasāra — counts of śāśvata caityas in the madhyaloka",
+        "source": "Yativṛṣabha / Nemicandra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams and allied dictionaries)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots behind the Prakrit tokens: kūṭa, taru, bhavana, śāśvata, ekādaśa, adhika, pañca-śata"
+    },
+    {
+      "title": "Jain Quantum (jainqq.org) — Jain eLibrary search engine",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Śvetāmbara cosmographic enumeration of śāśvata caityas on the mountain-peaks and kuru-trees of Jambūdvīpa"
+    },
+    {
+      "title": "Wisdom Library — 'Caitya, Chaitya' (with Jain-tradition section)",
+      "url": "https://www.wisdomlib.org/definition/caitya",
+      "type": "dictionary",
+      "consultedFor": "Definition and Jain usage of caitya / eternal shrine (bhavaṇa)"
+    },
+    {
+      "title": "Anchalgacchna Aetihasik Lekho (book summary), JainGPT",
+      "url": "https://jaingpt.org/knowledge/anchalgacchna_aetihasik_lekho_230019_230019",
+      "type": "scholarship",
+      "consultedFor": "Anchalgachchha lineage and the attribution of the tīrthamālā to Ācārya Mahendrasiṁhasūri"
+    }
+  ],
+  "translatorConfidence": 0.72,
+  "notes": "The numeral is secure: ikkārāhiya paṇasaya = 511 (500 + 11) eternal Jina-shrines, and the overall sense — śāśvata shrines on the peaks of the cosmic mountains and the crowns of the great trees, summing an enumeration begun in the preceding verses and handed on to the vast bhavanapati count of the next — is well grounded. Two morphological points are uncertain and flagged: (a) 'giriṇāi' is read as giri + āi (=ādi, 'and the like') with a euphonic -ṇ-, though a genitive-plural reading 'of the mountains' is possible; (b) 'maḍhi-valae' is read as maḍha ('temple') + valaya ('ring/cluster') in the locative, the homage-verb being carried over from neighbouring verses, but it could itself encode a finite verb of bowing. The exact cosmographic cross-tabulation of the figure 511 (the precise mountains and trees summed) varies between Śvetāmbara cosmological editions; web sources consulted associate it broadly with the gajadanta/kuru-tree zone of Jambūdvīpa but are AI-summarised and were treated as corroborative only, not decisive. Orthography of the verse is preserved verbatim per the book."
+}

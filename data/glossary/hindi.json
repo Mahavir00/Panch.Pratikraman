@@ -1,6 +1,6 @@
 {
   "lang": "hindi",
-  "generatedAt": "2026-06-09T15:58:03.350Z",
+  "generatedAt": "2026-06-12T03:00:22.020Z",
   "terms": [
     {
       "term": "abhagna",
@@ -15,7 +15,8 @@
       "scriptForm": "अभय",
       "definition": "निर्भयता; जिनकी शरण समस्त भय का निवारण करती है — स्तोत्र का प्रमुख भाव।",
       "sutras": [
-        "smaran-2-ajitshanti"
+        "smaran-2-ajitshanti",
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -24,6 +25,14 @@
       "definition": "विशेष नियम-रूप दृढ़ संकल्प; जिसे साधक नियत शर्त-अवधि तक निभाने का व्रत लेता है।",
       "sutras": [
         "deshavagasik-pachchakkhan"
+      ]
+    },
+    {
+      "term": "abhyākhyāna",
+      "scriptForm": "अभ्याख्यान",
+      "definition": "किसी पर झूठा दोषारोपण या मिथ्या आरोप।",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -44,6 +53,14 @@
       ]
     },
     {
+      "term": "adattādāna",
+      "scriptForm": "अदत्तादान",
+      "definition": "बिना दिया हुआ ग्रहण करना — चोरी।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "aḍhāī-dvīpa",
       "scriptForm": "अढ़ाई द्वीप (अढाइज्ज)",
       "definition": "मनुष्य-लोक के ढाई द्वीप (जंबूद्वीप, धातकीखंड, अर्ध-पुष्करवर), जहाँ मनुष्य व साधु निवास करते हैं।",
@@ -52,12 +69,29 @@
       ]
     },
     {
+      "term": "aḍhāidvīpa",
+      "scriptForm": "अढाई द्वीप",
+      "definition": "ढाई द्वीप — मनुष्य-लोक का वह विस्तार जहाँ साधु, साध्वी, श्रावक एवं श्राविका — चतुर्विध संघ — विद्यमान है।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "ādhi-vyādhi",
+      "scriptForm": "आधि-व्याधि",
+      "definition": "आधि = मानसिक पीड़ा/चिन्ता; व्याधि = शारीरिक रोग; फलश्रुति (गाथा ८) में इन दोनों एवं भय से मुक्ति का वचन है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "āgāra",
       "scriptForm": "आगार",
-      "definition": "कायोत्सर्ग के दौरान अनुमत अपवाद (छूट), जिनके हो जाने पर भी व्रत भंग नहीं होता।",
+      "definition": "व्रत में पहले से रखा गया अपवाद/छूट (जैसे व्रती साथी व गुरु आदि से बोलना), जिससे व्रत भंग नहीं होता।",
       "sutras": [
         "annattha",
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -67,6 +101,14 @@
       "sutras": [
         "drumapushpika-sajjhay",
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "ajarāmara-sthāna",
+      "scriptForm": "अयरामर ठाण / अजर-अमर स्थान",
+      "definition": "जरा (वृद्धावस्था) और मृत्यु से रहित स्थान, अर्थात् मोक्ष/सिद्धि।",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -81,9 +123,13 @@
     {
       "term": "ālocanā",
       "scriptForm": "आलोचना",
-      "definition": "अपने दोषों का निष्कपट प्रकटीकरण एवं स्वीकार।",
+      "definition": "गुरु/आत्म-साक्षी के समक्ष अपने दोषों का निष्कपट निवेदन — प्रतिक्रमण का अंग।",
       "sutras": [
-        "iriyavahiyam"
+        "adhar-papsthanak",
+        "gamanagamano",
+        "iriyavahiyam",
+        "samayik-parvani",
+        "tassa-uttari"
       ]
     },
     {
@@ -100,6 +146,14 @@
       "definition": "अनाश्रित, किसी पर आश्रय या आसक्ति न रखने वाला।",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "anuṣṭubh",
+      "scriptForm": "अनुष्टुप्",
+      "definition": "आठ-आठ अक्षरों के चार चरणों वाला सुप्रसिद्ध छन्द, जिसमें यह स्तोत्र रचा गया है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -128,6 +182,22 @@
       ]
     },
     {
+      "term": "apkāya",
+      "scriptForm": "अप्काय",
+      "definition": "जल को शरीर रूप धारण करने वाले एकेन्द्रिय जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "apsarogaṇa",
+      "scriptForm": "अच्छरगण (अप्सरा-गण)",
+      "definition": "देवांगनाओं का समूह, जिनके द्वारा वीरजिनेंद्र संस्तुत हैं।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "arihanta",
       "scriptForm": "अरिहंत",
       "definition": "राग-द्वेषादि अन्तरंग शत्रुओं को जीतने वाले, केवलज्ञानी, धर्मतीर्थ के प्रवर्तक अर्हत्।",
@@ -139,11 +209,52 @@
       ]
     },
     {
+      "term": "arihanta / arhat",
+      "scriptForm": "अरिहंत",
+      "definition": "अंतरंग शत्रुओं (राग-द्वेषादि) का नाश करने वाले, केवलज्ञान-प्राप्त, वंदनीय परमात्मा।",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "Ariṣṭanemi",
+      "scriptForm": "नेमिकुमार (अरिष्टनेमि)",
+      "definition": "22वें तीर्थंकर भगवान नेमिनाथ; पद 2 में 'बीजा नेमकुमार'।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "āśātanā",
       "scriptForm": "आशातना",
       "definition": "गुरु के प्रति अविनय/अनादर; इस सूत्र में 'तित्तीस' (तैंतीस) आशातनाओं की ओर संकेत है।",
       "sutras": [
+        "samayik-parvani",
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "aṣṭa-mahāprātihārya",
+      "scriptForm": "अष्ट-महाप्रातिहार्य",
+      "definition": "तीर्थंकर के साथ प्रकट होने वाले आठ दिव्य अतिशय (अशोक-वृक्ष, सिंहासन, छत्र आदि)।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "aṣṭa-pravacana-mātā",
+      "scriptForm": "आठ प्रवचनमाता",
+      "definition": "संयम-जीवन की रक्षा करने वाली आठ 'माताएँ' — पाँच समिति और तीन गुप्ति।",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "aṣṭadala-padma",
+      "scriptForm": "अष्टदल कमल",
+      "definition": "आठ पंखुड़ियों वाला कमल; देह के भीतर कल्पित ध्यान-आधार, जिस पर तत्त्व का ध्यान होता है।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -152,6 +263,22 @@
       "definition": "अठारह अक्षरों वाला गुप्त मन्त्र, जो गाथा 23 के अनुसार स्तोत्र के मध्य में निहित है।",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "aṣṭāpada",
+      "scriptForm": "अष्टापद",
+      "definition": "ऋषभदेव के निर्वाण से पवित्र पर्वत-तीर्थ; इस माला के प्रमुख तीर्थों में अग्रणी।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "aṣṭottara-śata",
+      "scriptForm": "अष्टोत्तर-शत",
+      "definition": "एक सौ आठ (१०८) — इसी संख्या के तीर्थों की यह माला है।",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -171,6 +298,22 @@
       ]
     },
     {
+      "term": "atiśaya",
+      "scriptForm": "अतिशय",
+      "definition": "तीर्थंकर के विशिष्ट अलौकिक गुण-वैभव; गाथा २ में 'करोड़ों शुद्ध अतिशय' कहा गया।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "atīta-vartamāna-anāgata",
+      "scriptForm": "अतीत-वर्तमान-अनागत",
+      "definition": "भूत, वर्तमान और भविष्य — तीन काल, जिनकी अलग-अलग चौवीसी का यहाँ स्मरण है।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
       "term": "atiyāra / aticāra",
       "scriptForm": "अतियार / अतिचार",
       "definition": "व्रत को पूर्णतः न तोड़ते हुए भी उसे मलिन करने वाली आंशिक भूल या उल्लंघन। (इस पुस्तक में सर्वत्र 'अतियार' वर्तनी प्रयुक्त है।)",
@@ -184,6 +327,15 @@
       "definition": "हाथों का वह विशेष घुमाव/संचालन जो वंदना-पाठ के साथ किया जाता है (एक बार में छह, दो बार में बारह)।",
       "sutras": [
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "āvaśyaka",
+      "scriptForm": "આવશ્યક",
+      "definition": "प्रतिदिन अवश्य करने योग्य छह क्रियाएँ; इनमें कायोत्सर्ग पाँचवाँ है।",
+      "sutras": [
+        "karemi-bhante",
+        "tassa-uttari"
       ]
     },
     {
@@ -203,11 +355,35 @@
       ]
     },
     {
+      "term": "avratī",
+      "scriptForm": "अव्रती",
+      "definition": "व्रतरहित व्यक्ति — जिसने कोई व्रत ग्रहण नहीं किया।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "āyariya",
       "scriptForm": "आयरिय / आचार्य",
       "definition": "संघ के अनुशास्ता एवं आचार-प्रवर्तक प्रधान गुरु।",
       "sutras": [
         "navkar"
+      ]
+    },
+    {
+      "term": "battīsa doṣa",
+      "scriptForm": "बत्तीस दोष",
+      "definition": "सामायिक के बत्तीस सम्भव दोष — दस मन के, दस वचन के एवं बारह काया के।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "beindriya",
+      "scriptForm": "बेइन्द्रिय",
+      "definition": "स्पर्श एवं रस — दो इन्द्रिय वाले जीव।",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -219,11 +395,45 @@
       ]
     },
     {
+      "term": "bhante",
+      "scriptForm": "भंते",
+      "definition": "‘हे भगवन्/हे पूज्य!’ — गुरु के प्रति आदर-सम्बोधन, जिनकी साक्षी में व्रत लिया जाता है।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "Bharata-kṣetra",
+      "scriptForm": "भरतक्षेत्र",
+      "definition": "जंबूद्वीप का वह क्षेत्र जहाँ तीर्थंकर-तीर्थ प्रवर्तित होता है।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "bhāṣā-samiti",
+      "scriptForm": "भासासमिई",
+      "definition": "वाणी की सावधानी — हितकारी, सत्य और निर्दोष वचन बोलने का समिति-नियम।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "bhāva",
       "scriptForm": "भाव",
-      "definition": "अध्यवसाय/परिणाम की दृष्टि से सीमा — किस भाव-दशा तक व्रत स्थिर रहे।",
+      "definition": "अंतःकरण/मनोभाव की दृष्टि — किस वृत्ति से व्रत निभाया जाए; यहाँ राग-द्वेष रहित यथाशक्ति।",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "bhava-jaladhi",
+      "scriptForm": "भव-जलधि",
+      "definition": "जन्म-मरण रूपी संसार-समुद्र, जिससे जिन भक्त को पार उतारते हैं।",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -232,6 +442,14 @@
       "definition": "अधोलोक-वासी देवों का निकाय (असुरकुमार, नागकुमार आदि दस प्रकार)।",
       "sutras": [
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "bhave bhave",
+      "scriptForm": "भवे भवे",
+      "definition": "जन्म-जन्म में, प्रत्येक भव में।",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -251,11 +469,44 @@
       ]
     },
     {
+      "term": "bīja-mantra",
+      "scriptForm": "बीज-मन्त्र",
+      "definition": "एकाक्षरी या लघु मन्त्र-बीज (जैसे ह्रीं, ॐ) जिन्हें शक्ति का सघन रूप माना जाता है।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "bodhi",
+      "scriptForm": "बोहि / बोधि",
+      "definition": "सम्यग्दर्शन-रूप जागरण; धर्म-प्राप्ति का बीज, जिसकी याचना गाथा (5) में की गई है।",
+      "sutras": [
+        "smaran-4-upasargahar",
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "bodhilābha",
       "scriptForm": "बोहिलाभ/बोधिलाभ",
       "definition": "सम्यग्दर्शन एवं जिनधर्म की प्राप्ति।",
       "sutras": [
         "logassa"
+      ]
+    },
+    {
+      "term": "bola",
+      "scriptForm": "बोल",
+      "definition": "एक 'वचन' या चिंतन-इकाई; पडिलेहणा के समय बोले/स्मरण किये जाने वाले पचास संकल्पों में से प्रत्येक।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "brahma-randhra",
+      "scriptForm": "ब्रह्मरन्ध्र",
+      "definition": "मस्तक के शिखर-स्थित सूक्ष्म ध्यान-केन्द्र, जहाँ तक नाभि से उठती नाली कल्पित है (गा. ५)।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -280,6 +531,14 @@
       "definition": "‘बड़ा/विस्तृत’ — यहाँ लघु चैत्यवंदन की तुलना में अधिक विस्तृत स्तवन।",
       "sutras": [
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "caitya",
+      "scriptForm": "चैत्य",
+      "definition": "जिन-मंदिर अथवा जिन-प्रतिमा (जिन-भवन)।",
+      "sutras": [
+        "ashtottari-tirthmala"
       ]
     },
     {
@@ -333,6 +592,14 @@
       ]
     },
     {
+      "term": "caturviṁśati / covīsī",
+      "scriptForm": "चौबीसी",
+      "definition": "किसी काल-चक्र के चौबीस तीर्थंकरों का समूह; यहाँ अतीत, अनागत एवं वर्तमान — तीनों चौबीसियाँ वंदनीय हैं।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "caturviṁśati-stava",
       "scriptForm": "चतुर्विंशति-स्तव",
       "definition": "चौबीस तीर्थंकरों का स्तवन; इस सूत्र का शास्त्रीय नाम तथा दूसरा आवश्यक।",
@@ -341,11 +608,43 @@
       ]
     },
     {
+      "term": "caudā rāja-loka",
+      "scriptForm": "चउद राज लोक",
+      "definition": "चौदह रज्जु-प्रमाण विस्तृत समस्त लोक, जिसमें ये सब योनियाँ व्याप्त हैं।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "caurindriya",
+      "scriptForm": "चउरिन्द्रिय",
+      "definition": "स्पर्श, रस, घ्राण एवं चक्षु — चार इन्द्रिय वाले जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "cauvīsattho",
       "scriptForm": "चउवीसत्थो",
       "definition": "चतुर्विंशति-स्तव का प्राकृत रूप—छह आवश्यकों में दूसरा आवश्यक।",
       "sutras": [
         "logassa"
+      ]
+    },
+    {
+      "term": "cauvīsī",
+      "scriptForm": "चौवीसी",
+      "definition": "किसी एक काल या क्षेत्र के चौबीस तीर्थंकरों का समूह।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "chadma (viaṭṭa-chaumāṇa)",
+      "scriptForm": "छउम / विअट्टछउमाण",
+      "definition": "छद्म = ज्ञान-दर्शन को ढकने वाला आवरण (घातिकर्म); 'विअट्टछउम' = उस आवरण से रहित।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -365,11 +664,20 @@
       ]
     },
     {
+      "term": "cintāmaṇi",
+      "scriptForm": "चिंतामणि",
+      "definition": "मनोवांछित फल देने वाला पौराणिक दिव्य रत्न।",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "cūlikā",
       "scriptForm": "चूलिका",
-      "definition": "मूल मंत्र में जोड़ा गया परिशिष्ट-भाग (पद ६–९) जो उसके फल का स्तवन करता है।",
+      "definition": "नवकार के अन्तिम चार पद ('एसो पंच नमुक्कारो…' से 'पढमं हवइ मंगलं' तक) जो पाँच नमस्कार-पदों की महिमा एवं फल बताते हैं; यहाँ ये दुर्ग के चार अंग बनते हैं।",
       "sutras": [
-        "navkar"
+        "navkar",
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -386,6 +694,22 @@
       "definition": "लोक-मान्यता में पीड़ा देने वाली एक तांत्रिक/अपकारी शक्ति; गाथा 6 की रक्षा-सूची में।",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "dāna-śīla-tapa-bhāva",
+      "scriptForm": "दाणं सीलं तवो भावो",
+      "definition": "धर्म के चार प्रकार — दान, शील (सदाचार/ब्रह्मचर्य), तप और भाव (शुभ भावना)।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "daṇḍa",
+      "scriptForm": "दंड",
+      "definition": "मन-वचन-काया का अशुभ व्यापार जिससे आत्मा दंडित होती है; तीन दंड त्याज्य (गुप्ति के विपरीत)।",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -409,7 +733,8 @@
       "scriptForm": "देशावगासिक",
       "definition": "श्रावक का दसवाँ व्रत — दिग्व्रत में स्वीकृत क्षेत्र को थोड़े समय (प्रायः एक दिन या मुहूर्त) के लिए और भी छोटे प्रदेश तक सीमित कर देने का व्रत।",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -441,7 +766,8 @@
       "scriptForm": "धरणेन्द्र",
       "definition": "नागराज, पार्श्वनाथ का शासनदेव/भक्त; गाथा 24 में 'धरणिंद-नमंसिअं' से उल्लिखित।",
       "sutras": [
-        "smaran-5-namiun-bhayahar"
+        "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -450,6 +776,14 @@
       "definition": "यहाँ अहिंसा, संयम और तप रूप आचार-धर्म; आत्म-शुद्धि का मार्ग।",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "dharma-cakravartin",
+      "scriptForm": "धम्मवर चाउरंत चक्कवट्टि",
+      "definition": "धर्म का चक्रवर्ती; चारों दिशाओं/गतियों में धर्म-चक्र प्रवर्तित करने वाला।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -479,9 +813,10 @@
     {
       "term": "dravya",
       "scriptForm": "द्रव्य",
-      "definition": "वस्तु/पदार्थ की दृष्टि से सीमा — किन वस्तुओं तक नियम सीमित है।",
+      "definition": "वस्तु/पदार्थ की दृष्टि — व्रत के दौरान कौन-सी वस्तुएँ रखने की छूट है, यह निश्चित करना।",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -509,6 +844,22 @@
       ]
     },
     {
+      "term": "durita",
+      "scriptForm": "दुरिय (दुरित)",
+      "definition": "पाप, विघ्न, संकट; जिनके क्षय की प्रार्थना अंतिम गाथा में है।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "duvihaṁ tivihenaṁ",
+      "scriptForm": "દુવિહં તિવિહેણં",
+      "definition": "दो करण (स्वयं करना, करवाना) तथा तीन योग (मन, वचन, काय) — पाप-परिहार का परिमाण।",
+      "sutras": [
+        "karemi-bhante"
+      ]
+    },
+    {
       "term": "dvādaśāvarta",
       "scriptForm": "द्वादशावर्त",
       "definition": "बारह आवर्त; इस वंदना में किए जाने वाले बारह मुद्रा-संचालन, जिनसे सूत्र का नाम बना।",
@@ -517,11 +868,20 @@
       ]
     },
     {
+      "term": "dvividha-trividhena",
+      "scriptForm": "दुविहं तिविहेणं",
+      "definition": "त्याग की मात्रा: दो करण (स्वयं न करना, दूसरों से न कराना) तथा तीन योग (मन, वचन, काया) — अनुमोदन का यहाँ त्याग न होने से 'दुविध' कहा गया।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
+      ]
+    },
+    {
       "term": "ekendriya",
       "scriptForm": "एगिंदिय / एकेन्द्रिय",
       "definition": "केवल स्पर्श-इन्द्रिय वाले जीव — पृथ्वी, जल, अग्नि, वायु एवं वनस्पतिकाय।",
       "sutras": [
-        "iriyavahiyam"
+        "iriyavahiyam",
+        "jivrashi"
       ]
     },
     {
@@ -541,10 +901,27 @@
       ]
     },
     {
-      "term": "gamanāgamana",
-      "scriptForm": "गमणागमण",
-      "definition": "आना-जाना; चलने-फिरने की क्रिया, जिसमें विराधना सम्भव है।",
+      "term": "gāhā",
+      "scriptForm": "गाहा (गाथा)",
+      "definition": "प्राकृत का आर्या-वर्ग का छंद; इस स्तव की प्रत्येक इकाई एक गाहा है।",
       "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "gajendra",
+      "scriptForm": "गयंद (गजेंद्र)",
+      "definition": "श्रेष्ठ/मदमत्त हाथी; जिसकी ललित गति से महावीर की चाल उपमित है।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "gamanāgamana",
+      "scriptForm": "गमनागमन / गमणागमणो",
+      "definition": "आना और जाना; ठहरने/अनुष्ठान-स्थल तक की आवाजाही, जिसमें हुई विराधना की यहाँ आलोचना होती है।",
+      "sutras": [
+        "gamanagamano",
         "iriyavahiyam"
       ]
     },
@@ -553,7 +930,16 @@
       "scriptForm": "गणधर",
       "definition": "तीर्थंकर के प्रधान शिष्य जो श्रुत की रचना करते हैं; गाथा २२–२३ में महावीर के ग्यारह गणधर गिनाए गए हैं।",
       "sutras": [
-        "nandisutrani-pratham-sajay"
+        "nandisutrani-pratham-sajay",
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "gandha-hastī",
+      "scriptForm": "गंधहत्थी",
+      "definition": "श्रेष्ठ गंध-हस्ती; जिसकी गंध-मात्र से विरोधी हट जाएँ — अर्थात् उपस्थिति-मात्र से उपद्रव-शमन।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -565,11 +951,29 @@
       ]
     },
     {
-      "term": "garhā",
-      "scriptForm": "गरिहा / निंदा",
-      "definition": "गुरु-साक्षी से दोष की गर्हा एवं आत्मसाक्षी से निंदा।",
+      "term": "gārava",
+      "scriptForm": "गारव",
+      "definition": "गर्व या आसक्तिजन्य 'भारीपन'; ऋद्धि-गारव, रस-गारव और साता-गारव — तीनों त्याज्य।",
       "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "garhā",
+      "scriptForm": "गरिहामि / गर्हा",
+      "definition": "गुरु आदि की साक्षी में अपने दोषों की स्वीकृति-पूर्वक निंदा।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante",
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "Gautamasvāmī",
+      "scriptForm": "गौतमस्वामी",
+      "definition": "भगवान महावीर के प्रथम गणधर; लब्धियों के भण्डार रूप में पूज्य, पद 2–4 के केन्द्र।",
+      "sutras": [
+        "rai-mangalacharan"
       ]
     },
     {
@@ -586,6 +990,14 @@
       "definition": "आचार्य का वंश-गोत्र-सूचक नाम (जैसे काश्यप, कात्यायन, कौशिक), जिससे वन्दन में आचार्य की पहचान दी जाती है।",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "graha",
+      "scriptForm": "ग्गह / ग्रह",
+      "definition": "ग्रहों या दुष्ट शक्तियों से उत्पन्न पीड़ा/बाधा।",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -616,8 +1028,10 @@
     {
       "term": "gupti",
       "scriptForm": "गुप्ति",
-      "definition": "मन, वचन और काया — इन तीन योगों का निग्रह (तीन गुप्ति); 'तिगुत्तो'।",
+      "definition": "संयमन/निग्रह — तीन: मनोगुप्ति, वचनगुप्ति, कायगुप्ति (मन, वचन और काया का नियंत्रण)।",
       "sutras": [
+        "gamanagamano",
+        "padilehana",
         "panchindiya"
       ]
     },
@@ -630,11 +1044,27 @@
       ]
     },
     {
+      "term": "gurvādika",
+      "scriptForm": "गुर्वादिक",
+      "definition": "गुरु आदि — गुरु एवं उनके समान पूज्य/अधिकारी जनों का समूह।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "harita",
       "scriptForm": "हरिय / हरित",
       "definition": "हरी वनस्पति, हरियाली।",
       "sutras": [
         "iriyavahiyam"
+      ]
+    },
+    {
+      "term": "Hrīṃ",
+      "scriptForm": "ह्रीं",
+      "definition": "एक प्रमुख माया-बीज; गाथा २ में भगवान का 'ह्रीं-रूप' कहा गया है।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -662,11 +1092,28 @@
       ]
     },
     {
+      "term": "īryā-samiti",
+      "scriptForm": "ईर्या समिति",
+      "definition": "चलते समय जीव-रक्षा हेतु भूमि देख-देखकर सावधानी से गमन करना — इस सूत्र से विशेष रूप से सम्बद्ध।",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
       "term": "iryāpathikī",
       "scriptForm": "इरियावहिया / इर्यापथिकी",
-      "definition": "गमन-मार्ग में हुई क्रिया; चलते-फिरते लगे दोषों का प्रतिक्रमण।",
+      "definition": "गमनागमन में हुई जीव-हिंसा की आलोचना का सूत्र, जिसके तुरन्त बाद यह सूत्र बोला जाता है।",
       "sutras": [
-        "iriyavahiyam"
+        "iriyavahiyam",
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "Jambūsvāmī",
+      "scriptForm": "जम्बूस्वामी",
+      "definition": "इस अवसर्पिणी के अन्तिम केवली; पद 2 में स्मरणीय प्रथम महापुरुष।",
+      "sutras": [
+        "rai-mangalacharan"
       ]
     },
     {
@@ -688,8 +1135,9 @@
     {
       "term": "jayaṇā",
       "scriptForm": "जयणा",
-      "definition": "यतना/सावधानी; जहाँ पूर्ण त्याग संभव न हो वहाँ सूक्ष्म दोषों से बचने का सजग प्रयत्न।",
+      "definition": "सावधानी/यतना — कारणवश दी गई विवेकपूर्ण, सीमित छूट ताकि जीव-विराधना तथा व्रतभंग से बचा जाए।",
       "sutras": [
+        "dravya-kshetra-kaal-bhav",
         "laghu-atiyar"
       ]
     },
@@ -699,6 +1147,22 @@
       "definition": "अपरिहार्य आरम्भ-समारम्भ में जीव-रक्षा हेतु बरती जाने वाली विवेकपूर्ण सावधानी एवं छूट।",
       "sutras": [
         "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "jina",
+      "scriptForm": "जिन",
+      "definition": "राग-द्वेष-मोह के विजेता अरिहंत; यहाँ तीर्थंकर का पर्याय।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "jina-ājñā",
+      "scriptForm": "जिणाणं आणं",
+      "definition": "जिनेश्वर (तीर्थंकर) की आज्ञा या उपदेश का पालन — श्रावक-धर्म का मूल आधार।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -726,6 +1190,22 @@
       ]
     },
     {
+      "term": "Jirāpallī",
+      "scriptForm": "जीरापल्ली (जीरावला)",
+      "definition": "राजस्थान का प्रसिद्ध पार्श्वनाथ तीर्थ; इसी के पार्श्वनाथ इस स्तोत्र के आराध्य हैं।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "jitakaṣāya",
+      "scriptForm": "जिअकसाय (जितकषाय)",
+      "definition": "जिसने क्रोध-मान-माया-लोभ रूप कषायों को जीत लिया है।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "jīva",
       "scriptForm": "जीव",
       "definition": "चेतन प्राणी; आत्मा-युक्त सजीव सत्त्व।",
@@ -734,11 +1214,28 @@
       ]
     },
     {
+      "term": "jīva-yoni",
+      "scriptForm": "जीवयोनि",
+      "definition": "जीवों के उत्पत्ति-स्थान/जाति-वर्ग; शास्त्रानुसार कुल चौरासी लाख।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "jñāna-dravya",
+      "scriptForm": "ज्ञानद्रव्य",
+      "definition": "ज्ञान-साधना से सम्बन्धित उपकरण एवं सामग्री (पुस्तक, पाटी, नवकारवाली आदि), जिनकी रक्षा एवं विनय अपेक्षित है।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "kāla",
       "scriptForm": "काल",
-      "definition": "समय की दृष्टि से सीमा — मुहूर्त से लेकर अपने संकल्प (धारणा) की अवधि तक।",
+      "definition": "समय की दृष्टि — व्रत कब तक चलेगा; सामायिक के सम्पन्न होने (लगभग एक मुहूर्त) तक।",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -755,6 +1252,30 @@
       "definition": "वह आगम-समूह जिसका स्वाध्याय निश्चित (दिन-रात के प्रथम-अन्तिम प्रहर) काल में किया जाता है; नागार्जुन आदि इसके धारक कहे गए।",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "kalpapādapa",
+      "scriptForm": "कप्पपाय(व) / कल्पवृक्ष",
+      "definition": "इच्छित वस्तु प्रदान करने वाला स्वर्गीय कल्पवृक्ष।",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "kalpataru",
+      "scriptForm": "कल्पवृक्ष / सुरतरु",
+      "definition": "मनोवांछित फल देने वाला दिव्य वृक्ष — जिससे यहाँ जिन-चरण की उपमा दी गई है।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "kalyāṇa",
+      "scriptForm": "कल्लाण / कल्याण",
+      "definition": "हित, कुशल, श्रेय; 'कल्लाण-आवास' = समस्त कल्याण का निवास-स्थान।",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -775,11 +1296,28 @@
       ]
     },
     {
+      "term": "kammaghaṇa",
+      "scriptForm": "कम्मघण / कर्म-घन",
+      "definition": "कर्मों का सघन मेघ (बादल); 'कम्मघण-मुक्क' = कर्म-मेघ से मुक्त, अर्थात् सर्व-कर्म-क्षयकारी।",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
       "term": "kāṅkṣā",
       "scriptForm": "कांक्षा",
       "definition": "अन्य मत की अभिलाषा, अथवा सब धर्मों को समान मान लेना।",
       "sutras": [
         "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "karaṇa",
+      "scriptForm": "करण",
+      "definition": "क्रिया का प्रकार — करना (कृत), कराना (कारित) तथा अनुमोदन; यहाँ प्रथम दो का निषेध।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {
@@ -803,17 +1341,28 @@
       "scriptForm": "कषाय",
       "definition": "आत्मा को मलिन करने वाले चार आवेग — क्रोध, मान, माया और लोभ; गुरु इनसे मुक्त (मुक्को) होते हैं।",
       "sutras": [
+        "adhar-papsthanak",
+        "padilehana",
         "panchindiya"
+      ]
+    },
+    {
+      "term": "kavaca",
+      "scriptForm": "कवच",
+      "definition": "शरीर पर धारण किया जाने वाला रक्षा-बख़्तर; यहाँ नवकार-पदों को शरीर-अंगों पर कवच रूप में स्थापित किया जाता है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
       "term": "kāyotsarga",
       "scriptForm": "कायोत्सर्ग",
-      "definition": "देह के ममत्व का त्याग कर की जाने वाली ध्यान-साधना; इसकी अवधि लोगस्स-पाठ की इकाइयों में गिनी जाती है।",
+      "definition": "शरीर के प्रति ममत्व त्यागकर निश्चल खड़े या बैठे रहकर किया जाने वाला ध्यान; पाँचवाँ आवश्यक, जिसका माप लोगस्स की संख्या से गिना जाता है।",
       "sutras": [
         "annattha",
         "iriyavahiyam",
-        "logassa"
+        "logassa",
+        "tassa-uttari"
       ]
     },
     {
@@ -822,6 +1371,7 @@
       "definition": "पूर्ण, सर्वव्यापी सर्वज्ञता; ‘केवलनाणी’ अर्थात् केवलज्ञानी जिन।",
       "sutras": [
         "kevalnani-chaityavandan",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti"
       ]
     },
@@ -850,6 +1400,22 @@
       ]
     },
     {
+      "term": "khaṇḍana",
+      "scriptForm": "खण्डन",
+      "definition": "व्रत, नियम या आचार का भंग/उल्लंघन।",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "khātikā / parikhā",
+      "scriptForm": "खातिका",
+      "definition": "किले के चारों ओर खोदी गई खाई; यहाँ खैर (खादिर) के धधकते अंगारों की अग्निमय खाई के रूप में कल्पित।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "kīrtana",
       "scriptForm": "कित्तण/कीर्तन",
       "definition": "नाम लेकर गुणगान करना—भक्ति की प्रथम सीढ़ी (कित्तइस्सं = कीर्तन करूँगा)।",
@@ -866,11 +1432,27 @@
       ]
     },
     {
+      "term": "kṛta-kārita-anumodita",
+      "scriptForm": "कृत-कारित-अनुमोदित (दुहव्यो–दुहवाव्यो–अनुमोद्युं)",
+      "definition": "स्वयं किया, दूसरों से करवाया, तथा करते हुए को अनुमोदन दिया — हिंसा के तीन प्रकार।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "kṣamāpanā",
       "scriptForm": "खामणा / क्षमापना",
       "definition": "परस्पर क्षमा माँगने और देने की क्रिया; इस सूत्र का मूल विषय।",
       "sutras": [
         "pakkhi-khamana"
+      ]
+    },
+    {
+      "term": "kṣamāpanā / khamāṇā",
+      "scriptForm": "क्षमापना (खामणा)",
+      "definition": "सब जीवों से परस्पर क्षमा माँगना और देना; वैर-भाव का त्याग।",
+      "sutras": [
+        "samayik-parvani"
       ]
     },
     {
@@ -886,7 +1468,40 @@
       "scriptForm": "क्षेत्र",
       "definition": "स्थान की दृष्टि से सीमा — 'यहाँ या अन्यत्र' (इत्थं वा अन्नत्थं वा) कितने प्रदेश तक।",
       "sutras": [
-        "deshavagasik-pachchakkhan"
+        "deshavagasik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "kṣudropadrava",
+      "scriptForm": "क्षुद्र उपद्रव",
+      "definition": "छोटे-मोटे विघ्न, उत्पात एवं बाधाएँ, जिनका यह स्तोत्र नाश करने वाला कहा गया है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "labdhi",
+      "scriptForm": "लब्धि",
+      "definition": "तप-संयम से प्राप्त विशिष्ट आध्यात्मिक शक्ति/ऋद्धि; गौतमस्वामी 'लब्धि के भण्डार' कहे गए हैं।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "leśyā",
+      "scriptForm": "लेश्या",
+      "definition": "कषाय से रंगे आत्म-परिणामों का वर्ण-संकेत; तीन अशुभ — कृष्ण, नील व कापोत — लेश्याओं का परिहार।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "mada-moha",
+      "scriptForm": "मय-मोह (मद-मोह)",
+      "definition": "अहंकार (मद) तथा मोह (मूढ़ता/राग); जिनसे जिन सर्वथा रहित हैं।",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -922,11 +1537,27 @@
       ]
     },
     {
+      "term": "Mahāvīra",
+      "scriptForm": "महावीर (वीर)",
+      "definition": "अन्तिम (24वें) तीर्थंकर भगवान महावीर; पद 1 में 'भगवान वीरो' रूप में स्तुत।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "mahāvrata",
       "scriptForm": "महाव्रत",
       "definition": "साधु के पाँच महान व्रत — अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह।",
       "sutras": [
         "panchindiya"
+      ]
+    },
+    {
+      "term": "maithuna",
+      "scriptForm": "मैथुन",
+      "definition": "अब्रह्मचर्य; काम-सेवन।",
+      "sutras": [
+        "adhar-papsthanak"
       ]
     },
     {
@@ -956,21 +1587,40 @@
     {
       "term": "maṅgala",
       "scriptForm": "मंगल",
-      "definition": "कल्याण-कामना; इस सज्झाय का आरंभ और अंत दोनों मंगल-भाव से होते हैं।",
+      "definition": "शुभ, कल्याण, मांगलिक आशीर्वाद; पाठ के आरम्भ या अन्त में बोली जाने वाली शुभ-कामना।",
       "sutras": [
         "drumapushpika-sajjhay",
         "nandisutrani-pratham-sajay",
         "navkar",
         "panch-parmeshthi-sajjhay",
-        "smaran-2-ajitshanti"
+        "rai-mangalacharan",
+        "smaran-2-ajitshanti",
+        "smaran-4-upasargahar"
       ]
     },
     {
       "term": "maṅgalācaraṇa",
       "scriptForm": "मंगलाचरण",
-      "definition": "किसी अनुष्ठान या ग्रन्थ के आरम्भ में किया जाने वाला शुभ-वंदन।",
+      "definition": "मंगल-श्लोकों का पाठ; यहाँ राई प्रतिक्रमण के समापन में बोला जाने वाला शुभ-वचन।",
       "sutras": [
-        "navkar"
+        "navkar",
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "mantra-rāja",
+      "scriptForm": "मन्त्रराज",
+      "definition": "मन्त्रों में श्रेष्ठ मन्त्र; यहाँ पार्श्व-नाम/बीज-संयुक्त मुख्य मन्त्र।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "mārī",
+      "scriptForm": "मारी",
+      "definition": "महामारी, संक्रामक रोग या व्यापक मृत्युकारी विपत्ति।",
+      "sutras": [
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -982,20 +1632,33 @@
       ]
     },
     {
+      "term": "māyā-mṛṣāvāda",
+      "scriptForm": "माया-मृषावाद",
+      "definition": "कपट से युक्त झूठ — छल और असत्य का संयुक्त दोष।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "micchā mi dukkaḍaṁ",
       "scriptForm": "मिच्छा मि दुक्कडं",
-      "definition": "'मेरा वह दुष्कृत मिथ्या हो' — हुई भूल को निष्फल करने और क्षमा माँगने का परंपरागत वाक्य।",
+      "definition": "'मेरा वह दुष्कृत (दोष) मिथ्या हो' — हुई भूल को हृदय से स्वीकार कर निष्फल करने का प्रायश्चित्त-वाक्य।",
       "sutras": [
+        "adhar-papsthanak",
         "bruhad-atiyar",
-        "laghu-atiyar"
+        "gamanagamano",
+        "jivrashi",
+        "laghu-atiyar",
+        "samayik-parvani"
       ]
     },
     {
       "term": "micchāmi dukkaḍaṁ",
       "scriptForm": "मिच्छा मि दुक्कडं",
-      "definition": "'मेरा वह दुष्कृत (पाप) मिथ्या/निष्फल हो' — क्षमायाचना का चरम वाक्य।",
+      "definition": "'मेरा दुष्कृत मिथ्या हो' — किये गये दोषों के लिए हार्दिक क्षमायाचना का प्राकृत सूत्र।",
       "sutras": [
-        "iriyavahiyam"
+        "iriyavahiyam",
+        "padilehana"
       ]
     },
     {
@@ -1011,7 +1674,40 @@
       "scriptForm": "मिथ्यात्व",
       "definition": "विपरीत/मिथ्या श्रद्धा; यहाँ लौकिक-लोकोत्तर और देवगत-गुरुगत भेद से चार प्रकार बताए गए हैं।",
       "sutras": [
-        "bruhad-atiyar"
+        "bruhad-atiyar",
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "mithyātva-śalya",
+      "scriptForm": "मिथ्यात्वशल्य",
+      "definition": "विपरीत श्रद्धा/मिथ्या दृष्टि रूपी काँटा (शल्य) — आत्मा में चुभा रहने वाला चरम दोष।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "mohanīya",
+      "scriptForm": "मोहनीय",
+      "definition": "आत्मा को मोह में डालने वाला कर्म; दर्शन-मोहनीय के तीन भेद — समकित-, मिश्र- और मिथ्यात्व-मोहनीय — का यहाँ परिहार।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "mṛṣāvāda",
+      "scriptForm": "मृषावाद",
+      "definition": "असत्य या झूठ बोलना।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "muhapaṭṭī",
+      "scriptForm": "मुँहपत्ति",
+      "definition": "मुख पर रखा जाने वाला छोटा श्वेत वस्त्र, जो वायुकाय व सूक्ष्म जीवों की रक्षा हेतु प्रयुक्त होता है।",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1028,6 +1724,14 @@
       "definition": "समस्त साधुओं को सादर की जाने वाली वंदना।",
       "sutras": [
         "muni-vandana"
+      ]
+    },
+    {
+      "term": "na karemi na kāravemi",
+      "scriptForm": "ન કરેમિ ન કારવેમિ",
+      "definition": "‘न मैं करूँगा, न करवाऊँगा’ — व्रत की क्रियात्मक प्रतिज्ञा।",
+      "sutras": [
+        "karemi-bhante"
       ]
     },
     {
@@ -1056,6 +1760,14 @@
       ]
     },
     {
+      "term": "namaskāra / navakāra",
+      "scriptForm": "नवकार",
+      "definition": "पंच परमेष्ठि को किया गया नमस्कार-मंत्र; जैन परम्परा का मूल एवं सर्वश्रेष्ठ मंगल मंत्र।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "Nandiṣeṇasūri",
       "scriptForm": "नंदिषेणसूरि",
       "definition": "इस स्तोत्र के रचयिता आचार्य, जिनका नाम गाथा 37 में अंकित है।",
@@ -1080,11 +1792,52 @@
       ]
     },
     {
+      "term": "navakāravālī",
+      "scriptForm": "नवकारवाली",
+      "definition": "जप-माला (माला), जिससे नवकार आदि मंत्र की गणना की जाती है।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "niḥsaṅga",
+      "scriptForm": "निःसंग",
+      "definition": "समस्त आसक्ति एवं परिग्रह से रहित, अनासक्त।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "nindā",
+      "scriptForm": "निंदामि / निंदा",
+      "definition": "अपने दोषों की स्वयं के समक्ष निन्दा (आत्म-निन्दा)।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "nirghātana",
+      "scriptForm": "निग्घायण / निर्घातन",
+      "definition": "पापकर्मों का पूर्ण नाश या उन्मूलन — इस सूत्र का घोषित लक्ष्य।",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
       "term": "nirvāṇa",
       "scriptForm": "निव्वाण / निर्वाण",
       "definition": "समस्त कर्मों का क्षय कर सिद्धि-गति (मोक्ष) की प्राप्ति।",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "nokaṣāya",
+      "scriptForm": "नोकषाय",
+      "definition": "कषाय की सहायक नौ उपवृत्तियाँ; यहाँ हास्य, रति, अरति, शोक, भय और दुगंछा (जुगुप्सा) का परिहार।",
+      "sutras": [
+        "padilehana"
       ]
     },
     {
@@ -1113,6 +1866,30 @@
       ]
     },
     {
+      "term": "paḍilehaṇā",
+      "scriptForm": "पडिलेहणा",
+      "definition": "वस्त्र (मुँहपत्ति आदि) और शरीर का जीव-रक्षा हेतु ध्यानपूर्वक निरीक्षण; यहाँ इसके साथ बोले जाने वाले ५० चिंतन-संकल्प।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "Padmāvatī",
+      "scriptForm": "पद्मावती",
+      "definition": "पार्श्वनाथ की शासन-यक्षिणी; भक्तों की रक्षिका देवी।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "paiśunya",
+      "scriptForm": "चाडी / पैशुन्य",
+      "definition": "चुगली, पीठ पीछे की दुर्भावपूर्ण बात।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "pākṣika",
       "scriptForm": "पक्खी / पाक्षिक",
       "definition": "प्रत्येक पक्ष (पंद्रह दिन) के अन्त में, चौदस को किया जाने वाला प्रतिक्रमण।",
@@ -1134,6 +1911,14 @@
       "definition": "पाक्षिक (पक्खी, हर पंद्रहवें दिन) प्रतिक्रमण, जिसकी विधि में यह स्तोत्र आता है।",
       "sutras": [
         "smaran-2-ajitshanti"
+      ]
+    },
+    {
+      "term": "Pālitta",
+      "scriptForm": "पालित्तय (पादलिप्त)",
+      "definition": "आचार्य पादलिप्तसूरि; परंपरानुसार इस स्तव से संबद्ध, छठी गाथा में नामांकित (आरोपण संदिग्ध)।",
+      "sutras": [
+        "smaran-3-virstava"
       ]
     },
     {
@@ -1180,9 +1965,10 @@
     {
       "term": "pañca-parameṣṭhin",
       "scriptForm": "पंच परमेष्ठि",
-      "definition": "पाँच परम पूज्य — अरिहंत, सिद्ध, आचार्य, उपाध्याय और साधु; नवकार महामंत्र के पाँच नमस्कार-पात्र।",
+      "definition": "पाँच परम पूज्य — अरिहंत, सिद्ध, आचार्य, उपाध्याय और साधु; नवकार मंत्र इन्हीं को नमस्कार करता है।",
       "sutras": [
-        "panch-parmeshthi-sajjhay"
+        "panch-parmeshthi-sajjhay",
+        "smaran-1-bruhannamaskar"
       ]
     },
     {
@@ -1202,6 +1988,30 @@
       ]
     },
     {
+      "term": "pañcendriya tiryañca",
+      "scriptForm": "पंचेन्द्रिय तिर्यंच",
+      "definition": "पाँच इन्द्रिय वाले पशु-पक्षी आदि तिर्यंच जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "paṅkaja",
+      "scriptForm": "पंकय (पंकज)",
+      "definition": "कमल; जिससे जिन के नेत्र उपमित हैं।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "pāpa-karma",
+      "scriptForm": "पाव कम्म / पापकर्म",
+      "definition": "अशुभ कर्म जो आत्मा से बँधकर संसार-भ्रमण का कारण बनते हैं।",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
       "term": "pāpa-prabandha",
       "scriptForm": "पावपबंध",
       "definition": "पाप का बंधन या पाप-कर्मों की शृंखला, जो नाम-स्मरण से विलय (शिथिल/नष्ट) होती है।",
@@ -1218,11 +2028,52 @@
       ]
     },
     {
+      "term": "pāpasthānaka",
+      "scriptForm": "पापस्थानक",
+      "definition": "पाप के स्थान या द्वार — वे मूल स्रोत जिनसे कर्म-बन्ध होता है; यहाँ इनकी संख्या अठारह है।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "paraparivāda",
+      "scriptForm": "परपरिवाद",
+      "definition": "दूसरों की निन्दा या परदोष-कथन।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "parigraha",
+      "scriptForm": "परिग्रह",
+      "definition": "वस्तुओं के प्रति ममत्व एवं संग्रह-वृत्ति।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "Pārśva-yakṣa",
+      "scriptForm": "पार्श्व-यक्ष",
+      "definition": "पार्श्वनाथ का अधिष्ठायक यक्ष, जो प्रभु की सेवा में रहता है (गा. १२)।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "Pārśvanātha",
       "scriptForm": "पार्श्वनाथ",
       "definition": "तेईसवें तीर्थंकर, इस स्तोत्र के आराध्य; प्राकृत में 'पास'।",
       "sutras": [
-        "smaran-5-namiun-bhayahar"
+        "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "paryupāsanā",
+      "scriptForm": "पज्जुवासामि",
+      "definition": "उपासना/सेवन में स्थित रहना — 'जब तक मैं देशावगासिक की उपासना करता रहूँ' इस अवधि-सूचक रूप में प्रयुक्त।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan"
       ]
     },
     {
@@ -1269,6 +2120,14 @@
       ]
     },
     {
+      "term": "pidhāna",
+      "scriptForm": "पिधान",
+      "definition": "ढक्कन/आवरण; परकोटे के ऊपर रखा वज्रमय ढक्कन जो ऊपर से देह की रक्षा करता है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "piṇḍa",
       "scriptForm": "पिंड",
       "definition": "भिक्षा में प्राप्त आहार; 'णाणापिंड' = विविध घरों से थोड़ा-थोड़ा आहार।",
@@ -1285,13 +2144,105 @@
       ]
     },
     {
+      "term": "poṣadha",
+      "scriptForm": "पोसह",
+      "definition": "पर्व-दिनों पर लिया जाने वाला उपवास-सह संयम-व्रत, जिसमें उपासक साधु-तुल्य आचरण करता है।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "prabhāvanā",
+      "scriptForm": "पभावणा",
+      "definition": "धर्म/तीर्थ की महिमा का प्रसार — शासन-प्रभावना के कार्य।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "pramāda",
+      "scriptForm": "प्रमाद",
+      "definition": "असावधानी, आलस्य या अनवधानता — विराधना का मूल कारण।",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "prāṇātipāta",
+      "scriptForm": "प्राणातिपात",
+      "definition": "किसी भी जीव के प्राणों का अतिपात अर्थात् हिंसा या घात।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "pratikramaṇa",
-      "scriptForm": "प्रतिक्रमण",
+      "scriptForm": "पडिक्कमामि / प्रतिक्रमण",
       "definition": "‘लौट आना’—दोषों की आलोचना, निन्दा एवं प्रायश्चित्त द्वारा सम्यक् आचरण में वापसी की क्रिया।",
       "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante",
         "navkar",
         "pakkhi-khamana",
         "suguru-dwadashavarta-vandana"
+      ]
+    },
+    {
+      "term": "pratyākhyāna",
+      "scriptForm": "पच्चक्खाण / पच्चक्खामि",
+      "definition": "त्याग/प्रत्याख्यान — किसी प्रवृत्ति को न करने का संकल्प; छठा आवश्यक भी इसी से सम्बद्ध है।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav",
+        "karemi-bhante"
+      ]
+    },
+    {
+      "term": "pratyākhyāna / paccakkhāṇa",
+      "scriptForm": "पच्चक्खाण",
+      "definition": "त्याग या नियम का संकल्प; छठा आवश्यक, जिसके अंतर्गत सामायिक का पारना आता है।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "pratyeka-vanaspatikāya",
+      "scriptForm": "प्रत्येक वनस्पतिकाय",
+      "definition": "जहाँ एक शरीर में एक ही जीव हो ऐसी वनस्पति (प्रत्येक-शरीरी)।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "prāyaścitta",
+      "scriptForm": "पायच्छित्त / प्रायश्चित्त",
+      "definition": "किए गए दोषों का शोधन करने वाला विहित दण्ड या अनुष्ठान।",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "preta-piśāca",
+      "scriptForm": "प्रेत-पिशाच",
+      "definition": "अनिष्टकारी सूक्ष्म योनियाँ, जिनका नाश मन्त्राक्षरों से कहा गया (गा. ३, १३)।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "pṛthvīkāya",
+      "scriptForm": "पृथ्वीकाय",
+      "definition": "पृथ्वी (मिट्टी, पत्थर आदि) को शरीर रूप धारण करने वाले एकेन्द्रिय जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "puruṣa-vara-puṇḍarīka",
+      "scriptForm": "पुरिसवर पुंडरीअ",
+      "definition": "पुरुषों में श्रेष्ठ श्वेत-कमल; कीचड़ (संसार) में उपजकर भी निर्लेप रहने का रूपक।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1303,6 +2254,23 @@
       ]
     },
     {
+      "term": "rāga",
+      "scriptForm": "राग",
+      "definition": "आसक्ति; काम-राग (विषय-वासना), स्नेह-राग (मोहजन्य प्रीति) और दृष्टि-राग (मतांध आग्रह) — तीनों त्याज्य।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "rāga-dveṣa",
+      "scriptForm": "राग-द्वेष",
+      "definition": "आसक्ति (राग) तथा विद्वेष (द्वेष) — समभाव में बाधक दो मूल विकार, जिनसे रहित होकर सामायिक करना है।",
+      "sutras": [
+        "adhar-papsthanak",
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "rajoharaṇa",
       "scriptForm": "रजोहरण (ओघा)",
       "definition": "ऊनी प्रमार्जनी जिससे साधु जीव-रक्षा हेतु स्थान-वस्त्र की पूंजणी करता है।",
@@ -1311,11 +2279,43 @@
       ]
     },
     {
+      "term": "ratha-yātrā",
+      "scriptForm": "रहजत्ता",
+      "definition": "जिन-प्रतिमा की रथ-शोभायात्रा निकालने का धार्मिक कृत्य।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "rati-arati",
+      "scriptForm": "रति-अरति",
+      "definition": "विषयों में अत्यधिक रुचि (रति) और अरुचि/उद्वेग (अरति)।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
       "term": "ratna-karaṇḍaka",
       "scriptForm": "रयण करंडग / रत्नकरण्डक",
       "definition": "रत्नों की पेटी — अनुयोग रूपी अमूल्य निधि का रूपक, जिसका रक्षक आर्यरक्षित को कहा गया।",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "ratnatraya",
+      "scriptForm": "रत्नत्रय",
+      "definition": "सम्यग्-ज्ञान, सम्यग्-दर्शन और सम्यग्-चारित्र — मोक्षमार्ग के तीन रत्न, जिन्हें यहाँ 'आदरूँ' कहा गया है।",
+      "sutras": [
+        "padilehana"
+      ]
+    },
+    {
+      "term": "rātrika pratikramaṇa",
+      "scriptForm": "रात्रिक (राई) प्रतिक्रमण",
+      "definition": "प्रतिदिन सूर्योदय से पूर्व किया जाने वाला, रात के दोषों की आलोचना का प्रतिक्रमण।",
+      "sutras": [
+        "rai-mangalacharan"
       ]
     },
     {
@@ -1336,10 +2336,43 @@
     },
     {
       "term": "ṣaḍ-āvaśyaka",
-      "scriptForm": "षड्-आवश्यक",
-      "definition": "प्रत्येक प्रतिक्रमण के छह अनिवार्य अंग — सामायिक, चतुर्विंशतिस्तव, वंदनक, प्रतिक्रमण, कायोत्सर्ग और प्रत्याख्यान।",
+      "scriptForm": "छव्विह आवस्सय",
+      "definition": "छह दैनिक आवश्यक कर्म (सामायिक, चतुर्विंशति-स्तव, वंदना, प्रतिक्रमण, कायोत्सर्ग, प्रत्याख्यान), जिनमें श्रावक को प्रतिदिन उद्यत रहना है।",
       "sutras": [
+        "mannaha-jinanam-sajjhay",
         "panchindiya"
+      ]
+    },
+    {
+      "term": "ṣaḍ-jīva-karuṇā",
+      "scriptForm": "छज्जीवकरुणा",
+      "definition": "छह जीव-निकायों (पृथ्वी, जल, अग्नि, वायु, वनस्पति, त्रस) के प्रति करुणा।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
+      "term": "saddahaṇā",
+      "scriptForm": "सद्दहणा (श्रद्धा)",
+      "definition": "'तमेव सच्चं निस्संकं' — जिनेन्द्र द्वारा कथित को ही निःशंक सत्य मानने की दृढ़ श्रद्धा।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "sādhāraṇa-vanaspatikāya",
+      "scriptForm": "साधारण वनस्पतिकाय",
+      "definition": "जहाँ एक शरीर में अनन्त जीव सामूहिक रूप से रहें ऐसी वनस्पति (निगोद / अनन्तकाय)।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "sādharmika-vātsalya",
+      "scriptForm": "साहम्मिआण वच्छल्लं",
+      "definition": "सहधर्मी (समान धर्म वाले) जनों के प्रति स्नेह, सेवा और सहायता।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1371,9 +2404,10 @@
     {
       "term": "sajjhāya",
       "scriptForm": "सज्झाय",
-      "definition": "स्वाध्याय; आत्म-कल्याण हेतु शास्त्र-पाठ या पुण्यस्मरण का पठन — यह छह आवश्यकों में से एक नहीं, अपितु अध्ययन-भाग का पाठ है।",
+      "definition": "स्वाध्याय — पवित्र पाठ का अध्ययन/उच्चारण; प्रतिक्रमण के समापन-भाग में किया जाने वाला अध्ययन-पाठ, जो छह आवश्यकों से अलग है।",
       "sutras": [
         "bharahesar-sajjhay",
+        "mannaha-jinanam-sajjhay",
         "nandisutrani-pratham-sajay",
         "panch-parmeshthi-sajjhay"
       ]
@@ -1384,6 +2418,23 @@
       "definition": "सद्ग्रन्थों का पठन-पाठन रूप पवित्र अध्ययन; यह छह आवश्यकों में से नहीं, अपितु प्रतिक्रमण के अध्ययन-खण्ड का पाठ है।",
       "sutras": [
         "nandisutrani-dvitiya-sajay"
+      ]
+    },
+    {
+      "term": "śakra-stava",
+      "scriptForm": "शक्रस्तव",
+      "definition": "देवराज शक्र (इन्द्र) द्वारा कही गई स्तुति; इसी कारण नमुत्थुणं का यह नाम है।",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "śalya",
+      "scriptForm": "शल्य",
+      "definition": "काँटा; आत्मा को पीड़ित करने वाला दोष — परम्परा में माया, निदान और मिथ्यादर्शन ये तीन शल्य।",
+      "sutras": [
+        "padilehana",
+        "tassa-uttari"
       ]
     },
     {
@@ -1399,7 +2450,19 @@
       "scriptForm": "समवसरण",
       "definition": "केवलज्ञान के पश्चात् देवों द्वारा रचित दिव्य धर्मसभा-मंडप, जहाँ जिन देशना देते हैं।",
       "sutras": [
+        "ashtottari-tirthmala",
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "sāmāyika",
+      "scriptForm": "सामाइयं / सामायिक",
+      "definition": "समता का व्रत — अड़तालीस मिनट (दो घड़ी) तक राग-द्वेष छोड़कर समभाव में स्थित रहने की साधना; पहला आवश्यक।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav",
+        "karemi-bhante",
+        "samayik-parvani"
       ]
     },
     {
@@ -1407,6 +2470,7 @@
       "scriptForm": "समिति",
       "definition": "सम्यक प्रवृत्ति की पाँच सावधानियाँ — ईर्या, भाषा, एषणा, आदान-निक्षेप और पारिष्ठापनिका (उत्सर्ग) समिति।",
       "sutras": [
+        "gamanagamano",
         "panchindiya"
       ]
     },
@@ -1416,6 +2480,22 @@
       "definition": "नाम का उच्चारण/कीर्तन; गाथा 18 में नाम-संकीर्तन से भय-शमन कहा गया है।",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "sampadā",
+      "scriptForm": "संपदा",
+      "definition": "विशेषणों का एक समूह/खंड; नमुत्थुणं की नौ क्रमिक रचना-इकाइयाँ।",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
+      "term": "saṁvara",
+      "scriptForm": "संवर",
+      "definition": "नए कर्मों के आस्रव (प्रवाह) का निरोध; आत्मा में कर्म-प्रवेश रोकना।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1431,7 +2511,9 @@
       "scriptForm": "सम्यक्त्व (समकित)",
       "definition": "देव-गुरु-धर्म में सच्ची श्रद्धा; व्रतों का आधार, जिसकी शुद्धि भूमिका में पहले की जाती है।",
       "sutras": [
-        "laghu-atiyar"
+        "laghu-atiyar",
+        "mannaha-jinanam-sajjhay",
+        "smaran-4-upasargahar"
       ]
     },
     {
@@ -1456,6 +2538,14 @@
       "definition": "चतुर्विध जैन संघ — साधु, साध्वी, श्रावक और श्राविका का समुदाय।",
       "sutras": [
         "nandisutrani-pratham-sajay"
+      ]
+    },
+    {
+      "term": "saṅghaṭṭa",
+      "scriptForm": "संघट्ट",
+      "definition": "स्पर्श, टकराव या आघात — चलते समय जीवों या व्यक्तियों से अनजाने में हुआ संपर्क।",
+      "sutras": [
+        "gamanagamano"
       ]
     },
     {
@@ -1492,6 +2582,14 @@
       ]
     },
     {
+      "term": "śāsana",
+      "scriptForm": "शासन",
+      "definition": "तीर्थंकर-प्रवर्तित धर्म-व्यवस्था; पद 5 में 'जैनं जयति शासनं' से उसकी जय-घोष।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "śāśvata / aśāśvata",
       "scriptForm": "शाश्वत / अशाश्वत",
       "definition": "नित्य (अनादि-अनन्त) जिन-चैत्य व प्रतिमाएँ बनाम अनित्य (कालकृत) तीर्थ।",
@@ -1500,11 +2598,61 @@
       ]
     },
     {
+      "term": "śāśvata jina",
+      "scriptForm": "शाश्वत जिन",
+      "definition": "सदा विद्यमान रहने वाले चार नित्य जिन-नाम — ऋषभानन, चंद्रानन, वर्धमान एवं वारिषेण।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "śāśvata-pratimā",
+      "scriptForm": "शाश्वत-प्रतिमा",
+      "definition": "अनादि-अनंत, सदा विद्यमान रहने वाली जिन-प्रतिमाएँ, जिनकी विशाल संख्या पद्य २३–३३ में गिनाई गई है।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "ṣaṭ-jīvanikāya",
+      "scriptForm": "छह जीवनिकाय (छव्विह जीवनिकाय)",
+      "definition": "पृथ्वी, अप्, तेज, वायु, वनस्पति एवं त्रस — जीवों के छह वर्ग, जिनसे क्षमायाचना की जाती है।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "ṣaṭ-koṭi",
+      "scriptForm": "छह कोटि",
+      "definition": "दो करण (न करूँ, न कराऊँ) × तीन योग (मन, वचन, काय) = छह प्रकार से व्रत-ग्रहण; श्रावक-सामायिक का स्वरूप।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "satī",
       "scriptForm": "सती / सइ",
       "definition": "शील एवं सदाचार में दृढ़ रहने वाली आदर्श स्त्री; यहाँ ४७ महासतियों का स्मरण किया गया है।",
       "sutras": [
         "bharahesar-sajjhay"
+      ]
+    },
+    {
+      "term": "ṣaṭkāya",
+      "scriptForm": "षट्काय",
+      "definition": "पृथ्वी-, अप्- (जल), तेउ- (अग्नि), वाउ- (वायु), वनस्पति- और त्रस-काय — छह प्रकार के जीव, जिनकी विराधना से बचना है।",
+      "sutras": [
+        "gamanagamano",
+        "padilehana"
+      ]
+    },
+    {
+      "term": "sāvadya-yoga",
+      "scriptForm": "सावज्जं जोगं",
+      "definition": "पाप-सहित (हिंसादि से युक्त) मन-वचन-काया की प्रवृत्ति, जिसका यहाँ त्याग किया जाता है।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante"
       ]
     },
     {
@@ -1524,6 +2672,22 @@
         "navkar",
         "pakkhi-khamana",
         "panch-parmeshthi-sajjhay"
+      ]
+    },
+    {
+      "term": "siddhi",
+      "scriptForm": "सिद्धि",
+      "definition": "साधना की सफलता/अभीष्ट-प्राप्ति; स्तोत्र को 'सर्व-सिद्धिदायक' कहा गया (गा. ११, १४)।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
+      "term": "siddhi-gati",
+      "scriptForm": "सिद्धि-गइ",
+      "definition": "मुक्त आत्माओं का स्थान/अवस्था — शिव, अचल, अव्याबाध, अपुनरावृत्ति वाला मोक्ष।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1553,6 +2717,14 @@
       ]
     },
     {
+      "term": "śiraska",
+      "scriptForm": "शिरस्क",
+      "definition": "सिर का रक्षा-कवच, शिरस्त्राण/टोप; 'अरिहंताणं' पद को सिर पर इसी रूप में स्थापित किया जाता है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
       "term": "śleṣma",
       "scriptForm": "खेल (कफ)",
       "definition": "कफ; उसकी सूक्ष्म हलचल आगारों में गिनी गई है।",
@@ -1565,8 +2737,13 @@
       "scriptForm": "स्मरण",
       "definition": "रक्षा एवं मंगल हेतु श्रद्धापूर्वक स्मरण किया जाने वाला स्तोत्र; पक्खी में पढ़े जाने वाले नौ ऐसे स्तोत्रों ('नव स्मरण') में यह नवाँ है।",
       "sutras": [
+        "smaran-1-bruhannamaskar",
         "smaran-2-ajitshanti",
+        "smaran-3-virstava",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
+        "smaran-6-jirapalli-parshva",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
       ]
@@ -1585,6 +2762,15 @@
       "definition": "संयमपूर्वक साधना करने वाला साधु।",
       "sutras": [
         "drumapushpika-sajjhay"
+      ]
+    },
+    {
+      "term": "śrāvaka",
+      "scriptForm": "श्रावक",
+      "definition": "गृहस्थ जैन उपासक; गाथा में प्राकृत रूप 'सढ्ढ' से सूचित, जिसके कर्तव्य यहाँ गिनाए गए हैं।",
+      "sutras": [
+        "gamanagamano",
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1612,11 +2798,28 @@
       ]
     },
     {
+      "term": "śrutakevalī",
+      "scriptForm": "श्रुतकेवली",
+      "definition": "जिसे सम्पूर्ण आगम-श्रुत का पूर्ण ज्ञान हो।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "stambhana",
+      "scriptForm": "स्तम्भन",
+      "definition": "रोकने/कीलित करने की तान्त्रिक क्रिया; गाथा ४ में कर्म-विडम्बनाओं के स्तम्भन हेतु।",
+      "sutras": [
+        "smaran-6-jirapalli-parshva"
+      ]
+    },
+    {
       "term": "stava",
       "scriptForm": "स्तव",
-      "definition": "स्तुति-काव्य, गुणगान करने वाला भक्ति-स्तोत्र।",
+      "definition": "स्तुति-काव्य; किसी इष्ट देव की पद्यबद्ध प्रशंसा।",
       "sutras": [
-        "smaran-2-ajitshanti"
+        "smaran-2-ajitshanti",
+        "smaran-6-jirapalli-parshva"
       ]
     },
     {
@@ -1652,11 +2855,35 @@
       ]
     },
     {
+      "term": "Sthūlabhadra",
+      "scriptForm": "स्थूलभद्र",
+      "definition": "श्वेताम्बर परम्परा में अत्यन्त पूज्य आचार्य; अन्तिम श्रुतकेवलियों में गिने जाते हैं।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "stotra / saṁthava",
       "scriptForm": "स्तोत्र / संथव",
       "definition": "स्तुति-काव्य; प्राकृत में 'संथव' (संस्तव) उसी का रूप है, जिसका प्रयोग गाथा 1 में हुआ है।",
       "sutras": [
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "stuti",
+      "scriptForm": "स्तुति",
+      "definition": "देव-गुरु की भक्तिपूर्ण प्रशंसा; इस सूत्र का 'प्रकार' (kind)।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "suguru-upadeśa",
+      "scriptForm": "सुगुरुवएसेण",
+      "definition": "सद्गुरु के उपदेश/मार्गदर्शन के अनुसार आचरण — समापन-पंक्ति का मूल भाव।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
       ]
     },
     {
@@ -1692,6 +2919,14 @@
       ]
     },
     {
+      "term": "svayaṃ-saṃbuddha",
+      "scriptForm": "स्वयंसंबुद्ध",
+      "definition": "बिना किसी अन्य के उपदेश के स्वयं ही बोध को प्राप्त करने वाले।",
+      "sutras": [
+        "smaran-7-shakrastava"
+      ]
+    },
+    {
       "term": "tapa-niyama",
       "scriptForm": "तव नियम / तप-नियम",
       "definition": "तप तथा संयम के नियम; जिनमें आचार्य की दृढ़ता को 'वज्र-सम' कहा गया है।",
@@ -1716,6 +2951,22 @@
       ]
     },
     {
+      "term": "teindriya",
+      "scriptForm": "तेइन्द्रिय",
+      "definition": "स्पर्श, रस एवं घ्राण — तीन इन्द्रिय वाले जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "teukāya",
+      "scriptForm": "तेउकाय",
+      "definition": "अग्नि को शरीर रूप धारण करने वाले एकेन्द्रिय जीव।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
       "term": "tihuaṇa",
       "scriptForm": "तिहुअण",
       "definition": "त्रिभुवन — तीनों लोक (ऊर्ध्व, मध्य, अधो); जहाँ महासतियों का यश व्याप्त है।",
@@ -1724,13 +2975,31 @@
       ]
     },
     {
+      "term": "tīrtha",
+      "scriptForm": "तीर्थ",
+      "definition": "पवित्र तीर्थस्थान — जहाँ तीर्थंकर का जन्म, दीक्षा, ज्ञान, निर्वाण या समवसरण हुआ हो; भवसागर पार कराने वाला 'घाट'।",
+      "sutras": [
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "tīrtha-yātrā",
+      "scriptForm": "तित्थजत्ता",
+      "definition": "तीर्थ-स्थानों की यात्रा और दर्शन-भक्ति।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "tīrthaṅkara",
       "scriptForm": "तीर्थंकर",
       "definition": "केवलज्ञान प्राप्त वे अरिहन्त जो धर्म-तीर्थ की स्थापना करते हैं; एक काल-चक्र में भरतक्षेत्र में चौबीस।",
       "sutras": [
+        "ashtottari-tirthmala",
         "kevalnani-chaityavandan",
         "logassa",
         "nandisutrani-pratham-sajay",
+        "smaran-7-shakrastava",
         "smaran-8-laghu-ajitshanti",
         "smaran-9-bruhad-ajitshanti"
       ]
@@ -1741,6 +3010,54 @@
       "definition": "तीन लोक — अधोलोक (पाताल), मध्यलोक (तिर्यक्), ऊर्ध्वलोक (स्वर्ग)।",
       "sutras": [
         "kevalnani-chaityavandan"
+      ]
+    },
+    {
+      "term": "trailokya-divākara",
+      "scriptForm": "तिअलुक्क दिवायर",
+      "definition": "तीनों लोकों का सूर्य; जिन के लिए प्रयुक्त उपमा।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
+      "term": "trasa",
+      "scriptForm": "त्रस",
+      "definition": "गतिशील (हिल-डुल सकने वाले) जीव — दो से पाँच इन्द्रिय वाले।",
+      "sutras": [
+        "jivrashi"
+      ]
+    },
+    {
+      "term": "trasakāya",
+      "scriptForm": "त्रसकाय",
+      "definition": "गतिशील (त्रस) जीव — जो हिल-डुल सकते हैं; स्थावर जीवों से भिन्न।",
+      "sutras": [
+        "gamanagamano"
+      ]
+    },
+    {
+      "term": "tri-karaṇa",
+      "scriptForm": "त्रिविध करण",
+      "definition": "करना, कराना और अनुमोदन — तीन प्रकार से दोष में सहभागिता; यहाँ 'सेव्यू, सेवराव्यू, अनुमोद्यू' से सूचित।",
+      "sutras": [
+        "adhar-papsthanak"
+      ]
+    },
+    {
+      "term": "trikāla-vandanā",
+      "scriptForm": "त्रिकाल वंदना",
+      "definition": "भूत, वर्तमान एवं भविष्य — तीनों कालों में बारंबार किया जाने वाला नमन।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
+      "term": "triviha (trividha)",
+      "scriptForm": "तिविह",
+      "definition": "त्रिविध — मन, वचन और काय इन तीनों से (वंदना)।",
+      "sutras": [
+        "smaran-7-shakrastava"
       ]
     },
     {
@@ -1774,8 +3091,33 @@
       "definition": "देव-मनुष्य-तिर्यंच आदि द्वारा उत्पन्न विघ्न/उपद्रव, जिनकी शांति इस पाठ से कही गई है।",
       "sutras": [
         "smaran-2-ajitshanti",
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar",
         "smaran-8-laghu-ajitshanti"
+      ]
+    },
+    {
+      "term": "upasargahara",
+      "scriptForm": "उवसग्गहर / उपसर्गहर",
+      "definition": "उपसर्गों (संकटों) को हरने वाला — यहाँ पार्श्वनाथ का विशेषण और स्तोत्र का नाम।",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "upāśraya",
+      "scriptForm": "उपाश्रय",
+      "definition": "साधु-साध्वी एवं श्रावकों के धार्मिक अनुष्ठान/स्थिरवास का स्थान।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "uttarīkaraṇa",
+      "scriptForm": "उत्तरीकरण",
+      "definition": "आत्मा को और अधिक — पूर्व आलोचना से ऊपर — विशेष रूप से शुद्ध करने की क्रिया।",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1812,6 +3154,22 @@
       ]
     },
     {
+      "term": "vajra-pañjara",
+      "scriptForm": "वज्रपंजर",
+      "definition": "'हीरे का पिंजरा' — अभेद्य रक्षा-घेरा; इस स्तोत्र का उपनाम, जिसमें नवकार को चारों ओर के अटूट कवच-दुर्ग रूप में कल्पित किया गया है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "Vajrasvāmī",
+      "scriptForm": "वज्रस्वामी (वयर)",
+      "definition": "महान् लब्धिधारी आचार्य; पद 2 में 'तीजा वयर' रूप में स्मरणीय।",
+      "sutras": [
+        "rai-mangalacharan"
+      ]
+    },
+    {
       "term": "vandana",
       "scriptForm": "वंदन",
       "definition": "विनयपूर्वक नमन-प्रणाम (वंदे, वंदामि)।",
@@ -1837,11 +3195,35 @@
       ]
     },
     {
+      "term": "vapra",
+      "scriptForm": "वप्र",
+      "definition": "दुर्ग का परकोटा/प्राचीर; गाथा ५ में 'सव्व पावप्पणासणो' पद को बाहरी वज्रमय परकोटा कहा गया है।",
+      "sutras": [
+        "smaran-1-bruhannamaskar"
+      ]
+    },
+    {
+      "term": "Vardhamāna",
+      "scriptForm": "वर्धमान",
+      "definition": "महावीर का जन्म-नाम; चौबीसवें एवं अंतिम तीर्थंकर।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "varṣīdāna",
       "scriptForm": "वर्षीदान",
       "definition": "दीक्षा से पूर्व एक वर्ष तक प्रतिदिन किया जाने वाला महादान (श्लोक ९)।",
       "sutras": [
         "smaran-9-bruhad-ajitshanti"
+      ]
+    },
+    {
+      "term": "vāukāya",
+      "scriptForm": "वाउकाय",
+      "definition": "वायु को शरीर रूप धारण करने वाले एकेन्द्रिय जीव।",
+      "sutras": [
+        "jivrashi"
       ]
     },
     {
@@ -1870,6 +3252,14 @@
       ]
     },
     {
+      "term": "vihamāna jina",
+      "scriptForm": "विहरमान जिन",
+      "definition": "इस समय महाविदेह क्षेत्र में विचरते बीस जीवित तीर्थंकर, जिनमें श्री सीमंधर स्वामी प्रमुख हैं।",
+      "sutras": [
+        "samayik-parvani"
+      ]
+    },
+    {
       "term": "viharamāṇa",
       "scriptForm": "विहरमान",
       "definition": "वर्तमान में महाविदेह में विचरण करते हुए जीवित तीर्थंकर।",
@@ -1878,11 +3268,21 @@
       ]
     },
     {
-      "term": "virādhanā",
-      "scriptForm": "विराहणा / विराधना",
-      "definition": "जीवों को कष्ट पहुँचाना, हानि या हिंसा करना।",
+      "term": "viharamāṇa-jina",
+      "scriptForm": "विहरमान जिन",
+      "definition": "महाविदेह आदि क्षेत्रों में इस समय विचरण कर रहे बीस जीवित तीर्थंकर (सीमंधर आदि)।",
       "sutras": [
-        "iriyavahiyam"
+        "ashtottari-tirthmala"
+      ]
+    },
+    {
+      "term": "virādhanā",
+      "scriptForm": "विराधना",
+      "definition": "जीवों को पहुँचा कष्ट या व्रत/नियम का खण्डन; प्रमादवश हुई हानि।",
+      "sutras": [
+        "gamanagamano",
+        "iriyavahiyam",
+        "padilehana"
       ]
     },
     {
@@ -1894,11 +3294,44 @@
       ]
     },
     {
+      "term": "vīrastava",
+      "scriptForm": "वीरस्तव",
+      "definition": "भगवान वीर (महावीर) की स्तुति; नव स्मरणों में तृतीय स्तोत्र।",
+      "sutras": [
+        "smaran-3-virstava"
+      ]
+    },
+    {
       "term": "viṣadhara",
-      "scriptForm": "विषधर",
+      "scriptForm": "विसहर / विषधर",
       "definition": "सर्प; गाथा 8–9 का विषय, जिसका विष नाम-मन्त्र से शान्त होता है।",
       "sutras": [
+        "smaran-4-upasargahar",
         "smaran-5-namiun-bhayahar"
+      ]
+    },
+    {
+      "term": "viṣahara-phuliṅga-mantra",
+      "scriptForm": "विसहर-फुलिंग-मंत",
+      "definition": "'विष-हरण की चिनगारी' नामक रक्षाकारी मंत्र, जिसका उल्लेख गाथा (2) में है; इसे कंठ में धारण करने से पीड़ाएँ शांत होती हैं।",
+      "sutras": [
+        "smaran-4-upasargahar"
+      ]
+    },
+    {
+      "term": "viśalyīkaraṇa",
+      "scriptForm": "विसल्लीकरण",
+      "definition": "आत्मा में चुभे 'शल्य' (काँटे रूपी दोषों) को निकाल बाहर करना।",
+      "sutras": [
+        "tassa-uttari"
+      ]
+    },
+    {
+      "term": "viśodhi",
+      "scriptForm": "विसोही / विशोधि",
+      "definition": "आत्मा की भीतरी मलिनता को धो डालने वाली शुद्धि।",
+      "sutras": [
+        "tassa-uttari"
       ]
     },
     {
@@ -1918,6 +3351,22 @@
       ]
     },
     {
+      "term": "vratī",
+      "scriptForm": "व्रती",
+      "definition": "व्रतधारी व्यक्ति — जो स्वयं नियम/व्रत में स्थित है।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
+      "term": "vyavahāra-śuddhi",
+      "scriptForm": "ववहारस्स सुद्धी",
+      "definition": "व्यवहार/आजीविका में शुद्धता — ईमानदार और न्यायपूर्ण लेन-देन।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "vyutsarga",
       "scriptForm": "वोसिरामि (व्युत्सर्ग)",
       "definition": "त्याग, विसर्जन; यहाँ पाप का परित्याग — 'वोसिरामि' = 'मैं त्यागता हूँ'।",
@@ -1928,9 +3377,11 @@
     },
     {
       "term": "vyutsarjana",
-      "scriptForm": "वोसिरामि",
-      "definition": "दुष्कृत/दोषमय भाव का त्याग, व्युत्सर्ग।",
+      "scriptForm": "वोसिरामि / व्युत्सर्ग",
+      "definition": "‘वोसिराना’ — पापमय आत्मभाव/ममत्व का विसर्जन; कायोत्सर्ग-भाव से उसका त्याग।",
       "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "karemi-bhante",
         "suguru-dwadashavarta-vandana"
       ]
     },
@@ -1951,6 +3402,14 @@
       ]
     },
     {
+      "term": "yatanā",
+      "scriptForm": "जयणा",
+      "definition": "जीव-रक्षा हेतु सावधानी; प्रत्येक क्रिया में अहिंसा-पूर्वक यतनापूर्वक चलना-उठना।",
+      "sutras": [
+        "mannaha-jinanam-sajjhay"
+      ]
+    },
+    {
       "term": "yathājāta",
       "scriptForm": "यथाजात",
       "definition": "नवजात-सम निरभिमान विनय-मुद्रा; वंदना के 25 आवश्यकों में एक।",
@@ -1967,6 +3426,14 @@
       ]
     },
     {
+      "term": "yathāśakti",
+      "scriptForm": "यथाशक्ति",
+      "definition": "अपनी सामर्थ्य के अनुसार — भाव-पालन में जितनी क्षमता हो उतनी निष्ठा से।",
+      "sutras": [
+        "dravya-kshetra-kaal-bhav"
+      ]
+    },
+    {
       "term": "yātrā",
       "scriptForm": "जत्ता",
       "definition": "तप-नियम-संयम रूप 'संयम-यात्रा', जिसकी कुशलता पद 4 में पूछी जाती है।",
@@ -1980,6 +3447,15 @@
       "definition": "'जब तक...तब तक'—कायोत्सर्ग की अवधि बाँधने वाला युग्म।",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "yoga",
+      "scriptForm": "जोग / योग",
+      "definition": "प्रवृत्ति के तीन माध्यम — मन, वचन और काय (शरीर)।",
+      "sutras": [
+        "deshavagasik-samayik-pachchakkhan",
+        "dravya-kshetra-kaal-bhav"
       ]
     },
     {

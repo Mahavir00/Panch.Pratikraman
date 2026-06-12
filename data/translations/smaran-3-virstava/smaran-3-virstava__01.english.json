@@ -1,0 +1,158 @@
+{
+  "shlokaId": "smaran-3-virstava/01",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Glory to Lord Mahāvīra, whose eyes are as lovely as freshly opened lotuses and water-lilies, and who moves with the calm, majestic grace of a great elephant.",
+  "recitation": "jayaï navanaliṇa-kuvalaya-viasia-sayavatta-pattala-dalaccho | vīro gayanda-mayagala-sulalia-gaïvikkamo bhayavaṁ ||",
+  "wordByWord": [
+    {
+      "token": "જયઇ",
+      "translit": "jayaï",
+      "gloss": "is victorious; glory be (to him); he triumphs",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jayaï < Sanskrit jayati, from √ji 'to conquer, prevail'; the opening cry of acclamation (jaya) characteristic of a stava.",
+      "notes": "Present 3rd-sg., but functions devotionally as 'all-hail / victory to'. Governs vīro… bhayavaṁ in the second line."
+    },
+    {
+      "token": "નવનલિણ",
+      "translit": "nava-naliṇa",
+      "gloss": "fresh/newly-opened lotus",
+      "partOfSpeech": "compound",
+      "etymology": "nava 'new, fresh' + naliṇa (< Sanskrit nalina) 'lotus'.",
+      "notes": "First member of the long bahuvrīhi describing the Jina's eyes."
+    },
+    {
+      "token": "કુવલય",
+      "translit": "kuvalaya",
+      "gloss": "blue water-lily / blue lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kuvalaya, the night-blooming blue lily (Nymphaea), a stock emblem of dark, lovely eyes.",
+      "notes": "Second flower in the eye-simile."
+    },
+    {
+      "token": "વિઅસિઅ",
+      "translit": "viasia",
+      "gloss": "blossomed, full-blown, opened",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit viasia < Sanskrit vikasita (past part. of vi-√kas 'to open, expand').",
+      "notes": "Qualifies the preceding flowers — they are in full bloom, hence at the peak of beauty."
+    },
+    {
+      "token": "સયવત્ત",
+      "translit": "sayavatta",
+      "gloss": "hundred-petalled lotus",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sayavatta < Sanskrit śata-patra 'hundred-petalled', a classical name of the (day) lotus.",
+      "notes": "Third flower; the triad nalina/kuvalaya/śatapatra heaps fresh, blue and many-petalled lotuses into one image."
+    },
+    {
+      "token": "પત્તલ",
+      "translit": "pattala",
+      "gloss": "petalled; (rich with) petals/leaves",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit pattala < Sanskrit patrala 'leafy, abounding in petals/leaves' (patra + -la).",
+      "notes": "Links the flowers to dala 'petal' in the next word — the eyes are like their petals, not the whole bloom."
+    },
+    {
+      "token": "દલચ્છો",
+      "translit": "dalaccho",
+      "gloss": "petal-eyed (one whose eyes are like petals)",
+      "partOfSpeech": "compound",
+      "etymology": "dala 'petal' + accha (< Sanskrit akṣi/akṣa) 'eye', a bahuvrīhi: 'having petal-[like] eyes'. The asterisk in the text marks a footnoted variant reading at this point.",
+      "notes": "Resolves the whole first-line compound: Vīra's eyes resemble the petals of full-blown fresh-lotus, blue-lily and hundred-petalled lotus."
+    },
+    {
+      "token": "વીરો",
+      "translit": "vīro",
+      "gloss": "Vīra (Mahāvīra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vīro < Sanskrit vīra 'hero'; the name of the 24th Tīrthaṅkara, subject of the hymn.",
+      "notes": "Grammatical subject of jayaï; the rest of the verse are epithets attached to it."
+    },
+    {
+      "token": "ગયંદ",
+      "translit": "gayanda",
+      "gloss": "lord of elephants (gajendra)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit gayanda < Sanskrit gaja-indra 'elephant-king'.",
+      "notes": "First member of the second bahuvrīhi, describing Vīra's gait."
+    },
+    {
+      "token": "મયગલ",
+      "translit": "mayagala",
+      "gloss": "a rutting elephant (in musth)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit mayagala < Sanskrit mada-kala 'inarticulately murmuring/intoxicated with rut'; a poetic term for the most powerful, stately elephant.",
+      "notes": "Intensifies gayanda: not just an elephant-king but one in the fullness of rutting majesty — pure poetic grandeur, with none of the wildness imputed to Vīra."
+    },
+    {
+      "token": "સુલલિય",
+      "translit": "sulalia",
+      "gloss": "exquisitely graceful, charming",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit sulalia < Sanskrit su- 'well/very' + lalita 'graceful, lovely, playful'.",
+      "notes": "Qualifies the gait — its grace, balancing the sheer power of mayagala-gayanda."
+    },
+    {
+      "token": "ગઇવિક્કમો",
+      "translit": "gaïvikkamo",
+      "gloss": "(one whose) stride/gait is (full of measured) prowess",
+      "partOfSpeech": "compound",
+      "etymology": "gaï (< Sanskrit gati) 'gait, motion' + vikkama (< vikrama) 'stride, valorous step'; bahuvrīhi 'whose gait-stride is [like the elephant-king's]'.",
+      "notes": "Completes the second simile: Vīra's bearing has the unhurried, sovereign stride of the great elephant."
+    },
+    {
+      "token": "ભયવં",
+      "translit": "bhayavaṁ",
+      "gloss": "the Lord, the Blessed One (Bhagavān)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit bhayavaṁ < Sanskrit bhagavān 'possessing bhaga (majesty, fortune, glory)'.",
+      "notes": "Closes the verse, sealing Vīra's name with the title of supreme reverence."
+    }
+  ],
+  "literalTranslation": "Victorious is Vīra the Lord — petal-eyed with the petals of full-blown fresh lotus, blue water-lily and hundred-petalled lotus; whose graceful stride is the gait of a rutting elephant-king.",
+  "idiomaticTranslation": "All hail Lord Vīra! — his eyes as lovely as the petals of fresh-opened lotuses, blue lilies and hundred-petalled blooms, his bearing as gracefully majestic as the measured stride of a great rutting elephant-king.",
+  "elaboration": {
+    "verseByVerseCommentary": "The hymn opens on the ringing victory-cry 'jayaï', and at once fixes its subject — 'vīro… bhayavaṁ', Lord Vīra — between which it strings two long descriptive compounds, one per line, that supply two of the poem's three emblems. The first line builds the eyes: a single petal-eyed (dalaccho) image in which three flowers are heaped — the fresh lotus (nava-nalina), the blue lily (kuvalaya) and the hundred-petalled lotus (sayavatta) — all 'viasia', in full bloom. The point of 'pattala…dala' is precise: it is not the whole flower but its long, curved petal that the eye resembles, the standard mark of a wide, serene, beautiful gaze. The second line builds the gait: 'gayanda-mayagala' (a rutting elephant-king) supplies the grandeur, 'sulalia gaïvikkamo' supplies the grace, so that Vīra's stride is at once powerful and unhurried. The verse thus works by pairing power with gentleness twice over — soft lotus-petals set in a calm gaze, immense elephantine majesty carried with effortless ease. Note that only two of the three governing emblems (lotus, elephant) appear here; the moon enters later. The asterisk after 'pattala' flags a footnoted variant reading and should be honoured as part of the text, not silently resolved.",
+    "doctrinalContext": "Although the verse praises bodily beauty, in stava convention the Tīrthaṅkara's perfected form is a window onto his perfected state: the thirty-four atiśayas and auspicious marks of a Jina's body are not vanity but the outward sign of utterly purified karma. The 'petal-eyed' calm gaze images the Jina's serene, desire-free vision — eyes that look on all beings with equanimity (sama-darśana) rather than craving. The unhurried elephant-stride images vīra-vīrya without agitation: fearless strength (abhaya) that never hurries, never stumbles, because it is rooted in detachment. Read this way, the opening gāthā is not flattery but a meditation-image: the reciter holds Vīra's calm eyes and measured bearing in mind as the very picture of one freed from the passions.",
+    "practicalRelevance": "As the first words of the third Smaraṇa, this verse is where the reciter 'sees' Vīra before asking his protection. Chant it slowly, letting the two pictures form — the wide, tranquil lotus-eyes and the calm, sovereign step — and let them model the composure you seek: to look on the day's provocations with steady eyes and to move through them without panic or haste.",
+    "crossReferences": [
+      {
+        "text": "Logassa (Cauvīsattho) — praise of Vīra among the 24 Tīrthaṅkaras",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      },
+      {
+        "text": "Lotus / elephant / moon imagery developed in Vīrastava vv.4–5",
+        "source": "same edition, smaran-3-virstava"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams, Apte)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "Root meanings of nalina, kuvalaya, śata-patra (śatapatra), patrala, gaja-indra (gajendra), mada-kala, gati, vikrama, vikasita, bhagavān underlying the Prakrit tokens."
+    },
+    {
+      "title": "JainQQ digital library — Nava Smaraṇa / Prakrit stotra collections",
+      "url": "https://jainqq.org/",
+      "type": "scholarship",
+      "consultedFor": "Textual identity of the Vīrastava as the third of the nine smaraṇas and the standard reading of the opening gāthā."
+    },
+    {
+      "title": "Kuvalaya-mālā (Uddyotanasūri) — overview",
+      "url": "https://en.wikipedia.org/wiki/Kuvalaya-m%C4%81l%C4%81",
+      "type": "scholarship",
+      "consultedFor": "The Prakrit kāvya convention of heaped lotus/elephant similes for a Jina's eyes and gait, contextualising this verse's imagery."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachchha.org/",
+      "type": "translation",
+      "consultedFor": "Verbatim Gujarati-script Prakrit of the verse, including the footnote asterisk and the verse's placement as Vīrastava v.1."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The two lines are each a single long bahuvrīhi compound qualifying 'vīro … bhayavaṁ'; the word-separation given in 'recitation' is editorial for chanting and not marked in the source. The asterisk (*) after 'પત્તલ/pattala' is a book footnote marker indicating a pāṭhāntara (variant reading) at that point — preserved here per the source's orthography policy, not silently resolved. 'dalaccho' is read as dala+accha (< akṣa/akṣi) 'petal-eyed'; an alternative segmentation reading -accho as 'pure/clear' (< accha) circulates but the eye-sense fits the lotus-petal simile and is preferred. Only two of the hymn's three governing emblems (lotus, elephant) occur in this verse; the moon is introduced later, so it is not glossed here. Authorship of the Vīrastava is undetermined (see preface)."
+}
