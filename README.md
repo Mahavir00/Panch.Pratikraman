@@ -1,6 +1,6 @@
 # Pañca Pratikramaṇa — Translator, Elaborator & Website
 
-A definitive, three-language (**English · ગુજરાતી · हिन्दी**) translation and acharya-grade
+A definitive, three-language (**English · ગુજરાતી · हिन्दी**) translation and verse-by-verse
 commentary of the **Pancha Pratikramana sūtras** of the **Achhalgach (Anchalgachchha /
 Vidhipakṣa)** Śvetāmbara Mūrtipūjaka Jain tradition — built from a single authoritative source (the
 tradition's printed edition), published as a website, and downloadable as a print-ready A4 PDF.

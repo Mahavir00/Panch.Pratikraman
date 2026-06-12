@@ -6,7 +6,7 @@
 
 ## 0. One-paragraph brief
 
-This repository contains a definitive, three-language (**English, Gujarati, Hindi**) translation and acharya-grade commentary of the **Pancha Pratikramana sutras** of the **Achhalgach (Anchalgachchha / Vidhipaksha) Śvetāmbara Mūrtipūjaka Jain tradition**, generated as **static JSON** under `data/` by the Node tool described in `docs/DESIGN.md`. Build a **modern, visually stunning, reverent React website** that presents this corpus to everyone from a curious newcomer to a learned practitioner. It must be **client-side only**, **deployable to GitHub Pages with one command**, and **trivially re-syncable** as the translation pipeline keeps producing files. The aesthetic must evoke **Jain culture and sacred art** — dignified, warm, ornamented with restraint. A print PDF is produced separately by the tool and is only a complementary download.
+This repository contains a definitive, three-language (**English, Gujarati, Hindi**) translation and verse-by-verse commentary of the **Pancha Pratikramana sutras** of the **Achhalgach (Anchalgachchha / Vidhipaksha) Śvetāmbara Mūrtipūjaka Jain tradition**, generated as **static JSON** under `data/` by the Node tool described in `docs/DESIGN.md`. Build a **modern, visually stunning, reverent React website** that presents this corpus to everyone from a curious newcomer to a learned practitioner. It must be **client-side only**, **deployable to GitHub Pages with one command**, and **trivially re-syncable** as the translation pipeline keeps producing files. The aesthetic must evoke **Jain culture and sacred art** — dignified, warm, ornamented with restraint. A print PDF is produced separately by the tool and is only a complementary download.
 
 ---
 

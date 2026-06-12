@@ -11,7 +11,7 @@ Produce a print-ready, large-font A4 PDF — and a website-ready data tree — c
 
 1. The shloka in its authoritative native script (Gujarati), exactly as printed in the **book**, with a target-script **recitation** line for chanting.
 2. A layered, every-audience rendering: a one-line **plain meaning** for newcomers, a **word-by-word** gloss, and full translations in three languages — **English** (Latin), **Gujarati** (Gujarati script), **Hindi** (Devanagari).
-3. An acharya-grade elaboration in each language: verse-by-verse commentary, doctrinal context, practical relevance, cross-references, and verified sources — plus a write-once **sutra preface** (summary, ritual placement, verse arc, recurring imagery, glossary) so shared framing is never repeated per verse.
+3. A detailed elaboration in each language: verse-by-verse commentary, doctrinal context, practical relevance, cross-references, and verified sources — plus a write-once **sutra preface** (summary, ritual placement, verse arc, recurring imagery, glossary) so shared framing is never repeated per verse.
 4. Sutras presented in the **canonical recitation order** actually used in an Achhalgach Pancha Pratikraman, with the **vidhi** (procedural text) interleaved — captured in `data/corpus/pratikraman-structure.json`.
 
 **Delivered (v1.0).** All four layers above exist for the entire corpus in all three languages (sūtras and vidhi), and two delivery targets are built on top of the same static JSON: a **live website** (the primary experience — see §21) and the **A4 print PDF** (the complementary download). Both are pure renderers over the generated artifacts; neither requires re-running the pipeline.

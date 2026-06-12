@@ -181,7 +181,7 @@ const english: Dict = {
   'home.hero.eyebrow': 'Jain Sacred Text · Śvetāmbara Mūrtipūjaka',
   'home.hero.title': 'The Five Pratikramaṇas',
   'home.hero.subtitle':
-    'A reverent, three-language edition — English, ગુજરાતી, हिन्दी — with acharya-grade commentary of the daily, fortnightly, seasonal and annual rites of reflection, confession, and renewal in the **Achhalgach (Vidhipakṣa)** tradition.',
+    'A reverent, three-language edition — English, ગુજરાતી, हिन्दी — with verse-by-verse commentary of the daily, fortnightly, seasonal and annual rites of reflection, confession, and renewal in the **Achhalgach (Vidhipakṣa)** tradition.',
   'home.hero.begin': 'Begin with Devasi',
   'home.hero.whatIs': 'What is Pratikramaṇa?',
   'home.stats.pratikramans': 'Pratikramaṇas',
@@ -220,7 +220,7 @@ const english: Dict = {
 
   // footer
   'footer.tagline':
-    'A reverent, three-language edition with acharya-grade commentary of the five Pratikramaṇa sūtras of the Achhalgach (Anchalgachchha / Vidhipakṣa) Śvetāmbara Mūrtipūjaka Jain tradition.',
+    'A reverent, three-language edition with verse-by-verse commentary of the five Pratikramaṇa sūtras of the Achhalgach (Anchalgachchha / Vidhipakṣa) Śvetāmbara Mūrtipūjaka Jain tradition.',
   'footer.explore': 'Explore',
   'footer.link.intro': 'Introduction',
   'footer.link.five': 'The Five Pratikramaṇas',
@@ -259,7 +259,7 @@ const english: Dict = {
     'The translation pipeline is ongoing; counts grow as new JSON is generated and the site is re-synced.',
   'about.method.title': 'Method',
   'about.method.body':
-    'Verses follow the received text of the sūtras as found in the tradition’s authoritative printed edition. Translation and acharya-grade commentary are prepared from that source by an assisted pipeline and reconciled against classical Prakrit and Sanskrit lexica, with sources cited per verse.',
+    'Verses follow the received text of the sūtras as found in the tradition’s authoritative printed edition. Translation and commentary are prepared from that source by an assisted pipeline and reconciled against classical Prakrit and Sanskrit lexica, with sources cited per verse.',
   'about.downloadPdf': 'Download print PDF',
   'about.loadingKb': 'Loading tradition knowledge…',
   'about.footer.made': 'Made with reverence. The scripture is the hero; this site only serves it.',
@@ -435,7 +435,7 @@ const gujarati: Dict = {
   'home.hero.eyebrow': 'જૈન પવિત્ર ગ્રંથ · શ્વેતામ્બર મૂર્તિપૂજક',
   'home.hero.title': 'પંચ પ્રતિક્રમણ',
   'home.hero.subtitle':
-    'અંચલગચ્છ (**વિધિપક્ષ**) પરંપરાનાં દૈનિક, પાક્ષિક, ઋતુગત અને વાર્ષિક — ચિંતન, આલોચના અને નવીકરણનાં — વિધિવિધાનોનું, આચાર્ય-કક્ષાના વિવેચન સહિત, ત્રિભાષી (અંગ્રેજી, ગુજરાતી, हिन्दी) શ્રદ્ધાપૂર્ણ સંસ્કરણ.',
+    'અંચલગચ્છ (**વિધિપક્ષ**) પરંપરાનાં દૈનિક, પાક્ષિક, ઋતુગત અને વાર્ષિક — ચિંતન, આલોચના અને નવીકરણનાં — વિધિવિધાનોનું, ગાથાવાર વિવેચન સહિત, ત્રિભાષી (અંગ્રેજી, ગુજરાતી, हिन्दी) શ્રદ્ધાપૂર્ણ સંસ્કરણ.',
   'home.hero.begin': 'દેવસિથી શરૂ કરો',
   'home.hero.whatIs': 'પ્રતિક્રમણ શું છે?',
   'home.stats.pratikramans': 'પ્રતિક્રમણ',
@@ -473,7 +473,7 @@ const gujarati: Dict = {
   'home.source.fallback': 'પરંપરાનો પ્રમાણભૂત ગ્રંથ',
 
   'footer.tagline':
-    'અંચલગચ્છ (વિધિપક્ષ) શ્વેતામ્બર મૂર્તિપૂજક જૈન પરંપરાનાં પંચ પ્રતિક્રમણ સૂત્રોનું, આચાર્ય-કક્ષાના વિવેચન સહિત, ત્રિભાષી શ્રદ્ધાપૂર્ણ સંસ્કરણ.',
+    'અંચલગચ્છ (વિધિપક્ષ) શ્વેતામ્બર મૂર્તિપૂજક જૈન પરંપરાનાં પંચ પ્રતિક્રમણ સૂત્રોનું, ગાથાવાર વિવેચન સહિત, ત્રિભાષી શ્રદ્ધાપૂર્ણ સંસ્કરણ.',
   'footer.explore': 'અન્વેષણ',
   'footer.link.intro': 'પ્રસ્તાવના',
   'footer.link.five': 'પંચ પ્રતિક્રમણ',
@@ -510,7 +510,7 @@ const gujarati: Dict = {
     'અનુવાદ-પ્રક્રિયા ચાલુ છે; નવી JSON ઉત્પન્ન થતાં અને સ્થળ ફરી સિંક થતાં સંખ્યા વધે છે.',
   'about.method.title': 'પદ્ધતિ',
   'about.method.body':
-    'ગાથાઓ પરંપરાના પ્રમાણભૂત મુદ્રિત ગ્રંથમાં મળતા પ્રચલિત પાઠ પ્રમાણે છે. અનુવાદ અને આચાર્ય-કક્ષાનું વિવેચન સહાયિત પ્રક્રિયા દ્વારા તૈયાર થાય છે અને શાસ્ત્રીય પ્રાકૃત તથા સંસ્કૃત કોશો સામે મેળવાય છે, પ્રત્યેક ગાથા સાથે સ્રોત ઉલ્લેખિત.',
+    'ગાથાઓ પરંપરાના પ્રમાણભૂત મુદ્રિત ગ્રંથમાં મળતા પ્રચલિત પાઠ પ્રમાણે છે. અનુવાદ અને વિવેચન સહાયિત પ્રક્રિયા દ્વારા તૈયાર થાય છે અને શાસ્ત્રીય પ્રાકૃત તથા સંસ્કૃત કોશો સામે મેળવાય છે, પ્રત્યેક ગાથા સાથે સ્રોત ઉલ્લેખિત.',
   'about.downloadPdf': 'છાપ-PDF ડાઉનલોડ કરો',
   'about.loadingKb': 'પરંપરા-જ્ઞાન લોડ થઈ રહ્યું છે…',
   'about.footer.made': 'શ્રદ્ધાપૂર્વક રચિત. ગ્રંથ જ નાયક છે; આ સ્થળ માત્ર તેની સેવા કરે છે.',
@@ -684,7 +684,7 @@ const hindi: Dict = {
   'home.hero.eyebrow': 'जैन पवित्र ग्रंथ · श्वेतांबर मूर्तिपूजक',
   'home.hero.title': 'पंच प्रतिक्रमण',
   'home.hero.subtitle':
-    'अंचलगच्छ (**विधिपक्ष**) परंपरा के दैनिक, पाक्षिक, ऋतुगत और वार्षिक — चिंतन, आलोचना और नवीनीकरण के — विधि-विधानों का, आचार्य-स्तरीय विवेचन सहित, त्रिभाषी (अंग्रेज़ी, ગુજરાતી, हिन्दी) श्रद्धापूर्ण संस्करण।',
+    'अंचलगच्छ (**विधिपक्ष**) परंपरा के दैनिक, पाक्षिक, ऋतुगत और वार्षिक — चिंतन, आलोचना और नवीनीकरण के — विधि-विधानों का, गाथावार विवेचन सहित, त्रिभाषी (अंग्रेज़ी, ગુજરાતી, हिन्दी) श्रद्धापूर्ण संस्करण।',
   'home.hero.begin': 'देवसि से आरंभ करें',
   'home.hero.whatIs': 'प्रतिक्रमण क्या है?',
   'home.stats.pratikramans': 'प्रतिक्रमण',
@@ -722,7 +722,7 @@ const hindi: Dict = {
   'home.source.fallback': 'परंपरा का प्रामाणिक ग्रंथ',
 
   'footer.tagline':
-    'अंचलगच्छ (विधिपक्ष) श्वेतांबर मूर्तिपूजक जैन परंपरा के पंच प्रतिक्रमण सूत्रों का, आचार्य-स्तरीय विवेचन सहित, त्रिभाषी श्रद्धापूर्ण संस्करण।',
+    'अंचलगच्छ (विधिपक्ष) श्वेतांबर मूर्तिपूजक जैन परंपरा के पंच प्रतिक्रमण सूत्रों का, गाथावार विवेचन सहित, त्रिभाषी श्रद्धापूर्ण संस्करण।',
   'footer.explore': 'अन्वेषण',
   'footer.link.intro': 'प्रस्तावना',
   'footer.link.five': 'पंच प्रतिक्रमण',
@@ -759,7 +759,7 @@ const hindi: Dict = {
     'अनुवाद-प्रक्रिया जारी है; नई JSON बनने और साइट के पुनः सिंक होने पर संख्याएँ बढ़ती हैं।',
   'about.method.title': 'पद्धति',
   'about.method.body':
-    'गाथाएँ परंपरा के प्रामाणिक मुद्रित ग्रंथ में प्राप्त प्रचलित पाठ के अनुसार हैं। अनुवाद और आचार्य-स्तरीय विवेचन सहायित प्रक्रिया द्वारा तैयार होते हैं और शास्त्रीय प्राकृत तथा संस्कृत कोशों से मिलाए जाते हैं, प्रत्येक गाथा के साथ स्रोत उद्धृत।',
+    'गाथाएँ परंपरा के प्रामाणिक मुद्रित ग्रंथ में प्राप्त प्रचलित पाठ के अनुसार हैं। अनुवाद और विवेचन सहायित प्रक्रिया द्वारा तैयार होते हैं और शास्त्रीय प्राकृत तथा संस्कृत कोशों से मिलाए जाते हैं, प्रत्येक गाथा के साथ स्रोत उद्धृत।',
   'about.downloadPdf': 'प्रिंट PDF डाउनलोड करें',
   'about.loadingKb': 'परंपरा-ज्ञान लोड हो रहा है…',
   'about.footer.made': 'श्रद्धापूर्वक रचित। ग्रंथ ही नायक है; यह साइट केवल उसकी सेवा करती है।',
