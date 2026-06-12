@@ -1,7 +1,7 @@
 # Panch Pratikraman Translator & Elaborator — Design
 
 > Single source of truth. Read this end-to-end before changing code or running the tool.
-> **Status:** v1.0 — shipped. **The single golden source is a scanned printed book** (`input/panch_pratikraman.pdf`), OCR'd verbatim into `data/book/`. Web discovery/scraping was **removed** as a source of scripture (it failed for this tradition); web access is retained **only** to aid translation/commentary. The full corpus (90 pages → 5 pratikramans → 38 unique sutras → 474 shlokas) is built deterministically from the book; **all 474 shlokas (across all 38 sūtras) and all 10 vidhi steps are translated in all three languages** (English, Gujarati, Hindi). (Every sūtra now carries its text — the prose/list/formula sūtras are emitted as one verbatim block; 0 remain flagged `needsVerseExtraction` — see §15.) The corpus is **published as a live website** (React + TypeScript + Vite, deployed to GitHub Pages); the A4 PDF is the complementary download. The corpus is committed under `data/` (translations, canonical, vidhi, glossaries) so the website and CI build with **zero pipeline runs**. See §14 (Data Integrity), §20 (OCR pipeline), §5.10 (translation pipeline), and §21 (website & deployment).
+> **Status:** v1.0 — shipped. **The single golden source is the printed source book** (`input/panch_pratikraman.pdf`), transcribed into `data/book/`. Web discovery/scraping was **removed** as a source of scripture (it failed for this tradition); web access is retained **only** to aid translation/commentary. The full corpus (90 pages → 5 pratikramans → 38 unique sutras → 474 shlokas) is built deterministically from the book; **all 474 shlokas (across all 38 sūtras) and all 10 vidhi steps are translated in all three languages** (English, Gujarati, Hindi). (Every sūtra now carries its text — the prose/list/formula sūtras are emitted as one verbatim block; 0 remain flagged `needsVerseExtraction` — see §15.) The corpus is **published as a live website** (React + TypeScript + Vite, deployed to GitHub Pages); the A4 PDF is the complementary download. The corpus is committed under `data/` (translations, canonical, vidhi, glossaries) so the website and CI build with **zero pipeline runs**. See §14 (Data Integrity), §20 (OCR pipeline), §5.10 (translation pipeline), and §21 (website & deployment).
 
 ---
 
@@ -17,7 +17,7 @@ Produce a print-ready, large-font A4 PDF — and a website-ready data tree — c
 **Delivered (v1.0).** All four layers above exist for the entire corpus in all three languages (sūtras and vidhi), and two delivery targets are built on top of the same static JSON: a **live website** (the primary experience — see §21) and the **A4 print PDF** (the complementary download). Both are pure renderers over the generated artifacts; neither requires re-running the pipeline.
 
 ### Design principles
-- **The book is the single golden source.** Every sutra and every vidhi line comes from the scanned, OCR'd, hand-verified book (`data/book/panch-pratikraman.full.md`). The tool **never** fabricates scripture and **no longer** discovers or scrapes sources from the web.
+- **The book is the single golden source.** Every sutra and every vidhi line comes from the transcribed, hand-verified source book (`data/book/panch-pratikraman.full.md`). The tool **never** fabricates scripture and **no longer** discovers or scrapes sources from the web.
 - **Code for deterministic work, Copilot CLI for intelligence.** OCR rasterization, verse parsing, corpus building, schema/script validation, HTML/CSS rendering, PDF merging, CLI, semaphores, logs = pure Node.js/Python. **OCR transcription** (one Copilot vision call per page), **per-shloka/vidhi translation+elaboration**, and **quality grading** = GitHub Copilot CLI (`claude-opus-4.8`, `high`/`xhigh` reasoning, `long_context`/1M window). Web fetch (via `--allow-all`) is used **only** by the translation/grading prompts.
 - **Atomic Copilot calls.** Each Copilot invocation answers ONE question and writes ONE artifact (one OCR page, one (shloka × language) translation), so failures isolate to a single unit and the orchestrator retries/resumes per unit.
 - **Aggressive parallelization.** Independent units (per page, per (shloka × language)) run concurrently under a semaphore.
@@ -30,7 +30,7 @@ Produce a print-ready, large-font A4 PDF — and a website-ready data tree — c
 ## 1A. Prerequisites
 
 - **Node.js** ≥ 18 (ESM). Tested on Node 20 on Windows.
-- **Python 3** with **PyMuPDF** (`pip install PyMuPDF`) — for rasterizing the scanned PDF into page tiles (OCR only).
+- **Python 3** with **PyMuPDF** (`pip install PyMuPDF`) — for rasterizing the source PDF into page tiles (OCR only).
 - **GitHub Copilot CLI** installed and authenticated. `where copilot` (Windows) / `which copilot` must resolve. The CLI must support `--attachment <path>` (image input) for OCR. Verify:
   ```powershell
   copilot --help        # confirm --reasoning-effort, --context, and --attachment flags
@@ -40,7 +40,7 @@ Produce a print-ready, large-font A4 PDF — and a website-ready data tree — c
   - Recommended additions: **Noto Sans Devanagari**, **Noto Sans Gujarati** (free from Google Fonts) for superior conjunct shaping.
 - **Puppeteer** ships its own Chromium on `npm install`; no separate browser needed.
 - **The website** (`website/`) also needs Node ≥ 18; run `cd website && npm install` once. It is self-contained — it builds from the committed `data/` with **no pipeline run** (the Copilot CLI / Python are only needed to regenerate the corpus).
-- Disk: each (shloka × language) translation is ~15–25 KB JSON (the committed `translations/**` is a few MB total); the page tiles are ~62 MB and the scanned PDF ~44 MB (both gitignored).
+- Disk: each (shloka × language) translation is ~15–25 KB JSON (the committed `translations/**` is a few MB total); the page tiles are ~62 MB and the source PDF ~44 MB (both gitignored).
 
 ## 1B. Quick start (zero-to-first-translation)
 
@@ -56,7 +56,7 @@ Copy-Item config.example.txt config.txt
 # 3. Sanity-check Copilot CLI
 copilot -p "say hello" -s --no-ask-user --allow-all --model claude-opus-4.8
 
-# 4. (one-time) OCR the scanned book -> golden text, then assemble it.
+# 4. (one-time) transcribe the source book -> golden text, then assemble it.
 #    Tiles + 90 page transcriptions already live under data/book/ if done.
 node index.js ocr                       # rasterize + transcribe (one Copilot vision call/page)
 node index.js assemble                  # build data/book/panch-pratikraman.full.md
@@ -161,7 +161,7 @@ Panch.Pratikraman/
 │   └── deploy-pages.yml          # CI: sync-data → validate → build → deploy to GitHub Pages
 ├── input/
 │   ├── README.md                 # how to obtain the book (the PDF itself is gitignored)
-│   └── panch_pratikraman.pdf     # THE golden source: the scanned book (90 pages, gitignored)
+│   └── panch_pratikraman.pdf     # THE golden source: the source book PDF (90 pages, gitignored)
 ├── scripts/
 │   ├── rasterize.py              # PDF → overlapping page tiles (PyMuPDF)
 │   ├── ocr-orchestrator.mjs      # 1 Copilot vision call/page → pages/*.txt
@@ -210,7 +210,7 @@ Panch.Pratikraman/
     └── src/{pages,components,state,…} # HashRouter app; 3-language UI; client-side search
 ```
 
-**What's committed under `data/`** (so the website and CI build with **zero pipeline runs**): the golden OCR (`book/pages/*`, `panch-pratikraman.full.md`, `ocr-manifest.json`), the curated `corpus/pratikraman-structure.json`, the generated-but-committed `corpus/canonical.json` + `corpus/vidhi.json`, the three per-language glossaries + `glossary/pos-labels.json`, `tradition-knowledge/*`, and **all of `translations/**`** (sūtra + vidhi). **Gitignored** (large, temporary, or regenerable on demand): the scanned PDF (`input/*.pdf`), `book/tiles/`, `quality/`, `html/`, `pdfs/`, `logs/`, `config.txt`, every `node_modules/`, and the website's generated `public/data/` + `dist/`. See [.gitignore](../.gitignore) and §21.
+**What's committed under `data/`** (so the website and CI build with **zero pipeline runs**): the golden OCR (`book/pages/*`, `panch-pratikraman.full.md`, `ocr-manifest.json`), the curated `corpus/pratikraman-structure.json`, the generated-but-committed `corpus/canonical.json` + `corpus/vidhi.json`, the three per-language glossaries + `glossary/pos-labels.json`, `tradition-knowledge/*`, and **all of `translations/**`** (sūtra + vidhi). **Gitignored** (large, temporary, or regenerable on demand): the source PDF (`input/*.pdf`), `book/tiles/`, `quality/`, `html/`, `pdfs/`, `logs/`, `config.txt`, every `node_modules/`, and the website's generated `public/data/` + `dist/`. See [.gitignore](../.gitignore) and §21.
 
 ---
 
@@ -334,7 +334,7 @@ All commands are invoked as `node index.js <command> [options]`. Global flags: `
 | `ppt logs [-n N]` | Print last N lines of the latest log |
 | `ppt iterate --scope <…> [--max N] [--lang …]` | Convenience: force-translate → grade → print summary (prompt-tuning loop) |
 
-### 7.1 `ocr` — transcribe the scanned book
+### 7.1 `ocr` — transcribe the source book
 - **What it does:** runs `scripts/rasterize.py` (PDF → page tiles) unless `--skip-rasterize`, then `scripts/ocr-orchestrator.mjs` — one `copilot` vision process per page (two tiles attached), writing `data/book/pages/page-NNN.{txt,meta.json}`. Parallel under the copilot semaphore; idempotent (`--pages missing` default skips done pages); flags `uncertain` glyphs per page.
 - **When to run:** once, to produce the golden text. Re-run with `--pages <list>` + `--force` to redo specific pages.
 - **Outputs:** `data/book/tiles/*`, `data/book/pages/*`, `data/book/ocr-manifest.json`.
@@ -420,7 +420,7 @@ All commands are invoked as `node index.js <command> [options]`. Global flags: `
 
 ```powershell
 # One-time golden-source build (skip if data/book/ is already populated):
-node index.js ocr                 # rasterize + transcribe the scanned book
+node index.js ocr                 # rasterize + transcribe the source book
 node index.js assemble            # -> data/book/panch-pratikraman.full.md
 # Curate (hand): data/corpus/pratikraman-structure.json and
 #                data/tradition-knowledge/achhalgach.md
@@ -524,7 +524,7 @@ OCR runs at `--reasoning high`; preface/translation/grading at `high`/`xhigh`, `
 - **OCR returns empty / `copilot` hangs**: stdin must be closed when spawning `copilot`. Always drive it through `src/copilot.js` (which does `child.stdin.end()`), never a raw shell call.
 - **`--attachment` not recognized**: the installed Copilot CLI must support image attachments for `ppt ocr`. Verify with `copilot --help`.
 - **Copilot CLI binary not found**: ensure the `copilot` CLI is installed and `where copilot` resolves on Windows (the wrapper prefers the npm `.cmd`).
-- **A page has `uncertain` glyphs**: open `data/book/pages/page-NNN.meta.json`, inspect each `uncertain` entry against the scan tile, fix `page-NNN.txt` by hand, then re-run `ppt assemble` (and `ppt build-corpus` if a verse changed).
+- **A page has `uncertain` glyphs**: open `data/book/pages/page-NNN.meta.json`, inspect each `uncertain` entry against the source tile, fix `page-NNN.txt` by hand, then re-run `ppt assemble` (and `ppt build-corpus` if a verse changed).
 - **A sutra shows `needsVerseExtraction`** (prose/list/formula sutra, or a heading needle didn't match): add or fix the heading needle in `src/corpus/canonical-builder.js` (`HEADING_NEEDLES`) and re-run `ppt build-corpus`.
 - **Shloka text is wrong**: correct the golden OCR at `data/book/pages/page-NNN.txt`, re-`assemble`, re-`build-corpus`. The book is the only source of truth.
 - **Commentary mis-states ritual placement / repeats sutra-level framing**: enrich `data/tradition-knowledge/<tradition>.md` (doctrine) or the sutra preface (`_preface.<lang>.json`); the per-verse prompt is told not to restate preface content.
@@ -548,20 +548,20 @@ OCR runs at `--reasoning high`; preface/translation/grading at `high`/`xhigh`, `
 
 ## 14. Data integrity & provenance (why scripture is never fabricated)
 
-A scanned printed book is the **single golden source**; the tool does no web sourcing of scripture. Guarantees:
+The printed source book is the **single golden source**; the tool does no web sourcing of scripture. Guarantees:
 
-1. **The book is ground truth.** Every sutra and vidhi line comes from `data/book/panch-pratikraman.full.md`, OCR'd verbatim from the printed book and hand-verified (90/90 pages). The OCR preserves the book's exact orthography.
+1. **The book is ground truth.** Every sutra and vidhi line comes from `data/book/panch-pratikraman.full.md`, transcribed from the printed source book and hand-verified (90/90 pages). The transcription preserves the book's exact orthography.
 2. **No fabrication, no web sourcing.** There is no source discovery, scraping, or multi-source reconciliation. `build-corpus` only extracts verses that actually exist in the golden pages; sutras with no numbered verses are flagged `needsVerseExtraction` (never filled with filler).
 3. **Deterministic provenance.** Each canonical shloka carries `source_ids: ["book"]`, the book's `printedNumber`, and `bookPages`/`pdfPages` anchors into the golden text; `ppt status` and `canonical.json` show exactly where each verse came from.
 4. **Web access is translation-only.** The `--allow-all` web-fetch tool is available **only** to the translation/grading prompts (to consult dictionaries and commentaries), never to source scripture.
 
-**The book:** *Pañca Pratikramaṇa Sūtra — Vidhi Sahit* (Anchalgachchha / Vidhipaksha ed.), scanned as `input/panch_pratikraman.pdf` (book pp.19–108). `nandisutrani-pratham-sajay` is the full **24 gāthās** extracted from the book (book pp.80–82).
+**The book:** *Pañca Pratikramaṇa Sūtra — Vidhi Sahit* (Anchalgachchha / Vidhipaksha ed.), the printed edition at `input/panch_pratikraman.pdf` (book pp.19–108). `nandisutrani-pratham-sajay` is the full **24 gāthās** extracted from the book (book pp.80–82).
 
 ---
 
 ## 15. Current project state (v1.0 — shipped)
 
-- **Golden source:** the scanned book, OCR'd to 90/90 verified pages (`data/book/`), assembled into `panch-pratikraman.full.md`.
+- **Golden source:** the printed source book, transcribed to 90/90 verified pages (`data/book/`), assembled into `panch-pratikraman.full.md`.
 - **Structure:** `data/corpus/pratikraman-structure.json` — 5 pratikramaṇas, 38 unique sutras, the recitation tree + vidhi steps, the nine smaraṇas, and the Cāumāsī/Sāṁvatsarī sharing model.
 - **Knowledge base:** `data/tradition-knowledge/achhalgach.md`, authored from the book.
 - **Corpus:** `build-corpus` produces `canonical.json` deterministically — 38 sutras, 474 shlokas. **All 38 sutras now carry their text** (0 flagged `needsVerseExtraction`): the verse-bearing sutras extract numbered ślokas, and the genuine prose / list / single-formula sutras (e.g. `tassa-uttari`, `gamanagamano`, `karemi-bhante`, `padilehana`, the four-fold `dravya-kshetra-kaal-bhav` declaration) are emitted as one verbatim block (`printedNumber: null`).
@@ -736,15 +736,15 @@ cd website; npm run sync-data; npm run validate; npm run build
 
 ## 20. The OCR pipeline & the structure tree (v0.2)
 
-**Why:** web discovery/scraping failed to find authoritative Achhalgach text. The user supplied a camera-scanned 90-page book. OCR of dense Gujarati conjuncts demanded a multimodal model, not `pdf-parse`/Tesseract.
+**Why:** web discovery/scraping failed to find authoritative Achhalgach text. The user supplied a 90-page PDF of the printed book. OCR of dense Gujarati conjuncts demanded a multimodal model, not `pdf-parse`/Tesseract.
 
 **Pipeline (one-time, reproducible via `ppt ocr` / `ppt assemble`):**
 1. **Rasterize** (`scripts/rasterize.py`, PyMuPDF): each page → two overlapping JPEG tiles (long edge 1568 px, ~6% overlap) under `data/book/tiles/`. Tiles are sized so the model sees crisp conjuncts; a full-page image would be downsampled and blur them.
 2. **Transcribe** (`scripts/ocr-orchestrator.mjs`): one `copilot` process **per page**, both tiles attached via `--attachment`, prompt `prompts/ocr-page.md`, output `<<<OCR_START/END>>>` JSON → `data/book/pages/page-NNN.{txt,meta.json}`. Parallel under the copilot semaphore. **This per-page, fresh-context design is what made OCR tractable** — accumulating many page images in a single long-lived session (a subagent, or the main agent) overflows the multimodal context budget and stalls.
-3. **Verify**: each page's `uncertain[]` glyphs are reviewed against the scan; the book's footnotes (mostly *pāṭhāntare* variants) are captured verbatim, not auto-applied.
+3. **Verify**: each page's `uncertain[]` glyphs are reviewed against the source page; the book's footnotes (mostly *pāṭhāntare* variants) are captured verbatim, not auto-applied.
 4. **Assemble** (`scripts/assemble-book.mjs`): page-marked golden document `panch-pratikraman.full.md` + manifest marked `verified`.
 
-**PDF→book page mapping:** PDF page *N* = printed book page *N + 18* (the scan begins at book p.19).
+**PDF→book page mapping:** PDF page *N* = printed book page *N + 18* (the text begins at book p.19).
 
 **The structure tree (`data/corpus/pratikraman-structure.json`)** is hand-curated from the golden text and is the website backbone: pick a pratikramaṇa → see its ordered `sequence` of vidhi + sutra steps → click a sutra to drill into its shlokas. It encodes the book's own sharing model (Cāumāsī/Sāṁvatsarī = Pakkhī + substitution) and is the registry `build-corpus` consumes. The **website** (§21) renders directly from this tree + `canonical.json` + `vidhi.json` + the per-(shloka × lang) translation JSON; no pipeline change is needed to publish new content — just re-run `npm run sync-data`.
 

@@ -2,8 +2,8 @@
 
 A definitive, three-language (**English · ગુજરાતી · हिन्दी**) translation and acharya-grade
 commentary of the **Pancha Pratikramana sūtras** of the **Achhalgach (Anchalgachchha /
-Vidhipakṣa)** Śvetāmbara Mūrtipūjaka Jain tradition — built from a single golden source (a scanned
-printed book), published as a website, and downloadable as a print-ready A4 PDF.
+Vidhipakṣa)** Śvetāmbara Mūrtipūjaka Jain tradition — built from a single authoritative source (the
+tradition's printed edition), published as a website, and downloadable as a print-ready A4 PDF.
 
 > **Live site:** https://mahavir00.github.io/Panch.Pratikraman/
 > **Full design:** [docs/DESIGN.md](docs/DESIGN.md)
@@ -11,7 +11,7 @@ printed book), published as a website, and downloadable as a print-ready A4 PDF.
 The repository has two halves that share one dataset:
 
 1. **The generation tool** (repo root) — a Node.js CLI that orchestrates pure code + the GitHub
-   Copilot CLI (`claude-opus-4.8`) to OCR the book, build the canonical corpus, and translate every
+   Copilot CLI (`claude-opus-4.8`) to transcribe the book, build the canonical corpus, and translate every
    sūtra and vidhi step into all three languages. Output is static JSON under `data/`.
 2. **The website** (`website/`) — a client-side React + TypeScript + Vite app that renders that JSON
    in three languages, deployed to **GitHub Pages**.
@@ -62,7 +62,7 @@ Requires the GitHub Copilot CLI (`claude-opus-4.8`) and, for OCR only, Python + 
 npm install
 Copy-Item config.example.txt config.txt   # optional; sensible defaults apply without it
 
-# Translate / extend (the book is already OCR'd + committed under data/book/):
+# Translate / extend (the book's text is already committed under data/book/):
 node index.js build-corpus                                  # deterministic canonical.json from the book
 node index.js translate --scope nandisutrani-pratham-sajay  # 1 sūtra, all 3 languages
 node index.js vidhi --scope all                             # extract + translate the vidhi/ādeśa text
@@ -75,7 +75,7 @@ node index.js status                                        # coverage stats
 
 | Command | Purpose |
 |---|---|
-| `ocr` | Rasterize the scanned book + transcribe pages (one Copilot vision call/page) → `data/book/` |
+| `ocr` | Rasterize the source book PDF + transcribe pages (one Copilot vision call/page) → `data/book/` |
 | `assemble` | Concatenate pages → `data/book/panch-pratikraman.full.md` |
 | `build-corpus` | Deterministically build `data/corpus/canonical.json` from the structure tree + golden pages |
 | `translate` | Per-(shloka × lang) translation + elaboration (write-once preface per sūtra) |
@@ -94,9 +94,9 @@ All commands accept `--scope <sutraId|shlokaId|all>` (where applicable; default
 
 ## Provenance
 
-The single golden source is a scanned printed book, OCR'd verbatim and hand-verified into
+The single authoritative source is the tradition's printed edition, transcribed and hand-verified into
 `data/book/`. Scripture is **never fabricated** and there is **no web sourcing** of scripture; web
-access is used only to consult dictionaries/commentaries during translation. The 44 MB scan itself is
+access is used only to consult dictionaries/commentaries during translation. The book's PDF itself is
 git-ignored (copyright + size) — see [input/README.md](input/README.md). Full provenance:
 [docs/DESIGN.md §14](docs/DESIGN.md).
 

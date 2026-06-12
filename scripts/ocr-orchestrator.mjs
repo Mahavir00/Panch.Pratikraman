@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// OCR orchestrator: transcribe scanned book pages by spawning one Copilot CLI
+// OCR orchestrator: transcribe source book pages by spawning one Copilot CLI
 // process per page (two image tiles attached), in parallel under the shared
 // semaphore — the same orchestration pattern the main tool uses for text calls.
 //

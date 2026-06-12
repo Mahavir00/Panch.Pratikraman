@@ -1,5 +1,5 @@
 // Deterministic canonical-corpus builder (replaces the old multi-source Copilot
-// reconciler). The single golden source is the scanned book: the recitation
+// reconciler). The single golden source is the source book: the recitation
 // order + sutra registry come from data/corpus/pratikraman-structure.json, and
 // each sutra's verses are extracted verbatim from the golden OCR pages
 // (data/book/pages/page-NNN.txt) by src/corpus/book-parser.js.
@@ -10,7 +10,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { logger } from "../utils/logger.js";
-import { extractSutraVerses, bodyToSingleBlock } from "./book-parser.js";
+import { extractSutraVerses, bodyToSingleBlock, extractMonotonicVowVerses } from "./book-parser.js";
 import { shlokaId as mkShlokaId } from "../utils/slug.js";
 
 // Distinctive Gujarati heading substrings used to locate each sutra's section
@@ -61,6 +61,19 @@ const FORCE_SINGLE_BLOCK = new Set([
     "padilehana",
 ]);
 
+// Sutras that are ONE continuous prose confession over an EXCLUSIVE page range,
+// numbered by monotonically increasing top-level ॥ N ॥ markers but embedding
+// sub-gāthās that restart numbering and ॥…॥ transitional rubrics — the generic
+// section splitter truncates these at the first rubric (dropping later vows) and
+// would close spurious verses at embedded numbers. These are split by the
+// monotonic top-level counter instead (src/corpus/book-parser.js
+// extractMonotonicVowVerses), keeping embedded gāthās/rubrics inline; the trailing
+// concluding section (saṁlekhanā + ācāra atichāra + final pratyākhyāna) becomes a
+// final verse with printedNumber=null. (Per-sutra data, like HEADING_NEEDLES.)
+const MONOTONIC_VOW_SPLIT = new Set([
+    "bruhad-atiyar",
+]);
+
 export function loadStructure(config) {
     const p = path.join(config.dataDir, "corpus", "pratikraman-structure.json");
     if (!fs.existsSync(p)) throw new Error(`Missing structure tree: ${p} (build it from the golden book first).`);
@@ -98,17 +111,26 @@ export function buildCanonical(config) {
         let verses = [];
         let singleBlock = "";
         try {
-            const res = extractSutraVerses(config.dataDir, meta.pdfPages || [], needles);
-            verses = res.verses;
-            // Fallback for genuine prose / lists / single formulas (no per-item
-            // numbered markers): if a section/anchor matched but produced no
-            // numbered verses, emit its verbatim body as ONE shloka so the sutra
-            // is translatable and renders real text instead of "Text pending".
-            // FORCE_SINGLE_BLOCK sutras (procedural count-column lists) always
-            // collapse to one block regardless of any spurious column digits.
-            if ((verses.length === 0 || FORCE_SINGLE_BLOCK.has(sutraId)) && res.matchedHeadings.length > 0) {
-                if (FORCE_SINGLE_BLOCK.has(sutraId)) verses = [];
-                singleBlock = bodyToSingleBlock(res.body || []);
+            if (MONOTONIC_VOW_SPLIT.has(sutraId)) {
+                // One long prose confession over an exclusive page range: split by
+                // the monotonic top-level vow markers, then append the concluding
+                // section (saṁlekhanā + ācāra atichāra + final formula) as a verse.
+                const res = extractMonotonicVowVerses(config.dataDir, meta.pdfPages || []);
+                verses = res.verses.slice();
+                if (res.tail && res.tail.length) verses.push({ number: null, text: res.tail });
+            } else {
+                const res = extractSutraVerses(config.dataDir, meta.pdfPages || [], needles);
+                verses = res.verses;
+                // Fallback for genuine prose / lists / single formulas (no per-item
+                // numbered markers): if a section/anchor matched but produced no
+                // numbered verses, emit its verbatim body as ONE shloka so the sutra
+                // is translatable and renders real text instead of "Text pending".
+                // FORCE_SINGLE_BLOCK sutras (procedural count-column lists) always
+                // collapse to one block regardless of any spurious column digits.
+                if ((verses.length === 0 || FORCE_SINGLE_BLOCK.has(sutraId)) && res.matchedHeadings.length > 0) {
+                    if (FORCE_SINGLE_BLOCK.has(sutraId)) verses = [];
+                    singleBlock = bodyToSingleBlock(res.body || []);
+                }
             }
         } catch (e) {
             logger.warn(`Verse extraction failed for ${sutraId}: ${e.message}`, "build-corpus");

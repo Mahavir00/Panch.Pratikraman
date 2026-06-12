@@ -59,7 +59,7 @@ function runScript(scriptRel, args, label) {
 }
 
 program.command("ocr")
-    .description("OCR the scanned book: rasterize pages to tiles, then transcribe via Copilot CLI (one process per page)")
+    .description("Transcribe the source book: rasterize pages to tiles, then transcribe via Copilot CLI (one process per page)")
     .option("--pages <spec>", "page spec: missing | all | A-B | n,m,...", "missing")
     .option("--concurrency <n>", "parallel Copilot OCR processes")
     .option("--reasoning <level>", "reasoning effort for OCR (e.g. high)")

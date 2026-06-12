@@ -115,7 +115,7 @@ function FallbackAbout() {
         and annual.
       </p>
       <p>
-        This edition is grounded in the tradition’s scanned authoritative book. Re-run the
+        This edition is grounded in the tradition’s authoritative printed edition. Re-run the
         data-sync to load the full tradition knowledge base here.
       </p>
     </div>

@@ -2,7 +2,7 @@
   "tradition": "achhalgach",
   "traditionAliases": ["Achhalgach", "Achalgachchha", "Anchalgachchha", "Aanchalagaccha", "Vidhipaksha Gaccha", "વિધિપક્ષગચ્છ", "અંચલગચ્છ"],
   "source": "data/book/panch-pratikraman.full.md",
-  "sourceBook": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (Panch Pratikraman Sutra — Vidhi Sahit), Anchalgachchha (Vidhipaksha) edition; scanned book pages 19–108.",
+  "sourceBook": "પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત (Panch Pratikraman Sutra — Vidhi Sahit), Anchalgachchha (Vidhipaksha) edition.",
   "generatedAt": "2026-06-07",
   "note": "Website backbone. Each pratikraman has an ordered `sequence` of steps. A step of type 'sutra' references a sutraId in `sutras` (clickable -> shlokas + word-by-word translation + commentary). A step of type 'vidhi' is procedural connective text (begin/end declarations, 'now recite X'); its full native prose lives in the golden text at `bookPages`. Chaumasi and Samvatsari are defined by the book itself as Pakshik plus substitutions, so they use `basedOn` + `overrides` rather than repeating the sequence. Shared sutras are defined once here and referenced by multiple pratikramans (`usedIn`).",
 

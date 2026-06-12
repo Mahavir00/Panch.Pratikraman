@@ -1,7 +1,7 @@
 # Achhalgach (Anchalgachchha / Vidhipaksha) Pancha Pratikramana — Tradition Knowledge Base
 
 > **Status:** v1.0, 2026-06-07. **Authoritative system context for every per-shloka and per-vidhi translation/elaboration session.**
-> This document is grounded **entirely in the scanned authoritative book** *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત* (*Panch Pratikraman Sutra — Vidhi Sahit*), the Anchalgachchha (Vidhipaksha) edition — OCR'd verbatim into `data/book/panch-pratikraman.full.md` (book pages 19–108). The machine-readable recitation tree is `data/corpus/pratikraman-structure.json`.
+> This document is grounded **entirely in the authoritative printed edition** *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત* (*Panch Pratikraman Sutra — Vidhi Sahit*), the Anchalgachchha (Vidhipaksha) edition. The machine-readable recitation tree is `data/corpus/pratikraman-structure.json`.
 > When a fact is not attested by the book, this document says so explicitly. **Do not bluff; do not invent ritual placement.** The book is the single golden source.
 
 ---
@@ -10,7 +10,7 @@
 
 - **Tradition names (all the same gaccha):** Achhalgach, **Achalgachchha**, **Anchalgachchha** (Aanchalagaccha), and its self-designation in this book, **Vidhipaksha Gaccha** (વિધિપક્ષગચ્છ). Hindi अंचलगच्छ; Gujarati અંચલગચ્છ / અંચળગચ્છ. A Śvetāmbara Mūrtipūjaka branch.
 - **Lineage:** The book names **Dādā Shri Āryarakṣitasūri** (આર્યરક્ષિતસૂરિ) — counted as the **47th paṭṭa (pontifical succession)** from **Gaṇadhara Sudharmāsvāmī** — as the *yugapradhāna* who codified the *śuddha vidhi* (pure procedure) for śrāvakas of this gaccha. **Kalyāṇasāgarasūri** (કલ્યાણસાગરસૂરિ) is the other founder-figure invoked by name in the Pakkhī Khāmaṇā. The reigning **gacchādhipati** of the day is also invoked there (by the current incumbent's name).
-- **The book:** title running-header on every page is *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત*. It is **vidhi-sahit** — i.e. it interleaves the **sūtra texts** with the **vidhi** (step-by-step ritual instructions, begin/end declarations, and "now recite X" cues). The scan covers **book pages 19–108** (PDF pages 1–90; PDF page N = book page N + 18).
+- **The book:** title running-header on every page is *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત*. It is **vidhi-sahit** — i.e. it interleaves the **sūtra texts** with the **vidhi** (step-by-step ritual instructions, begin/end declarations, and "now recite X" cues). It spans **book pages 19–108**.
 
 ---
 
@@ -187,7 +187,7 @@ The book is the golden source; **preserve its readings verbatim** — including 
 
 ## 9. References to consult / add when verified
 
-- The source book itself: *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત* (Anchalgachchha/Vidhipaksha ed.), OCR at `data/book/panch-pratikraman.full.md`.
+- The source book itself: *પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત* (Anchalgachchha/Vidhipaksha ed.), source text at `data/book/panch-pratikraman.full.md`.
 - *Nandī-sūtra* (Mūlasūtra), Devardhigaṇi Kṣamāśramaṇa redaction — for the Pratham/Dvitīya Sajjhāy.
 - *Dashavaikālika-sūtra* ch. 1 (Drumapuṣpikā) — for `drumapushpika-sajjhay`.
 - *Āvaśyaka Niryukti* (g.1532 cited in-book for the kāyotsarga breath-counts).

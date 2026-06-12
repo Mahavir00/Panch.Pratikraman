@@ -11,10 +11,10 @@ Thumbs.db
 # back to sensible defaults when it is absent, so it is user-local, not committed.
 config.txt
 
-# ───────────── The scanned source book (≈44 MB, copyrighted) ─────────────
-# The OCR'd, hand-verified verbatim text under data/book/pages/ is the
-# committed working golden source. The original scan is NOT redistributed.
-# See input/README.md for how to obtain it (needed only to re-run OCR).
+# ───────────── The source book PDF (≈44 MB, copyrighted) ─────────────
+# The transcribed, hand-verified text under data/book/pages/ is the
+# committed working source. The original PDF is NOT redistributed.
+# See input/README.md for how to obtain it (needed only to re-run transcription).
 input/*.pdf
 
 # ───────── Generated / large / regenerable artifacts under data/ ─────────
@@ -34,7 +34,7 @@ website/public/data/
 # ───────────────────────────── What IS committed ────────────────────────
 # Everything else under data/ is committed on purpose — the website and CI
 # build from it with zero pipeline runs:
-#   data/book/pages/**                       verbatim golden OCR (source of truth)
+#   data/book/pages/**                       transcribed source text (source of truth)
 #   data/book/panch-pratikraman.full.md, data/book/ocr-manifest.json
 #   data/corpus/pratikraman-structure.json   recitation tree (curated input)
 #   data/corpus/canonical.json, vidhi.json   generated, committed for the website + CI

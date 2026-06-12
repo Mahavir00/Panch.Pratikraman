@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Rasterize the scanned Panch Pratikraman PDF into OCR-optimized view tiles.
+"""Rasterize the Panch Pratikraman source PDF into OCR-optimized view tiles.
 
-One-time OCR-prep utility (not part of the Node tool). Camera-scanned Gujarati is
+One-time OCR-prep utility (not part of the Node tool). Dense printed Gujarati is
 dense; multimodal models downsample any image whose long edge exceeds ~1568px, so
 a full 400-DPI page (≈4678px tall) loses detail and blurs conjuncts. Instead we
 split every page into an overlapping TOP and BOTTOM half, each rendered so its
@@ -74,7 +74,7 @@ def render_band(page, clip, long_edge, out_path, quality):
 
 
 def main():
-    ap = argparse.ArgumentParser(description="Rasterize a scanned PDF into OCR tiles.")
+    ap = argparse.ArgumentParser(description="Rasterize a source PDF into OCR tiles.")
     ap.add_argument("--pdf", default="input/panch_pratikraman.pdf")
     ap.add_argument("--out", default="data/book/tiles")
     ap.add_argument("--manifest", default="data/book/ocr-manifest.json")

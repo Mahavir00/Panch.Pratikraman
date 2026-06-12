@@ -128,7 +128,7 @@ function buildCmd(prompt, opts) {
     } else {
         parts.push(`--allow-all`);
     }
-    // Image / document attachments (e.g. scanned page tiles for OCR). Order is preserved.
+    // Image / document attachments (e.g. page tiles for OCR). Order is preserved.
     for (const att of attachments || []) parts.push(`--attachment`, `"${att}"`);
     if (addDir) parts.push(`--add-dir`, `"${addDir}"`);
     const chosenModel = model || _defaults.model;

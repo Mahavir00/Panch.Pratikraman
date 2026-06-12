@@ -1,7 +1,7 @@
 {
   "name": "panch-pratikraman",
   "version": "1.0.0",
-  "description": "Translate and elaborate every sutra of the Pancha Pratikramana (Achhalgach/Anchalgachchha tradition) in Gujarati, Hindi, and English. Single golden source: an OCR'd scanned book. GitHub Copilot CLI orchestration.",
+  "description": "Translate and elaborate every sutra of the Pancha Pratikramana (Achhalgach/Anchalgachchha tradition) in Gujarati, Hindi, and English. Single golden source: the printed source book. GitHub Copilot CLI orchestration.",
   "type": "module",
   "bin": {
     "ppt": "./index.js"

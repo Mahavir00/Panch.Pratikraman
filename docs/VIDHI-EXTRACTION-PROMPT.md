@@ -73,7 +73,7 @@ verbatim in Gujarati, e.g.
 
 > *ઇચ્છાકારેણ સંદિસહ ભગવન્! ઇરિયાવહિયં પડિક્કમામિ?* … *ઇચ્છં.*
 
-— exists **only** in the scanned book (`data/book/pages/page-003.txt`, book p.21) and has never been
+— exists **only** in the source book (`data/book/pages/page-003.txt`, book p.21) and has never been
 pulled into structured, translatable data. So the website cannot show or translate it. We are NOT
 changing the curated structure tree's vidhi steps; we are **adding** two new generated layers keyed by
 the existing vidhi-step `id`s.
@@ -301,7 +301,7 @@ chant-ready `recitation` and a correct `explanation`.
 
 ## 10. Quality iteration loop (mirror DESIGN.md §10)
 
-1. `ppt vidhi --extract --scope devasi-iriya-adesh` → inspect `vidhi.json` segments against the scan
+1. `ppt vidhi --extract --scope devasi-iriya-adesh` → inspect `vidhi.json` segments against the source text
    (`data/book/pages/page-003.txt`, book p.21). Fix segmentation/`leadsToSutra` issues by strengthening
    `prompts/extract-vidhi.md` (not by hand-editing data, except genuine OCR corrections to the golden
    page).

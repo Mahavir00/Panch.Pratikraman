@@ -1,9 +1,9 @@
-# OCR Transcription Conventions — Panch Pratikraman scanned book
+# OCR Transcription Conventions — Panch Pratikraman source book
 
 > Shared spec for every OCR pass (subagents and the future `ppt ocr` command).
-> Source: `input/panch_pratikraman.pdf` — a camera-scanned Gujarati Jain liturgical
+> Source: `input/panch_pratikraman.pdf` — a Gujarati Jain liturgical
 > book, **"પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત"** (Anchalgachchha / Achhalgach tradition).
-> The scan is high quality and fully legible. **The bar is ZERO mistakes.**
+> The page images are high quality and fully legible. **The bar is ZERO mistakes.**
 
 ## Input tiles
 Page images: `data/book/tiles/page-NNN-top.jpg` and `data/book/tiles/page-NNN-bottom.jpg`
@@ -74,5 +74,5 @@ Read every tile with the image-view tool. If you cannot view images, stop and sa
 
 ## Self-verification (mandatory)
 After writing a page, RE-VIEW both tiles and compare against your file line by line.
-Fix any mismatch. Only mark a page done when its text matches the scan exactly. Report
+Fix any mismatch. Only mark a page done when its text matches the page image exactly. Report
 the count of `uncertain` glyphs (ideally zero) with page + context.

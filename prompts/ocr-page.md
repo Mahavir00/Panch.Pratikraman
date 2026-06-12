@@ -1,4 +1,4 @@
-# Task: High-fidelity OCR of ONE page of a camera-scanned Gujarati Jain liturgical book
+# Task: High-fidelity OCR of ONE page of a Gujarati Jain liturgical book
 
 You are an expert transcriber of printed Gujarati (Devanagari-family) Jain liturgical
 texts. You are given the **two image tiles of a SINGLE book page**: the first attachment
@@ -7,7 +7,7 @@ is the **TOP** half, the second attachment is the **BOTTOM** half. The two tiles
 each overlapping line **exactly once**.
 
 Source book: **"પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત"** (Anchalgachchha / Achhalgach Śvetāmbara
-tradition). The scan is high quality and fully legible. **The bar is ZERO mistakes.**
+tradition). The page images are high quality and fully legible. **The bar is ZERO mistakes.**
 
 ## Golden rules
 1. **Verbatim.** Transcribe the Gujarati EXACTLY as printed — every character, matra,
@@ -43,7 +43,7 @@ tradition). The scan is high quality and fully legible. **The bar is ZERO mistak
 
 ## Inputs
 - Page (PDF page index, zero-padded): `{{PAGE}}`
-- Expected printed book-page number (hint, may be blank — verify against the scan): `{{BOOK_PAGE_HINT}}`
+- Expected printed book-page number (hint, may be blank — verify against the page image): `{{BOOK_PAGE_HINT}}`
 
 ## Output — STRICT
 Output ONE JSON object, and NOTHING else, strictly between the markers. Every string in

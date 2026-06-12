@@ -1,5 +1,5 @@
 // Book parser: extract verses (shlokas) from the golden OCR pages for a given
-// PDF page range. The scanned book marks verse ENDS inline, e.g.
+// PDF page range. The source book marks verse ENDS inline, e.g.
 //   જયઇ જગજીવ જોણી, ... ભયવં. ॥ ૧ ॥
 //   નમો અરિહંતાણં.<TAB>૧            (Navkar style: trailing tab + digit)
 // and may carry a metre label before the number: "॥ ગાહા ॥ ૩૮ ॥".
@@ -256,4 +256,48 @@ export function bodyToSingleBlock(bodyLines) {
             .trimEnd();
     }
     return out.join("\n").replace(/\n{3,}/g, "\n\n").trim();
+}
+
+// Extract verses from a sutra that is ONE continuous prose confession occupying
+// an EXCLUSIVE page range, whose top-level sections are closed by MONOTONICALLY
+// increasing double-danda markers ॥ ૧ ॥ … ॥ K ॥, but which (a) embeds sub-gāthās /
+// sub-lists that RESTART their own numbering (e.g. the 22-abhakṣya & 32-anantakāya
+// gāthās, the anarthadaṇḍa sub-types) and (b) carries ॥…॥ transitional rubrics
+// (“these five aṇuvratas are done, now the three guṇavratas…”). The generic
+// section/verse splitter mis-handles both: segmentByHeadings truncates the sutra
+// at a rubric, and extractVersesFromLines would close spurious verses at every
+// embedded gāthā number. Here we read the WHOLE page range and split ONLY where a
+// ॥ N ॥ marker equals the next EXPECTED top-level number; every other marker /
+// rubric stays inline and verbatim. A leading bar-wrapped sutra title is dropped
+// (parity with the generic path); processing stops at the trailing `॥ ઇતિ …`
+// author colophon. Whatever follows the last top-level marker (the concluding
+// saṁlekhanā + ācāra atichāra + final pratyākhyāna) is returned as `tail`.
+// Never normalizes Gujarati — the book is verbatim truth.
+export function extractMonotonicVowVerses(dataDir, pdfPages) {
+    const lines = loadPageBodies(dataDir, pdfPages);
+    // skip a leading blank/bar-title heading so the first verse begins at the
+    // real opening text (keeps the first verses byte-identical to the old path).
+    let start = 0;
+    while (start < lines.length && (lines[start].trim() === "" || isHeadingLine(lines[start]))) start++;
+    const verses = [];
+    let buf = [];
+    let expected = 1;
+    for (let i = start; i < lines.length; i++) {
+        const line = lines[i].replace(/\s+$/g, "");
+        if (/^(॥|।।)\s*ઇતિ/.test(line.trim())) break;   // trailing author colophon — stop
+        if (line.trim() === "") { if (buf.length) buf.push(""); continue; }
+        const m = line.match(NUM_MARKER_RE);
+        if (m && gujToInt(m[1]) === expected) {
+            const head = line.slice(0, m.index).replace(TRAILING_LABEL_RE, "").trimEnd();
+            const body = head && head.length ? [...buf, head] : buf;
+            const text = body.join("\n").replace(/\n{2,}/g, "\n").trim();
+            if (text.length) verses.push({ number: expected, text });
+            buf = [];
+            expected += 1;
+        } else {
+            buf.push(line);
+        }
+    }
+    const tail = buf.join("\n").replace(/\n{2,}/g, "\n").trim();
+    return { verses, tail };
 }

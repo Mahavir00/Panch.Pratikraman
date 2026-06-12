@@ -130,7 +130,7 @@ const english: Dict = {
   'sutra.prefacePending':
     'The introduction for this sūtra is not yet available in the selected language. Try another language above, or read the verses below.',
   'sutra.versePending':
-    'The verse-by-verse text of this sūtra is pending extraction from the golden source. It will appear here as the pipeline completes.',
+    'The verse-by-verse text of this sūtra is pending from the source. It will appear here as the pipeline completes.',
   'sutra.notFound.title': 'Sūtra not found',
 
   // pratikraman page
@@ -160,7 +160,7 @@ const english: Dict = {
   'prati.notFound.title': 'Pratikramaṇa not found',
   'prati.notFound.detail': 'No rite with id “{id}”.',
   'vidhi.label': 'Instruction (vidhi)',
-  'vidhi.goldenText': 'Golden text · {pages}',
+  'vidhi.goldenText': 'Source text · {pages}',
   'vidhi.show': 'Show recitation & meaning',
   'vidhi.hide': 'Hide recitation & meaning',
   'vidhi.adesh': 'Ādeśa',
@@ -216,7 +216,7 @@ const english: Dict = {
   'home.howToRead.practitioner.body':
     'Expand any verse for word-by-word parsing, etymology, commentary, doctrinal context, cross-references and cited sources. Toggle EN / ગુ / हि at any time; glossary terms define themselves on hover.',
   'home.source.note': 'Source of truth: {book}.',
-  'home.source.fallback': 'the scanned authoritative book of the tradition',
+  'home.source.fallback': 'the authoritative book of the tradition',
 
   // footer
   'footer.tagline':
@@ -248,7 +248,7 @@ const english: Dict = {
   // about
   'about.hero.title': 'The Tradition & the Method',
   'about.hero.body':
-    'This edition presents the Pañca Pratikramaṇa of the Achhalgach (Anchalgachchha / Vidhipakṣa) Śvetāmbara Mūrtipūjaka Jain tradition, grounded entirely in its scanned authoritative book.',
+    'This edition presents the Pañca Pratikramaṇa of the Achhalgach (Anchalgachchha / Vidhipakṣa) Śvetāmbara Mūrtipūjaka Jain tradition, with the tradition’s authoritative printed edition as its source.',
   'about.sourceBook.title': 'The source book',
   'about.corpus.title': 'Corpus at a glance',
   'about.corpus.sutras': 'Sūtras',
@@ -259,7 +259,7 @@ const english: Dict = {
     'The translation pipeline is ongoing; counts grow as new JSON is generated and the site is re-synced.',
   'about.method.title': 'Method',
   'about.method.body':
-    'Verses are read verbatim from the golden OCR of the printed book. Translation and acharya-grade commentary are produced by an assisted pipeline and reconciled against classical Prakrit and Sanskrit lexica, with sources cited per verse.',
+    'Verses follow the received text of the sūtras as found in the tradition’s authoritative printed edition. Translation and acharya-grade commentary are prepared from that source by an assisted pipeline and reconciled against classical Prakrit and Sanskrit lexica, with sources cited per verse.',
   'about.downloadPdf': 'Download print PDF',
   'about.loadingKb': 'Loading tradition knowledge…',
   'about.footer.made': 'Made with reverence. The scripture is the hero; this site only serves it.',
@@ -470,7 +470,7 @@ const gujarati: Dict = {
   'home.howToRead.practitioner.body':
     'કોઈ પણ ગાથાને વિસ્તારી શબ્દશઃ વિશ્લેષણ, વ્યુત્પત્તિ, વિવેચન, સૈદ્ધાંતિક સંદર્ભ, અન્ય સંદર્ભો અને ઉલ્લેખિત સ્રોત જુઓ. ગમે ત્યારે EN / ગુ / हि બદલો; શબ્દકોશના શબ્દો સ્પર્શ કરતાં અર્થ બતાવે છે.',
   'home.source.note': 'પ્રમાણ-સ્રોત: {book}.',
-  'home.source.fallback': 'પરંપરાનો સ્કેન કરેલો પ્રમાણભૂત ગ્રંથ',
+  'home.source.fallback': 'પરંપરાનો પ્રમાણભૂત ગ્રંથ',
 
   'footer.tagline':
     'અંચલગચ્છ (વિધિપક્ષ) શ્વેતામ્બર મૂર્તિપૂજક જૈન પરંપરાનાં પંચ પ્રતિક્રમણ સૂત્રોનું, આચાર્ય-કક્ષાના વિવેચન સહિત, ત્રિભાષી શ્રદ્ધાપૂર્ણ સંસ્કરણ.',
@@ -499,7 +499,7 @@ const gujarati: Dict = {
 
   'about.hero.title': 'પરંપરા અને પદ્ધતિ',
   'about.hero.body':
-    'આ સંસ્કરણ અંચલગચ્છ (વિધિપક્ષ) શ્વેતામ્બર મૂર્તિપૂજક જૈન પરંપરાનું પંચ પ્રતિક્રમણ રજૂ કરે છે, જે સંપૂર્ણપણે તેના સ્કેન કરેલા પ્રમાણભૂત ગ્રંથ પર આધારિત છે.',
+    'આ સંસ્કરણ અંચલગચ્છ (વિધિપક્ષ) શ્વેતામ્બર મૂર્તિપૂજક જૈન પરંપરાનું પંચ પ્રતિક્રમણ રજૂ કરે છે, જે પરંપરાના પ્રમાણભૂત મુદ્રિત ગ્રંથને સ્રોત તરીકે આધાર બનાવે છે.',
   'about.sourceBook.title': 'મૂળ ગ્રંથ',
   'about.corpus.title': 'સંગ્રહ એક નજરમાં',
   'about.corpus.sutras': 'સૂત્રો',
@@ -510,7 +510,7 @@ const gujarati: Dict = {
     'અનુવાદ-પ્રક્રિયા ચાલુ છે; નવી JSON ઉત્પન્ન થતાં અને સ્થળ ફરી સિંક થતાં સંખ્યા વધે છે.',
   'about.method.title': 'પદ્ધતિ',
   'about.method.body':
-    'ગાથાઓ મુદ્રિત ગ્રંથના ગોલ્ડન OCR પરથી જેમની તેમ લેવાય છે. અનુવાદ અને આચાર્ય-કક્ષાનું વિવેચન સહાયિત પ્રક્રિયા દ્વારા તૈયાર થાય છે અને શાસ્ત્રીય પ્રાકૃત તથા સંસ્કૃત કોશો સામે મેળવાય છે, પ્રત્યેક ગાથા સાથે સ્રોત ઉલ્લેખિત.',
+    'ગાથાઓ પરંપરાના પ્રમાણભૂત મુદ્રિત ગ્રંથમાં મળતા પ્રચલિત પાઠ પ્રમાણે છે. અનુવાદ અને આચાર્ય-કક્ષાનું વિવેચન સહાયિત પ્રક્રિયા દ્વારા તૈયાર થાય છે અને શાસ્ત્રીય પ્રાકૃત તથા સંસ્કૃત કોશો સામે મેળવાય છે, પ્રત્યેક ગાથા સાથે સ્રોત ઉલ્લેખિત.',
   'about.downloadPdf': 'છાપ-PDF ડાઉનલોડ કરો',
   'about.loadingKb': 'પરંપરા-જ્ઞાન લોડ થઈ રહ્યું છે…',
   'about.footer.made': 'શ્રદ્ધાપૂર્વક રચિત. ગ્રંથ જ નાયક છે; આ સ્થળ માત્ર તેની સેવા કરે છે.',
@@ -719,7 +719,7 @@ const hindi: Dict = {
   'home.howToRead.practitioner.body':
     'किसी भी गाथा को विस्तृत कर शब्दशः विश्लेषण, व्युत्पत्ति, विवेचन, सैद्धांतिक संदर्भ, अन्य संदर्भ और उद्धृत स्रोत देखें। कभी भी EN / ગુ / हि बदलें; शब्दकोश के शब्द छूने पर अर्थ बताते हैं।',
   'home.source.note': 'प्रामाणिक स्रोत: {book}।',
-  'home.source.fallback': 'परंपरा का स्कैन किया गया प्रामाणिक ग्रंथ',
+  'home.source.fallback': 'परंपरा का प्रामाणिक ग्रंथ',
 
   'footer.tagline':
     'अंचलगच्छ (विधिपक्ष) श्वेतांबर मूर्तिपूजक जैन परंपरा के पंच प्रतिक्रमण सूत्रों का, आचार्य-स्तरीय विवेचन सहित, त्रिभाषी श्रद्धापूर्ण संस्करण।',
@@ -748,7 +748,7 @@ const hindi: Dict = {
 
   'about.hero.title': 'परंपरा और पद्धति',
   'about.hero.body':
-    'यह संस्करण अंचलगच्छ (विधिपक्ष) श्वेतांबर मूर्तिपूजक जैन परंपरा का पंच प्रतिक्रमण प्रस्तुत करता है, जो पूर्णतः उसके स्कैन किए गए प्रामाणिक ग्रंथ पर आधारित है।',
+    'यह संस्करण अंचलगच्छ (विधिपक्ष) श्वेतांबर मूर्तिपूजक जैन परंपरा का पंच प्रतिक्रमण प्रस्तुत करता है, जो उसके प्रामाणिक मुद्रित ग्रंथ को स्रोत मानकर आधारित है।',
   'about.sourceBook.title': 'मूल ग्रंथ',
   'about.corpus.title': 'संग्रह एक नज़र में',
   'about.corpus.sutras': 'सूत्र',
@@ -759,7 +759,7 @@ const hindi: Dict = {
     'अनुवाद-प्रक्रिया जारी है; नई JSON बनने और साइट के पुनः सिंक होने पर संख्याएँ बढ़ती हैं।',
   'about.method.title': 'पद्धति',
   'about.method.body':
-    'गाथाएँ मुद्रित ग्रंथ के गोल्डन OCR से यथावत् ली जाती हैं। अनुवाद और आचार्य-स्तरीय विवेचन सहायित प्रक्रिया द्वारा तैयार होते हैं और शास्त्रीय प्राकृत तथा संस्कृत कोशों से मिलाए जाते हैं, प्रत्येक गाथा के साथ स्रोत उद्धृत।',
+    'गाथाएँ परंपरा के प्रामाणिक मुद्रित ग्रंथ में प्राप्त प्रचलित पाठ के अनुसार हैं। अनुवाद और आचार्य-स्तरीय विवेचन सहायित प्रक्रिया द्वारा तैयार होते हैं और शास्त्रीय प्राकृत तथा संस्कृत कोशों से मिलाए जाते हैं, प्रत्येक गाथा के साथ स्रोत उद्धृत।',
   'about.downloadPdf': 'प्रिंट PDF डाउनलोड करें',
   'about.loadingKb': 'परंपरा-ज्ञान लोड हो रहा है…',
   'about.footer.made': 'श्रद्धापूर्वक रचित। ग्रंथ ही नायक है; यह साइट केवल उसकी सेवा करती है।',
