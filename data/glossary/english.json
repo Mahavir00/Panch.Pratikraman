@@ -1,6 +1,6 @@
 {
   "lang": "english",
-  "generatedAt": "2026-06-12T03:00:20.965Z",
+  "generatedAt": "2026-06-12T17:03:58.760Z",
   "terms": [
     {
       "term": "abhagga (abhagna)",
@@ -8,6 +8,14 @@
       "definition": "unbroken — said of a kāyotsarga that has not been interrupted.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "abhakṣya",
+      "scriptForm": "અભક્ષ્ય",
+      "definition": "Forbidden foods — the twenty-two items (and root-vegetables) a disciplined śrāvaka does not eat.",
+      "sutras": [
+        "bruhad-atiyar"
       ]
     },
     {
@@ -61,6 +69,14 @@
       ]
     },
     {
+      "term": "ācārya / sūri",
+      "scriptForm": "આચાર્ય / સૂરિ",
+      "definition": "A monastic preceptor and head of an order; '-sūri' is the title suffixed to such names.",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "ādarvuṁ / ādaruṁ",
       "scriptForm": "આદરું",
       "definition": "'To take up, honor, adopt' — the verb governing the twenty-five virtues to be embraced.",
@@ -71,24 +87,15 @@
     {
       "term": "adattādāna",
       "scriptForm": "અદત્તાદાન",
-      "definition": "Taking what is not given (theft); the 3rd vow is abstention from gross stealing.",
+      "definition": "Taking what has not been given; theft.",
       "sutras": [
-        "adhar-papsthanak",
-        "bruhad-atiyar"
-      ]
-    },
-    {
-      "term": "adattādāna-viramaṇa",
-      "scriptForm": "અદત્તાદાન વિરમણ",
-      "definition": "Abstaining from taking what is not given — the third vow (non-stealing).",
-      "sutras": [
-        "laghu-atiyar"
+        "adhar-papsthanak"
       ]
     },
     {
       "term": "aḍhāī-dvīpa",
-      "scriptForm": "અઢાઇ દીવ",
-      "definition": "The 'two-and-a-half continents' (Jambūdvīpa, Dhātakīkhaṇḍa and half of Puṣkaravara) with their intervening oceans — the whole region of the human/inhabited world.",
+      "scriptForm": "અઢાઈ દ્વીપ",
+      "definition": "The 'two-and-a-half continents' — the region of the Jain universe where human life and thus monks can exist.",
       "sutras": [
         "muni-vandana"
       ]
@@ -177,11 +184,27 @@
       ]
     },
     {
-      "term": "anartha-daṇḍa-viramaṇa",
-      "scriptForm": "અનર્થદંડ વિરમણ",
-      "definition": "Abstaining from purposeless harm — the eighth vow, covering needless violence, careless speech and idle harmful counsel.",
+      "term": "anācāra",
+      "scriptForm": "અનાચાર",
+      "definition": "An outright breach of a vow, more serious than an atichāra.",
+      "sutras": [
+        "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "anāchāra / atikrama / vyatikrama",
+      "scriptForm": "અનાચાર / અતિક્રમ / વ્યતિક્રમ",
+      "definition": "Graded degrees of fault named in the closing summary: from a mere transgressive impulse (atikrama) and overstepping (vyatikrama) up to outright wrong conduct (anāchāra).",
       "sutras": [
         "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "anantakāya",
+      "scriptForm": "અનંતકાય",
+      "definition": "'Infinite-bodied' beings — vegetables (the thirty-two listed) each holding innumerable souls, hence avoided.",
+      "sutras": [
+        "bruhad-atiyar"
       ]
     },
     {
@@ -204,7 +227,7 @@
     {
       "term": "aṇuvrata",
       "scriptForm": "અણુવ્રત",
-      "definition": "A 'lesser vow' — the five basic ethical vows kept by lay people in a limited (sthūla, 'gross/coarse') form, less severe than a monk's great vows.",
+      "definition": "The five 'lesser vows' — limited forms (suited to lay life) of non-violence, truth, non-stealing, chastity, and non-possession.",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -331,7 +354,7 @@
     {
       "term": "atichāra",
       "scriptForm": "અતિયાર",
-      "definition": "A partial transgression that weakens or stains a vow without fully breaking it; in this book consistently spelt 'atiyāra'. Each vow has a recognised set of five.",
+      "definition": "A 'transgression' — a partial or subtle violation that strains a vow without wholly breaking it; each of the twelve vows has five. (Note: this book spells it અતિયાર, not અતિચાર.)",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -353,14 +376,6 @@
       "sutras": [
         "ashtottari-tirthmala",
         "kevalnani-chaityavandan"
-      ]
-    },
-    {
-      "term": "atithi-saṁvibhāga",
-      "scriptForm": "અતિથિ સંવિભાગ",
-      "definition": "Sharing food and necessities with worthy ascetic guests — the twelfth vow.",
-      "sutras": [
-        "laghu-atiyar"
       ]
     },
     {
@@ -403,6 +418,14 @@
       "definition": "Sanskrit ācārya; the head and spiritual preceptor of a monastic community, master of conduct and doctrine.",
       "sutras": [
         "navkar"
+      ]
+    },
+    {
+      "term": "bāra vrata",
+      "scriptForm": "બાર વ્રત",
+      "definition": "The 'twelve vows' of the Jain householder: five aṇuvrata, three guṇavrata, and four śikṣāvrata.",
+      "sutras": [
+        "laghu-atiyar"
       ]
     },
     {
@@ -751,7 +774,8 @@
       "definition": "The 10th lay vow: voluntarily narrowing, for a set time, the boundaries of one's movement and activity already limited by the 6th vow (dig-vrata), thereby reducing the scope for harm.",
       "sutras": [
         "deshavagasik-pachchakkhan",
-        "deshavagasik-samayik-pachchakkhan"
+        "deshavagasik-samayik-pachchakkhan",
+        "laghu-atiyar"
       ]
     },
     {
@@ -904,6 +928,14 @@
       ]
     },
     {
+      "term": "gaccha",
+      "scriptForm": "ગચ્છ",
+      "definition": "A monastic order or lineage-branch within Śvetāmbara Jainism.",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "gacchādhipati",
       "scriptForm": "ગચ્છાધિપતિ",
       "definition": "The reigning head of the gaccha, invoked by the incumbent's name.",
@@ -1018,14 +1050,6 @@
       ]
     },
     {
-      "term": "gucchha",
-      "scriptForm": "ગુચ્છ",
-      "definition": "A cloth-tuft/whisk among the monastic implements (associated with the cloth coverings of the alms-vessels); listed as a mark of the ascetic.",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
       "term": "guṇa",
       "scriptForm": "ગુણ",
       "definition": "A virtue or distinguishing quality; each rank of being is named by the fixed count of its gunas.",
@@ -1044,7 +1068,7 @@
     {
       "term": "guṇavrata",
       "scriptForm": "ગુણવ્રત",
-      "definition": "The three 'enhancing vows' (vows 6–8) that reinforce the aṇuvratas by limiting space, consumption and purposeless activity.",
+      "definition": "A 'multiplying' or merit-enhancing vow that reinforces the aṇuvratas (vows 6–8: direction-limit, enjoyment-limit, avoidance of purposeless harm).",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -1136,7 +1160,7 @@
     {
       "term": "jayaṇā",
       "scriptForm": "જયણા",
-      "definition": "Yatanā — careful, prudent leeway; the conscientious caution the layperson exercises where total avoidance is impossible (e.g. in unavoidable household activity).",
+      "definition": "Sanskrit yatanā — conscientious carefulness; the prudent exemption a layperson allows for subtle, unavoidable harm in necessary activity, distinct from intentional violation.",
       "sutras": [
         "bruhad-atiyar",
         "dravya-kshetra-kaal-bhav",
@@ -1299,9 +1323,9 @@
       ]
     },
     {
-      "term": "karmabhūmi",
-      "scriptForm": "કમ્મભૂમિ",
-      "definition": "A 'land of action' where ascetic life and liberation are possible; the fifteen karmabhūmis (5 Bharata, 5 Airāvata, 5 Mahāvideha) bound the scope of the salutation.",
+      "term": "karma-bhūmi",
+      "scriptForm": "કર્મભૂમિ",
+      "definition": "A 'land of action' where spiritual effort and liberation are possible; tradition counts fifteen such lands.",
       "sutras": [
         "muni-vandana"
       ]
@@ -1309,8 +1333,9 @@
     {
       "term": "karmādāna",
       "scriptForm": "કર્માદાન",
-      "definition": "The fifteen highly harmful livelihoods (charcoal-making, forest-clearing, animal trade, etc.) that the layperson restricts under the seventh vow.",
+      "definition": "The fifteen highly harmful livelihoods (e.g. trade in charcoal, forests, animals, poison) a śrāvaka avoids; enumerated under the seventh vow.",
       "sutras": [
+        "bruhad-atiyar",
         "laghu-atiyar"
       ]
     },
@@ -1332,7 +1357,6 @@
       "definition": "Lit. 'abandonment of the body'; the practice of standing or sitting motionless, detached from bodily concerns, while meditating — the fifth Āvaśyaka. It is the act this sūtra introduces, and its duration is counted in Logassa recitations.",
       "sutras": [
         "annattha",
-        "bruhad-atiyar",
         "iriyavahiyam",
         "logassa",
         "tassa-uttari"
@@ -1673,15 +1697,22 @@
         "gamanagamano",
         "iriyavahiyam",
         "jivrashi",
-        "laghu-atiyar",
         "padilehana",
         "samayik-parvani"
       ]
     },
     {
+      "term": "micchāmi dukkaḍaṁ",
+      "scriptForm": "મિચ્છા મિ દુક્કડં",
+      "definition": "'May my wrongdoing be in vain / may it come to nothing' — the standard Jain formula of confession and seeking forgiveness that seals each section.",
+      "sutras": [
+        "laghu-atiyar"
+      ]
+    },
+    {
       "term": "mithyātva",
       "scriptForm": "મિથ્યાત્વ",
-      "definition": "False belief or wrong worldview; here classed four-fold as laukika/lokottara and deva-gata/guru-gata (worldly vs misdirected-religious, regarding deities vs teachers).",
+      "definition": "False belief or wrong faith; here classified four-fold (lokika and lokottara, each deva-gata and guru-gata).",
       "sutras": [
         "bruhad-atiyar",
         "mannaha-jinanam-sajjhay"
@@ -1714,18 +1745,9 @@
     {
       "term": "mṛṣāvāda",
       "scriptForm": "મૃષાવાદ",
-      "definition": "False or harmful speech; the 2nd vow is abstention from gross lying.",
+      "definition": "False speech; lying.",
       "sutras": [
-        "adhar-papsthanak",
-        "bruhad-atiyar"
-      ]
-    },
-    {
-      "term": "mṛṣāvāda-viramaṇa",
-      "scriptForm": "મૃષાવાદ વિરમણ",
-      "definition": "Abstaining from gross falsehood — the second vow (truthfulness).",
-      "sutras": [
-        "laghu-atiyar"
+        "adhar-papsthanak"
       ]
     },
     {
@@ -1884,7 +1906,7 @@
     {
       "term": "niyama",
       "scriptForm": "નિયમ",
-      "definition": "A firm personal rule or restriction the householder adopts within a vow.",
+      "definition": "The specific personal limit or resolve a layperson sets within a vow (e.g. the exact extent of possessions or directions permitted).",
       "sutras": [
         "laghu-atiyar"
       ]
@@ -1908,7 +1930,7 @@
     {
       "term": "paḍiggaha",
       "scriptForm": "પડિગ્ગહ",
-      "definition": "The alms-bowl (pātra) into which a monk receives food; one of the defining ascetic possessions.",
+      "definition": "The alms-bowl carried by a monk.",
       "sutras": [
         "muni-vandana"
       ]
@@ -2086,15 +2108,6 @@
       ]
     },
     {
-      "term": "parigraha-parimāṇa",
-      "scriptForm": "પરિગ્રહ પરિમાણ",
-      "definition": "Setting and keeping a limit on one's possessions; the 5th vow, here listed under nine heads of property.",
-      "sutras": [
-        "bruhad-atiyar",
-        "laghu-atiyar"
-      ]
-    },
-    {
       "term": "pariharvuṁ / pariharuṁ",
       "scriptForm": "પરિહરું",
       "definition": "'To forsake, renounce' — the verb governing the twenty-five faults to be abandoned.",
@@ -2129,23 +2142,23 @@
     {
       "term": "paṭṭa",
       "scriptForm": "પાટ",
-      "definition": "The 'seat' of pontifical succession; the throne passed from one ācārya to the next (the ordinal 'pahele pāṭe…' = 'on the first seat…').",
+      "definition": "The 'seat' of pontifical headship; one position in a teacher-to-disciple succession.",
       "sutras": [
         "muni-vandana"
       ]
     },
     {
-      "term": "paṭṭānupāṭṭa",
-      "scriptForm": "પાટાનુપાટ",
-      "definition": "'Seat after seat'; in continuous succession, the phrase that links the early paṭṭas to the later ones.",
+      "term": "paṭṭānupaṭṭa",
+      "scriptForm": "પાટાનુપાટે",
+      "definition": "'Seat after seat'; the phrase marking continuous succession from one ācārya to the next.",
       "sutras": [
         "muni-vandana"
       ]
     },
     {
       "term": "paṭṭāvalī",
-      "scriptForm": "પટ્ટાવલી",
-      "definition": "A succession-list of the heads of a lineage, recited to honour the unbroken transmission of teaching.",
+      "scriptForm": "પાટાવલી",
+      "definition": "A pontifical succession-list recording who held the teacher's seat (paṭṭa) after whom.",
       "sutras": [
         "muni-vandana",
         "nandisutrani-dvitiya-sajay"
@@ -2250,18 +2263,9 @@
     {
       "term": "prāṇātipāta",
       "scriptForm": "પ્રાણાતિપાત",
-      "definition": "Killing or injuring living beings; the 1st vow is prāṇātipāta-viramaṇa, abstention from such harm.",
+      "definition": "Injury to or destruction of life; violence — the first and gravest source of sin.",
       "sutras": [
-        "adhar-papsthanak",
-        "bruhad-atiyar"
-      ]
-    },
-    {
-      "term": "prāṇātipāta-viramaṇa",
-      "scriptForm": "પ્રાણાતિપાત વિરમણ",
-      "definition": "Abstaining from killing/injury — the first vow (non-violence).",
-      "sutras": [
-        "laghu-atiyar"
+        "adhar-papsthanak"
       ]
     },
     {
@@ -2282,10 +2286,12 @@
     },
     {
       "term": "pratikramaṇa",
-      "scriptForm": "પડિક્કમામિ",
+      "scriptForm": "પ્રતિક્રમણ / પડિક્કમણ",
       "definition": "'Turning back' / retreat from transgression; 'paḍikkamāmi' = 'I withdraw (from that past fault),' the root act that names the whole ritual.",
       "sutras": [
+        "bruhad-atiyar",
         "karemi-bhante",
+        "laghu-atiyar",
         "smaran-8-laghu-ajitshanti",
         "suguru-dwadashavarta-vandana"
       ]
@@ -2378,7 +2384,7 @@
     {
       "term": "rajoharaṇa",
       "scriptForm": "રયહરણ",
-      "definition": "The woollen broom an ascetic uses to gently sweep a place before sitting, to avoid harming tiny beings; an emblem of the monk.",
+      "definition": "The woolen broom a monk uses to gently sweep aside living beings; an emblem of ahiṃsā.",
       "sutras": [
         "muni-vandana"
       ]
@@ -2477,7 +2483,6 @@
       "definition": "An ascetic striving on the path; the fifth Parameṣṭhin, honoured with the others in the Navkar though not given a separate verse here.",
       "sutras": [
         "drumapushpika-sajjhay",
-        "muni-vandana",
         "pakkhi-khamana",
         "panch-parmeshthi-sajjhay",
         "smaran-1-bruhannamaskar"
@@ -2512,6 +2517,7 @@
       "scriptForm": "સજ્ઝાય",
       "definition": "Sacred study-recitation, an internal austerity; the closing study-portion of the pratikramaṇa, distinct from the six Āvaśyakas.",
       "sutras": [
+        "muni-vandana",
         "panch-parmeshthi-sajjhay"
       ]
     },
@@ -2595,6 +2601,15 @@
       ]
     },
     {
+      "term": "saṁlekhanā",
+      "scriptForm": "સંલેષણા",
+      "definition": "The final, voluntary ascetic fast undertaken with equanimity at the approach of death (apaścima-māraṇāntika-saṁlekhanā), with its own five atichāras.",
+      "sutras": [
+        "bruhad-atiyar",
+        "laghu-atiyar"
+      ]
+    },
+    {
       "term": "saṁstava",
       "scriptForm": "સંથવ / संस्तव",
       "definition": "a hymn of sustained praise; the poem calls itself a saṁstava that destroys great fear.",
@@ -2629,7 +2644,7 @@
     {
       "term": "samyaktva",
       "scriptForm": "સમ્યક્ત્વ / સમકિત",
-      "definition": "Right faith or right worldview — confidence in the Jina, true teacher and Jina-taught dharma; its five atichāras are reviewed before the vows themselves.",
+      "definition": "Right faith / correct world-view; affirmed at the outset because it is the root that gives the vows their value. Here called samakita; its own five atichārs include doubt (śaṅkā) and craving (kāṅkṣā).",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar",
@@ -2801,7 +2816,7 @@
     {
       "term": "śikṣāvrata",
       "scriptForm": "શિક્ષાવ્રત",
-      "definition": "The four 'disciplinary/practice vows' (vows 9–12) that train the layperson toward ascetic discipline: sāmāyika, deśāvagāsika, pauṣadha, atithi-saṁvibhāga.",
+      "definition": "A 'disciplinary / training' vow cultivating spiritual practice (vows 9–12: equanimity, day-limit, monastic-like retreat, charitable sharing).",
       "sutras": [
         "bruhad-atiyar",
         "deshavagasik-pachchakkhan",
@@ -2819,7 +2834,7 @@
     {
       "term": "śīlāṅga",
       "scriptForm": "સીલંગ",
-      "definition": "A 'limb of conduct'; the tradition enumerates aṣṭādaśa-sahasra (18,000) such components of perfect monastic conduct, here invoked as 'aḍhāra sahassa sīlaṅga.'",
+      "definition": "The 'limbs of conduct'; the eighteen-thousand (aṭhāra-sahassa) combinations of monastic discipline.",
       "sutras": [
         "muni-vandana"
       ]
@@ -2852,10 +2867,11 @@
     {
       "term": "śrāvaka",
       "scriptForm": "શ્રાવક",
-      "definition": "A Jain lay devotee / householder; 'śrāddha' in the verse's saḍḍha; the audience and subject of these duties.",
+      "definition": "A Jain layperson (householder devotee); the feminine is śrāvikā. The subject who undertakes and reviews these vows.",
       "sutras": [
         "bruhad-atiyar",
         "gamanagamano",
+        "laghu-atiyar",
         "mannaha-jinanam-sajjhay"
       ]
     },
@@ -2949,22 +2965,6 @@
       "definition": "subtle, very slight — qualifying the barely perceptible stirrings that are excused.",
       "sutras": [
         "annattha"
-      ]
-    },
-    {
-      "term": "sūri",
-      "scriptForm": "સૂરિ",
-      "definition": "Honorific for an ācārya/preceptor (suffixed to lineage names, e.g. Āryarakṣita-sūri).",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
-      "term": "svadāra-santoṣa",
-      "scriptForm": "સ્વદારાસંતોષ",
-      "definition": "Contentment with one's own spouse and avoidance of others' partners; the substance of the 4th vow (śīla / brahmacarya for laity).",
-      "sutras": [
-        "bruhad-atiyar"
       ]
     },
     {
@@ -3122,6 +3122,7 @@
       "scriptForm": "ત્રિકાલ વંદના",
       "definition": "Threefold homage offered for the past, present, and future — the devotional refrain that paces the closing salutations.",
       "sutras": [
+        "muni-vandana",
         "samayik-parvani"
       ]
     },
@@ -3319,11 +3320,18 @@
       ]
     },
     {
-      "term": "Vidhipakṣa-gaccha",
+      "term": "Vidhipakṣa Gaccha",
       "scriptForm": "વિધિપક્ષગચ્છ",
-      "definition": "The 'pure-procedure' order — this tradition's own name for the Anchalgachchha (Achalgachchha).",
+      "definition": "The self-designation of the Anchalgachchha (Achalagaccha) in this book; literally the 'order of [correct] procedure.'",
       "sutras": [
-        "muni-vandana",
+        "muni-vandana"
+      ]
+    },
+    {
+      "term": "vidhipakṣa-gaccha",
+      "scriptForm": "વિધિપક્ષગચ્છ",
+      "definition": "The 'party of [correct] procedure' — the self-designation of the Anchalgachchha.",
+      "sutras": [
         "pakkhi-khamana"
       ]
     },
@@ -3435,10 +3443,9 @@
     {
       "term": "vrata",
       "scriptForm": "વ્રત",
-      "definition": "A vow or binding rule of conduct; the householder keeps twelve.",
+      "definition": "A vow or disciplined commitment undertaken by a practitioner.",
       "sutras": [
-        "deshavagasik-pachchakkhan",
-        "laghu-atiyar"
+        "deshavagasik-pachchakkhan"
       ]
     },
     {
@@ -3525,7 +3532,7 @@
     {
       "term": "yugapradhāna",
       "scriptForm": "યુગપ્રધાન",
-      "definition": "The pre-eminent spiritual leader of an age; a title given here to Āryarakṣitasūri.",
+      "definition": "'Foremost of the age'; an epithet for a supremely authoritative teacher, applied here to Āryarakṣitasūri.",
       "sutras": [
         "muni-vandana"
       ]

@@ -1,0 +1,597 @@
+{
+  "shlokaId": "bruhad-atiyar/12",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "બારમું વ્રત એટલે પર્વના પારણે સાધુ-મહારાજને નિર્દોષ આહારદાન દઈને બાકીનું પોતે વાપરવું; આ દાનમાં થતી પાંચ ભૂલોનો અહીં એકરાર છે.",
+  "recitation": "૧૨. બારમું અતિથિ સંવિભાગ વ્રત. જં પર્વતણે પારણે સાધુને શુદ્ધમાન દાન દેઇ આપણાપું ઉપજીવીએ, તે અતિથિ સંવિભાગ વ્રત કહીએ. એ બારમા અતિથિ સંવિભાગ વ્રતતણા પાંચ અતિયાર શોધું. સચિત્ત નિક્ખેવણયા, સચિત્ત પિહણયા, કાલાઇક્કમદાણે, પરોવએસે, મચ્છરયા. સૂજતું અન્નપાનાદિક અણદેવાની બુદ્ધે સચિત્ત ઉપરે મૂક્યું હોય અથવા સચિત્તે ઢાંક્યું હોય. કાલાતિક્રમ :- વેળા ટાળી અન્નપાનતણી નિમંત્રણા કીધી હોય. પરવ્યપદેશ :- આપણી વસ્તુ પિયારી કહી હોય. મચ્છરલગે અનેરાતણું દાન દેખી તેની સ્પર્ધાએ દાન દીધું હોય, અથવા દાનતણી વેળાએ — મહાત્મા! તુમ્હેં અમારું કાંઈ લેશો તો તુમશું અમારું રૂષણું છે — એમ કહી કલહ માંડ્યો હોય, તથા ગ્લાનાદિક કારણ પાખે અસૂઝતું દીધું હોય, સૂઝતું કૃપણપણે દીધું ન હોય. અનેરું એ બારમા અતિથિ સંવિભાગ વ્રત વિષે.",
+  "wordByWord": [
+    {
+      "token": "બારમું",
+      "translit": "bāramuṁ",
+      "gloss": "બારમું (ક્રમમાં બારમું)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. bārasa < સં. dvādaśa (બાર)"
+    },
+    {
+      "token": "અતિથિ",
+      "translit": "atithi",
+      "gloss": "અતિથિ — જેના આવવાની તિથિ (દિવસ) નક્કી ન હોય તે; અહીં ભિક્ષાર્થે પધારતા સાધુ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. a-tithi (તિથિ વિનાનો, અણધાર્યો મહેમાન)"
+    },
+    {
+      "token": "સંવિભાગ",
+      "translit": "saṁvibhāga",
+      "gloss": "સમ્યક્ વહેંચણી — પોતાનું નિર્દોષ અન્ન સાધુ સાથે વહેંચી દેવું",
+      "partOfSpeech": "noun",
+      "etymology": "સં. sam + vi + √bhaj (વહેંચવું)"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "વ્રત — સ્વીકારેલો નિયમ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √vṛ (પસંદ કરવું, સંકલ્પ લેવો)"
+    },
+    {
+      "token": "જં",
+      "translit": "jaṁ",
+      "gloss": "જે (સંબંધવાચક — 'જે રીતે/જે વસ્તુ')",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. jaṁ < સં. yat"
+    },
+    {
+      "token": "પર્વતણે",
+      "translit": "parvataṇe",
+      "gloss": "પર્વ(ઉપવાસ)ના — 'પર્વ' + 'તણે' (નો/ના) સંબંધદર્શક",
+      "partOfSpeech": "noun",
+      "etymology": "સં. parvan (પર્વતિથિ) + જૂ.ગુ. -તણ- (સંબંધ-પ્રત્યય)"
+    },
+    {
+      "token": "પારણે",
+      "translit": "pāraṇe",
+      "gloss": "પારણાને દિવસે — ઉપવાસ છોડવાના દિવસે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pāraṇa (વ્રત-સમાપ્તિ, ઉપવાસ-ભંગ)"
+    },
+    {
+      "token": "સાધુને",
+      "translit": "sādhune",
+      "gloss": "સાધુને (ભિક્ષાર્થે પધારેલા મુનિને)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. sādhu (√sādh — સાધના કરનાર) + -ને (કર્મવિભક્તિ)"
+    },
+    {
+      "token": "શુદ્ધમાન",
+      "translit": "śuddha-māna",
+      "gloss": "નિર્દોષ/શુદ્ધ માન-ભોજન — એષણાના દોષ વિનાનું, શુદ્ધ રીતે વહોરાવાય તેવું",
+      "partOfSpeech": "compound",
+      "etymology": "સં. śuddha (શુદ્ધ) + māna (પ્રમાણ/ભોજન); અહીં 'સૂઝતું' આહારના અર્થમાં"
+    },
+    {
+      "token": "દાન",
+      "translit": "dāna",
+      "gloss": "દાન — આપવાની ક્રિયા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. √dā (આપવું)"
+    },
+    {
+      "token": "દેઇ",
+      "translit": "dei",
+      "gloss": "દઈને",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. dei < સં. dattvā / dadāti (√dā)"
+    },
+    {
+      "token": "આપણાપું",
+      "translit": "āpaṇāpuṁ",
+      "gloss": "પોતાનું/બાકી રહેલું પોતે",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂ.ગુ. આપણ (પોતે) + -આપું (સ્વ-વાચક)"
+    },
+    {
+      "token": "ઉપજીવીએ",
+      "translit": "upajīvīe",
+      "gloss": "ઉપજીવન કરીએ — (બાકીનું) પોતે વાપરીએ",
+      "partOfSpeech": "verb",
+      "etymology": "સં. upa + √jīv (નિર્વાહ કરવો)"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "તેને",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. tad"
+    },
+    {
+      "token": "કહીએ",
+      "translit": "kahīe",
+      "gloss": "કહીએ (છીએ)",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. kahei < સં. kathayati (√kath)"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "આ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. eta / etad"
+    },
+    {
+      "token": "બારમા",
+      "translit": "bāramā",
+      "gloss": "બારમા (વ્રતના)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. bārasama < સં. dvādaśama"
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vratataṇā",
+      "gloss": "વ્રતના — 'વ્રત' + 'તણા' સંબંધદર્શક",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vrata + જૂ.ગુ. -તણ- (નો/ના)"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "પાંચ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. paṁca < સં. pañca"
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "અતિચાર — વ્રતમાં લાગતા આંશિક દોષ (પુસ્તકની જોડણી 'અતિયાર')",
+      "partOfSpeech": "noun",
+      "etymology": "સં. aticāra (ati + √car); પ્રા. aïāra"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "શોધું/શુદ્ધ કરું — (દોષ) તપાસી આલોચું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √śudh (શુદ્ધ કરવું)"
+    },
+    {
+      "token": "સચિત્ત",
+      "translit": "sacitta",
+      "gloss": "સચિત્ત — સજીવ (જેમાં જીવ-ચૈતન્ય હોય)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. sa + citta (ચૈતન્યયુક્ત)"
+    },
+    {
+      "token": "નિક્ખેવણયા",
+      "translit": "nikkhevaṇayā",
+      "gloss": "નિક્ષેપણ — સૂઝતા આહારને સચિત્ત ઉપર મૂકવો (પ્રથમ અતિચાર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. nikkhevaṇa < સં. nikṣepaṇa (ni + √kṣip — મૂકવું)"
+    },
+    {
+      "token": "પિહણયા",
+      "translit": "pihaṇayā",
+      "gloss": "પિધાન — સૂઝતા આહારને સચિત્તથી ઢાંકવો (બીજો અતિચાર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. pihaṇa < સં. pidhāna (api + √dhā — ઢાંકવું)"
+    },
+    {
+      "token": "કાલાઇક્કમદાણે",
+      "translit": "kālāikkama-dāṇe",
+      "gloss": "કાલાતિક્રમ-દાન — વહોરાવવાનો સમય વીતી ગયા પછી નિમંત્રણ કરવું (ત્રીજો અતિચાર)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. kālāikkama < સં. kāla + atikrama (સમય-ઉલ્લંઘન) + dāna"
+    },
+    {
+      "token": "પરોવએસે",
+      "translit": "parovaese",
+      "gloss": "પરવ્યપદેશ — પોતાની વસ્તુને બીજાની/અન્યત્ર સોંપાયેલી કહી દાન ટાળવું (ચોથો અતિચાર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. parovaesa < સં. para-vyapadeśa (બીજાનું નામ આગળ ધરવું)"
+    },
+    {
+      "token": "મચ્છરયા",
+      "translit": "macchariyā",
+      "gloss": "માત્સર્ય — ઈર્ષા/કૃપણતાથી દાન દેવું (પાંચમો અતિચાર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. macchara < સં. mātsarya (matsara — ઈર્ષા)"
+    },
+    {
+      "token": "સૂજતું",
+      "translit": "sūjatuṁ",
+      "gloss": "સૂઝતું — સાધુને કલ્પે તેવું, નિર્દોષ (એષણીય) આહાર",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. sūjjhaï < સં. √śudh; 'કલ્પ્ય' અર્થે"
+    },
+    {
+      "token": "અન્નપાનાદિક",
+      "translit": "anna-pānādika",
+      "gloss": "અન્ન-પાન વગેરે — ભોજન, પાણી ઇત્યાદિ",
+      "partOfSpeech": "compound",
+      "etymology": "સં. anna (અન્ન) + pāna (પેય) + ādika (વગેરે)"
+    },
+    {
+      "token": "અણદેવાની",
+      "translit": "aṇadevānī",
+      "gloss": "ન દેવાની — ન આપવાની",
+      "partOfSpeech": "verb",
+      "etymology": "જૂ.ગુ. અણ- (નિષેધ, સં. an-) + દેવાની (√dā)"
+    },
+    {
+      "token": "બુદ્ધે",
+      "translit": "buddhe",
+      "gloss": "બુદ્ધિએ/ઇરાદે — (ન દેવાના) આશયથી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. buddhi (√budh — જાણવું)"
+    },
+    {
+      "token": "ઉપરે",
+      "translit": "upare",
+      "gloss": "ઉપર",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. upari"
+    },
+    {
+      "token": "મૂક્યું",
+      "translit": "mūkyuṁ",
+      "gloss": "મૂક્યું",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. mukka < સં. √muc (મૂકવું)"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (સંભાવના — '...કર્યું હોય')",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. hoï < સં. bhavati (√bhū)"
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "અથવા",
+      "partOfSpeech": "particle",
+      "etymology": "સં. athavā"
+    },
+    {
+      "token": "સચિત્તે",
+      "translit": "sacitte",
+      "gloss": "સચિત્તથી/સચિત્ત વડે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. sacitta (કરણ વિભક્તિ)"
+    },
+    {
+      "token": "ઢાંક્યું",
+      "translit": "ḍhāṁkyuṁ",
+      "gloss": "ઢાંક્યું",
+      "partOfSpeech": "verb",
+      "etymology": "દેશ્ય ḍhakka; cf. સં. √sthag (ઢાંકવું)"
+    },
+    {
+      "token": "કાલાતિક્રમ",
+      "translit": "kālātikrama",
+      "gloss": "કાલાતિક્રમ — સમય-ઉલ્લંઘન",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāla + atikrama (ati + √kram)"
+    },
+    {
+      "token": "વેળા",
+      "translit": "veḷā",
+      "gloss": "વેળા/સમય (વહોરાવવાનો યોગ્ય સમય)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. velā (સમય)"
+    },
+    {
+      "token": "ટાળી",
+      "translit": "ṭāḷī",
+      "gloss": "ટાળીને — વીતાવી/ચૂકી જઈને",
+      "partOfSpeech": "verb",
+      "etymology": "દેશ્ય ṭāl- (દૂર કરવું, ટાળવું)"
+    },
+    {
+      "token": "અન્નપાનતણી",
+      "translit": "anna-pānataṇī",
+      "gloss": "અન્ન-પાનની",
+      "partOfSpeech": "noun",
+      "etymology": "સં. anna-pāna + જૂ.ગુ. -તણ- (ની)"
+    },
+    {
+      "token": "નિમંત્રણા",
+      "translit": "nimaṁtraṇā",
+      "gloss": "નિમંત્રણ — પધારવા/વહોરવા આમંત્રણ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. nimantraṇa (ni + √mantr)"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "કરી",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. kīa < સં. kṛta (√kṛ)"
+    },
+    {
+      "token": "પરવ્યપદેશ",
+      "translit": "para-vyapadeśa",
+      "gloss": "પરવ્યપદેશ — પોતાની વસ્તુ બીજાની છે એમ બતાવવું",
+      "partOfSpeech": "noun",
+      "etymology": "સં. para + vyapadeśa (vi + apa + √diś — નામ આગળ ધરવું)"
+    },
+    {
+      "token": "આપણી",
+      "translit": "āpaṇī",
+      "gloss": "પોતાની",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂ.ગુ. આપણ (પોતે); cf. સં. ātman"
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "વસ્તુ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vastu (√vas — હોવું)"
+    },
+    {
+      "token": "પિયારી",
+      "translit": "piyārī",
+      "gloss": "પ્રિય/કોઈ બીજાની વહાલી — અહીં 'આ તો બીજાની પ્રિય વસ્તુ છે' એમ બહાનું",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. piaa < સં. priya (વહાલું)"
+    },
+    {
+      "token": "કહી",
+      "translit": "kahī",
+      "gloss": "કહીને",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. kahi < સં. √kath"
+    },
+    {
+      "token": "મચ્છરલગે",
+      "translit": "macchara-lage",
+      "gloss": "ઈર્ષાને કારણે — માત્સર્યના કારણે",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. macchara (સં. mātsarya) + જૂ.ગુ. -લગે (-ને કારણે)"
+    },
+    {
+      "token": "અનેરાતણું",
+      "translit": "anerātaṇuṁ",
+      "gloss": "બીજાનું — અન્ય દાતાનું",
+      "partOfSpeech": "adj",
+      "etymology": "જૂ.ગુ. અનેરું (બીજું; પ્રા. aṇṇa, સં. anya) + -તણું"
+    },
+    {
+      "token": "દેખી",
+      "translit": "dekhī",
+      "gloss": "જોઈને",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. dekkhaï < સં. √dṛś (જોવું)"
+    },
+    {
+      "token": "તેની",
+      "translit": "tenī",
+      "gloss": "તેની",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. tad"
+    },
+    {
+      "token": "સ્પર્ધાએ",
+      "translit": "spardhāe",
+      "gloss": "સ્પર્ધાથી — હરીફાઈ-બુદ્ધિએ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. spardhā (√spardh — સ્પર્ધવું)"
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "દીધું/આપ્યું",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. diṇṇa < સં. datta (√dā)"
+    },
+    {
+      "token": "દાનતણી",
+      "translit": "dānataṇī",
+      "gloss": "દાનની",
+      "partOfSpeech": "noun",
+      "etymology": "સં. dāna + જૂ.ગુ. -તણ- (ની)"
+    },
+    {
+      "token": "વેળાએ",
+      "translit": "veḷāe",
+      "gloss": "વેળાએ/સમયે",
+      "partOfSpeech": "noun",
+      "etymology": "સં. velā (કરણ/અધિકરણ)"
+    },
+    {
+      "token": "મહાત્મા",
+      "translit": "mahātmā",
+      "gloss": "મહાત્મા — હે મુનિવર (સંબોધન)",
+      "partOfSpeech": "invocation",
+      "etymology": "સં. mahā + ātman (મહાન આત્મા)"
+    },
+    {
+      "token": "તુમ્હેં",
+      "translit": "tumheṁ",
+      "gloss": "તમે",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. tumhe < સં. yūyam"
+    },
+    {
+      "token": "અમારું",
+      "translit": "amāruṁ",
+      "gloss": "અમારું",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. amha < સં. asmad"
+    },
+    {
+      "token": "કાંઈ",
+      "translit": "kāṁī",
+      "gloss": "કાંઈ/કંઈક",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. kiṁ-pi < સં. kim-api"
+    },
+    {
+      "token": "લેશો",
+      "translit": "leśo",
+      "gloss": "(જો) લેશો",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. leï < સં. √labh / lā (લેવું)"
+    },
+    {
+      "token": "તો",
+      "translit": "to",
+      "gloss": "તો",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. to < સં. tataḥ"
+    },
+    {
+      "token": "તુમશું",
+      "translit": "tumaśuṁ",
+      "gloss": "તમારી સાથે",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. tumha + જૂ.ગુ. -શું (-ની સાથે)"
+    },
+    {
+      "token": "રૂષણું",
+      "translit": "rūṣaṇuṁ",
+      "gloss": "રૂસણું — રીસ/અણબનાવ, મનદુઃખ",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય rūsaṇa; cf. સં. √ruṣ (ગુસ્સે થવું)"
+    },
+    {
+      "token": "છે",
+      "translit": "che",
+      "gloss": "છે",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. acchaï < સં. ṛcchati / asti"
+    },
+    {
+      "token": "એમ",
+      "translit": "ema",
+      "gloss": "એમ/એ રીતે",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. evaṁ < સં. evam"
+    },
+    {
+      "token": "કલહ",
+      "translit": "kalaha",
+      "gloss": "કલહ — ઝઘડો",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kalaha (ઝઘડો)"
+    },
+    {
+      "token": "માંડ્યો",
+      "translit": "māṁḍyo",
+      "gloss": "માંડ્યો — શરૂ કર્યો",
+      "partOfSpeech": "verb",
+      "etymology": "દેશ્ય maṇḍ- (માંડવું, શરૂ કરવું)"
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "તથા/અને",
+      "partOfSpeech": "particle",
+      "etymology": "સં. tathā"
+    },
+    {
+      "token": "ગ્લાનાદિક",
+      "translit": "glānādika",
+      "gloss": "ગ્લાન વગેરે — બીમાર/અશક્ત મુનિ ઇત્યાદિ",
+      "partOfSpeech": "compound",
+      "etymology": "સં. glāna (રોગી; √glai) + ādika (વગેરે)"
+    },
+    {
+      "token": "કારણ",
+      "translit": "kāraṇa",
+      "gloss": "કારણ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāraṇa (√kṛ)"
+    },
+    {
+      "token": "પાખે",
+      "translit": "pākhe",
+      "gloss": "વિના/ગેરહાજરીમાં — (કારણ) ન હોવા છતાં",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. pakkha; જૂ.ગુ. 'પાખે' = વગર"
+    },
+    {
+      "token": "અસૂઝતું",
+      "translit": "asūjatuṁ",
+      "gloss": "ન કલ્પે તેવું — અકલ્પ્ય/સદોષ આહાર",
+      "partOfSpeech": "adj",
+      "etymology": "જૂ.ગુ. અ- (નિષેધ) + સૂઝતું (કલ્પ્ય)"
+    },
+    {
+      "token": "કૃપણપણે",
+      "translit": "kṛpaṇapaṇe",
+      "gloss": "કંજૂસાઈથી — કૃપણભાવે",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. kṛpaṇa (કંજૂસ) + જૂ.ગુ. -પણે (ભાવ-પ્રત્યય)"
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "ન (નિષેધ)",
+      "partOfSpeech": "particle",
+      "etymology": "સં. na"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "બીજું (કોઈ પણ દોષ) — જે અહીં ન ગણાવ્યો હોય તે પણ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂ.ગુ. અનેરું < પ્રા. aṇṇa-era < સં. anya (બીજું)"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "વિષે/બાબતમાં",
+      "partOfSpeech": "particle",
+      "etymology": "સં. viṣaya (વિષય) > 'વિષે'"
+    }
+  ],
+  "literalTranslation": "બારમું અતિથિ-સંવિભાગ વ્રત. પર્વના પારણાને દિવસે સાધુને શુદ્ધ (નિર્દોષ) આહારનું દાન દઈને, બાકીનું પોતે વાપરીએ — તેને અતિથિ-સંવિભાગ વ્રત કહીએ. એ બારમા અતિથિ-સંવિભાગ વ્રતના પાંચ અતિચાર શોધું (આલોચું) : સચિત્ત-નિક્ષેપણ, સચિત્ત-પિધાન, કાલાતિક્રમ-દાન, પરવ્યપદેશ, માત્સર્ય. (૧) ન દેવાના ઇરાદે સૂઝતું અન્ન-પાન વગેરે સચિત્ત ઉપર મૂક્યું હોય; (૨) અથવા સચિત્તથી ઢાંક્યું હોય. (૩) કાલાતિક્રમ : યોગ્ય વેળા ચૂકી ગયા પછી અન્ન-પાનનું નિમંત્રણ કર્યું હોય. (૪) પરવ્યપદેશ : પોતાની વસ્તુ (બીજાની) પ્રિય છે એમ કહ્યું હોય. (૫) ઈર્ષાથી બીજાનું દાન જોઈ તેની સ્પર્ધાએ દાન દીધું હોય; અથવા દાનની વેળાએ — 'મહાત્મા! તમે અમારું કંઈ લેશો તો તમારી સાથે અમારે રીસ છે' — એમ કહી કલહ માંડ્યો હોય; તથા બીમારી આદિ કારણ વિના અકલ્પ્ય (અસૂઝતું) આપ્યું હોય, અને કલ્પ્ય (સૂઝતું) કંજૂસાઈથી ન આપ્યું હોય. એ બારમા વ્રત વિષે બીજું પણ (જે દોષ થયો હોય).",
+  "idiomaticTranslation": "આ છે બારમું — અતિથિ-સંવિભાગ — વ્રત. પર્વના ઉપવાસનું પારણું કરતી વેળાએ પધારેલા સાધુ-મહારાજને નિર્દોષ આહારદાન દઈ, બાકી રહેલું પોતે વાપરવું — એ જ આ વ્રતનો સાર. એના પાંચ અતિચારની હું આલોચના કરું છું : (૧) ન દેવાની વૃત્તિથી સૂઝતા અન્ન-પાનને સચિત્ત (સજીવ) ઉપર ગોઠવી દઈ સાધુ માટે અકલ્પ્ય બનાવી દીધું હોય, (૨) અથવા તેને સચિત્તથી ઢાંકી દીધું હોય; (૩) વહોરાવવાનો યોગ્ય સમય જાણીજોઈને વીતી જવા દઈ પછી નિમંત્રણ કર્યું હોય; (૪) 'આ વસ્તુ તો બીજાની વહાલી છે' એમ બહાનું બતાવી દાન ટાળ્યું હોય; (૫) ઈર્ષાવશ — બીજાનું દાન જોઈ કેવળ સ્પર્ધાથી દાન દીધું હોય, અથવા 'મહારાજ, તમે અમારે ત્યાંથી કંઈ વહોરશો તો અમારે તમારી સાથે રીસ છે' એમ કહી ઝઘડો માંડ્યો હોય, અથવા બીમારી જેવા ખાસ કારણ વિના સદોષ આહાર આપ્યો હોય ને નિર્દોષ આહાર કંજૂસાઈથી ન આપ્યો હોય. આ બારમા વ્રતમાં થયેલા આ તથા બીજા સર્વ દોષ — મિચ્છા મિ દુક્કડં.",
+  "elaboration": {
+    "verseByVerseCommentary": "બાર વ્રતની યાત્રાનું આ સમાપન-સોપાન છે, અને એનો ભાવ સૂચક છે : સાધનાનો અંત 'દેવા'માં — દાનમાં — થાય છે. 'અતિથિ' એ જ કે જેની તિથિ નક્કી નથી; ભિક્ષાર્થે અણધાર્યા પધારતા સાધુ એ સાચા અતિથિ. 'સંવિભાગ' એટલે કેવળ દાન નહીં, પણ સમ્યક્ વહેંચણી — પોતાનું નિર્દોષ અન્ન પહેલાં પાત્રને આપી, પછી શેષ વાપરવું. પાંચ અતિચારની ગોઠવણ ઝીણી છે : પહેલા બે (નિક્ષેપણ, પિધાન) દ્રવ્ય સાથે છેતરપિંડી છે — સૂઝતા આહારને જાણીજોઈને સચિત્ત ઉપર મૂકી કે સચિત્તથી ઢાંકી, સાધુ માટે અકલ્પ્ય બનાવી દઈ, દાન ટાળવાનો કપટ-માર્ગ. ત્રીજો (કાલાતિક્રમ) સમય સાથેની છેતરપિંડી — ગોચરીની વેળા ગઈ પછી નિમંત્રણ, જેથી દાન દેખાય પણ બને નહીં. ચોથો (પરવ્યપદેશ) વાણીની છેતરપિંડી — 'આ તો બીજાની વસ્તુ છે' એમ બહાનું. પાંચમો (માત્સર્ય) ભાવની છેતરપિંડી, અને પાઠ એને સૌથી વિગતે ખોલે છે : ઈર્ષાથી માત્ર સ્પર્ધામાં દાન, અથવા — જે ચિત્ર સૌથી તીખું છે — 'મહાત્મા! તમે અમારું વહોરશો તો અમારે તમારી સાથે રીસ છે' એવો કલહ, જ્યાં દાન-ભક્તિ ઊલટી ધમકી બની જાય. અંતે કૃપણતા : ગ્લાનાદિ કારણ વિના અસૂઝતું પધરાવી દેવું, ને સૂઝતું કંજૂસાઈએ રોકી રાખવું. આમ દ્રવ્ય–કાળ–વચન–ભાવ ચારે સ્તરે દાનની શુદ્ધિ તપાસાય છે : વસ્તુ કલ્પ્ય હોય, વેળા સચવાય, વાણી નિષ્કપટ હોય, અને હૃદય ઈર્ષા-કૃપણતાથી મુક્ત હોય.",
+    "doctrinalContext": "આ પાંચ અતિચાર તત્ત્વાર્થસૂત્ર (૭.૩૧) અને શ્રાવક-આચારની પરંપરા સાથે અક્ષરશઃ મળે છે : સચિત્ત-નિક્ષેપણ, સચિત્ત-પિધાન, કાલાતિક્રમ, પરવ્યપદેશ, માત્સર્ય. ધ્યાનપાત્ર છે કે પહેલા બે અતિચાર સીધા અહિંસા-અણુવ્રત સાથે જોડાય છે — સચિત્ત (સજીવ) સાથેનો સંપર્ક જીવ-વિરાધના છે, અને દાન-દોષ ટાળતાં મુનિની એષણા-સમિતિ પણ ભંગાય છે. આમ બારમું વ્રત દાન-ધર્મ અને જીવ-દયા બંનેને એક સાથે સાધે છે. 'સૂઝતું/અસૂઝતું' (કલ્પ્ય/અકલ્પ્ય) ભેદ સાધુની ૪૨ દોષ-રહિત ગોચરી-મર્યાદા પર ટકે છે — તેથી શ્રાવકનું દાન ત્યારે જ સફળ જ્યારે તે મુનિના સંયમને બાધક ન બને. માત્સર્ય-અતિચાર બતાવે છે કે જૈન દાનનું માપ માત્રા નહિ પણ ભાવ-શુદ્ધિ છે : ઈર્ષા, સ્પર્ધા કે કૃપણતાથી અપાયેલું દાન દ્રવ્યથી દાન છતાં ભાવથી અતિચાર છે.",
+    "practicalRelevance": "આજે પણ સાધુ-સાધ્વીને વહોરાવતી વખતે આ પાંચ કસોટી લાગુ પડે : (૧–૨) સૂઝતો આહાર સચિત્ત (કાચું પાણી, લીલોતરી, અણઉકાળ્યું) પર ન મુકાય કે તેનાથી ન ઢંકાય; (૩) ગોચરીની વેળા સાચવી, સમય વીત્યે ઔપચારિક નિમંત્રણનો દંભ ન કરાય; (૪) 'આ તો બીજાનું છે' જેવાં બહાનાં છોડી નિષ્કપટ ભાવે અપાય; (૫) બીજાની હરીફાઈમાં, દેખાડા માટે કે કંજૂસાઈથી નહિ — ઉલ્લાસ અને બહુમાનથી અપાય. વ્યાપક અર્થમાં, કોઈ પણ દાન-સેવામાં દ્રવ્ય યોગ્ય હોય, સમય સચવાય, વાણી પ્રામાણિક હોય અને હૃદય ઉદાર હોય — એ આ વ્રતની રોજિંદી શીખ છે.",
+    "crossReferences": [
+      {
+        "text": "તત્ત્વાર્થસૂત્ર ૭.૩૧ — અતિથિસંવિભાગવ્રતના પાંચ અતિચાર : સચિત્તનિક્ષેપ, સચિત્તપિધાન, કાલાતિક્રમ, પરવ્યપદેશ, માત્સર્ય",
+        "source": "ઉમાસ્વાતિ, તત્ત્વાર્થાધિગમ સૂત્ર (Vijay K. Jain ભાષાંતર)"
+      },
+      {
+        "text": "ઉપાસકદશાંગ સૂત્ર — શ્રાવકના બાર વ્રત અને અતિથિસંવિભાગ (દાન) ની પરંપરા",
+        "source": "આગમ — ઉપાસકદશા"
+      },
+      {
+        "text": "રત્નકરંડ શ્રાવકાચાર — શિક્ષાવ્રત તરીકે અતિથિસંવિભાગ (વૈયાવૃત્ત્ય/દાન)",
+        "source": "સમન્તભદ્ર"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Śrāvaka (Jainism) — twelve vows, atithi-saṁvibhāga as the fourth śikṣāvrata, four kinds of dāna",
+      "url": "https://en.wikipedia.org/wiki/%C5%9Ar%C4%81vaka_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "બાર વ્રતમાં અતિથિસંવિભાગનું સ્થાન (ચોથું શિક્ષાવ્રત) અને દાનની ચતુર્વિધ રચના"
+    },
+    {
+      "title": "Sallekhana — supplementary & disciplinary vows of the Jain householder",
+      "url": "https://en.wikipedia.org/wiki/Sallekhana",
+      "type": "scholarship",
+      "consultedFor": "પાંચ અણુવ્રત + ત્રણ ગુણવ્રત + ચાર શિક્ષાવ્રત (atithi-samvibhag સહિત) ની પુષ્ટિ"
+    },
+    {
+      "title": "Tattvārtha Sūtra (Umāsvāti) — chapter 7 lay-vow transgressions",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "તત્ત્વાર્થ ૭.૩૧ — અતિથિસંવિભાગ વ્રતના પાંચ અતિચારની પ્રમાણભૂત યાદી (સચિત્તનિક્ષેપ આદિ)"
+    },
+    {
+      "title": "Jain eLibrary — Tattvārtha & Śrāvakācāra commentaries (atithisaṁvibhāga atichāra)",
+      "url": "https://www.jainelibrary.org",
+      "type": "commentary",
+      "consultedFor": "પાંચ અતિચારના પ્રાકૃત નામ (sacittanikkhevaṇa, sacittapihaṇa, kālāikkama, parovaesa, macchariya) અને તેમની વ્યાખ્યા"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "(૧) આ આવૃત્તિની જોડણી verbatim રાખી છે : 'અતિચાર' નહિ પણ 'અતિયાર', અને પ્રાકૃત-રૂપો 'નિક્ખેવણયા / પિહણયા / કાલાઇક્કમદાણે / પરોવએસે / મચ્છરયા' મૂળ પ્રમાણે. (૨) 'પરવ્યપદેશ'ની અહીંની વર્નાક્યુલર સમજૂતી — 'આપણી વસ્તુ (બીજાની) પિયારી કહી હોય' — એ દાન ટાળવાનું બહાનું દર્શાવે છે; શાસ્ત્રીય તત્ત્વાર્થ-પરંપરામાં 'પોતાનું દાન બીજાના નામે ચડાવવું' એવો અર્થ પણ મળે છે — બંને 'બીજાનું નામ આગળ ધરવું' એ મૂળ ભાવ પર ટકે છે. (૩) 'શુદ્ધમાન' = શુદ્ધ/સૂઝતું (કલ્પ્ય) આહાર; 'માન' અહીં 'પ્રમાણ/ભોજન' અર્થે, અહંકાર અર્થે નહિ. (૪) 'પિયારી' શબ્દનો અર્થ સંદર્ભથી 'બીજાને પ્રિય/બીજાની માલિકીની' એમ લીધો છે; પાઠ સંક્ષિપ્ત હોવાથી અર્થ-છાયા થોડી ખુલ્લી રહે છે. (૫) મચ્છર-અતિચારનો સંવાદ ('મહાત્મા! તુમ્હેં અમારું કાંઈ લેશો તો…') verbatim છે અને કલહ-રૂપ માત્સર્યનું દૃષ્ટાંત છે."
+}

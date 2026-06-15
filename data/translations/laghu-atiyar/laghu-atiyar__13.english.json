@@ -1,0 +1,620 @@
+{
+  "shlokaId": "laghu-atiyar/13",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "I now check myself for the five small slips of the end-of-life fast — clinging to this life, the next life, longer living, quicker dying, or past pleasures — then beg pardon for every fault, even a mispronounced syllable, in all eighty-five, and renew my day's renunciation.",
+  "recitation": "saṁleṣaṇātaṇā pāñca atiyāra śodhuṁ. ihalogā saṁsappaoge, paralogā saṁsappaoge, jiviā saṁsappaoge, maraṇā saṁsappaoge, kāmabhogā saṁsappaoge. e pāñca atiyāra māṁhe. evaṁkāre śrī samakita-mūla bāra vrata viṣe pañcyāśī atiyāra māṁhe jiko koi atiyāra, anāchāra, atikrama, vyatikrama huo hoya, tathā jāṇate, ajāṇate, sūkṣma, bādara, kāno, mātrā, miṇḍī, pada, akṣara, ochho, adhiko, haḷavo, bhārī, āgala pāchala kahyo, kahevāṇo hoya, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ. desāvagāsiaṁ, uvabhogaṁ paribhogaṁ paccakkhāmi. annatthaṇābhogeṇaṁ, sahassāgāreṇaṁ, mahattarāgāreṇaṁ, savvasamāhivattiyāgāreṇaṁ, vosirāmi.",
+  "wordByWord": [
+    {
+      "token": "સંલેષણાતણા",
+      "translit": "saṁleṣaṇātaṇā",
+      "gloss": "of saṁlekhanā (the end-of-life fast)",
+      "partOfSpeech": "noun",
+      "etymology": "saṁleṣaṇā (Skt. saṁlekhanā, 'thinning-out' of body and passions) + the Old Gujarati genitive suffix -taṇā ('belonging to')",
+      "notes": "The book here spells it with -ṣ- (saṁleṣaṇā); the standard form is saṁlekhanā."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca → Guj. pāñca",
+      "notes": "The organizing number of every vow-block; here it counts saṁlekhanā's slips."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichārs)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aticāra → Pkt./Guj. atiyāra (book spelling with -y-)",
+      "notes": ""
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I examine / scour clean",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. śodhayāmi, √śudh ('purify, scrutinize') → Guj. 1st-person śodhuṁ",
+      "notes": "Carries a double sense — both 'inspect for' and 'purge' the faults."
+    },
+    {
+      "token": "ઇહલોગા",
+      "translit": "ihalogā",
+      "gloss": "this world / the present life",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. ihaloga < Skt. iha-loka ('this-world')",
+      "notes": "Object of the longing named in the first atichāra."
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "in the harbouring of expectant longing (āśaṁsā-prayoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. (ā)saṁsā-ppaoge < Skt. āśaṁsā ('craving, hope') + prayoga ('application, employment'); locative",
+      "notes": "Recurs identically after each of the five objects: the slip is not the wish itself but actively entertaining it during the fast. The book drops the initial ā- of āsaṁsā."
+    },
+    {
+      "token": "પરલોગા",
+      "translit": "paralogā",
+      "gloss": "the next world / the life to come",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. paraloga < Skt. para-loka ('other-world')",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "in the harbouring of expectant longing (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "Second occurrence — craving a better rebirth."
+    },
+    {
+      "token": "જિવિઆ",
+      "translit": "jiviā",
+      "gloss": "(longer) life",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. jīviya < Skt. jīvita ('living, lifespan')",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "in the harbouring of expectant longing (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "Third occurrence — wishing the fast prolong one's life."
+    },
+    {
+      "token": "મરણા",
+      "translit": "maraṇā",
+      "gloss": "(quicker) death",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt./Skt. maraṇa, √mṛ ('to die')",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "in the harbouring of expectant longing (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "Fourth occurrence — impatiently craving a swift end to escape discomfort."
+    },
+    {
+      "token": "કામભોગા",
+      "translit": "kāmabhogā",
+      "gloss": "sensual enjoyments",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kāma ('desire') + bhoga ('enjoyment')",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "in the harbouring of expectant longing (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "Fifth occurrence — recalling or hankering after past/future pleasures."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative e",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five (repeated)",
+      "partOfSpeech": "adj",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among / within",
+      "partOfSpeech": "particle",
+      "etymology": "Old Guj. māṁhe ('inside, amid') < Skt. madhye",
+      "notes": "Closes the block: 'among these five transgressions.'"
+    },
+    {
+      "token": "એવંકારે",
+      "translit": "evaṁkāre",
+      "gloss": "in this manner / thus altogether",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. evaṁ ('thus') + -kāre ('in the doing/way')",
+      "notes": "Pivot from the last vow into the grand summation of the whole confession."
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "venerable / auspicious",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. śrī, honorific prefix",
+      "notes": ""
+    },
+    {
+      "token": "સમકિતમૂલ",
+      "translit": "samakita-mūla",
+      "gloss": "rooted in right faith (samyaktva)",
+      "partOfSpeech": "compound",
+      "etymology": "samakita (Pkt. < Skt. samyaktva) + mūla ('root')",
+      "notes": "Doctrinally pointed: the twelve vows count for nothing without samyaktva as their root."
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "twelve",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dvādaśa → Guj. bāra",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vows",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata ('vow, observance')",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning / with regard to",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. viṣaye ('in the matter of')",
+      "notes": ""
+    },
+    {
+      "token": "પંચ્યાશી",
+      "translit": "pañcyāśī",
+      "gloss": "eighty-five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañcāśīti → Guj. pañcyāśī",
+      "notes": "The book's grand total: samyaktva 5 + twelve vows 60 + fifteen karmādāna 15 + saṁlekhanā 5 = 85."
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (repeated)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "માંહે",
+      "translit": "māṁhe",
+      "gloss": "among (repeated)",
+      "partOfSpeech": "particle",
+      "etymology": "as above",
+      "notes": "'Among these eighty-five transgressions.'"
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "whatever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Guj. relative jiko / je-ko ('whatever, whichever')",
+      "notes": "Pairs with koi to mean 'whatsoever fault of any kind.'"
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "any",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. ko'pi → Guj. koi",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgression (repeated, here as graded term)",
+      "partOfSpeech": "noun",
+      "etymology": "as above",
+      "notes": "First of the four graded fault-degrees."
+    },
+    {
+      "token": "અનાચાર",
+      "translit": "anāchāra",
+      "gloss": "outright wrong conduct",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. an- (negation) + ācāra ('right conduct')",
+      "notes": "The gravest degree — a vow fully broken."
+    },
+    {
+      "token": "અતિક્રમ",
+      "translit": "atikrama",
+      "gloss": "a transgressive impulse / first overstep",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ati- ('beyond') + √kram ('to step')",
+      "notes": "The mildest degree — merely intending or moving toward the fault."
+    },
+    {
+      "token": "વ્યતિક્રમ",
+      "translit": "vyatikrama",
+      "gloss": "a further overstepping",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vi- + ati- + √kram",
+      "notes": "Between atikrama and full anāchāra in severity."
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "occurred / was committed",
+      "partOfSpeech": "verb",
+      "etymology": "Old Guj. past participle of hovuṁ ('to be/become') < Skt. bhū",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. subjunctive of hovuṁ",
+      "notes": "The subjunctive keeps the confession all-embracing — known faults and merely possible ones alike."
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "and also",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. tathā ('likewise')",
+      "notes": ""
+    },
+    {
+      "token": "જાણતે",
+      "translit": "jāṇate",
+      "gloss": "knowingly",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt. jāṇa- < Skt. √jñā ('to know')",
+      "notes": "First of seven contrastive pairs sweeping in every possible fault."
+    },
+    {
+      "token": "અજાણતે",
+      "translit": "ajāṇate",
+      "gloss": "unknowingly",
+      "partOfSpeech": "adverb",
+      "etymology": "a- (negation) + jāṇate",
+      "notes": ""
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "subtle / minute",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sūkṣma",
+      "notes": ""
+    },
+    {
+      "token": "બાદર",
+      "translit": "bādara",
+      "gloss": "gross / coarse",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bādara ('gross')",
+      "notes": ""
+    },
+    {
+      "token": "કાનો",
+      "translit": "kāno",
+      "gloss": "the 'kāno' stroke (the ā vowel-sign)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. kāno, name of the vertical ā-mātrā stroke",
+      "notes": "Begins the list of pronunciation/recitation errors confessed."
+    },
+    {
+      "token": "માત્રા",
+      "translit": "mātrā",
+      "gloss": "a vowel-mark / mora of length",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mātrā ('measure')",
+      "notes": "A wrong or missing vowel-length."
+    },
+    {
+      "token": "મિંડી",
+      "translit": "miṇḍī",
+      "gloss": "the anusvāra dot",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. miṇḍī / mīṇḍuṁ, the nasal dot (anusvāra)",
+      "notes": "A dropped or added nasalization."
+    },
+    {
+      "token": "પદ",
+      "translit": "pada",
+      "gloss": "a word",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pada ('word, foot')",
+      "notes": ""
+    },
+    {
+      "token": "અક્ષર",
+      "translit": "akṣara",
+      "gloss": "a syllable / letter",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. akṣara ('imperishable; syllable')",
+      "notes": ""
+    },
+    {
+      "token": "ઓછો",
+      "translit": "ochho",
+      "gloss": "too little / omitted",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. ochhuṁ ('less, deficient')",
+      "notes": ""
+    },
+    {
+      "token": "અધિકો",
+      "translit": "adhiko",
+      "gloss": "too much / added",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. adhika ('excess') → Guj.",
+      "notes": ""
+    },
+    {
+      "token": "હળવો",
+      "translit": "haḷavo",
+      "gloss": "light (in tone/weight)",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. haḷavuṁ ('light')",
+      "notes": "Recited with too light a stress."
+    },
+    {
+      "token": "ભારી",
+      "translit": "bhārī",
+      "gloss": "heavy (in tone/weight)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. bhārin ('heavy') → Guj. bhārī",
+      "notes": "Recited with too heavy a stress."
+    },
+    {
+      "token": "આગલ",
+      "translit": "āgala",
+      "gloss": "before / earlier (out of place)",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. āgaḷ ('ahead, in front')",
+      "notes": ""
+    },
+    {
+      "token": "પાછલ",
+      "translit": "pāchala",
+      "gloss": "after / later (out of place)",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. pāchaḷ ('behind, after')",
+      "notes": "'āgala pāchala' = recited out of sequence."
+    },
+    {
+      "token": "કહ્યો",
+      "translit": "kahyo",
+      "gloss": "said / recited (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kathita → Guj. kahyo",
+      "notes": ""
+    },
+    {
+      "token": "કહેવાણો",
+      "translit": "kahevāṇo",
+      "gloss": "got recited / was spoken",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. passive of kahevuṁ ('to say')",
+      "notes": "Active + passive together cover both deliberate and inadvertent misrecitation."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may be (repeated)",
+      "partOfSpeech": "verb",
+      "etymology": "as above",
+      "notes": ""
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. tad → Guj. te",
+      "notes": ""
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all of it",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. sarva → Pkt./Old Guj. savi ('all')",
+      "notes": "'te savi' = 'all of that' — gathers every fault just listed."
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt. aham → Guj. huṁ",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. manas, instrumental manasā → Guj. mane",
+      "notes": "First of the threefold instrument."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vacana, instrumental",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kāyā, instrumental → Guj. kāyāe",
+      "notes": ""
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done / committed",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. kṛtvā → Guj. karī (absolutive)",
+      "notes": "Binds the three instruments to the act of fault."
+    },
+    {
+      "token": "મિચ્છા મિ દુક્કડં",
+      "translit": "micchā mi dukkaḍaṁ",
+      "gloss": "may my wrongdoing come to nothing",
+      "partOfSpeech": "invocation",
+      "etymology": "Pkt. micchā ('false, void') + mi ('to/for me') + dukkaḍaṁ < Skt. duṣkṛta ('ill-done deed')",
+      "notes": "The sealing formula of the whole confession; here it closes the comprehensive, sutra-wide release."
+    },
+    {
+      "token": "દેસાવગાસિઅં",
+      "translit": "desāvagāsiaṁ",
+      "gloss": "the deśāvagāśika (further area-restriction) [renunciation]",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. < Skt. deśa ('place') + avakāśa ('scope, allowance')",
+      "notes": "Opens the closing pratyākhyāna tag that renews the tenth vow for the day."
+    },
+    {
+      "token": "ઉવભોગં",
+      "translit": "uvabhogaṁ",
+      "gloss": "things used once (consumables)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. uvabhoga < Skt. upabhoga ('one-time enjoyment', e.g. food, drink)",
+      "notes": ""
+    },
+    {
+      "token": "પરિભોગં",
+      "translit": "paribhogaṁ",
+      "gloss": "things used repeatedly (re-usables)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. paribhoga < Skt. paribhoga ('repeated enjoyment', e.g. clothes, utensils)",
+      "notes": ""
+    },
+    {
+      "token": "પચ્ચક્ખામિ",
+      "translit": "paccakkhāmi",
+      "gloss": "I renounce / take the vow against",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. paccakkhāmi < Skt. pratyākhyāmi ('I formally renounce')",
+      "notes": "The technical verb of every pratyākhyāna."
+    },
+    {
+      "token": "અન્નત્થણાભોગેણં",
+      "translit": "annatthaṇābhogeṇaṁ",
+      "gloss": "except by inadvertence (forgetfulness)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. annattha ('otherwise, except') + aṇābhoga < Skt. anābhoga ('absent-mindedness'); instrumental",
+      "notes": "First of the four standard āgāras (exceptions) that keep the vow from breaking on an honest accident."
+    },
+    {
+      "token": "સહસ્સાગારેણં",
+      "translit": "sahassāgāreṇaṁ",
+      "gloss": "except by a sudden, involuntary act",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. sahasā ('suddenly') + āgāra < Skt. ākāra ('clause, exception'); instrumental",
+      "notes": ""
+    },
+    {
+      "token": "મહત્તરાગારેણં",
+      "translit": "mahattarāgāreṇaṁ",
+      "gloss": "except under a weightier obligation",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt. mahattara ('greater') + āgāra; instrumental",
+      "notes": "When a more important duty compels the act."
+    },
+    {
+      "token": "સવ્વસમાહિવત્તિયાગારેણં",
+      "translit": "savvasamāhivattiyāgāreṇaṁ",
+      "gloss": "except for whatever serves complete equanimity (e.g. a medical/spiritual emergency)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt. savva ('all') + samāhi (Skt. samādhi, 'equanimity') + vattiya (Skt. pratyaya/vṛttika, 'conducing to') + āgāra; instrumental",
+      "notes": "The broadest āgāra: an act done to preserve overall calm/health does not break the vow."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I give up / abandon",
+      "partOfSpeech": "verb",
+      "etymology": "Pkt. vosirāmi < Skt. vyutsṛjāmi ('I cast off, relinquish')",
+      "notes": "Seals the renunciation; the same verb that ends kāyotsarga and many pratyākhyānas."
+    }
+  ],
+  "literalTranslation": "I examine the five transgressions of saṁlekhanā: in harbouring longing for this world, in harbouring longing for the next world, in harbouring longing for (more) life, in harbouring longing for (a quicker) death, in harbouring longing for sensual enjoyments — among these five transgressions. Thus too, regarding the venerable twelve vows rooted in right faith, among the eighty-five transgressions, whatever transgression, wrong conduct, overstep, or further overstep has occurred — also knowingly or unknowingly, subtly or grossly, by (error of) the ā-stroke, vowel-mark, anusvāra, word, or syllable, too little or too much, too light or too heavy, said or recited out of order — all of that, done by me with mind, speech, and body: may my wrongdoing come to nothing. I renounce consumables and re-usables under the deśāvagāśika (restriction); except by inadvertence, by a sudden act, by a weightier obligation, or by what serves complete equanimity — I give it up.",
+  "idiomaticTranslation": "Now I search my conscience for the five subtle lapses of the last fast: clinging to this life or the next, craving to live longer or to die sooner, or hankering after the pleasures of the senses. And so, across all the eighty-five transgressions of the twelve vows that rest upon right faith, whatever fault has crept in — wrong deed, first overstep or further overstep, done knowing or unknowing, subtle or gross, even a slip of stroke or dot, syllable or word, a phrase too short or too long, too soft or too loud, recited out of turn — all of it, worked by my mind, my speech, my body: may it be undone, may it come to nothing. And I renew my vow, renouncing both what is used once and what is used again within my chosen bounds — save for what slips past me unawares, happens of a sudden, is forced by a higher duty, or is needed to keep my spirit at peace. This I let go.",
+  "elaboration": {
+    "verseByVerseCommentary": "This closing verse does three things in one breath. First it completes the litany by auditing saṁlekhanā, the voluntary end-of-life fast — fittingly the last item, since it is the householder's final act. Its five slips are not gross failures but failures of attitude: the fast must be undertaken in pure equanimity, so any expectant clinging (saṁsappaoge = āśaṁsā-prayoga, 'employing longing') spoils it — wanting to stay in this world, wanting a better next world, wanting the body to last, impatiently wanting it over, or replaying remembered pleasures. The previous verse closed the twelfth vow (atithi-saṁvibhāga) with the same 'pāñca atiyāra māṁhe' refrain; verse 13 reuses that exact cadence one final time, then breaks out of the per-vow pattern. With 'evaṁkāre' the reciter zooms out to the whole confession: the book's total of pañcyāśī (eighty-five) transgressions. Note 'samakita-mūla' — the vows are explicitly said to be rooted in right faith, the doctrinal anchor the preface names as preceding all twelve. The verse then deploys a remarkable safety-net: four graded fault-degrees (atikrama → vyatikrama → atiyāra → anāchāra) and seven sweeping contrastive pairs, descending even to recitation errors — a missing kāno-stroke, a dropped anusvāra (miṇḍī), a syllable too few or too many, a phrase too soft or out of order. Nothing, not even a mispronounced letter, is allowed to escape the sealing micchāmi dukkaḍaṁ, pronounced through mind, speech, and body. Finally the verse appends the deśāvagāśika pratyākhyāna (desāvagāsiaṁ… vosirāmi), renewing for the coming period the tenth vow's tightening of one's permitted sphere, guarded by the four standard āgāras so an honest accident never counts as a broken vow.",
+    "doctrinalContext": "The five saṁlekhanā atichārs given here follow the Śvetāmbara Upāsakadaśā/Āvaśyaka formulation (ihaloga-/paraloga-/jīvia-/maraṇa-/kāmabhoga-āsaṁsā-prayoga), which differs in wording though not in spirit from the Tattvārtha-sūtra set (jīvitāśaṁsā, maraṇāśaṁsā, mitrānurāga, sukhānubandha, nidāna). All express one principle: saṁlekhanā is valid only when emptied of desire — it is the thinning of the passions, not a strategy to gain anything, which is why even craving death is itself a fault. The four āgāras (anābhoga, sahasā, mahattara, sarva-samādhi-pratyaya) encode the Jain distinction between intentional violation and unavoidable lapse — the same logic as jayaṇā — so that conscience is rigorous without becoming scrupulous despair.",
+    "practicalRelevance": "For the daily reciter this verse is the moment of total closure: having checked each vow, one now sweeps up every remaining fault — including the very mistakes made while reciting these words — and releases them. Its lesson is that thoroughness, not perfection, is asked: name the smallest slip honestly, seal it with micchāmi dukkaḍaṁ, and renew tomorrow's restraint. Even a beginner can take the four āgāras to heart — sincere effort, not flawless execution, is what the vow requires.",
+    "crossReferences": [
+      {
+        "text": "Upāsakadaśāḥ (Uvāsagadasāo), Ānanda's vows — the five saṁlekhanā atichārs as āśaṁsā-prayoga",
+        "source": "Śvetāmbara Aṅga-āgama"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.32 — jīvitāśaṁsā, maraṇāśaṁsā, mitrānurāga, sukhānubandha, nidāna",
+        "source": "Umāsvāti / Umāsvāmi"
+      },
+      {
+        "text": "Āvaśyaka-sūtra, Pratyākhyāna āvaśyaka — the standard āgāras (anābhoga, sahasā, mahattara, savva-samāhi-vattiya)",
+        "source": "Śvetāmbara Mūla-sūtra tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Sallekhana",
+      "url": "https://en.wikipedia.org/wiki/Sallekhana",
+      "type": "scholarship",
+      "consultedFor": "Definition of saṁlekhanā as the gradual thinning of body and passions, its voluntary desire-free character, and that it is a vow open to householders — confirming why expectant longing constitutes its transgression."
+    },
+    {
+      "title": "सल्लेखना (Sallekhanā)",
+      "url": "https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A4%BE",
+      "type": "scholarship",
+      "consultedFor": "The five aticāras of saṁlekhanā per Tattvārtha-sūtra 7.32 (jīvitāśaṁsā, maraṇāśaṁsā, mitrānurāga, sukhānubandha, nidāna), cross-checked against this book's Upāsakadaśā-style set."
+    },
+    {
+      "title": "Śrāvaka / Anuvrata (twelve vows and six āvaśyakas of the layperson)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "The śrāvaka's twelve vows and six āvaśyakas framework that situates the eighty-five-transgression total and the deśāvagāśika (tenth vow) renewal closing this verse."
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "saṁsappaoge is read as (ā)saṁsā-prayoga ('employment of expectant longing'); the book drops the initial ā- found in the canonical āsaṁsappaoge. The five saṁlekhanā atichārs here are the Śvetāmbara Upāsakadaśā/Āvaśyaka set (this-world / next-world / life / death / sensual-pleasure longing) and differ in wording from the widely-cited Digambara Tattvārtha-sūtra 7.32 set, though the two are doctrinally equivalent; verified against the Wikipedia Sallekhana entries. The spelling saṁleṣaṇā (with -ṣ-) and atiyāra (with -y-) are preserved verbatim from the book per its orthography rules and not normalized. miṇḍī is the Gujarati scribal name for the anusvāra dot; kāno is the ā-vowel stroke — both glossed from standard Gujarati orthographic usage. The four āgāra meanings (anābhoga, sahasā, mahattara, sarva-samādhi-pratyaya) follow the established Āvaśyaka pratyākhyāna tradition; no single citable URL was verified for the precise Anchalgachchha wording, so they are given per general Śvetāmbara usage. The bracketed Devasi/Rāi (day/night) substitution cue belongs to the sutra-level vidhi and is not part of this spoken text."
+}

@@ -74,6 +74,19 @@ const MONOTONIC_VOW_SPLIT = new Set([
     "bruhad-atiyar",
 ]);
 
+// Sutras that are numbered verses FOLLOWED by a verbatim prose coda which carries
+// no verse number (so the numbered-verse parser drops it as `leftover`). For
+// these, the trailing prose between the last numbered verse and the first
+// વિધિ/નોંધ (procedural/editorial) line is appended as a final verse
+// (printedNumber=null). E.g. muni-vandana ends with the Anchalgachchha paṭṭāvalī
+// roll-call of later ācāryas (a prose continuation of the lineage), and the short
+// atichāra (laghu-atiyar) ends with the saṁlekhanā + 85-atichāra summary + the
+// desāvagāsiaṁ pratyākhyāna — neither must be dropped. (Per-sutra data.)
+const APPEND_TRAILING_PROSE = new Set([
+    "muni-vandana",
+    "laghu-atiyar",
+]);
+
 export function loadStructure(config) {
     const p = path.join(config.dataDir, "corpus", "pratikraman-structure.json");
     if (!fs.existsSync(p)) throw new Error(`Missing structure tree: ${p} (build it from the golden book first).`);
@@ -130,6 +143,19 @@ export function buildCanonical(config) {
                 if ((verses.length === 0 || FORCE_SINGLE_BLOCK.has(sutraId)) && res.matchedHeadings.length > 0) {
                     if (FORCE_SINGLE_BLOCK.has(sutraId)) verses = [];
                     singleBlock = bodyToSingleBlock(res.body || []);
+                }
+                // Numbered verses followed by a verbatim prose coda (e.g. the
+                // paṭṭāvalī roll-call after muni-vandana's gāthās): the numbered
+                // parser leaves that coda in `leftover`; cut it at the first
+                // વિધિ/નોંધ line and append it as a final verse so it is not lost.
+                if (APPEND_TRAILING_PROSE.has(sutraId) && verses.length > 0 && (res.leftover || []).length) {
+                    const codaLines = [];
+                    for (const l of res.leftover) {
+                        if (/^(વિધિ|નોંધ)\s*[:：]/.test(l.trim())) break;
+                        codaLines.push(l);
+                    }
+                    const coda = bodyToSingleBlock(codaLines);
+                    if (coda && coda.length) verses = [...verses, { number: null, text: coda }];
                 }
             }
         } catch (e) {

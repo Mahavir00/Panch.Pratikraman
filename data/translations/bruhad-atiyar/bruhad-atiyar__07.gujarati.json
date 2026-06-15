@@ -1,0 +1,810 @@
+{
+  "shlokaId": "bruhad-atiyar/07",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "સાતમું ભોગોપભોગ વ્રત — ખાવા-પીવાની વસ્તુની મર્યાદા — તેમાં ૨૨ ન ખાવાયોગ્ય (અભક્ષ્ય) અને ૩૨ અનંતકાય ગણાવી, એ વ્રતમાં રોજિંદા ભોજનમાં લાગતા પાંચ દોષ યાદ કરી તેની માફી માગવાનો પાઠ છે.",
+  "recitation": "સાતમું ભોગોપભોગવ્રત દ્વિવિધ — ભોજનતઃ કર્મતશ્ચ; તત્ર ભોજનતઃ ઇણે વ્રતે —\nપંચુંબરિ મહવિગઇ, હિમ વિસ કરગે ય સવ્વ મટ્ટી ય।\nરાઇભોયણાગં ચિય, બહુબીય અણંત સંધાણં॥૧॥\nઘોલવડાં વાયંગણ, અમુણિય નામાણિ ફુલ્લ ફલયાણિ।\nતુચ્છફલં ચલિયરસં, વજ્જય અભુજ્જાઇં બાવીસં॥૨॥\nએ બાવીસ અભક્ષ્ય.\nસવ્વાઓ કંદજાઇ, સૂરણકંદો ય વજ્જકંદો ય।\nઅદહલિદ્દા ય તહા, અદં તહ અલ્લકચ્ચૂરો॥૧॥\nસત્તાવરી વિરાલી, કુંઆરિ તહ થોહરી ગલોઇ ય।\nલ્હસણ વંસકરિલ્લા, ગજ્જર તહ લુણાઓ લોઢો॥૨॥\nગિરિકણિણ કિસલપત્તો, ખીરિસુઆ થેગ અલ્લમુત્થા ય।\nતહ લોણ રૂક્ખછલ્લી, ખીલ્લુહડો અમયવલ્લીય॥૩॥\nમૂલા તહ ભૂમિરુહા, વિરૂહાઇ ઢક્ક વત્થુલો પઢમો।\nસૂઅર વલ્લો ય તહા, પલ્લંકો કોમલં બિલિયા॥૪॥\nઆલૂ તહ પિંડાલુ, બત્તીસં જાણિઊણા હુંતાઈં।\nઇયાઇં બુદ્ધિમયા, પરિહરિયવ્વા પયત્તેણં॥૫॥\nએ બત્રીસ અનંતકાય યથાશક્તે રોગ-દુર્ભિક્ષાદિક મૂકી પરિહરું.\nએ સાતમા ભોગોપભોગ (ભોજન) વ્રતતણા પાંચ અતિચાર શોધું —\nસચિત્ત આહારે, સચિત્ત-પડિબદ્ધ આહારે, અપ્પોસહિ ભક્ષણયા, દુપ્પોસહિ ભક્ષણયા, તુચ્છોસહિ ભક્ષણયા.",
+  "wordByWord": [
+    {
+      "token": "સાતમું",
+      "translit": "sātamuṁ",
+      "gloss": "સાતમું (ક્રમવાચક — સાતમા નંબરનું)",
+      "partOfSpeech": "adj",
+      "etymology": "ગુ. 'સાત' < પ્રા. satta < સં. sapta",
+      "notes": "અહીંથી સાતમા વ્રતનો આરંભ"
+    },
+    {
+      "token": "ભોગોપભોગવ્રત",
+      "translit": "bhogopabhoga-vrata",
+      "gloss": "ભોગ-ઉપભોગનું વ્રત (વાપરવાની વસ્તુની મર્યાદાનું વ્રત)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. bhoga (એક વાર ભોગવાય તે — અન્ન, જળ) + upabhoga (વારંવાર વપરાય તે — વસ્ત્ર, ઘર) + vrata",
+      "notes": "બીજું ગુણવ્રત; ભોગ = એકવાર ભોગ્ય, ઉપભોગ = પુનઃ ભોગ્ય"
+    },
+    {
+      "token": "દ્વિવિધ",
+      "translit": "dvividha",
+      "gloss": "બે પ્રકારનું",
+      "partOfSpeech": "adj",
+      "etymology": "સં. dvi (બે) + vidha (પ્રકાર)",
+      "notes": "વ્રતના બે ભાગ — ભોજનથી અને કર્મથી"
+    },
+    {
+      "token": "ભોજનતઃ",
+      "translit": "bhojanataḥ",
+      "gloss": "ભોજનની અપેક્ષાએ (ખાનપાનની દૃષ્ટિએ)",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. bhojana + tasil પ્રત્યય '-taḥ' (-થી/-ની અપેક્ષાએ)",
+      "notes": "આ વિભાગમાં માત્ર આ 'ભોજનતઃ' ભાગ છે"
+    },
+    {
+      "token": "કર્મતશ્ચ",
+      "translit": "karmataś-ca",
+      "gloss": "અને કર્મની અપેક્ષાએ",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. karma + '-taḥ' + ca (અને); sandhi: -taḥ + ca → -taś ca",
+      "notes": "'કર્મતઃ' ભાગ (પંદર કર્માદાન) આગળના વિભાગમાં છે"
+    },
+    {
+      "token": "તત્ર",
+      "translit": "tatra",
+      "gloss": "તેમાં, ત્યાં (એ બેમાં પ્રથમ)",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. tatra (ત્યાં)",
+      "notes": ""
+    },
+    {
+      "token": "ઇણે",
+      "translit": "iṇe",
+      "gloss": "આ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુ. iṇe < પ્રા. iṇa < સં. ima (આ)",
+      "notes": ""
+    },
+    {
+      "token": "વ્રતે",
+      "translit": "vrate",
+      "gloss": "વ્રતમાં",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vrata, સપ્તમી એકવચન",
+      "notes": ""
+    },
+    {
+      "token": "પંચુંબરિ",
+      "translit": "pañcuṁbari",
+      "gloss": "પાંચ ઉદુંબર (વડ, પીપળ, ઉમરો, કાકોદુંબર, પ્લક્ષ — પાંચ ફિગજાતિનાં ટેટા-ફળ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. pañca (પાંચ) + umbara < સં. udumbara",
+      "notes": "પાંચ અભક્ષ્યમાંના પ્રથમ; એમાં ત્રસ જીવોની ઉત્પત્તિ મનાય"
+    },
+    {
+      "token": "મહવિગઇ",
+      "translit": "mahaviga-i",
+      "gloss": "મહાવિગઈ (ચાર મહાવિકૃતિ — મદ્ય, માંસ, મધ, માખણ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. mahā + vigai < સં. vikṛti (વિકાર પમાડનાર રસ)",
+      "notes": "ચાર મહાવિગઈ ગણાય; બાવીસમાં ૪ ગણાય"
+    },
+    {
+      "token": "હિમ",
+      "translit": "hima",
+      "gloss": "બરફ / હિમ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. hima (બરફ)",
+      "notes": "અપ્કાય જીવનો સંઘાત"
+    },
+    {
+      "token": "વિસ",
+      "translit": "visa",
+      "gloss": "વિષ (ઝેર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. visa < સં. viṣa",
+      "notes": ""
+    },
+    {
+      "token": "કરગે",
+      "translit": "karage",
+      "gloss": "કરા (ઓલા / હેલસ્ટોન)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. karaga < સં. karaka (કરા)",
+      "notes": "અપ્કાયરૂપ; 'ય' = અને"
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. ya < સં. ca",
+      "notes": "સંયોજક નિપાત; ગાથામાં અનેક વાર"
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "સર્વ, બધી",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. savva < સં. sarva",
+      "notes": ""
+    },
+    {
+      "token": "મટ્ટી",
+      "translit": "maṭṭī",
+      "gloss": "માટી (સર્વ પ્રકારની માટી — પૃથ્વીકાય)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. maṭṭiā < સં. mṛttikā",
+      "notes": "'સવ્વ મટ્ટી' = સર્વ માટી ખાવી અભક્ષ્ય"
+    },
+    {
+      "token": "રાઇભોયણાગં",
+      "translit": "rāi-bhoyaṇāgaṁ",
+      "gloss": "રાત્રિભોજન (રાત્રે ખાવું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. rāi (રાત્રિ) + bhoyaṇa < સં. rātri-bhojana",
+      "notes": ""
+    },
+    {
+      "token": "ચિય",
+      "translit": "ciya",
+      "gloss": "જ, નિશ્ચયે",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. cciya / ciya (એવ-અર્થક નિપાત)",
+      "notes": "ભારવાચક"
+    },
+    {
+      "token": "બહુબીય",
+      "translit": "bahubīya",
+      "gloss": "બહુબીજ (જેમાં ઘણાં બીજ હોય તેવાં ફળ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. bahu + bīya < સં. bahu-bīja",
+      "notes": "દા.ત. ટિંબરું, ખસખસ"
+    },
+    {
+      "token": "અણંત",
+      "translit": "aṇaṁta",
+      "gloss": "અનંતકાય (અનંત જીવવાળી વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. aṇaṁta < સં. ananta",
+      "notes": "આગળ બત્રીસ ગણાવેલ છે"
+    },
+    {
+      "token": "સંધાણં",
+      "translit": "saṁdhāṇaṁ",
+      "gloss": "સંધાન (બોળ-અથાણું / કેટલાક દિવસ પડી રહેલું)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. sandhāna (ભેળસેળ, અથાણું)",
+      "notes": ""
+    },
+    {
+      "token": "ઘોલવડાં",
+      "translit": "ghola-vaḍāṁ",
+      "gloss": "ઘોળવડાં (છાશ/દહીંમાં બોળેલાં વડાં)",
+      "partOfSpeech": "compound",
+      "etymology": "ગુ. ghol (ઘોળ — છાશ) + vaḍāṁ",
+      "notes": "કાચા ગોરસમાં દ્વિદળ ભળતાં ત્રસજીવ ઉપજે"
+    },
+    {
+      "token": "વાયંગણ",
+      "translit": "vāyaṁgaṇa",
+      "gloss": "વેંગણ / રીંગણ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. vāiṁgaṇa < સં. vātiṅgaṇa / vṛntāka",
+      "notes": "બહુબીજ-યુક્ત હોવાથી અભક્ષ્ય"
+    },
+    {
+      "token": "અમુણિય",
+      "translit": "amuṇiya",
+      "gloss": "અજાણ્યાં (નામ ન જાણ્યું હોય તેવાં)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. a- (ન) + muṇiya (જાણેલું) < સં. jñāta",
+      "notes": ""
+    },
+    {
+      "token": "નામાણિ",
+      "translit": "nāmāṇi",
+      "gloss": "નામવાળાં (નામ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. nāmāṇi < સં. nāmāni (નામો)",
+      "notes": "'અમુણિય નામાણિ' = જેનાં નામ જાણ્યાં નથી તેવાં"
+    },
+    {
+      "token": "ફુલ્લ",
+      "translit": "phulla",
+      "gloss": "ફૂલ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. phulla < સં. puṣpa",
+      "notes": ""
+    },
+    {
+      "token": "ફલયાણિ",
+      "translit": "phalayāṇi",
+      "gloss": "ફળ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. phalayāṇi < સં. phalāni",
+      "notes": "અજાણ્યાં ફૂલ-ફળ ન ખવાય"
+    },
+    {
+      "token": "તુચ્છફલં",
+      "translit": "tucchaphalaṁ",
+      "gloss": "તુચ્છ ફળ (જેમાં ખાવાનું થોડું ને નાખવાનું ઘણું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. tuccha < સં. tuccha (ક્ષુલ્લક) + phala",
+      "notes": "દા.ત. કાચી મહૂડી, ચણીબોર"
+    },
+    {
+      "token": "ચલિયરસં",
+      "translit": "caliyarasaṁ",
+      "gloss": "ચલિતરસ (જેનો રસ-સ્વાદ બગડી ગયો હોય — વાસી/સડેલું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. caliya (ચલિત) + rasa",
+      "notes": ""
+    },
+    {
+      "token": "વજ્જય",
+      "translit": "vajjaya",
+      "gloss": "વર્જ, ત્યાગ કર",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. vajjaya < સં. varjaya (ત્યાગવું)",
+      "notes": "આજ્ઞાર્થ"
+    },
+    {
+      "token": "અભુજ્જાઇં",
+      "translit": "abhujjāiṁ",
+      "gloss": "અભોજ્ય (ન ખાવાયોગ્ય)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. a- + bhujja < સં. abhojya",
+      "notes": ""
+    },
+    {
+      "token": "બાવીસં",
+      "translit": "bāvīsaṁ",
+      "gloss": "બાવીસ (૨૨)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. bāvīsa < સં. dvāviṁśati",
+      "notes": "કુલ બાવીસ અભક્ષ્ય"
+    },
+    {
+      "token": "એ બાવીસ અભક્ષ્ય.",
+      "translit": "e bāvīsa abhakṣya",
+      "gloss": "આ બાવીસ અભક્ષ્ય (છે)",
+      "partOfSpeech": "compound",
+      "etymology": "ગુ. e (આ) + bāvīsa + સં. abhakṣya",
+      "notes": "ગાથાનો સારાંશ-વાક્ય"
+    },
+    {
+      "token": "સવ્વાઓ",
+      "translit": "savvāo",
+      "gloss": "સર્વ (બધી)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. savvāo < સં. sarvāḥ",
+      "notes": "અનંતકાય-ગાથાનો આરંભ"
+    },
+    {
+      "token": "કંદજાઇ",
+      "translit": "kanda-jāi",
+      "gloss": "કંદ-જાતિ (બધી જાતનાં કંદમૂળ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. kanda < સં. kanda + jāi < jāti",
+      "notes": ""
+    },
+    {
+      "token": "સૂરણકંદો",
+      "translit": "sūraṇa-kando",
+      "gloss": "સૂરણ કંદ",
+      "partOfSpeech": "compound",
+      "etymology": "સં. sūraṇa (Amorphophallus) + kanda",
+      "notes": ""
+    },
+    {
+      "token": "વજ્જકંદો",
+      "translit": "vajja-kando",
+      "gloss": "વજ્રકંદ (વજ્ર જેવો કઠણ કંદ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. vajja < સં. vajra + kanda",
+      "notes": ""
+    },
+    {
+      "token": "અદહલિદ્દા",
+      "translit": "ada-haliddā",
+      "gloss": "આર્દ્ર (લીલી) હળદર",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. ada < સં. ārdra (લીલું) + haliddā < haridrā",
+      "notes": ""
+    },
+    {
+      "token": "તહા",
+      "translit": "tahā",
+      "gloss": "તથા, તેમ જ",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. tahā < સં. tathā",
+      "notes": "સંયોજક; ગાથાઓમાં વારંવાર"
+    },
+    {
+      "token": "અદં",
+      "translit": "adaṁ",
+      "gloss": "આર્દ્રક (લીલું આદું)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. ada(ṁ) < સં. ārdraka (આદું)",
+      "notes": ""
+    },
+    {
+      "token": "તહ",
+      "translit": "taha",
+      "gloss": "તથા, તેમ",
+      "partOfSpeech": "particle",
+      "etymology": "પ્રા. taha < સં. tathā",
+      "notes": ""
+    },
+    {
+      "token": "અલ્લકચ્ચૂરો",
+      "translit": "alla-kaccūro",
+      "gloss": "લીલો કચૂરો",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. alla (લીલું/ભીનું) + kaccūra < સં. karcūra",
+      "notes": ""
+    },
+    {
+      "token": "સત્તાવરી",
+      "translit": "sattāvarī",
+      "gloss": "શતાવરી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. śatāvarī (Asparagus)",
+      "notes": ""
+    },
+    {
+      "token": "વિરાલી",
+      "translit": "virālī",
+      "gloss": "વિરાલી (વિદારીકંદ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vidārī",
+      "notes": ""
+    },
+    {
+      "token": "કુંઆરિ",
+      "translit": "kuṁāri",
+      "gloss": "કુંવાર (કુમારી / એલોવેરા)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kumārī",
+      "notes": ""
+    },
+    {
+      "token": "થોહરી",
+      "translit": "thohari",
+      "gloss": "થોર (ઝેરી દૂધવાળો થોર)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. thohara < સં. snuhī / Euphorbia",
+      "notes": ""
+    },
+    {
+      "token": "ગલોઇ",
+      "translit": "galoi",
+      "gloss": "ગળો (ગુડૂચી / Tinospora)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. galoi < સં. guḍūcī",
+      "notes": ""
+    },
+    {
+      "token": "લ્હસણ",
+      "translit": "lhasaṇa",
+      "gloss": "લસણ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. lhasaṇa < સં. laśuna",
+      "notes": ""
+    },
+    {
+      "token": "વંસકરિલ્લા",
+      "translit": "vaṁsa-karillā",
+      "gloss": "વાંસ-કારેલાં (વાંસના કૂંપળ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. vaṁsa < સં. vaṁśa + karilla (કૂંપળ)",
+      "notes": "વાંસનો કોમળ અંકુર"
+    },
+    {
+      "token": "ગજ્જર",
+      "translit": "gajjara",
+      "gloss": "ગાજર",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. gajjara < સં. gṛñjana",
+      "notes": ""
+    },
+    {
+      "token": "લુણાઓ",
+      "translit": "luṇāo",
+      "gloss": "લૂણી (ભાજી — એક ક્ષાર-યુક્ત શાક)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. luṇa < સં. lavaṇa",
+      "notes": ""
+    },
+    {
+      "token": "લોઢો",
+      "translit": "loḍho",
+      "gloss": "લોઢ (લોઢ-વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય loḍha",
+      "notes": ""
+    },
+    {
+      "token": "ગિરિકણિણ",
+      "translit": "girikaṇiṇa",
+      "gloss": "ગિરિકર્ણિકા (ગિરિ-કંદ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. giri-karṇikā",
+      "notes": ""
+    },
+    {
+      "token": "કિસલપત્તો",
+      "translit": "kisala-patto",
+      "gloss": "કિસલય-પત્ર (કુમળાં નવાં પાન)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. kisalaya (કૂંપળ) + patra (પાન)",
+      "notes": ""
+    },
+    {
+      "token": "ખીરિસુઆ",
+      "translit": "khīrisuā",
+      "gloss": "ખીરસૂઆ (દૂધવાળી વેલ/વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. khīra < સં. kṣīra (દૂધ) + suā",
+      "notes": ""
+    },
+    {
+      "token": "થેગ",
+      "translit": "thega",
+      "gloss": "થેગ (એક પ્રકારની વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય thega",
+      "notes": "ચોક્કસ ઓળખ અનિશ્ચિત"
+    },
+    {
+      "token": "અલ્લમુત્થા",
+      "translit": "alla-mutthā",
+      "gloss": "લીલો મોથ (નાગરમોથ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. alla (લીલું) + mutthā < સં. mustā",
+      "notes": ""
+    },
+    {
+      "token": "લોણ",
+      "translit": "loṇa",
+      "gloss": "લૂણ-વૃક્ષ (લવણ-વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. loṇa < સં. lavaṇa",
+      "notes": "આગળ 'રૂક્ખછલ્લી' સાથે જોડાય"
+    },
+    {
+      "token": "રૂક્ખછલ્લી",
+      "translit": "rūkkha-challī",
+      "gloss": "વૃક્ષની છાલ (કુમળી છાલ)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. rūkkha < સં. vṛkṣa + challī (છાલ)",
+      "notes": ""
+    },
+    {
+      "token": "ખીલ્લુહડો",
+      "translit": "khilluhaḍo",
+      "gloss": "ખિલ્લોડ (થોર-જાતિની વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય khilluhaḍa",
+      "notes": "ઓળખ અનિશ્ચિત"
+    },
+    {
+      "token": "અમયવલ્લીય",
+      "translit": "amaya-vallīya",
+      "gloss": "અમૃતવેલ (ગળોની વેલ)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. amṛta (અમૃત) + vallī (વેલ)",
+      "notes": ""
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "મૂળા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. mūlaka",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિરુહા",
+      "translit": "bhūmiruhā",
+      "gloss": "ભૂમિરુહ (ભોંયમાં ઊગતી ફૂગ/બિલાડીના ટોપ)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. bhūmi (ભોંય) + ruha (ઊગનાર)",
+      "notes": ""
+    },
+    {
+      "token": "વિરૂહાઇ",
+      "translit": "virūhāi",
+      "gloss": "વિરૂઢ (અંકુરિત — ફણગાવેલાં કઠોળ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. virūḍha (ઊગેલું)",
+      "notes": ""
+    },
+    {
+      "token": "ઢક્ક",
+      "translit": "ḍhakka",
+      "gloss": "ઢક (એક કોમળ વનસ્પતિ)",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય ḍhakka",
+      "notes": "ઓળખ અનિશ્ચિત"
+    },
+    {
+      "token": "વત્થુલો",
+      "translit": "vatthulo",
+      "gloss": "વથવો (વાસ્તુલ — ભાજી)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vāstūla",
+      "notes": ""
+    },
+    {
+      "token": "પઢમો",
+      "translit": "paḍhamo",
+      "gloss": "પ્રથમ (પહેલો ઊગતો કુમળો ભાગ)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. paḍhama < સં. prathama",
+      "notes": "'વત્થુલો પઢમો' = વથવાનો પ્રથમ ઉગાવ"
+    },
+    {
+      "token": "સૂઅર",
+      "translit": "sūara",
+      "gloss": "સૂઅરવેલ (સૂકરવલ્લી)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sūara < સં. sūkara",
+      "notes": "આગળ 'વલ્લો' સાથે"
+    },
+    {
+      "token": "વલ્લો",
+      "translit": "vallo",
+      "gloss": "વાલ (વલ્લ-કઠોળની કુમળી શિંગ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. valla",
+      "notes": ""
+    },
+    {
+      "token": "પલ્લંકો",
+      "translit": "pallaṁko",
+      "gloss": "પાલખ (પાલક ભાજી)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pālaṅkya",
+      "notes": ""
+    },
+    {
+      "token": "કોમલં",
+      "translit": "komalaṁ",
+      "gloss": "કુમળું (કોમળ અંકુર)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. komala",
+      "notes": ""
+    },
+    {
+      "token": "બિલિયા",
+      "translit": "biliyā",
+      "gloss": "બિલિ (કુમળી આમલી/બીલીનો કુમળો ભાગ)",
+      "partOfSpeech": "noun",
+      "etymology": "દેશ્ય biliyā",
+      "notes": "ઓળખ અનિશ્ચિત"
+    },
+    {
+      "token": "આલૂ",
+      "translit": "ālū",
+      "gloss": "બટાટા (આલુ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. ālu",
+      "notes": ""
+    },
+    {
+      "token": "પિંડાલુ",
+      "translit": "piṁḍālu",
+      "gloss": "પિંડાલુ (રતાળુ / શક્કરિયા-જાતિનો કંદ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. piṇḍālu",
+      "notes": ""
+    },
+    {
+      "token": "બત્તીસં",
+      "translit": "battīsaṁ",
+      "gloss": "બત્રીસ (૩૨)",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. battīsa < સં. dvātriṁśat",
+      "notes": "કુલ બત્રીસ અનંતકાય"
+    },
+    {
+      "token": "જાણિઊણા",
+      "translit": "jāṇiūṇā",
+      "gloss": "જાણીને",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. jāṇiūṇa (ક્ત્વાંત) < સં. jñātvā",
+      "notes": ""
+    },
+    {
+      "token": "હુંતાઈં",
+      "translit": "huṁtāiṁ",
+      "gloss": "હોવાવાળાં (છે તે)",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. huṁta < સં. bhavat (વર્તમાન કૃદંત)",
+      "notes": ""
+    },
+    {
+      "token": "ઇયાઇં",
+      "translit": "iyāiṁ",
+      "gloss": "આ (બધાં)",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. iyāiṁ < સં. etāni",
+      "notes": ""
+    },
+    {
+      "token": "બુદ્ધિમયા",
+      "translit": "buddhimayā",
+      "gloss": "બુદ્ધિમાન (વિવેકી જને)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. buddhimat (બુદ્ધિવાળો)",
+      "notes": ""
+    },
+    {
+      "token": "પરિહરિયવ્વા",
+      "translit": "parihariyavvā",
+      "gloss": "ત્યાગવાં યોગ્ય (પરિહરવાં)",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. parihariyavva (વિધ્યર્થ કૃદંત) < સં. parihartavya",
+      "notes": ""
+    },
+    {
+      "token": "પયત્તેણં",
+      "translit": "payatteṇaṁ",
+      "gloss": "પ્રયત્નપૂર્વક (કાળજીથી)",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. payatta < સં. prayatna, તૃતીયા",
+      "notes": ""
+    },
+    {
+      "token": "બત્રીસ અનંતકાય",
+      "translit": "batrīsa anantakāya",
+      "gloss": "બત્રીસ અનંતકાય",
+      "partOfSpeech": "compound",
+      "etymology": "ગુ. batrīsa + સં. ananta-kāya",
+      "notes": "ગાથાનો સારાંશ"
+    },
+    {
+      "token": "યથાશક્તે",
+      "translit": "yathāśakte",
+      "gloss": "યથાશક્તિ (પોતાની શક્તિ પ્રમાણે)",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. yathā + śakti",
+      "notes": "નિયમમાં છૂટ સૂચવે"
+    },
+    {
+      "token": "રોગ-દુર્ભિક્ષાદિક",
+      "translit": "roga-durbhikṣādika",
+      "gloss": "રોગ, દુકાળ વગેરે (કારણ)",
+      "partOfSpeech": "compound",
+      "etymology": "સં. roga + durbhikṣa (દુકાળ) + ādika (વગેરે)",
+      "notes": "આ આગાર (છૂટ) — અપવાદ-સ્થિતિ"
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "છોડીને (બાદ કરીને)",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'મૂકવું' < પ્રા. mukka < સં. mukta",
+      "notes": "'મૂકી પરિહરું' = એ આગાર સિવાય ત્યાગું"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "પરિહરું, ત્યાગ કરું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. pari-√hṛ (ત્યાગવું)",
+      "notes": "ઉત્તમ પુરુષ એકવચન — સાધકની પ્રતિજ્ઞા"
+    },
+    {
+      "token": "સાતમા ભોગોપભોગ (ભોજન) વ્રતતણા",
+      "translit": "sātamā bhogopabhoga (bhojana) vrata-taṇā",
+      "gloss": "સાતમા ભોગોપભોગ (ભોજન-ભાગના) વ્રતના",
+      "partOfSpeech": "compound",
+      "etymology": "ગુ. 'તણા' = -ના (સંબંધવાચક) < પ્રા. taṇaya",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ અતિચાર",
+      "translit": "pāṁca aticāra",
+      "gloss": "પાંચ અતિચાર (દોષ)",
+      "partOfSpeech": "compound",
+      "etymology": "ગુ. pāṁca + સં. aticāra",
+      "notes": "પ્રસ્તાવનામાં 'અતિયાર' જોડણી"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "શોધું, તપાસું (આલોચું)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √śudh (શુદ્ધ કરવું) પ્રેરક",
+      "notes": "'શોધું → ગણાવું → મિચ્છા મિ દુક્કડં' — ટેક"
+    },
+    {
+      "token": "સચિત્ત આહારે",
+      "translit": "sacitta āhāre",
+      "gloss": "સચિત્ત આહાર (જીવસહિત — જીવંત વસ્તુ ખાવી)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા./સં. sa-citta (ચૈતન્યસહિત) + āhāra",
+      "notes": "પ્રથમ અતિચાર"
+    },
+    {
+      "token": "સચિત્ત પડિબદ્ધ આહારે",
+      "translit": "sacitta paḍibaddha āhāre",
+      "gloss": "સચિત્ત-પ્રતિબદ્ધ આહાર (સચિત્તને અડેલું/જોડાયેલું ખાવું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. paḍibaddha < સં. pratibaddha (જોડાયેલું)",
+      "notes": "બીજો અતિચાર — દા.ત. ઝાડ પરનો ગુંદ"
+    },
+    {
+      "token": "અપ્પોસહિ ભક્ષણયા",
+      "translit": "appoṣahi bhakkhaṇayā",
+      "gloss": "અપક્વ-ઔષધિ ભક્ષણ (કાચું/અધકચરું પાકેલું અન્ન ખાવું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. appa < સં. alpa/apakva + osahi < oṣadhi (વનસ્પતિ-અન્ન)",
+      "notes": "ત્રીજો અતિચાર — પૌંકમાંનો કણ"
+    },
+    {
+      "token": "દુપ્પોસહિ ભક્ષણયા",
+      "translit": "duppoṣahi bhakkhaṇayā",
+      "gloss": "દુષ્પક્વ-ઔષધિ ભક્ષણ (બરાબર ન રંધાયેલું ખાવું)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. du- < સં. duṣ (દુષ્ટ/ખરાબ) + (a)pakva + osahi",
+      "notes": "ચોથો અતિચાર — ઓલા, પૌંક"
+    },
+    {
+      "token": "તુચ્છોસહિ ભક્ષણયા",
+      "translit": "tucchoṣahi bhakkhaṇayā",
+      "gloss": "તુચ્છ-ઔષધિ ભક્ષણ (ખાવાનું ઓછું ને હિંસા ઘણી — તુચ્છ વસ્તુ ખાવી)",
+      "partOfSpeech": "compound",
+      "etymology": "પ્રા. tuccha < સં. tuccha + osahi < oṣadhi",
+      "notes": "પાંચમો અતિચાર — કુમળી આંબલી, કેરી"
+    }
+  ],
+  "literalTranslation": "સાતમું ભોગોપભોગ વ્રત બે પ્રકારનું છે — ભોજનની દૃષ્ટિએ અને કર્મ(આજીવિકા)ની દૃષ્ટિએ. તેમાં ભોજનની દૃષ્ટિએ આ વ્રતમાં: પાંચ ઉદુંબર, ચાર મહાવિગઈ, હિમ, વિષ, કરા અને સર્વ માટી; રાત્રિભોજન જ, બહુબીજ, અનંતકાય અને સંધાન (બોળ-અથાણું); છાશમાં બોળેલાં વડાં, રીંગણ, અજાણ્યાં નામવાળાં ફૂલ-ફળ, તુચ્છ ફળ અને જેનો રસ બદલાઈ ગયો હોય તે — એ બાવીસ અભોજ્ય (વસ્તુ) વર્જવી. — એ બાવીસ અભક્ષ્ય. સર્વ કંદજાતિ, સૂરણકંદ અને વજ્રકંદ, લીલી હળદર, લીલું આદું તથા લીલો કચૂરો; શતાવરી, વિરાલી, કુંવાર, થોર, ગળો, લસણ, વાંસકારેલાં, ગાજર, લૂણી, લોઢ; ગિરિકર્ણિકા, કુમળાં પાન, ખીરસૂઆ, થેગ, લીલો મોથ, લૂણવૃક્ષની છાલ, ખિલ્લોડ, અમૃતવેલ; મૂળા, ભૂમિફૂગ, અંકુરિત કઠોળ, ઢક, વથવાનો પ્રથમ ઉગાવ, સૂઅરવેલ, વાલ, પાલખ-કુમળું, બિલિ; બટાટા અને પિંડાલુ — એ બત્રીસ (અનંતકાય) જાણીને બુદ્ધિમાન જને પ્રયત્નપૂર્વક ત્યાગવાં. એ બત્રીસ અનંતકાય યથાશક્તિ, રોગ-દુકાળ આદિ (આગાર) સિવાય ત્યાગું. એ સાતમા ભોગોપભોગ (ભોજન) વ્રતના પાંચ અતિચાર આલોચું — સચિત્ત આહાર, સચિત્ત-પ્રતિબદ્ધ આહાર, અપક્વૌષધિ-ભક્ષણ, દુષ્પક્વૌષધિ-ભક્ષણ, તુચ્છૌષધિ-ભક્ષણ.",
+  "idiomaticTranslation": "હવે સાતમું વ્રત — ભોગ-ઉપભોગની મર્યાદા — જે ભોજન અને આજીવિકા એમ બે રીતે પળાય; અહીં ભોજનની વાત. આ વ્રતમાં ન ખવાય તેવી બાવીસ વસ્તુ છે: પાંચ ઉદુંબર (ટેટા), ચાર મહાવિગઈ (દારૂ, માંસ, મધ, માખણ), બરફ, ઝેર, કરા ને સર્વ માટી; રાત્રિભોજન, બહુબીજ ફળ, અનંતકાય ને બોળ-અથાણું; ઘોળવડાં, રીંગણ, અજાણ્યાં ફૂલ-ફળ, તુચ્છ ફળ ને રસ બગડેલી વસ્તુ — આ બાવીસ અભક્ષ્ય ત્યજવાં. વળી જેમાં એક શરીરે અનંત જીવ વસે તેવી બત્રીસ અનંતકાય — સૂરણ, વજ્રકંદ, લીલી હળદર-આદું-કચૂરો, શતાવરી, કુંવાર, થોર, ગળો, લસણ, વાંસકૂંપળ, ગાજર, મૂળા, ભોંયફૂગ, ફણગાવેલાં કઠોળ, બટાટા, રતાળુ ઇત્યાદિ — વિવેકી જને કાળજીથી છોડવાં; રોગ કે દુકાળ જેવી મજબૂરી સિવાય હું એ યથાશક્તિ ત્યાગું છું. અંતે આ વ્રતના ભોજન-ભાગના પાંચ દોષ આલોચું છું: જીવસહિત વસ્તુ ખાધી હોય, સચિત્તને અડેલું ખાધું હોય, કાચું, અધકચરું કે તુચ્છ અન્ન ખાધું હોય — એ સર્વની શુદ્ધિ ઇચ્છું.",
+  "elaboration": {
+    "verseByVerseCommentary": "છઠ્ઠા દિશિવ્રતે દિશા(અવકાશ)ની મર્યાદા બાંધી; આ સાતમું વ્રત હવે 'શું ભોગવવું' તેની — ખાસ કરીને થાળીની — મર્યાદા બાંધે છે, એટલે અહિંસા ઘરના રસોડામાં ઊતરે છે. પાઠ વ્રતને બે ધારે વહેંચે છે — ભોજનતઃ અને કર્મતઃ; આ વિભાગ માત્ર પહેલી ધાર (ભોજન) આપે છે, બીજી (પંદર કર્માદાન) પછીના વિભાગમાં છે. ભોજન-ભાગ બે યાદીઓ પર ઊભો છે. પહેલી, બે પ્રાકૃત ગાથામાં બાવીસ અભક્ષ્ય: પાંચ ઉદુંબર અને ચાર મહાવિગઈ (મદ્ય-માંસ-મધ-માખણ) ત્રસજીવ-બહુલ હોવાથી, અને હિમ-કરા-માટી પૃથ્વી/અપ્કાયરૂપ હોવાથી; સાથે રાત્રિભોજન, બહુબીજ, ચલિતરસ ને બોળ-અથાણું — જ્યાં જીવોત્પત્તિ કે પ્રમાદ વધે. બીજી, પાંચ ગાથામાં બત્રીસ અનંતકાય — સૂરણ, વજ્રકંદથી માંડી બટાટા-પિંડાલુ સુધીનાં કંદમૂળ — જેને 'જાણીને પ્રયત્નપૂર્વક' (જાણિઊણા…પયત્તેણં) છોડવાનું કહ્યું છે; અહીં ગાથા ભારપૂર્વક 'બુદ્ધિમયા' — વિવેકબુદ્ધિથી — એમ સંબોધે છે. પછી 'યથાશક્તે રોગ-દુર્ભિક્ષાદિક મૂકી પરિહરું' — એક માપસર આગાર (છૂટ): સંપૂર્ણ ત્યાગ આદર્શ, પણ રોગ-દુકાળ જેવી વિવશતામાં છૂટ — જે જૈન વ્રત-ઘડતરની વ્યવહારુ સમતુલા બતાવે છે. અંતે પાંચ અતિચારની પ્રાકૃત નામાવલિ — સચિત્ત, સચિત્ત-પડિબદ્ધ, અપ્પોસહિ, દુપ્પોસહિ, તુચ્છોસહિ — જે 'સંપૂર્ણ ભંગ' નહિ પણ 'આંશિક સ્ખલના'ની કોટિ છે: જીવસહિત, જીવને અડેલું, કાચું, અધકચરું કે તુચ્છ અન્ન અજાણતાં ખવાઈ જાય તે. ગદ્ય-સમજૂતી આને રોજિંદા દૃષ્ટાંતે ઉતારે છે — પૌંકનો કણ, ઓલા, કુમળી આંબલી-કેરી, રાયણ મુખમાં ઘાલી કાઢવી, અણગળ પાણી, વાસી દહીં-વડાં — એમ યાદી જીવતા આચારમાં પલટાય છે.",
+    "doctrinalContext": "આ વ્રતનું ધ્રુવ સૂત્ર છે જીવ-સંખ્યા-આધારિત અહિંસા. 'સચિત્ત' (ચૈતન્યસહિત) વિરુદ્ધ 'અચિત્ત' (પ્રાસુક) — એ ભેદ અહીં કેન્દ્રમાં છે; શ્રાવક અચિત્ત (નિર્જીવ/પ્રાસુક) આહાર તરફ ઢળે. અનંતકાય (સાધારણ વનસ્પતિકાય) ની ગંભીરતા એ છે કે એક જ શરીરમાં અનંત જીવ સહિયારા હોય — તેથી એક કોળિયે અનંત જીવઘાત; પ્રત્યેક-વનસ્પતિ કરતાં આ ભારે હિંસા ગણાય. 'અતિચાર' એ અનાચાર (પૂર્ણ ભંગ) નથી — અણાભોગ (અજાણતાં) કે અતિક્રમથી લાગતી આંશિક ક્ષતિ; તેથી પ્રતિક્રમણમાં તે આલોચ્ય છે, ભંગ-રૂપ નહિ. અહીંના પાંચ અતિચાર તત્ત્વાર્થસૂત્ર (૭/૩૫: સચિત્ત-સંબદ્ધ-સંમિશ્ર-અભિષવ-દુષ્પક્વાહાર) અને ઉપાસકદશાની શ્રાવક-આચાર-પરંપરા સાથે સીધો સંબંધ ધરાવે છે, જોકે વર્નાક્યુલર નામો (અપ્પોસહિ/દુપ્પોસહિ/તુચ્છોસહિ) અહીં 'ઔષધિ' = વનસ્પત્યન્નના સંદર્ભે છે. 'યથાશક્તિ' અને 'રોગ-દુર્ભિક્ષાદિક' આગાર એ ઉત્સર્ગ-અપવાદ (આદર્શ-છૂટ) ની જૈન પદ્ધતિને દર્શાવે છે.",
+    "practicalRelevance": "આજે પણ આ વ્રત રસોડામાં ઊતરે છે: કંદમૂળ-ત્યાગ, રાત્રિભોજન-ત્યાગ, અણગળ (ગાળ્યા વગરનું) પાણી ટાળવું, વાસી/ચલિતરસ ખોરાક ન વાપરવો, ગોરસ સાથે કાચું દ્વિદળ (ઘોળવડાં) ટાળવું, અને બોળ-અથાણાંની મર્યાદા. પાઠમાંના 'ચૌદ નિયમ' (સચિત્ત, દ્રવ્ય, વિગઈ આદિ) રોજ સવાર-સાંજ ધારવાનો સંકેત છે — જે આજે પણ ભોગ-ઉપભોગ સંકોચવાની વ્યવહારુ રીત છે. મુખ્ય મર્મ: જમતાં પહેલાં 'આ સચિત્ત છે? કાચું છે? તુચ્છ છે?' એવો વિવેક કેળવવો — અને અજાણતાં ભૂલ થાય ત્યાં મિચ્છા મિ દુક્કડં વડે અંતઃકરણ શુદ્ધ રાખવું.",
+    "crossReferences": [
+      {
+        "text": "તત્ત્વાર્થસૂત્ર ૭.૩૫ — ભોગોપભોગ-પરિમાણવ્રતના પાંચ અતિચાર (સચિત્ત-સંબદ્ધ-સંમિશ્ર-અભિષવ-દુષ્પક્વાહાર)",
+        "source": "ઉમાસ્વાતિ; 'That Which Is', અનુ. નથમલ તાટિયા"
+      },
+      {
+        "text": "ઉપાસકદશાંગ સૂત્ર — શ્રાવકનાં બાર વ્રત અને તેમના અતિચાર",
+        "source": "શ્વેતાંબર અંગ-આગમ; SBE Vol. 45, અનુ. હર્મન યાકોબી"
+      },
+      {
+        "text": "બાવીસ અભક્ષ્ય અને બત્રીસ અનંતકાયની પરંપરાગત યાદી",
+        "source": "જૈન eLibrary / JainQQ — શ્રાવક-ધર્મ સંગ્રહ"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra ('That Which Is'), 7.35 — aticāras of bhogopabhoga-parimāṇa-vrata",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "ભોગોપભોગ વ્રતના પાંચ અતિચારની શાસ્ત્રીય રચના અને સચિત્ત/અપક્વ/દુષ્પક્વ/તુચ્છ આહારની વ્યાખ્યા"
+    },
+    {
+      "title": "Upāsakadaśāṅga Sūtra (Jaina Sūtras, Part II, SBE Vol. 45, tr. Hermann Jacobi)",
+      "url": "https://archive.org/details/jainasutraspart02jaco",
+      "type": "translation",
+      "consultedFor": "શ્રાવકનાં બાર વ્રત અને દરેક વ્રતના અતિચારની આગમ-આધારિત પરંપરા"
+    },
+    {
+      "title": "Jain eLibrary — Shravak Dharma: Bāvīs Abhakṣya & Battīs Anantkāya",
+      "url": "https://jainelibrary.org",
+      "type": "scholarship",
+      "consultedFor": "બાવીસ અભક્ષ્ય અને બત્રીસ અનંતકાયની ઓળખ, અર્થ અને હિંસા-તર્ક"
+    },
+    {
+      "title": "AtmaDharma — Jain Books on Śrāvaka conduct & abhakṣya",
+      "url": "https://www.atmadharma.com/jainbooks.html",
+      "type": "scholarship",
+      "consultedFor": "અભક્ષ્ય-અનંતકાય-ત્યાગ પાછળના સચિત્ત/અચિત્ત અને જીવ-સંખ્યા સિદ્ધાંતની પુષ્ટિ"
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(૧) પુસ્તકની જોડણી verbatim રાખી — પ્રસ્તાવના પ્રમાણે 'અતિચાર'ને બદલે 'અતિયાર', અને પ્રાકૃત ગાથામાં ભક્ષણ માટે 'ભક્ષણયા/ભક્ખણયા' ભેદ સ્વાભાવિક છે. (૨) અનંતકાય-ગાથાનાં કેટલાંક નામ — 'થેગ', 'ઢક્ક', 'ખીલ્લુહડો', 'બિલિયા' — ની વર્તમાન વનસ્પતિ-ઓળખ પ્રાચીન દેશ્ય શબ્દો હોવાથી અનિશ્ચિત છે; આસપાસના સંદર્ભ અને પરંપરાગત યાદી પ્રમાણે અંદાજ આપ્યો છે. (૩) અપ્પોસહિ/દુપ્પોસહિ/તુચ્છોસહિ — અહીં 'ઓસહિ' = ઔષધિ એટલે વનસ્પત્યન્ન; શાસ્ત્રીય તત્ત્વાર્થ-નામો (અપક્વ/દુષ્પક્વ-આહાર) સાથે અર્થ-સામ્ય છે, શબ્દ-ભેદ માત્ર. (૪) આ વિભાગ સાતમા વ્રતનો માત્ર 'ભોજનતઃ' ભાગ છે; 'કર્મતઃ' (પંદર કર્માદાન) આગળના વિભાગમાં હોવાથી અહીં તેની ટીકા કરી નથી. (૫) sources માં મૂળ પુસ્તકની સ્થિર URL ઉપલબ્ધ ન હોવાથી બાહ્ય સંદર્ભ માત્ર સામાન્ય શ્રાવક-આચારની પુષ્ટિ માટે છે, આ ચોક્કસ વર્નાક્યુલર પાઠ માટે નહિ."
+}

@@ -1,0 +1,660 @@
+{
+  "shlokaId": "bruhad-atiyar/10",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "For just this one day, I shrink the larger 'how-far-I-may-go' limit I set for life, and I confess the five sneaky ways I broke that smaller daily boundary — by fetching things across it, sending things out, or signalling to someone outside by a call, a gesture, or a tossed pebble.",
+  "recitation": "10. daśamuṁ deśāvagāśika-vrata. chaḍhe diśi-vrate je diśi-taṇuṁ pramāṇa kīdhuṁ hoya, te prati-divase saṅkoḍīe, anerā e sarva vrata-taṇā niyama saṅkṣepīe te deśāvagāśika-vrata kahīe. e daśamā deśāvagāsika vrata-taṇā pāñca atiyāra śodhuṁ. āṇavaṇa khpaoge, pesavaṇa khpaoge, saddāṇuvāi, rūvāṇuvāi, bahiyā puggala pakkheve. deśāvagāśika kīdhe niyamī bhūmikā bāhera huṁtī jaṇa pāhe vastu aṇāvī hoya, athavā koi pāhe vastu mokalāvī hoya. sāda karī, khāṁsī huṁkāro karī, gāḍhe guṇe rūpa dekhāḍī, kāṅkarī nākhī āpaṇapuṁ chatuṁ jaṇāvyuṁ hoya. aneruṁ e daśamā deśāvagāśika vrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "૧૦.",
+      "translit": "10.",
+      "gloss": "Verse number ten",
+      "partOfSpeech": "particle",
+      "etymology": "Numeral marker; the tenth block of the bṛhad-atiyar.",
+      "notes": "Period before the numeral is the book's verbatim punctuation."
+    },
+    {
+      "token": "દશમું",
+      "translit": "daśamuṁ",
+      "gloss": "the tenth",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt daśama (tenth), ordinal of daśan, 'ten'.",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાશિકવ્રત",
+      "translit": "deśāvagāśika-vrata",
+      "gloss": "the Deśāvagāśika vow (limiting one's space/activity for a set period)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt deśa ('region') + avakāśa ('scope, occasion') + -ika; + vrata ('vow') = deśāvakāśika-vrata.",
+      "notes": "The second of the four śikṣāvratas; the 10th of the twelve lay vows."
+    },
+    {
+      "token": "છઢે",
+      "translit": "chaḍhe",
+      "gloss": "in the sixth",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt ṣaṣṭha ('sixth') via Pkt chaṭṭha; locative.",
+      "notes": "Cross-refers to the sixth vow, diśi-vrata (the first guṇavrata)."
+    },
+    {
+      "token": "દિશિવ્રતે",
+      "translit": "diśi-vrate",
+      "gloss": "in the direction-vow (Diśi-vrata)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt diś/diśā ('direction') + vrata; locative case.",
+      "notes": "The lifelong limit on how far one travels in each direction."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "which",
+      "partOfSpeech": "pronoun",
+      "etymology": "Relative pronoun from Skt yad.",
+      "notes": ""
+    },
+    {
+      "token": "દિશિતણું",
+      "translit": "diśi-taṇuṁ",
+      "gloss": "of the directions",
+      "partOfSpeech": "compound",
+      "etymology": "diśi + the Old-Gujarati genitive suffix -taṇuṁ (from Apabhraṁśa taṇaya).",
+      "notes": ""
+    },
+    {
+      "token": "પ્રમાણ",
+      "translit": "pramāṇa",
+      "gloss": "measure, limit",
+      "partOfSpeech": "noun",
+      "etymology": "Skt pramāṇa, 'measure, standard'.",
+      "notes": ""
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "(was) made, fixed",
+      "partOfSpeech": "verb",
+      "etymology": "Guj past participle of karavuṁ, from Skt kṛta.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been",
+      "partOfSpeech": "verb",
+      "etymology": "Subjunctive of hovuṁ ('to be'), from Skt root bhū.",
+      "notes": "Modal 'may have', framing a possible past act for confession."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Demonstrative from Skt tad.",
+      "notes": ""
+    },
+    {
+      "token": "પ્રતિદિવસે",
+      "translit": "prati-divase",
+      "gloss": "each day, daily",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt prati ('each') + divasa ('day'); locative.",
+      "notes": "The defining word: the contraction is renewed day by day, unlike the lifelong diśi-vrata."
+    },
+    {
+      "token": "સંકોડીએ",
+      "translit": "saṅkoḍīe",
+      "gloss": "we contract, narrow down",
+      "partOfSpeech": "verb",
+      "etymology": "Guj saṅkoḍavuṁ, from Skt saṅkoca ('shrinking').",
+      "notes": "1st person plural, hortative 'we shrink'."
+    },
+    {
+      "token": "અનેરા",
+      "translit": "anerā",
+      "gloss": "the other",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt anyatara ('one of the others') via Pkt aṇṇera.",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati proximate demonstrative.",
+      "notes": ""
+    },
+    {
+      "token": "સર્વ",
+      "translit": "sarva",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Skt sarva.",
+      "notes": ""
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vrata-taṇā",
+      "gloss": "of the vows",
+      "partOfSpeech": "compound",
+      "etymology": "vrata + genitive -taṇā.",
+      "notes": ""
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "rules, restraints",
+      "partOfSpeech": "noun",
+      "etymology": "Skt niyama ('restraint, fixed rule').",
+      "notes": ""
+    },
+    {
+      "token": "સંક્ષેપીએ",
+      "translit": "saṅkṣepīe",
+      "gloss": "we abridge, condense",
+      "partOfSpeech": "verb",
+      "etymology": "From Skt saṁkṣepa ('abridgement'); 1st person plural hortative.",
+      "notes": "The 10th vow also tightens the OTHER standing vows' limits for the day, not only the directional one."
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt tad.",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાશિકવ્રત",
+      "translit": "deśāvagāśika-vrata",
+      "gloss": "the Deśāvagāśika vow",
+      "partOfSpeech": "compound",
+      "etymology": "See above.",
+      "notes": "Repeated to close the definition."
+    },
+    {
+      "token": "કહીએ",
+      "translit": "kahīe",
+      "gloss": "we call (it)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj kahevuṁ, from Skt kathayati.",
+      "notes": ""
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative.",
+      "notes": ""
+    },
+    {
+      "token": "દશમા",
+      "translit": "daśamā",
+      "gloss": "tenth",
+      "partOfSpeech": "adj",
+      "etymology": "Skt daśama, oblique.",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાસિક",
+      "translit": "deśāvagāsika",
+      "gloss": "Deśāvagāsika",
+      "partOfSpeech": "compound",
+      "etymology": "Same word as above.",
+      "notes": "Spelled here with સ (sa) where the heading had શ (śa) — the book's internal spelling variation, preserved verbatim."
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vrata-taṇā",
+      "gloss": "of the vow",
+      "partOfSpeech": "compound",
+      "etymology": "vrata + genitive -taṇā.",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt pañca.",
+      "notes": ""
+    },
+    {
+      "token": "અતિચાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (partial infractions)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt aticāra ('overstepping'); in this book regularly spelt અતિયાર.",
+      "notes": "Printed split across the line as અતિ-ચાર; one word."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Guj śodhavuṁ ('to purify, examine'), from Skt root śudh.",
+      "notes": "The recurring purification formula opening each vow-block."
+    },
+    {
+      "token": "આણવણ",
+      "translit": "āṇavaṇa",
+      "gloss": "fetching, having-brought-in",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt āṇavaṇa from Skt ānayana ('bringing toward').",
+      "notes": "Atichāra 1: ānayana-prayoga."
+    },
+    {
+      "token": "ખ્પઓગે",
+      "translit": "khpaoge",
+      "gloss": "by employing/applying (prayoga)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt (p)paoga from Skt prayoga ('application, employment'); locative.",
+      "notes": "The spelling ખ્પઓગે is an orthographic oddity in the book for પ્પઓગે/ppaoge (prayoge); preserved verbatim."
+    },
+    {
+      "token": "પેસવણ",
+      "translit": "pesavaṇa",
+      "gloss": "sending out, dispatching",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt pesavaṇa from Skt preṣaṇa ('sending'), root pra-iṣ.",
+      "notes": "Atichāra 2: preṣya-prayoga — getting work done outside the limit through another."
+    },
+    {
+      "token": "ખ્પઓગે",
+      "translit": "khpaoge",
+      "gloss": "by employing/applying (prayoga)",
+      "partOfSpeech": "noun",
+      "etymology": "See above.",
+      "notes": "Repeated for the second atichāra."
+    },
+    {
+      "token": "સદ્દાણુવાઇ",
+      "translit": "saddāṇuvāi",
+      "gloss": "signalling by sound (sound-following)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt sadda (Skt śabda, 'sound') + aṇuvāi (Skt anupātin, 'one who follows after'); = śabdānupāta.",
+      "notes": "Atichāra 3: making a noise so one outside the line will come/act."
+    },
+    {
+      "token": "રૂવાણુવાઇ",
+      "translit": "rūvāṇuvāi",
+      "gloss": "signalling by sight (form-following)",
+      "partOfSpeech": "compound",
+      "etymology": "Pkt rūva (Skt rūpa, 'form') + aṇuvāi (anupātin); = rūpānupāta.",
+      "notes": "Atichāra 4: showing oneself so one outside will notice and respond."
+    },
+    {
+      "token": "બહિયા",
+      "translit": "bahiyā",
+      "gloss": "outside, beyond",
+      "partOfSpeech": "adverb",
+      "etymology": "Pkt bahiyā from Skt bahis/bāhya ('outside').",
+      "notes": ""
+    },
+    {
+      "token": "પુગ્ગલ",
+      "translit": "puggala",
+      "gloss": "matter (a physical object)",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt puggala = Skt pudgala ('matter, material thing').",
+      "notes": "Here a concrete object such as a pebble."
+    },
+    {
+      "token": "પક્ખેવે",
+      "translit": "pakkheve",
+      "gloss": "by throwing/casting",
+      "partOfSpeech": "noun",
+      "etymology": "Pkt pakkheva from Skt prakṣepa ('throwing, casting'); locative.",
+      "notes": "Atichāra 5: pudgala-kṣepa — tossing an object across the line to signal someone."
+    },
+    {
+      "token": "દેશાવગાશિક",
+      "translit": "deśāvagāśika",
+      "gloss": "(the) Deśāvagāśika (vow)",
+      "partOfSpeech": "compound",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "કીધે",
+      "translit": "kīdhe",
+      "gloss": "having undertaken / once observed",
+      "partOfSpeech": "verb",
+      "etymology": "Locative-absolute participle of karavuṁ, from Skt kṛta.",
+      "notes": "'Once the deśāvagāśika has been taken…' — introduces the everyday examples."
+    },
+    {
+      "token": "નિયમી",
+      "translit": "niyamī",
+      "gloss": "the restricted, resolved",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt niyamita ('regulated, bound by rule').",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિકા",
+      "translit": "bhūmikā",
+      "gloss": "ground, zone, area",
+      "partOfSpeech": "noun",
+      "etymology": "Skt bhūmikā ('plot, stage, ground').",
+      "notes": "The spatial boundary fixed for the day."
+    },
+    {
+      "token": "બાહેર",
+      "translit": "bāhera",
+      "gloss": "outside",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj bāher from Skt bahis/bāhya.",
+      "notes": ""
+    },
+    {
+      "token": "હુંતી",
+      "translit": "huṁtī",
+      "gloss": "being / lying (there)",
+      "partOfSpeech": "verb",
+      "etymology": "Old-Gujarati present participle of hovuṁ (from Apabhraṁśa huṁta, Skt bhavantī).",
+      "notes": "'A thing that is outside the restricted area.'"
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "a person",
+      "partOfSpeech": "noun",
+      "etymology": "Skt jana ('person, people').",
+      "notes": ""
+    },
+    {
+      "token": "પાહે",
+      "translit": "pāhe",
+      "gloss": "from / by (someone)",
+      "partOfSpeech": "particle",
+      "etymology": "Old-Gujarati postposition from Skt pārśve ('at the side of').",
+      "notes": "Here marks the agent: 'through/from a person'."
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "a thing, object",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vastu.",
+      "notes": ""
+    },
+    {
+      "token": "અણાવી",
+      "translit": "aṇāvī",
+      "gloss": "had (it) brought",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of āṇavuṁ ('to bring'), from Skt ānāyita.",
+      "notes": "Illustrates atichāra 1, ānayana."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have (done)",
+      "partOfSpeech": "verb",
+      "etymology": "Subjunctive of hovuṁ, Skt bhū.",
+      "notes": ""
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt athavā ('or else').",
+      "notes": ""
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "someone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Skt ko'pi ('anyone').",
+      "notes": ""
+    },
+    {
+      "token": "પાહે",
+      "translit": "pāhe",
+      "gloss": "through (someone)",
+      "partOfSpeech": "particle",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "a thing",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vastu.",
+      "notes": ""
+    },
+    {
+      "token": "મોકલાવી",
+      "translit": "mokalāvī",
+      "gloss": "had (it) sent out",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of moklavuṁ ('to send'), a Gujarati verb.",
+      "notes": "Illustrates atichāra 2, preṣya-prayoga."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have (done)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt bhū.",
+      "notes": ""
+    },
+    {
+      "token": "સાદ",
+      "translit": "sāda",
+      "gloss": "a call, a shout",
+      "partOfSpeech": "noun",
+      "etymology": "Guj sāda, ultimately from Skt śabda ('sound').",
+      "notes": "Illustrates atichāra 3, śabdānupāta."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "making, by doing",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive of karavuṁ, from Skt kṛtvā.",
+      "notes": ""
+    },
+    {
+      "token": "ખાંસી",
+      "translit": "khāṁsī",
+      "gloss": "a cough",
+      "partOfSpeech": "noun",
+      "etymology": "Guj khāṁsī from Skt kāsa ('cough').",
+      "notes": "A deliberate cough used as a covert signal."
+    },
+    {
+      "token": "હુંકારો",
+      "translit": "huṁkāro",
+      "gloss": "a grunt / 'hum' sound",
+      "partOfSpeech": "noun",
+      "etymology": "Skt huṁkāra ('the utterance hum').",
+      "notes": ""
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "making",
+      "partOfSpeech": "verb",
+      "etymology": "Skt kṛtvā.",
+      "notes": ""
+    },
+    {
+      "token": "ગાઢે",
+      "translit": "gāḍhe",
+      "gloss": "intensely, emphatically",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt gāḍha ('dense, intense'); instrumental/locative.",
+      "notes": ""
+    },
+    {
+      "token": "ગુણે",
+      "translit": "guṇe",
+      "gloss": "by manner / with effort",
+      "partOfSpeech": "noun",
+      "etymology": "Skt guṇa ('quality, manner'); instrumental.",
+      "notes": "'gāḍhe guṇe' = 'by a pronounced manner', i.e. making oneself conspicuous."
+    },
+    {
+      "token": "રૂપ",
+      "translit": "rūpa",
+      "gloss": "(one's) form, figure",
+      "partOfSpeech": "noun",
+      "etymology": "Skt rūpa.",
+      "notes": "Illustrates atichāra 4, rūpānupāta."
+    },
+    {
+      "token": "દેખાડી",
+      "translit": "dekhāḍī",
+      "gloss": "showing, displaying",
+      "partOfSpeech": "verb",
+      "etymology": "Causative absolutive of dekhavuṁ ('to see/show'), from Skt root dṛś.",
+      "notes": ""
+    },
+    {
+      "token": "કાંકરી",
+      "translit": "kāṅkarī",
+      "gloss": "a pebble",
+      "partOfSpeech": "noun",
+      "etymology": "Guj kāṅkarī from Skt karkara/kaṅkara ('gravel, pebble').",
+      "notes": "Illustrates atichāra 5, pudgala-kṣepa."
+    },
+    {
+      "token": "નાખી",
+      "translit": "nākhī",
+      "gloss": "throwing, casting",
+      "partOfSpeech": "verb",
+      "etymology": "Absolutive of nākhavuṁ ('to throw'), a Gujarati verb.",
+      "notes": ""
+    },
+    {
+      "token": "આપણપું",
+      "translit": "āpaṇapuṁ",
+      "gloss": "one's own presence / selfhood",
+      "partOfSpeech": "noun",
+      "etymology": "Guj āpaṇo ('one's own', from Skt ātman) + abstract suffix -puṁ.",
+      "notes": "I.e. signalling 'I am here' to one outside the boundary."
+    },
+    {
+      "token": "છતું",
+      "translit": "chatuṁ",
+      "gloss": "present, made manifest",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt santa ('existing, present').",
+      "notes": ""
+    },
+    {
+      "token": "જણાવ્યું",
+      "translit": "jaṇāvyuṁ",
+      "gloss": "made (it) known",
+      "partOfSpeech": "verb",
+      "etymology": "Causative of jāṇavuṁ ('to know'), from Skt jñāpita.",
+      "notes": "Sums up atichāras 3–5: by sound, sight or thrown object, one let one's presence be known across the line."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have (done)",
+      "partOfSpeech": "verb",
+      "etymology": "Skt bhū.",
+      "notes": ""
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "whatever else (besides these)",
+      "partOfSpeech": "adj",
+      "etymology": "From Skt anyatara ('any other').",
+      "notes": "The recurring catch-all that sweeps up any unlisted fault."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative.",
+      "notes": ""
+    },
+    {
+      "token": "દશમા",
+      "translit": "daśamā",
+      "gloss": "tenth",
+      "partOfSpeech": "adj",
+      "etymology": "Skt daśama.",
+      "notes": ""
+    },
+    {
+      "token": "દેશાવગાશિક",
+      "translit": "deśāvagāśika",
+      "gloss": "Deśāvagāśika",
+      "partOfSpeech": "compound",
+      "etymology": "See above.",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "vow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt vrata.",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "regarding, concerning",
+      "partOfSpeech": "particle",
+      "etymology": "From Skt viṣaye ('in the matter of').",
+      "notes": "Closes the block: '…whatever else regarding this tenth vow' — implying the unspoken micchā mi dukkaḍaṁ."
+    }
+  ],
+  "literalTranslation": "Tenth, the Deśāvagāśika vow. Whatever measure of directions one fixed in the sixth, the direction-vow — that we contract each day, and we abridge the rules of all the other vows too; that we call the Deśāvagāśika vow. I scrutinise the five transgressions of this tenth Deśāvagāśika vow. (1) Employment of fetching-in; (2) employment of sending-out; (3) signalling by sound; (4) signalling by sight; (5) casting matter outside. Having undertaken the deśāvagāśika: a thing lying outside the restricted ground one may have had brought through a person, or had a thing sent out through someone; by making a call, by coughing or grunting, by showing one's form in a marked way, by throwing a pebble, one may have made one's own presence known. And whatever else (was done) regarding this tenth Deśāvagāśika vow.",
+  "idiomaticTranslation": "The tenth is the Deśāvagāśika vow. Whatever directional limit I set, once and for life, in the sixth vow, I now draw in tighter for this single day — and I likewise condense, for today, the limits of all my other vows. That daily tightening is what we call the Deśāvagāśika vow. Let me now examine its five transgressions. I may have had something fetched in from beyond my day's boundary, or had something sent out across it through another. Keeping my own feet inside the line, I may yet have reached past it — calling out, clearing my throat or grunting, making myself conspicuous, or tossing a pebble — so that someone outside would notice me and act on my behalf. And for whatever else I did against this tenth vow, may that misdeed of mine come to nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "After Sāmāyika (vow 9) opened the śikṣāvratas with a fixed-time equanimity, this verse adds a fixed-space discipline — and its single original move is announced at once: the deśāvagāśika is not a new boundary but a daily contraction of an old one. The śrāvaka took a lifelong directional cap in the sixth vow (diśi-vrata); here he 'shrinks it each day' (prati-divase saṅkoḍīe) and, the text adds pointedly, 'abridges the rules of all the other vows too' (anerā sarva vrata-taṇā niyama saṅkṣepīe). So this vow is a renewable intensifier: every morning the practitioner redraws his whole field of permitted action smaller than his standing vows allow. That is why it sits among the training-vows — it is daily practice at living within tighter walls. The five atichāras are built with great psychological precision around one loophole. The body honours the line, but the will leaks across it. One can fetch a thing in (āṇavaṇa / ānayana) or send a thing out (pesavaṇa / preṣya) by using another person as one's hands; or, without any errand-runner, simply summon attention from beyond the line — by sound (saddāṇuvāi: a call, a contrived cough, a grunt), by sight (rūvāṇuvāi: making oneself conspicuous, gāḍhe guṇe rūpa dekhāḍī), or by a thrown object (puggala-pakkheve: the tossed kāṅkarī). The homely Gujarati examples — the cough, the pebble — are not quaint filler; they expose the vow's real target. A transgression here is rarely a dramatic breach; it is the small, deniable signal by which a person keeps his body inside the boundary while extending his agency outside it. The verse therefore measures the vow not by where one stands but by where one's intention and effect reach, and closes with the standard aneruṁ … viṣe catch-all that implies the unspoken micchā mi dukkaḍaṁ.",
+    "doctrinalContext": "The five names match the canonical set for deśāvakāśika in the Tattvārtha tradition (ānayana-prayoga, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-kṣepa). Doctrinally the vow operationalises saṁvara (stopping karmic influx) by shrinking the kṣetra, the spatial field, within which any of the eighteen pāpa-sthānakas could be committed: less reachable space means fewer occasions for hiṁsā and parigraha. The atichāra scheme encodes the Jain principle that karmic agency is incurred by kṛta and kārita alike — doing and causing-to-be-done — and even by indirect prompting (anumodanā): hence fetching or sending through another, or merely signalling someone to act, strains the vow though one never crossed the line oneself. The pairing of two 'proxy' faults (ānayana/preṣya) with three 'signal' faults (sound/sight/object) shows the same exhaustiveness — gross and subtle — that governs every block of this confession.",
+    "practicalRelevance": "A reciter applies this by actually contracting his radius for the day — and then watching the modern equivalents of the cough and the pebble. The vow is strained not only by physically leaving the resolved zone but by phoning, messaging, gesturing, or sending someone to do across the line what one resolved not to do oneself. The self-examination is precise: 'I kept my limit — but did I cheat it by remote control?' Practised honestly, it trains a daily, deliberate shrinking of one's footprint of activity and consumption.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 7.30 (numbered 7.26 in some Śvetāmbara recensions): ānayana-preṣya-prayoga-śabda-rūpānupāta-pudgalakṣepāḥ",
+        "source": "Umāsvāti, Tattvārtha-sūtra, with Sarvārthasiddhi / Sukhlalji commentary"
+      },
+      {
+        "text": "The seven śīlavratas of the householder, including deśāvakāśika, in the lay-conduct manuals",
+        "source": "Samantabhadra, Ratnakaraṇḍa-śrāvakācāra"
+      },
+      {
+        "text": "Laghu Atiyār — the short Devasi/Rāi confession that states this same vow's faults in brief",
+        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvārtha Sūtra with commentary — Verse 7 (transgressions of the vows)",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary",
+      "type": "translation",
+      "consultedFor": "Canonical list and meaning of the five deśāvakāśika atichāras (ānayana, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-kṣepa) and their numbering."
+    },
+    {
+      "title": "Jain Pāribhāṣika Śabdakośa (Romanized)",
+      "url": "https://jainqq.org/booktext/Jain_Paribhashika_Shabdakosha_Romanized/016091",
+      "type": "dictionary",
+      "consultedFor": "Technical glosses for atichāra-terms and the Prakrit forms āṇavaṇa, pesavaṇa, anupāta, pakkheva."
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha edition), via Jain eLibrary",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim sūtra text, its internal spelling variants (atiyāra, deśāvagāsika/śika), and the Gujarati exposition of the five faults."
+    }
+  ],
+  "translatorConfidence": 0.88,
+  "notes": "The verse's own Gujarati gloss reads atichāras 1–2 as 'fetching a thing in' (āṇavaṇa = ānayana) and 'sending a thing out through someone' (pesavaṇa = preṣya-prayoga); some Tattvārtha commentaries instead gloss the first pair as 'going oneself' and 'sending a servant'. The Anchalgachchha text's own reading is followed here. The token ખ્પઓગે (khpaoge) is an orthographic peculiarity in the book for પ્પઓગે/ppaoge (Skt prayoge) and is transliterated verbatim. The book's spelling variation deśāvagāśika (heading, with શ) vs deśāvagāsika (body, with સ) is preserved, not normalised. The exact sūtra number for these atichāras varies by recension (commonly 7.30, or 7.26 in some Śvetāmbara editions); flagged rather than asserted. The closing micchā mi dukkaḍaṁ is implied by the standard block-formula but is not printed verbatim within this excerpt."
+}

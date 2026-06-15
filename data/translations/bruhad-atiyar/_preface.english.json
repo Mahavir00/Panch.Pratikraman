@@ -2,113 +2,121 @@
   "sutraId": "bruhad-atiyar",
   "targetLang": "english",
   "targetScript": "latin",
-  "title": "Bṛhad Atichāra — The Extended Confession of the Twelve Lay Vows' Transgressions (Moṭā Atiyār)",
-  "summary": "This is the long, detailed confession a Jain lay person (śrāvaka) recites to review the twelve vows of a householder and to admit, vow by vow, every way he or she has fallen short of them. After each vow it lists the standard 'slips' (atichāra) and then spells out, in everyday language and with very concrete examples, the careless or wrong acts that may have happened. Each section closes with 'micchā mi dukkaḍaṁ' — 'may that wrong of mine be undone' — turning the catalogue into an act of repentance. It is recited in the longer pratikramaṇas (fortnightly, seasonal, and yearly) where there is time to examine conduct in full.",
-  "ritualPlacement": "This is the Fourth Āvaśyaka (Paḍikkamaṇa — reflection and atonement) in its EXTENDED form. It replaces the short confession (laghu-atiyar) used in the daily Devasi/Rāi pratikramaṇas and is recited only in the Pākṣika (Pakkhī, fortnightly), Cāturmāsika (Cāumāsī, season-end), and Sāṁvatsarika (Saṁvatsarī, annual) pratikramaṇas, where the period being reviewed is long enough to warrant the full atichāra. SHARED-SUTRA NOTE (stated once here): the book gives Cāumāsī and Sāṁvatsarī no independent text — they reuse the entire Pākṣika sequence (this sūtra included) with only a word-substitution (પક્ખી 'pakkhī' → ચઉમાસી 'cāumāsī' → સંવત્સરિ 'saṁvatsarī') and a longer kāyotsarga (12 → 20 → 40 Logassa + 1 Navkar). So when a verse says 'in this fortnight' (pakṣa), read 'in these four months' / 'in this year' in the longer observances. The per-verse commentaries rely on this and will not repeat it.",
-  "authorAndSource": "No individual author is named; like the other atichāra confessions this is a traditional, anonymous devotional composition transmitted within the gaccha. The text used here is the recension printed in the Anchalgachchha (Vidhipaksha Gaccha) Śvetāmbara Mūrtipūjaka edition of 'Panch Pratikraman Sutra — Vidhi Sahit' (પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત), which is the golden source for every reading. Note that, unlike the Prakrit/Ardhamāgadhī core sūtras, the body of this confession is in old (medieval) Gujarati prose, into which the canonical Prakrit atichāra-formulas (e.g. 'bandhe, vahe, chavicchede, aibhāre, bhattapāṇavucchee') are quoted and then glossed. Authorship and exact date are uncertain (see notes).",
-  "structureArc": "The confession is built as a fixed, repeating template applied vow by vow. It opens (in v.1) not with a vow but with the ROOT — samyaktva (right faith), called 'samyaktva-mūla', the foundation of all twelve vows: it names the four kinds of mithyātva (false belief — laukika/lokottara × deva-gata/guru-gata), lists samyaktva's own five atichāras (śaṅkā, kāṅkṣā, vitigicchā, para-pāṣaṇḍī-praśaṁsā, para-pāṣaṇḍī-saṁstava), and then a long catalogue of popular/non-Jain observances (worldly festivals, bathing at non-Jain tīrthas, pilgrimages, eclipses, the named loka-parvas) that a śrāvaka may have wrongly kept. Then, still within v.1, it turns to the FIRST aṇuvrata. The five verses provided map to: samyaktva-mūla + v.1 = 1st vow, Prāṇātipāta-viramaṇa (non-violence); v.2 = 2nd vow, (sthūla) Mṛṣāvāda-viramaṇa (truthfulness); v.3 = 3rd vow, (sthūla) Adattādāna-viramaṇa (non-stealing); v.4 = 4th vow, Śīla / Svadāra-santoṣa (chastity); v.5 = 5th vow, Parigraha-parimāṇa (limiting possessions). These five are the five aṇuvratas; the complete bṛhad atichāra continues beyond the supplied verses with the three guṇavratas and four śikṣāvratas (see notes).",
-  "recurringImagery": "There is little figurative imagery; the unifying device is a STRUCTURAL FORMULA, explained here once so the per-verse commentaries need not re-describe it. For each vow the text moves through four fixed stages: (1) NAME the vow and its scope, often with the practitioner's specific resolve (niyama) and the qualifier 'jayaṇā' (a guarding/care-exception for unavoidable acts); (2) the refrain 'e ... vrat-taṇā pāñca atiyār śodhuṁ' — 'I now examine the five transgressions of this vow'; (3) QUOTE the canonical Prakrit list of five atichāra-names, then GLOSS each in Gujarati with strikingly concrete domestic, agricultural and commercial examples (binding cattle, overloading pack-animals, false weights, adulterating ghee, etc.); (4) the SEALING refrain 'aneruṁ ... je kāṁi ... sūkṣma, bādara atiyār huo hoy, te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ' — 'whatever other subtle or gross transgression occurred, all of it, by mind, speech and body, may it be undone.' The triad mind–speech–body (mana–vacana–kāyā) and the pair subtle–gross (sūkṣma–bādara) recur at every seal.",
+  "title": "Bṛhad Atiyāra — The Extended Confession of the Transgressions of the Twelve Lay Vows",
+  "summary": "This is the long, detailed confession a Jain layperson (śrāvaka) recites to review and own up to every small slip against the vows of right living. Working vow by vow, it names dozens of concrete everyday faults — in trade, food, speech, household work, worship and devotion — and after each group the reciter says 'micchā mi dukkaḍaṁ' ('may that misdeed of mine come to nothing'). It is recited on the major periodic occasions (fortnightly, seasonal, and yearly), when the shorter daily confession is replaced by this fuller one so that nothing is overlooked.",
+  "ritualPlacement": "This is the fourth of the six Āvaśyakas (obligatory acts), Paḍikkamaṇa / Pratikramaṇa — reflection and atonement — in its EXTENDED (bṛhad) form. In the daily Devasi and Rāi pratikramaṇas this slot is filled by the SHORT confession (laghu-atiyar); on the periodic occasions it is replaced by this extended text. It is recited in the Pākṣika (fortnightly), Cāturmāsika (seasonal) and Sāṁvatsarika (annual) pratikramaṇas. IMPORTANT shared-text rule, stated here once: the Cāumāsī and Sāṁvatsarī pratikramaṇas have no independent text of their own — they reuse the Pākṣika order verbatim, simply substituting the word 'pakkhī' with 'cāumāsī' or 'saṁvatsarī' and lengthening the kāyotsarga (12 Logassa for Pākṣika, 20 for Cāumāsī, 40 Logassa + 1 Navkar for Sāṁvatsarī). So this same confession serves all three occasions.",
+  "authorAndSource": "Transmitted in the Anchalgachchha (Vidhipaksha Gaccha) Śvetāmbara Mūrtipūjaka recension as printed in the edition 'Panch Pratikraman Sutra – Vidhi Sahit', the golden source for this corpus. The composition is a medieval Gujarati śrāvaka-atichāra text, with its core technical lists (the five atichāras per vow, the fifteen karmādāna, the twenty-two abhakṣya, the thirty-two anantakāya, the five atichāras of saṁlekhanā) drawn from the canonical Āvaśyaka tradition; the Gujarati exposition itself is not attributed to a named author in the source book. No individual author is asserted here (see notes).",
+  "structureArc": "The text moves once through the whole moral framework of the householder, vow by vow, each block ending with the same 'micchā mi dukkaḍaṁ' refrain. Verse (1) is the long preamble: it first re-roots everything in samyaktva (right faith) — confessing four-fold mithyātva (false belief: lokika/lokottara × deva-gata/guru-gata) and the five atichāras of right faith (śaṅkā, kāṅkṣā, vitigicchā, para-pāṣaṇḍa-praśaṁsā, para-pāṣaṇḍa-saṁstava), then lists the popular festivals, pilgrimages and rites to be avoided — before turning to the FIRST vow, Prāṇātipāta-viramaṇa (non-violence), with its five atichāras. Verses (2)–(5) complete the five aṇuvratas: (2) Mṛṣāvāda (truth), (3) Adattādāna (non-stealing), (4) Śīla (chastity), (5) Parigraha-parimāṇa (limiting possessions). A header then announces the three guṇavratas: (6) Diśi-vrata; (7) Bhogopabhoga in its food aspect (bhojanataḥ), which embeds the twenty-two abhakṣya and thirty-two anantakāya lists before its five atichāras; (8) Bhogopabhoga in its action aspect (karmataḥ) with the fifteen karmādāna, followed by the eighth vow, Anartha-daṇḍa. A header then announces the four śikṣāvratas: (9) Sāmāyika, (10) Deśāvagāśika, (11) Pauṣadha, (12) Atithi-saṁvibhāga. Verse (13) closes the cycle: the five atichāras of apaścima-māraṇāntika-saṁlekhanā (the final fast), the summary tally of 'eighty-five atichāras', then a review of the panchācāra (jñāna, darśana, tapa, vīrya-ācāra), the Prakrit gāthā 'Paḍisiddhāṇaṁ karaṇe…', and the concluding 'Desāvagāsiyaṁ… vosirāmi' pratyākhyāna.",
+  "recurringImagery": "Rather than a single pictorial metaphor, this sutra is held together by a small set of recurring FORMULAE that repeat with each vow — understanding them once unlocks the whole text. (a) The purification formula 'e … vratataṇā pāñca atiyāra śodhuṁ' — 'I now scrutinise/cleanse the five atichāras of the Nth vow' — opens almost every block. (b) Each block lists the five canonical atichāra-names (often in Prakrit) and then expands each into vivid everyday examples. (c) The block closes with 'aneruṁ … e [Nth] vrata viṣe… te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ' — 'and whatever else I did against this vow, by mind, speech or body, may that misdeed of mine come to nothing.' (d) The pairing sūkṣma–bādara ('subtle and gross') and jāṇatāṁ–ajāṇatāṁ ('knowingly–unknowingly') recurs to make the confession exhaustive. (e) The qualifier 'jayaṇā' ('with sparing care') marks the gap the householder leaves himself where total abstention is impossible. These devices are intentional repetitions, not redundancy — each vow is examined with the same scrupulous procedure.",
   "keyThemes": [
-    "Examination of conscience across all twelve lay vows",
-    "Samyaktva (right faith) as the root that the vows grow from",
-    "Distinguishing laukika vs lokottara mithyātva (worldly vs misdirected-religious false belief)",
-    "The five aṇuvratas: non-violence, truth, non-stealing, chastity, limiting possessions",
-    "Confession sealed by mind, speech and body (mana–vacana–kāyā)",
-    "Subtle and gross transgressions (sūkṣma / bādara)",
-    "Jayaṇā — careful guarding as the lay alternative to total abstention",
-    "Repentance through 'micchā mi dukkaḍaṁ'"
+    "Vow-by-vow self-examination of the householder's life",
+    "The twelve lay vows: 5 aṇuvrata + 3 guṇavrata + 4 śikṣāvrata, framed by samyaktva and capped by saṁlekhanā",
+    "Right faith (samyaktva) as the root, and the four-fold mithyātva to be shunned",
+    "Detailed atichāra (partial transgression) versus anācāra (outright breach)",
+    "Exhaustiveness: subtle and gross, known and unknown, by mind, speech and body",
+    "Jayaṇā — sparing carefulness where total restraint is impractical",
+    "Confession and release through 'micchā mi dukkaḍaṁ'",
+    "Ethical economics: forbidden trades (karmādāna) and just dealing",
+    "Dietary discipline: abhakṣya and anantakāya restrictions",
+    "Equanimity at death through saṁlekhanā"
   ],
   "glossary": [
     {
       "term": "atichāra",
       "scriptForm": "અતિયાર",
-      "definition": "A transgression or partial breach of a vow — falling short without fully abandoning it; spelled 'atiyār' (અતિયાર) throughout this book."
+      "definition": "A partial transgression or infraction of a vow — a slip that strains the vow without fully breaking it; spelled 'atiyāra' (with ય) throughout this book."
     },
     {
-      "term": "śrāvaka",
-      "scriptForm": "શ્રાવક",
-      "definition": "A Jain lay follower (householder); feminine śrāvikā. The 'one confessing' here."
+      "term": "anācāra",
+      "scriptForm": "અનાચાર",
+      "definition": "An outright breach of a vow, more serious than an atichāra."
     },
     {
       "term": "aṇuvrata",
       "scriptForm": "અણુવ્રત",
-      "definition": "A 'lesser vow' — the five basic ethical vows kept by lay people in a limited (sthūla, 'gross/coarse') form, less severe than a monk's great vows."
+      "definition": "A 'lesser vow' — the householder's limited version of a monk's great vow; the first five of the twelve."
     },
     {
       "term": "guṇavrata",
       "scriptForm": "ગુણવ્રત",
-      "definition": "One of three 'merit/enhancing vows' that reinforce the aṇuvratas (continues beyond the verses supplied here)."
+      "definition": "A 'multiplying' or merit-enhancing vow that reinforces the aṇuvratas (vows 6–8: direction-limit, enjoyment-limit, avoidance of purposeless harm)."
     },
     {
       "term": "śikṣāvrata",
       "scriptForm": "શિક્ષાવ્રત",
-      "definition": "One of four 'disciplinary/instructional vows' of lay practice (the Deśāvagāśika is the 10th vow); also beyond the supplied verses."
+      "definition": "A 'disciplinary / training' vow cultivating spiritual practice (vows 9–12: equanimity, day-limit, monastic-like retreat, charitable sharing)."
     },
     {
-      "term": "samyaktva",
-      "scriptForm": "સમ્યક્ત્વ / સમકિત",
-      "definition": "Right faith or right insight — the foundation ('mūla') on which the twelve vows rest; it has its own five atichāras."
-    },
-    {
-      "term": "mithyātva",
-      "scriptForm": "મિથ્યાત્વ",
-      "definition": "False belief or wrong worldview; here classed four-fold as laukika/lokottara and deva-gata/guru-gata (worldly vs misdirected-religious, regarding deities vs teachers)."
-    },
-    {
-      "term": "jayaṇā",
-      "scriptForm": "જયણા",
-      "definition": "Vigilant care or guarding; the qualified exception allowing a householder to act with minimum harm where total avoidance is impossible."
-    },
-    {
-      "term": "prāṇātipāta",
-      "scriptForm": "પ્રાણાતિપાત",
-      "definition": "Killing or injuring living beings; the 1st vow is prāṇātipāta-viramaṇa, abstention from such harm."
-    },
-    {
-      "term": "mṛṣāvāda",
-      "scriptForm": "મૃષાવાદ",
-      "definition": "False or harmful speech; the 2nd vow is abstention from gross lying."
-    },
-    {
-      "term": "adattādāna",
-      "scriptForm": "અદત્તાદાન",
-      "definition": "Taking what is not given (theft); the 3rd vow is abstention from gross stealing."
-    },
-    {
-      "term": "svadāra-santoṣa",
-      "scriptForm": "સ્વદારાસંતોષ",
-      "definition": "Contentment with one's own spouse and avoidance of others' partners; the substance of the 4th vow (śīla / brahmacarya for laity)."
-    },
-    {
-      "term": "parigraha-parimāṇa",
-      "scriptForm": "પરિગ્રહ પરિમાણ",
-      "definition": "Setting and keeping a limit on one's possessions; the 5th vow, here listed under nine heads of property."
+      "term": "śrāvaka",
+      "scriptForm": "શ્રાવક",
+      "definition": "A Jain layman (śrāvikā: laywoman); the householder practitioner for whom this confession is written."
     },
     {
       "term": "micchā mi dukkaḍaṁ",
       "scriptForm": "મિચ્છા મિ દુક્કડં",
-      "definition": "'May my wrong-doing be in vain / undone' — the standard formula of repentance that seals each section of the confession."
+      "definition": "Prakrit refrain: 'may my misdeed be void / forgiven' — the formal release pronounced after each block of faults."
     },
     {
-      "term": "kāyotsarga",
-      "scriptForm": "કાઉસગ્ગ",
-      "definition": "Meditative 'abandonment of the body' in stillness, measured in Logassa-counts; the longer observances that use this sūtra prescribe progressively longer kāyotsargas (12 / 20 / 40 Logassa + 1 Navkar)."
+      "term": "samyaktva",
+      "scriptForm": "સમ્યક્ત્વ / સમકિત",
+      "definition": "Right faith / correct world-view; the root of the lay path, examined before the vows themselves."
+    },
+    {
+      "term": "mithyātva",
+      "scriptForm": "મિથ્યાત્વ",
+      "definition": "False belief or wrong faith; here classified four-fold (lokika and lokottara, each deva-gata and guru-gata)."
+    },
+    {
+      "term": "jayaṇā",
+      "scriptForm": "જયણા",
+      "definition": "Sparing carefulness / restraint exercised where complete avoidance of harm is not feasible (Sanskrit yatanā)."
+    },
+    {
+      "term": "karmādāna",
+      "scriptForm": "કર્માદાન",
+      "definition": "The fifteen highly injurious occupations a householder should avoid (e.g. trades in fire, forest-clearing, animals, poison)."
+    },
+    {
+      "term": "abhakṣya",
+      "scriptForm": "અભક્ષ્ય",
+      "definition": "Forbidden foods — the twenty-two items (and root-vegetables) a disciplined śrāvaka does not eat."
+    },
+    {
+      "term": "anantakāya",
+      "scriptForm": "અનંતકાય",
+      "definition": "'Infinite-bodied' beings — vegetables (the thirty-two listed) each holding innumerable souls, hence avoided."
+    },
+    {
+      "term": "saṁlekhanā",
+      "scriptForm": "સંલેષણા",
+      "definition": "The final, voluntary ascetic fast undertaken with equanimity at the approach of death (apaścima-māraṇāntika-saṁlekhanā), with its own five atichāras."
+    },
+    {
+      "term": "pratikramaṇa",
+      "scriptForm": "પ્રતિક્રમણ / પડિક્કમણ",
+      "definition": "'Turning back' — the rite of reflection, confession and renewal of which this confession is the fourth Āvaśyaka."
     }
   ],
-  "howToRead": "A newcomer can read this as a structured 'examination of conscience': each vow is named, its standard slips are listed, and then very ordinary situations are described so you can honestly ask 'did I do this?' — closing with 'micchā mi dukkaḍaṁ.' An advanced practitioner will attend to the precise Prakrit atichāra-formulas and their medieval-Gujarati glosses, to the four-fold analysis of mithyātva under samyaktva, and to how the substitution rule re-times every 'this fortnight' to the four-month or yearly review.",
+  "howToRead": "A newcomer can read this as a thorough moral checklist of lay Jain life — let the vivid examples teach what each vow protects, and treat each closing 'micchā mi dukkaḍaṁ' as a release of that group of faults. An advanced practitioner should track the fixed five-atichāra scheme per vow, the samyaktva-to-saṁlekhanā arc that totals eighty-five atichāras, and the embedded canonical lists (15 karmādāna, 22 abhakṣya, 32 anantakāya) recited verbatim within verses (1), (7) and (8).",
   "sources": [
     {
-      "title": "Panch Pratikraman Sutra — Vidhi Sahit (પંચ પ્રતિક્રમણ સૂત્ર – વિધિ સહિત), Anchalgachchha / Vidhipaksha Gaccha edition",
-      "url": "",
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://www.jainelibrary.org",
       "type": "translation",
-      "consultedFor": "The golden source for the verbatim text, its ritual placement as the Fourth Āvaśyaka, and the Cāumāsī/Sāṁvatsarī substitution rule."
+      "consultedFor": "Ritual placement, sūtra text, the shared-text substitution rule, and the orthography of the bṛhad-atiyar (golden source for this corpus)."
     },
     {
-      "title": "Jain eLibrary (jainelibrary.org)",
-      "url": "https://www.jainelibrary.org",
-      "type": "scholarship",
-      "consultedFor": "Cross-checking the general structure of the twelve lay vows (5 aṇuvrata + 3 guṇavrata + 4 śikṣāvrata) and the bṛhad/extended atichāra tradition in Gujarati pratikramaṇa literature."
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit glosses for technical terms (samyaktva, mithyātva, kāyotsarga, saṁlekhanā)."
+    },
+    {
+      "title": "H. D. T. Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit dictionary)",
+      "url": "https://archive.org",
+      "type": "dictionary",
+      "consultedFor": "Prakrit glosses for atichāra-names and the closing gāthā vocabulary."
     }
   ],
-  "notes": "Caveats: (1) Authorship is anonymous and the date uncertain — treated as a traditional gaccha composition, not attributed; do not infer a named author. (2) The five verses supplied cover samyaktva-mūla plus the five aṇuvratas only; the complete bṛhad atichāra continues with the three guṇavratas and four śikṣāvratas, which are not in the provided text — the per-verse commentaries should not claim those are absent from the sūtra as a whole. (3) The confession's body is in medieval Gujarati prose, with the canonical atichāra-names quoted in Prakrit and then glossed; doctrinal terms are given in IAST here for clarity, but the book's own spellings (notably 'atiyār' અતિયાર, not 'atichāra') are authoritative and preserved verbatim, including internal orthographic inconsistencies. (4) Spaced bars, periods before verse numbers, and footnote variant-readings (pāṭhāntare) in the book are part of the text and not errata."
+  "notes": "The source book is authoritative and its readings (including 'atiyāra' with ય and other internal spelling variants) are preserved verbatim and not normalised. The Gujarati atichāra exposition is not attributed to a named author in the source edition; only its embedded canonical lists derive from the wider Āvaśyaka tradition, so authorship is left unasserted rather than invented. The total of eighty-five atichāras (pancyāśī atiyāra) is stated within verse (13) of the text itself and corroborated by the standard count (5 samyaktva + 25 for the five aṇuvratas + 5 diśi + 5 bhogopabhoga-bhojana + 15 karmādāna + 5 anartha-daṇḍa + 5 sāmāyika + 5 deśāvagāśika + 5 pauṣadha + 5 atithi-saṁvibhāga + 5 saṁlekhanā). Web verification in this session was limited to the general structure of the twelve vows and the eighty-five-atichāra framework; deep-link URLs above point to the relevant repositories/lexica rather than to independently re-verified individual pages. Other gacchas and editions vary in wording and in some festival/food lists; this preface follows the Anchalgachchha (Vidhipaksha) recension only."
 }

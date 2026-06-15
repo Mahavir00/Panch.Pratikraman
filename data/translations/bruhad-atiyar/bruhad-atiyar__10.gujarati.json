@@ -1,0 +1,616 @@
+{
+  "shlokaId": "bruhad-atiyar/10",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "દશમું દેશાવગાશિક વ્રત એટલે છઠ્ઠા દિશિવ્રતમાં નક્કી કરેલી દિશાની છૂટને રોજેરોજ વધુ ટૂંકાવી, બીજાં બધાં વ્રતના નિયમ પણ સંકોચવા — અને એમાં લાગતા પાંચ દોષની અહીં માફી માગીએ છીએ.",
+  "recitation": "દશમું દેશાવગાશિકવ્રત. છઢે દિશિવ્રતે જે દિશિતણું પ્રમાણ કીધું હોય, તે પ્રતિદિવસે સંકોડીએ, અનેરા એ સર્વ વ્રતતણા નિયમ સંક્ષેપીએ તે દેશાવગાશિકવ્રત કહીએ. એ દશમા દેશાવગાસિક વ્રતતણા પાંચ અતિચાર શોધું. આણવણ ખ્પઓગે, પેસવણ ખ્પઓગે, સદ્દાણુવાઇ, રૂવાણુવાઇ, બહિયા પુગ્ગલ પક્ખેવે. દેશાવગાશિક કીધે નિયમી ભૂમિકા બાહેર હુંતી જણ પાહે વસ્તુ અણાવી હોય, અથવા કોઇ પાહે વસ્તુ મોકલાવી હોય. સાદ કરી, ખાંસી હુંકારો કરી, ગાઢે ગુણે રૂપ દેખાડી, કાંકરી નાખી આપણપું છતું જણાવ્યું હોય. અનેરું એ દશમા દેશાવગાશિક વ્રત વિષે.",
+  "wordByWord": [
+    {
+      "token": "૧૦.",
+      "translit": "10.",
+      "gloss": "દશમો ક્રમાંક — દશમું વ્રત",
+      "partOfSpeech": "particle",
+      "etymology": "ગુ. અંક 'દશ' પરથી",
+      "notes": "પાઠમાં વ્રત-ક્રમ દર્શાવતો સંખ્યાંક"
+    },
+    {
+      "token": "દશમું",
+      "translit": "daśamuṁ",
+      "gloss": "દશમું",
+      "partOfSpeech": "adj",
+      "etymology": "સં. daśama 'દશમો' પરથી ગુ. ક્રમવાચક"
+    },
+    {
+      "token": "દેશાવગાશિકવ્રત",
+      "translit": "deśāvagāśika-vrata",
+      "gloss": "દેશાવગાશિક વ્રત — (દિશા-ક્ષેત્રની છૂટને) અમુક 'દેશ' (પ્રદેશ) પૂરતી અવકાશ-મર્યાદામાં બાંધવાનું વ્રત",
+      "partOfSpeech": "compound",
+      "etymology": "સં. deśa 'પ્રદેશ' + avakāśa 'અવકાશ/છૂટ' + vrata; પ્રા. desāvagāsiya",
+      "notes": "દશમું શિક્ષાવ્રત (ચોથા શિક્ષાવ્રતમાંનું બીજું)"
+    },
+    {
+      "token": "છઢે",
+      "translit": "chaḍhe",
+      "gloss": "છઠ્ઠા (વ્રતમાં)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. ṣaṣṭha > પ્રા./જૂની ગુ. 'છઠ્ઠે/છઢે'",
+      "notes": "જોડણી verbatim — 'છઠ્ઠે'નું જૂનું રૂપ"
+    },
+    {
+      "token": "દિશિવ્રતે",
+      "translit": "diśi-vrate",
+      "gloss": "દિશિવ્રતમાં (છઠ્ઠા દિશા-પરિમાણ વ્રતમાં)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. diś 'દિશા' + vrata; સપ્તમી 'એ'"
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "જે",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. yad > ગુ. 'જે'"
+    },
+    {
+      "token": "દિશિતણું",
+      "translit": "diśi-taṇuṁ",
+      "gloss": "દિશાનું",
+      "partOfSpeech": "noun",
+      "etymology": "diśi + જૂની ગુ. સંબંધવાચક '-તણું' (=નું)"
+    },
+    {
+      "token": "પ્રમાણ",
+      "translit": "pramāṇa",
+      "gloss": "પ્રમાણ — મર્યાદા/માપ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pramāṇa 'માપ, મર્યાદા'"
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "કર્યું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. kṛta > પ્રા. kīa > ગુ. 'કીધું'"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (સંભાવના-સહાયક)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. bhū > ગુ. 'હો-'",
+      "notes": "'-કીધું હોય' = કદાચ કર્યું હોય"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "તેને",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. tad > ગુ. 'તે'"
+    },
+    {
+      "token": "પ્રતિદિવસે",
+      "translit": "prati-divase",
+      "gloss": "પ્રતિદિન — રોજેરોજ",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. prati 'દરેક' + divasa 'દિવસ'"
+    },
+    {
+      "token": "સંકોડીએ",
+      "translit": "saṅkoḍīe",
+      "gloss": "સંકોચીએ — ટૂંકાવીએ",
+      "partOfSpeech": "verb",
+      "etymology": "સં. saṅkucita > ગુ. 'સંકોડવું'",
+      "notes": "દિશિવ્રતની લાંબી છૂટ રોજ ઘટાડવી"
+    },
+    {
+      "token": "અનેરા",
+      "translit": "anerā",
+      "gloss": "બીજાં, અન્ય",
+      "partOfSpeech": "adj",
+      "etymology": "સં. anya > અપભ્રંશ aṇṇera > ગુ. 'અનેરું'"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "એ, આ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. eta > ગુ. 'એ'"
+    },
+    {
+      "token": "સર્વ",
+      "translit": "sarva",
+      "gloss": "સર્વ — બધાં",
+      "partOfSpeech": "adj",
+      "etymology": "સં. sarva 'સઘળું'"
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vrata-taṇā",
+      "gloss": "વ્રતના",
+      "partOfSpeech": "noun",
+      "etymology": "vrata + જૂની ગુ. '-તણા' (=ના)"
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "નિયમ — મર્યાદાઓ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. niyama 'નિયંત્રણ, વ્રત'"
+    },
+    {
+      "token": "સંક્ષેપીએ",
+      "translit": "saṅkṣepīe",
+      "gloss": "સંક્ષેપીએ — ટૂંકાવીએ/મર્યાદિત કરીએ",
+      "partOfSpeech": "verb",
+      "etymology": "સં. saṅkṣepa 'સંકોચ' પરથી"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "તે",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. tad > ગુ. 'તે'"
+    },
+    {
+      "token": "દેશાવગાશિકવ્રત",
+      "translit": "deśāvagāśika-vrata",
+      "gloss": "દેશાવગાશિક વ્રત",
+      "partOfSpeech": "compound",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત — વ્રતની વ્યાખ્યા પૂરી કરતો શબ્દ"
+    },
+    {
+      "token": "કહીએ",
+      "translit": "kahīe",
+      "gloss": "કહીએ",
+      "partOfSpeech": "verb",
+      "etymology": "સં. kath > ગુ. 'કહેવું'"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "એ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. eta > ગુ. 'એ'"
+    },
+    {
+      "token": "દશમા",
+      "translit": "daśamā",
+      "gloss": "દશમા",
+      "partOfSpeech": "adj",
+      "etymology": "સં. daśama"
+    },
+    {
+      "token": "દેશાવગાસિક",
+      "translit": "deśāvagāsika",
+      "gloss": "દેશાવગાશિક",
+      "partOfSpeech": "compound",
+      "etymology": "જુઓ ઉપર",
+      "notes": "અહીં 'શ'ને બદલે 'સ' — જોડણી-ભેદ verbatim રાખ્યો"
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vrata-taṇā",
+      "gloss": "વ્રતના",
+      "partOfSpeech": "noun",
+      "etymology": "vrata + '-તણા'"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "પાંચ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. pañca > ગુ. 'પાંચ'"
+    },
+    {
+      "token": "અતિચાર",
+      "translit": "aticāra",
+      "gloss": "અતિચાર — વ્રતમાં લાગતા દોષ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. aticāra 'ઉલ્લંઘન'",
+      "notes": "પાઠમાં લીટી-ભંગ 'અતિ-ચાર'; અહીં અન્યત્ર 'અતિયાર' જોડણી, પણ આ સ્થળે 'અતિચાર'"
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "શોધું — તપાસું/શુદ્ધ કરું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. śodh 'શુદ્ધ કરવું' > ગુ. 'શોધવું'",
+      "notes": "દોષ ખોળી કાઢી આલોચું"
+    },
+    {
+      "token": "આણવણ",
+      "translit": "āṇavaṇa",
+      "gloss": "આણવણ — (બહારથી વસ્તુ) મંગાવવી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. āṇavaṇa < સં. ānayana 'લાવવું'",
+      "notes": "પ્રથમ અતિચાર: આનયન-પ્રયોગ"
+    },
+    {
+      "token": "ખ્પઓગે",
+      "translit": "(p)payoge",
+      "gloss": "પ્રયોગે — પ્રયોજવાથી (કામે લગાડવાથી)",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. payoga/appaoga < સં. prayoga 'પ્રયોજન'",
+      "notes": "છપાઈ-દોષ: પ્રમાણભૂત રૂપ 'પ્પઓગે' (prayoge); verbatim 'ખ્પઓગે' રાખ્યું"
+    },
+    {
+      "token": "પેસવણ",
+      "translit": "pesavaṇa",
+      "gloss": "પેસવણ — (બીજાને) મોકલવો",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. pesavaṇa < સં. preṣaṇa/preṣya 'મોકલવું/સેવક'",
+      "notes": "બીજો અતિચાર: પ્રેષ્ય-પ્રયોગ"
+    },
+    {
+      "token": "ખ્પઓગે",
+      "translit": "(p)payoge",
+      "gloss": "પ્રયોગે — પ્રયોજવાથી",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત 'પ્પઓગે'"
+    },
+    {
+      "token": "સદ્દાણુવાઇ",
+      "translit": "saddāṇuvāi",
+      "gloss": "શબ્દાનુપાત — (મર્યાદા બહારના માણસને) અવાજ સંભળાવી સંકેત કરવો",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. sadda < સં. śabda 'અવાજ' + anupāta 'નાખવો/પહોંચાડવો'",
+      "notes": "ત્રીજો અતિચાર: શબ્દાનુપાત"
+    },
+    {
+      "token": "રૂવાણુવાઇ",
+      "translit": "rūvāṇuvāi",
+      "gloss": "રૂપાનુપાત — પોતાનું રૂપ/શરીર દેખાડી સંકેત કરવો",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. rūva < સં. rūpa 'રૂપ' + anupāta",
+      "notes": "ચોથો અતિચાર: રૂપાનુપાત"
+    },
+    {
+      "token": "બહિયા",
+      "translit": "bahiyā",
+      "gloss": "બહાર (મર્યાદાની બહાર)",
+      "partOfSpeech": "adverb",
+      "etymology": "પ્રા. bahiā < સં. bahis 'બહાર'"
+    },
+    {
+      "token": "પુગ્ગલ",
+      "translit": "puggala",
+      "gloss": "પુદ્ગલ — (કાંકરી આદિ) જડ પદાર્થ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. puggala < સં. pudgala 'દ્રવ્ય/જડ વસ્તુ'"
+    },
+    {
+      "token": "પક્ખેવે",
+      "translit": "pakkheve",
+      "gloss": "પ્રક્ષેપ — ફેંકવો",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. pakkheva < સં. prakṣepa 'ફેંકવું'",
+      "notes": "પાંચમો અતિચાર: બહિઃ-પુદ્ગલ-પ્રક્ષેપ"
+    },
+    {
+      "token": "દેશાવગાશિક",
+      "translit": "deśāvagāśika",
+      "gloss": "દેશાવગાશિક (વ્રત)",
+      "partOfSpeech": "compound",
+      "etymology": "જુઓ ઉપર"
+    },
+    {
+      "token": "કીધે",
+      "translit": "kīdhe",
+      "gloss": "કર્યે છતે — ધારણ કર્યા પછી",
+      "partOfSpeech": "verb",
+      "etymology": "kīdhuṁ પરથી સંબંધક ભૂતકૃદંત"
+    },
+    {
+      "token": "નિયમી",
+      "translit": "niyamī",
+      "gloss": "નિયમબદ્ધ — મર્યાદિત કરેલી",
+      "partOfSpeech": "adj",
+      "etymology": "સં. niyamita 'નિયંત્રિત'"
+    },
+    {
+      "token": "ભૂમિકા",
+      "translit": "bhūmikā",
+      "gloss": "ભૂમિ — ક્ષેત્ર/હદ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. bhūmi 'જમીન, ક્ષેત્ર'"
+    },
+    {
+      "token": "બાહેર",
+      "translit": "bāher",
+      "gloss": "બહાર",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. bahis > ગુ. 'બાહેર/બહાર'"
+    },
+    {
+      "token": "હુંતી",
+      "translit": "huṁtī",
+      "gloss": "(બહાર) રહેલા-થી, હોય ત્યાંથી",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'હોવું'નું જૂનું વર્તમાનકૃદંત 'હુંતું'"
+    },
+    {
+      "token": "જણ",
+      "translit": "jaṇa",
+      "gloss": "માણસ — વ્યક્તિ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. jana 'લોક' > પ્રા. jaṇa"
+    },
+    {
+      "token": "પાહે",
+      "translit": "pāhe",
+      "gloss": "પાસે — મારફતે/દ્વારા",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. pārśva 'પાસ' > જૂની ગુ. 'પાહે'"
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "વસ્તુ — પદાર્થ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vastu 'દ્રવ્ય'"
+    },
+    {
+      "token": "અણાવી",
+      "translit": "aṇāvī",
+      "gloss": "મંગાવી — મંગાવી લીધી",
+      "partOfSpeech": "verb",
+      "etymology": "સં. ānāyita > ગુ. 'અણાવવું'",
+      "notes": "આનયન-પ્રયોગનું ઉદાહરણ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'હો-'"
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "અથવા",
+      "partOfSpeech": "particle",
+      "etymology": "સં. athavā 'કે'"
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "કોઈ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. ko'pi > ગુ. 'કોઈ'"
+    },
+    {
+      "token": "પાહે",
+      "translit": "pāhe",
+      "gloss": "પાસે — મારફતે",
+      "partOfSpeech": "adverb",
+      "etymology": "જુઓ ઉપર"
+    },
+    {
+      "token": "વસ્તુ",
+      "translit": "vastu",
+      "gloss": "વસ્તુ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vastu"
+    },
+    {
+      "token": "મોકલાવી",
+      "translit": "mokalāvī",
+      "gloss": "મોકલાવી — મોકલી દીધી",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'મોકલવું'નું પ્રેરક",
+      "notes": "પ્રેષ્ય-પ્રયોગનું ઉદાહરણ"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'હો-'"
+    },
+    {
+      "token": "સાદ",
+      "translit": "sāda",
+      "gloss": "સાદ — હાક/અવાજ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. śabda > ગુ. 'સાદ'",
+      "notes": "શબ્દાનુપાતનું ઉદાહરણ"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "કરીને",
+      "partOfSpeech": "verb",
+      "etymology": "સં. kṛtvā > ગુ. 'કરી'"
+    },
+    {
+      "token": "ખાંસી",
+      "translit": "khāṁsī",
+      "gloss": "ખાંસી — ઉધરસ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāsa > ગુ. 'ખાંસી'",
+      "notes": "ઈરાદાપૂર્વકની ખાંસી પણ સંકેત-અવાજ"
+    },
+    {
+      "token": "હુંકારો",
+      "translit": "huṁkāro",
+      "gloss": "હુંકારો — 'હું' એવો ઘોષ-અવાજ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. huṁkāra 'હુંકાર'"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "કરીને",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર"
+    },
+    {
+      "token": "ગાઢે",
+      "translit": "gāḍhe",
+      "gloss": "ગાઢ — ઘેરા/સ્પષ્ટ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. gāḍha 'ઘટ્ટ, તીવ્ર'"
+    },
+    {
+      "token": "ગુણે",
+      "translit": "guṇe",
+      "gloss": "પ્રકારે — રીતે (ઈરાદાથી)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. guṇa 'પ્રકાર, રીત'",
+      "notes": "'ગાઢે ગુણે' = ઘેરી/ઈરાદાપૂર્વકની રીતે"
+    },
+    {
+      "token": "રૂપ",
+      "translit": "rūpa",
+      "gloss": "રૂપ — પોતાનું શરીર/આકૃતિ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. rūpa 'આકાર'",
+      "notes": "રૂપાનુપાતનું ઉદાહરણ"
+    },
+    {
+      "token": "દેખાડી",
+      "translit": "dekhāḍī",
+      "gloss": "દેખાડીને",
+      "partOfSpeech": "verb",
+      "etymology": "સં. *dṛśayati > ગુ. 'દેખાડવું'"
+    },
+    {
+      "token": "કાંકરી",
+      "translit": "kāṅkarī",
+      "gloss": "કાંકરી — નાનો પથ્થર",
+      "partOfSpeech": "noun",
+      "etymology": "સં. karkara 'કાંકરો' પરથી",
+      "notes": "બહિઃ-પુદ્ગલ-પ્રક્ષેપનું ઉદાહરણ"
+    },
+    {
+      "token": "નાખી",
+      "translit": "nākhī",
+      "gloss": "નાખીને — ફેંકીને",
+      "partOfSpeech": "verb",
+      "etymology": "પ્રા. nakkha > ગુ. 'નાખવું'"
+    },
+    {
+      "token": "આપણપું",
+      "translit": "āpaṇapuṁ",
+      "gloss": "આપણાપણું — પોતાની હાજરી/અસ્તિત્વ",
+      "partOfSpeech": "noun",
+      "etymology": "ગુ. 'આપણ' + ભાવવાચક '-પું'"
+    },
+    {
+      "token": "છતું",
+      "translit": "chatuṁ",
+      "gloss": "છતું — હયાત/વિદ્યમાન",
+      "partOfSpeech": "adj",
+      "etymology": "સં. sat 'હોવું' > ગુ. 'છતું'"
+    },
+    {
+      "token": "જણાવ્યું",
+      "translit": "jaṇāvyuṁ",
+      "gloss": "જણાવ્યું — જાહેર કર્યું",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'જાણવું'નું પ્રેરક 'જણાવવું'",
+      "notes": "પોતે અહીં છે એમ બહારના માણસને જણાવી દીધું"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. 'હો-'"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "બીજું કંઈ પણ",
+      "partOfSpeech": "pronoun",
+      "etymology": "અપભ્રંશ aṇṇera < સં. anya",
+      "notes": "ગણાવ્યા સિવાયના કોઈ પણ દોષનો સમાવેશ"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "એ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. eta"
+    },
+    {
+      "token": "દશમા",
+      "translit": "daśamā",
+      "gloss": "દશમા",
+      "partOfSpeech": "adj",
+      "etymology": "સં. daśama"
+    },
+    {
+      "token": "દેશાવગાશિક",
+      "translit": "deśāvagāśika",
+      "gloss": "દેશાવગાશિક",
+      "partOfSpeech": "compound",
+      "etymology": "જુઓ ઉપર"
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "વ્રત",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vrata 'નિયમ'"
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "વિષે — સંબંધી (જે દોષ લાગ્યા તે માટે મિચ્છા મિ દુક્કડં)",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. viṣaye 'બાબતમાં'",
+      "notes": "ટેક-વાક્ય; પ્રેફેસ મુજબ અહીં 'મિચ્છા મિ દુક્કડં' જોડાય"
+    }
+  ],
+  "literalTranslation": "દશમું દેશાવગાશિક વ્રત. છઠ્ઠા દિશિવ્રતમાં દિશાનું જે પ્રમાણ (મર્યાદા) કર્યું હોય, તેને રોજેરોજ સંકોચીએ, અને બીજાં એ સર્વ વ્રતના નિયમ પણ ટૂંકાવીએ — તેને દેશાવગાશિક વ્રત કહીએ. એ દશમા દેશાવગાશિક વ્રતના પાંચ અતિચાર શોધું: આનયન-પ્રયોગ, પ્રેષ્ય-પ્રયોગ, શબ્દાનુપાત, રૂપાનુપાત, બહિઃ-પુદ્ગલ-પ્રક્ષેપ. દેશાવગાશિક વ્રત ધારણ કર્યા પછી નિયમબદ્ધ ભૂમિ બહાર રહેલા માણસ મારફતે વસ્તુ મંગાવી હોય, અથવા કોઈ મારફતે વસ્તુ મોકલાવી હોય; સાદ કરી, ખાંસી કે હુંકારો કરી, ઘેરી રીતે પોતાનું રૂપ દેખાડી, કાંકરી નાખી — એમ પોતાની હાજરી જણાવી હોય. એ દશમા દેશાવગાશિક વ્રત વિષે બીજું પણ (જે દોષ લાગ્યો હોય તે).",
+  "idiomaticTranslation": "હવે દશમું, દેશાવગાશિક વ્રત. છઠ્ઠા દિશિવ્રતમાં દિશાઓની જે છૂટ આપણે રાખી હતી, તેને રોજેરોજ વધુ સાંકડી કરીએ, અને સાથે બાકીનાં બધાં વ્રતના નિયમ પણ આ ટૂંકા સમય-ક્ષેત્ર પૂરતા સંકેલી લઈએ — એને દેશાવગાશિક વ્રત કહે છે. આ વ્રતના પાંચ અતિચાર હું તપાસું છું: બહારથી વસ્તુ મંગાવવી, બીજાને બહાર મોકલવો, અવાજથી સંકેત કરવો, રૂપ દેખાડી સંકેત કરવો, અને હદ બહાર પથ્થર-કાંકરી ફેંકવી. વ્રત લીધા પછી જો મેં નક્કી કરેલી હદની બહારના કોઈ માણસ દ્વારા વસ્તુ મંગાવી હોય કે મોકલાવી હોય; કે પછી હાક મારી, ઈરાદાપૂર્વક ખાંસી-હુંકારો કરી, ઘેરી રીતે મારું શરીર દેખાડી કે કાંકરી ફેંકી — એમ 'હું અહીં છું' એવી મારી હાજરી હદ-બહારના માણસને જણાવી હોય, અને બીજો કોઈ પણ દોષ આ વ્રતમાં લાગ્યો હોય — તે સર્વ મન-વચન-કાયાથી મિચ્છા મિ દુક્કડં.",
+  "elaboration": {
+    "verseByVerseCommentary": "આગલા (નવમા) સામાયિક વ્રતે મન-વચન-કાયાની સમતા સાધી; હવે દશમું દેશાવગાશિક વ્રત એ સામાયિકને **સ્થળ-મર્યાદા** આપે છે. એનું હાર્દ બે ક્રિયાપદોમાં છે — 'સંકોડીએ' અને 'સંક્ષેપીએ': છઠ્ઠા દિશિવ્રતમાં જે વિશાળ દિશા-છૂટ આજીવન રાખી હતી, તેને જ રોજેરોજ થોડા કલાક કે થોડા ઓરડા પૂરતી ખેંચી લેવી, અને એ સંકોચાયેલા ક્ષેત્રમાં બાકીનાં બધાં વ્રતના નિયમ પણ વધુ કડક રીતે પાળવા. એટલે આ સ્વતંત્ર નવો નિયમ નહિ, પણ દિશિવ્રતનું **દૈનિક સંકોચન** છે. પાંચ અતિચારોની ખૂબી એ છે કે પગ હદની અંદર રહે છતાં દોષ લાગે — કેમ કે ઈરાદો હદ ઓળંગવાનો છે. પ્રથમ બે (આણવણ-પ્પઓગે, પેસવણ-પ્પઓગે) **બીજાને** કામે લગાડી હદ ઓળંગવાના છે: બહારથી વસ્તુ મંગાવવી કે કોઈને બહાર મોકલવો. પછીના ત્રણ **સંકેત**ના છે — 'સાદ, ખાંસી, હુંકારો' (શબ્દાનુપાત), 'ગાઢે ગુણે રૂપ દેખાડી' (રૂપાનુપાત) અને 'કાંકરી નાખી' (પુદ્ગલ-પ્રક્ષેપ) — એ ત્રણેયમાં સાધક પોતાનું 'આપણપું છતું' (હાજરી) હદ-બહારના માણસને જણાવી, શબ્દ-રૂપ-પુદ્ગલ વડે પરોક્ષ રીતે કામ કઢાવે છે. જૂની ગુજરાતીનાં આ ઘરગથ્થુ ઉદાહરણો — ખાંસી ખાવી, હુંકારો કરવો, કાંકરી ફેંકવી — સૂચવે છે કે વ્રત માત્ર શારીરિક હલનચલનનું નહિ, પણ **સંકલ્પ અને સંકેત**નું પણ સંયમ માગે છે.",
+    "doctrinalContext": "આ વ્રત 'કૃત-કારિત-અનુમોદિત' સિદ્ધાંતને મૂર્ત કરે છે: પોતે હદ ન ઓળંગે પણ 'કારિત' (બીજા દ્વારા કરાવવું) કે સંકેત દ્વારા પ્રેરવું — તે પણ વ્રત-ભંગ સમું છે. દિશા-ક્ષેત્ર સંકોચવાનો અંતિમ હેતુ આરંભ-સમારંભ અને પરિગ્રહ ઘટાડી અહિંસા-અપરિગ્રહ પુષ્ટ કરવાનો છે; ક્ષેત્ર જેટલું નાનું, તેટલી જીવ-હિંસા અને તૃષ્ણાની શક્યતા ઓછી. પાંચ અતિચાર બતાવે છે કે બાહ્ય મર્યાદા પાળતાં છતાં અંતરની તૃષ્ણા સક્રિય હોય તો વ્રતની 'નિર્મળતા' ખંડિત થાય — એ આંશિક દોષ (અતિચાર) છે, સંપૂર્ણ ભંગ (અનાચાર) નહિ.",
+    "practicalRelevance": "આજે આ વ્રતની કસોટી ટેલિફોન, સંદેશ-એપ અને ઘરઆંગણે વસ્તુ પહોંચાડતી ડિલિવરી-સેવાઓથી થાય છે: દેહ ઘરમાં હોય તોય ફોન-ઓર્ડર કે મેસેજથી 'આણવણ/પેસવણ-પ્પઓગે' સહજ બને. સંકેત-અતિચારોનો બોધ એ છે કે ઈશારો, હાક કે ધ્યાન ખેંચવાની યુક્તિ પણ સંયમ તોડે છે. સાધક રોજ સવારે પોતાનું ક્ષેત્ર-સમય નક્કી કરી, એ દરમિયાન બહારથી કશું મંગાવ્યા-મોકલાવ્યા વિના, સંકેત વિના, અંતર્મુખ રહે — એ આ વ્રતનો વ્યવહારુ સાર છે.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha Sūtra 7.31 — દેશાવકાશિક વ્રતના પાંચ અતિચાર (આનયનપ્રયોગ, પ્રેષ્યપ્રયોગ, શબ્દાનુપાત, રૂપાનુપાત, પુદ્ગલક્ષેપ)",
+        "source": "Umāsvāti, Tattvārtha-sūtra (Sarvārthasiddhi/Bhāṣya પરંપરા)"
+      },
+      {
+        "text": "Upāsakadaśāṅga-sūtra — શ્રાવકના વ્રત અને તેમના અતિચારની આગમ-આધારિત રચના",
+        "source": "Aṅga-sūtra (Devardhigaṇi redaction)"
+      },
+      {
+        "text": "Ratnakaraṇḍa-śrāvakācāra — દેશાવકાશિક (દિગ્વ્રતના સંકોચ રૂપે) અને તેના અતિચાર",
+        "source": "Samantabhadra"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvartha Sutra — vows of the householder and their transgressions (7.31)",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "દેશાવકાશિક વ્રતના પાંચ અતિચારની પ્રમાણભૂત યાદી અને તેમના સંસ્કૃત નામ"
+    },
+    {
+      "title": "JainQQ / Jain eLibrary — Shravak's twelve vows and their atichars",
+      "url": "https://www.jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "બાર વ્રત-રચનામાં દશમા દેશાવગાશિક વ્રતનું સ્થાન અને દિશિવ્રત-સંકોચનો અર્થ"
+    },
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
+      "type": "dictionary",
+      "consultedFor": "ānayana, preṣaṇa/preṣya, prayoga, śabda, rūpa, anupāta, pudgala, prakṣepa, avakāśa મૂળ-અર્થોની ચકાસણી"
+    },
+    {
+      "title": "Jainpedia / JAINA — Anuvrata, Gunavrata and Shikshavrata of the layperson",
+      "url": "https://www.jainpedia.org",
+      "type": "scholarship",
+      "consultedFor": "દેશાવગાશિકને દિગ્વ્રતના દૈનિક સંકોચ રૂપે અને શિક્ષાવ્રત-વર્ગીકરણની પુષ્ટિ"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "(૧) 'ખ્પઓગે' એ સ્પષ્ટ છપાઈ/OCR-દોષ છે; પ્રમાણભૂત પ્રાકૃત રૂપ 'પ્પઓગે' (prayoge) છે — અર્થ 'પ્રયોગ/પ્રયોજવું'. પાઠ-ફિડેલિટી નિયમ મુજબ token verbatim રાખ્યો છે પણ gloss/etymology સાચા રૂપ પ્રમાણે આપ્યો. (૨) 'દેશાવગાશિક' અને 'દેશાવગાસિક' (શ/સ) — બંને જોડણી પાઠમાં છે, verbatim સાચવી. (૩) આ સ્થળે 'અતિચાર' જોડણી છે, જ્યારે પુસ્તકમાં અન્યત્ર પ્રાયઃ 'અતિયાર' — બંને verbatim. (૪) 'ગાઢે ગુણે' = 'ઘેરી/સ્પષ્ટ રીતે, ઈરાદાપૂર્વક' — 'ગુણ' અહીં 'પ્રકાર/રીત' અર્થમાં; આ વાક્યાંશ માટે કોઈ વિવાદાસ્પદ પાઠાંતર જણાયું નથી. (૫) 'આપણપું છતું જણાવ્યું' = 'પોતાની હાજરી જાહેર કરી દીધી' — ત્રણેય સંકેત-અતિચારોનો સહિયારો ભાવ. (૬) 'મિચ્છા મિ દુક્કડં' ટેક પ્રેફેસમાં સમજાવેલ હોવાથી idiomaticTranslationમાં ભાવ-પૂર્તિ રૂપે જ ઉમેર્યું, મૂળ verse-tokenમાં નથી."
+}

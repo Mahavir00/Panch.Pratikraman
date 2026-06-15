@@ -1,6 +1,6 @@
 {
   "lang": "gujarati",
-  "generatedAt": "2026-06-12T03:06:28.163Z",
+  "generatedAt": "2026-06-15T02:19:12.236Z",
   "terms": [
     {
       "term": "abhagna",
@@ -8,6 +8,14 @@
       "definition": "અખંડ, ભંગ ન થયેલ — કાયોત્સર્ગ માટેનો સંકલ્પ.",
       "sutras": [
         "annattha"
+      ]
+    },
+    {
+      "term": "abhakṣya",
+      "scriptForm": "અભક્ષ્ય",
+      "definition": "ન ખાવાયોગ્ય પદાર્થ; પાઠમાં બાવીસ અભક્ષ્ય ગણાવ્યાં છે.",
+      "sutras": [
+        "bruhad-atiyar"
       ]
     },
     {
@@ -88,7 +96,7 @@
     {
       "term": "aḍhāī-dvīpa",
       "scriptForm": "અઢી દ્વીપ",
-      "definition": "મનુષ્યલોકના અઢી દ્વીપ — જ્યાં મનુષ્ય અને ધર્માચરણ સંભવે; અહીંના સમગ્ર સંઘને વંદના.",
+      "definition": "જૈન ભૂગોળ પ્રમાણે મનુષ્ય-વસવાટ ધરાવતા અઢી દ્વીપ — જંબૂદ્વીપ, ધાતકીખંડ અને અર્ધ પુષ્કરદ્વીપ.",
       "sutras": [
         "muni-vandana",
         "samayik-parvani"
@@ -146,19 +154,35 @@
       ]
     },
     {
-      "term": "ālocanā",
-      "scriptForm": "આલોચના",
-      "definition": "પોતાના દોષોને નિખાલસપણે યાદ કરી ગુરુ/આત્મા સમક્ષ કબૂલ કરવા તે.",
-      "sutras": [
-        "bruhad-atiyar"
-      ]
-    },
-    {
       "term": "amṛta",
       "scriptForm": "અમૃત",
       "definition": "અમરત્વ આપનાર સુધા; ‘અંગૂઠે અમૃત વસે’ — ગૌતમસ્વામીની અક્ષય-લબ્ધિનું રૂપક.",
       "sutras": [
         "rai-mangalacharan"
+      ]
+    },
+    {
+      "term": "anābhoga",
+      "scriptForm": "અણાભોગ",
+      "definition": "અજાણતાં/ઉપયોગ વિના થયેલી ભૂલ — જે અતિયાર ગણાય, અનાચાર નહિ.",
+      "sutras": [
+        "bruhad-atiyar"
+      ]
+    },
+    {
+      "term": "anācāra",
+      "scriptForm": "અનાચાર",
+      "definition": "વ્રતનો સંપૂર્ણ ભંગ — અતિચાર કરતાં વધુ ગંભીર ઉલ્લંઘન.",
+      "sutras": [
+        "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "anantakāya",
+      "scriptForm": "અનંતકાય",
+      "definition": "જેમાં અનંત જીવ એક શરીરમાં હોય તેવી (કંદમૂળ આદિ) વનસ્પતિ; પાઠમાં બત્રીસ ગણાવી છે.",
+      "sutras": [
+        "bruhad-atiyar"
       ]
     },
     {
@@ -196,7 +220,7 @@
     {
       "term": "aṇuvrata",
       "scriptForm": "અણુવ્રત",
-      "definition": "શ્રાવકનાં પાંચ મૂળભૂત (નાનાં) વ્રત: અહિંસા, સત્ય, અચૌર્ય, બ્રહ્મચર્ય, અપરિગ્રહ.",
+      "definition": "શ્રાવકનાં પ્રથમ પાંચ 'નાનાં' વ્રત (અહિંસા, સત્ય, અસ્તેય, શીલ, અપરિગ્રહ), જે મુનિના મહાવ્રતનું મર્યાદિત રૂપ છે.",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -289,6 +313,14 @@
       ]
     },
     {
+      "term": "aṣṭādaśa-sahasra-śīlāṅga",
+      "scriptForm": "અઢાર હજાર શીલાંગ",
+      "definition": "ચારિત્રના વિવિધ યોગ-કરણ-સંજ્ઞાદિના ગુણાકારથી ગણાતા સંયમના અઢાર હજાર અંગ (શીલાંગ રથ).",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "aṣṭāpada",
       "scriptForm": "અટ્ઠાવય / અષ્ટાપદ",
       "definition": "ઋષભદેવનું નિર્વાણ-તીર્થ; ભરત ચક્રવર્તીએ રચાવેલું ગિરિ-ચૈત્ય (શ્લોક ૪૧–૪૫).",
@@ -306,10 +338,18 @@
     },
     {
       "term": "atichāra",
-      "scriptForm": "અતિયાર / અતિચાર",
-      "definition": "વ્રતનો આંશિક ભંગ — પૂરો તોડ્યા વિના થયેલી ચૂક કે દોષ. (આ ગ્રંથમાં 'અતિચાર' નહિ, 'અતિયાર' એમ જ લખાય છે.)",
+      "scriptForm": "અતિયાર",
+      "definition": "વ્રતમાં લાગતો દોષ — સંપૂર્ણ ભંગ નહિ, પણ આંશિક ક્ષતિ/ઉલ્લંઘન. (આ પુસ્તકમાં 'અતિચાર' ને બદલે 'અતિયાર' જોડણી વપરાય છે.)",
       "sutras": [
         "bruhad-atiyar",
+        "laghu-atiyar"
+      ]
+    },
+    {
+      "term": "atikrama-vyatikrama",
+      "scriptForm": "અતિક્રમ–વ્યતિક્રમ",
+      "definition": "દોષ તરફના ક્રમિક પગથિયાં — અતિક્રમ (દોષનો વિચાર/સંમતિ) અને વ્યતિક્રમ (દોષ તરફનું પ્રયાણ), જે અતિચાર પહેલાંની ભૂમિકા છે.",
+      "sutras": [
         "laghu-atiyar"
       ]
     },
@@ -319,14 +359,6 @@
       "definition": "ભૂત, વર્તમાન અને ભવિષ્ય કાળ—જેની ત્રણ ચોવીશીઓ આ સ્તવનમાં વંદાય છે.",
       "sutras": [
         "kevalnani-chaityavandan"
-      ]
-    },
-    {
-      "term": "atithi-saṁvibhāga",
-      "scriptForm": "અતિથિ-સંવિભાગ",
-      "definition": "નિર્દોષ આહાર-પાણી આદિ સંયમી (સાધુ-સાધ્વી)ને ભક્તિ-આદરપૂર્વક વહોરાવવાનું બારમું વ્રત.",
-      "sutras": [
-        "laghu-atiyar"
       ]
     },
     {
@@ -348,10 +380,9 @@
     {
       "term": "āvaśyaka",
       "scriptForm": "આવશ્યક",
-      "definition": "દૈનિક છ અવશ્ય-કર્તવ્ય; આ સૂત્ર ચોથા (પડિક્કમણ) આવશ્યકનું મુખ્ય સૂત્ર છે.",
+      "definition": "પ્રતિદિન અવશ્ય કરવા યોગ્ય છ ક્રિયાઓ; એમાં ‘સામાઇય’ પ્રથમ આવશ્યક છે.",
       "sutras": [
-        "karemi-bhante",
-        "laghu-atiyar"
+        "karemi-bhante"
       ]
     },
     {
@@ -376,14 +407,6 @@
       "definition": "વ્રત રહિત — જેણે વ્રત/નિયમ ગ્રહણ કર્યાં નથી તે વ્યક્તિ.",
       "sutras": [
         "dravya-kshetra-kaal-bhav"
-      ]
-    },
-    {
-      "term": "bāra vrata",
-      "scriptForm": "બાર વ્રત",
-      "definition": "શ્રાવકનાં બાર વ્રત — ૫ અણુવ્રત + ૩ ગુણવ્રત + ૪ શિક્ષાવ્રત.",
-      "sutras": [
-        "bruhad-atiyar"
       ]
     },
     {
@@ -780,6 +803,14 @@
       ]
     },
     {
+      "term": "Duḥprasaha",
+      "scriptForm": "દુઃષ્પ્રસહ",
+      "definition": "પરંપરા પ્રમાણે આ અવસર્પિણીના પાંચમા આરાના અંતે થનારા છેલ્લા આચાર્ય.",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "dundubhi",
       "scriptForm": "દુંદુભિ",
       "definition": "આકાશમાં સ્વયં વાગતું દિવ્ય નગારું — તીર્થંકરનો અતિશય.",
@@ -846,9 +877,10 @@
     },
     {
       "term": "gacchādhipati",
-      "scriptForm": "ગચ્છાધિપતિ",
+      "scriptForm": "ગચ્છનાયક / ગચ્છાધિપતિ",
       "definition": "ગચ્છનો વર્તમાન અધિનાયક આચાર્ય.",
       "sutras": [
+        "muni-vandana",
         "pakkhi-khamana"
       ]
     },
@@ -952,6 +984,14 @@
       ]
     },
     {
+      "term": "gocchaka",
+      "scriptForm": "ગુચ્છો",
+      "definition": "પાત્ર આદિ સાફ કરવાનો ઊનનો નાનો ગુચ્છ; સાધુ-ઉપકરણ.",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "gotra",
       "scriptForm": "ગોત્ર",
       "definition": "વંશ/કુળનું નામ; આ સજ્ઝાયમાં ઘણા આચાર્યો એમના ગોત્ર (અગ્ગિવેસાણ, કાશ્યપ, કૌશિક આદિ) સહિત વંદાય છે.",
@@ -968,14 +1008,6 @@
       ]
     },
     {
-      "term": "guccha",
-      "scriptForm": "ગુચ્છ",
-      "definition": "પાત્ર ઢાંકવા/પૂંજવા માટેનું ઊનનું ગુચ્છ — મુનિ-ઉપકરણ.",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
       "term": "guṇa",
       "scriptForm": "ગુણ",
       "definition": "પ્રત્યેક પદની શાસ્ત્રપ્રસિદ્ધ વિશેષતા/અલંકાર-સંખ્યા (દા.ત. અરિહંતના ૧૨).",
@@ -986,7 +1018,7 @@
     {
       "term": "guṇavrata",
       "scriptForm": "ગુણવ્રત",
-      "definition": "અણુવ્રતને પુષ્ટ કરનારાં ત્રણ વ્રત (દિશિ, ભોગોપભોગ, અનર્થદંડ-વિરમણ).",
+      "definition": "અણુવ્રતને પુષ્ટ કરનારાં ત્રણ વ્રત — દિશિવ્રત, ભોગોપભોગ-પરિમાણ અને અનર્થદંડ-વિરમણ.",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -1284,7 +1316,7 @@
     {
       "term": "karmabhūmi",
       "scriptForm": "કર્મભૂમિ",
-      "definition": "પંદર કર્મભૂમિ — જ્યાં અસિ-મસિ-કૃષિ આદિ વ્યવહાર અને મોક્ષમાર્ગની સાધના સંભવે છે.",
+      "definition": "જ્યાં તપ-સંયમ દ્વારા કર્મક્ષય અને મોક્ષ-સાધના શક્ય છે એવી પંદર ભૂમિઓ.",
       "sutras": [
         "muni-vandana"
       ]
@@ -1292,8 +1324,9 @@
     {
       "term": "karmādāna",
       "scriptForm": "કર્માદાન",
-      "definition": "ભારે હિંસા-આરંભવાળા પંદર વ્યવસાય (ઇંગાલકમ્મ, વણકમ્મ આદિ), જે સાતમા ભોગોપભોગ વ્રતમાં ટાળવાના કહ્યા છે.",
+      "definition": "ભારે હિંસા-યુક્ત આજીવિકા/વ્યાપાર; સાતમા ભોગોપભોગવ્રતમાં ત્યાજ્ય ગણાવેલા પંદર પ્રકાર (અંગાર-, વન-, શકટ-કર્મ આદિ).",
       "sutras": [
+        "bruhad-atiyar",
         "laghu-atiyar"
       ]
     },
@@ -1637,11 +1670,9 @@
       "definition": "‘મારું દુષ્કૃત્ય મિથ્યા (ફોગટ) થાઓ’ — પ્રાચીન આલોચના-મુદ્રા જે દોષનો અસ્વીકાર કરી ક્ષમા માગે છે.",
       "sutras": [
         "adhar-papsthanak",
-        "bruhad-atiyar",
         "gamanagamano",
         "iriyavahiyam",
         "jivrashi",
-        "laghu-atiyar",
         "padilehana",
         "samayik-parvani"
       ]
@@ -1655,6 +1686,15 @@
       ]
     },
     {
+      "term": "micchāmi dukkaḍaṁ",
+      "scriptForm": "મિચ્છા મિ દુક્કડં",
+      "definition": "'મારું દુષ્કૃત મિથ્યા થાઓ' — થયેલા દોષ માટે ક્ષમાયાચનાનું પ્રાકૃત સૂત્ર-વાક્ય.",
+      "sutras": [
+        "bruhad-atiyar",
+        "laghu-atiyar"
+      ]
+    },
+    {
       "term": "mitāvagraha",
       "scriptForm": "મિઉગ્ગહ",
       "definition": "ગુરુની આસપાસનું મર્યાદિત ક્ષેત્ર (અવગ્રહ), જેમાં પ્રવેશ માટે અનુજ્ઞા માગવી પડે.",
@@ -1665,7 +1705,7 @@
     {
       "term": "mithyātva",
       "scriptForm": "મિથ્યાત્વ",
-      "definition": "વિપરીત શ્રદ્ધા; અહીં દેવગત/ગુરુગત અને લૌકિક/લોકોત્તર એમ ચતુર્વિધ રૂપે વર્ણવાય છે.",
+      "definition": "વિપરીત શ્રદ્ધા; અહીં લૌકિક/લોકોત્તર અને દેવગત/ગુરુગત — એમ ચતુર્વિધ ગણાવ્યું છે.",
       "sutras": [
         "bruhad-atiyar",
         "mannaha-jinanam-sajjhay"
@@ -1696,9 +1736,9 @@
       ]
     },
     {
-      "term": "muni-vandanā",
-      "scriptForm": "મુનિ વંદના",
-      "definition": "સાધુ-મુનિઓને કરાતું ભક્તિપૂર્ણ વંદન.",
+      "term": "muni",
+      "scriptForm": "મુનિ / સાધુ",
+      "definition": "જૈન શ્રમણ; પાંચ મહાવ્રત ધારણ કરનાર સંયમી સાધુ.",
       "sutras": [
         "muni-vandana"
       ]
@@ -1834,14 +1874,6 @@
       ]
     },
     {
-      "term": "paḍiggaha",
-      "scriptForm": "પડિગ્ગહ",
-      "definition": "પાત્ર — ભિક્ષા-ગ્રહણ માટેનું મુનિનું પાત્ર.",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
       "term": "paḍikkamāmi",
       "scriptForm": "પડિક્કમામિ",
       "definition": "પ્રતિક્રમણ કરું છું — દોષથી પાછો વળું છું; પાપપ્રવૃત્તિ તરફથી પુનઃ સન્માર્ગે પાછા ફરવું.",
@@ -1926,7 +1958,7 @@
     {
       "term": "pañca-mahāvrata",
       "scriptForm": "પંચ મહાવ્રત",
-      "definition": "સાધુનાં પાંચ મહાવ્રત — અહિંસા, સત્ય, અસ્તેય, બ્રહ્મચર્ય, અપરિગ્રહ.",
+      "definition": "સાધુનાં પાંચ મહાવ્રત — અહિંસા, સત્ય, અસ્તેય, બ્રહ્મચર્ય અને અપરિગ્રહ.",
       "sutras": [
         "muni-vandana",
         "nandisutrani-pratham-sajay"
@@ -1939,6 +1971,14 @@
       "sutras": [
         "navkar",
         "panch-parmeshthi-sajjhay"
+      ]
+    },
+    {
+      "term": "pañcācāra",
+      "scriptForm": "પંચાચાર",
+      "definition": "જ્ઞાનાચાર, દર્શનાચાર, ચારિત્રાચાર, તપાચાર અને વીર્યાચાર — પાંચ આચાર; પાઠના અંતે તેમના દોષ આલોચાય છે.",
+      "sutras": [
+        "bruhad-atiyar"
       ]
     },
     {
@@ -2031,14 +2071,6 @@
       ]
     },
     {
-      "term": "parigraha-parimāṇa",
-      "scriptForm": "પરિગ્રહ પરિમાણ",
-      "definition": "ધન-ધાન્યાદિ નવવિધ પરિગ્રહની મર્યાદા બાંધવાનું પાંચમું અણુવ્રત.",
-      "sutras": [
-        "bruhad-atiyar"
-      ]
-    },
-    {
       "term": "Pārśva-yakṣa",
       "scriptForm": "પાર્શ્વયક્ષ",
       "definition": "પાર્શ્વનાથ-શાસનનો અધિષ્ઠાયક યક્ષ, જે પ્રભુની સેવા કરે.",
@@ -2063,17 +2095,17 @@
       ]
     },
     {
-      "term": "pāṭānupāṭa",
-      "scriptForm": "પાટાનુપાટ",
-      "definition": "એક પાટ પછી બીજી પાટ — અખંડ ઉત્તરાધિકાર-ક્રમ.",
+      "term": "pātragraha",
+      "scriptForm": "પાત્ર / પડિગ્ગહ",
+      "definition": "ગોચરી (ભિક્ષા) ગ્રહણ કરવાનું પાત્ર; અપરિગ્રહ-મર્યાદિત સાધુ-ઉપકરણ.",
       "sutras": [
         "muni-vandana"
       ]
     },
     {
-      "term": "paṭṭa",
-      "scriptForm": "પાટ",
-      "definition": "આચાર્યનું ધર્મ-આસન; ગુરુપદનું ઉત્તરાધિકાર-સ્થાન.",
+      "term": "paṭṭānupaṭṭa",
+      "scriptForm": "પાટાનુપાટ",
+      "definition": "પાટ પછી પાટ — એક આચાર્ય પછી બીજા આચાર્યનો અતૂટ ક્રમ.",
       "sutras": [
         "muni-vandana"
       ]
@@ -2085,14 +2117,6 @@
       "sutras": [
         "muni-vandana",
         "nandisutrani-dvitiya-sajay"
-      ]
-    },
-    {
-      "term": "pauṣadha",
-      "scriptForm": "પૌષધ",
-      "definition": "અમુક સમય સાધુ-જેવું સંયમી જીવન જીવવાનું અગિયારમું વ્રત (આહાર, શરીરસત્કાર, બ્રહ્મચર્ય, અવ્યાપાર — ચાર ભેદે).",
-      "sutras": [
-        "laghu-atiyar"
       ]
     },
     {
@@ -2163,10 +2187,9 @@
     {
       "term": "prāṇātipāta",
       "scriptForm": "પ્રાણાતિપાત",
-      "definition": "જીવહિંસા; પ્રથમ અણુવ્રત તેના વિરમણ (ત્યાગ)નું છે.",
+      "definition": "કોઈ પણ જીવના પ્રાણનો ઘાત—હિંસા; પ્રથમ પાપસ્થાનક.",
       "sutras": [
-        "adhar-papsthanak",
-        "bruhad-atiyar"
+        "adhar-papsthanak"
       ]
     },
     {
@@ -2179,9 +2202,10 @@
     },
     {
       "term": "pratikramaṇa",
-      "scriptForm": "પડિક્કમણ / પ્રતિક્રમણ",
+      "scriptForm": "પ્રતિક્રમણ (પડિક્કમણ)",
       "definition": "‘પાછા ફરવું’ — થયેલા દોષથી નિવૃત્ત થઈ સ્વચ્છ આચારમાં પુનઃ સ્થિર થવાની ક્રિયા; સમગ્ર અનુષ્ઠાનનું નામ પણ આ જ.",
       "sutras": [
+        "bruhad-atiyar",
         "iriyavahiyam",
         "karemi-bhante",
         "laghu-atiyar",
@@ -2196,7 +2220,8 @@
       "sutras": [
         "deshavagasik-pachchakkhan",
         "deshavagasik-samayik-pachchakkhan",
-        "karemi-bhante"
+        "karemi-bhante",
+        "laghu-atiyar"
       ]
     },
     {
@@ -2267,8 +2292,8 @@
     },
     {
       "term": "rajoharaṇa",
-      "scriptForm": "રયહરણ",
-      "definition": "જીવરક્ષા માટે વપરાતી મુનિની ઊનની પૂંજણી (ઓઘો).",
+      "scriptForm": "રજોહરણ / ઓઘો",
+      "definition": "સાધુનું ઊન-મુખ્ય સાધન; જીવજંતુ દૂર કરી અહિંસા પાળવા વપરાય; સાધુત્વનું મુખ્ય ચિહ્ન.",
       "sutras": [
         "muni-vandana"
       ]
@@ -2373,19 +2398,12 @@
       ]
     },
     {
-      "term": "sajjhāy",
-      "scriptForm": "સજ્ઝાય",
-      "definition": "સ્વાધ્યાય — ધાર્મિક પાઠ-અધ્યયન; છ આવશ્યકથી ભિન્ન.",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
       "term": "sajjhāya",
       "scriptForm": "સજ્ઝાય (સ્વાધ્યાય)",
       "definition": "પવિત્ર પાઠનો સ્વાધ્યાય; પ્રતિક્રમણના અધ્યયન-વિભાગમાં ગવાતી ધાર્મિક રચના — છ આવશ્યકથી ભિન્ન.",
       "sutras": [
         "mannaha-jinanam-sajjhay",
+        "muni-vandana",
         "nandisutrani-dvitiya-sajay",
         "nandisutrani-pratham-sajay",
         "panch-parmeshthi-sajjhay"
@@ -2462,6 +2480,15 @@
       ]
     },
     {
+      "term": "saṁlekhanā",
+      "scriptForm": "સંલેષણા (સંલેખના)",
+      "definition": "જીવનના અંતે સમાધિપૂર્વક, રાગ-દ્વેષ છોડી દેહ-કષાય કૃશ કરવાની અંતિમ આરાધના; તેના પણ પાંચ અતિચાર ગણાવાય છે.",
+      "sutras": [
+        "bruhad-atiyar",
+        "laghu-atiyar"
+      ]
+    },
+    {
       "term": "sampadā",
       "scriptForm": "સંપદા",
       "definition": "દંડક-ગદ્યનો લયબદ્ધ પદ-સમૂહ; શ્વેતામ્બર પરંપરા પ્રાયઃ નવ સંપદા ગણે છે.",
@@ -2504,8 +2531,8 @@
     },
     {
       "term": "samyaktva",
-      "scriptForm": "સમ્યક્ત્વ / સમકિત",
-      "definition": "દેવ-ગુરુ-ધર્મ વિષેની સાચી શ્રદ્ધા; બાર વ્રતનો પાયો. તેના પાંચ અતિયાર: શંકા, કંખા, વિતિગિચ્છા, પરપાખંડી-પ્રશંસા, પરપાખંડી-સંથવ.",
+      "scriptForm": "સમ્યક્ત્વ (સમકિત)",
+      "definition": "સાચી શ્રદ્ધા — દેવ, ગુરુ અને ધર્મ વિષેની યથાર્થ આસ્થા; બાર વ્રતનું મૂળ.",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar",
@@ -2690,14 +2717,6 @@
       ]
     },
     {
-      "term": "śīlāṅga",
-      "scriptForm": "સીલંગ",
-      "definition": "શીલના અંગ; પરંપરા પ્રમાણે અઢાર હજાર શીલાંગ — સંયમ-આચારના વિસ્તૃત ભેદ.",
-      "sutras": [
-        "muni-vandana"
-      ]
-    },
-    {
       "term": "smaraṇa",
       "scriptForm": "સ્મરણ",
       "definition": "રક્ષણ માટે નિત્ય સ્મરવા યોગ્ય સ્તોત્ર; પાક્ષિક પ્રતિક્રમણમાં બોલાતી નવ સ્મરણની શ્રેણીમાંનું એક.",
@@ -2723,11 +2742,9 @@
     },
     {
       "term": "śrāvaka",
-      "scriptForm": "શ્રાવક",
+      "scriptForm": "શ્રાવક / સઢ્ઢ",
       "definition": "ઘરમાં રહીને બાર વ્રત આદિ ધર્મ પાળતો જૈન ગૃહસ્થ ઉપાસક.",
       "sutras": [
-        "bruhad-atiyar",
-        "laghu-atiyar",
         "mannaha-jinanam-sajjhay"
       ]
     },
@@ -2798,14 +2815,6 @@
       ]
     },
     {
-      "term": "sthūla",
-      "scriptForm": "સ્થૂલ",
-      "definition": "'મોટું/સ્થૂળ' — શ્રાવક જે કક્ષાએ વ્રત પાળે તે; સૂક્ષ્મ દોષની ત્યાં 'જયણા' રખાય.",
-      "sutras": [
-        "laghu-atiyar"
-      ]
-    },
-    {
       "term": "Sthūlabhadra",
       "scriptForm": "સ્થૂલભદ્ર",
       "definition": "પ્રસિદ્ધ પૂર્વાચાર્ય; શ્રુત-રક્ષક અને સંયમના આદર્શ; શ્લોક ૧ માં ‘આદિ’ રૂપે અન્ય આચાર્યોના પ્રતિનિધિ.",
@@ -2819,14 +2828,6 @@
       "definition": "દેવ-ગુરુની ગુણ-પ્રશંસારૂપ ભક્તિ-વચન; આ સૂત્રનો પ્રકાર.",
       "sutras": [
         "rai-mangalacharan"
-      ]
-    },
-    {
-      "term": "sūkṣma-bādara",
-      "scriptForm": "સૂક્ષ્મ-બાદર",
-      "definition": "નાના (સૂક્ષ્મ) અને મોટા/સ્થૂલ (બાદર) — એમ સર્વ પ્રકારના દોષ.",
-      "sutras": [
-        "bruhad-atiyar"
       ]
     },
     {
@@ -2867,14 +2868,6 @@
       "definition": "બાહ્ય-આભ્યંતર તપશ્ચર્યા, કર્મ-નિર્જરાનું સાધન.",
       "sutras": [
         "drumapushpika-sajjhay"
-      ]
-    },
-    {
-      "term": "tat-paṭṭe",
-      "scriptForm": "તપ્પટ્ટે",
-      "definition": "'તેમની પાટે' — પૂર્વાચાર્ય પછી તેમના આસને બેઠેલા ઉત્તરાધિકારીને દર્શાવતો પુનરાવર્તિત શબ્દ.",
-      "sutras": [
-        "muni-vandana"
       ]
     },
     {
@@ -2989,6 +2982,14 @@
       ]
     },
     {
+      "term": "trikāla-vandanā",
+      "scriptForm": "ત્રિકાળ વંદના",
+      "definition": "ત્રણે કાળ (સવાર-બપોર-સાંજ) અથવા ભૂત-વર્તમાન-ભવિષ્યમાં કરાતી નિરંતર વંદના.",
+      "sutras": [
+        "muni-vandana"
+      ]
+    },
+    {
       "term": "triloka",
       "scriptForm": "ત્રિલોક",
       "definition": "ત્રણ લોક—અધોલોક (નીચલો), ઊર્ધ્વલોક (દેવલોક) અને તિર્છાલોક (મધ્યલોક).",
@@ -3096,6 +3097,7 @@
       "scriptForm": "વંદના",
       "definition": "નમ્ર નમસ્કાર/વંદન; 'વંદે, વંદામિ, વંદિમો' એ આ સજ્ઝાયનું ધ્રુવ-લય-પદ.",
       "sutras": [
+        "muni-vandana",
         "nandisutrani-dvitiya-sajay"
       ]
     },
@@ -3153,14 +3155,6 @@
       "definition": "ભૂત, વેતાલ, રાક્ષસી, ડાકિની, શરભ, યોગિની આદિ ઉપદ્રવકારી અમાનુષી શક્તિઓ (ગાથા ૬).",
       "sutras": [
         "smaran-8-laghu-ajitshanti"
-      ]
-    },
-    {
-      "term": "Vidhipakṣa-gaccha",
-      "scriptForm": "વિધિપક્ષગચ્છ",
-      "definition": "અંચલગચ્છનું મૂળ નામ — શુદ્ધ વિધિ પર ભાર મૂકતો શ્વેતામ્બર મૂર્તિપૂજક ગચ્છ.",
-      "sutras": [
-        "muni-vandana"
       ]
     },
     {

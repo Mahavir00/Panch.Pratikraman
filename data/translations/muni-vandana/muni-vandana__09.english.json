@@ -1,0 +1,283 @@
+{
+  "shlokaId": "muni-vandana/09",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Bowing to the most recent teachers of this lineage and to the current heads of the order, the reciter promises to bow one hundred and eight times, three times a day, to Duḥṣpasaha — the teacher said to be the very last of this age.",
+  "recitation": "śrī kīrtisāgarasūri, śrī punyasāgarasūri, śrī rājendrasāgarasūri, śrī muktisāgarasūri, śrī ratnasāgarasūri, śrī vivekasāgarasūri, śrī jinendrasāgarasūri, śrī gautamasāgara sūri, śrī guṇāsāgarasūri, śrī guṇodayasāgara sūri vande, śrī vidhipakṣagacchanāyakaṁ vande, śrī acalagacchanāyakaṁ vande, evaṁ pāṭānupāṭe chellā śrī duḥṣpasaha nāmnā ācārya thaśe, temane mārī eksō ne āṭh vāra trikāla vandanā hojo.",
+  "wordByWord": [
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "the auspicious / venerable (honorific prefixed to each name)",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit śrī, 'splendour, holy auspiciousness'; an honorific.",
+      "notes": "Recurs before every name and before each gaccha-leader; a single mark of reverence, not part of the name."
+    },
+    {
+      "token": "કીર્તિસાગરસૂરિ",
+      "translit": "kīrtisāgarasūri",
+      "gloss": "Ācārya Kīrtisāgara ('ocean of fame')",
+      "partOfSpeech": "noun",
+      "etymology": "kīrti ('fame') + sāgara ('ocean') + the title -sūri; a Sāgara-suffixed Anchalgachchha ācārya."
+    },
+    {
+      "token": "પુન્યસાગરસૂરિ",
+      "translit": "punyasāgarasūri",
+      "gloss": "Ācārya Punyasāgara ('ocean of merit')",
+      "partOfSpeech": "noun",
+      "etymology": "puṇya ('merit') + sāgara + -sūri.",
+      "notes": "The book spells the first member પુન્ય (punya), preserved verbatim."
+    },
+    {
+      "token": "રાજેંદ્રસાગરસૂરિ",
+      "translit": "rājendrasāgarasūri",
+      "gloss": "Ācārya Rājendrasāgara ('ocean, lord of kings')",
+      "partOfSpeech": "noun",
+      "etymology": "rāja-indra ('king of kings') + sāgara + -sūri."
+    },
+    {
+      "token": "મુક્તિસાગરસૂરિ",
+      "translit": "muktisāgarasūri",
+      "gloss": "Ācārya Muktisāgara ('ocean of liberation')",
+      "partOfSpeech": "noun",
+      "etymology": "mukti ('liberation') + sāgara + -sūri."
+    },
+    {
+      "token": "રત્નસાગરસૂરિ",
+      "translit": "ratnasāgarasūri",
+      "gloss": "Ācārya Ratnasāgara ('ocean of jewels')",
+      "partOfSpeech": "noun",
+      "etymology": "ratna ('jewel') + sāgara + -sūri."
+    },
+    {
+      "token": "વિવેકસાગરસૂરિ",
+      "translit": "vivekasāgarasūri",
+      "gloss": "Ācārya Vivekasāgara ('ocean of discernment')",
+      "partOfSpeech": "noun",
+      "etymology": "viveka ('discernment') + sāgara + -sūri."
+    },
+    {
+      "token": "જિનેન્દ્રસાગરસૂરિ",
+      "translit": "jinendrasāgarasūri",
+      "gloss": "Ācārya Jinendrasāgara ('ocean, lord of the Jinas')",
+      "partOfSpeech": "noun",
+      "etymology": "jina-indra ('lord of conquerors') + sāgara + -sūri."
+    },
+    {
+      "token": "ગૌતમસાગર",
+      "translit": "gautamasāgara",
+      "gloss": "Gautamasāgara ('Gautama-ocean')",
+      "partOfSpeech": "noun",
+      "etymology": "gautama (after Mahāvīra's first gaṇadhara) + sāgara.",
+      "notes": "Here સૂરિ is written as a separate word; the name and its title are split in the book and preserved so."
+    },
+    {
+      "token": "સૂરિ",
+      "translit": "sūri",
+      "gloss": "ācārya / preceptor (title)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sūri, 'learned one, sage'; the monastic-head title.",
+      "notes": "Stands separately after Gautamasāgara and again after Guṇodayasāgara; elsewhere fused into the name."
+    },
+    {
+      "token": "ગુણાસાગરસૂરિ",
+      "translit": "guṇāsāgarasūri",
+      "gloss": "Ācārya Guṇasāgara ('ocean of virtues')",
+      "partOfSpeech": "noun",
+      "etymology": "guṇa ('virtue') + sāgara + -sūri; book vowel guṇā- preserved."
+    },
+    {
+      "token": "ગુણોદયસાગર",
+      "translit": "guṇodayasāgara",
+      "gloss": "Guṇodayasāgara ('ocean of the rising of virtue')",
+      "partOfSpeech": "noun",
+      "etymology": "guṇa + udaya ('arising') + sāgara; the most recent name in this block."
+    },
+    {
+      "token": "વંદે",
+      "translit": "vande",
+      "gloss": "I bow / I salute",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit √vand, 'to praise, salute'; first-person present vande.",
+      "notes": "Occurs three times — closing the named ācāryas, then saluting each gaccha-leader; the present tense marks living reverence."
+    },
+    {
+      "token": "વિધિપક્ષગચ્છનાયકં",
+      "translit": "vidhipakṣagacchanāyakaṁ",
+      "gloss": "the leader (nāyaka) of the Vidhipakṣa Gaccha",
+      "partOfSpeech": "noun",
+      "etymology": "Vidhipakṣa-gaccha + nāyaka ('leader'), accusative -aṁ as object of vande.",
+      "notes": "The reigning gacchādhipati, saluted by office rather than by personal name."
+    },
+    {
+      "token": "અચલગચ્છનાયકં",
+      "translit": "acalagacchanāyakaṁ",
+      "gloss": "the leader of the Achala Gaccha",
+      "partOfSpeech": "noun",
+      "etymology": "acala-gaccha (the same order, here by its other name) + nāyaka, accusative -aṁ.",
+      "notes": "Acala- and Vidhipakṣa- name one and the same order; the double salutation honours both designations."
+    },
+    {
+      "token": "એવં",
+      "translit": "evaṁ",
+      "gloss": "thus / in this way",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit evam, 'thus'; here pivots from the verse-list into the closing Gujarati prose."
+    },
+    {
+      "token": "પાટાનુપાટે",
+      "translit": "pāṭānupāṭe",
+      "gloss": "seat after seat (down the succession)",
+      "partOfSpeech": "adverb",
+      "etymology": "pāṭa + anu-pāṭa, locative; the chain of pontifical seats.",
+      "notes": "Glossary term; here it projects the lineage forward to its very end."
+    },
+    {
+      "token": "છેલ્લા",
+      "translit": "chellā",
+      "gloss": "the last / final",
+      "partOfSpeech": "adjective",
+      "etymology": "Gujarati chello ('last'), here qualifying the final ācārya of the age."
+    },
+    {
+      "token": "દુઃષ્પસહ",
+      "translit": "duḥṣpasaha",
+      "gloss": "Duḥṣpasaha (a personal name; 'hard to endure')",
+      "partOfSpeech": "noun",
+      "etymology": "duḥ ('hard') + sah ('endure'); the ācārya tradition names as the last of this avasarpiṇī.",
+      "notes": "Also spelt Duppasaha / Dushprasaha in other editions; book reading preserved."
+    },
+    {
+      "token": "નામના",
+      "translit": "nāmnā",
+      "gloss": "named / by the name of",
+      "partOfSpeech": "adjective",
+      "etymology": "Gujarati nāmnā ('of the name'), from nāma ('name')."
+    },
+    {
+      "token": "આચાર્ય",
+      "translit": "ācārya",
+      "gloss": "preceptor / head of the order",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ācārya, 'one who teaches by conduct.'"
+    },
+    {
+      "token": "થશે",
+      "translit": "thaśe",
+      "gloss": "will be / will come to be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati future of thavu ('to become'), 3rd person.",
+      "notes": "The future tense is striking: this ācārya has not yet arisen; he stands at the far end of time."
+    },
+    {
+      "token": "તેમને",
+      "translit": "temane",
+      "gloss": "to him / to them (honorific)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati te ('that') + dative-honorific -ne."
+    },
+    {
+      "token": "મારી",
+      "translit": "mārī",
+      "gloss": "my",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati possessive of huṁ ('I'), feminine-agreeing with vandanā."
+    },
+    {
+      "token": "એકસો",
+      "translit": "eksō",
+      "gloss": "one hundred",
+      "partOfSpeech": "adjective",
+      "etymology": "Gujarati ek ('one') + so ('hundred')."
+    },
+    {
+      "token": "ને",
+      "translit": "ne",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati conjunctive ne; joins 'hundred' and 'eight' into 108."
+    },
+    {
+      "token": "આઠ",
+      "translit": "āṭh",
+      "gloss": "eight",
+      "partOfSpeech": "adjective",
+      "etymology": "Gujarati āṭh ('eight'); with eksō yields the sacred 108."
+    },
+    {
+      "token": "વાર",
+      "translit": "vāra",
+      "gloss": "times (occurrences)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati/Sanskrit vāra ('turn, time')."
+    },
+    {
+      "token": "ત્રિકાલ",
+      "translit": "trikāla",
+      "gloss": "at the three times (morning, noon, evening)",
+      "partOfSpeech": "adjective",
+      "etymology": "tri ('three') + kāla ('time'); qualifies the vandanā as thrice-daily.",
+      "notes": "Combined with vandanā = trikāla-vandanā (glossary)."
+    },
+    {
+      "token": "વંદના",
+      "translit": "vandanā",
+      "gloss": "salutation / homage",
+      "partOfSpeech": "noun",
+      "etymology": "from √vand; the act of reverent bowing (glossary)."
+    },
+    {
+      "token": "હોજો",
+      "translit": "hojo",
+      "gloss": "may there be / let it be",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati optative/benedictive of thavu–hovu ('to be'); voices a standing wish.",
+      "notes": "Turns the closing into a vow rather than a report: 'may my 108-fold homage reach him.'"
+    }
+  ],
+  "literalTranslation": "Śrī Kīrtisāgarasūri, Śrī Punyasāgarasūri, Śrī Rājendrasāgarasūri, Śrī Muktisāgarasūri, Śrī Ratnasāgarasūri, Śrī Vivekasāgarasūri, Śrī Jinendrasāgarasūri, Śrī Gautamasāgarasūri, Śrī Guṇasāgarasūri, Śrī Guṇodayasāgarasūri — I bow; the leader of the Vidhipakṣa Gaccha — I bow; the leader of the Achala Gaccha — I bow. Thus, seat after seat, the last will be an ācārya named Śrī Duḥṣpasaha; to him may my one-hundred-and-eight-fold three-times-daily salutation be offered.",
+  "idiomaticTranslation": "I bow to Śrī Kīrtisāgarasūri, Punyasāgarasūri, Rājendrasāgarasūri, Muktisāgarasūri, Ratnasāgarasūri, Vivekasāgarasūri, Jinendrasāgarasūri, Gautamasāgarasūri, Guṇasāgarasūri, and Guṇodayasāgarasūri; I bow to the head of the Vidhipakṣa Gaccha, and I bow to the head of the Achala Gaccha. And so, seat after seat to the very end, there will arise a final teacher named Śrī Duḥṣpasaha — to him let my homage go out, one hundred and eight times over, morning, noon, and night.",
+  "elaboration": {
+    "verseByVerseCommentary": "Where the preceding gāthā closed the metrical Prakrit-Sanskrit chain at Udayasāgara and Guṇamaṇi, this final block changes register entirely: it drops into classical Gujarati prose and carries the Sāgara-suffixed seat down to the reciter's own day. Ten recent ācāryas are named in a single breath, and the present-tense vande then salutes not a dead name but two living offices — the Vidhipakṣa-gaccha-nāyaka and the Acala-gaccha-nāyaka — which are one and the same incumbent gacchādhipati honoured under the order's two names. The threefold vande is deliberate: the worshipper bows to the past masters, then twice to the present head, anchoring devotion in someone alive. Then comes the verse's boldest move. The locative pāṭānupāṭe is fired past every living teacher to the far horizon of time, and the verb shifts to the future — thaśe, 'will be.' Duḥṣpasaha has not yet arisen; he stands at the closing edge of this avasarpiṇī, the last ācārya the tradition foresees. The hojo at the very end is not a statement but a benediction-vow: 'may my homage reach him.' Thus the sūtra that began by gathering all monks across space ends by reaching across all remaining time, binding the reciter's 108 trikāla-vandanās to a teacher who will live ages hence — the lineage's reverence made complete from first seat to last.",
+    "doctrinalContext": "The verse rests on the Jain cosmology of descending time: the present avasarpiṇī is a half-cycle of waning dharma, and tradition names Duḥṣpasaha (Duppasaha) as its final ācārya, after whom organised teaching lapses until the next ascent. To bow to him is to affirm that the teaching-seat remains unbroken to its very terminus. The count 'one hundred and eight' is the standard Jain figure of completeness (the mālā of 108 beads, the 108 attributes of the Pañca-Parameṣṭhin); paired with trikāla it pledges saturating, lifelong reverence rather than a single bow. The benedictive hojo expresses puṇya-directed intention: homage offered as a standing wish, characteristic of guru-bhakti.",
+    "practicalRelevance": "Reciting this, the practitioner consciously links personal practice to a living head of the order (whose current name is supplied) and, beyond him, to the lineage's final teacher — a reminder that one's bows belong to a continuity far larger than oneself. Treating the 108 trikāla-vandanā as a sincere daily resolve, not a recited formality, is the verse's practical charge.",
+    "crossReferences": [
+      {
+        "text": "Titthogālī Painnaya — prophecy of Duḥṣpasaha (Duppasaha) as the last ācārya of the avasarpiṇī",
+        "source": "Śvetāmbara Prakīrṇaka tradition"
+      },
+      {
+        "text": "Anchalgachchha (Vidhipakṣa) printed paṭṭāvalī, Sāgara-suffixed ācāryas",
+        "source": "Pañca Pratikramaṇa Sūtra — Vidhi Sahit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Anchalgachchha — overview, lineage and history",
+      "url": "https://en.wikipedia.org/wiki/Anchalgachchha",
+      "type": "scholarship",
+      "consultedFor": "Vidhipakṣa = Achala Gaccha identity; the recent Sāgara-suffixed ācārya succession"
+    },
+    {
+      "title": "Acharya (Jainism)",
+      "url": "https://en.wikipedia.org/wiki/Acharya_(Jainism)",
+      "type": "scholarship",
+      "consultedFor": "Meaning of ācārya/sūri and the gacchādhipati office saluted as gaccha-nāyaka"
+    },
+    {
+      "title": "Avasarpini — Jain time cosmology",
+      "url": "https://en.wikipedia.org/wiki/Avasarpini",
+      "type": "scholarship",
+      "consultedFor": "The descending half-cycle in which Duḥṣpasaha is held to be the last ācārya"
+    },
+    {
+      "title": "Anchalgacchiya Lekh Sangraha — inscriptions of Anchalgachchha ācāryas",
+      "url": "https://jaingpt.org/knowledge/anchalgacchiya_lekh_sangraha_032059_032059",
+      "type": "scholarship",
+      "consultedFor": "Historical attestation of recent Anchalgachchha (Sāgara-line) ācāryas"
+    }
+  ],
+  "translatorConfidence": 0.85,
+  "notes": "The closing block is classical Gujarati prose, not metrical verse, so glosses for થશે/હોજો/તેમને etc. are Gujarati-grammatical. Proper names follow the book verbatim — note પુન્ય (puṇya), separately-written સૂરિ after Gautamasāgara and Guṇodayasāgara, and the vowel in ગુણાસાગર; spellings vary across editions. દુઃષ્પસહ is the book's reading (elsewhere Duppasaha/Dushprasaha). The Vidhipakṣa-gaccha-nāyaka and Acala-gaccha-nāyaka denote the same reigning gacchādhipati under the order's two names; the actual incumbent's name is inserted in recitation per the gaccha's current head and is not fixed in the text. The Duḥṣpasaha 'last ācārya' belief is standard Śvetāmbara tradition (Titthogālī Painnaya); no independent historical record exists, as expected for a prophesied future figure."
+}

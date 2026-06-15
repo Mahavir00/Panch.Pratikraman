@@ -1,0 +1,1346 @@
+{
+  "shlokaId": "bruhad-atiyar/11",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "This is the confession for the eleventh vow — the day-long monk-like retreat (pauṣadha) — listing its four kinds and the careless slips a layperson asks forgiveness for after keeping it.",
+  "recitation": "11. igyāramuṁ pauṣadhavrata, cihuṁ bhede jāṇavuṁ. caturvidha āhāra posahe — caturvidha āhāra-taṇo parihāra. sarīra-sakkāra posahe — sarvathā snānādika śarīra-śuśrūṣā-taṇo parihāra. baṁbhacera posahe — sarvathā audārika, vaikriya maithuna-taṇo parihāra. avvāvāra posahe — sarvathā sāvadya vyāpāra-taṇo parihāra. e igyāramā pauṣadhavrata-taṇā pāñca atiyāra śodhuṁ. appaḍilehiya duppaḍilehiya sijjā-saṁthāre, appamajjiya duppamajjiya sijjā-saṁthāre, appaḍilehiya duppaḍilehiya uccāra pāsavaṇa bhūmi, appamajjiya duppamajjiya uccāra pāsavaṇa bhūmi. posahovavāsassa sammaṁ aṇupālaṇāyā. poṣaha kīdhe śayyā, upāśraya, saṁthāro, saṁthārā-taṇī bhūmikā ane mala-mūtra-taṇāṁ thaṁḍila, thaṁḍila-taṇī bhūmikā, divasa chate paḍilehyāṁ, dṛṣṭe joyāṁ na hoya. ane vastrāñcale, daṇḍāsane karī paḍilehyāṁ pramājaryāṁ na hoya, athavā virūi-pare paḍilehyāṁ pramājaryāṁ hoya. posaha-taṇo upavāsa samyak sācavyo na hoya, caturvidha āhāramāṁ eke āhāra vāñchyo hoya. ane snānādika śarīra satkāra, abrahma-sevā, vāṇijyādika gṛha-vyāpāra vāñchyā hoya. pāchalāṁ smaryāṁ hoya, anāgata prārthyāṁ hoya, śarīra chāṁṭyāṁ hoya, āloṭā dīdhā hoya. posaha thake pāraṇānī maṁtraṇā kīdhī hoya. divase lāṁbe page saṁthāryuṁ hoya. śleṣmādi ughāḍo mūkyo hoya. upāśrayathī nīkaḷatāṁ āvassahī, pesatāṁ nissihī kahī na hoya. porisi bhaṇyā pākhe rātre saṁthāryuṁ hoya. ujjei saṁghaṭṭa huo hoya. aneruṁ e igyāramā pauṣadhavrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "૧૧.",
+      "translit": "11.",
+      "gloss": "verse number eleven",
+      "partOfSpeech": "particle",
+      "etymology": "Gujarati numeral",
+      "notes": "Marks the eleventh confession-block, the pauṣadha-vrata."
+    },
+    {
+      "token": "ઇગ્યારમું",
+      "translit": "igyāramuṁ",
+      "gloss": "the eleventh",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal of igyāra 'eleven' (< Skt. ekādaśa)",
+      "notes": ""
+    },
+    {
+      "token": "પૌષધવ્રત",
+      "translit": "pauṣadhavrata",
+      "gloss": "pauṣadha-vow (the day-long monk-like fast-retreat)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. pauṣadha 'spiritual-nourishing observance' + vrata 'vow'; pauṣadha < poṣa 'nourishment'",
+      "notes": "First of the four śikṣāvratas reviewed here as the eleventh of the twelve."
+    },
+    {
+      "token": "*",
+      "translit": "*",
+      "gloss": "footnote marker",
+      "partOfSpeech": "particle",
+      "etymology": "editorial sign",
+      "notes": "Book's reference asterisk; not recited."
+    },
+    {
+      "token": "ચિહું",
+      "translit": "cihuṁ",
+      "gloss": "in four (ways)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit/old-Guj. < Skt. catur 'four'",
+      "notes": ""
+    },
+    {
+      "token": "ભેદે",
+      "translit": "bhede",
+      "gloss": "by kinds / divisions",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bheda 'division', instrumental/locative",
+      "notes": ""
+    },
+    {
+      "token": "જાણવું",
+      "translit": "jāṇavuṁ",
+      "gloss": "is to be known",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. jāṇavuṁ < Skt. jñā 'to know'",
+      "notes": "Gerundive: 'should be understood as four-fold.'"
+    },
+    {
+      "token": "ચતુર્વિધ",
+      "translit": "caturvidha",
+      "gloss": "fourfold",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. catur 'four' + vidha 'kind'",
+      "notes": ""
+    },
+    {
+      "token": "આહાર",
+      "translit": "āhāra",
+      "gloss": "food",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ā-√hṛ 'to take in'",
+      "notes": "First sub-type: āhāra-pauṣadha."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha < Skt. pauṣadha, locative",
+      "notes": ""
+    },
+    {
+      "token": "ચતુર્વિધ",
+      "translit": "caturvidha",
+      "gloss": "fourfold",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": "The four kinds of food: aśana, pāna, khādima, svādima."
+    },
+    {
+      "token": "આહારતણો",
+      "translit": "āhāra-taṇo",
+      "gloss": "of food",
+      "partOfSpeech": "noun",
+      "etymology": "āhāra + Guj. genitive postposition -taṇo",
+      "notes": ""
+    },
+    {
+      "token": "પરિહાર",
+      "translit": "parihāra",
+      "gloss": "abandonment / giving up",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pari-√hṛ 'to leave aside'",
+      "notes": "Refrain term: each pauṣadha-type is a 'parihāra' (renunciation)."
+    },
+    {
+      "token": "સરીરસક્કાર",
+      "translit": "sarīra-sakkāra",
+      "gloss": "body-adornment / bodily care",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sarīra (< śarīra) + sakkāra (< satkāra 'honouring')",
+      "notes": "Second sub-type: śarīra-satkāra-pauṣadha."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સર્વથા",
+      "translit": "sarvathā",
+      "gloss": "entirely / in every way",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. sarva 'all' + -thā",
+      "notes": "Total renunciation, stronger than the partial daily restraint."
+    },
+    {
+      "token": "સ્નાનાદિક",
+      "translit": "snānādika",
+      "gloss": "bathing and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. snāna 'bath' + ādi 'etc.' + -ka",
+      "notes": ""
+    },
+    {
+      "token": "શરીરશુશ્રૂષાતણો",
+      "translit": "śarīra-śuśrūṣā-taṇo",
+      "gloss": "of bodily grooming / pampering",
+      "partOfSpeech": "compound",
+      "etymology": "śarīra + śuśrūṣā 'attendance, care' (√śru desiderative) + genitive -taṇo",
+      "notes": ""
+    },
+    {
+      "token": "પરિહાર",
+      "translit": "parihāra",
+      "gloss": "abandonment",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "બંભચેર",
+      "translit": "baṁbhacera",
+      "gloss": "celibacy / chastity",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit baṁbhacera < Skt. brahmacarya",
+      "notes": "Third sub-type: brahmacarya-pauṣadha."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સર્વથા",
+      "translit": "sarvathā",
+      "gloss": "entirely",
+      "partOfSpeech": "adverb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઔદારિક",
+      "translit": "audārika",
+      "gloss": "gross-bodied (intercourse with embodied humans/animals)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. audārika 'pertaining to the gross (udāra) body'",
+      "notes": "Jain body-type term: physical, earthly bodies."
+    },
+    {
+      "token": "વૈક્રિય",
+      "translit": "vaikriya",
+      "gloss": "transformation-bodied (intercourse with celestial/protean beings)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. vaikriya < vikriyā 'transformation'",
+      "notes": "The protean bodies of gods/hell-beings; renounced along with the gross."
+    },
+    {
+      "token": "મૈથુનતણો",
+      "translit": "maithuna-taṇo",
+      "gloss": "of sexual intercourse",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. maithuna 'coupling' (< mithuna 'pair') + genitive -taṇo",
+      "notes": ""
+    },
+    {
+      "token": "પરિહાર",
+      "translit": "parihāra",
+      "gloss": "abandonment",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અવ્વાવાર",
+      "translit": "avvāvāra",
+      "gloss": "non-activity / cessation of work",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit avvāvāra < Skt. avyāpāra 'absence of occupation'",
+      "notes": "Fourth sub-type: avyāpāra-pauṣadha."
+    },
+    {
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "in the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સર્વથા",
+      "translit": "sarvathā",
+      "gloss": "entirely",
+      "partOfSpeech": "adverb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સાવદ્ય",
+      "translit": "sāvadya",
+      "gloss": "sinful / harm-bearing",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. sa- 'with' + avadya 'blame, sin'",
+      "notes": "Standard Jain term for karmically harmful action."
+    },
+    {
+      "token": "વ્યાપારતણો",
+      "translit": "vyāpāra-taṇo",
+      "gloss": "of activity / business",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vyāpāra 'occupation' + genitive -taṇo",
+      "notes": ""
+    },
+    {
+      "token": "પરિહાર",
+      "translit": "parihāra",
+      "gloss": "abandonment",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": "Closes the fourfold definition."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. demonstrative",
+      "notes": ""
+    },
+    {
+      "token": "ઇગ્યારમા",
+      "translit": "igyāramā",
+      "gloss": "of the eleventh",
+      "partOfSpeech": "adj",
+      "etymology": "see above (oblique)",
+      "notes": ""
+    },
+    {
+      "token": "પૌષધવ્રતતણા",
+      "translit": "pauṣadhavrata-taṇā",
+      "gloss": "of the pauṣadha-vow",
+      "partOfSpeech": "compound",
+      "etymology": "pauṣadhavrata + genitive -taṇā",
+      "notes": ""
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "transgressions (atichāras)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aticāra; book's spelling with ય",
+      "notes": ""
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. śodhavuṁ < Skt. śodh 'to purify'",
+      "notes": "The recurring purification-formula opening each block."
+    },
+    {
+      "token": "અપ્પડિલેહિય",
+      "translit": "appaḍilehiya",
+      "gloss": "un-inspected (not visually examined)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- 'not' + paḍilehiya < Skt. pratilekhita 'inspected' (prati-√likh)",
+      "notes": "Pratilekhanā = the ritual visual checking for life-forms."
+    },
+    {
+      "token": "દુપ્પડિલેહિય",
+      "translit": "duppaḍilehiya",
+      "gloss": "ill-inspected (carelessly examined)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du- 'badly' + paḍilehiya < duṣpratilekhita",
+      "notes": ""
+    },
+    {
+      "token": "સિજ્જાસંથારે",
+      "translit": "sijjā-saṁthāre",
+      "gloss": "regarding the bed and straw-bedding",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sijjā < Skt. śayyā 'bed' + saṁthāra < saṁstāra 'spread bedding'",
+      "notes": "saṁstāra corresponds to Tattvārtha 7.30's saṁstaropakrama atichāra."
+    },
+    {
+      "token": "અપ્પમજ્જિય",
+      "translit": "appamajjiya",
+      "gloss": "un-swept (not dusted clean)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- + pamajjiya < Skt. pramārjita 'swept' (pra-√mṛj)",
+      "notes": "Pramārjanā = gentle sweeping with the soft broom to remove minute beings."
+    },
+    {
+      "token": "દુપ્પમજ્જિય",
+      "translit": "duppamajjiya",
+      "gloss": "ill-swept (carelessly dusted)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit du- + pamajjiya < duṣpramārjita",
+      "notes": ""
+    },
+    {
+      "token": "સિજ્જાસંથારે",
+      "translit": "sijjā-saṁthāre",
+      "gloss": "regarding the bed and bedding",
+      "partOfSpeech": "compound",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અપ્પડિલેહિય",
+      "translit": "appaḍilehiya",
+      "gloss": "un-inspected",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પડિલેહિય",
+      "translit": "duppaḍilehiya",
+      "gloss": "ill-inspected",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "excrement (defecation)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. uccāra 'voiding'",
+      "notes": ""
+    },
+    {
+      "token": "પાસવણ",
+      "translit": "pāsavaṇa",
+      "gloss": "urine (urination)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit pāsavaṇa < Skt. prasravaṇa 'flowing out'",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિ",
+      "translit": "bhūmi",
+      "gloss": "ground / spot",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhūmi 'earth'",
+      "notes": "The disposal-ground; corresponds to the utsarga atichāra of Tattvārtha 7.30."
+    },
+    {
+      "token": "અપ્પમજ્જિય",
+      "translit": "appamajjiya",
+      "gloss": "un-swept",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "દુપ્પમજ્જિય",
+      "translit": "duppamajjiya",
+      "gloss": "ill-swept",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "excrement",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પાસવણ",
+      "translit": "pāsavaṇa",
+      "gloss": "urine",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિ",
+      "translit": "bhūmi",
+      "gloss": "ground",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પોસહોવવાસસ્સ",
+      "translit": "posahovavāsassa",
+      "gloss": "of the pauṣadha-fast",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha + uvavāsa (< upavāsa) + genitive -ssa",
+      "notes": "Genitive Prakrit form embedded in the canonical formula."
+    },
+    {
+      "token": "સમ્મં",
+      "translit": "sammaṁ",
+      "gloss": "properly / rightly",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit sammaṁ < Skt. samyak",
+      "notes": ""
+    },
+    {
+      "token": "અણુપાલણાયા",
+      "translit": "aṇupālaṇāyā",
+      "gloss": "by (failure of) maintaining/observing",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit aṇupālaṇā < Skt. anupālanā 'guarding, keeping' (anu-√pāl)",
+      "notes": "Covers the anādara + smṛtyanupasthāna atichāras of Tattvārtha 7.30 — not keeping the fast carefully or attentively."
+    },
+    {
+      "token": "પોષહ",
+      "translit": "poṣaha",
+      "gloss": "(during) the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "see posahe",
+      "notes": "Begins the Gujarati gloss/expansion of the five faults."
+    },
+    {
+      "token": "કીધે",
+      "translit": "kīdhe",
+      "gloss": "having undertaken / when one has done",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. karavuṁ 'to do', absolutive",
+      "notes": ""
+    },
+    {
+      "token": "શય્યા",
+      "translit": "śayyā",
+      "gloss": "bed",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śayyā (√śī 'to lie')",
+      "notes": ""
+    },
+    {
+      "token": "ઉપાશ્રય",
+      "translit": "upāśraya",
+      "gloss": "the religious lodging / hall",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upa-ā-√śri 'to resort to'",
+      "notes": "Where the pauṣadha is kept."
+    },
+    {
+      "token": "સંથારો",
+      "translit": "saṁthāro",
+      "gloss": "straw-bedding",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit saṁthāra < Skt. saṁstāra",
+      "notes": ""
+    },
+    {
+      "token": "સંથારાતણી",
+      "translit": "saṁthārā-taṇī",
+      "gloss": "of the bedding",
+      "partOfSpeech": "noun",
+      "etymology": "saṁthāra + genitive -taṇī",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિકા",
+      "translit": "bhūmikā",
+      "gloss": "the spot / ground",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bhūmikā 'place'",
+      "notes": ""
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Guj. conjunction",
+      "notes": ""
+    },
+    {
+      "token": "મલમૂત્રતણાં",
+      "translit": "mala-mūtra-taṇāṁ",
+      "gloss": "of excrement and urine",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. mala 'filth' + mūtra 'urine' + genitive -taṇāṁ",
+      "notes": ""
+    },
+    {
+      "token": "થંડિલ",
+      "translit": "thaṁḍila",
+      "gloss": "the disposal-spot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit thaṁḍila < Skt. sthaṇḍila 'a cleared/bare patch of ground'",
+      "notes": "The lifeless ground designated for voiding."
+    },
+    {
+      "token": "થંડિલતણી",
+      "translit": "thaṁḍila-taṇī",
+      "gloss": "of the disposal-spot",
+      "partOfSpeech": "noun",
+      "etymology": "thaṁḍila + genitive -taṇī",
+      "notes": ""
+    },
+    {
+      "token": "ભૂમિકા",
+      "translit": "bhūmikā",
+      "gloss": "the ground",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "day(light)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. divasa",
+      "notes": ""
+    },
+    {
+      "token": "છતે",
+      "translit": "chate",
+      "gloss": "while present / available",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. chatuṁ 'existing' (< Skt. sat), locative absolute",
+      "notes": "'While daylight still existed' — i.e. no excuse of darkness."
+    },
+    {
+      "token": "પડિલેહ્યાં",
+      "translit": "paḍilehyāṁ",
+      "gloss": "inspected",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. < Prakrit paḍileha- < pratilekhana",
+      "notes": ""
+    },
+    {
+      "token": "દષ્ટે",
+      "translit": "dṛṣṭe",
+      "gloss": "with the eye / by sight",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. dṛṣṭi 'sight' (√dṛś), instrumental",
+      "notes": ""
+    },
+    {
+      "token": "જોયાં",
+      "translit": "joyāṁ",
+      "gloss": "looked at / examined",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. jovuṁ 'to see'",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. na",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "may have been / were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. hovuṁ 'to be', subjunctive",
+      "notes": "Confession idiom: 'if it were so / should it have happened.'"
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "વસ્ત્રાંચલે",
+      "translit": "vastrāñcale",
+      "gloss": "with the corner of the cloth",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vastra 'cloth' + añcala 'hem/corner', instrumental",
+      "notes": "Tool of pratilekhanā."
+    },
+    {
+      "token": "દંડાસણે",
+      "translit": "daṇḍāsane",
+      "gloss": "with the daṇḍāsana (the broom-staff)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. daṇḍa 'staff' + āsana; the soft-bristled cleaning broom",
+      "notes": "Used for pramārjanā (sweeping away minute life)."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "by means of / having used",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. karavuṁ, absolutive",
+      "notes": ""
+    },
+    {
+      "token": "પડિલેહ્યાં",
+      "translit": "paḍilehyāṁ",
+      "gloss": "inspected",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પ્રમાજર્યાં",
+      "translit": "pramājaryāṁ",
+      "gloss": "swept clean",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. < Skt. pramārjana (pra-√mṛj)",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "or",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. athavā",
+      "notes": ""
+    },
+    {
+      "token": "વિરૂઇપરે",
+      "translit": "virūi-pare",
+      "gloss": "in a faulty / improper manner",
+      "partOfSpeech": "adverb",
+      "etymology": "Guj. virūiṁ 'wrongly' (< Skt. virūpa 'mis-shaped') + pare 'in the way'",
+      "notes": "I.e. inspected/swept but badly."
+    },
+    {
+      "token": "પડિલેહ્યાં",
+      "translit": "paḍilehyāṁ",
+      "gloss": "inspected",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પ્રમાજર્યાં",
+      "translit": "pramājaryāṁ",
+      "gloss": "swept",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પોસહતણો",
+      "translit": "posaha-taṇo",
+      "gloss": "of the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "posaha + genitive -taṇo",
+      "notes": ""
+    },
+    {
+      "token": "ઉપવાસ",
+      "translit": "upavāsa",
+      "gloss": "fast",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. upa-√vas 'to dwell near (the vow)'",
+      "notes": ""
+    },
+    {
+      "token": "સમ્યક્",
+      "translit": "samyak",
+      "gloss": "properly",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. samyak",
+      "notes": ""
+    },
+    {
+      "token": "સાચવ્યો",
+      "translit": "sācavyo",
+      "gloss": "kept / safeguarded",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. sācavavuṁ 'to keep'",
+      "notes": "The fifth atichāra: not maintaining the fast properly."
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ચતુર્વિધ",
+      "translit": "caturvidha",
+      "gloss": "fourfold",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "આહારમાં",
+      "translit": "āhāramāṁ",
+      "gloss": "among the (kinds of) food",
+      "partOfSpeech": "noun",
+      "etymology": "āhāra + locative -māṁ",
+      "notes": ""
+    },
+    {
+      "token": "એકે",
+      "translit": "eke",
+      "gloss": "even any one",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. eka 'one' + emphatic -e",
+      "notes": ""
+    },
+    {
+      "token": "આહાર",
+      "translit": "āhāra",
+      "gloss": "food",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "વાંછ્યો",
+      "translit": "vāñchyo",
+      "gloss": "craved / desired",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. vāñchavuṁ < Skt. √vāñch 'to wish'",
+      "notes": "Mental breach: even longing for food during the fast is a fault."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "સ્નાનાદિક",
+      "translit": "snānādika",
+      "gloss": "bathing and the like",
+      "partOfSpeech": "compound",
+      "etymology": "see above",
+      "notes": "Craving the renounced śarīra-satkāra."
+    },
+    {
+      "token": "શરીર",
+      "translit": "śarīra",
+      "gloss": "body",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śarīra",
+      "notes": ""
+    },
+    {
+      "token": "સત્કાર",
+      "translit": "satkāra",
+      "gloss": "adornment / pampering",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sat-kāra 'honouring'",
+      "notes": ""
+    },
+    {
+      "token": "અબ્રહ્મસેવા",
+      "translit": "abrahma-sevā",
+      "gloss": "indulgence in unchastity",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. a- 'non' + brahma(carya) + sevā 'service/indulgence'",
+      "notes": "Craving the renounced brahmacarya."
+    },
+    {
+      "token": "વાણિજ્યાદિક",
+      "translit": "vāṇijyādika",
+      "gloss": "trade and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vāṇijya 'commerce' + ādi + -ka",
+      "notes": ""
+    },
+    {
+      "token": "ગૃહવ્યાપાર",
+      "translit": "gṛha-vyāpāra",
+      "gloss": "household business",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. gṛha 'home' + vyāpāra 'occupation'",
+      "notes": "Craving the renounced avyāpāra."
+    },
+    {
+      "token": "વાંછ્યા",
+      "translit": "vāñchyā",
+      "gloss": "craved",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પાછલાં",
+      "translit": "pāchalāṁ",
+      "gloss": "past (matters)",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. pāchaluṁ 'former, behind'",
+      "notes": ""
+    },
+    {
+      "token": "સ્મર્યાં",
+      "translit": "smaryāṁ",
+      "gloss": "(were) recalled / dwelt on",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √smṛ 'to remember'",
+      "notes": "Brooding on past enjoyments breaks the retreat's focus."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અનાગત",
+      "translit": "anāgata",
+      "gloss": "future / things not yet come",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. an-āgata 'not arrived'",
+      "notes": ""
+    },
+    {
+      "token": "પ્રાર્થ્યાં",
+      "translit": "prārthyāṁ",
+      "gloss": "(were) longed for / wished",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. pra-√arth 'to desire'",
+      "notes": "Hankering after future pleasures."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "શરીર",
+      "translit": "śarīra",
+      "gloss": "body",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "છાંટ્યાં",
+      "translit": "chāṁṭyāṁ",
+      "gloss": "(were) sprinkled (with water)",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. chāṁṭavuṁ 'to sprinkle'",
+      "notes": "Wetting the body — a covert form of the renounced bathing, harming water-bodied beings."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "આલોટા",
+      "translit": "āloṭā",
+      "gloss": "rollings (rolling the body about)",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. āloṭavuṁ 'to roll on the ground'",
+      "notes": "Tossing/rolling for bodily ease."
+    },
+    {
+      "token": "દીધા",
+      "translit": "dīdhā",
+      "gloss": "(were) given / done",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. devuṁ 'to give'",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પોસહ",
+      "translit": "posaha",
+      "gloss": "(during) the pauṣadha",
+      "partOfSpeech": "noun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "થકે",
+      "translit": "thake",
+      "gloss": "while still in (it)",
+      "partOfSpeech": "particle",
+      "etymology": "Guj. postposition thakī/thake 'while being'",
+      "notes": ""
+    },
+    {
+      "token": "પારણાની",
+      "translit": "pāraṇānī",
+      "gloss": "of the fast-breaking meal",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pāraṇā 'completion of a fast' + genitive -nī",
+      "notes": ""
+    },
+    {
+      "token": "મંત્રણા",
+      "translit": "maṁtraṇā",
+      "gloss": "planning / discussion",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mantraṇā 'consultation' (√mantr)",
+      "notes": "Plotting what to eat afterward — a mental lapse during the fast."
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "(was) made / done",
+      "partOfSpeech": "verb",
+      "etymology": "see kīdhe",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "દિવસે",
+      "translit": "divase",
+      "gloss": "in the daytime",
+      "partOfSpeech": "noun",
+      "etymology": "divasa + locative -e",
+      "notes": ""
+    },
+    {
+      "token": "લાંબે",
+      "translit": "lāṁbe",
+      "gloss": "with stretched-out / long",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. lāmbuṁ 'long', instrumental",
+      "notes": ""
+    },
+    {
+      "token": "પગે",
+      "translit": "page",
+      "gloss": "with the legs",
+      "partOfSpeech": "noun",
+      "etymology": "Guj. paga 'foot/leg', instrumental",
+      "notes": "Lounging stretched-out by day, an unascetic posture."
+    },
+    {
+      "token": "સંથાર્યું",
+      "translit": "saṁthāryuṁ",
+      "gloss": "lay down / spread oneself out",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. denominative of saṁthāra",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "શ્લેષ્માદિ",
+      "translit": "śleṣmādi",
+      "gloss": "phlegm and the like (bodily discharges)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. śleṣma 'phlegm' + ādi 'etc.'",
+      "notes": ""
+    },
+    {
+      "token": "ઉઘાડો",
+      "translit": "ughāḍo",
+      "gloss": "open / uncovered",
+      "partOfSpeech": "adj",
+      "etymology": "Guj. ughāḍuṁ 'open'",
+      "notes": ""
+    },
+    {
+      "token": "મૂક્યો",
+      "translit": "mūkyo",
+      "gloss": "(was) left / placed",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. mūkavuṁ 'to put'",
+      "notes": "Discharges left exposed (un-covered with ash/earth) breed and harm beings."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઉપાશ્રયથી",
+      "translit": "upāśrayathī",
+      "gloss": "from the lodging",
+      "partOfSpeech": "noun",
+      "etymology": "upāśraya + ablative -thī",
+      "notes": ""
+    },
+    {
+      "token": "નીકળતાં",
+      "translit": "nīkaḷatāṁ",
+      "gloss": "while going out",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. nīkaḷavuṁ 'to exit', present participle",
+      "notes": ""
+    },
+    {
+      "token": "આવસ્સહી",
+      "translit": "āvassahī",
+      "gloss": "the 'āvassahī' (leave-taking formula)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit āvassahī < āvaśyikī 'the necessary (departure)'",
+      "notes": "Said on leaving a sacred space to mark the necessity of the exit."
+    },
+    {
+      "token": "પેસતાં",
+      "translit": "pesatāṁ",
+      "gloss": "while entering",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. pesavuṁ 'to enter'",
+      "notes": ""
+    },
+    {
+      "token": "નિસ્સિહી",
+      "translit": "nissihī",
+      "gloss": "the 'nissihī' (entry formula)",
+      "partOfSpeech": "invocation",
+      "etymology": "Prakrit nissihī < naiṣedhikī 'the prohibitive (setting aside of worldly acts)'",
+      "notes": "Said on entering, renouncing outside concerns."
+    },
+    {
+      "token": "કહી",
+      "translit": "kahī",
+      "gloss": "said / uttered",
+      "partOfSpeech": "verb",
+      "etymology": "Guj. kahevuṁ 'to say'",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": "Failure to say āvassahī/nissihī at the threshold."
+    },
+    {
+      "token": "પોરિસિ",
+      "translit": "porisi",
+      "gloss": "the porisi (night watch-prayer / time-recitation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit porisi < Skt. pauruṣī 'a watch of the night/day'",
+      "notes": "The recitation done before lying down at the proper watch."
+    },
+    {
+      "token": "ભણ્યા",
+      "translit": "bhaṇyā",
+      "gloss": "having recited",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. √bhaṇ 'to recite'",
+      "notes": ""
+    },
+    {
+      "token": "પાખે",
+      "translit": "pākhe",
+      "gloss": "without / lacking",
+      "partOfSpeech": "particle",
+      "etymology": "Guj. pākhe 'without'",
+      "notes": ""
+    },
+    {
+      "token": "રાત્રે",
+      "translit": "rātre",
+      "gloss": "at night",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. rātri 'night', locative",
+      "notes": ""
+    },
+    {
+      "token": "સંથાર્યું",
+      "translit": "saṁthāryuṁ",
+      "gloss": "lay down (to sleep)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": "Lying down at night without first reciting the porisi."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઉજ્જેઇ",
+      "translit": "ujjei",
+      "gloss": "by lamplight / inadvertently",
+      "partOfSpeech": "adverb",
+      "etymology": "uncertain; prob. Prakrit, related to Skt. ujjval 'to blaze, light' (lamp-light) — or 'unawares'",
+      "notes": "Reading uncertain; rendered tentatively. See notes."
+    },
+    {
+      "token": "સંઘટ્ટ",
+      "translit": "saṁghaṭṭa",
+      "gloss": "(bodily) contact / touch",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. saṁghaṭṭa 'collision, contact' (sam-√ghaṭṭ)",
+      "notes": "An untoward touch/contact (e.g. with another, or with fire/light)."
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "happened / occurred",
+      "partOfSpeech": "verb",
+      "etymology": "Guj./Prakrit huo < bhū 'to be/become'",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "were (the case)",
+      "partOfSpeech": "verb",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "whatever else (besides)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Guj. aneruṁ 'other, additional'",
+      "notes": "The closing catch-all formula of each block."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this",
+      "partOfSpeech": "pronoun",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "ઇગ્યારમા",
+      "translit": "igyāramā",
+      "gloss": "eleventh",
+      "partOfSpeech": "adj",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "પૌષધવ્રત",
+      "translit": "pauṣadhavrata",
+      "gloss": "pauṣadha-vow",
+      "partOfSpeech": "compound",
+      "etymology": "see above",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning / with regard to",
+      "partOfSpeech": "particle",
+      "etymology": "Skt. viṣaye 'in the matter of'",
+      "notes": "'…and whatever else (I transgressed) regarding the eleventh vow' — leading into the unspoken micchā mi dukkaḍaṁ."
+    },
+    {
+      "token": "।",
+      "translit": "|",
+      "gloss": "verse-ending bar (daṇḍa)",
+      "partOfSpeech": "particle",
+      "etymology": "Indic punctuation",
+      "notes": "Closes the block."
+    }
+  ],
+  "literalTranslation": "Eleventh, the pauṣadha-vow is to be known in four kinds. In the food-pauṣadha — the giving-up of fourfold food. In the body-care pauṣadha — the complete giving-up of bathing and other bodily grooming. In the celibacy-pauṣadha — the complete giving-up of intercourse, gross-bodied and transformation-bodied. In the non-activity pauṣadha — the complete giving-up of all sinful activity. These five transgressions of the eleventh pauṣadha-vow I scrutinise: un-inspected, ill-inspected bed and bedding; un-swept, ill-swept bed and bedding; un-inspected, ill-inspected excrement-and-urine ground; un-swept, ill-swept excrement-and-urine ground; (failure of) the proper maintenance of the pauṣadha-fast. When the pauṣadha was kept: the bed, the lodging, the straw-bedding, the bedding-spot, and the excretion-spot for dung and urine and its ground — while daylight was present — may not have been inspected nor examined by sight; and they may not have been inspected and swept with the cloth-corner and the broom-staff, or may have been inspected and swept improperly; the pauṣadha-fast may not have been properly kept; among the fourfold food some food may have been craved; and bathing and bodily adornment, indulgence in unchastity, trade and household business may have been craved; past things may have been dwelt upon, future things hankered after, the body sprinkled (with water), rollings indulged; while in the pauṣadha the fast-breaking meal may have been planned; by day one may have lain stretched-out-legged; phlegm and the like may have been left uncovered; on leaving the lodging 'āvassahī' and on entering 'nissihī' may not have been said; at night one may have lain down without reciting the porisi; an (untoward) contact may have occurred by lamplight. And whatever else (was transgressed) regarding this eleventh pauṣadha-vow.",
+  "idiomaticTranslation": "The eleventh is the pauṣadha-vow, a day of living like a monk, to be observed in four forms: renouncing all four kinds of food; renouncing every bodily comfort — bathing, grooming and the rest; renouncing all sexual contact, whether with earthly or with celestial beings; and renouncing every sinful occupation. Now I examine its five transgressions. Did I lie on a bed or bedding I had not inspected, or inspected carelessly — or that I had not swept, or swept carelessly? Did I use a spot for relieving myself that was unchecked or ill-swept? Did I fail to keep the fast as it should be kept? When I held the pauṣadha, did I — though it was broad daylight — leave the bed, the hall, the straw-mat and its ground, and the place for dung and urine, un-inspected and unseen; or fail to inspect and sweep them with cloth-corner and broom; or do so clumsily? Did I keep the fast imperfectly, or even hanker after one of the four foods? Did I crave a bath or grooming, unchastity, or my trade and home affairs? Did I brood on past pleasures or long for future ones, splash water on my body, or roll about for ease? Did I, while still observing, plan my breaking-meal? Did I sprawl with legs outstretched by day, or leave phlegm and the like uncovered? Did I forget to say 'āvassahī' on going out and 'nissihī' on coming in? Did I lie down at night without reciting the porisi? Did some careless contact occur by the lamp? For all this, and whatever else I slipped in regarding this eleventh vow, may my misdeed come to nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the tenth vow narrowed the householder's spatial sphere, the eleventh asks him to step, for a fixed span, fully inside the monk's life. The verse opens with the standard four-fold analysis of pauṣadha — food, body-care, chastity and occupation — and crucially insists each be 'sarvathā', total, distinguishing the full (pratipūrṇa) pauṣadha from a partial one. The five canonical atichāras then arrive verbatim in their Prakrit liturgical form ('appaḍilehiya duppaḍilehiya…'), the same formula embedded in the Vandittu/Śrāvaka-pratikramaṇa: the paired un-inspected/ill-inspected and un-swept/ill-swept faults applied to two zones — where one sleeps (śayyā-saṁstāra) and where one relieves oneself (uccāra-pāsavaṇa-bhūmi) — capped by the fifth, failure to keep the fast 'sammaṁ', properly. What lifts this verse above a checklist is the long Gujarati amplification that follows: it re-reads those five abstract faults as the lived texture of a real retreat day. The danger is never the body's needs themselves but inattention to the minute lives disturbed by an un-swept mat or an exposed discharge; hence the twin instruments named — the vastrāñcala (cloth-corner) and daṇḍāsana (broom) — and the rebuke 'divasa chate', 'while it was still daylight', leaving no alibi. The list then turns inward, from the physical to the mental: not merely doing the renounced things but craving them — a bath, a meal, one's shop, a memory, a future plan. The two threshold-formulae āvassahī and nissihī and the night-time porisi show the retreat is also a discipline of speech and timing, not only of restraint. The block ends with the familiar 'aneruṁ…viṣe' catch-all, gathering every unnamed slip.",
+    "doctrinalContext": "Pauṣadha is the householder's deliberate, time-bound rehearsal of muni-life, and the verse encodes a precise doctrinal point: a vow is broken not only by gross action but by careless attention. The five atichāras are, in substance, the five of Tattvārtha-sūtra 7.30 — apratyavekṣita-apramārjita applied to utsarga (voiding-ground), ādāna-saṁstāra (taking up and spreading bedding), plus anādara (disrespect) and smṛty-anupasthāna (lapse of mindfulness), here folded into 'posahovavāsassa sammaṁ aṇupālaṇāyā'. The governing principle is ahiṁsā operating through pratilekhanā (visual inspection) and pramārjanā (gentle sweeping): the sūkṣma jīvas of earth, water and the nigoda are protected precisely by looking and sweeping before lying, sitting or voiding. The amplification's stress on mere craving (vāñchyo, smaryāṁ, prārthyāṁ) reflects the Jain analysis of bhāva — that bondage tracks intention, so an unbroken outward fast spoiled by inward hankering is still flawed.",
+    "practicalRelevance": "For a reciter who keeps pauṣadha today, this verse is a concrete debrief of the day just past: did I actually inspect and sweep my mat and washing-area in daylight, or cut corners? Did I keep the fast cleanly, or quietly miss food, my phone, my work, my plans? Did I say āvassahī and nissihī at the threshold and recite the porisi before sleeping? Even for those who cannot keep a full pauṣadha, it trains a transferable habit — attentiveness to the small lives and small cravings that ordinary routine ignores.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 7.30 (five atichāras of pauṣadhopavāsa: apratyavekṣita-apramārjita-utsarga / -ādāna / -saṁstāra, anādara, smṛtyanupasthāna)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Upāsakadaśāṅga-sūtra (Ānanda's adoption of the twelve vows including pauṣadhopavāsa)",
+        "source": "Aṅga 7, Śvetāmbara canon"
+      },
+      {
+        "text": "Vandittu / Śrāvaka-pratikramaṇa sūtra — the parallel Prakrit atichāra formula 'appaḍilehiya-duppaḍilehiya sejjā-saṁthāre…'",
+        "source": "Āvaśyaka-sūtra tradition"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Poshadhopavasa — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/poshadhopavasa",
+      "type": "dictionary",
+      "consultedFor": "Meaning and pratimā-context of pauṣadhopavāsa (the periodic monk-like fast)."
+    },
+    {
+      "title": "Paushadha — definition (Jainism, with Triṣaṣṭiśalākāpuruṣacaritra citation)",
+      "url": "https://www.wisdomlib.org/definition/paushadha",
+      "type": "dictionary",
+      "consultedFor": "Sense of pauṣadha as the vow and the pauṣadha-house; darbha-bed and freedom from worldly activity."
+    },
+    {
+      "title": "Saṃstara / Saṃstāra — Sanskrit dictionary entries (Apte; Cologne Digital Sanskrit Lexicon)",
+      "url": "https://www.wisdomlib.org/definition/samstara",
+      "type": "dictionary",
+      "consultedFor": "Gloss of saṁstāra 'a bed/couch of straw or leaves' underlying sijjā-saṁthāra."
+    },
+    {
+      "title": "Āvaśyaka — definition (Jainism)",
+      "url": "https://www.wisdomlib.org/definition/avashyaka",
+      "type": "dictionary",
+      "consultedFor": "Confirming the Āvaśyaka/pratikramaṇa framing within which this confession-block sits."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "The five atichāras are given in their canonical Prakrit liturgical form and map onto Tattvārtha-sūtra 7.30; the long Gujarati passage following them is the book's amplified exposition, rendered closely. 'ઉજ્જેઇ સંઘટ્ટ હુઓ હોય' (ujjei saṁghaṭṭa huo hoya) is the least certain phrase: 'ujjei' is read tentatively as 'by lamplight' (an untoward contact with/near a lamp or another body) but could mean 'inadvertently/unawares'; the gloss is flagged uncertain pending the source-book footnote. 'virūi-pare' is taken as 'in a faulty/improper manner'. Per the book's orthography, 'atichāra' is preserved as અતિયાર and other Prakrit conjunct/spelling variants (sijjā-saṁthāre, posahovavāsassa) are kept verbatim, not normalised. Word-by-word coverage includes every repeated function word (posahe, parihāra, hoya, na, ane) and the closing daṇḍa."
+}

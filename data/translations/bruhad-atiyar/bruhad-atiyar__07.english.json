@@ -1,0 +1,1186 @@
+{
+  "shlokaId": "bruhad-atiyar/07",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "In the seventh vow a Jain layperson limits what he eats and uses, so here he confesses eating any of the twenty-two forbidden foods, the thirty-two many-souled root vegetables, stale or living food, and eating after dark.",
+  "recitation": "sātamuṁ bhogopabhoga-vrata dvividha. bhojanataḥ karmataśca. tatra bhojanataḥ iṇe vrate — pañcuṁbari mahaviga-i, hima visa karage ya savva maṭṭī ya. rāi-bhoyaṇāgaṁ ciya, bahubīya aṇaṁta saṁdhāṇaṁ ||1|| gholavaḍāṁ vāyaṁgaṇa, amuṇiya nāmāṇi phulla phalayāṇi. tucchaphalaṁ caliyarasaṁ, vajjaya abhujjāiṁ bāvīsaṁ ||2|| e bāvīsa abhakṣya. savvāo kandajāi, sūraṇakando ya vajjakando ya. ada-haliddā ya tahā, adaṁ taha alla-kaccūro ||1|| sattāvarī virālī, kuṁāri taha thohari galoi ya. lhasaṇa vaṁsa-karillā, gajjara taha luṇāo loḍho ||2|| giri-kaṇiṇa kisala-patto, khīri-suā thega alla-mutthā ya. taha loṇa rūkkha-challī, khīlluhaḍo amaya-vallī ya ||3|| mūlā taha bhūmi-ruhā, virūhāi ḍhakka vatthulo paḍhamo. sūara vallo ya tahā, pallaṁko komalaṁ biliyā ||4|| ālū taha piṁḍālu, battīsaṁ jāṇiūṇā huṁtāiṁ. iyāiṁ buddhimayā, parihariyavvā payatteṇaṁ ||5|| e batrīsa anantakāya yathāśakte roga durbhikṣādika mūkī pariharuṁ. e sātamā bhogopabhoga (bhojana) vratataṇā pāñca atichāra śodhuṁ. sacitta āhāre, sacitta paḍibaddha āhāre, appoṣahi bhakṣaṇayā, duppoṣahi bhakṣaṇayā, tucchoṣahi bhakṣaṇayā. sacittataṇo niyama līdhe ajāṇatāṁ adhikuṁ sacitta līdhuṁ hoya. sacitta pratibaddha — rāyaṇa muha ghālī nikālī hoya; vṛkṣataṇo guṁda ukheḍī tatkāla acitta-buddhe āhāryo hoya. appoṣadhi — polī māṁhelo kaṇa bhakhyo hoya. duppoṣadhi — olā, pahoṁka acitta-buddhe āhāryo hoya. tucchoṣadhi — kuṁalī āṁbalī, kuṁalāṁ vāgaraḍā, mohari, kuṁpalī, sūkṣma kerī taṇuṁ bhakṣaṇa kīdhuṁ hoya. ane rātre bhojana kīdhuṁ hoya. lagabhaga velāe jimyā hoie. jimavā aṁdhāre beṭhā hoie. gulale pāṇī pīdhuṁ hoya. 'sacitta-davva-vigai' e caudda niyama divasagata, rātrigata ciṁtavyā na hoya. varṣākāle jūnuṁ ṭoparuṁ, khāreka, khajura āhāryā hoya. āmaṇābora, jāṁbu, pīlū, ākhī vālholī līdhī hoya. pahoṁka svahaste kīdhā hoya. kācuṁ lūṇa, vāśī vaḍāṁ, vāśī polī, soḷa pahora uparāṁta dahīṁ vāvaryuṁ hoya. saṁsakta phūla phala upajīvyāṁ hoya, aṇagaḷa pāṇī pīdhuṁ hoya. aneruṁ e sātamā bhogopabhoga-vrata viṣe.",
+  "wordByWord": [
+    {
+      "token": "સાતમું",
+      "translit": "sātamuṁ",
+      "gloss": "seventh",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati ordinal from sāta 'seven' (Skt. saptama).",
+      "notes": "Numbers the vow: the third guṇavrata, seventh of the twelve."
+    },
+    {
+      "token": "ભોગોપભોગવ્રત",
+      "translit": "bhogopabhoga-vrata",
+      "gloss": "the enjoyment-and-repeated-use vow",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. bhoga 'a thing enjoyed once (food)' + upabhoga 'a thing used repeatedly (clothes, dwelling)' + vrata 'vow'.",
+      "notes": "The vow that caps both single-use and recurring consumption."
+    },
+    {
+      "token": "દ્વિવિધ",
+      "translit": "dvividha",
+      "gloss": "two-fold",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. dvi 'two' + vidhā 'kind'.",
+      "notes": "The split announced immediately as bhojanataḥ / karmataḥ."
+    },
+    {
+      "token": "ભોજનતઃ",
+      "translit": "bhojanataḥ",
+      "gloss": "as regards food",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. bhojana 'food' + ablative-of-respect suffix -taḥ.",
+      "notes": "The aspect treated in this verse; the karmataḥ aspect (15 karmādāna) follows in verse 8."
+    },
+    {
+      "token": "કર્મતશ્ચ",
+      "translit": "karmataśca",
+      "gloss": "and as regards occupation",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. karman 'action, livelihood' + -taḥ + ca 'and' (sandhi karmataḥ + ca).",
+      "notes": "Names but defers the second aspect."
+    },
+    {
+      "token": "તત્ર",
+      "translit": "tatra",
+      "gloss": "therein / of these",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. tatra 'there'.",
+      "notes": "Picks out the food-aspect for treatment."
+    },
+    {
+      "token": "ઇણે",
+      "translit": "iṇe",
+      "gloss": "in this",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati/Apabhraṁśa locative of demonstrative (Skt. asmin).",
+      "notes": "—"
+    },
+    {
+      "token": "વ્રતે",
+      "translit": "vrate",
+      "gloss": "vow (loc.)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vrata, locative.",
+      "notes": "'In this vow' introduces the abhakṣya gāthās."
+    },
+    {
+      "token": "પંચુંબરિ",
+      "translit": "pañcuṁbari",
+      "gloss": "the five udumbara (fig-family) fruits",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. pañca 'five' + udumbara, the Ficus group (umbara, vaṭa, pippala, plakṣa, kākodumbara).",
+      "notes": "Forbidden because their fruit teems with minute living beings."
+    },
+    {
+      "token": "મહવિગઇ",
+      "translit": "mahaviga-i",
+      "gloss": "the great vikṛtis (four most degrading rich foods)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahā 'great' + vigai (Skt. vikṛti) 'transforming/degrading food'.",
+      "notes": "The four mahāvigai: madya (liquor), māṁsa (meat), madhu (honey), navanīta (butter)."
+    },
+    {
+      "token": "હિમ",
+      "translit": "hima",
+      "gloss": "ice / snow",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. hima 'frost'.",
+      "notes": "Forbidden as a body of countless ap-kāya (water-souls)."
+    },
+    {
+      "token": "વિસ",
+      "translit": "visa",
+      "gloss": "poison",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. viṣa.",
+      "notes": "Lethal substance, taken as inedible."
+    },
+    {
+      "token": "કરગે",
+      "translit": "karage",
+      "gloss": "hail / hailstone",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit karaga (Skt. karaka 'hail').",
+      "notes": "Like ice, a mass of water-bodied life."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya (Skt. ca).",
+      "notes": "Recurs throughout the gāthās as connective; glossed once."
+    },
+    {
+      "token": "સવ્વ",
+      "translit": "savva",
+      "gloss": "all",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savva (Skt. sarva).",
+      "notes": "Qualifies 'all earth/clay'."
+    },
+    {
+      "token": "મટ્ટી",
+      "translit": "maṭṭī",
+      "gloss": "clay / earth",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit maṭṭiā (Skt. mṛttikā).",
+      "notes": "Eating earth is forbidden — pṛthvī-kāya (earth-bodied) life."
+    },
+    {
+      "token": "રાઇભોયણાગં",
+      "translit": "rāi-bhoyaṇāgaṁ",
+      "gloss": "night-eating",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit rāi (Skt. rātri 'night') + bhoyaṇa (Skt. bhojana 'eating').",
+      "notes": "Rātri-bhojana, a cardinal Jain abhakṣya."
+    },
+    {
+      "token": "ચિય",
+      "translit": "ciya",
+      "gloss": "indeed / also",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ciya/cciya (emphatic, Skt. eva).",
+      "notes": "Emphatic filler."
+    },
+    {
+      "token": "બહુબીય",
+      "translit": "bahubīya",
+      "gloss": "many-seeded (fruits)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit bahu 'many' + bīya (Skt. bīja 'seed').",
+      "notes": "Each seed a separate one-sensed life; e.g. figs, certain gourds."
+    },
+    {
+      "token": "અણંત",
+      "translit": "aṇaṁta",
+      "gloss": "infinite-bodied (vegetables)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit aṇaṁta (Skt. ananta) → anantakāya.",
+      "notes": "Forward-points to the 32-fold list below."
+    },
+    {
+      "token": "સંધાણં",
+      "translit": "saṁdhāṇaṁ",
+      "gloss": "pickles / fermented preserves",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sandhāna 'that which is steeped/preserved'.",
+      "notes": "Preserves that breed life after a set time."
+    },
+    {
+      "token": "ઘોલવડાં",
+      "translit": "gholavaḍāṁ",
+      "gloss": "vaḍā soaked in buttermilk (dahī-vaḍā)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati ghola 'buttermilk' + vaḍā 'fried lentil dumpling'.",
+      "notes": "Becomes a breeding ground for life once soaked and kept."
+    },
+    {
+      "token": "વાયંગણ",
+      "translit": "vāyaṁgaṇa",
+      "gloss": "brinjal / eggplant",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vāiṁgaṇa (Skt. vātiṅgaṇa, vṛntāka).",
+      "notes": "Abhakṣya for its many seeds and reputed afflictions."
+    },
+    {
+      "token": "અમુણિય",
+      "translit": "amuṇiya",
+      "gloss": "unknown / unidentified",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- (neg.) + muṇiya 'known' (Skt. jñāta).",
+      "notes": "Qualifies fruits/flowers whose name one does not know — avoid them."
+    },
+    {
+      "token": "નામાણિ",
+      "translit": "nāmāṇi",
+      "gloss": "names (nom./acc. pl.)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit, Skt. nāmāni.",
+      "notes": "'(Of) unknown names' — un-named flowers and fruits."
+    },
+    {
+      "token": "ફુલ્લ",
+      "translit": "phulla",
+      "gloss": "flowers",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit phulla (Skt. puṣpa/phulla).",
+      "notes": "—"
+    },
+    {
+      "token": "ફલયાણિ",
+      "translit": "phalayāṇi",
+      "gloss": "fruits",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit, Skt. phalāni.",
+      "notes": "Pairs with phulla: unknown flowers and fruits."
+    },
+    {
+      "token": "તુચ્છફલં",
+      "translit": "tucchaphalaṁ",
+      "gloss": "trifling / pithless fruit",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. tuccha 'empty, scanty' + phala 'fruit'.",
+      "notes": "Fruit with much to discard and little to eat — disproportionate harm."
+    },
+    {
+      "token": "ચલિયરસં",
+      "translit": "caliyarasaṁ",
+      "gloss": "food whose taste/flavour has turned (spoiled)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit caliya (Skt. calita 'moved, altered') + rasa 'flavour'.",
+      "notes": "Fermented or off-tasting food, now full of life."
+    },
+    {
+      "token": "વજ્જય",
+      "translit": "vajjaya",
+      "gloss": "shun / avoid (imperative)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vajjaya (Skt. varjaya 'avoid!').",
+      "notes": "The operative command of the gāthā."
+    },
+    {
+      "token": "અભુજ્જાઇં",
+      "translit": "abhujjāiṁ",
+      "gloss": "things not to be eaten",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit a- + bhujja (Skt. bhojya 'edible') = abhojya.",
+      "notes": "The 22 inedibles as a class."
+    },
+    {
+      "token": "બાવીસં",
+      "translit": "bāvīsaṁ",
+      "gloss": "twenty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit bāvīsa (Skt. dvāviṁśati).",
+      "notes": "Caps the abhakṣya count."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati demonstrative.",
+      "notes": "Recurs to close each list."
+    },
+    {
+      "token": "બાવીસ",
+      "translit": "bāvīsa",
+      "gloss": "twenty-two",
+      "partOfSpeech": "adj",
+      "etymology": "as above.",
+      "notes": "—"
+    },
+    {
+      "token": "અભક્ષ્ય",
+      "translit": "abhakṣya",
+      "gloss": "forbidden foods",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. a- + bhakṣya 'to be eaten'.",
+      "notes": "Glossary term; closing label of the abhakṣya list."
+    },
+    {
+      "token": "સવ્વાઓ",
+      "translit": "savvāo",
+      "gloss": "all (fem. pl.)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit savvāo (Skt. sarvāḥ).",
+      "notes": "Begins the 32 anantakāya; 'all kinds of tuber'."
+    },
+    {
+      "token": "કંદજાઇ",
+      "translit": "kandajāi",
+      "gloss": "tuber/bulb varieties",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kanda 'tuber, bulb' + jāti 'kind'.",
+      "notes": "Sweeping head-term: every bulbous root."
+    },
+    {
+      "token": "સૂરણકંદો",
+      "translit": "sūraṇakando",
+      "gloss": "elephant-foot yam (Amorphophallus)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sūraṇa + kanda.",
+      "notes": "Identifications of several items below vary by edition; see notes."
+    },
+    {
+      "token": "વજ્જકંદો",
+      "translit": "vajjakando",
+      "gloss": "vajra-kanda (a hard tuber)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vajra + kanda.",
+      "notes": "Exact botanical identity uncertain."
+    },
+    {
+      "token": "અદહલિદ્દા",
+      "translit": "adahaliddā",
+      "gloss": "fresh (green) turmeric",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. ārdra 'moist, fresh' + haridrā 'turmeric'.",
+      "notes": "—"
+    },
+    {
+      "token": "તહા",
+      "translit": "tahā",
+      "gloss": "likewise / and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahā (Skt. tathā).",
+      "notes": "List-connective; recurs (taha) throughout, glossed once."
+    },
+    {
+      "token": "અદં",
+      "translit": "adaṁ",
+      "gloss": "fresh ginger",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ada (Skt. ārdraka).",
+      "notes": "Dry ginger (śuṇṭhī) is permitted; fresh is anantakāya."
+    },
+    {
+      "token": "અલ્લકચ્ચૂરો",
+      "translit": "allakaccūro",
+      "gloss": "fresh zedoary (kachūra, Curcuma zedoaria)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit alla 'fresh, moist' + kaccūra (Skt. karcūra).",
+      "notes": "alla = moist/green recurs below."
+    },
+    {
+      "token": "સત્તાવરી",
+      "translit": "sattāvarī",
+      "gloss": "śatāvarī (Asparagus racemosus)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. śatāvarī.",
+      "notes": "—"
+    },
+    {
+      "token": "વિરાલી",
+      "translit": "virālī",
+      "gloss": "virālī tuber (a creeper-root)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vidārī / vidārikanda.",
+      "notes": "Likely vidārī-kanda; identity approximate."
+    },
+    {
+      "token": "કુંઆરિ",
+      "translit": "kuṁāri",
+      "gloss": "aloe vera (kumārī)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. kumārī.",
+      "notes": "—"
+    },
+    {
+      "token": "થોહરી",
+      "translit": "thohari",
+      "gloss": "thor / euphorbia (snuhī)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit thohara (Skt. snuhī).",
+      "notes": "Fleshy spurge."
+    },
+    {
+      "token": "ગલોઇ",
+      "translit": "galoi",
+      "gloss": "giloy / guḍūcī (Tinospora cordifolia)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. guḍūcī.",
+      "notes": "—"
+    },
+    {
+      "token": "લ્હસણ",
+      "translit": "lhasaṇa",
+      "gloss": "garlic",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit lasaṇa (Skt. laśuna).",
+      "notes": "Classic anantakāya/abhakṣya."
+    },
+    {
+      "token": "વંસકરિલ્લા",
+      "translit": "vaṁsakarillā",
+      "gloss": "bamboo shoots",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. vaṁśa 'bamboo' + karīra 'tender sprout'.",
+      "notes": "—"
+    },
+    {
+      "token": "ગજ્જર",
+      "translit": "gajjara",
+      "gloss": "carrot",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit/Gujarati gajara (Skt. gṛñjana).",
+      "notes": "—"
+    },
+    {
+      "token": "લુણાઓ",
+      "translit": "luṇāo",
+      "gloss": "luṇī (a succulent green, prob. Portulaca)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit luṇa; identity approximate.",
+      "notes": "Uncertain identification."
+    },
+    {
+      "token": "લોઢો",
+      "translit": "loḍho",
+      "gloss": "loḍha (a tuberous plant)",
+      "partOfSpeech": "noun",
+      "etymology": "Uncertain; possibly Symplocos (lodhra) or a root.",
+      "notes": "Identity uncertain."
+    },
+    {
+      "token": "ગિરિકણિણ",
+      "translit": "girikaṇiṇa",
+      "gloss": "girikarṇikā (a hill creeper-root)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. giri 'mountain' + karṇikā.",
+      "notes": "Identity approximate."
+    },
+    {
+      "token": "કિસલપત્તો",
+      "translit": "kisalapatto",
+      "gloss": "tender new sprouted leaves",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. kisalaya 'young shoot' + patra 'leaf'.",
+      "notes": "All first-budding leaf-sprouts are anantakāya."
+    },
+    {
+      "token": "ખીરિસુઆ",
+      "translit": "khīrisuā",
+      "gloss": "khirsuā (a milky-sapped plant)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khīra 'milk(-sap)' + suā; identity uncertain.",
+      "notes": "Possibly a milk-exuding tuber/herb."
+    },
+    {
+      "token": "થેગ",
+      "translit": "thega",
+      "gloss": "thega (a tuber/root)",
+      "partOfSpeech": "noun",
+      "etymology": "Uncertain regional plant name.",
+      "notes": "Identity uncertain."
+    },
+    {
+      "token": "અલ્લમુત્થા",
+      "translit": "allamutthā",
+      "gloss": "fresh nut-grass / mustā (Cyperus rotundus)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit alla 'fresh' + mutthā (Skt. mustā).",
+      "notes": "—"
+    },
+    {
+      "token": "લોણ",
+      "translit": "loṇa",
+      "gloss": "loṇaka (a leafy green)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit loṇa; cf. loṇī.",
+      "notes": "Distinct from kācuṁ lūṇa (raw salt) in the prose; identity approximate."
+    },
+    {
+      "token": "રૂક્ખછલ્લી",
+      "translit": "rūkkhachallī",
+      "gloss": "tree bark (the green/inner bark)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit rūkkha (Skt. vṛkṣa 'tree') + challī (Skt. tvac 'bark').",
+      "notes": "Fresh bark holds vegetal life."
+    },
+    {
+      "token": "ખીલ્લુહડો",
+      "translit": "khīlluhaḍo",
+      "gloss": "khilluhaḍa (a sprouting plant)",
+      "partOfSpeech": "noun",
+      "etymology": "Uncertain regional name.",
+      "notes": "Identity uncertain."
+    },
+    {
+      "token": "અમયવલ્લી",
+      "translit": "amayavallī",
+      "gloss": "amṛta-vallī (a creeper, cf. guḍūcī)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. amṛta 'nectar' + vallī 'creeper'.",
+      "notes": "—"
+    },
+    {
+      "token": "મૂલા",
+      "translit": "mūlā",
+      "gloss": "radish",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. mūlaka.",
+      "notes": "Root, leaf, flower and pod of radish are all anantakāya."
+    },
+    {
+      "token": "ભૂમિરુહા",
+      "translit": "bhūmiruhā",
+      "gloss": "ground-sprouting fungi (mushrooms)",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. bhūmi 'earth' + ruha 'growing'.",
+      "notes": "Mushroom/fungus, prototypical anantakāya."
+    },
+    {
+      "token": "વિરૂહાઇ",
+      "translit": "virūhāi",
+      "gloss": "sprouts / germinated shoots",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. virūḍha 'sprouted'.",
+      "notes": "Sprouted pulses and grains."
+    },
+    {
+      "token": "ઢક્ક",
+      "translit": "ḍhakka",
+      "gloss": "ḍhaṅka (a leafy vegetable)",
+      "partOfSpeech": "noun",
+      "etymology": "Regional plant name; identity approximate.",
+      "notes": "Uncertain."
+    },
+    {
+      "token": "વત્થુલો",
+      "translit": "vatthulo",
+      "gloss": "bathuā / pigweed (Chenopodium, vāstūka)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vāstūka/vāstūla.",
+      "notes": "Only the first/young growth (paḍhamo) is anantakāya."
+    },
+    {
+      "token": "પઢમો",
+      "translit": "paḍhamo",
+      "gloss": "the first (young) growth",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit paḍhama (Skt. prathama).",
+      "notes": "Qualifies vatthulo: its earliest sprouting stage."
+    },
+    {
+      "token": "સૂઅર",
+      "translit": "sūara",
+      "gloss": "sūkara-vela (a creeper)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. sūkara; identity approximate.",
+      "notes": "Reads with vallo as sūkara-vallī; uncertain."
+    },
+    {
+      "token": "વલ્લો",
+      "translit": "vallo",
+      "gloss": "creeper / tendril plant",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. vallī 'creeper'.",
+      "notes": "—"
+    },
+    {
+      "token": "પલ્લંકો",
+      "translit": "pallaṁko",
+      "gloss": "palaṅka / spinach (or its tender sprout)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pālaṅka 'spinach'.",
+      "notes": "Identity approximate."
+    },
+    {
+      "token": "કોમલં",
+      "translit": "komalaṁ",
+      "gloss": "tender (sprout)",
+      "partOfSpeech": "adj",
+      "etymology": "Skt. komala 'soft, tender'.",
+      "notes": "Qualifies biliyā: the soft new bilva shoot."
+    },
+    {
+      "token": "બિલિયા",
+      "translit": "biliyā",
+      "gloss": "tender bilva (wood-apple) shoots",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. bilva.",
+      "notes": "—"
+    },
+    {
+      "token": "આલૂ",
+      "translit": "ālū",
+      "gloss": "yam / potato (ālu)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ālu 'edible root/tuber'.",
+      "notes": "In older texts ālu denotes a yam; broadly any starchy tuber."
+    },
+    {
+      "token": "પિંડાલુ",
+      "translit": "piṁḍālu",
+      "gloss": "piṇḍālu (a knobbed yam, Dioscorea)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. piṇḍa 'lump' + ālu 'tuber'.",
+      "notes": "Closes the enumerated items."
+    },
+    {
+      "token": "બત્તીસં",
+      "translit": "battīsaṁ",
+      "gloss": "thirty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit battīsa (Skt. dvātriṁśat).",
+      "notes": "Fixes the anantakāya count, though several names are obscure."
+    },
+    {
+      "token": "જાણિઊણા",
+      "translit": "jāṇiūṇā",
+      "gloss": "having known / recognising",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit jāṇiūṇa (gerund, Skt. jñātvā).",
+      "notes": "—"
+    },
+    {
+      "token": "હુંતાઈં",
+      "translit": "huṁtāiṁ",
+      "gloss": "being / existing (as such)",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit hunta (pres. part. of bhū 'to be').",
+      "notes": "'Knowing these thirty-two to be (anantakāya)'."
+    },
+    {
+      "token": "ઇયાઇં",
+      "translit": "iyāiṁ",
+      "gloss": "these",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit iyāiṁ (Skt. etāni).",
+      "notes": "—"
+    },
+    {
+      "token": "બુદ્ધિમયા",
+      "translit": "buddhimayā",
+      "gloss": "by the wise / discerning person",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. buddhimat 'possessed of intellect'.",
+      "notes": "The verse appeals to discernment, not mere rule-following."
+    },
+    {
+      "token": "પરિહરિયવ્વા",
+      "translit": "parihariyavvā",
+      "gloss": "are to be renounced / avoided",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit gerundive of pari-hṛ (Skt. parihartavya).",
+      "notes": "The injunctive verb of the gāthā."
+    },
+    {
+      "token": "પયત્તેણં",
+      "translit": "payatteṇaṁ",
+      "gloss": "with effort / diligently",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit payatta (Skt. prayatna 'earnest effort'), instrumental.",
+      "notes": "Renunciation must be deliberate, not casual."
+    },
+    {
+      "token": "બત્રીસ",
+      "translit": "batrīsa",
+      "gloss": "thirty-two",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati form of dvātriṁśat.",
+      "notes": "Closing tally in Gujarati."
+    },
+    {
+      "token": "અનંતકાય",
+      "translit": "anantakāya",
+      "gloss": "infinite-bodied vegetables",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ananta 'infinite' + kāya 'body'.",
+      "notes": "Glossary term; the list's label."
+    },
+    {
+      "token": "યથાશક્તે",
+      "translit": "yathāśakte",
+      "gloss": "according to one's capacity",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. yathā 'as' + śakti 'ability'.",
+      "notes": "Introduces the householder's realistic exception clause."
+    },
+    {
+      "token": "રોગ",
+      "translit": "roga",
+      "gloss": "illness",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. roga.",
+      "notes": "A circumstance permitting medicinal exception."
+    },
+    {
+      "token": "દુર્ભિક્ષાદિક",
+      "translit": "durbhikṣādika",
+      "gloss": "famine and the like",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. durbhikṣa 'famine' + ādika 'etc.'.",
+      "notes": "—"
+    },
+    {
+      "token": "મૂકી",
+      "translit": "mūkī",
+      "gloss": "setting aside (excepting)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati mūkavuṁ 'to leave/set aside'.",
+      "notes": "'Excepting illness, famine, etc., I renounce these.'"
+    },
+    {
+      "token": "પરિહરું",
+      "translit": "pariharuṁ",
+      "gloss": "I renounce / avoid",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. pari-hṛ, 1st-person Gujarati.",
+      "notes": "The reciter's personal vow."
+    },
+    {
+      "token": "વ્રતતણા",
+      "translit": "vratataṇā",
+      "gloss": "of the vow's",
+      "partOfSpeech": "noun",
+      "etymology": "vrata + Old Gujarati genitive -taṇā.",
+      "notes": "Recurring in the purification formula 'e … vratataṇā pāñca atichāra śodhuṁ'."
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāñca",
+      "gloss": "five",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati, Skt. pañca.",
+      "notes": "—"
+    },
+    {
+      "token": "અતિચાર",
+      "translit": "atichāra",
+      "gloss": "transgressions",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. aticāra; spelled atiyāra elsewhere in this book.",
+      "notes": "Glossary term."
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "I scrutinise / cleanse",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. śodh 'to purify', 1st-person Gujarati.",
+      "notes": "Opens the atichāra review."
+    },
+    {
+      "token": "સચિત્ત આહારે",
+      "translit": "sacitta āhāre",
+      "gloss": "1st atichāra: eating living (sentient) food",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sacitta 'with consciousness' + āhāra 'food'.",
+      "notes": "Sacittāhāra — eating un-rendered, still-living matter."
+    },
+    {
+      "token": "સચિત્ત પડિબદ્ધ આહારે",
+      "translit": "sacitta paḍibaddha āhāre",
+      "gloss": "2nd atichāra: eating food attached to a living thing",
+      "partOfSpeech": "compound",
+      "etymology": "+ paḍibaddha (Skt. pratibaddha 'bound to').",
+      "notes": "Food still joined to a living stalk/tree, e.g. fruit on the stone."
+    },
+    {
+      "token": "અપ્પોસહિ ભક્ષણયા",
+      "translit": "appoṣahi bhakṣaṇayā",
+      "gloss": "3rd atichāra: eating barely-cooked food",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. apakva-auṣadhi 'unripe/half-cooked herb-matter' + bhakṣaṇa 'eating'.",
+      "notes": "Glossed in the prose as the inner grain of a half-baked polī."
+    },
+    {
+      "token": "દુપ્પોસહિ ભક્ષણયા",
+      "translit": "duppoṣahi bhakṣaṇayā",
+      "gloss": "4th atichāra: eating ill-/under-cooked food",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. duṣpakva-auṣadhi 'badly-cooked' + bhakṣaṇa.",
+      "notes": "E.g. parched ola/pohã eaten as if rendered lifeless."
+    },
+    {
+      "token": "તુચ્છોસહિ ભક્ષણયા",
+      "translit": "tucchoṣahi bhakṣaṇayā",
+      "gloss": "5th atichāra: eating pithless food with much waste",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. tuccha-auṣadhi 'scanty edible matter' + bhakṣaṇa.",
+      "notes": "Unripe tamarind, tender mango etc.: great harm, little nourishment."
+    },
+    {
+      "token": "સચિત્તતણો નિયમ લીધે",
+      "translit": "sacittataṇo niyama līdhe",
+      "gloss": "having taken a rule limiting living food",
+      "partOfSpeech": "compound",
+      "etymology": "sacitta + taṇo (gen.) + niyama 'rule' + līdhe 'on taking'.",
+      "notes": "Sets up the first confessed lapse."
+    },
+    {
+      "token": "અજાણતાં",
+      "translit": "ajāṇatāṁ",
+      "gloss": "unknowingly",
+      "partOfSpeech": "adverb",
+      "etymology": "a- + jāṇavuṁ 'to know'.",
+      "notes": "Part of the known/unknown exhaustiveness pairing."
+    },
+    {
+      "token": "અધિકું",
+      "translit": "adhikuṁ",
+      "gloss": "in excess",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. adhika 'more'.",
+      "notes": "Took more sacitta than the rule allowed."
+    },
+    {
+      "token": "લીધું હોય",
+      "translit": "līdhuṁ hoya",
+      "gloss": "may have taken",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati optative — 'it may have been done'.",
+      "notes": "The recurring confessional auxiliary throughout the prose."
+    },
+    {
+      "token": "રાયણ",
+      "translit": "rāyaṇa",
+      "gloss": "rāyaṇ fruit (Manilkara)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati rāyaṇ (Skt. rājādana).",
+      "notes": "Example of sacitta-pratibaddha: pulp put in the mouth, stone taken out."
+    },
+    {
+      "token": "મુહ ઘાલી નિકાલી",
+      "translit": "muha ghālī nikālī",
+      "gloss": "having put in the mouth and taken out (the stone)",
+      "partOfSpeech": "verb",
+      "etymology": "muha 'mouth' + ghālavuṁ 'put in' + nikāḷavuṁ 'take out'.",
+      "notes": "Eating pulp around a still-living seed."
+    },
+    {
+      "token": "વૃક્ષતણો ગુંદ ઉખેડી",
+      "translit": "vṛkṣataṇo guṁda ukheḍī",
+      "gloss": "having scraped gum off a tree",
+      "partOfSpeech": "verb",
+      "etymology": "vṛkṣa 'tree' + guṁda 'gum/resin' + ukheḍavuṁ 'to peel off'.",
+      "notes": "Fresh gum, still living, eaten."
+    },
+    {
+      "token": "તત્કાલ",
+      "translit": "tatkāla",
+      "gloss": "immediately",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. tat-kāla 'that very time'.",
+      "notes": "—"
+    },
+    {
+      "token": "અચિત્તબુધ્ધે",
+      "translit": "acittabuddhe",
+      "gloss": "under the impression it was lifeless",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. acitta 'lifeless' + buddhi 'notion'.",
+      "notes": "Mistaking still-sentient matter for rendered/dead."
+    },
+    {
+      "token": "આહાર્યો હોય",
+      "translit": "āhāryo hoya",
+      "gloss": "may have eaten",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. ā-hṛ 'consume'.",
+      "notes": "Confessional auxiliary, like līdhuṁ hoya."
+    },
+    {
+      "token": "પોલી માંહેલો કણ",
+      "translit": "polī māṁhelo kaṇa",
+      "gloss": "the (raw) grain inside a flatbread",
+      "partOfSpeech": "compound",
+      "etymology": "polī 'flatbread' + māṁhelo 'inner' + kaṇa 'grain'.",
+      "notes": "Concrete gloss of appoṣadhi (half-cooked)."
+    },
+    {
+      "token": "ભખ્યો હોય",
+      "translit": "bhakhyo hoya",
+      "gloss": "may have eaten",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. bhakṣ 'eat'.",
+      "notes": "—"
+    },
+    {
+      "token": "ઓલા",
+      "translit": "olā",
+      "gloss": "roasted green chickpea pods (olā)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati olā.",
+      "notes": "Example of duppoṣadhi."
+    },
+    {
+      "token": "પહોંક",
+      "translit": "pahoṁka",
+      "gloss": "roasted/parched grain (pohã)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati pahoṁk/pauṁk.",
+      "notes": "Recurs below as a self-made item."
+    },
+    {
+      "token": "કુંઅલી આંબલી",
+      "translit": "kuṁalī āṁbalī",
+      "gloss": "tender (unripe) tamarind",
+      "partOfSpeech": "compound",
+      "etymology": "kuṁaḷī 'tender' + āṁbalī 'tamarind'.",
+      "notes": "Example of tucchoṣadhi."
+    },
+    {
+      "token": "કુંઅલાં વાગરડા",
+      "translit": "kuṁalāṁ vāgaraḍā",
+      "gloss": "tender vāgaraḍā (unripe pods)",
+      "partOfSpeech": "compound",
+      "etymology": "Gujarati regional produce names.",
+      "notes": "Identity approximate."
+    },
+    {
+      "token": "મોહરી",
+      "translit": "mohari",
+      "gloss": "mango/tree blossom-clusters (mohor)",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati mohor 'blossom panicle'.",
+      "notes": "—"
+    },
+    {
+      "token": "કુંપલી",
+      "translit": "kuṁpalī",
+      "gloss": "tender new leaf-buds",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati kuṁpaḷ 'sprout'.",
+      "notes": "—"
+    },
+    {
+      "token": "સૂક્ષ્મ કેરી",
+      "translit": "sūkṣma kerī",
+      "gloss": "tiny unripe mango",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. sūkṣma 'minute' + Gujarati kerī 'mango'.",
+      "notes": "Much pit, little flesh — pithless waste."
+    },
+    {
+      "token": "ભક્ષણ કીધું હોય",
+      "translit": "bhakṣaṇa kīdhuṁ hoya",
+      "gloss": "may have eaten",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. bhakṣaṇa + Gujarati kīdhuṁ 'did'.",
+      "notes": "—"
+    },
+    {
+      "token": "રાત્રે ભોજન",
+      "translit": "rātre bhojana",
+      "gloss": "eating at night",
+      "partOfSpeech": "compound",
+      "etymology": "Skt. rātri + bhojana.",
+      "notes": "Rātri-bhojana again, now as a confessed lapse."
+    },
+    {
+      "token": "લગભગ વેલાએ જિમ્યા",
+      "translit": "lagabhaga velāe jimyā",
+      "gloss": "may have eaten at twilight (uncertain time)",
+      "partOfSpeech": "verb",
+      "etymology": "lagabhaga 'around/approximate' + velā 'time' + jimavuṁ 'to dine'.",
+      "notes": "Eating when day/night boundary is doubtful."
+    },
+    {
+      "token": "જિમવા અંધારે બેઠા",
+      "translit": "jimavā aṁdhāre beṭhā",
+      "gloss": "may have sat to eat in the dark",
+      "partOfSpeech": "verb",
+      "etymology": "aṁdhāru 'darkness' + beṭhā 'sat'.",
+      "notes": "Cannot inspect food for life in darkness."
+    },
+    {
+      "token": "ગુલલે પાણી પીધું",
+      "translit": "gulale pāṇī pīdhuṁ",
+      "gloss": "may have gulped/drunk water carelessly",
+      "partOfSpeech": "verb",
+      "etymology": "gulalu 'in a gulp' + pāṇī 'water' + pīvuṁ 'drink'.",
+      "notes": "Reading approximate; drinking without inspection."
+    },
+    {
+      "token": "‘સચિત્તદવ્વ વિગઇ’ ચૌદ નિયમ",
+      "translit": "'sacitta-davva-vigai' caudda niyama",
+      "gloss": "the fourteen daily rules (beginning 'sacitta, dravya, vigai…')",
+      "partOfSpeech": "compound",
+      "etymology": "sacitta + davva (Skt. dravya) + vigai; caudda 'fourteen'.",
+      "notes": "The 14 niyama a śrāvaka resolves each day/night (food-items, directions, etc.)."
+    },
+    {
+      "token": "દિવસગત, રાત્રિગત ચિંતવ્યા ન હોય",
+      "translit": "divasagata, rātrigata ciṁtavyā na hoya",
+      "gloss": "may not have contemplated (them) for day and for night",
+      "partOfSpeech": "verb",
+      "etymology": "divasa 'day' + rātri 'night' + gata 'pertaining to' + ciṁtavavuṁ 'to reflect'.",
+      "notes": "Failing to fix the fourteen rules each period."
+    },
+    {
+      "token": "વર્ષાકાલે",
+      "translit": "varṣākāle",
+      "gloss": "in the rainy season",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. varṣā + kāla.",
+      "notes": "Season when produce most readily breeds life."
+    },
+    {
+      "token": "જૂનું ટોપરું",
+      "translit": "jūnuṁ ṭoparuṁ",
+      "gloss": "old (dried) coconut",
+      "partOfSpeech": "compound",
+      "etymology": "jūnuṁ 'old' + ṭoparuṁ 'dry coconut'.",
+      "notes": "Prone to worms in monsoon."
+    },
+    {
+      "token": "ખારેક",
+      "translit": "khāreka",
+      "gloss": "dried dates",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati khārek.",
+      "notes": "—"
+    },
+    {
+      "token": "ખજુર",
+      "translit": "khajura",
+      "gloss": "dates",
+      "partOfSpeech": "noun",
+      "etymology": "Skt./Pers. khajūra.",
+      "notes": "—"
+    },
+    {
+      "token": "આમણાબોર",
+      "translit": "āmaṇābora",
+      "gloss": "a kind of jujube/ber",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati regional fruit name (bora 'jujube').",
+      "notes": "Identity approximate."
+    },
+    {
+      "token": "જાંબુ",
+      "translit": "jāṁbu",
+      "gloss": "jambu / black plum (Syzygium)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. jambū.",
+      "notes": "—"
+    },
+    {
+      "token": "પીલૂ",
+      "translit": "pīlū",
+      "gloss": "pīlu fruit (Salvadora)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. pīlu.",
+      "notes": "—"
+    },
+    {
+      "token": "આખી વાલ્હોલી",
+      "translit": "ākhī vālholī",
+      "gloss": "whole (un-shelled) hyacinth-bean pods",
+      "partOfSpeech": "compound",
+      "etymology": "ākhī 'whole' + vālhoḷī (val/hyacinth bean).",
+      "notes": "Multi-seeded pods full of life."
+    },
+    {
+      "token": "સ્વહસ્તે કીધા",
+      "translit": "svahaste kīdhā",
+      "gloss": "may have made (parched grain) with one's own hand",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. sva-hasta 'own hand' + kīdhā 'did'.",
+      "notes": "Personally roasting pahoṁka — direct harm to seed-life."
+    },
+    {
+      "token": "કાચું લૂણ",
+      "translit": "kācuṁ lūṇa",
+      "gloss": "raw (unfired) salt",
+      "partOfSpeech": "compound",
+      "etymology": "kācuṁ 'raw' + lūṇa (Skt. lavaṇa 'salt').",
+      "notes": "Sacitta until rendered by fire; eating it raw is a lapse."
+    },
+    {
+      "token": "વાશી વડાં",
+      "translit": "vāśī vaḍāṁ",
+      "gloss": "stale (overnight) vaḍā",
+      "partOfSpeech": "compound",
+      "etymology": "vāśī 'stale, kept overnight' + vaḍā 'fritters'.",
+      "notes": "—"
+    },
+    {
+      "token": "વાશી પોલી",
+      "translit": "vāśī polī",
+      "gloss": "stale flatbread",
+      "partOfSpeech": "compound",
+      "etymology": "vāśī + polī.",
+      "notes": "Kept food breeds life past its time."
+    },
+    {
+      "token": "સોળ પહોર ઉપરાંત દહીં વાવર્યું",
+      "translit": "soḷa pahora uparāṁta dahīṁ vāvaryuṁ",
+      "gloss": "may have used curd kept beyond sixteen pahor (≈48 hrs)",
+      "partOfSpeech": "verb",
+      "etymology": "soḷa 'sixteen' + pahora (a watch ≈ 3 hrs) + dahīṁ 'curd' + vāparavuṁ 'use'.",
+      "notes": "Curd becomes sacitta (life-bearing) after the prescribed limit."
+    },
+    {
+      "token": "સંસક્ત ફૂલ ફલ ઉપજીવ્યાં",
+      "translit": "saṁsakta phūla phala upajīvyāṁ",
+      "gloss": "may have consumed insect-infested flowers and fruit",
+      "partOfSpeech": "verb",
+      "etymology": "Skt. saṁsakta 'infested, clinging with life' + phūla/phala + upajīvavuṁ 'live on'.",
+      "notes": "Produce visibly holding moving life."
+    },
+    {
+      "token": "અણગળ પાણી પીધું",
+      "translit": "aṇagaḷa pāṇī pīdhuṁ",
+      "gloss": "may have drunk unfiltered water",
+      "partOfSpeech": "verb",
+      "etymology": "aṇa- (neg.) + gāḷavuṁ 'to strain' + pāṇī 'water'.",
+      "notes": "Unstrained water swarms with ap-kāya and creatures."
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "and whatever else",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati aneru 'other'.",
+      "notes": "Standard catch-all that closes each block."
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "regarding (this vow)",
+      "partOfSpeech": "adverb",
+      "etymology": "Skt. viṣaye 'in the matter of'.",
+      "notes": "Closes: '…against this seventh bhogopabhoga vow.' The implicit refrain 'micchā mi dukkaḍaṁ' follows."
+    }
+  ],
+  "literalTranslation": "Seventh, the enjoyment-and-use vow is two-fold: as to food and as to occupation. Therein, as to food, in this vow: the five udumbara figs, the four great vikṛtis, ice, poison, hail, and all clay; and night-eating, many-seeded fruits, the infinite-bodied (vegetables) and pickles (1). Buttermilk-soaked vaḍā, brinjal, flowers and fruits of unknown name, pithless fruit, food whose flavour has turned — shun these twenty-two inedibles (2). These are the twenty-two abhakṣya. All tuber kinds: elephant-foot yam and vajra-tuber; fresh turmeric, fresh ginger and fresh zedoary (1); śatāvarī, vidārī, aloe, thor, giloy, garlic, bamboo-shoots, carrot, luṇī and loḍha (2); girikarṇikā, tender leaf-sprouts, the milky-sap plant, thega, fresh nut-grass, loṇaka, tree-bark, khilluhaḍa and amṛta-creeper (3); radish, ground-fungi, sprouts, ḍhaṅka, the first growth of bathuā, sūkara-creeper, spinach, tender bilva-shoots (4); yam and piṇḍālu — knowing these to be the thirty-two (anantakāyas), let the wise renounce them with effort (5). Excepting illness, famine and the like, I, to the best of my ability, renounce these thirty-two infinite-bodied vegetables. I now scrutinise the five transgressions of this seventh enjoyment-and-use (food) vow: eating living food; eating food bound to a living thing; eating half-cooked food; eating ill-cooked food; eating pithless food. Having taken a rule limiting living food, I may unknowingly have taken sacitta in excess. As for sacitta-bound: I may have put rāyaṇ pulp in my mouth and removed the stone, or scraped tree-gum and eaten it at once thinking it lifeless. As for half-cooked: I may have eaten the raw grain inside a flatbread. As for ill-cooked: I may have eaten roasted olā or pohã thinking them lifeless. As for pithless: I may have eaten tender tamarind, tender vāgaraḍā, blossom-clusters, leaf-buds, tiny unripe mango. And I may have eaten at night; eaten at an uncertain twilight hour; sat to eat in the dark; drunk water in a careless gulp. I may not have reflected, for day and for night, on the fourteen rules ('sacitta, dravya, vigai…'). In the rainy season I may have eaten old dry coconut, dried dates, dates; taken jujube, jambu, pīlu, whole hyacinth-bean pods; made parched grain with my own hand; used raw salt, stale vaḍā, stale flatbread, curd kept beyond sixteen pahor; lived on insect-infested flowers and fruit; drunk unfiltered water. And whatever else (I did) against this seventh enjoyment-and-use vow.",
+  "idiomaticTranslation": "The seventh vow governs what I enjoy and what I use, and it has two faces — food and livelihood. Taking up the food side first: in this vow I am to shun the five fig-fruits, the four most degrading rich foods, ice, poison and hail, all clay, eating after dark, many-seeded fruits, the infinite-souled vegetables and aged pickles; buttermilk-vaḍā and brinjal, any flower or fruit whose name I cannot tell, pithless fruit and food gone sour — these twenty-two forbidden things. So too the thirty-two infinite-bodied roots: every kind of tuber — elephant-foot yam, vajra-root, fresh turmeric, ginger and zedoary; śatāvarī, vidārī, aloe, spurge, giloy, garlic, bamboo-shoots, carrot, luṇī, loḍha; girikarṇikā, fresh leaf-buds, the milky-sap herb, thega, fresh nut-grass, loṇaka, tree-bark, khilluhaḍa, amṛta-creeper; radish, ground-mushrooms, all sprouts, ḍhaṅka, the first shoot of bathuā, sūkara-creeper, spinach, tender bilva-buds; yam and piṇḍālu. Knowing them for what they are, the discerning should renounce them with care — and so, illness or famine aside, I renounce them as best I can. Now I cleanse the five lapses of this vow: I may have eaten living matter, or matter still joined to a living thing — sucking rāyaṇ pulp off the stone, or eating fresh tree-gum as though it were dead; I may have eaten the raw heart of a half-baked bread, or parched ola and pohã imagining them lifeless; I may have eaten unripe tamarind, tender pods, blossoms, buds, a tiny green mango. I may have eaten at night, or in the doubtful dusk, or in the dark where I could not look; gulped water heedlessly; failed to settle my fourteen daily rules for day and night. In the rains I may have eaten old coconut, dried dates and dates, jujube, jambu, pīlu, whole bean-pods; roasted grain with my own hand; used raw salt, day-old vaḍā and bread, curd past its limit; fed on insect-ridden flowers and fruit; drunk unstrained water. For these and every other slip against this seventh vow — may that misdeed of mine come to nothing.",
+  "elaboration": {
+    "verseByVerseCommentary": "This is the longest single confession in the whole atiyāra because the seventh vow is where the householder's daily ahiṁsā is most relentlessly tested — at the plate. The verse first announces the vow's two faces (bhojanataḥ / karmataḥ) and then commits this block entirely to food, deferring livelihood to verse 8. Structurally it nests three canonical inventories inside one vow: the twenty-two abhakṣya (gāthās 1–2), the thirty-two anantakāya (gāthās 1–5), and only then the five atichāras. The logic is graded: abhakṣya are foods abandoned outright; anantakāya are a sub-class of plant whose every specimen houses innumerable one-sensed souls (so a single morsel is mass killing); the five atichāras are the subtler slips that survive even after one has 'given up' such foods. Notice how the prose deliberately glosses each Prakrit atichāra-name with a homely Gujarati example — appoṣadhi becomes 'the raw grain inside a half-baked polī', tucchoṣadhi becomes 'a tiny unripe mango' — so that an abstract canonical term lands as a concrete kitchen scruple. Two refrains do the heavy doctrinal work. 'Acitta-buddhe' (thinking it lifeless) names the recurring error: the fault is eating still-sentient matter under the mistaken belief that it has been rendered acitta. And the seasonal clause — old coconut, dates, curd-past-sixteen-pahor, unfiltered water 'in the rains' — encodes the Jain principle that a food's status is not fixed but changes with time and weather as it becomes a breeding-ground for life. The verse's own escape-valve, 'yathāśakte, excepting illness and famine', is the householder's jayaṇā: it admits that perfect abstention is a monastic ideal, and asks instead for honest, capacity-bound restraint reviewed by mind, speech and body.",
+    "doctrinalContext": "The verse rests on Jain bio-classification: the living world graded by senses, with vegetation as ekendriya (one-sensed) life. Anantakāya ('infinite-bodied') is the gravest vegetal category — sādhāraṇa-vanaspati, plants in which countless souls share one body, so harming one harms innumerable; this is why tubers, sprouts, fungi and fresh rhizomes are singled out while their dried or fire-rendered forms may be permitted. The sacitta/acitta distinction is the operative axis: matter is sacitta (soul-bearing) until rendered acitta by prescribed means (fire, sufficient time, drying), and the five atichāras all turn on eating sacitta or near-sacitta matter — directly, while bound to its source, half-rendered, ill-rendered, or trivially-rendered with disproportionate destruction. Rātri-bhojana is condemned both as ahiṁsā (lamps draw and darkness hides minute creatures) and as discipline. The whole list is an applied commentary on the first aṇuvrata, prāṇātipāta-viramaṇa, showing that non-violence for a layperson is finally adjudicated in the kitchen.",
+    "practicalRelevance": "For a modern reciter this verse converts diet into daily mindfulness: check whether food is sacitta or properly rendered; avoid the named abhakṣya and root-vegetables to one's sincere capacity; do not eat after dark or in conditions where one cannot inspect the food; filter drinking water; respect time-limits on curd, soaked and stale items, especially in humid weather; and each day actually resolve the fourteen niyamas rather than leaving them vague. Crucially, the 'yathāśakte' clause licenses honesty over pretence — better a truthfully limited vow kept than an absolute one broken — and the closing micchā mi dukkaḍaṁ asks the reciter to own even the unknowing slip.",
+    "crossReferences": [
+      {
+        "text": "Upāsakadaśāṅga-sūtra 1 — the five atichāras of bhogopabhoga (sacittāhāra, sacitta-pratibaddhāhāra, apakvauṣadhi-, duṣpakvauṣadhi-, tucchauṣadhi-bhakṣaṇa)",
+        "source": "Aṅga-āgama (Śvetāmbara canon)"
+      },
+      {
+        "text": "Tattvārtha-sūtra 7.30 — sacittāhāra etc. listed as the transgressions of the bhogopabhoga-parimāṇa vow",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
+      },
+      {
+        "text": "Yoga-śāstra 3.7 ff. and Śrāddha-pratikramaṇa Vandāru-vṛtti — abhakṣya, anantakāya and rātri-bhojana exposition",
+        "source": "Hemacandra; Devendrasūri"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de",
+      "type": "dictionary",
+      "consultedFor": "Sanskrit roots for sacitta/acitta, kanda, anantakāya, abhakṣya, vikṛti, parihṛ, prayatna and botanical glosses (haridrā, ārdraka, vāstūka, mūlaka, bilva)."
+    },
+    {
+      "title": "Sheth, Pāia-sadda-mahaṇṇavo (Prakrit–Sanskrit dictionary)",
+      "url": "https://archive.org/details/paiasaddamahanna00sheth",
+      "type": "dictionary",
+      "consultedFor": "Prakrit gāthā vocabulary: vajjaya, abhujja, kandajāi, kisalaya, parihariyavva, payatta, huṁta, and the abhakṣya/anantakāya item-names."
+    },
+    {
+      "title": "Upāsakadaśāṅga-sūtra (Aṅga 7) with the twelve śrāvaka vows and their atichāras — jainqq.org / Jaina Āgama collection",
+      "url": "https://jainqq.org",
+      "type": "scholarship",
+      "consultedFor": "Canonical confirmation of the five bhogopabhoga atichāras and the sacitta-based reading of the food vow."
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha edition), Jain eLibrary",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "Verbatim verse text, orthography (atiyāra spelling), the 22 abhakṣya / 32 anantakāya gāthās, and the Gujarati atichāra exposition."
+    }
+  ],
+  "translatorConfidence": 0.82,
+  "notes": "(1) The Prakrit gāthās are preserved verbatim from the book, including non-normalised forms (e.g. mahaviga-i, rāibhoyaṇāgaṁ, lhasaṇa). (2) Several anantakāya item-names are obscure regional/Prakrit plant-words whose precise botanical identity is not securely attested — flagged here: vajjakando, luṇāo, loḍho, girikaṇiṇa, khīrisuā, thega, loṇa, khīlluhaḍo, ḍhakka, sūara-vallo. Glosses for these follow the most common traditional identifications but should be treated as approximate; the canonical count 'thirty-two' is itself partly schematic. (3) 'gulale pāṇī pīdhuṁ' (line 36–37) is read as careless/gulped drinking; the exact sense of 'gulale' is uncertain. (4) The five atichāra names appear in the book in their Prakrit forms (appoṣahi/duppoṣahi/tucchoṣahi = apakva-/duṣpakva-/tuccha-auṣadhi); the Gujarati prose supplies the operative glosses adopted here. (5) The implicit closing refrain 'micchā mi dukkaḍaṁ' is not printed in this excerpt but is the established block-closer (preface recurringImagery (c)); noted, not invented. (6) Web verification covered the five canonical atichāras and the general abhakṣya/anantakāya framework; deep per-item botanical identifications were not independently re-verified for the obscure names listed in (2)."
+}
