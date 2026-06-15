@@ -1,0 +1,1334 @@
+{
+  "shlokaId": "bruhad-atiyar/15",
+  "targetLang": "english",
+  "targetScript": "latin",
+  "plainMeaning": "Having finished confessing the twelve vows, the reciter now admits every slip in five areas of conduct — knowledge, faith, austerity and spiritual effort (with right-character implied) — and seals it all with the formula 'may my misdeed come to nothing,' then renews the day-limiting Deśāvagāśika vow.",
+  "recitation": "tathā jñānācāre jñāna rahe āśātanā kīdhī hoy; paḍhatāṁ, guṇatāṁ antarāya kīdho hoy; macchar dharyo hoy; akṣarane thūṁk lagāḍyuṁ hoy; pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, kāgale pag lagāḍyo hoy; khamāsamaṇ pākhe parivāḍī līdhī hoy; jñānadravyataṇī sārasaṁbhāḷ kīdhī na hoy; aneruṁ e jñānācāra viṣe. ॥1॥ — tathā darśanācāre samyaktva virādhiuṁ hoy; dev, guru namaskāra karyā pākhe bhojan kīdhuṁ hoy; dev pūjatāṁ dhotī śuddha kīdhī na hoy; mukhakoś kīdho na hoy; ādhaḍaviche dev pūjyā hoy; gurune āsaṇe, besaṇe, upagaraṇe pag lagāḍyo hoy; guruvacan dveṣalage vālyuṁ hoy; biṁb hāthathakī vichuṭyuṁ hoy; biṁbnuṁ vechāvacca kīdhuṁ na hoy; devadravya āpaṇe vyavasāye ghālyuṁ hoy; devadravya viṇasatuṁ uvekhyuṁ hoy; aneruṁ e darśanācāra viṣe. ॥2॥ — tapācāre chatī śakte pacchakkhāṇ kīdhuṁ na hoy, karīne bhāṅgyuṁ hoy, pacchakkhāṇ pālyuṁ na hoy, niyam, abhigrah lei bhāṅgyā hoy, cha bhed abhyantar, cha bhed bāhya tap avasare sācavyuṁ na hoy; aneruṁ e tapācāra viṣe. ॥3॥ — vīryācāre chatī śakte cha āvaśyak samyak sācavyā na hoy; chatī veḷāe posah sāmāyik kīdhuṁ na hoy; beṭhāṁ vāndaṇāṁ dīdhāṁ hoy; kāussagga adhikā adhiko vadhāryo na hoy; chatī śakte tap kīdhuṁ na hoy; dveṣ karato koi vāryo na hoy; navuṁ paḍhatāṁ, āgaluṁ gaṇatāṁ, artha vicār pūchatāṁ kahetāṁ āḷas kīdhuṁ hoy; chatī sāmagrīe dān dīdhuṁ na hoy; devayātrā guruyātrā kīdhī na hoy; sahāmmītaṇī bhakti sācavī na hoy; dharmavaṁtnī āpadā bhāṅgī na hoy; aneruṁ e vīryācāra viṣe. ॥4॥ — aneruṁ je kāṁi jinavacan viruddha man, vacan, kāyāe karaṇ, karāvaṇ, anumatie karī samācaryuṁ hoy; te savi huṁ mane, vacane, kāyāe karī micchā mi dukkaḍaṁ. ॥ paḍisiddhāṇaṁ karaṇe, kiccāṇamakaraṇe paḍikkamaṇaṁ; asaddahaṇe ya tahā, vivarīya parūvaṇāe ya. ॥1॥ desāvagāsiaṁ, uvabhogaṁ paribhogaṁ pacchakkhāmi; annatthaṇābhogeṇaṁ, sahasāgāreṇaṁ, mahattarāgāreṇaṁ, savvasamāhivattiyāgāreṇaṁ vosirāmi. ॥",
+  "wordByWord": [
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "and likewise; moreover — the connective that opens each ācāra section, marking a fresh heading of confession",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit tathā 'thus, in that manner'",
+      "notes": "Recurs as the section-opener at jñānācāra and darśanācāra."
+    },
+    {
+      "token": "જ્ઞાનાચારે",
+      "translit": "jñānācāre",
+      "gloss": "in the conduct-of-knowledge (jñānācāra)",
+      "partOfSpeech": "noun",
+      "etymology": "jñāna 'knowledge' + ācāra 'conduct'; locative -e",
+      "notes": "First of the five ācāras; ācāra is a preface-glossary term."
+    },
+    {
+      "token": "જ્ઞાન",
+      "translit": "jñāna",
+      "gloss": "knowledge; sacred learning",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit √jñā 'to know'",
+      "notes": ""
+    },
+    {
+      "token": "રહે",
+      "translit": "rahe",
+      "gloss": "concerning / in respect of (lit. 'as regards')",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati postposition of relation",
+      "notes": "Here 'in matters of knowledge'."
+    },
+    {
+      "token": "આશાતના",
+      "translit": "āśātanā",
+      "gloss": "disrespect; irreverent treatment of something sacred",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit āśātanā 'transgression, dishonouring'",
+      "notes": "Key term: dishonouring scripture or holy objects."
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "(if/that) was done — feminine past participle",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati karī/kīdh- from Sanskrit kṛta 'done'",
+      "notes": "Gender-agreeing form (kīdhī/kīdho/kīdhuṁ) recurs throughout each clause."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have been; might be — subjunctive auxiliary 'if it should have happened'",
+      "partOfSpeech": "verb",
+      "etymology": "Old Gujarati hoy from Sanskrit bhavati 'to be'",
+      "notes": "The pervasive optative auxiliary closing nearly every clause; recurs dozens of times and is glossed once here."
+    },
+    {
+      "token": "પઢતાં",
+      "translit": "paḍhatāṁ",
+      "gloss": "(others) while studying / reciting",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paḍha- 'to read', cf. Skt paṭh-",
+      "notes": "Present participle, locative-absolute sense."
+    },
+    {
+      "token": "ગુણતાં",
+      "translit": "guṇatāṁ",
+      "gloss": "while reckoning / repeating (committing to memory)",
+      "partOfSpeech": "verb",
+      "etymology": "guṇ- 'to count, recite over'",
+      "notes": "Paired with paḍhatāṁ: reading and revising."
+    },
+    {
+      "token": "અંતરાય",
+      "translit": "antarāya",
+      "gloss": "obstruction; hindrance placed in another's path",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit antarāya 'impediment'",
+      "notes": "Obstructing another's study is a jñānācāra fault."
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "(if/that) was done — masculine past participle",
+      "partOfSpeech": "verb",
+      "etymology": "see kīdhī",
+      "notes": "Agrees with masculine antarāya."
+    },
+    {
+      "token": "મચ્છર",
+      "translit": "macchar",
+      "gloss": "envy; grudging jealousy (of another's learning)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit macchara from Sanskrit matsara 'envy'",
+      "notes": "Not 'mosquito'; here the vice of envy."
+    },
+    {
+      "token": "ધર્યો",
+      "translit": "dharyo",
+      "gloss": "(if) was held / harboured",
+      "partOfSpeech": "verb",
+      "etymology": "√dhṛ 'to hold'",
+      "notes": "'Held envy' = nursed jealousy."
+    },
+    {
+      "token": "અક્ષરને",
+      "translit": "akṣarane",
+      "gloss": "to the letter / written syllable (of scripture)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit akṣara 'syllable, letter'; dative -ne",
+      "notes": ""
+    },
+    {
+      "token": "થૂંક",
+      "translit": "thūṁk",
+      "gloss": "saliva; spittle",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati thūṁk 'spit'",
+      "notes": "Wetting a finger with saliva to turn pages dishonours the text."
+    },
+    {
+      "token": "લગાડ્યું",
+      "translit": "lagāḍyuṁ",
+      "gloss": "(if) was applied / made to touch",
+      "partOfSpeech": "verb",
+      "etymology": "lagāḍ- causative of lag- 'to touch'",
+      "notes": "Neuter form agreeing with thūṁk."
+    },
+    {
+      "token": "પાટી",
+      "translit": "pāṭī",
+      "gloss": "writing-board / slate",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit paṭṭa 'tablet'",
+      "notes": "First of six sacred study-articles; touching them with the foot is a fault."
+    },
+    {
+      "token": "પોથી",
+      "translit": "pothī",
+      "gloss": "manuscript volume; scripture-book",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pustikā 'small book'",
+      "notes": ""
+    },
+    {
+      "token": "કવલી",
+      "translit": "kavalī",
+      "gloss": "the wooden book-clasp / loose-leaf folder for palm-leaf scripture",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati/Prakrit; book-binding board",
+      "notes": "Variant spellings exist; preserved verbatim."
+    },
+    {
+      "token": "ઠવણી",
+      "translit": "ṭhavaṇī",
+      "gloss": "the book-stand (sthāpanācārya rest)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit ṭhavaṇa from Sanskrit sthāpanā 'placing'",
+      "notes": "Stand on which scripture/guru-symbol is set."
+    },
+    {
+      "token": "નોકારવાલી",
+      "translit": "nokāravālī",
+      "gloss": "the rosary / Navkar-counting beads",
+      "partOfSpeech": "noun",
+      "etymology": "navakāra 'Navkar mantra' + vālī 'string'",
+      "notes": ""
+    },
+    {
+      "token": "કાગલે",
+      "translit": "kāgale",
+      "gloss": "to paper (a written sheet)",
+      "partOfSpeech": "noun",
+      "etymology": "Persian kāghaz 'paper'; locative -e",
+      "notes": ""
+    },
+    {
+      "token": "પગ",
+      "translit": "pag",
+      "gloss": "foot",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit pāda 'foot'",
+      "notes": "Touching sacred articles with the foot is gross disrespect."
+    },
+    {
+      "token": "લગાડ્યો",
+      "translit": "lagāḍyo",
+      "gloss": "(if) was made to touch",
+      "partOfSpeech": "verb",
+      "etymology": "see lagāḍyuṁ",
+      "notes": "Masculine, agreeing with pag."
+    },
+    {
+      "token": "ખમાસમણ",
+      "translit": "khamāsamaṇ",
+      "gloss": "the khamāsamaṇa — the prostration-salutation of homage",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit khamāsamaṇa 'O forbearing monk', a reverential bow",
+      "notes": "Ritual term, transliterated."
+    },
+    {
+      "token": "પાખે",
+      "translit": "pākhe",
+      "gloss": "without; in the absence of",
+      "partOfSpeech": "particle",
+      "etymology": "Old Gujarati pākhe 'apart from'",
+      "notes": "Recurs below ('namaskāra pākhe')."
+    },
+    {
+      "token": "પરિવાડી",
+      "translit": "parivāḍī",
+      "gloss": "the recitation-round / sequential turn of study (paripāṭī)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit paripāṭī 'orderly sequence'",
+      "notes": "Taking one's study-turn without the prescribed khamāsamaṇa."
+    },
+    {
+      "token": "લીધી",
+      "translit": "līdhī",
+      "gloss": "(if) was taken / undertaken",
+      "partOfSpeech": "verb",
+      "etymology": "√lā/labh 'to take'",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઞાનદ્રવ્યતણી",
+      "translit": "jñānadravyataṇī",
+      "gloss": "of the funds/property dedicated to knowledge (jñāna-dravya)",
+      "partOfSpeech": "compound",
+      "etymology": "jñāna + dravya 'wealth' + Old Guj. genitive -taṇī",
+      "notes": "Endowments for copying/preserving scriptures."
+    },
+    {
+      "token": "સારસંભાળ",
+      "translit": "sārasaṁbhāḷ",
+      "gloss": "care; upkeep and safeguarding",
+      "partOfSpeech": "noun",
+      "etymology": "sāra 'essence/care' + saṁbhāḷ 'looking after'",
+      "notes": ""
+    },
+    {
+      "token": "ન",
+      "translit": "na",
+      "gloss": "not",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit na 'not'",
+      "notes": "With hoy = 'may NOT have been done' — the fault of omission. Recurs throughout."
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "anything further / other (unnamed faults)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati aneru 'other', cf. Skt anya",
+      "notes": "The catch-all that closes each ācāra, sweeping up unlisted lapses."
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "this; in this (matter)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Old Gujarati e 'this/that'",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "concerning; with respect to",
+      "partOfSpeech": "particle",
+      "etymology": "Sanskrit viṣaye 'in the domain of'",
+      "notes": "Closes each ācāra clause."
+    },
+    {
+      "token": "દર્શનાચારે",
+      "translit": "darśanācāre",
+      "gloss": "in the conduct-of-faith (darśanācāra)",
+      "partOfSpeech": "noun",
+      "etymology": "darśana 'right faith' + ācāra; locative",
+      "notes": "Second ācāra."
+    },
+    {
+      "token": "વિરાધિઉં",
+      "translit": "virādhiuṁ",
+      "gloss": "(if) was violated / spoiled",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit virādh- 'to injure, transgress'",
+      "notes": "Right-faith spoiled by doubt or carelessness."
+    },
+    {
+      "token": "દેવ",
+      "translit": "dev",
+      "gloss": "the Jina-deity (the worshipped Tīrthaṅkara image)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit deva 'god/divine'",
+      "notes": "Recurs; here object of homage and worship."
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "the preceptor / mendicant teacher",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit guru 'teacher'",
+      "notes": ""
+    },
+    {
+      "token": "નમસ્કાર",
+      "translit": "namaskāra",
+      "gloss": "salutation; obeisance",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit namaskāra 'bowing'",
+      "notes": ""
+    },
+    {
+      "token": "કર્યા",
+      "translit": "karyā",
+      "gloss": "having made / done",
+      "partOfSpeech": "verb",
+      "etymology": "√kṛ 'to do'",
+      "notes": "'namaskāra karyā pākhe' = without having made obeisance."
+    },
+    {
+      "token": "ભોજન",
+      "translit": "bhojan",
+      "gloss": "a meal; eating",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhojana 'food'",
+      "notes": "Eating before bowing to Deva and Guru is the fault."
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "(if) was done — neuter past participle",
+      "partOfSpeech": "verb",
+      "etymology": "see kīdhī",
+      "notes": "Recurs in neuter contexts."
+    },
+    {
+      "token": "પૂજતાં",
+      "translit": "pūjatāṁ",
+      "gloss": "while worshipping",
+      "partOfSpeech": "verb",
+      "etymology": "√pūj 'to worship'",
+      "notes": ""
+    },
+    {
+      "token": "ધોતી",
+      "translit": "dhotī",
+      "gloss": "the dhoti (worship-garment)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dhauta 'washed cloth'",
+      "notes": "Must be ritually pure for pūjā."
+    },
+    {
+      "token": "શુદ્ધ",
+      "translit": "śuddha",
+      "gloss": "pure; ritually clean",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit śuddha 'pure'",
+      "notes": ""
+    },
+    {
+      "token": "મુખકોશ",
+      "translit": "mukhakoś",
+      "gloss": "the mouth-cloth covering (worn while worshipping to avoid breath-defilement)",
+      "partOfSpeech": "noun",
+      "etymology": "mukha 'mouth' + kośa 'sheath'",
+      "notes": "Not tying the mouth-cloth during pūjā is a darśanācāra lapse."
+    },
+    {
+      "token": "આધડવિચે",
+      "translit": "ādhaḍaviche",
+      "gloss": "in haste / half-attentively, in a slapdash way",
+      "partOfSpeech": "adverb",
+      "etymology": "Old Gujarati idiom 'hurriedly, carelessly'",
+      "notes": "Variant idiom; reading preserved verbatim from the book."
+    },
+    {
+      "token": "પૂજ્યા",
+      "translit": "pūjyā",
+      "gloss": "(if the Deva) was worshipped",
+      "partOfSpeech": "verb",
+      "etymology": "√pūj",
+      "notes": "Worshipping the Jina carelessly/hurriedly."
+    },
+    {
+      "token": "ગુરુને",
+      "translit": "gurune",
+      "gloss": "of/to the guru",
+      "partOfSpeech": "noun",
+      "etymology": "guru + dative-genitive -ne",
+      "notes": ""
+    },
+    {
+      "token": "આસણે",
+      "translit": "āsaṇe",
+      "gloss": "on the seat / mat",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit āsana 'seat'",
+      "notes": ""
+    },
+    {
+      "token": "બેસણે",
+      "translit": "besaṇe",
+      "gloss": "on the sitting-place / cushion",
+      "partOfSpeech": "noun",
+      "etymology": "Gujarati besaṇ 'a seat', from bes- 'to sit'",
+      "notes": ""
+    },
+    {
+      "token": "ઉપગરણે",
+      "translit": "upagaraṇe",
+      "gloss": "on the (monastic) equipment / requisites",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit upakaraṇa 'implement'",
+      "notes": "The guru's rajoharaṇa, books, vessels etc."
+    },
+    {
+      "token": "ગુરુવચન",
+      "translit": "guruvacan",
+      "gloss": "the guru's word / instruction",
+      "partOfSpeech": "compound",
+      "etymology": "guru + vacana 'speech'",
+      "notes": ""
+    },
+    {
+      "token": "દ્વેષલગે",
+      "translit": "dveṣalage",
+      "gloss": "out of spite / through aversion",
+      "partOfSpeech": "adverb",
+      "etymology": "dveṣa 'hatred' + lage 'on account of'",
+      "notes": ""
+    },
+    {
+      "token": "વાલ્યું",
+      "translit": "vālyuṁ",
+      "gloss": "(if) was rebuffed / turned aside (contradicted)",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vāḷ- 'to turn back'",
+      "notes": "Spitefully countering the guru's word."
+    },
+    {
+      "token": "બિંબ",
+      "translit": "biṁb",
+      "gloss": "the (Jina) image / idol",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bimba 'image, disc'",
+      "notes": ""
+    },
+    {
+      "token": "હાથથકી",
+      "translit": "hāthathakī",
+      "gloss": "from the hand",
+      "partOfSpeech": "noun",
+      "etymology": "hātha 'hand' + thakī 'from'",
+      "notes": ""
+    },
+    {
+      "token": "વિછુટ્યું",
+      "translit": "vichuṭyuṁ",
+      "gloss": "(if) slipped / fell away",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vichuṭ- 'to be released/dropped'",
+      "notes": "Dropping the image from the hand."
+    },
+    {
+      "token": "બિંબનું",
+      "translit": "biṁbnuṁ",
+      "gloss": "of the image",
+      "partOfSpeech": "noun",
+      "etymology": "biṁb + genitive -nuṁ",
+      "notes": ""
+    },
+    {
+      "token": "વેચાવચ્ચ",
+      "translit": "vechāvacca",
+      "gloss": "service / attentive maintenance (vaiyāvṛttya)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit veyāvacca from Sanskrit vaiyāvṛttya 'service'",
+      "notes": "Failing to provide for the image's upkeep."
+    },
+    {
+      "token": "દેવદ્રવ્ય",
+      "translit": "devadravya",
+      "gloss": "temple-funds; wealth dedicated to the Deva",
+      "partOfSpeech": "compound",
+      "etymology": "deva + dravya 'property'",
+      "notes": "Misusing it is a grave fault."
+    },
+    {
+      "token": "આપણે",
+      "translit": "āpaṇe",
+      "gloss": "for one's own (use)",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati āpaṇ 'oneself/our'",
+      "notes": ""
+    },
+    {
+      "token": "વ્યવસાયે",
+      "translit": "vyavasāye",
+      "gloss": "in (personal) business / trade",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vyavasāya 'enterprise'",
+      "notes": ""
+    },
+    {
+      "token": "ઘાલ્યું",
+      "translit": "ghālyuṁ",
+      "gloss": "(if) was put / diverted into",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati ghāl- 'to insert, put'",
+      "notes": "Diverting temple-funds into private trade."
+    },
+    {
+      "token": "વિણસતું",
+      "translit": "viṇasatuṁ",
+      "gloss": "being wasted / going to ruin",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit viṇas- from Sanskrit vinaśyati 'perishes'",
+      "notes": ""
+    },
+    {
+      "token": "ઉવેખ્યું",
+      "translit": "uvekhyuṁ",
+      "gloss": "(if) was ignored / looked away from (allowed to perish)",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit upekṣ- 'to overlook'",
+      "notes": "Negligently letting temple-wealth be lost."
+    },
+    {
+      "token": "તપાચારે",
+      "translit": "tapācāre",
+      "gloss": "in the conduct-of-austerity (tapācāra)",
+      "partOfSpeech": "noun",
+      "etymology": "tapa 'austerity' + ācāra; locative",
+      "notes": "Third ācāra recited here (cāritrācāra is folded into the twelve-vow body above)."
+    },
+    {
+      "token": "છતી",
+      "translit": "chatī",
+      "gloss": "(though) present / available — i.e. 'having the capacity'",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati chat- 'existing', cf. Skt sat",
+      "notes": "'chatī śakte' = 'though strength was there'. Recurs throughout vīryācāra too."
+    },
+    {
+      "token": "શક્તે",
+      "translit": "śakte",
+      "gloss": "in strength / capacity",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit śakti 'power'",
+      "notes": ""
+    },
+    {
+      "token": "પચ્ચખ્ખાણ",
+      "translit": "pacchakkhāṇ",
+      "gloss": "a vow of renunciation (pratyākhyāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paccakkhāṇa from Sanskrit pratyākhyāna",
+      "notes": "Book spells it પચ્ચખ્ખાણ; preserved verbatim."
+    },
+    {
+      "token": "કરીને",
+      "translit": "karīne",
+      "gloss": "having made (it)",
+      "partOfSpeech": "verb",
+      "etymology": "kar- 'to do' + gerund -īne",
+      "notes": ""
+    },
+    {
+      "token": "ભાંગ્યું",
+      "translit": "bhāṅgyuṁ",
+      "gloss": "(if) was broken",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati bhāṅg- 'to break', cf. Skt bhañj-",
+      "notes": "Making a vow then breaking it."
+    },
+    {
+      "token": "પાલ્યું",
+      "translit": "pālyuṁ",
+      "gloss": "(if) was kept / observed",
+      "partOfSpeech": "verb",
+      "etymology": "√pāl 'to protect, observe'",
+      "notes": "With na: 'was not kept'."
+    },
+    {
+      "token": "નિયમ",
+      "translit": "niyam",
+      "gloss": "a (self-imposed) rule / restriction",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit niyama 'restraint'",
+      "notes": ""
+    },
+    {
+      "token": "અભિગ્રહ",
+      "translit": "abhigrah",
+      "gloss": "a special resolve / conditional vow",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit abhigraha 'firm resolve'",
+      "notes": ""
+    },
+    {
+      "token": "લેઇ",
+      "translit": "lei",
+      "gloss": "having taken",
+      "partOfSpeech": "verb",
+      "etymology": "√lā 'to take' + gerund",
+      "notes": ""
+    },
+    {
+      "token": "ભાંગ્યા",
+      "translit": "bhāṅgyā",
+      "gloss": "(if they) were broken — plural",
+      "partOfSpeech": "verb",
+      "etymology": "see bhāṅgyuṁ",
+      "notes": "Agrees with niyam/abhigrah."
+    },
+    {
+      "token": "છ",
+      "translit": "cha",
+      "gloss": "six",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit ṣaṣ 'six'",
+      "notes": "The six internal + six external austerities (twelve tapas)."
+    },
+    {
+      "token": "ભેદ",
+      "translit": "bhed",
+      "gloss": "kind; division",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bheda 'distinction'",
+      "notes": ""
+    },
+    {
+      "token": "અભ્યંતર",
+      "translit": "abhyantar",
+      "gloss": "internal (austerity)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit abhyantara 'inner'",
+      "notes": "The six inner tapas: prāyaścitta, vinaya, vaiyāvṛttya, svādhyāya, dhyāna, kāyotsarga."
+    },
+    {
+      "token": "બાહ્ય",
+      "translit": "bāhya",
+      "gloss": "external (austerity)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit bāhya 'outer'",
+      "notes": "The six outer tapas, e.g. fasting, reduced diet."
+    },
+    {
+      "token": "તપ",
+      "translit": "tap",
+      "gloss": "austerity; penance",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit tapas 'ascetic heat'",
+      "notes": "Recurs in vīryācāra."
+    },
+    {
+      "token": "અવસરે",
+      "translit": "avasare",
+      "gloss": "at the (proper) occasion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit avasara 'opportunity'",
+      "notes": ""
+    },
+    {
+      "token": "સાચવ્યું",
+      "translit": "sācavyuṁ",
+      "gloss": "(if) was observed / kept up",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati sācav- 'to maintain'",
+      "notes": "With na: failing to keep tapa at the right time."
+    },
+    {
+      "token": "વીર્યાચારે",
+      "translit": "vīryācāre",
+      "gloss": "in the conduct-of-energy (vīryācāra)",
+      "partOfSpeech": "noun",
+      "etymology": "vīrya 'spiritual energy' + ācāra; locative",
+      "notes": "Fifth ācāra: not exerting one's full capacity in religion."
+    },
+    {
+      "token": "આવશ્યક",
+      "translit": "āvaśyak",
+      "gloss": "the (six) obligatory rites (āvaśyaka)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit āvaśyaka 'necessary duty'",
+      "notes": "'cha āvaśyak' = the six daily obligations."
+    },
+    {
+      "token": "સમ્યક્",
+      "translit": "samyak",
+      "gloss": "properly; rightly",
+      "partOfSpeech": "adverb",
+      "etymology": "Sanskrit samyak 'correctly'",
+      "notes": ""
+    },
+    {
+      "token": "સાચવ્યા",
+      "translit": "sācavyā",
+      "gloss": "(if they) were observed — plural",
+      "partOfSpeech": "verb",
+      "etymology": "see sācavyuṁ",
+      "notes": "Agrees with the six āvaśyakas."
+    },
+    {
+      "token": "વેળાએ",
+      "translit": "veḷāe",
+      "gloss": "at the (proper) time",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit velā 'time, hour'",
+      "notes": ""
+    },
+    {
+      "token": "પોસહ",
+      "translit": "posah",
+      "gloss": "the pauṣadha fast-observance (a day of monastic-style discipline)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit posaha from Sanskrit pauṣadha",
+      "notes": "The 11th lay vow's practice."
+    },
+    {
+      "token": "સામાયિક",
+      "translit": "sāmāyik",
+      "gloss": "the equanimity-observance (sāmāyika)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sāmāyika 'state of equanimity'",
+      "notes": "First āvaśyaka / 9th lay vow."
+    },
+    {
+      "token": "બેઠાં",
+      "translit": "beṭhāṁ",
+      "gloss": "while seated",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati beṭh- 'sat', from bes-",
+      "notes": ""
+    },
+    {
+      "token": "વાંદણાં",
+      "translit": "vāndaṇāṁ",
+      "gloss": "the guru-veneration salutations (vāndaṇā)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vandaṇaya from Sanskrit vandana",
+      "notes": "Should be done standing; doing them seated is the fault."
+    },
+    {
+      "token": "દીધાં",
+      "translit": "dīdhāṁ",
+      "gloss": "(if they) were given / offered",
+      "partOfSpeech": "verb",
+      "etymology": "√dā 'to give'",
+      "notes": ""
+    },
+    {
+      "token": "કાઉસ્સગ્ગ",
+      "translit": "kāussagga",
+      "gloss": "the kāyotsarga (motionless meditation)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāussagga from Sanskrit kāyotsarga",
+      "notes": "Preface-glossary term; book spells કાઉસ્સગ્ગ here."
+    },
+    {
+      "token": "અધિકા",
+      "translit": "adhikā",
+      "gloss": "more / additional",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit adhika 'extra'",
+      "notes": "'adhikā adhiko' = ever more, emphatic doubling."
+    },
+    {
+      "token": "અધિકો",
+      "translit": "adhiko",
+      "gloss": "(still) more",
+      "partOfSpeech": "adj",
+      "etymology": "see adhikā",
+      "notes": "Emphatic reduplication."
+    },
+    {
+      "token": "વધાર્યો",
+      "translit": "vadhāryo",
+      "gloss": "(if) was increased / lengthened",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati vadhār- 'to augment'",
+      "notes": "With na: not extending one's kāyotsarga though able."
+    },
+    {
+      "token": "દ્વેષ",
+      "translit": "dveṣ",
+      "gloss": "hatred; aversion",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dveṣa 'aversion'",
+      "notes": ""
+    },
+    {
+      "token": "કરતો",
+      "translit": "karato",
+      "gloss": "(one) doing / committing",
+      "partOfSpeech": "verb",
+      "etymology": "kar- + present participle",
+      "notes": "'one acting out of hatred'."
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "anyone; someone",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit kaḥ-api 'anyone'",
+      "notes": ""
+    },
+    {
+      "token": "વાર્યો",
+      "translit": "vāryo",
+      "gloss": "(if) was restrained / stopped",
+      "partOfSpeech": "verb",
+      "etymology": "√vṛ/vār- 'to ward off'",
+      "notes": "With na: not restraining someone acting in hatred."
+    },
+    {
+      "token": "નવું",
+      "translit": "navuṁ",
+      "gloss": "new (material to learn)",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit nava 'new'",
+      "notes": ""
+    },
+    {
+      "token": "આગલું",
+      "translit": "āgaluṁ",
+      "gloss": "what was learnt before; previous (lessons)",
+      "partOfSpeech": "adj",
+      "etymology": "Gujarati āgaḷ 'ahead/before'",
+      "notes": ""
+    },
+    {
+      "token": "ગણતાં",
+      "translit": "gaṇatāṁ",
+      "gloss": "while revising / reciting over",
+      "partOfSpeech": "verb",
+      "etymology": "gaṇ- 'to count, recite'",
+      "notes": ""
+    },
+    {
+      "token": "અર્થ",
+      "translit": "artha",
+      "gloss": "meaning (of the text)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit artha 'meaning'",
+      "notes": ""
+    },
+    {
+      "token": "વિચાર",
+      "translit": "vicār",
+      "gloss": "reflection; deliberation on meaning",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vicāra 'consideration'",
+      "notes": ""
+    },
+    {
+      "token": "પૂછતાં",
+      "translit": "pūchatāṁ",
+      "gloss": "while asking / inquiring",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati pūch- 'to ask'",
+      "notes": ""
+    },
+    {
+      "token": "કહેતાં",
+      "translit": "kahetāṁ",
+      "gloss": "while explaining / telling",
+      "partOfSpeech": "verb",
+      "etymology": "Gujarati kah- 'to say'",
+      "notes": ""
+    },
+    {
+      "token": "આળસ",
+      "translit": "āḷas",
+      "gloss": "laziness; sloth",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit ālasya 'indolence'",
+      "notes": "The core vīryācāra fault: spiritual sloth."
+    },
+    {
+      "token": "સામગ્રીએ",
+      "translit": "sāmagrīe",
+      "gloss": "with the means / resources (being available)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit sāmagrī 'requisites'",
+      "notes": "'chatī sāmagrīe' = though the means were present."
+    },
+    {
+      "token": "દાન",
+      "translit": "dān",
+      "gloss": "charitable giving; alms",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit dāna 'gift'",
+      "notes": ""
+    },
+    {
+      "token": "દીધું",
+      "translit": "dīdhuṁ",
+      "gloss": "(if) was given",
+      "partOfSpeech": "verb",
+      "etymology": "√dā",
+      "notes": "With na: failing to give though able."
+    },
+    {
+      "token": "દેવયાત્રા",
+      "translit": "devayātrā",
+      "gloss": "pilgrimage to the Jina (temple-pilgrimage)",
+      "partOfSpeech": "compound",
+      "etymology": "deva + yātrā 'journey'",
+      "notes": ""
+    },
+    {
+      "token": "ગુરુયાત્રા",
+      "translit": "guruyātrā",
+      "gloss": "journeying to honour the guru",
+      "partOfSpeech": "compound",
+      "etymology": "guru + yātrā",
+      "notes": ""
+    },
+    {
+      "token": "સહામ્મીતણી",
+      "translit": "sahāmmītaṇī",
+      "gloss": "of a co-religionist (sādharmika, fellow Jain)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sāhammiya from Sanskrit sādharmika + genitive -taṇī",
+      "notes": ""
+    },
+    {
+      "token": "ભક્તિ",
+      "translit": "bhakti",
+      "gloss": "devoted service; hospitality",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit bhakti 'devotion'",
+      "notes": "Serving fellow Jains (sādharmika-vātsalya)."
+    },
+    {
+      "token": "સાચવી",
+      "translit": "sācavī",
+      "gloss": "(if) was upheld / fulfilled",
+      "partOfSpeech": "verb",
+      "etymology": "see sācavyuṁ",
+      "notes": "Feminine, agreeing with bhakti."
+    },
+    {
+      "token": "ધર્મવંતની",
+      "translit": "dharmavaṁtnī",
+      "gloss": "of a righteous / pious person",
+      "partOfSpeech": "noun",
+      "etymology": "dharma + -vant 'possessing' + genitive -nī",
+      "notes": ""
+    },
+    {
+      "token": "આપદા",
+      "translit": "āpadā",
+      "gloss": "distress; calamity",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit āpad 'misfortune'",
+      "notes": ""
+    },
+    {
+      "token": "ભાંગી",
+      "translit": "bhāṅgī",
+      "gloss": "(if) was relieved / broken (i.e. ended)",
+      "partOfSpeech": "verb",
+      "etymology": "see bhāṅgyuṁ",
+      "notes": "'breaking' another's distress = relieving it; with na, failing to do so."
+    },
+    {
+      "token": "જે",
+      "translit": "je",
+      "gloss": "whatever",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit ya- relative",
+      "notes": "Opens the universalising final confession."
+    },
+    {
+      "token": "કાંઇ",
+      "translit": "kāṁi",
+      "gloss": "anything at all",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati kāṁi 'something'",
+      "notes": ""
+    },
+    {
+      "token": "જિનવચન",
+      "translit": "jinavacan",
+      "gloss": "the word of the Jina; scriptural injunction",
+      "partOfSpeech": "compound",
+      "etymology": "jina 'conqueror' + vacana 'word'",
+      "notes": ""
+    },
+    {
+      "token": "વિરુદ્ધ",
+      "translit": "viruddha",
+      "gloss": "contrary to; against",
+      "partOfSpeech": "adj",
+      "etymology": "Sanskrit viruddha 'opposed'",
+      "notes": "'contrary to the Jina's word'."
+    },
+    {
+      "token": "મન",
+      "translit": "man",
+      "gloss": "mind",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit manas",
+      "notes": "Part of the mind–speech–body triad (preface)."
+    },
+    {
+      "token": "વચન",
+      "translit": "vacan",
+      "gloss": "speech",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit vacana",
+      "notes": ""
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "by body",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit kāya 'body'; instrumental -e",
+      "notes": ""
+    },
+    {
+      "token": "કરણ",
+      "translit": "karaṇ",
+      "gloss": "doing (oneself)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit karaṇa 'doing'",
+      "notes": "First of the karaṇa-triad: doing, causing, consenting."
+    },
+    {
+      "token": "કરાવણ",
+      "translit": "karāvaṇ",
+      "gloss": "causing (another) to do",
+      "partOfSpeech": "noun",
+      "etymology": "causative of kar-",
+      "notes": ""
+    },
+    {
+      "token": "અનુમતિએ",
+      "translit": "anumatie",
+      "gloss": "by approving / consenting",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit anumati 'assent'; instrumental",
+      "notes": "Third of the triad."
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "having done; by means of",
+      "partOfSpeech": "verb",
+      "etymology": "kar- gerund",
+      "notes": ""
+    },
+    {
+      "token": "સમાચર્યું",
+      "translit": "samācaryuṁ",
+      "gloss": "(if) was committed / practised",
+      "partOfSpeech": "verb",
+      "etymology": "Sanskrit sam-ā-car 'to perform'",
+      "notes": ""
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "that; all of that",
+      "partOfSpeech": "pronoun",
+      "etymology": "Sanskrit tad 'that'",
+      "notes": ""
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "all; every bit",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit savi from Sanskrit sarva 'all'",
+      "notes": ""
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "I",
+      "partOfSpeech": "pronoun",
+      "etymology": "Gujarati huṁ, cf. Skt aham",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "by mind",
+      "partOfSpeech": "noun",
+      "etymology": "manas, instrumental",
+      "notes": "Repeats the triad in the sealing refrain."
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "by speech",
+      "partOfSpeech": "noun",
+      "etymology": "vacana, instrumental",
+      "notes": ""
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "false; in vain",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit micchā from Sanskrit mithyā 'false'",
+      "notes": "Part of the refrain micchā mi dukkaḍaṁ (preface-glossary)."
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "my; for me",
+      "partOfSpeech": "pronoun",
+      "etymology": "Prakrit mi from Sanskrit me 'my'",
+      "notes": ""
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "misdeed; ill-done act",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit dukkaḍa from Sanskrit duṣkṛta 'wrong deed'",
+      "notes": "'May my misdeed come to nothing.'"
+    },
+    {
+      "token": "પડિસિદ્ધાણં",
+      "translit": "paḍisiddhāṇaṁ",
+      "gloss": "of things prohibited (forbidden acts)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍisiddha from Sanskrit pratiṣiddha 'forbidden'; genitive pl.",
+      "notes": "Opens the four-fold gāthā: pratikramaṇa is owed for (1) doing the forbidden."
+    },
+    {
+      "token": "કરણે",
+      "translit": "karaṇe",
+      "gloss": "in the doing (of them)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit karaṇa; locative",
+      "notes": ""
+    },
+    {
+      "token": "કિચ્ચાણમકરણે",
+      "translit": "kiccāṇam-akaraṇe",
+      "gloss": "in the not-doing of duties (sandhi of kiccāṇaṁ + akaraṇe)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit kicca from Sanskrit kṛtya 'duty' + a-karaṇa 'non-doing'",
+      "notes": "Ground (2): omitting what ought to be done."
+    },
+    {
+      "token": "પડિક્કમણં",
+      "translit": "paḍikkamaṇaṁ",
+      "gloss": "pratikramaṇa (turning-back / repentance) is to be made",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit paḍikkamaṇa from Sanskrit pratikramaṇa",
+      "notes": "Preface-glossary term; the predicate of the gāthā."
+    },
+    {
+      "token": "અસદ્દહણે",
+      "translit": "asaddahaṇe",
+      "gloss": "in disbelief (lack of faith in the truths)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit a-saddahaṇa from Sanskrit a-śraddhāna 'non-belief'",
+      "notes": "Ground (3): doubting the tattvas."
+    },
+    {
+      "token": "ય",
+      "translit": "ya",
+      "gloss": "and",
+      "partOfSpeech": "particle",
+      "etymology": "Prakrit ya from Sanskrit ca 'and'",
+      "notes": "Connective in the gāthā (occurs twice)."
+    },
+    {
+      "token": "તહા",
+      "translit": "tahā",
+      "gloss": "likewise; and so",
+      "partOfSpeech": "adverb",
+      "etymology": "Prakrit tahā from Sanskrit tathā",
+      "notes": ""
+    },
+    {
+      "token": "વિવરીય",
+      "translit": "vivarīya",
+      "gloss": "contrary; perverse (false)",
+      "partOfSpeech": "adj",
+      "etymology": "Prakrit vivarīya from Sanskrit viparīta 'inverted'",
+      "notes": "Modifies parūvaṇā: ground (4) of false teaching."
+    },
+    {
+      "token": "પરૂવણા",
+      "translit": "parūvaṇā",
+      "gloss": "preaching; expounding (of doctrine)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit parūvaṇā from Sanskrit prarūpaṇā 'exposition'",
+      "notes": "'vivarīya parūvaṇā' = contrary/false preaching."
+    },
+    {
+      "token": "દેસાવગાસિઅં",
+      "translit": "desāvagāsiaṁ",
+      "gloss": "the Deśāvagāśika vow (daily contraction of one's spatial limits)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit from Sanskrit deśāvakāśika 'limiting to a region'",
+      "notes": "The 10th lay vow, renewed daily; opens the closing pratyākhyāna."
+    },
+    {
+      "token": "ઉવભોગં",
+      "translit": "uvabhogaṁ",
+      "gloss": "consumable enjoyment (things used once, e.g. food)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit uvabhoga from Sanskrit upabhoga",
+      "notes": ""
+    },
+    {
+      "token": "પરિભોગં",
+      "translit": "paribhogaṁ",
+      "gloss": "repeated enjoyment (things used again and again, e.g. clothes)",
+      "partOfSpeech": "noun",
+      "etymology": "Sanskrit paribhoga 'repeated use'",
+      "notes": ""
+    },
+    {
+      "token": "પચ્ચક્ખામિ",
+      "translit": "pacchakkhāmi",
+      "gloss": "I renounce / abstain from",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit paccakkhāmi from Sanskrit pratyākhyāmi",
+      "notes": "First-person vow-verb."
+    },
+    {
+      "token": "અન્નત્થણાભોગેણં",
+      "translit": "annatthaṇābhogeṇaṁ",
+      "gloss": "except through inadvertence (annattha + aṇābhoga)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit annattha 'otherwise' + aṇābhoga 'absent-mindedness'; instrumental",
+      "notes": "First of the standard āgāras (exception-clauses) that keep the vow from breaking unintentionally."
+    },
+    {
+      "token": "સહસ્સાગારેણં",
+      "translit": "sahasāgāreṇaṁ",
+      "gloss": "except by sudden/unwitting act (sahasā-āgāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit sahasā 'suddenly' + āgāra 'exception'; instrumental",
+      "notes": "Second āgāra."
+    },
+    {
+      "token": "મહત્તરાગારેણં",
+      "translit": "mahattarāgāreṇaṁ",
+      "gloss": "except for a greater (compelling) cause (mahattara-āgāra)",
+      "partOfSpeech": "compound",
+      "etymology": "Prakrit mahattara 'greater' + āgāra; instrumental",
+      "notes": "Third āgāra."
+    },
+    {
+      "token": "સવ્વસમાહિવત્તિયાગારેણં",
+      "translit": "savvasamāhivattiyāgāreṇaṁ",
+      "gloss": "except for the sake of complete equanimity/health (sarva-samādhi-pratyaya-āgāra)",
+      "partOfSpeech": "compound",
+      "etymology": "savva 'all' + samāhi 'equanimity' + vattiya 'on account of' + āgāra; instrumental",
+      "notes": "Fourth āgāra, covering acts done to preserve overall spiritual composure."
+    },
+    {
+      "token": "વોસિરામિ",
+      "translit": "vosirāmi",
+      "gloss": "I abandon / give up",
+      "partOfSpeech": "verb",
+      "etymology": "Prakrit vosirāmi from Sanskrit vyutsṛjāmi 'I relinquish'",
+      "notes": "The standard renunciation-verb sealing the pratyākhyāna."
+    }
+  ],
+  "literalTranslation": "And likewise, in the conduct of knowledge: if I have shown disrespect to knowledge; if I have obstructed others while they read or recite; if I have harboured envy; if I have applied saliva to the letters; if I have set my foot on the writing-board, the book, the clasp, the stand, the rosary, or paper; if I have taken my study-turn without the khamāsamaṇa; if I have failed to look after the funds dedicated to knowledge — and whatever else there may be in the conduct of knowledge. ॥1॥ And in the conduct of faith: if I have spoiled right-faith; if I have eaten without first bowing to Deva and Guru; if while worshipping I have not purified my dhoti; if I have not worn the mouth-cloth; if I have worshipped the Deva carelessly; if I have set my foot on the guru's seat, cushion or requisites; if I have spitefully contradicted the guru's word; if the image has slipped from my hand; if I have not provided for the image's upkeep; if I have diverted temple-funds into my own business; if I have ignored temple-wealth going to ruin — and whatever else there may be in the conduct of faith. ॥2॥ And in the conduct of austerity: if, though able, I have not made a vow of renunciation, or having made it have broken it, or have not kept it; if, having taken a rule or special resolve, I have broken them; if I have not, at the proper time, observed the six inner and six outer austerities — and whatever else there may be in the conduct of austerity. ॥3॥ And in the conduct of energy: if, though able, I have not properly observed the six obligatory rites; if I have not done pauṣadha and sāmāyika when there was time; if I have given the salutations while seated; if I have not lengthened my kāyotsarga ever further; if, though able, I have not done austerity; if I have not restrained someone acting out of hatred; if I have been slothful in learning the new, revising the old, or asking and explaining the meaning; if, though I had the means, I have not given charity; if I have not gone on pilgrimage to Deva or Guru; if I have not upheld service to a fellow-Jain; if I have not relieved the distress of a pious person — and whatever else there may be in the conduct of energy. ॥4॥ And whatever else, contrary to the Jina's word, I may have committed by mind, speech or body, by doing, causing or consenting — for all that, by mind, speech and body, may my misdeed be in vain. ॥ For doing what is forbidden, for not doing what is to be done, for disbelief, and likewise for contrary preaching — pratikramaṇa is to be made. ॥1॥ I renounce the Deśāvagāśika vow's consumable and repeated enjoyments; save through inadvertence, by sudden act, for a greater cause, or for the sake of complete equanimity — I give them up. ॥",
+  "idiomaticTranslation": "Turning now from the twelve vows to the five domains of right conduct: in my dealings with knowledge, have I slighted the sacred word — obstructed a fellow-student, nursed envy, wet the holy letters with spittle, let my foot touch board, book, clasp, stand, rosary or page, taken my turn at study without due salutation, or neglected the funds set aside for learning? For all this, and all I have left unnamed — may it come to nothing. In matters of faith, have I let my right-belief weaken — eaten before bowing to the Jina and guru, worshipped in an impure cloth or without the mouth-veil, handled the image carelessly, let it slip, failed its upkeep, turned temple-wealth to my own trade, or watched it waste away unmoved? In austerity, have I, though strong enough, left a vow unmade, made and broken, or kept slackly, and neglected the twelve penances in their season? In spiritual energy, have I — with strength, time and means all at hand — skimped the six daily rites, skipped pauṣadha and sāmāyika, bowed seated, cut my meditation short, shirked penance, let a man rage unchecked, grown lazy at study and teaching, withheld charity, forgone pilgrimage, failed a fellow-believer or left a good person in distress? Whatever I have done against the Jina's word — by thought, word or deed, doing it, having it done, or approving it — for all of it, by mind, speech and body, may my misdeed be undone. Repentance is owed on four counts: doing the forbidden, leaving duty undone, doubting the truth, and teaching it falsely. And I renew the day's Deśāvagāśika: I lay down all needless use and enjoyment, allowing only the recognised exceptions, and so I let them go.",
+  "elaboration": {
+    "verseByVerseCommentary": "After the long vow-by-vow audit, this verse widens the lens from *what* a śrāvaka vowed to *how* he carries himself across the five ācāras — the very Ratnatraya translated into daily behaviour. Notably the text recites only four headings (jñāna, darśana, tapa, vīrya): cāritrācāra is not skipped but already discharged, since the twelve vows just confessed *are* right-conduct in action. The jñānācāra list is strikingly tactile — saliva on letters, a foot brushing a book or rosary, neglected scripture-funds — teaching that reverence for knowledge is measured in how one physically handles its vessels, not in abstract esteem. Darśanācāra then guards the objects and economy of faith: the worship-cloth, the mouth-veil, the dropped image, and above all *devadravya* turned to private profit — a fault the tradition treats with unusual severity. Tapācāra and vīryācāra share one sharp refrain, *chatī śakte / chatī veḷāe / chatī sāmagrīe* — 'though the strength / time / means were there.' This is the verse's moral hinge: it confesses not inability but *un-exerted* ability, the sloth (āḷas) of a soul that could have done more. The closing *aneruṁ … micchā mi dukkaḍaṁ* gathers every unnamed lapse, and then the *Paḍisiddhāṇaṁ* gāthā supplies the theory behind the whole confession: repentance is owed on exactly four grounds — doing the forbidden, omitting the prescribed, disbelieving, and mis-teaching — a fourfold net that catches commission, omission, faith and speech alike. The verse seals with the Deśāvagāśika pratyākhyāna, so the act of looking back (pratikramaṇa) flows straight into a fresh forward vow (pratyākhyāna): confession is not closure but renewal.",
+    "doctrinalContext": "The five ācāras operationalise the Ratnatraya of Tattvārtha-sūtra 1.1 (samyag-darśana-jñāna-cāritra), with tapas and vīrya added as the engine that drives the three jewels. By placing knowledge-conduct first, the verse affirms the Jain axiom that right knowledge depends on and protects right faith. The *karaṇa-triad* (karaṇ–karāvaṇ–anumati, doing–causing–consenting) crossed with the *yoga-triad* (mana–vacana–kāyā) yields the ninefold scope by which Jain ethics measures every act — confessed here verbatim. The *Paḍisiddhāṇaṁ* gāthā encodes the classical fourfold cause of pratikramaṇa and is the doctrinal kernel that justifies the entire atichāra liturgy. The reverence for *devadravya* and *jñāna-dravya* reflects the principle that sacred endowments, once dedicated, may never be turned to lay use — diverting them incurs heavy karmic bondage.",
+    "practicalRelevance": "For today's reciter, the verse converts vague guilt into a precise checklist of *omission*: not the harm done, but the good left undone when strength, time and means were available. Its concrete images update easily — handling a scripture-app or temple donation box with the same care once owed to palm-leaf and rosary, not letting a phone or careless hand profane study. The repeated *chatī śakte* invites an honest audit of one's own untapped capacity each fortnight. Ending on the Deśāvagāśika renewal models the healthy rhythm: review the lapse, release it, and immediately bind a fresh, modest vow for the day ahead.",
+    "crossReferences": [
+      {
+        "text": "Tattvārtha-sūtra 1.1 — samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ (the three jewels behind the five ācāras)",
+        "source": "Umāsvāti, trans. Vijay K. Jain"
+      },
+      {
+        "text": "Tattvārtha-sūtra ch. 9 (tapas: six external + six internal austerities) underlying tapācāra",
+        "source": "Umāsvāti"
+      },
+      {
+        "text": "Vandittu (Śrāddha-pratikramaṇa) Sūtra — the 'Paḍisiddhāṇaṁ karaṇe' gāthā on the four grounds of pratikramaṇa",
+        "source": "Śvetāmbara āvaśyaka tradition"
+      },
+      {
+        "text": "Laghu Atiyār (the short Devasi/Rāi confession the bṛhad form expands)",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Pratikramana (the six āvaśyakas; pratyākhyāna as renunciation)",
+      "url": "https://en.wikipedia.org/wiki/Pratikramana",
+      "type": "scholarship",
+      "consultedFor": "Confirming the framework of the six obligatory rites and the meaning of pratyākhyāna that frame vīryācāra and the closing Deśāvagāśika vow."
+    },
+    {
+      "title": "Tattvārtha-sūtra (Ratnatraya; chapter 9 on tapas)",
+      "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
+      "type": "scholarship",
+      "consultedFor": "Grounding the five ācāras in samyag-darśana-jñāna-cāritra and the six internal/external austerities."
+    },
+    {
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://www.jainelibrary.org",
+      "type": "translation",
+      "consultedFor": "The verbatim Gujarati text of the five-ācāra confession, the Paḍisiddhāṇaṁ gāthā and the Deśāvagāśika pratyākhyāna in this edition."
+    },
+    {
+      "title": "Anuvrata and the twelve vows of the Jain householder (Deśāvagāśika as the 10th vow)",
+      "url": "https://en.wikipedia.org/wiki/Anuvrata",
+      "type": "scholarship",
+      "consultedFor": "Confirming the place of the Deśāvagāśika vow whose pratyākhyāna seals this verse."
+    }
+  ],
+  "translatorConfidence": 0.83,
+  "notes": "This verse (15) recites only FOUR ācāra headings — jñāna, darśana, tapa, vīrya — omitting cāritrācāra by design, since the twelve vows already confessed constitute right-conduct itself; this matches the preface's bracketed '[cāritra]'. Several lexemes are Old/Medieval Gujarati with regional spread: 'ādhaḍaviche' (rendered 'in haste/carelessly') and 'kavalī' (book-clasp/folder) are dialectal and their precise referents vary by edition — glossed by context, flagged as uncertain. 'macchar' here is matsara (envy), not the homophone for 'mosquito'. Book-specific orthography preserved verbatim: પચ્ચખ્ખાણ (doubled), કાઉસ્સગ્ગ, and the atichāra-related spellings, per the edition's conventions; mātrās/anusvāras follow the printed text. The 'Paḍisiddhāṇaṁ karaṇe' gāthā is the standard Śvetāmbara verse naming the four grounds of pratikramaṇa; its attribution is to the shared āvaśyaka tradition rather than a named author. General web references conflated some Prakrit terms with Buddhist Pali homographs; those were disregarded in favour of the Jain āvaśyaka reading. IAST recitation uses ṅ for the Gujarati ં before velars (bhāṅgyuṁ) for chant-clarity; the source's anusvāra is preserved in 'token'."
+}

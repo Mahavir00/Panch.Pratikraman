@@ -76,15 +76,19 @@ const MONOTONIC_VOW_SPLIT = new Set([
 
 // Secondary splits for monotonic-split sutras: per-sutra needles that split ONE
 // monotonic verse into two at the line where a distinct second section begins.
-// The book places vow 7's karmataḥ (the 15 karmādāna) AFTER vow 7's ॥૭॥ but
-// BEFORE vow 8, so the monotonic pass (which only breaks at ॥N॥) lumps the
-// karmādāna list together with vow 8 (anarthadaṇḍa) into one oversized verse.
-// Splitting on the unambiguous anarthadaṇḍa heading "આઠમું અનર્થ દંડ" yields the
-// karmādāna section and the anarthadaṇḍa vow as separate, properly-translatable
-// verses. (The needle is the spelled-out heading, NOT "૮.", so it cannot collide
-// with the karmādāna sub-list's own item 8, "૮. રસવાણિજ્જે".)
+// (1) The book places vow 7's karmataḥ (the 15 karmādāna) AFTER vow 7's ॥૭॥ but
+//     BEFORE vow 8, so the monotonic pass (which only breaks at ॥N॥) lumps the
+//     karmādāna list together with vow 8 (anarthadaṇḍa). Needle "આઠમું અનર્થ દંડ"
+//     splits them (spelled-out heading, can't collide with karmādāna item 8).
+// (2) The concluding tail verse runs saṁlekhanā + the 85-atichāra confession
+//     together with the five-ācāra confession (jñāna/darśana/cāritra/tapa/vīrya)
+//     + the final pratyākhyāna — distinct sections, and as one ~2255-char verse
+//     its dense word-by-word output is too large to translate reliably. Needle
+//     "રહે આશાતના" (from the jñānācāra opening line; simple glyphs that byte-match
+//     the page, unlike the જ્ઞ conjunct; verified unique to this verse) splits it
+//     into the saṁlekhanā/85-atichāra wrap-up and the ācāra confession + formula.
 const SECONDARY_SPLITS = {
-    "bruhad-atiyar": ["આઠમું અનર્થ દંડ"],
+    "bruhad-atiyar": ["આઠમું અનર્થ દંડ", "રહે આશાતના"],
 };
 
 // Split a monotonic verse into two at the first line that begins a configured

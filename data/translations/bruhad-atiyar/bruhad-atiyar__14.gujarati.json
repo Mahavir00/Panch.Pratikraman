@@ -1,0 +1,812 @@
+{
+  "shlokaId": "bruhad-atiyar/14",
+  "targetLang": "gujarati",
+  "targetScript": "gujarati",
+  "plainMeaning": "જીવનના અંતે સમાધિપૂર્વક દેહ છોડવાની તૈયારી (સંલેષણા)માં લાગતા પાંચ દોષ આલોચીને, ભક્ત બારે વ્રતના કુલ પંચ્યાશી અતિચાર — જાણતાં-અજાણતાં, બોલવામાં થયેલી નાની ભૂલો સહિત — મન-વચન-કાયાથી ‘મિચ્છા મિ દુક્કડં’ કહી ખમાવે છે.",
+  "recitation": "અપચ્છિમ મરણાંતિક સંલેષણાતણા પાંચ અતિયાર શોધું. ઇહલોગા સંસપ્પઓગે, પરલોગા સંસપ્પઓગે, જિવિયા સંસપ્પઓગે, મરણા સંસપ્પઓગે, કામભોગા સંસપ્પઓગે. ઇહલોક આશ્રી ઋદ્ધિ, વૃદ્ધિતણી આશંસા વાંછા કીધી હોય. પરલોક આશ્રી ઇંદ્ર, ચક્રવર્તીતણી આશંસા વાંછા કીધી હોય. જિવિતવ્ય અને મરણાતણી આશંસા વાંછા કીધી હોય. કામ ભોગતણી આશંસા વાંછા કીધી હોય. અનેરું એ સંલેષણા વિષે. ॥ એવંકારે શ્રી સમ્યક્ત્વમૂલ બાર વ્રત વિષે પંચ્યાશી અતિયારમાંહે જિકો કોઇ અતિયાર, અનાચાર, અતિક્રમ, વ્યતિક્રમ હુઓ હોય, તથા જાણતાં અજાણતાં સૂક્ષ્મ, બાદર, કાનો, માત્રા, મિંડી, પદ, અક્ષર, ઓછો, અધિકો, હળવો, ભારી, આગલ, પાછલ, કહ્યો કહેવાણો હોય. તે સવિ હું મને, વચને, કાયાએ કરી મિચ્છા મિ દુક્કડં.",
+  "wordByWord": [
+    {
+      "token": "અપચ્છિમ",
+      "translit": "apacchima",
+      "gloss": "છેલ્લું, અંતિમ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. apacchima < સં. apaścima — જેના પછી બીજું કંઈ ન આવે તે",
+      "notes": "અહીં મરણ સાથે જોડાઈ ‘જીવનનું છેલ્લું’ સૂચવે છે"
+    },
+    {
+      "token": "મરણાંતિક",
+      "translit": "maraṇāntika",
+      "gloss": "મરણના અંત-સમયનું",
+      "partOfSpeech": "adj",
+      "etymology": "maraṇa (મરણ) + antika (અંત સમય)",
+      "notes": ""
+    },
+    {
+      "token": "સંલેષણાતણા",
+      "translit": "saṁleṣaṇātaṇā",
+      "gloss": "સંલેષણાના",
+      "partOfSpeech": "compound",
+      "etymology": "saṁleṣaṇā + ગુ. સંબંધવાચક પ્રત્યય ‘તણા’ (=ના)",
+      "notes": "‘તણા’ એ જૂની ગુજરાતીનો ષષ્ઠી-પ્રત્યય"
+    },
+    {
+      "token": "પાંચ",
+      "translit": "pāṁca",
+      "gloss": "પાંચ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. pañca",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "અતિચાર, વ્રતમાં લાગેલો દોષ",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. atiyāra < સં. aticāra",
+      "notes": ""
+    },
+    {
+      "token": "શોધું",
+      "translit": "śodhuṁ",
+      "gloss": "આલોચું છું, શુદ્ધ કરું છું",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √śudh (શુદ્ધ કરવું)",
+      "notes": "આત્મનિરીક્ષણ-આલોચનાનો ભાવ"
+    },
+    {
+      "token": "ઇહલોગા",
+      "translit": "ihalogā",
+      "gloss": "આ લોક સંબંધી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. ihaloga < સં. ihaloka (આ જન્મ-જગત)",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "આશંસા(ઝંખના)-પ્રયોગથી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. saṁsā-payoga < સં. āśaṁsā-prayoga — ઝંખનાનું પ્રયોજન",
+      "notes": "ઉપાસકદશાનું મૂળ પદ; આ ભાવ ‘આ લોકના સુખની ઝંખના’ છે"
+    },
+    {
+      "token": "પરલોગા",
+      "translit": "paralogā",
+      "gloss": "પરલોક સંબંધી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. paraloga < સં. paraloka",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "આશંસા-પ્રયોગથી",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત; પરલોકના સુખની ઝંખના"
+    },
+    {
+      "token": "જિવિયા",
+      "translit": "jiviyā",
+      "gloss": "જીવિત (જીવવા) સંબંધી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. jīviya < સં. jīvita",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "આશંસા-પ્રયોગથી",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત; વધુ જીવવાની ઝંખના"
+    },
+    {
+      "token": "મરણા",
+      "translit": "maraṇā",
+      "gloss": "મરણ સંબંધી",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા./સં. maraṇa",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "આશંસા-પ્રયોગથી",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત; ‘મરણ વહેલું આવે’ એવી ઝંખના; મૂળ પાઠમાં ‘સંસ-પ્પઓગે’ પંક્તિ-ભંગે વહેંચાયેલ"
+    },
+    {
+      "token": "કામભોગા",
+      "translit": "kāmabhogā",
+      "gloss": "કામભોગ (ઇન્દ્રિય-સુખ) સંબંધી",
+      "partOfSpeech": "noun",
+      "etymology": "kāma (વાસના) + bhoga (ભોગ)",
+      "notes": ""
+    },
+    {
+      "token": "સંસપ્પઓગે",
+      "translit": "saṁsappaoge",
+      "gloss": "આશંસા-પ્રયોગથી",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત; ભોગસુખની ઝંખના — પાંચમો અતિચાર"
+    },
+    {
+      "token": "ઇહલોક",
+      "translit": "ihaloka",
+      "gloss": "આ લોક",
+      "partOfSpeech": "noun",
+      "etymology": "સં. ihaloka",
+      "notes": "હવે ગુજરાતી વ્યાખ્યા શરૂ"
+    },
+    {
+      "token": "આશ્રી",
+      "translit": "āśrī",
+      "gloss": "આશ્રયીને, સંબંધે",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. āśritya (આશ્રય લઈને)",
+      "notes": ""
+    },
+    {
+      "token": "ઋદ્ધિ",
+      "translit": "ṛddhi",
+      "gloss": "ઋદ્ધિ, સમૃદ્ધિ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. ṛddhi",
+      "notes": ""
+    },
+    {
+      "token": "વૃદ્ધિતણી",
+      "translit": "vṛddhitaṇī",
+      "gloss": "વૃદ્ધિની",
+      "partOfSpeech": "noun",
+      "etymology": "vṛddhi + ‘તણી’ (ષષ્ઠી)",
+      "notes": ""
+    },
+    {
+      "token": "આશંસા",
+      "translit": "āśaṁsā",
+      "gloss": "ઝંખના, અભિલાષા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. ā-√śaṁs (ઇચ્છવું)",
+      "notes": ""
+    },
+    {
+      "token": "વાંછા",
+      "translit": "vāṁchā",
+      "gloss": "ઇચ્છા, વાંછના",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vāñchā < √vāñch",
+      "notes": "આશંસા સાથે યુગ્મ-પ્રયોગ, ભાવ-દૃઢીકરણ"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "કરી",
+      "partOfSpeech": "verb",
+      "etymology": "જૂની ગુ. કીધું < સં. kṛta",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય (તો)",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √bhū",
+      "notes": "આલોચનાનો સંભાવના-અર્થ: ‘કદાચ થયું હોય’"
+    },
+    {
+      "token": "પરલોક",
+      "translit": "paraloka",
+      "gloss": "પરલોક, આવતો ભવ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. paraloka",
+      "notes": ""
+    },
+    {
+      "token": "આશ્રી",
+      "translit": "āśrī",
+      "gloss": "આશ્રયીને",
+      "partOfSpeech": "adverb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "ઇંદ્ર",
+      "translit": "iṁdra",
+      "gloss": "ઇન્દ્ર (દેવરાજ)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. indra",
+      "notes": "પરલોકના ઉચ્ચ ભોગ-પદનું પ્રતીક"
+    },
+    {
+      "token": "ચક્રવર્તીતણી",
+      "translit": "cakravartītaṇī",
+      "gloss": "ચક્રવર્તીની",
+      "partOfSpeech": "noun",
+      "etymology": "cakravartin (છ ખંડનો સમ્રાટ) + ‘તણી’",
+      "notes": "આ લોકના ઉચ્ચ ભોગ-પદનું પ્રતીક"
+    },
+    {
+      "token": "આશંસા",
+      "translit": "āśaṁsā",
+      "gloss": "ઝંખના",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "વાંછા",
+      "translit": "vāṁchā",
+      "gloss": "ઇચ્છા",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "કરી",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "જિવિતવ્ય",
+      "translit": "jivitavya",
+      "gloss": "જીવિતવ્ય, જીવવાનું",
+      "partOfSpeech": "noun",
+      "etymology": "સં. jīvitavya (જીવવા યોગ્ય)",
+      "notes": ""
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "અને",
+      "partOfSpeech": "particle",
+      "etymology": "જૂની ગુ. અને",
+      "notes": ""
+    },
+    {
+      "token": "મરણાતણી",
+      "translit": "maraṇātaṇī",
+      "gloss": "મરણની",
+      "partOfSpeech": "noun",
+      "etymology": "maraṇa + ‘તણી’",
+      "notes": "જીવિત-મરણ બંનેની ઝંખનાનો ત્રીજો-ચોથો અતિચાર"
+    },
+    {
+      "token": "આશંસા",
+      "translit": "āśaṁsā",
+      "gloss": "ઝંખના",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "વાંછા",
+      "translit": "vāṁchā",
+      "gloss": "ઇચ્છા",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "કરી",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "કામ",
+      "translit": "kāma",
+      "gloss": "કામ, વાસના",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāma",
+      "notes": ""
+    },
+    {
+      "token": "ભોગતણી",
+      "translit": "bhogataṇī",
+      "gloss": "ભોગની",
+      "partOfSpeech": "noun",
+      "etymology": "bhoga + ‘તણી’",
+      "notes": "પાંચમો અતિચાર — ભોગસુખની ઝંખના"
+    },
+    {
+      "token": "આશંસા",
+      "translit": "āśaṁsā",
+      "gloss": "ઝંખના",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "વાંછા",
+      "translit": "vāṁchā",
+      "gloss": "ઇચ્છા",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "કરી",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "અનેરું",
+      "translit": "aneruṁ",
+      "gloss": "બીજું જે કાંઈ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુ. અનેરું (=અન્ય)",
+      "notes": "વ્રતના અંતે આવતું રૂઢ ‘બાકી રહેલ સર્વ’ સૂચક પદ"
+    },
+    {
+      "token": "એ",
+      "translit": "e",
+      "gloss": "એ, આ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુ. એ",
+      "notes": ""
+    },
+    {
+      "token": "સંલેષણા",
+      "translit": "saṁleṣaṇā",
+      "gloss": "સંલેષણા",
+      "partOfSpeech": "noun",
+      "etymology": "સં. saṁlekhanā (કૃશ કરવું)",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "વિષે, બાબતમાં",
+      "partOfSpeech": "particle",
+      "etymology": "સં. viṣaye",
+      "notes": ""
+    },
+    {
+      "token": "॥",
+      "translit": "||",
+      "gloss": "વિરામ-દંડ",
+      "partOfSpeech": "particle",
+      "etymology": "પાઠ-વિરામચિહ્ન",
+      "notes": "સંલેષણા-વિભાગની સમાપ્તિ"
+    },
+    {
+      "token": "એવંકારે",
+      "translit": "evaṁkāre",
+      "gloss": "એ પ્રમાણે, એમ",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. evaṁ + kāra (એ રીતે)",
+      "notes": "સમાપન-સારાંશ શરૂ"
+    },
+    {
+      "token": "શ્રી",
+      "translit": "śrī",
+      "gloss": "શ્રી (માંગલિક આદર)",
+      "partOfSpeech": "particle",
+      "etymology": "સં. śrī",
+      "notes": ""
+    },
+    {
+      "token": "સમ્યક્ત્વમૂલ",
+      "translit": "samyaktvamūla",
+      "gloss": "સમ્યક્ત્વ જેનું મૂળ છે તેવાં",
+      "partOfSpeech": "adj",
+      "etymology": "samyaktva + mūla (મૂળ)",
+      "notes": "બારે વ્રતનો આધાર સમકિત"
+    },
+    {
+      "token": "બાર",
+      "translit": "bāra",
+      "gloss": "બાર",
+      "partOfSpeech": "adj",
+      "etymology": "સં. dvādaśa",
+      "notes": ""
+    },
+    {
+      "token": "વ્રત",
+      "translit": "vrata",
+      "gloss": "વ્રત",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vrata",
+      "notes": ""
+    },
+    {
+      "token": "વિષે",
+      "translit": "viṣe",
+      "gloss": "વિષે",
+      "partOfSpeech": "particle",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "પંચ્યાશી",
+      "translit": "paṁcyāśī",
+      "gloss": "પંચ્યાશી (૮૫)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. pañcāśīti",
+      "notes": "૫ સમકિત + ૬૦ + ૧૫ કર્માદાન + ૫ સંલેષણા"
+    },
+    {
+      "token": "અતિયારમાંહે",
+      "translit": "atiyāramāṁhe",
+      "gloss": "અતિચારોમાં",
+      "partOfSpeech": "noun",
+      "etymology": "atiyāra + ‘માંહે’ (=માં)",
+      "notes": ""
+    },
+    {
+      "token": "જિકો",
+      "translit": "jiko",
+      "gloss": "જે કોઈ",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુ. જિકો (=જે)",
+      "notes": ""
+    },
+    {
+      "token": "કોઇ",
+      "translit": "koi",
+      "gloss": "કોઈ",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. ko'pi",
+      "notes": ""
+    },
+    {
+      "token": "અતિયાર",
+      "translit": "atiyāra",
+      "gloss": "અતિચાર (આંશિક દોષ)",
+      "partOfSpeech": "noun",
+      "etymology": "જુઓ ઉપર",
+      "notes": "દોષ-તીવ્રતાની ચાર કક્ષાનો બીજો સ્તર"
+    },
+    {
+      "token": "અનાચાર",
+      "translit": "anācāra",
+      "gloss": "અનાચાર (વ્રતનો સંપૂર્ણ ભંગ)",
+      "partOfSpeech": "noun",
+      "etymology": "an + ācāra (આચારનો અભાવ)",
+      "notes": "દોષની ચોથી, સૌથી તીવ્ર કક્ષા"
+    },
+    {
+      "token": "અતિક્રમ",
+      "translit": "atikrama",
+      "gloss": "અતિક્રમ (દોષ તરફ પ્રથમ માનસિક ઝુકાવ)",
+      "partOfSpeech": "noun",
+      "etymology": "ati + √kram (ઓળંગવું)",
+      "notes": "દોષની પ્રથમ કક્ષા"
+    },
+    {
+      "token": "વ્યતિક્રમ",
+      "translit": "vyatikrama",
+      "gloss": "વ્યતિક્રમ (દોષ તરફ આગળ વધવું)",
+      "partOfSpeech": "noun",
+      "etymology": "vi + ati + √kram",
+      "notes": "દોષની બીજી કક્ષા"
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "થયો",
+      "partOfSpeech": "verb",
+      "etymology": "જૂની ગુ. હુઓ < સં. bhūta",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "તથા, અને",
+      "partOfSpeech": "particle",
+      "etymology": "સં. tathā",
+      "notes": ""
+    },
+    {
+      "token": "જાણતાં",
+      "translit": "jāṇatāṁ",
+      "gloss": "જાણીને (જાણતાં)",
+      "partOfSpeech": "adverb",
+      "etymology": "સં. jānat (જાણતો)",
+      "notes": ""
+    },
+    {
+      "token": "અજાણતાં",
+      "translit": "ajāṇatāṁ",
+      "gloss": "અજાણતાં",
+      "partOfSpeech": "adverb",
+      "etymology": "a + jānat",
+      "notes": ""
+    },
+    {
+      "token": "સૂક્ષ્મ",
+      "translit": "sūkṣma",
+      "gloss": "સૂક્ષ્મ, ઝીણો",
+      "partOfSpeech": "adj",
+      "etymology": "સં. sūkṣma",
+      "notes": ""
+    },
+    {
+      "token": "બાદર",
+      "translit": "bādara",
+      "gloss": "બાદર, સ્થૂળ",
+      "partOfSpeech": "adj",
+      "etymology": "સં. bādara",
+      "notes": ""
+    },
+    {
+      "token": "કાનો",
+      "translit": "kāno",
+      "gloss": "કાનો (‘ા’ સ્વરચિહ્ન)",
+      "partOfSpeech": "noun",
+      "etymology": "ગુ. લિપિ-પારિભાષિક",
+      "notes": "ઉચ્ચારણ/લેખનની ભૂલ ગણાવવાનું શરૂ"
+    },
+    {
+      "token": "માત્રા",
+      "translit": "mātrā",
+      "gloss": "માત્રા (સ્વરચિહ્ન)",
+      "partOfSpeech": "noun",
+      "etymology": "સં. mātrā",
+      "notes": ""
+    },
+    {
+      "token": "મિંડી",
+      "translit": "miṁḍī",
+      "gloss": "મીંડું/અનુસ્વાર (‘ં’)",
+      "partOfSpeech": "noun",
+      "etymology": "ગુ. મીંડી",
+      "notes": ""
+    },
+    {
+      "token": "પદ",
+      "translit": "pada",
+      "gloss": "પદ, શબ્દ",
+      "partOfSpeech": "noun",
+      "etymology": "સં. pada",
+      "notes": ""
+    },
+    {
+      "token": "અક્ષર",
+      "translit": "akṣara",
+      "gloss": "અક્ષર",
+      "partOfSpeech": "noun",
+      "etymology": "સં. akṣara",
+      "notes": ""
+    },
+    {
+      "token": "ઓછો",
+      "translit": "ochho",
+      "gloss": "ઓછો",
+      "partOfSpeech": "adj",
+      "etymology": "જૂની ગુ. ઓછું",
+      "notes": ""
+    },
+    {
+      "token": "અધિકો",
+      "translit": "adhiko",
+      "gloss": "અધિક, વધારે",
+      "partOfSpeech": "adj",
+      "etymology": "સં. adhika",
+      "notes": ""
+    },
+    {
+      "token": "હળવો",
+      "translit": "haḷavo",
+      "gloss": "હળવો (લઘુ ઉચ્ચાર)",
+      "partOfSpeech": "adj",
+      "etymology": "ગુ. હળવું",
+      "notes": "ઉચ્ચારણનો ભાર-ભેદ"
+    },
+    {
+      "token": "ભારી",
+      "translit": "bhārī",
+      "gloss": "ભારી (ગુરુ ઉચ્ચાર)",
+      "partOfSpeech": "adj",
+      "etymology": "સં. bhārin",
+      "notes": ""
+    },
+    {
+      "token": "આગલ",
+      "translit": "āgala",
+      "gloss": "આગળ",
+      "partOfSpeech": "adverb",
+      "etymology": "જૂની ગુ. આગલ",
+      "notes": "ક્રમ-ભંગ સૂચક"
+    },
+    {
+      "token": "પાછલ",
+      "translit": "pāchala",
+      "gloss": "પાછળ",
+      "partOfSpeech": "adverb",
+      "etymology": "જૂની ગુ. પાછલ",
+      "notes": ""
+    },
+    {
+      "token": "કહ્યો",
+      "translit": "kahyo",
+      "gloss": "કહ્યો",
+      "partOfSpeech": "verb",
+      "etymology": "સં. kathita",
+      "notes": ""
+    },
+    {
+      "token": "કહેવાણો",
+      "translit": "kahevāṇo",
+      "gloss": "કહેવાયો",
+      "partOfSpeech": "verb",
+      "etymology": "ગુ. કર્મણિ રૂપ",
+      "notes": "‘કહ્યો-કહેવાણો’ યુગ્મ: કર્તૃ-કર્મ બંને રીતે"
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "હોય",
+      "partOfSpeech": "verb",
+      "etymology": "જુઓ ઉપર",
+      "notes": "પુનરાવર્તિત"
+    },
+    {
+      "token": "તે",
+      "translit": "te",
+      "gloss": "તે",
+      "partOfSpeech": "pronoun",
+      "etymology": "સં. tad",
+      "notes": ""
+    },
+    {
+      "token": "સવિ",
+      "translit": "savi",
+      "gloss": "સર્વ, બધા",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. savva < સં. sarva",
+      "notes": ""
+    },
+    {
+      "token": "હું",
+      "translit": "huṁ",
+      "gloss": "હું",
+      "partOfSpeech": "pronoun",
+      "etymology": "જૂની ગુ. હું",
+      "notes": ""
+    },
+    {
+      "token": "મને",
+      "translit": "mane",
+      "gloss": "મનથી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. manasā (મનથી)",
+      "notes": "ત્રિવિધ શુદ્ધિ: મન"
+    },
+    {
+      "token": "વચને",
+      "translit": "vacane",
+      "gloss": "વચનથી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. vacanena",
+      "notes": "ત્રિવિધ શુદ્ધિ: વચન"
+    },
+    {
+      "token": "કાયાએ",
+      "translit": "kāyāe",
+      "gloss": "કાયાથી",
+      "partOfSpeech": "noun",
+      "etymology": "સં. kāyena (શરીરથી)",
+      "notes": "ત્રિવિધ શુદ્ધિ: કાયા"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "કરીને",
+      "partOfSpeech": "verb",
+      "etymology": "સં. √kṛ",
+      "notes": ""
+    },
+    {
+      "token": "મિચ્છા",
+      "translit": "micchā",
+      "gloss": "મિથ્યા, નિષ્ફળ",
+      "partOfSpeech": "adj",
+      "etymology": "પ્રા. micchā < સં. mithyā",
+      "notes": ""
+    },
+    {
+      "token": "મિ",
+      "translit": "mi",
+      "gloss": "મારું",
+      "partOfSpeech": "pronoun",
+      "etymology": "પ્રા. me/mi (=મારું)",
+      "notes": ""
+    },
+    {
+      "token": "દુક્કડં",
+      "translit": "dukkaḍaṁ",
+      "gloss": "દુષ્કૃત, ખરાબ કરેલું",
+      "partOfSpeech": "noun",
+      "etymology": "પ્રા. dukkaḍa < સં. duṣkṛta",
+      "notes": "‘મિચ્છા મિ દુક્કડં’ = ‘મારું એ દુષ્કૃત મિથ્યા થાઓ’"
+    }
+  ],
+  "literalTranslation": "અપશ્ચિમ (છેલ્લા) મરણાંતિક સંલેષણાના પાંચ અતિચાર આલોચું છું: આ-લોકની ઝંખનાથી, પરલોકની ઝંખનાથી, જીવિતની ઝંખનાથી, મરણની ઝંખનાથી, કામભોગની ઝંખનાથી. આ લોક આશ્રયીને ઋદ્ધિ-વૃદ્ધિની આશંસા-વાંછા કરી હોય; પરલોક આશ્રયીને ઇન્દ્ર-ચક્રવર્તીપદની આશંસા-વાંછા કરી હોય; જીવિત અને મરણની આશંસા-વાંછા કરી હોય; કામભોગની આશંસા-વાંછા કરી હોય. એ સંલેષણા વિષે બીજું જે કાંઈ. ॥ એ પ્રમાણે શ્રી સમ્યક્ત્વમૂળ બાર વ્રત વિષે પંચ્યાશી અતિચારોમાં જે કોઈ અતિચાર, અનાચાર, અતિક્રમ, વ્યતિક્રમ થયો હોય; તથા જાણતાં-અજાણતાં સૂક્ષ્મ-બાદર, કાનો, માત્રા, મીંડું, પદ, અક્ષર, ઓછો-અધિક, હળવો-ભારી, આગળ-પાછળ કહ્યો કે કહેવાયો હોય — તે સર્વ હું મન-વચન-કાયાથી મિચ્છા મિ દુક્કડં (કરું છું).",
+  "idiomaticTranslation": "હવે જીવનના છેલ્લા શ્વાસ સુધીની એ સમાધિ-સાધના — સંલેષણા — ના પાંચ દોષ હું તપાસું છું: આ ભવના સુખની ઝંખના, આવતા ભવના સુખની ઝંખના, વધુ જીવવાની ઝંખના, વહેલા મરવાની ઝંખના, અને ભોગસુખની ઝંખના. આ લોકમાં ઋદ્ધિ-સમૃદ્ધિ વધે એવી, પરલોકમાં ઇન્દ્ર કે ચક્રવર્તી થવાય એવી, જિવાય કે મરાય એવી, કે ભોગ ભોગવાય એવી — આવી કોઈ ઝંખના-વાંછના મેં અંતકાળે સેવી હોય; એ ઉપરાંત સંલેષણા અંગે જે કાંઈ બીજું થયું હોય. ॥ આમ સમકિતના મૂળ પર રચાયેલાં બારે વ્રતના પંચ્યાશી અતિચારોમાંથી જે કોઈ આંશિક દોષ, સંપૂર્ણ ભંગ, કે દોષ તરફનો પ્રથમ-બીજો ઝુકાવ થયો હોય; જાણતાં કે અજાણતાં, ઝીણો કે મોટો, અને પાઠ બોલતાં કાનો-માત્રા-મીંડું-પદ-અક્ષર ઓછું-વધતું, હળવું-ભારે, આગળ-પાછળ બોલાઈ ગયું હોય — એ સઘળું હું મન, વચન ને કાયાથી મિચ્છા મિ દુક્કડં કરું છું.",
+  "elaboration": {
+    "verseByVerseCommentary": "આ વિભાગ બે ભાગનો છે અને આખા આલોચન-પાઠનું ‘સમાપન-શિખર’ છે. પહેલો ભાગ સંલેષણાના પાંચ અતિચાર ગણાવે છે — અને ધ્યાનપાત્ર એ છે કે પાંચેય દોષ ક્રિયાના નહીં, પણ ‘આશંસા’(ઝંખના)ના છે. અંતકાળે દેહ-આહાર-કષાય કૃશ કરનાર સાધક માટે કસોટી બાહ્ય તપ નથી, પણ આંતર-સમતા છે: આ-લોકની ઋદ્ધિ, પરલોકના ઇન્દ્ર-ચક્રવર્તીપદ, વધુ જીવવાની કે વહેલા મરવાની, કે ભોગની — કોઈ પણ ઝંખના સમાધિ-મરણને દૂષિત કરે છે. તેથી પાઠ ‘ઇહલોગા-પરલોગા-જિવિયા-મરણા-કામભોગા સંસપ્પઓગે’ એ મૂળ પ્રાકૃત પદો પછી તરત ગુજરાતીમાં દરેકને ‘આશંસા વાંછા કીધી હોય’ રૂપે ખોલે છે — ઝંખનાનું જોડિયું નામ (આશંસા+વાંછા) એ ભારપૂર્વકનો સંકેત છે કે સૂક્ષ્મતમ અભિલાષ પણ ત્યાજ્ય છે. બીજો ભાગ ‘એવંકારે’થી શરૂ થઈ બારે વ્રતના સમગ્ર આલોચનને એક જ ‘મિચ્છા મિ દુક્કડં’માં સમેટે છે. અહીં દોષની ચાર ચડતી કક્ષા — અતિક્રમ, વ્યતિક્રમ, અતિચાર, અનાચાર — એક સાથે ખમાવાય છે, જે દર્શાવે છે કે પ્રથમ માનસિક ઝુકાવથી માંડી પૂર્ણ ભંગ સુધી કશું છૂટતું નથી. સૌથી હૃદયસ્પર્શી છે છેલ્લી પંક્તિ: ‘કાનો, માત્રા, મિંડી, પદ, અક્ષર… ઓછો, અધિકો, હળવો, ભારી, આગલ, પાછલ’ — એટલે કે પાઠ બોલવામાં થયેલી લેખન-ઉચ્ચારણની નાનામાં નાની ભૂલ પણ ખમાવાય છે. આચારના દોષની સાથે વાણીના દોષનું આ સ્વીકારણ ભક્તની નમ્રતાની પરાકાષ્ઠા છે, અને અંતે ‘મને, વચને, કાયાએ કરી’ — ત્રિવિધ યોગે — શુદ્ધિ માગી પાઠ વિરમે છે.",
+    "doctrinalContext": "બે વિશિષ્ટ સિદ્ધાંત આ વિભાગમાં ઊઘડે છે. (૧) સંલેષણાના પાંચ અતિચાર — ઇહલોકાશંસા, પરલોકાશંસા, જીવિતાશંસા, મરણાશંસા, કામભોગાશંસા — એ તત્ત્વાર્થસૂત્ર (૭.૩૭) તથા ઉપાસકદશાંગની પરંપરાગત ગણના છે; તેનો સાર એ કે સમાધિ-મરણ ‘નિદાન-રહિત’ (ફળ-આકાંક્ષા વિનાનું) હોવું જોઈએ, કેમ કે કોઈ પણ આશંસા આસ્રવ ઊભો કરી નિર્જરા-ફળને હણે છે. (૨) અતિક્રમ→વ્યતિક્રમ→અતિચાર→અનાચાર એ દોષ-તીવ્રતાનો ચતુર્વિધ ક્રમ છે: મનમાં દોષનો વિચાર (અતિક્રમ), તે દિશામાં પ્રવૃત્તિ (વ્યતિક્રમ), આંશિક સેવન (અતિચાર) અને પૂર્ણ સેવન (અનાચાર). ચારેયને એક સાથે ખમાવવાં એ આલોચનાની સંપૂર્ણતા સૂચવે છે. વાણી-દોષ (કાનો-માત્રા-મીંડું) સુધી વિસ્તરેલી ક્ષમાયાચના જૈન જ્ઞાનાચારના ‘વ્યંજનાચાર’ (શુદ્ધ ઉચ્ચાર) સાથે જોડાય છે, અને અંતનું ‘મને-વચને-કાયાએ’ એ ત્રિવિધ યોગ-શુદ્ધિનો સિદ્ધાંત મૂર્ત કરે છે.",
+    "practicalRelevance": "આજનો સાધક આ વિભાગમાંથી બે પાઠ લે છે. પ્રથમ, સંલેષણાના અતિચાર માત્ર મરણ-સમય પૂરતા નથી — રોજિંદા ધર્મ-આચારમાં પણ ‘આ કરવાથી મને માન-સમૃદ્ધિ-સ્વર્ગ મળશે’ એવી ફળ-ઝંખના એ જ સૂક્ષ્મ ‘આશંસા’ છે, જે નિઃસ્વાર્થ સાધનાને દૂષિત કરે; તેથી ધર્મ નિદાન-રહિત કરવો. બીજું, પાઠ ભૂલભરેલો, ઓછો-વધતો કે ઉતાવળે બોલાયો હોય તોપણ ‘મિચ્છા મિ દુક્કડં’નો ભાવ અકબંધ રહે છે — ભક્તિમાં પૂર્ણતા નહીં પણ નમ્ર પ્રામાણિકતા મુખ્ય છે. છેલ્લે, ચારે કક્ષાના દોષ એક સાથે ખમાવવાનું શીખવે છે કે દોષ મનમાં અંકુરિત થાય ત્યારથી જ સાવધાન રહેવું.",
+    "crossReferences": [
+      {
+        "text": "તત્ત્વાર્થસૂત્ર ૭.૩૭ — સંલેષણાના પાંચ અતિચાર (ઇહલોકાશંસા, પરલોકાશંસા, જીવિતાશંસા, મરણાશંસા, કામભોગાશંસા)",
+        "source": "ઉમાસ્વાતિ; વિજય કે. જૈન સંપાદન (સર્વાર્થસિદ્ધિ સહિત)"
+      },
+      {
+        "text": "ઉપાસકદશાંગ સૂત્ર — શ્રાવક-વ્રતના અતિચાર અને ‘ઇહલોગા સંસપ્પઓગે’ આદિ મૂળ પદો",
+        "source": "અંગ આગમ; આનંદ-શ્રાવક અધ્યયન"
+      },
+      {
+        "text": "‘પડિસિદ્ધાણં કરણે, કિચ્ચાણમકરણે…’ — પ્રતિક્રમણનાં ચાર કારણ (નિષેધનું આચરણ, કર્તવ્યનું અકરણ, અશ્રદ્ધા, વિપરીત પ્રરૂપણા)",
+        "source": "આવશ્યક પરંપરા; આ સૂત્રની અનુગામી ગાથા"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tattvartha Sutra, Verse 7.37 — The transgressions of Sallekhanā (with commentary)",
+      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084861.html",
+      "type": "scholarship",
+      "consultedFor": "સંલેષણાના પાંચ અતિચારની પ્રમાણભૂત ગણના અને અર્થ"
+    },
+    {
+      "title": "Ācārya Umāsvāmī's Tattvārthasūtra — With Explanation in English from Sarvārthasiddhi (Vijay K. Jain)",
+      "url": "https://archive.org/details/Tattvartha18CompleteWeb",
+      "type": "translation",
+      "consultedFor": "ihaloka/paraloka/jīvita/maraṇa/kāmabhoga-āśaṁsā અતિચારોની વ્યાખ્યા અને નિદાન-રહિત સમાધિમરણનો સિદ્ધાંત"
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "data/book/panch-pratikraman.full.md",
+      "type": "translation",
+      "consultedFor": "મૂળ ગુજરાતી પાઠ, ‘પંચ્યાશી અતિયાર’ની ગણના અને ‘કાનો-માત્રા-મિંડી’ વાણી-દોષ ખામણાનો વિભાગ"
+    }
+  ],
+  "translatorConfidence": 0.86,
+  "notes": "‘સંસપ્પઓગે’ એ પ્રાકૃત saṁsā-payoga (< સં. āśaṁsā-prayoga, ‘ઝંખનાનું પ્રયોજન’) છે; મૂળ પાઠમાં તે પંક્તિ-ભંગે ‘સંસ-/પ્પઓગે’ રૂપે વહેંચાયેલ છે — ભૂલ નથી, મુદ્રિત ગ્રંથ પ્રમાણે જ. તત્ત્વાર્થ-પરંપરામાં પાંચમો અતિચાર ક્યાંક ‘કામભોગાશંસા/નિદાન’ તો ક્યાંક ‘મિત્રાનુરાગ/સુખાનુબંધ’ રૂપે મળે છે; આ ગ્રંથ ઉપાસકદશા-આધારિત ‘કામભોગાશંસા’ ગણના અનુસરે છે. ‘અતિક્રમ-વ્યતિક્રમ-અતિચાર-અનાચાર’નો ચતુર્વિધ ક્રમ સ્થાપિત જૈન વ્યાખ્યા છે. જોડણી (અતિયાર, જિવિયા, મિંડી, કાનો) મૂળ ગ્રંથ પ્રમાણે યથાવત્ રાખી છે. પુનરાવર્તિત ‘આશંસા-વાંછા-કીધી-હોય’ પદો ૧૦૦% ટોકન-આવરણ માટે અલગ ગણ્યાં છે."
+}
