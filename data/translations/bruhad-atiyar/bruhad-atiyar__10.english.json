@@ -2,659 +2,356 @@
   "shlokaId": "bruhad-atiyar/10",
   "targetLang": "english",
   "targetScript": "latin",
-  "plainMeaning": "For just this one day, I shrink the larger 'how-far-I-may-go' limit I set for life, and I confess the five sneaky ways I broke that smaller daily boundary — by fetching things across it, sending things out, or signalling to someone outside by a call, a gesture, or a tossed pebble.",
-  "recitation": "10. daśamuṁ deśāvagāśika-vrata. chaḍhe diśi-vrate je diśi-taṇuṁ pramāṇa kīdhuṁ hoya, te prati-divase saṅkoḍīe, anerā e sarva vrata-taṇā niyama saṅkṣepīe te deśāvagāśika-vrata kahīe. e daśamā deśāvagāsika vrata-taṇā pāñca atiyāra śodhuṁ. āṇavaṇa khpaoge, pesavaṇa khpaoge, saddāṇuvāi, rūvāṇuvāi, bahiyā puggala pakkheve. deśāvagāśika kīdhe niyamī bhūmikā bāhera huṁtī jaṇa pāhe vastu aṇāvī hoya, athavā koi pāhe vastu mokalāvī hoya. sāda karī, khāṁsī huṁkāro karī, gāḍhe guṇe rūpa dekhāḍī, kāṅkarī nākhī āpaṇapuṁ chatuṁ jaṇāvyuṁ hoya. aneruṁ e daśamā deśāvagāśika vrata viṣe.",
+  "plainMeaning": "This is the confession for the ninth vow, Sāmāyika — sitting in calm, attachment-and-aversion-free equanimity for about 48 minutes — and it lists the small ways a person spoils that calm with mind, speech or body, or by doing it carelessly or incompletely.",
+  "recitation": "e traṇa guṇavrata huā, have cāra śikṣāvrata kahe che. navamuṁ sāmāyika vrata. samo rāgadveṣa rahita bhāva kīje, te sāmāyika kahīe. e navamā sāmāyika vratataṇā pāñca atiyāra śodhuṁ. maṇaduppaṇihāṇe, vayaduppaṇihāṇe, kāyaduppaṇihāṇe, sāmāiyassa akaraṇayā, sāmāiyassa aṇavuṭṭhiyassa karaṇayā, sāmāyika kīdhe ārttadhyāna, raudradhyāna, āhaṭṭa, dohaṭṭa cintavī manaduḥpraṇidhāna kīdhuṁ hoya. vacane karī jā, āva, le, de, āṇa, mūka isyuṁ sāvadya vacana bolyuṁ hoya. ughāḍe mukhe vāta kīdhī hoya. kāyāe karī paḍilehyā pramārjyā pākhe khamāsamaṇa, vāndaṇāṁ dīdhāṁ hoya. hātha, paga, āsana halāvyā hoya. chatī velāe sāmāyika kīdhuṁ na hoya. karīne vismṛta kīdhuṁ hoya. anavasthita-sāmāyika karatāṁ velā avelā joi na hoya. be ghaḍī pūgī pākhe pāryuṁ hoya. pārīne arahuṁ parahuṁ paribhramaṇa kīdhuṁ hoya. kaṇa, kapāśīyā, phūla, phala, māṭī, pāṇī, strī ādikataṇo saṅghaṭṭa (strīo kahe puruṣādikataṇo saṅghaṭṭa) huo hoya. nidrā, vikathādika pramāda kīdhāṁ hoya. sacittane saṅghaṭṭe iriyāvahī paḍikkamī na hoya. aneruṁ e navamā sāmāyikavrata viṣe.",
   "wordByWord": [
     {
-      "token": "૧૦.",
-      "translit": "10.",
-      "gloss": "Verse number ten",
-      "partOfSpeech": "particle",
-      "etymology": "Numeral marker; the tenth block of the bṛhad-atiyar.",
-      "notes": "Period before the numeral is the book's verbatim punctuation."
+      "token": "એ ત્રણ ગુણવ્રત હુઆ",
+      "translit": "e traṇa guṇavrata huā",
+      "gloss": "those three guṇavratas are (now) done/completed",
+      "partOfSpeech": "phrase",
+      "etymology": "e (this/those) + traṇa 'three' (Skt. trīṇi) + guṇavrata + huā 'became/were' (from Skt. bhū)",
+      "notes": "A header line, not part of the numbered confession; it closes vows 6–8."
     },
     {
-      "token": "દશમું",
-      "translit": "daśamuṁ",
-      "gloss": "the tenth",
-      "partOfSpeech": "adj",
-      "etymology": "From Skt daśama (tenth), ordinal of daśan, 'ten'.",
-      "notes": ""
-    },
-    {
-      "token": "દેશાવગાશિકવ્રત",
-      "translit": "deśāvagāśika-vrata",
-      "gloss": "the Deśāvagāśika vow (limiting one's space/activity for a set period)",
-      "partOfSpeech": "compound",
-      "etymology": "Skt deśa ('region') + avakāśa ('scope, occasion') + -ika; + vrata ('vow') = deśāvakāśika-vrata.",
-      "notes": "The second of the four śikṣāvratas; the 10th of the twelve lay vows."
-    },
-    {
-      "token": "છઢે",
-      "translit": "chaḍhe",
-      "gloss": "in the sixth",
-      "partOfSpeech": "adj",
-      "etymology": "From Skt ṣaṣṭha ('sixth') via Pkt chaṭṭha; locative.",
-      "notes": "Cross-refers to the sixth vow, diśi-vrata (the first guṇavrata)."
-    },
-    {
-      "token": "દિશિવ્રતે",
-      "translit": "diśi-vrate",
-      "gloss": "in the direction-vow (Diśi-vrata)",
-      "partOfSpeech": "compound",
-      "etymology": "Skt diś/diśā ('direction') + vrata; locative case.",
-      "notes": "The lifelong limit on how far one travels in each direction."
-    },
-    {
-      "token": "જે",
-      "translit": "je",
-      "gloss": "which",
-      "partOfSpeech": "pronoun",
-      "etymology": "Relative pronoun from Skt yad.",
-      "notes": ""
-    },
-    {
-      "token": "દિશિતણું",
-      "translit": "diśi-taṇuṁ",
-      "gloss": "of the directions",
-      "partOfSpeech": "compound",
-      "etymology": "diśi + the Old-Gujarati genitive suffix -taṇuṁ (from Apabhraṁśa taṇaya).",
-      "notes": ""
-    },
-    {
-      "token": "પ્રમાણ",
-      "translit": "pramāṇa",
-      "gloss": "measure, limit",
-      "partOfSpeech": "noun",
-      "etymology": "Skt pramāṇa, 'measure, standard'.",
-      "notes": ""
-    },
-    {
-      "token": "કીધું",
-      "translit": "kīdhuṁ",
-      "gloss": "(was) made, fixed",
-      "partOfSpeech": "verb",
-      "etymology": "Guj past participle of karavuṁ, from Skt kṛta.",
-      "notes": ""
-    },
-    {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "may have been",
-      "partOfSpeech": "verb",
-      "etymology": "Subjunctive of hovuṁ ('to be'), from Skt root bhū.",
-      "notes": "Modal 'may have', framing a possible past act for confession."
-    },
-    {
-      "token": "તે",
-      "translit": "te",
-      "gloss": "that",
-      "partOfSpeech": "pronoun",
-      "etymology": "Demonstrative from Skt tad.",
-      "notes": ""
-    },
-    {
-      "token": "પ્રતિદિવસે",
-      "translit": "prati-divase",
-      "gloss": "each day, daily",
+      "token": "હવે",
+      "translit": "have",
+      "gloss": "now",
       "partOfSpeech": "adverb",
-      "etymology": "Skt prati ('each') + divasa ('day'); locative.",
-      "notes": "The defining word: the contraction is renewed day by day, unlike the lifelong diśi-vrata."
+      "etymology": "Gujarati have, from Apabhraṁśa havai (Skt. adhunā/atra)"
     },
     {
-      "token": "સંકોડીએ",
-      "translit": "saṅkoḍīe",
-      "gloss": "we contract, narrow down",
-      "partOfSpeech": "verb",
-      "etymology": "Guj saṅkoḍavuṁ, from Skt saṅkoca ('shrinking').",
-      "notes": "1st person plural, hortative 'we shrink'."
+      "token": "ચાર શિક્ષાવ્રત કહે છે",
+      "translit": "cāra śikṣāvrata kahe che",
+      "gloss": "the four śikṣāvratas are (now) declared",
+      "partOfSpeech": "phrase",
+      "etymology": "cāra 'four' (Skt. catur) + śikṣāvrata + kahe che 'is said' (Skt. kathayati)",
+      "notes": "Announces the disciplinary-vow group (vows 9–12); Sāmāyika is the first of them."
     },
     {
-      "token": "અનેરા",
-      "translit": "anerā",
-      "gloss": "the other",
+      "token": "૯.",
+      "translit": "9.",
+      "gloss": "ninth",
+      "partOfSpeech": "numeral",
+      "etymology": "Gujarati numeral nine"
+    },
+    {
+      "token": "નવમું",
+      "translit": "navamuṁ",
+      "gloss": "the ninth",
       "partOfSpeech": "adj",
-      "etymology": "From Skt anyatara ('one of the others') via Pkt aṇṇera.",
-      "notes": ""
+      "etymology": "Skt. navama 'ninth' + Gujarati neuter -uṁ"
     },
     {
-      "token": "એ",
-      "translit": "e",
-      "gloss": "these",
-      "partOfSpeech": "pronoun",
-      "etymology": "Gujarati proximate demonstrative.",
-      "notes": ""
-    },
-    {
-      "token": "સર્વ",
-      "translit": "sarva",
-      "gloss": "all",
-      "partOfSpeech": "adj",
-      "etymology": "Skt sarva.",
-      "notes": ""
-    },
-    {
-      "token": "વ્રતતણા",
-      "translit": "vrata-taṇā",
-      "gloss": "of the vows",
+      "token": "સામાયિક વ્રત",
+      "translit": "sāmāyika vrata",
+      "gloss": "the Sāmāyika vow (vow of equanimity)",
       "partOfSpeech": "compound",
-      "etymology": "vrata + genitive -taṇā.",
-      "notes": ""
+      "etymology": "Skt. sāmāyika, from sama 'equal/even' + aya/āya; 'the state of evenness' + vrata 'vow'"
     },
     {
-      "token": "નિયમ",
-      "translit": "niyama",
-      "gloss": "rules, restraints",
+      "token": "સમો રાગદ્વેષ રહિત ભાવ કીજે",
+      "translit": "samo rāgadveṣa rahita bhāva kīje",
+      "gloss": "to cultivate an even disposition free of attachment and aversion",
+      "partOfSpeech": "phrase",
+      "etymology": "samo 'even/equal' (Skt. sama) + rāga 'attachment' + dveṣa 'aversion' + rahita 'devoid of' + bhāva 'inner state' + kīje 'is to be made' (Skt. kṛ)",
+      "notes": "The text's own working definition of Sāmāyika."
+    },
+    {
+      "token": "તે સામાયિક કહીએ",
+      "translit": "te sāmāyika kahīe",
+      "gloss": "that, we call Sāmāyika",
+      "partOfSpeech": "phrase",
+      "etymology": "te 'that' + sāmāyika + kahīe 'is called' (Skt. kathyate)"
+    },
+    {
+      "token": "એ નવમા સામાયિક વ્રતતણા પાંચ અતિયાર શોધું",
+      "translit": "e navamā sāmāyika vratataṇā pāñca atiyāra śodhuṁ",
+      "gloss": "I now scrutinise the five atichāras of this ninth, Sāmāyika, vow",
+      "partOfSpeech": "phrase",
+      "etymology": "vrata + -taṇā (Gujarati genitive 'of') + pāñca 'five' (Skt. pañca) + atiyāra (= atichāra) + śodhuṁ 'I purify/examine' (Skt. śodhayāmi)",
+      "notes": "The recurring purification formula that opens each block (explained in the preface)."
+    },
+    {
+      "token": "મણદુપ્પણિહાણે",
+      "translit": "maṇaduppaṇihāṇe",
+      "gloss": "mis-application of the mind (mano-duṣpraṇidhāna)",
       "partOfSpeech": "noun",
-      "etymology": "Skt niyama ('restraint, fixed rule').",
-      "notes": ""
+      "etymology": "Prakrit maṇa (Skt. manas 'mind') + duppaṇihāṇa (Skt. duṣpraṇidhāna 'wrong/ill direction'); locative -e",
+      "notes": "First of the five canonical atichāra-names, in Ardhamāgadhī."
     },
     {
-      "token": "સંક્ષેપીએ",
-      "translit": "saṅkṣepīe",
-      "gloss": "we abridge, condense",
-      "partOfSpeech": "verb",
-      "etymology": "From Skt saṁkṣepa ('abridgement'); 1st person plural hortative.",
-      "notes": "The 10th vow also tightens the OTHER standing vows' limits for the day, not only the directional one."
+      "token": "વયદુપ્પણિહાણે",
+      "translit": "vayaduppaṇihāṇe",
+      "gloss": "mis-application of speech (vāg-duṣpraṇidhāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit vaya (Skt. vāc/vacana 'speech') + duppaṇihāṇa (Skt. duṣpraṇidhāna)"
     },
     {
-      "token": "તે",
-      "translit": "te",
-      "gloss": "that",
-      "partOfSpeech": "pronoun",
-      "etymology": "Skt tad.",
-      "notes": ""
+      "token": "કાયદુપ્પણિહાણે",
+      "translit": "kāyaduppaṇihāṇe",
+      "gloss": "mis-application of the body (kāya-duṣpraṇidhāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit kāya (Skt. kāya 'body') + duppaṇihāṇa (Skt. duṣpraṇidhāna)"
     },
     {
-      "token": "દેશાવગાશિકવ્રત",
-      "translit": "deśāvagāśika-vrata",
-      "gloss": "the Deśāvagāśika vow",
+      "token": "સામાઇયસ્સ અકરણયા",
+      "translit": "sāmāiyassa akaraṇayā",
+      "gloss": "the non-performance of the sāmāyika",
+      "partOfSpeech": "noun",
+      "etymology": "Prakrit sāmāiya + genitive -ssa (Skt. sāmāyikasya 'of the sāmāyika') + a- 'not' + karaṇayā 'doing' (Skt. akaraṇatā)"
+    },
+    {
+      "token": "સામાઇયસ્સ અણવુટ્ઠિયસ્સ કરણયા",
+      "translit": "sāmāiyassa aṇavuṭṭhiyassa karaṇayā",
+      "gloss": "performing the sāmāyika unsteadily / without being properly established",
+      "partOfSpeech": "noun",
+      "etymology": "sāmāiyassa (gen.) + aṇavuṭṭhiya (Skt. anavasthita 'not settled/unsteady') + karaṇayā 'doing' (Skt. karaṇatā)",
+      "notes": "Fifth atichāra; the Prakrit list of the five matches the Śrāvaka-pratikramaṇa (Vandittu) tradition."
+    },
+    {
+      "token": "સામાયિક કીધે",
+      "translit": "sāmāyika kīdhe",
+      "gloss": "while/having done the sāmāyika",
+      "partOfSpeech": "phrase",
+      "etymology": "sāmāyika + kīdhe 'on doing' (Skt. kṛta)",
+      "notes": "Begins the vivid Gujarati expansion of mano-duṣpraṇidhāna."
+    },
+    {
+      "token": "આર્ત્તધ્યાન",
+      "translit": "ārttadhyāna",
+      "gloss": "anguished brooding (ārta-dhyāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. ārta 'distressed' + dhyāna 'meditation/concentration'",
+      "notes": "One of the two inauspicious meditations a reciter must shun even mid-Sāmāyika."
+    },
+    {
+      "token": "રૌદ્રધ્યાન",
+      "translit": "raudradhyāna",
+      "gloss": "cruel/violent brooding (raudra-dhyāna)",
+      "partOfSpeech": "noun",
+      "etymology": "Skt. raudra 'fierce' + dhyāna"
+    },
+    {
+      "token": "આહટ્ટ, દોહટ્ટ",
+      "translit": "āhaṭṭa, dohaṭṭa",
+      "gloss": "restless, back-and-forth brooding (turning a matter over this way and that)",
       "partOfSpeech": "compound",
-      "etymology": "See above.",
-      "notes": "Repeated to close the definition."
+      "etymology": "Prakrit reduplicative idiom āhaṭṭa-dohaṭṭa, conveying agitated 'one-way-and-the-other' mental churning",
+      "notes": "Idiomatic Prakrit pair; rendered here from context as anxious wavering thought — see notes for the variant readings."
     },
     {
-      "token": "કહીએ",
-      "translit": "kahīe",
-      "gloss": "we call (it)",
+      "token": "ચિંતવી",
+      "translit": "cintavī",
+      "gloss": "having thought/dwelt upon",
       "partOfSpeech": "verb",
-      "etymology": "Guj kahevuṁ, from Skt kathayati.",
-      "notes": ""
+      "etymology": "Skt. cintayati 'thinks'; gerund cintavī"
     },
     {
-      "token": "એ",
-      "translit": "e",
-      "gloss": "this",
-      "partOfSpeech": "pronoun",
-      "etymology": "Gujarati demonstrative.",
-      "notes": ""
+      "token": "મનદુ:પ્રણિધાન કીધું હોય",
+      "translit": "manaduḥpraṇidhāna kīdhuṁ hoya",
+      "gloss": "one may have committed mis-application of the mind",
+      "partOfSpeech": "phrase",
+      "etymology": "Skt. manas + duṣpraṇidhāna + kīdhuṁ 'did' (Skt. kṛta) + hoya 'may be' (Skt. bhavati)",
+      "notes": "The Sanskritised gloss of the first Prakrit atichāra; 'kīdhuṁ/kīdhāṁ hoya' ('one may have done') is the recurring confessional verb-formula throughout this block."
     },
     {
-      "token": "દશમા",
-      "translit": "daśamā",
-      "gloss": "tenth",
-      "partOfSpeech": "adj",
-      "etymology": "Skt daśama, oblique.",
-      "notes": ""
+      "token": "વચને કરી",
+      "translit": "vacane karī",
+      "gloss": "by means of speech",
+      "partOfSpeech": "phrase",
+      "etymology": "vacane (loc. of Skt. vacana 'speech') + karī 'having done/by' (instrumental sense)",
+      "notes": "Opens the expansion of vacana-duṣpraṇidhāna."
     },
     {
-      "token": "દેશાવગાસિક",
-      "translit": "deśāvagāsika",
-      "gloss": "Deśāvagāsika",
-      "partOfSpeech": "compound",
-      "etymology": "Same word as above.",
-      "notes": "Spelled here with સ (sa) where the heading had શ (śa) — the book's internal spelling variation, preserved verbatim."
-    },
-    {
-      "token": "વ્રતતણા",
-      "translit": "vrata-taṇā",
-      "gloss": "of the vow",
-      "partOfSpeech": "compound",
-      "etymology": "vrata + genitive -taṇā.",
-      "notes": ""
-    },
-    {
-      "token": "પાંચ",
-      "translit": "pāñca",
-      "gloss": "five",
-      "partOfSpeech": "adj",
-      "etymology": "Skt pañca.",
-      "notes": ""
-    },
-    {
-      "token": "અતિચાર",
-      "translit": "atiyāra",
-      "gloss": "transgressions (partial infractions)",
-      "partOfSpeech": "noun",
-      "etymology": "Skt aticāra ('overstepping'); in this book regularly spelt અતિયાર.",
-      "notes": "Printed split across the line as અતિ-ચાર; one word."
-    },
-    {
-      "token": "શોધું",
-      "translit": "śodhuṁ",
-      "gloss": "I scrutinise / cleanse",
+      "token": "જા, આવ, લે, દે, આણ, મૂક",
+      "translit": "jā, āva, le, de, āṇa, mūka",
+      "gloss": "'go, come, take, give, fetch, put down'",
       "partOfSpeech": "verb",
-      "etymology": "Guj śodhavuṁ ('to purify, examine'), from Skt root śudh.",
-      "notes": "The recurring purification formula opening each vow-block."
+      "etymology": "Gujarati imperatives: jā (Skt. yā), āva (ā-gam), le (labh), de (dā), āṇa (ā-nī), mūka (muc)",
+      "notes": "Sample commanding/worldly utterances — sin-bearing speech to be avoided during Sāmāyika."
     },
     {
-      "token": "આણવણ",
-      "translit": "āṇavaṇa",
-      "gloss": "fetching, having-brought-in",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt āṇavaṇa from Skt ānayana ('bringing toward').",
-      "notes": "Atichāra 1: ānayana-prayoga."
+      "token": "ઇસ્યું સાવદ્ય વચન બોલ્યું હોય",
+      "translit": "isyuṁ sāvadya vacana bolyuṁ hoya",
+      "gloss": "one may have uttered such sin-laden speech",
+      "partOfSpeech": "phrase",
+      "etymology": "isyuṁ 'such' + sāvadya 'with fault/sinful' (Skt. sa-avadya) + vacana 'speech' + bolyuṁ 'spoke' + hoya"
     },
     {
-      "token": "ખ્પઓગે",
-      "translit": "khpaoge",
-      "gloss": "by employing/applying (prayoga)",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt (p)paoga from Skt prayoga ('application, employment'); locative.",
-      "notes": "The spelling ખ્પઓગે is an orthographic oddity in the book for પ્પઓગે/ppaoge (prayoge); preserved verbatim."
+      "token": "ઉઘાડે મુખે વાત કીધી હોય",
+      "translit": "ughāḍe mukhe vāta kīdhī hoya",
+      "gloss": "one may have talked with the mouth uncovered",
+      "partOfSpeech": "phrase",
+      "etymology": "ughāḍe 'open/uncovered' + mukhe 'at the mouth' (Skt. mukha) + vāta 'talk' (Skt. vārtā) + kīdhī hoya 'may have done'",
+      "notes": "Speaking without covering the mouth (mukhavastrikā/muhpatti) risks harming air-bodied beings."
     },
     {
-      "token": "પેસવણ",
-      "translit": "pesavaṇa",
-      "gloss": "sending out, dispatching",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt pesavaṇa from Skt preṣaṇa ('sending'), root pra-iṣ.",
-      "notes": "Atichāra 2: preṣya-prayoga — getting work done outside the limit through another."
+      "token": "કાયાએ કરી",
+      "translit": "kāyāe karī",
+      "gloss": "by means of the body",
+      "partOfSpeech": "phrase",
+      "etymology": "kāyā (Skt. kāya 'body') + karī 'by/having done'",
+      "notes": "Opens the expansion of kāya-duṣpraṇidhāna."
     },
     {
-      "token": "ખ્પઓગે",
-      "translit": "khpaoge",
-      "gloss": "by employing/applying (prayoga)",
-      "partOfSpeech": "noun",
-      "etymology": "See above.",
-      "notes": "Repeated for the second atichāra."
+      "token": "પડિલેહ્યા પ્રમાર્જ્યા પાખે",
+      "translit": "paḍilehyā pramārjyā pākhe",
+      "gloss": "without (first) inspecting and sweeping (the spot)",
+      "partOfSpeech": "phrase",
+      "etymology": "paḍilehyā 'inspected' (Skt. pratilekhita) + pramārjyā 'swept clean' (Skt. pramārjita) + pākhe 'without' (Gujarati)",
+      "notes": "Pratilekhana–pramārjana, the careful checking and brushing of a spot before use, to protect tiny beings."
     },
     {
-      "token": "સદ્દાણુવાઇ",
-      "translit": "saddāṇuvāi",
-      "gloss": "signalling by sound (sound-following)",
-      "partOfSpeech": "compound",
-      "etymology": "Pkt sadda (Skt śabda, 'sound') + aṇuvāi (Skt anupātin, 'one who follows after'); = śabdānupāta.",
-      "notes": "Atichāra 3: making a noise so one outside the line will come/act."
+      "token": "ખમાસમણ, વાંદણાં દીધાં હોય",
+      "translit": "khamāsamaṇa, vāndaṇāṁ dīdhāṁ hoya",
+      "gloss": "one may have offered the khamāsamaṇa obeisance and the vāndaṇā veneration",
+      "partOfSpeech": "phrase",
+      "etymology": "khamāsamaṇa (Prakrit kṣamāśramaṇa 'forgiving ascetic', the bow) + vāndaṇāṁ (Skt. vandanaka) + dīdhāṁ 'gave/offered' (Skt. datta) + hoya",
+      "notes": "Fault here = performing these prostrations without the prior inspection/sweeping."
     },
     {
-      "token": "રૂવાણુવાઇ",
-      "translit": "rūvāṇuvāi",
-      "gloss": "signalling by sight (form-following)",
-      "partOfSpeech": "compound",
-      "etymology": "Pkt rūva (Skt rūpa, 'form') + aṇuvāi (anupātin); = rūpānupāta.",
-      "notes": "Atichāra 4: showing oneself so one outside will notice and respond."
+      "token": "હાથ, પગ, આસન હલાવ્યા હોય",
+      "translit": "hātha, paga, āsana halāvyā hoya",
+      "gloss": "one may have moved the hands, feet or seat",
+      "partOfSpeech": "phrase",
+      "etymology": "hātha 'hand' (Skt. hasta) + paga 'foot' (Skt. pāda) + āsana 'seat' + halāvyā 'moved/shook' + hoya"
     },
     {
-      "token": "બહિયા",
-      "translit": "bahiyā",
-      "gloss": "outside, beyond",
-      "partOfSpeech": "adverb",
-      "etymology": "Pkt bahiyā from Skt bahis/bāhya ('outside').",
-      "notes": ""
+      "token": "છતી વેલાએ સામાયિક કીધું ન હોય",
+      "translit": "chatī velāe sāmāyika kīdhuṁ na hoya",
+      "gloss": "one may have failed to do the sāmāyika though time was available",
+      "partOfSpeech": "phrase",
+      "etymology": "chatī 'available/present' (Skt. san/sat) + velāe 'at the time' (Skt. velā) + na 'not'",
+      "notes": "Expands the fourth atichāra (akaraṇatā), non-performance."
     },
     {
-      "token": "પુગ્ગલ",
-      "translit": "puggala",
-      "gloss": "matter (a physical object)",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt puggala = Skt pudgala ('matter, material thing').",
-      "notes": "Here a concrete object such as a pebble."
+      "token": "કરીને વિસ્મૃત કીધું હોય",
+      "translit": "karīne vismṛta kīdhuṁ hoya",
+      "gloss": "or, having begun it, may have forgotten it",
+      "partOfSpeech": "phrase",
+      "etymology": "karīne 'having done' + vismṛta 'forgotten' (Skt. vi-smṛ) + kīdhuṁ hoya",
+      "notes": "Forgetfulness (smṛti-lapse), the inner side of the fourth atichāra."
     },
     {
-      "token": "પક્ખેવે",
-      "translit": "pakkheve",
-      "gloss": "by throwing/casting",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt pakkheva from Skt prakṣepa ('throwing, casting'); locative.",
-      "notes": "Atichāra 5: pudgala-kṣepa — tossing an object across the line to signal someone."
+      "token": "અનવસ્થિત-સામાયિક કરતાં",
+      "translit": "anavasthita-sāmāyika karatāṁ",
+      "gloss": "while doing the sāmāyika unsteadily",
+      "partOfSpeech": "phrase",
+      "etymology": "anavasthita 'unsettled' (Skt.) + sāmāyika + karatāṁ 'while doing'",
+      "notes": "Expands the fifth atichāra (aṇavuṭṭhiyassa karaṇayā)."
     },
     {
-      "token": "દેશાવગાશિક",
-      "translit": "deśāvagāśika",
-      "gloss": "(the) Deśāvagāśika (vow)",
-      "partOfSpeech": "compound",
-      "etymology": "See above.",
-      "notes": ""
+      "token": "વેલા અવેલા જોઇ ન હોય",
+      "translit": "velā avelā joi na hoya",
+      "gloss": "one may not have observed the proper and improper times",
+      "partOfSpeech": "phrase",
+      "etymology": "velā '(right) time' + avelā 'wrong time' (a- + velā) + joi 'having seen/observed' + na hoya"
     },
     {
-      "token": "કીધે",
-      "translit": "kīdhe",
-      "gloss": "having undertaken / once observed",
+      "token": "બે ઘડી પૂગી પાખે પાર્યું હોય",
+      "translit": "be ghaḍī pūgī pākhe pāryuṁ hoya",
+      "gloss": "one may have concluded it before the two ghaḍī (≈48 minutes) were completed",
+      "partOfSpeech": "phrase",
+      "etymology": "be 'two' (Skt. dvi) + ghaḍī 'a 24-minute unit' + pūgī 'reached/completed' + pākhe 'without' + pāryuṁ 'ended/concluded' (Skt. pāra) + hoya",
+      "notes": "The prescribed Sāmāyika span is two ghaḍī = roughly 48 minutes."
+    },
+    {
+      "token": "પારીને અરહું પરહું પરિભ્રમણ કીધું હોય",
+      "translit": "pārīne arahuṁ parahuṁ paribhramaṇa kīdhuṁ hoya",
+      "gloss": "after ending it, one may have wandered about here and there",
+      "partOfSpeech": "phrase",
+      "etymology": "pārīne 'having ended' + arahuṁ parahuṁ 'hither and thither' (Gujarati idiom) + paribhramaṇa 'roaming' (Skt. pari-bhram) + kīdhuṁ hoya"
+    },
+    {
+      "token": "કણ, કપાશીયા, ફૂલ, ફલ, માટી, પાણી, સ્ત્રી આદિકતણો સંઘટ્ટ",
+      "translit": "kaṇa, kapāśīyā, phūla, phala, māṭī, pāṇī, strī ādikataṇo saṅghaṭṭa",
+      "gloss": "contact with grain, cottonseed, flower, fruit, earth, water, a woman, and the like",
+      "partOfSpeech": "phrase",
+      "etymology": "kaṇa 'grain' + kapāśīyā 'cottonseed' + phūla 'flower' (Skt. puṣpa) + phala 'fruit' + māṭī 'earth/clay' (Skt. mṛttikā) + pāṇī 'water' (Skt. pānīya) + strī 'woman' + ādika 'et cetera' + -taṇo (gen.) + saṅghaṭṭa 'touch/contact' (Skt. saṅghaṭṭa)",
+      "notes": "Several listed items are sacitta (living/animate); contact disturbs the vow and harms beings."
+    },
+    {
+      "token": "(સ્ત્રીઓ કહે પુરુષાદિકતણો સંઘટ્ટ)",
+      "translit": "(strīo kahe puruṣādikataṇo saṅghaṭṭa)",
+      "gloss": "(women say: contact with a man and the like)",
+      "partOfSpeech": "phrase",
+      "etymology": "strīo 'women' + kahe 'say' + puruṣa 'man' + ādika 'etc.' + -taṇo (gen.) + saṅghaṭṭa",
+      "notes": "An in-text rubric adapting the confession for a female reciter."
+    },
+    {
+      "token": "હુઓ હોય",
+      "translit": "huo hoya",
+      "gloss": "may have occurred",
       "partOfSpeech": "verb",
-      "etymology": "Locative-absolute participle of karavuṁ, from Skt kṛta.",
-      "notes": "'Once the deśāvagāśika has been taken…' — introduces the everyday examples."
+      "etymology": "huo 'happened' (Skt. bhū) + hoya 'may be'"
     },
     {
-      "token": "નિયમી",
-      "translit": "niyamī",
-      "gloss": "the restricted, resolved",
-      "partOfSpeech": "adj",
-      "etymology": "From Skt niyamita ('regulated, bound by rule').",
-      "notes": ""
+      "token": "નિદ્રા, વિકથાદિક પ્રમાદ કીધાં હોય",
+      "translit": "nidrā, vikathādika pramāda kīdhāṁ hoya",
+      "gloss": "one may have indulged in heedlessness such as sleep and idle gossip",
+      "partOfSpeech": "phrase",
+      "etymology": "nidrā 'sleep' + vikathā 'idle/harmful talk' (Skt.) + ādika 'etc.' + pramāda 'negligence/heedlessness' (Skt.) + kīdhāṁ hoya",
+      "notes": "Sleep and vikathā are classic forms of pramāda that ruin equanimity."
     },
     {
-      "token": "ભૂમિકા",
-      "translit": "bhūmikā",
-      "gloss": "ground, zone, area",
-      "partOfSpeech": "noun",
-      "etymology": "Skt bhūmikā ('plot, stage, ground').",
-      "notes": "The spatial boundary fixed for the day."
+      "token": "સચિત્તને સંઘટ્ટે ઇરિયાવહી પડિક્કમી ન હોય",
+      "translit": "sacittane saṅghaṭṭe iriyāvahī paḍikkamī na hoya",
+      "gloss": "on touching an animate thing, one may not have performed the iriyāvahī confession",
+      "partOfSpeech": "phrase",
+      "etymology": "sacitta 'with consciousness/living' (Skt. sa-citta) + saṅghaṭṭe 'on contact' + iriyāvahī (Skt. īryāpathikī, the movement-faults confession) + paḍikkamī 'confessed' (Skt. pratikrānta) + na hoya",
+      "notes": "Touching a living being obliges the Īryāvahiyaṁ confession; omitting it is a transgression."
     },
     {
-      "token": "બાહેર",
-      "translit": "bāhera",
-      "gloss": "outside",
-      "partOfSpeech": "adverb",
-      "etymology": "Guj bāher from Skt bahis/bāhya.",
-      "notes": ""
-    },
-    {
-      "token": "હુંતી",
-      "translit": "huṁtī",
-      "gloss": "being / lying (there)",
-      "partOfSpeech": "verb",
-      "etymology": "Old-Gujarati present participle of hovuṁ (from Apabhraṁśa huṁta, Skt bhavantī).",
-      "notes": "'A thing that is outside the restricted area.'"
-    },
-    {
-      "token": "જણ",
-      "translit": "jaṇa",
-      "gloss": "a person",
-      "partOfSpeech": "noun",
-      "etymology": "Skt jana ('person, people').",
-      "notes": ""
-    },
-    {
-      "token": "પાહે",
-      "translit": "pāhe",
-      "gloss": "from / by (someone)",
-      "partOfSpeech": "particle",
-      "etymology": "Old-Gujarati postposition from Skt pārśve ('at the side of').",
-      "notes": "Here marks the agent: 'through/from a person'."
-    },
-    {
-      "token": "વસ્તુ",
-      "translit": "vastu",
-      "gloss": "a thing, object",
-      "partOfSpeech": "noun",
-      "etymology": "Skt vastu.",
-      "notes": ""
-    },
-    {
-      "token": "અણાવી",
-      "translit": "aṇāvī",
-      "gloss": "had (it) brought",
-      "partOfSpeech": "verb",
-      "etymology": "Causative of āṇavuṁ ('to bring'), from Skt ānāyita.",
-      "notes": "Illustrates atichāra 1, ānayana."
-    },
-    {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "may have (done)",
-      "partOfSpeech": "verb",
-      "etymology": "Subjunctive of hovuṁ, Skt bhū.",
-      "notes": ""
-    },
-    {
-      "token": "અથવા",
-      "translit": "athavā",
-      "gloss": "or",
-      "partOfSpeech": "particle",
-      "etymology": "Skt athavā ('or else').",
-      "notes": ""
-    },
-    {
-      "token": "કોઇ",
-      "translit": "koi",
-      "gloss": "someone",
-      "partOfSpeech": "pronoun",
-      "etymology": "Skt ko'pi ('anyone').",
-      "notes": ""
-    },
-    {
-      "token": "પાહે",
-      "translit": "pāhe",
-      "gloss": "through (someone)",
-      "partOfSpeech": "particle",
-      "etymology": "See above.",
-      "notes": ""
-    },
-    {
-      "token": "વસ્તુ",
-      "translit": "vastu",
-      "gloss": "a thing",
-      "partOfSpeech": "noun",
-      "etymology": "Skt vastu.",
-      "notes": ""
-    },
-    {
-      "token": "મોકલાવી",
-      "translit": "mokalāvī",
-      "gloss": "had (it) sent out",
-      "partOfSpeech": "verb",
-      "etymology": "Causative of moklavuṁ ('to send'), a Gujarati verb.",
-      "notes": "Illustrates atichāra 2, preṣya-prayoga."
-    },
-    {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "may have (done)",
-      "partOfSpeech": "verb",
-      "etymology": "Skt bhū.",
-      "notes": ""
-    },
-    {
-      "token": "સાદ",
-      "translit": "sāda",
-      "gloss": "a call, a shout",
-      "partOfSpeech": "noun",
-      "etymology": "Guj sāda, ultimately from Skt śabda ('sound').",
-      "notes": "Illustrates atichāra 3, śabdānupāta."
-    },
-    {
-      "token": "કરી",
-      "translit": "karī",
-      "gloss": "making, by doing",
-      "partOfSpeech": "verb",
-      "etymology": "Absolutive of karavuṁ, from Skt kṛtvā.",
-      "notes": ""
-    },
-    {
-      "token": "ખાંસી",
-      "translit": "khāṁsī",
-      "gloss": "a cough",
-      "partOfSpeech": "noun",
-      "etymology": "Guj khāṁsī from Skt kāsa ('cough').",
-      "notes": "A deliberate cough used as a covert signal."
-    },
-    {
-      "token": "હુંકારો",
-      "translit": "huṁkāro",
-      "gloss": "a grunt / 'hum' sound",
-      "partOfSpeech": "noun",
-      "etymology": "Skt huṁkāra ('the utterance hum').",
-      "notes": ""
-    },
-    {
-      "token": "કરી",
-      "translit": "karī",
-      "gloss": "making",
-      "partOfSpeech": "verb",
-      "etymology": "Skt kṛtvā.",
-      "notes": ""
-    },
-    {
-      "token": "ગાઢે",
-      "translit": "gāḍhe",
-      "gloss": "intensely, emphatically",
-      "partOfSpeech": "adverb",
-      "etymology": "Skt gāḍha ('dense, intense'); instrumental/locative.",
-      "notes": ""
-    },
-    {
-      "token": "ગુણે",
-      "translit": "guṇe",
-      "gloss": "by manner / with effort",
-      "partOfSpeech": "noun",
-      "etymology": "Skt guṇa ('quality, manner'); instrumental.",
-      "notes": "'gāḍhe guṇe' = 'by a pronounced manner', i.e. making oneself conspicuous."
-    },
-    {
-      "token": "રૂપ",
-      "translit": "rūpa",
-      "gloss": "(one's) form, figure",
-      "partOfSpeech": "noun",
-      "etymology": "Skt rūpa.",
-      "notes": "Illustrates atichāra 4, rūpānupāta."
-    },
-    {
-      "token": "દેખાડી",
-      "translit": "dekhāḍī",
-      "gloss": "showing, displaying",
-      "partOfSpeech": "verb",
-      "etymology": "Causative absolutive of dekhavuṁ ('to see/show'), from Skt root dṛś.",
-      "notes": ""
-    },
-    {
-      "token": "કાંકરી",
-      "translit": "kāṅkarī",
-      "gloss": "a pebble",
-      "partOfSpeech": "noun",
-      "etymology": "Guj kāṅkarī from Skt karkara/kaṅkara ('gravel, pebble').",
-      "notes": "Illustrates atichāra 5, pudgala-kṣepa."
-    },
-    {
-      "token": "નાખી",
-      "translit": "nākhī",
-      "gloss": "throwing, casting",
-      "partOfSpeech": "verb",
-      "etymology": "Absolutive of nākhavuṁ ('to throw'), a Gujarati verb.",
-      "notes": ""
-    },
-    {
-      "token": "આપણપું",
-      "translit": "āpaṇapuṁ",
-      "gloss": "one's own presence / selfhood",
-      "partOfSpeech": "noun",
-      "etymology": "Guj āpaṇo ('one's own', from Skt ātman) + abstract suffix -puṁ.",
-      "notes": "I.e. signalling 'I am here' to one outside the boundary."
-    },
-    {
-      "token": "છતું",
-      "translit": "chatuṁ",
-      "gloss": "present, made manifest",
-      "partOfSpeech": "adj",
-      "etymology": "From Skt santa ('existing, present').",
-      "notes": ""
-    },
-    {
-      "token": "જણાવ્યું",
-      "translit": "jaṇāvyuṁ",
-      "gloss": "made (it) known",
-      "partOfSpeech": "verb",
-      "etymology": "Causative of jāṇavuṁ ('to know'), from Skt jñāpita.",
-      "notes": "Sums up atichāras 3–5: by sound, sight or thrown object, one let one's presence be known across the line."
-    },
-    {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "may have (done)",
-      "partOfSpeech": "verb",
-      "etymology": "Skt bhū.",
-      "notes": ""
-    },
-    {
-      "token": "અનેરું",
-      "translit": "aneruṁ",
-      "gloss": "whatever else (besides these)",
-      "partOfSpeech": "adj",
-      "etymology": "From Skt anyatara ('any other').",
-      "notes": "The recurring catch-all that sweeps up any unlisted fault."
-    },
-    {
-      "token": "એ",
-      "translit": "e",
-      "gloss": "this",
-      "partOfSpeech": "pronoun",
-      "etymology": "Gujarati demonstrative.",
-      "notes": ""
-    },
-    {
-      "token": "દશમા",
-      "translit": "daśamā",
-      "gloss": "tenth",
-      "partOfSpeech": "adj",
-      "etymology": "Skt daśama.",
-      "notes": ""
-    },
-    {
-      "token": "દેશાવગાશિક",
-      "translit": "deśāvagāśika",
-      "gloss": "Deśāvagāśika",
-      "partOfSpeech": "compound",
-      "etymology": "See above.",
-      "notes": ""
-    },
-    {
-      "token": "વ્રત",
-      "translit": "vrata",
-      "gloss": "vow",
-      "partOfSpeech": "noun",
-      "etymology": "Skt vrata.",
-      "notes": ""
-    },
-    {
-      "token": "વિષે",
-      "translit": "viṣe",
-      "gloss": "regarding, concerning",
-      "partOfSpeech": "particle",
-      "etymology": "From Skt viṣaye ('in the matter of').",
-      "notes": "Closes the block: '…whatever else regarding this tenth vow' — implying the unspoken micchā mi dukkaḍaṁ."
+      "token": "અનેરું એ નવમા સામાયિકવ્રત વિષે",
+      "translit": "aneruṁ e navamā sāmāyikavrata viṣe",
+      "gloss": "and whatever else (was done) regarding this ninth, Sāmāyika, vow",
+      "partOfSpeech": "phrase",
+      "etymology": "aneruṁ 'other/anything else' (Skt. anya) + e 'this' + navamā 'ninth' + sāmāyikavrata + viṣe 'concerning' (Skt. viṣaye)",
+      "notes": "The standard catch-all close; the implied refrain 'te savi micchā mi dukkaḍaṁ' follows (per the preface)."
     }
   ],
-  "literalTranslation": "Tenth, the Deśāvagāśika vow. Whatever measure of directions one fixed in the sixth, the direction-vow — that we contract each day, and we abridge the rules of all the other vows too; that we call the Deśāvagāśika vow. I scrutinise the five transgressions of this tenth Deśāvagāśika vow. (1) Employment of fetching-in; (2) employment of sending-out; (3) signalling by sound; (4) signalling by sight; (5) casting matter outside. Having undertaken the deśāvagāśika: a thing lying outside the restricted ground one may have had brought through a person, or had a thing sent out through someone; by making a call, by coughing or grunting, by showing one's form in a marked way, by throwing a pebble, one may have made one's own presence known. And whatever else (was done) regarding this tenth Deśāvagāśika vow.",
-  "idiomaticTranslation": "The tenth is the Deśāvagāśika vow. Whatever directional limit I set, once and for life, in the sixth vow, I now draw in tighter for this single day — and I likewise condense, for today, the limits of all my other vows. That daily tightening is what we call the Deśāvagāśika vow. Let me now examine its five transgressions. I may have had something fetched in from beyond my day's boundary, or had something sent out across it through another. Keeping my own feet inside the line, I may yet have reached past it — calling out, clearing my throat or grunting, making myself conspicuous, or tossing a pebble — so that someone outside would notice me and act on my behalf. And for whatever else I did against this tenth vow, may that misdeed of mine come to nothing.",
+  "literalTranslation": "Those three guṇavratas are done; now the four śikṣāvratas are declared. Ninth, the Sāmāyika vow: to make an even disposition free of attachment and aversion — that we call Sāmāyika. I scrutinise the five atichāras of this ninth, Sāmāyika, vow: mis-application of mind, of speech, of body; non-performance of the sāmāyika; and performing the sāmāyika unsteadily. While doing the sāmāyika, having brooded in anguished and cruel meditation, in this-way-and-that restless thought, one may have committed mis-application of the mind. By speech, one may have uttered such sin-laden words as 'go, come, take, give, fetch, put down'; one may have talked with the mouth uncovered. With the body, one may have offered the khamāsamaṇa and vāndaṇā without first inspecting and sweeping the spot; one may have moved hands, feet or seat. Though time was available, one may not have done the sāmāyika, or having begun it may have forgotten it. While doing it unsteadily, one may not have watched the proper and improper times; one may have ended it before the two ghaḍī were complete; after ending, one may have wandered here and there. Contact may have occurred with grain, cottonseed, flower, fruit, earth, water, a woman and the like (for women: with a man and the like). One may have indulged in heedlessness such as sleep and gossip. On touching a living thing one may not have made the iriyāvahī confession — and whatever else regarding this ninth Sāmāyika vow.",
+  "idiomaticTranslation": "The three multiplying vows are complete; now the four disciplinary vows begin. The ninth is Sāmāyika. To settle into an even, balanced heart, untouched by attachment or aversion — that is what we call Sāmāyika. Let me now examine its five faults: wrong direction of mind, of speech, of body; failing to keep the vow at all; and keeping it unsteadily. Perhaps, even while seated in Sāmāyika, my mind slipped into anxious or cruel brooding, turning some worry over and over — that is mind misused. Perhaps my tongue let slip worldly commands — 'go, come, take, give, fetch, set down' — sinful speech; perhaps I spoke with my mouth uncovered. Perhaps my body offered its bows and venerations without first inspecting and gently sweeping the spot; perhaps I fidgeted my hands, feet, or seat. Perhaps I let the hour pass and never sat at all, or sat and then forgot. Perhaps, keeping it carelessly, I ignored the right and wrong moments, rose before the full forty-eight minutes were done, and then drifted about aimlessly. Perhaps I brushed against grain, cottonseed, flower, fruit, earth, water, or a person — many of them living beings. Perhaps I sank into sleep and idle chatter. Perhaps, having touched a living thing, I neglected the iriyāvahī confession. For these, and whatever else I did against this ninth vow — may that misdeed of mine come to nothing.",
   "elaboration": {
-    "verseByVerseCommentary": "After Sāmāyika (vow 9) opened the śikṣāvratas with a fixed-time equanimity, this verse adds a fixed-space discipline — and its single original move is announced at once: the deśāvagāśika is not a new boundary but a daily contraction of an old one. The śrāvaka took a lifelong directional cap in the sixth vow (diśi-vrata); here he 'shrinks it each day' (prati-divase saṅkoḍīe) and, the text adds pointedly, 'abridges the rules of all the other vows too' (anerā sarva vrata-taṇā niyama saṅkṣepīe). So this vow is a renewable intensifier: every morning the practitioner redraws his whole field of permitted action smaller than his standing vows allow. That is why it sits among the training-vows — it is daily practice at living within tighter walls. The five atichāras are built with great psychological precision around one loophole. The body honours the line, but the will leaks across it. One can fetch a thing in (āṇavaṇa / ānayana) or send a thing out (pesavaṇa / preṣya) by using another person as one's hands; or, without any errand-runner, simply summon attention from beyond the line — by sound (saddāṇuvāi: a call, a contrived cough, a grunt), by sight (rūvāṇuvāi: making oneself conspicuous, gāḍhe guṇe rūpa dekhāḍī), or by a thrown object (puggala-pakkheve: the tossed kāṅkarī). The homely Gujarati examples — the cough, the pebble — are not quaint filler; they expose the vow's real target. A transgression here is rarely a dramatic breach; it is the small, deniable signal by which a person keeps his body inside the boundary while extending his agency outside it. The verse therefore measures the vow not by where one stands but by where one's intention and effect reach, and closes with the standard aneruṁ … viṣe catch-all that implies the unspoken micchā mi dukkaḍaṁ.",
-    "doctrinalContext": "The five names match the canonical set for deśāvakāśika in the Tattvārtha tradition (ānayana-prayoga, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-kṣepa). Doctrinally the vow operationalises saṁvara (stopping karmic influx) by shrinking the kṣetra, the spatial field, within which any of the eighteen pāpa-sthānakas could be committed: less reachable space means fewer occasions for hiṁsā and parigraha. The atichāra scheme encodes the Jain principle that karmic agency is incurred by kṛta and kārita alike — doing and causing-to-be-done — and even by indirect prompting (anumodanā): hence fetching or sending through another, or merely signalling someone to act, strains the vow though one never crossed the line oneself. The pairing of two 'proxy' faults (ānayana/preṣya) with three 'signal' faults (sound/sight/object) shows the same exhaustiveness — gross and subtle — that governs every block of this confession.",
-    "practicalRelevance": "A reciter applies this by actually contracting his radius for the day — and then watching the modern equivalents of the cough and the pebble. The vow is strained not only by physically leaving the resolved zone but by phoning, messaging, gesturing, or sending someone to do across the line what one resolved not to do oneself. The self-examination is precise: 'I kept my limit — but did I cheat it by remote control?' Practised honestly, it trains a daily, deliberate shrinking of one's footprint of activity and consumption.",
+    "verseByVerseCommentary": "This verse opens the śikṣāvrata quartet and turns inward in a way the preceding economic vows (karmādāna, anartha-daṇḍa) did not: where those policed outward livelihood, Sāmāyika polices the quality of a single 48-minute interval of stillness. The text first gives its own crisp definition — samo rāgadveṣa rahita bhāva, 'an even state void of attachment and aversion' — then audits that interval with the fixed five-atichāra grid. Notice the architecture: the three duṣpraṇidhāna faults (mind, speech, body) cover how one sits; akaraṇatā covers not sitting; and anavasthita-karaṇatā covers sitting badly — together an exhaustive sweep of presence and quality. The Gujarati expansion is strikingly concrete. Mental fault is illustrated by ārta- and raudra-dhyāna and the vivid Prakrit idiom āhaṭṭa-dohaṭṭa (churning a worry to and fro); speech-fault by six bare imperatives — jā, āva, le, de, āṇa, mūka — the very reflexes of household command that a vow of equanimity must silence, plus talking with an uncovered mouth (endangering air-bodied life). Bodily fault is subtler: even performing the sacred khamāsamaṇa and vāndaṇā becomes a transgression if done without pratilekhana–pramārjana, the prior inspecting and sweeping. The fourth and fifth atichāras are then dramatised in everyday failure — letting the hour slip, forgetting mid-rite, misjudging the time, rising before the two ghaḍī close, then wandering off, brushing against sacitta things, dozing, gossiping, and omitting the obligatory iriyāvahī after contact with a living being. The gendered rubric (strīo kahe puruṣādika…) shows the confession was meant to be voiced verbatim by both men and women. The closing aneruṁ… formula gathers every unnamed slip into the same release.",
+    "doctrinalContext": "Sāmāyika is the layperson's nearest approach to the monk's state: for two ghaḍī the śrāvaka adopts sarva-sāvadya-yoga-viramaṇa, the suspension of all sinful activity of mind, speech and body — which is exactly why the three duṣpraṇidhāna head the atichāra list, mapping onto the three yogas through which karma is bound. The demand to avoid ārta- and raudra-dhyāna situates Sāmāyika within the fourfold dhyāna scheme: the rite is meant to be a foothold toward dharma- and śukla-dhyāna, so lapsing into the two inauspicious meditations defeats its purpose from within. The insistence on pratilekhana, on the iriyāvahī after sacitta-contact, and on shunning sleep and vikathā ties equanimity directly to ahiṁsā and apramāda — inner calm is inseparable from outward carefulness toward jīvas. Note that this list's last two members (akaraṇatā, anavasthita-karaṇatā) differ from the Tattvārtha-sūtra's anādara and smṛtyanupasthāna; the verse follows the Āvaśyaka/Śrāvaka-pratikramaṇa recension.",
+    "practicalRelevance": "A modern reciter can read this as a precise quality-checklist for any seated practice: did I actually sit (akaraṇatā), sit for the full measure (anavasthita), and keep mind, tongue and body still while sitting? The six imperatives are a pointed mirror for the reflex to manage household and phone mid-practice; 'uncovered mouth' and the sacitta-contact clause translate into simple mindfulness about how and where one sits. The verse trains honesty over perfection — naming the near-misses (started then forgot; ended early; dozed off) rather than only gross failure.",
     "crossReferences": [
       {
-        "text": "Tattvārtha Sūtra 7.30 (numbered 7.26 in some Śvetāmbara recensions): ānayana-preṣya-prayoga-śabda-rūpānupāta-pudgalakṣepāḥ",
-        "source": "Umāsvāti, Tattvārtha-sūtra, with Sarvārthasiddhi / Sukhlalji commentary"
+        "text": "Tattvārtha-sūtra 7.33 — sāmāyikasya pañca atichārāḥ (kāya-vāṅ-mano-duṣpraṇidhāna, anādara, smṛtyanupasthāna)",
+        "source": "Umāsvāti, Tattvārthādhigama-sūtra"
       },
       {
-        "text": "The seven śīlavratas of the householder, including deśāvakāśika, in the lay-conduct manuals",
-        "source": "Samantabhadra, Ratnakaraṇḍa-śrāvakācāra"
+        "text": "Vandittu (Śrāvaka-pratikramaṇa) sūtra — the five sāmāyika atichāras: maṇaduppaṇihāṇe… aṇavuṭṭhiyassa karaṇayā",
+        "source": "Āvaśyaka Śvetāmbara liturgy"
       },
       {
-        "text": "Laghu Atiyār — the short Devasi/Rāi confession that states this same vow's faults in brief",
-        "source": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha/Vidhipaksha ed.)"
+        "text": "Īryāpathikī (Iriyāvahiyaṁ) confession for harm while moving / on contact with jīvas",
+        "source": "Pañca Pratikramaṇa Sūtra – Vidhi Sahit (Anchalgachchha ed.)"
       }
     ]
   },
   "sources": [
     {
-      "title": "Tattvārtha Sūtra with commentary — Verse 7 (transgressions of the vows)",
-      "url": "https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary",
+      "title": "JainQQ — Jain eLibrary (Śrāvaka pratikramaṇa / atichāra texts and commentary)",
+      "url": "https://jainqq.org",
       "type": "translation",
-      "consultedFor": "Canonical list and meaning of the five deśāvakāśika atichāras (ānayana, preṣya-prayoga, śabdānupāta, rūpānupāta, pudgala-kṣepa) and their numbering."
+      "consultedFor": "The canonical five sāmāyika atichāras and the Vandittu-tradition wording maṇaduppaṇihāṇe…aṇavuṭṭhiyassa karaṇayā."
     },
     {
-      "title": "Jain Pāribhāṣika Śabdakośa (Romanized)",
-      "url": "https://jainqq.org/booktext/Jain_Paribhashika_Shabdakosha_Romanized/016091",
+      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
+      "url": "https://www.sanskrit-lexicon.uni-koeln.de",
       "type": "dictionary",
-      "consultedFor": "Technical glosses for atichāra-terms and the Prakrit forms āṇavaṇa, pesavaṇa, anupāta, pakkheva."
+      "consultedFor": "Sanskrit glosses for duṣpraṇidhāna, anavasthita, ārta/raudra-dhyāna, sāmāyika, sāvadya, sacitta."
     },
     {
-      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha edition), via Jain eLibrary",
-      "url": "https://www.jainelibrary.org",
-      "type": "translation",
-      "consultedFor": "Verbatim sūtra text, its internal spelling variants (atiyāra, deśāvagāsika/śika), and the Gujarati exposition of the five faults."
+      "title": "Tattvārtha-sūtra (Umāsvāti), ch. 7 — vrata and atichāra scheme",
+      "url": "https://archive.org/details/TattvarthaSutra",
+      "type": "scholarship",
+      "consultedFor": "Comparison of the verse's atichāra list with the Tattvārtha enumeration (anādara, smṛtyanupasthāna) and the three-yoga/duṣpraṇidhāna doctrine."
     }
   ],
-  "translatorConfidence": 0.88,
-  "notes": "The verse's own Gujarati gloss reads atichāras 1–2 as 'fetching a thing in' (āṇavaṇa = ānayana) and 'sending a thing out through someone' (pesavaṇa = preṣya-prayoga); some Tattvārtha commentaries instead gloss the first pair as 'going oneself' and 'sending a servant'. The Anchalgachchha text's own reading is followed here. The token ખ્પઓગે (khpaoge) is an orthographic peculiarity in the book for પ્પઓગે/ppaoge (Skt prayoge) and is transliterated verbatim. The book's spelling variation deśāvagāśika (heading, with શ) vs deśāvagāsika (body, with સ) is preserved, not normalised. The exact sūtra number for these atichāras varies by recension (commonly 7.30, or 7.26 in some Śvetāmbara editions); flagged rather than asserted. The closing micchā mi dukkaḍaṁ is implied by the standard block-formula but is not printed verbatim within this excerpt."
+  "translatorConfidence": 0.86,
+  "notes": "The Prakrit pair 'āhaṭṭa dohaṭṭa' is an idiomatic reduplication; the book offers no gloss. It is read here, with most commentarial tradition, as restless 'this-way-and-that' brooding aligned with ārta/raudra-dhyāna; this rendering is marked tentative and other glosses (e.g. dwelling on profit/loss) circulate. The book's spelling 'atiyāra' (ય) and Prakrit forms (sāmāiyassa, aṇavuṭṭhiyassa, paḍikkamī) are preserved verbatim, not normalised. The header line 'e traṇa guṇavrata huā…' is editorial framing within the text, not a numbered atichāra. The verse's last two atichāra-names (akaraṇatā, anavasthita-karaṇatā) follow the Āvaśyaka/Vandittu recension and differ from Tattvārtha-sūtra 7.33 (anādara, smṛtyanupasthāna) — a genuine recensional variant, not an error. The closing 'micchā mi dukkaḍaṁ' is implied by the recurring formula described in the preface and not reprinted in this verse's excerpt. The archive.org URL points to the relevant edition repository rather than an independently re-verified page."
 }

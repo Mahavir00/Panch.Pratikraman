@@ -74,6 +74,49 @@ const MONOTONIC_VOW_SPLIT = new Set([
     "bruhad-atiyar",
 ]);
 
+// Secondary splits for monotonic-split sutras: per-sutra needles that split ONE
+// monotonic verse into two at the line where a distinct second section begins.
+// The book places vow 7's karmataḥ (the 15 karmādāna) AFTER vow 7's ॥૭॥ but
+// BEFORE vow 8, so the monotonic pass (which only breaks at ॥N॥) lumps the
+// karmādāna list together with vow 8 (anarthadaṇḍa) into one oversized verse.
+// Splitting on the unambiguous anarthadaṇḍa heading "આઠમું અનર્થ દંડ" yields the
+// karmādāna section and the anarthadaṇḍa vow as separate, properly-translatable
+// verses. (The needle is the spelled-out heading, NOT "૮.", so it cannot collide
+// with the karmādāna sub-list's own item 8, "૮. રસવાણિજ્જે".)
+const SECONDARY_SPLITS = {
+    "bruhad-atiyar": ["આઠમું અનર્થ દંડ"],
+};
+
+// Split a monotonic verse into two at the first line that begins a configured
+// second section (needle found mid-verse, not at the verse start). The first part
+// carries printedNumber=null (a sub-section with no own top-level number); the
+// second keeps the verse's original ॥N॥ number.
+function applySecondarySplits(verses, needles) {
+    const out = [];
+    for (const v of verses) {
+        const text = v.text || "";
+        let splitAt = -1;
+        for (const needle of needles) {
+            const idx = text.indexOf(needle);
+            if (idx > 0) {
+                const lineStart = text.lastIndexOf("\n", idx) + 1; // start of the needle's line
+                if (lineStart > 0) { splitAt = lineStart; break; }
+            }
+        }
+        if (splitAt > 0) {
+            const first = text.slice(0, splitAt).trim();
+            const second = text.slice(splitAt).trim();
+            if (first && second) {
+                out.push({ number: null, text: first });
+                out.push({ number: v.number, text: second });
+                continue;
+            }
+        }
+        out.push(v);
+    }
+    return out;
+}
+
 // Sutras that are numbered verses FOLLOWED by a verbatim prose coda which carries
 // no verse number (so the numbered-verse parser drops it as `leftover`). For
 // these, the trailing prose between the last numbered verse and the first
@@ -131,6 +174,8 @@ export function buildCanonical(config) {
                 const res = extractMonotonicVowVerses(config.dataDir, meta.pdfPages || []);
                 verses = res.verses.slice();
                 if (res.tail && res.tail.length) verses.push({ number: null, text: res.tail });
+                // Secondary per-sutra splits (e.g. separate vow-7 karmataḥ from vow-8).
+                if (SECONDARY_SPLITS[sutraId]) verses = applySecondarySplits(verses, SECONDARY_SPLITS[sutraId]);
             } else {
                 const res = extractSutraVerses(config.dataDir, meta.pdfPages || [], needles);
                 verses = res.verses;

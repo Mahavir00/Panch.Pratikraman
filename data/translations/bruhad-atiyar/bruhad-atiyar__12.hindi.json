@@ -2,686 +2,844 @@
   "shlokaId": "bruhad-atiyar/12",
   "targetLang": "hindi",
   "targetScript": "devanagari",
-  "plainMeaning": "बारहवाँ व्रत यह है कि पर्व के पारणे पर साधु को शुद्ध आहार-दान देकर ही गृहस्थ अपना भोजन करे; इसी दान-कर्म में लगने वाले पाँच दोषों को यहाँ जाँचा जा रहा है।",
-  "recitation": "बारहवाँ अतिथि संविभाग व्रत। जं पर्व-तणे पारणे साधु को शुद्ध मान दान देकर अपनापन से उपजीविका करें, वह अतिथि संविभाग व्रत कहलाता है। इस बारहवें अतिथि संविभाग व्रत के पाँच अतियार शोधता हूँ। सचित्त-निक्खेवणया, सचित्त-पिहणया, कालाइक्कमदाणे, परोवएसे, मच्छरया। योग्य अन्न-पान आदि न देने की बुद्धि से सचित्त के ऊपर रख दिया हो अथवा सचित्त से ढाँक दिया हो। कालातिक्रम — वेला टालकर अन्न-पान की निमंत्रणा की हो। परव्यपदेश — अपनी वस्तु को (दूसरे की कहकर) प्यारी बताया हो। मात्सर्य के कारण दूसरे का दान देखकर उसकी स्पर्धा से दान दिया हो; अथवा दान की वेला पर 'महात्मा! तुम हमारा कुछ लोगे तो तुमसे हमारा रूठना है' ऐसा कहकर कलह मचाया हो; तथा ग्लान आदि कारण के बिना अयोग्य (अशुद्ध) दान दिया हो, और योग्य दान कृपणता से न दिया हो। इस बारहवें अतिथि संविभाग व्रत के विषय में और भी जो कुछ (दोष हुआ हो)।",
+  "plainMeaning": "ग्यारहवें पौषध व्रत में साधक एक दिन के लिए साधु जैसा जीवन जीता है — आहार, शरीर-शृंगार, मैथुन और सावद्य काम का त्याग करता है; यहाँ इस व्रत में हुई पाँच भूलों की जाँच करके पश्चात्ताप किया जाता है।",
+  "recitation": "११. इग्यारमुं पौषधव्रत * चिहुं भेदे जाणवुं। चतुर्विध आहार पोसहे — चतुर्विध आहारतणो परिहार। सरीरसक्कार पोसहे — सर्वथा स्नानादिक शरीरशुश्रूषातणो परिहार। बंभचेर पोसहे — सर्वथा औदारिक, वैक्रिय मैथुनतणो परिहार। अव्वावार पोसहे — सर्वथा सावद्य व्यापारतणो परिहार। ए इग्यारमा पौषधव्रततणा पांच अतियार शोधुं। अप्पडिलेहिय दुप्पडिलेहिय सिज्जासंथारे, अप्पमज्जिय दुप्पमज्जिय सिज्जासंथारे, अप्पडिलेहिय दुप्पडिलेहिय उच्चार पासवण भूमि, अप्पमज्जिय दुप्पमज्जिय उच्चार पासवण भूमि। पोसहोववासस्स सम्मं अणुपालणाया। पोषह कीधे शय्या, उपाश्रय, संथारो, संथारातणी भूमिका अने मलमूत्रतणां थंडिल, थंडिलतणी भूमिका, दिवस छते पडिलेह्यां, दृष्टे जोयां न होय। अने वस्त्रांचले, दंडासणे करी पडिलेह्यां प्रमाजर्यां न होय, अथवा विरूइपरे पडिलेह्यां प्रमाजर्यां होय। पोसहतणो उपवास सम्यक् साचव्यो न होय, चतुर्विध आहारमां एके आहार वांछ्यो होय। अने स्नानादिक शरीर सत्कार, अब्रह्मसेवा, वाणिज्यादिक गृहव्यापार वांछ्या होय। पाछलां स्मर्यां होय, अनागत प्रार्थ्यां होय, शरीर छांट्यां होय, आलोटा दीधा होय। पोसह थके पारणानी मंत्रणा कीधी होय। दिवसे लांबे पगे संथार्युं होय। श्लेष्मादि उघाडो मूक्यो होय। उपाश्रयथी नीकळतां आवस्सही, पेसतां निस्सिही कही न होय। पोरिसि भण्या पाखे रात्रे संथार्युं होय। उज्जेइ संघट्ट हुओ होय। अनेरुं ए इग्यारमा पौषधव्रत विषे।",
   "wordByWord": [
     {
-      "token": "બારમું",
-      "translit": "bāramuṁ",
-      "gloss": "बारहवाँ",
+      "token": "ઇગ્યારમું",
+      "translit": "igyāramuṁ",
+      "gloss": "ग्यारहवाँ",
       "partOfSpeech": "adj",
-      "etymology": "गुजराती क्रमवाचक; सं. dvādaśa > प्रा. bāraha > गुज. bāra + क्रम-प्रत्यय '-muṁ'",
-      "notes": "बारहवें (अंतिम) श्रावक-व्रत का सूचक"
+      "etymology": "प्रा. एगारस < सं. ekādaśa; गुज. क्रमवाचक प्रत्यय '-मुं'।",
+      "notes": "बारह व्रतों में यह चौथे शिक्षाव्रत—पौषध—का स्थान है।"
     },
     {
-      "token": "અતિથિ",
-      "translit": "atithi",
-      "gloss": "अतिथि (बिना तिथि के अकस्मात् आने वाला साधु/याचक)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. a-tithi = 'जिसकी कोई तिथि न हो'; आहार-निमित्त अनियत-समय पधारने वाला मुनि",
-      "notes": "यहाँ विशेषतः शुद्धाचारी साधु"
-    },
-    {
-      "token": "સંવિભાગ",
-      "translit": "saṁvibhāga",
-      "gloss": "संविभाग (बाँटकर देना, हिस्सा देना)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. sam + vi + √bhaj 'बाँटना'; अपने योग्य भोजन में से अंश देना"
-    },
-    {
-      "token": "વ્રત",
-      "translit": "vrata",
-      "gloss": "व्रत (नियम-संकल्प)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. √vṛ 'चुनना/संकल्प करना' से"
-    },
-    {
-      "token": "જં",
-      "translit": "jaṁ",
-      "gloss": "जो (यह कि)",
-      "partOfSpeech": "pronoun",
-      "etymology": "प्रा. jaṁ < सं. yat; सम्बन्धवाचक सर्वनाम"
-    },
-    {
-      "token": "પર્વતણે",
-      "translit": "parva-taṇe",
-      "gloss": "पर्व के (उपवास-पर्व के)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. parvan 'पर्व/तिथि' + गुज. सम्बन्ध-प्रत्यय '-taṇe' (का/के)",
-      "notes": "अष्टमी-चतुर्दशी आदि उपवास-पर्व अभिप्रेत"
-    },
-    {
-      "token": "પારણે",
-      "translit": "pāraṇe",
-      "gloss": "पारणे पर (उपवास तोड़ते समय)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. pāraṇa < √pṛ 'पार करना'; उपवास के पश्चात् प्रथम भोजन"
-    },
-    {
-      "token": "સાધુને",
-      "translit": "sādhune",
-      "gloss": "साधु को",
-      "partOfSpeech": "noun",
-      "etymology": "सं. sādhu + गुज. कर्म/सम्प्रदान-प्रत्यय '-ne'"
-    },
-    {
-      "token": "શુદ્ધમાન",
-      "translit": "śuddha-māna",
-      "gloss": "शुद्ध-मान (निर्दोष, ग्रहण-योग्य) आहार",
+      "token": "પૌષધવ્રત",
+      "translit": "pauṣadha-vrata",
+      "gloss": "पौषध व्रत",
       "partOfSpeech": "compound",
-      "etymology": "सं. śuddha 'निर्मल' + māna (यहाँ 'जैसा माना/स्वीकार किया जाए वैसा शुद्ध'); अर्थात् साधु को कल्पनीय निर्दोष आहार",
-      "notes": "एषणा-दोष-रहित आहार का भाव"
+      "etymology": "सं. upavasatha > pauṣadha (पर्वदिन का उपवास-व्रत) + vrata।",
+      "notes": "साधक पर्वदिन साधु-तुल्य संयम धारण करता है; इसी से 'पोसह/पोसो' रूप।"
     },
     {
-      "token": "દાન",
-      "translit": "dāna",
-      "gloss": "दान",
+      "token": "ચિહું",
+      "translit": "cihuṁ",
+      "gloss": "चार (प्रकार)",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. चउ < सं. catur; गुज. 'चिहुं' = चारों।",
+      "notes": ""
+    },
+    {
+      "token": "ભેદે",
+      "translit": "bhede",
+      "gloss": "भेद से / प्रकार से",
       "partOfSpeech": "noun",
-      "etymology": "सं. √dā 'देना' से"
+      "etymology": "सं. bheda; करण/अधिकरण विभक्ति।"
     },
     {
-      "token": "દેઇ",
-      "translit": "dei",
-      "gloss": "देकर",
+      "token": "જાણવું",
+      "translit": "jāṇavuṁ",
+      "gloss": "जानना (चाहिए)",
       "partOfSpeech": "verb",
-      "etymology": "प्रा./जू.गुज. dei < सं. dattvā/dadāti; पूर्वकालिक क्रिया 'देकर'"
+      "etymology": "प्रा. जाण < सं. √jñā; गुज. विध्यर्थ कृदन्त।"
     },
     {
-      "token": "આપણાપું",
-      "translit": "āpaṇāpuṁ",
-      "gloss": "अपनापन से (स्वयं हेतु)",
+      "token": "ચતુર્વિધ",
+      "translit": "caturvidha",
+      "gloss": "चार प्रकार का",
+      "partOfSpeech": "adj",
+      "etymology": "सं. catur + vidha।"
+    },
+    {
+      "token": "આહાર",
+      "translit": "āhāra",
+      "gloss": "आहार (अशन-पान-खादिम-स्वादिम)",
       "partOfSpeech": "noun",
-      "etymology": "गुज. āpaṇ 'अपना/स्वयं' + भाववाचक '-puṁ'; 'अपने लिए, अपने भाग का'"
+      "etymology": "सं. ā + √hṛ > āhāra।",
+      "notes": "चार आहार = अन्न, पानी, मेवा/मुखवास, स्वाद्य।"
     },
     {
-      "token": "ઉપજીવીએ",
-      "translit": "upajīvīe",
-      "gloss": "उपजीविका करें (भोजन से निर्वाह करें)",
-      "partOfSpeech": "verb",
-      "etymology": "सं. upa + √jīv 'जीना'; गुज. विधि/प्रेरणार्थक रूप 'जीविका चलाएँ'"
+      "token": "પોસહે",
+      "translit": "posahe",
+      "gloss": "पौषध में (का भेद)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. posaha < सं. pauṣadha; अधिकरण।",
+      "notes": "यहाँ चारों पौषध-भेदों के नाम गिनाए जाते हैं।"
     },
     {
-      "token": "તે",
-      "translit": "te",
-      "gloss": "वह",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं./प्रा. ta-; निर्देशवाचक"
+      "token": "આહારતણો",
+      "translit": "āhāra-taṇo",
+      "gloss": "आहार का",
+      "partOfSpeech": "compound",
+      "etymology": "āhāra + गुज. सम्बन्धवाचक '-तणो' (= का)।"
     },
     {
-      "token": "કહીએ",
-      "translit": "kahīe",
-      "gloss": "कहा जाता है / कहें",
-      "partOfSpeech": "verb",
-      "etymology": "सं. kathayati > प्रा. kahei > गुज. kahīe"
+      "token": "પરિહાર",
+      "translit": "parihāra",
+      "gloss": "त्याग / परित्याग",
+      "partOfSpeech": "noun",
+      "etymology": "सं. pari + √hṛ > parihāra।"
+    },
+    {
+      "token": "સરીરસક્કાર",
+      "translit": "sarīra-sakkāra",
+      "gloss": "शरीर-सत्कार (देह का शृंगार-सजावट)",
+      "partOfSpeech": "compound",
+      "etymology": "प्रा. sarīra < सं. śarīra; sakkāra < सं. satkāra।",
+      "notes": "दूसरा भेद: स्नान-विलेपन आदि देह-सेवा का त्याग।"
+    },
+    {
+      "token": "સર્વથા",
+      "translit": "sarvathā",
+      "gloss": "सर्वथा / पूर्णतः",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. sarvathā।"
+    },
+    {
+      "token": "સ્નાનાદિક",
+      "translit": "snānādika",
+      "gloss": "स्नान आदि",
+      "partOfSpeech": "adj",
+      "etymology": "सं. snāna + ādi + ka।"
+    },
+    {
+      "token": "શરીરશુશ્રૂષાતણો",
+      "translit": "śarīra-śuśrūṣā-taṇo",
+      "gloss": "शरीर की सेवा-सुश्रूषा का",
+      "partOfSpeech": "compound",
+      "etymology": "śarīra + śuśrūṣā (सं. √śru-इच्छार्थ) + '-तणो'।"
+    },
+    {
+      "token": "બંભચેર",
+      "translit": "baṁbhacera",
+      "gloss": "ब्रह्मचर्य",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. baṁbhacera < सं. brahmacarya।",
+      "notes": "तीसरा भेद: मैथुन का सर्वथा त्याग।"
+    },
+    {
+      "token": "ઔદારિક",
+      "translit": "audārika",
+      "gloss": "औदारिक (स्थूल देहधारी मनुष्य-तिर्यंच का) मैथुन",
+      "partOfSpeech": "adj",
+      "etymology": "सं. udāra > audārika; स्थूल शरीर।"
+    },
+    {
+      "token": "વૈક્રિય",
+      "translit": "vaikriya",
+      "gloss": "वैक्रिय (देव-नारकी के परिवर्तनशील देह का) मैथुन",
+      "partOfSpeech": "adj",
+      "etymology": "सं. vikriyā > vaikriya।",
+      "notes": "औदारिक व वैक्रिय—दोनों कोटि के मैथुन का त्याग।"
+    },
+    {
+      "token": "મૈથુનતણો",
+      "translit": "maithuna-taṇo",
+      "gloss": "मैथुन का",
+      "partOfSpeech": "compound",
+      "etymology": "सं. maithuna + '-तणो'।"
+    },
+    {
+      "token": "અવ્વાવાર",
+      "translit": "avvāvāra",
+      "gloss": "अव्यापार (सावद्य प्रवृत्ति का अभाव)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. avvāvāra < सं. a + vyāpāra।",
+      "notes": "चौथा भेद: सब सावद्य (पापयुक्त) व्यापार-प्रवृत्ति का त्याग।"
+    },
+    {
+      "token": "સાવદ્ય",
+      "translit": "sāvadya",
+      "gloss": "सावद्य / पापसहित",
+      "partOfSpeech": "adj",
+      "etymology": "सं. sa + avadya (पाप)।"
+    },
+    {
+      "token": "વ્યાપારતણો",
+      "translit": "vyāpāra-taṇo",
+      "gloss": "व्यापार/प्रवृत्ति का",
+      "partOfSpeech": "compound",
+      "etymology": "सं. vyāpāra + '-तणो'।"
     },
     {
       "token": "એ",
       "translit": "e",
       "gloss": "यह / इस",
       "partOfSpeech": "pronoun",
-      "etymology": "गुज. e < सं. eta-; निर्देशवाचक"
+      "etymology": "प्रा.-गुज. निदर्शक 'ए'।"
     },
     {
-      "token": "બારમા",
-      "translit": "bāramā",
-      "gloss": "बारहवें",
+      "token": "ઇગ્યારમા",
+      "translit": "igyāramā",
+      "gloss": "ग्यारहवें",
       "partOfSpeech": "adj",
-      "etymology": "गुज. क्रमवाचक का तिर्यक्/सम्बन्ध रूप"
+      "etymology": "देखें ઇગ્યારમું; सम्बन्ध-रूप।"
     },
     {
-      "token": "વ્રતતણા",
-      "translit": "vrata-taṇā",
-      "gloss": "व्रत के",
-      "partOfSpeech": "noun",
-      "etymology": "vrata + गुज. सम्बन्ध-प्रत्यय '-taṇā' (के)"
+      "token": "પૌષધવ્રતતણા",
+      "translit": "pauṣadha-vrata-taṇā",
+      "gloss": "पौषध व्रत के",
+      "partOfSpeech": "compound",
+      "etymology": "pauṣadha-vrata + '-तणा' (बहुवचन सम्बन्ध)।"
     },
     {
       "token": "પાંચ",
       "translit": "pāṁca",
       "gloss": "पाँच",
       "partOfSpeech": "adj",
-      "etymology": "सं. pañca > प्रा. paṁca > गुज. pāṁca"
+      "etymology": "प्रा. paṁca < सं. pañca।"
     },
     {
       "token": "અતિયાર",
       "translit": "atiyāra",
-      "gloss": "अतिचार (व्रत के सूक्ष्म उल्लंघन)",
+      "gloss": "अतिचार (सूक्ष्म उल्लंघन)",
       "partOfSpeech": "noun",
-      "etymology": "सं. aticāra; इस पुस्तक की वर्तनी 'अतियार'",
-      "notes": "प्रेफेस-शब्दावली में परिभाषित"
+      "etymology": "पुस्तक की वर्तनी 'अतियार' ( य सहित), देखें प्रस्तावना।"
     },
     {
       "token": "શોધું",
       "translit": "śodhuṁ",
-      "gloss": "शोधता/जाँचता हूँ (आलोचना करता हूँ)",
+      "gloss": "जाँचता/शोधता हूँ",
       "partOfSpeech": "verb",
-      "etymology": "सं. √śudh 'शुद्ध करना' का प्रेरणार्थक śodhayati; 'दोष-शुद्धि हेतु जाँचता हूँ'"
+      "etymology": "सं. √śudh > गुज. 'शोधवुं'; उत्तम पुरुष।",
+      "notes": "ध्रुव-पद: हर व्रत-खंड का आरम्भ 'पाँच अतियार शोधूं' से।"
     },
     {
-      "token": "સચિત્ત",
-      "translit": "sacitta",
-      "gloss": "सचित्त (सजीव — जिसमें जीव हो)",
+      "token": "અપ્પડિલેહિય",
+      "translit": "appaḍilehiya",
+      "gloss": "अप्रतिलेखित (बिना देखे/निरीक्षण किए)",
       "partOfSpeech": "adj",
-      "etymology": "सं. sa + citta 'चेतना सहित'; जीव-युक्त वस्तु"
+      "etymology": "प्रा. a + paḍilehaṇa < सं. apratyavekṣita।",
+      "notes": "वंदित्तु-परम्परा का प्राकृत अतिचार-नाम; आगे गुजराती में विवृत।"
     },
     {
-      "token": "નિક્ખેવણયા",
-      "translit": "nikkhevaṇayā",
-      "gloss": "निक्षेपण (सजीव वस्तु पर रख देना)",
-      "partOfSpeech": "noun",
-      "etymology": "प्रा. nikkhevaṇa < सं. nikṣepaṇa (ni + √kṣip 'रखना'); पहला अतिचार — आहार को सचित्त के ऊपर रखना",
-      "notes": "प्रा. अतिचार-नाम; आगे गुजराती में विवृत"
-    },
-    {
-      "token": "સચિત્ત",
-      "translit": "sacitta",
-      "gloss": "सचित्त (सजीव)",
+      "token": "દુપ્પડિલેહિય",
+      "translit": "duppaḍilehiya",
+      "gloss": "दुष्प्रतिलेखित (ठीक से न देखे)",
       "partOfSpeech": "adj",
-      "etymology": "उपर्युक्त; पुनरुक्त"
+      "etymology": "प्रा. du(ṣ) + paḍilehiya < सं. duṣpratyavekṣita।"
     },
     {
-      "token": "પિહણયા",
-      "translit": "pihaṇayā",
-      "gloss": "पिधान (सजीव वस्तु से ढाँकना)",
-      "partOfSpeech": "noun",
-      "etymology": "प्रा. pihaṇa < सं. pidhāna 'आच्छादन'; दूसरा अतिचार — आहार को सचित्त से ढक देना"
-    },
-    {
-      "token": "કાલાઇક્કમદાણે",
-      "translit": "kālāikkama-dāṇe",
-      "gloss": "कालातिक्रम-दान (उचित समय टालकर दिया गया दान)",
+      "token": "સિજ્જાસંથારે",
+      "translit": "sijjā-saṁthāre",
+      "gloss": "शय्या-संथारे में (बिछौने/शयन-आसन पर)",
       "partOfSpeech": "compound",
-      "etymology": "सं. kāla + atikrama 'समय का उल्लंघन' + dāna; प्रा. dāṇe; तीसरा अतिचार",
-      "notes": "भिक्षा-वेला बीत जाने पर निमंत्रण"
+      "etymology": "प्रा. sijjā < सं. śayyā; saṁthāra < सं. saṁstāra।",
+      "notes": "अधिकरण: शय्या व संथारे की भूमि के सन्दर्भ में।"
     },
     {
-      "token": "પરોવએસે",
-      "translit": "parovaese",
-      "gloss": "परव्यपदेश (अपनी वस्तु को दूसरे की बताना)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. para + vyapadeśa 'अन्य का निर्देश/बहाना'; प्रा. parovaesa; चौथा अतिचार",
-      "notes": "दान से बचने हेतु वस्तु को पराई कहना"
-    },
-    {
-      "token": "મચ્છરયા",
-      "translit": "macchharayā",
-      "gloss": "मात्सर्य (ईर्ष्या/कृपणतावश दान)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. mātsarya 'ईर्ष्या/कृपणता'; प्रा. macchhara; पाँचवाँ अतिचार"
-    },
-    {
-      "token": "સૂજતું",
-      "translit": "sūjatuṁ",
-      "gloss": "योग्य/कल्पनीय (साधु के ग्रहण-योग्य शुद्ध)",
+      "token": "અપ્પમજ્જિય",
+      "translit": "appamajjiya",
+      "gloss": "अप्रमार्जित (बिना पूँजे/साफ़ किए)",
       "partOfSpeech": "adj",
-      "etymology": "गुज. sūjavuṁ 'योग्य लगना' < सं. yujya/śudhya; निर्दोष-कल्पनीय आहार"
+      "etymology": "प्रा. a + pamajjaṇa < सं. apramārjita।"
     },
     {
-      "token": "અન્નપાનાદિક",
-      "translit": "annapānādika",
-      "gloss": "अन्न-पान आदि (भोजन-जल इत्यादि)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. anna + pāna + ādika 'इत्यादि'"
+      "token": "દુપ્પમજ્જિય",
+      "translit": "duppamajjiya",
+      "gloss": "दुष्प्रमार्जित (ठीक से न पूँजे)",
+      "partOfSpeech": "adj",
+      "etymology": "प्रा. du(ṣ) + pamajjiya < सं. duṣpramārjita।"
     },
     {
-      "token": "અણદેવાની",
-      "translit": "aṇadevānī",
-      "gloss": "न देने की",
-      "partOfSpeech": "verb",
-      "etymology": "गुज. निषेधक 'aṇ-' + devuṁ 'देना' का सम्बन्ध-रूप"
-    },
-    {
-      "token": "બુદ્ધે",
-      "translit": "buddhe",
-      "gloss": "बुद्धि से (अभिप्राय से)",
+      "token": "ઉચ્ચાર",
+      "translit": "uccāra",
+      "gloss": "उच्चार (मल/विष्ठा)",
       "partOfSpeech": "noun",
-      "etymology": "सं. buddhi 'मति/अभिप्राय', करण-रूप 'बुद्धि से'"
+      "etymology": "सं. uccāra = मल-त्याग/विष्ठा।"
     },
     {
-      "token": "ઉપરે",
-      "translit": "upare",
-      "gloss": "के ऊपर",
+      "token": "પાસવણ",
+      "translit": "pāsavaṇa",
+      "gloss": "प्रस्रवण (मूत्र)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. pāsavaṇa < सं. prasravaṇa।"
+    },
+    {
+      "token": "ભૂમિ",
+      "translit": "bhūmi",
+      "gloss": "भूमि / स्थंडिल-भूमि",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bhūmi।",
+      "notes": "मल-मूत्र-त्याग की भूमि का अप्रतिलेखन/अप्रमार्जन अतिचार है।"
+    },
+    {
+      "token": "પોસહોવવાસસ્સ",
+      "translit": "posahovavāsassa",
+      "gloss": "पौषधोपवास का",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. posaha + uvavāsa < सं. pauṣadhopavāsa; षष्ठी 'स्स'।"
+    },
+    {
+      "token": "સમ્મં",
+      "translit": "sammaṁ",
+      "gloss": "सम्यक् / भली-भाँति",
       "partOfSpeech": "adverb",
-      "etymology": "सं. upari > गुज. upare"
+      "etymology": "प्रा. sammaṁ < सं. samyak।"
     },
     {
-      "token": "મૂક્યું",
-      "translit": "mūkyuṁ",
-      "gloss": "रख दिया",
+      "token": "અણુપાલણાયા",
+      "translit": "aṇupālaṇāyā",
+      "gloss": "अनुपालन न करना (का दोष)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. aṇupālaṇā < सं. anupālana; पाँचवाँ अतिचार।",
+      "notes": "उपवास/नियमों का सम्यक् पालन न होना।"
+    },
+    {
+      "token": "પોષહ",
+      "translit": "poṣaha",
+      "gloss": "पौषध (करते समय)",
+      "partOfSpeech": "noun",
+      "etymology": "देखें પોસહે।"
+    },
+    {
+      "token": "કીધે",
+      "translit": "kīdhe",
+      "gloss": "किए जाने पर",
       "partOfSpeech": "verb",
-      "etymology": "गुज. mūkavuṁ 'रखना' < सं. mukta-; भूतकालिक"
+      "etymology": "गुज. 'करवुं' का भूत-कृदन्त; अधिकरण-रूप।"
     },
     {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "हो (सम्भावना)",
-      "partOfSpeech": "verb",
-      "etymology": "सं. bhavati > प्रा. hoi > गुज. hoya; सम्भावनार्थ '…किया हो'",
-      "notes": "पूरे पाठ का ध्रुव सम्भावना-रूप"
+      "token": "શય્યા",
+      "translit": "śayyā",
+      "gloss": "शय्या (सोने का स्थान)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śayyā।"
     },
     {
-      "token": "અથવા",
-      "translit": "athavā",
-      "gloss": "अथवा / या",
+      "token": "ઉપાશ્રય",
+      "translit": "upāśraya",
+      "gloss": "उपाश्रय (साधना-स्थान)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. upa + āśraya।"
+    },
+    {
+      "token": "સંથારો",
+      "translit": "saṁthāro",
+      "gloss": "संथारा (बिछौना)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. saṁstāra।"
+    },
+    {
+      "token": "સંથારાતણી",
+      "translit": "saṁthārā-taṇī",
+      "gloss": "संथारे की",
+      "partOfSpeech": "compound",
+      "etymology": "saṁthārā + '-तणी' (स्त्री. सम्बन्ध)।"
+    },
+    {
+      "token": "ભૂમિકા",
+      "translit": "bhūmikā",
+      "gloss": "भूमि / स्थान",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bhūmikā।"
+    },
+    {
+      "token": "અને",
+      "translit": "ane",
+      "gloss": "और",
       "partOfSpeech": "particle",
-      "etymology": "सं. athavā; विकल्पवाचक"
+      "etymology": "गुज. समुच्चयबोधक।"
     },
     {
-      "token": "સચિત્તે",
-      "translit": "sacitte",
-      "gloss": "सचित्त से (सजीव वस्तु से)",
-      "partOfSpeech": "noun",
-      "etymology": "sacitta का करण-रूप"
-    },
-    {
-      "token": "ઢાંક્યું",
-      "translit": "ḍhāṁkyuṁ",
-      "gloss": "ढाँक दिया",
-      "partOfSpeech": "verb",
-      "etymology": "गुज. ḍhāṁkavuṁ 'ढकना'; भूतकालिक"
-    },
-    {
-      "token": "કાલાતિક્રમ",
-      "translit": "kālātikrama",
-      "gloss": "कालातिक्रम (समय का उल्लंघन)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. kāla + atikrama; तीसरे अतिचार का संस्कृत-रूप शीर्षक"
-    },
-    {
-      "token": "વેળા",
-      "translit": "veḷā",
-      "gloss": "वेला (उचित समय)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. velā 'समय' > गुज. veḷā"
-    },
-    {
-      "token": "ટાળી",
-      "translit": "ṭāḷī",
-      "gloss": "टालकर",
-      "partOfSpeech": "verb",
-      "etymology": "गुज. ṭāḷavuṁ 'टालना'; पूर्वकालिक"
-    },
-    {
-      "token": "અન્નપાનતણી",
-      "translit": "annapāna-taṇī",
-      "gloss": "अन्न-पान की",
-      "partOfSpeech": "noun",
-      "etymology": "anna + pāna + गुज. सम्बन्ध-प्रत्यय '-taṇī'"
-    },
-    {
-      "token": "નિમંત્રણા",
-      "translit": "nimaṁtraṇā",
-      "gloss": "निमंत्रणा (बुलावा)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. nimantraṇa < ni + √mantr"
-    },
-    {
-      "token": "કીધી",
-      "translit": "kīdhī",
-      "gloss": "की (की हो)",
-      "partOfSpeech": "verb",
-      "etymology": "सं. kṛta > प्रा. kīa > गुज. kīdhī; भूतकालिक 'किया/की'"
-    },
-    {
-      "token": "પરવ્યપદેશ",
-      "translit": "paravyapadeśa",
-      "gloss": "परव्यपदेश (वस्तु को दूसरे की बताना)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. para + vyapadeśa; चौथे अतिचार का संस्कृत शीर्षक"
-    },
-    {
-      "token": "આપણી",
-      "translit": "āpaṇī",
-      "gloss": "अपनी",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. āpaṇuṁ 'अपना' का स्त्रीलिंग"
-    },
-    {
-      "token": "વસ્તુ",
-      "translit": "vastu",
-      "gloss": "वस्तु",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vastu"
-    },
-    {
-      "token": "પિયારી",
-      "translit": "piyārī",
-      "gloss": "प्यारी / पराई (किसी अन्य की प्रिय बताकर टालना)",
-      "partOfSpeech": "adj",
-      "etymology": "सं. priya > गुज. piyāruṁ; यहाँ 'दूसरे की प्रिय/उसकी' कहकर देने से बचना",
-      "notes": "सन्दर्भ: दान टालने हेतु वस्तु पर दूसरे का स्वामित्व आरोपित करना"
-    },
-    {
-      "token": "મચ્છરલગે",
-      "translit": "macchhara-lage",
-      "gloss": "मात्सर्य के कारण",
+      "token": "મલમૂત્રતણાં",
+      "translit": "mala-mūtra-taṇāṁ",
+      "gloss": "मल-मूत्र के",
       "partOfSpeech": "compound",
-      "etymology": "macchhara (मात्सर्य) + गुज. lage 'के कारण/के निमित्त'"
+      "etymology": "सं. mala + mūtra + '-तणां'।"
     },
     {
-      "token": "અનેરાતણું",
-      "translit": "anerā-taṇuṁ",
-      "gloss": "दूसरे का / अन्य का",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. aneruṁ 'अन्य' + सम्बन्ध-प्रत्यय '-taṇuṁ'"
-    },
-    {
-      "token": "દાન",
-      "translit": "dāna",
-      "gloss": "दान",
+      "token": "થંડિલ",
+      "translit": "thaṁḍila",
+      "gloss": "स्थंडिल (मल-त्याग योग्य निर्जीव भूमि)",
       "partOfSpeech": "noun",
-      "etymology": "सं. √dā; पुनरुक्त"
+      "etymology": "प्रा. thaṁḍila < सं. sthaṇḍila।"
     },
     {
-      "token": "દેખી",
-      "translit": "dekhī",
-      "gloss": "देखकर",
-      "partOfSpeech": "verb",
-      "etymology": "सं. √dṛś > गुज. dekhavuṁ; पूर्वकालिक"
-    },
-    {
-      "token": "તેની",
-      "translit": "tenī",
-      "gloss": "उसकी",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. te 'वह' का सम्बन्ध-रूप"
-    },
-    {
-      "token": "સ્પર્ધાએ",
-      "translit": "spardhāe",
-      "gloss": "स्पर्धा से (होड़वश)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. spardhā 'होड़', करण-रूप"
-    },
-    {
-      "token": "દીધું",
-      "translit": "dīdhuṁ",
-      "gloss": "दिया",
-      "partOfSpeech": "verb",
-      "etymology": "सं. datta > प्रा. diṇṇa > गुज. dīdhuṁ; भूतकालिक"
-    },
-    {
-      "token": "દાનતણી",
-      "translit": "dāna-taṇī",
-      "gloss": "दान की",
-      "partOfSpeech": "noun",
-      "etymology": "dāna + सम्बन्ध-प्रत्यय '-taṇī'"
-    },
-    {
-      "token": "વેળાએ",
-      "translit": "veḷāe",
-      "gloss": "वेला पर / समय पर",
-      "partOfSpeech": "noun",
-      "etymology": "veḷā का अधिकरण-रूप"
-    },
-    {
-      "token": "મહાત્મા",
-      "translit": "mahātmā",
-      "gloss": "महात्मा (हे साधु!)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. mahā + ātman; यहाँ साधु को सम्बोधन"
-    },
-    {
-      "token": "તુમ્હેં",
-      "translit": "tumheṁ",
-      "gloss": "तुम (आप)",
-      "partOfSpeech": "pronoun",
-      "etymology": "प्रा. tumhe < सं. yūyam; जू.गुज. मध्यम-पुरुष बहुवचन"
-    },
-    {
-      "token": "અમારું",
-      "translit": "amāruṁ",
-      "gloss": "हमारा",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. amāruṁ < सं. asmākam"
-    },
-    {
-      "token": "કાંઈ",
-      "translit": "kāṁī",
-      "gloss": "कुछ",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. kāṁī < सं. kim-api"
-    },
-    {
-      "token": "લેશો",
-      "translit": "leśo",
-      "gloss": "लोगे (ग्रहण करोगे)",
-      "partOfSpeech": "verb",
-      "etymology": "सं. √labh/lā > गुज. levuṁ; भविष्यत् मध्यम-पुरुष"
-    },
-    {
-      "token": "તો",
-      "translit": "to",
-      "gloss": "तो",
-      "partOfSpeech": "particle",
-      "etymology": "सं. tataḥ > गुज. to; शर्तसूचक"
-    },
-    {
-      "token": "તુમશું",
-      "translit": "tumaśuṁ",
-      "gloss": "तुमसे (आपसे)",
-      "partOfSpeech": "pronoun",
-      "etymology": "tum 'तुम' + गुज. सहार्थक/अपादान '-śuṁ' (के साथ/से)"
-    },
-    {
-      "token": "અમારું",
-      "translit": "amāruṁ",
-      "gloss": "हमारा",
-      "partOfSpeech": "pronoun",
-      "etymology": "पुनरुक्त"
-    },
-    {
-      "token": "રૂષણું",
-      "translit": "rūṣaṇuṁ",
-      "gloss": "रूठना / रोष",
-      "partOfSpeech": "noun",
-      "etymology": "सं. roṣa 'क्रोध/रोष' > गुज. rūṣaṇuṁ 'रूठना'"
-    },
-    {
-      "token": "છે",
-      "translit": "che",
-      "gloss": "है",
-      "partOfSpeech": "verb",
-      "etymology": "गुज. che < सं. *acchati/asti"
-    },
-    {
-      "token": "એમ",
-      "translit": "ema",
-      "gloss": "ऐसा / यों",
-      "partOfSpeech": "adverb",
-      "etymology": "सं. evam > गुज. ema"
-    },
-    {
-      "token": "કહી",
-      "translit": "kahī",
-      "gloss": "कहकर",
-      "partOfSpeech": "verb",
-      "etymology": "kahevuṁ 'कहना' का पूर्वकालिक"
-    },
-    {
-      "token": "કલહ",
-      "translit": "kalaha",
-      "gloss": "कलह (झगड़ा)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. kalaha"
-    },
-    {
-      "token": "માંડ્યો",
-      "translit": "māṁḍyo",
-      "gloss": "मचाया / खड़ा किया",
-      "partOfSpeech": "verb",
-      "etymology": "गुज. māṁḍavuṁ 'आरम्भ करना'; भूतकालिक"
-    },
-    {
-      "token": "તથા",
-      "translit": "tathā",
-      "gloss": "तथा / और",
-      "partOfSpeech": "particle",
-      "etymology": "सं. tathā"
-    },
-    {
-      "token": "ગ્લાનાદિક",
-      "translit": "glānādika",
-      "gloss": "ग्लान (रोगी) आदि",
+      "token": "થંડિલતણી",
+      "translit": "thaṁḍila-taṇī",
+      "gloss": "स्थंडिल की",
       "partOfSpeech": "compound",
-      "etymology": "सं. glāna 'रोगी/अशक्त' + ādika; अपवाद-कारण",
-      "notes": "रोगादि कारण से अकल्पनीय भी ग्राह्य — वही अपवाद यहाँ अभिप्रेत"
+      "etymology": "thaṁḍila + '-तणी'।"
     },
     {
-      "token": "કારણ",
-      "translit": "kāraṇa",
-      "gloss": "कारण",
+      "token": "દિવસ",
+      "translit": "divasa",
+      "gloss": "दिन",
       "partOfSpeech": "noun",
-      "etymology": "सं. kāraṇa"
+      "etymology": "सं. divasa।"
     },
     {
-      "token": "પાખે",
-      "translit": "pākhe",
-      "gloss": "बिना / के अभाव में",
+      "token": "છતે",
+      "translit": "chate",
+      "gloss": "होते हुए (विद्यमान रहते)",
       "partOfSpeech": "adverb",
-      "etymology": "गुज. pākhe 'बिना' < सं. pakṣa-/apakṣe"
+      "etymology": "सं. sati > गुज. 'छते' (सति-सप्तमी)।",
+      "notes": "'दिवस छते' = दिन रहते, उजाले में।"
     },
     {
-      "token": "અસૂઝતું",
-      "translit": "asūjhatuṁ",
-      "gloss": "अयोग्य/अकल्पनीय (साधु के अग्राह्य अशुद्ध)",
-      "partOfSpeech": "adj",
-      "etymology": "गुज. निषेधक 'a-' + sūjhatuṁ 'योग्य'; 'अकल्पनीय'"
-    },
-    {
-      "token": "દીધું",
-      "translit": "dīdhuṁ",
-      "gloss": "दिया",
+      "token": "પડિલેહ્યાં",
+      "translit": "paḍilehyāṁ",
+      "gloss": "प्रतिलेखित किए (निरीक्षण किए)",
       "partOfSpeech": "verb",
-      "etymology": "पुनरुक्त"
+      "etymology": "प्रा. paḍilehaṇa < सं. pratyavekṣaṇa; भूत-कृदन्त।"
     },
     {
-      "token": "સૂઝતું",
-      "translit": "sūjhatuṁ",
-      "gloss": "योग्य/कल्पनीय (शुद्ध, ग्राह्य)",
-      "partOfSpeech": "adj",
-      "etymology": "पुनरुक्त"
+      "token": "દષ્ટે",
+      "translit": "dṛṣṭe",
+      "gloss": "दृष्टि से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dṛṣṭi।"
     },
     {
-      "token": "કૃપણપણે",
-      "translit": "kṛpaṇapaṇe",
-      "gloss": "कृपणता से (कंजूसीवश)",
-      "partOfSpeech": "adverb",
-      "etymology": "सं. kṛpaṇa 'कंजूस' + गुज. भाववाचक '-paṇe'"
-    },
-    {
-      "token": "દીધું",
-      "translit": "dīdhuṁ",
-      "gloss": "दिया",
+      "token": "જોયાં",
+      "translit": "joyāṁ",
+      "gloss": "देखे",
       "partOfSpeech": "verb",
-      "etymology": "पुनरुक्त"
+      "etymology": "गुज. 'जोवुं' < सं. √dyut/√dṛś; भूतकाल।"
     },
     {
       "token": "ન",
       "translit": "na",
       "gloss": "नहीं",
       "partOfSpeech": "particle",
-      "etymology": "सं./प्रा. na; निषेधवाचक"
+      "etymology": "सं. na।"
     },
     {
       "token": "હોય",
       "translit": "hoya",
-      "gloss": "हो (सम्भावना)",
+      "gloss": "हुआ हो",
       "partOfSpeech": "verb",
-      "etymology": "पुनरुक्त; '…न दिया हो' का सम्भावना-रूप"
+      "etymology": "गुज. 'होवुं'; सम्भावनार्थ।",
+      "notes": "'…न होय / …होय' = ऐसा (न) हुआ हो—आलोचना का सम्भावना-रूप।"
+    },
+    {
+      "token": "વસ્ત્રાંચલે",
+      "translit": "vastrāñcale",
+      "gloss": "वस्त्र के छोर से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vastra + añcala।"
+    },
+    {
+      "token": "દંડાસણે",
+      "translit": "daṁḍāsaṇe",
+      "gloss": "दंडासन (रजोहरण/प्रमार्जनी) से",
+      "partOfSpeech": "noun",
+      "etymology": "सं. daṇḍa + āsana; पूँजने का उपकरण।"
+    },
+    {
+      "token": "કરી",
+      "translit": "karī",
+      "gloss": "करके / द्वारा",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. क्त्वान्त 'करी'।"
+    },
+    {
+      "token": "પ્રમાજર્યાં",
+      "translit": "pramājaryāṁ",
+      "gloss": "प्रमार्जित किए (पूँजे)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pra + √mṛj > pramārjana; भूत-कृदन्त।"
+    },
+    {
+      "token": "અથવા",
+      "translit": "athavā",
+      "gloss": "अथवा / या",
+      "partOfSpeech": "particle",
+      "etymology": "सं. athavā।"
+    },
+    {
+      "token": "વિરૂઇપરે",
+      "translit": "virūi-pare",
+      "gloss": "विपरीत/अनुचित रीति से",
+      "partOfSpeech": "adverb",
+      "etymology": "प्रा. virūa < सं. virūpa + 'परे' (= प्रकार से)।",
+      "notes": "ठीक विधि से नहीं, उलटे-सीधे ढंग से पूँजा/देखा हो।"
+    },
+    {
+      "token": "પોસહતણો",
+      "translit": "posaha-taṇo",
+      "gloss": "पौषध का",
+      "partOfSpeech": "compound",
+      "etymology": "posaha + '-तणो'।"
+    },
+    {
+      "token": "ઉપવાસ",
+      "translit": "upavāsa",
+      "gloss": "उपवास",
+      "partOfSpeech": "noun",
+      "etymology": "सं. upa + vāsa।"
+    },
+    {
+      "token": "સમ્યક્",
+      "translit": "samyak",
+      "gloss": "सम्यक् / ठीक से",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. samyak।"
+    },
+    {
+      "token": "સાચવ્યો",
+      "translit": "sācavyo",
+      "gloss": "सँभाला / पालन किया",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'साचववुं'; भूतकाल।"
+    },
+    {
+      "token": "આહારમાં",
+      "translit": "āhāramāṁ",
+      "gloss": "आहार में (से)",
+      "partOfSpeech": "noun",
+      "etymology": "āhāra + अधिकरण '-मां'।"
+    },
+    {
+      "token": "એકે",
+      "translit": "eke",
+      "gloss": "एक भी / किसी एक",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. 'एक' + 'ए'।"
+    },
+    {
+      "token": "વાંછ્યો",
+      "translit": "vāṁchyo",
+      "gloss": "इच्छा/अभिलाषा की",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √vāñch > गुज. 'वांछवुं'; भूतकाल।",
+      "notes": "चारों आहार त्यागे होने पर भी किसी आहार की चाह की हो।"
+    },
+    {
+      "token": "શરીર",
+      "translit": "śarīra",
+      "gloss": "शरीर",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śarīra।"
+    },
+    {
+      "token": "સત્કાર",
+      "translit": "satkāra",
+      "gloss": "सत्कार / शृंगार-सेवा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. satkāra।"
+    },
+    {
+      "token": "અબ્રહ્મસેવા",
+      "translit": "abrahma-sevā",
+      "gloss": "अब्रह्म-सेवा (मैथुन-सेवन)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. a + brahma + sevā।"
+    },
+    {
+      "token": "વાણિજ્યાદિક",
+      "translit": "vāṇijyādika",
+      "gloss": "व्यापार आदि",
+      "partOfSpeech": "adj",
+      "etymology": "सं. vāṇijya + ādi + ka।"
+    },
+    {
+      "token": "ગૃહવ્યાપાર",
+      "translit": "gṛha-vyāpāra",
+      "gloss": "गृह-व्यापार (घर का काम-धंधा)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. gṛha + vyāpāra।"
+    },
+    {
+      "token": "વાંછ્યા",
+      "translit": "vāṁchyā",
+      "gloss": "चाहे / अभिलषित किए",
+      "partOfSpeech": "verb",
+      "etymology": "देखें વાંછ્યો; बहुवचन।"
+    },
+    {
+      "token": "પાછલાં",
+      "translit": "pāchalāṁ",
+      "gloss": "बीते हुए (अतीत के भोग)",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. 'पाछळ' = पीछे।"
+    },
+    {
+      "token": "સ્મર્યાં",
+      "translit": "smaryāṁ",
+      "gloss": "स्मरण किए (याद किए)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √smṛ > 'स्मरवुं'।",
+      "notes": "बीते भोग याद करना भी पौषध में अतिचार।"
+    },
+    {
+      "token": "અનાગત",
+      "translit": "anāgata",
+      "gloss": "अनागत (भविष्य के भोग)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. an + āgata।"
+    },
+    {
+      "token": "પ્રાર્થ્યાં",
+      "translit": "prārthyāṁ",
+      "gloss": "प्रार्थे / चाहे (की कामना की)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pra + √arth > 'प्रार्थवुं'।"
+    },
+    {
+      "token": "છાંટ્યાં",
+      "translit": "chāṁṭyāṁ",
+      "gloss": "(जल से) छींटे / सींचा",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'छांटवुं'।",
+      "notes": "देह पर जल छिड़कना—शरीर-सत्कार रूप दोष।"
+    },
+    {
+      "token": "આલોટા",
+      "translit": "āloṭā",
+      "gloss": "लोट-पोट / करवटें",
+      "partOfSpeech": "noun",
+      "etymology": "गुज. 'आळोटवुं' = लोटना।"
+    },
+    {
+      "token": "દીધા",
+      "translit": "dīdhā",
+      "gloss": "दिए (लोटें लीं)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √dā > गुज. 'देवुं'।"
+    },
+    {
+      "token": "થકે",
+      "translit": "thake",
+      "gloss": "रहते हुए / होते",
+      "partOfSpeech": "adverb",
+      "etymology": "गुज. 'थकुं' = से/में होते हुए।",
+      "notes": "'पोसह थके' = पौषध के रहते हुए।"
+    },
+    {
+      "token": "પારણાની",
+      "translit": "pāraṇānī",
+      "gloss": "पारणे की (व्रत-भंग के भोजन की)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. pāraṇa + '-नी'।"
+    },
+    {
+      "token": "મંત્રણા",
+      "translit": "maṁtraṇā",
+      "gloss": "मन्त्रणा / चर्चा-योजना",
+      "partOfSpeech": "noun",
+      "etymology": "सं. mantraṇā।",
+      "notes": "पौषध में ही पारणे की योजना करना दोष।"
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "की",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'करवुं'; भूतकाल स्त्री.।"
+    },
+    {
+      "token": "દિવસે",
+      "translit": "divase",
+      "gloss": "दिन में",
+      "partOfSpeech": "noun",
+      "etymology": "divasa + अधिकरण।"
+    },
+    {
+      "token": "લાંબે",
+      "translit": "lāṁbe",
+      "gloss": "लम्बे (पसारकर)",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. 'लांबुं' < सं. lamba।"
+    },
+    {
+      "token": "પગે",
+      "translit": "page",
+      "gloss": "पैर (फैलाकर)",
+      "partOfSpeech": "noun",
+      "etymology": "गुज. 'पग' < सं. pāda।"
+    },
+    {
+      "token": "સંથાર્યું",
+      "translit": "saṁthāryuṁ",
+      "gloss": "संथारा किया / लेट गए",
+      "partOfSpeech": "verb",
+      "etymology": "saṁthāra से नाम-धातु; भूतकाल।",
+      "notes": "दिन में पैर पसारकर लेटना अविवेक-दोष।"
+    },
+    {
+      "token": "શ્લેષ્માદિ",
+      "translit": "śleṣmādi",
+      "gloss": "कफ/श्लेष्म आदि",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śleṣma + ādi।"
+    },
+    {
+      "token": "ઉઘાડો",
+      "translit": "ughāḍo",
+      "gloss": "खुला (बिना ढका)",
+      "partOfSpeech": "adj",
+      "etymology": "गुज. 'उघाडुं' = खुला।"
+    },
+    {
+      "token": "મૂક્યો",
+      "translit": "mūkyo",
+      "gloss": "रखा / छोड़ा",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'मूकवुं'।",
+      "notes": "थूक/कफ खुला छोड़ना—जीव-विराधना का दोष।"
+    },
+    {
+      "token": "ઉપાશ્રયથી",
+      "translit": "upāśrayathī",
+      "gloss": "उपाश्रय से",
+      "partOfSpeech": "noun",
+      "etymology": "upāśraya + अपादान '-थी'।"
+    },
+    {
+      "token": "નીકળતાં",
+      "translit": "nīkaḷatāṁ",
+      "gloss": "निकलते समय",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'नीकळवुं'; वर्तमान-कृदन्त।"
+    },
+    {
+      "token": "આવસ્સહી",
+      "translit": "āvassahī",
+      "gloss": "'आवस्सही' (बाहर जाते समय का निर्गमन-वचन)",
+      "partOfSpeech": "invocation",
+      "etymology": "प्रा. āvassahī < सं. āvaśyikī।",
+      "notes": "स्थान से निकलते समय बोला जाने वाला आवश्यकी-पद।"
+    },
+    {
+      "token": "પેસતાં",
+      "translit": "pesatāṁ",
+      "gloss": "प्रवेश करते समय",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'पेसवुं' < सं. praviśati।"
+    },
+    {
+      "token": "નિસ્સિહી",
+      "translit": "nissihī",
+      "gloss": "'निस्सिही' (प्रवेश के समय का निषेधि-वचन)",
+      "partOfSpeech": "invocation",
+      "etymology": "प्रा. nissihī < सं. naiṣedhikī।",
+      "notes": "स्थान में प्रवेश पर बोला जाने वाला नैषेधिकी-पद।"
+    },
+    {
+      "token": "કહી",
+      "translit": "kahī",
+      "gloss": "कही",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'कहेवुं' < सं. √kath।"
+    },
+    {
+      "token": "પોરિસિ",
+      "translit": "porisi",
+      "gloss": "पौरुषी (प्रहर-प्रमाण स्वाध्याय-काल)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. porisi < सं. pauruṣī।"
+    },
+    {
+      "token": "ભણ્યા",
+      "translit": "bhaṇyā",
+      "gloss": "पढ़े / बोले",
+      "partOfSpeech": "verb",
+      "etymology": "सं. √bhaṇ > 'भणवुं'।",
+      "notes": "रात्रि-संथारे से पूर्व पौरुषी-सूत्र भणना अपेक्षित।"
+    },
+    {
+      "token": "પાખે",
+      "translit": "pākhe",
+      "gloss": "बिना",
+      "partOfSpeech": "particle",
+      "etymology": "गुज. 'पाखे' = रहित/बिना।",
+      "notes": "'पोरिसि भण्या पाखे' = पौरुषी भणे बिना।"
+    },
+    {
+      "token": "રાત્રે",
+      "translit": "rātre",
+      "gloss": "रात में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. rātri।"
+    },
+    {
+      "token": "ઉજ્જેઇ",
+      "translit": "ujjei",
+      "gloss": "उद्योत/प्रकाश में (दीपक आदि के आलोक में)",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. ujjoa < सं. udyota; पाठान्तर अर्थ।",
+      "notes": "अग्नि/दीप के प्रकाश से सम्बद्ध संघट्टन-दोष; गच्छ-भेद से व्याख्या में अन्तर सम्भव—देखें notes।"
+    },
+    {
+      "token": "સંઘટ્ટ",
+      "translit": "saṁghaṭṭa",
+      "gloss": "संघट्ट / स्पर्श-संघर्षण",
+      "partOfSpeech": "noun",
+      "etymology": "सं. saṁ + √ghaṭṭ।",
+      "notes": "सचित्त/अग्नि आदि का स्पर्श-संघट्टन हुआ हो।"
+    },
+    {
+      "token": "હુઓ",
+      "translit": "huo",
+      "gloss": "हुआ",
+      "partOfSpeech": "verb",
+      "etymology": "गुज. 'थवुं/हुवुं'; भूतकाल।"
     },
     {
       "token": "અનેરું",
       "translit": "aneruṁ",
-      "gloss": "और भी (अन्य कोई दोष)",
-      "partOfSpeech": "pronoun",
-      "etymology": "गुज. aneruṁ 'अन्य/दूसरा'; खंड-समापन का सूचक",
-      "notes": "हर व्रत-खंड के अंत का ध्रुव-पद — गिनाए गए के अतिरिक्त 'और जो भी' दोष"
-    },
-    {
-      "token": "એ",
-      "translit": "e",
-      "gloss": "इस",
-      "partOfSpeech": "pronoun",
-      "etymology": "पुनरुक्त"
-    },
-    {
-      "token": "બારમા",
-      "translit": "bāramā",
-      "gloss": "बारहवें",
+      "gloss": "और भी (जो कुछ शेष)",
       "partOfSpeech": "adj",
-      "etymology": "पुनरुक्त"
-    },
-    {
-      "token": "અતિથિ",
-      "translit": "atithi",
-      "gloss": "अतिथि",
-      "partOfSpeech": "noun",
-      "etymology": "पुनरुक्त"
-    },
-    {
-      "token": "સંવિભાગ",
-      "translit": "saṁvibhāga",
-      "gloss": "संविभाग",
-      "partOfSpeech": "noun",
-      "etymology": "पुनरुक्त"
-    },
-    {
-      "token": "વ્રત",
-      "translit": "vrata",
-      "gloss": "व्रत",
-      "partOfSpeech": "noun",
-      "etymology": "पुनरुक्त"
+      "etymology": "गुज. 'अनेरुं' = अन्य/और।",
+      "notes": "खंड-समापन सूत्र: इस व्रत-विषयक अन्य कोई दोष भी।"
     },
     {
       "token": "વિષે",
       "translit": "viṣe",
       "gloss": "के विषय में",
-      "partOfSpeech": "adverb",
-      "etymology": "सं. viṣaye 'विषय में' > गुज. viṣe"
+      "partOfSpeech": "particle",
+      "etymology": "सं. viṣaye।"
     }
   ],
-  "literalTranslation": "बारहवाँ अतिथि संविभाग व्रत — जो पर्व के पारणे पर साधु को शुद्ध-मान आहार का दान देकर (फिर) अपने भाग से निर्वाह करें, वह अतिथि संविभाग व्रत कहलाता है। इस बारहवें अतिथि संविभाग व्रत के पाँच अतिचार शोधता हूँ : सचित्त-निक्षेपण, सचित्त-पिधान, कालातिक्रम-दान, परव्यपदेश, मात्सर्य। योग्य अन्न-पान आदि न देने की बुद्धि से (आहार) सचित्त के ऊपर रखा हो अथवा सचित्त से ढाँका हो। कालातिक्रम — भिक्षा-वेला टालकर अन्न-पान का निमंत्रण किया हो। परव्यपदेश — अपनी वस्तु को (दूसरे की कहकर) प्यारी/पराई बताया हो। मात्सर्यवश दूसरे का दान देखकर होड़ से दान दिया हो; अथवा दान के समय 'महात्मा! आप हमारा कुछ लोगे तो आपसे हमारा रोष है' ऐसा कहकर कलह खड़ा किया हो; तथा ग्लानादि कारण के बिना अकल्पनीय (अशुद्ध) दिया हो, और कल्पनीय शुद्ध कृपणतावश न दिया हो। इस बारहवें अतिथि संविभाग व्रत के विषय में और भी जो दोष (हुआ हो)।",
-  "idiomaticTranslation": "अब बारहवाँ अतिथि-संविभाग व्रत। पर्व के पारणे के दिन पहले साधु को निर्दोष, ग्रहण-योग्य आहार का दान देकर ही गृहस्थ अपने हिस्से से अपना निर्वाह करे — यही अतिथि-संविभाग व्रत है। इस व्रत के पाँच अतिचारों की मैं आलोचना करता हूँ। पहला और दूसरा — दान न देने की दुर्भावना से योग्य आहार को किसी सजीव वस्तु पर रख देना या सजीव से ढाँक देना (जिससे साधु उसे न ले सके)। तीसरा कालातिक्रम — भिक्षा का उचित समय जान-बूझकर बीतने देकर तब निमंत्रण देना। चौथा परव्यपदेश — देने से बचने को अपनी ही वस्तु को 'यह तो दूसरे की है' कहकर टाल देना। पाँचवाँ मात्सर्य — किसी दूसरे का दान देखकर ईर्ष्या-होड़ में दान करना; या दान के अवसर पर ही 'महाराज! आप यदि हमारा कुछ लेंगे तो हमें आपसे रोष रहेगा' — ऐसा कहकर झगड़ा खड़ा कर देना; और रोग आदि उचित कारण के बिना अकल्पनीय अशुद्ध आहार दे देना, जबकि शुद्ध-योग्य आहार कंजूसी के कारण न देना। इन सबके अतिरिक्त इस बारहवें व्रत के विषय में जो भी दोष लगा हो।",
+  "literalTranslation": "ग्यारहवाँ पौषध व्रत — इसे चार भेदों से जानना चाहिए। (१) चतुर्विध-आहार-पौषध — चारों आहार का त्याग। (२) शरीर-सत्कार-पौषध — स्नानादि देह-सुश्रूषा का सर्वथा त्याग। (३) ब्रह्मचर्य-पौषध — औदारिक व वैक्रिय मैथुन का सर्वथा त्याग। (४) अव्यापार-पौषध — सब सावद्य व्यापार का सर्वथा त्याग। इस ग्यारहवें पौषध व्रत के पाँच अतिचार जाँचता हूँ — अप्रतिलेखित-दुष्प्रतिलेखित शय्या-संथारा, अप्रमार्जित-दुष्प्रमार्जित शय्या-संथारा, अप्रतिलेखित-दुष्प्रतिलेखित उच्चार-प्रस्रवण-भूमि, अप्रमार्जित-दुष्प्रमार्जित उच्चार-प्रस्रवण-भूमि, तथा पौषधोपवास का सम्यक् अनुपालन न करना। पौषध करते समय शय्या, उपाश्रय, संथारा, संथारे की भूमि और मल-मूत्र का स्थंडिल व स्थंडिल की भूमि — दिन रहते (उजाले में) प्रतिलेखित व दृष्टि से देखे न हों; वस्त्र के छोर अथवा दंडासन से प्रमार्जित न किए हों, या विपरीत रीति से प्रतिलेखित-प्रमार्जित किए हों; पौषध का उपवास सम्यक् न सँभाला हो; चारों आहार में किसी एक आहार की इच्छा की हो; स्नानादि शरीर-सत्कार, अब्रह्म-सेवा, व्यापारादि गृह-कार्य की चाह की हो; बीते भोग स्मरण किए हों, भावी भोग की कामना की हो, देह पर जल छिड़का हो, करवटें/लोट लगाई हों; पौषध में ही पारणे की मन्त्रणा की हो; दिन में पैर पसारकर लेट गए हों; कफ-श्लेष्म खुला छोड़ा हो; उपाश्रय से निकलते 'आवस्सही' व प्रवेश करते 'निस्सिही' न कही हो; पौरुषी भणे बिना रात्रि में संथारा किया हो; उद्योत (प्रकाश/अग्नि) का संघट्टन हुआ हो — तथा इस ग्यारहवें पौषध व्रत-विषयक और भी जो दोष हुआ हो।",
+  "idiomaticTranslation": "अब ग्यारहवाँ पौषध व्रत — एक दिन के लिए साधु-तुल्य जीवन, जिसके चार अंग हैं: चारों आहार का त्याग, देह-शृंगार का त्याग, पूर्ण ब्रह्मचर्य, और सब पापमय प्रवृत्ति का त्याग। इसी व्रत के पाँच अतिचार मैं भीतर झाँककर जाँचता हूँ — सोने-बैठने की जगह और मल-मूत्र-त्याग की भूमि को उजाले में आँख से देखे और दंडासन से पूँजे बिना, या उलटे ढंग से देख-पूँजकर उपयोग किया हो; और उपवास के नियमों का ठीक पालन न किया हो। पौषध में रहते हुए यदि किसी आहार की लालसा जगी हो; स्नान-शृंगार, मैथुन या व्यापार की चाह उठी हो; भोगे हुए सुख याद आए या आगामी सुख की कामना की हो; देह पर पानी छिड़का, करवटें लीं; पारणे की योजना सोची; दिन में पैर पसारकर लेट गए; कफ खुला छोड़ा; आते-जाते आवस्सही–निस्सिही कहना भूले; पौरुषी पढ़े बिना रात को सो गए; या प्रकाश/अग्नि का स्पर्श-संघट्टन हुआ — इन सब में, और जो कुछ शेष चूक इस व्रत में रही हो, उसके लिए मैं आलोचना करता हूँ।",
   "elaboration": {
-    "verseByVerseCommentary": "ग्यारहवें पौषधव्रत से बारहवें व्रत में संक्रमण का भाव सूक्ष्म है : पौषध में साधक स्वयं उपवास-पूर्वक साधु-जैसी चर्या जीता है; पारणे के दिन वही साधक 'अतिथि-संविभाग' द्वारा साधु-संघ को पोषकर अपनी साधना को संघ-सेवा में फलित करता है। यहाँ मूल वाक्य 'दान देइ आपणापुं उपजीवीए' का क्रम महत्त्वपूर्ण है — पहले दान, फिर अपना भोजन; यही 'संविभाग' (बाँटकर लेना) शब्द की आत्मा है। ध्यान दें कि इस व्रत के पाँचों अतिचार दान के 'न देने' की वृत्ति को छिपाने के पाँच कपटपूर्ण ढंग हैं : (१–२) सचित्त-निक्षेपण व सचित्त-पिधान — आहार को सजीव वस्तु पर रखकर या उससे ढककर ऐसा बना देना कि वह साधु के लिए अग्राह्य हो जाए, और दाता बहाने से बच जाए; (३) कालातिक्रम — भिक्षा-वेला बीतने पर निमंत्रण, ताकि देना नाममात्र रह जाए; (४) परव्यपदेश — अपनी वस्तु को पराई बताकर टालना; (५) मात्सर्य — जिसमें पाठ तीन रूप गिनाता है : दूसरे के दान से स्पर्धा, दान के क्षण कलह-वचन ('लोगे तो रोष है'), और ग्लानादि कारण बिना अशुद्ध देकर शुद्ध को कृपणतावश रोक रखना। इस प्रकार चारों अतिचार बाह्य-क्रिया के हैं और पाँचवाँ शुद्ध भाव-दोष — सम्पूर्ण दान-वृत्ति की मलिनता। 'अणदेवानी बुद्धे' (न देने की बुद्धि से) यह वाक्यांश समूचे खंड की कुंजी है : दोष क्रिया में नहीं, देने-न-देने की कुटिल मनोवृत्ति में है।",
-    "doctrinalContext": "अतिथि-संविभाग चौथा शिक्षाव्रत है और इसका सैद्धान्तिक आधार 'सुपात्र-दान' है — संयमी मुनि (अतिथि) को निर्दोष आहार-जल-वस्त्र-औषध-वसति देना। तत्त्वार्थसूत्र (७.२१ में व्रत; ७.३४ में अतिचार) इसी पाँच-अतिचार-सूची को देता है : सचित्त-निक्षेप, सचित्त-पिधान, परव्यपदेश, मात्सर्य और कालातिक्रम। यहाँ दो जैन सिद्धांत एक साथ सधते हैं — अहिंसा (सचित्त-स्पर्श से जीव-विराधना का वर्जन, अतः आहार-शुद्धि) और अपरिग्रह/निर्लोभ (कृपणता व मात्सर्य का त्याग)। 'सूझतुं/असूझतुं' की जोड़ी मुनि के लिए कल्पनीय-अकल्पनीय (एषणीय-अनेषणीय) आहार का भेद है; ग्लानादि अपवाद यह दिखाता है कि उत्सर्ग-अपवाद का विवेक भी दान में अपेक्षित है। मूलतः यह व्रत बताता है कि दान का पुण्य केवल देने से नहीं, निर्दोष वस्तु को निर्मल, स्पर्धा-रहित, कृपणता-रहित भाव से, उचित समय पर देने से सिद्ध होता है।",
-    "practicalRelevance": "आज भी जब श्रावक गुरु-भगवंत को आहार-पानी वहोराते हैं, यह सूची आत्म-परीक्षण की कसौटी है : क्या मैंने वस्तु को जान-बूझकर ऐसी जगह रखा कि वह अग्राह्य हो जाए? क्या मैंने समय टाला? क्या 'यह तो किसी और की है' कहकर बचने की चेष्टा की? क्या किसी की देखादेखी होड़ में दिया? क्या शुद्ध होते हुए भी कंजूसी से कम/घटिया दिया? रोज़मर्रा के दान-धर्म, अतिथि-सत्कार और परोपकार में भी यही भाव-शुद्धि लागू होती है — देना हो तो खुले, निर्मल, समय पर और बिना ईर्ष्या के।",
+    "verseByVerseCommentary": "दसवें देशावगाशिक व्रत (श्लोक १०) ने दिन-प्रतिदिन दिशा-सीमा को 'संकोड़ने' का अभ्यास कराया; ग्यारहवाँ पौषध उस संकोचन को उसकी पराकाष्ठा तक ले जाता है — पूरे दिन-रात गृहस्थ साधु बन जाता है। इसीलिए यह श्लोक पहले व्रत को चार 'पोसहों' में खोलता है (आहार-त्याग, शरीर-सत्कार-त्याग, ब्रह्मचर्य, अव्यापार) और फिर पाँच अतिचार गिनाता है। ध्यान देने योग्य बात: यहाँ पाँचों अतिचार अहिंसा-केन्द्रित हैं — शय्या-संथारा और उच्चार-प्रस्रवण-भूमि का अप्रतिलेखन (आँख से न देखना) व अप्रमार्जन (दंडासन से न पूँजना), तथा पाँचवाँ 'सम्यक् अनुपालन का अभाव'। प्राकृत जोड़ी 'अप्पडिलेहिय/दुप्पडिलेहिय' (बिल्कुल न देखा / ठीक से न देखा) और 'अप्पमज्जिय/दुप्पमज्जिय' (बिल्कुल न पूँजा / ठीक से न पूँजा) सूक्ष्म व बादर दोनों कोटि की लापरवाही समेट लेती है। आगे का लम्बा गुजराती विवरण इन्हीं प्राकृत बीजों को रोज़मर्रा के व्यवहार में खोलता है — दिन के उजाले में पडिलेहण, वस्त्रांचल/दंडासन से प्रमार्जन, उपवास-रक्षा, चारों आहार में अनासक्ति। फिर सूची मन के स्तर तक उतरती है: 'पाछलां स्मर्यां, अनागत प्रार्थ्यां' — भूत-भोगों का स्मरण व भावी-भोगों की कामना भी पौषध की शुद्धि भंग करती है, क्योंकि व्रत केवल देह का नहीं, चित्त का संयम है। अन्त के बारीक बिन्दु — आवस्सही–निस्सिही का उच्चारण, पौरुषी भणकर ही रात्रि-संथारा, उद्योत-संघट्ट से बचाव — दिखाते हैं कि पौषध साधु-आचार की पूरी सूक्ष्म जयणा (जीव-यतना) का एक-दिवसीय अभ्यास है।",
+    "doctrinalContext": "पौषधोपवास चौथा शिक्षाव्रत है — साधु-दीक्षा का पूर्वाभ्यास। इसके पाँचों अतिचार तत्त्वार्थसूत्र (अ. ७) में निरूपित त्रिक पर आधारित हैं: अप्रत्यवेक्षित-अप्रमार्जित (क) संस्तार/शय्या के, तथा (ख) उच्चार-प्रस्रवण-भूमि के — और (ग) सम्यक्-अननुपालन। 'प्रत्यवेक्षण' (देखना) और 'प्रमार्जन' (पूँजना) दोनों ईर्या-समिति व जीव-रक्षा के साधन हैं: बिना देखे-पूँजे बैठना-लेटना-त्याग करना सूक्ष्म जीवों की विराधना है, अतः अहिंसा-अणुव्रत का यहाँ शिक्षाव्रत-स्तर पर सघन प्रयोग होता है। 'पाछलां स्मर्यां/अनागत प्रार्थ्यां' का निषेध दर्शाता है कि जैन-दृष्टि में व्रत मन-वचन-काया तीनों योगों का संयम है — केवल बाह्य आहार-त्याग पर्याप्त नहीं, राग-स्मृति भी मलिनता है (यही 'भाव-पौषध' बनाम केवल 'द्रव्य-पौषध' का भेद)।",
+    "practicalRelevance": "आज पौषध/पोसो करने वाला साधक इस सूची को आत्म-परीक्षा-पत्र की तरह प्रयोग करे: क्या संथारे व स्थंडिल-भूमि को उजाले में देखकर, मुहपत्ती/दंडासन से पूँजकर ही उपयोग किया? क्या दिन में अकारण पैर पसारकर नहीं लेटा? क्या आते-जाते निसीही–आवस्सही बोली? और सबसे भीतरी जाँच — क्या मन पारणे, पुराने स्वाद, या व्यापार की ओर नहीं भागा? जहाँ चूक दिखे वहाँ 'मिच्छा मि दुक्कडं' भाव से उसे छोड़ दे; यही इस श्लोक की जीवंत उपयोगिता है।",
     "crossReferences": [
       {
-        "text": "तत्त्वार्थसूत्र ७.२१ (अतिथिसंविभागव्रत) तथा ७.३४ (पाँच अतिचार)",
+        "text": "तत्त्वार्थसूत्र ७.३० — पौषधोपवास के पाँच अतिचार (अप्रत्यवेक्षित-अप्रमार्जित उत्सर्ग/आदान/संस्तार, अनादर, स्मृत्यनुपस्थान)",
         "source": "उमास्वाति, तत्त्वार्थाधिगमसूत्र"
       },
       {
-        "text": "त्रिषष्टिशलाकापुरुषचरित्र १.३, ऋषभदेव-उपदेश : 'अतिथि को चतुर्विध आहारादि देना अतिथिसंविभाग है'",
-        "source": "हेमचन्द्राचार्य (अनु. हेलन एम. जॉनसन, GOS)"
+        "text": "वंदित्तु (श्राद्ध-प्रतिक्रमण) सूत्र — 'अप्पडिलेहिय-दुप्पडिलेहिय सिज्जासंथारे…' अतिचार-गाथा",
+        "source": "श्वेताम्बर श्रावक-प्रतिक्रमण परम्परा"
       },
       {
-        "text": "वंदित्तु (श्राद्ध-प्रतिक्रमण) सूत्र — बारह व्रतों के अतिचार",
-        "source": "श्वेताम्बर प्रतिक्रमण परम्परा"
+        "text": "उपासकदशांग — आनन्द आदि श्रावकों का पौषधोपवास-व्रत",
+        "source": "अंग-आगम (सातवाँ अंग)"
       }
     ]
   },
   "sources": [
     {
-      "title": "Atithisamvibhaga — definition (Tattvārthasūtra 7.21; Triṣaṣṭiśalākāpuruṣacaritra 1.3)",
-      "url": "https://www.wisdomlib.org/definition/atithisamvibhaga",
-      "type": "dictionary",
-      "consultedFor": "व्रत की परिभाषा, चतुर्विध दान (आहार-वसति-शास्त्र-औषध), तत्त्वार्थसूत्र ७.२१ का सन्दर्भ"
+      "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
+      "url": "https://anchalgachgyanmandir.org",
+      "type": "translation",
+      "consultedFor": "मूल पाठ, 'अतियार' वर्तनी, चारों पौषध-भेद व पाँच अतिचार के विवरण का प्रामाणिक आधार"
     },
     {
-      "title": "Triṣaṣṭiśalākāpuruṣacaritra (Hemacandra) — Ādīśvara-caritra",
-      "url": "https://archive.org/details/in.ernet.dli.2015.189073",
+      "title": "Tattvārtha Sūtra (That Which Is), tr. Nathmal Tatia — ch. 7 (vratas & their aticāras)",
+      "url": "https://archive.org/details/tattvarthasutra0000umas",
       "type": "scholarship",
-      "consultedFor": "ऋषभ-उपदेश में अतिथिसंविभाग व चार शिक्षाव्रतों की प्रामाणिक परिभाषा"
+      "consultedFor": "पौषधोपवास के पाँच अतिचारों (प्रत्यवेक्षण/प्रमार्जन-त्रिक) का सैद्धान्तिक सत्यापन"
     },
     {
       "title": "Jaina Yoga: A Survey of the Mediaeval Śrāvakācāras (R. Williams)",
       "url": "https://archive.org/details/jainayogasurveyo0000will",
       "type": "scholarship",
-      "consultedFor": "बारह व्रतों के अतिचार, अतिथिसंविभाग के पाँच अतिचारों (सचित्तनिक्षेप, पिधान, कालातिक्रम, परव्यपदेश, मात्सर्य) का सैद्धान्तिक सत्यापन"
+      "consultedFor": "śikṣāvrata-क्रम में पौषध-व्रत व उसके अतिचारों की स्थिति का सत्यापन"
+    },
+    {
+      "title": "JainQQ digital library — Vandittā / Śrāddha-Pratikramaṇa sūtra aticāra gāthās",
+      "url": "https://jainqq.org",
+      "type": "commentary",
+      "consultedFor": "'अप्पडिलेहिय-दुप्पडिलेहिय सिज्जासंथारे… पोसहोववासस्स सम्मं अणुपालणाया' प्राकृत पाठ का स्रोत-सत्यापन"
     }
   ],
   "translatorConfidence": 0.86,
-  "notes": "(१) मूल पाठ प्राचीन गुजराती (मरु-गुर्जर) गद्य है; अतः शब्द-प्रति-शब्द विश्लेषण प्राकृत पद्य जैसा कठोर व्याकरण-गत नहीं, अपितु अर्थ-गत है — प्राकृत केवल पाँच अतिचार-नामों (निक्खेवणया, पिहणया, कालाइक्कमदाणे, परोवएसे, मच्छरया) में है। (२) 'શુદ્ધમાન' का 'मान' अंश 'शुद्ध (आहार)' के विशेषण/मात्रा-अर्थ में लिया गया; कुछ पाठों में इसे 'शुद्ध-मान' (मान/मात्रा सहित शुद्ध) पढ़ा जाता है — अर्थ-भेद नगण्य। (३) 'પિયારી' को सन्दर्भानुसार 'दूसरे की प्रिय/पराई बताकर टालना' (परव्यपदेश) अर्थ में लिया गया है; शाब्दिक 'प्यारी' होते हुए भी यहाँ अतिचार का तात्पर्य वस्तु पर अन्य का स्वामित्व आरोपित कर दान से बचना है। (४) मात्सर्य अतिचार का तीसरा घटक (ग्लानादि बिना अशुद्ध देना / शुद्ध कृपणता से न देना) इस पुस्तक के पाठ का विस्तार है; तत्त्वार्थ-परम्परा में यह मात्सर्य के अन्तर्गत समाहित माना गया है। (५) पुस्तक की वर्तनी (अतियार, संयुक्ताक्षर, मात्रा) ज्यों-की-त्यों रखी गई; सामान्यीकृत नहीं की गई।"
+  "notes": "(१) यह प्राचीन गुजराती गद्य-आलोचना है; प्रस्तावना-निर्देशानुसार पद-गत व्याकरण-विश्लेषण प्राकृत पद्य-सूत्रों जैसा कठोर नहीं — प्राकृत केवल पाँच अतिचार-नामों में है, शेष गुजराती विवरण है। (२) पाँच अतिचारों के नाम वंदित्तु-परम्परा से उद्धृत हैं और तत्त्वार्थसूत्र अ.७ के प्रत्यवेक्षण/प्रमार्जन-त्रिक से मेल खाते हैं; भिन्न संस्करण इन्हें ७.३० या ७.३१ क्रमांकित करते हैं। (३) 'ઉજ્જેઇ સંઘટ્ટ' पद की व्याख्या में गच्छ-भेद सम्भव — इसे प्रायः उद्योत/अग्नि-प्रकाश के स्पर्श-संघट्टन रूप में लिया गया है; पुस्तक-पाठ ज्यों-का-त्यों रखा है, अर्थ-निर्णय में अल्प अनिश्चय है। (४) पुस्तक की वर्तनी (अतियार, संयुक्ताक्षर, मात्रा-भेद) यथावत् रखी गई है; recitation केवल लिप्यन्तर है, पाठ-संशोधन नहीं। (५) 'पाछलां स्मर्यां/अनागत प्रार्थ्यां' को भाव-पौषध-भंग रूप में समझाया गया है, जो मानक श्रावकाचार-व्याख्या के अनुरूप है।"
 }

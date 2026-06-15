@@ -1,6 +1,6 @@
 {
   "lang": "english",
-  "generatedAt": "2026-06-12T17:03:58.760Z",
+  "generatedAt": "2026-06-15T07:51:55.139Z",
   "terms": [
     {
       "term": "abhagga (abhagna)",
@@ -13,7 +13,7 @@
     {
       "term": "abhakṣya",
       "scriptForm": "અભક્ષ્ય",
-      "definition": "Forbidden foods — the twenty-two items (and root-vegetables) a disciplined śrāvaka does not eat.",
+      "definition": "Foods forbidden to eat; the text enumerates the standard twenty-two (e.g. the five udumbara fruits, honey, butter, items 'gone bad in taste').",
       "sutras": [
         "bruhad-atiyar"
       ]
@@ -52,9 +52,10 @@
     },
     {
       "term": "ācāra",
-      "scriptForm": "આયાર",
-      "definition": "Right conduct; the fivefold achara — in knowledge (jnana), faith (darshana), conduct (charitra), austerity (tapa) and energy (virya).",
+      "scriptForm": "આચાર",
+      "definition": "Right conduct, here in five domains — knowledge (jñāna), faith (darśana), character (cāritra), austerity (tapa) and energy (vīrya) — whose lapses are confessed after the twelve vows.",
       "sutras": [
+        "bruhad-atiyar",
         "panchindiya"
       ]
     },
@@ -184,14 +185,6 @@
       ]
     },
     {
-      "term": "anācāra",
-      "scriptForm": "અનાચાર",
-      "definition": "An outright breach of a vow, more serious than an atichāra.",
-      "sutras": [
-        "bruhad-atiyar"
-      ]
-    },
-    {
       "term": "anāchāra / atikrama / vyatikrama",
       "scriptForm": "અનાચાર / અતિક્રમ / વ્યતિક્રમ",
       "definition": "Graded degrees of fault named in the closing summary: from a mere transgressive impulse (atikrama) and overstepping (vyatikrama) up to outright wrong conduct (anāchāra).",
@@ -202,7 +195,7 @@
     {
       "term": "anantakāya",
       "scriptForm": "અનંતકાય",
-      "definition": "'Infinite-bodied' beings — vegetables (the thirty-two listed) each holding innumerable souls, hence avoided.",
+      "definition": "Bodies that house infinitely many souls (mainly tubers and roots); the text lists thirty-two such items to be avoided as food.",
       "sutras": [
         "bruhad-atiyar"
       ]
@@ -1068,7 +1061,7 @@
     {
       "term": "guṇavrata",
       "scriptForm": "ગુણવ્રત",
-      "definition": "A 'multiplying' or merit-enhancing vow that reinforces the aṇuvratas (vows 6–8: direction-limit, enjoyment-limit, avoidance of purposeless harm).",
+      "definition": "The three 'merit-enhancing vows' that reinforce the aṇuvratas: directional limits, limits on use/enjoyment, and avoidance of purposeless harm.",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -1162,7 +1155,6 @@
       "scriptForm": "જયણા",
       "definition": "Sanskrit yatanā — conscientious carefulness; the prudent exemption a layperson allows for subtle, unavoidable harm in necessary activity, distinct from intentional violation.",
       "sutras": [
-        "bruhad-atiyar",
         "dravya-kshetra-kaal-bhav",
         "laghu-atiyar",
         "mannaha-jinanam-sajjhay"
@@ -1333,7 +1325,7 @@
     {
       "term": "karmādāna",
       "scriptForm": "કર્માદાન",
-      "definition": "The fifteen highly harmful livelihoods (e.g. trade in charcoal, forests, animals, poison) a śrāvaka avoids; enumerated under the seventh vow.",
+      "definition": "The fifteen occupations/trades a conscientious layperson avoids because they entail heavy harm to life (e.g. trades in fire, forests, ivory, poison, animals).",
       "sutras": [
         "bruhad-atiyar",
         "laghu-atiyar"
@@ -1357,6 +1349,7 @@
       "definition": "Lit. 'abandonment of the body'; the practice of standing or sitting motionless, detached from bodily concerns, while meditating — the fifth Āvaśyaka. It is the act this sūtra introduces, and its duration is counted in Logassa recitations.",
       "sutras": [
         "annattha",
+        "bruhad-atiyar",
         "iriyavahiyam",
         "logassa",
         "tassa-uttari"
@@ -1712,7 +1705,7 @@
     {
       "term": "mithyātva",
       "scriptForm": "મિથ્યાત્વ",
-      "definition": "False belief or wrong faith; here classified four-fold (lokika and lokottara, each deva-gata and guru-gata).",
+      "definition": "Wrong belief; the opposite of samyaktva. The text lists a four-fold mithyātva (worldly/transcendent, regarding deva and guru).",
       "sutras": [
         "bruhad-atiyar",
         "mannaha-jinanam-sajjhay"
@@ -2286,8 +2279,8 @@
     },
     {
       "term": "pratikramaṇa",
-      "scriptForm": "પ્રતિક્રમણ / પડિક્કમણ",
-      "definition": "'Turning back' / retreat from transgression; 'paḍikkamāmi' = 'I withdraw (from that past fault),' the root act that names the whole ritual.",
+      "scriptForm": "પ્રતિક્રમણ",
+      "definition": "The ritual of 'turning back' — reflection, confession, atonement and renewal that returns a practitioner from transgression to right conduct.",
       "sutras": [
         "bruhad-atiyar",
         "karemi-bhante",
@@ -2547,6 +2540,14 @@
       ]
     },
     {
+      "term": "sallekhanā",
+      "scriptForm": "સંલેષણા",
+      "definition": "The voluntary, peaceful fast unto death undertaken with equanimity at life's end; its 'final' (apaścima) form has its own five atichāras of lingering desire.",
+      "sutras": [
+        "bruhad-atiyar"
+      ]
+    },
+    {
       "term": "śalya",
       "scriptForm": "સલ્લ",
       "definition": "An inner 'thorn' obstructing liberation: māyā- (deceit), nidāna- (binding desire for reward), and mithyādarśana- (false faith) śalya.",
@@ -2603,9 +2604,8 @@
     {
       "term": "saṁlekhanā",
       "scriptForm": "સંલેષણા",
-      "definition": "The final, voluntary ascetic fast undertaken with equanimity at the approach of death (apaścima-māraṇāntika-saṁlekhanā), with its own five atichāras.",
+      "definition": "The voluntary, gradual ritual fast undertaken at life's end; its five atichārs (e.g. wishing for this world or the next) are examined in v.13.",
       "sutras": [
-        "bruhad-atiyar",
         "laghu-atiyar"
       ]
     },
@@ -2643,7 +2643,7 @@
     },
     {
       "term": "samyaktva",
-      "scriptForm": "સમ્યક્ત્વ / સમકિત",
+      "scriptForm": "સમ્યક્ત્વ",
       "definition": "Right faith / correct world-view; affirmed at the outset because it is the root that gives the vows their value. Here called samakita; its own five atichārs include doubt (śaṅkā) and craving (kāṅkṣā).",
       "sutras": [
         "bruhad-atiyar",
@@ -2816,7 +2816,7 @@
     {
       "term": "śikṣāvrata",
       "scriptForm": "શિક્ષાવ્રત",
-      "definition": "A 'disciplinary / training' vow cultivating spiritual practice (vows 9–12: equanimity, day-limit, monastic-like retreat, charitable sharing).",
+      "definition": "A 'training vow'; the last four of the twelve lay vows, of which Deśāvagāśika is one, that school the layperson toward stricter conduct.",
       "sutras": [
         "bruhad-atiyar",
         "deshavagasik-pachchakkhan",
