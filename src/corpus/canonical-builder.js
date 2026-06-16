@@ -89,9 +89,12 @@ const MONOTONIC_VOW_SPLIT = new Set([
 //     line → ends the saṁlekhanā/85-atichāra wrap-up) and "વીર્યાચારે" (vīryācāra
 //     opening → ends the jñāna/darśana/tapa block, leaving vīrya + the final
 //     pratyākhyāna). Both are simple glyphs that byte-match the page (unlike the
-//     જ્ઞ conjunct) and are verified unique to this sutra.
+//     જ્ઞ conjunct) and are verified unique to this sutra. A third needle
+//     "દર્શનાચારે" (darśanācāra opening) further splits the jñāna/darśana/tapa
+//     block — its dense Gujarati word-by-word was still oversized — into jñāna and
+//     darśana+tapa, so every conclusion piece is small enough to translate.
 const SECONDARY_SPLITS = {
-    "bruhad-atiyar": ["આઠમું અનર્થ દંડ", "રહે આશાતના", "વીર્યાચારે"],
+    "bruhad-atiyar": ["આઠમું અનર્થ દંડ", "રહે આશાતના", "વીર્યાચારે", "દર્શનાચારે"],
 };
 
 // Split a monotonic verse at each line that begins a configured second section

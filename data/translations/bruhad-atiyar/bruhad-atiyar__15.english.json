@@ -2,703 +2,401 @@
   "shlokaId": "bruhad-atiyar/15",
   "targetLang": "english",
   "targetScript": "latin",
-  "plainMeaning": "Having confessed the twelve vows, the reciter now admits every way they have been careless with sacred learning, with reverence for the Jina and guru, and with their fasts and penances.",
-  "recitation": "1. tathā jñānācāre jñāna rahe āśātanā kīdhī hoya. paḍhatāṁ, guṇatāṁ antarāya kīdho hoya. macchara dharyo hoya. akṣarane thūṁka lagāḍyuṁ hoya. pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, kāgale paga lagāḍyo hoya. khamāsamaṇa pākhe parivāḍī līdhī hoya. jñānadravyataṇī sārasambhāḷa kīdhī na hoya. aneruṁ e jñānācāra viṣe. ॥ 1 ॥ 2. tathā darśanācāre samyaktva virādhiuṁ hoya. deva, guru namaskāra karyā pākhe bhojana kīdhuṁ hoya. deva pūjatāṁ dhotī śuddha kīdhī na hoya. mukhakośa kīdho na hoya. ādhaḍaviche deva pūjyā hoya. gurune āsaṇe, besaṇe, upagaraṇe paga lagāḍyo hoya, guruvacana dveṣalage vālyuṁ hoya. bimba hāthathakī vichuṭyuṁ hoya, bimbanuṁ vecāvacca kīdhuṁ na hoya, devadravya āpaṇe vyavasāye ghālyuṁ hoya. devadravya viṇasatuṁ uvekhyuṁ hoya. aneruṁ e darśanācāra viṣe. ॥ 2 ॥ 3. tapācāre chatī śakte paccakkhāṇa kīdhuṁ na hoya, karīne bhāṅgyuṁ hoya, paccakkhāṇa pālyuṁ na hoya, niyama, abhigraha leï bhāṅgyā hoya, cha bheda abhyantara, cha bheda bāhya tapa avasare sācavyuṁ na hoya. aneruṁ e tapācāra viṣe. ॥ 3 ॥",
+  "plainMeaning": "In this section I admit every way I may have disrespected sacred knowledge — disturbing study, envying learners, soiling holy books or touching them with my feet, and neglecting funds set aside for learning.",
+  "recitation": "tathā jñānācāre jñāna rahe āśātanā kīdhī hoy. paḍhatāṁ, guṇatāṁ antarāya kīdho hoy. macchara dharyo hoy. akṣarane thūṁka lagāḍyuṁ hoy. pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, kāgale paga lagāḍyo hoy. khamāsamaṇa pākhe parivāḍī līdhī hoy. jñānadravya-taṇī sārasaṁbhāḷa kīdhī na hoy. aneruṁ e jñānācāra viṣe. ॥ 1 ॥",
   "wordByWord": [
     {
       "token": "તથા",
       "translit": "tathā",
-      "gloss": "and likewise; moreover (linking this section to the foregoing confession)",
+      "gloss": "and also; likewise (opening the next confession-section)",
       "partOfSpeech": "particle",
-      "etymology": "Skt. tathā 'thus, so'",
-      "notes": "Opens both the jñānācāra (1) and darśanācāra (2) sections; signals a new heading within the same confession."
+      "etymology": "Sanskrit tathā 'so, thus, and', here a sectional connective carrying over from the previous tally.",
+      "notes": "Marks the pivot from the eighty-five vow-atichāras into the five ācāras."
     },
     {
       "token": "જ્ઞાનાચારે",
       "translit": "jñānācāre",
-      "gloss": "in (the matter of) the conduct concerning knowledge",
+      "gloss": "in the conduct of knowledge (jñānācāra)",
       "partOfSpeech": "compound",
-      "etymology": "Skt. jñāna 'knowledge' + ācāra 'conduct'; locative -e",
-      "notes": "First of the five ācāras; here the heading under which faults against learning are confessed."
+      "etymology": "jñāna ('knowledge') + ācāra ('conduct'), locative -e; the first of the five ācāras.",
+      "notes": "ācāra is a preface-glossary term; here it is the eight-limbed discipline governing study."
     },
     {
       "token": "જ્ઞાન",
       "translit": "jñāna",
-      "gloss": "(sacred) knowledge, scriptural learning",
+      "gloss": "knowledge; sacred learning",
       "partOfSpeech": "noun",
-      "etymology": "Skt. √jñā 'to know'"
+      "etymology": "Sanskrit jñā- 'to know'.",
+      "notes": "Object of the disrespect named next; 'jñāna rahe' = 'with respect to knowledge'."
     },
     {
       "token": "રહે",
       "translit": "rahe",
-      "gloss": "towards, in respect of (idiomatic: 'as regards knowledge')",
+      "gloss": "toward; with respect to",
       "partOfSpeech": "particle",
-      "etymology": "Old Guj. rahe 'remaining, with regard to'",
-      "notes": "Functions here as a postpositional connective rather than the literal verb 'remains'."
+      "etymology": "Old Gujarati postpositional use of rah- 'to remain/abide', here adverbial 'as regards'.",
+      "notes": "Links jñāna to āśātanā: 'disrespect shown toward knowledge'."
     },
     {
       "token": "આશાતના",
       "translit": "āśātanā",
-      "gloss": "irreverence, profanation, disrespect",
+      "gloss": "irreverence; disrespect; profaning",
       "partOfSpeech": "noun",
-      "etymology": "Skt. āśātanā 'disregard, slighting'",
-      "notes": "Key technical term: any act demeaning what is holy — here, scripture and learning."
+      "etymology": "Sanskrit ā-śātana 'cutting into, diminishing'; here the diminishing of something sacred by disregard.",
+      "notes": "A technical term: deliberate or careless dishonoring of jñāna, deva, guru, or holy objects."
     },
     {
       "token": "કીધી",
       "translit": "kīdhī",
-      "gloss": "(may have) done/committed — feminine",
+      "gloss": "done; committed (fem. agreeing with āśātanā)",
       "partOfSpeech": "verb",
-      "etymology": "Old Guj. kīdhuṁ, past part. of karavuṁ 'to do' (Skt. kṛ-)",
-      "notes": "Agrees in gender with the fault-noun; recurs as kīdho (m.) / kīdhuṁ (n.) below."
+      "etymology": "Old Gujarati kīdhuṁ, past participle of kar- 'to do' (Skt. kṛ-).",
+      "notes": "Feminine -ī agrees with āśātanā."
     },
     {
       "token": "હોય",
-      "translit": "hoya",
-      "gloss": "may have been (auxiliary, hypothetical 'should it be the case')",
+      "translit": "hoy",
+      "gloss": "may have been (the case)",
       "partOfSpeech": "verb",
-      "etymology": "Old Guj. hovuṁ 'to be' (Skt. bhū-)",
-      "notes": "The recurring subjunctive auxiliary closing every clause: 'if [such a fault] has occurred'."
+      "etymology": "Old Gujarati subjunctive of ho- 'to be' (Skt. bhū-).",
+      "notes": "The recurring 'kīdhī/kīdho … hoy' = 'may possibly have done', the confessional modality of the whole sūtra."
     },
     {
       "token": "પઢતાં",
       "translit": "paḍhatāṁ",
-      "gloss": "while reading / studying (aloud)",
+      "gloss": "while reading/studying aloud",
       "partOfSpeech": "verb",
-      "etymology": "Pkt. paḍhai 'reads' (Skt. paṭh-); gerund -tāṁ"
+      "etymology": "Prakrit paḍh- 'to read, recite' (cf. Skt. paṭh-), present participle 'in the act of reading'.",
+      "notes": "First of the study-pair paḍhatāṁ/guṇatāṁ."
     },
     {
       "token": "ગુણતાં",
       "translit": "guṇatāṁ",
-      "gloss": "while reciting / repeating to memorize",
+      "gloss": "while reciting/conning (repeating to fix in memory)",
       "partOfSpeech": "verb",
-      "etymology": "Skt. guṇ- 'to repeat, count over'; gerund -tāṁ"
+      "etymology": "from guṇ- 'to repeat, tell over' (cf. Skt. guṇ- 'to count/repeat'), present participle.",
+      "notes": "paḍhatāṁ (reading) and guṇatāṁ (memorizing-repetition) together name the whole act of study."
     },
     {
       "token": "અંતરાય",
       "translit": "antarāya",
-      "gloss": "obstruction, hindrance (to another's study)",
+      "gloss": "obstacle; interruption; hindrance",
       "partOfSpeech": "noun",
-      "etymology": "Skt. antarāya 'impediment'",
-      "notes": "Doctrinally also the name of a karma type; here the everyday act of obstructing learning."
+      "etymology": "Sanskrit antar-aya 'coming in between'; also the name of the karma-type that obstructs.",
+      "notes": "Disturbing another's study both is an antarāya and binds antarāya/jñānāvaraṇīya karma."
     },
     {
       "token": "કીધો",
       "translit": "kīdho",
-      "gloss": "(may have) done — masculine",
+      "gloss": "done; caused (masc. agreeing with antarāya)",
       "partOfSpeech": "verb",
-      "etymology": "see kīdhī"
+      "etymology": "Old Gujarati past participle of kar- 'to do'.",
+      "notes": "Masculine -o agrees with antarāya."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho- 'to be'.",
+      "notes": "Repeated auxiliary of possibility."
     },
     {
       "token": "મચ્છર",
       "translit": "macchara",
-      "gloss": "jealousy, grudging envy (of another's knowledge)",
+      "gloss": "envy; jealousy; grudging spite (toward a learner)",
       "partOfSpeech": "noun",
-      "etymology": "Skt. matsara 'envy, spite'"
+      "etymology": "Prakrit macchara from Sanskrit matsara 'envy, selfish grudge'.",
+      "notes": "Here specifically jñāna-matsara: resentment at another's learning or unwillingness to share it."
     },
     {
       "token": "ધર્યો",
       "translit": "dharyo",
-      "gloss": "(may have) held, harbored",
+      "gloss": "held; harbored; entertained",
       "partOfSpeech": "verb",
-      "etymology": "Skt. dhṛ- 'to hold'"
+      "etymology": "Old Gujarati past participle of dhar- 'to hold' (Skt. dhṛ-).",
+      "notes": "Agrees with macchara (masc.)."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho-.",
+      "notes": ""
     },
     {
       "token": "અક્ષરને",
       "translit": "akṣarane",
-      "gloss": "to the (sacred) letters/syllables",
+      "gloss": "to the written letters/syllables (of scripture)",
       "partOfSpeech": "noun",
-      "etymology": "Skt. akṣara 'imperishable; written character'; dative -ne"
+      "etymology": "Sanskrit akṣara 'imperishable; syllable, letter' + dative -ne.",
+      "notes": "akṣara denotes the sacred written word, treated as worthy of reverence."
     },
     {
       "token": "થૂંક",
       "translit": "thūṁka",
-      "gloss": "spittle, saliva",
+      "gloss": "spittle; saliva",
       "partOfSpeech": "noun",
-      "etymology": "Old Guj./Deśya thūṁka 'spit'",
-      "notes": "Wetting the finger to turn manuscript pages defiles the written word — a classic jñāna-āśātanā."
+      "etymology": "Gujarati thūṁk 'saliva' (onomatopoeic root thū-).",
+      "notes": "Refers to wetting the fingertip with saliva to turn manuscript pages — soiling the akṣara. Book spelling થૂંક preserved."
     },
     {
       "token": "લગાડ્યું",
       "translit": "lagāḍyuṁ",
-      "gloss": "(may have) applied / let touch — neuter",
+      "gloss": "applied; let touch",
       "partOfSpeech": "verb",
-      "etymology": "Old Guj. lagāḍavuṁ 'to apply, attach' (Skt. lag-)"
+      "etymology": "causative of lag- 'to be attached' (Skt. lag-), past participle neuter.",
+      "notes": "Neuter -uṁ agrees with thūṁk."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho-.",
+      "notes": ""
     },
     {
       "token": "પાટી",
       "translit": "pāṭī",
-      "gloss": "writing-board, wooden study tablet",
+      "gloss": "writing-board; slate (for practice)",
       "partOfSpeech": "noun",
-      "etymology": "Skt. paṭṭa/paṭṭikā 'tablet, slab'"
+      "etymology": "Sanskrit paṭṭa 'board, tablet' → Gujarati pāṭī.",
+      "notes": "First of the six revered study-articles enumerated."
     },
     {
       "token": "પોથી",
       "translit": "pothī",
-      "gloss": "manuscript, scripture-book",
+      "gloss": "scripture-book; manuscript",
       "partOfSpeech": "noun",
-      "etymology": "Skt. pustikā 'small book'"
+      "etymology": "from Sanskrit pustikā 'small book' via Prakrit potthī.",
+      "notes": "The bound or loose-leaf sacred text itself."
     },
     {
       "token": "કવલી",
       "translit": "kavalī",
-      "gloss": "the cloth wrapper / cover for a scripture-book",
+      "gloss": "book-wrapper/cover (cloth or folder protecting the pothī)",
       "partOfSpeech": "noun",
-      "etymology": "Deśya; a study-implement (book cloth)",
-      "notes": "One of the knowledge-implements deserving reverence; exact form per book orthography."
+      "etymology": "uncertain; likely from a wrapping/enclosing root (cf. kavala 'enclosing'), a manuscript-protector.",
+      "notes": "Reading uncertain; some editions take it as a manuscript-case or a marker-strip. Flagged in notes."
     },
     {
       "token": "ઠવણી",
       "translit": "ṭhavaṇī",
-      "gloss": "book-rest / folding stand (also the sthāpanā-stand)",
+      "gloss": "the folding book-stand (on which the pothī rests for reading)",
       "partOfSpeech": "noun",
-      "etymology": "Skt. sthāpanā 'placing, stand'"
+      "etymology": "from sthāpanā 'placing, setting' (Skt. sthā-) → Prakrit ṭhavaṇa; the X-shaped reading-stand.",
+      "notes": "The same word-family as the sthāpanācārya stand; here the wooden reading-rest."
     },
     {
       "token": "નોકારવાલી",
       "translit": "nokāravālī",
-      "gloss": "the rosary (navakāra-vaḷī) of counting beads",
+      "gloss": "the rosary/bead-string for counting Navkār recitations",
       "partOfSpeech": "noun",
-      "etymology": "navakāra (Navkār mantra) + vaḷī 'string'"
+      "etymology": "navkār ('the Navkār/Namaskāra mantra') + vāḷī ('string, garland'); navkārvāḷī.",
+      "notes": "A sacred counting-mālā, hence not to be touched by the foot."
     },
     {
       "token": "કાગલે",
       "translit": "kāgale",
-      "gloss": "to/on paper",
+      "gloss": "on (any) paper (bearing letters)",
       "partOfSpeech": "noun",
-      "etymology": "Pers./Old Guj. kāgaḷa 'paper'; locative -e"
+      "etymology": "Gujarati kāgaḷ 'paper' (via Persian/Arabic kāghaḏ), locative -e.",
+      "notes": "Extends reverence from formal scripture to any written paper."
     },
     {
       "token": "પગ",
       "translit": "paga",
       "gloss": "foot",
       "partOfSpeech": "noun",
-      "etymology": "Skt. pada 'foot'"
+      "etymology": "Sanskrit pada 'foot' → Gujarati pag.",
+      "notes": "Touching sacred articles with the foot is a paradigmatic āśātanā."
     },
     {
       "token": "લગાડ્યો",
       "translit": "lagāḍyo",
-      "gloss": "(may have) let touch — i.e. touched with the foot — masculine",
+      "gloss": "set; let touch (the foot to them)",
       "partOfSpeech": "verb",
-      "etymology": "see lagāḍyuṁ",
-      "notes": "Touching scripture or its implements with the foot is gravely disrespectful."
+      "etymology": "causative of lag-, past participle masc. agreeing with pag.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho-.",
+      "notes": ""
     },
     {
       "token": "ખમાસમણ",
       "translit": "khamāsamaṇa",
-      "gloss": "the khamāsamaṇa prostration (kṣamā-śramaṇa salutation to the guru)",
+      "gloss": "the khamāsamaṇa obeisance (the ritual prostration to the guru)",
       "partOfSpeech": "noun",
-      "etymology": "Pkt. khamāsamaṇa < Skt. kṣamā-śramaṇa 'forbearing ascetic'"
+      "etymology": "from kṣamā-śramaṇa 'forbearing ascetic', the salutation 'icchāmi khamāsamaṇo…'.",
+      "notes": "A study-round should be begun only after offering this bow."
     },
     {
       "token": "પાખે",
       "translit": "pākhe",
-      "gloss": "without, in the absence of",
+      "gloss": "without; in the absence of",
       "partOfSpeech": "particle",
-      "etymology": "Old Guj. pākhe 'apart from, without'",
-      "notes": "Recurs in section 2 ('namaskāra karyā pākhe')."
+      "etymology": "Old Gujarati pākhe 'without' (cf. Prakrit pakkha 'side'), privative postposition.",
+      "notes": "Governs khamāsamaṇa: 'without the khamāsamaṇa'."
     },
     {
       "token": "પરિવાડી",
       "translit": "parivāḍī",
-      "gloss": "the ordered round / sequence of recitation (of sūtras for study)",
+      "gloss": "a round/turn of recitation or study-sequence",
       "partOfSpeech": "noun",
-      "etymology": "Skt. paripāṭī 'regular order, sequence'",
-      "notes": "Taking up the study-round without first making the khamāsamaṇa is the fault."
+      "etymology": "from Sanskrit paripāṭī 'order, regular sequence' → Prakrit parivāḍī.",
+      "notes": "Taking up the study-cycle without the prescribed preliminary bow is the lapse confessed."
     },
     {
       "token": "લીધી",
       "translit": "līdhī",
-      "gloss": "(may have) taken up — feminine",
+      "gloss": "taken; taken up",
       "partOfSpeech": "verb",
-      "etymology": "Skt. labh-/lā- 'to take'"
+      "etymology": "Old Gujarati past participle of le- 'to take' (Skt. lā-/labh-), fem. agreeing with parivāḍī.",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho-.",
+      "notes": ""
     },
     {
       "token": "જ્ઞાનદ્રવ્યતણી",
-      "translit": "jñānadravyataṇī",
-      "gloss": "of the knowledge-funds (resources endowed for learning/scriptures)",
+      "translit": "jñānadravya-taṇī",
+      "gloss": "of the knowledge-endowment (funds/property dedicated to learning)",
       "partOfSpeech": "compound",
-      "etymology": "jñāna + dravya 'fund, property' + Old Guj. genitive taṇī 'of'"
+      "etymology": "jñāna + dravya ('substance, fund') + taṇī, Old Gujarati genitive ('belonging to').",
+      "notes": "jñāna-dravya = community resources earmarked for scriptures, copying, and teaching; parallel to deva-dravya."
     },
     {
       "token": "સારસંભાળ",
-      "translit": "sārasambhāḷa",
-      "gloss": "care, upkeep, attentive maintenance",
+      "translit": "sārasaṁbhāḷa",
+      "gloss": "care; upkeep; safekeeping",
       "partOfSpeech": "noun",
-      "etymology": "Skt. sāra 'essence, best' + sambhāl 'tending'"
+      "etymology": "sāra ('attending to') + saṁbhāḷ ('looking after', from sam-bhṛ/smṛ); a stock pairing.",
+      "notes": ""
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "done (fem. agreeing with sārasaṁbhāḷa)",
+      "partOfSpeech": "verb",
+      "etymology": "past participle of kar-.",
+      "notes": ""
     },
     {
       "token": "ન",
       "translit": "na",
       "gloss": "not",
       "partOfSpeech": "particle",
-      "etymology": "Skt. na",
-      "notes": "Marks the faults of omission: 'has not [done]'."
+      "etymology": "Sanskrit na 'not'.",
+      "notes": "Negates the verb: 'has NOT cared for' — failure of stewardship is itself the fault here."
+    },
+    {
+      "token": "હોય",
+      "translit": "hoy",
+      "gloss": "may have",
+      "partOfSpeech": "verb",
+      "etymology": "subjunctive of ho-.",
+      "notes": "'kīdhī na hoy' = 'may not have done'."
     },
     {
       "token": "અનેરું",
       "translit": "aneruṁ",
-      "gloss": "any other (further fault)",
+      "gloss": "anything else; any further (offense)",
       "partOfSpeech": "pronoun",
-      "etymology": "Old Guj. aneruṁ 'other, another'",
-      "notes": "The sweep-up word: 'whatever else'; closes each section."
+      "etymology": "Old Gujarati aneruṁ 'other' (cf. Skt. anya 'other').",
+      "notes": "The catch-all that sweeps up every unnamed lapse, as in every section's refrain."
     },
     {
       "token": "એ",
       "translit": "e",
-      "gloss": "this, the aforesaid",
+      "gloss": "this; in this",
       "partOfSpeech": "pronoun",
-      "etymology": "Old Guj. e 'this/that'"
+      "etymology": "Old Gujarati demonstrative e 'this/that'.",
+      "notes": ""
+    },
+    {
+      "token": "જ્ઞાનાચાર",
+      "translit": "jñānācāra",
+      "gloss": "conduct of knowledge",
+      "partOfSpeech": "compound",
+      "etymology": "jñāna + ācāra.",
+      "notes": "Closes the section by naming it again, as the formula requires."
     },
     {
       "token": "વિષે",
       "translit": "viṣe",
-      "gloss": "concerning, regarding",
+      "gloss": "concerning; regarding",
       "partOfSpeech": "particle",
-      "etymology": "Skt. viṣaye 'in the matter of'",
-      "notes": "'…regarding this jñānācāra/darśanācāra/tapācāra'."
+      "etymology": "from Sanskrit viṣaya 'sphere, domain', adverbial 'in the matter of'.",
+      "notes": "'aneruṁ e jñānācāra viṣe' = 'whatever else there is concerning this jñānācāra'."
     },
     {
       "token": "॥ ૧ ॥",
-      "translit": "॥ 1 ॥",
-      "gloss": "section-marker one (close of the jñānācāra portion)",
+      "translit": "|| 1 ||",
+      "gloss": "(end-mark and section-number one)",
       "partOfSpeech": "particle",
-      "etymology": "Indic verse-bar with numeral",
-      "notes": "Local sub-numbering 1–3 within this verse; not independent shlokas."
-    },
-    {
-      "token": "દર્શનાચારે",
-      "translit": "darśanācāre",
-      "gloss": "in the conduct concerning right faith",
-      "partOfSpeech": "compound",
-      "etymology": "Skt. darśana 'faith/insight' + ācāra; locative -e"
-    },
-    {
-      "token": "સમ્યક્ત્વ",
-      "translit": "samyaktva",
-      "gloss": "right faith",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. samyak 'right' + -tva",
-      "notes": "Defined in the preface; the object that may have been violated."
-    },
-    {
-      "token": "વિરાધિઉં",
-      "translit": "virādhiuṁ",
-      "gloss": "(may have) violated, injured, transgressed",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. virādh- 'to offend against'"
-    },
-    {
-      "token": "દેવ",
-      "translit": "deva",
-      "gloss": "the Jina (the worshipful Tīrthaṅkara/image)",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. deva 'divine one'",
-      "notes": "In Jain usage the vītarāga Jina, not a creator-god."
-    },
-    {
-      "token": "ગુરુ",
-      "translit": "guru",
-      "gloss": "preceptor, ascetic teacher",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. guru 'weighty, venerable'"
-    },
-    {
-      "token": "નમસ્કાર",
-      "translit": "namaskāra",
-      "gloss": "salutation, obeisance",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. namas 'bowing' + kāra"
-    },
-    {
-      "token": "કર્યા",
-      "translit": "karyā",
-      "gloss": "done — plural",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. kṛ-"
-    },
-    {
-      "token": "ભોજન",
-      "translit": "bhojana",
-      "gloss": "a meal, eating",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. bhuj- 'to eat'",
-      "notes": "Eating before paying homage to deva and guru is the lapse."
-    },
-    {
-      "token": "કીધું",
-      "translit": "kīdhuṁ",
-      "gloss": "(may have) done — neuter",
-      "partOfSpeech": "verb",
-      "etymology": "see kīdhī"
-    },
-    {
-      "token": "પૂજતાં",
-      "translit": "pūjatāṁ",
-      "gloss": "while worshipping",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. pūj- 'to worship'; gerund -tāṁ"
-    },
-    {
-      "token": "ધોતી",
-      "translit": "dhotī",
-      "gloss": "the dhotī (loincloth worn for temple worship)",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. dhauta 'washed'"
-    },
-    {
-      "token": "શુદ્ધ",
-      "translit": "śuddha",
-      "gloss": "pure, ritually clean",
-      "partOfSpeech": "adj",
-      "etymology": "Skt. śudh- 'to purify'"
-    },
-    {
-      "token": "મુખકોશ",
-      "translit": "mukhakośa",
-      "gloss": "the mouth-cloth (tied over mouth/nose during pūjā)",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. mukha 'mouth' + kośa 'sheath'",
-      "notes": "Worn so the breath does not defile the worship."
-    },
-    {
-      "token": "આધડવિચે",
-      "translit": "ādhaḍaviche",
-      "gloss": "carelessly, in a slipshod / half-attentive manner",
-      "partOfSpeech": "adverb",
-      "etymology": "Deśya; sense 'haphazardly, midway'",
-      "notes": "Reading uncertain; glossed from context as worship done without due care (see notes)."
-    },
-    {
-      "token": "પૂજ્યા",
-      "translit": "pūjyā",
-      "gloss": "(may have) worshipped — plural",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. pūj-"
-    },
-    {
-      "token": "ગુરુને",
-      "translit": "gurune",
-      "gloss": "the guru's (dative/possessive)",
-      "partOfSpeech": "noun",
-      "etymology": "guru + -ne"
-    },
-    {
-      "token": "આસણે",
-      "translit": "āsaṇe",
-      "gloss": "to the seat/mat (āsana)",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. āsana 'seat'; locative -e"
-    },
-    {
-      "token": "બેસણે",
-      "translit": "besaṇe",
-      "gloss": "to the sitting-cushion / sitting-place",
-      "partOfSpeech": "noun",
-      "etymology": "Old Guj. besavuṁ 'to sit'"
-    },
-    {
-      "token": "ઉપગરણે",
-      "translit": "upagaraṇe",
-      "gloss": "to the (monastic) implements/equipment",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. upakaraṇa 'apparatus, requisites'; loc. -e",
-      "notes": "Touching the guru's seat or gear with the foot is the disrespect confessed."
-    },
-    {
-      "token": "ગુરુવચન",
-      "translit": "guruvacana",
-      "gloss": "the guru's word / instruction",
-      "partOfSpeech": "compound",
-      "etymology": "guru + Skt. vacana 'utterance'"
-    },
-    {
-      "token": "દ્વેષલગે",
-      "translit": "dveṣalage",
-      "gloss": "out of malice / aversion",
-      "partOfSpeech": "adverb",
-      "etymology": "Skt. dveṣa 'aversion' + Old Guj. lage 'on account of'"
-    },
-    {
-      "token": "વાલ્યું",
-      "translit": "vālyuṁ",
-      "gloss": "(may have) turned away / rebuffed, disregarded",
-      "partOfSpeech": "verb",
-      "etymology": "Old Guj. vāḷavuṁ 'to turn, deflect'",
-      "notes": "Deflecting or contradicting the guru's word out of spite."
-    },
-    {
-      "token": "બિંબ",
-      "translit": "bimba",
-      "gloss": "the (Jina) image / idol",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. bimba 'disk, image'"
-    },
-    {
-      "token": "હાથથકી",
-      "translit": "hāthathakī",
-      "gloss": "from the hand",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. hasta 'hand' + Old Guj. thakī 'from'"
-    },
-    {
-      "token": "વિછુટ્યું",
-      "translit": "vichuṭyuṁ",
-      "gloss": "(may have) slipped / fallen, been dropped",
-      "partOfSpeech": "verb",
-      "etymology": "Old Guj. vichuṭavuṁ 'to slip away'",
-      "notes": "Letting the sacred image fall from one's grip while handling it."
-    },
-    {
-      "token": "બિંબનું",
-      "translit": "bimbanuṁ",
-      "gloss": "of the image (genitive)",
-      "partOfSpeech": "noun",
-      "etymology": "bimba + -nuṁ"
-    },
-    {
-      "token": "વેચાવચ્ચ",
-      "translit": "vecāvacca",
-      "gloss": "attentive service / upkeep (veyāvacca = vaiyāvṛtya)",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt. veyāvacca < Skt. vaiyāvṛtya 'service'",
-      "notes": "Failing to render due care/maintenance to the image is the omission."
-    },
-    {
-      "token": "દેવદ્રવ્ય",
-      "translit": "devadravya",
-      "gloss": "consecrated temple/deity funds (property dedicated to the Jina)",
-      "partOfSpeech": "noun",
-      "etymology": "deva + dravya 'wealth, property'"
-    },
-    {
-      "token": "આપણે",
-      "translit": "āpaṇe",
-      "gloss": "one's own, personal",
-      "partOfSpeech": "pronoun",
-      "etymology": "Old Guj. āpaṇuṁ 'our own'"
-    },
-    {
-      "token": "વ્યવસાયે",
-      "translit": "vyavasāye",
-      "gloss": "in (one's own) business/trade",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. vyavasāya 'enterprise'; loc. -e"
-    },
-    {
-      "token": "ઘાલ્યું",
-      "translit": "ghālyuṁ",
-      "gloss": "(may have) put in, diverted, used up",
-      "partOfSpeech": "verb",
-      "etymology": "Old Guj. ghālavuṁ 'to put, insert'",
-      "notes": "Diverting consecrated funds into personal commerce — a serious misappropriation."
-    },
-    {
-      "token": "વિણસતું",
-      "translit": "viṇasatuṁ",
-      "gloss": "being destroyed / going to waste",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. vinaś- 'to perish'; present part."
-    },
-    {
-      "token": "ઉવેખ્યું",
-      "translit": "uvekhyuṁ",
-      "gloss": "(may have) ignored, looked on indifferently, neglected",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. upekṣ- 'to overlook' (upekṣā)",
-      "notes": "Standing by while temple funds are wasted is itself a fault."
-    },
-    {
-      "token": "॥ ૨ ॥",
-      "translit": "॥ 2 ॥",
-      "gloss": "section-marker two (close of the darśanācāra portion)",
-      "partOfSpeech": "particle",
-      "etymology": "Indic verse-bar with numeral"
-    },
-    {
-      "token": "તપાચારે",
-      "translit": "tapācāre",
-      "gloss": "in the conduct concerning austerity",
-      "partOfSpeech": "compound",
-      "etymology": "Skt. tapas 'austerity' + ācāra; loc. -e"
-    },
-    {
-      "token": "છતી",
-      "translit": "chatī",
-      "gloss": "existing, available — i.e. 'though present/possessed'",
-      "partOfSpeech": "adj",
-      "etymology": "Old Guj. chatuṁ 'extant, available' (Skt. *sat-)"
-    },
-    {
-      "token": "શક્તે",
-      "translit": "śakte",
-      "gloss": "in (one's) strength/capacity — 'chatī śakte' = though having the ability",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. śakti 'power'; loc. -e"
-    },
-    {
-      "token": "પચ્ચખ્ખાણ",
-      "translit": "paccakkhāṇa",
-      "gloss": "pratyākhyāna — a renunciation/abstinence vow (e.g. a fast)",
-      "partOfSpeech": "noun",
-      "etymology": "Pkt. paccakkhāṇa < Skt. pratyākhyāna 'renunciation'",
-      "notes": "Book spelling with doubled conjunct preserved verbatim."
-    },
-    {
-      "token": "કરીને",
-      "translit": "karīne",
-      "gloss": "having made/undertaken (it)",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. kṛ-; gerund -īne"
-    },
-    {
-      "token": "ભાંગ્યું",
-      "translit": "bhāṅgyuṁ",
-      "gloss": "(may have) broken (it) — neuter",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. bhañj- 'to break'"
-    },
-    {
-      "token": "પાલ્યું",
-      "translit": "pālyuṁ",
-      "gloss": "(may have) kept, observed, carried through",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. pāl- 'to protect, keep'"
-    },
-    {
-      "token": "નિયમ",
-      "translit": "niyama",
-      "gloss": "a self-imposed rule / restriction",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. niyama 'restraint'"
-    },
-    {
-      "token": "અભિગ્રહ",
-      "translit": "abhigraha",
-      "gloss": "a special resolve / conditional vow",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. abhigraha 'firm resolve'"
-    },
-    {
-      "token": "લેઇ",
-      "translit": "leï",
-      "gloss": "having taken (them) up",
-      "partOfSpeech": "verb",
-      "etymology": "Skt. lā-/labh-; gerund"
-    },
-    {
-      "token": "ભાંગ્યા",
-      "translit": "bhāṅgyā",
-      "gloss": "(may have) broken (them) — plural",
-      "partOfSpeech": "verb",
-      "etymology": "see bhāṅgyuṁ"
-    },
-    {
-      "token": "છ",
-      "translit": "cha",
-      "gloss": "six",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. ṣaṣ 'six'"
-    },
-    {
-      "token": "ભેદ",
-      "translit": "bheda",
-      "gloss": "kinds, divisions",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. bheda 'division'"
-    },
-    {
-      "token": "અભ્યંતર",
-      "translit": "abhyantara",
-      "gloss": "internal (austerity)",
-      "partOfSpeech": "adj",
-      "etymology": "Skt. abhyantara 'inner'",
-      "notes": "The six inner tapas: prāyaścitta, vinaya, vaiyāvṛtya, svādhyāya, vyutsarga (kāyotsarga), dhyāna."
-    },
-    {
-      "token": "બાહ્ય",
-      "translit": "bāhya",
-      "gloss": "external (austerity)",
-      "partOfSpeech": "adj",
-      "etymology": "Skt. bāhya 'outer'",
-      "notes": "The six outer tapas: anaśana, ūnodarī, vṛtti-saṅkṣepa, rasa-parityāga, kāya-kleśa, saṁlīnatā."
-    },
-    {
-      "token": "તપ",
-      "translit": "tapa",
-      "gloss": "austerity, penance",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. tapas 'heat, ascetic practice'"
-    },
-    {
-      "token": "અવસરે",
-      "translit": "avasare",
-      "gloss": "at the proper occasion / when the time came",
-      "partOfSpeech": "noun",
-      "etymology": "Skt. avasara 'occasion'; loc. -e"
-    },
-    {
-      "token": "સાચવ્યું",
-      "translit": "sācavyuṁ",
-      "gloss": "(may have) maintained, observed, kept up",
-      "partOfSpeech": "verb",
-      "etymology": "Old Guj. sācavavuṁ 'to keep, tend'"
-    },
-    {
-      "token": "॥ ૩ ॥",
-      "translit": "॥ 3 ॥",
-      "gloss": "section-marker three (close of the tapācāra portion)",
-      "partOfSpeech": "particle",
-      "etymology": "Indic verse-bar with numeral"
+      "etymology": "Gujarati numeral ૧ = 1, framed by daṇḍa bars.",
+      "notes": "Numbers this as the first of the five-ācāra confessions; preserved verbatim per the book's punctuation."
     }
   ],
-  "literalTranslation": "And, regarding the conduct of knowledge: irreverence may have been shown toward knowledge; obstruction may have been caused to one reading or reciting; envy may have been harbored; spittle may have been applied to the letters; the foot may have touched the writing-board, the book, the book-cloth, the book-rest, the rosary, or paper; the study-round may have been taken up without the khamāsamaṇa; the knowledge-funds may not have been cared for — and whatever else regarding this jñānācāra. ॥1॥ And, regarding the conduct of faith: right faith may have been violated; a meal may have been taken without saluting deva and guru; while worshipping the Jina the dhotī may not have been kept pure; the mouth-cloth may not have been worn; the Jina may have been worshipped carelessly; the foot may have touched the guru's seat, cushion, or implements; the guru's word may have been rebuffed out of malice; the image may have slipped from the hand; service to the image may not have been rendered; deity-funds may have been put into one's own business; deity-funds going to waste may have been ignored — and whatever else regarding this darśanācāra. ॥2॥ Regarding the conduct of austerity: though able, a pratyākhyāna may not have been made; having made it, it may have been broken; a pratyākhyāna may not have been kept; rules and resolves taken up may have been broken; the six kinds of inner and six kinds of outer austerity may not have been observed at the proper time — and whatever else regarding this tapācāra. ॥3॥",
-  "idiomaticTranslation": "Now I turn to my conduct in the three remaining domains of right practice. In knowledge: have I slighted what is sacred — broken another's study, nursed envy of a learned one, wet my finger to the holy letters, let my foot fall on tablet, manuscript, book-cloth, stand, rosary or paper, begun my recitation without first bowing in khamāsamaṇa, or neglected the funds set aside for learning? In faith: have I wounded my own right conviction — eaten before bowing to the Jina and guru, worshipped in an unclean dhotī or without the mouth-cloth, done the rite carelessly, set my foot to the guru's seat or gear, spurned his word in spite, let the sacred image slip from my hands, failed in its upkeep, slipped temple wealth into my own trade, or looked away while it was squandered? In austerity: when I had the strength, did I leave a fast untaken, take it and break it, fail to carry one through, breach the rules and resolves I had vowed, or let slip the six inner and six outer penances when their hour came? For each of these, and whatever else in these three, I confess.",
+  "literalTranslation": "And, in the conduct of knowledge: if disrespect has been shown toward knowledge; if, while reading or memorizing, an obstacle has been caused; if envy has been harbored; if spittle has been applied to the letters; if the foot has been set upon the writing-slate, the scripture, the book-wrapper, the book-stand, the rosary, or paper; if a study-round has been taken up without the khamāsamaṇa bow; if the knowledge-endowment has not been cared for — and whatever else there may be concerning this conduct of knowledge. ॥1॥",
+  "idiomaticTranslation": "Turning now to my conduct toward sacred knowledge: I confess every irreverence I may have shown it — interrupting another at study, nursing jealousy of a fellow learner, wetting the holy letters with spittle to turn a page, letting my foot touch a writing-board, a scripture, its wrapper or stand, my rosary or any written paper, taking up my round of study without first offering the khamāsamaṇa, and neglecting the funds entrusted to learning. For these and for any further lapse in the conduct of knowledge — micchā mi dukkaḍaṁ.",
   "elaboration": {
-    "verseByVerseCommentary": "After the grand tally of eighty-five vow-transgressions sealed in the preceding passage, the confession pivots from *what* is vowed to *how* it is lived: the pañcācāra, the five-fold conduct. This verse takes three of the five — jñāna (knowledge), darśana (faith) and tapa (austerity) — leaving vīrya for the next verse. Strikingly, cāritrācāra (conduct proper) is *not* enumerated separately here, because its substance has just been exhausted in the twelve-vow confession itself; the reciter should not look for a 'missing' fourth heading. What gives this verse its texture is its descent from the abstract to the palpably physical. Knowledge is not defended as a doctrine but as a set of objects one's body must honor: the pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī and bare paper that a careless foot or a moistened finger can defile. Faith, likewise, is audited through the hands and feet — an unclean dhotī, an absent mukhakośa, an image let slip, temple funds quietly folded into one's ledger. Only in the tapa section does the verse turn inward, and there it leans on a fixed enumeration the advanced reciter is expected to unfold: *cha bheda abhyantara, cha bheda bāhya* — the six inner and six outer austerities. The refrain *aneruṁ … e … viṣe* ('whatever else regarding this') closes each section in the same breath, gathering the unnamed with the named. The genius of the passage is its insistence that reverence is enacted, not merely felt: a faith that lets the Jina's image fall, or a learning that rests a foot on scripture, has already lapsed before any belief is questioned.",
-    "doctrinalContext": "The verse rests on the classical Jain teaching that right practice has five channels — jñānācāra, darśanācāra, cāritrācāra, tapācāra and vīryācāra — each with its own canonical sub-transgressions. By confessing jñāna, darśana and tapa here (and vīrya next), the reciter completes a second axis of self-audit orthogonal to the twelve vows: the vows ask *which restraints did I breach?*, the ācāras ask *with what quality did I know, believe, and discipline myself?* The tapa section is doctrinally precise: the 'six and six' are the standard external austerities (anaśana, ūnodarī, vṛtti-saṅkṣepa, rasa-parityāga, kāya-kleśa, saṁlīnatā) and internal austerities (prāyaścitta, vinaya, vaiyāvṛtya, svādhyāya, vyutsarga, dhyāna) of the Tattvārtha tradition — twelvefold tapas as the active burner of karma. The darśana faults bind right faith to concrete reverence (deva, guru, bimba, devadravya), reflecting that for a layperson samyaktva is sustained or strained through devotional conduct, not abstract assent alone. Misappropriating devadravya is singled out because consecrated wealth carries a heavier karmic charge than ordinary property.",
-    "practicalRelevance": "The verse converts to a vivid examination of conscience the modern reciter can use directly: Did I handle scriptures and prayer-beads with clean, careful hands — never with a foot, never with a licked finger? Did I bow before I began study? Did I keep my fasts and resolves when I had the strength, or abandon them for convenience? Did I treat temple property as sacred and never as my own? Its lesson is that devotion lives in small, bodily habits — and that neglect (the 'na hoya' faults of *not* caring, *not* keeping, *not* serving) weighs as much as active wrongdoing.",
+    "verseByVerseCommentary": "Having sealed the eighty-five vow-atichāras in the previous lines with the all-gathering micchā-mi-dukkaḍaṁ, the confession now opens its second movement: the five ācāras (right conduct in knowledge, faith, character, austerity, energy). This verse — numbered (1) afresh because the ācāra-tally restarts — audits the first, jñānācāra, the eight-limbed discipline of study (kāla, vinaya, bahumāna, upadhāna, aniṇhavaṇa, vyañjana, artha, tadubhaya). Rather than reciting those eight names, the text does what it does everywhere: it translates the discipline into vividly domestic failures. 'Disrespect (āśātanā) toward knowledge' heads the list as the master-fault. Then come three inward lapses — causing an antarāya (interruption) to someone reading or memorizing, and harbouring macchara (jealousy) of a learner — both of which the tradition warns bind jñānāvaraṇīya and antarāya karma, the very karmas that later starve one's own learning. The verse then turns to the body's careless contact with the sacred written word: moistening the akṣara with spittle to turn a page, and — most pointedly — letting the foot touch the six revered study-articles (pāṭī, pothī, kavalī, ṭhavaṇī, nokāravālī, and even ordinary paper). Two procedural lapses close it: beginning a parivāḍī (study-round) without the preliminary khamāsamaṇa, and failing to steward jñāna-dravya, the communal funds dedicated to scriptures and teaching. The closing 'aneruṁ e jñānācāra viṣe' leaves the section deliberately open, to be sealed (with the following darśanācāra in verse 2) by the shared refrain.",
+    "doctrinalContext": "The verse rests on the doctrine that knowledge is not merely information but a sacrament whose mishandling has karmic weight. Each named lapse is a cause of jñānāvaraṇīya (knowledge-obscuring) and antarāya (obstructing) karma: to block another's study, to envy it, or to profane the written word is, by the law of karmic reciprocity, to dim one's own future jñāna. Reverence toward the physical vehicles of śruta — book, slate, stand, rosary, paper — embodies the aṅgas of vinaya (reverence) and bahumāna (honour) within jñānācāra, while care of jñāna-dravya extends the lay duty of guarding consecrated property (parallel to deva-dravya and the dravya-faults confessed earlier in the sūtra). The required khamāsamaṇa before a study-round encodes the aṅga of vinaya toward the guru-lineage through whom śruta descends.",
+    "practicalRelevance": "For a reciter today the verse becomes a concrete checklist: do not wet your fingers with saliva to turn pages of a sūtra or any printed sheet; never set books, a navkārvāḷī, a stand or even loose paper on the floor or touch them with your feet; never interrupt or belittle someone who is studying, and watch the subtler fault of resenting another's learning; begin study with the khamāsamaṇa; and treat any money or material given for scriptures, copying or teaching as a sacred trust to be maintained, not neglected.",
     "crossReferences": [
       {
-        "text": "Tattvārtha-sūtra ch. 9 (the twelvefold tapas: six bāhya + six abhyantara)",
-        "source": "Umāsvāti, ed./tr. various (e.g. Vijay K. Jain)"
+        "text": "Tattvārtha-sūtra 7.x — the atichāras of the vows and the framework of right knowledge-conduct",
+        "source": "Umāsvāti, Tattvārtha-sūtra (Eng. tr., Tatia)"
       },
       {
-        "text": "The five ācāras (jñāna, darśana, cāritra, tapa, vīrya) of the Āvaśyaka tradition",
-        "source": "Ācārāṅga / Mūlācāra ācāra-framework"
+        "text": "The eight aṅgas of jñānācāra (kāla, vinaya, bahumāna, upadhāna, aniṇhavaṇa, vyañjana, artha, tadubhaya)",
+        "source": "Āvaśyaka/śrāvaka-ācāra tradition; Anchalgachchha Panch Pratikraman Sutra — Vidhi Sahit"
       },
       {
-        "text": "Laghu Atiyāra — the short Devasi/Rāi confession that this extended form replaces",
-        "source": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha ed.)"
+        "text": "Laghu Atiyār — the short Devasi/Rāi parallel of this same jñānācāra confession",
+        "source": "Panch Pratikraman Sutra — Vidhi Sahit (sutra `laghu-atiyar`)"
       }
     ]
   },
   "sources": [
     {
-      "title": "Pratikramana",
+      "title": "Pratikramana — confession and repentance in Jainism",
       "url": "https://en.wikipedia.org/wiki/Pratikramana",
       "type": "scholarship",
-      "consultedFor": "Confirming the six-āvaśyaka frame and that the fourth āvaśyaka is the confession/repentance unit into which this atichāra recitation falls."
+      "consultedFor": "Confirming the six-āvaśyaka frame and the meaning of pratikramaṇa as 'returning from violation', within which this ācāra-confession sits."
     },
     {
       "title": "Tattvārtha Sūtra (Umāsvāti)",
       "url": "https://en.wikipedia.org/wiki/Tattvartha_Sutra",
       "type": "scholarship",
-      "consultedFor": "The classical six external + six internal austerities (cha bheda bāhya / abhyantara tapa) and the doctrinal status of tapas as karma-shedding."
+      "consultedFor": "The classical doctrine of jñāna, the atichāra framework, and knowledge-obscuring (jñānāvaraṇīya) / antarāya karma that grounds the faults confessed here."
+    },
+    {
+      "title": "Kayotsarga",
+      "url": "https://en.wikipedia.org/wiki/Kayotsarga",
+      "type": "scholarship",
+      "consultedFor": "Verifying the ritual vocabulary (khamāsamaṇa obeisance, kāyotsarga) surrounding the confession in the Āvaśyaka sequence."
     },
     {
       "title": "Panch Pratikraman Sutra — Vidhi Sahit (Anchalgachchha / Vidhipaksha edition)",
       "url": "https://www.jainelibrary.org",
       "type": "translation",
-      "consultedFor": "The verbatim Gujarati confession text, its orthography (paccakkhāṇa, atiyāra), and the placement of the pañcācāra confession after the eighty-five-atichāra tally."
-    },
-    {
-      "title": "Anuvrata (the twelve lay vows)",
-      "url": "https://en.wikipedia.org/wiki/Anuvrata",
-      "type": "scholarship",
-      "consultedFor": "Confirming why cāritrācāra is not separately confessed here — its content is the just-completed twelve-vow audit."
+      "consultedFor": "The verbatim Gujarati verse text, its placement as the first of the five-ācāra confessions, and the verse-number restart at (1)."
     }
   ],
   "translatorConfidence": 0.82,
-  "notes": "Verse-specific caveats: (1) 'ādhaḍaviche' (આધડવિચે) is a rare Deśya adverb; rendered from context as 'carelessly / half-attentively', but the exact form is uncertain and flagged. (2) 'kavalī' and 'ṭhavaṇī' are study-/worship-implements; 'kavalī' is read as the scripture book-cloth and 'ṭhavaṇī' as the folding book-rest (also the sthāpanā-stand) — local usage may vary. (3) 'vecāvacca' (વેચાવચ્ચ) = Prakrit veyāvacca / Skt vaiyāvṛtya, 'service/upkeep', not commerce. (4) The local section numbers 1–3 are sub-headings within this single verse (jñāna / darśana / tapa), not independent shlokas; cāritrācāra is intentionally absent because it coincides with the preceding twelve-vow confession, and vīryācāra follows in the next verse. (5) Book orthography preserved verbatim, including the doubled conjunct in 'paccakkhāṇa' and 'atiyāra' (with ય). (6) The auxiliary 'hoya' and the participles 'kīdhī/kīdho/kīdhuṁ' recur throughout; glossed once and not repeated per occurrence."
+  "notes": "The reading of 'કવલી' (kavalī) is uncertain: it is most plausibly a manuscript-wrapper/cover or protective folder among the study-articles, but some editions read it as a manuscript-case or page-marker; rendered as 'book-wrapper/cover' and flagged. 'ઠવણી' (ṭhavaṇī) is taken as the folding reading-stand (from sthāpanā), not the sthāpanācārya itself. 'પરિવાડી' (parivāḍī) is read as paripāṭī, a 'round/turn' of recitation or study-sequence. Book orthography is preserved verbatim, including થૂંક (long ū), નોકારવાલી (with -lī rather than -ḷī), and the restart of verse-numbering at ॥૧॥ for the ācāra section; per this edition 'atichāra' is spelled અતિયાર. The eight aṅgas of jñānācāra are supplied from the standard śrāvaka-ācāra framework as interpretive background, not as words present in the verse."
 }

@@ -2,63 +2,143 @@
   "shlokaId": "bruhad-atiyar/16",
   "targetLang": "hindi",
   "targetScript": "devanagari",
-  "plainMeaning": "इस अंश में साधक चौथे — वीर्य (आत्म-बल) के आचार में हुई कमियों को याद करके क्षमा माँगता है, फिर 'मिच्छा मि दुक्कडं' कहकर सब दोष निष्फल करता है, और अन्त में देशावगाशिक व्रत का त्याग-पाठ बोलता है।",
-  "recitation": "४. वीर्याचारे छती शक्ते छ आवश्यक सम्यक् साचव्या न होय। छती वेळाए पोसह सामायिक कीधुं न होय। बेठां वांदणां दीधां होय। काउस्सग्ग अधिका अधिको वधार्यो न होय। छती शक्ते तप कीधुं न होय। द्वेष करतो कोइ वार्यो न होय। नवुं पढतां, आगलुं गणतां, अर्थ विचार पूछतां कहेतां आळस कीधुं होय। छती सामग्रीए दान दीधुं न होय। देवयात्रा गुरुयात्रा कीधी न होय। सहाम्मीतणी भक्ति साचवी न होय। धर्मवंतनी आपदा भांगी न होय। अनेरुं ए वीर्याचार विषे॥ ४॥ अनेरुं जे कांइ जिनवचन विरुद्ध मन, वचन, कायाए करी करण, करावण, अनुमतिए करी समाचर्युं होय। ते सवि हुं मने, वचने, कायाए करी मिच्छा मि दुक्कडं॥ पडिसिद्धाणं करणे, किच्चाणमकरणे पडिक्कमणं। असद्दहणे य तहा, विवरीय परूवणा ए य॥१॥ देसावगासिअं, उवभोगं परिभोगं पच्चक्खामि। अन्नत्थणाभोगेणं, सहस्सागारेणं, महत्तरागारेणं सव्वसमाहिवत्तियागारेणं वोसिरामि॥",
+  "plainMeaning": "इस गाथा में साधक स्वीकार करता है कि देव-पूजा और गुरु-विनय में (अशुद्ध वस्त्र से पूजा, देवद्रव्य की उपेक्षा आदि) तथा तप के पालन में (शक्ति होते हुए भी पच्चक्खाण न करना) उससे जो भूलें हुई हों, उन सबके लिए वह पश्चात्ताप करता है।",
+  "recitation": "२. तथा दर्शनाचारे सम्यक्त्व विराधिउं होय। देव, गुरु नमस्कार कर्या पाखे भोजन कीधुं होय। देव पूजतां धोती शुद्ध कीधी न होय। मुखकोश कीधो न होय। आधडविचे देव पूज्या होय। गुरुने आसणे, बेसणे, उपगरणे पग लगाड्यो होय, गुरुवचन द्वेषलगे वाल्युं होय। बिंब हाथथकी विछुट्युं होय, बिंबनुं वेचावच्च कीधुं न होय, देवद्रव्य आपणे व्यवसाये घाल्युं होय। देवद्रव्य विणसतुं उवेख्युं होय। अनेरुं ए दर्शनाचार विषे॥ २॥ ३. तपाचारे छती शक्ते पच्चख्खाण कीधुं न होय, करीने भांग्युं होय, पच्चख्खाण पाल्युं न होय, नियम, अभिग्रह लेइ भांग्या होय, छ भेद अभ्यंतर, छ भेद बाह्य तप अवसरे साचव्युं न होय। अनेरुं ए तपाचार विषे॥ ३॥",
   "wordByWord": [
     {
-      "token": "વીર્યાચારે",
-      "translit": "vīryācāre",
-      "gloss": "वीर्याचार (आत्म-बल के आचार) में — पंचाचार का चौथा, जिसमें सामर्थ्य रहते धर्म-पुरुषार्थ छिपाना दोष है",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vīrya (बल, ऊर्जा) + ācāra (आचरण); 'वीर्य' √vīr से",
-      "notes": "यहाँ ग्रन्थानुसार पंचाचार का चौथा आचार; पुस्तक में अतिचार 'અતિયાર' लिखा मिलता है"
+      "token": "૨",
+      "translit": "2",
+      "gloss": "दूसरा (खण्ड-अंक) — दर्शनाचार का सूचक",
+      "partOfSpeech": "numeral",
+      "etymology": "गुजराती अंक",
+      "notes": "पञ्चाचार के दूसरे अंग दर्शनाचार का आरम्भ-चिह्न।"
     },
     {
-      "token": "છતી",
-      "translit": "chatī",
-      "gloss": "होते हुए, विद्यमान, उपलब्ध",
-      "partOfSpeech": "adj",
-      "etymology": "पुरानी गुजराती छतुं (विद्यमान); सं. *kṣात/अस्ति-मूलक भाव",
-      "notes": "पूरे अंश में बार-बार 'छती शक्ते/वेळाए/सामग्रीए' = 'सामर्थ्य/अवसर/साधन होते हुए भी'"
-    },
-    {
-      "token": "શક્તે",
-      "translit": "śakte",
-      "gloss": "शक्ति होने पर (सामर्थ्य रहते भी)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. śakti (सामर्थ्य), √śak",
-      "notes": ""
-    },
-    {
-      "token": "છ",
-      "translit": "cha",
-      "gloss": "छह",
-      "partOfSpeech": "adj",
-      "etymology": "सं. ṣaṣ → प्रा. cha",
-      "notes": "छह आवश्यक की संख्या"
-    },
-    {
-      "token": "આવશ્યક",
-      "translit": "āvaśyaka",
-      "gloss": "आवश्यक — नित्य कर्तव्य षट्क (सामायिक, चउवीसत्थो, वंदन, प्रतिक्रमण, कायोत्सर्ग, प्रत्याख्यान)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. ava + √vaś → 'जो अवश्य करणीय हो'",
-      "notes": ""
-    },
-    {
-      "token": "સમ્યક્",
-      "translit": "samyak",
-      "gloss": "भली-भाँति, यथाविधि",
+      "token": "તથા",
+      "translit": "tathā",
+      "gloss": "तथा; और इसी प्रकार",
       "partOfSpeech": "adverb",
-      "etymology": "सं. samyak (ठीक, सम्यक्)",
+      "etymology": "सं. tathā",
+      "notes": "पिछले ज्ञानाचार-खण्ड से जोड़ने वाला सम्बन्ध-शब्द।"
+    },
+    {
+      "token": "દર્શનાચારે",
+      "translit": "darśanācāre",
+      "gloss": "दर्शनाचार में; सम्यग्दर्शन-सम्बन्धी आचरण के विषय में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. darśana + ācāra (सप्तमी)",
       "notes": ""
     },
     {
-      "token": "સાચવ્યા",
-      "translit": "sācavyā",
-      "gloss": "सँभाले, यथाविधि निभाए",
+      "token": "સમ્યક્ત્વ",
+      "translit": "samyaktva",
+      "gloss": "सम्यक्त्व; शुद्ध श्रद्धा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. samyak + tva",
+      "notes": ""
+    },
+    {
+      "token": "વિરાધિઉં",
+      "translit": "virādhiuṁ",
+      "gloss": "विराधा; खण्डित/मलिन किया",
       "partOfSpeech": "verb",
-      "etymology": "पुरानी गुज. साचववुं (रक्षा/पालन करना)",
+      "etymology": "सं. vi+rādh (विराधना)",
+      "notes": ""
+    },
+    {
+      "token": "હોય",
+      "translit": "hoya",
+      "gloss": "हुआ हो; (यदि) किया हो तो",
+      "partOfSpeech": "verb",
+      "etymology": "गु. होवुं < सं. bhū",
+      "notes": "सम्भावनार्थक सहायक क्रिया — पूरे पाठ में प्रत्येक दोष के अन्त में पुनरावृत्त।"
+    },
+    {
+      "token": "દેવ",
+      "translit": "deva",
+      "gloss": "देव; जिनेश्वर/अरिहन्त की प्रतिमा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. deva",
+      "notes": "गाथा में अनेक बार आया है।"
+    },
+    {
+      "token": "ગુરુ",
+      "translit": "guru",
+      "gloss": "गुरु; धर्माचार्य",
+      "partOfSpeech": "noun",
+      "etymology": "सं. guru",
+      "notes": ""
+    },
+    {
+      "token": "નમસ્કાર",
+      "translit": "namaskāra",
+      "gloss": "नमस्कार; वन्दन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. namas + kāra",
+      "notes": ""
+    },
+    {
+      "token": "કર્યા",
+      "translit": "karyā",
+      "gloss": "किये",
+      "partOfSpeech": "verb",
+      "etymology": "गु. करवुं < सं. kṛ",
+      "notes": ""
+    },
+    {
+      "token": "પાખે",
+      "translit": "pākhe",
+      "gloss": "बिना; के बगैर",
+      "partOfSpeech": "postposition",
+      "etymology": "प्रा. pakkha (पक्ष = ओर) से 'के अभाव में'",
+      "notes": "'देव-गुरु को नमस्कार किये बिना' — भोजन-पूर्व विनय का लोप।"
+    },
+    {
+      "token": "ભોજન",
+      "translit": "bhojana",
+      "gloss": "भोजन",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bhojana",
+      "notes": ""
+    },
+    {
+      "token": "કીધું",
+      "translit": "kīdhuṁ",
+      "gloss": "किया; (यहाँ) कर/खा लिया",
+      "partOfSpeech": "verb",
+      "etymology": "गु. कीधुं < सं. kṛta",
+      "notes": "लिंग-भेद से कीधी/कीधो रूप भी आगे आते हैं।"
+    },
+    {
+      "token": "પૂજતાં",
+      "translit": "pūjatāṁ",
+      "gloss": "पूजते समय",
+      "partOfSpeech": "verb",
+      "etymology": "सं. pūj् (पूजन)",
+      "notes": "क्रियावाचक अनुबन्ध रूप।"
+    },
+    {
+      "token": "ધોતી",
+      "translit": "dhotī",
+      "gloss": "धोती; पूजा का वस्त्र",
+      "partOfSpeech": "noun",
+      "etymology": "सं. dhauta (धोया हुआ) से",
+      "notes": "पूजा-द्रव्य की शुद्धि का प्रसंग।"
+    },
+    {
+      "token": "શુદ્ધ",
+      "translit": "śuddha",
+      "gloss": "शुद्ध; स्वच्छ",
+      "partOfSpeech": "adjective",
+      "etymology": "सं. śuddha",
+      "notes": ""
+    },
+    {
+      "token": "કીધી",
+      "translit": "kīdhī",
+      "gloss": "की (स्त्रीलिंग रूप)",
+      "partOfSpeech": "verb",
+      "etymology": "गु. कीधी < सं. kṛtā",
       "notes": ""
     },
     {
@@ -66,693 +146,435 @@
       "translit": "na",
       "gloss": "नहीं",
       "partOfSpeech": "particle",
-      "etymology": "सं./प्रा. na",
-      "notes": "पूरे पाठ में 'न होय' = 'न किया हो' निषेध दोहराता है"
+      "etymology": "सं. na",
+      "notes": "निषेधवाचक — गाथा में बार-बार आता है।"
     },
     {
-      "token": "હોય",
-      "translit": "hoya",
-      "gloss": "हुआ हो / होवे (सम्भावना-भूत)",
+      "token": "મુખકોશ",
+      "translit": "mukhakośa",
+      "gloss": "मुखकोश; पूजा में मुख पर बाँधा जाने वाला अष्टपट वस्त्र (मुखवस्त्रिका)",
+      "partOfSpeech": "compound",
+      "etymology": "सं. mukha + kośa",
+      "notes": "श्वासोच्छ्वास से प्रतिमा अशुद्ध न हो, इस हेतु मुखकोश बाँधना अनिवार्य।"
+    },
+    {
+      "token": "કીધો",
+      "translit": "kīdho",
+      "gloss": "किया (पुल्लिंग रूप); (यहाँ) बाँधा",
       "partOfSpeech": "verb",
-      "etymology": "सं. bhū → प्रा./गुज. हो-",
-      "notes": "आलोचना-शैली: 'अमुक न किया हो' — सम्भावित दोष की स्वीकृति"
-    },
-    {
-      "token": "વેળાએ",
-      "translit": "veḷāe",
-      "gloss": "समय/अवसर होने पर",
-      "partOfSpeech": "noun",
-      "etymology": "सं. velā (समय, बेला)",
+      "etymology": "गु. कीधो < सं. kṛta",
       "notes": ""
     },
     {
-      "token": "પોસહ",
-      "translit": "posaha",
-      "gloss": "पौषध (मुनि-तुल्य एक दिन-रात का व्रत)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. poṣadha/upoṣadha → प्रा. posaha",
-      "notes": "प्रस्तावना में परिभाषित — पुनः परिभाषा नहीं"
-    },
-    {
-      "token": "સામાયિક",
-      "translit": "sāmāyika",
-      "gloss": "सामायिक (समता का व्रत)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. sama + āya → sāmāyika",
-      "notes": ""
-    },
-    {
-      "token": "કીધું",
-      "translit": "kīdhuṁ",
-      "gloss": "किया",
-      "partOfSpeech": "verb",
-      "etymology": "सं. kṛta → प्रा. kīa → गुज. कीधुं",
-      "notes": ""
-    },
-    {
-      "token": "બેઠાં",
-      "translit": "beṭhāṁ",
-      "gloss": "बैठे-बैठे",
+      "token": "આધડવિચે",
+      "translit": "ādhaḍviche",
+      "gloss": "अधबीच/उतावली व अधूरी शुद्धि में; अशुद्ध हाथ अथवा अधकचरी विधि से",
       "partOfSpeech": "adverb",
-      "etymology": "सं. upaviṣṭa → गुज. बेठुं",
-      "notes": "वंदन खड़े होकर विधिपूर्वक देना चाहिए; बैठकर देना अतिचार"
+      "etymology": "गु. आधुं (आधा/अधूरा) + विच (बीच)",
+      "notes": "पाठान्तर/अर्थ अनिश्चित — सम्भवतः 'अशुद्ध या जल्दबाज़ी से पूजन'; देखें notes।"
     },
     {
-      "token": "વાંદણાં",
-      "translit": "vāndaṇāṁ",
-      "gloss": "वांदणा (द्वादशावर्त गुरु-वंदन)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vandanaka → प्रा. vandaṇa",
-      "notes": "तीसरे आवश्यक का अनुष्ठान"
-    },
-    {
-      "token": "દીધાં",
-      "translit": "dīdhāṁ",
-      "gloss": "दिए",
+      "token": "પૂજ્યા",
+      "translit": "pūjyā",
+      "gloss": "पूजे; पूजन किया",
       "partOfSpeech": "verb",
-      "etymology": "सं. datta → गुज. दीधुं",
+      "etymology": "सं. pūjita",
       "notes": ""
     },
     {
-      "token": "કાઉસ્સગ્ગ",
-      "translit": "kāussagga",
-      "gloss": "कायोत्सर्ग (काय-त्याग ध्यान)",
+      "token": "ગુરુને",
+      "translit": "gurune",
+      "gloss": "गुरु के/गुरु को",
       "partOfSpeech": "noun",
-      "etymology": "सं. kāya + utsarga → प्रा. kāussagga",
-      "notes": "पुस्तक में 'काउसग्ग/काउस्सग्ग' दोनों रूप यथावत् (ऑर्थोग्राफी §7)"
-    },
-    {
-      "token": "અધિકા",
-      "translit": "adhikā",
-      "gloss": "अधिक (बार/संख्या में)",
-      "partOfSpeech": "adj",
-      "etymology": "सं. adhika (अधिक)",
+      "etymology": "सं. guru + गु. विभक्ति 'ने'",
       "notes": ""
     },
     {
-      "token": "અધિકો",
-      "translit": "adhiko",
-      "gloss": "और अधिक (पुनरुक्ति से बल — 'अधिकाधिक')",
-      "partOfSpeech": "adj",
-      "etymology": "सं. adhika",
-      "notes": "'अधिका अधिको वधार्यो न होय' = 'सामर्थ्य रहते कायोत्सर्ग अधिकाधिक न बढ़ाया हो'"
+      "token": "આસણે",
+      "translit": "āsaṇe",
+      "gloss": "आसन को; बैठने के आसन को",
+      "partOfSpeech": "noun",
+      "etymology": "सं. āsana (सप्तमी)",
+      "notes": ""
     },
     {
-      "token": "વધાર્યો",
-      "translit": "vadhāryo",
-      "gloss": "बढ़ाया",
+      "token": "બેસણે",
+      "translit": "besaṇe",
+      "gloss": "बैठक/बैठने के स्थान को",
+      "partOfSpeech": "noun",
+      "etymology": "गु. बेसवुं (बैठना) से",
+      "notes": ""
+    },
+    {
+      "token": "ઉપગરણે",
+      "translit": "upagaraṇe",
+      "gloss": "उपकरण को; धर्मोपकरण को",
+      "partOfSpeech": "noun",
+      "etymology": "सं. upakaraṇa",
+      "notes": "गुरु के आसन-उपकरण को पैर लगाना अविनय।"
+    },
+    {
+      "token": "પગ",
+      "translit": "paga",
+      "gloss": "पैर",
+      "partOfSpeech": "noun",
+      "etymology": "गु. पग < सं. pāda/padaga",
+      "notes": ""
+    },
+    {
+      "token": "લગાડ્યો",
+      "translit": "lagāḍyo",
+      "gloss": "लगाया; स्पर्श कराया",
       "partOfSpeech": "verb",
-      "etymology": "सं. vardhita → गुज. वधारवुं",
+      "etymology": "गु. लगाडवुं < सं. lag",
       "notes": ""
     },
     {
-      "token": "તપ",
-      "translit": "tapa",
-      "gloss": "तप (बाह्य-अभ्यन्तर तपस्या)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. tapas, √tap",
+      "token": "ગુરુવચન",
+      "translit": "guruvacana",
+      "gloss": "गुरु-वचन; गुरु का उपदेश/आज्ञा",
+      "partOfSpeech": "compound",
+      "etymology": "सं. guru + vacana",
       "notes": ""
     },
     {
-      "token": "દ્વેષ",
-      "translit": "dveṣa",
-      "gloss": "द्वेष करते हुए (किसी को)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. dveṣa, √dviṣ",
-      "notes": "'द्वेष करतो कोइ वार्यो न होय' = द्वेष कर रहे किसी को रोका न हो"
+      "token": "દ્વેષલગે",
+      "translit": "dveṣalage",
+      "gloss": "द्वेषवश; अरुचि/विरोध-भाव से",
+      "partOfSpeech": "adverb",
+      "etymology": "सं. dveṣa + गु. 'लगे' (से/के कारण)",
+      "notes": ""
     },
     {
-      "token": "કરતો",
-      "translit": "karato",
-      "gloss": "करते हुए",
+      "token": "વાલ્યું",
+      "translit": "vālyuṁ",
+      "gloss": "ठुकराया/टाला; (वचन को) काटा या लौटाया",
       "partOfSpeech": "verb",
-      "etymology": "सं. kurvant → गुज. करतो",
+      "etymology": "गु. वालवुं (फेरना/मोड़ना)",
       "notes": ""
     },
     {
-      "token": "કોઇ",
-      "translit": "koi",
-      "gloss": "कोई",
+      "token": "બિંબ",
+      "translit": "biṁba",
+      "gloss": "बिंब; जिन-प्रतिमा",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bimba",
+      "notes": ""
+    },
+    {
+      "token": "હાથથકી",
+      "translit": "hāthathakī",
+      "gloss": "हाथ से",
+      "partOfSpeech": "postposition",
+      "etymology": "गु. हाथ + थकी (से)",
+      "notes": ""
+    },
+    {
+      "token": "વિછુટ્યું",
+      "translit": "vichuṭyuṁ",
+      "gloss": "छूट गया; गिर पड़ा",
+      "partOfSpeech": "verb",
+      "etymology": "गु. विछुटवुं (छूटना) < सं. vi+chyut",
+      "notes": "हाथ से प्रतिमा का गिरना आशातना।"
+    },
+    {
+      "token": "બિંબનું",
+      "translit": "biṁbanuṁ",
+      "gloss": "बिंब का",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bimba + गु. षष्ठी 'नुं'",
+      "notes": ""
+    },
+    {
+      "token": "વેચાવચ્ચ",
+      "translit": "vecāvacca",
+      "gloss": "वैयावृत्त्य; सार-सँभाल/सेवा-रक्षा",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. वेयावच्च < सं. vaiyāvṛttya",
+      "notes": "बिंब/मन्दिर की देख-रेख न करना।"
+    },
+    {
+      "token": "દેવદ્રવ્ય",
+      "translit": "devadravya",
+      "gloss": "देवद्रव्य; मन्दिर/देव की सम्पत्ति",
+      "partOfSpeech": "compound",
+      "etymology": "सं. deva + dravya",
+      "notes": "इसके दुरुपयोग को परम्परा अत्यन्त गुरु दोष मानती है।"
+    },
+    {
+      "token": "આપણે",
+      "translit": "āpaṇe",
+      "gloss": "अपने; स्वयं के",
       "partOfSpeech": "pronoun",
-      "etymology": "सं. ko'pi → गुज. कोइ",
+      "etymology": "गु. आपणुं < सं. ātman",
       "notes": ""
     },
     {
-      "token": "વાર્યો",
-      "translit": "vāryo",
-      "gloss": "रोका, वारित किया",
+      "token": "વ્યવસાયે",
+      "translit": "vyavasāye",
+      "gloss": "व्यवसाय में; अपने व्यापार में",
+      "partOfSpeech": "noun",
+      "etymology": "सं. vyavasāya (सप्तमी)",
+      "notes": ""
+    },
+    {
+      "token": "ઘાલ્યું",
+      "translit": "ghālyuṁ",
+      "gloss": "डाला; लगा/खपा दिया",
       "partOfSpeech": "verb",
-      "etymology": "सं. vārita, √vṛ",
-      "notes": ""
+      "etymology": "गु. घालवुं (डालना)",
+      "notes": "देवद्रव्य को निजी व्यापार में लगाना।"
     },
     {
-      "token": "નવું",
-      "translit": "navuṁ",
-      "gloss": "नया (श्रुत/पाठ)",
-      "partOfSpeech": "adj",
-      "etymology": "सं. nava → गुज. नवुं",
-      "notes": "'नवुं पढतां' = नया (शास्त्र) पढ़ते समय"
-    },
-    {
-      "token": "પઢતાં",
-      "translit": "paḍhatāṁ",
-      "gloss": "पढ़ते समय",
+      "token": "વિણસતું",
+      "translit": "viṇasatuṁ",
+      "gloss": "विनष्ट होते हुए; नाश होते",
       "partOfSpeech": "verb",
-      "etymology": "सं. paṭhita → प्रा. paḍha",
+      "etymology": "प्रा. विणस < सं. vinaśyat",
       "notes": ""
     },
     {
-      "token": "આગલું",
-      "translit": "āgaluṁ",
-      "gloss": "पूर्व-पठित (पुराना याद किया हुआ)",
-      "partOfSpeech": "adj",
-      "etymology": "सं. agra → गुज. आगलुं",
-      "notes": "'आगलुं गणतां' = पहले का (कण्ठस्थ) फेरते/गिनते समय"
-    },
-    {
-      "token": "ગણતાં",
-      "translit": "gaṇatāṁ",
-      "gloss": "गिनते/फेरते/जपते समय",
+      "token": "ઉવેખ્યું",
+      "translit": "uvekhyuṁ",
+      "gloss": "उपेक्षा की; अनदेखा किया",
       "partOfSpeech": "verb",
-      "etymology": "सं. gaṇ (गिनना)",
-      "notes": ""
-    },
-    {
-      "token": "અર્થ",
-      "translit": "artha",
-      "gloss": "अर्थ (भाव)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. artha",
-      "notes": ""
-    },
-    {
-      "token": "વિચાર",
-      "translit": "vicāra",
-      "gloss": "विचार (अर्थ-चिन्तन)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vicāra, √car",
-      "notes": ""
-    },
-    {
-      "token": "પૂછતાં",
-      "translit": "pūchatāṁ",
-      "gloss": "पूछते समय",
-      "partOfSpeech": "verb",
-      "etymology": "सं. pṛcchā, √pracch",
-      "notes": ""
-    },
-    {
-      "token": "કહેતાં",
-      "translit": "kahetāṁ",
-      "gloss": "कहते/समझाते समय",
-      "partOfSpeech": "verb",
-      "etymology": "सं. kathita → गुज. कहेवुं",
-      "notes": ""
-    },
-    {
-      "token": "આળસ",
-      "translit": "āḷasa",
-      "gloss": "आलस्य (प्रमाद)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. ālasya → गुज. आळस",
-      "notes": "ज्ञानार्जन में प्रमाद वीर्याचार का दोष"
-    },
-    {
-      "token": "સામગ્રીએ",
-      "translit": "sāmagrīe",
-      "gloss": "सामग्री/साधन होने पर",
-      "partOfSpeech": "noun",
-      "etymology": "सं. sāmagrī (साधन-समूह)",
-      "notes": ""
-    },
-    {
-      "token": "દાન",
-      "translit": "dāna",
-      "gloss": "दान",
-      "partOfSpeech": "noun",
-      "etymology": "सं. dāna, √dā",
-      "notes": ""
-    },
-    {
-      "token": "દેવયાત્રા",
-      "translit": "devayātrā",
-      "gloss": "देव-यात्रा (जिनबिम्ब/तीर्थ की यात्रा)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. deva + yātrā",
-      "notes": ""
-    },
-    {
-      "token": "ગુરુયાત્રા",
-      "translit": "guruyātrā",
-      "gloss": "गुरु-यात्रा (गुरु-दर्शनार्थ यात्रा/सेवा)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. guru + yātrā",
-      "notes": ""
-    },
-    {
-      "token": "કીધી",
-      "translit": "kīdhī",
-      "gloss": "की",
-      "partOfSpeech": "verb",
-      "etymology": "सं. kṛta → गुज. कीधी",
-      "notes": ""
-    },
-    {
-      "token": "સહામ્મીતણી",
-      "translit": "sahāmmītaṇī",
-      "gloss": "साधर्मिक (सहधर्मी) की",
-      "partOfSpeech": "noun",
-      "etymology": "सं. sādharmika → प्रा. sāhammia; '-तणी' = सम्बन्ध-प्रत्यय (की)",
-      "notes": "साधर्मिक-वात्सल्य की भक्ति न सँभालना दोष"
-    },
-    {
-      "token": "ભક્તિ",
-      "translit": "bhakti",
-      "gloss": "भक्ति, सेवा-सत्कार",
-      "partOfSpeech": "noun",
-      "etymology": "सं. bhakti, √bhaj",
-      "notes": ""
-    },
-    {
-      "token": "સાચવી",
-      "translit": "sācavī",
-      "gloss": "सँभाली, निभाई",
-      "partOfSpeech": "verb",
-      "etymology": "पुरानी गुज. साचववुं",
-      "notes": ""
-    },
-    {
-      "token": "ધર્મવંતની",
-      "translit": "dharmavaṁtanī",
-      "gloss": "धर्मवान् (धर्मनिष्ठ) की",
-      "partOfSpeech": "noun",
-      "etymology": "सं. dharmavant + गुज. सम्बन्ध-प्रत्यय '-नी'",
-      "notes": ""
-    },
-    {
-      "token": "આપદા",
-      "translit": "āpadā",
-      "gloss": "आपत्ति, संकट",
-      "partOfSpeech": "noun",
-      "etymology": "सं. āpad (विपत्ति)",
-      "notes": ""
-    },
-    {
-      "token": "ભાંગી",
-      "translit": "bhāṁgī",
-      "gloss": "दूर की, तोड़ी (निवारण किया)",
-      "partOfSpeech": "verb",
-      "etymology": "सं. bhaṅga → गुज. भांगवुं",
-      "notes": "'आपदा भांगी न होय' = धर्मीजन का संकट दूर न किया हो"
+      "etymology": "प्रा. उवेक्ख < सं. upekṣ",
+      "notes": "देवद्रव्य को नष्ट होते देख भी उपेक्षा करना।"
     },
     {
       "token": "અનેરું",
       "translit": "aneruṁ",
-      "gloss": "अन्य, इसके अतिरिक्त जो कुछ",
+      "gloss": "और जो कुछ; शेष अन्य (दोष)",
       "partOfSpeech": "pronoun",
-      "etymology": "सं. anya + -era → गुज. अनेरुं",
-      "notes": "हर आचार-खण्ड का समापन-सूत्र: 'शेष जो भी दोष'"
+      "etymology": "प्रा. अण्णेर < सं. anya-tara",
+      "notes": "गिनाये दोषों के अतिरिक्त सब को समेटने वाला समापन-शब्द।"
     },
     {
       "token": "એ",
       "translit": "e",
-      "gloss": "इस (विषय में)",
+      "gloss": "यह; इस",
       "partOfSpeech": "pronoun",
-      "etymology": "सं. etad → गुज. ए",
+      "etymology": "गु. ए < सं. etad",
+      "notes": ""
+    },
+    {
+      "token": "દર્શનાચાર",
+      "translit": "darśanācāra",
+      "gloss": "दर्शनाचार (विषय)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. darśana + ācāra",
       "notes": ""
     },
     {
       "token": "વિષે",
       "translit": "viṣe",
-      "gloss": "विषय में, सम्बन्ध में",
-      "partOfSpeech": "adverb",
+      "gloss": "के विषय में; सम्बन्धी",
+      "partOfSpeech": "postposition",
       "etymology": "सं. viṣaye",
+      "notes": "खण्ड-समापक — §2 व §3 दोनों में।"
+    },
+    {
+      "token": "૩",
+      "translit": "3",
+      "gloss": "तीसरा खण्ड — तपाचार",
+      "partOfSpeech": "numeral",
+      "etymology": "गुजराती अंक",
       "notes": ""
     },
     {
-      "token": "જે",
-      "translit": "je",
-      "gloss": "जो",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं. yad → गुज. जे",
-      "notes": ""
-    },
-    {
-      "token": "કાંઇ",
-      "translit": "kāṁi",
-      "gloss": "कुछ भी",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं. kimapi → गुज. कांइ",
-      "notes": ""
-    },
-    {
-      "token": "જિનવચન",
-      "translit": "jinavacana",
-      "gloss": "जिन-वचन (तीर्थंकर-आज्ञा/आगम)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. jina + vacana",
-      "notes": ""
-    },
-    {
-      "token": "વિરુદ્ધ",
-      "translit": "viruddha",
-      "gloss": "विरुद्ध, प्रतिकूल",
-      "partOfSpeech": "adj",
-      "etymology": "सं. viruddha, √rudh",
-      "notes": ""
-    },
-    {
-      "token": "મન",
-      "translit": "mana",
-      "gloss": "मन से",
+      "token": "તપાચારે",
+      "translit": "tapācāre",
+      "gloss": "तपाचार में; तप-सम्बन्धी आचरण के विषय में",
       "partOfSpeech": "noun",
-      "etymology": "सं. manas",
-      "notes": "मन-वचन-काय त्रियोग"
-    },
-    {
-      "token": "વચન",
-      "translit": "vacana",
-      "gloss": "वचन से",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vacana, √vac",
+      "etymology": "सं. tapas + ācāra (सप्तमी)",
       "notes": ""
     },
     {
-      "token": "કાયાએ",
-      "translit": "kāyāe",
-      "gloss": "काया (शरीर) से",
-      "partOfSpeech": "noun",
-      "etymology": "सं. kāya",
+      "token": "છતી",
+      "translit": "chatī",
+      "gloss": "होते हुए; विद्यमान रहते",
+      "partOfSpeech": "adjective",
+      "etymology": "प्रा. छत्त < सं. sat (विद्यमान)",
       "notes": ""
     },
     {
-      "token": "કરી",
-      "translit": "karī",
-      "gloss": "करके, द्वारा",
+      "token": "શક્તે",
+      "translit": "śakte",
+      "gloss": "शक्ति होने पर; सामर्थ्य रहते",
+      "partOfSpeech": "noun",
+      "etymology": "सं. śakti (सप्तमी)",
+      "notes": "'छती शक्ते' = सामर्थ्य होते हुए भी — तप-दोष की कुंजी प्रमाद है, असमर्थता नहीं।"
+    },
+    {
+      "token": "પચ્ચખ્ખાણ",
+      "translit": "paccakkhāṇa",
+      "gloss": "पच्चक्खाण; प्रत्याख्यान, त्याग-नियम",
+      "partOfSpeech": "noun",
+      "etymology": "प्रा. पच्चक्खाण < सं. pratyākhyāna",
+      "notes": ""
+    },
+    {
+      "token": "કરીને",
+      "translit": "karīne",
+      "gloss": "करके",
       "partOfSpeech": "verb",
-      "etymology": "सं. kṛtvā → गुज. करी",
+      "etymology": "गु. करीने < सं. kṛtvā",
       "notes": ""
     },
     {
-      "token": "કરણ",
-      "translit": "karaṇa",
-      "gloss": "स्वयं करना",
-      "partOfSpeech": "noun",
-      "etymology": "सं. karaṇa, √kṛ",
-      "notes": "त्रिकरण का पहला"
-    },
-    {
-      "token": "કરાવણ",
-      "translit": "karāvaṇa",
-      "gloss": "दूसरे से कराना",
-      "partOfSpeech": "noun",
-      "etymology": "सं. kāraṇa/प्रेरक √kṛ",
-      "notes": ""
-    },
-    {
-      "token": "અનુમતિએ",
-      "translit": "anumatie",
-      "gloss": "अनुमोदना से (अच्छा मानकर सम्मति देना)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. anumati, √man",
-      "notes": "करण-करावण-अनुमोदन का तीसरा"
-    },
-    {
-      "token": "સમાચર્યું",
-      "translit": "samācaryuṁ",
-      "gloss": "आचरण किया हो",
+      "token": "ભાંગ્યું",
+      "translit": "bhāṅgyuṁ",
+      "gloss": "भंग किया; तोड़ा",
       "partOfSpeech": "verb",
-      "etymology": "सं. samācarita, sam + ā + √car",
+      "etymology": "सं. bhagna/bhañj",
       "notes": ""
     },
     {
-      "token": "તે",
-      "translit": "te",
-      "gloss": "वह (सब)",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं. tad → गुज. ते",
-      "notes": ""
-    },
-    {
-      "token": "સવિ",
-      "translit": "savi",
-      "gloss": "सब, समस्त",
-      "partOfSpeech": "adj",
-      "etymology": "सं. sarva → प्रा. savva → गुज. सवि",
-      "notes": ""
-    },
-    {
-      "token": "હું",
-      "translit": "huṁ",
-      "gloss": "मैं",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं. aham → गुज. हुं",
-      "notes": ""
-    },
-    {
-      "token": "મને",
-      "translit": "mane",
-      "gloss": "मन से",
-      "partOfSpeech": "noun",
-      "etymology": "सं. manasā → गुज. मने",
-      "notes": ""
-    },
-    {
-      "token": "વચને",
-      "translit": "vacane",
-      "gloss": "वचन से",
-      "partOfSpeech": "noun",
-      "etymology": "सं. vacanena",
-      "notes": ""
-    },
-    {
-      "token": "મિચ્છા",
-      "translit": "micchā",
-      "gloss": "मिथ्या (निष्फल) हो",
-      "partOfSpeech": "adj",
-      "etymology": "सं. mithyā → प्रा. micchā",
-      "notes": "प्रस्तावना-शब्द; पुनः परिभाषा नहीं"
-    },
-    {
-      "token": "મિ",
-      "translit": "mi",
-      "gloss": "मेरा",
-      "partOfSpeech": "pronoun",
-      "etymology": "सं. me → प्रा. mi",
-      "notes": ""
-    },
-    {
-      "token": "દુક્કડં",
-      "translit": "dukkaḍaṁ",
-      "gloss": "दुष्कृत (बुरा किया हुआ)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. duṣkṛta → प्रा. dukkaḍa",
-      "notes": "'मिच्छा मि दुक्कडं' = मेरा दुष्कृत मिथ्या हो"
-    },
-    {
-      "token": "પડિસિદ્ધાણં",
-      "translit": "paḍisiddhāṇaṁ",
-      "gloss": "प्रतिषिद्ध (निषिद्ध) कार्यों के",
-      "partOfSpeech": "noun",
-      "etymology": "सं. pratiṣiddha → प्रा. paḍisiddha; षष्ठी बहुवचन",
-      "notes": "गाथा प्रतिक्रमण के चार निमित्त गिनाती है"
-    },
-    {
-      "token": "કરણે",
-      "translit": "karaṇe",
-      "gloss": "करने में",
-      "partOfSpeech": "noun",
-      "etymology": "सं. karaṇe (सप्तमी), √kṛ",
-      "notes": ""
-    },
-    {
-      "token": "કિચ્ચાણમકરણે",
-      "translit": "kiccāṇam-akaraṇe",
-      "gloss": "कृत्यों (करणीय कर्तव्यों) के न करने में",
-      "partOfSpeech": "compound",
-      "etymology": "सं. kṛtya → प्रा. kicca + akaraṇe (सं. akaraṇa)",
-      "notes": "सन्धि-जुड़ा: kiccāṇaṁ + akaraṇe"
-    },
-    {
-      "token": "પડિક્કમણં",
-      "translit": "paḍikkamaṇaṁ",
-      "gloss": "प्रतिक्रमण (किया जाना चाहिए)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. pratikramaṇa → प्रा. paḍikkamaṇa",
-      "notes": "वाक्य का विधेय — 'इनके लिए प्रतिक्रमण है'"
-    },
-    {
-      "token": "અસદ્દહણે",
-      "translit": "asaddahaṇe",
-      "gloss": "अश्रद्धान (तत्त्व में अविश्वास) में",
-      "partOfSpeech": "noun",
-      "etymology": "सं. aśraddhāna → प्रा. asaddahaṇa",
-      "notes": "तीसरा निमित्त — सम्यक्त्व-शिथिलता"
-    },
-    {
-      "token": "ય",
-      "translit": "ya",
-      "gloss": "और",
-      "partOfSpeech": "particle",
-      "etymology": "सं. ca → प्रा. ya",
-      "notes": ""
-    },
-    {
-      "token": "તહા",
-      "translit": "tahā",
-      "gloss": "तथा, वैसे ही",
-      "partOfSpeech": "adverb",
-      "etymology": "सं. tathā → प्रा. tahā",
-      "notes": ""
-    },
-    {
-      "token": "વિવરીય",
-      "translit": "vivarīya",
-      "gloss": "विपरीत, उल्टी",
-      "partOfSpeech": "adj",
-      "etymology": "सं. viparīta → प्रा. vivarīya",
-      "notes": ""
-    },
-    {
-      "token": "પરૂવણા",
-      "translit": "parūvaṇā",
-      "gloss": "प्ररूपणा (उपदेश/प्रतिपादन)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. prarūpaṇā, pra + √rūp",
-      "notes": "चौथा निमित्त — विपरीत/मिथ्या उपदेश देना"
-    },
-    {
-      "token": "એ",
-      "translit": "e",
-      "gloss": "ये (पूर्वोक्त चारों)",
-      "partOfSpeech": "pronoun",
-      "etymology": "प्रा. e (सं. ete)",
-      "notes": "गाथा-पाद में संयोजक"
-    },
-    {
-      "token": "દેસાવગાસિઅં",
-      "translit": "desāvagāsiaṁ",
-      "gloss": "देशावगाशिक (दिशा-परिमाण को दिन-भर और संकुचित करने वाला दसवाँ व्रत)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. deśāvakāśika → प्रा. desāvagāsia",
-      "notes": "प्रस्तावना में परिभाषित; यहाँ इसका प्रत्याख्यान-पाठ आरम्भ"
-    },
-    {
-      "token": "ઉવભોગં",
-      "translit": "uvabhogaṁ",
-      "gloss": "उपभोग (एक बार भोगी जाने वाली वस्तु — अन्न, जल)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. upabhoga → प्रा. uvabhoga",
-      "notes": ""
-    },
-    {
-      "token": "પરિભોગં",
-      "translit": "paribhogaṁ",
-      "gloss": "परिभोग (बार-बार भोगी जाने वाली वस्तु — वस्त्र, आभूषण)",
-      "partOfSpeech": "noun",
-      "etymology": "सं. paribhoga → प्रा. paribhoga",
-      "notes": ""
-    },
-    {
-      "token": "પચ્ચક્ખામિ",
-      "translit": "paccakkhāmi",
-      "gloss": "मैं प्रत्याख्यान करता हूँ (त्याग की प्रतिज्ञा लेता हूँ)",
+      "token": "પાલ્યું",
+      "translit": "pālyuṁ",
+      "gloss": "पाला; निभाया",
       "partOfSpeech": "verb",
-      "etymology": "सं. pratyākhyāmi, prati + ā + √khyā",
-      "notes": "प्रत्याख्यान — छठा आवश्यक"
+      "etymology": "सं. pālita",
+      "notes": ""
     },
     {
-      "token": "અન્નત્થણાભોગેણં",
-      "translit": "annattha-ṇābhogeṇaṁ",
-      "gloss": "अन्यत्र (अपवाद) — अनाभोग (अनजाने/विस्मृति) से",
-      "partOfSpeech": "compound",
-      "etymology": "सं. anyatra + anābhoga → प्रा. annattha + ṇābhoga; सन्धि-जुड़ा",
-      "notes": "आगार (अपवाद) का आरम्भ; annattha = 'इन अपवादों को छोड़कर'"
+      "token": "નિયમ",
+      "translit": "niyama",
+      "gloss": "नियम; ग्रहण किया हुआ संयम-व्रत",
+      "partOfSpeech": "noun",
+      "etymology": "सं. niyama",
+      "notes": ""
     },
     {
-      "token": "સહસ્સાગારેણં",
-      "translit": "sahasāgāreṇaṁ",
-      "gloss": "सहसा-आगार से (अचानक/असावधान घटित हो जाने पर)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. sahasā + ākāra/āgāra → प्रा. sahasāgāra",
-      "notes": "द्वितीय आगार — आकस्मिक भूल"
+      "token": "અભિગ્રહ",
+      "translit": "abhigraha",
+      "gloss": "अभिग्रह; द्रव्य-क्षेत्र-काल-भाव-सापेक्ष विशेष संकल्प",
+      "partOfSpeech": "noun",
+      "etymology": "सं. abhi + graha",
+      "notes": ""
     },
     {
-      "token": "મહત્તરાગારેણં",
-      "translit": "mahattarāgāreṇaṁ",
-      "gloss": "महत्तर-आगार से (किसी बड़े/अधिक महत्त्वपूर्ण धर्म-कारण से)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. mahattara + āgāra",
-      "notes": "तृतीय आगार — गुरुतर प्रयोजन-वश छूट"
-    },
-    {
-      "token": "સવ્વસમાહિવત્તિયાગારેણં",
-      "translit": "savva-samāhi-vattiyāgāreṇaṁ",
-      "gloss": "सर्व-समाधि-प्रत्यय-आगार से (पूर्ण समाधि/चित्त-स्वस्थता बनाए रखने हेतु छूट)",
-      "partOfSpeech": "compound",
-      "etymology": "सं. sarva + samādhi + pratyaya + āgāra → प्रा. savva-samāhi-vattiya-āgāra",
-      "notes": "चतुर्थ आगार — गम्भीर पीड़ा में समाधि-रक्षार्थ अपवाद"
-    },
-    {
-      "token": "વોસિરામિ",
-      "translit": "vosirāmi",
-      "gloss": "मैं त्यागता हूँ, परित्याग करता हूँ",
+      "token": "લેઇ",
+      "translit": "lei",
+      "gloss": "लेकर",
       "partOfSpeech": "verb",
-      "etymology": "सं. vyutsṛjāmi → प्रा. vosirāmi, vi + ut + √sṛj",
-      "notes": "प्रत्याख्यान का अन्तिम त्याग-पद"
+      "etymology": "गु. लेई < सं. labh/lā",
+      "notes": ""
+    },
+    {
+      "token": "ભાંગ્યા",
+      "translit": "bhāṅgyā",
+      "gloss": "भंग किये (बहुवचन)",
+      "partOfSpeech": "verb",
+      "etymology": "सं. bhagna",
+      "notes": "नियम व अभिग्रह दोनों का भंग।"
+    },
+    {
+      "token": "છ",
+      "translit": "cha",
+      "gloss": "छह",
+      "partOfSpeech": "numeral",
+      "etymology": "सं. ṣaṭ",
+      "notes": ""
+    },
+    {
+      "token": "ભેદ",
+      "translit": "bheda",
+      "gloss": "भेद; प्रकार",
+      "partOfSpeech": "noun",
+      "etymology": "सं. bheda",
+      "notes": ""
+    },
+    {
+      "token": "અભ્યંતર",
+      "translit": "abhyantara",
+      "gloss": "अभ्यन्तर; आन्तरिक (तप)",
+      "partOfSpeech": "adjective",
+      "etymology": "सं. abhyantara",
+      "notes": "प्रायश्चित्त, विनय, वैयावृत्त्य, स्वाध्याय, ध्यान, कायोत्सर्ग।"
+    },
+    {
+      "token": "બાહ્ય",
+      "translit": "bāhya",
+      "gloss": "बाह्य; बाहरी (तप)",
+      "partOfSpeech": "adjective",
+      "etymology": "सं. bāhya",
+      "notes": "अनशन, ऊनोदरी, वृत्तिसंक्षेप, रसत्याग, कायक्लेश, संलीनता।"
+    },
+    {
+      "token": "તપ",
+      "translit": "tapa",
+      "gloss": "तप; तपश्चर्या",
+      "partOfSpeech": "noun",
+      "etymology": "सं. tapas",
+      "notes": ""
+    },
+    {
+      "token": "અવસરે",
+      "translit": "avasare",
+      "gloss": "अवसर पर; समय आने पर",
+      "partOfSpeech": "noun",
+      "etymology": "सं. avasara (सप्तमी)",
+      "notes": ""
+    },
+    {
+      "token": "સાચવ્યું",
+      "translit": "sācavyuṁ",
+      "gloss": "सँभाला; पालन/रक्षा की",
+      "partOfSpeech": "verb",
+      "etymology": "गु. साचववुं (सँभालना)",
+      "notes": ""
+    },
+    {
+      "token": "તપાચાર",
+      "translit": "tapācāra",
+      "gloss": "तपाचार (विषय)",
+      "partOfSpeech": "noun",
+      "etymology": "सं. tapas + ācāra",
+      "notes": ""
     }
   ],
-  "literalTranslation": "(४) वीर्याचार में — शक्ति होते हुए भी छह आवश्यक भली-भाँति न सँभाले हों; अवसर होते हुए पौषध-सामायिक न किया हो; वांदणा बैठकर दिए हों; कायोत्सर्ग अधिकाधिक न बढ़ाया हो; सामर्थ्य रहते तप न किया हो; द्वेष करते किसी को न रोका हो; नया पढ़ते, पूर्व-पाठ फेरते, अर्थ-विचार पूछते-कहते आलस्य किया हो; साधन रहते दान न दिया हो; देव-यात्रा गुरु-यात्रा न की हो; साधर्मिक की भक्ति न सँभाली हो; धर्मीजन का संकट दूर न किया हो — और भी जो इस वीर्याचार में (दोष हुआ हो)॥४॥ इसके अतिरिक्त जो कुछ जिन-वचन के विरुद्ध मन-वचन-काया से, करण-करावण-अनुमोदन द्वारा आचरण किया हो, वह सब मैं मन-वचन-काया से — मेरा दुष्कृत मिथ्या हो॥ निषिद्ध के करने में, कर्तव्यों के न करने में, अश्रद्धान में तथा विपरीत प्ररूपणा में — (इनके लिए) प्रतिक्रमण (किया जाता है)॥१॥ देशावगाशिक (व्रत में) उपभोग-परिभोग का मैं प्रत्याख्यान करता हूँ; अनाभोग, सहसा, महत्तर और सर्व-समाधि-प्रत्यय आगारों को छोड़कर — (शेष का) त्याग करता हूँ॥",
-  "idiomaticTranslation": "हे आत्मन्! बल और अवसर पाकर भी जहाँ-जहाँ तू धर्म-पुरुषार्थ में चूका — छह आवश्यक अधूरे सँभाले, पौषध-सामायिक टाल दिए, वांदणा बैठे-बैठे निपटा दिए, कायोत्सर्ग और तप बढ़ा सकता था पर न बढ़ाया; किसी को द्वेष करते देख रोका नहीं; स्वाध्याय में — नया पढ़ने, पुराना दोहराने, अर्थ पूछने-समझाने में — आलस किया; सामर्थ्य रहते दान न दिया, तीर्थ-गुरु की यात्रा छोड़ दी, साधर्मिक की सेवा और धर्मी की विपत्ति-निवारण से मुँह मोड़ा — इन सब, और वीर्याचार की शेष सभी भूलों के लिए, तथा जो कुछ भी जिन-आज्ञा के विरुद्ध मन-वचन-काया एवं करण-करावण-अनुमोदन से किया हो — मेरा वह सारा दुष्कृत मिथ्या हो। निषिद्ध करने, कर्तव्य चूकने, श्रद्धा डगमगाने और उलटा उपदेश देने — इन्हीं चार के लिए प्रतिक्रमण है। और अब, देशावगाशिक व्रत में, अनाभोग-सहसा-महत्तर-समाधि के चार अपवादों को छोड़कर, मैं उपभोग-परिभोग का परित्याग करता हूँ।",
+  "literalTranslation": "(२) तथा दर्शनाचार में — सम्यक्त्व की विराधना की हो; देव-गुरु को नमस्कार किये बिना भोजन कर लिया हो; देव-पूजन करते समय धोती शुद्ध न की हो; मुखकोश न बाँधा हो; अशुद्ध/उतावली में देव को पूजा हो; गुरु के आसन, बैठक व उपकरण को पैर लगाया हो; द्वेषवश गुरु-वचन को ठुकराया हो; हाथ से बिंब छूट गया हो; बिंब की सार-सँभाल न की हो; देवद्रव्य अपने व्यापार में लगा दिया हो; देवद्रव्य को नष्ट होते देख उपेक्षा की हो — और जो भी अन्य इस दर्शनाचार के विषय में (हुआ हो)॥२॥ (३) तपाचार में — शक्ति होते हुए भी पच्चक्खाण न किया हो, करके तोड़ा हो, पच्चक्खाण न निभाया हो, नियम व अभिग्रह लेकर भंग किये हों, छह अभ्यन्तर व छह बाह्य — (बारह प्रकार के) तप को अवसर पर न सँभाला हो — और जो भी अन्य इस तपाचार के विषय में (हुआ हो)॥३॥",
+  "idiomaticTranslation": "अब दर्शनाचार की आलोचना: मैंने जो अपनी श्रद्धा को मलिन किया हो — देव-गुरु को प्रणाम किये बिना भोजन कर लिया हो, अशुद्ध धोती से या मुखकोश बाँधे बिना, अथवा अधूरी शुद्धि और जल्दबाज़ी में जिनदेव को पूजा हो; गुरु के आसन, बैठक या उपकरण को पैर लगाकर अविनय किया हो, द्वेष-भाव से गुरु की आज्ञा को ठुकराया हो; हाथ से प्रतिमा गिरने दी हो, उसकी सार-सँभाल न की हो, देवद्रव्य को अपने व्यापार में खपा दिया हो या उसे बरबाद होते देख अनदेखा किया हो — और इनके सिवा भी दर्शनाचार में जो कुछ दोष लगा हो। अब तपाचार: सामर्थ्य रहते भी मैंने पच्चक्खाण न किया हो, करके तोड़ा हो, पूरा न निभाया हो, लिये हुए नियम-अभिग्रह भंग किये हों, और छह बाह्य तथा छह अभ्यन्तर — बारहों प्रकार के तप को अवसर आने पर न सँभाला हो — इन सब दोषों का मैं हृदय से पश्चात्ताप करता हूँ।",
   "elaboration": {
-    "verseByVerseCommentary": "यह अंश पंचाचार-आलोचना के चौथे चरण — वीर्याचार — को समेटकर पूरे बृहद् अतिचार-पाठ को उपसंहार की ओर मोड़ता है। पिछली गाथाओं ने ज्ञान-, दर्शन-, चारित्र- (बारह व्रत) और तप-आचार के दोष गिनाए; यहाँ 'वीर्य' (आत्म-सामर्थ्य) का प्रश्न उठता है। ध्यान देने योग्य बात यह कि वीर्याचार के सभी उदाहरण 'छती शक्ते', 'छती वेळाए', 'छती सामग्रीए' — अर्थात् *सामर्थ्य/अवसर/साधन के होते हुए भी न करना* — पर केन्द्रित हैं। दोष यहाँ कुकर्म नहीं, बल्कि **शक्ति-गोपन** है: जो धर्म-पुरुषार्थ सम्भव था उसे न करना। इसीलिए उदाहरण रचनात्मक कर्तव्यों के हैं — आवश्यक, पौषध, सामायिक, कायोत्सर्ग, तप, स्वाध्याय, दान, तीर्थ-गुरु-यात्रा, साधर्मिक-भक्ति, धर्मी की आपदा-निवारण। 'बेठां वांदणां' और 'अधिका अधिको न वधार्यो' विशेष सूक्ष्म हैं — विधि तो निभी, पर पूरी ऊर्जा से नहीं। इसके पश्चात् 'अनेरुं जे कांइ जिनवचन विरुद्ध…' पूरे पंचाचार-खण्ड का साझा समापन है, जो मन-वचन-काया × करण-करावण-अनुमोदन के नौ कोटियों में शेष सब दोषों को 'मिच्छा मि दुक्कडं' में समेट देता है। फिर 'पडिसिद्धाणं करणे…' गाथा एक सूत्र-वाक्य में प्रतिक्रमण के **चार निमित्त** घोषित करती है: निषिद्ध करना, कर्तव्य छोड़ना, अश्रद्धा, और विपरीत प्ररूपणा — यही पूरी आलोचना का सैद्धान्तिक सार है। अन्त में 'देसावगासिअं… पच्चक्खामि… वोसिरामि' आलोचना से आगे बढ़कर **प्रत्याख्यान** (छठे आवश्यक) में प्रवेश कराता है — दोष-शुद्धि के बाद नया संयम-संकल्प, चार आगारों की मर्यादा सहित।",
-    "doctrinalContext": "वीर्याचार जैन कर्म-सिद्धान्त की 'वीर्यान्तराय' अवधारणा से जुड़ा है — आत्मा की अनन्त वीर्य-शक्ति पर पड़ा आवरण। श्रावक के लिए वीर्याचार का अर्थ है: उपलब्ध सामर्थ्य को धर्म में *अगोपित* रूप से लगाना (शक्ति न छिपाना, न उल्लंघन करना)। इसीलिए यहाँ का प्रत्येक दोष 'अकरण' (न करना) है, 'करण' नहीं — यह अन्य आचारों से इसे अलग करता है। 'पडिसिद्धाणं करणे, किच्चाणमकरणे' पाद ठीक इसी द्वैत — *करणीय का अकरण* और *अकरणीय का करण* — को प्रतिक्रमण का आधार बताकर पूरे पाठ को न्यायशास्त्रीय ढाँचा देता है; इसमें 'असद्दहणे' (सम्यक्त्व-दोष) और 'विवरीय परूवणा' (वाणी-दोष) जोड़कर श्रद्धा व उपदेश को भी समेट लिया गया है। देशावगाशिक-प्रत्याख्यान के चार आगार दर्शाते हैं कि जैन व्रत-विधान यथार्थवादी है — प्रतिज्ञा में अनाभोग व सहसा (अनिच्छाकृत भूल), महत्तर (गुरुतर धर्म-प्रयोजन) और समाधि-रक्षा की छूट रखकर व्रत को टूटने से बचाता है, जिससे साधक भयमुक्त होकर संकल्प ले सके।",
-    "practicalRelevance": "आज का पाठक इस अंश को आत्म-निरीक्षण की कसौटी बना सकता है: 'मैंने जो *नहीं* किया, जबकि कर सकता था' — यही वीर्याचार की जाँच है। समय, शक्ति या साधन होते हुए स्वाध्याय, सेवा, दान या साधर्मिक-सहायता टालना भी दोष है, केवल हिंसा-झूठ ही नहीं। समापन-गाथा याद दिलाती है कि पश्चात्ताप केवल 'गलत करने' का नहीं, 'अच्छा न करने' का भी होना चाहिए। और देशावगाशिक-पाठ सिखाता है कि शुद्धि अधूरी है यदि उसके बाद नया, सीमित, सावधान संकल्प न लिया जाए — आगारों सहित, ताकि संकल्प व्यावहारिक रहे।",
+    "verseByVerseCommentary": "पिछली गाथा ज्ञानाचार पर थी; यह गाथा पञ्चाचार के दूसरे व (पुस्तक-क्रमानुसार) तीसरे अंग — दर्शनाचार और तपाचार — के दोष गिनाती है। मार्मिक बात यह कि चारित्राचार के दोष तो ऊपर बारह व्रतों की पूरी आलोचना में आ ही चुके, अतः यह पञ्चाचार-उपसंहार केवल ज्ञान, दर्शन, तप और (अगली गाथा में) वीर्य — इन चार आचारों को छूता है। दर्शनाचार-खण्ड व्यवहार-प्रधान है: यहाँ शंका-कांक्षा जैसे सूक्ष्म श्रद्धा-दोष नहीं, बल्कि देव-गुरु-भक्ति की स्थूल चूकें हैं — देव-गुरु को नमस्कार किये बिना भोजन, अशुद्ध धोती या मुखकोश के बिना पूजा, अधूरी शुद्धि में जिन-पूजन, गुरु के आसन-उपकरण को पैर लगाना, द्वेषवश गुरु-आज्ञा को ठुकराना। फिर तीन देवद्रव्य/बिंब-दोष विशेष भार वहन करते हैं: हाथ से बिंब का छूटना, बिंब की सार-सँभाल न करना, और देवद्रव्य को निजी व्यापार में लगाना या उसे नष्ट होते देख उपेक्षा करना — देवद्रव्य का दुरुपयोग परम्परा में अत्यन्त गुरु दोष माना गया है, यही खण्ड का मर्म है। तपाचार-खण्ड संक्षिप्त पर सघन है: शक्ति होते हुए भी पच्चक्खाण न करना, करके तोड़ना, न निभाना, लिये नियम-अभिग्रह भंग करना, और छह बाह्य व छह अभ्यन्तर — कुल बारह तपों को अवसर पर न सँभालना। 'छती शक्ते' (सामर्थ्य रहते) कुंजी-पद है — तप का दोष असमर्थता में नहीं, प्रमाद में है। दोनों खण्ड 'अनेरुं... विषे' से समाप्त होते हैं, जो गिनाये दोषों के अतिरिक्त शेष सब भूलें भी समेट लेता है।",
+    "doctrinalContext": "पञ्चाचार रत्नत्रय (सम्यग्दर्शन-ज्ञान-चारित्र) का क्रियात्मक विस्तार है, जिसमें तप और वीर्य जोड़कर पाँच आचार बनते हैं। दर्शनाचार के शास्त्रीय आठ अंग (निःशंकित, निःकांक्षित, निर्विचिकित्सा आदि) हैं, किन्तु यहाँ श्रद्धा को मूर्तिपूजक भक्ति-व्यवहार में उतारा गया है — देव-गुरु-धर्म के प्रति बहुमान ही दर्शन-शुद्धि का बाह्य प्रमाण है; इसीलिए पूजा की द्रव्य-शुद्धि (धोती, मुखकोश) और देवद्रव्य की रक्षा सीधे सम्यक्त्व-आचार में गिनी गई। तपाचार बारह तपों के पालन का नाम है — छह बाह्य (अनशन, ऊनोदरी, वृत्तिसंक्षेप, रसत्याग, कायक्लेश, संलीनता) और छह अभ्यन्तर (प्रायश्चित्त, विनय, वैयावृत्त्य, स्वाध्याय, ध्यान, कायोत्सर्ग)। जैन सिद्धान्त में तप संवर के साथ निर्जरा का प्रधान साधन है — पूर्वबद्ध कर्मों को क्षय करने वाला।",
+    "practicalRelevance": "आज का साधक इससे आत्म-निरीक्षण सीखे: क्या मैं नवकारशी/पच्चक्खाण लेने में समर्थ होते हुए भी प्रमाद करता हूँ? पूजा से पूर्व वस्त्र-शुद्धि और मुखकोश का ध्यान रखता हूँ? मन्दिर/संस्था के देवद्रव्य का उपयोग या उपेक्षा तो नहीं की? लिये हुए नियम-अभिग्रह निभा रहा हूँ या नहीं? इन प्रश्नों के साथ पढ़ने पर यह गाथा केवल पाठ न रहकर दैनिक आचरण की जाँच-सूची बन जाती है।",
     "crossReferences": [
       {
-        "text": "षट् आवश्यक — चौथा 'प्रतिक्रमण' एवं छठा 'प्रत्याख्यान'; पंचाचार का चौथा 'वीर्याचार'",
-        "source": "आवश्यक-सूत्र / आवश्यक-नियुक्ति परम्परा"
+        "text": "तत्त्वार्थसूत्र ९.१९–२० — बाह्य व आभ्यन्तर तप के बारह भेद",
+        "source": "उमास्वाति, तत्त्वार्थाधिगम सूत्र"
       },
       {
-        "text": "'पडिसिद्धाणं करणे, किच्चाणमकरणे…' — प्रतिक्रमण के चार निमित्त की प्रसिद्ध गाथा",
-        "source": "आवश्यक-नियुक्ति / प्रतिक्रमण-सूत्र"
+        "text": "उत्तराध्ययनसूत्र, अध्ययन ३० (तपोमार्ग गति)",
+        "source": "श्वेताम्बर मूलसूत्र"
       },
       {
-        "text": "देशावगाशिक — श्रावक का दसवाँ (शिक्षा/गुण) व्रत; उपभोग-परिभोग का दैनिक संकोच",
-        "source": "उपासकदशा / तत्त्वार्थसूत्र अ.७ (व्रत-प्रकरण)"
-      },
-      {
-        "text": "वीर्यान्तराय कर्म व आत्म-वीर्य की अवधारणा",
-        "source": "तत्त्वार्थसूत्र, कर्म-ग्रन्थ परम्परा"
+        "text": "दर्शनाचार के आठ अंग (निःशंकितादि) — सम्यग्दर्शन की भावनाएँ",
+        "source": "रत्नत्रय / सम्यग्दर्शन परम्परा"
       }
     ]
   },
   "sources": [
     {
-      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha ed.)",
+      "title": "Tapas (austerity) and Kayotsarga in Jain meditation",
+      "url": "https://en.wikipedia.org/wiki/Jain_meditation",
+      "type": "scholarship",
+      "consultedFor": "तपाचार — छह अभ्यन्तर तपों (ध्यान, कायोत्सर्ग आदि) तथा तप के आत्म-शुद्धि-कार्य की पुष्टि"
+    },
+    {
+      "title": "Ratnatraya (Three Jewels) — Samyak Darshana",
+      "url": "https://en.wikipedia.org/wiki/Ratnatraya",
+      "type": "scholarship",
+      "consultedFor": "दर्शनाचार का आधार सम्यग्दर्शन व पञ्चाचार-रत्नत्रय सम्बन्ध की पुष्टि"
+    },
+    {
+      "title": "Panch Pratikraman Sutra – Vidhi Sahit (Anchalgachchha / Vidhipaksha)",
       "url": "https://www.jainelibrary.org",
       "type": "translation",
-      "consultedFor": "मूल पाठ, वीर्याचार-अतिचार-क्रम, देशावगाशिक प्रत्याख्यान-पाठ का आधार-ग्रन्थ"
-    },
-    {
-      "title": "Pratikramana (Jainism)",
-      "url": "https://en.wikipedia.org/wiki/Pratikramana",
-      "type": "scholarship",
-      "consultedFor": "प्रतिक्रमण के चार निमित्त एवं षट्-आवश्यक ढाँचे की पुष्टि"
-    },
-    {
-      "title": "Cologne Digital Sanskrit Lexicon (Monier-Williams)",
-      "url": "https://www.sanskrit-lexicon.uni-koeln.de/",
-      "type": "dictionary",
-      "consultedFor": "vīrya, prarūpaṇā, vyutsṛj (vosirāmi), upabhoga/paribhoga आदि मूल-शब्दों की व्युत्पत्ति"
-    },
-    {
-      "title": "Anuvrata — the twelve vows of the Jain layperson",
-      "url": "https://en.wikipedia.org/wiki/Anuvrata",
-      "type": "scholarship",
-      "consultedFor": "देशावगाशिक को शिक्षाव्रत/दसवें व्रत के रूप में स्थान देने की पुष्टि"
+      "consultedFor": "मूल गुजराती पाठ, पञ्चाचार-आलोचना का क्रम व शब्द-पाठ"
     }
   ],
   "translatorConfidence": 0.82,
-  "notes": "(१) पाठ पुरानी (अर्ध-)गुजराती गद्य + दो प्राकृत गाथाओं का मिश्रण है; ग्रन्थानुसार वर्तनी ('અતિયાર', 'કાઉસ્સગ્ગ') यथावत् रखी गई। (२) 'સહામ્મીતણી' = सादर्मिक (सहधर्मी) का सम्बन्ध-रूप — क्षेत्रीय वाचन-भेद सम्भव। (३) 'अधिका अधिको' द्विरुक्ति बल हेतु ('अधिकाधिक') पढ़ी गई है। (४) 'सવ્વसमाहिवत्तियागारेणं' का अर्थ-विवरण आगम-परम्परा (समाधि-रक्षार्थ आगार) के अनुसार दिया गया; कुछ लोकप्रिय अनुवाद इसे भिन्न शब्दों में रखते हैं। (५) प्रस्तावना में दिए गए शब्द (पौषध, सामायिक, मिच्छा मि दुक्कडं, देशावगाशिक आदि) पुनः परिभाषित नहीं किए गए। (६) मूल अतिचार-गद्य का रचयिता ग्रन्थ में अनिर्दिष्ट — परम्परागत।"
+  "notes": "(1) 'आधडविचे' का अर्थ निश्चित नहीं — सम्भवतः 'अधबीच/अधूरी शुद्धि या जल्दबाज़ी में'; क्षेत्र/गच्छ-भेद से पाठान्तर सम्भव। (2) 'वेचावच्च' को प्रा. वेयावच्च (< सं. वैयावृत्त्य = सेवा/सार-सँभाल) रूप में लिया गया है। (3) पुस्तक-क्रम में यह खण्ड दर्शनाचार को '२' व तपाचार को '३' अंकित करता है, यद्यपि मानक पञ्चाचार-क्रम में तप चौथा है; बीच का चारित्राचार बारह व्रतों की पूर्ण आलोचना में पहले ही समाविष्ट हो चुका — यही क्रम-भिन्नता का कारण प्रतीत होता है, पाठ-दोष नहीं। (4) सहायक क्रिया 'होय' तथा निषेध 'न' पूरे पाठ में पुनरावृत्त हैं; ऊपर एक-एक बार सगुण व्याख्या दी गई है। (5) मूल में 'मिच्छा मि दुक्कडं' इस गाथा में अलग से नहीं, अपितु अगली (४थी, वीर्याचार) गाथा के अन्त में साझे रूप में आता है।"
 }
