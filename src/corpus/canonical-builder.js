@@ -83,41 +83,41 @@ const MONOTONIC_VOW_SPLIT = new Set([
 // (2) The concluding tail verse runs saṁlekhanā + the 85-atichāra confession
 //     together with the five-ācāra confession (jñāna/darśana/cāritra/tapa/vīrya)
 //     + the final pratyākhyāna — distinct sections, and as one ~2255-char verse
-//     its dense word-by-word output is too large to translate reliably. Needle
-//     "રહે આશાતના" (from the jñānācāra opening line; simple glyphs that byte-match
-//     the page, unlike the જ્ઞ conjunct; verified unique to this verse) splits it
-//     into the saṁlekhanā/85-atichāra wrap-up and the ācāra confession + formula.
+//     its dense word-by-word output is too large to translate reliably (the
+//     Gujarati call hangs on the oversized output). Two needles cut it into three
+//     tractable verses at their section openings: "રહે આશાતના" (jñānācāra opening
+//     line → ends the saṁlekhanā/85-atichāra wrap-up) and "વીર્યાચારે" (vīryācāra
+//     opening → ends the jñāna/darśana/tapa block, leaving vīrya + the final
+//     pratyākhyāna). Both are simple glyphs that byte-match the page (unlike the
+//     જ્ઞ conjunct) and are verified unique to this sutra.
 const SECONDARY_SPLITS = {
-    "bruhad-atiyar": ["આઠમું અનર્થ દંડ", "રહે આશાતના"],
+    "bruhad-atiyar": ["આઠમું અનર્થ દંડ", "રહે આશાતના", "વીર્યાચારે"],
 };
 
-// Split a monotonic verse into two at the first line that begins a configured
-// second section (needle found mid-verse, not at the verse start). The first part
-// carries printedNumber=null (a sub-section with no own top-level number); the
-// second keeps the verse's original ॥N॥ number.
+// Split a monotonic verse at each line that begins a configured second section
+// (needle found mid-verse, not at the verse start). Applied recursively so a verse
+// containing several section openings (e.g. the bruhad-atiyar conclusion) is cut
+// into all its parts. The split-off section (before the needle) carries
+// printedNumber=null (a sub-section with no own top-level number); the remainder
+// keeps the verse's original ॥N॥ number (so e.g. vow-8 anarthadaṇḍa stays "8").
 function applySecondarySplits(verses, needles) {
-    const out = [];
-    for (const v of verses) {
+    const splitOne = (v) => {
         const text = v.text || "";
-        let splitAt = -1;
         for (const needle of needles) {
             const idx = text.indexOf(needle);
-            if (idx > 0) {
-                const lineStart = text.lastIndexOf("\n", idx) + 1; // start of the needle's line
-                if (lineStart > 0) { splitAt = lineStart; break; }
-            }
+            if (idx <= 0) continue;
+            const lineStart = text.lastIndexOf("\n", idx) + 1; // start of the needle's line
+            if (lineStart <= 0) continue;                       // needle is on the verse's first line — skip
+            const first = text.slice(0, lineStart).trim();
+            const second = text.slice(lineStart).trim();
+            if (!first || !second) continue;
+            // first chunk = a sub-section (null); the remainder carries this verse's number
+            return [...splitOne({ number: null, text: first }), ...splitOne({ number: v.number, text: second })];
         }
-        if (splitAt > 0) {
-            const first = text.slice(0, splitAt).trim();
-            const second = text.slice(splitAt).trim();
-            if (first && second) {
-                out.push({ number: null, text: first });
-                out.push({ number: v.number, text: second });
-                continue;
-            }
-        }
-        out.push(v);
-    }
+        return [v];
+    };
+    const out = [];
+    for (const v of verses) out.push(...splitOne(v));
     return out;
 }
 
